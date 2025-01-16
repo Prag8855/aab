@@ -410,6 +410,14 @@ config.context_globals = {
         1
     ),
 
+    # Private health insurance lowest cost - NOT TRACKED
+    # https://www.ottonova.de/v/private-krankenversicherung/angestellte
+    # https://www.ottonova.de/v/private-krankenversicherung/studenten
+    # https://www.ottonova.de/v/private-krankenversicherung/selbststaendige
+    "OTTONOVA_SELFEMPLOYED_COST": 552,  # Premium economy
+    "OTTONOVA_STUDENT_COST": 111,  # Study smart
+    "OTTONOVA_EMPLOYEE_COST": 263,  # Premium economy
+
     "PFLEGEVERSICHERUNG_WITH_SURCHARGE": pflegeversicherung_max_rate,
 
     # Pflegeversicherung (%) - § 55 Abs. 1 SGB XI

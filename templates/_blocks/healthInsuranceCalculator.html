@@ -80,6 +80,27 @@
 						azubi: 'apprentice',
 					}[this.result.tarif];
 				},
+				privateCost() {
+					if(!this.flag('private')){
+						return;
+					}
+
+					if(this.result.tarif === 'student' || this.flag('student-30plus')){
+						return {{ OTTONOVA_STUDENT_COST }};
+					}
+					else if(this.result.tarif === 'selfEmployed'){
+						return {{ OTTONOVA_SELFEMPLOYED_COST }};
+					}
+					else if(this.result.tarif === 'employee'){
+						return {{ OTTONOVA_EMPLOYEE_COST }};
+					}
+				},
+				showOtherOptions(){
+					return this.flag('familienversicherung-parents')
+						|| this.flag('familienversicherung-spouse')
+						|| this.flag('alg-i-buergergeld')
+						|| this.flag('ehic');
+				},
 				yourSponsorsHave() {
 					if(this.flag('familienversicherung-parents') && this.flag('familienversicherung-spouse')){
 						return 'your parents or your spouse have';
@@ -90,7 +111,7 @@
 					else if(this.flag('familienversicherung-parents')){
 						return 'your parents have';
 					}
-				},
+				}
 			},
 			methods: {
 				flag(flagName){
@@ -208,6 +229,7 @@
 			</select>
 		</div>
 		<hr>
+		<h3 v-if="privateCost">Public health insurance</h3>
 		<p>
 			You pay the <strong>{{ tarifName }} tarif</strong>.
 			<template v-if="result.tarif === 'student'">
@@ -222,12 +244,6 @@
 				</template>
 				<template v-else>
 					Your health insurance costs a percentage of your income.
-					<template v-if="flag('alg-i-buergergeld')">
-						If you get <glossary>ALG I</glossary> or <glossary>Bürgergeld</glossary>, the <glossary>Agentur für Arbeit</glossary> pays for your insurance.
-					</template>
-					<template v-else>
-						Your employer does not pay half of it.
-					</template>
 				</template>
 			</template>
 			<template v-else-if="result.tarif === 'selfEmployed'">
@@ -247,7 +263,6 @@
 				You don't pay the student tarif because your income is too high.
 			</template>
 		</p>
-		<hr>
 		<details>
 			<summary class="price">
 				Base cost
@@ -291,7 +306,7 @@
 				</output>
 			</summary>
 			<p>
-				Health insurers can charge a little more than the base cost. The surcharge (<em><glossary>Zusatzbeitrag</glossary></em>) is usually around {{ formatPercent(healthInsurance.avgZusatzbeitrag * 100) }} of your income.
+				Health insurers can charge a little more than the base cost. The surcharge (<em><glossary>Zusatzbeitrag</glossary></em>) is around {{ formatPercent(healthInsurance.avgZusatzbeitrag * 100) }} of your income.
 			</p>
 		</details>
 		<details>
@@ -374,82 +389,72 @@
 				</template>
 			</p>
 		</details>
+		<template v-if="privateCost">
+			<hr>
+			<h3>Private health insurance</h3>
+			<p>
+				The cost depends on your health and age. It could be better and cheaper than public health insurance.
+			</p>
+			<details>
+				<summary class="price highlighted">
+					<strong>You pay</strong>
+					<output><small>from&nbsp;</small> <eur :amount="privateCost"></eur><small class="no-mobile">/month</small></output>
+				</summary>
+			</details>
+		</template>
+		<template v-if="showOtherOptions">
+			<hr>
+			<p>In your situation, there are ways to get free health insurance.</p>
+		</template>
 		<div class="buttons">
-			<button class="button primary no-print" @click="stage = 'insuranceOptions'">Show insurance options <i class="icon right" aria-hidden="true"></i></button>
+			<button class="button primary no-print" @click="stage = 'insuranceOptions'">Compare options <i class="icon right" aria-hidden="true"></i></button>
 		</div>
 	</template>
 	<template v-if="stage === 'insuranceOptions'">
-		<h3>Your options</h3>
-		<div class="collapsible-options">
-			<div v-if="flag('alg-i-buergergeld')">
-				{% endraw %}{% include "_css/icons/bank.svg" %}{% raw %}
-				<div>
-					<h3>ALG I or Bürgergeld</h3>
-					<p>
-						If you get <glossary>ALG I</glossary> or <glossary>Bürgergeld</glossary>, you don't pay for health insurance. The <glossary>Agentur für Arbeit</glossary> pays for it.
-					</p>
+		<template v-if="showOtherOptions">
+			<h3>Free options</h3>
+			<div class="collapsible-options">
+				<div v-if="flag('alg-i-buergergeld')">
+					{% endraw %}{% include "_css/icons/bank.svg" %}{% raw %}
+					<div>
+						<h3>ALG I or Bürgergeld</h3>
+						<p>
+							If you get <glossary>ALG I</glossary> or <glossary>Bürgergeld</glossary>, you don't pay for health insurance. The <glossary>Agentur für Arbeit</glossary> pays for it.
+						</p>
+					</div>
+					<output><eur :amount="0"></eur> <small>per month</small></output>
 				</div>
-				<output><eur :amount="0"></eur> <small>per month</small></output>
+				<div v-if="flag('familienversicherung-spouse') || flag('familienversicherung-parents')">
+					{% endraw %}{% include "_css/icons/family.svg" %}{% raw %}
+					<div>
+						<h3><glossary term="Familienversicherung">Family insurance</glossary></h3>
+						<p>
+							If {{ yourSponsorsHave }} <glossary term="gesetzliche Krankenversicherung">public health insurance</glossary>, it covers you for free. Ask their health insurer.
+						</p>
+					</div>
+					<output><eur :amount="0"></eur> <small>per month</small></output>
+				</div>
+				<a v-if="flag('ehic')" title="Learn more about the EHIC" href="/guides/german-health-insurance#insurance-from-other-eu-countries" target="_blank">
+					{% endraw %}{% include "_css/icons/passport.svg" %}{% raw %}
+					<div>
+						<h3>European Health Insurance Card</h3>
+						<p>If you have health insurance from another EU country, you might not need German health insurance.</p>
+					</div>
+				</a>
+				<a v-if="flag('ksk')" title="Learn more about the KSK" href="/guides/ksk-kuenstlersozialkasse" target="_blank">
+					{% endraw %}{% include "_css/icons/liability.svg" %}{% raw %}
+					<div>
+						<h3>Join the Künstlersozialkasse</h3>
+						<p>If you are a freelance artist or publicist, join the KSK. They pay half of your health insurance. It's always worth it.</p>
+					</div>
+				</a>
 			</div>
-			<div v-if="flag('familienversicherung-spouse') || flag('familienversicherung-parents')">
-				{% endraw %}{% include "_css/icons/family.svg" %}{% raw %}
-				<div>
-					<h3><glossary term="Familienversicherung">Family insurance</glossary></h3>
-					<p>
-						If {{ yourSponsorsHave }} <glossary term="gesetzliche Krankenversicherung">public health insurance</glossary>, it covers you for free. Ask their health insurer.
-					</p>
-				</div>
-				<output><eur :amount="0"></eur> <small>per month</small></output>
-			</div>
-			<button @click="stage = 'publicInsuranceOptions'">
-				{% endraw %}{% include "_css/icons/health.svg" %}{% raw %}
-				<div>
-					<h3>Public health insurance</h3>
-					<p>The safest choice for most people. The price is a percentage of your income.</p>
-				</div>
-				<output>
-					<eur :amount="result.options.barmer.total.personalContribution"></eur> <small>per month</small>
-				</output>
-			</button>
-			<button class='private-health-insurance' v-if="flag('private')" @click="stage = 'privateInsuranceOptions'">
-				{% endraw %}{% include "_css/icons/health.svg" %}{% raw %}
-				<div>
-					<h3>Private health insurance</h3>
-					<p>Better and cheaper for some people, like young people with a good income.</p>
-				</div>
-				<output v-if="result.tarif === 'student' || flag('student-30plus')">
-					<small>From</small> <eur :amount="111"></eur> <small>per month</small>
-				</output>
-				<output v-if="result.tarif === 'employee' && !flag('student-30plus')">
-					<small>From</small> <eur :amount="263"></eur> <small>per month</small>
-				</output>
-				<output v-if="result.tarif === 'selfEmployed' && !flag('student-30plus')">
-					<small>From</small> <eur :amount="552"></eur> <small>per month</small>
-				</output>
-			</button>
-			<a v-if="flag('ehic')" title="Learn more about the EHIC" href="/guides/german-health-insurance#insurance-from-other-eu-countries" target="_blank">
-				{% endraw %}{% include "_css/icons/passport.svg" %}{% raw %}
-				<div>
-					<h3>European Health Insurance Card</h3>
-					<p>If you have health insurance from another EU country, you might not need German health insurance.</p>
-				</div>
-			</a>
-			<a v-if="flag('ksk')" title="Learn more about the KSK" href="/guides/ksk-kuenstlersozialkasse" target="_blank">
-				{% endraw %}{% include "_css/icons/liability.svg" %}{% raw %}
-				<div>
-					<h3>Join the Künstlersozialkasse</h3>
-					<p>If you are a freelance artist or publicist, join the KSK. They pay half of your health insurance. It's always worth it.</p>
-				</div>
-			</a>
-		</div>
-	</template>
-	<template v-if="stage === 'publicInsuranceOptions'">
+			<hr>
+		</template>
 		<h3>Public health insurance</h3>
-		<p>
-			There are over 100 <glossary term="Krankenkasse">public health insurers</glossary>. Their prices and coverage are almost the same.
-		</p>
+		<p>There are over 100 <glossary term="Krankenkasse">public health insurers</glossary>. Their prices and coverage are almost the same.</p>
 		<div class="collapsible-options">
-			<a title="Sign up with Techniker Krankenkasse" :href="result.tarif === 'student' ? '/out/tk-calc-students' : '/out/tk-calc'" target="_blank">
+			<a title="Sign up with Techniker Krankenkasse" href="/out/feather-tk" target="_blank">
 				{% endraw %}{% include "_css/icons/health-insurance/logo-tk.svg" %}{% raw %}
 				<div>
 					<h3>Techniker Krankenkasse</h3>
@@ -473,25 +478,14 @@
 				{% endraw %}{% include "_css/icons/health-insurance/logo-aok.svg" %}{% raw %}
 				<div>
 					<h3>AOK (Nordost)</h3>
-					<p>Another large public health insurer. They have branches for each part of Germany.</p>
+					<p>Another large public health insurer. They have branches in each part of Germany.</p>
 				</div>
 				<output>
 					<eur :amount="result.options.aok.total.personalContribution"></eur> <small>per month</small>
 				</output>
 			</a>
-			<a title="Sign up with DAK" href="/out/dak-calc" target="_blank">
-				{% endraw %}{% include "_css/icons/health-insurance/logo-dak.svg" %}{% raw %}
-				<div>
-					<h3>DAK</h3>
-					<p>Another large public health insurer.</p>
-				</div>
-				<output>
-					<eur :amount="result.options.dak.total.personalContribution"></eur> <small>per month</small>
-				</output>
-			</a>
 		</div>
-	</template>
-	<template v-if="stage === 'privateInsuranceOptions'">
+		<hr>
 		<h3>Private health insurance</h3>
 		<p>
 			<glossary term="private Krankenversicherung">Private health insurance</glossary> can be better and cheaper than public health insurance. It depends on your situation.
@@ -501,45 +495,30 @@
 				{% endraw %}{% include "_css/icons/help.svg" %}{% raw %}
 				<div>
 					<h3>Ask a health insurance broker</h3>
-					<p>They help you choose from hundreds of options. It's the best way to choose health insurance.</p>
+					<p>Don't choose private health insurance yourself; it's a really bad idea. Ask a broker to help you choose.</p>
 				</div>
 			</a>
 			<a title="Get a quote from Feather" href="/out/feather-calc" target="_blank">
 				{% endraw %}{% include "_css/icons/health-insurance/logo-feather.svg" %}{% raw %}
 				<div>
 					<h3>Get a quote from Feather</h3>
-					<p>They sell insurance from a few insurers. I got my health insurance from Feather, so I recommend them.</p>
+					<p>They sell insurance from a few insurers. I got my health insurance from them. It's a great company.</p>
 				</div>
 			</a>
 			<a title="Get a quote from Ottonova" href="/out/ottonova-calc" target="_blank">
 				{% endraw %}{% include "_css/icons/health-insurance/logo-ottonova.svg" %}{% raw %}
 				<div>
 					<h3>Get a quote from Ottonova</h3>
-					<p>They sell their own health insurance. It's expensive for what you get. They speak English.</p>
+					<p>They sell their own health insurance. They speak English.</p>
 				</div>
-				<output v-if="result.tarif === 'student' || flag('student-30plus')">
-					<small>From</small> <eur :amount="111"></eur> <small>per month</small>
-				</output>
-				<output v-if="result.tarif === 'employee' && !flag('student-30plus')">
-					<small>From</small> <eur :amount="263"></eur> <small>per month</small>
-				</output>
-				<output v-if="result.tarif === 'selfEmployed' && !flag('student-30plus')">
-					<small>From</small> <eur :amount="552"></eur> <small>per month</small>
+				<output v-if="privateCost">
+					<small>From</small> <eur :amount="privateCost"></eur> <small>per month</small>
 				</output>
 			</a>
 		</div>
 	</template>
-	<template v-if="['publicInsuranceOptions', 'insuranceOptions'].includes(stage)">
-		<h3>Need help choosing?</h3>
-		<div class="collapsible-options">
-			<a @click.prevent="stage = 'askABroker'" title="Choose a health insurance broker" href="/guides/german-health-insurance#insurance-brokers" target="_blank">
-				{% endraw %}{% include "_css/icons/help.svg" %}{% raw %}
-				<div>
-					<h3>Ask a health insurance broker</h3>
-					<p>It's the best way to choose health insurance, and it's free.</p>
-				</div>
-			</a>
-		</div>
+	<template v-if="stage === 'privateInsuranceOptions'">
+		<h3>Private health insurance</h3>
 	</template>
 	<health-insurance-question
 		v-if="stage === 'askABroker'"
