@@ -80,6 +80,9 @@
 						azubi: 'apprentice',
 					}[this.result.tarif];
 				},
+				ottonovaLink() {
+					return "/out/ottonova";
+				},
 				privateCost() {
 					if(!this.flag('private')){
 						return;
@@ -505,7 +508,7 @@
 					<p>They sell insurance from a few insurers. I got my health insurance from them. It's a great company.</p>
 				</div>
 			</a>
-			<a title="Get a quote from Ottonova" href="/out/ottonova-calc" target="_blank">
+			<a title="Get a quote from Ottonova" :href="ottonovaLink" target="_blank">
 				{% endraw %}{% include "_css/icons/health-insurance/logo-ottonova.svg" %}{% raw %}
 				<div>
 					<h3>Get a quote from Ottonova</h3>
