@@ -21,14 +21,12 @@
 				return {
 					trackAs: 'Health insurance calculator',
 					occupation: userDefaults.occupation,
-					isMarried: userDefaults.isMarried,
 					childrenCount: userDefaults.childrenCount,
 					yearlyIncome: userDefaults.yearlyIncome,
 					inputIncome: 0,
 					age: userDefaults.age,
 					stage: 'start',
 					useMonthlyIncome: userDefaults.useMonthlyIncome,
-					
 					formatPercent,
 					pflegeversicherung,
 					healthInsurance,
@@ -48,7 +46,7 @@
 						age: +this.age,
 						monthlyIncome: +this.monthlyIncome,
 						occupation: this.occupation,
-						isMarried: this.isMarried,
+						isMarried: true,
 						childrenCount: this.childrenCount,
 					});
 				},
@@ -193,21 +191,6 @@
 				<age-input :id="uid('age')" v-model="age"></age-input>
 				years old
 			</label>
-		</div>
-		<div class="form-group">
-			<span class="label">
-				Marriage
-			</span>
-			<div class="input-group">
-				<label class="checkbox">
-					<input type="radio" :name="uid('is-married')" v-model="isMarried" :value="true">
-					Married
-				</label>
-				<label class="checkbox">
-					<input type="radio" :name="uid('is-married')" v-model="isMarried" :value="false">
-					Not married
-				</label>
-			</div>
 		</div>
 		<div class="form-group">
 			<label :for="uid('children-count')">
@@ -562,7 +545,6 @@
 		:age="age"
 		:income="yearlyIncome"
 		:occupation="occupation"
-		:is-married="isMarried"
 		:children-count="childrenCount"
 		>
 		<template v-slot:form-buttons>

@@ -13,7 +13,6 @@ Vue.component('health-insurance-question', {
 		occupation: String,
 		age: Number,
 		income: Number,
-		isMarried: Boolean,
 		childrenCount: Number,
 	},
 	data: function() {
@@ -54,26 +53,16 @@ Vue.component('health-insurance-question', {
 			unemployed: `I am unemployed.`,
 		}[this.occupation];
 
-		this.question += ` I am ${this.age} years old,`;
+		this.question += ` I am ${this.age} years old`;
 
-		if(this.isMarried){
-			if(this.childrenCount == 1){
-				this.question += " I am married and I have one child.";
-			}
-			if(this.childrenCount > 1){
-				this.question += ` I am married and I have ${this.childrenCount} children.`;
-			}
-			else {
-				this.question += " I am married and I don't have children.";
-			}
+		if(this.childrenCount == 1){
+			this.question += " and I have one child.";
 		}
-		else{
-			if(this.childrenCount > 0){
-				this.question += " and I am not married, but I have children.";
-			}
-			else {
-				this.question += " I am not married and I don't have children.";
-			}
+		if(this.childrenCount > 1){
+			this.question += ` and I have ${this.childrenCount} children.`;
+		}
+		else {
+			this.question += " and I don't have children.";
 		}
 
 		this.question +=  '\n\nWhich health insurance should I choose?';
