@@ -1,6 +1,6 @@
 # Standard redirects
 /google-maps                                  "https://maps.app.goo.gl/9JPTZeCRpkcxgqqp6";
-/donate                                       "https://donate.stripe.com/5kA8zC1dB3Xkf4I288";
+/donate                                       "https://buymeacoffee.com/allaboutberlin";
 /suggest-business                             "https://forms.gle/dapLoLNQC8xgDn5M7";
 /suggest-therapist                            "https://forms.gle/PfFQudSndk2A4vja8";
 
@@ -36,7 +36,6 @@
 /out/bunq                                     "https://www.getbunq.app/cmp/81M3WH/GNS64/";
 /out/bunq-business                            "https://www.getbunq.app/FRGB1C/2X5FNN/";
 /out/bunq-supported-passports                 "https://together.bunq.com/d/3355-what-id-documents-are-accepted-for-my-identity-verification";
-/out/buymeacoffee                             "/donate";
 /out/business-anmeldung                       "https://www.berlin.de/ea/emeldung/emeldung/?op=emeldung-grunddaten-anmeldung";
 /out/business-ummeldung                       "https://www.berlin.de/ea/emeldung/emeldung/?op=emeldung-grunddaten-anmeldung";
 /out/c24                                      "https://a.check24.net/misc/click.php?pid=193190&aid=18&deep=c24bank&cat=14";
@@ -177,7 +176,6 @@
 /out/sparkasse-broker                         "https://www.financeads.net/tc.php?t=28713C19118048T";
 /out/spotahome                                "https://spotahome.sjv.io/c/1377567/979662/12133";
 /out/steuergo                                 "https://neso.r.niwepa.com/ts/i5534527/tsc?typ=r&amc=con.blbn.495499.504587.CRT881rNrvi";
-/out/stripe                                   "https://donate.stripe.com/5kA8zC1dB3Xkf4I288";
 /out/tarifcheck                               "https://a.partner-versicherung.de/click.php?partner_id=126814&ad_id=15";
 /out/tarifcheck-berufunfahigkeit              "https://a.partner-versicherung.de/click.php?partner_id=126814&ad_id=15&deep=berufsunfaehigkeitsversicherung";
 /out/tarifcheck-calc                          "/out/tarifcheck-health";
@@ -214,6 +212,7 @@
 /out/basler-mietkaution                       "https://www.financeads.net/tc.php?t=28713C70922012B";
 /out/brille24                                 "https://www.awin1.com/awclick.php?gid=325207&mid=11199&awinaffid=559395&linkid=2062354&clickref=";
 /out/brille24-in-store                        "https://www.awin1.com/awclick.php?gid=325207&mid=11199&awinaffid=559395&linkid=2062357&clickref=";
+/out/buymeacoffee                             "/donate";
 /out/check24                                  "/out/check24-electricity";
 /out/coya-dogs                                "/out/getsafe-dogs";
 /out/coya-haftpflichtversicherung             "/out/feather-haftpflicht";
@@ -242,6 +241,7 @@
 /out/popsure-haftpflicht                      "/out/feather-haftpflicht";
 /out/popsure-students                         "/out/feather-tk";
 /out/signup-tk                                "/out/feather-tk";
+/out/stripe                                   "/donate";
 /out/tk-calc                                  "/out/feather-tk";
 /out/tk-calc-students                         "/out/feather-tk";
 /out/transferwise                             "/out/wise";
