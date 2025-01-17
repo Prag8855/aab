@@ -17,7 +17,7 @@ As a permanent resident, you can...
 
 This guide explains how to apply for permanent residence in Berlin.
 
-**December 2024 update:** The *Ausländerbehörde* just changed the application process. You can now [apply online](https://www.berlin.de/einwanderung/en/services/our-services/artikel.878424.en.php). I will update these instructions as soon as I can. The rules have not changed; only the application process.
+**December 2024 update:** The *Ausländerbehörde* just changed the application process. You can now [apply online](https://www.berlin.de/einwanderung/en/services/our-services/artikel.878424.en.php). I will update these instructions as soon as I can. You might need different documents when you apply.
 
 {% include "_blocks/tableOfContents.html" %}
 
@@ -240,7 +240,7 @@ The requirements and the application process are the same. If you qualify for th
 
 ## How to apply in Berlin
 
-**December 2024 update:** The *Ausländerbehörde* just changed the application process. You can now [apply online](https://www.berlin.de/einwanderung/en/services/our-services/artikel.878424.en.php). I will update these instructions as soon as I can. The rules have not changed; only the application process.
+**December 2024 update:** The *Ausländerbehörde* just changed the application process. You can now [apply online](https://www.berlin.de/einwanderung/en/services/our-services/artikel.878424.en.php). I will update these instructions as soon as I can. You might need different documents when you apply.
 
 In Berlin, **it takes [4 to 9 months](/guides/auslanderbehorde-wait-times)** to get permanent residence.[^5]{{ fail_on('2025-05-15') }}.
 
@@ -295,6 +295,8 @@ Go to your second *[[Ausländerbehörde]]* appointment and pick up your permanen
 ## Required documents
 
 These are the required documents **in Berlin**. If you apply elsewhere, they require different documents. Check the website of the *[[Ausländerbehörde]]* where you apply.
+
+**December 2024 update:** The *Ausländerbehörde* just changed the application process. The required documents have changed. You might need a language test and an integration test.
 
 **[When you apply online](#apply-for-permanent-residence)**, use PDF files or photos. Don't use word documents or other formats. If you have too many documents, [merge them](https://www.adobe.com/acrobat/online/merge-pdf.html) or [make them smaller](https://www.adobe.com/acrobat/online/compress-pdf.html). You can also [mail your documents](/guides/mail-a-letter), but it's not better or faster.
 
