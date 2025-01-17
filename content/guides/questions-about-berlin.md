@@ -48,7 +48,7 @@ You can get help from these communities and services.
         Use this number to ask quick questions. You will talk to Alexander von Engelhardt, a business and immigration lawyer in Berlin. It costs 2€ per minute.
 - **[Red Tape Translation](/out/red-tape-translation-interpreter)**  
     They offer immigration coaching. They can also come with you to the *Ausländerbehorde*. They have a lot of experience with visa applications. They often help me with this website.
-- **[Verfahrenshinweise zum Aufenthalt in Berlin](https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php)** (in German)  
+- **[Verfahrenshinweise zum Aufenthalt in Berlin](/out/vab)** (in German)  
     This internal document tells you exactly how the Berlin Ausländerbehörde works. It has better information about visa and residence permits than the official website.
 - **[Booka Local](/out/booka-local)**  
     Offers professional visa consultation. They can also go to the *Ausländerbehörde* with you.
