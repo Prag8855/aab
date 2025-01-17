@@ -199,7 +199,7 @@ When you work in Germany, you pay {{RENTENVERSICHERUNG_EMPLOYEE_CONTRIBUTION}}% 
 
 Always [tell the *Ausländerbehörde*](#tell-the-auslanderbehorde) when you change or lose your job. In Berlin, they usually give you 6 months to [find another job](/guides/find-a-job-in-berlin).[^5]{{ fail_on('2025-03-01') }}
 
-**If you can't find a job** after 6 months, your residence permit expires, and you must leave Germany. To stay longer, you can get [a different residence permit](/guides/residence-permit#types-of-residence-permits).[^29]
+**If you can't find a job** after 6 months, your residence permit expires, and you must leave Germany. To stay longer, you can get [a different residence permit](/guides/residence-permit#types-of-residence-permits).[^29] You can apply for an [opportunity card](/glossary/Chancenkarte) and get an extra 12 months to find a job.[^37]
 
 **When you find a job**, you might need the *Ausländerbehörde*'s permission to start your new job. It depends on your [residence permit](/glossary/Aufenthaltstitel).
 
@@ -342,6 +342,7 @@ If you need help, get legal help. In Germany, it's normal to hire a lawyer. It's
 [^34]: [vangard.de](https://vangard.de/aktuelles/blog/urlaubsbescheinigung-arbeitgeberwechsel)
 [^35]: [Red Tape Translation](https://redtapetranslation.com/dealing-with-burnout-in-germany/) (July 2023)
 [^36]: [§18g Abs. 4 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18g.html)
+[^37]: Experience of a friend (January 2025), [VAB 18.2.2.2](/out/vab) (January 2025)
 [^38]: [§18g Abs. 4 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18g.html)
 [^40]: [karrierebibel.de](https://karrierebibel.de/schneller-aus-dem-arbeitsvertrag/#:~:text=versuch%20einer%20einvernehmlichen%20einigung)
 [^43]: [Alexander von Engelhardt](https://www.vonengelhardt.com/en/) (July 2023)
