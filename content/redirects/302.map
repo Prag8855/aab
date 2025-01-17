@@ -152,7 +152,7 @@
 /out/omio                                     "https://omio.sjv.io/c/1377567/568135/7385";
 /out/ostrom                                   "https://www.awin1.com/cread.php?s=3108968&v=28121&q=434339&r=559395";
 /out/ottonova                                 "https://www.awin1.com/awclick.php?gid=358848&mid=15971&awinaffid=559395&linkid=2351922&clickref=";
-/out/ottonova-calc                            "/out/ottonova";
+/out/ottonova-students                        "https://www.awin1.com/awclick.php?gid=447480&mid=15971&awinaffid=559395&linkid=3435500&clickref=";
 /out/ottonova-expats                          "https://www.awin1.com/awclick.php?gid=358848&mid=15971&awinaffid=559395&linkid=2354612&clickref=";
 /out/paypal                                   "http://paypal.me/nicolasbouliane";
 /out/private-internet-access                  "https://privateinternetaccess.com/offer/berlin_y0rdmnfal";
@@ -232,6 +232,7 @@
 /out/muffin-health                            "/out/feather";
 /out/muffin-calc                              "/out/feather";
 /out/muffin-rechtsschutz                      "/out/feather";
+/out/ottonova-calc                            "/out/ottonova";
 /out/patreon                                  "/donate";
 /out/penta                                    "/guides/best-bank-germany";
 /out/popsure                                  "/out/feather";
