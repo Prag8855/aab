@@ -242,7 +242,7 @@ The requirements and the application process are the same. If you qualify for th
 
 **December 2024 update:** The *Ausländerbehörde* just changed the application process. You can now [apply online](https://www.berlin.de/einwanderung/en/services/our-services/artikel.878424.en.php). I will update these instructions as soon as I can. The rules have not changed; only the application process.
 
-In Berlin, **it takes [4 to 10 months](/guides/auslanderbehorde-wait-times)** to get permanent residence.[^5]{{ fail_on('2025-01-15') }}.
+In Berlin, **it takes [4 to 9 months](/guides/auslanderbehorde-wait-times)** to get permanent residence.[^5]{{ fail_on('2025-05-15') }}.
 
 If you don't live in Berlin, you must [find your local *Ausländerbehörde*](https://bamf-navi.bamf.de/de/Themen/Behoerden/) and apply there. The application process can be different.
 
@@ -258,7 +258,7 @@ If you are self-employed, some documents must be prepared by a [tax advisor](/gl
 
 ### 2. Apply for permanent residence
 
-[Use the *Ausländerbehörde* contact form](/guides/immigration-office#how-to-contact-the-auslanderbehorde) to send all the [required documents](#required-documents). Send your application to the [correct department](/guides/immigration-office#departments). Choose departments E1 to E6, not B1 to B4.[^76]{{ fail_on('2025-01-15') }}
+[Use the *Ausländerbehörde* contact form](/guides/immigration-office#how-to-contact-the-auslanderbehorde) to send all the [required documents](#required-documents). Send your application to the [correct department](/guides/immigration-office#departments). Choose departments E1 to E6, not B1 to B4.[^76]
 
 This is the only way. You can't go to the *Ausländerbehörde* without an appointment. You only get an appointment after you send your documents through the contact form.
 
