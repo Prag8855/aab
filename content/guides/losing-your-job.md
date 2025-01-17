@@ -235,7 +235,7 @@ If your spouse has a family reunion visa and you lose your job, you can switch r
 
 [Check your *Zusatzblatt*.](/guides/zusatzblatt) If it says "Beschäftigung erlaubt" or "Erwerbstätigkeit erlaubt", you can start a new job immediately. You don't need permission from the *Ausländerbehörde*.
 
-Usually, you need the *[[Ausländerbehörde]]*'s permission to change jobs. You must apply for a new residence permit before you start working. It takes [a few weeks](/guides/auslanderbehorde-wait-times). Your new job must fulfil the [work visa requirements](/guides/work-visa#work-visa-requirements).[^36] After 2 to 3 years in Germany, they might allow you to take any job.[^8]
+Usually, you need the *[[Ausländerbehörde]]*'s permission to change jobs. You must apply for a new residence permit before you start working. It takes [a few weeks](/guides/auslanderbehorde-wait-times). After 2 to 3 years in Germany, they might allow you to take any job, in any field, for any salary.[^8]
 
 Always [tell the *Ausländerbehörde*](#tell-the-auslanderbehorde) about your new job, even if you don't need their permission to change jobs.
 
