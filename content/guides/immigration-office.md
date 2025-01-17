@@ -124,17 +124,19 @@ After you paid, you can go home. You don't need to go back to your case worker. 
 
 ## Sue the Ausländerbehörde
 
-The *Ausländerbehörde* has 3 months to process your application. If you wait longer, you can sue them.[^11]
+The *Ausländerbehörde* has 3 months to process your application. If you wait longer, you can sue them.[^11] This costs a few hundred euros.
 
-First, you pay a lawyer around 400€ to send a scary letter to the *Ausländerbehörde*. The *Ausländerbehörde* wants to avoid a lawsuit, so they process your application faster.
+First, your lawyer sends a scary letter to the *Ausländerbehörde*. The *Ausländerbehörde* wants to avoid a lawsuit, so they process your application faster.
 
 If the scary letter does not work, you can sue the *Ausländerbehörde*. The legal system is slow, so a lawsuit can take months or years. If you win, the *Ausländerbehörde* must pay for your legal fees. Usually, the *Ausländerbehörde* reacts before your case goes to court, so you must pay your own legal fees.[^12]
 
-In other words, you give a lawyer 400€, and thing sometimes go faster. A lawyer can pressure the *Ausländerbehörde*, but they can't help you skip the queue.[^13]
+In other words, pay a few hundred euros, and things *sometimes* go faster. A lawyer can pressure the *Ausländerbehörde*, but they can't help you skip the queue.[^13]
+
+In other cities, threatening to sue the *Ausländerbehörde* can make things worse. The *Ausländerbehörde* can become very strict, ask for more documents, and make your application even slower.[^14]
 
 **[Find an immigration lawyer ➞](/guides/english-speaking-lawyers-berlin)**
 
-In other cities, threatening to sue the *Ausländerbehörde* can make things worse. The *Ausländerbehörde* can become very strict, ask for more documents, and make your application even slower.[^14]
+[Fiona Macdonald](https://en.fmr-legal.de/) is an immigration lawyer. She has experience with suing the *Ausländerbehörde*, and she speaks English.
 
 ## Need help?
 
