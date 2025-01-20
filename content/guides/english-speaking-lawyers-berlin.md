@@ -54,7 +54,15 @@ Related_places:
     places/koudous-international.md
 ---
 
-This list of English, French and Spanish-speaking attorneys will help you with any legal issues you might encounter while living in Berlin. If you are looking for an immigration lawyer, there are some in the list below.
+Use [the list below](#list-of-lawyers) to find an English-speaking lawyer in Berlin.
+
+{% include "_blocks/tableOfContents.html" %}
+
+## List of lawyers
+
+If someone is missing from this list, [let me know](/suggest-business).
+
+{% include '_blocks/relatedPlaces.html' %}
 
 ## How much does a lawyer cost?
 
@@ -69,15 +77,14 @@ This list of English, French and Spanish-speaking attorneys will help you with a
 
 **[Where to get legal help ➞](/guides/questions-about-berlin#legal-questions)**
 
-## List of lawyers
+### Apartment questions
 
-If someone is missing from this list, [let me know](/suggest-business).
+There are many ways to get free legal help for housing. You should join a *[[Mieterverein]]* before you need it.
 
-{% include '_blocks/relatedPlaces.html' %}
+**[Where to ask housing questions ➞](/guides/questions-about-berlin#legal-questions)**
 
-### Other lists of English-speaking lawyers
+## Other lists of lawyers
 
-- [Red Tape Translation's list of English-speaking lawyers](https://redtapetranslation.com/a-2019-directory-of-english-speaking-lawyers-in-berlin/)
-- [The US Embassy's list](https://web.archive.org/web/20210516131011/https://de.usembassy.gov/wp-content/uploads/sites/21/2016/07/Berlin-List-of-Attorneys.pdf) (2016)
+- [Red Tape Translation's list](https://redtapetranslation.com/a-2019-directory-of-english-speaking-lawyers-in-berlin/) (2022){{ fail_on('2027-01-01')}}
 
 [^0]: [Finanztip](https://www.finanztip.de/anwaltskosten/)
