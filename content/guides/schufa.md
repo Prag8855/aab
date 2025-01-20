@@ -5,57 +5,78 @@ Description: If you are applying for an apartment in Berlin, you will almost alw
 Date_created: 2017-09-01
 ---
 
-To [apply for an apartment](/guides/find-a-flat-in-berlin), you often need a *Schufa* report (*SCHUFA-Bonitätsauskunft*).[^8] This guide explains how to get one.
+If you [apply for an apartment](/guides/find-a-flat-in-berlin), you might need a *Schufa* report. Most landlords require it.[^7] This is how you get one.
 
 {% include "_blocks/tableOfContents.html" %}
 
-## What is a Schufa score?
+## What is a Schufa?
 
-The Schufa report shows your Schufa score (*Basisscore*). The Schufa score is **like a credit score**. A good score shows that you pay your bills on time.
-
-If you are new in Germany, Schufa has no information about you, so you don't have a Schufa score yet. You will get a score when you [open a bank account](/guides/best-bank-germany) or a get a mobile phone contract for the first time.[^0]
+The Schufa score is **like a credit score**. A good score shows that you pay your bills on time. The Schufa report (*SCHUFA-Bonitätsauskunft*) shows your Schufa score (*Basisscore*).
 
 [![Example Schufa certificate](/images/schufa-example.png "Example Schufa certificate")](/images/schufa-example.png)
 
-## Why you need a Schufa
+Your score is based on your financial situations. Your income does not affect your score.
 
-You often need it **to apply for an apartment** or to get a loan. Most landlords require a Schufa report.[^7] Applications without a Schufa are often ignored. Your Schufa should be less than 2 months old.[^8]
+A score above 95% is good enough.[^4]
 
 ## How to get a Schufa report
 
 There are 2 versions of the Schufa:[^5]
 
-- **The [paid version](/out/meineschufa)** ({{SCHUFA_REPORT_FEE|cur}}€)  
-    The paid report (*SCHUFA-Bonitätsauskunft*) looks more official. You get it by post in 1 to 3 days. Most landlords want this version.[^7]
+- **The [paid version](/out/meineschufa)** (*SCHUFA-Bonitätsauskunft*)  
+    It costs {{SCHUFA_REPORT_FEE|cur}}€. It looks more official, so landlords prefer it.[^7] You can get it online now, or by post in 1 to 3 days.
 - **The [free version](https://www.meineschufa.de/de/datenkopie)**  
-    The free report (*SCHUFA-Datenkopie*) has the same information. They make it worse on purpose:[^3]
+    It has the same information, but they make it look worse:[^3]
     - It's harder to read. Your score is mixed with your private information. You must censor it before you share it.[^6]
-    - It looks worse. Some landlords want the fancy certificate you get with the paid version.[^8]
-    - You get it slower. It arrives by post in 1 to 3 weeks.
+    - It looks worse. Many landlords want the fancy certificate you get with the paid version.[^7]
+    - You get it slower. It arrives by post in 5 to 7 days.
+- **The [Bonify app](https://www.bonify.de/)**  
+    It shows the same information as the free Schufa report.[^10] The app does not work well, tries to sell you financial products, and is a privacy risk.[^8] I don't recommend it.
 
 The paid version is better for apartment applications.[^7] The free version is better for your own use.
 
 You can also **get a Schufa from [ImmoScout24](https://bonitaetscheck.immobilienscout24.de/)**. It costs {{SCHUFA_REPORT_FEE|cur}}€. It does not work for everyone. You must verify your identity with your bank, and some banks are not supported. You pay 20% to 50% less if you have a [premium membership](https://www.immobilienscout24.de/meinkonto/premium-mitgliedschaft/).{{ fail_on('2025-03-31') }}
 
-You can't get a Schufa in person at the bank. They stopped offering this service.[^1]
+You can't get a Schufa in person at the bank anymore.[^1]
 
 ### If you can't get a Schufa
+
+Bring other proofs of income, such as what?
 
 Short-term apartments (from [Homelike](/out/homelike), [HousingAnywhere](/out/housinganywhere), [Spotahome](/out/spotahome), [Wunderflats](/out/wunderflats)) rarely require a Schufa. They can help you get your first apartment without a stable job.
 
 **[Look for short-term apartments ➞](/guides/find-a-flat-in-berlin#short-term-and-furnished-apartments)**
 
+### If you don't have a score
+
+Schufa is a private company. They only know what other companies tell them. If you are new in Germany, Schufa has no information about you, so you don't have a score yet.[^0]
+
+You get a Schufa record when you...[^2]
+
+- [Open a bank account](/guides/best-bank-germany)
+- Get a credit card or a loan
+- Get a mobile phone contract
+- Pay for something in instalments
+- Don't pay your debts
+
+When you open a bank account, you let your bank to check your score. If you don't have a score, a new Schufa record is created.
+
+Not all companies check your score. Foreign companies rarely care about Schufa. A foreign bank probably won't create a Schufa record when you open an account.
+
 ## What to do next
 
-After you get your Schufa report, you can [look for an apartment](/guides/find-a-flat-in-berlin).
+After you get your Schufa report, [look for an apartment](/guides/find-a-flat-in-berlin).
 
-You should get a [free report](https://www.meineschufa.de/de/datenkopie) every year, and check if the information is correct.[^9] False information can lower your Schufa score. You don't need the {{SCHUFA_REPORT_FEE|cur}}€ version for this.
+Get a [free report](https://www.meineschufa.de/de/datenkopie) every year, and check if the information is correct.[^9] False information can lower your Schufa score. You don't need the {{SCHUFA_REPORT_FEE|cur}}€ version for this.
 
-[^0]: [advocado.de](https://www.advocado.de/ratgeber/bank-und-kapitalmarktrecht/bonitaet/wann-bekommt-man-einen-schufa-eintrag.html#wann-steht-man-in-der-schufa)
+[^0]: [advocado.de](https://www.advocado.de/ratgeber/bank-und-kapitalmarktrecht/bonitaet/wann-bekommt-man-einen-schufa-eintrag.html#wann-steht-man-in-der-schufa), [HereLocation](https://herelocation.de/de/schufa-auskunft-fuer-auslaender/#:~:text=eine%20schufa-auskunft%20erhalten%20internationale%20transferres) (2025), Graham Pugh, [apartment search expert](https://www.berlinrelo.de/) (January 2024)
 [^1]: Wendelin Winkelmann, meineSchufa.de (July 2024)
+[^2]: [schufa.de](https://www.schufa.de/newsroom/bonitaet/schufa-score-13-wichtige-faktoren/) (January 2025), [qonto](https://qonto.com/de/blog/selbststaendige/management-buchhaltung/ab-wann-schufa-eintrag#was-steht-in-einem-schufa-eintrag) (January 2025)
 [^3]: [GDPR Article 5](https://www.privacy-regulation.eu/en/article-15-right-of-access-by-the-data-subject-GDPR.htm)
+[^4]: [qonto](https://qonto.com/de/blog/selbststaendige/management-buchhaltung/ab-wann-schufa-eintrag#was-steht-in-einem-schufa-eintrag) (January 2025)
 [^5]: [kreditvergleich.net](https://www.kreditvergleich.net/ratgeber/schufa-kostenlose-kostenpflichtige-selbstauskunft/)
 [^6]: [immobilienscout24.de](https://www.immobilienscout24.de/wissen/mieten/schufa-auskunft-kostenlos.html#:~:text=Dokumente%20vertraulich%20behandeln.-,es%20konnen%20sensible%20informationen%20enthalten%20sein,-%2C%C2%A0die%20nicht%20f%C3%BCr), [Reddit](https://old.reddit.com/r/germany/comments/7265bx/difference_between_schufa_report_types_when/#:~:text=the%20bonitatscheck%20will%20give%20him%20that%20information%20without%20disclosing%20all%20your%20private%20stuff%20to%20him.)
 [^7]: [Christine Gerkrath, relocation consultant](https://www.moveto-berlin.com/en/) (March 2024), [Elliot Herman, relocation consultant](https://www.sorted.berlin/) (January 2024), Graham Pugh, [apartment search expert](https://www.berlinrelo.de/) (January 2024), [immobilienscout24.de](https://www.immobilienscout24.de/wissen/mieten/bonitaetsauskunft.html#schufa-grafik), [immobilienscout24.de](https://www.immobilienscout24.de/wissen/vermieten/so-vermietet-deutschland.html)
-[^8]: Graham Pugh, [apartment search expert](https://www.berlinrelo.de/) (January 2024)
+[^8]: [Trustpilot](https://www.trustpilot.com/review/bonify.de?languages=all&sort=recency) (January 2025), [kuketz-blog.de](https://www.kuketz-blog.de/schufa-bonify-uebermittelt-ohne-einwilligung-personenbeziehbare-daten-an-facebook-und-co/) (July 2023), [Verbraucherzentrale](https://www.verbraucherzentrale-bawue.de/aktuelle-meldungen/digitale-welt/bonifyapp-datenschutz-im-auge-behalten-86413#:~:text=auch%20ohne%20app%20konnen%20sie%20verlangen) (October 2024), [Anwalt24](https://www.anwalt24.de/fachartikel/datenschutzrecht/57589) (October 2024), [Verbraucherzentrale](https://www.vzhh.de/themen/telefon-internet/datenschutz/bonify-app-mein-bankkonto-ist-privatsache) (December 2024)
 [^9]: [verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/digitale-welt/datenschutz/scoring-mit-kundendaten-so-verlangen-sie-auskunft-bei-schufa-co-12756#:~:text=wichtig%3A%20falsche%20daten%20korrigieren)
+[^10]: [Schufa](https://www.schufa.de/newsroom/schufa/bonify-app-schufa-basisscore-einsehen/#:~:text=nein%2C%20bei%20bonify%20wird%20nur%20der%20schufa-basisscore%20angezeigt%2C%20den%20man%20auch%20auf%20der%20kostenlosen%20datenkopie%20findet.%20) (January 2025)
