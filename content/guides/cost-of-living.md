@@ -27,11 +27,11 @@ In Germany, a part of your [gross income](/glossary/Brutto%20income) (*Brutto*) 
 
 ### Rent
 
-**Cost:** 400€ to 900€ per month (room), 700€ to 1,500€ per month (apartment)
+**Cost:** 600€ to 900€ per month (room), 700€ to 1,500€ per month (apartment)
 
 In Germany, there is the cold rent (*[[Kaltmiete]]*), and the warm rent (*[[Warmmiete]]*). The warm rent includes utilities (*[[Nebenkosten]]*).
 
-Rent is often your biggest expense. Many immigrants get very expensive furnished apartments, because they can't find anything else. After a few months in Germany, [get your rent lowered](/guides/moving-in#lower-your-rent) or look for a cheaper apartment.
+Rent is often your biggest expense. An unfurnished apartment costs around 24€/m^2^ or 2.25€/ft^2^.[^1] Immigrants often get expensive furnished apartments, because they can't find anything else. After a few months in Germany, [get your rent lowered](/guides/moving-in#lower-your-rent) or look for a cheaper apartment.
 
 **[How to pay less rent ➞](/guides/saving-money-germany#rent)**
 
@@ -193,4 +193,5 @@ My budget includes a motorcycle, and a garage (120€/month). You don't need tho
 
 **[How to save money in Germany ➞](/guides/saving-money-germany)**
 
+[^1]: Graham Pugh, [apartment search expert](https://www.berlinrelo.de/) (January 2024)
 [^2]: [destatis.de](https://www.destatis.de/DE/Themen/Arbeit/Verdienste/Verdienste-Branche-Berufe/_inhalt.html#:~:text=Verdienste%202019%3A%20durchschnittlich%203%20994%20Euro%20brutto%20im%20Monat%20-%20Statistisches%20Bundesamt)
