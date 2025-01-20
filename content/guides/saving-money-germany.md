@@ -60,7 +60,7 @@ Rent is the biggest expense for most people. There are ways to pay less rent:
 - **Know your rights**  
     Avoid [housing scams](/guides/housing-scams). If you pay a bribe to get an apartment, or pay too much for a kitchen or furniture, you can get that money back. Talk to a lawyer or a *[[Mieterverein]]*.
 - **Move somewhere else**  
-    [Look for a cheaper apartment](/guides/find-a-flat-in-berlin) in a cheaper neighbourhood. I moved from Mitte to Französisch Buchholz to save 400€ per month. Finding a new apartment can be extremely hard, but if you already have one, you can take your time.
+    [Look for a cheaper apartment](/guides/find-a-flat-in-berlin) in a cheaper neighbourhood. I moved from Mitte to Französisch Buchholz to save 400€ per month. Finding a new apartment can be extremely hard, but if you already have one, you have more time to look.
 
 ### Utilities
 
