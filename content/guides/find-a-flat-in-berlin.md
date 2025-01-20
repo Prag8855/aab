@@ -344,7 +344,7 @@ If you like the apartment, apply for it as soon as you can. Send the [required d
 To apply for an apartment, you need these documents:[^19]
 
 - [ ] **[[Schufa]] report**  
-    It costs {{SCHUFA_REPORT_FEE|cur}}€, but you can [get it for free](/guides/schufa). If you can't get a Schufa, bring more proofs of income. Furnished apartments from [Homelike](/out/homelike), [HousingAnywhere](/out/housinganywhere), [Spotahome](/out/spotahome) and [Wunderflats](/out/wunderflats) don't ask for a Schufa.
+    Most landlords require it. It costs {{SCHUFA_REPORT_FEE|cur}}€, but you can [get it for free](/guides/schufa). It should be less than 2 months old. [If you can't get a Schufa](/guides/schufa#if-you-cant-get-a-schufa), bring other proofs of income. Furnished apartments from [Homelike](/out/homelike), [HousingAnywhere](/out/housinganywhere), [Spotahome](/out/spotahome) and [Wunderflats](/out/wunderflats) don't ask for a Schufa.
 - [ ] **Proof of income** (*Einkommensnachweis*)
     - **If you are an employee**  
         Bring your work contract or a [certificate of employment](/glossary/Arbeitgeberbescheinigung), and your last 3 [payslips](/glossary/Gehaltsabrechnung). A certificate of employment is better than a contract, because it's easier to read.
