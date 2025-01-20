@@ -23,19 +23,19 @@ A score above 95% is good enough.[^4]
 
 There are 2 versions of the Schufa:[^5]
 
-- **The [paid version](/out/meineschufa)** (*SCHUFA-Bonitätsauskunft*)  
+- **The [paid version](/out/meineschufa)** (*Bonitätsauskunft*)  
     It costs {{SCHUFA_REPORT_FEE|cur}}€. It looks more official, so landlords prefer it.[^7] You can get it online now, or by post in 1 to 3 days.
-- **The [free version](https://www.meineschufa.de/de/datenkopie)**  
+- **The [free version](https://www.meineschufa.de/de/datenkopie)** (*Datenkopie*)  
     It has the same information, but they make it look worse:[^3]
     - It's harder to read. Your score is mixed with your private information. You must censor it before you share it.[^6]
     - It looks worse. Many landlords want the fancy certificate you get with the paid version.[^7]
     - You get it slower. It arrives by post in 5 to 7 days.
-- **The [Bonify app](https://www.bonify.de/)**  
-    It shows the same information as the free Schufa report.[^10] The app does not work well, tries to sell you financial products, and is a privacy risk.[^8] I don't recommend it.
 
-The paid version is better for apartment applications.[^7] The free version is better for your own use.
+The paid version is better for apartment applications; it's what landlords expect.[^7] The free version is better for your own use.
 
-You can also **get a Schufa from [ImmoScout24](https://bonitaetscheck.immobilienscout24.de/)**. It costs {{SCHUFA_REPORT_FEE|cur}}€. It does not work for everyone. You must verify your identity with your bank, and some banks are not supported. You pay 20% to 50% less if you have a [premium membership](https://www.immobilienscout24.de/meinkonto/premium-mitgliedschaft/).{{ fail_on('2025-03-31') }}
+You can also **get a Schufa from [ImmoScout24](https://bonitaetscheck.immobilienscout24.de/)**. It costs {{SCHUFA_REPORT_FEE|cur}}€. If you have a [premium membership](https://www.immobilienscout24.de/meinkonto/premium-mitgliedschaft/), you pay 20% to 50% less. It does not work for everyone. You must verify your identity with your bank, and some banks are not supported.{{ fail_on('2025-03-31') }}
+
+The [Bonify app](https://www.bonify.de/) shows the same information as the free Schufa report.[^10] The app does not work well, tries to sell you financial products, and is a privacy risk.[^8] I don't recommend it.
 
 You can't get a Schufa in person at the bank anymore.[^1]
 
