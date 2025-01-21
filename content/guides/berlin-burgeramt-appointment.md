@@ -45,11 +45,11 @@ If your situation is not urgent, ask for an appointment by email. It's faster.[^
 
 ## Pay someone to go for you
 
-Relocation consultants can book the appointment for you, and go to the *Bürgeramt* with you. If you don't speak German, this is a good idea. [Red Tape Translation](/out/red-tape-translation-interpreter) and [Booka Local](/out/booka-local) offer this service.
+Relocation consultants can book the appointment for you, and go to the *Bürgeramt* with you. If you don't speak German, this is a good idea. I recommend [Red Tape Translation](/out/red-tape-translation-interpreter).
 
 ## More tips
 
-### Pick any Bürgeramt
+### Choose any Bürgeramt
 
 You can go to any *Bürgeramt* in Berlin, not just the one near you. The ones in central neighbourhoods are busier.[^1] You can't go to a *Bürgeramt* in [[Brandenburg]].
 

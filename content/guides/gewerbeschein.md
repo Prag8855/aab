@@ -27,7 +27,7 @@ To do your *Gewerbeanmeldung*, you need...
 
 ## How to fill the registration form
 
-Open the **[online registration form](/out/business-ummeldung)**. Click the *Anmeldung* link next to *Gewerbe in Berlin anmelden*
+Open the **[online registration form](/out/business-anmeldung)**. Click the *Anmeldung* link next to *Gewerbe in Berlin anmelden*
 
 [![Start page of the Gewerbeanmeldung form](/images/gewerbeanmeldung-berlin-start-page.png)](/images/gewerbeanmeldung-berlin-start-page.png)
 

@@ -12,4 +12,4 @@ Related_guides:
 
 Degiro is a discount stock broker that operates in several European countries, including Germany.
 
-**[Degiro website ➞](/out/degiro)**
+**[Degiro website ➞](https://www.degiro.de/)**

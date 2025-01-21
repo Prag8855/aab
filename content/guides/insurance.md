@@ -98,7 +98,7 @@ If you drive a vehicle in Germany, it must be insured. There are two types of ca
 
 Some *Teilkasko* insurances also cover theft and vandalism. Read your policy carefully, and make sure it covers the right things for you.
 
-Use [Verivox](/out/verivox-kfz) or [Tarifcheck](/out/tarifcheck-kfz) to compare car insurances. If you don't speak German, [Getsafe](/out/getsafe-kfz) sells car insurance, and they speak English.
+Use [Verivox](/out/verivox-kfz) or [Tarifcheck](/out/tarifcheck-kfz) to compare car insurances.
 
 **[Car insurance in Germany ➞](/guides/car-insurance-germany)**
 

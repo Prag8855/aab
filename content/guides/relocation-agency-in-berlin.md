@@ -8,7 +8,6 @@ Related_places:
     places/sorted-berlin.md
     places/archer-relocation.md
     places/irc-berlin.md
-    places/expath.md
     places/relokate.md
     places/nomaden-berlin.md
     places/glogauer-str-25.md

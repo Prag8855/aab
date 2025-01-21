@@ -6,4 +6,4 @@ Website: https://www.expath.com/
 Picture: experts/photos/tia-robinson-expath.png
 ---
 
-Tia is the co-founder of [Expath](https://www.expath.com/). They offer relocation services and German courses in Berlin.
+Tia is the co-founder of [Expath](https://www.expath.com/), a former relocation agency and language school in Berlin.

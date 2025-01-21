@@ -153,7 +153,7 @@ Other online banks have the same problem. Only [Comdirect](/out/comdirect) lets 
 
 N26 is good for everyday banking, but it does not offer many investing options. If you want to invest your money, get a fancy credit card or get a mortgage, you need a traditional bank like [Commerzbank](/out/commerzbank), [Deutsche Bank](/out/deutsche-bank) or [Berliner Sparkasse](/out/sparkasse).
 
-You don't need to have one bank for everything. You can have multiple bank accounts. I use [Degiro](/out/degiro) to trade stocks, and [I recommend it](/guides/an-honest-review-of-degiro). I use [Kontist](/out/kontist) as my business bank, and [I don't recommend it](/guides/kontist-review).
+You don't need to have one bank for everything. You can have multiple bank accounts. I use [Degiro](https://www.degiro.de/) to trade stocks, and [I recommend it](/guides/an-honest-review-of-degiro). I use [Kontist](/out/kontist) as my business bank, and [I don't recommend it](/guides/kontist-review).
 
 ### Slow customer support
 

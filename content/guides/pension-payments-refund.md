@@ -286,16 +286,16 @@ You can let someone take care of everything. There are good reasons to get help:
 
 These businesses can help you request a refund. They will fill the forms and request the refund for you. They can also check how much money you will get back.{{ fail_on('2025-03-01') }}
 
+- **[Pension Refund Germany](/out/pension-refund-germany)**{% include '_blocks/recommended.html' %}  
+    Their fee is {{ PENSIONREFUNDGERMANY_FEE }}% of your refund (maximum fee {{PENSIONREFUNDGERMANY_MAX_FEE|cur}}€).[^31] The process is fully digital.
 - **[Germany Pension Refund](/out/germany-pension-refund)**{% include '_blocks/recommended.html' %}  
     Their fee is {{ GERMANYPENSIONREFUND_FEE }}% of your refund (no minimum or maximum fee).[^30] The process is fully digital. They specialise in pension refunds since 2007.
-- **[Pension Refund Germany](/out/german-pension-refund)**{% include '_blocks/recommended.html' %}  
-    Their fee is {{ PENSIONREFUNDGERMANY_FEE }}% of your refund (maximum fee {{PENSIONREFUNDGERMANY_MAX_FEE|cur}}€).[^31] The process is fully digital.
 - **[FundsBack](/out/fundsback)**  
     Their fee is {{ FUNDSBACK_FEE }}% of your refund (minimum fee {{FUNDSBACK_MIN_FEE}}€, maximum {{FUNDSBACK_MAX_FEE|cur}}€).[^29]
-- **Other options**  
-    [TaxBack](/out/taxback), [Germany Mantra](/out/germany-mantra) and [Pension Redemption](https://www.pension-redemption.com/) can also help you with your pension refund. Their fee is too high, so I don't recommend them.
 
 The *[[Deutsche Rentenversicherung]]* can also help you fill the forms. Their email is <meinefrage@drv-bund.de>. They only answer in German. You can also [book an appointment](https://www.deutsche-rentenversicherung.de/DRV/DE/Beratung-und-Kontakt/Beratung-suchen-und-buchen/beratung-suchen-und-buchen_node.html) and visit them in person.
+
+[TaxBack](/out/taxback), [Germany Mantra](/out/germany-mantra) and [Pension Redemption](https://www.pension-redemption.com/) also handle pension refunds. Their fee is higher, and it's not their speciality. There is no reason to choose them.
 
 ## How long it takes
 
@@ -314,7 +314,7 @@ If you need help, ask...
 - **The [[Deutsche Rentenversicherung]]**  
     Call them, email <meinefrage@drv-bund.de>, or [book an appointment](https://www.deutsche-rentenversicherung.de/DRV/DE/Beratung-und-Kontakt/Beratung-suchen-und-buchen/beratung-suchen-und-buchen_node.html). I have called them many times and they always helped, but they only speak German.
 - **Pension refund services**  
-    [Germany Pension Refund](/out/germany-pension-refund), [Pension Refund Germany](/out/german-pension-refund) and [FundsBack](/out/fundsback) can request a refund for you. They speak English. They take care of everything, but they keep around 10% of your refund.
+    [Germany Pension Refund](/out/germany-pension-refund), [Pension Refund Germany](/out/pension-refund-germany) and [FundsBack](/out/fundsback) can request a refund for you. They speak English. They take care of everything, but they keep around 10% of your refund.
 
 {% include '_blocks/pensionRefundQuestion.html' %}
 
@@ -323,8 +323,8 @@ Tax advisors rarely have experience with German pension refunds. German embassie
 [^0]: [Screenshot](/images/rene-pension-refund-answers-2022-02-15.png)
 [^1]: [rentenfuchs.info](https://www.rentenfuchs.info/beitragserstattung-rentenversicherung/#:~:text=gesetzlichen%20Rentenversicherung%20zahlt.-,beitragserstattung%20bei%20erreichen%20der%20regelaltersgrenze,-Als%20n%C3%A4chstes%20werde)
 [^2]: [rentenfuchs.info](https://www.rentenfuchs.info/beitragserstattung-rentenversicherung/#:~:text=aufhalten.%20Hierzu%20geh%C3%B6ren%3A-,bosnien-herzegowina%2C%20kosovo%2C%20montenegro%20und%20serbien,-Staatsangeh%C3%B6rige%20der%20Staaten)
-[^3]: Georg from [Pension Refund Germany](/out/german-pension-refund) (October 2024)
-[^4]: Georg from [Pension Refund Germany](/out/german-pension-refund) (April 2023), Deutsche Rentenversicherung (March 2023), [linkedin.com](https://www.linkedin.com/pulse/impacts-brexit-uk-citizen-living-germany-paid-social-security-roy/?trk=portfolio_article-card_title), [pension-refund.com](https://pension-refund.com/blog/can-i-claim-back-german-pension-contributions-after-brexit/?utm_source=blog&utm_medium=banner&utm_campaign=Prpart145&utm_id=os3bkuy36e)
+[^3]: Georg from [Pension Refund Germany](/out/pension-refund-germany) (October 2024)
+[^4]: Georg from [Pension Refund Germany](/out/pension-refund-germany) (April 2023), Deutsche Rentenversicherung (March 2023), [linkedin.com](https://www.linkedin.com/pulse/impacts-brexit-uk-citizen-living-germany-paid-social-security-roy/?trk=portfolio_article-card_title), [pension-refund.com](https://pension-refund.com/blog/can-i-claim-back-german-pension-contributions-after-brexit/?utm_source=blog&utm_medium=banner&utm_campaign=Prpart145&utm_id=os3bkuy36e)
 [^5]: [rentenfuchs.info](https://www.rentenfuchs.info/beitragserstattung-rentenversicherung/#:~:text=bei%20staatsangehorigen%20des%20staates%20israel)
 [^6]: [Screenshot](/images/rene-pension-japan-2022-01-20.png)
 [^7]: [germanypensionrefund.com](https://www.germanypensionrefund.com/japan)
@@ -358,4 +358,4 @@ Tax advisors rarely have experience with German pension refunds. German embassie
 [^38]: [Wikipedia](https://de.wikipedia.org/wiki/Rentenbeitragserstattung#Auswirkungen_der_Beitragserstattung)
 [^39]: [toytowngermany.com](https://web.archive.org/web/20240808111111/https://www.toytowngermany.com/forum/topic/371985-pension-refund-experience-after-moving-to-the-us/?page=1)
 [^40]: [toytowngermany.com](https://web.archive.org/web/20240808111111/https://www.toytowngermany.com/wiki/Pension_refunds_on_leaving_Germany), [toytowngermany.com](https://web.archive.org/web/20240808111111/https://www.toytowngermany.com/forum/topic/1055-pension-insurance-refunds-on-leaving-germany/?page=7#comment-3803084), [rentenfuchs.info](https://www.rentenfuchs.info/beitragserstattung-rentenversicherung/), [Regulation (EEC) No 1408/71, §10 para. 2](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R1408)
-[^32]: Georg from [Pension Refund Germany](/out/german-pension-refund) (October 2024)
+[^32]: Georg from [Pension Refund Germany](/out/pension-refund-germany) (October 2024)

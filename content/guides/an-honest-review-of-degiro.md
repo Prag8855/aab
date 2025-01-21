@@ -69,7 +69,7 @@ I transfered tens of thousands of euros in and out of Degiro without any issues.
 
 Degiro is much better than before. They had many issues in 2018, but those are solved in 2025. If they showed you your profit/losses over time, Degiro would be perfect. Without that, it's still pretty good.
 
-**[Visit the Degiro website ➞](/out/degiro)**
+**[Visit the Degiro website ➞](https://www.degiro.de/)**
 
 ## Alternatives to Degiro
 
