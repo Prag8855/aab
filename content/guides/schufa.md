@@ -33,7 +33,7 @@ There are 2 versions of the Schufa:[^5]
 
 The paid version is better for apartment applications; it's what landlords expect.[^7] The free version is better for your own use.
 
-You can also **get a Schufa from [ImmoScout24](https://bonitaetscheck.immobilienscout24.de/)**. It costs {{SCHUFA_REPORT_FEE|cur}}€. If you have a [premium membership](https://www.immobilienscout24.de/meinkonto/premium-mitgliedschaft/), you pay 20% to 50% less. It does not work for everyone. You must verify your identity with your bank, and some banks are not supported.{{ fail_on('2025-03-31') }}
+You can also get a Schufa from [ImmoScout24](https://bonitaetscheck.immobilienscout24.de/). It costs {{SCHUFA_REPORT_FEE|cur}}€. If you have a [premium membership](https://www.immobilienscout24.de/meinkonto/premium-mitgliedschaft/), you pay 20% to 50% less. It does not work for everyone. You must verify your identity with your bank, and some banks are not supported.{{ fail_on('2025-03-31') }}
 
 The [Bonify app](https://www.bonify.de/) shows the same information as the free Schufa report.[^10] The app does not work well, tries to sell you financial products, and is a privacy risk.[^8] I don't recommend it.
 
