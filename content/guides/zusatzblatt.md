@@ -11,6 +11,8 @@ Your residence permit comes with a *[Zusatzblatt](/glossary/Zusatzblatt%20%28res
 
 [![Zusatzblatt for a residence permit - back](/images/aufenthaltstitel-zusatzblat-back-web.png "Zusatzblatt for a freelance visa")](/images/aufenthaltstitel-zusatzblat-back-web.png)
 
+The *Zusatzblatt* can also be a sticker in your passport.
+
 This is what those lines mean:
 
 - **"Ausbildung zum … erlaubt"**  

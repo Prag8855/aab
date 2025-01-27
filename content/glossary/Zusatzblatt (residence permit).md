@@ -15,7 +15,7 @@ Related_guides:
     guides/freelance-visa.md
 ---
 
-When you get your [residence permit](/glossary/Aufenthaltstitel), you also get a sheet with more information. This sheet is the *Zusatzblatt*. It looks like this: [front](/images/aufenthaltstitel-zusatzblat-front-web.png), [back](/images/aufenthaltstitel-zusatzblat-back-web.png).
+When you get your [residence permit](/glossary/Aufenthaltstitel), you also get a sheet with more information. This sheet is the *Zusatzblatt*. It looks like this: [front](/images/aufenthaltstitel-zusatzblat-front-web.png), [back](/images/aufenthaltstitel-zusatzblat-back-web.png). It can also be a sticker in your passport.
 
 The *Zusatzblatt* tells you if you can work, what kind of work you can do, and if you can be self-employed.
 
