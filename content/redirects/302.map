@@ -110,9 +110,8 @@
 /out/lingoking                                "https://www.awin1.com/awclick.php?gid=363869&mid=16534&awinaffid=559395&linkid=2488535&clickref=";
 /out/lingoking-birth-certificate              "https://www.awin1.com/awclick.php?gid=363917&mid=16534&awinaffid=559395&linkid=2393346&clickref=";
 /out/lingoking-drivers-licence                "https://www.awin1.com/awclick.php?gid=363917&mid=16534&awinaffid=559395&linkid=2393355&clickref=";
-/out/lingoking-letters                        "https://www.awin1.com/awclick.php?gid=363400&mid=16534&awinaffid=559395&linkid=2979326&clickref=";
 /out/lingoking-resume                         "https://www.awin1.com/awclick.php?gid=363917&mid=16534&awinaffid=559395&linkid=2393373&clickref=";
-/out/mawista-expats                           "https://www.mawista.com/en/health-insurance-for-foreign-nationals-in-germany/stays-up-to-5-years/?utm_source=allaboutberlin";
+/out/mawista-expats                           "https://www.mawista.com/en/";
 /out/meineschufa                              "https://www.awin1.com/awclick.php?gid=325475&mid=9350&awinaffid=559395&linkid=2065496&clickref=";
 /out/mister-spex                              "https://www.awin1.com/awclick.php?gid=333001&mid=10118&awinaffid=559395&linkid=2126738&clickref=";
 /out/monese                                   "https://monese.com/de/en";
@@ -128,6 +127,8 @@
 /out/omio                                     "https://omio.sjv.io/c/1377567/568135/7385";
 /out/ostrom                                   "https://www.awin1.com/cread.php?s=3108968&v=28121&q=434339&r=559395";
 /out/ottonova                                 "https://www.awin1.com/awclick.php?gid=358848&mid=15971&awinaffid=559395&linkid=2351922&clickref=";
+/out/ottonova-employees                       "https://www.awin1.com/awclick.php?gid=372765&mid=15971&awinaffid=559395&linkid=3821646&clickref=";
+/out/ottonova-freelancers                     "https://www.awin1.com/awclick.php?gid=372765&mid=15971&awinaffid=559395&linkid=3821647&clickref=";
 /out/ottonova-students                        "https://www.awin1.com/awclick.php?gid=447480&mid=15971&awinaffid=559395&linkid=3435500&clickref=";
 /out/ottonova-expats                          "https://www.awin1.com/awclick.php?gid=358848&mid=15971&awinaffid=559395&linkid=2354612&clickref=";
 /out/pension-refund-germany                   "https://pension-refund.com?utm_source=blog&utm_medium=banner&utm_campaign=Prpart145&utm_id=os3bkuy36e";
@@ -150,7 +151,7 @@
 /out/sorted-taxes                             "https://en.getsorted.de?ref=nicolasbouliane1";
 /out/sparkasse                                "https://www.berliner-sparkasse.de/en/home.html";
 /out/sparkasse-broker                         "https://www.financeads.net/tc.php?t=28713C19118048T";
-/out/spotahome                                "https://spotahome.sjv.io/c/1377567/979662/12133";
+/out/spotahome                                "https://spotahome.sjv.io/qzARaY";
 /out/steuergo                                 "https://neso.r.niwepa.com/ts/i5534527/tsc?typ=r&amc=con.blbn.495499.504587.CRT881rNrvi";
 /out/tarifcheck                               "https://a.partner-versicherung.de/click.php?partner_id=126814&ad_id=15";
 /out/tarifcheck-berufunfahigkeit              "https://a.partner-versicherung.de/click.php?partner_id=126814&ad_id=15&deep=berufsunfaehigkeitsversicherung";
@@ -164,7 +165,6 @@
 /out/taxback                                  "https://www.taxback.com/en/germany/?utm_ref=allaboutberlin";
 /out/taxfix                                   "https://imp.i313392.net/KjBXWx";
 /out/tomorrow                                 "https://www.financeads.net/tc.php?t=28713C313862738T";
-/out/uniplaces                                "https://www.uniplaces.com/?mtm_campaign=affiliate&mtm_source=all%20about%20berlin&mtm_medium=all%20about%20berlin";
 /out/vab                                      "https://www.berlin.de/einwanderung/service/downloads/artikel.875097.php";
 /out/verivox-cellphone                        "https://www.awin1.com/awclick.php?gid=373003&mid=14797&awinaffid=559395&linkid=2482508&clickref=";
 /out/verivox-electricity                      "https://www.awin1.com/awclick.php?gid=373003&mid=14797&awinaffid=559395&linkid=2482504&clickref=";
@@ -220,6 +220,7 @@
 /out/joonko                                   "/out/verivox-kfz";
 /out/lemonade                                 "/out/feather";
 /out/linguidoor                               "https://linguidoor.com/?ref=54";
+/out/lingoking-letters                        "/out/lingoking";
 /out/muffin                                   "/out/feather";
 /out/muffin-calc                              "/out/feather";
 /out/muffin-disability                        "/out/feather";
@@ -247,5 +248,6 @@
 /out/tk-calc-students                         "/out/feather-tk";
 /out/transferwise                             "/out/wise";
 /out/transferwise-borderless                  "/out/wise-account";
+/out/uniplaces                                "https://www.uniplaces.com/";
 /out/wenigermiete                             "/out/conny";
 /out/wenigermiete-mietpreisbremse-calculator  "/out/conny-mietpreisbremse-calculator";
