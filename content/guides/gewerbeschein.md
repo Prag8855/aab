@@ -136,7 +136,7 @@ Pay the {{GEWERBEANMELDUNG_FEE|cur}}€ fee.
 
 ### Wait
 
-After you send your application, nothing happens. Around 4 weeks later, you get an email that confirms your *Gewerbeanmeldung*. You can then download your *[[Gewerbeschein]]*. In some districts, it takes much longer.[^5]
+After you send your application, nothing happens. 1 to 6 weeks later, you get an email that confirms your *Gewerbeanmeldung*.[^5] You can then download your *[[Gewerbeschein]]*.
 
 You are now registered for the trade tax (*[[Gewerbesteuer]]*). You also become a member of the [[IHK]], and must pay the membership fee. You don't have a choice.
 
@@ -171,4 +171,4 @@ The *Gewerbeanmeldung* is not the only step to start a business. You must also [
 [^0]: [Berlin.de](https://service.berlin.de/dienstleistung/121921/)
 [^1]: [gewerbe-anmelden.info](https://www.gewerbe-anmelden.info/gewerbeschein/gewerbeschein-formular-ausfuellen)
 [^2]: [Wikipedia](https://de.wikipedia.org/wiki/Nebenerwerb), [gesetze-im-internet.de](https://www.gesetze-im-internet.de/sgb_3/__138.html)
-[^5]: [Gründerplatform](https://gruenderplattform.de/unternehmen-gruenden/gewerbe-anmelden#:~:text=dauert%20in%20der%20regel%204%20wochen), [Ecovis](https://www.ecovis.com/berlin-gruendung/faq/gewerbeanmeldung/), [Berlin Senate](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12857.pdf)
+[^5]: [Gründerplatform](https://gruenderplattform.de/unternehmen-gruenden/gewerbe-anmelden#:~:text=dauert%20in%20der%20regel%204%20wochen), [Ecovis](https://www.ecovis.com/berlin-gruendung/faq/gewerbeanmeldung/), [Berlin Senate](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12857.pdf), reader feedback (January 2025)
