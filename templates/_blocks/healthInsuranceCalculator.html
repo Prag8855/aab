@@ -81,6 +81,15 @@
 					}[this.result.tarif];
 				},
 				ottonovaLink() {
+					if(this.occupation.startsWith('student')){
+						return "/out/ottonova-students";
+					}
+					else if(occupations.isEmployed(this.occupation)){
+						return "/out/ottonova-employees";
+					}
+					else if(occupations.isSelfEmployed(this.occupation)){
+						return "/out/ottonova-freelancers";
+					}
 					return "/out/ottonova";
 				},
 				privateCost() {
@@ -501,7 +510,7 @@
 					<p>Don't choose private health insurance yourself; it's a really bad idea. Ask a broker to help you choose.</p>
 				</div>
 			</a>
-			<a title="Get a quote from Feather" href="/out/feather-calc" target="_blank">
+			<a title="Get a quote from Feather" href="/out/feather-private" target="_blank">
 				{% endraw %}{% include "_css/icons/health-insurance/logo-feather.svg" %}{% raw %}
 				<div>
 					<h3>Get a quote from Feather</h3>
