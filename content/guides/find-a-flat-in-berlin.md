@@ -49,8 +49,6 @@ Before you [look for apartments](#look-for-apartments), you must...
 
 ### Short-term and furnished apartments
 
-- **[Homelike](/out/homelike)**{% include '_blocks/recommended.html' %}  
-    Verified landlords. To avoid scams, the landlord only gets paid after you move in. Shows when the *[[Anmeldung]]* is possible.  No *[[Schufa]]* needed.[^51] Preferred by relocation consultants.
 - **[HousingAnywhere](/out/housinganywhere)**{% include '_blocks/recommended.html' %}  
     Verified landlords. To avoid scams, the landlord only gets paid after you move in.[^39] Shows when the *[[Anmeldung]]* is possible. No *[[Schufa]]* needed.[^49] Some apartments have no [deposit](/glossary/Kaution).
 - [Wunderflats](/out/wunderflats) - There are many scammers on this platform.[^18] Shows when the *[[Anmeldung]]* is possible. No *[[Schufa]]* needed.
@@ -344,7 +342,7 @@ If you like the apartment, apply for it as soon as you can. Send the [required d
 To apply for an apartment, you need these documents:[^19]
 
 - [ ] **[[Schufa]] report**  
-    Most landlords require it. It costs {{SCHUFA_REPORT_FEE|cur}}€, but you can [get it for free](/guides/schufa). It should be less than 2 months old. [If you can't get a Schufa](/guides/schufa#if-you-cant-get-a-schufa), bring other proofs of income. Furnished apartments from [Homelike](/out/homelike), [HousingAnywhere](/out/housinganywhere), [Spotahome](/out/spotahome) and [Wunderflats](/out/wunderflats) don't ask for a Schufa.
+    Most landlords require it. It costs {{SCHUFA_REPORT_FEE|cur}}€, but you can [get it for free](/guides/schufa). It should be less than 2 months old. [If you can't get a Schufa](/guides/schufa#if-you-cant-get-a-schufa), bring other proofs of income. Furnished apartments from [HousingAnywhere](/out/housinganywhere), [Spotahome](/out/spotahome) and [Wunderflats](/out/wunderflats) don't ask for a Schufa.
 - [ ] **Proof of income** (*Einkommensnachweis*)
     - **If you are an employee**  
         Bring your work contract or a [certificate of employment](/glossary/Arbeitgeberbescheinigung), and your last 3 [payslips](/glossary/Gehaltsabrechnung). A certificate of employment is better than a contract, because it's easier to read.
@@ -572,7 +570,6 @@ A [real estate agent](#real-estate-agents) can help you find an apartment. A *[[
 [^47]: [reddit.com](https://old.reddit.com/r/berlinsocialclub/comments/14rdwit/landlord_doesnt_provide/), [reddit.com](https://old.reddit.com/r/berlin/comments/nfjm73/landlord_doesnt_want_to_provide/)
 [^49]: [Trustpilot](https://ie.trustpilot.com/review/housinganywhere.com?search=schufa&sort=recency) (2021), [HousingAnywhere](https://housinganywhere.com/Berlin--Germany/rent-in-berlin#:~:text=you%20can%20rent%20via%20platforms%20like%20housinganywhere)
 [^50]: [Reddit](https://old.reddit.com/r/berlin/comments/1bs7hxc/this_is_the_berlin_housing_market_in_2024/kxdydoa/) (April 2024)
-[^51]: [Reddit](https://old.reddit.com/r/germany/comments/v898h3/how_to_find_an_apartment_with_no_schufa/ikss0hp/) (2023), [Homelike](https://www.thehomelike.com/blog/schufa-in-germany/#:~:text=via%20a%20website%20like%20homelike)
 [^52]: [Christine Gerkrath](https://www.moveto-berlin.com/en/) (March 2024)
 [^53]: Kevin at [GetTheFlat](https://gettheflat.com/) (March 2024), [Christine Gerkrath](https://www.moveto-berlin.com/en/) (March 2024), [Emily Archer](https://www.archer-relocation.com/) (March 2024)
 [^54]: [Christine Gerkrath](https://www.moveto-berlin.com/en/) (March 2024)

@@ -15,7 +15,7 @@ After you [move to Berlin](/guides/find-a-flat-in-berlin) and [find an apartment
 
 **Always see the apartment in person** before you sign the lease. There are many [housing scams](/guides/housing-scams) online.
 
-If you are not in Germany and you can't visit the apartment, get [short-term housing](/guides/find-a-flat-in-berlin#short-term-housing) from a verified landlord. [Homelike](/out/homelike), [HousingAnywhere](/out/housinganywhere) and [Spotahome](/out/spotahome) have verified landlords.
+If you are not in Germany and you can't visit the apartment, get [short-term housing](/guides/find-a-flat-in-berlin#short-term-housing) from a verified landlord. [HousingAnywhere](/out/housinganywhere) and [Spotahome](/out/spotahome) have verified landlords.
 
 ### Sign the lease
 

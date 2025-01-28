@@ -172,7 +172,7 @@ Signs of a scam:
 - 🛑 You must pay to visit the apartment
 - ⚠️ There is a [key safe](https://commons.wikimedia.org/wiki/File:Key_safe_combination_wall_mounted.jpg) in the entrance. It might be scammers renting a vacation apartment.
 
-Always see the apartment in person. If you are not in Germany, **use a platform with verified landlords** like [Homelike](/out/homelike), [HousingAnywhere](/out/housinganywhere) or [Spotahome](/out/spotahome). They only pay the landlord after you [move in](/guides/moving-in). If the apartment is not as described, you get your money back.
+Always see the apartment in person. If you are not in Germany, **use a platform with verified landlords** like [HousingAnywhere](/out/housinganywhere) or [Spotahome](/out/spotahome). They only pay the landlord after you [move in](/guides/moving-in). If the apartment is not as described, you get your money back.
 
 **Don't pay anything** before you see the apartment and sign a lease.
 

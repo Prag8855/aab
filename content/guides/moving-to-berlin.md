@@ -52,7 +52,7 @@ It's *really* hard to find an apartment in Berlin. It can take months. Rent a te
 
 Before you [move in](/guides/moving-in), you must pay the first month's rent, and 1/3 of the deposit (*[[Kaution]]*). You pay the rent by [bank transfer](/glossary/SEPA-%C3%9Cberweisung). [Open a bank account](/guides/best-bank-germany) or use [Wise](/out/wise) to send money from another country.
 
-Be careful while looking for apartments. There are a lot of [housing scams](/guides/housing-scams). If you are not in Germany, use a platform with verified landlords like [Homelike](/out/homelike), [HousingAnywhere](/out/housinganywhere) or [Spotahome](/out/spotahome). They only pay the landlord after you [move in](/guides/moving-in). If the apartment is not as described, you get your money back.
+Be careful while looking for apartments. There are a lot of [housing scams](/guides/housing-scams). If you are not in Germany, use a platform with verified landlords like [HousingAnywhere](/out/housinganywhere) or [Spotahome](/out/spotahome). They only pay the landlord after you [move in](/guides/moving-in). If the apartment is not as described, you get your money back.
 
 ### Get health insurance
 

@@ -43,7 +43,7 @@ You can't get a Schufa in person at the bank anymore.[^1]
 
 Bring other proofs of income, such as what?
 
-Short-term apartments (from [Homelike](/out/homelike), [HousingAnywhere](/out/housinganywhere), [Spotahome](/out/spotahome), [Wunderflats](/out/wunderflats)) rarely require a Schufa. They can help you get your first apartment without a stable job.
+Short-term apartments (from [HousingAnywhere](/out/housinganywhere), [Spotahome](/out/spotahome), [Wunderflats](/out/wunderflats)) rarely require a Schufa. They can help you get your first apartment without a stable job.
 
 **[Look for short-term apartments ➞](/guides/find-a-flat-in-berlin#short-term-and-furnished-apartments)**
 
