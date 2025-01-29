@@ -43,8 +43,8 @@ If you register a *Gewerbe*, you must...
 - **Get a trade licence** (*[[Gewerbeschein]]*)
 - **Pay the trade tax** (*[[Gewerbesteuer]]*)  
     In Berlin, sole proprietors give an extra {{ GEWERBESTEUER_MESSBETRAG * (GEWERBESTEUER_HEBESATZ_BERLIN - GEWERBESTEUER_TAX_CREDIT) }}% of their profit for trade tax. - [How the trade tax works](/guides/gewerbesteuer)
-- **Join the [[IHK]] and pay membership fees**  
-    In many cities, IHK membership is mandatory for a *Gewerbe*. The membership fee is a percentage of your profits. - [Fee calculator for Berlin](https://www.ihk.de/berlin/ueber-uns/mitgliedschaft-und-beitrag/das-verfahren-der-beitragserhebung/beitragsberechnung-2280534)
+- **Join the [[IHK]] and pay the membership fee**  
+    In Berlin, if you are a *Gewerbetreibender*, you automatically join the [[IHK]]. You must pay the membership fee. The fee is a few hundred euros per year. - [Fee calculator for Berlin](https://www.ihk.de/berlin/ueber-uns/mitgliedschaft-und-beitrag/das-verfahren-der-beitragserhebung/beitragsberechnung-2280534)
 - **Get listed in the trade register** (*[[Handelsregister]]*)  
     If you are a sole proprietor (*Einzelunternehmer*), this is rarely required.
 - **Use double entry bookkeeping**  
@@ -88,6 +88,12 @@ Some *Gewerbe* must be listed in the German trade register (*[[Handelsregister]]
 **[Who needs a Handelsregister entry? ➞](/guides/handelsregisternummer-germany#who-needs-a-handelsregister-entry)**
 
 You can request an entry in the *Handelsregister* when you fill the *[Fragebogen zur steuerlichen Erfassung](/guides/fragebogen-zur-steuerlichen-erfassung)*.
+
+### IHK membership
+
+In Berlin, if you are a *Gewerbetreibender*, you automatically join the [[IHK]]. You must pay the membership fee. The fee is a few hundred euros per year.
+
+**[IHK membership fee calculator ➞](https://www.ihk.de/berlin/ueber-uns/mitgliedschaft-und-beitrag/das-verfahren-der-beitragserhebung/beitragsberechnung-2280534)**
 
 ### Double entry bookkeeping
 
