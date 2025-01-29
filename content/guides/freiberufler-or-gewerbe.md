@@ -111,9 +111,13 @@ Double entry bookkeeping is more work for you. You can be exempted from double e
 
 **You have no choice.** The *[[Finanzamt]]* decides what you are when you [register your business](/guides/fragebogen-zur-steuerlichen-erfassung).[^16] The *[[Ausländerbehörde]]* uses the same definition as the *Finanzamt* when you [apply for a freelance visa](/guides/freelance-visa).
 
-If you register as a *Freiberufler*, but the *Finanzamt* decides that you are a *Gewerbetreibender*, they can make you pay [trade tax](/glossary/Gewerbesteuer) retroactively.[^21]
+If you register as a *Freiberufler*, but the *Finanzamt* decides that you are a *Gewerbetreibender*, they make you pay [trade tax](/glossary/Gewerbesteuer) retroactively.[^21] The [[IHK]] makes you pay the membership fee retroactively.[^4]
 
-Sometimes, it's not clear. If you are not sure, [ask for help](/guides/questions-about-berlin#business-questions).
+You can be a *Freiberufler* and a *Gewerbetreibender* at the same time. You might need 2 [tax numbers](/glossary/Steuernummer): one for your *Freiberufler* activities, one for your *Gewerbetreibender* activities. You might need to do separate bookkeeping for each activity, and declare both incomes independently.[^5]
+
+If you are mostly in one category, it's okay if you do a little bit of the other category. It should not affect your status.
+
+If you are not sure, [ask for help](/guides/questions-about-berlin#business-questions).
 
 ## Need help?
 
@@ -122,10 +126,12 @@ Sometimes, it's not clear. If you are not sure, [ask for help](/guides/questions
 [^1]: [§21 Abs. 1, 2a or 5 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html)
 [^2]: [§21 Abs. 4 and 5 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html), [Berlin.de](https://service.berlin.de/dienstleistung/326564/#:~:text=keine%20freiberufliche), [sachsen.de](https://www.zuwanderung.sachsen.de/SMI_Zuwanderung_Infoblatt_Selbststaendige.pdf) (page 9)
 [^3]: [ihk.de](https://www.ihk.de/schwerin/existenzgruendung/existenzgruendung/tipps-rund-um-die-gruendung/selbststaendigkeit-als-gewerbetreibender-oder-freiberufler-3032726#:~:text=zu%20den%20%22dienstleistungen%20hoherer%20art%22)
+[^4]: This happened to me
+[^5]: Sebastian Hoffmann from [Touring Artists](https://www.touring-artists.info/en/home) (November 2024)
 [^12]: [fuer-gruender.de](https://www.fuer-gruender.de/wissen/unternehmen-gruenden/finanzen/buchfuehrung/bilanzierung/)
 [^14]: [§18 EStG](https://www.gesetze-im-internet.de/estg/__18.html), [Wikipedia](https://de.wikipedia.org/wiki/Freier_Beruf_\(Deutschland\)), [IHK Hamburg](https://www.ihk.de/hamburg/produktmarken/beratung-service/recht-und-steuern/steuerrecht/real-kommunale-steuern/abgrenzung-gewerbebetrieb-freie-berufe-1157144#titleInText8)
 [^15]: §148 AO in [English](https://www.gesetze-im-internet.de/ao_1977/__148.html) and [German](https://www.gesetze-im-internet.de/ao_1977/__148.html)
 [^16]: [kultur-kreativ-wirtschaft.de](https://www.kultur-kreativ-wirtschaft.de/KUK/Redaktion/DE/Standardartikel/freier-beruf-gewerbe.html#:~:text=die%20entscheidung%2C%20ob%20ihre%20tatigkeit%20freiberuflich%20oder%20gewerblich%20ist)
 [^17]: [allaboutberlin.com](/guides/website-freiberuf-or-gewerbe)
 [^18]: [ihk.de](https://www.ihk.de/schwerin/existenzgruendung/existenzgruendung/tipps-rund-um-die-gruendung/selbststaendigkeit-als-gewerbetreibender-oder-freiberufler-3032726), [selbststaendig.de](https://www.selbststaendig.de/geschaeftsideen/paketdienst), [uber.com](https://www.uber.com/de/de/drive/requirements/), [haufe.de](https://www.haufe.de/finance/haufe-finance-office-premium/fotografische-taetigkeit-freiberuflich-oder-gewerblich_idesk_PI20354_HI20924.html), [gewerbeanmeldung.de](https://www.gewerbeanmeldung.de/gewerbe-anmelden/fotograf#:~:text=grundlagen%20zur%20selbststandigen%20tatigkeit%20als%20fotograf%3A%20freiberuflich%20oder%20gewerblich%3F)
-[^21]: This happened to All About Berlin
+[^21]: This happened to me
