@@ -10,7 +10,7 @@ Related_guides:
     guides/sick-leave.md
 ---
 
-Job disability insurance (*Berufsunfähigkeitsversicherung*) pays you a salary if you are permanently unable to do your job. For example, if you are a surgeon and you lose your fingers, or you suffer from a burnout.
+Job disability insurance (*Berufsunfähigkeitsversicherung*) pays you a salary if you are permanently unable to do your job. For example, if you are a surgeon and you lose your fingers, or you suffer from a burnout. It's sometimes called income protection insurance.
 
 This insurance is useful if you have people who depend on you, or if you have a mortgage to pay. The price varies by profession. It's usually cheap, because accidents that prevent you from doing your job are rare. It can be more expensive if burnout is common in your industry.
 

@@ -104,7 +104,7 @@ Use [Verivox](/out/verivox-kfz) or [Tarifcheck](/out/tarifcheck-kfz) to compare 
 
 ## Disability insurance ([[Berufsunfähigkeitsversicherung]])
 
-This translates to "professional disability insurance". If you have an accident and can't do your job anymore, this insurance will help you. For example, if you are a surgeon and you lose a finger, this insurance can be useful. It's also useful for office workers who can suffer from burnout.
+This translates to "professional disability insurance" or "income protection insurance". If you have an accident and can't do your job anymore, this insurance will help you. For example, if you are a surgeon and you lose a finger, this insurance can be useful. It's also useful for office workers who can suffer from burnout.
 
 This insurance makes sense if you have people who depend on you, or a mortgage to pay. If you can't work, you can still take care of your family. Around 26% of Germans have disability insurance.[^4]
 
