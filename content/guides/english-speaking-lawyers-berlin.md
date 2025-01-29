@@ -85,6 +85,7 @@ There are many ways to get free legal help for housing. You should join a *[[Mie
 
 ## Other lists of lawyers
 
+- [Find lawyers by language and specialisation](https://anwaltssuche.rav.de/)
 - [Red Tape Translation's list](https://redtapetranslation.com/a-2019-directory-of-english-speaking-lawyers-in-berlin/) (2022){{ fail_on('2027-01-01')}}
 
 [^0]: [Finanztip](https://www.finanztip.de/anwaltskosten/)
