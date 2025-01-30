@@ -842,6 +842,10 @@ main{
 
         border-bottom: var(--b-box);
 
+        span{
+            white-space: nowrap;
+        }
+
         span + span {
             margin: 0 0 0 var(--m);
 
