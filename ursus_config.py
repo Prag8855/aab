@@ -629,7 +629,7 @@ config.context_globals = {
     "HUNDEFUHRERSCHEIN_FEE": 94,
 
     # (€) - service.berlin.de/dienstleistung/121627
-    "DRIVING_LICENCE_FEE": 49.80,
+    "DRIVING_LICENCE_FEE": 51.81,
 
     # (€) - https://service.berlin.de/dienstleistung/327537/
     "DRIVING_LICENCE_CONVERSION_FEE": 36.30,
