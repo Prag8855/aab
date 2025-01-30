@@ -9,4 +9,4 @@ Date_created: 2024-04-25
 
 The{% include '_blocks/recommended.html' %} tag means that this is the best option for most people.
 
-Recommendations are never sponsored or affected by advertisers.
+This is a personal recommendation. It is based on my knowledge and experience. Recommendations are never sponsored or affected by advertisers.
