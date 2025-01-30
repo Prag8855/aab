@@ -87,9 +87,12 @@ Travel insurance is not accepted when you apply for a residence permit.
 
 These insurers usually work:
 
-- **[Feather](/out/feather-expats)** works really well.[^12] They have public, private and expat health insurance. They speak English. I got my own insurance from them. I trust them the most.
-- **[Ottonova](/out/ottonova-expats)** works well too.[^4] They sell private and expat health insurance. They speak English. They are not the cheapest long-term option. - [My review of Ottonova](/guides/ottonova-review)
-- **[Care Concept](/out/care-concept)** is usually accepted.[^5] It's not the best insurance, but it works.
+- **[Feather](/out/feather-expats)**{% include '_blocks/recommended.html' %}  
+    It works really well.[^12] They sell public, private and expat health from a few companies. They speak English. I got my own insurance from them. I trust them the most.
+- **[Ottonova](/out/ottonova-expats)**  
+    It works well too.[^4] They sell their own private and expat health insurance. They speak English. They are not the cheapest long-term option. - [My review of Ottonova](/guides/ottonova-review)
+- **[Care Concept](/out/care-concept)**  
+    It's usually accepted.[^5] It's not the best insurance, but it works.
 - **[April International](https://de.april-international.com/de)**[^7]
 - **[aLC](https://www.alchealth.com/)**[^6]
 - **[Allianz Worldwide Care](https://www.allianzcare.com/en.html)**[^13]
