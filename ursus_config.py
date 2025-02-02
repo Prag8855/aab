@@ -632,7 +632,7 @@ config.context_globals = {
     "DRIVING_LICENCE_FEE": 51.81,
 
     # (€) - https://service.berlin.de/dienstleistung/327537/
-    "DRIVING_LICENCE_CONVERSION_FEE": 36.30,
+    "DRIVING_LICENCE_CONVERSION_FEE": 37.50,
 
     # (€) - https://www.meineschufa.de/, https://bonitaetscheck.immobilienscout24.de/ - NOT WATCHED
     "SCHUFA_REPORT_FEE": fail_on('2025-07-01', 29.95),
