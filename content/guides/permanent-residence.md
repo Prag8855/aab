@@ -17,7 +17,7 @@ As a permanent resident, you can...
 
 This guide explains how to apply for permanent residence in Berlin.
 
-**December 2024 update:** The *Ausländerbehörde* just changed the application process. You can now [apply online](https://www.berlin.de/einwanderung/en/services/our-services/artikel.878424.en.php). I will update these instructions as soon as I can. You might need different documents when you apply.
+**December 2024 update:** The application process has changed. You must [apply online](https://www.berlin.de/einwanderung/en/services/our-services/artikel.878424.en.php). You now need a language certificate and an integration test certificate.
 
 {% include "_blocks/tableOfContents.html" %}
 
@@ -240,7 +240,7 @@ The requirements and the application process are the same. If you qualify for th
 
 ## How to apply in Berlin
 
-**December 2024 update:** The *Ausländerbehörde* just changed the application process. You can now [apply online](https://www.berlin.de/einwanderung/en/services/our-services/artikel.878424.en.php). I will update these instructions as soon as I can. You might need different documents when you apply.
+**December 2024 update:** The *Ausländerbehörde* just changed the application process. You can now [apply online](https://www.berlin.de/einwanderung/en/services/our-services/artikel.878424.en.php), but you need a language certificate and an integration test certificate. I will update these instructions as soon as I can.
 
 In Berlin, **it takes [4 to 9 months](/guides/auslanderbehorde-wait-times)** to get permanent residence.[^5]{{ fail_on('2025-05-15') }}.
 
@@ -248,7 +248,18 @@ If you don't live in Berlin, you must [find your local *Ausländerbehörde*](htt
 
 **If you need help**, an [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocation consultant](/guides/relocation-agency-in-berlin) can take care of everything. It costs 500€ to 2,000€.[^45] It's a [tax-deductible](/glossary/steuerlich%20absetzbar) expense.
 
-### 1. Prepare your application
+### 1. Take an integration test
+
+Since late 2024, you need a certificate from...
+
+- **The citizenship test** (*Einbürgerungstest*){% include '_blocks/recommended.html' %}  
+    You must book an appointment. Then you go to your appointment in person to book a test date. The test costs {{CITIZENSHIP_TEST_FEE|cur}}€. It has 33 questions, multiple choice. In Berlin, it's really hard to get an appointment because there are no free slots. It can be faster to take the test in another city. After you take the test, it takes 6 to 10 weeks to get the results.[^30]
+- or **the integration course test** (*Leben in Deutschland* test)  
+    This is the same test, but you must take an integration course at the *[[Volkshochschule]]* first. The course is very boring.[^31]
+
+If you graduated from a German high school or university, you don't need this test.[^3]
+
+### 2. Prepare your application
 
 Before you apply for permanent residence, prepare your documents.
 
@@ -256,7 +267,7 @@ If you are self-employed, some documents must be prepared by a [tax advisor](/gl
 
 **[Required documents ➞](#required-documents)**
 
-### 2. Apply for permanent residence
+### 3. Apply for permanent residence
 
 [Use the *Ausländerbehörde* contact form](/guides/immigration-office#how-to-contact-the-auslanderbehorde) to send all the [required documents](#required-documents). Send your application to the [correct department](/guides/immigration-office#departments). Choose departments E1 to E6, not B1 to B4.[^76]
 
@@ -264,7 +275,7 @@ This is the only way. You can't go to the *Ausländerbehörde* without an appoin
 
 **[How to send your application ➞](/guides/residence-permit#send-your-application)**
 
-### 3. Wait
+### 4. Wait
 
 The *Ausländerbehörde* will process your application. There is no way to track your application. You must wait for their response. It takes [a few months](/guides/auslanderbehorde-wait-times).
 
@@ -272,7 +283,7 @@ While you wait, your current [[National Visa]] or residence permit might expire.
 
 **[What happens while you wait ➞](/guides/residence-permit#wait)**
 
-### 4. Go to your appointment
+### 5. Go to your appointment
 
 [A few months later](/guides/auslanderbehorde-wait-times), the *[[Ausländerbehörde]]* will email you an appointment date. If you get an appointment, you are almost guaranteed to get your permanent residence.
 
@@ -284,7 +295,7 @@ The appointment takes around 15 minutes.[^4] They ask you [questions in German](
 
 If your permanent residence is approved, you will get another appointment to pick up your plastic residence card.
 
-### 5. Get your permanent residence card
+### 6. Get your permanent residence card
 
 Go to your second *[[Ausländerbehörde]]* appointment and pick up your permanent residence card.
 
@@ -294,9 +305,7 @@ Go to your second *[[Ausländerbehörde]]* appointment and pick up your permanen
 
 ## Required documents
 
-These are the required documents **in Berlin**. If you apply elsewhere, they require different documents. Check the website of the *[[Ausländerbehörde]]* where you apply.
-
-**December 2024 update:** The *Ausländerbehörde* just changed the application process. The required documents have changed. You might need a language test and an integration test.
+These are the required documents **in Berlin**. In other cities, you need different documents. Check the website of the *[[Ausländerbehörde]]* where you apply.
 
 **[When you apply online](#apply-for-permanent-residence)**, use PDF files or photos. Don't use word documents or other formats. If you have too many documents, [merge them](https://www.adobe.com/acrobat/online/merge-pdf.html) or [make them smaller](https://www.adobe.com/acrobat/online/compress-pdf.html). You can also [mail your documents](/guides/mail-a-letter), but it's not better or faster.
 
@@ -306,6 +315,12 @@ These are the required documents **in Berlin**. If you apply elsewhere, they req
 
 - [ ] **Passport**  
     When you [apply online](#apply-for-permanent-residence), include a colour scan of your passport. When you [go to your appointment](#go-to-your-appointment), bring your original passport. You get it back during the appointment; they do not keep it.[^70]
+- [ ] **Language certificate
+- [ ] **Proof of integration**  
+    You need a certificate from one of these courses:
+    - **Citizenship test** (*Einbürgerungstest*)
+    - or **"Leben in Deutschland" test**
+    - or **integration course** (*Integrationskurs*)
 - [ ] **Proof of health insurance**  
     You need valid [health insurance](/glossary/Krankenversicherung). Travel insurance is not accepted.
     - [ ] **Health insurance card**
@@ -337,11 +352,6 @@ If you receive social benefits like *[[Kindergeld]]*, *Kinderzuschlag*, *Elterng
 
 - [ ] **Proof of social benefits**  
     Bring certificates and other documents that prove that you receive those social benefits.[^57]
-
-In Berlin, these documents are optional:
-
-- [ ] **Language certificate** or **integration course certificate**  
-    This proves that you speak German. [Book a language test](https://www.testdaf.de/de/teilnehmende/mein-testdaf/testdaf-termine-und-anmeldung/) to get one. In Berlin, you don't need it. If you can answer questions in German during your *[[Ausländerbehörde]]* appointment, your German is good enough.[^3]
 
 ### For employees
 
@@ -435,7 +445,7 @@ An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocatio
 
 [^1]: [Reddit](https://old.reddit.com/r/germany/comments/1ak968q/permanent_residency_for_blue_card_holders_after/?chainedPosts=t3_1cowqgx#:~:text=questions%20i%20was%20asked%20to%20prove%20my%20german%20skills) (January 2024), [Reddit](https://old.reddit.com/r/berlin/comments/px2rvt/got_my_niederlassungserlaubnis_permanent_residence/hfzktnz/) (2023), [Facebook](https://www.facebook.com/groups/226825394858771/posts/1017387822469187/) (2022), [Facebook](https://www.facebook.com/groups/226825394858771/posts/1634929630715000/) (2024), [Reddit](https://old.reddit.com/r/berlin/comments/16frw8y/my_permanent_residence_experience/k08n1z0/) (2023), [Reddit](https://old.reddit.com/r/germany/comments/10pxr3u/blue_card_to_permanent_residence_my_experience/j6nyx2m/) (2023)
 [^2]: [ArbeitNow](https://www.arbeitnow.com/blog/blue-card-to-permanent-residence-in-germany#timeline-of-my-application) (April 2021), [Reddit](https://old.reddit.com/r/germany/comments/1ak968q/permanent_residency_for_blue_card_holders_after/?chainedPosts=t3_1cowqgx#:~:text=asked%20me%20to%20add%201%20additional%20document) (January 2024), [Reddit](https://old.reddit.com/r/askberliners/comments/1e4sydl/confusion_communicating_with_ausl%C3%A4nderbeh%C3%B6rde/) (July 2024), personal experience (February 2024), [Facebook](https://www.facebook.com/groups/226825394858771/posts/1090992265108742/) (2022), [Facebook](https://www.facebook.com/groups/226825394858771/posts/1118435285697773/) (2022)
-[^3]: [Berlin.de](https://service.berlin.de/dienstleistung/121864/#:~:text=sie%20konnen%20bei%20vorsprache%20ihre%20ausreichenden%20deutschkenntnisse%20sowie) (June 2024), [Reddit](https://old.reddit.com/r/germany/comments/1ak968q/permanent_residency_for_blue_card_holders_after/?chainedPosts=t3_1cowqgx#:~:text=i%20did%20not%20have%20language%20certificate) (January 2024), multiple relocation consultants (June 2024), [ArbeitNow](https://www.arbeitnow.com/blog/blue-card-to-permanent-residence-in-germany#:~:text=they%20didn't%20ask%20for%20the%20language%20certificate) (April 2021), [Reddit](https://old.reddit.com/r/berlin/comments/16frw8y/my_permanent_residence_experience/#:~:text=no%20one%20asked%20me%20to%20bring%20one%20either) (September 2023), [Reddit](https://old.reddit.com/r/germany/comments/10pxr3u/blue_card_to_permanent_residence_my_experience/j6r3nh7/) (2023), [Facebook](https://www.facebook.com/groups/226825394858771/posts/791422385065733/) (2021), [Reddit](https://old.reddit.com/r/askberliners/comments/1d48qxr/einb%C3%BCrgerungstestleben_in_deutschland_now/) (2024), [Facebook](https://www.facebook.com/groups/226825394858771/posts/1581723422702288/) (2024)
+[^3]: [VAB 9.2.1.8](/out/vab) (February 2025), [Berlin.de](https://service.berlin.de/dienstleistung/351180/) (February 2025)
 [^4]: [Reddit](https://old.reddit.com/r/berlin/comments/1cowqgx/my_experience_with_permanent_residence_application/?chainedPosts=t3_1d19oiz#:~:text=less%20than%2010%20mins%2C%20i%20guess) (May 2024)
 [^5]: [Reddit](https://old.reddit.com/r/berlin/comments/1cowqgx/my_experience_with_permanent_residence_application/?chainedPosts=t3_1d19oiz#:~:text=My-,timeline,-2023%2F09%2F06) (May 2024), [Reddit](https://old.reddit.com/r/berlin/comments/16frw8y/my_permanent_residence_experience/k0471iy/) (September 2023), [ArbeitNow](https://www.arbeitnow.com/blog/blue-card-to-permanent-residence-in-germany#timeline-of-my-application) (April 2021), [Google Docs](https://docs.google.com/spreadsheets/d/11Kqt5OB1T8QhnVsf0ZCrdWmauNpjalP5xllCDayLFFM/edit?gid=0#gid=0) (2024), [Reddit](https://old.reddit.com/r/berlin/comments/1djlvnw/my_8_month_pr_experience/) (June 2024)
 [^6]: [§21 Abs. 4 and 5 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html), [Berlin.de](https://service.berlin.de/dienstleistung/326564/#:~:text=keine%20freiberufliche), [sachsen.de](https://www.zuwanderung.sachsen.de/SMI_Zuwanderung_Infoblatt_Selbststaendige.pdf) (page 9), [iQ Netzwerk](https://www.ggua.de/fileadmin/downloads/tabellen_und_uebersichten/Tabelle_Niederlassungserlaubnis_2022.pdf) (page 13, 2022)
@@ -462,6 +472,8 @@ An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocatio
 [^27]: [§28 Abs. 2 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__28.html), [Berlin.de](https://service.berlin.de/dienstleistung/327012/en/#:~:text=Family%20cohabitation%20with,still%20be%20current.) (June 2024)
 [^28]: [§9 Abs. 3a AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__9.html), [jurati.eu](https://www.jurati.eu/immigration_law/settlement_permit/)
 [^29]: [Berlin.de](https://service.berlin.de/dienstleistung/327012/en/#:~:text=at%20least%203-,years,-and%20still%20be) (June 2024)
+[^30]: [Reddit](https://old.reddit.com/r/askberliners/comments/1i5k14b/how_do_i_book_an_einb%C3%BCrgerung_or_leben_in/) (January 2025), [Reddit](https://old.reddit.com/r/askberliners/comments/1dzybe1/lebens_in_deutschlandintegrations_test/lcmxvr0/) (July 2024), [FragDenStaat](https://fragdenstaat.de/anfrage/zu-lange-bearbeitungsfrist-fuer-einbuergerungstest/), [Berlin.de](https://www.berlin.de/vhs-tempelhof-schoeneberg/kurse/deutsch-als-zweitsprache/pruefungen-und-abschluesse/einbuergerung/) (February 2025)
+[^31]: [Elliot Herman](https://www.sorted.berlin/) (January 2025), [Reddit](https://old.reddit.com/r/askberliners/comments/1hy5bwd/question_about_vhs_deutsch_integrationskurs/) (January 2025)
 [^32]: [VAB 9a.2.1.2](/out/vab) (July 2024)
 [^33]: [BAMF](https://www.bamf.de/DE/Themen/MigrationAufenthalt/ZuwandererDrittstaaten/Migrathek/Niederlassen/niederlassen-node.html#:~:text=deutschen%20Sprache%20verf%C3%BCgen.-,familienangehorige%20von%20auslandischen%20personen,-Bei%20Ehegatten%2C%20die), [§35 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__35.html), [Berlin.de](https://service.berlin.de/dienstleistung/324863/) (July 2024), [anwalt-diedrich.de](https://www.anwalt-diedrich.de/home/anwalt-auslaenderrecht/niederlassungserlaubnis/kinder/) (July 2024)
 [^35]: [ArbeitNow](https://www.arbeitnow.com/blog/blue-card-to-permanent-residence-in-germany#getting-pension-contributions-faster-rentenversicherung) (April 2021), Reader feedback (June 2024), Oliver at [SympatMe](https://sympat.me) (June 2024)

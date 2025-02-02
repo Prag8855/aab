@@ -88,8 +88,6 @@ You can also take an educational leave (*Bildungsurlaub*). You can take up to 5 
     Goethe is a non-profit German cultural association.[^7] They offer online and offline classes.
 - **[Volkshochschule (VHS)](https://www.berlin.de/vhs/service/vhs-in-english/learning-german/learning-german/learning-german-761377.en.php)**  
     The community colleges (*[[Volkshochschule]]*) have German classes. To join a class, you must take a placement test. I tried to take classes at the VHS, but found it too difficult to sign up for classes.
-- **Integration courses**  
-    [https://www.berlin.de/vhs/kurs...](https://www.berlin.de/vhs/kurse/deutsch-integration/integrationskurse/integration-courses-403809.en.php)
 
 ### Private language schools
 

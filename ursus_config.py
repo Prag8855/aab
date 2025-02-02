@@ -474,6 +474,9 @@ config.context_globals = {
     "BESCHV_26_1_COUNTRIES": or_join(beschv_26_1_countries),
     "BESCHV_26_2_COUNTRIES": or_join(beschv_26_2_countries),
 
+    # Not watched - https://www.berlin.de/vhs-tempelhof-schoeneberg/kurse/deutsch-als-zweitsprache/pruefungen-und-abschluesse/einbuergerung/
+    "CITIZENSHIP_TEST_FEE": fail_on('2025-12-31', 25),
+
     # ==============================================================================
     # TAXES
     # ==============================================================================
