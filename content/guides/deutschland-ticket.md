@@ -43,7 +43,7 @@ You can't use [hvv Switch](https://www.hvv-switch.de/en/) with foreign credit ca
 
 The Deutschland Ticket is a subscription. You can't buy it from a ticket machine.
 
-Tourists should **get a Deutschland Ticket from [deutschland-ticket.store](https://deutschland-ticket.store/autobus-oberbayern?lang=en)**. You can pay with foreign credit cards.[^4] It's the easiest option because it should cancel automatically.[^5] Your ticket is a QR code. You can see your ticket it in the [Bconn app](https://play.google.com/store/apps/details?id=de.bconn.wallet&hl=en_US). It might take time to process, so buy it in advance.[^1]
+Tourists should **get a Deutschland Ticket from [deutschland-ticket.store](https://deutschland-ticket.store/autobus-oberbayern?lang=en)**. You can pay with foreign credit cards.[^4] You must still manually cancel your subscription before the end of the month.[^5] Your ticket is a QR code. You can see your ticket it in the [Bconn app](https://play.google.com/store/apps/details?id=de.bconn.wallet&hl=en_US). It might take time to process, so buy it in advance.[^1]
 
 **The other option is [mo.pla](https://en.mopla.solutions/en/tickets/deutschlandticket)**, because it accepts credit cards and it's easy to cancel. Their app is only on the German app store, but you can use their web app instead. You can get a digital ticket in the app, or a printable ticket.
 
@@ -90,4 +90,4 @@ You can cancel your ticket where you bought it.
 [^2]: Reader feedback (June 2024)
 [^3]: [seat61.com](https://www.seat61.com/train-travel-in-germany.htm#Deutschlandticket) (June 2024)
 [^4]: Reader feedback (July 2024)
-[^5]: [Reddit](https://old.reddit.com/r/germany/comments/16j7q22/can_tourist_from_non_eu_country_buy_49euro_ticket/k0t9n48/)
+[^5]: Reader feedback (January 2025)
