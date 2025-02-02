@@ -313,7 +313,7 @@ config.context_globals = {
     "GKV_FREIWILLIG_VERSICHERT_MIN_INCOME": fail_on('2025-12-31', 6150 * 12),
 
     # Above this income (€/mth), your employer pays for health insurance - §20 SGB IV
-    "GKV_AZUBI_FREIBETRAG": fail_on('2025-01-31', 325),
+    "GKV_AZUBI_FREIBETRAG": fail_on('2025-12-31', 325),
 
     # Above this income, it's no longer a Nebenjob
     "GKV_NEBENJOB_MAX_INCOME": bezugsgroesse * 0.75,
