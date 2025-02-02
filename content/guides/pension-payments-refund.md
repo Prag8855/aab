@@ -34,8 +34,8 @@ If you are a citizen of the [[European Union]], Iceland, Liechtenstein, Norway o
 
 There is an exception.[^1] You can get a refund if:
 
-- you are at least 67 years old
-- **and** you don't qualify for a German pension
+- [ ] you are at least 67 years old
+- [ ] **and** you don't qualify for a German pension
 
 ### Contracting countries
 
@@ -57,37 +57,37 @@ If you are a citizen of these countries, you can sometimes get a German pension 
 
 You can get a pension refund if:
 
-- you made less than 60 monthly pension payments in Germany
-- **and** your last pension payment was more than 24 months ago
-- **and** you do not live in the [[European Union]], the United Kingdom Bosnia-Herzegovina, Kosovo, North Macedonia, Montenegro, Serbia or Turkey
+- [ ] you made less than 60 monthly pension payments in Germany
+- [ ] **and** your last pension payment was more than 24 months ago
+- [ ] **and** you do not live in the [[European Union]], the United Kingdom Bosnia-Herzegovina, Kosovo, North Macedonia, Montenegro, Serbia or Turkey
 
 You can also get a pension refund if:[^1]
 
-- you made less than 60 monthly German pension payments
-- **and** you are at least 67 years old
-- **and** you live anywhere in the world
+- [ ] you made less than 60 monthly German pension payments
+- [ ] **and** you are at least 67 years old
+- [ ] **and** you live anywhere in the world
 
 ### Bosnian and Herzegovinian citizens
 
 You can get a pension refund if:[^2]
 
-- you made less than 60 monthly German pension payments
-- **and** your last pension payment was more than 24 months ago
-- **and** you do not live in the [[European Union]], the United Kingdom, Bosnia-Herzegovina, Kosovo, North Macedonia, Montenegro, Serbia or Turkey
+- [ ] you made less than 60 monthly German pension payments
+- [ ] **and** your last pension payment was more than 24 months ago
+- [ ] **and** you do not live in the [[European Union]], the United Kingdom, Bosnia-Herzegovina, Kosovo, North Macedonia, Montenegro, Serbia or Turkey
 
 You can also get a pension refund if:[^1]
 
-- you made less than 60 monthly German pension payments
-- **and** you are at least 67 years old
-- **and** you live anywhere in the world
+- [ ] you made less than 60 monthly German pension payments
+- [ ] **and** you are at least 67 years old
+- [ ] **and** you live anywhere in the world
 
 ### British citizens
 
 You can get a pension refund if:
 
-- You did not work in Germany before Brexit (January 1, 2021)
-- **and** your last pension payment was more than 24 months ago
-- **and** you do not live in the [[European Union]], the United Kingdom, Bosnia-Herzegovina, Kosovo, North Macedonia, Montenegro, Serbia or Turkey
+- [ ] You did not work in Germany before Brexit (January 1, 2021)
+- [ ] **and** your last pension payment was more than 24 months ago
+- [ ] **and** you do not live in the [[European Union]], the United Kingdom, Bosnia-Herzegovina, Kosovo, North Macedonia, Montenegro, Serbia or Turkey
 
 If you worked in Germany before Brexit, you can't get a pension refund,[^4] not even for your pension payments after Brexit. When you are 67 years old, you will get a German pension.
 
@@ -95,15 +95,15 @@ If you worked in Germany before Brexit, you can't get a pension refund,[^4] not 
 
 You can get a pension refund if:[^5]
 
-- you do not live in Israel
-- **and** your last pension payment was more than 24 months ago
-- **and** you do not live in the [[European Union]], the United Kingdom, Bosnia-Herzegovina, Kosovo, North Macedonia, Montenegro, Serbia or Turkey
+- [ ] you do not live in Israel
+- [ ] **and** your last pension payment was more than 24 months ago
+- [ ] **and** you do not live in the [[European Union]], the United Kingdom, Bosnia-Herzegovina, Kosovo, North Macedonia, Montenegro, Serbia or Turkey
 
 You can also get a pension refund if:[^1]
 
-- you made less than 60 monthly German pension payments
-- **and** you are at least 67 years old
-- **and** you live anywhere in the world
+- [ ] you made less than 60 monthly German pension payments
+- [ ] **and** you are at least 67 years old
+- [ ] **and** you live anywhere in the world
 
 ### Japanese citizens
 
@@ -111,21 +111,21 @@ You can't get a refund while you live in Japan.[^6]
 
 You can't get a pension refund if:
 
-- you live in Japan
-- **and** your last pension payment was more than 24 months ago
-- **and** you made less than 60 monthly German pension payments
+- [ ] you live in Japan
+- [ ] **and** your last pension payment was more than 24 months ago
+- [ ] **and** you made less than 60 monthly German pension payments
 
 You can get a pension refund if:[^7]
 
-- you do not live in Japan
-- **and** your last pension payment was more than 24 months ago
-- **and** you do not live in the [[European Union]], the United Kingdom, Bosnia-Herzegovina, Kosovo, North Macedonia, Montenegro, Serbia or Turkey
+- [ ] you do not live in Japan
+- [ ] **and** your last pension payment was more than 24 months ago
+- [ ] **and** you do not live in the [[European Union]], the United Kingdom, Bosnia-Herzegovina, Kosovo, North Macedonia, Montenegro, Serbia or Turkey
 
 You can also get a pension refund if:[^1]
 
-- you made less than 60 monthly German pension payments
-- **and** you are at least 67 years old
-- **and** you live anywhere in the world
+- [ ] you made less than 60 monthly German pension payments
+- [ ] **and** you are at least 67 years old
+- [ ] **and** you live anywhere in the world
 
 ### Korean citizens
 
@@ -135,59 +135,59 @@ You can get a pension refund. Korea has a pension agreement with Germany. See th
 
 You can get a pension refund if:[^2]
 
-- you made less than 60 monthly German pension payments
-- **and** your last pension payment was more than 24 months ago
-- **and** you do not live in the [[European Union]], the United Kingdom, Bosnia-Herzegovina, Kosovo, North Macedonia, Montenegro, Serbia or Turkey
+- [ ] you made less than 60 monthly German pension payments
+- [ ] **and** your last pension payment was more than 24 months ago
+- [ ] **and** you do not live in the [[European Union]], the United Kingdom, Bosnia-Herzegovina, Kosovo, North Macedonia, Montenegro, Serbia or Turkey
 
 You can also get a pension refund if:[^1]
 
-- you made less than 60 monthly German pension payments
-- **and** you are at least 67 years old
-- **and** you live anywhere in the world
+- [ ] you made less than 60 monthly German pension payments
+- [ ] **and** you are at least 67 years old
+- [ ] **and** you live anywhere in the world
 
 ### Montenegrin citizens
 
 You can get a pension refund if:[^2]
 
-- you made less than 60 monthly German pension payments
-- **and** your last pension payment was more than 24 months ago
-- **and** you do not live in the [[European Union]], the United Kingdom, Bosnia-Herzegovina, Kosovo, North Macedonia, Montenegro, Serbia or Turkey
+- [ ] you made less than 60 monthly German pension payments
+- [ ] **and** your last pension payment was more than 24 months ago
+- [ ] **and** you do not live in the [[European Union]], the United Kingdom, Bosnia-Herzegovina, Kosovo, North Macedonia, Montenegro, Serbia or Turkey
 
 You can also get a pension refund if:[^1]
 
-- you made less than 60 monthly German pension payments
-- **and** you are at least 67 years old
-- **and** you live anywhere in the world
+- [ ] you made less than 60 monthly German pension payments
+- [ ] **and** you are at least 67 years old
+- [ ] **and** you live anywhere in the world
 
 ### Serbian citizens
 
 You can get a pension refund if:[^2]
 
-- you made less than 60 monthly German pension payments
-- **and** your last pension payment was more than 24 months ago
-- **and** you do not live in the [[European Union]], the United Kingdom, Bosnia-Herzegovina, Kosovo, North Macedonia, Montenegro, Serbia or Turkey
+- [ ] you made less than 60 monthly German pension payments
+- [ ] **and** your last pension payment was more than 24 months ago
+- [ ] **and** you do not live in the [[European Union]], the United Kingdom, Bosnia-Herzegovina, Kosovo, North Macedonia, Montenegro, Serbia or Turkey
 
 You can also get a pension refund if:[^1]
 
-- you made less than 60 monthly German pension payments
-- **and** you are at least 67 years old
-- **and** you live anywhere in the world
+- [ ] you made less than 60 monthly German pension payments
+- [ ] **and** you are at least 67 years old
+- [ ] **and** you live anywhere in the world
 
 ### Tunisian citizens
 
-**You can get a pension refund if**:[^8]
+You can get a pension refund if:[^8]
 
-- Your last pension payment was more than 24 months ago **and** you do not live in the [[European Union]], the United Kingdom, Bosnia-Herzegovina, Kosovo, North Macedonia, Montenegro, Serbia or Turkey
-- **or** you are at least 67 years old and you made less than 60 monthly German pension payments[^1]
+- [ ] Your last pension payment was more than 24 months ago **and** you do not live in the [[European Union]], the United Kingdom, Bosnia-Herzegovina, Kosovo, North Macedonia, Montenegro, Serbia or Turkey
+- [ ] **or** you are at least 67 years old and you made less than 60 monthly German pension payments[^1]
 
 If you live in Tunisia, you must use a Tunisian bank account for your refund.[^9]
 
 ### Turkish citizens
 
-**You can get a pension refund if:**[^10]
+You can get a pension refund if:[^10]
 
-- you made less than 60 monthly German pension payments[^11] **or** you live in Turkey since at least 24 months[^12]
-- **and** you don't pay social security contributions in Turkey[^13]
+- [ ] you made less than 60 monthly German pension payments[^11] **or** you live in Turkey since at least 24 months[^12]
+- [ ] **and** you don't pay social security contributions in Turkey[^13]
 
 If you are a Turkish citizen, and you work in Turkey, you can't get a pension refund,[^13] because you pay social security contributions in Turkey. If you are not a Turkish citizen, but you live and work in Turkey, you can still get a pension refund.[^9]
 
@@ -199,8 +199,8 @@ If you are a citizen of the United Kingdom, you can always contribute to your Ge
 
 There is an exception. You can get a refund if:
 
-- you are at least 67 years old
-- **and** you don't qualify for a German pension
+- [ ] you are at least 67 years old
+- [ ] **and** you don't qualify for a German pension
 
 ### Citizens of other countries
 
