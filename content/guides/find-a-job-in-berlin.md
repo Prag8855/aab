@@ -192,7 +192,7 @@ If you already have a residence permit, you might need the *[[Ausländerbehörde
 - **Your [tax ID](/glossary/Steueridentifikationsnummer)** (*Steueridentifikationsnummer*)  
     You get a tax ID when you [register your address](/glossary/Anmeldung) for the first time. If you can't register your address, you can still get a tax ID. If you can't get a tax ID, you can still start working. - [More information](/guides/german-tax-id-steuernummer#the-tax-id-steuer-id)
 - **Your [health insurance](/glossary/Krankenversicherung) number** (*Krankenversicherungsnummer*)  
-    You get a *Krankenversicherungsnummer* 2 to 7 days after you [choose health insurance](/guides/german-health-insurance). Your employer needs this number to take health insurance payments from your salary.
+    You get a *Krankenversicherungsnummer* 2 to 7 days after you [choose health insurance](/guides/german-health-insurance). Your employer needs this number to take health insurance payments from your salary. Your employer can choose health insurance for you, but it's a bad idea. [Ask a broker to help you choose](/guides/german-health-insurance#insurance-brokers), it's free.
 - **Your [social insurance number](/guides/german-versicherungsnummer)** (*Sozialversicherungsnummer*)  
     If you have [public health insurance](/glossary/gesetzliche%20Krankenversicherung), you get this number automatically in the mail. If you have [private health insurance](/glossary/private%20Krankenversicherung), you must apply for it. Your employer can sometimes help you with this. - [How to get a social insurance number](/guides/german-versicherungsnummer)
 
