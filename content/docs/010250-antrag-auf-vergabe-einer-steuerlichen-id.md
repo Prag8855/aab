@@ -15,7 +15,7 @@ Categories:
 
 This form helps you request a [tax ID](/glossary/Steueridentifikationsnummer) without [registering your address](/glossary/Anmeldung). Only use this form [if you can't register your address](/guides/anmeldung-in-english-berlin#if-you-cant-register-your-address).
 
-**This form does not always work**. It works around 70% of the time.{{ fail_on('2025-06-01')}} The *[[Finanzamt]]* might send your tax ID to your foreign address, or to your employer.[^3] You might not receive your tax ID at all. This form is designed for cross-border workers, not for people who live in Germany. It's a bureaucratic hack, so it's unreliable.
+**This form does not always work**. It works around 80% of the time.{{fail_on('2025-06-01')}}[^4] The *[[Finanzamt]]* might send your tax ID to your foreign address, or to your employer.[^3] You might not receive your tax ID at all. This form is designed for cross-border workers, not for people who live in Germany. It's a bureaucratic hack, so it's unreliable.
 
 **[How to get a tax ID ➞](/guides/german-tax-id-steuernummer#how-to-get-your-tax-id)**
 
@@ -85,3 +85,4 @@ They might create your tax ID, even if they don't send it to you. If you did not
 [^1]: Multiple readers (March to October 2023), reader feedback (September 2024)
 [^2]: Finanzamt (July 2024)
 [^3]: Reader feedback (October 2023)
+[^4]: Reader feedback
