@@ -56,6 +56,7 @@ You get a Schufa record when you...[^2]
 - [Open a bank account](/guides/best-bank-germany)
 - Get a credit card or a loan
 - Get a mobile phone contract
+- Sign up for [private health insurance](/glossary/private%20Krankenversicherung)
 - Pay for something in instalments
 - Don't pay your debts
 
