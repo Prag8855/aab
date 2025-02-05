@@ -10,6 +10,8 @@ The website is based on my experience as an immigrant. I settled in Berlin in 20
 
 My work is supported by [donations from readers](/donate), and by affiliate links. There are no ads on the website; all recommendations are genuine. I give you the same advice I would give to my best friend.
 
+**[Contact me ➞](/contact)**
+
 **[Visit my personal website ➞](https://nicolasbouliane.com)**
 
 **[Follow me on LinkedIn ➞](https://www.linkedin.com/in/nicolasbouliane/)**
