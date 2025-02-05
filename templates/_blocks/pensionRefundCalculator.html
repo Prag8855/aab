@@ -51,6 +51,11 @@
 					],
 					partners: [
 						{
+							name: 'Pension Refund Germany',
+							key: 'pensionrefundgermany',
+							fee: x => Math.min(x * {{ PENSIONREFUNDGERMANY_FEE }}/100, {{ PENSIONREFUNDGERMANY_MAX_FEE }}),
+						},
+						{
 							name: 'FundsBack',
 							key: 'fundsback',
 							fee: x => Math.min(Math.max(x * {{ FUNDSBACK_FEE }}/100, {{ FUNDSBACK_MIN_FEE }}), {{ FUNDSBACK_MAX_FEE }}),
@@ -59,11 +64,6 @@
 							name: 'Germany Pension Refund',
 							key: 'germanypensionrefund',
 							fee: x => x * {{ GERMANYPENSIONREFUND_FEE }}/100,
-						},
-						{
-							name: 'Pension Refund Germany',
-							key: 'pensionrefundgermany',
-							fee: x => Math.min(x * {{ PENSIONREFUNDGERMANY_FEE }}/100, {{ PENSIONREFUNDGERMANY_MAX_FEE }}),
 						},
 						{
 							name: 'Do it yourself',
@@ -219,18 +219,10 @@
 					const westGermanResults = calculatePensionRefund(...args, false).refundAmount;
 					return eastGermanResults != westGermanResults;
 				},
-				sortedPartners() {
-					return this.partners.sort(
-						(a, b) => {
-							if(b.name === 'Do it yourself') return -1;
-							return a.fee(this.results.refundAmount) - b.fee(this.results.refundAmount);
-						}
-					);
-				},
 			},
 			watch: {
 				results(){
-					this.selectedPartner = this.sortedPartners[0];
+					this.selectedPartner = this.partners[0];
 				}
 			}
 		})
@@ -394,7 +386,7 @@
 		<p>You can pay someone to request your pension refund. They do all the work for you, and transfer the refund to your bank account.&thinsp;—&thinsp;<a href="/guides/pension-payments-refund#get-help-from-someone">More information</a></p>
 		<div class="form-group">
 			<span class="label">Choose a helper</span>
-			<label class="checkbox" v-for="partner in sortedPartners" :key="partner.name">
+			<label class="checkbox" v-for="partner in partners" :key="partner.name">
 				<input type="radio" :name="uid('partner')" :value="partner" v-model="selectedPartner"/>
 				<div>
 					{{ partner.name }}
