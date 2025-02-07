@@ -19,6 +19,8 @@ Choose a service in [the list of services](https://service.berlin.de/dienstleist
 
 The Bürgeramt does not release all available appointments online. Some appointments are only for people who call [115](/glossary/Bürgertelefon). Other appointments are only given by Bürgeramt employees.[^1]
 
+**To book the appointment**, you must enter your name and email address. They will send you an email with an activation code. You have 10 minutes to enter the activation code. If you don't get that email, try again with a different email address.[^6]
+
 ### Use my appointment finder
 
 To [register your address](/glossary/Anmeldung), use my [*Anmeldung* appointment finder](/tools/appointment-finder).
@@ -86,3 +88,4 @@ To contact the Bürgeramt:
 [^3]: [twitter.com](https://twitter.com/MariaMl82747416/status/1631197057846333440), [twitter.com](https://twitter.com/Sansculotte/status/1607112833203855360), [twitter.com](https://twitter.com/Gregggyyy/status/1552203253659717633)
 [^4]: Confirmed by multiple Bürgerämter in Berlin (April 2023)
 [^5]: [berlin.de](https://service.berlin.de/terminvereinbarung/artikel.296864.php)
+[^6]: [Reddit](https://old.reddit.com/r/berlinsocialclub/comments/1979w5l/is_berlins_anmeldung_booking_system_broken/) (2024), [X](https://x.com/chacon/status/1852257340168319030) (2024), personal experience (January 2025)
