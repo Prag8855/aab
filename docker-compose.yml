@@ -14,21 +14,6 @@ services:
     volumes:
       - "ssl_certs:/etc/ssl-certs"
       - "acme_sh:/root/.acme.sh"
-  appointments:
-    build: https://github.com/all-about-berlin/burgeramt-appointments.git#main
-    environment:
-      - "PYTHONUNBUFFERED=1"
-      - "HTTP_PROXY=${BOOKING_TOOL_HTTP_PROXY}"
-      - "HTTPS_PROXY=${BOOKING_TOOL_HTTPS_PROXY}"
-      - "BOOKING_TOOL_ID"
-      - "BOOKING_TOOL_EMAIL"
-      - "BOOKING_TOOL_URL=https://service.berlin.de/dienstleistung/120686/"
-    restart: unless-stopped
-    logging:
-      driver: "json-file"
-      options:
-        max-size: "100m"
-        max-file: "3"
 volumes:
   acme_sh:
   api_db:
