@@ -11,7 +11,7 @@ Locking yourself out happens to everyone. This guide shows you how to get back i
 
 ## If you lost your keys
 
-If your keys were lost or stolen, you must **inform your landlord**.[^5] Then you can [make copies](/guides/key-copies) to replace the lost keys.
+If your keys were lost or stolen, you must **inform your landlord**.[^5] [Look for your old keys](/guides/lost-and-found-berlin) or [make new copies](/guides/key-copies).
 
 The landlord might want to change all the locks in the building, to prevent theft. Usually, [you don't have to pay for this](#do-i-need-to-pay-to-replace-the-locks).
 
