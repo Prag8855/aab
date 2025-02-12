@@ -250,7 +250,7 @@ To improve your chances...
 - **Have a detailed profile**  
     Create a detailed profile on housing websites, and upload your documents. It helps you make a good impression when you message a landlord.
 - **Be brief**  
-    Don't make landlords read. Write message short and simple messages. Only send the important parts of your documents.
+    Don't make landlords read. Write message short and simple messages. Only send the important parts of your documents. Include all the important information in your first message.
 
 ### What landlords want
 
