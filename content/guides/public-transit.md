@@ -49,7 +49,7 @@ To buy a local public transit ticket...
 1. **Choose the [tariff zone ➞](#tariff-zones)**  
     Berlin has [3 tariff zones](#tariff-zones): A, B and C. Buy an AB or ABC ticket, depending on the zones you travel in. **Most things are in zone A or B.** The airport is in zone C.
 2. **Choose the [duration of the ticket ➞](#ticket-duration)**  
-    Single tickets are valid for 2 hours in one direction. There are daily, weekly and monthly passes. Short trip tickets (*Kurzstrecke*) let you travel just a few stops.
+    Single tickets are valid for 2 hours in one direction. There are daily, weekly and [monthly passes](/glossary/Monatskarte). Short trip tickets (*Kurzstrecke*) let you travel just a few stops.
 3. **Choose the [type of ticket ➞](#ticket-types)**  
     There are cheaper tickets for children, students, apprentices and [dogs](#dogs-on-public-transit). You need a [ticket for your bicycle](#bicycles-on-public-transit). Daily, weekly and monthly passes sometimes let you bring people for free.
 
@@ -71,7 +71,7 @@ Most things are in zone A or B, so you usually need an AB ticket. If you go to t
 
 If you already have an AB ticket, and you want to go to zone C, get an [extention ticket (*Anschlussfahrausweis*)](https://sbahn.berlin/en/tickets/all-tickets/single-tickets/extension-ticket/). It's cheaper than an ABC ticket.
 
-If you have a [[Deutschland Ticket]], you can travel in all zones. If you have the 29€ Ticket, you can only travel in zones A and B.
+If you have a [[Deutschland Ticket]], you can travel in all zones.
 
 ### Ticket duration
 
@@ -82,8 +82,6 @@ If you have a [[Deutschland Ticket]], you can travel in all zones. If you have t
 **Daily, monthly and weekly passes** are cheaper. They usually let you [bring other people for free](#bring-other-people-for-free).
 
 **The [Deutschland Ticket](/guides/deutschland-ticket)** is a monthly subscription. You can use all public transit in Germany for {{DEUTSCHLAND_TICKET_PRICE|cur}}€ per month.
-
-**The 29€ Ticket** is a yearly subscription. It costs 29€ per month. It only works in Berlin ([tariff zones A and B](#tariff-zones)).
 
 ### Ticket types
 

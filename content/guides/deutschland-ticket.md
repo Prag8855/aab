@@ -73,9 +73,11 @@ You can't...
 
 ## Deutschland Ticket alternatives
 
-In Berlin, there is also the [29€ ticket](https://www.bvg.de/de/abos-und-tickets/berlin-abo). It's cheaper, but you can only buy it for 12 months, and it only works in Berlin ([tariff zones A and B](/guides/public-transit#tariff-zones)).
+In Berlin, you can also get a daily, weekly or [monthly pass](/glossary/Monatskarte). These tickets are only valid in Berlin and its surroundings.
 
-**[What ticket to buy ➞](/guides/public-transit#what-ticket-to-buy)**
+**[Which ticket to buy? ➞](/guides/public-transit#what-ticket-to-buy)**
+
+**[Buy a BVG monthly ticket ➞](https://www.bvg.de/en/subscriptions-and-tickets/all-tickets/time-tickets/monthly-ticket)
 
 ## How to cancel a Deutschland Ticket
 
