@@ -106,7 +106,7 @@ These banks have no monthly fee **if you deposit at least 700€ per month**:
 - **[ING](/out/ing)**[^22]
 - **[1822direkt](/out/1822direkt)**[^18]
 - **[comdirect](/out/comdirect)**[^20]
-- **[Commerzbank](/out/commerzbank)**[^21]
+- **[Commerzbank](/out/commerzbank)**[^21] - Only until May 2025. Then there will be a monthly fee of 4.90€{{ fail_on('2025-05-01') }}
 
 These banks have no monthly fee **for young people**:
 
