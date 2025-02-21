@@ -317,7 +317,7 @@ These are the required documents **in Berlin**. In other cities, you need differ
 
 - [ ] **Passport**  
     When you [apply online](#apply-for-permanent-residence), include a colour scan of your passport. When you [go to your appointment](#go-to-your-appointment), bring your original passport. You get it back during the appointment; they do not keep it.[^70]
-- [ ] **Language certificate
+- [ ] **Language certificate**
 - [ ] **Proof of integration**  
     You need a certificate from one of these courses:
     - **Citizenship test** (*Einbürgerungstest*)
