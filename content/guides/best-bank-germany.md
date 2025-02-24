@@ -28,7 +28,7 @@ An expat-friendly bank...
 
 In my opinion, N26 is the most expat-friendly German bank. I use them since 2016. They let you open an account quickly, without an *[[Anmeldung]]*. They speak English, French, German, Italian and Spanish.
 
-Their basic account **covers all your basic needs**: no monthly fees, free ATM withdrawals, multiple languages, a German [[IBAN]] and a solid mobile banking experience. Creating an N26 account creates a [Schufa](/glossary/Schufa) record. A Schufa record helps you [find an apartment](/guides/find-a-flat-in-berlin).
+Their basic account **covers all your basic needs**: no monthly fees, free ATM withdrawals, multiple languages, a German [[IBAN]] and a solid mobile banking experience. Creating an N26 account creates a [Schufa](/glossary/Schufa) record. A Schufa record can help you [find an apartment](/guides/find-a-flat-in-berlin).
 
 The biggest disadvantage: [the required documents](/out/n26-supported-passports). Depending on your nationality, you might need a plastic [residence permit](/glossary/Aufenthaltstitel) that's valid for 1 year. This is a problem for some recent immigrants.
 
@@ -36,9 +36,9 @@ The biggest disadvantage: [the required documents](/out/n26-supported-passports)
 
 ### [bunq](/out/bunq)
 
-They are a **good alternative to N26**. They are more expensive, but they [accept more passport types](/out/bunq-supported-passports). They let you open an account quickly, without an *[[Anmeldung]]*.[^55] You have 90 days to give them a proof of residence and your [tax ID](/glossary/Steueridentifikationsnummer). You must be in Germany when you open the account.[^16] They speak English, Dutch, French, German, Italian, Portuguese and Spanish.
+They are a **good alternative to N26**. They are more expensive, but they [accept more passport types](/out/bunq-supported-passports). They let you open an account quickly, without an *[[Anmeldung]]*.[^55] You must be in Germany when you open the account.[^16] After you open your account, you have 90 days to give them a [proof of residence](/glossary/Anmeldebestätigung) and your [tax ID](/glossary/Steueridentifikationsnummer). They speak English, Dutch, French, German, Italian, Portuguese and Spanish.
 
-Creating a bunq account does not create a Schufa record.[^19]
+Creating a bunq account does not create a Schufa record.[^19] A Schufa record can help you [find an apartment](/guides/find-a-flat-in-berlin).
 
 The free account is a little limited. The paid accounts have free ATM withdrawals. If you pay more, you get a German [[IBAN]].
 

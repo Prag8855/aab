@@ -41,9 +41,9 @@ You can't get a Schufa in person at the bank anymore.[^1]
 
 ### If you can't get a Schufa
 
-Bring other proofs of income, such as what?
-
 Short-term apartments (from [HousingAnywhere](/out/housinganywhere), [Spotahome](/out/spotahome), [Wunderflats](/out/wunderflats)) rarely require a Schufa. They can help you get your first apartment without a stable job.
+
+You can get a Schufa score by opening a bank account. For example, if you open an [N26](/out/n26) account, you get a Schufa record a few days later.[^11]
 
 **[Look for short-term apartments ➞](/guides/find-a-flat-in-berlin#short-term-and-furnished-apartments)**
 
@@ -81,3 +81,4 @@ Get a [free report](https://www.meineschufa.de/de/datenkopie) every year, and ch
 [^8]: [Trustpilot](https://www.trustpilot.com/review/bonify.de?languages=all&sort=recency) (January 2025), [kuketz-blog.de](https://www.kuketz-blog.de/schufa-bonify-uebermittelt-ohne-einwilligung-personenbeziehbare-daten-an-facebook-und-co/) (July 2023), [Verbraucherzentrale](https://www.verbraucherzentrale-bawue.de/aktuelle-meldungen/digitale-welt/bonifyapp-datenschutz-im-auge-behalten-86413#:~:text=auch%20ohne%20app%20konnen%20sie%20verlangen) (October 2024), [Anwalt24](https://www.anwalt24.de/fachartikel/datenschutzrecht/57589) (October 2024), [Verbraucherzentrale](https://www.vzhh.de/themen/telefon-internet/datenschutz/bonify-app-mein-bankkonto-ist-privatsache) (December 2024)
 [^9]: [verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/digitale-welt/datenschutz/scoring-mit-kundendaten-so-verlangen-sie-auskunft-bei-schufa-co-12756#:~:text=wichtig%3A%20falsche%20daten%20korrigieren)
 [^10]: [Schufa](https://www.schufa.de/newsroom/schufa/bonify-app-schufa-basisscore-einsehen/#:~:text=nein%2C%20bei%20bonify%20wird%20nur%20der%20schufa-basisscore%20angezeigt%2C%20den%20man%20auch%20auf%20der%20kostenlosen%20datenkopie%20findet.%20) (January 2025)
+[^11]: Graham Pugh, [apartment search expert](https://www.berlinrelo.de/) (February 2025)
