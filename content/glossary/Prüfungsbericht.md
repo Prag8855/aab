@@ -2,7 +2,7 @@
 Title: What is a Prüfungsbericht?
 German_term: Prüfungsbericht
 English_term: Audit report
-Description: 
+Description: An audit report created by a tax advisor.
 Date_created: 2021-02-08
 Related_guides:
     guides/steuerberater-vs-buchhalter.md
