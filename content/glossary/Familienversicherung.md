@@ -15,3 +15,4 @@ It covers...
 - Your children under 23 years old
 - Your children under 25 years old if they are studying
 - Your spouse if (s)he earns less than {{GKV_FAMILIENVERSICHERUNG_MAX_INCOME|cur}}€ per month.
+- Your spouse or children if they have a [minijob](/glossary/Minijob)
