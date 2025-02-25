@@ -10,15 +10,13 @@ Related_reviews:
     reviews/german-health-insurance/mike-woodiwiss.md
 ---
 
-This guide explains how German health insurance works, and how to choose the best health insurance for your needs.
+This guide explains how German health insurance works, and how to choose the best health insurance.
 
 {% include "_blocks/tableOfContents.html" %}
 
 ## How German health insurance works
 
-All German residents must have health insurance.
-
-You pay for health insurance every month. When you are sick, your health insurance pays for all necessary healthcare. It covers medical operations, therapy and medication.
+All German residents must have health insurance. You pay for it every month. When you are sick, it insurance pays for all necessary healthcare. It covers medical operations, therapy, medication and dental care.
 
 There are 2 health insurance systems:
 
@@ -27,7 +25,7 @@ There are 2 health insurance systems:
 - **[Private health insurance](/glossary/private%20Krankenversicherung)**  
     Managed by private insurance companies. The cost depends on your age and health condition when you sign up. The coverage is more flexible, and the cost varies a lot.
 
-**Both systems are good.** The best option depends on your situation. Most people can only choose public health insurance.
+**Both systems are good.** The best option depends on your situation.
 
 ## Your options
 
