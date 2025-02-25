@@ -23,7 +23,7 @@ You can get unemployment benefits if:[^0]
 - [ ] **You can work**  
     You are healthy enough to work 15 hours per week.
 - [ ] **You paid [unemployment insurance](/glossary/Arbeitslosenversicherung) for 12 of the last 30 months**[^11]  
-    Almost all employees pay for unemployment insurance, but most self-employed people don't. Unemployment insurance payments in other EU and [[EEA]] countries also count.[^20] Sickness, parenting, short-term employment and other factors can shorten this period. If you are not sure, apply for unemployment benefits anyway.
+    All employees pay for unemployment insurance. If you are self-employed, unemployed or have a [minijob](/glossary/Minijob), you don't pay for unemployment insurance.[^35] Unemployment insurance payments in other EU and [[EEA]] countries also count.[^20] Sickness, parenting, short-term employment and other factors can shorten this period. If you are not sure, apply for unemployment benefits anyway.
 - [ ] **You applied for unemployment benefits**  
     This is not automatic. You must [apply for unemployment benefits](#how-to-apply-for-unemployment-benefits) yourself.
 
@@ -204,3 +204,4 @@ Look for work. ALG I depends on it.
 [^33]: [Zusatzblatt example](/images/aufenthaltstitel-zusatzblat-back-web.png), Ina Bozhilova at [Noah Mobility](/out/noah-mobility) (July 2023)
 [^34]: Ina Bozhilova at [Noah Mobility](/out/noah-mobility) (July 2023)
 [^30]: Ina Bozhilova at [Noah Mobility](/out/noah-mobility) (July 2023)
+[^35]: [Agentur für Arbeit](https://www.arbeitsagentur.de/lexikon/minijob#:~:text=erwerben%20keinen%20anspruch%20auf%20arbeitslosengeld) (February 2025)
