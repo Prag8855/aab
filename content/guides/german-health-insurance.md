@@ -29,21 +29,23 @@ There are 2 health insurance systems:
 
 ## Your options
 
-To know your options, use my health insurance calculator.
+Your options depend on your situation and your income. Use my health insurance calculator to see your options.
 
 {% include '_blocks/healthInsuranceCalculator.html' %}
 
-Your options depend on your situation and your income:
+### For employees
 
-- **If you are an employee**, your options depend on your income. Your employer does not decide which insurance you can have. If you [lose your job](/guides/losing-your-job), you do not lose your health insurance. 
-    - **If you earn under {{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}}€ per year**, you can only choose public health insurance.
-    - **If you earn over {{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}}€ per year**, you can choose public or private health insurance.
-    - **If you have a [minijob](/glossary/Minijob)**, you can choose public or private health insurance.[^0]
-    - **If you are a civil servant**, you can choose public or private health insurance.
-- **If you are a student**, you can choose public or private health insurance.[^1] If you are over 30 years old, and you just moved to Germany, you might be forced to get private health insurance.
-- **If you are unemployed**, you can choose public or private health insurance. If you get *[[ALG I]]* or *[[Bürgergeld]]*, you must get public health insurance.
-- **If you are self-employed**, you can choose public or private health insurance.[^1] If you have a low income, private health insurers might reject you.
-- **If you are a doctor**, you can choose public or private health insurance.[^1]
+Your employer does not decide which insurance you can have. If you [lose your job](/guides/losing-your-job), you do not lose your health insurance.
+
+Your options depend on your income:
+
+**If you earn over {{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}}€ per year**, you can choose public or private health insurance. Your employer pays half of your health insurance.
+
+**If you earn under {{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}}€ per year**, you can only choose public health insurance. Your employer pays half of your health insurance.
+
+**If you have a [minijob](/glossary/Minijob)**, you can choose public or private health insurance.[^0] ???Does your employer pay half???
+
+Doctors and civil servants can choose public or private health insurance.[^31]
 
 ## Public health insurance
 
