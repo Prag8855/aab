@@ -7,7 +7,7 @@ Related_reviews:
     reviews/unemployment-benefits/sebastian-hoffmann.md
 ---
 
-This guide shows you how to get unemployment benefits (*[[ALG I]]*) after you [lose your job](/guides/losing-your-job). *ALG I* pays 60% to 67% of your previous salary,[^3] and it pays for your [health insurance](/glossary/Krankenversicherung).
+This guide shows you how to get unemployment benefits (*[[ALG I]]*) after you [lose your job](/guides/losing-your-job). *ALG I* pays 60% to 67% of your previous salary, and it pays for your [health insurance](/glossary/Krankenversicherung).[^3]
 
 **[Losing your job in Germany ➞](/guides/losing-your-job)**
 
@@ -68,7 +68,7 @@ A *Sperrzeit* means that you get less *ALG I* in total. For example, if you have
 
 ## How much money do I get?
 
-**60% of your [gross income](/glossary/Brutto%20income)**, or 67% if you have children.[^5] They use your average gross income of the last 12 months, including bonuses.[^12] They ignore your income above {{BEITRAGSBEMESSUNGSGRENZE|cur}}€ per year.
+You get **60% of your [gross income](/glossary/Brutto%20income)** (67% if you have children),[^5] and free [health insurance](/glossary/Krankenversicherung).[^3] They use your average gross income of the last 12 months, including bonuses.[^12] They ignore your income above {{BEITRAGSBEMESSUNGSGRENZE|cur}}€ per year.
 
 **[Unemployment benefits calculator](https://www.pub.arbeitsagentur.de/start.html)** (in German) - Agentur für Arbeit
 
@@ -171,7 +171,7 @@ Look for work. ALG I depends on it.
 
 [^0]: [Arbeitsagentur](https://www.arbeitsagentur.de/arbeitslos-arbeit-finden/arbeitslosengeld/finanzielle-hilfen/arbeitslosengeld-anspruch-hoehe-dauer), [betanet.de](https://www.betanet.de/arbeitslosengeld.html), [Red Tape Translation](https://redtapetranslation.com/what-to-do-when-you-lose-your-job-in-germany/)
 [^1]: [Red Tape Translation](https://redtapetranslation.com/what-to-do-when-you-lose-your-job-in-germany/)
-[^3]: [hartz4.de](https://www.arbeitslosenselbsthilfe.org/hoechstsatz-alg-1/), [Section 4.3](https://www.arbeitsagentur.de/datei/merkblatt-fuer-arbeitslose_ba036520.pdf)
+[^3]: [hartz4.de](https://www.arbeitslosenselbsthilfe.org/hoechstsatz-alg-1/), [Section 4.3](https://www.arbeitsagentur.de/datei/merkblatt-fuer-arbeitslose_ba036520.pdf), [krankenkassen.de](https://www.krankenkassen.de/gesetzliche-krankenkassen/krankenkasse-beitrag/arbeitslose/#:~:text=ubernimmt%20das%20jobcenter%20den%20allgemeinen%20krankenkassen-beitrag) (February 2025)
 [^2]: [Arbeitsagentur](https://www.arbeitsagentur.de/arbeitslos-melden/), [Arbeitsagentur](https://www.arbeitsagentur.de/en/unemployment-benefits)
 [^4]: [berlin.de](https://www.berlin.de/familie/informationen/arbeitslos-werden-216#:~:text=nach%20Kenntnis%20erfolgen.-,frist%20verpasst%3F,-Wenn%20die%20Arbeitssuchendmeldung)
 [^5]: [Arbeitsagentur](https://www.arbeitsagentur.de/arbeitslos-arbeit-finden/arbeitslosengeld/finanzielle-hilfen/arbeitslosengeld-anspruch-hoehe-dauer#:~:text=wie%20viel%20arbeitslosengeld%20sie%20bekommen)
