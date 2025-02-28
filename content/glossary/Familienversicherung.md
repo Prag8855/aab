@@ -8,11 +8,21 @@ Related_guides:
     guides/german-health-insurance.md
 ---
 
-Your [public health insurance](/glossary/gesetzliche%20Krankenversicherung) covers your dependents for free. It's called *Familienversicherung*.
+Your [public health insurance](/glossary/gesetzliche%20Krankenversicherung) covers your dependents for free. This is called *Familienversicherung*.
 
-It covers...
+Your insurance covers...
 
 - Your children under 23 years old
 - Your children under 25 years old if they are studying
-- Your spouse if (s)he earns less than {{GKV_FAMILIENVERSICHERUNG_MAX_INCOME|cur}}€ per month.
-- Your spouse or children if they have a [minijob](/glossary/Minijob)
+- Your spouse
+
+Your insurance only covers them if...[^1]
+
+- You have public health insurance
+- and their total income is under {{GKV_FAMILIENVERSICHERUNG_MAX_INCOME|cur}}€ per month, or {{MINIJOB_MAX_INCOME|cur}}€ per month for a [minijob](/glossary/Minijob)
+- and they are not self-employed full time
+- and they are not a civil servant (*Beamter*)
+
+**[How to choose health insurance ➞](/guides/german-health-insurance)**
+
+[^1]: [Techniker Krankenkasse](https://www.tk.de/techniker/versicherung/tk-leistungen/schwangerschaft-und-familie/entlastung-fuer-familien/versichert-als-familie-in-der-familienversicherung/personenkreis-familienversicherung-antrag-2005610) (February 2025)
