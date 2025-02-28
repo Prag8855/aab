@@ -29,23 +29,83 @@ There are 2 health insurance systems:
 
 ## Your options
 
-Your options depend on your situation and your income. Use my health insurance calculator to see your options.
+Your options depend on your situation and your income. Use my health insurance calculator to see your options. [Talk to a broker](#insurance-brokers) to get recommendations.
 
 {% include '_blocks/healthInsuranceCalculator.html' %}
 
 ### For employees
 
-Your employer does not decide which insurance you can have. If you [lose your job](/guides/losing-your-job), you do not lose your health insurance.
-
-Your options depend on your income:
+You can get public health insurance, and sometimes private health insurance. Your employer does not choose your health insurance. If you [lose your job](/guides/losing-your-job), you do not lose your health insurance.
 
 **If you earn over {{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}}€ per year**, you can choose public or private health insurance. Your employer pays half of your health insurance.
 
-**If you earn under {{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}}€ per year**, you can only choose public health insurance. Your employer pays half of your health insurance.
+**If you earn under {{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}}€ per year**, you can only choose public health insurance. Doctors and civil servants can also choose private health insurance.[^31] Your employer pays half of your health insurance.
 
-**If you have a [minijob](/glossary/Minijob)**, you can choose public or private health insurance.[^0] ???Does your employer pay half???
+**If you have a [minijob](/glossary/Minijob)**, you can choose public or private health insurance.[^0] Your family's health insurance can [cover you for free](#free-health-insurance). Otherwise, you must pay around {{GKV_MIN_COST|cur}}€ per month. Your employer does not pay half of it.[^36]
 
-Doctors and civil servants can choose public or private health insurance.[^31]
+**If you [lose your job](/guides/losing-your-job)** and you get [unemployment benefits](/glossary/ALG%20I), it pays for your health insurance. Otherwise, you must pay around {{GKV_MIN_COST|cur}}€ per month.
+
+### For students
+
+You can choose public or private health insurance. You usually get a cheaper tariff. You sometimes get free health insurance. The best option depends on your age.
+
+**If you are under 25 years old**, you can get [free health insurance](#free-health-insurance) from your parents or your spouse. Otherwise, you must pay around {{GKV_COST_STUDENT|cur}}€ per month for public health insurance.[^1] Some private health insurers have cheaper insurance for students.[^44]
+
+**If you are under 30 years old**, you can get free health insurance from your spouse. Otherwise, you pay the student tariff for public health insurance: around {{GKV_COST_STUDENT|cur}}€ per month.[^1] Some private health insurers also have a student tariff.[^44]
+
+**If you are over 30 years old**, you can't get free health insurance from your family, and you can't get the student tariff. You pay the same price as unemployed people: around {{GKV_MIN_COST|cur}}€ per month.
+
+**If you are a foreign student**, you might need health insurance between your arrival in Germany and your first day of school. Non-EU students can get expat insurance. EU students can use their health insurance from their home country.
+
+**If you have a job**, your options change. If your income is over ??? per month, you can't get the student tariff, you can't get free health insurance from your family, and you can't use your foreign health insurance. You are treated [like an employee](#for-employees).
+
+If your job is related to your studies, and you work less than 20 hours per week, you can still get the student tariff. ???Familienversicherung, EHIC???
+
+**If you are self-employed**, your options change. If your income is over ??? per month, you can't get the student tariff, you can't get free health insurance from your family, and you can't use your foreign health insurance. You are treated [like a self-employed person](#for-self-employed-people).
+
+
+[Ask a broker](#insurance-brokers) to help you choose. They can help you find the cheapest health insurance.
+
+### For unemployed people
+
+If you get [[ALG I]] or [[Bürgergeld]], you must usually switch to public health insurance.[^41] Health insurance is free; the state pays for it.[^42]
+
+If you don't get [[ALG I]] or [[Bürgergeld]], you can get public or private health insurance. With public health insurance, you pay the minimum tariff; around {{GKV_MIN_COST|cur}}€ per month.[^40]
+
+### For self-employed people
+
+**If you are self-employed**, you can choose public or private health insurance.[^4] If you have a low income, private health insurers might reject you.
+
+Your spouse's public health insurance does not cover you, because you are self-employed.[^37]
+
+### For trainees
+
+If you are a trainee (Azubi) and make 325€ per month or less, your employer must pay for your health insurance. Otherwise, you pay the same prices as a regular employee.[^43]
+
+### Free health insurance
+
+Your spouse's public health insurance covers you for free if...[^34]
+
+- Your spouse has public health insurance
+- **and** you earn less than {{MINIJOB_MAX_INCOME|cur}}€ per month
+
+Your health insurance from another EU country covers you if...[^39]
+
+- You earn less than ??? per month
+- **or** you are a student, your job is related to your studies, and you work 20 hours per week or less[^38]
+
+(from the students section)
+
+Your parents' health insurance covers you for free if...
+
+- Your parents have public health insurance
+- You are under 25 years old
+- **and** you earn less than {{MINIJOB_MAX_INCOME|cur}}€ per month
+
+Your spouse's health insurance covers you for free if...
+
+- Your spouse has public health insurance
+- **and** you earn less than {{MINIJOB_MAX_INCOME|cur}}€ per month
 
 ## Public health insurance
 
@@ -317,6 +377,7 @@ There are more types of insurance in Germany, but health and liability insurance
 [^1]: [krankenkasseninfo.de](https://www.krankenkasseninfo.de/personengruppen/geringfuegig-beschaeftigte/), [krankenversicherung.net](https://www.krankenversicherung.net/gesetzliche-krankenversicherung/freiwillige-krankenversicherung)
 [^2]: [gesundheitsinformation.de](https://www.gesundheitsinformation.de/krankenversicherung-in-deutschland.html), [gkv-spitzenverband.de](https://www.gkv-spitzenverband.de/english/statutory_health_insurance/statutory_health_insurance.jsp)
 [^3]: [versicherungspflichtgrenzen.de](https://www.versicherungspflichtgrenzen.de/html/pflichtversicherungsgrenzen.html)
+[^4]: Citation needed
 [^5]: [krankenkassen.wiki](https://www.krankenkassen.wiki/cms/gkv/info/grundlagen/gkv/uebersicht-der-entwicklung-der-hoechstbeitraege-der-gesetzlichen-krankenversicherung)
 [^6]: [minijob-zentrale.de](https://www.minijob-zentrale.de/DE/die-minijobs/versicherungen/versicherungen_node.html)
 [^7]: [tk.de](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-versicherte/veraenderung-berufliche-situation/versichert-als-studierende/haeufige-fragen-fuer-studierende/beitragshoehe-beitrag-student-kvds-2007468), [aok.de](https://www.aok.de/pk/krankenkassenbeitraege/), [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/7b81ui/health_care/)
@@ -345,3 +406,15 @@ There are more types of insurance in Germany, but health and liability insurance
 [^26]: [Feather Insurance](/out/feather) (May 2023)
 [^25]: [tk.de](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-nicht-tk-versicherte/wie-hoch-sind-die-beitraege/freiwillige-mitglieder/haeufige-fragen-zu-beitraegen-fuer-freiwillig-versicherte/beitragshoehe-absolvent-freiwilliger-student-2006956#:~:text=nach%20dem%2030.%20geburtstag), [krankenkassen.de](https://www.krankenkassen.de/meine-krankenkasse/student/freiwillig/#:~:text=mit%20dem%20ende%20des%20semesters%2C%20in%20das%20der%2030.%20geburtstag%20fallt)
 [^30]: Dr. Rob Schumacher at [Feather Insurance](/out/feather) (November 2023)
+[^31]: Citation needed
+[^34]: [verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/krankenversicherung/familienversicherung-in-der-krankenkasse-wer-kostenlos-mit-rein-kommt-28982) (January 2025) [minijob-zentrale.de](https://www.minijob-zentrale.de/DE/meta/faq-bereich/urlaub-krankheit-und-arbeitsrechte/96_warum_kein_geld_f%C3%BCr_minijobber_aus_kv/faq_96_warum_kein_geld_f%C3%BCr_minijobber_aus_kv.html#:~:text=oft%20besteht%20eine%20beitragsfreie%20familienversicherung%20uber%20den%20ehepartner%20oder%20die%20eltern) (February 2025)
+[^35]: Citation needed - EHIC for employees
+[^36]: [minijob-zentrale.de](https://www.minijob-zentrale.de/DE/die-minijobs/versicherungen/detailseite.html#:~:text=ist%20ein%20solidarbeitrag.%20daraus%20entsteht%20fur%20den%20minijobber) (February 2025)
+[^37]: [verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/krankenversicherung/familienversicherung-in-der-krankenkasse-wer-kostenlos-mit-rein-kommt-28982#:~:text=schlie%C3%9Ft%20eine%20Familienversicherung-,aus.,-Man%20darf%20nicht) (February 2025)
+[^38]: Citation needed - EHIC for students
+[^39]: Citation needed - EHIC for students
+[^40]: [krankenkassen.de](https://www.krankenkassen.de/gesetzliche-krankenkassen/krankenkasse-beitrag/arbeitslose/#:~:text=kann%20sich%20weiter%20freiwillig%20versichern) (February 2025)
+[^41]: [krankenkassen.de](https://www.krankenkassen.de/gesetzliche-krankenkassen/krankenkasse-beitrag/arbeitslose/#:~:text=mit%20eintritt%20der%20versicherungspflicht%20wegen%20alg%20i%20muss%20die%20private%20krankenversicherung%20den%20pkv-vertrag%20im%20beginn%20der%20mitgliedschaft%20in%20einer%20gesetzlichen%20krankenkasse%20aufheben) (February 2025)
+[^42]: [krankenkassen.de](https://www.krankenkassen.de/gesetzliche-krankenkassen/krankenkasse-beitrag/arbeitslose/#:~:text=ubernimmt%20das%20jobcenter%20den%20allgemeinen%20krankenkassen-beitrag) (February 2025)
+[^43]: [minijob-zentrale.de](https://www.minijob-zentrale.de/DE/die-minijobs/sonderfaelle/detailseite.html#:~:text=auszubildende%20sind%20versicherungspflichtige%20arbeitnehmer%20oder%20arbeitnehmerinnen) (February 2025)
+[^44]: Citation needed - PKV student tariff
