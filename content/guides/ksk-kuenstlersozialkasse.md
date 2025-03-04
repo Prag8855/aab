@@ -345,7 +345,7 @@ These documents prove that you make money from artistic activities. They are als
     Include the full contract, with the signature.
 - [ ] **Other sources of income**  
     For example, affiliate income and Patreon sponsors. If your source of income is not clear, explain it in a separate document. This helps the KSK understand what you do.
-- [ ] **Tax returns** (*[[Steuerbescheid]]*)  
+- [ ] **Income tax assessments** (*[[Steuerbescheid]]*)  
     If possible, include your tax returns for the last 3 years. They asked for mine 3 months after I sent my application.
 
 **These documents must be less than 6 months old**. The documents can come from another country.[^33]

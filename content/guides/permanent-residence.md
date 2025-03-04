@@ -372,10 +372,10 @@ If you receive social benefits like *[[Kindergeld]]*, *Kinderzuschlag*, *Elterng
 - [ ] **Proof of income**
     - [ ] **Audit report form** (*[[Prüfungsbericht]]*)  
         Your [tax advisor](/glossary/Steuerberater) must fill [this template](https://www.berlin.de/formularverzeichnis/?formular=/labo/zuwanderung/_assets/pruefungsbericht_bis.docx) and stamp it. It takes a few days to prepare. If your finances are not organised, it can take a few weeks. If you don't have a tax advisor, get a *Prüfungsbericht* from [Tax Germany](/out/taxgermany); it's cheaper and faster.
-    - [ ] **Tax return for last year** (*[[Steuerbescheid]]*)[^59]  
+    - [ ] **Income tax assessment** (*[[Steuerbescheid]]*)[^59]  
         If you don't have it yet, bring a *[[Netto-Gewinnermittlung]]*. It's not in the required documents, but they usually ask for it.
     - [ ] **Net profit assessment** (*[[Netto-Gewinnermittlung]]*)[^59]  
-        Bring this if you don't have a recent tax return. It must be stamped by a [tax advisor](/glossary/Steuerberater).[^66] It takes a few days to prepare.
+        If you don't have a recent tax return, bring this instead. This document must be stamped by a [tax advisor](/glossary/Steuerberater).[^66] If you don't have a tax advisor, get it from [Tax Germany](/out/taxgermany). It takes a few days to prepare.
 - [ ] **[Certificate of tax matters](/guides/bescheinigung-in-steuersachen)** (*Bescheinigung in Steuersachen*)[^59]  
     It proves that you paid your taxes on time. [Request it from the *Finanzamt*.](/guides/bescheinigung-in-steuersachen) It costs {{ BESCHEINIGUNG_IN_STEUERSACHEN_FEE|cur }}€. It arrives in 1 to 3 weeks.
 - [ ] **Trade certificate** (*[[Gewerbeschein]]*)[^59]  

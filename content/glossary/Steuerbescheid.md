@@ -11,8 +11,8 @@ Related_guides:
     guides/ksk-kuenstlersozialkasse.md
 ---
 
-When you make a tax declaration, the *[[Finanzamt]]* sends you an income tax statement (*Steuerbescheid* or *Einkommensteuerbescheid*) by post. It shows your yearly income, how much [income tax](/glossary/Einkommensteuer) you paid, and how much you still owe.
+When you make a tax declaration, the *[[Finanzamt]]* sends you an income tax assessment (*Steuerbescheid* or *Einkommensteuerbescheid*) by post. It shows your yearly income, how much [income tax](/glossary/Einkommensteuer) you paid, and how much you still owe.
 
-You can use this document to find your [tax ID](/glossary/Steueridentifikationsnummer) and your *[[Steuernummer]]*. It's also a proof of income.
+You can use this document to find your [tax ID](/glossary/Steueridentifikationsnummer) and your *[[Steuernummer]]*. You can also use it as a proof of income when you [apply for an apartment](/guides/find-a-flat-in-berlin#apply-for-the-apartment) or [renew your freelance visa](/guides/renew-german-freelance-visa).
 
-![Example Einkommensteuerbescheid](/images/Einkommensteuer-Bescheid-Muster-Example.png)
+![Example Einkommensteuerbescheid](/images/Einkommensteuer-Bescheid-Muster-Example.png "Example Einkommensteuerbescheid")

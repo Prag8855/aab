@@ -13,7 +13,7 @@ Related_guides:
 
 A pay slip (*Gehaltsabrechnung* or *Lohnabrechnung*) shows how much you earned, and what contributions you have paid. You get a *Gehaltsabrechnung* from your employer every month.
 
-You can use this document to find your [tax ID](/glossary/Steueridentifikationsnummer) and your [social insurance number](/glossary/Sozialversicherungsnummer). It's also a proof of income.[^1]
+You can use this document to find your [tax ID](/glossary/Steueridentifikationsnummer) and your [social insurance number](/glossary/Sozialversicherungsnummer). You can also use it as a proof of income when you [apply for an apartment](/guides/find-a-flat-in-berlin#apply-for-the-apartment).[^1]
 
 ![Gehaltsabrechnung or Lohnabrechnung example](/images/Gehaltsabrechnung-muster-example.png "Example Gehaltsabrechnung. Yours can look different.")
 

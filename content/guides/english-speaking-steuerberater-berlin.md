@@ -71,11 +71,11 @@ Hire a tax advisor when...
 - **You are [starting a business](/guides/start-a-business-in-germany)**  
     A tax advisor can [register your business](/guides/fragebogen-zur-steuerlichen-erfassung), explain how business taxes work, and help you avoid expensive mistakes. They must also stamp documents for your [freelance visa application](/guides/freelance-visa) and [renewal](/guides/renew-german-freelance-visa). When you understand how to run your business, you can use [tax software for freelancers](/guides/german-tax-software#tax-software-for-freelancers) instead.
 - **You must [renew a freelance visa](/guides/renew-german-freelance-visa)**  
-    A tax advisor must prepare and stamp some of the required documents. You can't renew your freelance visa without one.
+    A tax advisor must prepare and stamp some of the [required documents](/guides/renew-german-freelance-visa#required-documents). If you don't have a tax advisor, [Tax Germany](/out/taxgermany) can prepare those documents for you. It's cheaper and faster.
 - **You are in trouble**  
     If you have problems with the *[[Finanzamt]]*, and you don't know what to do. They can take care of all communications with the *Finanzamt*. They can quickly solve your problem.
 
-If you have a simple tax situation, you don't need a tax advisor. The *[[Finanzamt]]* already knows how much you earned from your job. You might not need to make a [tax declaration](/glossary/Steuererklärung). Just use [[ELSTER]] or [tax software](/guides/german-tax-software) to declare [tax-deductible](/glossary/steuerlich%20absetzbar) expenses.
+If you have a simple tax situation, you don't need a tax advisor. The *[[Finanzamt]]* already knows how much you earned from your job. You might not need to make a [tax declaration](/glossary/Steuererklärung). You can use [[ELSTER]] or [tax software](/guides/german-tax-software) to declare [tax-deductible](/glossary/steuerlich%20absetzbar) expenses.
 
 ## Cost of a tax advisor
 
@@ -88,6 +88,10 @@ The cost of a tax advisor is [tax-deductible](/glossary/steuerlich%20absetzbar).
 ## Alternatives to a tax advisor
 
 Tax advisors are expensive and hard to find.[^5] Most of them refuse new clients. There are other ways to do your taxes in Germany.
+
+### For a few documents
+
+If you just need a proof of income to [apply for an apartment](/guides/find-a-flat-in-berlin), or documents to [renew your freelance visa](/guides/renew-german-freelance-visa), you don't need a tax advisor. [Tax Germany](/out/taxgermany) can prepare and stamp those documents. It's cheaper and faster.
 
 ### Look outside of Berlin
 

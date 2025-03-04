@@ -53,7 +53,7 @@ If you already have a tax ID, you can find it on...
 - [The letter from the *Bundeszentralamt für Steuern*](/images/tax-id-document-bzst.jpg). You get it 4 to 6 weeks after your first *[[Anmeldung]]*
 - Your [pay slip](/images/Gehaltsabrechnung-muster-steuerID.png) (*[[Gehaltsabrechnung]]*)
 - Your [salary tax statement](/images/Lohnsteuerbescheinigung-SteuerID.png) (*[[Lohnsteuerbescheinigung]]*) as "Identifikationsnummer"
-- Your [income tax report](/images/Einkommensteuerbescheid-SteuerID-Steuernummer.png) (*[[Steuerbescheid]]*) as "IdNr"
+- Your [income tax assessment](/images/Einkommensteuerbescheid-SteuerID-Steuernummer.png) (*[[Steuerbescheid]]*) as "IdNr"
 - In [[ELSTER]] [under *Meine Profile*](/images/elster-tax-id.png)
 
 If you can't find your tax ID...
@@ -79,7 +79,7 @@ When you get your *Steuernummer*, you must put it in your [[Impressum]], and on 
 
 If you have a Steuernummer, you can find it...
 
-- On your [income tax report](/images/Einkommensteuerbescheid-SteuerID-Steuernummer.png) (*[[Steuerbescheid]]*)
+- On your [income tax assessment](/images/Einkommensteuerbescheid-SteuerID-Steuernummer.png) (*[[Steuerbescheid]]*)
 - On most letters from the *[[Finanzamt]]*
 - In [[ELSTER]] [under *Meine Profile*](/images/elster-tax-number.png)
 
