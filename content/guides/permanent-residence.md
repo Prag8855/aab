@@ -371,7 +371,7 @@ If you receive social benefits like *[[Kindergeld]]*, *Kinderzuschlag*, *Elterng
 
 - [ ] **Proof of income**
     - [ ] **Audit report form** (*[[Prüfungsbericht]]*)  
-        The document [on this page](https://service.berlin.de/dienstleistung/324288/) must be filled and stamped by a tax advisor. It takes a few days to prepare. If your finances are not organised, it can take a few weeks.
+        Your [tax advisor](/glossary/Steuerberater) must fill [this template](https://www.berlin.de/formularverzeichnis/?formular=/labo/zuwanderung/_assets/pruefungsbericht_bis.docx) and stamp it. It takes a few days to prepare. If your finances are not organised, it can take a few weeks. If you don't have a tax advisor, get a *Prüfungsbericht* from [Tax Germany](/out/taxgermany); it's cheaper and faster.
     - [ ] **Tax return for last year** (*[[Steuerbescheid]]*)[^59]  
         If you don't have it yet, bring a *[[Netto-Gewinnermittlung]]*. It's not in the required documents, but they usually ask for it.
     - [ ] **Net profit assessment** (*[[Netto-Gewinnermittlung]]*)[^59]  
