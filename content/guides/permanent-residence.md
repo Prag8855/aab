@@ -41,7 +41,7 @@ You might also [qualify for German citizenship](#citizenship). Citizenship is be
 To become a permanent resident, you must...
 
 - [ ] **Support yourself**  
-    Your income or your spouse's income must cover your cost of living.[^60] It must also cover your children and unemployed spouse's cost of living.[^40] Income from social benefits like *[[Bürgergeld]]* and *Sozialhilfe* do not count. Income from *[[Kindergeld]]*, *Elterngeld*, *Kinderzuschlag* and *Erziehungsgeld* counts.[^16]
+    Your income or your spouse's income must cover your cost of living.[^60] It must also cover your children and unemployed spouse's cost of living.[^40] Income from social benefits like *[[Bürgergeld]]* and *Sozialhilfe* do not count. Income from *[[Kindergeld]]*, *[[Elterngeld]]*, *Kinderzuschlag* and *Erziehungsgeld* counts.[^16]
 - [ ] **Have a place to live**  
     Your apartment must be big enough for you and your family. You need 9 m^2^ per adult, and 6 m^2^ per child.[^51]
 - [ ] **Have [health insurance](/glossary/Krankenversicherung)**  
@@ -350,7 +350,7 @@ These are the required documents **in Berlin**. In other cities, you need differ
 - [ ] **Translations**  
     If your documents are not in German, bring translations. For certificates and official documents, bring [certified translations](/glossary/beglaubigte%20Übersetzung). They *sometimes* accept untranslated documents, but don't take the risk. Get translations from [Red Tape Translation](/out/red-tape-translation-certified) or [Lingoking](/out/lingoking).
 
-If you receive social benefits like *[[Kindergeld]]*, *Kinderzuschlag*, *Elterngeld*, *Betreuungsgeld* and other social benefits, you must bring...
+If you receive social benefits like *[[Kindergeld]]*, *Kinderzuschlag*, *[[Elterngeld]]*, *Betreuungsgeld*, you must bring...
 
 - [ ] **Proof of social benefits**  
     Bring certificates and other documents that prove that you receive those social benefits.[^57]

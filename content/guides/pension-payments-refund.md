@@ -215,7 +215,7 @@ You will get a refund for all your pension payments.[^37] That's **around {{RENT
 
 {% include '_blocks/pensionRefundCalculator.html' %}
 
-You will not get a refund for your employer's contributions.[^15] If you already got benefits from the Deutsche Rentenversicherung, your refund will be smaller.[^38] You get no refund for the time you received *Elterngeld* or *[[ALG I]]*.[^32] You can't receive a refund for contributions made in East Germany before June 30 1990.[^16]
+You will not get a refund for your employer's contributions.[^15] If you already got benefits from the Deutsche Rentenversicherung, your refund will be smaller.[^38] You get no refund for the time you received *[[Elterngeld]]* or *[[ALG I]]*.[^32] You can't receive a refund for contributions made in East Germany before June 30 1990.[^16]
 
 If you are self-employed, you will only get 50% of your payments back ({{RENTENVERSICHERUNG_EMPLOYEE_CONTRIBUTION}}% of your income).[^17] By default, self-employed do not make public pension payments. If you made no pension payments, you got no money back.
 

@@ -30,7 +30,7 @@ You need a tax ID to...
     If you don't have a tax ID, you can still work and get paid, but you pay more [salary tax](/glossary/Lohnsteuer).[^0] You can get that money back later by filing a [tax return](/glossary/Steuererkl%C3%A4rung).[^1] Some employers think that you can't work without a tax ID, but they are wrong.
 - **[Open a bank account](/guides/best-bank-germany)**  
     Some banks ask for a tax ID when you open an account.
-- **Apply for [[Kindergeld]] and Elterngeld**
+- **Apply for [[Kindergeld]] and [[Elterngeld]]**
 - **[Get a Kitagutschein](/guides/how-to-get-a-kitagutschein)**  
     Your children need a tax ID to get a *[[Kitagutschein]]* and send them to daycare.
 - **[Start a business](/guides/start-a-business-in-germany)**  
