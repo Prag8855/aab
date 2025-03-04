@@ -154,7 +154,7 @@ This is an example budget for a single person who lives in Berlin. It uses reali
 
 ### Income
 
-3,994€ was the average German salary in 2019.[^2] I used health insurance from [[Techniker Krankenkasse]]. I used the tax class for a single person without children.{{ fail_on('2025-03-01') }}
+3,994€ was the average German salary in 2019.[^2] I used health insurance from [[Techniker Krankenkasse]]. I used the tax class for a single person without children.{{ fail_on('2025-04-01') }}
 
 **[Calculate your taxes ➞](/tools/tax-calculator)**
 
