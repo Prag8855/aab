@@ -49,28 +49,31 @@ You can get public health insurance, and sometimes private health insurance. You
 
 You can choose public or private health insurance. You usually get a cheaper tariff. You sometimes get free health insurance. The best option depends on your age.
 
-**If you are under 25 years old**, you can get [free health insurance](#free-health-insurance) from your parents or your spouse. Otherwise, you must pay around {{GKV_COST_STUDENT|cur}}€ per month for public health insurance.[^1] Some private health insurers have cheaper insurance for students.[^44]
+**If you are under 25 years old**, you can get [free health insurance from your family](#free-health-insurance). Otherwise, you must pay around {{GKV_COST_STUDENT|cur}}€ per month for public health insurance.[^1] Some private health insurers have cheaper insurance for students.[^44]
 
-**If you are under 30 years old**, you can get free health insurance from your spouse. Otherwise, you pay the student tariff for public health insurance: around {{GKV_COST_STUDENT|cur}}€ per month.[^1] Some private health insurers also have a student tariff.[^44]
+**If you are under 30 years old**, you can get [free health insurance from your spouse](#free-health-insurance). Otherwise, you pay the student tariff for public health insurance: around {{GKV_COST_STUDENT|cur}}€ per month.[^1] Some private health insurers also have a student tariff.[^44]
 
-**If you are over 30 years old**, you can't get free health insurance from your family, and you can't get the student tariff. You pay the same price as unemployed people: around {{GKV_MIN_COST|cur}}€ per month.
+**If you are over 30 years old**, you can't get [free health insurance from your family](#free-health-insurance), and you can't get the student tariff. You pay the same price as unemployed people: around {{GKV_MIN_COST|cur}}€ per month.
 
 **If you are a foreign student**, you might need health insurance between your arrival in Germany and your first day of school. Non-EU students can get expat insurance. EU students can use their health insurance from their home country.
 
-**If you have a job**, your options change. If your income is over ??? per month, you can't get the student tariff, you can't get free health insurance from your family, and you can't use your foreign health insurance. You are treated [like an employee](#for-employees).
+**If you have a job**, your options change. If your income is over ??? per month, you can't get the student tariff, you can't get [free health insurance from your family](#free-health-insurance), and you can't use your foreign health insurance. You are treated [like an employee](#for-employees).
 
 If your job is related to your studies, and you work less than 20 hours per week, you can still get the student tariff. ???Familienversicherung, EHIC???
 
 **If you are self-employed**, your options change. If your income is over ??? per month, you can't get the student tariff, you can't get free health insurance from your family, and you can't use your foreign health insurance. You are treated [like a self-employed person](#for-self-employed-people).
 
+???Can students be forced to get private???
+
+???When are students allowed to have expat health insurance???
 
 [Ask a broker](#insurance-brokers) to help you choose. They can help you find the cheapest health insurance.
 
 ### For unemployed people
 
-If you get [[ALG I]] or [[Bürgergeld]], you must usually switch to public health insurance.[^41] Health insurance is free; the state pays for it.[^42]
+**If you get [[ALG I]] or [[Bürgergeld]]**, health insurance is free; the state pays for it.[^42] Usually, you must switch to public health insurance.[^41] 
 
-If you don't get [[ALG I]] or [[Bürgergeld]], you can get public or private health insurance. With public health insurance, you pay the minimum tariff; around {{GKV_MIN_COST|cur}}€ per month.[^40]
+If you don't get [[ALG I]] or [[Bürgergeld]], you can choose public or private health insurance. With public health insurance, you pay the minimum tariff; around {{GKV_MIN_COST|cur}}€ per month.[^40]
 
 ### For self-employed people
 
@@ -84,28 +87,25 @@ If you are a trainee (Azubi) and make 325€ per month or less, your employer mu
 
 ### Free health insurance
 
-Your spouse's public health insurance covers you for free if...[^34]
+**Your parents' health insurance** covers you for free if...
+
+- Your parents have public health insurance
+- **and** you are under 23 years old (under 25 years old if you are a student)
+- **and** your total income is under {{GKV_FAMILIENVERSICHERUNG_MAX_INCOME|cur}}€ per month ({{MINIJOB_MAX_INCOME|cur}}€ per month for a [minijob](/glossary/Minijob))
+- **and** you are not self-employed full time
+
+**Your spouse's health insurance** covers you for free if...[^34]
 
 - Your spouse has public health insurance
-- **and** you earn less than {{MINIJOB_MAX_INCOME|cur}}€ per month
+- **and** your total income is under {{GKV_FAMILIENVERSICHERUNG_MAX_INCOME|cur}}€ per month, or {{MINIJOB_MAX_INCOME|cur}}€ per month for a [minijob](/glossary/Minijob)
+- **and** you are not self-employed full time
 
-Your health insurance from another EU country covers you if...[^39]
+**Your health insurance from another EU country** covers you if...[^39]
 
 - You earn less than ??? per month
 - **or** you are a student, your job is related to your studies, and you work 20 hours per week or less[^38]
 
-(from the students section)
-
-Your parents' health insurance covers you for free if...
-
-- Your parents have public health insurance
-- You are under 25 years old
-- **and** you earn less than {{MINIJOB_MAX_INCOME|cur}}€ per month
-
-Your spouse's health insurance covers you for free if...
-
-- Your spouse has public health insurance
-- **and** you earn less than {{MINIJOB_MAX_INCOME|cur}}€ per month
+**The state** pays for your health insurance when you get [unemployment benefits](/glossary/ALG%20I), *[[Bürgergeld]]* or *[[Elterngeld]]*.[^45]
 
 ## Public health insurance
 
@@ -418,3 +418,4 @@ There are more types of insurance in Germany, but health and liability insurance
 [^42]: [krankenkassen.de](https://www.krankenkassen.de/gesetzliche-krankenkassen/krankenkasse-beitrag/arbeitslose/#:~:text=ubernimmt%20das%20jobcenter%20den%20allgemeinen%20krankenkassen-beitrag) (February 2025)
 [^43]: [minijob-zentrale.de](https://www.minijob-zentrale.de/DE/die-minijobs/sonderfaelle/detailseite.html#:~:text=auszubildende%20sind%20versicherungspflichtige%20arbeitnehmer%20oder%20arbeitnehmerinnen) (February 2025)
 [^44]: Citation needed - PKV student tariff
+[^45]: [Techniker Krankenkasse](https://www.tk.de/vertriebspartner/faq/beitragsuebersicht/elterngeld-und-elternzeit/elterngeld-und-elternzeit-2065854) (March 2025)
