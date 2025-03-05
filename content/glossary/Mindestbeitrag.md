@@ -9,10 +9,10 @@ Related_guides:
     tools/health-insurance-calculator.md
 ---
 
-The price of [public health insurance](/glossary/gesetzliche%20Krankenversicherung) is based on your income. If you earn less money, you pay less for your health insurance.
+The price of [public health insurance](/glossary/gesetzliche%20Krankenversicherung) is based on your income. If you earn less money, your health insurance is cheaper.
 
-The *Mindestbeitrag* is the minimum amount you can pay for health insurance. If you earn less than {{GKV_MIN_INCOME|cur}}€ per month, the price stops going down.[^0]
+The *Mindestbeitrag* is the minimum amount you can pay for health insurance. If you earn less than {{GKV_MIN_INCOME|cur}}€ per month, the price does not go lower.[^0]
 
-There is a different *Mindestbeitrag* for students over 29 years old and freelancers, the *Selbstständige Mindestbeitrag*. It's around {{GKV_MIN_COST|cur}}€.
+There is a different *Mindestbeitrag* for students over 30 years old and freelancers, the *Selbstständige Mindestbeitrag*. It's around {{GKV_MIN_COST|cur}}€.
 
 [^0]: [check24.de](https://www.check24.de/gesetzliche-krankenversicherung/mindestbeitrag/)
