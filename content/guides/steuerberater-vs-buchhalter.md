@@ -5,7 +5,7 @@ Description: In Germany, there is an important distinction between a Steuerberat
 Date_created: 2018-02-19
 ---
 
-This guide explains the difference between tax advisors (*Steuerberater*) and bookkeepers (*Buchhalter*). 
+This guide explains the difference between tax advisors (*[[Steuerberater]]*) and bookkeepers (*[[Buchhalter]]*). 
 
 {% include "_blocks/tableOfContents.html" %}
 
@@ -20,7 +20,7 @@ This guide explains the difference between tax advisors (*Steuerberater*) and bo
 
 Tax advisor (*[[Steuerberater]]*) is a protected title in Germany. To become a tax advisor, you must have a university degree and 3 years of work experience,[^0] then you must pass the *Steuerberaterprüfung*, a 3 day long test.[^1]
 
-Because of their qualifications, tax advisors have special powers and special responsibilities. For example, only tax advisors can submit tax declarations (*Steuererklärungen*) and financial statements (*Jahresabschluss*) for you.[^2] They can even handle all communications with the *[[Finanzamt]]* for you. They can also certify documents like the *Prüfungsbericht* or the *Gewinnermittlung*.
+Because of their qualifications, tax advisors have special powers and special responsibilities. For example, only tax advisors can submit your [tax declaration](/glossary/Steuererklärung) and financial statements (*Jahresabschluss*) for you.[^2] They can even handle all communications with the *[[Finanzamt]]* for you. They can also certify documents like the *[[Prüfungsbericht]]* or the *[[Netto-Gewinnermittlung]]*.
 
 Tax advisors are liable for their mistakes. If a tax advisor makes a mistake in your tax declaration and you get fined by the *[[Finanzamt]]*, your tax advisor must pay the fine.
 
@@ -30,7 +30,7 @@ Tax advisors have more powers and responsibilities than bookkeepers, but they ar
 
 ## Buchhalter (bookkeeper)
 
-Bookkeeper ([*Buchhalter*](/glossary/Steuerberater)) is *not* a protected title in Germany. Anyone can be a bookkeeper. They do not need a specific degree or certificate. Because of this, bookkeepers have limited powers. They are also cheaper than tax advisors.
+Bookkeeper (*[[Buchhalter]]*) is *not* a protected title in Germany. Anyone can be a bookkeeper. They do not need a specific degree or certificate. Because of this, bookkeepers have limited powers. They are also cheaper than tax advisors.
 
 Bookkeepers can't submit your tax declarations or financial statements. They can help you fill financial documents, but you must submit them yourself. If your bookkeeper makes mistakes in your tax declaration, and you get fined by the *[[Finanzamt]]*, it will be your fault. You will have to pay the fine.
 

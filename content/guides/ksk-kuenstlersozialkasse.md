@@ -40,6 +40,8 @@ When you are a KSK member, **they pay half of your [health insurance](/glossary/
 
 - **There is a lot of paperwork**  
     The KSK application process is a bit hard. It takes a few months to get accepted. If you don't speak German, you might need a translator.
+- **They reject a lot of people**  
+    You might need to try multiple times, and still get rejected. Some people give up. Others sue the KSK to get accepted.
 - **You can't always keep your private health insurance**  
     With the KSK, if you earn less than {{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}}€ per year, you must switch to [public health insurance](/glossary/gesetzliche%20Krankenversicherung). Most of the time, it's a good thing, but you might prefer to keep your private health insurance. [More information here.](/guides/ksk-kuenstlersozialkasse#can-i-have-private-health-insurance-with-the-ksk)
 - **It can limit your options**  
@@ -343,7 +345,7 @@ These documents prove that you make money from artistic activities. They are als
     Include the full contract, with the signature.
 - [ ] **Other sources of income**  
     For example, affiliate income and Patreon sponsors. If your source of income is not clear, explain it in a separate document. This helps the KSK understand what you do.
-- [ ] **Tax returns** (*[[Steuerbescheid]]*)  
+- [ ] **Income tax assessments** (*[[Steuerbescheid]]*)  
     If possible, include your tax returns for the last 3 years. They asked for mine 3 months after I sent my application.
 
 **These documents must be less than 6 months old**. The documents can come from another country.[^33]

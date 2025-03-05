@@ -131,7 +131,7 @@ Go to your *Bürgeramt* appointment, and bring all the [required documents](http
 If your licence is not from a EU or EEA country, you must also bring...
 
 - [ ] **Certified translation of your driving licence**  
-    If your driving licence is not in German, you need a [certified translation](/glossary/beglaubigte%20Übersetzung) or an [International Driving Permit](/glossary/Internationaler%20Führerschein). In Berlin, they also accept driving licences in English.[^19] Get a certified from [Red Tape Translation](/out/red-tape-translation-certified), [Lingoking](/out/lingoking-drivers-licence) or [ADAC](https://www.adac.de/). It costs around 60€. In some cities, they only accept certified translations, not International Driving Permits.[^14]
+    If your driving licence is not in German, you need a [certified translation](/glossary/beglaubigte%20Übersetzung) or an [International Driving Permit](/glossary/Internationaler%20Führerschein). In Berlin, they also accept driving licences in English.[^19] Get a certified from [Red Tape Translation](/out/red-tape-translation-certified), [Lingoking](/out/lingoking-drivers-licence) or [ADAC](https://www.adac.de/). It costs around 60€. In some cities, they only accept certified translations, not [International Driving Permits](/glossary/Internationaler%20Führerschein).[^14]
 
 If your licence is not from a [EU](/glossary/European%20Union), [[EEA]] or [Annex 11](https://www.gesetze-im-internet.de/fev_2010/anlage_11.html) country, you must also bring...
 

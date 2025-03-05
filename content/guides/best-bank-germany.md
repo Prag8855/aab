@@ -28,7 +28,7 @@ An expat-friendly bank...
 
 In my opinion, N26 is the most expat-friendly German bank. I use them since 2016. They let you open an account quickly, without an *[[Anmeldung]]*. They speak English, French, German, Italian and Spanish.
 
-Their basic account **covers all your basic needs**: no monthly fees, free ATM withdrawals, multiple languages, a German [[IBAN]] and a solid mobile banking experience.
+Their basic account **covers all your basic needs**: no monthly fees, free ATM withdrawals, multiple languages, a German [[IBAN]] and a solid mobile banking experience. Creating an N26 account creates a [Schufa](/glossary/Schufa) record. A Schufa record can help you [find an apartment](/guides/find-a-flat-in-berlin).
 
 The biggest disadvantage: [the required documents](/out/n26-supported-passports). Depending on your nationality, you might need a plastic [residence permit](/glossary/Aufenthaltstitel) that's valid for 1 year. This is a problem for some recent immigrants.
 
@@ -36,7 +36,9 @@ The biggest disadvantage: [the required documents](/out/n26-supported-passports)
 
 ### [bunq](/out/bunq)
 
-They are a **good alternative to N26**. They are more expensive, but they [accept more passport types](/out/bunq-supported-passports). They let you open an account quickly, without an *[[Anmeldung]]*.[^55] They speak English, Dutch, French, German, Italian, Portuguese and Spanish.
+They are a **good alternative to N26**. They are more expensive, but they [accept more passport types](/out/bunq-supported-passports). They let you open an account quickly, without an *[[Anmeldung]]*.[^55] You must be in Germany when you open the account.[^16] After you open your account, you have 90 days to give them a [proof of residence](/glossary/Anmeldebestätigung) and your [tax ID](/glossary/Steueridentifikationsnummer). They speak English, Dutch, French, German, Italian, Portuguese and Spanish.
+
+Creating a bunq account does not create a Schufa record.[^19] A Schufa record can help you [find an apartment](/guides/find-a-flat-in-berlin).
 
 The free account is a little limited. The paid accounts have free ATM withdrawals. If you pay more, you get a German [[IBAN]].
 
@@ -106,7 +108,7 @@ These banks have no monthly fee **if you deposit at least 700€ per month**:
 - **[ING](/out/ing)**[^22]
 - **[1822direkt](/out/1822direkt)**[^18]
 - **[comdirect](/out/comdirect)**[^20]
-- **[Commerzbank](/out/commerzbank)**[^21]
+- **[Commerzbank](/out/commerzbank)**[^21] - Only until May 2025. Then there will be a monthly fee of 4.90€{{ fail_on('2025-05-01') }}
 
 These banks have no monthly fee **for young people**:
 
@@ -215,12 +217,12 @@ Deutsche Bank stopped offering blocked accounts.[^42]
 
 None of these banks give you a [[Girocard]]. If you need one, [C24](/out/c24) is a really good option, but they only speak German.
 
-**If you can't open an account anywhere**, [Wise](/out/wise-account) and [Sparkasse](/out/sparkasse) accept most people.[^3] If you are Russian, Iranian or Syrian, Sparkasse is the best option.[^2] If you need a blocked account, [Fintiba](/out/fintiba) is the best option.
+**If you can't open an account anywhere**, [Wise](/out/wise-account) and [Sparkasse](/out/sparkasse) accept most people.[^3] If you are Russian, Iranian or Syrian, [bunq](/out/bunq) and Sparkasse are the best option.[^2] If you need a blocked account, [Fintiba](/out/fintiba) is the best option.
 
 **The best German-speaking bank** is [C24](/out/c24). [DKB](/out/dkb) and [ING](/out/ing) are also great, but they don't accept recent immigrants.
 
 [^1]: [C24](https://hilfe.c24.de/hc/de/articles/360012128719-Welche-Ausweisdokumente-kann-ich-zur-Identifizierung-verwenden) (May 2024)
-[^2]: [Reddit](https://old.reddit.com/r/germany/comments/yshoer/open_a_bank_account_in_germany_with_blue_card/), [Twitter](https://twitter.com/_zigi/status/1775839424389030161) (2024)
+[^2]: [Reddit](https://old.reddit.com/r/germany/comments/yshoer/open_a_bank_account_in_germany_with_blue_card/), [Twitter](https://twitter.com/_zigi/status/1775839424389030161) (2024), Tobias Arnold from bunq (February 2025)
 [^3]: Multiple relocation consultants (2024), [Twitter](https://twitter.com/de1m0s242/status/1775881757872607234), [1](https://twitter.com/sync2nirvana/status/1775812020794765493), [2](https://twitter.com/OkiPeter_/status/1775852351456190917), [3](https://twitter.com/nikolaev_dd/status/1775808127541158206), [4](https://twitter.com/baridaniela28/status/1775848326455255146), [5](https://twitter.com/murirokcs/status/1775831955885449399), [6](https://twitter.com/DeusFoxy/status/1752302987295269173)
 [^4]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/93e7oe/did_you_open_a_bank_account_before_your_anmeldung/e3eihwj/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/q3m3js/bank_with_anmeldung/)
 [^5]: [C24.de](https://hilfe.c24.de/hc/de/articles/360011531579-Wer-kann-ein-Konto-beantragen), [Reddit](https://old.reddit.com/r/askberliners/comments/1du9jbf/any_suggestions_for_banks_for_expats/lbf1x21/) (June 2024)
@@ -234,8 +236,10 @@ None of these banks give you a [[Girocard]]. If you need one, [C24](/out/c24) is
 [^13]: [Twitter](https://twitter.com/sasaraber/status/1504429265445703681), [Screenshot](/images/Screenshot-2022-04-21-at-10.57.38.png)
 [^14]: [Reddit](https://old.reddit.com/r/germany/comments/qdr746/card_requirements_and_details_in_germany_eg_dkb/), [community.finanztip.de](https://community.finanztip.de/thema/80-erfahrungen-mit-der-dkb/?pageNo=3), [wer-weiss-was.de](https://www.wer-weiss-was.de/t/dkb-lehnt-kunden-ab/6515086), [kontofinder.de](https://www.kontofinder.de/ratgeber/girokonto-fuer-auslaender/), [Reddit](https://old.reddit.com/r/germany/comments/la6nrx/deutsche_bank_vs_dkb_vs_n26/)
 [^15]: [Reddit](https://old.reddit.com/r/germany/comments/qilicq/deleted_by_user/), [Twitter](https://twitter.com/cyrill_7/status/1502574559630958592), [Twitter](https://twitter.com/baykara__/status/1425369761504968706)
+[^16]: Tobias Arnold from bunq (February 2025)
 [^17]: [Reddit](https://old.reddit.com/r/germany/comments/18puh8o/about_blocked_account/) (2024)
 [^18]: [1822direkt.de](https://www.1822direkt.de/girokonto/leistungen-konditionen/)
+[^19]: Tobias Arnold from bunq (February 2025){{ fail_on('2025-10-01') }}
 [^20]: [comdirect.de](https://www.comdirect.de/cms/ueberuns/de/presse/neues-mobiles-girokonto-von-comdirect.html)
 [^21]: [commerzbank.de](https://www.commerzbank.de/portal/media/efw-dokumente/preis_leistungsverzeichnis.pdf)
 [^22]: [ing.de](https://www.ing.de/girokonto/konditionen/)

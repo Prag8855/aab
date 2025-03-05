@@ -26,6 +26,8 @@ You don't need a stamp; you can buy it at the post office. Bring cash; some post
 
 **[Map of mailboxes and post offices ➞](https://www.deutschepost.de/en/s/standorte.html)**
 
+![Buying a digital stamp in the Deutsche Post app](/images/deutsche-post-digital-stamp.jpg)
+
 ![A yellow Deutsche Post mailbox](/images/deutsche-post-mailbox.jpg "A Deutsche Post mailbox")
 
 ## From your computer

@@ -15,8 +15,7 @@ If you must get rid of old clothes and shoes, you can [resell them](/guides/how-
 
 There are over 6000 donation bins for clothes in Berlin.[^0] They are often close to supermarkets.
 
-- **[Map of clothes donation bins](http://umap.openstreetmap.fr/en/map/altkleider-container_51818#11/52.5170/13.3889)** - Open Street Map
-- [Map of clothes donation bins](https://www.remap-berlin.de/karte?c=Kleidung&s=1) - ReMap Berlin
+**[Map of clothes donation bins ➞](https://www.remap-berlin.de/karte?c=Kleidung&s=1)**
 
 ### Where will my clothes go?
 

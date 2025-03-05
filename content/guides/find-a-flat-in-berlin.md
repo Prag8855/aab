@@ -347,7 +347,7 @@ To apply for an apartment, you need these documents:[^19]
     - **If you are an employee**  
         Bring your work contract or a [certificate of employment](/glossary/Arbeitgeberbescheinigung), and your last 3 [payslips](/glossary/Gehaltsabrechnung). A certificate of employment is better than a contract, because it's easier to read.
     - **If you are self-employed**  
-        Bring a profit and loss statement stamped by your [tax advisor](/glossary/Steuerberater), or a recent *[[Steuerbescheid]]*. A *betriebswirtschaftliche Auswertung* also works. [Bank account statements](/glossary/Kontoauszug) help, but landlords trust them less.[^38]
+        Bring a recent *[[Steuerbescheid]]*, a *betriebswirtschaftliche Auswertung*, or a profit and loss statement stamped by your [tax advisor](/glossary/Steuerberater). If you don't have a tax advisor, get those documents from [Tax Germany](/out/taxgermany). [Bank account statements](/glossary/Kontoauszug) help, but landlords trust them less.[^38]
     - **If you are a student**  
         Bring a *[[Mietbürgschaft]]*, and proof of your guarantor's income.[^5]
 - [ ] **[[Mietschuldenfreiheitsbescheinigung]]** (optional)  

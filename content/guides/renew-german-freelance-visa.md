@@ -79,11 +79,11 @@ Your tax advisor must prepare documents for you:
 - If you are a *[[Freiberufler]]*, you need a *[[Netto-Gewinnermittlung]]*. You can prepare it yourself, but it must be verified and stamped by a tax advisor.[^3]
 - If you are a *[[Gewerbetreibender]]*, you need a *[[Prüfungsbericht]]*. It must be verified and stamped by a tax advisor.
 
-If your finances are organised, you can get these documents in a few days. If they are not organised, it can take a few weeks.
-
-It's hard to find a tax advisor. If you don't have one, start looking 2 to 5 months before your freelance visa expires. You can find a tax advisor in another city.
+If you don't have a tax advisor, get those documents from [Tax Germany](/out/taxgermany). It's cheaper and faster. It can take weeks or months to find a tax advisor.
 
 **[English-speaking tax advisors in Berlin ➞](/guides/english-speaking-steuerberater-berlin)**
+
+If your finances are organised, you can get these documents in a few days. If they are not organised, it can take a few weeks.
 
 ## Prepare your application
 
@@ -143,7 +143,7 @@ Bring these documents to your visa interview. [The official list of documents](h
     This document shows you where to go for your appointment. It also shows your waiting number (*Vorgangsnummer*). You must have this document to enter the *Ausländerbehörde*.
 - [ ] **Passport**  
     The passport must still be valid. It must have two free pages for your new residence permit. If your residence permit is in an older passport, bring the old passport and the new one. You do not need to have empty pages in your passport. They do not put stickers in your passport anymore. Your new residence permit will be a [plastic card](https://www.berlin.de/einwanderung/aufenthalt/elektronischer-aufenthaltstitel/).
-- [ ] **Current residence permit**  
+- [ ] **Current [residence permit](/glossary/Aufenthaltstitel)**  
     If you have a plastic residence permit, bring it. If your residence permit is in an older passport, bring the old passport and the new one.
 - [ ] **1 passport photo**  
     You need a 35 × 45 mm biometric picture. [There are many ways to get passport photos in Berlin](/guides/biometric-pictures-in-berlin). There is a photo booth at the *Ausländerbehörde*,[^5] but you should get a picture in advance. You do not need to cut the passport photos yourself; they have a tool for this.[^6]
@@ -151,18 +151,18 @@ Bring these documents to your visa interview. [The official list of documents](h
     You must prove that you make enough income to support yourself in Berlin.
     - **If you are self-employed** (*[[Gewerbetreibender]]*), bring these documents:
         - [ ] **Audit report form** (*[[Prüfungsbericht]]*)  
-            The document [on this page](https://service.berlin.de/dienstleistung/324288/) must be filled and stamped by a tax advisor (*[[Steuerberater]]*). It can take a few days to prepare. If your finances are not organised, it can take a few weeks.
+            Your [tax advisor](/glossary/Steuerberater) must fill [this template](https://www.berlin.de/formularverzeichnis/?formular=/labo/zuwanderung/_assets/pruefungsbericht_bis.docx) and stamp it. It takes a few days to prepare. If your finances are not organised, it can take a few weeks. If you don't have a tax advisor, get a *Prüfungsbericht* from [Tax Germany](/out/taxgermany); it's cheaper and faster.
         - [ ] **and a proof of business registration** (*aktuelle Handelsregisterauszug*)  
             [If your business needs a Handelsregister entry](/guides/handelsregisternummer-germany#who-needs-a-handelsregister-entry), bring a *Handelsregisterauszug*. You probably don't need this. Get it [in person, in writing](https://service.berlin.de/dienstleistung/327144/standort/326311/), or [online](https://www.handelsregister.de/rp_web/welcome.xhtml). It costs 10€.[^7] It can take a few days to receive this document.
-        - [ ] **and a copy of your trade certificate** ([*Gewerbeschein*](/guides/gewerbeschein))  
+        - [ ] **and a copy of your trade certificate** (*[[Gewerbeschein]]*)  
             You get this document during your business registration (*[[Gewerbeanmeldung]]*).
         - [ ] **and a [certificate of tax matters](/guides/bescheinigung-in-steuersachen)** (*Bescheinigung in Steuersachen* or *Unbedenklichkeitsbescheinigung*)  
             It proves that you paid your taxes on time. [Request it from the *Finanzamt*.](/guides/bescheinigung-in-steuersachen) It costs {{ BESCHEINIGUNG_IN_STEUERSACHEN_FEE|cur }}€. It arrives in 1 to 3 weeks.[^8]
     - **If you are a freelancer** (*[[Freiberufler]]*), you don't need a *[[Prüfungsbericht]]*.[^9] Bring these documents instead:
-        - [ ] **Tax assessments** (*[[Steuerbescheid]]*)  
-            When you make a tax declaration, the *[[Finanzamt]]* sends you a *[[Steuerbescheid]]* by post. It looks like [this](/images/Einkommensteuer-Bescheid-Muster-Example.png). If possible, bring *Steuerbescheide* of the last 2-3 years, not just the latest one.
-        - [ ] **and net profit determination** (*[[Netto-Gewinnermittlung]]*)  
-            You must get this document from a tax advisor. It shows how much profit you have made. It can have different formats. It must be verified and stamped by a tax advisor (*[[Steuerberater]]*).
+        - [ ] **Income tax assessments** (*[[Steuerbescheid]]*)  
+            If possible, bring *Steuerbescheide* of the last 2-3 years, not just the latest one.
+        - [ ] **and net profit assessment** (*[[Netto-Gewinnermittlung]]*)  
+            If you don't have a recent tax assessment, bring this instead. This document must be stamped by a [tax advisor](/glossary/Steuerberater). If you don't have a tax advisor, get it from [Tax Germany](/out/taxgermany).
         - [ ] **and bank statement** (*[[Kontoauszug]]*)  
             Your bank account statement must show that you have a regular source of income. It should also show your health insurance payments and your rent payments. You can request this document from your bank. It has no specific format.
         - [ ] **and invoices** (*Abrechnungen*)  
@@ -177,7 +177,7 @@ Bring these documents to your visa interview. [The official list of documents](h
     - [ ] **Proof of health insurance coverage**  
         You can request this from your health insurer. You can usually get it from their website.
     - [ ] **and proof of monthly payments**  
-        Bring a document that shows how much you pay for health insurance. For example, bank transactions that show health insurance payments. This is not officially required, but they sometimes ask for it. Your tax advisor might also need it for your *[[Prüfungsbericht]]*.[^11]
+        Bring a document that shows how much you pay for health insurance. For example, bank transactions that show health insurance payments. This is not officially required, but they sometimes ask for it. Your tax advisor might also need it for your *[[Prüfungsbericht]]*.
 - [ ] **Proof of retirement savings**  
     If you are over 45 years old, you must prove that you will get a pension of at least {{FREELANCE_VISA_MIN_MONTHLY_PENSION|cur}}€ per month for at least 12 years, or that you have {{FREELANCE_VISA_MIN_PENSION|cur}}€ in assets.
     - If you are a citizen of the Dominican Republic, Indonesia, Japan, the Philippines, Sri Lanka, Turkey or the United States, you do not need this proof.
@@ -202,9 +202,9 @@ Some of the [required documents](/guides/renew-german-freelance-visa#required-do
 - *Aktuelle Handelsregisterauszug*: 10€ if you need it[^7]
 - *Bescheinigung in Steuersachen*: {{ BESCHEINIGUNG_IN_STEUERSACHEN_FEE|cur }}€[^8]
 - *[[Gewerbeschein]]*: 15€ to 31€, but you probably have it already[^14]
-- *[[Prüfungsbericht]]*: up to 800€.[^11]
-- *[[Netto-Gewinnermittlung]]*: 100€ to 150€.
-- [Certified translations](/glossary/beglaubigte%20Übersetzung): 15€ to 70€ per document.
+- *[[Prüfungsbericht]]*: up to 800€[^11] - [Tax Germany](/out/taxgermany) is cheaper
+- *[[Netto-Gewinnermittlung]]*: 100€ to 150€
+- [Certified translations](/glossary/beglaubigte%20Übersetzung): 15€ to 70€ per document
 
 Keep the receipts. Those expenses are [tax-deductible](/glossary/steuerlich%20absetzbar).
 

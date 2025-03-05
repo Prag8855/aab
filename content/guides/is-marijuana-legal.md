@@ -55,7 +55,7 @@ To join a club, you must...[^18]
 - Be at least 18 years old
 - Be a resident for at least 6 months[^26]
 
-At the moment, it takes a really long time to create a cannabis club.[^29] It could take a few months before you can get weed from a club.{{ fail_on('2025-03-01') }}
+At the moment, it takes a really long time to create a cannabis club.[^29] It could take a few months before you can easily buy weed from a club.{{ fail_on('2025-04-01') }}
 
 ### Is medicinal marijuana legal?
 
