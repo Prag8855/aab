@@ -334,7 +334,7 @@ config.context_globals = {
     "GKV_BASE_RATE_STUDENT": health_insurance_base_rate_student,
 
     # Base contribution (%), excluding Krankengeld - § 243 SGB V
-    "GKV_SELF_EMPLOYED_BASE_RATE": 14,
+    "GKV_BASE_RATE_SELF_EMPLOYED": 14,
 
     # Estimated minimum contribution (€/mth) without employer contribution
     "GKV_MIN_COST": round(
@@ -347,7 +347,7 @@ config.context_globals = {
     ),
 
     # Min/max health insurance cost for employees (€/mth), with avg. Zusatzbeitrag
-    "GKV_IN_COST_EMPLOYEE": round(
+    "GKV_MIN_COST_EMPLOYEE": round(
         health_insurance_min_income * (
             health_insurance_base_rate
             + pflegeversicherung_min_rate
