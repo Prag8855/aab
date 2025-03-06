@@ -346,7 +346,16 @@ config.context_globals = {
         -1
     ),
 
-    # Maximum health insurance cost for employees (€/mth), with avg. Zusatzbeitrag
+    # Min/max health insurance cost for employees (€/mth), with avg. Zusatzbeitrag
+    "GKV_IN_COST_EMPLOYEE": round(
+        health_insurance_min_income * (
+            health_insurance_base_rate
+            + pflegeversicherung_min_rate
+            + health_insurance_avg_zusatzbeitrag
+        ) / 100
+        / 2,
+        -1
+    ),
     "GKV_MAX_COST_EMPLOYEE": round(
         gkv_hoechstbeitrag_min_income / 12 * (
             health_insurance_base_rate
@@ -380,8 +389,8 @@ config.context_globals = {
     # Used to calculate health insurance for a midijob - § 20 SGB IV
     "GKV_FACTOR_F": fail_on('2025-12-31', 0.6683),
 
-    # Not quite accurate, but good enough
-    "GKV_MIN_EMPLOYEE_RATE": round(
+    # Not quite accurate, but good enough - %
+    "GKV_MIN_RATE_EMPLOYEE": round(
         (
             health_insurance_base_rate
             + pflegeversicherung_min_rate
@@ -397,7 +406,7 @@ config.context_globals = {
         ) / 2,
         1
     ),
-    "GKV_MIN_FREELANCER_RATE": round(
+    "GKV_MIN_RATE_SELF_EMPLOYED": round(
         health_insurance_base_rate
         + pflegeversicherung_min_rate
         + health_insurance_min_zusatzbeitrag,
@@ -414,9 +423,9 @@ config.context_globals = {
     # https://www.ottonova.de/v/private-krankenversicherung/angestellte
     # https://www.ottonova.de/v/private-krankenversicherung/studenten
     # https://www.ottonova.de/v/private-krankenversicherung/selbststaendige
-    "OTTONOVA_SELFEMPLOYED_COST": 552,  # Premium economy
-    "OTTONOVA_STUDENT_COST": 111,  # Study smart
-    "OTTONOVA_EMPLOYEE_COST": 263,  # Premium economy
+    "OTTONOVA_SELFEMPLOYED_COST": fail_on('2025-06-01', 552),  # Premium economy
+    "OTTONOVA_STUDENT_COST": fail_on('2025-06-01', 111),  # Study smart
+    "OTTONOVA_EMPLOYEE_COST": fail_on('2025-06-01', 263),  # Premium economy
 
     "PFLEGEVERSICHERUNG_WITH_SURCHARGE": pflegeversicherung_max_rate,
 
