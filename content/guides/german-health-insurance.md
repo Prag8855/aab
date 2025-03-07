@@ -59,13 +59,11 @@ You can choose public or private health insurance. You usually get a cheaper tar
 
 **If you have a job**, your options change. If your income is over {{MINIJOB_MAX_INCOME|cur}}€ per month, you can't get the student tariff, you can't get [free health insurance from your family](#free-health-insurance), and you can't use your [foreign health insurance](#insurance-from-other-eu-countries). You are usually treated [like a normal employee](#for-employees).
 
-If your job is related to your studies, and you work less than 20 hours per week, you can still get the student tariff. ???Familienversicherung, EHIC???
+If you work less than 20 hours per week, you can still get the student tariff, even if your income is too high.[^46]
 
-**If you are self-employed**, your options change. If your income is over ??? per month, you can't get the student tariff, you can't get free health insurance from your family, and you can't use your foreign health insurance. You are treated [like a self-employed person](#for-self-employed-people).
+There are different rules for [internships](#for-an-internship) and [apprenticeships](#for-an-apprenticeship). You can usually get free health insurance.
 
-???Can students be forced to get private???
-
-???When are students allowed to have expat health insurance???
+**If you are self-employed**, your options change. If your income is over {{GKV_FAMILIENVERSICHERUNG_MAX_INCOME|cur}}€ per month, you can't get the student tariff, you can't get [free health insurance from your family](#free-health-insurance), and you can't use your [foreign health insurance](#insurance-from-other-eu-countries). You are treated [like a self-employed person](#for-self-employed-people).
 
 [Ask a broker](#insurance-brokers) to help you choose. They can help you find the cheapest health insurance.
 
@@ -89,9 +87,21 @@ If you are a trainee (*[[Azubi]]*), you must get public health insurance.[^54]
 
 **If you earn more than {{GKV_AZUBI_FREIBETRAG|cur}}€ per month**, your health insurance costs {{GKV_MIN_RATE_EMPLOYEE}}% to {{GKV_MAX_RATE_EMPLOYEE}}% of your income.[^52] You can't get [free health insurance](#free-health-insurance).[^53]
 
-### For trainees
+### For an internship
 
-If you are a trainee (Azubi) and make 325€ per month or less, your employer must pay for your health insurance. Otherwise, you pay the same prices as a regular employee.[^43]
+**If it's a voluntary internship**, you have [the same options as an employee](#for-employees). You can sometimes get [free health insurance](#free-health-insurance).
+
+**If it's a mandatory internship during your studies:**
+
+- If you make {{GKV_AZUBI_FREIBETRAG|cur}}€ per month or less, your health insurance is free. Your employer pays for it.[^49]
+- If your income is 556€ per month or less, you can get free health insurance from your family.
+
+**If it's a mandatory internship before or after your studies:**
+
+- If you make more than {{MINIJOB_MAX_INCOME|cur}}€ per month, you pay [the same price as other employees](#for-employees).[^43]
+- If you make {{GKV_AZUBI_FREIBETRAG|cur}}€ to {{MINIJOB_MAX_INCOME|cur}}€ per month, you pay [the same price as other students](#for-students).[^51]
+- If you make {{GKV_AZUBI_FREIBETRAG|cur}}€ per month or less, your health insurance is free. Your employer pays for it.
+- If it's an unpaid internship, you must pay for your own health insurance.[^50] You can get [free health insurance](#free-health-insurance).
 
 ### Free health insurance
 
@@ -425,9 +435,12 @@ There are more types of insurance in Germany, but health and liability insurance
 [^43]: [minijob-zentrale.de](https://www.minijob-zentrale.de/DE/die-minijobs/sonderfaelle/detailseite.html#:~:text=auszubildende%20sind%20versicherungspflichtige%20arbeitnehmer%20oder%20arbeitnehmerinnen) (February 2025)
 [^44]: Citation needed - PKV student tariff
 [^45]: [Techniker Krankenkasse](https://www.tk.de/vertriebspartner/faq/beitragsuebersicht/elterngeld-und-elternzeit/elterngeld-und-elternzeit-2065854) (March 2025)
-[^46]: [Techniker Krankenkasse](https://www.tk.de/resource/blob/2033352/0a9809b0d119ad48bdd717ccf37391b2/beratungsblatt-beschaeftigung-von-studierenden-und-praktikanten-data.pdf) (January 2025)
+[^46]: [Techniker Krankenkasse](https://www.tk.de/resource/blob/2033352/0a9809b0d119ad48bdd717ccf37391b2/beratungsblatt-beschaeftigung-von-studierenden-und-praktikanten-data.pdf) (January 2025), [Techniker Krankenkasse](https://www.tk.de/firmenkunden/versicherung/versicherung-faq/haeufige-fragen-zu-studenten-und-praktikanten/wer-kann-werkstudent-sein-2036666) (March 2025), [meinpraktikum.de](https://www.meinpraktikum.de/ratgeber/werkstudent/allgemeines) (March 2025)
 [^47]: Citation needed - Familienversicherung for Azubis
 [^48]: [AOK](https://www.aok.de/pk/krankenkassenbeitraege/auszubildende/#:~:text=auszubildende%20mussen%20keine%20krankenkassenbeitrage%20zahlen%2C%20wenn%20ihr%20monatsverdienst%20nicht%20mehr%20als%20325%20euro%20betragt) (March 2025), [Check24](https://www.check24.de/gesetzliche-krankenversicherung/azubis/#:~:text=wer%20eine%20ausbildungsvergutung%20von%20weniger%20als%20325%20euro%20im%20monat%20erhalt%2C%20muss%20keine%20beitrage%20zur%20krankenversicherung%20zahlen.) (March 2025), [Techniker Krankenkasse](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-versicherte/veraenderung-berufliche-situation/versichert-als-schueler-und-auszubildende/beitraege-azubi-auszubildende-hoehe-beitragshoehe-2010362#:~:text=verdienen%20sie%20nicht%20mehr%20als%20325%20euro%20brutto%20monatlich%2C%20zahlt%20ihr%20arbeitgeber%20die%20gesamten%20beitrage.) (March 2025)
+[^49]: [Techniker Krankenkasse](https://www.tk-lex.tk.de/web/guest/externalcontent?_leongshared_serviceId=2010&_leongshared_externalcontentid=HI521237) (March 2025), [§20 Abs. 3 SGB IV](https://www.gesetze-im-internet.de/sgb_4/__20.html)
+[^50]: [meinpraktikum.de](https://www.meinpraktikum.de/ratgeber/krankenversicherung#:~:text=vorgeschriebenes%20vorpraktikum%20oder%20nachpraktikum%20ohne%20vergutung)
+[^51]: Citation needed - Rate for praktikant, unverified calculation
 [^52]: [azubi-krankenkasse.de](https://www.azubi-krankenkasse.de/hoehe-der-sozialversicherungsbeitraege/#:~:text=der%20allgemeine%20beitragssatz%20wird%20je%20zur%20halfte%20) (March 2025), [Check24](https://www.check24.de/gesetzliche-krankenversicherung/mindestbeitrag/#:~:text=es%20gibt%20fur%20sie%20keinen%20mindestbeitrag.) (March 2025), [gesetzliche-krankenkassen.de](https://www.gesetzliche-krankenkassen.de/auszubildende-azubis/#:~:text=wer%20zahlt%20meine%20krankenkasse%20in%20der%20ausbildung%3F) (March 2025)
 [^53]: [gesetzliche-krankenkassen.de](https://www.gesetzliche-krankenkassen.de/auszubildende-azubis/#:~:text=familienversicherung%20ist%20wahrend%20der%20ausbildung%20nicht%20moglich) (March 2025)
 [^54]: [gesetzliche-krankenkassen.de](https://www.gesetzliche-krankenkassen.de/auszubildende-azubis/#:~:text=eine%20versicherung%20in%20der%20privaten%20krankenversicherung%20(pkv)%20ist%20fur%20auszubildende%20nicht%20moglich) (March 2025)
