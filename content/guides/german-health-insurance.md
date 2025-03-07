@@ -37,7 +37,7 @@ Your options depend on your situation and your income. Use my health insurance c
 
 You can get public health insurance, and sometimes private health insurance. Your employer does not choose your health insurance. If you [lose your job](/guides/losing-your-job), you do not lose your health insurance.
 
-**If you earn over {{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}}€ per year**, you can choose public or private health insurance. It costs {{GKV_MIN_COST_EMPLOYEE|cur}}€ to {{GKV_MAX_COST_EMPLOYEE|cur}}€ per month, depending on your income.
+**If you earn over {{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}}€ per year**, you can choose public or private health insurance. Public health insurance costs {{GKV_MIN_COST_EMPLOYEE|cur}}€ to {{GKV_MAX_COST_EMPLOYEE|cur}}€ per month, depending on your income. Private health insurance might be cheaper.
 
 **If you earn under {{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}}€ per year**, you can only choose public health insurance. It costs {{GKV_MIN_COST_EMPLOYEE|cur}}€ to {{GKV_MAX_COST_EMPLOYEE|cur}}€ per month, depending on your income. Doctors and civil servants can also choose private health insurance.[^31]
 
@@ -49,7 +49,7 @@ You can get public health insurance, and sometimes private health insurance. You
 
 You can choose public or private health insurance. You usually get a cheaper tariff. You sometimes get free health insurance. The best option depends on your age.
 
-**If you are under 25 years old**, you can get [free health insurance from your family](#free-health-insurance). Otherwise, you must pay around {{GKV_COST_STUDENT|cur}}€ per month for public health insurance.[^1] Some private health insurers have cheaper insurance for students.[^44]
+**If you are under 25 years old**, you can get [free health insurance from your family](#free-health-insurance). Otherwise, you pay around {{GKV_COST_STUDENT|cur}}€ per month for public health insurance.[^1] Some private health insurers have cheaper insurance for students.[^44]
 
 **If you are under 30 years old**, you can get [free health insurance from your spouse](#free-health-insurance). Otherwise, you pay the student tariff for public health insurance: around {{GKV_COST_STUDENT|cur}}€ per month.[^1] Some private health insurers also have a student tariff.[^44]
 
@@ -57,7 +57,7 @@ You can choose public or private health insurance. You usually get a cheaper tar
 
 **If you are a foreign student**, you might need health insurance between your arrival in Germany and your first day of school. Non-EU students can get expat insurance. EU students can use their health insurance from their home country.
 
-**If you have a job**, your options change. If your income is over ??? per month, you can't get the student tariff, you can't get [free health insurance from your family](#free-health-insurance), and you can't use your [foreign health insurance](#insurance-from-other-eu-countries). You are treated [like an employee](#for-employees).
+**If you have a job**, your options change. If your income is over {{MINIJOB_MAX_INCOME|cur}}€ per month, you can't get the student tariff, you can't get [free health insurance from your family](#free-health-insurance), and you can't use your [foreign health insurance](#insurance-from-other-eu-countries). You are usually treated [like a normal employee](#for-employees).
 
 If your job is related to your studies, and you work less than 20 hours per week, you can still get the student tariff. ???Familienversicherung, EHIC???
 
@@ -73,7 +73,7 @@ If your job is related to your studies, and you work less than 20 hours per week
 
 **If you get [[ALG I]], [[Bürgergeld]] or [[Elterngeld]]**, health insurance is free. The state pays for it.[^42] Usually, you must switch to public health insurance.[^41]
 
-If you get ALG I, Bürgergeld or Elterngeld, you can choose public or private health insurance. With public health insurance, you pay around [{{GKV_MIN_COST|cur}}€ per month](/glossary/Mindestbeitrag).[^40] The cost of private health insurance is not related to your income.
+**If you don't get ALG I, Bürgergeld or Elterngeld**, you can choose public or private health insurance. With public health insurance, you pay around [{{GKV_MIN_COST|cur}}€ per month](/glossary/Mindestbeitrag).[^40] The cost of private health insurance is not related to your income.
 
 ### For self-employed people
 
