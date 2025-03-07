@@ -185,7 +185,7 @@ In Berlin, you need a *guaranteed* pension. Stocks or money in your bank account
 If you are self-employed, you don't pay for a public pension. Instead, you can...
 
 - **Make voluntary public pension payments**  
-    You can make the minimum contribution ({{RENTENVERSICHERUNG_MIN_CONTRIBUTION|cur}}€ per month) until you have 60 months of pension contributions. To make voluntary contributions, [fill form V0060](https://www.deutsche-rentenversicherung.de/SharedDocs/Formulare/DE/_pdf/V0060.html?groupName_str=formulare).[^25] You can make retroactive payments for up to 1 year.
+    You can make the minimum contribution ({{RV_MIN_CONTRIBUTION|cur}}€ per month) until you have 60 months of pension contributions. To make voluntary contributions, [fill form V0060](https://www.deutsche-rentenversicherung.de/SharedDocs/Formulare/DE/_pdf/V0060.html?groupName_str=formulare).[^25] You can make retroactive payments for up to 1 year.
 - or **join the [[Künstlersozialkasse]]**  
     If you are a freelance artist, publicist or teacher, the KSK can pay half of your pension. It's a cheaper way to get a pension.
 - or **use your foreign pension**  

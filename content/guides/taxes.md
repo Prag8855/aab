@@ -63,15 +63,15 @@ If you are an employee, your employer pays half of it. If you earn less than {{G
 
 ### Nursing care insurance
 
-Nursing care insurance (*[[Pflegeversicherung]]*) pays for your healthcare when you are old. It costs {{PFLEGEVERSICHERUNG_NO_SURCHARGE}}% of your income. If you are over {{PFLEGEVERSICHERUNG_NO_SURCHARGE_MAX_AGE}} years old, and you don't have children, it costs {{PFLEGEVERSICHERUNG_WITH_SURCHARGE}}% of your income.
+Nursing care insurance (*[[Pflegeversicherung]]*) pays for your healthcare when you are old. It costs {{PFLEGEVERSICHERUNG_BASE_RATE}}% of your income. If you are over {{PFLEGEVERSICHERUNG_BASE_RATE_MAX_AGE}} years old, and you don't have children, it costs {{PFLEGEVERSICHERUNG_MAX_RATE}}% of your income.
 
 If you are an employee, your employer pays half of it.
 
 ### Public pension insurance
 
-All employees must pay into the [public pension system](/glossary/gesetzliche%20Rentenversicherung). It costs {{RENTENVERSICHERUNG_TOTAL_CONTRIBUTION}}% of your income.
+All employees must pay into the [public pension system](/glossary/gesetzliche%20Rentenversicherung). It costs {{RV_BASE_RATE}}% of your income.
 
-If you are an employee, your employer pays half of it, so you pay {{RENTENVERSICHERUNG_EMPLOYEE_CONTRIBUTION}}%.
+If you are an employee, your employer pays half of it, so you pay {{RV_EMPLOYEE_CONTRIBUTION}}%.
 
 If you are self-employed, public pension insurance is usually optional. If you don't pay public pension insurance, you must make your own retirement plans.
 

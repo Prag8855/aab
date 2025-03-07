@@ -189,7 +189,7 @@ At the end of the year, make a tax declaration (*[[Steuererklärung]]*). Your jo
 
 ### Ask for a pension refund
 
-When you work in Germany, you pay {{RENTENVERSICHERUNG_EMPLOYEE_CONTRIBUTION}}% of your salary for [pension insurance](/glossary/gesetzliche%20Rentenversicherung). If you leave Germany, you can get that money back.
+When you work in Germany, you pay {{RV_EMPLOYEE_CONTRIBUTION}}% of your salary for [pension insurance](/glossary/gesetzliche%20Rentenversicherung). If you leave Germany, you can get that money back.
 
 {% include '_blocks/pensionRefundCalculator.html' %}
 

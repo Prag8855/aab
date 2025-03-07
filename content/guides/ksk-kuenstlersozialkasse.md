@@ -34,7 +34,7 @@ When you are a KSK member, **they pay half of your [health insurance](/glossary/
 - **It helps you get [permanent residence](/glossary/Niederlassungserlaubnis)**  
     Before you apply for [permanent residence](/glossary/Niederlassungserlaubnis), you must pay [public pension insurance](/glossary/gesetzliche%20Krankenversicherung) for 60 months. The KSK makes public pension insurance more affordable for freelancers.
 - **It's usually free**  
-    If you earn less than {{GKV_HÖCHSTBEITRAG_MIN_INCOME|cur}}€ per year, the KSK does not cost more money. If you earn more, [it can cost a little more](/guides/ksk-kuenstlersozialkasse#how-much-does-it-cost) - up to 175€ per month - but it's still a really good deal.
+    If you earn less than {{GKV_MAX_INCOME|cur}}€ per year, the KSK does not cost more money. If you earn more, [it can cost a little more](/guides/ksk-kuenstlersozialkasse#how-much-does-it-cost) - up to 175€ per month - but it's still a really good deal.
 
 ### Disadvantages
 
@@ -55,7 +55,7 @@ When you are a KSK member, **they pay half of your [health insurance](/glossary/
 
 [Public pension insurance](/glossary/gesetzliche%20Krankenversicherung) is optional for most freelancers, so you probably don't pay for it. If you join the KSK, it's required. You must pay for it.
 
-So when you are in the KSK, you save ~9.35% of your income on health insurance, but you must pay {{RENTENVERSICHERUNG_EMPLOYEE_CONTRIBUTION}}% of your income for public pension insurance. In the end, you pay around the same price.
+So when you are in the KSK, you save ~9.35% of your income on health insurance, but you must pay {{RV_EMPLOYEE_CONTRIBUTION}}% of your income for public pension insurance. In the end, you pay around the same price.
 
 In other words, **you save money on health insurance, and reinvest it in your pension**. This is a *really* good deal.
 
@@ -388,7 +388,7 @@ When the KSK accepts you, your membership starts on the date you applied. You mu
 
 What happens depends on the health insurance you had while you waited:
 
-- **If you had [public health insurance](/glossary/gesetzliche%20Krankenversicherung)**, you can get a refund from your health insurer. You can use your refund to pay the KSK. The cost will be almost the same. If you earn over {{GKV_HÖCHSTBEITRAG_MIN_INCOME|cur}}€ per year, you could pay a little more.
+- **If you had [public health insurance](/glossary/gesetzliche%20Krankenversicherung)**, you can get a refund from your health insurer. You can use your refund to pay the KSK. The cost will be almost the same. If you earn over {{GKV_MAX_INCOME|cur}}€ per year, you could pay a little more.
 - **If you had [private health insurance](/glossary/private%20Krankenversicherung)**, you can *sometimes* get a refund from your health insurer. You can use your refund to pay the KSK backpayments. If you don't get a refund, you will pay twice for your health insurance for the months you were waiting.
 - **If you had [expat health insurance](/glossary/Expat%20health%20insurance)**, you can *sometimes* get a refund from your health insurer.
 
@@ -419,7 +419,7 @@ Every year, the KSK verifies 5% of its members. They choose at random. If they v
 
 ### When you leave Germany
 
-If you leave the [[European Union]], you can usually [get a refund for your public pension insurance payments](/guides/pension-payments-refund). You only get the part that you paid ({{RENTENVERSICHERUNG_EMPLOYEE_CONTRIBUTION}}% of your income), not the part that the KSK paid.
+If you leave the [[European Union]], you can usually [get a refund for your public pension insurance payments](/guides/pension-payments-refund). You only get the part that you paid ({{RV_EMPLOYEE_CONTRIBUTION}}% of your income), not the part that the KSK paid.
 
 If you can't get your pension payments back, you will get a German pension when you retire, even if you live in another country.
 

@@ -11,7 +11,7 @@ Related_guides:
 
 The price of [public health insurance](/glossary/gesetzliche%20Krankenversicherung) is based on your income. If you earn more money, you pay more for your health insurance.
 
-The *Höchstbeitrag* is the maximum amount you can pay for health insurance. If you earn more than {{GKV_HÖCHSTBEITRAG_MIN_INCOME|cur}}€ per year, you pay the *Höchstbeitrag*. It's around {{GKV_MAX_COST_EMPLOYEE|cur}}€ per month.
+The *Höchstbeitrag* is the maximum amount you can pay for health insurance. If you earn more than {{GKV_MAX_INCOME|cur}}€ per year, you pay the *Höchstbeitrag*. It's around {{GKV_MAX_COST_EMPLOYEE|cur}}€ per month.
 
 There is a different *Höchstbeitrag* for self-employed people, the *Selbstständige Höchstbeitrag*. It's around {{GKV_MAX_COST_SELF_EMPLOYED|cur}}€ per month.[^0]
 

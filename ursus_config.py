@@ -1,4 +1,4 @@
-from datetime import datetime, date
+from datetime import datetime
 from decimal import Decimal
 from extensions.functions import glossary_groups
 from logtail import LogtailHandler
@@ -198,92 +198,332 @@ config.minify_js = True
 config.minify_css = True
 
 config.google_maps_api_key = 'AIzaSyAhhCuZjNCFo2o84w27Xh0ravLwIiVProo'  # Backend use only
-
 config.google_tts_api_key = 'AIzaSyAhhCuZjNCFo2o84w27Xh0ravLwIiVProo'
 
-minimum_wage = fail_on('2025-07-01', 12.82)
 
-# § SGB 6 Anlage 2 - https://www.tk.de/firmenkunden/versicherung/beitraege-faq/zahlen-und-grenzwerte/beitragsbemessungsgrenzen-2033026
-beitragsbemessungsgrenze = fail_on('2025-12-31', 8050 * 12)
+context = {}
 
-# https://www.bmas.de/DE/Arbeit/Arbeitsrecht/Mindestlohn/mindestlohn.html
-gkv_hoechstbeitrag_min_income = fail_on('2025-12-31', 5512.50 * 12)
+# ==============================================================================
+# TAXES
+# ==============================================================================
 
-# Below this income (€/mth), you have a minijob - § 8 SGB IV
-geringfuegigkeitsgrenze = round(minimum_wage * 130 / 3)
+# German minimum wage (€/h)
+context['MINIMUM_WAGE'] = fail_on('2025-07-01', 12.82)
 
-# Median income (€/m) of all people who pay social contribs - SGB VI Anlage 1
-bezugsgroesse = fail_on('2025-12-31', 3745)
+# Maximum income used to calculate pension contributions (€/y)
+# https://www.tk.de/firmenkunden/versicherung/beitraege-faq/zahlen-und-grenzwerte/beitragsbemessungsgrenzen-2033026
+context['BEITRAGSBEMESSUNGSGRENZE'] = fail_on('2025-12-31', 8050 * 12)  # § SGB 6 Anlage 2 [BBGRV]
 
-# Base contribution (%), including Krankengeld - § 241 SGB V
-health_insurance_base_rate = 14.6
+# Minimum allowance for au pairs (€/mth)
+context["AU_PAIR_MIN_ALLOWANCE"] = fail_on('2025-07-01', 280)
 
-# Base contribution (%) for students - § 245 SGB V
-health_insurance_base_rate_student = health_insurance_base_rate * 0.7
+context["MEDIAN_INCOME_BERLIN"] = fail_on('2025-12-31', 47784)  # 2023
+context["MEDIAN_INCOME_GERMANY"] = fail_on('2025-12-31', 45552)  # 2023
 
-# Public pension contribution (%) - RVBeitrSBek 202X
-pension_insurance_base_rate = fail_on('2025-12-31', 18.6)
+context["VORSORGEPAUSCHAL_MIN"] = fail_on('2025-12-31', 1900)  # §39b Abs. 2.3.e EStG
+context["VORSORGEPAUSCHAL_MIN_TAX_CLASS_3"] = 3000,  # ??
 
-# BAFöG Bedarfssatz (€/y) - sum of §13 BAföG Abs 1.2 + 2.2
-bafog_bedarfssatz = fail_on('2025-07-01', 380 + 475)
+context["GRUNDFREIBETRAG"] = fail_on('2025-12-31', 12096)  # § 32a EstG [GFB]
 
-# Pflegeversicherung (%) - §55 Abs. 1 SGB XI
-pflegeversicherung_base_rate = fail_on('2025-12-31', 3.6)
+context["INCOME_TAX_TARIF_2_MAX_INCOME"] = fail_on('2025-12-31', 17430)  # § 32a EstG [UPTAB24]
+context["INCOME_TAX_TARIF_3_MAX_INCOME"] = fail_on('2025-12-31', 68430)  # § 32a EstG [UPTAB24]
+context["INCOME_TAX_TARIF_4_MAX_INCOME"] = fail_on('2025-12-31', 277825)  # § 32a EstG [UPTAB24]
 
-# Surcharge for people over 23 with no kids - §55 Abs. 3 SGB XI
-pflegeversicherungs_surcharge = 0.6
+# Upper bound (€/y) of income tax tarif zones for tax classes 5 and 6
+context["INCOME_TAX_CLASS_56_LIMIT_1"] = fail_on('2025-12-31', 13785)  # (€/y) - § 39b Abs. 2 Satz 7 EstG [W1STKL5]
+context["INCOME_TAX_CLASS_56_LIMIT_2"] = fail_on('2025-12-31', 34240)  # (€/y) - § 39b Abs. 2 Satz 7 EstG [W2STKL5]
+context["INCOME_TAX_CLASS_56_LIMIT_3"] = fail_on('2025-12-31', 222260)  # (€/y) - § 39b Abs. 2 Satz 7 EstG [W3STKL5]
 
-# Pflegeversicherung discount per child (%) - §55 Abs. 3 SGB XI
-pflegeversicherungs_discount_per_child = 0.25
+context["INCOME_TAX_MAX_RATE"] = 45  # (%) - § 32b EstG
 
-pflegeversicherung_min_rate = pflegeversicherung_base_rate + pflegeversicherungs_discount_per_child * 4
-pflegeversicherung_max_rate = pflegeversicherung_base_rate + pflegeversicherungs_surcharge
+context["CHURCH_TAX_RATE"] = 9  # (%)
+context["CHURCH_TAX_RATE_BW_BY"] = 8  # (%)
+
+context["SOLIDARITY_TAX_MILDERUNGSZONE_MIN_INCOME_TAX"] = fail_on('2025-12-31', 19950)  # §3 SolzG 3 [SOLZFREI]
+context["SOLIDARITY_TAX_MILDERUNGSZONE_RATE"] = fail_on('2025-12-31', 0.119)  # §3 SolzG 3
+context["SOLIDARITY_TAX_MAX_RATE"] = fail_on('2025-12-31', 0.055)  # §3 SolzG 3
+
+context["ARBEITNEHMERPAUSCHALE"] = 1230  # (€/y) - §9a EStG
+
+context["ARBEITSLOSENVERSICHERUNG_EMPLOYEE_RATE"] = 1.3  # § 341 SGB 3, BeiSaV 2019
+
+context["SONDERAUSGABEN_PAUSCHBETRAG"] = 36  # (€/y) §10c EStG [SAP]
+
+# Kindergeld amount per child (€/m) - §6 Abs. 1 BKGG
+context["KINDERGELD"] = fail_on('2025-12-31', 255)
+
+# Tax break for parents (€/y) - § 32 Abs. 6 EStG [KFB] - monitored
+context["KINDERFREIBETRAG"] = fail_on('2025-12-31', (3336 + 1464) * 2)
+
+# Tax break for single parents (€/y) - § 24b EStG [EFA]
+context["ENTLASTUNGSBETRAG_ALLEINERZIEHENDE"] = fail_on('2025-12-31', 4260)
+context["ENTLASTUNGSBETRAG_ALLEINERZIEHENDE_EXTRA_CHILD"] = fail_on('2025-12-31', 240)
+
+# Below that amount (€/y), you don't pay Gewerbesteuer - § 11 GewStG
+context["GEWERBESTEUER_FREIBETRAG"] = 24500
+
+# Used as the basis, multiplied by the Hebesatz - § 11 GewStG
+context["GEWERBESTEUER_MESSBETRAG"] = Decimal('3.5')
+
+context["GEWERBESTEUER_TAX_CREDIT"] = Decimal('3.8')  # TODO: Not watched
+context["GEWERBESTEUER_HEBESATZ_BERLIN"] = Decimal('4.1')  # TODO: Not watched
+
+context["KLEINUNTERNEHMER_MAX_INCOME_FIRST_YEAR"] = 25000  # § 19 Abs. 1 UStG
+context["KLEINUNTERNEHMER_MAX_INCOME"] = 100000  # § 19 Abs. 1 UStG
+
+# Above that amount (€/y), you must use double entry bookkeeping - § 241a HGB
+context["DOUBLE_ENTRY_MIN_REVENUE"] = 800000
+context["DOUBLE_ENTRY_MIN_INCOME"] = 80000
+
+# VAT (%) - § 12 UStG (Abs 1 and 2)
+context["VAT_RATE"] = 19
+context["VAT_RATE_REDUCED"] = 7
+
+# Below 10,000€/y in VAT, simplified rules for intra-EU VAT
+context["EU_VAT_SCHWELLENWERT"] = 10000
+
+# Umsatzsteuer-Voranmeldung minimum amounts, based on VAT paid last year (€/year) - § 18 UStG
+context["VAT_MIN_QUARTERLY_AMOUNT"] = 1000
+context["VAT_MIN_MONTHLY_AMOUNT"] = 7500
+
+context["CAPITAL_GAINS_TAX_RATE"] = 25  # (%) - § 32d EStG
+context["CAPITAL_GAINS_FREIBETRAG"] = 1000  # Sparer-Pauschbetrag, § 20 Abs. 9 EStG
+
+
+# ==============================================================================
+# HEALTH INSURANCE
+# ==============================================================================
+
+# Below this income (€/mth), you have a minijob
+context['MINIJOB_MAX_INCOME'] = round(context['MINIMUM_WAGE'] * 130 / 3)  # § 8 SGB IV
+
+# Below this income (€/mth), you have a midijob - §20 SGB IV
+context["MIDIJOB_MAX_INCOME"] = fail_on('2025-12-31', 2000)
+
+# Used to calculate health insurance for a midijob - § 20 SGB IV
+context["GKV_FACTOR_F"] = fail_on('2025-12-31', 0.6683)
+
+# Median income (€/m) of all people who pay social contribs
+context['BEZUGSGROESSE'] = fail_on('2025-12-31', 3745)  # SGB VI Anlage 1
+
+# Base contribution (%), including Krankengeld
+context['GKV_BASE_RATE'] = 14.6  # § 241 SGB V
+context['GKV_BASE_RATE_STUDENT'] = context['GKV_BASE_RATE'] * 0.7  # § 245 SGB V
+
+# Base contribution (%), excluding Krankengeld - § 243 SGB V
+context["GKV_BASE_RATE_SELF_EMPLOYED"] = 14
+
+# Mindestbemessungsgrundlage (€/mth) - Below this income, GKV does not get cheaper
+context['GKV_MIN_INCOME'] = context['BEZUGSGROESSE'] / 90 * 30  # §240 Abs. 4 SGV IV
+
+# Above this income (€/y), you pay the Höchstbeitrag - https://www.bmas.de/DE/Arbeit/Arbeitsrecht/Mindestlohn/mindestlohn.html
+context['GKV_MAX_INCOME'] = fail_on('2025-12-31', 5512.50 * 12)  # SVBezGrV 2021 [BBGKVPV]
+
+# Above this income (€/mth), your employer pays for health insurance
+context["GKV_AZUBI_FREIBETRAG"] = fail_on('2025-12-31', 325)  # §20 Abs. 3 SGB IV
+
+# Above this income, it's no longer a Nebenjob
+context["GKV_NEBENJOB_MAX_INCOME"] = context['BEZUGSGROESSE'] * 0.75
+
+# Jahresarbeitsentgeltgrenze or Versicherungspflichtgrenze - Above this income (€/y), you are freiwillig versichert
+context["GKV_FREIWILLIG_VERSICHERT_MIN_INCOME"] = fail_on('2025-12-31', 6150 * 12)
+
+# Above this income (€/m), you can't have Familienversicherung
+context['GKV_FAMILIENVERSICHERUNG_MAX_INCOME'] = 1 / 7 * context['BEZUGSGROESSE']  # §10 SGB V
 
 # Zusatzbeiträge - https://www.check24.de/gesetzliche-krankenversicherung/erhoehung-zusatzbeitraege/
-health_insurance_min_zusatzbeitrag = fail_on('2025-12-31', 2.19)  # HKK
-health_insurance_max_zusatzbeitrag = fail_on('2025-12-31', 3.5)  # AOK Nordost
-health_insurance_avg_zusatzbeitrag = fail_on('2025-12-31', 2.5)
+context['GKV_MIN_ZUSATZBEITRAG'] = fail_on('2025-12-31', 2.19)  # HKK
+context['GKV_MAX_ZUSATZBEITRAG'] = fail_on('2025-12-31', 3.5)  # AOK Nordost
+context['GKV_AVG_ZUSATZBEITRAG'] = fail_on('2025-12-31', 2.5)
 
-# Mindestbemessungsgrundlage (€/mth) - §240 Abs. 4 SGV IV
-health_insurance_min_income = bezugsgroesse / 90 * 30
+# https://www.check24.de/gesetzliche-krankenversicherung/erhoehung-zusatzbeitraege/
+context["GKV_ZUSATZBEITRAG_AVERAGE"] = context['GKV_AVG_ZUSATZBEITRAG']
+context["GKV_ZUSATZBEITRAG_AOK"] = fail_on('2025-12-31', 3.5)
+context["GKV_ZUSATZBEITRAG_BARMER"] = fail_on('2025-12-31', 3.29)
+context["GKV_ZUSATZBEITRAG_DAK"] = fail_on('2025-12-31', 2.8)
+context["GKV_ZUSATZBEITRAG_HKK"] = fail_on('2025-12-31', 2.19)
+context["GKV_ZUSATZBEITRAG_TK"] = fail_on('2025-12-31', 2.45)
 
+# Private health insurance lowest cost - NOT TRACKED
+# https://www.ottonova.de/v/private-krankenversicherung/angestellte
+# https://www.ottonova.de/v/private-krankenversicherung/studenten
+# https://www.ottonova.de/v/private-krankenversicherung/selbststaendige
+context["OTTONOVA_SELFEMPLOYED_COST"] = fail_on('2025-06-01', 552)  # Premium economy
+context["OTTONOVA_STUDENT_COST"] = fail_on('2025-06-01', 111)  # Study smart
+context["OTTONOVA_EMPLOYEE_COST"] = fail_on('2025-06-01', 263)  # Premium economy
+
+# Maximum daily Krankengeld
+context['GKV_KRANKENGELD_DAILY_LIMIT'] = context['GKV_MAX_INCOME'] * 0.7 / 360  # § 47 SGB V
+
+# BAFöG Bedarfssatz (€/y)
+context['BAFOG_BEDARFSSATZ'] = fail_on('2025-07-01', 380 + 475)  # §13 BAföG Abs 1.2 + 2.2
+
+# Pflegeversicherung (%) - §55 Abs. 1 SGB XI
+context['PFLEGEVERSICHERUNG_BASE_RATE'] = fail_on('2025-12-31', 3.4)
+context["PFLEGEVERSICHERUNG_BASE_RATE_MAX_AGE"] = 22  # § 55 Abs. 1 SGB XI
+context["PFLEGEVERSICHERUNG_EMPLOYER_RATE"] = context['PFLEGEVERSICHERUNG_BASE_RATE'] / 2
+
+# Surcharge for people over 23 with no kids
+context['PFLEGEVERSICHERUNGS_SURCHARGE'] = 0.6  # §55 Abs. 3 SGB XI
+context['PFLEGEVERSICHERUNGS_DISCOUNT_PER_CHILD'] = 0.25  # §55 Abs. 3 SGB XI
+
+context['PFLEGEVERSICHERUNG_DISCOUNT_MIN_CHILDREN'] = 2
+context['PFLEGEVERSICHERUNG_DISCOUNT_MAX_CHILDREN'] = 5
+context['PFLEGEVERSICHERUNG_MIN_RATE'] = context['PFLEGEVERSICHERUNG_BASE_RATE'] - context['PFLEGEVERSICHERUNGS_DISCOUNT_PER_CHILD'] * (context['PFLEGEVERSICHERUNG_DISCOUNT_MAX_CHILDREN'] - 1)
+context['PFLEGEVERSICHERUNG_MAX_RATE'] = context['PFLEGEVERSICHERUNG_BASE_RATE'] + context['PFLEGEVERSICHERUNGS_SURCHARGE']
+
+# ==============================================================================
+# PENSIONS
+# ==============================================================================
+
+# Public pension contribution (%) - RVBeitrSBek 202X
+context['RV_BASE_RATE'] = fail_on('2025-12-31', 18.6)  # RVBeitrSBek 202X
+context["RV_EMPLOYEE_CONTRIBUTION"] = fail_on('2025-12-31', 9.3)
+context["RV_MIN_CONTRIBUTION"] = context['RV_BASE_RATE'] * context['MINIJOB_MAX_INCOME'] / 100
+
+context["FUNDSBACK_FEE"] = '9.405'
+context["FUNDSBACK_MIN_FEE"] = 854.05
+context["FUNDSBACK_MAX_FEE"] = 2754.05
+context["GERMANYPENSIONREFUND_FEE"] = '9.75'
+context["PENSIONREFUNDGERMANY_FEE"] = '10'
+context["PENSIONREFUNDGERMANY_MAX_FEE"] = 2800
+
+# Maximum income from employment to stay a member of the KSK (€/y)
+context["KSK_MAX_EMPLOYMENT_INCOME"] = context["BEITRAGSBEMESSUNGSGRENZE"] / 2  # § 4 KSVG
+
+# Minimum contribution (€/mth) without employer contribution
+context['GKV_MIN_COST'] = round(
+    context['GKV_MIN_INCOME'] * (
+        context['GKV_BASE_RATE']
+        + context['PFLEGEVERSICHERUNG_MIN_RATE']
+        + context['GKV_MIN_ZUSATZBEITRAG']
+    ) / 100,
+    -1
+)
+
+# Min/max health insurance rate for employees (%), with avg. Zusatzbeitrag
+context["GKV_MIN_RATE_EMPLOYEE"] = round(
+    (
+        (  # Total rate
+            context['GKV_BASE_RATE']
+            + context['PFLEGEVERSICHERUNG_MIN_RATE']
+            + context['GKV_AVG_ZUSATZBEITRAG']
+        )
+        - (  # Employer's contribution
+            context['GKV_BASE_RATE']
+            + context['PFLEGEVERSICHERUNG_BASE_RATE']
+            + context['GKV_AVG_ZUSATZBEITRAG']
+        ) / 2
+    ),
+    1
+)
+context["GKV_MAX_RATE_EMPLOYEE"] = round(
+    (
+        (  # Total cost
+            context['GKV_BASE_RATE']
+            + context['PFLEGEVERSICHERUNG_MAX_RATE']
+            + context['GKV_AVG_ZUSATZBEITRAG']
+        )
+        - (  # Employer's contribution
+            context['GKV_BASE_RATE']
+            + context['PFLEGEVERSICHERUNG_BASE_RATE']
+            + context['GKV_AVG_ZUSATZBEITRAG']
+        ) / 2
+    ),
+    1
+)
+
+context["GKV_MIN_RATE_SELF_EMPLOYED"] = round(
+    context['GKV_BASE_RATE_SELF_EMPLOYED']
+    + context['PFLEGEVERSICHERUNG_MIN_RATE']
+    + context['GKV_MIN_ZUSATZBEITRAG'],
+    1
+)
+context["GKV_MAX_RATE_SELF_EMPLOYED"] = round(
+    context['GKV_BASE_RATE_SELF_EMPLOYED']
+    + context['PFLEGEVERSICHERUNG_MAX_RATE']
+    + context['GKV_MAX_ZUSATZBEITRAG'],
+    1
+)
+
+# Min/max health insurance cost for employees (€/mth), with avg. Zusatzbeitrag
+context["GKV_MIN_COST_EMPLOYEE"] = round(context['GKV_MIN_INCOME'] * context["GKV_MIN_RATE_EMPLOYEE"] / 100, -1)
+context["GKV_MAX_COST_EMPLOYEE"] = round(context['GKV_MAX_INCOME'] / 12 * context["GKV_MAX_RATE_EMPLOYEE"] / 100, -1)
+
+# Maximum health insurance cost for freelancers (€/mth), with avg. Zusatzbeitrag
+context["GKV_MAX_COST_SELF_EMPLOYED"] = round(
+    context['GKV_MAX_INCOME'] / 12 * (
+        context['GKV_BASE_RATE_SELF_EMPLOYED']
+        + context['PFLEGEVERSICHERUNG_MAX_RATE']
+        + context['GKV_AVG_ZUSATZBEITRAG']
+    ) / 100,
+    -1
+)
+
+# Contribution for students (€/mth), with avg. Zusatzbeitrag
+context["GKV_COST_STUDENT"] = round(
+    context['BAFOG_BEDARFSSATZ'] * (
+        context['GKV_BASE_RATE_STUDENT']
+        + context['PFLEGEVERSICHERUNG_MAX_RATE']
+        + context['GKV_AVG_ZUSATZBEITRAG']
+    ) / 100,
+    -1
+)
+
+
+# ==============================================================================
+# PUBLIC TRANSIT
+# ==============================================================================
+
+context["BVG_AB_TICKET"] = fail_on('2025-12-31', 3.80)
+context["BVG_ABC_TICKET"] = fail_on('2025-12-31', 4.70)
+context["BVG_FINE"] = fail_on('2025-12-31', 60)
+context["BVG_REDUCED_FINE"] = fail_on('2025-12-31', 7)
+context["DEUTSCHLAND_TICKET_PRICE"] = fail_on('2025-12-31', 58)
+
+
+# ==============================================================================
+# IMMIGRATION
+# ==============================================================================
+
+# Minimum income (€/y) to get a Blue Card - §18g AufenthG
+context["BLUE_CARD_MIN_INCOME"] = 0.5 * context['BEITRAGSBEMESSUNGSGRENZE']
+
+# Minimum income (€/y) to get a Blue Card in shortage fields - §18g AufenthG
+context["BLUE_CARD_SHORTAGE_MIN_INCOME"] = 0.453 * context['BEITRAGSBEMESSUNGSGRENZE']
+
+# Visa fees (€) - §44, §45, §45c and §47 AufenthV
+context["SCHENGEN_VISA_FEE"] = 75
+context["NATIONAL_VISA_FEE"] = 100
+context["NATIONAL_VISA_RENEWAL_FEE"] = 96
+context["RESIDENCE_PERMIT_REPLACEMENT_FEE"] = 67  # After a passport change (€) - §45c AufenthG
+context["MIN_PERMANENT_RESIDENCE_FEE"] = 37  # For Turkish citizens
+context["MAX_PERMANENT_RESIDENCE_FEE"] = 147  # §44 AufenthG
+context["FAST_TRACK_FEE"] = 411  # §47 AufenthG
+
+# Minimum guaranteed pension payment (€/m) to get a freelance visa above age 45
 # VAB, https://www.bmas.de/DE/Soziales/Rente-und-Altersvorsorge/rentenversicherungsbericht-art.html
-freelance_visa_min_monthly_pension = fail_on('2025-12-31', 1565.03)
+context['FREELANCE_VISA_MIN_MONTHLY_PENSION'] = fail_on('2025-12-31', 1565.03)
+context["FREELANCE_VISA_MIN_PENSION"] = round(context['FREELANCE_VISA_MIN_MONTHLY_PENSION'] * 144)
 
-aufenthv_41_countries = [
-    "Australia",
-    "Canada",
-    "Israel",
-    "Japan",
-    "New Zealand",
-    "South Korea",
-    "the United Kingdom",
-    "the United States",
-]
+# Minimum income (€/mth) before health insurance and rent to get a freelance visa - Anlage SGB 12 (Regelbedarfsstufe 1)
+context["FREELANCE_VISA_MIN_INCOME"] = fail_on('2025-12-31', 563)
 
-beschv_26_1_countries = [
-    "Australia",
-    "Canada",
-    "Israel",
-    "Japan",
-    "Monaco",
-    "New Zealand",
-    "San Marino",
-    "South Korea",
-    "the United Kingdom",
-    "the United States",
-]
+# Minimum gross income (€/y) to get a work visa above age 45 - service.berlin.de/dienstleistung/305304
+context["WORK_VISA_MIN_INCOME"] = context['BEITRAGSBEMESSUNGSGRENZE'] * 0.55
 
-beschv_26_2_countries = [
-    "Albania",
-    "Bosnia-Herzegovina",
-    "Kosovo",
-    "North Macedonia",
-    "Montenegro",
-    "Serbia",
-]
+# Not watched - https://www.berlin.de/vhs-tempelhof-schoeneberg/kurse/deutsch-als-zweitsprache/pruefungen-und-abschluesse/einbuergerung/
+context["CITIZENSHIP_TEST_FEE"] = fail_on('2025-12-31', 25)
 
-aufenthg_21_2_countries = [  # Exempt from freelance visa pension requirement
+# Nationalities that can apply for a residence permit directly in Germany - §41 AufenthV
+beschv_26_1_countries = ["Australia", "Canada", "Israel", "Japan", "Monaco", "New Zealand", "San Marino", "South Korea", "the United Kingdom", "the United States"]
+beschv_26_2_countries = ["Albania", "Bosnia-Herzegovina", "Kosovo", "North Macedonia", "Montenegro", "Serbia"]
+context["BESCHV_26_COUNTRIES"] = or_join(sorted(beschv_26_1_countries + beschv_26_2_countries))
+context["BESCHV_26_1_COUNTRIES"] = or_join(beschv_26_1_countries)
+context["BESCHV_26_2_COUNTRIES"] = or_join(beschv_26_2_countries)
+
+# Exempt from freelance visa pension requirement
+context['AUFENTHG_21_2_COUNTRIES'] = or_join([
     "the Dominican Republic",
     "Indonesia",
     # "Iran",  # Missing from VAB since at least 2018
@@ -292,7 +532,38 @@ aufenthg_21_2_countries = [  # Exempt from freelance visa pension requirement
     "Sri Lanka",
     "Turkey",
     "the United States",
-]
+])
+
+# Visa-free entry to apply for a residence permit
+context["AUFENTHV_41_COUNTRIES"] = or_join([
+    "Australia",
+    "Canada",
+    "Israel",
+    "Japan",
+    "New Zealand",
+    "South Korea",
+    "the United Kingdom",
+    "the United States",
+])
+
+
+# ==============================================================================
+# ADMINISTRATION
+# ==============================================================================
+
+context["BESCHEINIGUNG_IN_STEUERSACHEN_FEE"] = 17.90  # (€) - service.berlin.de/dienstleistung/324713
+context["DRIVING_LICENCE_CONVERSION_FEE"] = 37.50  # (€) - service.berlin.de/dienstleistung/327537
+context["DRIVING_LICENCE_FEE"] = 51.81  # (€) - service.berlin.de/dienstleistung/121627
+context["GEWERBEANMELDUNG_FEE"] = 15  # € - service.berlin.de/dienstleistung/121921
+context["HUNDEFUHRERSCHEIN_FEE"] = 94  # (€) - service.berlin.de/dienstleistung/121822
+context["HUNDEREGISTER_FEE"] = 17.50  # € - hunderegister.berlin.de
+context["HUNDESTEUER_FIRST_DOG"] = 120  # §4 HuStG BE, (€/y)
+context["HUNDESTEUER_MORE_DOGS"] = 180  # §4 HuStG BE, (€/y)
+context["KSK_MIN_INCOME"] = fail_on('2025-12-31', 3900)  # (€/y) - §3 Abs. 1 KSVG
+context["ORDNUNGSAMT_DANGEROUS_DOG_FEE"] = 30  # service.berlin.de/dienstleistung/326263
+context["RUNDFUNKBEITRAG_FEE"] = 18.36
+context["SCHUFA_REPORT_FEE"] = fail_on('2025-07-01', 29.95)  # TODO: Not watched
+context["VEHICLE_UMMELDUNG_FEE"] = 10.80  # service.berlin.de/dienstleistung/120658
 
 config.context_globals = {
     'now': datetime.now(),
@@ -301,365 +572,7 @@ config.context_globals = {
     'fail_on': fail_on,
     'google_maps_api_key': 'AIzaSyBtGlbcvFspb9habWlXiFcptF8wdFjCb-E',  # Frontend use
     'glossary_groups': glossary_groups,
-
-    # ==============================================================================
-    # HEALTH INSURANCE
-    # ==============================================================================
-
-    # Mindestbemessungsgrundlage (€/mth) - §240 Abs. 4 SGV IV
-    "GKV_MIN_INCOME": health_insurance_min_income,
-
-    # Jahresarbeitsentgeltgrenze or Versicherungspflichtgrenze - Above this income (€/y), you are freiwillig versichert
-    "GKV_FREIWILLIG_VERSICHERT_MIN_INCOME": fail_on('2025-12-31', 6150 * 12),
-
-    # Above this income (€/mth), your employer pays for health insurance - §20 SGB IV
-    "GKV_AZUBI_FREIBETRAG": fail_on('2025-12-31', 325),
-
-    # Above this income, it's no longer a Nebenjob
-    "GKV_NEBENJOB_MAX_INCOME": bezugsgroesse * 0.75,
-
-    # Besondere Versicherungspflichtgrenze - Above this income (€/y), you pay the Höchstbeitrag - SVBezGrV 2021 [BBGKVPV]
-    "GKV_HÖCHSTBEITRAG_MIN_INCOME": gkv_hoechstbeitrag_min_income,
-
-    # Maximum daily Krankengeld - § 47 SGB V
-    "GKV_KRANKENGELD_DAILY_LIMIT": gkv_hoechstbeitrag_min_income * 0.7 / 360,
-
-    # Above this income (€/m), you can't have Familienversicherung - §10 SGB V
-    "GKV_FAMILIENVERSICHERUNG_MAX_INCOME": 1 / 7 * bezugsgroesse,
-
-    # Base contribution (%), including Krankengeld - § 241 SGB V
-    "GKV_BASE_RATE": health_insurance_base_rate,
-
-    # Base contribution (%) for students - § 245 SGB V
-    "GKV_BASE_RATE_STUDENT": health_insurance_base_rate_student,
-
-    # Base contribution (%), excluding Krankengeld - § 243 SGB V
-    "GKV_BASE_RATE_SELF_EMPLOYED": 14,
-
-    # Estimated minimum contribution (€/mth) without employer contribution
-    "GKV_MIN_COST": round(
-        health_insurance_min_income * (
-            health_insurance_base_rate
-            + pflegeversicherung_min_rate
-            + health_insurance_min_zusatzbeitrag
-        ) / 100,
-        -1
-    ),
-
-    # Min/max health insurance cost for employees (€/mth), with avg. Zusatzbeitrag
-    "GKV_MIN_COST_EMPLOYEE": round(
-        health_insurance_min_income * (
-            health_insurance_base_rate
-            + pflegeversicherung_min_rate
-            + health_insurance_avg_zusatzbeitrag
-        ) / 100
-        / 2,
-        -1
-    ),
-    "GKV_MAX_COST_EMPLOYEE": round(
-        gkv_hoechstbeitrag_min_income / 12 * (
-            health_insurance_base_rate
-            + pflegeversicherung_max_rate
-            + health_insurance_avg_zusatzbeitrag
-        ) / 100
-        / 2,
-        -1
-    ),
-
-    # Maximum health insurance cost for freelancers (€/mth), with avg. Zusatzbeitrag
-    "GKV_MAX_COST_SELF_EMPLOYED": round(
-        gkv_hoechstbeitrag_min_income / 12 * (
-            health_insurance_base_rate
-            + pflegeversicherung_max_rate
-            + health_insurance_avg_zusatzbeitrag
-        ) / 100,
-        -1
-    ),
-
-    # Contribution for students (€/mth), with average Zusatzbeitrag
-    "GKV_COST_STUDENT": round(
-        bafog_bedarfssatz * (
-            health_insurance_base_rate_student
-            + pflegeversicherung_max_rate
-            + health_insurance_avg_zusatzbeitrag
-        ) / 100,
-        -1
-    ),
-
-    # Used to calculate health insurance for a midijob - § 20 SGB IV
-    "GKV_FACTOR_F": fail_on('2025-12-31', 0.6683),
-
-    # Not quite accurate, but good enough - %
-    "GKV_MIN_RATE_EMPLOYEE": round(
-        (
-            health_insurance_base_rate
-            + pflegeversicherung_min_rate
-            + health_insurance_min_zusatzbeitrag
-        ) / 2,
-        1
-    ),
-    "GKV_MAX_RATE_EMPLOYEE": round(
-        (
-            health_insurance_base_rate
-            + pflegeversicherung_max_rate
-            + health_insurance_max_zusatzbeitrag
-        ) / 2,
-        1
-    ),
-    "GKV_MIN_RATE_SELF_EMPLOYED": round(
-        health_insurance_base_rate
-        + pflegeversicherung_min_rate
-        + health_insurance_min_zusatzbeitrag,
-        1
-    ),
-    "GKV_MAX_RATE_SELF_EMPLOYED": round(
-        health_insurance_base_rate
-        + pflegeversicherung_max_rate
-        + health_insurance_max_zusatzbeitrag,
-        1
-    ),
-
-    # Private health insurance lowest cost - NOT TRACKED
-    # https://www.ottonova.de/v/private-krankenversicherung/angestellte
-    # https://www.ottonova.de/v/private-krankenversicherung/studenten
-    # https://www.ottonova.de/v/private-krankenversicherung/selbststaendige
-    "OTTONOVA_SELFEMPLOYED_COST": fail_on('2025-06-01', 552),  # Premium economy
-    "OTTONOVA_STUDENT_COST": fail_on('2025-06-01', 111),  # Study smart
-    "OTTONOVA_EMPLOYEE_COST": fail_on('2025-06-01', 263),  # Premium economy
-
-    "PFLEGEVERSICHERUNG_WITH_SURCHARGE": pflegeversicherung_max_rate,
-
-    # Pflegeversicherung (%) - § 55 Abs. 1 SGB XI
-    "PFLEGEVERSICHERUNG_NO_SURCHARGE": pflegeversicherung_base_rate,
-    "PFLEGEVERSICHERUNG_DISCOUNT_PER_CHILD": pflegeversicherungs_discount_per_child,
-    "PFLEGEVERSICHERUNG_NO_SURCHARGE_MAX_AGE": 22,
-
-    "BAFOG_BEDARFSSATZ": bafog_bedarfssatz,
-
-    # Minimum income (€/y) to join the Künstlersozialkasse - § 3 Abs. 1 KSVG
-    "KSK_MIN_INCOME": fail_on('2025-12-31', 3900),
-
-    # Zusatzbeiträge - https://www.check24.de/gesetzliche-krankenversicherung/erhoehung-zusatzbeitraege/
-    "GKV_ZUSATZBEITRAG_AVERAGE": health_insurance_avg_zusatzbeitrag,
-    "GKV_ZUSATZBEITRAG_AOK": fail_on('2025-12-31', 3.5),
-    "GKV_ZUSATZBEITRAG_BARMER": fail_on('2025-12-31', 3.29),
-    "GKV_ZUSATZBEITRAG_DAK": fail_on('2025-12-31', 2.8),
-    "GKV_ZUSATZBEITRAG_HKK": fail_on('2025-12-31', 2.19),
-    "GKV_ZUSATZBEITRAG_TK": fail_on('2025-12-31', 2.45),
-
-    # ==============================================================================
-    # IMMIGRATION
-    # ==============================================================================
-
-    # Minimum income (€/y) to get a Blue Card - §18g AufenthG
-    "BLUE_CARD_MIN_INCOME": 0.5 * beitragsbemessungsgrenze,
-
-    # Minimum income (€/y) to get a Blue Card in shortage fields - §18g AufenthG
-    "BLUE_CARD_SHORTAGE_MIN_INCOME": 0.453 * beitragsbemessungsgrenze,
-
-    # Visa fees (€) - §44, §45, §45c and §47 AufenthV
-    "SCHENGEN_VISA_FEE": 75,
-    "NATIONAL_VISA_FEE": 100,
-    "NATIONAL_VISA_RENEWAL_FEE": 96,
-    "RESIDENCE_PERMIT_REPLACEMENT_FEE": 67,  # After a passport change (€) - §45c AufenthV
-    "MIN_PERMANENT_RESIDENCE_FEE": 37,  # For Turkish citizens
-    "MAX_PERMANENT_RESIDENCE_FEE": 147,  # §44 AufenthV
-    "FAST_TRACK_FEE": 411,  # §47 AufenthV
-
-    # Minimum guaranteed pension payment (€/m) to get a freelance visa above age 45
-    "FREELANCE_VISA_MIN_MONTHLY_PENSION": freelance_visa_min_monthly_pension,
-    "FREELANCE_VISA_MIN_PENSION": round(freelance_visa_min_monthly_pension * 144),
-
-    # Minimum income (€/mth) before health insurance and rent to get a freelance visa - Anlage SGB 12 (Regelbedarfsstufe 1)
-    "FREELANCE_VISA_MIN_INCOME": fail_on('2025-12-31', 563),
-
-    # Minimum gross income (€/y) to get a work visa above age 45 - service.berlin.de/dienstleistung/305304
-    "WORK_VISA_MIN_INCOME": beitragsbemessungsgrenze * 0.55,
-
-    # Nationalities that can apply for a residence permit directly in Germany - §41 AufenthV
-    "AUFENTHG_21_2_COUNTRIES": or_join(aufenthg_21_2_countries),
-    "AUFENTHV_41_COUNTRIES": or_join(aufenthv_41_countries),
-    "BESCHV_26_COUNTRIES": or_join(sorted(beschv_26_1_countries + beschv_26_2_countries)),
-    "BESCHV_26_1_COUNTRIES": or_join(beschv_26_1_countries),
-    "BESCHV_26_2_COUNTRIES": or_join(beschv_26_2_countries),
-
-    # Not watched - https://www.berlin.de/vhs-tempelhof-schoeneberg/kurse/deutsch-als-zweitsprache/pruefungen-und-abschluesse/einbuergerung/
-    "CITIZENSHIP_TEST_FEE": fail_on('2025-12-31', 25),
-
-    # ==============================================================================
-    # TAXES
-    # ==============================================================================
-
-    # German minimum wage (€/h)
-    "MINIMUM_WAGE": minimum_wage,
-
-    # Minimum allowance for au pairs (€/mth)
-    "AU_PAIR_MIN_ALLOWANCE": fail_on('2025-07-01', 280),
-
-    # Below this income (€/mth), you have a minijob - § 8 SGB IV
-    "MINIJOB_MAX_INCOME": geringfuegigkeitsgrenze,
-
-    # Below this income (€/mth), you have a midijob - §20 SGB IV
-    "MIDIJOB_MAX_INCOME": fail_on('2025-12-31', 2000),
-
-    # Median income (€/y) - rounded
-    "MEDIAN_INCOME_BERLIN": fail_on('2025-12-31', 47784),  # 2023
-    "MEDIAN_INCOME_GERMANY": fail_on('2025-12-31', 45552),  # 2023
-
-    # Public pension contribution (%) - RVBeitrSBek 202X
-    "RENTENVERSICHERUNG_EMPLOYEE_CONTRIBUTION": fail_on('2025-12-31', 9.3),
-    "RENTENVERSICHERUNG_TOTAL_CONTRIBUTION": pension_insurance_base_rate,
-    "RENTENVERSICHERUNG_MIN_CONTRIBUTION": pension_insurance_base_rate * geringfuegigkeitsgrenze / 100,
-
-    # Minimum Vorsorgepauschale - §39b Abs. 2.3.e EStG
-    "VORSORGEPAUSCHAL_MIN": fail_on('2025-12-31', 1900),
-    "VORSORGEPAUSCHAL_MIN_TAX_CLASS_3": 3000,  # ???
-
-    # Grundfreibetrag (€/y) - § 32a EstG [GFB]
-    "GRUNDFREIBETRAG": fail_on('2025-12-31', 12096),
-
-    # Upper bound (€/y) of income tax tarif zones 2, 3 and 4 - § 32a EstG [UPTAB24]
-    "INCOME_TAX_TARIF_2_MAX_INCOME": fail_on('2025-12-31', 17430),
-    "INCOME_TAX_TARIF_3_MAX_INCOME": fail_on('2025-12-31', 68430),
-    "INCOME_TAX_TARIF_4_MAX_INCOME": fail_on('2025-12-31', 277825),
-
-    # Upper bound (€/y) of income tax tarif zones for tax classes 5 and 6 - § 39b Abs. 2 Satz 7 EstG [W1STKL5][W2STKL5][W3STKL5]
-    "INCOME_TAX_CLASS_56_LIMIT_1": fail_on('2025-12-31', 13785),
-    "INCOME_TAX_CLASS_56_LIMIT_2": fail_on('2025-12-31', 34240),
-    "INCOME_TAX_CLASS_56_LIMIT_3": fail_on('2025-12-31', 222260),
-
-    # Maximum income tax rate - § 32b EstG
-    "INCOME_TAX_MAX_RATE": 45,
-
-    # Church tax rate as percentage of income tax
-    "CHURCH_TAX_RATE": 9,
-    "CHURCH_TAX_RATE_BW_BY": 8,
-
-    # Above that income tax amount, you pay a 11.9% solidarity tax (€/y) - §3 SolzG 3 [SOLZFREI]
-    "SOLIDARITY_TAX_MILDERUNGSZONE_MIN_INCOME_TAX": fail_on('2025-12-31', 19950),
-    "SOLIDARITY_TAX_MILDERUNGSZONE_RATE": fail_on('2025-12-31', 0.119),
-    "SOLIDARITY_TAX_MAX_RATE": fail_on('2025-12-31', 0.055),
-
-    # (€/y) - §9a EStG
-    "ARBEITNEHMERPAUSCHALE": 1230,
-
-    # The employee's contribution (%) for Arbeitslosenversicherung - § 341 SGB 3, BeiSaV 2019
-    "ARBEITSLOSENVERSICHERUNG_EMPLOYEE_RATE": 1.3,
-
-    # Maximum income used to calculate pension contributions (€/y) [BBGRV] - § SGB 6, Anlage 2
-    "BEITRAGSBEMESSUNGSGRENZE_EAST": beitragsbemessungsgrenze,
-    "BEITRAGSBEMESSUNGSGRENZE": beitragsbemessungsgrenze,
-
-    # Maximum income from employment to stay a member of the KSK (€/y) - § 4 KSVG
-    "KSK_MAX_EMPLOYMENT_INCOME": beitragsbemessungsgrenze / 2,
-
-    # (€/y) §10c EStG [SAP]
-    "SONDERAUSGABEN_PAUSCHBETRAG": 36,
-
-    # Kindergeld amount per child (€/m) - §6 Abs. 1 BKGG
-    "KINDERGELD": fail_on('2025-12-31', 255),
-
-    # Tax break for parents (€/y) - § 32 Abs. 6 EStG [KFB] - monitored
-    "KINDERFREIBETRAG": fail_on('2025-12-31', (3336 + 1464) * 2),
-
-    # Tax break for single parents (€/y) - § 24b EStG [EFA]
-    "ENTLASTUNGSBETRAG_ALLEINERZIEHENDE": fail_on('2025-12-31', 4260),
-    "ENTLASTUNGSBETRAG_ALLEINERZIEHENDE_EXTRA_CHILD": fail_on('2025-12-31', 240),
-
-    # Below that amount (€/y), you don't pay Gewerbesteuer - § 11 GewStG
-    "GEWERBESTEUER_FREIBETRAG": 24500,
-
-    # Used as the basis, multiplied by the Hebesatz - § 11 GewStG
-    "GEWERBESTEUER_MESSBETRAG": Decimal('3.5'),
-
-    # Not watched
-    "GEWERBESTEUER_TAX_CREDIT": Decimal('3.8'),
-    "GEWERBESTEUER_HEBESATZ_BERLIN": Decimal('4.1'),
-
-    # Above that amount (€/y), you are no longer a Kleinunternehmer - § 19 Abs. 1 UStG
-    "KLEINUNTERNEHMER_MAX_INCOME_FIRST_YEAR": 25000,
-    "KLEINUNTERNEHMER_MAX_INCOME": 100000,
-
-    # Above that amount (€/y), you must use double entry bookkeeping - § 241a HGB
-    "DOUBLE_ENTRY_MIN_REVENUE": 800000,
-    "DOUBLE_ENTRY_MIN_INCOME": 80000,
-
-    # (€/m) - monitored
-    "RUNDFUNKBEITRAG_FEE": 18.36,
-
-    # Fee to change the address on your vehicle papers - service.berlin.de/dienstleistung/120658
-    "VEHICLE_UMMELDUNG_FEE": 10.80,
-
-    # VAT (%) - § 12 UStG (Abs 1 and 2)
-    "VAT_RATE": 19,
-    "VAT_RATE_REDUCED": 7,
-
-    # Below 10,000€/y in VAT, simplified rules for intra-EU VAT
-    "EU_VAT_SCHWELLENWERT": 10000,
-
-    # Umsatzsteuer-Voranmeldung minimum amounts, based on VAT paid last year (€/year) - § 18 UStG
-    "VAT_MIN_QUARTERLY_AMOUNT": 1000,
-    "VAT_MIN_MONTHLY_AMOUNT": 7500,
-
-    # Capital gains tax - § 32d EStG
-    "CAPITAL_GAINS_TAX_RATE": 25,
-    # Sparer-Pauschbetrag, § 20 Abs. 9 EStG
-    "CAPITAL_GAINS_FREIBETRAG": 1000,
-
-    # ==============================================================================
-    # PUBLIC TRANSIT
-    # ==============================================================================
-
-    # € - monitored
-    "BVG_AB_TICKET": 3.80,
-    "BVG_ABC_TICKET": 4.70,
-    "BVG_FINE": 60,
-    "BVG_REDUCED_FINE": 7,
-    "DEUTSCHLAND_TICKET_PRICE": fail_on('2025-12-31', 58),
-
-    # ==============================================================================
-    # ADMINISTRATION
-    # ==============================================================================
-
-    # € - service.berlin.de/dienstleistung/121921
-    "GEWERBEANMELDUNG_FEE": 15,
-
-    # € - hunderegister.berlin.de
-    "HUNDEREGISTER_FEE": 17.50,
-
-    # € - service.berlin.de/dienstleistung/324713
-    "BESCHEINIGUNG_IN_STEUERSACHEN_FEE": 17.90,
-
-    # Dog tax (€/y) - §4 HuStG BE
-    "HUNDESTEUER_FIRST_DOG": 120,
-    "HUNDESTEUER_MORE_DOGS": 180,
-
-    # Fee for registering dangerous breeds - service.berlin.de/dienstleistung/326263
-    "ORDNUNGSAMT_DANGEROUS_DOG_FEE": 30,
-
-    # (€) - service.berlin.de/dienstleistung/121822
-    "HUNDEFUHRERSCHEIN_FEE": 94,
-
-    # (€) - service.berlin.de/dienstleistung/121627
-    "DRIVING_LICENCE_FEE": 51.81,
-
-    # (€) - https://service.berlin.de/dienstleistung/327537/
-    "DRIVING_LICENCE_CONVERSION_FEE": 37.50,
-
-    # (€) - https://www.meineschufa.de/, https://bonitaetscheck.immobilienscout24.de/ - NOT WATCHED
-    "SCHUFA_REPORT_FEE": fail_on('2025-07-01', 29.95),
-
-    # ==============================================================================
-    # PENSION_REFUNDS
-    # ==============================================================================
-
-    # (%)
-    "FUNDSBACK_FEE": '9.405',
-    "FUNDSBACK_MIN_FEE": 854.05,
-    "FUNDSBACK_MAX_FEE": 2754.05,
-    "GERMANYPENSIONREFUND_FEE": '9.75',
-    "PENSIONREFUNDGERMANY_FEE": '10',
-    "PENSIONREFUNDGERMANY_MAX_FEE": 2800,
+    **context,
 }
 
 config.jinja_filters = {

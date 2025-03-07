@@ -6,7 +6,7 @@ const healthInsurance = {
 	selfEmployedTarif: {{ GKV_BASE_RATE_SELF_EMPLOYED }}/100,
 	studentTarif: {{ GKV_BASE_RATE_STUDENT }}/100,
 	minMonthlyIncome: {{ GKV_MIN_INCOME }},
-	maxMonthlyIncome: {{ GKV_HÖCHSTBEITRAG_MIN_INCOME }}/12,
+	maxMonthlyIncome: {{ GKV_MAX_INCOME }}/12,
 	minFreiwilligMonthlyIncome: {{ GKV_FREIWILLIG_VERSICHERT_MIN_INCOME }}/12,
 	maxFamilienvericherungIncome: {{ GKV_FAMILIENVERSICHERUNG_MAX_INCOME }},
 	midijobMaxIncome: {{ MIDIJOB_MAX_INCOME }},
@@ -44,13 +44,13 @@ const healthInsurance = {
 }
 
 const pflegeversicherung = {
-	defaultTarif: {{ PFLEGEVERSICHERUNG_NO_SURCHARGE }}/100,
-	surchargeTarif: {{ PFLEGEVERSICHERUNG_WITH_SURCHARGE }}/100,
+	defaultTarif: {{ PFLEGEVERSICHERUNG_BASE_RATE }}/100,
+	surchargeTarif: {{ PFLEGEVERSICHERUNG_MAX_RATE }}/100,
 	discountPerChild: {{ PFLEGEVERSICHERUNG_DISCOUNT_PER_CHILD }}/100,
-	minimumChildCountForDiscount: 2,
-	maximumChildCountForDiscount: 5,
-	employerTarif: {{ PFLEGEVERSICHERUNG_NO_SURCHARGE }}/100/2, // Employer doesn't contribute to surcharge
-	defaultTarifMaxAge: {{ PFLEGEVERSICHERUNG_NO_SURCHARGE_MAX_AGE }}, // Above this age, if you don't have kids, you pay the surchargeTarif
+	minimumChildCountForDiscount: {{ PFLEGEVERSICHERUNG_DISCOUNT_MIN_CHILDREN }},
+	maximumChildCountForDiscount: {{ PFLEGEVERSICHERUNG_DISCOUNT_MAX_CHILDREN }},
+	employerTarif: {{ PFLEGEVERSICHERUNG_BASE_RATE }}/100/2, // Employer doesn't contribute to surcharge
+	defaultTarifMaxAge: {{ PFLEGEVERSICHERUNG_BASE_RATE_MAX_AGE }}, // Above this age, if you don't have kids, you pay the surchargeTarif
 };
 
 const taxes = {
@@ -86,10 +86,10 @@ const taxes = {
 		2022: { west: 7050 * 12, east: 6750 * 12 },
 		2023: { west: 7300 * 12, east: 7100 * 12 },
 		2024: { west: 7550 * 12, east: 7450 * 12 },
-		currentYear: { west: {{ BEITRAGSBEMESSUNGSGRENZE }}, east: {{ BEITRAGSBEMESSUNGSGRENZE_EAST }} }, // {{ fail_on('2025-12-31') }}
-		2025: { west: {{ BEITRAGSBEMESSUNGSGRENZE }}, east: {{ BEITRAGSBEMESSUNGSGRENZE_EAST }} },
-		2026: { west: {{ BEITRAGSBEMESSUNGSGRENZE }}, east: {{ BEITRAGSBEMESSUNGSGRENZE_EAST }} }, // ESTIMATED (2025)
-		2027: { west: {{ BEITRAGSBEMESSUNGSGRENZE }}, east: {{ BEITRAGSBEMESSUNGSGRENZE_EAST }} }, // ESTIMATED (2025)
+		currentYear: { west: {{ BEITRAGSBEMESSUNGSGRENZE }}, east: {{ BEITRAGSBEMESSUNGSGRENZE }} }, // {{ fail_on('2025-12-31') }}
+		2025: { west: {{ BEITRAGSBEMESSUNGSGRENZE }}, east: {{ BEITRAGSBEMESSUNGSGRENZE }} },
+		2026: { west: {{ BEITRAGSBEMESSUNGSGRENZE }}, east: {{ BEITRAGSBEMESSUNGSGRENZE }} }, // ESTIMATED (2025)
+		2027: { west: {{ BEITRAGSBEMESSUNGSGRENZE }}, east: {{ BEITRAGSBEMESSUNGSGRENZE }} }, // ESTIMATED (2025)
 	},
 	grundfreibetrag: {{ GRUNDFREIBETRAG }},
 	kinderfreibetrag: {{ KINDERFREIBETRAG }},
@@ -142,8 +142,6 @@ const taxes = {
 };
 
 // https://github.com/mledoze/countries/blob/master/dist/countries.json
-const brexitDate = new Date(2021, 0, 1);
-
 const pensions = {
 	contractingCountries: new Set(['AL', 'AU', 'BR', 'CA', 'CL', 'IN', 'IL', 'JP', 'KR', 'MA', 'ME', 'PH', 'TN', 'TR', 'UY', 'US']),
 	balkanBlockCountries: new Set(['BA', 'MK', 'RS', 'XK', 'ME']),
@@ -175,7 +173,7 @@ const pensions = {
 		2023: 18.6,
 		2024: 18.6,
 		2025: 18.6,
-		currentYear: {{ RENTENVERSICHERUNG_TOTAL_CONTRIBUTION }}, // {{ fail_on('2025-12-31') }}
+		currentYear: {{ RV_BASE_RATE }}, // {{ fail_on('2025-12-31') }}
 		2026: 18.6, // ESTIMATED (2025)
 		2027: 18.6, // ESTIMATED (2025)
 	},
