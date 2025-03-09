@@ -187,7 +187,7 @@ If you don't speak German, [Feather](/out/feather-rechtsschutz) and [Getsafe](/o
 
 For apartment problems, join a tenant association (*[[Mieterverein]]*). [Conny](/out/conny-mietpreisbremse) can help you lower your rent. [Mineko](https://www.mineko.de/) can check your [utilities bill](/glossary/Betriebskostenabrechnung).
 
-For quick business or immigration questions, try Alexander von Engelhardt's legal hotline: [0900 1 5293 6611](tel:0900152936611). It costs 2€ per minute.
+For quick business or immigration questions, try Alexander von Engelhardt's legal hotline: [09008 529 366 11](tel:0900852936611). It costs 3€ per minute.{{ fail_on('2025-12-31') }}
 
 **If you have a low income**, you can apply for legal help (*Beratungshilfe*) at the [local *Amtsgericht*](https://www.gerichtsverzeichnis.de/verzeichnis.php).[^37] You will get a certificate (*Beratungshilfeschein*) that pays for your legal costs. If you get [[Bürgergeld]] or *Sozialhilfe*, or if you are an asylum seeker, you are eligible.[^38] You usually need to speak German.
 

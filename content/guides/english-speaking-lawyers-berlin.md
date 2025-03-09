@@ -73,7 +73,7 @@ If someone is missing from this list, [let me know](/suggest-business).
 - **Legal insurance**  
     Your [legal insurance](/guides/legal-insurance) might have a legal hotline.
 - **Business and immigration hotline**  
-    Call [0900 1 5293 6611](tel:0900152936611) to talk to Alexander von Engelhardt, a business and immigration lawyer. It costs 2€ per minute.
+    Call [09008 529 366 11](tel:0900852936611) to talk to Alexander von Engelhardt, a business and immigration lawyer. It costs 3€ per minute.{{ fail_on('2025-12-31') }}
 
 **[Where to get legal help ➞](/guides/questions-about-berlin#legal-questions)**
 
