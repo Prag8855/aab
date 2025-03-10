@@ -1,7 +1,46 @@
-from typing import Match
+from datetime import datetime
+from markdown.extensions.toc import slugify
+from typing import Match, Any
 from ursus.context_processors import Entry
 import pyphen
 import re
+import secrets
+import string
+import urllib
+
+
+def to_number(value: int) -> str:
+    return "{:,}".format(value) if value else ''
+
+
+def to_currency(value: int) -> str:
+    return "{:0,.2f}".format(value).replace('.00', '') if value else ''
+
+
+def random_id() -> str:
+    alphabet = string.ascii_letters + string.digits
+    return ''.join(secrets.choice(alphabet) for i in range(5))
+
+
+def build_wikilinks_url(label: str, base: str, end: str) -> str:
+    return '{}{}{}'.format(base, urllib.parse.quote(label), end)
+
+
+def patched_slugify(value: str, separator: str, keep_unicode: bool = False) -> str:
+    """
+    Removes leading numbers from slugs
+    """
+    return slugify(value.lstrip(' 0123456789'), separator, keep_unicode)
+
+
+def fail_on(expiration_date: str, value: Any | None = None) -> Any:
+    # Fails when the expiration date is reached. Used to set content date limits.
+    assert datetime.strptime(expiration_date, "%Y-%m-%d") >= datetime.now(), f"Content expired on {expiration_date}"
+    return '' if value is None else value
+
+
+def or_join(items: list[str]) -> str:
+    return ', '.join(items[:-1]) + ' or ' + items[-1]
 
 
 def remove_accents(string: str) -> str:
