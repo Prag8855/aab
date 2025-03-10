@@ -498,36 +498,38 @@
 			</a>
 		</div>
 		<hr>
-		<h3>Private health insurance</h3>
-		<p>
-			<glossary term="private Krankenversicherung">Private health insurance</glossary> can be better and cheaper than public health insurance. It depends on your situation.
-		</p>
-		<div class="collapsible-options">
-			<a @click.prevent="stage = 'askABroker'" title="Choose a health insurance broker" href="/guides/german-health-insurance#insurance-brokers" target="_blank">
-				{% endraw %}{% include "_css/icons/help.svg" %}{% raw %}
-				<div>
-					<h3>Ask a health insurance broker</h3>
-					<p>Don't choose private health insurance yourself; it's a really bad idea. Ask a broker to help you choose.</p>
-				</div>
-			</a>
-			<a title="Get a quote from Feather" href="/out/feather-private" target="_blank">
-				{% endraw %}{% include "_css/icons/health-insurance/logo-feather.svg" %}{% raw %}
-				<div>
-					<h3>Get a quote from Feather</h3>
-					<p>They sell insurance from a few insurers. I got my health insurance from them. It's a great company.</p>
-				</div>
-			</a>
-			<a title="Get a quote from Ottonova" :href="ottonovaLink" target="_blank">
-				{% endraw %}{% include "_css/icons/health-insurance/logo-ottonova.svg" %}{% raw %}
-				<div>
-					<h3>Get a quote from Ottonova</h3>
-					<p>They sell their own health insurance. They speak English.</p>
-				</div>
-				<output v-if="privateCost">
-					<small>From</small> <eur :amount="privateCost"></eur> <small>per month</small>
-				</output>
-			</a>
-		</div>
+		<template v-if="privateCost">
+			<h3>Private health insurance</h3>
+			<p>
+				<glossary term="private Krankenversicherung">Private health insurance</glossary> can be better and cheaper than public health insurance. It depends on your situation.
+			</p>
+			<div class="collapsible-options">
+				<a @click.prevent="stage = 'askABroker'" title="Choose a health insurance broker" href="/guides/german-health-insurance#insurance-brokers" target="_blank">
+					{% endraw %}{% include "_css/icons/help.svg" %}{% raw %}
+					<div>
+						<h3>Ask a health insurance broker</h3>
+						<p>Don't choose private health insurance yourself; it's a really bad idea. Ask a broker to help you choose.</p>
+					</div>
+				</a>
+				<a title="Get a quote from Feather" href="/out/feather-private" target="_blank">
+					{% endraw %}{% include "_css/icons/health-insurance/logo-feather.svg" %}{% raw %}
+					<div>
+						<h3>Get a quote from Feather</h3>
+						<p>They sell insurance from a few insurers. I got my health insurance from them. It's a great company.</p>
+					</div>
+				</a>
+				<a title="Get a quote from Ottonova" :href="ottonovaLink" target="_blank">
+					{% endraw %}{% include "_css/icons/health-insurance/logo-ottonova.svg" %}{% raw %}
+					<div>
+						<h3>Get a quote from Ottonova</h3>
+						<p>They sell their own health insurance. They speak English.</p>
+					</div>
+					<output v-if="privateCost">
+						<small>From</small> <eur :amount="privateCost"></eur> <small>per month</small>
+					</output>
+				</a>
+			</div>
+		</template>
 	</template>
 	<template v-if="stage === 'privateInsuranceOptions'">
 		<h3>Private health insurance</h3>
