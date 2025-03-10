@@ -47,25 +47,21 @@ You can get public health insurance, and sometimes private health insurance. You
 
 ### For students
 
-You can choose public or private health insurance. You usually get a cheaper tariff. You sometimes get free health insurance. The best option depends on your age.
+**If you are under 25 years old**, you pay around {{GKV_COST_STUDENT|cur}}€ per month for [public health insurance](/glossary/gesetzliche%20Krankenversicherung). You can also get [private health insurance](/glossary/private%20Krankenversicherung) or [free health insurance](#free-health-insurance).
 
-**If you are under 25 years old**, you can get [free health insurance from your family](#free-health-insurance). Otherwise, you pay around {{GKV_COST_STUDENT|cur}}€ per month for public health insurance.[^1] Some private health insurers have cheaper insurance for students.[^44]
+**If you are under 30 years old**, you pay around {{GKV_COST_STUDENT|cur}}€ per month for [public health insurance](/glossary/gesetzliche%20Krankenversicherung). You can also get [private health insurance](/glossary/private%20Krankenversicherung). You can't get [free health insurance](#free-health-insurance).
 
-**If you are under 30 years old**, you can get [free health insurance from your spouse](#free-health-insurance). Otherwise, you pay the student tariff for public health insurance: around {{GKV_COST_STUDENT|cur}}€ per month.[^1] Some private health insurers also have a student tariff.[^44]
+**If you are over 30 years old**, you pay around {{GKV_MIN_COST|cur}}€ per month for [public health insurance](/glossary/gesetzliche%20Krankenversicherung). You can find cheaper [private health insurance](/glossary/private%20Krankenversicherung). You can't get [free health insurance](#free-health-insurance).
 
-**If you are over 30 years old**, you can't get [free health insurance from your family](#free-health-insurance), and you can't get the student tariff. You pay the same price as unemployed people: around {{GKV_MIN_COST|cur}}€ per month.
+**If you are a foreign student**, you might need temporary health insurance before school starts. Non-EU students can get expat insurance. EU students can use their health insurance from their home country.
 
-**If you are a foreign student**, you might need health insurance between your arrival in Germany and your first day of school. Non-EU students can get expat insurance. EU students can use their health insurance from their home country.
+**If you are self-employed**, and your income is over {{GKV_FAMILIENVERSICHERUNG_MAX_INCOME|cur}}€ per month, you are treated [like a self-employed person](#for-freelancers). You can't get the student tariff and you can't get [free health insurance](#free-health-insurance).
 
-**If you have a job**, your options change. If your income is over {{MINIJOB_MAX_INCOME|cur}}€ per month, you can't get the student tariff, you can't get [free health insurance from your family](#free-health-insurance), and you can't use your [foreign health insurance](#insurance-from-other-eu-countries). You are usually treated [like a normal employee](#for-employees).
+**If you have a job**, and your income is over {{MINIJOB_MAX_INCOME|cur}}€ per month, you are treated [like a normal employee](#for-employees). You can't get the student tariff, and you can't get free health insurance.
 
-If you work less than 20 hours per week, you can still get the student tariff, even if your income is too high.[^46]
+There are exceptions. If you work less than 20 hours per week, you can still get the student tariff, even if your income is over {{MINIJOB_MAX_INCOME|cur}}€ per month.[^46] There are also different rules for [internships](#for-an-internship) and [apprenticeships](#for-an-apprenticeship).
 
-There are different rules for [internships](#for-an-internship) and [apprenticeships](#for-an-apprenticeship). You can usually get free health insurance.
-
-**If you are self-employed**, your options change. If your income is over {{GKV_FAMILIENVERSICHERUNG_MAX_INCOME|cur}}€ per month, you can't get the student tariff, you can't get [free health insurance from your family](#free-health-insurance), and you can't use your [foreign health insurance](#insurance-from-other-eu-countries). You are treated [like a self-employed person](#for-self-employed-people).
-
-[Ask a broker](#insurance-brokers) to help you choose. They can help you find the cheapest health insurance.
+[Ask a broker](#insurance-brokers) to help you choose. They can help you find the cheapest health insurance. Their help is free.
 
 ### For unemployed people
 
@@ -73,7 +69,7 @@ There are different rules for [internships](#for-an-internship) and [apprentices
 
 **If you don't get ALG I, Bürgergeld or Elterngeld**, you can choose public or private health insurance. With public health insurance, you pay around [{{GKV_MIN_COST|cur}}€ per month](/glossary/Mindestbeitrag).[^40] The cost of private health insurance is not related to your income.
 
-### For self-employed people
+### For freelancers
 
 If you are self-employed, you can choose public or private health insurance.[^4] If you have a low income, private health insurers might reject you.
 
