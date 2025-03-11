@@ -209,14 +209,22 @@ ctx['GKV_MIN_COST'] = round(
     -1
 )
 
+ctx['GKV_MIN_RATE'] = (  # Total rate
+    ctx['GKV_BASE_RATE']
+    + ctx['PFLEGEVERSICHERUNG_MIN_RATE']
+    + ctx['GKV_AVG_ZUSATZBEITRAG']
+)
+
+ctx['GKV_MAX_RATE'] = (  # Total rate
+    ctx['GKV_BASE_RATE']
+    + ctx['PFLEGEVERSICHERUNG_MAX_RATE']
+    + ctx['GKV_AVG_ZUSATZBEITRAG']
+)
+
 # Min/max health insurance rate for employees (%), with avg. Zusatzbeitrag
 ctx["GKV_MIN_RATE_EMPLOYEE"] = round(
     (
-        (  # Total rate
-            ctx['GKV_BASE_RATE']
-            + ctx['PFLEGEVERSICHERUNG_MIN_RATE']
-            + ctx['GKV_AVG_ZUSATZBEITRAG']
-        )
+        ctx['GKV_MIN_RATE']
         - (  # Employer's contribution
             ctx['GKV_BASE_RATE']
             + ctx['PFLEGEVERSICHERUNG_BASE_RATE']

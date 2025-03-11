@@ -16,20 +16,20 @@ This guide explains how German health insurance works, and how to choose the bes
 
 ## How German health insurance works
 
-All German residents must have health insurance. You pay for it every month. When you are sick, it insurance pays for all necessary healthcare. It covers medical operations, therapy, medication and dental care.
+All German residents must have health insurance. You pay for it every month. When you are sick, it pays for all necessary healthcare. It covers medical operations, therapy, medication and dental care.
 
 There are 2 health insurance systems:
 
 - **[Public health insurance](/glossary/gesetzliche%20Krankenversicherung)**  
-    Managed by non-profit [health insurance funds](/glossary/Krankenkasse). The cost is a percentage of your income. The cost and coverage are almost the same with every public health insurer.
+    Managed by non-profit [health insurance funds](/glossary/Krankenkasse). You pay {{GKV_MIN_RATE}}% to {{GKV_MAX_RATE}}% of your income (including *[[Pflegeversicherung]]*), but your employer pays half of it. It covers your children and unemployed spouse for free. The cost and coverage are almost the same with every public health insurer.
 - **[Private health insurance](/glossary/private%20Krankenversicherung)**  
-    Managed by private insurance companies. The cost depends on your age and health condition when you sign up. The coverage is more flexible, and the cost varies a lot.
+    Managed by private insurance companies. The cost depends on your age and health condition when you sign up. The coverage is more flexible, and the cost varies a lot. You must pay extra to cover your family.
 
 **Both systems are good.** The best option depends on your situation. Sometimes you can only choose public health insurance.
 
 ## Your options
 
-Your options depend on your situation and your income. Use my health insurance calculator to see your options. [Talk to a broker](#insurance-brokers) to get recommendations.
+Your options depend on your situation. Use my health insurance calculator to see your options. [Talk to a broker](#insurance-brokers) to get recommendations.
 
 {% include '_blocks/healthInsuranceCalculator.html' %}
 
@@ -37,21 +37,21 @@ Your options depend on your situation and your income. Use my health insurance c
 
 You can get public health insurance, and sometimes private health insurance. Your employer does not choose your health insurance. If you [lose your job](/guides/losing-your-job), you do not lose your health insurance.
 
-**If you earn over {{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}}€ per year**, you can choose public or private health insurance. Public health insurance costs {{GKV_MIN_COST_EMPLOYEE|cur}}€ to {{GKV_MAX_COST_EMPLOYEE|cur}}€ per month, depending on your income. Private health insurance might be cheaper.
+**If you earn over {{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}}€ per year**, you can choose public or private health insurance. Public health insurance costs {{GKV_MAX_COST_EMPLOYEE|cur}}€ per month. Private health insurance might be cheaper.
 
-**If you earn under {{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}}€ per year**, you can only choose public health insurance. It costs {{GKV_MIN_COST_EMPLOYEE|cur}}€ to {{GKV_MAX_COST_EMPLOYEE|cur}}€ per month, depending on your income. Doctors and civil servants can also choose private health insurance.[^31]
+**If you earn under {{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}}€ per year**, you can only choose public health insurance. You pay [{{GKV_MIN_COST|cur}}€](/glossary/Mindestbeitrag) to {{GKV_MAX_COST_EMPLOYEE|cur}}€ per month, depending on your income. If you are a doctors or a civil servant, you can also choose private health insurance.[^31]
 
-**If you have a [minijob](/glossary/Minijob)**, you can choose public or private health insurance. You can get [free health insurance from your family](#free-health-insurance). Otherwise, you pay around [{{GKV_MIN_COST|cur}}€ per month](/glossary/Mindestbeitrag). Your employer does not pay half of it.[^36]
+**If you have a [minijob](/glossary/Minijob)**, you can choose public or private health insurance. You can get [free health insurance](#free-health-insurance). Otherwise, you pay the minimum amount: around [{{GKV_MIN_COST|cur}}€ per month](/glossary/Mindestbeitrag). Your employer does not pay half of it.[^36]
 
 **If you [lose your job](/guides/losing-your-job)** and you get [unemployment benefits](/glossary/ALG%20I), health insurance is free. The state pays for it. If you don't get unemployment benefits, you pay around [{{GKV_MIN_COST|cur}}€ per month](/glossary/Mindestbeitrag).
 
 ### For students
 
-**If you are under 25 years old**, you pay around {{GKV_COST_STUDENT|cur}}€ per month for [public health insurance](/glossary/gesetzliche%20Krankenversicherung). You can also get [private health insurance](/glossary/private%20Krankenversicherung) or [free health insurance](#free-health-insurance).
+**If you are under 25 years old**, you pay the student tariff: around {{GKV_COST_STUDENT|cur}}€ per month for [public health insurance](/glossary/gesetzliche%20Krankenversicherung) You can also get [private health insurance](/glossary/private%20Krankenversicherung), but it's usually a little more expensive. You can also get [free health insurance](#free-health-insurance).
 
-**If you are under 30 years old**, you pay around {{GKV_COST_STUDENT|cur}}€ per month for [public health insurance](/glossary/gesetzliche%20Krankenversicherung). You can also get [private health insurance](/glossary/private%20Krankenversicherung). You can't get [free health insurance](#free-health-insurance).
+**If you are under 30 years old**, you pay the student tariff: around {{GKV_COST_STUDENT|cur}}€ per month for [public health insurance](/glossary/gesetzliche%20Krankenversicherung). You can also get [private health insurance](/glossary/private%20Krankenversicherung), but it's usually a little more expensive. You can't get [free health insurance](#free-health-insurance).
 
-**If you are over 30 years old**, you pay around {{GKV_MIN_COST|cur}}€ per month for [public health insurance](/glossary/gesetzliche%20Krankenversicherung). You can find cheaper [private health insurance](/glossary/private%20Krankenversicherung). You can't get [free health insurance](#free-health-insurance).
+**If you are over 30 years old**, you pay around [{{GKV_MIN_COST|cur}}€ per month](/glossary/Mindestbeitrag) for [public health insurance](/glossary/gesetzliche%20Krankenversicherung). You can find cheaper [private health insurance](/glossary/private%20Krankenversicherung). You can't get [free health insurance](#free-health-insurance).
 
 **If you are a foreign student**, you might need temporary health insurance before school starts. Non-EU students can get expat insurance. EU students can use their health insurance from their home country.
 
@@ -73,13 +73,13 @@ There are exceptions. If you work less than 20 hours per week, you can still get
 
 If you are self-employed, you can choose public or private health insurance.[^4] If you have a low income, private health insurers might reject you.
 
-You pay {{GKV_MIN_COST|cur}}€ to {{GKV_MAX_COST_SELF_EMPLOYED|cur}}€ per month for public health insurance. Private health insurance might be much cheaper.
+You pay [{{GKV_MIN_COST|cur}}€](/glossary/Mindestbeitrag) to {{GKV_MAX_COST_SELF_EMPLOYED|cur}}€ per month for public health insurance; it's a percentage of your income. Private health insurance might be much cheaper.
 
 You can't get the student tariff, you can't get [free health insurance](#free-health-insurance), and you can't use your [foreign health insurance](#insurance-from-other-eu-countries).[^37] Your employer does not pay half of your health insurance.
 
 If you can, [join the *Künstlersozialkasse*](#the-kunstlersozialkasse-ksk). It's a really good deal. They pay half of your health insurance.
 
-**Do not choose health insurance yourself.** It's a really bad idea and you can make expensive mistakes. Always [ask a health insurance broker](#insurance-brokers) to help you choose. Their help free.
+**Do not choose health insurance yourself.** It's a really bad idea. You can make expensive mistakes. Always [ask a health insurance broker](#insurance-brokers) to help you choose. Their help free.
 
 ### For an apprenticeship
 
@@ -117,15 +117,19 @@ If you are a trainee (*[[Azubi]]*), you must get public health insurance.[^54]
 **Your spouse's health insurance** covers you for free if...[^34]
 
 - Your spouse has public health insurance
-- **and** your total income is under {{GKV_FAMILIENVERSICHERUNG_MAX_INCOME|cur}}€ per month, or {{MINIJOB_MAX_INCOME|cur}}€ per month for a [minijob](/glossary/Minijob)
+- **and** your total income is under {{GKV_FAMILIENVERSICHERUNG_MAX_INCOME|cur}}€ per month ({{MINIJOB_MAX_INCOME|cur}}€ per month for a [minijob](/glossary/Minijob))
 - **and** you are not self-employed full time
 
 **Your health insurance from another EU country** covers you if...[^39]
 
-- You earn less than ??? per month
+- Your total income is under {{GKV_FAMILIENVERSICHERUNG_MAX_INCOME|cur}}€ per month ({{MINIJOB_MAX_INCOME|cur}}€ per month for a [minijob](/glossary/Minijob))
 - **or** you are a student, your job is related to your studies, and you work 20 hours per week or less[^38]
 
-**The state** pays for your health insurance when you get [unemployment benefits](/glossary/ALG%20I), *[[Bürgergeld]]* or *[[Elterngeld]]*.[^45]
+**The state** pays for your health insurance if...[^45]
+
+- You get [unemployment benefits](/glossary/ALG%20I)
+- **or** you get *[[Bürgergeld]]*
+- **or** you get *[[Elterngeld]]*
 
 ## Public health insurance
 
@@ -133,21 +137,7 @@ If you are a trainee (*[[Azubi]]*), you must get public health insurance.[^54]
 
 ### Cost of public health insurance
 
-Use my [health insurance calculator](#your-options). The cost depends on your occupation:
-
-- **If you are an employee**, you pay {{ GKV_MIN_RATE_EMPLOYEE }}% to {{ GKV_MAX_RATE_EMPLOYEE }}% of your income. Your employer takes that amount from your salary every month.
-    - **If you make more than {{GKV_MAX_INCOME|cur}}€ per year**, you pay the [maximum price](/glossary/H%C3%B6chstbeitrag): around {{GKV_MAX_COST_EMPLOYEE|cur}}€ per month.[^3] The maximum price goes up every year, so you pay a bit more every year.[^5]
-    - **If you make less than {{GKV_MAX_INCOME|cur}}€ per year**, you pay {{ GKV_MIN_RATE_EMPLOYEE }}% to {{ GKV_MAX_RATE_EMPLOYEE }}% of your income.
-    - **If you have a [minijob](/glossary/Minijob)**, you pay the [minimum price](/glossary/Mindestbeitrag): around {{GKV_MIN_COST|cur}}€ per month.[^27] Your employer does not pay half of it.[^6] Your spouse's insurance can cover you for free. If you are under 25 years old, your parents' insurance can cover you for free. If you are a student, you pay the student price (see "If you are a student").
-- **If you are a student,** you usually pay a lower student tariff. It depends on your age:
-    - **If you are under 25 years old**, you pay the student tariff: around {{GKV_COST_STUDENT|cur}}€ per month.[^7] If you make less than {{GKV_FAMILIENVERSICHERUNG_MAX_INCOME|cur}}€ per month, your parents' or your spouse's insurance can cover you for free.[^28] If you are a EU citizen, your [EHIC card](/guides/german-health-insurance#insurance-from-other-eu-countries) can cover you.
-    - **If you are 25 to 29 years old**, you pay the student tarif: around {{GKV_COST_STUDENT|cur}}€ per month.[^7] If you make less than {{GKV_FAMILIENVERSICHERUNG_MAX_INCOME|cur}}€ per month, your spouse's insurance can cover you for free. Your parents' insurance can't cover you. If you are a EU citizen, your [EHIC card](/guides/german-health-insurance#insurance-from-other-eu-countries) can cover you.
-    - **If you are at least 30 years old**, you are too old for the student tariff.[^25] You pay the same price as self-employed people (see "If you are self-employed"). Your spouse's insurance can cover you for free. Your parents' insurance can't cover you.
-- **If you are self-employed**, you pay {{ GKV_MIN_RATE_SELF_EMPLOYED }}% to {{ GKV_MAX_RATE_SELF_EMPLOYED }}% of your income. It's taken from your bank account every month. The cost is based on your *estimated* income. It's adjusted every year. If you paid too much, you get money back later. If you did not pay enough, you need to pay more later.
-    - **If you make more than {{GKV_MAX_INCOME|cur}}€ per year**, you pay the [maximum price](/glossary/H%C3%B6chstbeitrag) for the self-employed: around {{GKV_MAX_COST_SELF_EMPLOYED|cur}}€ per month.[^3]
-    - **If you make less than {{GKV_MIN_INCOME|cur}}€ per month**, you pay the minimum price (*[[Mindestbeitrag]]*): around {{GKV_MIN_COST|cur}}€ per month.[^8]
-    - **If you join the [[Künstlersozialkasse]]**, they pay half of your health insurance. You pay {{ GKV_MIN_RATE_EMPLOYEE }}% to {{ GKV_MAX_RATE_EMPLOYEE }}% of your income per month. - [More information](/guides/ksk-kuenstlersozialkasse)
-- **If you are unemployed**,[^9] you pay the [minimum price](/glossary/Mindestbeitrag): around {{GKV_MIN_COST|cur}}€ per month. Your parents' or spouse's insurance can cover you for free. If you are a EU citizen, your [EHIC card](/guides/german-health-insurance#insurance-from-other-eu-countries) can cover you. If you get *[[ALG I]]* or *[[Bürgergeld]]*, the government pays for your health insurance.[^10] During your first month of unemployment, your health insurance is free.
+Use my health insurance calculator. The cost depends on your occupation and your income.
 
 ### Benefits of public health insurance
 
@@ -185,11 +175,9 @@ Glasses and contact lenses [are rarely covered](/guides/eyeglasses). You need to
 
 ### Which public health insurance should I choose?
 
-**It does not really matter.** Public health insurance options are almost the same. The price and coverage are set by law. The biggest differences are the extra contribution (*[[Zusatzbeitrag]]*) and the customer service.[^15]
+**It's not important.** Public health insurance options are almost the same. The price and coverage are set by law. The biggest differences are the extra contribution (*[[Zusatzbeitrag]]*) and the customer service.[^15] [Ask a broker](#insurance-brokers) to help you choose. Their help is free.
 
 If you don't speak German, [Techniker Krankenkasse](/out/feather-tk) and [Barmer](/out/barmer) speak English. I used [Techniker Krankenkasse](/out/feather-tk) for 6 years, and [I liked them](/guides/techniker-krankenkasse-review).
-
-[Ask an expert](#insurance-brokers) to help you choose. Their help is free.
 
 {% include '_blocks/healthInsuranceQuestion.html' %}
 
