@@ -29,21 +29,21 @@ There are 2 health insurance systems:
 
 ## Your options
 
-Your options depend on your situation. Use my health insurance calculator to see your options. [Talk to a broker](#insurance-brokers) to get recommendations.
+Your options depend on your situation. Use my health insurance calculator to see your options. [Talk to a broker](#insurance-brokers) to get recommendations. Their help is free.
 
 {% include '_blocks/healthInsuranceCalculator.html' %}
 
 ### For employees
 
-You can get public health insurance, and sometimes private health insurance. Your employer does not choose your health insurance. If you [lose your job](/guides/losing-your-job), you do not lose your health insurance.
+Your employer does not choose your health insurance. If you [lose your job](/guides/losing-your-job), you do not lose your health insurance.
 
-**If you earn over {{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}}€ per year**, you can choose public or private health insurance. Public health insurance costs {{GKV_MAX_COST_EMPLOYEE|cur}}€ per month. Private health insurance might be cheaper.
+**If you earn over {{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}}€ per year**, you can choose public or private health insurance. Public health insurance costs [{{GKV_MAX_COST_EMPLOYEE|cur}}€ per month](/glossary/Höchstbeitrag). That's the [maximum price](/glossary/Höchstbeitrag). Private health insurance is usually cheaper.
 
 **If you earn under {{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}}€ per year**, you can only choose public health insurance. You pay [{{GKV_MIN_COST|cur}}€](/glossary/Mindestbeitrag) to {{GKV_MAX_COST_EMPLOYEE|cur}}€ per month, depending on your income. If you are a doctors or a civil servant, you can also choose private health insurance.[^31]
 
 **If you have a [minijob](/glossary/Minijob)**, you can choose public or private health insurance. You can get [free health insurance](#free-health-insurance). Otherwise, you pay the minimum amount: around [{{GKV_MIN_COST|cur}}€ per month](/glossary/Mindestbeitrag). Your employer does not pay half of it.[^36]
 
-**If you [lose your job](/guides/losing-your-job)** and you get [unemployment benefits](/glossary/ALG%20I), health insurance is free. The state pays for it. If you don't get unemployment benefits, you pay around [{{GKV_MIN_COST|cur}}€ per month](/glossary/Mindestbeitrag).
+**If you [lose your job](/guides/losing-your-job)**, you can get [free health insurance](#free-health-insurance) through your family. If not, you pay around [{{GKV_MIN_COST|cur}}€ per month](/glossary/Mindestbeitrag).
 
 ### For students
 
@@ -107,6 +107,8 @@ If you are a trainee (*[[Azubi]]*), you must get public health insurance.[^54]
 
 ### Free health insurance
 
+You can get free health insurance through your parents or your spouse. This is called *[[Familienversicherung]]*. In some cases, you can also get free health insurance from the state, or from your home country.
+
 **Your parents' health insurance** covers you for free if...
 
 - Your parents have public health insurance
@@ -123,7 +125,7 @@ If you are a trainee (*[[Azubi]]*), you must get public health insurance.[^54]
 **Your health insurance from another EU country** covers you if...[^39]
 
 - Your total income is under {{GKV_FAMILIENVERSICHERUNG_MAX_INCOME|cur}}€ per month ({{MINIJOB_MAX_INCOME|cur}}€ per month for a [minijob](/glossary/Minijob))
-- **or** you are a student, your job is related to your studies, and you work 20 hours per week or less[^38]
+- **or** you are a foreign student, your job is related to your studies, and you work 20 hours per week or less[^38]
 
 **The state** pays for your health insurance if...[^45]
 
@@ -133,7 +135,7 @@ If you are a trainee (*[[Azubi]]*), you must get public health insurance.[^54]
 
 ## Public health insurance
 
-89% of German residents have [public health insurance](/glossary/gesetzliche%20Krankenversicherung).[^2]
+89% of German residents have [public health insurance](/glossary/gesetzliche%20Krankenversicherung).[^2] For many people, it's the only option.
 
 ### Cost of public health insurance
 
