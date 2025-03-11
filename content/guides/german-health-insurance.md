@@ -73,7 +73,13 @@ There are exceptions. If you work less than 20 hours per week, you can still get
 
 If you are self-employed, you can choose public or private health insurance.[^4] If you have a low income, private health insurers might reject you.
 
-You can't get the student tariff, you can't get [free health insurance from your family](#free-health-insurance), and you can't use your [foreign health insurance](#insurance-from-other-eu-countries).[^37] Your employer does not pay half of your health insurance.
+You pay {{GKV_MIN_COST|cur}}€ to {{GKV_MAX_COST_SELF_EMPLOYED|cur}}€ per month for public health insurance. Private health insurance might be much cheaper.
+
+You can't get the student tariff, you can't get [free health insurance](#free-health-insurance), and you can't use your [foreign health insurance](#insurance-from-other-eu-countries).[^37] Your employer does not pay half of your health insurance.
+
+If you can, [join the *Künstlersozialkasse*](#the-kunstlersozialkasse-ksk). It's a really good deal. They pay half of your health insurance.
+
+**Do not choose health insurance yourself.** It's a really bad idea and you can make expensive mistakes. Always [ask a health insurance broker](#insurance-brokers) to help you choose. Their help free.
 
 ### For an apprenticeship
 

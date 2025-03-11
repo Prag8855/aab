@@ -2,19 +2,22 @@
 Title: What is the Höchstbeitrag for German health insurance?
 German_term: Höchstbeitrag
 English_term: Maximum health insurance contribution
-Description: If you earn more than this amount, the price of public health insurance stops going up.
+Description: The maximum cost of public health insurance.
 Date_created: 2019-01-31
 Related_guides:
     guides/german-health-insurance.md
+    guides/german-visa-health-insurance.md
     tools/health-insurance-calculator.md
 ---
 
-The price of [public health insurance](/glossary/gesetzliche%20Krankenversicherung) is based on your income. If you earn more money, you pay more for your health insurance.
+The cost of [public health insurance](/glossary/gesetzliche%20Krankenversicherung) is based on your income. If you have a high income, your health insurance is more expensive.
 
-The *Höchstbeitrag* is the maximum amount you can pay for health insurance. If you earn more than {{GKV_MAX_INCOME|cur}}€ per year, you pay the *Höchstbeitrag*. It's around {{GKV_MAX_COST_EMPLOYEE|cur}}€ per month.
+The *Höchstbeitrag* is the maximum amount you can pay for public health insurance. If you earn more than than {{GKV_MAX_INCOME|cur}}€ per month, the price does not go higher. The minimum amount is called the *[[Mindestbeitrag]]*.
 
-There is a different *Höchstbeitrag* for self-employed people, the *Selbstständige Höchstbeitrag*. It's around {{GKV_MAX_COST_SELF_EMPLOYED|cur}}€ per month.[^0]
+The *Höchstbeitrag* for employees is {{GKV_MAX_COST_EMPLOYEE|cur}}€ per month. The *Höchstbeitrag* for self-employed people is {{GKV_MAX_COST_SELF_EMPLOYED|cur}}€ per month.
+
+There is no *Höchstbeitrag* for private health insurance, because the price is not based on your income.
+
+**[How to choose health insurance ➞](/guides/german-health-insurance)**
 
 **[Health insurance calculator ➞](/tools/health-insurance-calculator)**
-
-[^0]: [krankenkassen.de](https://www.krankenkassen.de/gesetzliche-krankenkassen/krankenkasse-beitrag/selbststaendige/)

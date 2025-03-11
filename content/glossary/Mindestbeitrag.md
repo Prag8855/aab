@@ -6,13 +6,18 @@ Description: The minimum cost of public health insurance.
 Date_created: 2019-01-31
 Related_guides:
     guides/german-health-insurance.md
+    guides/german-visa-health-insurance.md
     tools/health-insurance-calculator.md
 ---
 
-The price of [public health insurance](/glossary/gesetzliche%20Krankenversicherung) is based on your income. If you earn less money, your health insurance is cheaper.
+The cost of [public health insurance](/glossary/gesetzliche%20Krankenversicherung) is based on your income. If you have a low income, your health insurance is cheaper.
 
-The *Mindestbeitrag* is the minimum amount you can pay for health insurance. If you earn less than {{GKV_MIN_INCOME|cur}}€ per month, the price does not go lower.[^0]
+The *Mindestbeitrag* is the minimum amount you can pay for public health insurance. If you earn less than {{GKV_MIN_INCOME|cur}}€ per month, the price does not go lower.[^0] The maximum amount is called the *[[Höchstbeitrag]]*.
 
-There is a different *Mindestbeitrag* for students over 30 years old and freelancers, the *Selbstständige Mindestbeitrag*. It's around {{GKV_MIN_COST|cur}}€.
+The *Mindestbeitrag* for employees is {{GKV_MAX_COST_EMPLOYEE|cur}}€ per month. The *Mindestbeitrag* for students, unemployed and self-employed people is {{GKV_MIN_COST|cur}}€ per month. Sometimes, you can also get [free health insurance](/guides/german-health-insurance#free-health-insurance).
 
-[^0]: [check24.de](https://www.check24.de/gesetzliche-krankenversicherung/mindestbeitrag/)
+There is no *Mindestbeitrag* for private health insurance, because the price is not based on your income. It's sometimes cheaper than public health insurance.
+
+**[How to choose health insurance ➞](/guides/german-health-insurance)**
+
+**[Health insurance calculator ➞](/tools/health-insurance-calculator)**
