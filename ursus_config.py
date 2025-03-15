@@ -266,13 +266,9 @@ ctx["GKV_MAX_RATE_SELF_EMPLOYED"] = round(
 ctx["GKV_MIN_COST_EMPLOYEE"] = round(ctx['GKV_MIN_INCOME'] * ctx["GKV_MIN_RATE_EMPLOYEE"] / 100, -1)
 ctx["GKV_MAX_COST_EMPLOYEE"] = round(ctx['GKV_MAX_INCOME'] / 12 * ctx["GKV_MAX_RATE_EMPLOYEE"] / 100, -1)
 
-# Maximum health insurance cost for freelancers (€/mth), with avg. Zusatzbeitrag
+# Maximum health insurance cost for freelancers (€/mth), with max Zusatzbeitrag
 ctx["GKV_MAX_COST_SELF_EMPLOYED"] = round(
-    ctx['GKV_MAX_INCOME'] / 12 * (
-        ctx['GKV_BASE_RATE_SELF_EMPLOYED']
-        + ctx['PFLEGEVERSICHERUNG_MAX_RATE']
-        + ctx['GKV_AVG_ZUSATZBEITRAG']
-    ) / 100,
+    ctx['GKV_MAX_INCOME'] / 12 * ctx["GKV_MAX_RATE_SELF_EMPLOYED"] / 100,
     -1
 )
 
