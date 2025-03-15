@@ -29,6 +29,9 @@ Related_places:
     places/mvz-kopenick.md
     places/katharina-dembinski.md
     places/ovid-clinic-berlin.md
+    places/dr-med-katharina-schieke.md
+    places/herr-dr-med-jurgen-putz.md
+    places/katrin-ludwig.md
 ---
 
 This is how you can find an English-speaking doctor or GP.

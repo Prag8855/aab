@@ -16,6 +16,9 @@ Related_places:
     places/2drive-fahrschule.md
     places/fahrschule-dynamic.md
     places/fahrschule-next-in-berlin.md
+    places/fahrschule-driving-school-berlin.md
+    places/fahrschule-exakt-berlin-neukolln.md
+    places/fahrschule-prima.md
 ---
 
 To [get a German driving licence](/guides/driving-licence), you must take driving lessons. This guide lists places where you can take driving classes in English.

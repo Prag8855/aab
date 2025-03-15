@@ -52,6 +52,11 @@ Related_places:
     places/goddeke-aakb.md
     places/hogertz.md
     places/koudous-international.md
+    places/casimir-vogt.md
+    places/hans-kolfen.md
+    places/kanzlei-rechtsanwalt-grueneberg.md
+    places/rechtsanwalt-torsten-hildebrandt.md
+    places/siewer-weizsacker.md
 ---
 
 Use [the list below](#list-of-lawyers) to find an English-speaking lawyer in Berlin.
