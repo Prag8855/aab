@@ -71,15 +71,15 @@ There are exceptions. If you work less than 20 hours per week, you can still get
 
 ### For freelancers
 
-If you are self-employed, you can choose public or private health insurance.[^4] If you have a low income, private health insurers might reject you.
+If you are self-employed, you can choose public or private health insurance.[^4]
 
-You pay [{{GKV_MIN_COST|cur}}€](/glossary/Mindestbeitrag) to {{GKV_MAX_COST_SELF_EMPLOYED|cur}}€ per month for public health insurance; it's a percentage of your income. Private health insurance might be much cheaper.
+[Public health insurance](/glossary/gesetzliche%20Krankenversicherung) costs {{GKV_MIN_RATE_SELF_EMPLOYED}}% to {{GKV_MAX_RATE_SELF_EMPLOYED}}% of your income (including *[[Pflegeversicherung]]*. The minimum cost is [{{GKV_MIN_COST|cur}}€](/glossary/Mindestbeitrag) per month. The maximum cost is [{{GKV_MAX_COST_SELF_EMPLOYED|cur}}€](/glossary/Höchstbeitrag) per month. You can't get the student tariff, you can't get [free health insurance](#free-health-insurance), and you can't use your [foreign health insurance](#insurance-from-other-eu-countries).[^37]
 
-You can't get the student tariff, you can't get [free health insurance](#free-health-insurance), and you can't use your [foreign health insurance](#insurance-from-other-eu-countries).[^37] Your employer does not pay half of your health insurance.
+Private health insurance is usually much cheaper. The cost is based on your age and your health when you sign up. If you have a low income, private health insurers might reject you.[^55]
 
-If you can, [join the *Künstlersozialkasse*](#the-kunstlersozialkasse-ksk). It's a really good deal. They pay half of your health insurance.
+Expat health insurance is the cheapest option. This is a short-term option. It makes sense if you are sure that you won't stay in Germany.
 
-**Do not choose health insurance yourself.** It's a really bad idea. You can make expensive mistakes. Always [ask a health insurance broker](#insurance-brokers) to help you choose. Their help free.
+**Do not choose health insurance yourself.** It's a really bad idea. Choosing the cheapest insurance can be an expensive mistake. If you choose the wrong insurance, your freelance visa application could be rejected. Always [ask a health insurance broker](#insurance-brokers) to help you choose. Their help free.
 
 ### For an apprenticeship
 
