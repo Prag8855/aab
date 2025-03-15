@@ -38,6 +38,8 @@ Related_places:
     places/torhaus-your-dentists-in-berlin.md
     places/zahnartze-am-mexikoplatz.md
     places/zmq207-zahnmedizin-berlin-mitte.md
+    places/happybite-zahnzentrum.md
+    places/dentist-wahid-sarwghad.md
 ---
 
 This is a list of English-speaking dentists in Berlin. If this list is incomplete, you can [suggest a dentist](/suggest-business).
