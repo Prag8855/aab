@@ -17,10 +17,11 @@ Related_guides:
     guides/ksk-kuenstlersozialkasse.md
 ---
 
-Public health insurance (*gesetzliche Krankenversicherung* or *GKV*) is a type of German [health insurance](/glossary/Krankenversicherung). 89% of Germans have public health insurance. The other 11% have [private health insurance](/glossary/private%20Krankenversicherung).
 
-It's also called statutory health insurance. Public health insurance companies are called *[Krankenkassen](/glossary/Krankenkasse)*.
+Germany has two types of [health insurance](/glossary/Krankenversicherung): public and [private](/glossary/private%20Krankenversicherung). Most people have public health insurance (*gesetzliche Krankenversicherung* or *GKV*). It's also called statutory health insurance.
+
+Public health insurance is managed by non-profit *[Krankenkassen](/glossary/Krankenkasse)*. There are dozens of options, but the cost and the coverage are almost the same. The cost of public health insurance is based on your income.
 
 **[Public health insurance calculator ➞](/tools/health-insurance-calculator)**
 
-**[How to choose German health insurance ➞](/guides/german-health-insurance)**
+**[How to choose health insurance ➞](/guides/german-health-insurance)**
