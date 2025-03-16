@@ -16,11 +16,15 @@ This guide explains how German health insurance works, and how to choose the bes
 
 All German residents must have health insurance. You pay for it every month. If you are sick, your insurance pays for all necessary healthcare. It covers medical operations, therapy, medication and dental care.
 
-There are 2 health insurance systems: public and private. The best option depends on your situation. Use my health insurance calculator to see your options. [Ask an expert](#insurance-brokers) to help you choose the best health insurance. Their help is free.
+There are 2 health insurance systems: public and private. The best option depends on your situation. To see your options, use my health insurance calculator, or keep reading.
+
+[Ask an expert](#insurance-brokers) to help you choose the best health insurance. Their help is free.
 
 {% include '_blocks/healthInsuranceCalculator.html' %}
 
 ## Your options
+
+Use my health insurance calculator to know your options.
 
 ### For employees
 
@@ -63,6 +67,8 @@ There are exceptions. If you work less than 20 hours per week, you can still get
 If you are self-employed, you can choose public or private health insurance.[^4]
 
 [Public health insurance](/glossary/gesetzliche%20Krankenversicherung) costs {{GKV_MIN_RATE_SELF_EMPLOYED}}% to {{GKV_MAX_RATE_SELF_EMPLOYED}}% of your income (including *[[Pflegeversicherung]]*. The minimum cost is [{{GKV_MIN_COST|cur}}€](/glossary/Mindestbeitrag) per month. The maximum cost is [{{GKV_MAX_COST_SELF_EMPLOYED|cur}}€](/glossary/Höchstbeitrag) per month. You can't get the student tariff, you can't get [free health insurance](#free-health-insurance), and you can't use your [foreign health insurance](#insurance-from-other-eu-countries).[^37]
+
+If you just moved from a non-EU country, it's hard to get public health insurance. Public insurance companies can refuse to cover you.[^14] Most immigrant freelancers are forced to choose [private](/glossary/private%20Krankenversicherung) or [expat health insurance](/glossary/Expat%20health%20insurance).
 
 Private health insurance is usually much cheaper. The cost is based on your age and your health when you sign up. If you have a low income, private health insurers might reject you.[^55]
 
@@ -128,7 +134,25 @@ You can get free health insurance through your parents or your spouse. This is c
 
 ### Cost of public health insurance
 
-Use my health insurance calculator. The cost depends on your occupation and your income.
+Public health insurance costs ???% of your income, plus ???% to ???% for the [insurer surcharge](/glossary/Zusatzbeitrag), and ???% to ???% for [long-term care insurance](/glossary/Pflegeversicherung). In total, it costs ???% to ???% of your income, and your employer pays half of it. If you are unemployed or self-employed, you pay the whole amount yourself.
+
+The minimum contribution is ???€ per month. The maximum contribution is ???€ per month.
+
+In some cases, you can get [free health insurance](#free-health-insurance). There is also a special tariff for students: ???€ per month.
+
+{% include '_blocks/healthInsuranceCalculator.html' %}
+
+### What is covered
+
+Public health insurance covers **all necessary healthcare**. Important treatments and medical prescriptions are always covered. There is a small deductible (5€ to 10€ per month) for some prescriptions. There is no other deductible.
+
+When you go to the doctor, you give your insurance card, and they charge your *[[Krankenkasse]]* directly. If a treatment is not covered, you know before you start. There are never surprise costs.
+
+Public health insurance covers essential dental care, like removing your wisdom teeth. You also get 2 free dental check-ups every year. It does not cover tooth cleanings. Many people also get [dental insurance](/glossary/Zahnzusatzversicherung) to get better coverage.
+
+Glasses and contact lenses [are rarely covered](/guides/eyeglasses). You need to pay for them yourself.
+
+Public health insurance also covers your children and your unemployed spouse for free. This is called *[[Familienversicherung]]*.
 
 ### Benefits of public health insurance
 
@@ -141,28 +165,16 @@ Use my health insurance calculator. The cost depends on your occupation and your
 - **It's easy to use**  
     When you go to the doctor, you show your insurance card, and you get healthcare. You don't need to think about coverage, reimbursement or deductibles. There is no paperwork; it just works.
 - **You don't pay more for pre-existing conditions**  
-    If you are *[[Pflichtversichert]]*, public health insurers must accept you, even if you have serious health problems. You don't pay more because of your bad health. Private health insurers refuse people with serious health problems, or they charge them more.
+    The cost is based on your income, not your health. Generally, public health insurance is forced to accept you, even if you have serious health problems. You don't pay more because of your bad health.
 
 ### Disadvantages of public health insurance
 
-- **It's expensive for young professionals**  
+- **It's expensive if you have a high income**  
     If you have a high income, you pay more. If you are young, healthy and well-paid, private health insurance is often cheaper.
-- **Doctors prefer private insurance**  
-    With public health insurance, you must wait longer for a doctor appointment. It's hard to find a psychotherapist or urologist who accepts public health insurance.[^13] With private health insurance, you can see doctors faster.
+- **It's harder to get a doctor appointment**  
+    With public health insurance, you wait longer for a doctor appointment. It's hard to find a psychotherapist or urologist who accepts public health insurance.[^13] With private health insurance, you can see doctors faster.
 - **Special treatments are not included**  
     Public health insurance covers *necessary* care, not luxuries. If you want special treatments, you must pay the extra cost yourself. For example, it only covers amalgam tooth fillings. If you want fancy composite fillings, you must pay for the difference. Tooth cleanings are not fully covered. Eyeglasses are rarely covered. Private insurance lets you choose better coverage.
-- **Not everyone is accepted**  
-    If you are a self-employed, and you just moved from a non-EU country, it's really hard to get public health insurance. Public insurance companies are not forced to cover self-employed people.[^14] Most immigrant freelancers are forced to choose private or [expat health insurance](/glossary/Expat%20health%20insurance).
-
-### What public insurance covers
-
-Public health insurance covers **all necessary healthcare**. Important treatments and medical prescriptions are always covered. There is a small deductible (5€ to 10€ per month) for some prescriptions. There is no other deductible.
-
-When you visit the doctor, you give your insurance card, and they charge the insurance company directly. If a treatment is not covered, you know before you start.
-
-Public health insurance covers essential dental care, like removing your wisdom teeth. You also get 2 free dental check-ups every year. It does not cover tooth cleanings. Many people also get [dental insurance](/glossary/Zahnzusatzversicherung) to get better coverage.
-
-Glasses and contact lenses [are rarely covered](/guides/eyeglasses). You need to pay for them yourself.
 
 ### Which public health insurance should I choose?
 
