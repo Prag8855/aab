@@ -59,7 +59,7 @@ function calculateTax(yearlyIncome, opts) {
 	result.healthInsuranceDetails = healthInsuranceResult;
 
 	const healthInsuranceVorsorgepauschaleTarif = (
-		healthInsurance.selfEmployedTarif / 2
+		healthInsurance.selfPayTarif / 2
 		+ result.healthInsuranceDetails.pflegeversicherung.personalRate
 		+ zusatzbeitrag /2
 	);

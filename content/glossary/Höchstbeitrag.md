@@ -14,7 +14,7 @@ The cost of [public health insurance](/glossary/gesetzliche%20Krankenversicherun
 
 The *Höchstbeitrag* is the maximum amount you can pay for public health insurance. If you earn more than than {{GKV_MAX_INCOME|cur}}€ per month, the price does not go higher. The minimum amount is called the *[[Mindestbeitrag]]*.
 
-The *Höchstbeitrag* for employees is {{GKV_MAX_COST_EMPLOYEE|cur}}€ per month. The *Höchstbeitrag* for self-employed people is {{GKV_MAX_COST_SELF_EMPLOYED|cur}}€ per month.
+The *Höchstbeitrag* for employees is {{GKV_MAX_COST_EMPLOYEE|cur}}€ per month. The *Höchstbeitrag* for self-employed people is {{GKV_MAX_COST_SELF_PAY|cur}}€ per month.
 
 There is no *Höchstbeitrag* for private health insurance, because the price is not based on your income.
 

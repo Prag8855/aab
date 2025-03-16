@@ -36,7 +36,7 @@ function hasMinimumSelfEmployedTarif(output) {
 	equal(output.tarif, 'selfEmployed');
 	equal(
 		output.baseContribution.totalContribution,
-		round(healthInsurance.minMonthlyIncome * healthInsurance.selfEmployedTarif));
+		round(healthInsurance.minMonthlyIncome * healthInsurance.selfPayTarif));
 	equal(
 		output.options.tk.zusatzbeitrag.totalContribution,
 		round(healthInsurance.minMonthlyIncome * healthInsurance.companies.tk.zusatzbeitrag));
@@ -50,7 +50,7 @@ function hasMinimumSelfEmployedTarifWithExtraPflegeversicherung(output) {
 	equal(output.tarif, 'selfEmployed');
 	equal(
 		output.baseContribution.totalContribution,
-		round(healthInsurance.minMonthlyIncome * healthInsurance.selfEmployedTarif));
+		round(healthInsurance.minMonthlyIncome * healthInsurance.selfPayTarif));
 	equal(
 		output.options.tk.zusatzbeitrag.totalContribution,
 		round(healthInsurance.minMonthlyIncome * healthInsurance.companies.tk.zusatzbeitrag));
@@ -65,7 +65,7 @@ function hasMaximumSelfEmployedTarif(output) {
 	equal(output.tarif, 'selfEmployed');
 	equal(
 		output.baseContribution.totalContribution,
-		round(healthInsurance.maxMonthlyIncome * healthInsurance.selfEmployedTarif));
+		round(healthInsurance.maxMonthlyIncome * healthInsurance.selfPayTarif));
 	equal(
 		output.options.tk.zusatzbeitrag.totalContribution,
 		round(healthInsurance.maxMonthlyIncome * healthInsurance.companies.tk.zusatzbeitrag));
@@ -79,7 +79,7 @@ function hasMaximumSelfEmployedTarifWithExtraPflegeversicherung(output) {
 	equal(output.tarif, 'selfEmployed');
 	equal(
 		output.baseContribution.totalContribution,
-		round(healthInsurance.maxMonthlyIncome * healthInsurance.selfEmployedTarif));
+		round(healthInsurance.maxMonthlyIncome * healthInsurance.selfPayTarif));
 	equal(
 		output.options.tk.zusatzbeitrag.totalContribution,
 		round(healthInsurance.maxMonthlyIncome * healthInsurance.companies.tk.zusatzbeitrag));

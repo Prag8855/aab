@@ -254,7 +254,7 @@ Your [permanent residence](/glossary/Niederlassungserlaubnis) or citizenship app
 Your [public health insurance](/glossary/gesetzliche%20Krankenversicherung) becomes cheaper or free. The coverage stays the same.
 
 - **If you get [unemployment benefits](/glossary/ALG%20I)**, the *[[Agentur für Arbeit]]* pays for your health insurance. It covers you for free.[^17]
-- **If you don't get unemployment benefits**, you must pay around around {{GKV_MIN_COST|cur}}€ per month. Your spouse's or your parents' public health insurance can cover you for free (*[[Familienversicherung]]*).[^7]
+- **If you don't get unemployment benefits**, you must pay around around {{GKV_MIN_COST_SELF_PAY|cur}}€ per month. Your spouse's or your parents' public health insurance can cover you for free (*[[Familienversicherung]]*).[^7]
 
 In some cases, your health insurance is free for 1 month after you lose your job (*nachgehender Leistungsanspruch*).[^18] This happens automatically; you don't need to apply for it.
 

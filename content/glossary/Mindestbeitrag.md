@@ -14,7 +14,7 @@ The cost of [public health insurance](/glossary/gesetzliche%20Krankenversicherun
 
 The *Mindestbeitrag* is the minimum amount you can pay for public health insurance. If you earn less than {{GKV_MIN_INCOME|cur}}€ per month, the price does not go lower. The maximum amount is called the *[[Höchstbeitrag]]*.
 
-The *Mindestbeitrag* for employees is {{GKV_MAX_COST_EMPLOYEE|cur}}€ per month. The *Mindestbeitrag* for students, unemployed and self-employed people is {{GKV_MIN_COST|cur}}€ per month. You might also get [free health insurance](/guides/german-health-insurance#free-health-insurance).
+The *Mindestbeitrag* for employees is {{GKV_MAX_COST_EMPLOYEE|cur}}€ per month. The *Mindestbeitrag* for students, unemployed and self-employed people is {{GKV_MIN_COST_SELF_PAY|cur}}€ per month. You might also get [free health insurance](/guides/german-health-insurance#free-health-insurance).
 
 There is no *Mindestbeitrag* for private health insurance, because the price is not based on your income. It's sometimes cheaper than public health insurance.
 

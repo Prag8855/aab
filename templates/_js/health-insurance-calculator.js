@@ -313,7 +313,7 @@ function calculateHealthInsuranceForSelfEmployment(monthlyIncome, age, childrenC
 	***************************************************/
 
 	out.baseContribution = {};
-	out.baseContribution.totalRate = healthInsurance.selfEmployedTarif;
+	out.baseContribution.totalRate = healthInsurance.selfPayTarif;
 	out.baseContribution.totalContribution = roundCurrency(out.baseContribution.totalRate * adjustedIncome);
 	out.baseContribution.employerRate = 0;
 	out.baseContribution.employerContribution = 0;
@@ -379,7 +379,7 @@ function calculateHealthInsuranceForSelfPay(monthlyIncome, age, childrenCount, c
 	***************************************************/
 
 	out.baseContribution = {};
-	out.baseContribution.totalRate = healthInsurance.defaultTarif;
+	out.baseContribution.totalRate = healthInsurance.selfPayTarif;  // Rate without Krankengeld
 	out.baseContribution.totalContribution = roundCurrency(out.baseContribution.totalRate * adjustedIncome);
 	out.baseContribution.employerRate = 0;
 	out.baseContribution.employerContribution = 0;

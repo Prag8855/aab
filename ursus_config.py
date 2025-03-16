@@ -104,18 +104,18 @@ ctx['MINIJOB_MAX_INCOME'] = round(ctx['MINIMUM_WAGE'] * 130 / 3)  # § 8 SGB IV
 # Below this income (€/mth), you have a midijob - §20 SGB IV
 ctx["MIDIJOB_MAX_INCOME"] = fail_on('2025-12-31', 2000)
 
-# Used to calculate health insurance for a midijob - § 20 SGB IV
-ctx["GKV_FACTOR_F"] = fail_on('2025-12-31', 0.6683)
+# Used to calculate health insurance for a midijob
+ctx["GKV_FACTOR_F"] = fail_on('2025-12-31', 0.6683)  # §20 SGB IV
 
 # Median income (€/m) of all people who pay social contribs
 ctx['BEZUGSGROESSE'] = fail_on('2025-12-31', 3745)  # SGB VI Anlage 1
 
 # Base contribution (%), including Krankengeld
-ctx['GKV_BASE_RATE'] = 14.6  # § 241 SGB V
-ctx['GKV_BASE_RATE_STUDENT'] = ctx['GKV_BASE_RATE'] * 0.7  # § 245 SGB V
+ctx['GKV_BASE_RATE_EMPLOYEE'] = 14.6  # § 241 SGB V
+ctx['GKV_BASE_RATE_STUDENT'] = ctx['GKV_BASE_RATE_EMPLOYEE'] * 0.7  # § 245 SGB V
 
-# Base contribution (%), excluding Krankengeld - § 243 SGB V
-ctx["GKV_BASE_RATE_SELF_EMPLOYED"] = 14
+# Base contribution (%), excluding Krankengeld (freelanccers, unemployed, students over 30)
+ctx["GKV_BASE_RATE_SELF_PAY"] = 14  # § 243 SGB V
 
 # Mindestbemessungsgrundlage (€/mth) - Below this income, GKV does not get cheaper
 ctx['GKV_MIN_INCOME'] = ctx['BEZUGSGROESSE'] / 90 * 30  # §240 Abs. 4 SGV IV
@@ -195,76 +195,65 @@ ctx["PENSIONREFUNDGERMANY_MAX_FEE"] = 2800
 # Maximum income from employment to stay a member of the KSK (€/y)
 ctx["KSK_MAX_EMPLOYMENT_INCOME"] = ctx["BEITRAGSBEMESSUNGSGRENZE"] / 2  # § 4 KSVG
 
-# Minimum contribution (€/mth) without employer contribution
-ctx['GKV_MIN_COST'] = round(
-    ctx['GKV_MIN_INCOME'] * (
-        ctx['GKV_BASE_RATE']
-        + ctx['PFLEGEVERSICHERUNG_MIN_RATE']
-        + ctx['GKV_MIN_ZUSATZBEITRAG']
-    ) / 100,
-    -1
-)
-
-ctx['GKV_MIN_RATE'] = (  # Total rate
-    ctx['GKV_BASE_RATE']
+gkv_min_rate = (  # Total rate for employees
+    ctx['GKV_BASE_RATE_EMPLOYEE']
     + ctx['PFLEGEVERSICHERUNG_MIN_RATE']
     + ctx['GKV_AVG_ZUSATZBEITRAG']
 )
 
-ctx['GKV_MAX_RATE'] = (  # Total rate
-    ctx['GKV_BASE_RATE']
+gkv_max_rate_employee = (  # Total rate for employees
+    ctx['GKV_BASE_RATE_EMPLOYEE']
     + ctx['PFLEGEVERSICHERUNG_MAX_RATE']
     + ctx['GKV_AVG_ZUSATZBEITRAG']
 )
 
 # Min/max health insurance rate for employees (%), with avg. Zusatzbeitrag
-ctx["GKV_MIN_RATE_EMPLOYEE"] = round(
-    (
-        ctx['GKV_MIN_RATE']
-        - (  # Employer's contribution
-            ctx['GKV_BASE_RATE']
-            + ctx['PFLEGEVERSICHERUNG_BASE_RATE']
-            + ctx['GKV_AVG_ZUSATZBEITRAG']
-        ) / 2
-    ),
-    1
+ctx["GKV_MIN_RATE_EMPLOYEE"] = (
+    gkv_min_rate
+    - (  # Employer's contribution
+        ctx['GKV_BASE_RATE_EMPLOYEE']
+        + ctx['PFLEGEVERSICHERUNG_BASE_RATE']
+        + ctx['GKV_AVG_ZUSATZBEITRAG']
+    ) / 2
 )
-ctx["GKV_MAX_RATE_EMPLOYEE"] = round(
-    (
-        (  # Total cost
-            ctx['GKV_BASE_RATE']
-            + ctx['PFLEGEVERSICHERUNG_MAX_RATE']
-            + ctx['GKV_AVG_ZUSATZBEITRAG']
-        )
-        - (  # Employer's contribution
-            ctx['GKV_BASE_RATE']
-            + ctx['PFLEGEVERSICHERUNG_BASE_RATE']
-            + ctx['GKV_AVG_ZUSATZBEITRAG']
-        ) / 2
-    ),
-    1
+ctx["GKV_MAX_RATE_EMPLOYEE"] = (
+    (  # Total cost
+        ctx['GKV_BASE_RATE_EMPLOYEE']
+        + ctx['PFLEGEVERSICHERUNG_MAX_RATE']
+        + ctx['GKV_AVG_ZUSATZBEITRAG']
+    )
+    - (  # Employer's contribution
+        ctx['GKV_BASE_RATE_EMPLOYEE']
+        + ctx['PFLEGEVERSICHERUNG_BASE_RATE']
+        + ctx['GKV_AVG_ZUSATZBEITRAG']
+    ) / 2
 )
 
-ctx["GKV_MIN_RATE_SELF_EMPLOYED"] = round(
-    ctx['GKV_BASE_RATE_SELF_EMPLOYED']
+ctx["GKV_MIN_RATE_SELF_PAY"] = (
+    ctx['GKV_BASE_RATE_SELF_PAY']
     + ctx['PFLEGEVERSICHERUNG_MIN_RATE']
-    + ctx['GKV_MIN_ZUSATZBEITRAG'],
-    1
+    + ctx['GKV_MIN_ZUSATZBEITRAG']
 )
-ctx["GKV_MAX_RATE_SELF_EMPLOYED"] = round(
-    ctx['GKV_BASE_RATE_SELF_EMPLOYED']
+ctx["GKV_MAX_RATE_SELF_PAY"] = (
+    ctx['GKV_BASE_RATE_SELF_PAY']
     + ctx['PFLEGEVERSICHERUNG_MAX_RATE']
-    + ctx['GKV_MAX_ZUSATZBEITRAG'],
-    1
+    + ctx['GKV_MAX_ZUSATZBEITRAG']
 )
 
 # Min/max health insurance cost for employees (€/mth), with avg. Zusatzbeitrag
 ctx["GKV_MIN_COST_EMPLOYEE"] = round(ctx['GKV_MIN_INCOME'] * ctx["GKV_MIN_RATE_EMPLOYEE"] / 100, -1)
 ctx["GKV_MAX_COST_EMPLOYEE"] = round(ctx['GKV_MAX_INCOME'] / 12 * ctx["GKV_MAX_RATE_EMPLOYEE"] / 100, -1)
 
+
+# Contribution (€/mth) for self-pay tarif without right to Krankengeld
+ctx['GKV_MIN_COST_SELF_PAY'] = round(
+    ctx['GKV_MIN_INCOME'] * ctx['GKV_MIN_RATE_SELF_PAY'] / 100,
+    -1
+)
+
 # Maximum health insurance cost for freelancers (€/mth), with max Zusatzbeitrag
-ctx["GKV_MAX_COST_SELF_EMPLOYED"] = round(
-    ctx['GKV_MAX_INCOME'] / 12 * ctx["GKV_MAX_RATE_SELF_EMPLOYED"] / 100,
+ctx["GKV_MAX_COST_SELF_PAY"] = round(
+    ctx['GKV_MAX_INCOME'] / 12 * ctx["GKV_MAX_RATE_SELF_PAY"] / 100,
     -1
 )
 
