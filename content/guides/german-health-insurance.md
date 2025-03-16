@@ -42,7 +42,7 @@ The best option depends on your situation. To know your options, use my recommen
 
 {% include '_blocks/healthInsuranceCalculator.html' %}
 
-### For employees
+### Health insurance for employees
 
 Your health insurance is not tied to your job. Your employer does not decide what health insurance you can have. If you [lose your job](/guides/losing-your-job), you keep your health insurance.
 
@@ -56,7 +56,7 @@ Your health insurance is not tied to your job. Your employer does not decide wha
 
 If you move from a non-EU country, you might need expat health insurance. It covers you before you start working. You must switch to public or private health insurance as soon as you start working. A health insurance broker can arrange this.[^42]
 
-### For students
+### Health insurance for students
 
 **If you are under 25 years old**, you pay the student tariff: around {{GKV_COST_STUDENT|cur}}€ per month for [public health insurance](/glossary/gesetzliche%20Krankenversicherung) You can also get [private health insurance](/glossary/private%20Krankenversicherung), but it's usually a little more expensive. You can sometimes get [free health insurance](#free-health-insurance).
 
@@ -66,19 +66,19 @@ If you move from a non-EU country, you might need expat health insurance. It cov
 
 **If you are a foreign student**, you might need temporary health insurance before school starts. Non-EU students can get expat insurance. EU students can use their health insurance from their home country.
 
-**If you are self-employed**, and your income is over {{GKV_FAMILIENVERSICHERUNG_MAX_INCOME|cur}}€ per month, you are treated [like a self-employed person](#for-freelancers). You can't get the student tariff and you can't get [free health insurance](#free-health-insurance).
+**If you are self-employed**, and your income is over {{GKV_FAMILIENVERSICHERUNG_MAX_INCOME|cur}}€ per month, you are treated [like a self-employed person](#health-insurance-for-freelancers). You can't get the student tariff and you can't get [free health insurance](#free-health-insurance).
 
-**If you have a job**, you work over 20 hours per week, and you earn more than {{MINIJOB_MAX_INCOME|cur}}€ per month, you are treated [like a normal employee](#for-employees).[^46] You can't get the student tariff, and you can't get [free health insurance](#free-health-insurance). There are different rules for [internships](#for-an-internship) and [apprenticeships](#for-an-apprenticeship).
+**If you have a job**, you work over 20 hours per week, and you earn more than {{MINIJOB_MAX_INCOME|cur}}€ per month, you are treated [like a normal employee](#health-insurance-for-employees).[^46] You can't get the student tariff, and you can't get [free health insurance](#free-health-insurance). There are different rules for [internships](#health-insurance-for-an-internship) and [apprenticeships](#health-insurance-for-an-apprenticeship).
 
 [Ask an expert](#insurance-brokers) to help you choose. They can help you find the cheapest health insurance. Their help is free.
 
-### For unemployed people
+### Health insurance for unemployed people
 
 **If you get [[ALG I]], [[Bürgergeld]] or [[Elterngeld]]**, health insurance is free. The state pays for it.[^11] Usually, you must switch to public health insurance.[^41]
 
 **If you don't get ALG I, Bürgergeld or Elterngeld**, you can choose public or private health insurance. With public health insurance, you pay around [{{GKV_MIN_COST|cur}}€ per month](/glossary/Mindestbeitrag).[^40] The cost of private health insurance is not related to your income.
 
-### For freelancers
+### Health insurance for freelancers
 
 If you are self-employed, you can choose public or private health insurance.[^4]
 
@@ -92,7 +92,7 @@ Expat health insurance is the cheapest option. This is a short-term option. It m
 
 **Do not choose health insurance yourself.** It's a really bad idea. Choosing the cheapest insurance can be an expensive mistake. If you choose the wrong insurance, your freelance visa application could be rejected. Always [ask a health insurance broker](#insurance-brokers) to help you choose. Their help free.
 
-### For an apprenticeship
+### Health insurance for an apprenticeship
 
 If you are a trainee (*[[Azubi]]*), you must get public health insurance.[^54]
 
@@ -100,9 +100,9 @@ If you are a trainee (*[[Azubi]]*), you must get public health insurance.[^54]
 
 **If you earn more than {{GKV_AZUBI_FREIBETRAG|cur}}€ per month**, your health insurance costs {{GKV_MIN_RATE_EMPLOYEE}}% to {{GKV_MAX_RATE_EMPLOYEE}}% of your income.[^52] You can't get [free health insurance](#free-health-insurance).[^53]
 
-### For an internship
+### Health insurance for an internship
 
-**If it's a voluntary internship**, you have [the same options as an employee](#for-employees). You can sometimes get [free health insurance](#free-health-insurance).
+**If it's a voluntary internship**, you have [the same options as an employee](#health-insurance-for-employees). You can sometimes get [free health insurance](#free-health-insurance).
 
 **If it's a mandatory internship during your studies:**
 
@@ -111,8 +111,8 @@ If you are a trainee (*[[Azubi]]*), you must get public health insurance.[^54]
 
 **If it's a mandatory internship before or after your studies:**
 
-- If you make more than {{MINIJOB_MAX_INCOME|cur}}€ per month, you pay [the same price as other employees](#for-employees).[^43]
-- If you make {{GKV_AZUBI_FREIBETRAG|cur}}€ to {{MINIJOB_MAX_INCOME|cur}}€ per month, you pay [the same price as other students](#for-students).[^51]
+- If you make more than {{MINIJOB_MAX_INCOME|cur}}€ per month, you pay [the same price as other employees](#health-insurance-for-employees).[^43]
+- If you make {{GKV_AZUBI_FREIBETRAG|cur}}€ to {{MINIJOB_MAX_INCOME|cur}}€ per month, you pay [the same price as other students](#health-insurance-for-students).[^51]
 - If you make {{GKV_AZUBI_FREIBETRAG|cur}}€ per month or less, your health insurance is free. Your employer pays for it.
 - If it's an unpaid internship, you must pay for your own health insurance.[^50] You might get [free health insurance](#free-health-insurance).
 
