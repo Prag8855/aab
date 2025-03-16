@@ -54,7 +54,7 @@ There are exceptions. If you work less than 20 hours per week, you can still get
 
 ### For unemployed people
 
-**If you get [[ALG I]], [[Bürgergeld]] or [[Elterngeld]]**, health insurance is free. The state pays for it.[^42] Usually, you must switch to public health insurance.[^41]
+**If you get [[ALG I]], [[Bürgergeld]] or [[Elterngeld]]**, health insurance is free. The state pays for it.[^11] Usually, you must switch to public health insurance.[^41]
 
 **If you don't get ALG I, Bürgergeld or Elterngeld**, you can choose public or private health insurance. With public health insurance, you pay around [{{GKV_MIN_COST|cur}}€ per month](/glossary/Mindestbeitrag).[^40] The cost of private health insurance is not related to your income.
 
@@ -305,7 +305,7 @@ You can get expat health insurance from [Feather](/out/feather-expats), [Ottonov
 
 [[Expat health insurance]] is a temporary option. Switch to [public](/glossary/gesetzliche%20Krankenversicherung) or [private health insurance](/glossary/private%20Krankenversicherung) as soon as you can. If you wait too long, you can have problems:
 
-> **Example 1:** You are a freelancer, and you have expat insurance for 3 years. You regularly see a psychotherapist. You must [renew your freelance visa](/guides/renew-german-freelance-visa), so you need public or private health insurance. Since you see a therapist, no insurer wants to cover you. You can't find health insurance, so you can't renew your freelance visa.[^11]
+> **Example 1:** You are a freelancer, and you have expat insurance for 3 years. You regularly see a psychotherapist. You must [renew your freelance visa](/guides/renew-german-freelance-visa), so you need public or private health insurance. Since you see a therapist, no insurer wants to cover you. You can't find health insurance, so you can't renew your freelance visa.
 
 > **Example 2:** You have expat health insurance. You get cancer. After 5 years, your expat insurance expires, and no insurer wants to cover you.
 
@@ -381,7 +381,7 @@ There are more types of insurance in Germany, but health and liability insurance
 [^8]: [krankenkassen.de](https://www.krankenkassen.de/gesetzliche-krankenkassen/krankenkasse-beitrag/selbststaendige/), [bundesregierung.de](https://www.bundesregierung.de/breg-de/service/archiv/beschaeftigte-ab-2019-entlastet-1141468)
 [^9]: [check24.de](https://www.check24.de/gesetzliche-krankenversicherung/mindestbeitrag/)
 [^10]: [krankenkassenzentrale.de](http://web.archive.org/web/20220926103421/https://www.krankenkassenzentrale.de/wiki/krankenkasse-arbeitslosigkeit), [tk.de](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-versicherte/veraenderung-berufliche-situation/wenn-sie-arbeitslos-sind-2000802)
-[^11]: [aok.de](https://www.aok.de/pk/krankenkassenbeitraege/arbeitslosigkeit/), [aok.de](https://www.aok.de/pk/krankenkassenbeitraege/arbeitslosigkeit/), [Arbeitsagentur](https://www.arbeitsagentur.de/arbeitslosengeld-2/gesundheit-versicherung)
+[^11]: [krankenkassen.de](https://www.krankenkassen.de/gesetzliche-krankenkassen/krankenkasse-beitrag/arbeitslose/#:~:text=ubernimmt%20das%20jobcenter%20den%20allgemeinen%20krankenkassen-beitrag) (February 2025), [aok.de](https://www.aok.de/pk/krankenkassenbeitraege/arbeitslosigkeit/), [aok.de](https://www.aok.de/pk/krankenkassenbeitraege/arbeitslosigkeit/), [Arbeitsagentur](https://www.arbeitsagentur.de/arbeitslosengeld-2/gesundheit-versicherung)
 [^12]: [tk.de](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-versicherte/leistungen/entlastung-fuer-familien/versichert-als-familie-in-der-familienversicherung/einkommensgrenze-familienversicherung-2005696)
 [^13]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/5cw86x/looking_for_an_english_therapist_in_berlin/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/8z8558/psychotherapy_in_berlin/e2idrsi/)
 [^14]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/9yib75/not_eligible_for_either_private_or_public_health/)
@@ -412,7 +412,6 @@ There are more types of insurance in Germany, but health and liability insurance
 [^39]: Citation needed - EHIC for students
 [^40]: [krankenkassen.de](https://www.krankenkassen.de/gesetzliche-krankenkassen/krankenkasse-beitrag/arbeitslose/#:~:text=kann%20sich%20weiter%20freiwillig%20versichern) (February 2025)
 [^41]: [krankenkassen.de](https://www.krankenkassen.de/gesetzliche-krankenkassen/krankenkasse-beitrag/arbeitslose/#:~:text=mit%20eintritt%20der%20versicherungspflicht%20wegen%20alg%20i%20muss%20die%20private%20krankenversicherung%20den%20pkv-vertrag%20im%20beginn%20der%20mitgliedschaft%20in%20einer%20gesetzlichen%20krankenkasse%20aufheben) (February 2025)
-[^42]: [krankenkassen.de](https://www.krankenkassen.de/gesetzliche-krankenkassen/krankenkasse-beitrag/arbeitslose/#:~:text=ubernimmt%20das%20jobcenter%20den%20allgemeinen%20krankenkassen-beitrag) (February 2025)
 [^43]: [minijob-zentrale.de](https://www.minijob-zentrale.de/DE/die-minijobs/sonderfaelle/detailseite.html#:~:text=auszubildende%20sind%20versicherungspflichtige%20arbeitnehmer%20oder%20arbeitnehmerinnen) (February 2025)
 [^44]: Citation needed - PKV student tariff
 [^45]: [Techniker Krankenkasse](https://www.tk.de/vertriebspartner/faq/beitragsuebersicht/elterngeld-und-elternzeit/elterngeld-und-elternzeit-2065854) (March 2025)
