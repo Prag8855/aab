@@ -14,24 +14,13 @@ This guide explains how German health insurance works, and how to choose the bes
 
 {% include "_blocks/tableOfContents.html" %}
 
-## How German health insurance works
+All German residents must have health insurance. You pay for it every month. If you are sick, your insurance pays for all necessary healthcare. It covers medical operations, therapy, medication and dental care.
 
-All German residents must have health insurance. You pay for it every month. When you are sick, it pays for all necessary healthcare. It covers medical operations, therapy, medication and dental care.
-
-There are 2 health insurance systems:
-
-- **[Public health insurance](/glossary/gesetzliche%20Krankenversicherung)**  
-    Managed by non-profit [health insurance funds](/glossary/Krankenkasse). It costs {{GKV_MIN_RATE}}% to {{GKV_MAX_RATE}}% of your income (including *[[Pflegeversicherung]]*), but your employer pays half of it. It covers your children and unemployed spouse for free. The cost and coverage are almost the same with every public health insurer.
-- **[Private health insurance](/glossary/private%20Krankenversicherung)**  
-    Managed by private insurance companies. The cost depends on your age and health condition when you sign up. The coverage is more flexible, and the cost varies a lot. You must pay extra to cover your family.
-
-**Both systems are good.** The best option depends on your situation. Sometimes you can only choose public health insurance.
-
-## Your options
-
-Your options depend on your situation. Use my health insurance calculator to see your options. [Talk to a broker](#insurance-brokers) to get recommendations. Their help is free.
+There are 2 health insurance systems: public and private. The best option depends on your situation. Use my health insurance calculator to see your options. [Ask an expert](#insurance-brokers) to help you choose the best health insurance. Their help is free.
 
 {% include '_blocks/healthInsuranceCalculator.html' %}
+
+## Your options
 
 ### For employees
 
@@ -61,7 +50,7 @@ Health insurance is not tied to your job. Your employer does not choose your hea
 
 There are exceptions. If you work less than 20 hours per week, you can still get the student tariff, even if your income is over {{MINIJOB_MAX_INCOME|cur}}€ per month.[^46] There are also different rules for [internships](#for-an-internship) and [apprenticeships](#for-an-apprenticeship).
 
-[Ask a broker](#insurance-brokers) to help you choose. They can help you find the cheapest health insurance. Their help is free.
+[Ask an expert](#insurance-brokers) to help you choose. They can help you find the cheapest health insurance. Their help is free.
 
 ### For unemployed people
 
@@ -177,7 +166,7 @@ Glasses and contact lenses [are rarely covered](/guides/eyeglasses). You need to
 
 ### Which public health insurance should I choose?
 
-**It's not important.** Public health insurance options are almost the same. The price and coverage are set by law. The biggest differences are the extra contribution (*[[Zusatzbeitrag]]*) and the customer service.[^15] [Ask a broker](#insurance-brokers) to help you choose. Their help is free.
+**It's not important.** Public health insurance options are almost the same. The price and coverage are set by law. The biggest differences are the extra contribution (*[[Zusatzbeitrag]]*) and the customer service.[^15] [Ask an expert](#insurance-brokers) to help you choose. Their help is free.
 
 If you don't speak German, [Techniker Krankenkasse](/out/feather-tk) and [Barmer](/out/barmer) speak English. I used [Techniker Krankenkasse](/out/feather-tk) for 6 years, and [I liked them](/guides/techniker-krankenkasse-review).
 
