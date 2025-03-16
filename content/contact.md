@@ -4,7 +4,7 @@ Description: My name, email, address, IBAN, tax number and other contact informa
 Date_created: 2022-01-27
 ---
 
-Hi, I'm Nicolas. You can contact me to…
+Hi, I'm [Nicolas](/about). You can contact me to…
 
 - **Ask a question**  
     Please [ask the right people](/guides/questions-about-berlin) first. I get a lot of questions, but I can't answer everyone. I do not give legal or financial advice. I can't answer visa and residence permit questions.
@@ -23,7 +23,7 @@ Hi, I'm Nicolas. You can contact me to…
 
 I do not answer visa and residence permit questions, because I can't give legal advice. There are [other people who can help](/guides/questions-about-berlin#immigration-questions).
 
-**Website owner**: [Nicolas Bouliane](https://nicolasbouliane.com)
+**Website owner**: [Nicolas Bouliane](/about)
 
 **Email**: <contact@allaboutberlin.com>
 

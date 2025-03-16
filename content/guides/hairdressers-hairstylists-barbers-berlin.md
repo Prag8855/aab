@@ -43,6 +43,10 @@ Related_places:
     places/the-blade-barbershop.md
     places/barber-shop-by-meti.md
     places/renasanz-salon.md
+    places/alchimie-hairdressing-friseur.md
+    places/amber.md
+    places/st-leonard.md
+    places/uppaman-der-herrensalon.md
 ---
 
 When you get a haircut, it's easier if the barber understands you. This is a list of English-speaking hairdressers, hair stylists and barbers in Berlin. It's compiled from user reviews and recommendations. If someone is missing from this list, [let me know](/suggest-business).

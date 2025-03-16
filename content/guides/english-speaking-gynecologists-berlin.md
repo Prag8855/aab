@@ -17,6 +17,7 @@ Related_places:
     places/dipl-med-daniel-karohl.md
     places/gemeinschaftspraxis-fera.md
     places/frauenarzt-zentrum-neukolln.md
+    places/frauenarztinnen-am-schulenburgpark.md
 ---
 
 This is a list of gynaecologists and obstetricians who speak English. They were recommended by other immigrants.

@@ -69,7 +69,7 @@ Some toll-free numbers don't work with Skype, or don't let you call from another
 
 ### Premium numbers
 
-If a number starts with **0900** or **0137**, it's a premium number.[^4] When you call premium numbers, you pay a fee. For example, **0900 1 5293 6611** is a legal hotline that costs 2€ per minute. The cost is charged on your phone bill.
+If a number starts with **0900** or **0137**, it's a premium number.[^4] When you call premium numbers, you pay a fee. For example, **09008 529 366 11** is a legal hotline that costs 3€ per minute.{{ fail_on('2025-12-31') }} The cost is charged on your phone bill.
 
 [^2]: [placetel.de](https://www.placetel.de/ratgeber/0800-nummer#2._Ist_eine_0800_Nummer_immer_kostenlos.3F)
 [^3]: [placetel.de](https://www.placetel.de/ratgeber/0800-nummer#2._Ist_eine_0800_Nummer_immer_kostenlos.3F)

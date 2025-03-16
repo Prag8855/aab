@@ -1,5 +1,5 @@
 ---
-Name: Sqwod Pod (Jacobsohnstraße 27)
+Name: Sqwod Pod
 Description: Rent private fitness studios for yourself
 Website: https://sqwodpod.com/
 Email: tee@teemajor.com

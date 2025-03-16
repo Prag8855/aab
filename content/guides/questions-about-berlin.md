@@ -44,7 +44,7 @@ You can get help from these communities and services.
 
 - **Immigration lawyer**  
     Use my [list of English-speaking lawyers](/guides/english-speaking-lawyers-berlin).
-    - **Immigration lawyer hotline** - [0900 1 5293 6611](tel:0900152936611)  
+    - **Immigration lawyer hotline** - [09008 529 366 11](tel:0900852936611)  
         Use this number to ask quick questions. You will talk to Alexander von Engelhardt, a business and immigration lawyer in Berlin. It costs 2€ per minute.
 - **[Red Tape Translation](/out/red-tape-translation-interpreter)**  
     They offer immigration coaching. They can also come with you to the *Ausländerbehorde*. They have a lot of experience with visa applications. They often help me with this website.
@@ -88,8 +88,8 @@ Use my lists of English-speaking professionals:
 
 - **[Lawyers](/guides/english-speaking-lawyers-berlin)**  
     Use my [list of English-speaking lawyers in Berlin](/guides/english-speaking-lawyers-berlin). If you have [legal insurance](/glossary/Rechtsschutzversicherung) can help you find a lawyer, and it might pay for it. Some legal insurances have a legal hotline.
-    - **Business and immigration lawyer hotline** - [0900 1 5293 6611](tel:0900152936611)  
-        Use this number to ask quick legal questions. You will talk to Alexander von Engelhardt, a business and immigration lawyer in Berlin. It costs 2€ per minute.
+    - **Business and immigration lawyer hotline** - [09008 529 366 11](tel:0900852936611)  
+        Use this number to ask quick legal questions. You will talk to Alexander von Engelhardt, a business and immigration lawyer in Berlin. It costs 3€ per minute.{{ fail_on('2025-12-31') }}
 - **Legaltech** (*Rechtsdienstleister*)  
     Legal services can help you with specific legal problems. For example, [Conny](/out/conny-mietpreisbremse) specialises in tenant law. They can [lower your rent](/guides/moving-in#lower-your-rent) and many other things. I reviewed them [here](/guides/conny-review). Usually, their services cost nothing if you lose. If you win, they keep a part of the money you get back.
 
@@ -133,8 +133,8 @@ Don't be afraid to use a lawyer. Your employer can't fire you or blacklist you b
     They offer help in English by phone, by email and in person. This service is only for businesses. They do not help freelancers.
 - **[Tax advisors](/guides/english-speaking-steuerberater-berlin)**  
     Use my [list of English-speaking tax advisors in Berlin](/guides/english-speaking-steuerberater-berlin).
-- **Business and immigration lawyer hotline** - [0900 1 5293 6611](tel:0900152936611)  
-    Use this number to ask quick legal questions. You will talk to Alexander von Engelhardt, a business and immigration lawyer in Berlin. It costs 2€ per minute.
+- **Business and immigration lawyer hotline** - [09008 529 366 11](tel:0900852936611)  
+    Use this number to ask quick legal questions. You will talk to Alexander von Engelhardt, a business and immigration lawyer in Berlin. It costs 3€ per minute.{{ fail_on('2025-12-31') }}
 - [List of English-speaking lawyers in Berlin](/guides/english-speaking-lawyers-berlin)
 - [Berlin startups](https://www.facebook.com/groups/159595270791268/) - Facebook group
 - [Berlin freelancers](https://www.facebook.com/groups/berlinfreelancers/) - Facebook group

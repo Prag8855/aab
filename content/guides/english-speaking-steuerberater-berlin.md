@@ -46,6 +46,8 @@ Related_places:
     places/blüming-partner-mbb-steuerberater-rechtsanwälte.md
     places/guhr-steuerberatungsgesellschaft.md
     places/insight-tax-gmbh.md
+    places/cick.md
+    places/summa-consult-gmbh.md
 ---
 
 Tax advisors (*Steuerberater*) help you with your personal and business taxes. A tax advisor can:

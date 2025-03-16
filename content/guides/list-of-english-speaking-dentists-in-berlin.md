@@ -5,6 +5,7 @@ Description: A list of known English-speaking dentists in Berlin, built from var
 Date_created: 2017-09-06
 Related_places:
     places/zahn-art.md
+    places/studio-dental-berlin.md
     places/effinghausen-schneider.md
     places/triadent.md
     places/gesunde-zähne-lebenslang.md
@@ -32,7 +33,13 @@ Related_places:
     places/die-praxis-mitte.md
     places/mvz-volksdent-gmbh.md
     places/dentalfirst.md
-    places/studio-dental-berlin.md
+    places/berlin-smile-zahnzentrum.md
+    places/high-endo.md
+    places/torhaus-your-dentists-in-berlin.md
+    places/zahnartze-am-mexikoplatz.md
+    places/zmq207-zahnmedizin-berlin-mitte.md
+    places/happybite-zahnzentrum.md
+    places/dentist-wahid-sarwghad.md
 ---
 
 This is a list of English-speaking dentists in Berlin. If this list is incomplete, you can [suggest a dentist](/suggest-business).
