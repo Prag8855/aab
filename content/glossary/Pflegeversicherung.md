@@ -1,7 +1,7 @@
 ---
 Title: What is Pflegeversicherung?
 German_term: Pflegeversicherung
-English_term: Nursing care insurance
+English_term: Long-term care insurance
 Description: It pays for your healthcare when you are old.
 Date_created: 2018-12-11
 Related_guides:
@@ -11,7 +11,7 @@ Related_guides:
     guides/taxes.md
 ---
 
-If you have [public health insurance](/glossary/gesetzliche%20Krankenversicherung), you also pay for nursing care insurance (*Pflegeversicherung*). It pays for your healthcare when you are old.
+If you have [public health insurance](/glossary/gesetzliche%20Krankenversicherung), you also pay for long-term care insurance (*Pflegeversicherung*). It pays for your healthcare when you are old.
 
 *Pflegeversicherung* costs {{PFLEGEVERSICHERUNG_MIN_RATE}}% to {{PFLEGEVERSICHERUNG_MAX_RATE}}% of your income. If you have a job, your employer pays {{ PFLEGEVERSICHERUNG_EMPLOYER_RATE }}% and you pay the rest.
 

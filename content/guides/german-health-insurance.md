@@ -216,7 +216,7 @@ Your employer pays half of your health insurance. If you are self-employed, you 
 - **Private is expensive if you have pre-existing health problems**  
     Private health insurance often requires a health test before you join. If you have serious pre-existing health problems, they usually reject you. If they accept you, they can charge a lot more.[^14] For example, if you have a chronic disease, get psychotherapy, or need expensive medication, they will reject you. After you are accepted, the price does not change if you get sick.
 
-With private health insurance, there is no nursing care insurance (*Pflegeversicherung*) surcharge. It's included in the price of your insurance.
+With private health insurance, there is no long-term care insurance (*Pflegeversicherung*) surcharge. It's included in the price of your insurance.
 
 ### Who can have private health insurance?
 

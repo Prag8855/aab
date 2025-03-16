@@ -166,7 +166,7 @@ This is an example budget for a single person who lives in Berlin. It uses reali
 | [Pension insurance](/glossary/gesetzliche%20Rentenversicherung) | 371€ | 4,457€  |
 | [Unemployment insurance](/glossary/Arbeitslosenversicherung) | 48€ | 575€ |
 | [Health insurance](/glossary/Krankenversicherung) | 316€ | 3,786€ |
-| [Nursing care insurance](/glossary/Pflegeversicherung) | 71€ | 851€ |
+| [Long-term care insurance](/glossary/Pflegeversicherung) | 71€ | 851€ |
 | **Net income**<br>This is the money you have left to spend | 2,473€ | 29,677€ |
 
 ### Expenses

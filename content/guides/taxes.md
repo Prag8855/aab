@@ -21,7 +21,7 @@ All German residents must pay taxes. These are the taxes to pay:
 
 - [Income and salary tax](#income-and-salary-tax) (*Einkommensteuer*, *Lohnsteuer*)
 - [Health insurance](#health-insurance) (*Krankenversicherung*)
-- [Nursing care insurance](#nursing-care-insurance) (*Pflegeversicherung*)
+- [Long-term care insurance](#long-term-care-insurance) (*Pflegeversicherung*)
 - [Public pension insurance](#public-pension-insurance) (*gesetzliche Rentenversicherung*)
 - [Unemployment insurance](#unemployment-insurance) (*Arbeitslosenversicherung*)
 - [Church tax](#church-tax) (*Kirchensteuer*)
@@ -61,9 +61,9 @@ If you are an employee, your employer pays half of it. If you earn less than {{G
 
 **[How to choose health insurance ➞](/guides/german-health-insurance)**
 
-### Nursing care insurance
+### Long-term care insurance
 
-Nursing care insurance (*[[Pflegeversicherung]]*) pays for your healthcare when you are old. It costs {{PFLEGEVERSICHERUNG_BASE_RATE}}% of your income. If you are over {{PFLEGEVERSICHERUNG_BASE_RATE_MAX_AGE}} years old, and you don't have children, it costs {{PFLEGEVERSICHERUNG_MAX_RATE}}% of your income.
+Long-term care insurance (*[[Pflegeversicherung]]*) pays for your healthcare when you are old. It costs {{PFLEGEVERSICHERUNG_BASE_RATE}}% of your income. If you are over {{PFLEGEVERSICHERUNG_BASE_RATE_MAX_AGE}} years old, and you don't have children, it costs {{PFLEGEVERSICHERUNG_MAX_RATE}}% of your income.
 
 If you are an employee, your employer pays half of it.
 
@@ -115,7 +115,7 @@ If you are self-employed, you must pay...
 
 - [Income tax](#income-and-salary-tax)
 - [Health insurance](#health-insurance)
-- [Nursing care insurance](#nursing-care-insurance)
+- [Long-term care insurance](#long-term-care-insurance)
 - [Church tax](#church-tax)
 - [Solidarity surcharge](#solidarity-surcharge)
 

@@ -323,13 +323,13 @@
 		</details>
 		<details>
 			<summary class="price">
-				Nursing care insurance
+				Long-term care insurance
 				<output>
 					<eur :amount="result.pflegeversicherung.totalContribution"></eur><small class="no-mobile">/month</small>
 				</output>
 			</summary>
 			<p>
-				Nursing care insurance (<em><glossary>Pflegeversicherung</glossary></em>) costs the same with every <glossary term="Krankenkasse">public health insurer</glossary>.
+				Long-term care insurance (<em><glossary>Pflegeversicherung</glossary></em>) costs the same with every <glossary term="Krankenkasse">public health insurer</glossary>.
 				<template v-if="flag('max-contribution')">
 					You make over <eur :amount="healthInsurance.maxMonthlyIncome" cents></eur> per month, so you pay the <glossary term="Höchstbeitrag">maximum price</glossary>.
 				</template>
