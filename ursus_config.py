@@ -18,29 +18,24 @@ ctx = {}
 # German minimum wage (€/h)
 ctx['MINIMUM_WAGE'] = fail_on('2025-07-01', 12.82)
 
-# Maximum income used to calculate pension contributions (€/y)
-# https://www.tk.de/firmenkunden/versicherung/beitraege-faq/zahlen-und-grenzwerte/beitragsbemessungsgrenzen-2033026
-ctx['BEITRAGSBEMESSUNGSGRENZE'] = fail_on('2025-12-31', 8050 * 12)  # § SGB 6 Anlage 2 [BBGRV]
+ctx["MEDIAN_INCOME_BERLIN"] = fail_on('2025-12-31', 47784)  # 2023
+ctx["MEDIAN_INCOME_GERMANY"] = fail_on('2025-12-31', 45552)  # 2023
 
 # Minimum allowance for au pairs (€/mth)
 ctx["AU_PAIR_MIN_ALLOWANCE"] = fail_on('2025-07-01', 280)
 
-ctx["MEDIAN_INCOME_BERLIN"] = fail_on('2025-12-31', 47784)  # 2023
-ctx["MEDIAN_INCOME_GERMANY"] = fail_on('2025-12-31', 45552)  # 2023
-
-ctx["VORSORGEPAUSCHAL_MIN"] = fail_on('2025-12-31', 1900)  # §39b Abs. 2.3.e EStG
-ctx["VORSORGEPAUSCHAL_MIN_TAX_CLASS_3"] = 3000  # ??
+# Maximum income used to calculate pension contributions (€/y)
+ctx['BEITRAGSBEMESSUNGSGRENZE'] = fail_on('2025-12-31', 8050 * 12)  # § SGB 6 Anlage 2 [BBGRV]
 
 ctx["GRUNDFREIBETRAG"] = fail_on('2025-12-31', 12096)  # § 32a EstG [GFB]
-
 ctx["INCOME_TAX_TARIF_2_MAX_INCOME"] = fail_on('2025-12-31', 17430)  # § 32a EstG [UPTAB24]
 ctx["INCOME_TAX_TARIF_3_MAX_INCOME"] = fail_on('2025-12-31', 68430)  # § 32a EstG [UPTAB24]
 ctx["INCOME_TAX_TARIF_4_MAX_INCOME"] = fail_on('2025-12-31', 277825)  # § 32a EstG [UPTAB24]
 
 # Upper bound (€/y) of income tax tarif zones for tax classes 5 and 6
-ctx["INCOME_TAX_CLASS_56_LIMIT_1"] = fail_on('2025-12-31', 13785)  # (€/y) - § 39b Abs. 2 Satz 7 EstG [W1STKL5]
-ctx["INCOME_TAX_CLASS_56_LIMIT_2"] = fail_on('2025-12-31', 34240)  # (€/y) - § 39b Abs. 2 Satz 7 EstG [W2STKL5]
-ctx["INCOME_TAX_CLASS_56_LIMIT_3"] = fail_on('2025-12-31', 222260)  # (€/y) - § 39b Abs. 2 Satz 7 EstG [W3STKL5]
+ctx["INCOME_TAX_CLASS_56_LIMIT_1"] = fail_on('2025-12-31', 13785)  # § 39b Abs. 2 Satz 7 EstG [W1STKL5]
+ctx["INCOME_TAX_CLASS_56_LIMIT_2"] = fail_on('2025-12-31', 34240)  # § 39b Abs. 2 Satz 7 EstG [W2STKL5]
+ctx["INCOME_TAX_CLASS_56_LIMIT_3"] = fail_on('2025-12-31', 222260)  # § 39b Abs. 2 Satz 7 EstG [W3STKL5]
 
 ctx["INCOME_TAX_MAX_RATE"] = 45  # (%) - § 32b EstG
 
@@ -51,11 +46,12 @@ ctx["SOLIDARITY_TAX_MILDERUNGSZONE_MIN_INCOME_TAX"] = fail_on('2025-12-31', 1995
 ctx["SOLIDARITY_TAX_MILDERUNGSZONE_RATE"] = fail_on('2025-12-31', 0.119)  # §3 SolzG 3
 ctx["SOLIDARITY_TAX_MAX_RATE"] = fail_on('2025-12-31', 0.055)  # §3 SolzG 3
 
+ctx["VORSORGEPAUSCHAL_MIN"] = fail_on('2025-12-31', 1900)  # §39b Abs. 2.3.e EStG
+ctx["VORSORGEPAUSCHAL_MIN_TAX_CLASS_3"] = 3000  # ??
 ctx["ARBEITNEHMERPAUSCHALE"] = 1230  # (€/y) - §9a EStG
+ctx["SONDERAUSGABEN_PAUSCHBETRAG"] = 36  # (€/y) §10c EStG [SAP]
 
 ctx["ARBEITSLOSENVERSICHERUNG_EMPLOYEE_RATE"] = 1.3  # § 341 SGB 3, BeiSaV 2019
-
-ctx["SONDERAUSGABEN_PAUSCHBETRAG"] = 36  # (€/y) §10c EStG [SAP]
 
 # Kindergeld amount per child (€/m) - §6 Abs. 1 BKGG
 ctx["KINDERGELD"] = fail_on('2025-12-31', 255)
@@ -66,6 +62,9 @@ ctx["KINDERFREIBETRAG"] = fail_on('2025-12-31', (3336 + 1464) * 2)
 # Tax break for single parents (€/y) - § 24b EStG [EFA]
 ctx["ENTLASTUNGSBETRAG_ALLEINERZIEHENDE"] = fail_on('2025-12-31', 4260)
 ctx["ENTLASTUNGSBETRAG_ALLEINERZIEHENDE_EXTRA_CHILD"] = fail_on('2025-12-31', 240)
+
+ctx["CAPITAL_GAINS_TAX_RATE"] = 25  # (%) - § 32d EStG
+ctx["CAPITAL_GAINS_FREIBETRAG"] = 1000  # Sparer-Pauschbetrag, § 20 Abs. 9 EStG
 
 # Below that amount (€/y), you don't pay Gewerbesteuer - § 11 GewStG
 ctx["GEWERBESTEUER_FREIBETRAG"] = 24500
@@ -93,9 +92,6 @@ ctx["EU_VAT_SCHWELLENWERT"] = 10000
 # Umsatzsteuer-Voranmeldung minimum amounts, based on VAT paid last year (€/year) - § 18 UStG
 ctx["VAT_MIN_QUARTERLY_AMOUNT"] = 1000
 ctx["VAT_MIN_MONTHLY_AMOUNT"] = 7500
-
-ctx["CAPITAL_GAINS_TAX_RATE"] = 25  # (%) - § 32d EStG
-ctx["CAPITAL_GAINS_FREIBETRAG"] = 1000  # Sparer-Pauschbetrag, § 20 Abs. 9 EStG
 
 
 # ==============================================================================
