@@ -351,6 +351,7 @@ ctx["AUFENTHV_41_COUNTRIES"] = or_join([
 ctx["BESCHEINIGUNG_IN_STEUERSACHEN_FEE"] = 17.90  # (€) - service.berlin.de/dienstleistung/324713
 ctx["DRIVING_LICENCE_CONVERSION_FEE"] = 37.50  # (€) - service.berlin.de/dienstleistung/327537
 ctx["DRIVING_LICENCE_FEE"] = 51.81  # (€) - service.berlin.de/dienstleistung/121627
+ctx["ERWEITERTE_MELDEBESCHEINIGUNG_FEE"] = fail_on('2025-12-31', 10)  # (€) - service.berlin.de/dienstleistung/120702
 ctx["GEWERBEANMELDUNG_FEE"] = 15  # € - service.berlin.de/dienstleistung/121921
 ctx["HUNDEFUHRERSCHEIN_FEE"] = 94  # (€) - service.berlin.de/dienstleistung/121822
 ctx["HUNDEREGISTER_FEE"] = 17.50  # € - hunderegister.berlin.de
