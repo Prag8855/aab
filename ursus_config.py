@@ -640,6 +640,9 @@ config.context_globals = {
     # (€) - https://www.meineschufa.de/, https://bonitaetscheck.immobilienscout24.de/ - NOT WATCHED
     "SCHUFA_REPORT_FEE": fail_on('2025-07-01', 29.95),
 
+    # (€) - service.berlin.de/dienstleistung/120702
+    "ERWEITERTE_MELDEBESCHEINIGUNG_FEE": 10,
+
     # ==============================================================================
     # PENSION_REFUNDS
     # ==============================================================================
