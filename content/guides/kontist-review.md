@@ -50,7 +50,7 @@ This is a great feature. It's why I opened a Kontist account. There is only one 
 
 ### Automatic VAT
 
-You decide how much [VAT](/glossary/Umsatzsteuer) to set aside for each transaction: 0%, {{ VAT_RATE_REDUCED }}% or {{ VAT_RATE }}%.
+You decide how much [VAT](/glossary/Umsatzsteuer) to set aside for each transaction: 0%, {{ VAT_RATE_REDUCED|percent }}% or {{ VAT_RATE|percent }}%.
 
 Kontist uses AI to guess the correct VAT rate for each transaction. It's wrong more than 30% of the time. Instead of leaving transactions uncategorised, it puts them in the wrong category, with the wrong VAT rate. When you correct the AI, it makes the same mistakes the next month. It does not learn.
 

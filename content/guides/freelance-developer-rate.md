@@ -30,7 +30,7 @@ Think about these costs:
 - **[Liability insurance](/glossary/Haftpflichtversicherung)** (optional)  
     If you make an expensive mistake, liability insurance covers for reparations and other legal costs. Personal liability insurance does not cover your business activities. You need a professional liability insurance. - [More information](/guides/haftpflichtversicherung)
 - **[Trade tax](/glossary/Gewerbesteuer)**  
-    [If you are a *Gewerbe*](/guides/freiberufler-or-gewerbe), you must pay trade tax (*[[Gewerbesteuer]]*). In Berlin, the costs an extra {{ GEWERBESTEUER_MESSBETRAG * (GEWERBESTEUER_HEBESATZ_BERLIN - GEWERBESTEUER_TAX_CREDIT) }}% of all [profit](/glossary/Gewinn) above {{GEWERBESTEUER_FREIBETRAG|cur}}€. - [More information](/guides/gewerbesteuer)
+    [If you are a *Gewerbe*](/guides/freiberufler-or-gewerbe), you must pay trade tax (*[[Gewerbesteuer]]*). In Berlin, the costs an extra {{GEWERBESTEUER_RATE_BERLIN|percent}}% of all [profit](/glossary/Gewinn) above {{GEWERBESTEUER_FREIBETRAG|cur}}€. - [More information](/guides/gewerbesteuer)
 - **[VAT](/glossary/Umsatzsteuer)**  
     You must charge VAT on your products and services, and give that money to the *[[Finanzamt]]*. If you are a *Kleinunternehmer*, you can decide to charge VAT, but you don't have to. - [More information](/guides/value-added-tax)
 - **Pension and savings**  
@@ -60,7 +60,7 @@ Most software developers have a daily rate. They charge for each full day of wor
 
 ### VAT is not included
 
-If you say that you charge 500€ per day, your client will expect to pay 500€ per day plus {{VAT_RATE}}% for the [VAT](/glossary/Umsatzsteuer).[^2]
+If you say that you charge 500€ per day, your client will expect to pay 500€ per day plus {{VAT_RATE|percent}}% for the [VAT](/glossary/Umsatzsteuer).[^2]
 
 ## Answers from the community
 
@@ -86,7 +86,7 @@ If you say that you charge 500€ per day, your client will expect to pay 500€
 
 "Currently the yearly wage of a software engineer here in Berlin is around 50k EUR gross, seniors earning around 10k more. This is what the employee will receive gross, minus tax and insurances. The employer has his own share that he needs to pay in addition. That would be around 21% on top." - [Andreas Böhrnsen](http://andreas.boehrnsen.de/blog/2016/01/freelance-rate-berlin/), January 2016
 
-"What you charge is a mixture of (1) what customers will pay - the cheaper you are the easier it is to find customers - and (2) what you need to live. My guess to calculate maintaining your current lifestyle is your current gross pay, plus 20% for additional social contributions (that your employer pays today) plus another 20% as you'll have to pay your own holidays, and maybe another {{ VAT_RATE }}% VAT... (just made up numbers)" - [8420PR](https://www.toytowngermany.com/forum/topic/325097-freelance-rates-for-designer-developer-in-berlin/), May 2014
+"What you charge is a mixture of (1) what customers will pay - the cheaper you are the easier it is to find customers - and (2) what you need to live. My guess to calculate maintaining your current lifestyle is your current gross pay, plus 20% for additional social contributions (that your employer pays today) plus another 20% as you'll have to pay your own holidays, and maybe another {{ VAT_RATE|percent }}% VAT... (just made up numbers)" - [8420PR](https://www.toytowngermany.com/forum/topic/325097-freelance-rates-for-designer-developer-in-berlin/), May 2014
 
 ## Need help?
 

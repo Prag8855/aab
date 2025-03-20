@@ -9,8 +9,8 @@ import string
 import urllib
 
 
-def to_number(value: int) -> str:
-    return "{:,}".format(value) if value else ''
+def to_percent(value: int) -> str:
+    return str(round(value, 3)).rstrip('0').rstrip('.')
 
 
 def to_currency(value: int) -> str:

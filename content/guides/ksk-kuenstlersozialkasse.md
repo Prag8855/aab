@@ -55,7 +55,7 @@ When you are a KSK member, **they pay half of your [health insurance](/glossary/
 
 [Public pension insurance](/glossary/gesetzliche%20Krankenversicherung) is optional for most freelancers, so you probably don't pay for it. If you join the KSK, it's required. You must pay for it.
 
-So when you are in the KSK, you save ~9.35% of your income on health insurance, but you must pay {{RV_EMPLOYEE_CONTRIBUTION}}% of your income for public pension insurance. In the end, you pay around the same price.
+So when you are in the KSK, you save ~9.35% of your income on health insurance, but you must pay {{RV_EMPLOYEE_CONTRIBUTION|percent}}% of your income for public pension insurance. In the end, you pay around the same price.
 
 In other words, **you save money on health insurance, and reinvest it in your pension**. This is a *really* good deal.
 
@@ -419,7 +419,7 @@ Every year, the KSK verifies 5% of its members. They choose at random. If they v
 
 ### When you leave Germany
 
-If you leave the [[European Union]], you can usually [get a refund for your public pension insurance payments](/guides/pension-payments-refund). You only get the part that you paid ({{RV_EMPLOYEE_CONTRIBUTION}}% of your income), not the part that the KSK paid.
+If you leave the [[European Union]], you can usually [get a refund for your public pension insurance payments](/guides/pension-payments-refund). You only get the part that you paid ({{RV_EMPLOYEE_CONTRIBUTION|percent}}% of your income), not the part that the KSK paid.
 
 If you can't get your pension payments back, you will get a German pension when you retire, even if you live in another country.
 

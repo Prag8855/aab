@@ -37,7 +37,7 @@ Your health insurance is not tied to your job. Your employer does not decide wha
 
 **If you earn {{GKV_MAX_INCOME|cur}}€ to {{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}}€ per year**, you can only choose public health insurance. It costs [{{GKV_MAX_COST_EMPLOYEE|cur}}€ per month](/glossary/Höchstbeitrag). If you are a doctor or a civil servant, you can also choose private health insurance.[^31]
 
-**If you earn less than {{GKV_MAX_INCOME|cur}}€ per year**, you can only choose public health insurance. It costs {{GKV_MIN_RATE_EMPLOYEE}}% to {{GKV_MAX_RATE_EMPLOYEE}}% of your income. If you are a doctor or a civil servant, you can also choose private health insurance.[^31]
+**If you earn less than {{GKV_MAX_INCOME|cur}}€ per year**, you can only choose public health insurance. It costs {{GKV_MIN_RATE_EMPLOYEE|percent}}% to {{GKV_MAX_RATE_EMPLOYEE|percent}}% of your income. If you are a doctor or a civil servant, you can also choose private health insurance.[^31]
 
 **If you have a [minijob](/glossary/Minijob)**, you can choose public or private health insurance. You might get [free health insurance](#free-health-insurance). Otherwise, you pay the [minimum amount](/glossary/Mindestbeitrag): around {{GKV_MIN_COST_SELF_PAY|cur}}€ per month. Your employer does not pay half of it.[^36]
 
@@ -71,7 +71,7 @@ If you move from a non-EU country, you might need expat health insurance. It cov
 
 If you are self-employed, you can choose public or private health insurance.[^4]
 
-[Public health insurance](/glossary/gesetzliche%20Krankenversicherung) costs {{GKV_MIN_RATE_SELF_PAY}}% to {{GKV_MAX_RATE_SELF_PAY}}% of your income (including *[[Pflegeversicherung]]*. The minimum cost is [{{GKV_MIN_COST_SELF_PAY|cur}}€](/glossary/Mindestbeitrag) per month. The maximum cost is [{{GKV_MAX_COST_SELF_PAY|cur}}€](/glossary/Höchstbeitrag) per month. You can't get the student tariff, you can't get [free health insurance](#free-health-insurance), and you can't use your [foreign health insurance](#insurance-from-other-eu-countries).[^37]
+[Public health insurance](/glossary/gesetzliche%20Krankenversicherung) costs {{GKV_MIN_RATE_SELF_PAY|percent}}% to {{GKV_MAX_RATE_SELF_PAY|percent}}% of your income (including *[[Pflegeversicherung]]*. The minimum cost is [{{GKV_MIN_COST_SELF_PAY|cur}}€](/glossary/Mindestbeitrag) per month. The maximum cost is [{{GKV_MAX_COST_SELF_PAY|cur}}€](/glossary/Höchstbeitrag) per month. You can't get the student tariff, you can't get [free health insurance](#free-health-insurance), and you can't use your [foreign health insurance](#insurance-from-other-eu-countries).[^37]
 
 If you just moved from a non-EU country, it's hard to get public health insurance. Public insurance companies can refuse to cover you.[^14] Most immigrant freelancers are forced to choose [private](/glossary/private%20Krankenversicherung) or [expat health insurance](/glossary/Expat%20health%20insurance).
 
@@ -87,7 +87,7 @@ If you are a trainee (*[[Azubi]]*), you must get public health insurance.[^54]
 
 **If your earn less than {{GKV_AZUBI_FREIBETRAG|cur}}€ per month**, your health insurance is free. Your employer pays for it.[^48]
 
-**If you earn more than {{GKV_AZUBI_FREIBETRAG|cur}}€ per month**, your health insurance costs {{GKV_MIN_RATE_EMPLOYEE}}% to {{GKV_MAX_RATE_EMPLOYEE}}% of your income.[^52] You can't get [free health insurance](#free-health-insurance).[^53]
+**If you earn more than {{GKV_AZUBI_FREIBETRAG|cur}}€ per month**, your health insurance costs {{GKV_MIN_RATE_EMPLOYEE|percent}}% to {{GKV_MAX_RATE_EMPLOYEE|percent}}% of your income.[^52] You can't get [free health insurance](#free-health-insurance).[^53]
 
 ### Health insurance for an internship
 

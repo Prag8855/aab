@@ -1,7 +1,7 @@
 from datetime import datetime
 from decimal import Decimal
 from extensions.functions import glossary_groups, fail_on, or_join, patched_slugify, build_wikilinks_url, random_id, \
-    to_number, to_currency
+    to_percent, to_currency
 from logtail import LogtailHandler
 from pathlib import Path
 from ursus.config import config
@@ -70,10 +70,16 @@ ctx["CAPITAL_GAINS_FREIBETRAG"] = 1000  # Sparer-Pauschbetrag, § 20 Abs. 9 EStG
 ctx["GEWERBESTEUER_FREIBETRAG"] = 24500
 
 # Used as the basis, multiplied by the Hebesatz - § 11 GewStG
-ctx["GEWERBESTEUER_MESSBETRAG"] = Decimal('3.5')
+ctx["GEWERBESTEUER_RATE"] = Decimal('3.5')
 
+# The part of the Gewerbesteuer that is credited from your income tax (%)
 ctx["GEWERBESTEUER_TAX_CREDIT"] = Decimal('3.8')  # TODO: Not watched
+
 ctx["GEWERBESTEUER_HEBESATZ_BERLIN"] = Decimal('4.1')  # TODO: Not watched
+ctx["GEWERBESTEUER_RATE_BERLIN"] = ctx["GEWERBESTEUER_RATE"] * ctx["GEWERBESTEUER_HEBESATZ_BERLIN"]
+
+# The effective cost of the Gewerbesteuer when accounting for the income tax credit, for Berlin - (%)
+ctx["GEWERBESTEUER_EXTRA_COST_BERLIN"] = (ctx["GEWERBESTEUER_RATE"] * (ctx["GEWERBESTEUER_HEBESATZ_BERLIN"] - ctx["GEWERBESTEUER_TAX_CREDIT"]))
 
 ctx["KLEINUNTERNEHMER_MAX_INCOME_FIRST_YEAR"] = 25000  # § 19 Abs. 1 UStG
 ctx["KLEINUNTERNEHMER_MAX_INCOME"] = 100000  # § 19 Abs. 1 UStG
@@ -185,12 +191,12 @@ ctx['RV_BASE_RATE'] = fail_on('2025-12-31', 18.6)  # RVBeitrSBek 202X
 ctx["RV_EMPLOYEE_CONTRIBUTION"] = fail_on('2025-12-31', 9.3)
 ctx["RV_MIN_CONTRIBUTION"] = ctx['RV_BASE_RATE'] * ctx['MINIJOB_MAX_INCOME'] / 100
 
-ctx["FUNDSBACK_FEE"] = '9.405'
-ctx["FUNDSBACK_MIN_FEE"] = 854.05
-ctx["FUNDSBACK_MAX_FEE"] = 2754.05
-ctx["GERMANYPENSIONREFUND_FEE"] = '9.75'
-ctx["PENSIONREFUNDGERMANY_FEE"] = '10'
-ctx["PENSIONREFUNDGERMANY_MAX_FEE"] = 2800
+ctx["FUNDSBACK_FEE"] = 9.405  # %
+ctx["FUNDSBACK_MIN_FEE"] = 854.05  # €
+ctx["FUNDSBACK_MAX_FEE"] = 2754.05  # €
+ctx["GERMANYPENSIONREFUND_FEE"] = 9.75  # %
+ctx["PENSIONREFUNDGERMANY_FEE"] = 10  # %
+ctx["PENSIONREFUNDGERMANY_MAX_FEE"] = 2800  # €
 
 # Maximum income from employment to stay a member of the KSK (€/y)
 ctx["KSK_MAX_EMPLOYMENT_INCOME"] = ctx["BEITRAGSBEMESSUNGSGRENZE"] / 2  # § 4 KSVG
@@ -394,8 +400,7 @@ config.minify_css = True
 
 config.context_globals = ctx
 config.jinja_filters = {
-    'number': to_number,
-    'num': to_number,
+    'percent': to_percent,
     'currency': to_currency,
     'cur': to_currency,
 }

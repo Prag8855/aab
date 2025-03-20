@@ -17,26 +17,26 @@ Freelancers (*[[Freiberufler]]*) do not pay the trade tax. [Not all self-employe
 
 ## How much is the trade tax?
 
-In Berlin, trade tax is {{ GEWERBESTEUER_MESSBETRAG * GEWERBESTEUER_HEBESATZ_BERLIN }}% of your profit.[^1] As a sole proprietor, you get most of it back as tax credits.[^12] In the end **you pay {{ GEWERBESTEUER_MESSBETRAG * (GEWERBESTEUER_HEBESATZ_BERLIN - GEWERBESTEUER_TAX_CREDIT) }}% more taxes** in total.
+In Berlin, trade tax is {{ GEWERBESTEUER_RATE_BERLIN|percent }}% of all profit above {{GEWERBESTEUER_FREIBETRAG|cur}}€ per year.[^1] As a sole proprietor, you get most of it back as an income tax credit.[^12] In the end **you pay {{GEWERBESTEUER_EXTRA_COST_BERLIN|percent}}% more taxes** in total.
 
 To calculate your trade tax:
 
 1. Take your [profit](/glossary/Gewinn) for the year, and round it down to the nearest 100€.[^11]
 2. If you are a sole proprietor (*Einzelunternehmer*), remove {{GEWERBESTEUER_FREIBETRAG|cur}}€ (the tax-free amount).
-2. Multiply that by {{ GEWERBESTEUER_MESSBETRAG }}%.
-3. Multiply that by [the *Hebesatz* in your city](https://www.lexoffice.de/wissenswelt/gewerbesteuerhebesatz/). In Berlin, it's {{ GEWERBESTEUER_HEBESATZ_BERLIN }}%.
+2. Multiply that by {{ GEWERBESTEUER_RATE|percent }}%.
+3. Multiply that by [the *Hebesatz* in your city](https://www.lexoffice.de/wissenswelt/gewerbesteuerhebesatz/). In Berlin, it's {{ GEWERBESTEUER_HEBESATZ_BERLIN|percent }}%.
 
 > **Example trade tax calculation**  
 > For a sole proprietor in Berlin
 
 > 1. **{{45678|cur}}€ per year profit**, rounded down to {{45600|cur}}€
 > 2. {{45600|cur}}€ - {{GEWERBESTEUER_FREIBETRAG|cur}}€ tax-free amount = {{(45600 - GEWERBESTEUER_FREIBETRAG)|cur}}€ taxable profit
-> 3. {{(45600 - GEWERBESTEUER_FREIBETRAG)|cur}}€ × {{GEWERBESTEUER_MESSBETRAG}}% = {{((45600 - GEWERBESTEUER_FREIBETRAG)*GEWERBESTEUER_MESSBETRAG/100)|cur}}€
-> 4. {{((45600 - GEWERBESTEUER_FREIBETRAG)*GEWERBESTEUER_MESSBETRAG/100)|cur}}€ × 410% = **{{((45600 - GEWERBESTEUER_FREIBETRAG)*GEWERBESTEUER_MESSBETRAG*GEWERBESTEUER_HEBESATZ_BERLIN/100)|cur}}€ trade tax**
+> 3. {{(45600 - GEWERBESTEUER_FREIBETRAG)|cur}}€ × {{GEWERBESTEUER_RATE|percent}}% = {{((45600 - GEWERBESTEUER_FREIBETRAG)*GEWERBESTEUER_RATE/100)|cur}}€
+> 4. {{((45600 - GEWERBESTEUER_FREIBETRAG)*GEWERBESTEUER_RATE/100)|cur}}€ × 410% = **{{((45600 - GEWERBESTEUER_FREIBETRAG)*GEWERBESTEUER_RATE*GEWERBESTEUER_HEBESATZ_BERLIN/100)|cur}}€ trade tax**
 
-If you are a sole proprietor (*Einzelunternehmer*), you get an income tax credit for the trade tax you pay.[^3] **You pay {{ GEWERBESTEUER_MESSBETRAG * GEWERBESTEUER_HEBESATZ_BERLIN }}% trade tax, but you get {{ GEWERBESTEUER_MESSBETRAG * GEWERBESTEUER_TAX_CREDIT }}% income tax back.** In other words, you only pay {{ GEWERBESTEUER_MESSBETRAG * (GEWERBESTEUER_HEBESATZ_BERLIN - GEWERBESTEUER_TAX_CREDIT) }}% more taxes in total.
+If you are a sole proprietor (*Einzelunternehmer*), you get an income tax credit for the trade tax you pay.[^3] **You pay {{GEWERBESTEUER_RATE_BERLIN|percent}}% trade tax, but you get {{ (GEWERBESTEUER_RATE * GEWERBESTEUER_TAX_CREDIT)|percent }}% income tax back.** In other words, you only pay {{GEWERBESTEUER_EXTRA_COST_BERLIN|percent}}% more taxes in total.
 
-> {{((45600 - GEWERBESTEUER_FREIBETRAG)*GEWERBESTEUER_MESSBETRAG*GEWERBESTEUER_HEBESATZ_BERLIN/100)|cur}}€ trade tax - {{((45600 - GEWERBESTEUER_FREIBETRAG)*GEWERBESTEUER_MESSBETRAG*GEWERBESTEUER_TAX_CREDIT/100)|cur}}€ [income tax](/glossary/Einkommensteuer) credit = **{{((45600 - GEWERBESTEUER_FREIBETRAG)*GEWERBESTEUER_MESSBETRAG*(GEWERBESTEUER_HEBESATZ_BERLIN - GEWERBESTEUER_TAX_CREDIT)/100)|cur}}€ extra taxes**
+> {{((45600 - GEWERBESTEUER_FREIBETRAG)*GEWERBESTEUER_RATE_BERLIN/100)|cur}}€ trade tax - {{((45600 - GEWERBESTEUER_FREIBETRAG)*GEWERBESTEUER_RATE*GEWERBESTEUER_TAX_CREDIT/100)|cur}}€ [income tax](/glossary/Einkommensteuer) credit = **{{((45600 - GEWERBESTEUER_FREIBETRAG)*GEWERBESTEUER_EXTRA_COST_BERLIN/100)|cur}}€ extra taxes**
 
 **[Trade tax calculator](https://www.smart-rechner.de/gewerbesteuer/rechner.php)** - Smart-Rechner.de (in German)
 

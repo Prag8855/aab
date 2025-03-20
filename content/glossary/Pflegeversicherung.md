@@ -13,7 +13,7 @@ Related_guides:
 
 If you have [public health insurance](/glossary/gesetzliche%20Krankenversicherung), you also pay for long-term care insurance (*Pflegeversicherung*). It pays for your healthcare when you are old.
 
-*Pflegeversicherung* costs {{PFLEGEVERSICHERUNG_MIN_RATE}}% to {{PFLEGEVERSICHERUNG_MAX_RATE}}% of your income. If you have a job, your employer pays {{ PFLEGEVERSICHERUNG_EMPLOYER_RATE }}% and you pay the rest.
+*Pflegeversicherung* costs {{PFLEGEVERSICHERUNG_MIN_RATE|percent}}% to {{PFLEGEVERSICHERUNG_MAX_RATE|percent}}% of your income. If you have a job, your employer pays {{ PFLEGEVERSICHERUNG_EMPLOYER_RATE|percent }}% and you pay the rest.
 
 **[German health insurance calculator ➞](/tools/health-insurance-calculator)**
 

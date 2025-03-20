@@ -9,7 +9,7 @@ Related_guides:
     guides/cost-of-living.md
 ---
 
-The capital gains tax (*Kapitalertragsteuer* or *KapESt*) is a type of [income tax](/glossary/Einkommensteuer).[^1] It's a flat {{CAPITAL_GAINS_TAX_RATE}}% tax on all investment income above {{CAPITAL_GAINS_FREIBETRAG|cur}}€ per year. It applies to profit, interests and dividends from stocks, ETFs and other financial investments. It does not apply to cryptocurrencies.[^2]
+The capital gains tax (*Kapitalertragsteuer* or *KapESt*) is a type of [income tax](/glossary/Einkommensteuer).[^1] It's a flat {{CAPITAL_GAINS_TAX_RATE|percent}}% tax on all investment income above {{CAPITAL_GAINS_FREIBETRAG|cur}}€ per year. It applies to profit, interests and dividends from stocks, ETFs and other financial investments. It does not apply to cryptocurrencies.[^2]
 
 You also pay solidarity tax (*[[Solidaritätszuschlag]]*) and church tax (*[[Kirchensteuer]]*) on investment income.
 

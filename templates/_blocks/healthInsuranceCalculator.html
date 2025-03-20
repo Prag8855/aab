@@ -291,7 +291,7 @@
 					You make less than <eur :amount="healthInsurance.minMonthlyIncome" cents></eur> per month, so you pay the <glossary term="Mindestbeitrag">minimum price</glossary>. It's {{ baseContributionPercentage }}% of <eur :amount="healthInsurance.minMonthlyIncome" cents></eur>.
 				</template>
 				<template v-else-if="flag('max-contribution')">
-					You make more than <eur :amount="healthInsurance.maxMonthlyIncome" cents></eur> per month, so you pay the <glossary term="Höchstbeitrag">maximum price</glossary>. It's {{ baseContributionPercentage}}% of <eur :amount="healthInsurance.maxMonthlyIncome" cents></eur>.
+					You make more than <eur :amount="healthInsurance.maxMonthlyIncome" cents></eur> per month, so you pay the <glossary term="Höchstbeitrag">maximum price</glossary>. It's {{ baseContributionPercentage }}% of <eur :amount="healthInsurance.maxMonthlyIncome" cents></eur>.
 				</template>
 				<template v-else-if="flag('midijob')">
 					You make less than <eur :amount="healthInsurance.midijobMaxIncome" cents></eur>, so you pay the midijob tarif. It's cheaper than the normal tarif.

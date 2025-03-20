@@ -33,9 +33,9 @@ Plan the cost of running your business. It helps you decide how much savings you
     Use my [tax calculator](/tools/tax-calculator). Set your occupation to "self-employed".
 - **Business taxes**
     - **[Trade tax](/glossary/Gewerbesteuer)**  
-        In Berlin, it costs {{ GEWERBESTEUER_MESSBETRAG * (GEWERBESTEUER_HEBESATZ_BERLIN - GEWERBESTEUER_TAX_CREDIT) }}% of all [profit](/glossary/Gewinn) above {{GEWERBESTEUER_FREIBETRAG|cur}}€ per year. If you are a *[[Freiberufler]]*, you don't pay the trade tax. - [How the trade tax works](/guides/gewerbesteuer)
+        In Berlin, it costs an extra {{GEWERBESTEUER_EXTRA_COST_BERLIN|percent}}% of all [profit](/glossary/Gewinn) above {{GEWERBESTEUER_FREIBETRAG|cur}}€ per year. If you are a *[[Freiberufler]]*, you don't pay the trade tax. - [How the trade tax works](/guides/gewerbesteuer)
     - **[Value-added tax (VAT)](/glossary/Umsatzsteuer)**  
-        You must charge a {{ VAT_RATE }}% tax on your invoices, and give that money to the *[[Finanzamt]]*. You don't pay VAT, your clients do, but it still raises your prices. [Some businesses](/glossary/Kleinunternehmer) don't need to charge VAT. - [How VAT works](/guides/value-added-tax)
+        You must charge a {{ VAT_RATE|percent }}% tax on your invoices, and give that money to the *[[Finanzamt]]*. You don't pay VAT, your clients do, but it still raises your prices. [Some businesses](/glossary/Kleinunternehmer) don't need to charge VAT. - [How VAT works](/guides/value-added-tax)
     - **[[IHK]] membership**  
         In Berlin, if you have a *[[Gewerbe]]*, you must join the [[IHK]]. The membership fee is a few hundred euros per year. - [Membership fee calculator](https://www.ihk.de/berlin/ueber-uns/mitgliedschaft-und-beitrag/das-verfahren-der-beitragserhebung/beitragsberechnung-2280534)
 - **Business expenses**
@@ -104,7 +104,7 @@ Not all freelancers are *Freiberufler*, only people in [specific professions](ht
 
 ### Understand how VAT works
 
-Value added tax (VAT or *[[Umsatzsteuer]]*) is a {{VAT_RATE}}% tax on goods and services. Usually, you must charge VAT on your invoices, and pay VAT on your expenses.
+Value added tax (VAT or *[[Umsatzsteuer]]*) is a {{VAT_RATE|percent}}% tax on goods and services. Usually, you must charge VAT on your invoices, and pay VAT on your expenses.
 
 If you receive more VAT than you give, you must give the extra money to the *[[Finanzamt]]*. If you give more VAT than you receive, the Finanzamt gives you the difference back. You don't win or lose any money with VAT.
 
