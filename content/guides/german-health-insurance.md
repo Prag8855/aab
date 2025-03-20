@@ -12,43 +12,32 @@ Related_reviews:
 
 All German residents need health insurance. It pays for your healthcare when you are sick.
 
-This guide explains how health insurance works, and helps you choose the best health insurance for your needs.
+This guide explains how German health insurance works, and helps you choose the best health insurance for your needs.
 
 {% include "_blocks/tableOfContents.html" %}
 
 ## How to choose health insurance
 
-When you [move to Germany](/guides/moving-to-berlin) you must choose your health insurance. You must do this before you apply for a [residence permit](/glossary/Aufenthaltstitel), and before you [start a new job](/guides/find-a-job-in-berlin#start-working).
+When you [move to Germany](/guides/moving-to-berlin) you must choose your health insurance. You need health insurance to apply for a [residence permit](/glossary/Aufenthaltstitel), and to [start working](/guides/find-a-job-in-berlin#start-working).
 
 To choose health insurance...
 
 1. **Understand [your options](#your-options)**  
     Use my recommendation tool or keep reading this guide. There are two insurance systems and hundreds of options. The best option depends on your situation.
-2. **[Ask an expert](#insurance-brokers) to help you choose**  
-     Don't choose insurance yourself; it can be an expensive mistake. Get free help from a health insurance broker.
+2. **[Ask an expert](#insurance-brokers) to help you choose**{% include '_blocks/recommended.html' %}  
+    Don't choose insurance yourself; it can be an expensive mistake. Get free help from a health insurance broker.
 
 ## Your options
-
-There are 2 types of health insurance:
-
-- **Public health insurance**  
-    Most people have this. It costs a percentage of your income. There are dozens of public health insurers, but their cost and coverage are almost the same.
-- **Private health insurance**  
-    The cost depends on your age and health condition when you sign up. In some cases, it's better or cheaper than public health insurance.
-    - **Expat health insurance**  
-        A type of private health insurance. It's much cheaper, but it's supposed to be temporary.
-
-The best option depends on your situation. To know your options, use my recommendation tool or keep reading.
-
-{% include '_blocks/healthInsuranceCalculator.html' %}
 
 ### Health insurance for employees
 
 Your health insurance is not tied to your job. Your employer does not decide what health insurance you can have. If you [lose your job](/guides/losing-your-job), you keep your health insurance.
 
-**If you earn over {{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}}€ per year**, you can choose public or private health insurance. Public health insurance costs [{{GKV_MAX_COST_EMPLOYEE|cur}}€ per month](/glossary/Höchstbeitrag). That's the [maximum price](/glossary/Höchstbeitrag). Private health insurance is usually cheaper.
+**If you earn over {{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}}€ per year**, you can choose public or private health insurance. Public health insurance costs [{{GKV_MAX_COST_EMPLOYEE|cur}}€ per month](/glossary/Höchstbeitrag). Private health insurance is usually cheaper.[^56]
 
-**If you earn {{GKV_MAX_INCOME|cur}}€ to {{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}}€ per year**, you can only choose public health insurance. You pay the maximum price: {{GKV_MAX_COST_EMPLOYEE|cur}}€ per month. If you are a doctor or a civil servant, you can also choose private health insurance.[^31]
+**If you earn {{GKV_MAX_INCOME|cur}}€ to {{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}}€ per year**, you can only choose public health insurance. It costs [{{GKV_MAX_COST_EMPLOYEE|cur}}€ per month](/glossary/Höchstbeitrag). If you are a doctor or a civil servant, you can also choose private health insurance.[^31]
+
+**If you earn less than {{GKV_MAX_INCOME|cur}}€ per year**, you can only choose public health insurance. It costs {{GKV_MIN_RATE_EMPLOYEE}}% to {{GKV_MAX_RATE_EMPLOYEE}}% of your income. If you are a doctor or a civil servant, you can also choose private health insurance.[^31]
 
 **If you have a [minijob](/glossary/Minijob)**, you can choose public or private health insurance. You might get [free health insurance](#free-health-insurance). Otherwise, you pay the [minimum amount](/glossary/Mindestbeitrag): around {{GKV_MIN_COST_SELF_PAY|cur}}€ per month. Your employer does not pay half of it.[^36]
 
@@ -454,3 +443,4 @@ There are more types of insurance in Germany, but health and liability insurance
 [^53]: [gesetzliche-krankenkassen.de](https://www.gesetzliche-krankenkassen.de/auszubildende-azubis/#:~:text=familienversicherung%20ist%20wahrend%20der%20ausbildung%20nicht%20moglich) (March 2025)
 [^54]: [gesetzliche-krankenkassen.de](https://www.gesetzliche-krankenkassen.de/auszubildende-azubis/#:~:text=eine%20versicherung%20in%20der%20privaten%20krankenversicherung%20(pkv)%20ist%20fur%20auszubildende%20nicht%20moglich) (March 2025)
 [^55]: Citation needed, add amount - Private health insurers rejecting low incomes
+[^56]: Citation needed - Private health insurer is usually cheaper for high earners
