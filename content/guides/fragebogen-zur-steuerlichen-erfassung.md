@@ -484,7 +484,7 @@ If you are a small business (*[[Kleinunternehmer]]*), and you don't plan to char
 If you are a small business (*[[Kleinunternehmer]]*), and you don't plan to charge VAT, skip this subsection.
 
 - **Es werden Umsätze ausgeführt, die ... dem ermäßigten Steuersatz gemäß § 12 Abs. 2 UStG unterliegen** - Some revenue will have a reduced tax rate according to § 12 Abs. 2 UStG.  
-    Choose "Ja" if you want to charge a lower VAT according to [§ 12 UStG](https://www.gesetze-im-internet.de/ustg_1980/__12.html). [For some products and services](https://www.gesetze-im-internet.de/ustg_1980/anlage_2.html), you can charge a {{ VAT_RATE_REDUCED|percent }}% VAT instead of {{ VAT_RATE|percent }}%. You must list these products separately on your invoices, and you must specify why the lower tax rate applies.
+    Choose "Ja" if you want to charge a lower VAT according to [§ 12 UStG](https://www.gesetze-im-internet.de/ustg_1980/__12.html). [For some products and services](https://www.gesetze-im-internet.de/ustg_1980/anlage_2.html), you can charge a {{ VAT_RATE_REDUCED }}% VAT instead of {{ VAT_RATE }}%. You must list these products separately on your invoices, and you must specify why the lower tax rate applies.
 - **nach § 12 Absatz 2 Nummer ... UStG** - According to § 12 paragraph...  
     Write the number of the paragraph in [§ 12 UStG](https://www.gesetze-im-internet.de/ustg_1980/__12.html) that qualifies you for a lower VAT. If you chose "Nein" in the previous field, leave this field empty.
 - **Art des Umsatzes / der Tätigkeit** - Type of revenue or activity  

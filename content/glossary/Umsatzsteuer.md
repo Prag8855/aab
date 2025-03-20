@@ -2,7 +2,7 @@
 Title: What is the Umsatzsteuer or Mehrwertsteuer
 German_term: Umsatzsteuer
 English_term: VAT
-Description: A {{ VAT_RATE|percent }}% tax on products and services.
+Description: A {{ VAT_RATE }}% tax on products and services.
 Date_created: 2020-09-05
 Related_guides:
     guides/value-added-tax.md
@@ -13,7 +13,7 @@ Related_guides:
     guides/freelance-developer-rate.md
 ---
 
-Most products and services sold in Germany have a {{ VAT_RATE|percent }}% value-added-tax (VAT).[^0] Some products and services have a reduced VAT of {{ VAT_RATE_REDUCED|percent }}%.
+Most products and services sold in Germany have a {{ VAT_RATE }}% value-added-tax (VAT).[^0] Some products and services have a reduced VAT of {{ VAT_RATE_REDUCED }}%.
 
 In German, value-added tax (VAT) is called *Umsatzsteuer* (*USt.*) or *Mehrwertsteuer* (*MwSt.*).
 

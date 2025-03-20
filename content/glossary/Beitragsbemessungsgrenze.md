@@ -11,7 +11,7 @@ Related_guides:
 
 In Germany, the contribution assessment ceiling (*Beitragsbemessungsgrenze*) limits how much you pay for social security. It affects your public pension and [unemployment insurance](/glossary/Arbeitslosenversicherung) payments.
 
-If your salary is more than the *Beitragsbemessungsgrenze*, you pay the maximum social security contributions. For example, [unemployment insurance](/glossary/Arbeitslosenversicherung) costs {{ARBEITSLOSENVERSICHERUNG_EMPLOYEE_RATE|percent}}% of your income. If you earn more than the *Beitragsbemessungsgrenze*, it will be {{ARBEITSLOSENVERSICHERUNG_EMPLOYEE_RATE|percent}}% of the *Beitragsbemessungsgrenze*. Even if your income goes up, your social security contributions stay the same.[^0]
+If your salary is more than the *Beitragsbemessungsgrenze*, you pay the maximum social security contributions. For example, [unemployment insurance](/glossary/Arbeitslosenversicherung) costs {{ARBEITSLOSENVERSICHERUNG_EMPLOYEE_RATE}}% of your income. If you earn more than the *Beitragsbemessungsgrenze*, it will be {{ARBEITSLOSENVERSICHERUNG_EMPLOYEE_RATE}}% of the *Beitragsbemessungsgrenze*. Even if your income goes up, your social security contributions stay the same.[^0]
 
 The *Beitragsbemessungsgrenze* is **{{BEITRAGSBEMESSUNGSGRENZE|cur}}€ per year**.[^1]
 

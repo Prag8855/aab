@@ -34,7 +34,7 @@ When you see a vehicle that you like, contact the seller, and schedule a visit. 
 
 ### Dealership or private sale?
 
-**Taxes:** When you buy from a dealership (a business that sells cars), you pay a {{ VAT_RATE|percent }}% [VAT](/glossary/Umsatzsteuer).[^0] This tax is included in the price. When you buy a vehicle from a private seller, you do not pay VAT.
+**Taxes:** When you buy from a dealership (a business that sells cars), you pay a {{ VAT_RATE }}% [VAT](/glossary/Umsatzsteuer).[^0] This tax is included in the price. When you buy a vehicle from a private seller, you do not pay VAT.
 
 **Warranty:** At the dealership, all new vehicles come with a 2 year warranty (*Gewährleistung*), and all used vehicles come with a 1 year warranty.[^1] If you buy from a private seller, there is no warranty. If you buy the vehicle for your business, there is no warranty.
 

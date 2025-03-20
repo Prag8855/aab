@@ -5,7 +5,7 @@ Description: A guide to the value-added tax (VAT) for German freelancers and bus
 Date_created: 2022-10-15
 ---
 
-Value added tax (VAT) is a **{{VAT_RATE|percent}}% tax** on goods and services.
+Value added tax (VAT) is a **{{VAT_RATE}}% tax** on goods and services.
 
 This guide explains VAT for German businesses. You must understand this to [start a business in Germany](/guides/start-a-business-in-germany).
 
@@ -13,7 +13,7 @@ This guide explains VAT for German businesses. You must understand this to [star
 
 ## What is VAT?
 
-In Germany, VAT is a {{VAT_RATE|percent}}% tax on most goods and services. In German, it's called *Umsatzsteuer* (*USt.*) or *Mehrwertsteuer* (*MwSt.*).
+In Germany, VAT is a {{VAT_RATE}}% tax on most goods and services. In German, it's called *Umsatzsteuer* (*USt.*) or *Mehrwertsteuer* (*MwSt.*).
 
 VAT is **always included in the advertised price**.[^0] If the price label says 20€, the customer pays 20€ *including* VAT.
 
@@ -23,9 +23,9 @@ Other EU countries also have a VAT; it's between 17% and 25%.[^1]
 
 ### Reduced VAT
 
-Some goods and services have a VAT of {{VAT_RATE_REDUCED|percent}}%, or no VAT.[^2]
+Some goods and services have a VAT of {{VAT_RATE_REDUCED}}%, or no VAT.[^2]
 
-Reduced VAT ({{VAT_RATE_REDUCED|percent}}%):
+Reduced VAT ({{VAT_RATE_REDUCED}}%):
 
 - Some foods and beverages[^3]
 - Museum, theatre, concert and sport event tickets
@@ -47,11 +47,11 @@ No VAT:
 
 ## Who must charge VAT
 
-Most German businesses must charge {{VAT_RATE|percent}}% VAT, but there are exceptions:
+Most German businesses must charge {{VAT_RATE}}% VAT, but there are exceptions:
 
 - When you are a small business (*[[Kleinunternehmer]]*) you choose if you want to charge VAT - [More information](/guides/kleinunternehmer)
 - [When your customer is in another country](/guides/value-added-tax#vat-for-customers-in-the-eu), you don't always charge VAT.
-- [Some goods and services](/guides/value-added-tax#reduced-vat) have a VAT of {{VAT_RATE_REDUCED|percent}}%, or no VAT.
+- [Some goods and services](/guides/value-added-tax#reduced-vat) have a VAT of {{VAT_RATE_REDUCED}}%, or no VAT.
 
 ### Exemption for [small businesses](/glossary/Kleinunternehmer)
 
@@ -152,7 +152,7 @@ Use the **[VAT helper](https://europa.eu/youreurope/business/taxation/vat/cross-
 
 ### VAT for customers in Germany
 
-**Charge VAT.** If you sell goods of services to customers in Germany, you must charge {{VAT_RATE|percent}}% VAT.
+**Charge VAT.** If you sell goods of services to customers in Germany, you must charge {{VAT_RATE}}% VAT.
 
 [Some products and services](/guides/value-added-tax#reduced-vat) have a reduced VAT, or not VAT.
 
@@ -166,11 +166,11 @@ Use the **[VAT helper](https://europa.eu/youreurope/business/taxation/vat/cross-
     - **If you sell goods**  
         It depends on how much [[B2C]] [revenue](/glossary/Umsatz) you get from other EU countries:
         - **Less than {{EU_VAT_SCHWELLENWERT|cur}}€ in EU sales**  
-            You charge the German VAT rate, {{VAT_RATE|percent}}%.
+            You charge the German VAT rate, {{VAT_RATE}}%.
         - **More than {{EU_VAT_SCHWELLENWERT|cur}}€ in EU sales**  
             You charge the VAT rate in the customer's country. You must register your business for VAT in the customer's country, or [open a One Stop Shop](https://www.elster.de/bportal/start?locale=en_US). - [What is a One Stop Shop?](https://hellotax.com/blog/one-stop-shop/)
     - **If you sell services**  
-        You usually charge the German VAT rate, {{VAT_RATE|percent}}%, but there are exceptions:
+        You usually charge the German VAT rate, {{VAT_RATE}}%, but there are exceptions:
         - **Broadcasting, telecommunication and electronically-supplied services**  
             You charge the VAT rate in the customer's country.[^28] This includes most sales of digital services: software, films, web hosting, courses...[^32]
 

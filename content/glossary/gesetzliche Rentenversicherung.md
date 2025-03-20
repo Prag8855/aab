@@ -15,8 +15,8 @@ All employees in Germany pay for public pension insurance (*gesetzliche Rentenve
 
 Pension insurance pays for your pension. When you retire, you will get a monthly pension from the state.
 
-Public pension insurance costs {{RV_BASE_RATE|percent}}% of your income. You pay {{RV_EMPLOYEE_CONTRIBUTION|percent}}%, and your employer pays the rest. It's taken directly from your paycheck.
+Public pension insurance costs {{RV_BASE_RATE}}% of your income. You pay {{RV_EMPLOYEE_CONTRIBUTION}}%, and your employer pays the rest. It's taken directly from your paycheck.
 
-If you are self-employed, you pay the full {{RV_BASE_RATE|percent}}% yourself, unless you join the *[[Künstlersozialkasse]]* or a freelancer cooperative.
+If you are self-employed, you pay the full {{RV_BASE_RATE}}% yourself, unless you join the *[[Künstlersozialkasse]]* or a freelancer cooperative.
 
 If you leave Germany, you can sometimes [get your pension payments back](/guides/pension-payments-refund).

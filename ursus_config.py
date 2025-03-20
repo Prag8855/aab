@@ -1,7 +1,7 @@
 from datetime import datetime
 from decimal import Decimal
 from extensions.functions import glossary_groups, fail_on, or_join, patched_slugify, build_wikilinks_url, random_id, \
-    to_percent, to_currency
+    to_currency
 from logtail import LogtailHandler
 from pathlib import Path
 from ursus.config import config
@@ -16,7 +16,7 @@ ctx = {}
 # ==============================================================================
 
 # German minimum wage (€/h)
-ctx['MINIMUM_WAGE'] = fail_on('2025-07-01', 12.82)
+ctx['MINIMUM_WAGE'] = fail_on('2025-07-01', Decimal('12.82'))
 
 ctx["MEDIAN_INCOME_BERLIN"] = fail_on('2025-12-31', 47784)  # 2023
 ctx["MEDIAN_INCOME_GERMANY"] = fail_on('2025-12-31', 45552)  # 2023
@@ -39,19 +39,19 @@ ctx["INCOME_TAX_CLASS_56_LIMIT_3"] = fail_on('2025-12-31', 222260)  # § 39b Abs
 
 ctx["INCOME_TAX_MAX_RATE"] = 45  # (%) - § 32b EstG
 
-ctx["CHURCH_TAX_RATE"] = 9  # (%)
-ctx["CHURCH_TAX_RATE_BW_BY"] = 8  # (%)
+ctx["CHURCH_TAX_RATE"] = Decimal('9')  # (%)
+ctx["CHURCH_TAX_RATE_BW_BY"] = Decimal('8')  # (%)
 
 ctx["SOLIDARITY_TAX_MILDERUNGSZONE_MIN_INCOME_TAX"] = fail_on('2025-12-31', 19950)  # §3 SolzG 3 [SOLZFREI]
-ctx["SOLIDARITY_TAX_MILDERUNGSZONE_RATE"] = fail_on('2025-12-31', 0.119)  # §3 SolzG 3
-ctx["SOLIDARITY_TAX_MAX_RATE"] = fail_on('2025-12-31', 0.055)  # §3 SolzG 3
+ctx["SOLIDARITY_TAX_MILDERUNGSZONE_RATE"] = fail_on('2025-12-31', Decimal('0.119'))  # §3 SolzG 3
+ctx["SOLIDARITY_TAX_MAX_RATE"] = fail_on('2025-12-31', Decimal('0.055'))  # §3 SolzG 3
 
 ctx["VORSORGEPAUSCHAL_MIN"] = fail_on('2025-12-31', 1900)  # §39b Abs. 2.3.e EStG
 ctx["VORSORGEPAUSCHAL_MIN_TAX_CLASS_3"] = 3000  # ??
 ctx["ARBEITNEHMERPAUSCHALE"] = 1230  # (€/y) - §9a EStG
 ctx["SONDERAUSGABEN_PAUSCHBETRAG"] = 36  # (€/y) §10c EStG [SAP]
 
-ctx["ARBEITSLOSENVERSICHERUNG_EMPLOYEE_RATE"] = 1.3  # § 341 SGB 3, BeiSaV 2019
+ctx["ARBEITSLOSENVERSICHERUNG_EMPLOYEE_RATE"] = Decimal('1.3')  # § 341 SGB 3, BeiSaV 2019
 
 # Kindergeld amount per child (€/m) - §6 Abs. 1 BKGG
 ctx["KINDERGELD"] = fail_on('2025-12-31', 255)
@@ -63,23 +63,23 @@ ctx["KINDERFREIBETRAG"] = fail_on('2025-12-31', (3336 + 1464) * 2)
 ctx["ENTLASTUNGSBETRAG_ALLEINERZIEHENDE"] = fail_on('2025-12-31', 4260)
 ctx["ENTLASTUNGSBETRAG_ALLEINERZIEHENDE_EXTRA_CHILD"] = fail_on('2025-12-31', 240)
 
-ctx["CAPITAL_GAINS_TAX_RATE"] = 25  # (%) - § 32d EStG
+ctx["CAPITAL_GAINS_TAX_RATE"] = Decimal('25')  # (%) - § 32d EStG
 ctx["CAPITAL_GAINS_FREIBETRAG"] = 1000  # Sparer-Pauschbetrag, § 20 Abs. 9 EStG
 
 # Below that amount (€/y), you don't pay Gewerbesteuer - § 11 GewStG
 ctx["GEWERBESTEUER_FREIBETRAG"] = 24500
 
-# Used as the basis, multiplied by the Hebesatz - § 11 GewStG
+# Used as the basis, multiplied by the Hebesatz - (%) - § 11 GewStG
 ctx["GEWERBESTEUER_RATE"] = Decimal('3.5')
 
 # The part of the Gewerbesteuer that is credited from your income tax (%)
-ctx["GEWERBESTEUER_TAX_CREDIT"] = Decimal('3.8')  # TODO: Not watched
+ctx["GEWERBESTEUER_TAX_CREDIT"] = Decimal('3.8')  # (%) - TODO: Not watched
 
-ctx["GEWERBESTEUER_HEBESATZ_BERLIN"] = Decimal('4.1')  # TODO: Not watched
-ctx["GEWERBESTEUER_RATE_BERLIN"] = ctx["GEWERBESTEUER_RATE"] * ctx["GEWERBESTEUER_HEBESATZ_BERLIN"]
+ctx["GEWERBESTEUER_HEBESATZ_BERLIN"] = Decimal('4.1')  # (%) - TODO: Not watched
+ctx["GEWERBESTEUER_RATE_BERLIN"] = ctx["GEWERBESTEUER_RATE"] * ctx["GEWERBESTEUER_HEBESATZ_BERLIN"]  # (%)
 
 # The effective cost of the Gewerbesteuer when accounting for the income tax credit, for Berlin - (%)
-ctx["GEWERBESTEUER_EXTRA_COST_BERLIN"] = (ctx["GEWERBESTEUER_RATE"] * (ctx["GEWERBESTEUER_HEBESATZ_BERLIN"] - ctx["GEWERBESTEUER_TAX_CREDIT"]))
+ctx["GEWERBESTEUER_EXTRA_COST_BERLIN"] = ctx["GEWERBESTEUER_RATE"] * (ctx["GEWERBESTEUER_HEBESATZ_BERLIN"] - ctx["GEWERBESTEUER_TAX_CREDIT"])
 
 ctx["KLEINUNTERNEHMER_MAX_INCOME_FIRST_YEAR"] = 25000  # § 19 Abs. 1 UStG
 ctx["KLEINUNTERNEHMER_MAX_INCOME"] = 100000  # § 19 Abs. 1 UStG
@@ -89,8 +89,8 @@ ctx["DOUBLE_ENTRY_MIN_REVENUE"] = 800000
 ctx["DOUBLE_ENTRY_MIN_INCOME"] = 80000
 
 # VAT (%) - § 12 UStG (Abs 1 and 2)
-ctx["VAT_RATE"] = 19
-ctx["VAT_RATE_REDUCED"] = 7
+ctx["VAT_RATE"] = Decimal('19')
+ctx["VAT_RATE_REDUCED"] = Decimal('7')
 
 # Below 10,000€/y in VAT, simplified rules for intra-EU VAT
 ctx["EU_VAT_SCHWELLENWERT"] = 10000
@@ -111,48 +111,48 @@ ctx['MINIJOB_MAX_INCOME'] = round(ctx['MINIMUM_WAGE'] * 130 / 3)  # § 8 SGB IV
 ctx["MIDIJOB_MAX_INCOME"] = fail_on('2025-12-31', 2000)
 
 # Used to calculate health insurance for a midijob
-ctx["GKV_FACTOR_F"] = fail_on('2025-12-31', 0.6683)  # §20 SGB IV
+ctx["GKV_FACTOR_F"] = fail_on('2025-12-31', Decimal('0.6683'))  # §20 SGB IV
 
 # Median income (€/m) of all people who pay social contribs
-ctx['BEZUGSGROESSE'] = fail_on('2025-12-31', 3745)  # SGB VI Anlage 1
+ctx['BEZUGSGROESSE'] = fail_on('2025-12-31', Decimal('3745'))  # SGB VI Anlage 1
 
 # Base contribution (%), including Krankengeld
-ctx['GKV_BASE_RATE_EMPLOYEE'] = 14.6  # § 241 SGB V
-ctx['GKV_BASE_RATE_STUDENT'] = ctx['GKV_BASE_RATE_EMPLOYEE'] * 0.7  # § 245 SGB V
+ctx['GKV_BASE_RATE_EMPLOYEE'] = Decimal('14.6')  # § 241 SGB V
+ctx['GKV_BASE_RATE_STUDENT'] = ctx['GKV_BASE_RATE_EMPLOYEE'] * Decimal('0.7')  # § 245 SGB V
 
 # Base contribution (%), excluding Krankengeld (freelanccers, unemployed, students over 30)
-ctx["GKV_BASE_RATE_SELF_PAY"] = 14  # § 243 SGB V
+ctx["GKV_BASE_RATE_SELF_PAY"] = Decimal('14')  # § 243 SGB V
 
 # Mindestbemessungsgrundlage (€/mth) - Below this income, GKV does not get cheaper
 ctx['GKV_MIN_INCOME'] = ctx['BEZUGSGROESSE'] / 90 * 30  # §240 Abs. 4 SGV IV
 
 # Above this income (€/y), you pay the Höchstbeitrag - https://www.bmas.de/DE/Arbeit/Arbeitsrecht/Mindestlohn/mindestlohn.html
-ctx['GKV_MAX_INCOME'] = fail_on('2025-12-31', 5512.50 * 12)  # SVBezGrV 2021 [BBGKVPV]
+ctx['GKV_MAX_INCOME'] = fail_on('2025-12-31', Decimal('5512.50') * 12)  # SVBezGrV 2021 [BBGKVPV]
 
 # Above this income (€/mth), your employer pays for health insurance
 ctx["GKV_AZUBI_FREIBETRAG"] = fail_on('2025-12-31', 325)  # §20 Abs. 3 SGB IV
 
 # Above this income, it's no longer a Nebenjob
-ctx["GKV_NEBENJOB_MAX_INCOME"] = ctx['BEZUGSGROESSE'] * 0.75
+ctx["GKV_NEBENJOB_MAX_INCOME"] = ctx['BEZUGSGROESSE'] * Decimal('0.75')
 
 # Jahresarbeitsentgeltgrenze or Versicherungspflichtgrenze - Above this income (€/y), you are freiwillig versichert
 ctx["GKV_FREIWILLIG_VERSICHERT_MIN_INCOME"] = fail_on('2025-12-31', 6150 * 12)
 
 # Above this income (€/m), you can't have Familienversicherung
-ctx['GKV_FAMILIENVERSICHERUNG_MAX_INCOME'] = 1 / 7 * ctx['BEZUGSGROESSE']  # §10 SGB V
+ctx['GKV_FAMILIENVERSICHERUNG_MAX_INCOME'] = Decimal(1 / 7) * ctx['BEZUGSGROESSE']  # §10 SGB V
 
 # Zusatzbeiträge - https://www.check24.de/gesetzliche-krankenversicherung/erhoehung-zusatzbeitraege/
-ctx['GKV_MIN_ZUSATZBEITRAG'] = fail_on('2025-12-31', 2.19)  # HKK
-ctx['GKV_MAX_ZUSATZBEITRAG'] = fail_on('2025-12-31', 3.5)  # AOK Nordost
-ctx['GKV_AVG_ZUSATZBEITRAG'] = fail_on('2025-12-31', 2.5)
+ctx['GKV_MIN_ZUSATZBEITRAG'] = fail_on('2025-12-31', Decimal('2.19'))  # HKK
+ctx['GKV_MAX_ZUSATZBEITRAG'] = fail_on('2025-12-31', Decimal('3.5'))  # AOK Nordost
+ctx['GKV_AVG_ZUSATZBEITRAG'] = fail_on('2025-12-31', Decimal('2.5'))
 
 # https://www.check24.de/gesetzliche-krankenversicherung/erhoehung-zusatzbeitraege/
 ctx["GKV_ZUSATZBEITRAG_AVERAGE"] = ctx['GKV_AVG_ZUSATZBEITRAG']
-ctx["GKV_ZUSATZBEITRAG_AOK"] = fail_on('2025-12-31', 3.5)
-ctx["GKV_ZUSATZBEITRAG_BARMER"] = fail_on('2025-12-31', 3.29)
-ctx["GKV_ZUSATZBEITRAG_DAK"] = fail_on('2025-12-31', 2.8)
-ctx["GKV_ZUSATZBEITRAG_HKK"] = fail_on('2025-12-31', 2.19)
-ctx["GKV_ZUSATZBEITRAG_TK"] = fail_on('2025-12-31', 2.45)
+ctx["GKV_ZUSATZBEITRAG_AOK"] = fail_on('2025-12-31', Decimal('3.5'))
+ctx["GKV_ZUSATZBEITRAG_BARMER"] = fail_on('2025-12-31', Decimal('3.29'))
+ctx["GKV_ZUSATZBEITRAG_DAK"] = fail_on('2025-12-31', Decimal('2.8'))
+ctx["GKV_ZUSATZBEITRAG_HKK"] = fail_on('2025-12-31', Decimal('2.19'))
+ctx["GKV_ZUSATZBEITRAG_TK"] = fail_on('2025-12-31', Decimal('2.45'))
 
 # Private health insurance lowest cost - NOT TRACKED
 # https://www.ottonova.de/v/private-krankenversicherung/angestellte
@@ -163,22 +163,22 @@ ctx["OTTONOVA_STUDENT_COST"] = fail_on('2025-06-01', 111)  # Study smart
 ctx["OTTONOVA_EMPLOYEE_COST"] = fail_on('2025-06-01', 263)  # Premium economy
 
 # Maximum daily Krankengeld
-ctx['GKV_KRANKENGELD_DAILY_LIMIT'] = ctx['GKV_MAX_INCOME'] * 0.7 / 360  # § 47 SGB V
+ctx['GKV_KRANKENGELD_DAILY_LIMIT'] = ctx['GKV_MAX_INCOME'] * Decimal('0.7') / 360  # § 47 SGB V
 
 # BAFöG Bedarfssatz (€/y)
 ctx['BAFOG_BEDARFSSATZ'] = fail_on('2025-07-01', 380 + 475)  # §13 BAföG Abs 1.2 + 2.2
 
 # Pflegeversicherung (%) - §55 Abs. 1 SGB XI
-ctx['PFLEGEVERSICHERUNG_BASE_RATE'] = fail_on('2025-12-31', 3.6)
+ctx['PFLEGEVERSICHERUNG_BASE_RATE'] = fail_on('2025-12-31', Decimal('3.6'))
 ctx["PFLEGEVERSICHERUNG_BASE_RATE_MAX_AGE"] = 22  # § 55 Abs. 1 SGB XI
 ctx["PFLEGEVERSICHERUNG_EMPLOYER_RATE"] = ctx['PFLEGEVERSICHERUNG_BASE_RATE'] / 2
 
 # Surcharge for people over 23 with no kids
-ctx['PFLEGEVERSICHERUNGS_SURCHARGE'] = 0.6  # §55 Abs. 3 SGB XI
-ctx['PFLEGEVERSICHERUNG_DISCOUNT_PER_CHILD'] = 0.25  # §55 Abs. 3 SGB XI
-
+ctx['PFLEGEVERSICHERUNGS_SURCHARGE'] = Decimal('0.6')  # §55 Abs. 3 SGB XI
+ctx['PFLEGEVERSICHERUNG_DISCOUNT_PER_CHILD'] = Decimal('0.25')  # §55 Abs. 3 SGB XI
 ctx['PFLEGEVERSICHERUNG_DISCOUNT_MIN_CHILDREN'] = 2
 ctx['PFLEGEVERSICHERUNG_DISCOUNT_MAX_CHILDREN'] = 5
+
 ctx['PFLEGEVERSICHERUNG_MIN_RATE'] = ctx['PFLEGEVERSICHERUNG_BASE_RATE'] - ctx['PFLEGEVERSICHERUNG_DISCOUNT_PER_CHILD'] * (ctx['PFLEGEVERSICHERUNG_DISCOUNT_MAX_CHILDREN'] - 1)
 ctx['PFLEGEVERSICHERUNG_MAX_RATE'] = ctx['PFLEGEVERSICHERUNG_BASE_RATE'] + ctx['PFLEGEVERSICHERUNGS_SURCHARGE']
 
@@ -187,15 +187,15 @@ ctx['PFLEGEVERSICHERUNG_MAX_RATE'] = ctx['PFLEGEVERSICHERUNG_BASE_RATE'] + ctx['
 # ==============================================================================
 
 # Public pension contribution (%) - RVBeitrSBek 202X
-ctx['RV_BASE_RATE'] = fail_on('2025-12-31', 18.6)  # RVBeitrSBek 202X
-ctx["RV_EMPLOYEE_CONTRIBUTION"] = fail_on('2025-12-31', 9.3)
+ctx['RV_BASE_RATE'] = fail_on('2025-12-31', Decimal('18.6'))  # RVBeitrSBek 202X
+ctx["RV_EMPLOYEE_CONTRIBUTION"] = fail_on('2025-12-31', Decimal('9.3'))
 ctx["RV_MIN_CONTRIBUTION"] = ctx['RV_BASE_RATE'] * ctx['MINIJOB_MAX_INCOME'] / 100
 
-ctx["FUNDSBACK_FEE"] = 9.405  # %
-ctx["FUNDSBACK_MIN_FEE"] = 854.05  # €
-ctx["FUNDSBACK_MAX_FEE"] = 2754.05  # €
-ctx["GERMANYPENSIONREFUND_FEE"] = 9.75  # %
-ctx["PENSIONREFUNDGERMANY_FEE"] = 10  # %
+ctx["FUNDSBACK_FEE"] = Decimal('9.405')  # %
+ctx["FUNDSBACK_MIN_FEE"] = Decimal('854.05')  # €
+ctx["FUNDSBACK_MAX_FEE"] = Decimal('2754.05')  # €
+ctx["GERMANYPENSIONREFUND_FEE"] = Decimal('9.75')  # %
+ctx["PENSIONREFUNDGERMANY_FEE"] = Decimal('10')  # %
 ctx["PENSIONREFUNDGERMANY_MAX_FEE"] = 2800  # €
 
 # Maximum income from employment to stay a member of the KSK (€/y)
@@ -278,8 +278,8 @@ ctx["GKV_COST_STUDENT"] = round(
 # PUBLIC TRANSIT
 # ==============================================================================
 
-ctx["BVG_AB_TICKET"] = fail_on('2025-12-31', 3.80)
-ctx["BVG_ABC_TICKET"] = fail_on('2025-12-31', 4.70)
+ctx["BVG_AB_TICKET"] = fail_on('2025-12-31', Decimal('3.80'))
+ctx["BVG_ABC_TICKET"] = fail_on('2025-12-31', Decimal('4.70'))
 ctx["BVG_FINE"] = fail_on('2025-12-31', 60)
 ctx["BVG_REDUCED_FINE"] = fail_on('2025-12-31', 7)
 ctx["DEUTSCHLAND_TICKET_PRICE"] = fail_on('2025-12-31', 58)
@@ -290,10 +290,10 @@ ctx["DEUTSCHLAND_TICKET_PRICE"] = fail_on('2025-12-31', 58)
 # ==============================================================================
 
 # Minimum income (€/y) to get a Blue Card - §18g AufenthG
-ctx["BLUE_CARD_MIN_INCOME"] = 0.5 * ctx['BEITRAGSBEMESSUNGSGRENZE']
+ctx["BLUE_CARD_MIN_INCOME"] = Decimal('0.5') * ctx['BEITRAGSBEMESSUNGSGRENZE']
 
 # Minimum income (€/y) to get a Blue Card in shortage fields - §18g AufenthG
-ctx["BLUE_CARD_SHORTAGE_MIN_INCOME"] = 0.453 * ctx['BEITRAGSBEMESSUNGSGRENZE']
+ctx["BLUE_CARD_SHORTAGE_MIN_INCOME"] = Decimal('0.453') * ctx['BEITRAGSBEMESSUNGSGRENZE']
 
 # Visa fees (€) - §44, §45, §45c and §47 AufenthV
 ctx["SCHENGEN_VISA_FEE"] = 75
@@ -306,14 +306,14 @@ ctx["FAST_TRACK_FEE"] = 411  # §47 AufenthG
 
 # Minimum guaranteed pension payment (€/m) to get a freelance visa above age 45
 # VAB, https://www.bmas.de/DE/Soziales/Rente-und-Altersvorsorge/rentenversicherungsbericht-art.html
-ctx['FREELANCE_VISA_MIN_MONTHLY_PENSION'] = fail_on('2025-12-31', 1565.03)
+ctx['FREELANCE_VISA_MIN_MONTHLY_PENSION'] = fail_on('2025-12-31', Decimal('1565.03'))
 ctx["FREELANCE_VISA_MIN_PENSION"] = round(ctx['FREELANCE_VISA_MIN_MONTHLY_PENSION'] * 144)
 
 # Minimum income (€/mth) before health insurance and rent to get a freelance visa - Anlage SGB 12 (Regelbedarfsstufe 1)
 ctx["FREELANCE_VISA_MIN_INCOME"] = fail_on('2025-12-31', 563)
 
 # Minimum gross income (€/y) to get a work visa above age 45 - service.berlin.de/dienstleistung/305304
-ctx["WORK_VISA_MIN_INCOME"] = ctx['BEITRAGSBEMESSUNGSGRENZE'] * 0.55
+ctx["WORK_VISA_MIN_INCOME"] = ctx['BEITRAGSBEMESSUNGSGRENZE'] * Decimal('0.55')
 
 # Not watched - https://www.berlin.de/vhs-tempelhof-schoeneberg/kurse/deutsch-als-zweitsprache/pruefungen-und-abschluesse/einbuergerung/
 ctx["CITIZENSHIP_TEST_FEE"] = fail_on('2025-12-31', 25)
@@ -354,20 +354,20 @@ ctx["AUFENTHV_41_COUNTRIES"] = or_join([
 # ADMINISTRATION
 # ==============================================================================
 
-ctx["BESCHEINIGUNG_IN_STEUERSACHEN_FEE"] = 17.90  # (€) - service.berlin.de/dienstleistung/324713
-ctx["DRIVING_LICENCE_CONVERSION_FEE"] = 37.50  # (€) - service.berlin.de/dienstleistung/327537
-ctx["DRIVING_LICENCE_FEE"] = 51.81  # (€) - service.berlin.de/dienstleistung/121627
+ctx["BESCHEINIGUNG_IN_STEUERSACHEN_FEE"] = Decimal('17.90')  # (€) - service.berlin.de/dienstleistung/324713
+ctx["DRIVING_LICENCE_CONVERSION_FEE"] = Decimal('37.50')  # (€) - service.berlin.de/dienstleistung/327537
+ctx["DRIVING_LICENCE_FEE"] = Decimal('51.81')  # (€) - service.berlin.de/dienstleistung/121627
 ctx["ERWEITERTE_MELDEBESCHEINIGUNG_FEE"] = fail_on('2025-12-31', 10)  # (€) - service.berlin.de/dienstleistung/120702
 ctx["GEWERBEANMELDUNG_FEE"] = 15  # € - service.berlin.de/dienstleistung/121921
 ctx["HUNDEFUHRERSCHEIN_FEE"] = 94  # (€) - service.berlin.de/dienstleistung/121822
-ctx["HUNDEREGISTER_FEE"] = 17.50  # € - hunderegister.berlin.de
+ctx["HUNDEREGISTER_FEE"] = Decimal('17.50')  # € - hunderegister.berlin.de
 ctx["HUNDESTEUER_FIRST_DOG"] = 120  # §4 HuStG BE, (€/y)
 ctx["HUNDESTEUER_MORE_DOGS"] = 180  # §4 HuStG BE, (€/y)
 ctx["KSK_MIN_INCOME"] = fail_on('2025-12-31', 3900)  # (€/y) - §3 Abs. 1 KSVG
 ctx["ORDNUNGSAMT_DANGEROUS_DOG_FEE"] = 30  # service.berlin.de/dienstleistung/326263
-ctx["RUNDFUNKBEITRAG_FEE"] = 18.36
-ctx["SCHUFA_REPORT_FEE"] = fail_on('2025-07-01', 29.95)  # TODO: Not watched
-ctx["VEHICLE_UMMELDUNG_FEE"] = 10.80  # service.berlin.de/dienstleistung/120658
+ctx["RUNDFUNKBEITRAG_FEE"] = Decimal('18.36')
+ctx["SCHUFA_REPORT_FEE"] = fail_on('2025-07-01', Decimal('29.95'))  # TODO: Not watched
+ctx["VEHICLE_UMMELDUNG_FEE"] = Decimal('10.80')  # service.berlin.de/dienstleistung/120658
 
 
 # ==============================================================================
@@ -400,8 +400,6 @@ config.minify_css = True
 
 config.context_globals = ctx
 config.jinja_filters = {
-    'percent': to_percent,
-    'currency': to_currency,
     'cur': to_currency,
 }
 

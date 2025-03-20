@@ -8,7 +8,7 @@ Related_reviews:
     reviews/pension-payments-refund/christian-haas.md
 ---
 
-When you work in Germany, {{RV_EMPLOYEE_CONTRIBUTION|percent}}% of your income goes into your [public pension](/glossary/gesetzliche%20Rentenversicherung). If you leave Germany, you can get those pension payments back. You can get thousands of euros back.
+When you work in Germany, {{RV_EMPLOYEE_CONTRIBUTION}}% of your income goes into your [public pension](/glossary/gesetzliche%20Rentenversicherung). If you leave Germany, you can get those pension payments back. You can get thousands of euros back.
 
 This guide explains when you can get a pension refund, and how to apply for it.
 
@@ -201,13 +201,13 @@ You can get a pension refund if:[^8]
 
 ## How much money will I get back?
 
-You will get a refund for all your pension payments.[^37] That's **around {{RV_EMPLOYEE_CONTRIBUTION|percent}}% of your [gross income](/glossary/Brutto%20income)**. That means you usually get a few thousand euros back.[^14] Use this refund calculator to get an exact answer.
+You will get a refund for all your pension payments.[^37] That's **around {{RV_EMPLOYEE_CONTRIBUTION}}% of your [gross income](/glossary/Brutto%20income)**. That means you usually get a few thousand euros back.[^14] Use this refund calculator to get an exact answer.
 
 {% include '_blocks/pensionRefundCalculator.html' %}
 
 You will not get a refund for your employer's contributions.[^15] If you already got benefits from the Deutsche Rentenversicherung, your refund will be smaller.[^38] You get no refund for the time you received *[[Elterngeld]]* or *[[ALG I]]*.[^32] You can't receive a refund for contributions made in East Germany before June 30 1990.[^16]
 
-If you are self-employed, you will only get 50% of your payments back ({{RV_EMPLOYEE_CONTRIBUTION|percent}}% of your income).[^17] By default, self-employed do not make public pension payments. If you made no pension payments, you got no money back.
+If you are self-employed, you will only get 50% of your payments back ({{RV_EMPLOYEE_CONTRIBUTION}}% of your income).[^17] By default, self-employed do not make public pension payments. If you made no pension payments, you got no money back.
 
 To know the exact amount, [request a *Versicherungsverlauf*](/out/drv-pension-payments-info) from the [[Deutsche Rentenversicherung]]. It will arrive by post in 1 to 3 weeks. If you have an [[eID]], you can [get a *Versicherungsverlauf* instantly](https://kundenportal.deutsche-rentenversicherung.de/od-kundenportal).
 
@@ -277,11 +277,11 @@ You can let someone take care of everything. There are good reasons to get help:
 These businesses can help you request a refund. They will fill the forms and request the refund for you. They can also check how much money you will get back.{{ fail_on('2025-04-01') }}
 
 - **[Pension Refund Germany](/out/pension-refund-germany)**{% include '_blocks/recommended.html' %}  
-    Their fee is {{ PENSIONREFUNDGERMANY_FEE|percent }}% of your refund (maximum fee {{PENSIONREFUNDGERMANY_MAX_FEE|cur}}€).[^31]
+    Their fee is {{ PENSIONREFUNDGERMANY_FEE }}% of your refund (maximum fee {{PENSIONREFUNDGERMANY_MAX_FEE|cur}}€).[^31]
 - **[Germany Pension Refund](/out/germany-pension-refund)**  
-    Their fee is {{ GERMANYPENSIONREFUND_FEE|percent }}% of your refund (no minimum or maximum fee).[^30]
+    Their fee is {{ GERMANYPENSIONREFUND_FEE }}% of your refund (no minimum or maximum fee).[^30]
 - **[FundsBack](/out/fundsback)**  
-    Their fee is {{ FUNDSBACK_FEE|percent }}% of your refund (minimum fee {{FUNDSBACK_MIN_FEE}}€, maximum {{FUNDSBACK_MAX_FEE|cur}}€).[^29]
+    Their fee is {{ FUNDSBACK_FEE }}% of your refund (minimum fee {{FUNDSBACK_MIN_FEE}}€, maximum {{FUNDSBACK_MAX_FEE|cur}}€).[^29]
 
 The *[[Deutsche Rentenversicherung]]* can also help you fill the forms. Their email is <meinefrage@drv-bund.de>. They only answer in German. You can also [book an appointment](https://www.deutsche-rentenversicherung.de/DRV/DE/Beratung-und-Kontakt/Beratung-suchen-und-buchen/beratung-suchen-und-buchen_node.html) and visit them in person.
 

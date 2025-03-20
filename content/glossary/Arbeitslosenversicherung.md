@@ -15,7 +15,7 @@ Related_guides:
 
 Unemployment insurance (*Arbeitslosenversicherung*) pays for [unemployment benefits](/glossary/ALG%20I) if you [lose your job](/guides/losing-your-job). If you are an employee, unemployment insurance is mandatory. If you are self-employed, it's optional.[^1]
 
-*Arbeitslosenversicherung* costs {{ARBEITSLOSENVERSICHERUNG_EMPLOYEE_RATE|percent}}% of your salary every month.[^0]
+*Arbeitslosenversicherung* costs {{ARBEITSLOSENVERSICHERUNG_EMPLOYEE_RATE}}% of your salary every month.[^0]
 
 **[Unemployment insurance calculator ➞](/tools/arbeitslosenversicherung-calculator)**
 

@@ -42,7 +42,7 @@ If you register a *Gewerbe*, you must...
 
 - **Get a trade licence** (*[[Gewerbeschein]]*)
 - **Pay the trade tax** (*[[Gewerbesteuer]]*)  
-    In Berlin, sole proprietors give an extra {{GEWERBESTEUER_EXTRA_COST_BERLIN|percent}}% of their profit for trade tax. - [How the trade tax works](/guides/gewerbesteuer)
+    In Berlin, sole proprietors give an extra {{GEWERBESTEUER_EXTRA_COST_BERLIN}}% of their profit for trade tax. - [How the trade tax works](/guides/gewerbesteuer)
 - **Join the [[IHK]] and pay the membership fee**  
     In Berlin, if you are a *Gewerbetreibender*, you automatically join the [[IHK]]. You must pay the membership fee. The fee is a few hundred euros per year. - [Fee calculator for Berlin](https://www.ihk.de/berlin/ueber-uns/mitgliedschaft-und-beitrag/das-verfahren-der-beitragserhebung/beitragsberechnung-2280534)
 - **Get listed in the trade register** (*[[Handelsregister]]*)  
@@ -79,7 +79,7 @@ This is how you get a trade certificate (*[[Gewerbeschein]]*). Your employer mig
 
 If you are a *Gewerbetreibender*, you must pay the trade tax (*[[Gewerbesteuer]]*). You register for trade tax when you do the *[[Gewerbeanmeldung]]*. If you are a *[[Freiberufler]]*, you don't pay the trade tax.
 
-In Berlin, trade tax costs an extra {{GEWERBESTEUER_EXTRA_COST_BERLIN|percent}}% of all [profit](/glossary/Gewinn) above {{GEWERBESTEUER_FREIBETRAG|cur}}€ per year.
+In Berlin, trade tax costs an extra {{GEWERBESTEUER_EXTRA_COST_BERLIN}}% of all [profit](/glossary/Gewinn) above {{GEWERBESTEUER_FREIBETRAG|cur}}€ per year.
 
 **[What is the trade tax? ➞](/guides/gewerbesteuer)**
 

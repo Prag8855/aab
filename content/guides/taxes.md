@@ -39,7 +39,7 @@ Income from investments is taxed differently.[^3] You pay:
 
 All German residents pay income tax (*[[Einkommensteuer]]*). This tax is a percentage of your income. It's a progressive tax, so if you earn more, you pay a bigger percentage of your income.[^2]
 
-If you earn less than {{GRUNDFREIBETRAG|cur}}€ per year, you pay no income tax. If you earn the [median income](/guides/salaries-in-germany#median-income), your income tax is around 18% of your income. The maximum income tax is {{INCOME_TAX_MAX_RATE|percent}}% of your income.[^0]
+If you earn less than {{GRUNDFREIBETRAG|cur}}€ per year, you pay no income tax. If you earn the [median income](/guides/salaries-in-germany#median-income), your income tax is around 18% of your income. The maximum income tax is {{INCOME_TAX_MAX_RATE}}% of your income.[^0]
 
 **If you are an employee**, you pay a salary tax (*[[Lohnsteuer]]*) on every paycheck. This is a prepayment of your *estimated* income tax. If you pay too much salary tax, you can make a [tax declaration](/glossary/Steuererklärung) and get money back.
 
@@ -63,15 +63,15 @@ If you are an employee, your employer pays half of it. If you earn less than {{G
 
 ### Long-term care insurance
 
-Long-term care insurance (*[[Pflegeversicherung]]*) pays for your healthcare when you are old. It costs {{PFLEGEVERSICHERUNG_BASE_RATE|percent}}% of your income. If you are over {{PFLEGEVERSICHERUNG_BASE_RATE_MAX_AGE}} years old, and you don't have children, it costs {{PFLEGEVERSICHERUNG_MAX_RATE|percent}}% of your income.
+Long-term care insurance (*[[Pflegeversicherung]]*) pays for your healthcare when you are old. It costs {{PFLEGEVERSICHERUNG_BASE_RATE}}% of your income. If you are over {{PFLEGEVERSICHERUNG_BASE_RATE_MAX_AGE}} years old, and you don't have children, it costs {{PFLEGEVERSICHERUNG_MAX_RATE}}% of your income.
 
 If you are an employee, your employer pays half of it.
 
 ### Public pension insurance
 
-All employees must pay into the [public pension system](/glossary/gesetzliche%20Rentenversicherung). It costs {{RV_BASE_RATE|percent}}% of your income.
+All employees must pay into the [public pension system](/glossary/gesetzliche%20Rentenversicherung). It costs {{RV_BASE_RATE}}% of your income.
 
-If you are an employee, your employer pays half of it, so you pay {{RV_EMPLOYEE_CONTRIBUTION|percent}}%.
+If you are an employee, your employer pays half of it, so you pay {{RV_EMPLOYEE_CONTRIBUTION}}%.
 
 If you are self-employed, public pension insurance is usually optional. If you don't pay public pension insurance, you must make your own retirement plans.
 
@@ -79,7 +79,7 @@ If you are self-employed, public pension insurance is usually optional. If you d
 
 Unemployment insurance (*[[Arbeitslosenversicherung]]*) pays a percentage of your salary if you [lose your job](/guides/losing-your-job).
 
-It costs {{ARBEITSLOSENVERSICHERUNG_EMPLOYEE_RATE|percent}}% of your income.
+It costs {{ARBEITSLOSENVERSICHERUNG_EMPLOYEE_RATE}}% of your income.
 
 **[Unemployment insurance calculator ➞](/tools/arbeitslosenversicherung-calculator)**
 
@@ -87,7 +87,7 @@ It costs {{ARBEITSLOSENVERSICHERUNG_EMPLOYEE_RATE|percent}}% of your income.
 
 If you are a member of certain churches, you pay a church tax. It's a percentage of your income tax.
 
-If you live in Baden-Württemberg or Bavaria, it costs {{CHURCH_TAX_RATE_BW_BY|percent}}% of your [income tax](/glossary/Einkommensteuer). In other states it costs {{CHURCH_TAX_RATE|percent}}% of your income tax.
+If you live in Baden-Württemberg or Bavaria, it costs {{CHURCH_TAX_RATE_BW_BY}}% of your [income tax](/glossary/Einkommensteuer). In other states it costs {{CHURCH_TAX_RATE}}% of your income tax.
 
 You stop paying church tax by leaving the church.
 
@@ -99,7 +99,7 @@ If you pay more than {{SOLIDARITY_TAX_MILDERUNGSZONE_MIN_INCOME_TAX|cur}}€ per
 
 ### Capital gains tax
 
-If you make money from investments, you pay a {{CAPITAL_GAINS_TAX_RATE|percent}}% tax on income on all profit above {{CAPITAL_GAINS_FREIBETRAG|cur}}€ per year. This is the capital gains tax (*[[Kapitalertragsteuer]]*). It applies to profit, interests and dividends from stocks, ETFs and other financial investments.
+If you make money from investments, you pay a {{CAPITAL_GAINS_TAX_RATE}}% tax on income on all profit above {{CAPITAL_GAINS_FREIBETRAG|cur}}€ per year. This is the capital gains tax (*[[Kapitalertragsteuer]]*). It applies to profit, interests and dividends from stocks, ETFs and other financial investments.
 
 Revenue from cryptocurrencies is not taxed as an investment, but as a private transaction.[^4]
 
