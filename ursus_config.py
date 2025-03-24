@@ -76,10 +76,10 @@ ctx["GEWERBESTEUER_RATE"] = Decimal('3.5')
 ctx["GEWERBESTEUER_TAX_CREDIT"] = Decimal('3.8')  # (%) - TODO: Not watched
 
 ctx["GEWERBESTEUER_HEBESATZ_BERLIN"] = Decimal('4.1')  # (%) - TODO: Not watched
-ctx["GEWERBESTEUER_RATE_BERLIN"] = ctx["GEWERBESTEUER_RATE"] * ctx["GEWERBESTEUER_HEBESATZ_BERLIN"]  # (%)
+ctx["GEWERBESTEUER_RATE_BERLIN"] = (ctx["GEWERBESTEUER_RATE"] * ctx["GEWERBESTEUER_HEBESATZ_BERLIN"]).normalize()  # (%)
 
 # The effective cost of the Gewerbesteuer when accounting for the income tax credit, for Berlin - (%)
-ctx["GEWERBESTEUER_EXTRA_COST_BERLIN"] = ctx["GEWERBESTEUER_RATE"] * (ctx["GEWERBESTEUER_HEBESATZ_BERLIN"] - ctx["GEWERBESTEUER_TAX_CREDIT"])
+ctx["GEWERBESTEUER_EXTRA_COST_BERLIN"] = (ctx["GEWERBESTEUER_RATE"] * (ctx["GEWERBESTEUER_HEBESATZ_BERLIN"] - ctx["GEWERBESTEUER_TAX_CREDIT"])).normalize()
 
 ctx["KLEINUNTERNEHMER_MAX_INCOME_FIRST_YEAR"] = 25000  # § 19 Abs. 1 UStG
 ctx["KLEINUNTERNEHMER_MAX_INCOME"] = 100000  # § 19 Abs. 1 UStG
@@ -139,7 +139,7 @@ ctx["GKV_NEBENJOB_MAX_INCOME"] = ctx['BEZUGSGROESSE'] * Decimal('0.75')
 ctx["GKV_FREIWILLIG_VERSICHERT_MIN_INCOME"] = fail_on('2025-12-31', 6150 * 12)
 
 # Above this income (€/m), you can't have Familienversicherung
-ctx['GKV_FAMILIENVERSICHERUNG_MAX_INCOME'] = Decimal(1 / 7) * ctx['BEZUGSGROESSE']  # §10 SGB V
+ctx['GKV_FAMILIENVERSICHERUNG_MAX_INCOME'] = (Decimal(1 / 7) * ctx['BEZUGSGROESSE']).normalize()  # §10 SGB V
 
 # Zusatzbeiträge - https://www.check24.de/gesetzliche-krankenversicherung/erhoehung-zusatzbeitraege/
 ctx['GKV_MIN_ZUSATZBEITRAG'] = fail_on('2025-12-31', Decimal('2.19'))  # HKK
@@ -163,7 +163,7 @@ ctx["OTTONOVA_STUDENT_COST"] = fail_on('2025-06-01', 111)  # Study smart
 ctx["OTTONOVA_EMPLOYEE_COST"] = fail_on('2025-06-01', 263)  # Premium economy
 
 # Maximum daily Krankengeld
-ctx['GKV_KRANKENGELD_DAILY_LIMIT'] = ctx['GKV_MAX_INCOME'] * Decimal('0.7') / 360  # § 47 SGB V
+ctx['GKV_KRANKENGELD_DAILY_LIMIT'] = (ctx['GKV_MAX_INCOME'] * Decimal('0.7') / 360).normalize()  # § 47 SGB V
 
 # BAFöG Bedarfssatz (€/y)
 ctx['BAFOG_BEDARFSSATZ'] = fail_on('2025-07-01', 380 + 475)  # §13 BAföG Abs 1.2 + 2.2
@@ -179,8 +179,8 @@ ctx['PFLEGEVERSICHERUNG_DISCOUNT_PER_CHILD'] = Decimal('0.25')  # §55 Abs. 3 SG
 ctx['PFLEGEVERSICHERUNG_DISCOUNT_MIN_CHILDREN'] = 2
 ctx['PFLEGEVERSICHERUNG_DISCOUNT_MAX_CHILDREN'] = 5
 
-ctx['PFLEGEVERSICHERUNG_MIN_RATE'] = ctx['PFLEGEVERSICHERUNG_BASE_RATE'] - ctx['PFLEGEVERSICHERUNG_DISCOUNT_PER_CHILD'] * (ctx['PFLEGEVERSICHERUNG_DISCOUNT_MAX_CHILDREN'] - 1)
-ctx['PFLEGEVERSICHERUNG_MAX_RATE'] = ctx['PFLEGEVERSICHERUNG_BASE_RATE'] + ctx['PFLEGEVERSICHERUNGS_SURCHARGE']
+ctx['PFLEGEVERSICHERUNG_MIN_RATE'] = (ctx['PFLEGEVERSICHERUNG_BASE_RATE'] - ctx['PFLEGEVERSICHERUNG_DISCOUNT_PER_CHILD'] * (ctx['PFLEGEVERSICHERUNG_DISCOUNT_MAX_CHILDREN'] - 1)).normalize()
+ctx['PFLEGEVERSICHERUNG_MAX_RATE'] = (ctx['PFLEGEVERSICHERUNG_BASE_RATE'] + ctx['PFLEGEVERSICHERUNGS_SURCHARGE']).normalize()
 
 # ==============================================================================
 # PENSIONS
@@ -189,7 +189,7 @@ ctx['PFLEGEVERSICHERUNG_MAX_RATE'] = ctx['PFLEGEVERSICHERUNG_BASE_RATE'] + ctx['
 # Public pension contribution (%) - RVBeitrSBek 202X
 ctx['RV_BASE_RATE'] = fail_on('2025-12-31', Decimal('18.6'))  # RVBeitrSBek 202X
 ctx["RV_EMPLOYEE_CONTRIBUTION"] = fail_on('2025-12-31', Decimal('9.3'))
-ctx["RV_MIN_CONTRIBUTION"] = ctx['RV_BASE_RATE'] * ctx['MINIJOB_MAX_INCOME'] / 100
+ctx["RV_MIN_CONTRIBUTION"] = (ctx['RV_BASE_RATE'] * ctx['MINIJOB_MAX_INCOME'] / 100).normalize()
 
 ctx["FUNDSBACK_FEE"] = Decimal('9.405')  # %
 ctx["FUNDSBACK_MIN_FEE"] = Decimal('854.05')  # €
@@ -201,7 +201,7 @@ ctx["PENSIONREFUNDGERMANY_MAX_FEE"] = 2800  # €
 # Maximum income from employment to stay a member of the KSK (€/y)
 ctx["KSK_MAX_EMPLOYMENT_INCOME"] = ctx["BEITRAGSBEMESSUNGSGRENZE"] / 2  # § 4 KSVG
 
-gkv_min_rate = (  # Total rate for employees
+gkv_min_rate_employee = (  # Total rate for employees
     ctx['GKV_BASE_RATE_EMPLOYEE']
     + ctx['PFLEGEVERSICHERUNG_MIN_RATE']
     + ctx['GKV_AVG_ZUSATZBEITRAG']
@@ -215,13 +215,13 @@ gkv_max_rate_employee = (  # Total rate for employees
 
 # Min/max health insurance rate for employees (%), with avg. Zusatzbeitrag
 ctx["GKV_MIN_RATE_EMPLOYEE"] = (
-    gkv_min_rate
+    gkv_min_rate_employee
     - (  # Employer's contribution
         ctx['GKV_BASE_RATE_EMPLOYEE']
         + ctx['PFLEGEVERSICHERUNG_BASE_RATE']
         + ctx['GKV_AVG_ZUSATZBEITRAG']
     ) / 2
-)
+).normalize()
 ctx["GKV_MAX_RATE_EMPLOYEE"] = (
     (  # Total cost
         ctx['GKV_BASE_RATE_EMPLOYEE']
@@ -233,18 +233,18 @@ ctx["GKV_MAX_RATE_EMPLOYEE"] = (
         + ctx['PFLEGEVERSICHERUNG_BASE_RATE']
         + ctx['GKV_AVG_ZUSATZBEITRAG']
     ) / 2
-)
+).normalize()
 
 ctx["GKV_MIN_RATE_SELF_PAY"] = (
     ctx['GKV_BASE_RATE_SELF_PAY']
     + ctx['PFLEGEVERSICHERUNG_MIN_RATE']
     + ctx['GKV_MIN_ZUSATZBEITRAG']
-)
+).normalize()
 ctx["GKV_MAX_RATE_SELF_PAY"] = (
     ctx['GKV_BASE_RATE_SELF_PAY']
     + ctx['PFLEGEVERSICHERUNG_MAX_RATE']
     + ctx['GKV_MAX_ZUSATZBEITRAG']
-)
+).normalize()
 
 # Min/max health insurance cost for employees (€/mth), with avg. Zusatzbeitrag
 ctx["GKV_MIN_COST_EMPLOYEE"] = round(ctx['GKV_MIN_INCOME'] * ctx["GKV_MIN_RATE_EMPLOYEE"] / 100, -1)
