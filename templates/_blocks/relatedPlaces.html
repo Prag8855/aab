@@ -18,6 +18,9 @@
 					{{ place.address }}
 				</a>
 			</address>
+			{%- if place.recommended|default == 'Yes' -%}
+				{% include '_blocks/recommended.html' %}
+			{%- endif -%}
 			{%- if place.description|default -%}
 				<p>{{ place.description }}</p>
 			{%- endif -%}

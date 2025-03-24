@@ -2660,8 +2660,9 @@ collapsible, letter-generator, feedback-residence-permit{  // Vue element before
                 white-space: nowrap;
             }
         }
-        p{
+        p, .recommended{
             margin: var(--s) 0 0;
+            justify-self: flex-start;
         }
 
         &:last-child{
