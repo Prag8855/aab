@@ -7,4 +7,5 @@ Address: Kottbusser Damm 68
 Latitude: 52.489191
 Longitude: 13.424911
 Google_Place_ID: ChIJDR2nUrZPqEcRU17QkKEsW8U
+Recommended: Yes
 ---

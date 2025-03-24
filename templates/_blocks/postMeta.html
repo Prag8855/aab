@@ -2,7 +2,7 @@
 	{% set reviews = entry.related_reviews|default([]) %}
 	<span>
 		<i class="icon calendar" aria-hidden="true"></i>
-		<time content="{{ entry.date_updated.strftime('%F') }}" datetime="{{ entry.date_updated.strftime('%F') }}">Updated on {{ entry.date_updated.strftime('%B %-d, %Y') }}</time>
+		<time datetime="{{ entry.date_updated.isoformat(timespec='seconds') }}">Updated on {{ entry.date_updated.strftime('%B %-d, %Y') }}</time>
 	</span>
 	<span>
 		<i class="icon person" aria-hidden="true"></i>
@@ -41,7 +41,7 @@
 						<p>
 							<strong><span class="no-mobile">Verified by </span> {{ reviewer.name }}</strong>
 							<span class="no-mobile"> on </span>
-							<time content="{{ review.date_reviewed.strftime('%F') }}" datetime="{{ review.date_reviewed.strftime('%F') }}">{{ review.date_reviewed.strftime('%B %-d, %Y') }}</time>
+							<time datetime="{{ review.date_reviewed.isoformat(timespec='seconds') }}">{{ review.date_reviewed.strftime('%B %-d, %Y') }}</time>
 						</p>
 						{{ reviewer.body|render|safe }}
 					</div>
