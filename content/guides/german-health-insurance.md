@@ -51,7 +51,7 @@ If you move from a EU country, your health insurance from your previous country 
 
 ### Health insurance for students
 
-**If you are under 30 years old**, you pay the student tariff: around {{GKV_COST_STUDENT|cur}}€ per month for [public health insurance](/glossary/gesetzliche%20Krankenversicherung). You can also get [private health insurance](/glossary/private%20Krankenversicherung), but it's usually a little more expensive. If you are under 25 years old, you can sometimes get [free health insurance](#free-health-insurance).
+**If you are under 30 years old**, you pay the student tariff: around {{GKV_COST_STUDENT|cur}}€ per month for [public health insurance](/glossary/gesetzliche%20Krankenversicherung). You can also get [private health insurance](/glossary/private%20Krankenversicherung), but it's usually a little more expensive. Public health insurance is usually the best option for students.[^59] If you are under 25 years old, you can sometimes get [free health insurance](#free-health-insurance).
 
 **If you are over 30 years old**, you can't get the student tariff. [Public health insurance](/glossary/gesetzliche%20Krankenversicherung) costs around [{{GKV_MIN_COST_SELF_PAY|cur}}€ per month](/glossary/Mindestbeitrag).[^25] [Private health insurance](/glossary/private%20Krankenversicherung) might be cheaper for you. You can't get [free health insurance](#free-health-insurance).
 
@@ -108,57 +108,31 @@ If the internship is before or after your studies:
 - If you earn {{GKV_AZUBI_FREIBETRAG|cur}}€ per month or less, you get free [public health insurance](/glossary/gesetzliche%20Krankenversicherung). Your employer pays for it.
 - If it's an unpaid internship, you must pay for your own health insurance.[^50] You might get [free health insurance](#free-health-insurance).
 
-### Free health insurance
-
-You can get free health insurance through your parents or your spouse. This is called *[[Familienversicherung]]*. In some cases, you can also get free health insurance from the state, or from your home country.
-
-**Your parents' health insurance** covers you for free if...
-
-- Your parents have public health insurance
-- **and** you are under 23 years old (under 25 years old if you are a student)
-- **and** your total income is under {{GKV_FAMILIENVERSICHERUNG_MAX_INCOME|cur}}€ per month ({{MINIJOB_MAX_INCOME|cur}}€ per month for a [minijob](/glossary/Minijob))
-- **and** you are not self-employed full time
-- **and** you are not a trainee (*[[Azubi]]*)[^53]
-
-**Your spouse's health insurance** covers you for free if...[^34]
-
-- Your spouse has public health insurance
-- **and** your total income is under {{GKV_FAMILIENVERSICHERUNG_MAX_INCOME|cur}}€ per month ({{MINIJOB_MAX_INCOME|cur}}€ per month for a [minijob](/glossary/Minijob))
-- **and** you are not self-employed full time
-- **and** you are not a trainee (*[[Azubi]]*)[^53]
-
-**Your health insurance from another EU country** covers you if...[^39]
-
-- Your total income is under {{GKV_FAMILIENVERSICHERUNG_MAX_INCOME|cur}}€ per month ({{MINIJOB_MAX_INCOME|cur}}€ per month for a [minijob](/glossary/Minijob))
-- **or** you are a student, and you work 20 hours per week or less[^38]
-
-**The state** pays for your health insurance if...[^45]
-
-- You get [unemployment benefits](/glossary/ALG%20I)
-- **or** you get *[[Bürgergeld]]*
-- **or** you get *[[Elterngeld]]*
-
-If you are a trainee (*[[Azubi]]*) and you earn less than {{GKV_AZUBI_FREIBETRAG|cur}}€ per month, you get free [public health insurance](/glossary/gesetzliche%20Krankenversicherung). Your employer pays for it.[^48]
-
 ## Public health insurance
 
 89% of German residents have [public health insurance](/glossary/gesetzliche%20Krankenversicherung).[^2] For many people, it's the only option.
 
+Public health insurance is not provided by the state. It's provided by non-profit insurance funds called *Krankenkassen*. The cost and coverage is almost the same for all *Krankenkassen*.
+
 ### Cost of public health insurance
 
-Public health insurance costs ???% of your income, plus ???% to ???% for the [insurer surcharge](/glossary/Zusatzbeitrag), and ???% to ???% for [long-term care insurance](/glossary/Pflegeversicherung). In total, it costs ???% to ???% of your income, and your employer pays half of it. If you are unemployed or self-employed, you pay the whole amount yourself.
-
-The minimum contribution is ???€ per month. The maximum contribution is ???€ per month.
-
-You can sometimes get [free health insurance](#free-health-insurance). There is also a cheaper tariff for students: ???€ per month.
+Public health insurance costs {{GKV_BASE_RATE_EMPLOYEE}}% of your income, plus around {{GKV_AVG_ZUSATZBEITRAG}}% for the [insurer surcharge](/glossary/Zusatzbeitrag), and {{PFLEGEVERSICHERUNG_MIN_RATE}}% to {{PFLEGEVERSICHERUNG_MAX_RATE}}% for [long-term care insurance](/glossary/Pflegeversicherung). If you are an employee, your employer pays half of it.
 
 {% include '_blocks/healthInsuranceCalculator.html' %}
 
+**If you are an employee**, you pay {{GKV_MIN_RATE_EMPLOYEE}}% to {{GKV_MAX_RATE_EMPLOYEE}}% of your income (including *[[Pflegeversicherung]]*). The [minimum cost](/glossary/Mindestbeitrag) is around {{GKV_MIN_COST_EMPLOYEE|cur}}€ per month. The [maximum cost](/glossary/Höchstbeitrag) is around {{GKV_MAX_COST_EMPLOYEE|cur}}€ per month.
+
+**If you are self-employed or unemployed**, you pay {{GKV_MIN_RATE_SELF_PAY}}% to {{GKV_MAX_RATE_SELF_PAY}}% of your income. The [minimum cost](/glossary/Mindestbeitrag) is around {{GKV_MIN_COST_SELF_PAY|cur}}€ per month. The [maximum cost](/glossary/Höchstbeitrag) is around {{GKV_MAX_COST_SELF_PAY|cur}}€ per month.
+
+**If you are a student**, you usually pay the student tariff: {{GKV_COST_STUDENT|cur}}€ per month. If you are over 30 years old, you can't get the student tariff, so you pay the same price as everyone else.
+
+You can sometimes get [free health insurance](#free-health-insurance).
+
 ### What is covered
 
-Public health insurance covers **all necessary healthcare**. Important treatments and medical prescriptions are always covered. There is a small deductible (5€ to 10€ per month) for some prescriptions. There is no other deductible.
+Public health insurance covers **all necessary healthcare**. Important treatments and medical prescriptions are always covered. There is a small deductible (5€ to 10€ per month) for some prescriptions. There is no other deductible. There is no coverage limit.
 
-When you go to the doctor, you give your insurance card, and they charge your *[[Krankenkasse]]* directly. If a treatment is not covered, you know before you start. There are never surprise costs.
+When you go to the doctor, you give your insurance card, and they charge your *[[Krankenkasse]]* directly. If a treatment is not covered, you know before you start. There are no surprise costs.
 
 Public health insurance covers essential dental care, like removing your wisdom teeth. You also get 2 free dental check-ups every year. It does not cover tooth cleanings. Many people also get [dental insurance](/glossary/Zahnzusatzversicherung) to get better coverage.
 
@@ -169,32 +143,32 @@ Public health insurance also covers your children and your unemployed spouse for
 ### Benefits of public health insurance
 
 - **It matches your income**  
-    Public health insurance costs a percentage of your income. If you earn less money, you pay less. If you get [[ALG I]] or [[Bürgergeld]], it pays for your health insurance.[^11] Private health insurance does not adjust to your income; you pay the same even if you [lose your job](/guides/losing-your-job).
-- **It's cheaper for students**  
-    If you are a student, you pay around {{GKV_COST_STUDENT|cur}}€ per month until you are 31 years old. Public health insurance is usually the best option for students.
-- **It covers your dependents for free**  
-    Public health insurance covers your children and your unemployed spouse. It's called *[[Familienversicherung]]*. Your spouse is covered if (s)he earns less than {{GKV_FAMILIENVERSICHERUNG_MAX_INCOME|cur}}€ per month.[^12] Your children are covered until they are 23 years old, or 25 years old if they are students. With private insurance, you pay for each person you cover. If you plan to have children, public health insurance is often the best option.
+    If you [lose your job](/guides/losing-your-job) or retire, your insurance gets cheaper. Private health insurance does not adjust to your income, so it can become really expensive.
+- **It's cheap for students**  
+    Students pay around {{GKV_COST_STUDENT|cur}}€ per month until they are 30 years old. Public health insurance is usually the best option for students.[^59]
+- **It covers your family [for free](#free-health-insurance)**  
+    It covers your children and your unemployed spouse. With private insurance, you pay extra for each person you cover. If you have children, public health insurance is often the best option.[^12]
 - **It's easy to use**  
-    When you go to the doctor, you show your insurance card, and you get healthcare. You don't need to think about coverage, reimbursement or deductibles. There is no paperwork; it just works.
-- **You don't pay more for pre-existing conditions**  
-    The cost is based on your income, not your health. Generally, public health insurance is forced to accept you, even if you have serious health problems. You don't pay more because of your bad health.
+    When you go to the doctor, you show your insurance card, and you get healthcare. You don't need to think about coverage, deductibles or reimbursement. There is no paperwork; it just works.
+- **It's not tied to your health**  
+    The cost is based on your income, not your health or your age. Usually, public health insurance is forced to accept you, even if you have serious health problems. You don't pay more because of your bad health. You don't pay more if you use it all the time.
 
 ### Disadvantages of public health insurance
 
 - **It's expensive if you have a high income**  
-    If you have a high income, you pay more. If you are young, healthy and well-paid, private health insurance is often cheaper.
+    If you have a high income, you pay more. If you are young, healthy and well-paid, private health insurance is usually much cheaper.
 - **It's harder to get a doctor appointment**  
     With public health insurance, you wait longer for a doctor appointment. It's hard to find a psychotherapist or urologist who accepts public health insurance.[^13] With private health insurance, you can see doctors faster.
-- **Special treatments are not included**  
-    Public health insurance covers *necessary* care, not luxuries. If you want special treatments, you must pay the extra cost yourself. For example, it only covers amalgam tooth fillings. If you want fancy composite fillings, you must pay for the difference. Tooth cleanings are not fully covered. Eyeglasses are rarely covered. Private insurance lets you choose better coverage.
+- **Special treatments are not covered**  
+    Public health insurance covers *necessary* care. If you want fancier treatments, you must pay for the price difference. For example, it only covers amalgam tooth fillings, not fancy composite fillings. It only covers basic teeth cleanings, twice per year. Eyeglasses are rarely covered. With private health insurance, you can choose better coverage.
 
-### Which public health insurance should I choose?
+### Best public health insurance
 
-**It's not important.** Public health insurance options are almost the same. The price and coverage are set by law. The biggest differences are the extra contribution (*[[Zusatzbeitrag]]*) and the customer service.[^15] [Ask an expert](#insurance-brokers) to help you choose. Their help is free.
+Public health insurance options are almost the same. The price and the coverage are set by law. The biggest differences are the extra contribution (*[[Zusatzbeitrag]]*) and the customer service.[^15]
 
-If you don't speak German, [Techniker Krankenkasse](/out/feather-tk) and [Barmer](/out/barmer) speak English. I used [Techniker Krankenkasse](/out/feather-tk) for 6 years, and [I liked them](/guides/techniker-krankenkasse-review).
+If you don't speak German, [Techniker Krankenkasse](/out/feather-tk) and [Barmer](/out/barmer) speak English. [Techniker Krankenkasse](/out/feather-tk) is good, and it's one of the cheapest options.{{ fail_on('2025-12-31') }}. I used them for 6 years, and [I liked them](/guides/techniker-krankenkasse-review).
 
-{% include '_blocks/healthInsuranceQuestion.html' %}
+[Ask an expert](#insurance-brokers) to help you choose. They might show you better options for your situation.
 
 ## Private health insurance
 
@@ -206,7 +180,8 @@ The cost depends on 3 things:
 
 - Your age when you join
 - Your health condition when you join
-- The level of coverage you choose
+- The coverage you choose
+- Your deductible
 
 After you join, your health does not affect the cost of your insurance. If you get very sick, you still pay the same price.
 
@@ -347,7 +322,41 @@ It only covers medical emergencies, and treatments that can't wait until you go 
 
 You can buy travel insurance online in your home country. [HanseMerkur](/out/hansemerkur-travel)'s travel insurance is valid for a Schengen visa application.
 
+**[Health insurance for a Schengen visa ➞](/guides/german-visa-health-insurance#for-a-schengen-visa)**
+
 ## Other options
+
+### Free health insurance
+
+You can get free health insurance through your parents or your spouse. This is called *[[Familienversicherung]]*. In some cases, you can also get free health insurance from the state, from your employer, or from your home country.
+
+**Your parents' health insurance** covers you for free if...
+
+- Your parents have public health insurance
+- **and** you are under 23 years old (under 25 years old if you are a student)
+- **and** your total income is under {{GKV_FAMILIENVERSICHERUNG_MAX_INCOME|cur}}€ per month ({{MINIJOB_MAX_INCOME|cur}}€ per month for a [minijob](/glossary/Minijob))
+- **and** you are not self-employed full time
+- **and** you are not a trainee (*[[Azubi]]*)[^53]
+
+**Your spouse's health insurance** covers you for free if...[^34]
+
+- Your spouse has public health insurance
+- **and** your total income is under {{GKV_FAMILIENVERSICHERUNG_MAX_INCOME|cur}}€ per month ({{MINIJOB_MAX_INCOME|cur}}€ per month for a [minijob](/glossary/Minijob))
+- **and** you are not self-employed full time
+- **and** you are not a trainee (*[[Azubi]]*)[^53]
+
+**Your health insurance from another EU country** covers you if...[^39]
+
+- Your total income is under {{GKV_FAMILIENVERSICHERUNG_MAX_INCOME|cur}}€ per month ({{MINIJOB_MAX_INCOME|cur}}€ per month for a [minijob](/glossary/Minijob))
+- **or** you are a student, and you work 20 hours per week or less[^38]
+
+**The state** pays for your health insurance if...[^45]
+
+- You get [unemployment benefits](/glossary/ALG%20I)
+- **or** you get *[[Bürgergeld]]*
+- **or** you get *[[Elterngeld]]*
+
+If you are a trainee (*[[Azubi]]*) and you earn less than {{GKV_AZUBI_FREIBETRAG|cur}}€ per month, you get free [public health insurance](/glossary/gesetzliche%20Krankenversicherung). Your employer pays for it.[^48]
 
 ### Insurance from other EU countries
 
@@ -406,7 +415,7 @@ There are more types of insurance in Germany, but health and liability insurance
 [^9]: [check24.de](https://www.check24.de/gesetzliche-krankenversicherung/mindestbeitrag/)
 [^10]: [krankenkassenzentrale.de](http://web.archive.org/web/20220926103421/https://www.krankenkassenzentrale.de/wiki/krankenkasse-arbeitslosigkeit), [tk.de](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-versicherte/veraenderung-berufliche-situation/wenn-sie-arbeitslos-sind-2000802)
 [^11]: [krankenkassen.de](https://www.krankenkassen.de/gesetzliche-krankenkassen/krankenkasse-beitrag/arbeitslose/#:~:text=ubernimmt%20das%20jobcenter%20den%20allgemeinen%20krankenkassen-beitrag) (February 2025), [aok.de](https://www.aok.de/pk/krankenkassenbeitraege/arbeitslosigkeit/), [aok.de](https://www.aok.de/pk/krankenkassenbeitraege/arbeitslosigkeit/), [Arbeitsagentur](https://www.arbeitsagentur.de/arbeitslosengeld-2/gesundheit-versicherung)
-[^12]: [tk.de](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-versicherte/leistungen/entlastung-fuer-familien/versichert-als-familie-in-der-familienversicherung/einkommensgrenze-familienversicherung-2005696)
+[^12]: Citation needed - Public is best if you want children
 [^13]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/5cw86x/looking_for_an_english_therapist_in_berlin/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/8z8558/psychotherapy_in_berlin/e2idrsi/)
 [^14]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/9yib75/not_eligible_for_either_private_or_public_health/)
 [^15]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/9zctu2/best_public_health_insurer_gkv_for_an_english/ea84mvy/)
@@ -453,3 +462,5 @@ There are more types of insurance in Germany, but health and liability insurance
 [^56]: Citation needed - Private health insurer is usually cheaper for high earners
 [^57]: Citation needed - EU health insurance covers you until you start working
 [^58]: Citation needed - Private makes most sense for self-employed students
+[^59]: Citation needed - Public usually the best option for students
+[^60]: 
