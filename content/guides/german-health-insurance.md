@@ -187,7 +187,7 @@ After you join, your health does not affect the cost of your insurance. If you g
 
 You can pay more and get better coverage. You can choose a higher deductible (*[[Selbstbeteiligung]]*) and pay less.[^17] Some insurers give you a discount if you don't use your insurance.
 
-**[Quick price estimation](/out/feather-private-estimate)** - Feather
+**[Quick price estimation ➞](/out/feather-private-estimate)**
 
 Your employer pays half of your health insurance. If you are self-employed, you pay the full price yourself.[^18]
 
@@ -250,7 +250,7 @@ The best way to choose is to ask a health insurance broker. Their help is free. 
 
 [Feather](/out/feather-private) also offers private health insurance. They helped me get private health insurance, and I trust them. They are a health insurance broker, not a health insurer. This means that they sell insurance from different companies. They speak English. Their insurance works for [residence permit](/glossary/Aufenthaltstitel) applications.
 
-**[Quick price estimation](/out/feather-private-estimate)** - Feather
+**[Quick price estimation ➞](/out/feather-private-estimate)**
 
 ### How to switch to public health insurance
 
@@ -382,23 +382,20 @@ If you are a freelance artist, journalist, publicist or influencer, join the *[[
 
 ### Insurance brokers
 
-Health insurance brokers help you choose health insurance. Their help is free for you; they get paid by health insurers to bring them customers.
+Health insurance brokers help you choose health insurance. They help you for free. They get paid by health insurers to bring them new customers.
 
-**Always work with a broker, not an agent**. Brokers are independent, and recommend health insurance from different companies. Agents only work for one company. They only sell that company's health insurance.
+Always work with a broker (*Makler*), not an agent (*Vertreter*). Brokers are independent, and recommend health insurance from different companies. Agents only sell insurance from specific companies.
 
-If you are an immigrant, **choose a broker who works with expats**. Your needs are different, and your broker must know how to help you.
+For example, Feather is an agent, and they mostly sell insurance from Hallesche.[^61] They are a great company and I trust them, but their recommendations are not neutral.
+
+If you are an immigrant, choose a broker who works with expats. Your needs are different, and your broker must know how to help you.
 
 {% include '_blocks/healthInsuranceQuestion.html' %}
 
 ## What to do next
 
-Get [liability insurance](/glossary/Haftpflichtversicherung). It's the second most important insurance after health insurance.
-
-**[What is liability insurance? ➞](/guides/haftpflichtversicherung)**
-
-Register as an organ donor. It's really easy, and it can save another person's life.
-
-**[How to register as an organ donor ➞](/guides/organ-donor)**
+- [ ] [Get liability insurance](/guides/haftpflichtversicherung). It's the second most important insurance to have. Most Germans have it.
+- [ ] [Register as an organ donor](/guides/organ-donor). It's really easy, and it can save another person's life.
 
 There are more types of insurance in Germany, but health and liability insurance are the most important.
 
@@ -463,4 +460,4 @@ There are more types of insurance in Germany, but health and liability insurance
 [^57]: Citation needed - EU health insurance covers you until you start working
 [^58]: Citation needed - Private makes most sense for self-employed students
 [^59]: Citation needed - Public usually the best option for students
-[^60]: 
+[^61]: Citation needed - Feather is an agent
