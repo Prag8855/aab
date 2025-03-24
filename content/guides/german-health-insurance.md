@@ -51,7 +51,7 @@ If you move from a non-EU country, you might need expat health insurance. It cov
 
 **If you are under 30 years old**, you pay the student tariff: around {{GKV_COST_STUDENT|cur}}€ per month for [public health insurance](/glossary/gesetzliche%20Krankenversicherung). You can also get [private health insurance](/glossary/private%20Krankenversicherung), but it's usually a little more expensive. You can't get [free health insurance](#free-health-insurance).
 
-**If you are over 30 years old**, you can't get the student tariff. If you have public health insurance, you pay the [minimum amount](/glossary/Mindestbeitrag): around {{GKV_MIN_COST_SELF_PAY|cur}}€ per month.[^25] [Private health insurance](/glossary/private%20Krankenversicherung) might be cheaper. You can't get [free health insurance](#free-health-insurance).
+**If you are over 30 years old**, you can't get the student tariff. Public health insurance costs around [{{GKV_MIN_COST_SELF_PAY|cur}}€ per month](/glossary/Mindestbeitrag).[^25] [Private health insurance](/glossary/private%20Krankenversicherung) might be cheaper for you. You can't get [free health insurance](#free-health-insurance).
 
 **If you are a foreign student**, you might need temporary health insurance before school starts. Non-EU students can get expat insurance. EU students can use their health insurance from their home country.
 
