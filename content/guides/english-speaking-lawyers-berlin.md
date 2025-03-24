@@ -65,7 +65,7 @@ Use [the list below](#list-of-lawyers) to find an English-speaking lawyer in Ber
 
 ## List of lawyers
 
-If someone is missing from this list, [let me know](/suggest-business).
+To add a lawyer, [fill this form](/suggest-business).
 
 {% include '_blocks/relatedPlaces.html' %}
 

@@ -49,8 +49,10 @@ Related_places:
     places/uppaman-der-herrensalon.md
 ---
 
-When you get a haircut, it's easier if the barber understands you. This is a list of English-speaking hairdressers, hair stylists and barbers in Berlin. It's compiled from user reviews and recommendations. If someone is missing from this list, [let me know](/suggest-business).
+When you get a haircut, it's easier if the barber understands you. This is a list of English-speaking hairdressers, hair stylists and barbers in Berlin. It's compiled from user reviews and recommendations.
 
 ## List of hair salons
+
+To add someone, [fill this form](/suggest-business).
 
 {% include '_blocks/relatedPlaces.html' %}

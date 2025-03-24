@@ -44,6 +44,6 @@ A relocation agency can help you...
 
 ## List of relocation agencies
 
-If someone is missing from this list, [contact me](/suggest-business).
+To add someone, [fill this form](/suggest-business).
 
 {% include '_blocks/relatedPlaces.html' %}
