@@ -35,7 +35,10 @@ class MultilineListsLinter(LineLinter):
         # List item continuation
         elif self.item_indent is not None:
             required_indent = ' ' * (self.item_indent + 1) * 4
-            if not line.startswith(required_indent):
+            if self.item_has_double_space and line.startswith('> '):
+                # Nested blockquote
+                pass
+            elif not line.startswith(required_indent):
                 yield (0, self.item_indent * 4), "Incorrect line indent", logging.ERROR
             elif not self.item_has_double_space:
                 yield (len(line) - 3, len(line) - 1), "Missing double space before line break in list", logging.ERROR
