@@ -3,12 +3,13 @@ Title: How to buy and ride a bicycle in Berlin
 Short_title: How to buy and ride a bicycle
 Description: Everything cyclists should know about riding a bicycle in Berlin: where to buy a bicycle, what equipment is required and what the rules are and more.
 Date_created: 2020-08-21
-Related_reviews: reviews/bicycle-in-berlin/azur-muharemovic.md
+Related_reviews:
+    reviews/bicycle-in-berlin/azur-muharemovic.md
 ---
 
 Berlin is better on a bicycle. The city is very flat, and it has a big network of bike paths. In the summer, it's the best way to get around.
 
-In this guide, I show you how to buy a bike, what rules you must follow, and how to deal with bicycle theft.
+In this guide, I explain how to buy a bike, rules for cyclists, and how to deal with bicycle theft.
 
 {% include "_blocks/tableOfContents.html" %}
 
@@ -18,7 +19,7 @@ In this guide, I show you how to buy a bike, what rules you must follow, and how
 
 Go to a **small, independent bike shop**. You will get better service and personalised advice. They will help you pick a good bike for your needs and budget. There are many great bicycle stores in Berlin. I recommend [Little John Bikes](https://goo.gl/maps/mqqbuv7tzpFbsjCn6) in Prenzlauer Berg. They speak English.
 
-Big bicycle stores like [Decathlon](https://www.decathlon.de/), [Stadler](https://shop.zweirad-stadler.de/) and [Radhaus] have more choice, but worse service. Decathlon bikes are good value for the price.[^33]
+Big bicycle stores like [Décathlon](https://www.decathlon.de/), [Stadler](https://shop.zweirad-stadler.de/) and [Radhaus](https://www.das-radhaus.de/) have more choice, but worse service. Décathlon bikes are good value for the price.[^33]
 
 ### Buying a used bicycle
 
@@ -36,8 +37,12 @@ Used bicycles are cheaper. There are many places where you can buy them:
     Facebook group with over 30 000 members. If you speak French, there is also [Les vélos de Berlin](https://www.facebook.com/groups/lesvelosdeberlin/). Watch for [stolen bicycles](#buying-a-stolen-bicycle).
 - **[Toll office auctions](https://www.zoll-auktion.de/auktion/kategorie/Fahrr%C3%A4der_Zubeh%C3%B6r/1103)**  
     There are regular auctions for [lost and found](/guides/lost-and-found-berlin) bicycles. You can bid online.
+- **Bikes for refugees**  
+    If you are a refugee, you can get a free bicycle from [Rückenwind](https://rueckenwind.berlin/english/) or [Frieda](https://www.instagram.com/bicycle_repair_diy_berlin/).
 
 The quality of used bicycles varies a lot. Always try the bike before you buy it. Check if the brakes work, the gears change smoothly, the frame is not cracked, the wheels are straight, etc. [This guide](https://bikefair.org/blog/how-to-choose-a-second-hand-bike#:~:text=check%20the%20bike) can help you.
+
+One trick is to go to [Décathlon](https://www.decathlon.de/), find a bicycle you like, and buy it used on [Kleinanzeigen](https://www.kleinanzeigen.de/s-fahrraeder/c217). You can get exactly what you want for a good price.
 
 If you buy a used bicycle, get it fitted and adjusted at a bicycle shop. Your bike will ride smoother, and it will be more comfortable.
 
@@ -66,21 +71,17 @@ If you only stay in Berlin for a few months, you can rent a bicycle instead.
     - [Lime](https://www.li.me/vehicles), [Tier](https://www.tier.app/en/) and [Bolt](https://bolt.eu/en-de/ebikes/) - Electric bikes. Also in the [Jelbi](https://www.jelbi.de/en/home/) app. 
     - [fLotte](https://flotte-berlin.de/) - Free cargo bike rental
     - [Cargoroo](https://cargoroo.nl/en/cargoroo-cities/#Berlijn) - Cargo bikes. Also in the [Jelbi](https://www.jelbi.de/en/home/) app.
-    
-### Bicycles for refugees
-
-If you are a refugee, you can get a free bicycle from [Rückenwind](https://rueckenwind.berlin/english/) or [Frieda](https://www.instagram.com/bicycle_repair_diy_berlin/).
 
 ### How to save money
 
+- **[Buy a used bike](#buying-a-used-bicycle)**{% include '_blocks/recommended.html' %}  
+    Old bicycles are reliable and easy to maintain. You don't need a new bicycle, even if you know nothing about bicycle repair. Used bicycles are much cheaper than new ones.
 - **Tax deductions**  
     Bicycles, bicycle maintenance and [bike theft insurance](#bike-theft-insurance) are all [tax-deductible](/glossary/steuerlich%20absetzbar).[^2] Save your receipts for your next [tax declaration](/glossary/Steuererklärung).
 - **Help from your employer**  
     Some employers pay for your bicycle, or for a bicycle rental service. You can get a free bicycle, or a big rebate on your bicycle purchase.
 - **Therapy bike**  
     If you need a special bicycle for your therapy, your health insurer must pay for it.[^3]
-- **[Buy a used bike](#buying-a-used-bicycle)**  
-    Old bicycles are reliable and easy to maintain. You don't need a new bicycle, even if you know nothing about bicycle repair. Used bicycles are much cheaper than new ones.
 
 ## Bicycle repairs and maintenance
 
