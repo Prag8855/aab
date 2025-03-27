@@ -7,6 +7,7 @@ Related_places:
     places/red-tape-translation.md
     places/sorted-berlin.md
     places/archer-relocation.md
+    places/gibbesch-consulting.md
     places/irc-berlin.md
     places/relokate.md
     places/nomaden-berlin.md
@@ -17,8 +18,8 @@ Related_places:
     places/impats.md
     places/von-wrede-relocation.md
     places/progedo.md
-    places/gibbesch-consulting.md
     places/jetztpat.md
+    places/expatease.md
 ---
 
 Relocation agencies make it easier to [move to Germany](/guides/moving-to-berlin).
