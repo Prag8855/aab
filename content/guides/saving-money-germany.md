@@ -27,7 +27,7 @@ Most employees pay 35% to 50% of their income in taxes, health insurance and pen
 - **Use your EHIC card**  
     If you come from another EU country, you can use your European Health Insurance Card (EHIC) in Germany. You might not need German health insurance. - [More information](/guides/german-health-insurance#insurance-from-other-eu-countries)
 - **Switch to [private health insurance](/glossary/private%20Krankenversicherung)**  
-    It's *sometimes* much cheaper. I save over 400€ per month. This is a very complex decision and it can be an expensive mistake. I strongly recommend that you talk to a health insurance broker first.
+    It's *sometimes* much cheaper. I save over 400€ per month. This is a very complex decision and it can be an expensive mistake. I strongly recommend that you [talk to a health insurance broker](/guides/german-health-insurance#insurance-brokers) first.
 - **Choose a different [public health insurance](/glossary/gesetzliche%20Krankenversicherung)**  
     Pick an insurer with a lower *[[Zusatzbeitrag]]*. You can save up to 500€ per year.
 - **Join the [[Künstlersozialkasse]]**  
