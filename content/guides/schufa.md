@@ -41,7 +41,7 @@ You can't get a Schufa in person at the bank anymore.[^1]
 
 ### If you can't get a Schufa
 
-Short-term apartments (from [HousingAnywhere](/out/housinganywhere), [Spotahome](/out/spotahome), [Wunderflats](/out/wunderflats)) rarely require a Schufa. They can help you get your first apartment without a stable job.
+Short-term apartments (from [HousingAnywhere](/out/housinganywhere) or [Spotahome](/out/spotahome)) rarely require a Schufa. They can help you get your first apartment without a stable job.
 
 You can get a Schufa score by opening a bank account. For example, if you open an [N26](/out/n26) account, you get a Schufa record a few days later.[^11]
 
