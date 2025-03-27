@@ -50,10 +50,10 @@ Before you [look for apartments](#look-for-apartments), you must...
 ### Short-term and furnished apartments
 
 - **[HousingAnywhere](/out/housinganywhere)**{% include '_blocks/recommended.html' %}  
-    Verified landlords. To avoid scams, the landlord only gets paid after you move in.[^39] Shows when the *[[Anmeldung]]* is possible. No *[[Schufa]]* needed.[^49] Some apartments have no [deposit](/glossary/Kaution).
-- [Wunderflats](/out/wunderflats) - There are many scammers on this platform.[^18] Shows when the *[[Anmeldung]]* is possible. No *[[Schufa]]* needed.
-- [Spotahome](/out/spotahome) - Some landlords are verified.[^45] To avoid scams, the landlord only gets paid after you move in.[^46] Shows when the *[[Anmeldung]]* is possible (under *House Rules*). Some apartments have no [deposit](/glossary/Kaution). You must pay *before* you can read the lease, and it's hard to get your money back.
+    This is the most reliable option. The landlords are verified. To avoid scams, the landlord only gets paid after you move in.[^39] They tell you when the *[[Anmeldung]]* is possible. No *[[Schufa]]* needed.[^49] Some apartments have no [deposit](/glossary/Kaution).
+- [Spotahome](/out/spotahome) - Some landlords are verified.[^45] To avoid scams, the landlord only gets paid after you move in.[^46] They tell you when the *[[Anmeldung]]* is possible (under *House Rules*). Some apartments have no [deposit](/glossary/Kaution). You must pay *before* you can read the lease, and it's hard to get your money back.
 - [Hope Apartments](/out/hope-apartments) - They manage the apartments, so there are no scams. 3 to 12 month stays. *[[Anmeldung]]* possible, no *[[Schufa]]* needed. 2 month [deposit](/glossary/Kaution).
+- [Wunderflats](/out/wunderflats) - There are a lot of scams on this platform.[^18] They tell you when the *[[Anmeldung]]* is possible. No *[[Schufa]]* needed.
 - [Smartments](/out/smartments) - *[[Anmeldung]]* possible
 - [Crocodilian](https://crocodilian.de/) - *[[Anmeldung]]* possible[^8]
 - [LifeX](https://joinlifex.com/) - *[[Anmeldung]]* possible if you stay over 1 month
