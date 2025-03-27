@@ -426,17 +426,17 @@
 		<template v-if="showOtherOptions">
 			<h3>Free options</h3>
 			<div class="collapsible-options">
-				<div v-if="flag('alg-i-buergergeld')">
+				<a v-if="flag('alg-i-buergergeld')" href="/guides/german-health-insurance#free-health-insurance" target="_blank">
 					{% endraw %}{% include "_css/icons/bank.svg" %}{% raw %}
 					<div>
-						<h3>ALG I or Bürgergeld</h3>
+						<h3>ALG I, Elterngeld or Bürgergeld</h3>
 						<p>
-							If you get <glossary>ALG I</glossary> or <glossary>Bürgergeld</glossary>, you don't pay for health insurance. The <glossary>Agentur für Arbeit</glossary> pays for it.
+							If you get <glossary>ALG I</glossary>, <glossary>Bürgergeld</glossary> or <glossary>Elterngeld</glossary>, you get free public health insurance. The <glossary>Agentur für Arbeit</glossary> pays for it.
 						</p>
 					</div>
 					<output><eur :amount="0"></eur> <small>per month</small></output>
-				</div>
-				<div v-if="flag('familienversicherung-spouse') || flag('familienversicherung-parents')">
+				</a>
+				<a v-if="flag('familienversicherung-spouse') || flag('familienversicherung-parents')" href="/guides/german-health-insurance#free-health-insurance" target="_blank">
 					{% endraw %}{% include "_css/icons/family.svg" %}{% raw %}
 					<div>
 						<h3><glossary term="Familienversicherung">Family insurance</glossary></h3>
@@ -445,7 +445,7 @@
 						</p>
 					</div>
 					<output><eur :amount="0"></eur> <small>per month</small></output>
-				</div>
+				</a>
 				<a v-if="flag('ehic')" title="Learn more about the EHIC" href="/guides/german-health-insurance#insurance-from-other-eu-countries" target="_blank">
 					{% endraw %}{% include "_css/icons/passport.svg" %}{% raw %}
 					<div>
