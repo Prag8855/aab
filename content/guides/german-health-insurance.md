@@ -10,9 +10,9 @@ Related_reviews:
     reviews/german-health-insurance/mike-woodiwiss.md
 ---
 
-When you [move to Germany](/guides/moving-to-berlin), you must choose your health insurance. All German residents need health insurance. It pays for your healthcare when you are sick. You need it to apply for a [residence permit](/glossary/Aufenthaltstitel), and to [start working](/guides/find-a-job-in-berlin#start-working).
+When you [move to Germany](/guides/moving-to-berlin), you must choose your health insurance. All German residents need health insurance. It pays for your healthcare when you are sick. You need it before you apply for a [residence permit](/glossary/Aufenthaltstitel), and before you [start working](/guides/find-a-job-in-berlin#start-working).
 
-You must choose health insurance yourself. There are hundreds of options. This guide explains how German health insurance works, how to choose the best health insurance for your needs.
+This guide explains how German health insurance works, how to choose the best health insurance for your needs.
 
 {% include "_blocks/tableOfContents.html" %}
 
@@ -31,9 +31,9 @@ You must choose health insurance yourself. There are hundreds of options. This g
 
 Your health insurance is not tied to your job. Your employer does not decide what health insurance you can have. If you [lose your job](/guides/losing-your-job), you keep your health insurance.
 
-**If you earn over {{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}}€ per year**, you can choose public or private health insurance. Public health insurance costs [{{GKV_MAX_COST_EMPLOYEE|cur}}€ per month](/glossary/Höchstbeitrag). Private health insurance is usually cheaper.[^56]
+**If you earn over {{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}}€ per year**, you can choose public or private health insurance. Public health insurance costs [around {{GKV_MAX_COST_EMPLOYEE|cur}}€ per month](/glossary/Höchstbeitrag). Private health insurance is usually cheaper.[^56]
 
-**If you earn {{GKV_MAX_INCOME|cur}}€ to {{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}}€ per year**, your only option is [public health insurance](/glossary/gesetzliche%20Krankenversicherung). It costs [{{GKV_MAX_COST_EMPLOYEE|cur}}€ per month](/glossary/Höchstbeitrag). If you are a doctor or a civil servant, you can also choose private health insurance.[^31]
+**If you earn {{GKV_MAX_INCOME|cur}}€ to {{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}}€ per year**, your only option is [public health insurance](/glossary/gesetzliche%20Krankenversicherung). It costs [around {{GKV_MAX_COST_EMPLOYEE|cur}}€ per month](/glossary/Höchstbeitrag). If you are a doctor or a civil servant, you can also choose private health insurance.[^31]
 
 **If you earn less than {{GKV_MAX_INCOME|cur}}€ per year**, you can only choose public health insurance. It costs {{GKV_MIN_RATE_EMPLOYEE}}% to {{GKV_MAX_RATE_EMPLOYEE}}% of your income (including *[[Pflegeversicherung]]*). If you are a doctor or a civil servant, you can also choose private health insurance.[^31]
 
@@ -106,9 +106,9 @@ If the internship is before or after your studies:
 
 ## Public health insurance
 
-89% of German residents have [public health insurance](/glossary/gesetzliche%20Krankenversicherung).[^2] For many people, it's the only option.
+89% of Germans have [public health insurance](/glossary/gesetzliche%20Krankenversicherung).[^2] It's often the only option.
 
-Public health insurance is not provided by the state. It's provided by non-profit insurance funds called *Krankenkassen*. The cost and coverage is almost the same for all *Krankenkassen*.
+Public health insurance is provided by non-profit insurance funds called *[[Krankenkassen]]*. It's not provided by the state. The cost and coverage is almost the same for all *Krankenkassen*.
 
 ### Cost of public health insurance
 
@@ -139,11 +139,11 @@ Public health insurance also covers your children and your unemployed spouse for
 ### Benefits of public health insurance
 
 - **The cost is proportional to your income**  
-    If you have a low income, you pay less. This is great if you have an unstable income, if you lose your job, or if you retire.
+    If you have a low income, you pay less. This is great if you have an unstable income, if you [lose your job](/guides/losing-your-job), or if you retire.
 - **It's cheap for students**  
     Students pay around {{GKV_COST_STUDENT|cur}}€ per month until they are 30 years old. Usually, public is the best option for students.[^59]
 - **It covers your family for free**  
-    Your children and your unemployed spouse get [free health insurance](#free-health-insurance). Private health insurance charges for each person you cover. If you have children, public health insurance is often the best option.[^12]
+    Your children and your unemployed spouse get [free health insurance](#free-health-insurance). Private health insurance charges for each person you cover. If you have children, public health insurance is usually the best option.[^12]
 - **It's easy to use**  
     When you go to the doctor, you show your insurance card, and you get healthcare. You never need to think about coverage, deductibles or reimbursement. There is no paperwork; it just works.
 - **It's not tied to your health**  
@@ -152,19 +152,19 @@ Public health insurance also covers your children and your unemployed spouse for
 ### Disadvantages of public health insurance
 
 - **It's expensive if you have a high income**  
-    If you earn more, you pay more. If you are young, healthy and well-paid, private health insurance is better and cheaper.[^63]
-- **It's harder to get a doctor appointment**[^13]  
-    It's hard to find a psychotherapist, psychiatrist, gynaecologist, paediatrician or urologist who accept public health insurance. It can take weeks or months to get an appointment. If you want to see a doctor quickly, private health insurance is better.
+    If you have a high income, you pay more. If you are young and healthy, private health insurance can be better *and* cheaper.[^63]
+- **It's harder to get doctor appointments**[^13]  
+    It's hard to find a psychotherapist, psychiatrist, gynaecologist, paediatrician or urologist. Those who accept public health insurance are booked for weeks or months. If you want to see a doctor quickly, private health insurance is better.
 - **It does not cover special treatments**  
     Public health insurance covers *necessary* care. If you want fancier treatments, you must pay for the price difference. For example, it only covers amalgam tooth fillings, not fancy composite fillings. It only covers basic teeth cleanings, twice per year. Eyeglasses are rarely covered. With private health insurance, you can choose better coverage.
 
 ### Best public health insurance
 
-All options have almost the same cost and coverage. After taxes, the price difference is less than 15€ per month. The biggest difference is customer service.[^15]
+They are all the same. The cost and coverage are almost the same. The maximum price difference is less than 20€ per month. The biggest difference is customer service.[^15]
 
 If you need an English-speaking health insurer, choose [Techniker Krankenkasse](/out/feather-tk) or [Barmer](/out/barmer). I had Techniker Krankenkasse for 6 years. It's [really good](/guides/techniker-krankenkasse-review), and it's one of the cheapest options.{{ fail_on('2025-12-31') }}.
 
-The most important question: is public the best option for you? [Ask an expert](#insurance-brokers) to help you choose. You might get much better coverage *and* a lower price.
+The most important question: is public the best option for you? [Ask an expert](#insurance-brokers) to help you choose. The can help you get a cheaper health insurance *and* better coverage.
 
 ## Private health insurance
 
