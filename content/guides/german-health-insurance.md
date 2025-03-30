@@ -10,17 +10,13 @@ Related_reviews:
     reviews/german-health-insurance/mike-woodiwiss.md
 ---
 
-All German residents need health insurance. It pays for your healthcare when you are sick.
+When you [move to Germany](/guides/moving-to-berlin), you must choose your health insurance. All German residents need health insurance. It pays for your healthcare when you are sick. You need it to apply for a [residence permit](/glossary/Aufenthaltstitel), and to [start working](/guides/find-a-job-in-berlin#start-working).
 
 You must choose health insurance yourself. There are hundreds of options. This guide explains how German health insurance works, how to choose the best health insurance for your needs.
 
 {% include "_blocks/tableOfContents.html" %}
 
 ## How to choose health insurance
-
-When you [move to Germany](/guides/moving-to-berlin) you must choose your health insurance. You need health insurance to apply for a [residence permit](/glossary/Aufenthaltstitel), and to [start working](/guides/find-a-job-in-berlin#start-working).
-
-To choose health insurance...
 
 1. **Understand [your options](#your-options)**  
     Use my [recommendation tool](#your-options) or keep reading this guide. There are two insurance systems and hundreds of options. The best option depends on your situation.
