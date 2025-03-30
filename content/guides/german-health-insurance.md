@@ -316,16 +316,6 @@ If your expat insurance stays valid, it gets more and more expensive. In the lon
 
 **If you are a student**, public health insurance is a little more expensive than expat insurance, but it's *much* better. Switch to public health insurance *maximum* 3 months after you start university. If you wait too long, you will be stuck with expat insurance.
 
-## Travel insurance
-
-Travel insurance is valid **for visiting Germany**. You need it to get a [[Schengen visa]]. It's rarely valid for a [residence permit](/glossary/Aufenthaltstitel) application.
-
-It only covers medical emergencies, and treatments that can't wait until you go back home. It does not cover long-term treatments, health check-ups or pre-existing conditions.
-
-You can buy travel insurance online in your home country. [HanseMerkur](/out/hansemerkur-travel)'s travel insurance is valid for a Schengen visa application.
-
-**[Health insurance for a Schengen visa ➞](/guides/german-visa-health-insurance#for-a-schengen-visa)**
-
 ## Other options
 
 ### Free health insurance
@@ -374,13 +364,45 @@ If health insurance is cheaper in your home country, using your EHIC is cheaper 
 
 **[Information for EU students](https://faq.feather-insurance.com/en/articles/28737-i-m-a-university-student-from-europe-how-do-i-get-covered)** - Feather Insurance
 
+### Travel insurance
+
+Travel insurance is valid **for visiting Germany**. You need it to get a [[Schengen visa]]. It's rarely valid for a [residence permit](/glossary/Aufenthaltstitel) application.
+
+It only covers medical emergencies, and treatments that can't wait until you go back home. It does not cover long-term treatments, health check-ups or pre-existing conditions.
+
+You can buy travel insurance online in your home country. [HanseMerkur](/out/hansemerkur-travel)'s travel insurance is valid for a Schengen visa application.
+
+**[Health insurance for a Schengen visa ➞](/guides/german-visa-health-insurance#for-a-schengen-visa)**
+
 ### The Künstlersozialkasse (KSK)
 
 If you are a freelance artist, journalist, publicist or influencer, join the *[[Künstlersozialkasse]]* (KSK). They pay half of your [health insurance](/glossary/gesetzliche%20Krankenversicherung), and half of your [public pension insurance](/glossary/gesetzliche%20Krankenversicherung). It's always worth it.
 
 **[How to apply for the KSK ➞](/guides/ksk-kuenstlersozialkasse)**
 
-## Need help?
+## How to decide
+
+Choose public health insurance if...
+
+- Your income varies
+- You want something that just works
+- You want children
+- You can get the student tariff
+
+Choose private health insurance if...
+
+- You want the best possible coverage
+- You want the lowest possible price
+- You plan to leave Germany in a few years
+
+Choose expat health insurance if...
+
+- You need temporary insurance to apply for a residence permit
+- You have no other choice
+
+Choose travel insurance if...
+
+- You are just visiting Germany
 
 ### Insurance brokers
 
