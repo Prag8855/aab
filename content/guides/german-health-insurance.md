@@ -143,22 +143,22 @@ Public health insurance also covers your children and your unemployed spouse for
 ### Benefits of public health insurance
 
 - **The cost is proportional to your income**  
-    If you [lose your job](/guides/losing-your-job) or you retire, your health insurance gets cheaper. Private health insurance does not adjust to your income, so it can become unaffordable.
+    If you have a low income, you pay less. This is great if you have an unstable income, if you lose your job, or if you retire.
 - **It's cheap for students**  
     Students pay around {{GKV_COST_STUDENT|cur}}€ per month until they are 30 years old. Usually, public is the best option for students.[^59]
-- **It covers your family [for free](#free-health-insurance)**  
-    Your children and your unemployed spouse get free health insurance. With private insurance, you pay more for each person you cover. If you have children, public health insurance is often the best option.[^12]
+- **It covers your family for free**  
+    Your children and your unemployed spouse get [free health insurance](#free-health-insurance). Private health insurance charges for each person you cover. If you have children, public health insurance is often the best option.[^12]
 - **It's easy to use**  
-    When you go to the doctor, you show your insurance card, and you get healthcare. You don't need to think about coverage, deductibles or reimbursement. There is no paperwork; it just works.
+    When you go to the doctor, you show your insurance card, and you get healthcare. You never need to think about coverage, deductibles or reimbursement. There is no paperwork; it just works.
 - **It's not tied to your health**  
-    The cost is not affected by your health or your age. You don't pay more if you are very sick or use your insurance all the time.
+    You pay the same price, even if you are very sick when you join. You don't pay more if you use your health insurance all the time.
 
 ### Disadvantages of public health insurance
 
 - **It's expensive if you have a high income**  
-    If you have a high income, you pay more. If you are young, healthy and well-paid, private health insurance is usually much cheaper.
-- **It's harder to get a doctor appointment**  
-    With public health insurance, you wait longer for a doctor appointment. It's hard to find a psychotherapist or urologist who accepts public health insurance.[^13] With private health insurance, you can see doctors faster.
+    If you earn more, you pay more. If you are young, healthy and well-paid, private health insurance is better and cheaper.[^63]
+- **It's harder to get a doctor appointment**[^13]  
+    It's hard to find a psychotherapist, psychiatrist, gynaecologist, paediatrician or urologist who accept public health insurance. It can take weeks or months to get an appointment. If you want to see a doctor quickly, private health insurance is better.
 - **It does not cover special treatments**  
     Public health insurance covers *necessary* care. If you want fancier treatments, you must pay for the price difference. For example, it only covers amalgam tooth fillings, not fancy composite fillings. It only covers basic teeth cleanings, twice per year. Eyeglasses are rarely covered. With private health insurance, you can choose better coverage.
 
@@ -413,7 +413,7 @@ There are more types of insurance in Germany, but health and liability insurance
 [^10]: [krankenkassenzentrale.de](http://web.archive.org/web/20220926103421/https://www.krankenkassenzentrale.de/wiki/krankenkasse-arbeitslosigkeit), [tk.de](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-versicherte/veraenderung-berufliche-situation/wenn-sie-arbeitslos-sind-2000802)
 [^11]: [krankenkassen.de](https://www.krankenkassen.de/gesetzliche-krankenkassen/krankenkasse-beitrag/arbeitslose/#:~:text=ubernimmt%20das%20jobcenter%20den%20allgemeinen%20krankenkassen-beitrag) (February 2025), [aok.de](https://www.aok.de/pk/krankenkassenbeitraege/arbeitslosigkeit/), [aok.de](https://www.aok.de/pk/krankenkassenbeitraege/arbeitslosigkeit/), [Arbeitsagentur](https://www.arbeitsagentur.de/arbeitslosengeld-2/gesundheit-versicherung)
 [^12]: Citation needed - Public is best if you want children
-[^13]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/5cw86x/looking_for_an_english_therapist_in_berlin/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/8z8558/psychotherapy_in_berlin/e2idrsi/)
+[^13]: Citation needed - doctors that are hard to find
 [^14]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/9yib75/not_eligible_for_either_private_or_public_health/)
 [^15]: Citation needed - All public options are the same
 [^16]: [gesundheitsinformation.de](https://www.gesundheitsinformation.de/krankenversicherung-in-deutschland.html)
@@ -460,4 +460,4 @@ There are more types of insurance in Germany, but health and liability insurance
 [^57]: Citation needed - EU health insurance covers you until you start working
 [^58]: Citation needed - Private makes most sense for self-employed students
 [^59]: Citation needed - Public usually the best option for students
-[^61]: Citation needed - Feather is an agent
+[^61]: Citation needed - Feather is an agent[^63]: Citation needed - Private better and cheaper for young, wealthy people
