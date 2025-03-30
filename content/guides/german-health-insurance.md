@@ -168,20 +168,26 @@ The most important question: is public the best option for you? [Ask an expert](
 
 ## Private health insurance
 
-11% of German residents have private health insurance (*[[private Krankenversicherung]]* or *[PKV](/glossary/private%20Krankenversicherung)*).[^16] Not everyone can choose private health insurance.
+11% of Germans have [private health insurance](/glossary/private%20Krankenversicherung).[^16] Most people can't get private health insurance.
 
 ### Cost of private health insurance
 
-The cost depends on 3 things:
+The cost depends on 4 things:
 
-- Your age when you join
-- Your health condition when you join
-- The coverage you choose
-- Your deductible
+- **Your age when you join**  
+    Young and healthy people pay less. The insurer saves part of your payments for when you are old. If you join when you are young, your payments are lower when you are old. If you plan to leave Germany after a few years, you can get health insurance without old age provisions. It's even cheaper.
+- **Your health condition when you join**  
+    Usually, you need to take a medical test. After you join, your health condition does not change the cost of your insurance. If you get really sick and use your insurance all the time, the price does not change.
+- **The level of coverage you choose**  
+    You can get the best coverage or the lowest price.
+- **Your [deductible](/glossary/Selbstbeteiligung)**  
+    A high deductible means lower monthly payments, but it also means paying out of pocket for most of your healthcare.
 
-After you join, your health does not affect the cost of your insurance. If you get very sick, you still pay the same price.
+You can get really cheap private health insurance. You have low monthly payments, but you pay more when you get healthcare. Usually, there is a high [deductible](/glossary/Selbstbeteiligung), and you get a yearly discount if you don't use your health insurance.[^17]
 
-You can pay more and get better coverage. You can choose a higher deductible (*[[Selbstbeteiligung]]*) and pay less.[^17] Some insurers give you a discount if you don't use your insurance.
+If you are young and healthy, you could pay just 175€ per month for private insurance (350€ if you are self-employed).[^62] Some insurers also have discounts for students.
+
+You can also pay more and get the best coverage. You have higher monthly payments, but there is no deductible.
 
 **[Quick price estimation ➞](/out/feather-private-estimate)**
 
@@ -189,14 +195,12 @@ Your employer pays half of your health insurance. If you are self-employed, you 
 
 ### Benefits of private health insurance
 
-- **Faster doctor appointment**  
-    You can get a doctor appointment faster. Try it yourself: go on [Doctolib](https://www.doctolib.de/), and look for the earliest doctor appointment. Try again with private health insurance.
+- **Faster doctor appointments**  
+    You can get an appointment in days instead of weeks. Try it yourself: go on [Doctolib](https://www.doctolib.de/), and look for the earliest doctor appointment. Try again with private health insurance. It's really hard to find a psychiatrist, a gynaecologist or a paediatrician with public health insurance. It's much easier with private health insurance.
 - **You choose your coverage**  
-    Your insurance can cover dental care, travel insurance, special treatments etc. You can choose the minimum coverage to pay less.
-- **You can pay less with a deductible**  
-    For example, if you have a 3,000€ per year deductible (*[[Selbstbeteiligung]]*), you pay the first 3,000€ in medical fees yourself, after that, your insurance pays for everything.[^17] If you have a high deductible, your monthly payments are lower. If you never go to the doctor, you can save a lot of money.
-- **You pay less if you don't use it**  
-    Many private health insurers have a no-claims bonus: if you don't use your health insurance, your insurance gets cheaper. If you never get sick, you can save a lot of money.
+    Your insurance can cover dental care, travel insurance, special treatments etc. You can pay more for the best coverage. You can also choose lower coverage and a high deductible to pay less.[^17] 
+- **You pay less when you don't use it**  
+    Many private health insurers have a no-claims bonus. If you don't use your health insurance, you get money back every year. If you never get sick, you can save a lot of money.
 
 ### Disadvantages of private health insurance
 
@@ -224,11 +228,13 @@ With private health insurance, there is no long-term care insurance (*Pflegevers
 
 Even if you *can* have private health insurance, private health insurers can reject you. For example, if you have serious health problems, they will reject you. If you had psychotherapy, they usually reject you. If you have problems like AIDS, severe asthma, diabetes or obesity, they could also reject you, or charge a lot more.
 
-### What private insurance covers
+### What is covered
 
 Private health insurance covers the same things as public health insurance, and often more. **Necessary healthcare is always covered.**
 
-With private health insurance, you have more control over what is covered. For example, it can cover extra services like dental care, [glasses](/guides/eyeglasses) and laser eye surgery. You can also pay less if you cover less, or if you have a higher deductible (*[[Selbstbeteiligung]]*).
+The covered amount is unlimited.[^60] For example, if you get cancer, the treatment can cost millions of euros. Your insurance pays for everything.
+
+With private health insurance, you can choose how much coverage you want. For example, it can cover extra services like dental care, [eyeglasses](/guides/eyeglasses) and laser eye surgery. You can cover less, but pay less every month.
 
 You have more healthcare options, because you can visit doctors and therapists that don't accept public health insurance. Doctors often give priority to patients with private health insurance.
 
@@ -428,7 +434,7 @@ There are more types of insurance in Germany, but health and liability insurance
 [^33]: Dr. Rob Schumacher, [Feather Insurance](/out/feather)
 [^26]: [Feather Insurance](/out/feather) (May 2023)
 [^25]: [tk.de](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-nicht-tk-versicherte/wie-hoch-sind-die-beitraege/freiwillige-mitglieder/haeufige-fragen-zu-beitraegen-fuer-freiwillig-versicherte/beitragshoehe-absolvent-freiwilliger-student-2006956#:~:text=nach%20dem%2030.%20geburtstag), [krankenkassen.de](https://www.krankenkassen.de/meine-krankenkasse/student/freiwillig/#:~:text=mit%20dem%20ende%20des%20semesters%2C%20in%20das%20der%2030.%20geburtstag%20fallt)
-[^30]: Dr. Rob Schumacher at [Feather Insurance](/out/feather) (November 2023)
+[^30]: Citation needed - Dr. Rob Schumacher at [Feather Insurance](/out/feather) (November 2023)
 [^31]: Citation needed
 [^34]: [verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/krankenversicherung/familienversicherung-in-der-krankenkasse-wer-kostenlos-mit-rein-kommt-28982) (January 2025) [minijob-zentrale.de](https://www.minijob-zentrale.de/DE/meta/faq-bereich/urlaub-krankheit-und-arbeitsrechte/96_warum_kein_geld_f%C3%BCr_minijobber_aus_kv/faq_96_warum_kein_geld_f%C3%BCr_minijobber_aus_kv.html#:~:text=oft%20besteht%20eine%20beitragsfreie%20familienversicherung%20uber%20den%20ehepartner%20oder%20die%20eltern) (February 2025)
 [^35]: Citation needed - EHIC for employees
@@ -456,4 +462,8 @@ There are more types of insurance in Germany, but health and liability insurance
 [^57]: Citation needed - EU health insurance covers you until you start working
 [^58]: Citation needed - Private makes most sense for self-employed students
 [^59]: Citation needed - Public usually the best option for students
-[^61]: Citation needed - Feather is an agent[^63]: Citation needed - Private better and cheaper for young, wealthy people
+[^61]: Citation needed - Feather is an agent
+[^60]: Citation needed - Private healthcare is unlimited
+[^62]: Citation needed - Minimum cost for health insurance
+[^63]: Citation needed - Private better and cheaper for young, wealthy people
+[^64]: Considering that the cost difference is tax-deductible.
