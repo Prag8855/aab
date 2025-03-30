@@ -12,3 +12,7 @@ Related_guides:
 ---
 
 Some insurance policies have a deductible (*Selbstbeteiligung*). This is the amount you must pay yourself before the insurance starts paying for you.
+
+[Private health insurance](/glossary/private%20Krankenversicherung) often has a yearly deductible. For example, if your insurance has a 1,200€ per year deductible, and you get an operation that costs 2,000€, you pay 1,200€, and your health insurance pays 800€.
+
+[Car insurance](/glossary/Kfz-Versicherung) often has a deductible too.
