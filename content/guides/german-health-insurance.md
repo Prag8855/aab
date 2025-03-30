@@ -10,9 +10,9 @@ Related_reviews:
     reviews/german-health-insurance/mike-woodiwiss.md
 ---
 
-All German residents need health insurance. It pays for your healthcare when you are sick. You must choose health insurance yourself.
+All German residents need health insurance. It pays for your healthcare when you are sick.
 
-This guide explains how German health insurance works, and helps you choose the best health insurance for your needs.
+You must choose health insurance yourself. There are hundreds of options. This guide explains how German health insurance works, how to choose the best health insurance for your needs.
 
 {% include "_blocks/tableOfContents.html" %}
 
@@ -142,16 +142,16 @@ Public health insurance also covers your children and your unemployed spouse for
 
 ### Benefits of public health insurance
 
-- **It matches your income**  
-    If you [lose your job](/guides/losing-your-job) or retire, your insurance gets cheaper. Private health insurance does not adjust to your income, so it can become really expensive.
+- **The cost is proportional to your income**  
+    If you [lose your job](/guides/losing-your-job) or you retire, your health insurance gets cheaper. Private health insurance does not adjust to your income, so it can become unaffordable.
 - **It's cheap for students**  
-    Students pay around {{GKV_COST_STUDENT|cur}}€ per month until they are 30 years old. Public health insurance is usually the best option for students.[^59]
+    Students pay around {{GKV_COST_STUDENT|cur}}€ per month until they are 30 years old. Usually, public is the best option for students.[^59]
 - **It covers your family [for free](#free-health-insurance)**  
-    It covers your children and your unemployed spouse. With private insurance, you pay extra for each person you cover. If you have children, public health insurance is often the best option.[^12]
+    Your children and your unemployed spouse get free health insurance. With private insurance, you pay more for each person you cover. If you have children, public health insurance is often the best option.[^12]
 - **It's easy to use**  
     When you go to the doctor, you show your insurance card, and you get healthcare. You don't need to think about coverage, deductibles or reimbursement. There is no paperwork; it just works.
 - **It's not tied to your health**  
-    The cost is based on your income, not your health or your age. Usually, public health insurance is forced to accept you, even if you have serious health problems. You don't pay more because of your bad health. You don't pay more if you use it all the time.
+    The cost is not affected by your health or your age. You don't pay more if you are very sick or use your insurance all the time.
 
 ### Disadvantages of public health insurance
 
@@ -159,16 +159,16 @@ Public health insurance also covers your children and your unemployed spouse for
     If you have a high income, you pay more. If you are young, healthy and well-paid, private health insurance is usually much cheaper.
 - **It's harder to get a doctor appointment**  
     With public health insurance, you wait longer for a doctor appointment. It's hard to find a psychotherapist or urologist who accepts public health insurance.[^13] With private health insurance, you can see doctors faster.
-- **Special treatments are not covered**  
+- **It does not cover special treatments**  
     Public health insurance covers *necessary* care. If you want fancier treatments, you must pay for the price difference. For example, it only covers amalgam tooth fillings, not fancy composite fillings. It only covers basic teeth cleanings, twice per year. Eyeglasses are rarely covered. With private health insurance, you can choose better coverage.
 
 ### Best public health insurance
 
-Public health insurance options are almost the same. The price and the coverage are set by law. The biggest differences are the extra contribution (*[[Zusatzbeitrag]]*) and the customer service.[^15]
+All options have almost the same cost and coverage. After taxes, the price difference is less than 15€ per month. The biggest difference is customer service.[^15]
 
-If you don't speak German, [Techniker Krankenkasse](/out/feather-tk) and [Barmer](/out/barmer) speak English. [Techniker Krankenkasse](/out/feather-tk) is good, and it's one of the cheapest options.{{ fail_on('2025-12-31') }}. I used them for 6 years, and [I liked them](/guides/techniker-krankenkasse-review).
+If you need an English-speaking health insurer, choose [Techniker Krankenkasse](/out/feather-tk) or [Barmer](/out/barmer). I had Techniker Krankenkasse for 6 years. It's [really good](/guides/techniker-krankenkasse-review), and it's one of the cheapest options.{{ fail_on('2025-12-31') }}.
 
-[Ask an expert](#insurance-brokers) to help you choose. They might show you better options for your situation.
+The most important question: is public the best option for you? [Ask an expert](#insurance-brokers) to help you choose. You might get much better coverage *and* a lower price.
 
 ## Private health insurance
 
@@ -415,7 +415,7 @@ There are more types of insurance in Germany, but health and liability insurance
 [^12]: Citation needed - Public is best if you want children
 [^13]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/5cw86x/looking_for_an_english_therapist_in_berlin/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/8z8558/psychotherapy_in_berlin/e2idrsi/)
 [^14]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/9yib75/not_eligible_for_either_private_or_public_health/)
-[^15]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/9zctu2/best_public_health_insurer_gkv_for_an_english/ea84mvy/)
+[^15]: Citation needed - All public options are the same
 [^16]: [gesundheitsinformation.de](https://www.gesundheitsinformation.de/krankenversicherung-in-deutschland.html)
 [^17]: [blog.feather-insurance.com](https://feather-insurance.com/blog/how-are-private-health-insurance-payments-different-from-public-health-insurance/)
 [^18]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/c2j339/is_pkv_still_a_terrible_idea_if_i_likely_wont/ermsqt7/)
