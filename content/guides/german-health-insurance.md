@@ -204,29 +204,27 @@ Your employer pays half of your health insurance. If you are self-employed, you 
 
 ### Disadvantages of private health insurance
 
-- **You pay more when you use it**  
-    With private health insurance, if you don't go to the doctor, you save money. Deductibles and no-claims bonuses discourage you from seeing a doctor.
-- **It's more paperwork**  
-    With private health insurance, you pay the doctor, get an invoice, and ask your insurer to reimburse you. If you have a deductible (*[[Selbstbeteiligung]]*), you wait until you have enough expenses before you declare them.
-- **It's cheap when you are young**  
-    If you are young and healthy, you could pay just 175€ per month for private insurance (350€ if you are self-employed). Public health insurance can cost up to {{GKV_MAX_COST_EMPLOYEE|cur}}€ per month for employees ({{GKV_MAX_COST_SELF_PAY|cur}}€ if you are self-employed). If you are young, healthy and well-paid, private insurance can be much cheaper.
-- **It can get expensive when you are old**  
-    When you retire, you have a lower income, but your insurance does not get cheaper. After 55 years old, it's almost impossible to go back to public health insurance. You can be stuck with a very expensive health insurance. If you join the private system when you are young, your insurer saves a part of your payments for later, so your insurance won't be too expensive when you are old.
-- **Private is expensive if you have pre-existing health problems**  
-    Private health insurance often requires a health test before you join. If you have serious pre-existing health problems, they usually reject you. If they accept you, they can charge a lot more.[^14] For example, if you have a chronic disease, get psychotherapy, or need expensive medication, they will reject you. After you are accepted, the price does not change if you get sick.
+- **It discourages getting healthcare**  
+    You usually have a yearly [deductible](/glossary/Selbstbeteiligung). If you are below the deductible, you pay for healthcare yourself. You might ignore small health problems instead of paying 50€ to 150€ to see a doctor.
+- **You pay, then get reimbursed**  
+    When you go to the doctor, they send you an invoice, you pay it and your health insurance reimburses you. This is more effort and more paperwork. You also need enough money to pay for your medical bills, even if you get reimbursed later.
+- **It does not adjust to your income**  
+    If your income changes, your health insurance costs the same. This is a problem if you have a bad year. Public health insurance is a much safer option, because the cost is proportional to your income.
+- **They can reject you**  
+    If you have serious health problems, they reject you. If you had psychotherapy, they usually reject you. If you have problems like AIDS, severe asthma, diabetes or obesity, they could also reject you, or charge a lot more.
 
-With private health insurance, there is no long-term care insurance (*Pflegeversicherung*) surcharge. It's included in the price of your insurance.
 
-### Who can have private health insurance?
+### Who can get private health insurance?
 
-[If you are voluntarily insured](/guides/german-health-insurance#your-options) (*[[freiwillig versichert]]*), you can choose private or public health insurance. If you are compulsorily insured (*[[Pflichtversichert]]*), you must choose public health insurance.
+You can get private health insurance if...
 
-- **If you are self-employed**, you can choose private insurance. There is no minimum income. If you are a non-EU freelancer, and you just moved to Germany, private health insurance might be your only option, because public health insurers often reject freelancers who are not already on the public system. If you have a low income, private health insurers might reject you, and you might be forced to use [expat health insurance](/glossary/Expat%20health%20insurance).
-- **If you are an employee, and you earn more than {{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}}€ per year** (before taxes), you can choose public or private health insurance. Your employer will pay half of your insurance.
-- **If you are an employee, and you earn less than {{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}}€ per year** (before taxes), you can't choose private health insurance. You must choose public health insurance.
-- **If you are a student, a doctor or a civil servant**, you can choose private health insurance. If you are a student 30 years old or older, private health insurance can be cheaper than public health insurance. Private health insurers offer special rates for older students.
+- You are self-employed
+- or you are and employee and you earn over {{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}}€ per year
+- or you are a student, a trainee (*[[Azubi]]*), a doctor or a public servant
 
-Even if you *can* have private health insurance, private health insurers can reject you. For example, if you have serious health problems, they will reject you. If you had psychotherapy, they usually reject you. If you have problems like AIDS, severe asthma, diabetes or obesity, they could also reject you, or charge a lot more.
+Everyone else must get public health insurance.
+
+Even if you *can* have private health insurance, private health insurers can reject you because of pre-existing health problems.
 
 ### What is covered
 
