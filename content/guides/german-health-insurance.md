@@ -31,9 +31,9 @@ This guide explains how German health insurance works, how to choose the best he
 
 Your health insurance is not tied to your job. Your employer does not decide what health insurance you can have. If you [lose your job](/guides/losing-your-job), you keep your health insurance.
 
-**If you earn over {{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}}€ per year**, you can choose public or private health insurance. Public health insurance costs [around {{GKV_MAX_COST_EMPLOYEE|cur}}€ per month](/glossary/Höchstbeitrag). Private health insurance will probably be cheaper for you.[^56]
+**If you earn over {{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}}€ per year**, you can choose public or private health insurance.[^3] Public health insurance costs [around {{GKV_MAX_COST_EMPLOYEE|cur}}€ per month](/glossary/Höchstbeitrag). Private health insurance will probably be cheaper for you.[^56]
 
-**If you earn {{GKV_MAX_INCOME|cur}}€ to {{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}}€ per year**, your only option is [public health insurance](/glossary/gesetzliche%20Krankenversicherung). It costs [around {{GKV_MAX_COST_EMPLOYEE|cur}}€ per month](/glossary/Höchstbeitrag). If you are a doctor or a civil servant, you can also choose private health insurance.[^31]
+**If you earn {{GKV_MAX_INCOME|cur}}€ to {{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}}€ per year**, you can only choose [public health insurance](/glossary/gesetzliche%20Krankenversicherung).[^3] It costs [around {{GKV_MAX_COST_EMPLOYEE|cur}}€ per month](/glossary/Höchstbeitrag). If you are a doctor or a civil servant, you can also choose private health insurance.[^31]
 
 **If you earn less than {{GKV_MAX_INCOME|cur}}€ per year**, you can only choose public health insurance. It costs {{GKV_MIN_RATE_EMPLOYEE}}% to {{GKV_MAX_RATE_EMPLOYEE}}% of your income (including *[[Pflegeversicherung]]*). If you are a doctor or a civil servant, you can also choose private health insurance.[^31]
 
@@ -83,11 +83,9 @@ If you are a freelance artist, journalist, publicist or influencer, join the *[[
 
 ### Health insurance for an apprenticeship
 
-If you are a trainee (*[[Azubi]]*), your only option is [public health insurance](/glossary/gesetzliche%20Krankenversicherung).[^54]
-
 **If your earn less than {{GKV_AZUBI_FREIBETRAG|cur}}€ per month**, you get free [public health insurance](/glossary/gesetzliche%20Krankenversicherung). Your employer pays for it.[^48]
 
-**If you earn more than {{GKV_AZUBI_FREIBETRAG|cur}}€ per month**, your health insurance costs {{GKV_MIN_RATE_EMPLOYEE}}% to {{GKV_MAX_RATE_EMPLOYEE}}% of your income (including *[[Pflegeversicherung]]*).[^52] You can't get [free health insurance](#free-health-insurance).[^53]
+**If you earn more than {{GKV_AZUBI_FREIBETRAG|cur}}€ per month**, you can only get public health insurance.[^54] It costs {{GKV_MIN_RATE_EMPLOYEE}}% to {{GKV_MAX_RATE_EMPLOYEE}}% of your income (including *[[Pflegeversicherung]]*).[^52] You can't get [free health insurance](#free-health-insurance).[^53]
 
 ### Health insurance for an internship
 
@@ -207,7 +205,7 @@ The most important question: is public the best option for you? [Ask an expert](
 
 11% of Germans have [private health insurance](/glossary/private%20Krankenversicherung).[^16] You can get private health insurance if...
 
-- You are and employee and you earn over {{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}}€ per year
+- You are and employee and you earn over {{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}}€ per year[^3]
 - or you are self-employed
 - or you are a student, a trainee (*[[Azubi]]*), a doctor or a public servant
 
@@ -411,32 +409,20 @@ There are more types of insurance in Germany, but health and liability insurance
 
 **[Types of insurance in Germany ➞](/guides/insurance)**
 
-[^1]: [krankenkasseninfo.de](https://www.krankenkasseninfo.de/personengruppen/geringfuegig-beschaeftigte/), [krankenversicherung.net](https://www.krankenversicherung.net/gesetzliche-krankenversicherung/freiwillige-krankenversicherung)
 [^2]: [gesundheitsinformation.de](https://www.gesundheitsinformation.de/krankenversicherung-in-deutschland.html), [gkv-spitzenverband.de](https://www.gkv-spitzenverband.de/english/statutory_health_insurance/statutory_health_insurance.jsp)
 [^3]: [versicherungspflichtgrenzen.de](https://www.versicherungspflichtgrenzen.de/html/pflichtversicherungsgrenzen.html)
 [^4]: Citation needed - Freelancers are freiwillig versichert
-[^5]: [krankenkassen.wiki](https://www.krankenkassen.wiki/cms/gkv/info/grundlagen/gkv/uebersicht-der-entwicklung-der-hoechstbeitraege-der-gesetzlichen-krankenversicherung)
-[^6]: [minijob-zentrale.de](https://www.minijob-zentrale.de/DE/die-minijobs/versicherungen/versicherungen_node.html)
-[^7]: [tk.de](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-versicherte/veraenderung-berufliche-situation/versichert-als-studierende/haeufige-fragen-fuer-studierende/beitragshoehe-beitrag-student-kvds-2007468), [aok.de](https://www.aok.de/pk/krankenkassenbeitraege/), [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/7b81ui/health_care/)
-[^8]: [krankenkassen.de](https://www.krankenkassen.de/gesetzliche-krankenkassen/krankenkasse-beitrag/selbststaendige/), [bundesregierung.de](https://www.bundesregierung.de/breg-de/service/archiv/beschaeftigte-ab-2019-entlastet-1141468)
-[^9]: [check24.de](https://www.check24.de/gesetzliche-krankenversicherung/mindestbeitrag/)
 [^10]: [krankenkassenzentrale.de](http://web.archive.org/web/20220926103421/https://www.krankenkassenzentrale.de/wiki/krankenkasse-arbeitslosigkeit), [tk.de](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-versicherte/veraenderung-berufliche-situation/wenn-sie-arbeitslos-sind-2000802)
 [^11]: [krankenkassen.de](https://www.krankenkassen.de/gesetzliche-krankenkassen/krankenkasse-beitrag/arbeitslose/#:~:text=ubernimmt%20das%20jobcenter%20den%20allgemeinen%20krankenkassen-beitrag) (February 2025), [aok.de](https://www.aok.de/pk/krankenkassenbeitraege/arbeitslosigkeit/), [aok.de](https://www.aok.de/pk/krankenkassenbeitraege/arbeitslosigkeit/), [Arbeitsagentur](https://www.arbeitsagentur.de/arbeitslosengeld-2/gesundheit-versicherung)
 [^12]: Citation needed - Public is best if you want children
 [^13]: Citation needed - doctors that are hard to find
-[^14]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/9yib75/not_eligible_for_either_private_or_public_health/)
 [^15]: Citation needed - All public options are the same
 [^16]: [gesundheitsinformation.de](https://www.gesundheitsinformation.de/krankenversicherung-in-deutschland.html)
 [^17]: [blog.feather-insurance.com](https://feather-insurance.com/blog/how-are-private-health-insurance-payments-different-from-public-health-insurance/)
 [^18]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/c2j339/is_pkv_still_a_terrible_idea_if_i_likely_wont/ermsqt7/)
-[^19]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/2hffzw/what_is_the_worst_financial_mistake_you_made/cks7b7j/), [wiwo.de](https://www.wiwo.de/finanzen/vorsorge/raus-aus-der-pkv-so-gelingt-privatversicherten-die-flucht-vor-hohen-beitraegen/21221640.html)
-[^20]: [Finanztip](https://www.finanztip.de/pkv/pkv-rueckkehr-gkv/), [wiwo.de](https://www.wiwo.de/finanzen/vorsorge/raus-aus-der-pkv-so-gelingt-privatversicherten-die-flucht-vor-hohen-beitraegen/21221640.html)
-[^21]: [Finanztip](https://www.finanztip.de/pkv/pkv-rueckkehr-gkv/#c13914)
 [^22]: [toytowngermany.com](https://web.archive.org/web/20220703211411/https://www.toytowngermany.com/forum/topic/383323-could-i-stay-on-travel-health-insurance-for-5-years/?page=2#comment-3746627)
 [^23]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/d2njye/advise_about_health_insurance_for_erasmus_student/ezvtjk1/), [krankenkassen.de](http://web.archive.org/web/20201204045304/https://www.krankenkassen.de/meine-krankenkasse/student/ehic/)
 [^24]: [faq.feather-insurance.com](https://faq.feather-insurance.com/en/articles/148524-health-insurance-for-short-term-and-seasonal-employment)
-[^27]: [abc-der-krankenkassen.de](https://www.gesetzliche-krankenkassen.de/geringfuegig-beschaeftigte-minijob/)
-[^28]: [krankenkassenzentrale.de](http://web.archive.org/web/20220928194950/https://www.krankenkassenzentrale.de/wiki/krankenkasse-studenten)
 [^29]: [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/532620887206619/)
 [^32]: [krankenkassen.de](http://web.archive.org/web/20201204045304/https://www.krankenkassen.de/meine-krankenkasse/student/ehic/)
 [^33]: Dr. Rob Schumacher, [Feather Insurance](/out/feather)
@@ -445,7 +431,6 @@ There are more types of insurance in Germany, but health and liability insurance
 [^30]: Citation needed - Dr. Rob Schumacher at [Feather Insurance](/out/feather) (November 2023)
 [^31]: Citation needed
 [^34]: [verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/krankenversicherung/familienversicherung-in-der-krankenkasse-wer-kostenlos-mit-rein-kommt-28982) (January 2025) [minijob-zentrale.de](https://www.minijob-zentrale.de/DE/meta/faq-bereich/urlaub-krankheit-und-arbeitsrechte/96_warum_kein_geld_f%C3%BCr_minijobber_aus_kv/faq_96_warum_kein_geld_f%C3%BCr_minijobber_aus_kv.html#:~:text=oft%20besteht%20eine%20beitragsfreie%20familienversicherung%20uber%20den%20ehepartner%20oder%20die%20eltern) (February 2025)
-[^35]: Citation needed - EHIC for employees
 [^36]: [minijob-zentrale.de](https://www.minijob-zentrale.de/DE/die-minijobs/versicherungen/detailseite.html#:~:text=ist%20ein%20solidarbeitrag.%20daraus%20entsteht%20fur%20den%20minijobber) (February 2025)
 [^37]: [verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/krankenversicherung/familienversicherung-in-der-krankenkasse-wer-kostenlos-mit-rein-kommt-28982#:~:text=schlie%C3%9Ft%20eine%20Familienversicherung-,aus.,-Man%20darf%20nicht) (February 2025)
 [^38]: Citation needed - EHIC for students
@@ -454,10 +439,8 @@ There are more types of insurance in Germany, but health and liability insurance
 [^41]: [krankenkassen.de](https://www.krankenkassen.de/gesetzliche-krankenkassen/krankenkasse-beitrag/arbeitslose/#:~:text=mit%20eintritt%20der%20versicherungspflicht%20wegen%20alg%20i%20muss%20die%20private%20krankenversicherung%20den%20pkv-vertrag%20im%20beginn%20der%20mitgliedschaft%20in%20einer%20gesetzlichen%20krankenkasse%20aufheben) (February 2025)
 [^42]: Citation needed - expat insurance while moving
 [^43]: [minijob-zentrale.de](https://www.minijob-zentrale.de/DE/die-minijobs/sonderfaelle/detailseite.html#:~:text=auszubildende%20sind%20versicherungspflichtige%20arbeitnehmer%20oder%20arbeitnehmerinnen) (February 2025)
-[^44]: Citation needed - PKV student tariff
 [^45]: [Techniker Krankenkasse](https://www.tk.de/vertriebspartner/faq/beitragsuebersicht/elterngeld-und-elternzeit/elterngeld-und-elternzeit-2065854) (March 2025)
 [^46]: [Techniker Krankenkasse](https://www.tk.de/resource/blob/2033352/0a9809b0d119ad48bdd717ccf37391b2/beratungsblatt-beschaeftigung-von-studierenden-und-praktikanten-data.pdf) (January 2025), [Techniker Krankenkasse](https://www.tk.de/firmenkunden/versicherung/versicherung-faq/haeufige-fragen-zu-studenten-und-praktikanten/wer-kann-werkstudent-sein-2036666) (March 2025), [meinpraktikum.de](https://www.meinpraktikum.de/ratgeber/werkstudent/allgemeines) (March 2025)
-[^47]: Citation needed - Familienversicherung for Azubis
 [^48]: [AOK](https://www.aok.de/pk/krankenkassenbeitraege/auszubildende/#:~:text=auszubildende%20mussen%20keine%20krankenkassenbeitrage%20zahlen%2C%20wenn%20ihr%20monatsverdienst%20nicht%20mehr%20als%20325%20euro%20betragt) (March 2025), [Check24](https://www.check24.de/gesetzliche-krankenversicherung/azubis/#:~:text=wer%20eine%20ausbildungsvergutung%20von%20weniger%20als%20325%20euro%20im%20monat%20erhalt%2C%20muss%20keine%20beitrage%20zur%20krankenversicherung%20zahlen.) (March 2025), [Techniker Krankenkasse](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-versicherte/veraenderung-berufliche-situation/versichert-als-schueler-und-auszubildende/beitraege-azubi-auszubildende-hoehe-beitragshoehe-2010362#:~:text=verdienen%20sie%20nicht%20mehr%20als%20325%20euro%20brutto%20monatlich%2C%20zahlt%20ihr%20arbeitgeber%20die%20gesamten%20beitrage.) (March 2025)
 [^49]: [Techniker Krankenkasse](https://www.tk-lex.tk.de/web/guest/externalcontent?_leongshared_serviceId=2010&_leongshared_externalcontentid=HI521237) (March 2025), [§20 Abs. 3 SGB IV](https://www.gesetze-im-internet.de/sgb_4/__20.html)
 [^50]: [meinpraktikum.de](https://www.meinpraktikum.de/ratgeber/krankenversicherung#:~:text=vorgeschriebenes%20vorpraktikum%20oder%20nachpraktikum%20ohne%20vergutung)
@@ -474,4 +457,3 @@ There are more types of insurance in Germany, but health and liability insurance
 [^60]: Citation needed - Private healthcare is unlimited
 [^62]: Citation needed - Minimum cost for health insurance
 [^63]: Citation needed - Private better and cheaper for young, wealthy people
-[^64]: Considering that the cost difference is tax-deductible.
