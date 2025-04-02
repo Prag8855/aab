@@ -67,7 +67,7 @@ If you move from a EU country, your health insurance from your previous country 
 
 ### Health insurance for freelancers
 
-If you are self-employed, you can choose public, private or expat health insurance.[^4] Don't choose without help. It's is a complex decision, and you can make expensive mistakes. If you choose the wrong insurance, your freelance visa application could be rejected. You really need to [talk to a health insurance broker](#insurance-brokers).
+If you are self-employed, you can choose public, private or expat health insurance.[^4] Don't choose without help. It's a complex decision, and you can make expensive mistakes. [Ask an expert](#insurance-brokers) to help you choose, it's really important.
 
 **[Public health insurance](/glossary/gesetzliche%20Krankenversicherung)** costs {{GKV_MIN_RATE_SELF_PAY}}% to {{GKV_MAX_RATE_SELF_PAY}}% of your income (including *[[Pflegeversicherung]]*). The minimum cost is [{{GKV_MIN_COST_SELF_PAY|cur}}€](/glossary/Mindestbeitrag) per month. The maximum cost is [{{GKV_MAX_COST_SELF_PAY|cur}}€](/glossary/Höchstbeitrag) per month. You can't get the student tariff, you can't get [free health insurance](#free-health-insurance), and you can't use your [foreign health insurance](#insurance-from-other-eu-countries).[^37]
 
@@ -75,7 +75,13 @@ If you are self-employed, you can choose public, private or expat health insuran
 
 **[Expat health insurance](/glossary/Expat%20health%20insurance)** is the cheapest option. This is a short-term option. It makes sense if know that you won't stay in Germany.
 
-If you just moved from a non-EU country, it's hard to get public health insurance. Public insurance companies can refuse to cover you.[^14] Most immigrant freelancers are forced to choose [private](/glossary/private%20Krankenversicherung) or [expat health insurance](/glossary/Expat%20health%20insurance).
+If you just moved from a non-EU country, it's hard to get public health insurance. Public insurance companies can refuse to cover you.[^14] Most immigrant freelancers are forced to choose [private](/glossary/private%20Krankenversicherung) or [expat health insurance](/glossary/Expat%20health%20insurance). Choose carefully. If you choose the wrong insurance, your [freelance visa](/glossary/Freelance%20visa) application will be rejected.
+
+**[Health insurance for a freelance visa ➞](/guides/german-visa-health-insurance#for-a-freelance-visa)**
+
+If you are a freelance artist, journalist, publicist or influencer, join the *[[Künstlersozialkasse]]* (KSK). They pay half of your health insurance, and half of your [public pension insurance](/glossary/gesetzliche%20Krankenversicherung). It's always worth it.
+
+**[How to apply for the KSK ➞](/guides/ksk-kuenstlersozialkasse)**
 
 ### Health insurance for an apprenticeship
 
@@ -106,9 +112,9 @@ If the internship is before or after your studies:
 
 ## Public health insurance
 
-89% of Germans have [public health insurance](/glossary/gesetzliche%20Krankenversicherung).[^2] It's often the only option.
+89% of Germans have [public health insurance](/glossary/gesetzliche%20Krankenversicherung).[^2] It's often your only option.
 
-Public health insurance is provided by non-profit insurance funds called *[[Krankenkassen]]*. It's not provided by the state. The cost and coverage is almost the same for all *Krankenkassen*.
+Public health insurance is provided by [non-profit insurance funds](/glossary/Krankenkasse), not by the state. The cost and coverage are almost the same for all public health insurers.
 
 ### Cost of public health insurance
 
@@ -122,7 +128,40 @@ Public health insurance costs {{GKV_BASE_RATE_EMPLOYEE}}% of your income, plus a
 
 **If you are a student**, you usually pay the student tariff: {{GKV_COST_STUDENT|cur}}€ per month. If you are over 30 years old, you can't get the student tariff, so you pay the same price as everyone else.
 
-You can sometimes get [free health insurance](#free-health-insurance).
+**If you are a trainee** (*[[Azubi]]*) and you earn {{GKV_AZUBI_FREIBETRAG|cur}}€ per month or less, you get free [public health insurance](/glossary/gesetzliche%20Krankenversicherung). Your employer pays for it.[^48]
+
+### Free health insurance
+
+Your parents' health insurance covers you for free if...
+
+- Your parents have public health insurance
+- and you are under 23 years old (under 25 years old if you are a student)
+- and your total income is under {{GKV_FAMILIENVERSICHERUNG_MAX_INCOME|cur}}€ per month ({{MINIJOB_MAX_INCOME|cur}}€ per month for a [minijob](/glossary/Minijob))
+- and you are not self-employed full time
+- and you are not a trainee (*[[Azubi]]*)[^53]
+
+Your spouse's health insurance covers you for free if...[^34]
+
+- Your spouse has public health insurance
+- and your total income is under {{GKV_FAMILIENVERSICHERUNG_MAX_INCOME|cur}}€ per month ({{MINIJOB_MAX_INCOME|cur}}€ per month for a [minijob](/glossary/Minijob))
+- and you are not self-employed full time
+- and you are not a trainee (*[[Azubi]]*)[^53]
+
+Your health insurance from another EU country covers you if...[^39]
+
+- Your total income is under {{GKV_FAMILIENVERSICHERUNG_MAX_INCOME|cur}}€ per month ({{MINIJOB_MAX_INCOME|cur}}€ per month for a [minijob](/glossary/Minijob))
+- or you are a student, and you work 20 hours per week or less[^38]
+
+Your employer pays for your health insurance if...[^48]
+
+- You are a trainee (*[[Azubi]]*)
+- and you earn {{GKV_AZUBI_FREIBETRAG|cur}}€ per month or less
+
+The state pays for your health insurance if...[^45]
+
+- You get [unemployment benefits](/glossary/ALG%20I)
+- or you get *[[Bürgergeld]]*
+- or you get *[[Elterngeld]]*
 
 ### What is covered
 
@@ -171,7 +210,7 @@ The most important question: is public the best option for you? [Ask an expert](
 11% of Germans have [private health insurance](/glossary/private%20Krankenversicherung).[^16] You can get private health insurance if...
 
 - You are and employee and you earn over {{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}}€ per year
-- you are self-employed
+- or you are self-employed
 - or you are a student, a trainee (*[[Azubi]]*), a doctor or a public servant
 
 Everyone else must get [public health insurance](#public-health-insurance).
@@ -218,6 +257,8 @@ If you are young and healthy, you could pay just 175€ per month for private in
     If your income changes, your health insurance costs the same. This is a problem if you have a bad year. Public health insurance is a much safer option, because the cost is proportional to your income.
 - **They can reject you**  
     If you have serious health problems, they reject you. If you had psychotherapy, they usually reject you. If you have problems like AIDS, severe asthma, diabetes or obesity, they could also reject you, or charge a lot more.
+- **You can be stuck with private**  
+    It's hard to switch from private to public health insurance. You can be stuck with an expensive health insurance, and have no way to switch to public.
 
 ### What is covered
 
@@ -231,7 +272,7 @@ You have more healthcare options, because you can visit doctors and therapists t
 
 With private health insurance, you usually pay for healthcare yourself, and get reimbursed by the insurance company. For big, expensive treatments, the insurance company pays the doctor directly. This is different from public health insurance, where you just show your insurance card.
 
-### Which private health insurance should I choose?
+### Best private health insurance
 
 There are big differences between private health insurance companies. Each offers very different options. **The best option depends on your situation.**
 
@@ -245,30 +286,31 @@ The best way to choose is to ask a health insurance broker. Their help is free. 
 
 **[Quick price estimation ➞](/out/feather-private-estimate)**
 
-### How to switch to public health insurance
+## Other options
 
-You can switch from private to public health insurance, but it can be hard. Sometimes, it's impossible, and you are stuck with private health insurance.[^19]
+### Insurance from other EU countries
 
-There are a few ways to switch:
+If you come from another EU country, you can use your European Health Insurance Card (EHIC) in Germany. If you get healthcare in Germany, your health insurance in your home country pays for it.
 
-- **Get unemployment benefits** (*[[ALG I]]*)  
-    If you [lose your job](/guides/losing-your-job) and get [[ALG I]], you are usually forced to get public health insurance.
-- **Lower your income**  
-    If you are an employee, and your income goes below {{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}}€, you must get public health insurance. This does not work for self-employed people.[^20]
-- **Join the [[Künstlersozialkasse]]**  
-    If you are self-employed, and you join the *Künstlersozialkasse*, you can get public health insurance. Most of the time, you have no other choice.
+- **If you stay in Germany temporarily**, your EHIC covers you. You do not need extra health insurance in Germany.
+- **If you are an Erasmus student from another EU country**, your EHIC covers you.[^23] You can use your EHIC card even if you study in Germany for your entire degree.[^32] You do not need extra German health insurance unless you start working.
+- **When you start working in Germany**, your EHIC does not cover you anymore. If you earn more than {{MINIJOB_MAX_INCOME|cur}}€ per month, you must get German health insurance.[^24]
 
-If you are over 55 years old, you can't switch to public insurance anymore.[^21] Otherwise, everyone would get cheap private health insurance when they are young, and cheap public health insurance when they are old. The public health insurers would go bankrupt.
+If health insurance is cheaper in your home country, using your EHIC is cheaper than getting German health insurance. You can save a lot of money every month with the EHIC.
 
-## Expat health insurance
+**[What is the European Health Insurance Card?](https://ec.europa.eu/social/main.jsp?catId=559&langId=en)** - europa.eu
 
-[[Expat health insurance]] is a kind of private health insurance. It's a **temporary solution** for people who move to Germany. It has much better coverage than travel insurance.
+**[Information for EU students](https://faq.feather-insurance.com/en/articles/28737-i-m-a-university-student-from-europe-how-do-i-get-covered)** - Feather Insurance
+
+### Expat health insurance
+
+[[Expat health insurance]] is a kind of private health insurance. It's a **temporary solution** for people who move to Germany. It covers you until you can get public or private health insurance.
 
 There are **3 reasons to get expat health insurance**:
 
 - You plan to live in Germany for less than 5 years. It's the cheapest short-term health insurance.
 - **or** you are applying for a German [residence permit](/glossary/Aufenthaltstitel) *for the first time*. Expat insurance is easier to get than public or private health insurance. It's a good *temporary* insurance, before you get something better.
-- **or** you have no other option, because public and private health insurers rejected you. If you are a freelancer and earn under ~30,000€ per year, it can happen. If you are over 50 years old, it can also happen.
+- **or** you have no other choice, because public and private health insurers rejected you. If you are a freelancer and earn under ~30,000€ per year, it can happen. If you are over 50 years old, it can also happen.
 - **and** you are not a [EU](/glossary/European%20Union) citizen. EU citizens can rarely get expat health insurance.[^33]
 
 ### Compared to public and private health insurance
@@ -282,9 +324,9 @@ There are **3 reasons to get expat health insurance**:
 - **The coverage is not as good**  
     Check-ups and dentist visits are rarely covered.[^26] You usually pay a deductible for basic treatments. Long term treatments (like cancer) are 100% covered, without any deductible.
 
-**[List of expat insurance options ➞](/guides/german-visa-health-insurance#expat-health-insurance-options)**
-
 You can get expat health insurance from [Feather](/out/feather-expats), [Ottonova](/out/ottonova-expats), or any [health insurance broker](#insurance-brokers).
+
+**[List of expat insurance options ➞](/guides/german-visa-health-insurance#expat-health-insurance-options)**
 
 ### Compared to travel insurance
 
@@ -307,54 +349,6 @@ If your expat insurance stays valid, it gets more and more expensive. In the lon
 
 **If you are a student**, public health insurance is a little more expensive than expat insurance, but it's *much* better. Switch to public health insurance *maximum* 3 months after you start university. If you wait too long, you will be stuck with expat insurance.
 
-## Other options
-
-### Free health insurance
-
-You can get free health insurance through your parents or your spouse. This is called *[[Familienversicherung]]*. In some cases, you can also get free health insurance from the state, from your employer, or from your home country.
-
-**Your parents' health insurance** covers you for free if...
-
-- Your parents have public health insurance
-- **and** you are under 23 years old (under 25 years old if you are a student)
-- **and** your total income is under {{GKV_FAMILIENVERSICHERUNG_MAX_INCOME|cur}}€ per month ({{MINIJOB_MAX_INCOME|cur}}€ per month for a [minijob](/glossary/Minijob))
-- **and** you are not self-employed full time
-- **and** you are not a trainee (*[[Azubi]]*)[^53]
-
-**Your spouse's health insurance** covers you for free if...[^34]
-
-- Your spouse has public health insurance
-- **and** your total income is under {{GKV_FAMILIENVERSICHERUNG_MAX_INCOME|cur}}€ per month ({{MINIJOB_MAX_INCOME|cur}}€ per month for a [minijob](/glossary/Minijob))
-- **and** you are not self-employed full time
-- **and** you are not a trainee (*[[Azubi]]*)[^53]
-
-**Your health insurance from another EU country** covers you if...[^39]
-
-- Your total income is under {{GKV_FAMILIENVERSICHERUNG_MAX_INCOME|cur}}€ per month ({{MINIJOB_MAX_INCOME|cur}}€ per month for a [minijob](/glossary/Minijob))
-- **or** you are a student, and you work 20 hours per week or less[^38]
-
-**The state** pays for your health insurance if...[^45]
-
-- You get [unemployment benefits](/glossary/ALG%20I)
-- **or** you get *[[Bürgergeld]]*
-- **or** you get *[[Elterngeld]]*
-
-If you are a trainee (*[[Azubi]]*) and you earn less than {{GKV_AZUBI_FREIBETRAG|cur}}€ per month, you get free [public health insurance](/glossary/gesetzliche%20Krankenversicherung). Your employer pays for it.[^48]
-
-### Insurance from other EU countries
-
-If you come from another EU country, you can use your European Health Insurance Card (EHIC) in Germany. If you get healthcare in Germany, your health insurance in your home country pays for it.
-
-- **If you stay in Germany temporarily**, your EHIC covers you. You do not need extra health insurance in Germany.
-- **If you are an Erasmus student from another EU country**, your EHIC covers you.[^23] You can use your EHIC card even if you study in Germany for your entire degree.[^32] You do not need extra German health insurance unless you start working.
-- **When you start working in Germany**, your EHIC does not cover you anymore. If you earn more than {{MINIJOB_MAX_INCOME|cur}}€ per month, you must get German health insurance.[^24]
-
-If health insurance is cheaper in your home country, using your EHIC is cheaper than getting German health insurance. You can save a lot of money every month with the EHIC.
-
-**[What is the European Health Insurance Card?](https://ec.europa.eu/social/main.jsp?catId=559&langId=en)** - europa.eu
-
-**[Information for EU students](https://faq.feather-insurance.com/en/articles/28737-i-m-a-university-student-from-europe-how-do-i-get-covered)** - Feather Insurance
-
 ### Travel insurance
 
 Travel insurance is valid **for visiting Germany**. You need it to get a [[Schengen visa]]. It's rarely valid for a [residence permit](/glossary/Aufenthaltstitel) application.
@@ -365,23 +359,24 @@ You can buy travel insurance online in your home country. [HanseMerkur](/out/han
 
 **[Health insurance for a Schengen visa ➞](/guides/german-visa-health-insurance#for-a-schengen-visa)**
 
-### The Künstlersozialkasse (KSK)
-
-If you are a freelance artist, journalist, publicist or influencer, join the *[[Künstlersozialkasse]]* (KSK). They pay half of your [health insurance](/glossary/gesetzliche%20Krankenversicherung), and half of your [public pension insurance](/glossary/gesetzliche%20Krankenversicherung). It's always worth it.
-
-**[How to apply for the KSK ➞](/guides/ksk-kuenstlersozialkasse)**
-
 ## How to decide
+
+There is no reason to choose your insurance yourself. [Ask an expert](#insurance-brokers) to help you choose.
 
 Choose public health insurance if...
 
-- Your income varies
-- You want something that just works
-- You want children
-- You can get the student tariff
+- **You don't have a stable income**  
+    If you are not sure you will always have a high income, public health insurance is a safer choice. It costs a percentage of your income, so if you make less, your pay less.
+- **You want something that just works**  
+    Just show your card and get healthcare. It takes longer to get an appointment, but you don't have to deal with any paperwork.
+- **You have children or want children**  
+    Public health insurance covers your children for free. Private health insurance charges extra for each child.
+- **You can get the student tariff**  
+    The student tariff is a really good deal. If you are a student under 30 years old, public health insurance is usually the best option.[^59]
 
 Choose private health insurance if...
 
+- You want easy doctor appointments
 - You want the best possible coverage
 - You want the lowest possible price
 - You plan to leave Germany in a few years
@@ -393,11 +388,12 @@ Choose expat health insurance if...
 
 Choose travel insurance if...
 
-- You are just visiting Germany
+- You want to visit Germany
+- You apply for a [[Schengen visa]]
 
 ### Insurance brokers
 
-Health insurance brokers help you choose health insurance. They help you for free. They get paid by health insurers to bring them new customers.
+Health insurance brokers help you choose health insurance. They help you for free. They get paid by health insurers to bring them new customers. I strongly recommend you to ask a broker to help you choose health insurance.
 
 Always work with a broker (*Makler*), not an agent (*Vertreter*). Brokers are independent, and recommend health insurance from different companies. Agents only sell insurance from specific companies.
 
@@ -410,6 +406,7 @@ If you are an immigrant, choose a broker who works with expats. Your needs are d
 ## What to do next
 
 - [ ] [Get liability insurance](/guides/haftpflichtversicherung). It's the second most important insurance to have. Most Germans have it.
+- [ ] Get travel insurance.
 - [ ] [Register as an organ donor](/guides/organ-donor). It's really easy, and it can save another person's life.
 
 There are more types of insurance in Germany, but health and liability insurance are the most important.
