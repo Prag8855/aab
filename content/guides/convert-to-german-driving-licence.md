@@ -17,7 +17,7 @@ If you have a foreign driving licence, you can exchange it for a German driving 
 
 You usually need a translation of your driving licence. There are 2 ways to get a translation:
 
-- **Get an [International Driving Permit](/glossary/Internationaler%20F%C3%BChrerschein)**{% include '_blocks/recommended.html' %}
+- **Get an [International Driving Permit](/glossary/Internationaler%20F%C3%BChrerschein)**{{ RECOMMENDED }}
     - United Kingdom: at the Post Office
     - United States: from the AAA or AATA.[^3] You can apply by post.
     - Canada: from a CAA Travel Centre,[^4] a vehicle registration office (like the SAAQ), or a Canadian embassy or consulate.[^5]

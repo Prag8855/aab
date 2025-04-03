@@ -276,7 +276,7 @@ You can let someone take care of everything. There are good reasons to get help:
 
 These businesses can help you request a refund. They will fill the forms and request the refund for you. They can also check how much money you will get back.{{ fail_on('2025-04-01') }}
 
-- **[Pension Refund Germany](/out/pension-refund-germany)**{% include '_blocks/recommended.html' %}  
+- **[Pension Refund Germany](/out/pension-refund-germany)**{{ RECOMMENDED }}  
     Their fee is {{ PENSIONREFUNDGERMANY_FEE }}% of your refund (maximum fee {{PENSIONREFUNDGERMANY_MAX_FEE|cur}}€).[^31]
 - **[Germany Pension Refund](/out/germany-pension-refund)**  
     Their fee is {{ GERMANYPENSIONREFUND_FEE }}% of your refund (no minimum or maximum fee).[^30]

@@ -66,7 +66,7 @@ If you only stay in Berlin for a few months, you can rent a bicycle instead.
     Borrow a bike, pay what you can.
 - **Bike sharing**  
     Some bike sharing services let you rent a bike for less than a day, only when you need it.
-    - **[Jelbi](https://www.jelbi.de/en/home/)**{% include '_blocks/recommended.html' %} - Rent bikes, scooters and cars from different services
+    - **[Jelbi](https://www.jelbi.de/en/home/)**{{ RECOMMENDED }} - Rent bikes, scooters and cars from different services
     - [Nextbike](https://www.nextbike.de/en/) and [Call a Bike](https://www.callabike.de/en/cities-berlin/) - Regular bikes. Also in the [Jelbi](https://www.jelbi.de/en/home/) app. 
     - [Lime](https://www.li.me/vehicles), [Tier](https://www.tier.app/en/) and [Bolt](https://bolt.eu/en-de/ebikes/) - Electric bikes. Also in the [Jelbi](https://www.jelbi.de/en/home/) app. 
     - [fLotte](https://flotte-berlin.de/) - Free cargo bike rental
@@ -74,7 +74,7 @@ If you only stay in Berlin for a few months, you can rent a bicycle instead.
 
 ### How to save money
 
-- **[Buy a used bike](#buying-a-used-bicycle)**{% include '_blocks/recommended.html' %}  
+- **[Buy a used bike](#buying-a-used-bicycle)**{{ RECOMMENDED }}  
     Old bicycles are reliable and easy to maintain. You don't need a new bicycle, even if you know nothing about bicycle repair. Used bicycles are much cheaper than new ones.
 - **Tax deductions**  
     Bicycles, bicycle maintenance and [bike theft insurance](#bike-theft-insurance) are all [tax-deductible](/glossary/steuerlich%20absetzbar).[^2] Save your receipts for your next [tax declaration](/glossary/Steuererklärung).

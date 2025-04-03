@@ -3,6 +3,7 @@ from decimal import Decimal
 from extensions.functions import glossary_groups, fail_on, or_join, patched_slugify, build_wikilinks_url, random_id, \
     to_currency
 from logtail import LogtailHandler
+from markupsafe import Markup
 from pathlib import Path
 from ursus.config import config
 import logging
@@ -381,6 +382,7 @@ ctx["fail_on"] = fail_on
 ctx["google_maps_api_key"] = 'AIzaSyBtGlbcvFspb9habWlXiFcptF8wdFjCb-E'  # Frontend use
 ctx["glossary_groups"] = glossary_groups
 
+ctx["RECOMMENDED"] = Markup('&nbsp; <a class="recommended" aria-label="Recommended option" href="/glossary/Recommended"></a>')
 
 # ==============================================================================
 # URSUS

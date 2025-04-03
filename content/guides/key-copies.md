@@ -38,7 +38,7 @@ Building keys open the front door of your apartment building. To copy them...
     You need permission to copy building keys.[^4] Some keys have a protected shape, and you need a code card (*Sicherungskarte*) or permission letter (*Berechtigungsschein*) to copy them. Your landlord will give this to you.
 2. **Go to a locksmith**  
     If your *[[Hausverwaltung]]* has a contract with a specific locksmith, you must go to that locksmith.[^10] These locksmiths are often very expensive.
-    - **Get an unofficial copy** - 5€ to 35€{% include '_blocks/recommended.html' %}  
+    - **Get an unofficial copy** - 5€ to 35€{{ RECOMMENDED }}  
         Some locksmiths can replace building keys. You don't need a code card.[^11] It's completely legal.[^2] You can send [Schlüsseldienst Samuel](https://www.schlüsseldienst-samuel.de/schl%C3%BCssel-ohne-karte/) a photo of your key on WhatsApp, and they tell you if they can copy it. They speak English, French and Arabic.[^14]
     - **Get an official copy** - 30€ to 80€  
         Bring your permission letter or code card to the locksmith. Also bring an ID document. It can take a few minutes or a few days.[^13]

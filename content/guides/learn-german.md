@@ -124,7 +124,7 @@ If you want small groups, or one-to-one lessons, get a private teacher. This is 
 
 Most language schools offer private lessons.
 
-- **[Chatterbug](/out/chatterbug)**{% include '_blocks/recommended.html' %}  
+- **[Chatterbug](/out/chatterbug)**{{ RECOMMENDED }}  
     This is my favourite way to learn German. You get one-to-one online video lessons with German teachers. There are lessons every hour, so you can make your own schedule. If you don't like your teacher, you can always pick a different one. It's also very cheap.
 - **[Italki](https://www.italki.com/)**  
     Similar to Chatterbug. You get one-to-one online video lessons with German teachers. Each teacher charges a different price.
@@ -137,7 +137,7 @@ Most of the language schools in Berlin offer online classes.
 
 There are also many language learning apps for German:
 
-- **[Chatterbug](/out/chatterbug)**{% include '_blocks/recommended.html' %}  
+- **[Chatterbug](/out/chatterbug)**{{ RECOMMENDED }}  
     Private video lessons with a private teacher. You can book lessons every hour, so you can make your own schedule. Your teacher helps you complete exercises, and asks you questions. You can skip exercises you understand, or slow down to ask questions. If you don't like your teacher, you can find a new one. It's a great way to practice German conversations. In my opinion, this is the best way to learn German. Many of my friends also love it.
 - **[Babbel](/out/babbel)**  
     Regular language lesson without a teacher. You learn German vocabulary and grammar, one module at the time. I used Babbel a lot when I moved to Germany. I like that it teaches you the grammar, and lets you choose what to study. I found it too boring.

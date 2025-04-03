@@ -169,7 +169,7 @@ Submit your application to the *[[Ausländerbehörde]]*. They will check your do
 
 There are 3 ways to apply:
 
-- **Use the [Business Immigration Service](https://www.businesslocationcenter.de/en/our-services/bis-business-immigration-service)**{% include '_blocks/recommended.html' %}  
+- **Use the [Business Immigration Service](https://www.businesslocationcenter.de/en/our-services/bis-business-immigration-service)**{{ RECOMMENDED }}  
     If you are a skilled worker, use BIS. It's faster, and it's free.[^47]
 - or **[use the application form](/guides/immigration-office#apply-for-a-residence-permit)**  
     [Some residence permits](https://www.berlin.de/einwanderung/en/services/our-services/artikel.878424.en.php) have their own application form. Use that form to apply.

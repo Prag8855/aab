@@ -54,7 +54,7 @@ You will probably need to charge [VAT](/glossary/Umsatzsteuer) on your invoices.
 
 There are many ways to do income tax and VAT declarations:
 
-- Hire a [tax advisor](/glossary/Steuerberater){% include '_blocks/recommended.html' %}
+- Hire a [tax advisor](/glossary/Steuerberater){{ RECOMMENDED }}
 - Use [accounting software](/guides/german-tax-software)
 - Use a business bank with accounting features
 - Do this yourself in [[ELSTER]]

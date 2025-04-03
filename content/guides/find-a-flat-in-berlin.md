@@ -39,9 +39,9 @@ Before you [look for apartments](#look-for-apartments), you must...
 
 ### Apartment search websites
 
-- **[ImmoScout24](https://www.immobilienscout24.de/)**{% include '_blocks/recommended.html' %}  
+- **[ImmoScout24](https://www.immobilienscout24.de/)**{{ RECOMMENDED }}  
     The biggest housing website. It's very competitive. Without the premium account, it's much harder to find an apartment.[^1] Create a detailed profile to improve your chances.[^27]
-- **[Kleinanzeigen](https://www.kleinanzeigen.de/)**{% include '_blocks/recommended.html' %}  
+- **[Kleinanzeigen](https://www.kleinanzeigen.de/)**{{ RECOMMENDED }}  
     Biggest classified ads website.
 - **[Immowelt](https://www.immowelt.de/)** - Second biggest housing website
 
@@ -49,7 +49,7 @@ Before you [look for apartments](#look-for-apartments), you must...
 
 ### Short-term and furnished apartments
 
-- **[HousingAnywhere](/out/housinganywhere)**{% include '_blocks/recommended.html' %}  
+- **[HousingAnywhere](/out/housinganywhere)**{{ RECOMMENDED }}  
     This is the most reliable option. The landlords are verified. To avoid scams, the landlord only gets paid after you move in.[^39] They tell you when the *[[Anmeldung]]* is possible. No *[[Schufa]]* needed.[^49] Some apartments have no [deposit](/glossary/Kaution).
 - [Spotahome](/out/spotahome) - Some landlords are verified.[^45] To avoid scams, the landlord only gets paid after you move in.[^46] They tell you when the *[[Anmeldung]]* is possible (under *House Rules*). Some apartments have no [deposit](/glossary/Kaution). You must pay *before* you can read the lease, and it's hard to get your money back.
 - [Hope Apartments](/out/hope-apartments) - They manage the apartments, so there are no scams. 3 to 12 month stays. *[[Anmeldung]]* possible, no *[[Schufa]]* needed. 2 month [deposit](/glossary/Kaution).
@@ -73,7 +73,7 @@ Before you [look for apartments](#look-for-apartments), you must...
 
 ### [[WG]]s, flat shares and roommates
 
-- **[WG-Gesucht](https://www.wg-gesucht.de/)**{% include '_blocks/recommended.html' %}  
+- **[WG-Gesucht](https://www.wg-gesucht.de/)**{{ RECOMMENDED }}  
     The most popular website for shared apartments. It's very competitive. You might send hundreds of messages and never get a reply.
 - [WG Suche](https://www.wg-suche.de/wg-zimmer/deutschland-berlin)
 
@@ -81,7 +81,7 @@ Short-term furnished rooms are cheaper on [Kleinanzeigen](https://www.kleinanzei
 
 ### Dorms and student housing
 
-- **[StudierendenWERK Berlin](https://www.stw.berlin/en/housing/housing-portal.html)**{% include '_blocks/recommended.html' %}  
+- **[StudierendenWERK Berlin](https://www.stw.berlin/en/housing/housing-portal.html)**{{ RECOMMENDED }}  
     Affordable student housing. There are long waiting lists. Only for students of partner universities.
 - [Gewobag](https://www.gewobag.de/fuer-mieter-und-mietinteressenten/mietangebote/) - State-owned housing with some student apartments.
 - [Smartments](https://www.smartments-student.de/en/) - All-included student housing. *[[Anmeldung]]* possible.
@@ -89,7 +89,7 @@ Short-term furnished rooms are cheaper on [Kleinanzeigen](https://www.kleinanzei
 
 ### Housing companies
 
-- **[In Berlin Wohnen](https://inberlinwohnen.de/wohnungsfinder/)**{% include '_blocks/recommended.html' %}  
+- **[In Berlin Wohnen](https://inberlinwohnen.de/wohnungsfinder/)**{{ RECOMMENDED }}  
     Search apartments from all state-owned companies: [Degewo](https://immosuche.degewo.de/de/search), [Gesobau](https://www.gesobau.de/mieten/wohnungssuche.html), [Gewobag](https://www.gewobag.de/fuer-mieter-und-mietinteressenten/mietangebote/), [Howoge](https://www.howoge.de/wohnungen-gewerbe/wohnungssuche.html), [Stadt und Land](https://www.stadtundland.de/) and [WBM](https://www.wbm.de/wohnungen-berlin/angebote/)
 - [Deutsche Wohnen](https://www.deutsche-wohnen.com/mieten/mietangebote/zuhause-mieten) - Biggest housing company in Berlin
 - [Vonovia](https://www.vonovia.de/en) - Second biggest housing company
@@ -130,7 +130,7 @@ Turn on push notifications for the Facebook groups that you follow.
 
 An agent (*[[Makler]]*) can help you find an apartment. Some are really good, and some are useless. They are hard to find.[^23] Their maximum fee is 2 times the [cold rent](/glossary/Kaltmiete), plus [VAT](/glossary/Umsatzsteuer). Don't pay an agent fee if you did not hire the agent.
 
-- **[BerlinRelo](https://www.berlinrelo.de/)**{% include '_blocks/recommended.html' %}  
+- **[BerlinRelo](https://www.berlinrelo.de/)**{{ RECOMMENDED }}  
     Long-term apartments only. Graham is really good at his job. He accepts a small number of customers, and guarantees results.
 - **[Get The Flat](https://gettheflat.com/)**  
     They help you prepare your documents and apply for apartments. They use bots to find apartments and automatically write to landlords.

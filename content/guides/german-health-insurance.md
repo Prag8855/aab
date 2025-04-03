@@ -20,7 +20,7 @@ This guide explains how German health insurance works, how to choose the best he
 
 1. **Understand [your options](#your-options)**  
     Use my [recommendation tool](#your-options) or keep reading this guide. There are two insurance systems and hundreds of options. The best option depends on your situation.
-2. **[Ask an expert](#insurance-brokers) to help you choose**{% include '_blocks/recommended.html' %}  
+2. **[Ask an expert](#insurance-brokers) to help you choose**{{ RECOMMENDED }}  
     Don't choose insurance yourself; it can be an expensive mistake. Get free help from a health insurance broker.
 
 ## Your options

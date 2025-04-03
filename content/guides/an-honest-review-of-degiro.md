@@ -91,7 +91,7 @@ These online banks let you trade stocks:
 
 - **[Interactive Brokers](https://www.interactivebrokers.com/en/home.php)**  
     It's often recommended as an alternative.[^1] It has low fees and a better user interface. It lets you trade US stock options.
-- **[N26](/out/n26)**{% include '_blocks/recommended.html' %}  
+- **[N26](/out/n26)**{{ RECOMMENDED }}  
     I now buy stocks and ETFs through my N26 account. I find it much easier. In general, I like N26 a lot. See my [review of N26](/guides/an-honest-review-of-n26).
 - [1822direkt](/out/1822direkt)
 - [Comdirect](/out/comdirect-depot)

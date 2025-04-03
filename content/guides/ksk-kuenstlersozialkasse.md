@@ -266,7 +266,7 @@ After you fill the registration form, you have 4 weeks to send your documents.
 
 There are 2 ways to send your documents:
 
-- **By post**{% include '_blocks/recommended.html' %}  
+- **By post**{{ RECOMMENDED }}  
     Put all your documents in an envelope, and send it [by registered mail](/glossary/Einschreibebrief) to *Künstlersozialkasse, Gökerstraße 14, 26384 Wilhelmshaven*.
 - **By De-Mail**  
     If you have a [De-Mail](https://en.wikipedia.org/wiki/De-Mail) account, you can use it to send your documents. It's easier to apply by post, but De-Mail is useful if you are currently travelling, and you can't receive post.

@@ -93,9 +93,9 @@ I strongly recommend to get a free bank account. Don't pay your bank to hold you
 
 These banks offer a **free bank account** with no monthly fees:
 
-- **[C24](/out/c24)**{% include '_blocks/recommended.html' %}  
+- **[C24](/out/c24)**{{ RECOMMENDED }}  
     The best free bank account in my opinion. It's the only free account that includes a [[Girocard]]. They only speak German.
-- **[N26](/out/n26)**{% include '_blocks/recommended.html' %}  
+- **[N26](/out/n26)**{{ RECOMMENDED }}  
     The best free bank account if you don't speak German. It covers all your basic banking needs.
 - **[bunq](/out/bunq)**  
     The free account is very limited: no free ATM withdrawals, no payment card, and no German [[IBAN]]. The paid accounts make more sense.
@@ -203,8 +203,8 @@ Usually, you only need a blocked account for the first year. When you renew your
 
 You can open a blocked account with...
 
-- [Expatrio](/out/expatrio){% include '_blocks/recommended.html' %}
-- [Fintiba](/out/fintiba){% include '_blocks/recommended.html' %}
+- [Expatrio](/out/expatrio){{ RECOMMENDED }}
+- [Fintiba](/out/fintiba){{ RECOMMENDED }}
 - [Coracle](/out/coracle)
 - [Sparkasse](/out/sparkasse), but only at some branches[^41]
 - [Kotak Mahindra Bank](https://www.kotak.com/en/digital-banking/insta-services/send-money-abroad/kotak-german-blocked-account-sperrkonto.html) in India[^43]{{ fail_on('2025-12-15') }}

@@ -104,7 +104,7 @@ In general, **I don't recommend Conny**. Their service works, but their fee is e
 
 ## Conny alternatives
 
-- **Tenants' association** (*[[Mieterverein]]*){% include '_blocks/recommended.html' %}  
+- **Tenants' association** (*[[Mieterverein]]*){{ RECOMMENDED }}  
     Pay a monthly or yearly fee, and get help when you need it. They can check your lease, check your *[[Nebenkostenabrechnung]]* and help you reduce your rent. They are cheaper than a lawyer, and offer more services than Conny. After you join a *Mieterverein*, you must wait a few months before you use their legal services.[^12]
 - **Tenancy lawyer** (*Anwalt für Mietrecht*)  
     Hire a tenancy lawyer (Mietrecht) to lower your rent. You will get much better customer service, but it will cost you more, even if you don't get any rent reduction. If you have [legal insurance](/guides/legal-insurance), it might pay for your lawyer.

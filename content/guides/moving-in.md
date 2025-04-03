@@ -161,7 +161,7 @@ Your own things are not covered by liability insurance. To insure your own furni
 
 Landlords often [try to scam](/guides/housing-scams#scams-by-landlords-and-tenants) immigrants. You must be ready to defend yourself. There are many ways to do this:
 
-- **Join a tenants' association** (*[[Mieterverein]]*){% include '_blocks/recommended.html' %}  
+- **Join a tenants' association** (*[[Mieterverein]]*){{ RECOMMENDED }}  
     If you are a member, you get free help from their lawyers. They can check your lease, help you with a bad landlord, lower your rent, and help you sublet your apartment. It costs around 5€ per month. The [Berliner Mieterverein](https://www.berliner-mieterverein.de/sprachen/englisch.htm) and [Mieterschutzbund Berlin](https://www.mieterschutzbund-berlin.de/) are the biggest ones in Berlin. The Berliner Mieterverein speaks English.[^10]
 - or **get legal insurance** (*[[Rechtsschutzversicherung]]*)  
     It pays for your legal costs. You get free access to a lawyer. It's more expensive than a *[[Mieterverein]]*, but you get better service, and you can choose any [English-speaking lawyer](/guides/english-speaking-lawyers-berlin). [Feather](/out/feather-rechtsschutz) and [Getsafe](/out/getsafe-rechtsschutz) sell legal insurance, and they speak in English.
