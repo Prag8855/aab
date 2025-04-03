@@ -11,17 +11,17 @@ This guide shows you how to get a car or motorcycle driving licence in Berlin.
 
 ## How much does it cost?
 
-In total, it costs **2,000€ to 4,000€** to get your driving licence.[^0] The costs include:
+In total, it costs **around 4,000€** to get your driving licence.[^0]{{fail_on('2026-06-01')}} The costs include:
 
 - [ ] Eyesight test: [0€](https://www.fielmann.de/service/fuehrerschein-sehtest/) to 25€
 - [ ] Driving licence fees: {{DRIVING_LICENCE_FEE|cur}}€
 - [ ] Theory lessons: around 150€
 - [ ] Theoretical exam: 22.49€[^1]
-- [ ] Practical lessons: around 50€ for 45 minutes[^2]
-    - Interurban driving: minimum 5 × 45 minutes = 250€
-    - Highway driving: minimum 4 × 45 minutes = 200€
-    - Driving at night: minimum 3 × 45 minutes = 150€
-    - Extra practice: up to you. Most people take more lessons.
+- [ ] Practical lessons: around 70€ for 45 minutes[^2]
+    - Interurban driving: minimum 5 × 45 minutes
+    - Highway driving: minimum 4 × 45 minutes
+    - Driving at night: minimum 3 × 45 minutes
+    - Extra practice if you need it. Most people take more lessons.
 - [ ] Practical exam: around 150€ for the driving school + 121.38€ for the TÜV/Dekra
 
 **For motorcyclists:** You also need around 1,000€ to 2,000€ for your motorcycle equipment: helmet, jacket, gloves, trousers and boots. Some driving schools will give you protective gear for your classes, but it's old and it doesn't fit well.
@@ -171,7 +171,7 @@ Your German driving licence is valid in all [[European Union]] countries. Outsid
 
 You can also [rent a car when you need it](/guides/public-transit#rent-a-car). Car sharing services are useful if you don't drive often.
 
-[^0]: [Reddit](https://old.reddit.com/r/de/comments/1bewalm/f%C3%BChrerscheinkosten_summieren_sich_oft_auf_3500/) (2024), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/8kgizw/is_anyone_into_bikes_especially_cafe_racer_type/dz8bvqd/)
+[^0]: [Reddit](https://old.reddit.com/r/germany/comments/1jqaysg/driving_school_in_germany_my_running_bill_is_at/) (April 2025), [Reddit](https://old.reddit.com/r/de/comments/1bewalm/f%C3%BChrerscheinkosten_summieren_sich_oft_auf_3500/) (2024), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/8kgizw/is_anyone_into_bikes_especially_cafe_racer_type/dz8bvqd/)
 [^1]: [dekra.de](https://www.dekra.de/media/end-gebuehrenliste-alle-bl-ab-01-04-2021.pdf)
 [^2]: [as-fahrschule.de](https://www.as-fahrschule.de/preise/driving-lessons-in-english/)
 [^3]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/80h3vm/first_aid_course_for_german_driving_license_in/duw9u9r/), [first-aid-courses-berlin.myshopify.com](https://first-aid-courses-berlin.myshopify.com/collections/fahrschule-oscar)
