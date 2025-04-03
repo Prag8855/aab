@@ -246,10 +246,11 @@ You can get really cheap private health insurance. You have low monthly payments
 
 You can also pay more and get the best coverage. You have higher monthly payments, but there is no deductible.
 
-If you are young and healthy, you could pay just 175€ per month for private insurance (350€ if you are self-employed).[^62] Some insurers also have discounts for students.
+A young, healthy employee could pay just 250€ per month for private insurance.[^62] Some insurers also have discounts for students.
 
 ### Benefits of private health insurance
 
+- **Cheaper than public for high earners**[^19]
 - **Faster doctor appointments**  
     You can get an appointment in days instead of weeks. Try it yourself: go on [Doctolib](https://www.doctolib.de/), and look for the earliest doctor appointment. Try again with private health insurance. It's really hard to find a psychiatrist, a gynaecologist or a paediatrician with public health insurance. It's much easier with private health insurance.
 - **You choose your coverage**  
@@ -441,6 +442,7 @@ There are more types of insurance in Germany, but health and liability insurance
 [^16]: [gesundheitsinformation.de](https://www.gesundheitsinformation.de/krankenversicherung-in-deutschland.html)
 [^17]: [blog.feather-insurance.com](https://feather-insurance.com/blog/how-are-private-health-insurance-payments-different-from-public-health-insurance/)
 [^18]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/c2j339/is_pkv_still_a_terrible_idea_if_i_likely_wont/ermsqt7/)
+[^19]: [Feather Insurance](https://feather-insurance.com/blog/public-vs-private-health-insurance-germany/#:~:text=for%20high%20earners%2C%20private%20insurance%20can%20be%20cheaper) (April 2025)
 [^20]: [Feather Insurance](https://feather-insurance.com/blog/public-vs-private-health-insurance-germany/#:~:text=if%20you%E2%80%99re%20childfree%20or%20not%20planning%20on%20becoming%20a%20parent) (April 2025)
 [^22]: [toytowngermany.com](https://web.archive.org/web/20220703211411/https://www.toytowngermany.com/forum/topic/383323-could-i-stay-on-travel-health-insurance-for-5-years/?page=2#comment-3746627)
 [^23]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/d2njye/advise_about_health_insurance_for_erasmus_student/ezvtjk1/), [krankenkassen.de](http://web.archive.org/web/20201204045304/https://www.krankenkassen.de/meine-krankenkasse/student/ehic/)
@@ -477,5 +479,5 @@ There are more types of insurance in Germany, but health and liability insurance
 [^59]: Citation needed - Public usually the best option for students
 [^61]: Citation needed - Feather is an agent
 [^60]: Citation needed - Private healthcare is unlimited
-[^62]: Citation needed - Minimum cost for health insurance
+[^62]: [250 to 350€ (FinanXpats)](https://www.finanxpats.com/health-insurance/2025-health-insurance-guide-for-expats#:~:text=pays%20around%20%E2%82%AC250%E2%80%93350%20per%20month) (April 2025), [250 to 390€ (Feather)](/out/feather-private) (April 2025), [260 to 350€ (Ottonova)](/out/ottonova) (April 2025)
 [^63]: Citation needed - Private better and cheaper for young, wealthy people
