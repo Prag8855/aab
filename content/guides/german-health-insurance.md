@@ -25,9 +25,9 @@ This guide explains how German health insurance works, how to choose the best he
 3. **Fill the application form**  
     Each insurer has a different form. A health insurance broker can do this for you.
 4. **Get a medical test**  
-    With private health insurance, you must get a health check from a doctor.
+    With private health insurance, you usually need a health check from a doctor. It costs around 250€.[^30]{{ fail_on('2026-06-01') }}
 5. **Get an insurance certificate**  
-    Once you are insured, you get a [certificate](/images/krankenkasse-mitgliedsbescheinigung-nach-175-sgb-v.png) (*Mitgliedsbescheinigung*). Give it to your employer. Use it as a proof of insurance for your [residence permit](/glossary/Aufenthaltstitel) application.
+    Once you are insured, you get a [certificate](/images/krankenkasse-mitgliedsbescheinigung-nach-175-sgb-v.png) from your insurer. Give it to your employer. Use it as a proof of insurance for your [residence permit](/glossary/Aufenthaltstitel) application.
 6. **Pay for insurance every month**  
     If you are an employee, the payments come out of your paycheck every month. Everyone else pays by [bank transfer](/glossary/SEPA-Überweisung).
 
@@ -410,6 +410,7 @@ There are more types of insurance in Germany, but health and liability insurance
 [^4]: [Techniker Krankenkasse](https://www.tk.de/vertriebspartner/faq/beitragsuebersicht/beitraege/freiwillig-versichert-2065864) (April 2025)
 [^5]: [Feather](https://feather-insurance.com/blog/germany-health-insurance-expats-guide/#:~:text=this%20type%20of%20insurance%20is%20for%20visa%20applications%2C) (April 2025)
 [^6]: [Emily Archer, insurance broker](https://www.archer-relocation.com/) (April 2025)
+[^7]: [Emily Archer, insurance broker](https://www.archer-relocation.com/) (April 2025)
 [^8]: [Seamus Wolf, insurance broker](/out/horizon65) (April 2025)
 [^9]: [FinanXpats](https://www.finanxpats.com/health-insurance/2025-health-insurance-guide-for-expats#:~:text=pre-existing%20conditions%20may%20lead%20to%20risk%20surcharges) (April 2025)
 [^10]: [krankenkassenzentrale.de](http://web.archive.org/web/20220926103421/https://www.krankenkassenzentrale.de/wiki/krankenkasse-arbeitslosigkeit), [tk.de](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-versicherte/veraenderung-berufliche-situation/wenn-sie-arbeitslos-sind-2000802)
@@ -432,6 +433,7 @@ There are more types of insurance in Germany, but health and liability insurance
 [^27]: [finanztip.de](https://www.finanztip.de/pkv/pkv-wechsel/#:~:text=gerade%20zu%20beginn%20deiner%20selbststandigkeit%20empfehlen%20wir%20dir%2C%20in%20der%20gkv%20zu%20bleiben) (January 2025)
 [^28]: [finanztip.de](https://www.finanztip.de/pkv/pkv-wechsel/#:~:text=idealerweise%20solltest%20du%20nicht%20alter%20als%2035%20bis%2040%20jahre%20sein) (January 2025)
 [^29]: [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/532620887206619/)
+[^30]: [Seamus Wolf, insurance broker](/out/horizon65) (April 2025), [Emily Archer, insurance broker](https://www.archer-relocation.com/) (April 2025)
 [^32]: [krankenkassen.de](http://web.archive.org/web/20201204045304/https://www.krankenkassen.de/meine-krankenkasse/student/ehic/)
 [^31]: Citation needed
 [^34]: [verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/krankenversicherung/familienversicherung-in-der-krankenkasse-wer-kostenlos-mit-rein-kommt-28982) (January 2025) [minijob-zentrale.de](https://www.minijob-zentrale.de/DE/meta/faq-bereich/urlaub-krankheit-und-arbeitsrechte/96_warum_kein_geld_f%C3%BCr_minijobber_aus_kv/faq_96_warum_kein_geld_f%C3%BCr_minijobber_aus_kv.html#:~:text=oft%20besteht%20eine%20beitragsfreie%20familienversicherung%20uber%20den%20ehepartner%20oder%20die%20eltern) (February 2025)
@@ -452,7 +454,7 @@ There are more types of insurance in Germany, but health and liability insurance
 [^52]: [azubi-krankenkasse.de](https://www.azubi-krankenkasse.de/hoehe-der-sozialversicherungsbeitraege/#:~:text=der%20allgemeine%20beitragssatz%20wird%20je%20zur%20halfte%20) (March 2025), [Check24](https://www.check24.de/gesetzliche-krankenversicherung/mindestbeitrag/#:~:text=es%20gibt%20fur%20sie%20keinen%20mindestbeitrag.) (March 2025), [gesetzliche-krankenkassen.de](https://www.gesetzliche-krankenkassen.de/auszubildende-azubis/#:~:text=wer%20zahlt%20meine%20krankenkasse%20in%20der%20ausbildung%3F) (March 2025)
 [^53]: [gesetzliche-krankenkassen.de](https://www.gesetzliche-krankenkassen.de/auszubildende-azubis/#:~:text=familienversicherung%20ist%20wahrend%20der%20ausbildung%20nicht%20moglich) (March 2025)
 [^54]: [gesetzliche-krankenkassen.de](https://www.gesetzliche-krankenkassen.de/auszubildende-azubis/#:~:text=eine%20versicherung%20in%20der%20privaten%20krankenversicherung%20(pkv)%20ist%20fur%20auszubildende%20nicht%20moglich) (March 2025)
-[^55]: [Feather Insurance](https://feather-insurance.com/blog/health-insurance-germany-freelancer-guide/#:~:text=typically%2C%20self-employed%20individuals%20need%20to%20earn%20at%20least%20%E2%82%AC30%2C000%20annually) (April 2025)
+[^55]: [Feather Insurance](https://feather-insurance.com/blog/health-insurance-germany-freelancer-guide/#:~:text=typically%2C%20self-employed%20individuals%20need%20to%20earn%20at%20least%20%E2%82%AC30%2C000%20annually) (April 2025), [Emily Archer](https://www.archer-relocation.com/) says that the amount is not fixed, but that insurers need to see that you can cover your insurance bills (April 2025)
 [^56]: Citation needed - Private health insurer is usually cheaper for high earners
 [^57]: Citation needed - EU health insurance covers you until you start working
 [^58]: Citation needed - Private makes most sense for self-employed students
