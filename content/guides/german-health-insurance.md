@@ -181,7 +181,7 @@ When you go to the doctor, you give your insurance card, and they charge your *[
 
 Public health insurance covers essential dental care, like removing your wisdom teeth. You also get 2 free dental check-ups every year. It does not cover tooth cleanings. Many people also get [dental insurance](/glossary/Zahnzusatzversicherung) to get better coverage.
 
-Glasses and contact lenses [are rarely covered](/guides/eyeglasses). You need to pay for them yourself.
+Glasses and contact lenses [are rarely covered](/guides/eyeglasses). You must pay for them yourself.
 
 Public health insurance also covers your children and your unemployed spouse for free. This is called *[[Familienversicherung]]*.
 
@@ -234,7 +234,7 @@ The cost depends on 4 things:
 - **Your age when you join**  
     Young people pay less. The insurer also saves part of your payments for when you are old. If you join when you are young, your payments are lower when you are old. If you plan to leave Germany after a few years, you can get health insurance without old age provisions. It's much cheaper.
 - **Your health condition when you join**  
-    Usually, you need to take a medical test. After you join, your health condition does not change the cost of your insurance. If you get really sick and use your insurance all the time, the price does not change.
+    Usually, you must get a health check at the doctor. If you have pre-existing health problems, insurers charge more or reject you.[^9] After you join, if you get really sick and use your insurance all the time, the price does not change, and they can't kick you out.
 - **The coverage you choose**  
     You can get the best coverage or the lowest price. To cover your spouse and children, you must pay more.
 - **Your [deductible](/glossary/Selbstbeteiligung)**  
@@ -266,7 +266,7 @@ If you are young and healthy, you could pay just 175€ per month for private in
 - **It does not adjust to your income**  
     If your income changes, your health insurance costs the same. This is a problem if you have a bad year. Public health insurance is a much safer option, because the cost is proportional to your income.
 - **They can reject you**  
-    If you have serious health problems, they reject you. If you had psychotherapy, they usually reject you. If you have problems like AIDS, severe asthma, diabetes or obesity, they could also reject you, or charge a lot more.
+    If you have serious health problems, they reject you. If you had psychotherapy, they usually reject you. If you have problems like AIDS, severe asthma, diabetes or obesity, they could also reject you, or charge a lot more. If you have pre-existing health conditions, public health insurance might be your only option.[^6]
 - **You can be stuck with private**  
     It's hard to switch from private to public health insurance. You can be stuck with an expensive health insurance, and have no way to switch to public.
 
@@ -390,6 +390,7 @@ Choose private health insurance if...
 - You want the best possible coverage
 - You want the lowest possible price
 - You plan to leave Germany in a few years
+- You don't plan to have children[^20]
 
 Choose expat health insurance if...
 
@@ -428,8 +429,10 @@ There are more types of insurance in Germany, but health and liability insurance
 [^3]: [versicherungspflichtgrenzen.de](https://www.versicherungspflichtgrenzen.de/html/pflichtversicherungsgrenzen.html)
 [^4]: [Techniker Krankenkasse](https://www.tk.de/vertriebspartner/faq/beitragsuebersicht/beitraege/freiwillig-versichert-2065864) (April 2025)
 [^5]: [Feather](https://feather-insurance.com/blog/germany-health-insurance-expats-guide/#:~:text=this%20type%20of%20insurance%20is%20for%20visa%20applications%2C) (April 2025)
+[^6]: Citation needed - Public better with pre-existing health conditions
 [^7]: Citation needed - Employer chooses whatever is convenient
 [^8]: [Seamus Wolf, insurance broker](/out/horizon65) (April 2025)
+[^9]: [FinanXpats](https://www.finanxpats.com/health-insurance/2025-health-insurance-guide-for-expats#:~:text=pre-existing%20conditions%20may%20lead%20to%20risk%20surcharges) (April 2025)
 [^10]: [krankenkassenzentrale.de](http://web.archive.org/web/20220926103421/https://www.krankenkassenzentrale.de/wiki/krankenkasse-arbeitslosigkeit), [tk.de](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-versicherte/veraenderung-berufliche-situation/wenn-sie-arbeitslos-sind-2000802)
 [^11]: [krankenkassen.de](https://www.krankenkassen.de/gesetzliche-krankenkassen/krankenkasse-beitrag/arbeitslose/#:~:text=ubernimmt%20das%20jobcenter%20den%20allgemeinen%20krankenkassen-beitrag) (February 2025), [aok.de](https://www.aok.de/pk/krankenkassenbeitraege/arbeitslosigkeit/), [aok.de](https://www.aok.de/pk/krankenkassenbeitraege/arbeitslosigkeit/), [Arbeitsagentur](https://www.arbeitsagentur.de/arbeitslosengeld-2/gesundheit-versicherung)
 [^12]: Citation needed - Public is best if you want children
@@ -438,6 +441,7 @@ There are more types of insurance in Germany, but health and liability insurance
 [^16]: [gesundheitsinformation.de](https://www.gesundheitsinformation.de/krankenversicherung-in-deutschland.html)
 [^17]: [blog.feather-insurance.com](https://feather-insurance.com/blog/how-are-private-health-insurance-payments-different-from-public-health-insurance/)
 [^18]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/c2j339/is_pkv_still_a_terrible_idea_if_i_likely_wont/ermsqt7/)
+[^20]: [Feather Insurance](https://feather-insurance.com/blog/public-vs-private-health-insurance-germany/#:~:text=if%20you%E2%80%99re%20childfree%20or%20not%20planning%20on%20becoming%20a%20parent) (April 2025)
 [^22]: [toytowngermany.com](https://web.archive.org/web/20220703211411/https://www.toytowngermany.com/forum/topic/383323-could-i-stay-on-travel-health-insurance-for-5-years/?page=2#comment-3746627)
 [^23]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/d2njye/advise_about_health_insurance_for_erasmus_student/ezvtjk1/), [krankenkassen.de](http://web.archive.org/web/20201204045304/https://www.krankenkassen.de/meine-krankenkasse/student/ehic/)
 [^24]: [faq.feather-insurance.com](https://faq.feather-insurance.com/en/articles/148524-health-insurance-for-short-term-and-seasonal-employment)
