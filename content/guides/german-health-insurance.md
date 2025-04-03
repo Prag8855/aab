@@ -45,7 +45,7 @@ If you move from a [EU](/glossary/European%20Union) country, your health insuran
 
 If you move from a non-EU country, you might need [expat health insurance](/glossary/Expat%20health%20insurance).[^42] It covers you until you start working. When you start working, you must switch to public or private health insurance. A [health insurance broker](#insurance-brokers) arrange this for you.
 
-If you have no health insurance when you [start working](/guides/find-a-job-in-berlin#start-working), your employer can sign you up for public health insurance. They don't choose the best insurance for you; they choose what is convenient for them.
+Your employer can sign you up for public health insurance. They don't choose the best insurance for you; they choose what is convenient for them.[^7]
 
 ### Health insurance for students
 
@@ -128,7 +128,7 @@ Public health insurance costs {{GKV_BASE_RATE_EMPLOYEE}}% of your income, plus a
 
 **If you are a trainee** (*[[Azubi]]*) and you earn {{GKV_AZUBI_FREIBETRAG|cur}}€ per month or less, you get free public health insurance. Your employer pays for it.[^48]
 
-**If you are self-employed**, you pay {{GKV_MIN_RATE_SELF_PAY}}% to {{GKV_MAX_RATE_SELF_PAY}}% of your income. The [minimum cost](/glossary/Mindestbeitrag) is around {{GKV_MIN_COST_SELF_PAY|cur}}€ per month. The [maximum cost](/glossary/Höchstbeitrag) is around {{GKV_MAX_COST_SELF_PAY|cur}}€ per month. You pay for health insurance by [direct debit authorisation](/glossary/SEPA-Lastschriftmandat) every month.
+**If you are self-employed**, you pay {{GKV_MIN_RATE_SELF_PAY}}% to {{GKV_MAX_RATE_SELF_PAY}}% of your income. The [minimum cost](/glossary/Mindestbeitrag) is around {{GKV_MIN_COST_SELF_PAY|cur}}€ per month. The [maximum cost](/glossary/Höchstbeitrag) is around {{GKV_MAX_COST_SELF_PAY|cur}}€ per month. You pay for health insurance by [direct debit authorisation](/glossary/SEPA-Lastschriftmandat) every month.[^8]
 
 ### Free health insurance
 
@@ -219,7 +219,7 @@ Everyone else must get [public health insurance](#public-health-insurance).
 
 ### Cost of private health insurance
 
-Your employer pays half of your health insurance. If you are self-employed, you pay the full price yourself.[^18]
+Your employer pays half of your health insurance. If you are self-employed, you pay the full price yourself.[^18] You pay for health insurance by [direct debit authorisation](/glossary/SEPA-Lastschriftmandat) every month.[^8]
 
 The cost depends on 4 things:
 
@@ -420,6 +420,8 @@ There are more types of insurance in Germany, but health and liability insurance
 [^3]: [versicherungspflichtgrenzen.de](https://www.versicherungspflichtgrenzen.de/html/pflichtversicherungsgrenzen.html)
 [^4]: [Techniker Krankenkasse](https://www.tk.de/vertriebspartner/faq/beitragsuebersicht/beitraege/freiwillig-versichert-2065864) (April 2025)
 [^5]: [Feather](https://feather-insurance.com/blog/germany-health-insurance-expats-guide/#:~:text=this%20type%20of%20insurance%20is%20for%20visa%20applications%2C) (April 2025)
+[^7]: Citation needed - Employer chooses whatever is convenient
+[^8]: [Seamus Wolf, insurance broker](/out/horizon65) (April 2025)
 [^10]: [krankenkassenzentrale.de](http://web.archive.org/web/20220926103421/https://www.krankenkassenzentrale.de/wiki/krankenkasse-arbeitslosigkeit), [tk.de](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-versicherte/veraenderung-berufliche-situation/wenn-sie-arbeitslos-sind-2000802)
 [^11]: [krankenkassen.de](https://www.krankenkassen.de/gesetzliche-krankenkassen/krankenkasse-beitrag/arbeitslose/#:~:text=ubernimmt%20das%20jobcenter%20den%20allgemeinen%20krankenkassen-beitrag) (February 2025), [aok.de](https://www.aok.de/pk/krankenkassenbeitraege/arbeitslosigkeit/), [aok.de](https://www.aok.de/pk/krankenkassenbeitraege/arbeitslosigkeit/), [Arbeitsagentur](https://www.arbeitsagentur.de/arbeitslosengeld-2/gesundheit-versicherung)
 [^12]: Citation needed - Public is best if you want children

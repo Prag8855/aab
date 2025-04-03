@@ -11,6 +11,6 @@ Related_guides:
     guides/dog-ownership.md
 ---
 
-A direct debit authorization (*SEPA-Lastschriftmandat*) allows a company to automatically take money from your bank account. You can use it to pay your bills and your taxes automatically. People often use a *SEPA-Lastschriftmandat* to pay the [TV tax](/glossary/Rundfunkbeitrag) and the [vehicle tax](/glossary/Kraftfahrzeugsteuer). Freelancers give a *SEPA-Lastschriftmandat* to the *[[Finanzamt]]* to pay their taxes automatically.
+A direct debit authorization (*SEPA-Lastschriftmandat*) allows a company to automatically take money from your bank account. You can use it to pay your bills and your taxes automatically.
 
-**[How banking works in Germany ➞](/guides/banking)**
+Direct debit authorizations are often used to pay for the [TV tax](/glossary/Rundfunkbeitrag), the [vehicle tax](/glossary/Kraftfahrzeugsteuer) and [health insurance](/glossary/Krankenversicherung). Freelancers often pay taxes that way.
