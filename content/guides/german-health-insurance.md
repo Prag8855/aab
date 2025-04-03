@@ -10,7 +10,7 @@ Related_reviews:
     reviews/german-health-insurance/mike-woodiwiss.md
 ---
 
-When you [move to Germany](/guides/moving-to-berlin), you must choose your health insurance. All German residents need health insurance. It pays for your healthcare when you are sick. You need it before you apply for a [residence permit](/glossary/Aufenthaltstitel), and before you [start working](/guides/find-a-job-in-berlin#start-working).
+When you [move to Germany](/guides/moving-to-berlin), you must choose your health insurance. All German residents need health insurance. It pays for your healthcare when you are sick. You need it to apply for a [residence permit](/glossary/Aufenthaltstitel), and before you [start working](/guides/find-a-job-in-berlin#start-working).
 
 This guide explains how German health insurance works, how to choose the best health insurance for your needs.
 
@@ -31,7 +31,7 @@ This guide explains how German health insurance works, how to choose the best he
 
 Your health insurance is not tied to your job. Your employer does not decide what health insurance you can have. If you [lose your job](/guides/losing-your-job), you keep your health insurance.
 
-**If you earn over {{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}}€ per year**, you can choose public or private health insurance.[^3] Public health insurance costs [around {{GKV_MAX_COST_EMPLOYEE|cur}}€ per month](/glossary/Höchstbeitrag). Private health insurance will probably be cheaper for you.[^56]
+**If you earn over {{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}}€ per year**, you can choose public or private health insurance.[^3] Public health insurance costs [around {{GKV_MAX_COST_EMPLOYEE|cur}}€ per month](/glossary/Höchstbeitrag).[^1] Private health insurance will probably be cheaper for you.[^56]
 
 **If you earn {{GKV_MAX_INCOME|cur}}€ to {{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}}€ per year**, you can only choose [public health insurance](/glossary/gesetzliche%20Krankenversicherung).[^3] It costs [around {{GKV_MAX_COST_EMPLOYEE|cur}}€ per month](/glossary/Höchstbeitrag). If you are a doctor or a civil servant, you can also choose private health insurance.[^31]
 
@@ -43,7 +43,9 @@ Your health insurance is not tied to your job. Your employer does not decide wha
 
 If you move from a [EU](/glossary/European%20Union) country, your health insurance from your previous country usually covers you until you start working.[^57]
 
-If you move from a non-EU country, you might need [expat health insurance](/glossary/Expat%20health%20insurance). It covers you until you start working. When you start working, you must switch to public or private health insurance. A [health insurance broker](#insurance-brokers) arrange this for you.[^42]
+If you move from a non-EU country, you might need [expat health insurance](/glossary/Expat%20health%20insurance).[^42] It covers you until you start working. When you start working, you must switch to public or private health insurance. A [health insurance broker](#insurance-brokers) arrange this for you.
+
+If you have no health insurance when you [start working](/guides/find-a-job-in-berlin#start-working), your employer can sign you up for public health insurance. They don't choose the best insurance for you; they choose what is convenient for them.
 
 ### Health insurance for students
 
@@ -309,7 +311,7 @@ If health insurance is cheaper in your home country, using your EHIC is cheaper 
 There are **3 reasons to get expat health insurance**:
 
 - You plan to live in Germany for less than 5 years. It's the cheapest short-term health insurance.
-- **or** you are applying for a German [residence permit](/glossary/Aufenthaltstitel) *for the first time*. Expat insurance is easier to get than public or private health insurance. It's a good *temporary* insurance, before you get something better.
+- **or** you are applying for a German [residence permit](/glossary/Aufenthaltstitel) *for the first time*.[^5] Expat insurance is easier to get than public or private health insurance. It's a good *temporary* insurance, before you get something better.
 - **or** you have no other choice, because public and private health insurers rejected you. If you are a freelancer and earn under ~30,000€ per year, it can happen. If you are over 50 years old, it can also happen.
 - **and** you are not a [EU](/glossary/European%20Union) citizen. EU citizens can rarely get expat health insurance.[^33]
 
@@ -413,9 +415,11 @@ There are more types of insurance in Germany, but health and liability insurance
 
 **[Types of insurance in Germany ➞](/guides/insurance)**
 
+[^1]: [Techniker Krankenkasse](https://www.tk.de/techniker/versicherung/beitrag-zusatztarife/beitraege-beitragssaetze/beitragsbemessungsgrenzen-uebersicht-2021692), [versicherungspflichtgrenzen.de](https://www.versicherungspflichtgrenzen.de/html/pflichtversicherungsgrenzen.html#:~:text=beitragsbemessungsgrenzen%20in%20der%20gkv%3A%20)
 [^2]: [gesundheitsinformation.de](https://www.gesundheitsinformation.de/krankenversicherung-in-deutschland.html), [gkv-spitzenverband.de](https://www.gkv-spitzenverband.de/english/statutory_health_insurance/statutory_health_insurance.jsp)
 [^3]: [versicherungspflichtgrenzen.de](https://www.versicherungspflichtgrenzen.de/html/pflichtversicherungsgrenzen.html)
-[^4]: Citation needed - Freelancers are freiwillig versichert
+[^4]: [Techniker Krankenkasse](https://www.tk.de/vertriebspartner/faq/beitragsuebersicht/beitraege/freiwillig-versichert-2065864) (April 2025)
+[^5]: [Feather](https://feather-insurance.com/blog/germany-health-insurance-expats-guide/#:~:text=this%20type%20of%20insurance%20is%20for%20visa%20applications%2C) (April 2025)
 [^10]: [krankenkassenzentrale.de](http://web.archive.org/web/20220926103421/https://www.krankenkassenzentrale.de/wiki/krankenkasse-arbeitslosigkeit), [tk.de](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-versicherte/veraenderung-berufliche-situation/wenn-sie-arbeitslos-sind-2000802)
 [^11]: [krankenkassen.de](https://www.krankenkassen.de/gesetzliche-krankenkassen/krankenkasse-beitrag/arbeitslose/#:~:text=ubernimmt%20das%20jobcenter%20den%20allgemeinen%20krankenkassen-beitrag) (February 2025), [aok.de](https://www.aok.de/pk/krankenkassenbeitraege/arbeitslosigkeit/), [aok.de](https://www.aok.de/pk/krankenkassenbeitraege/arbeitslosigkeit/), [Arbeitsagentur](https://www.arbeitsagentur.de/arbeitslosengeld-2/gesundheit-versicherung)
 [^12]: Citation needed - Public is best if you want children
