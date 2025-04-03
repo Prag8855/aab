@@ -2,7 +2,7 @@
 Name: Dr. Rob Schumacher
 Job_title: Health insurance broker
 Email: rob@feather-insurance.com
-Website: https://feather-insurance.com/
+Website: /out/feather
 Picture: experts/photos/dr-rob-schumacher-feather-insurance.jpg
 ---
 

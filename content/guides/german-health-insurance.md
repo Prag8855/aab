@@ -418,7 +418,7 @@ If you are new in Germany, [register as an organ donor](/guides/organ-donor). It
 [^2]: [gesundheitsinformation.de](https://www.gesundheitsinformation.de/krankenversicherung-in-deutschland.html), [gkv-spitzenverband.de](https://www.gkv-spitzenverband.de/english/statutory_health_insurance/statutory_health_insurance.jsp)
 [^3]: [versicherungspflichtgrenzen.de](https://www.versicherungspflichtgrenzen.de/html/pflichtversicherungsgrenzen.html)
 [^4]: [Techniker Krankenkasse](https://www.tk.de/vertriebspartner/faq/beitragsuebersicht/beitraege/freiwillig-versichert-2065864) (April 2025)
-[^5]: [Feather](https://feather-insurance.com/blog/germany-health-insurance-expats-guide/#:~:text=this%20type%20of%20insurance%20is%20for%20visa%20applications%2C) (April 2025)
+[^5]: [Feather](https://feather-insurance.com/blog/germany-health-insurance-expats-guide/?utm_source=allaboutberlin#:~:text=this%20type%20of%20insurance%20is%20for%20visa%20applications%2C) (April 2025)
 [^6]: [Emily Archer, insurance broker](https://www.archer-relocation.com/) (April 2025)
 [^7]: Citation needed - Employer choosing insurance for you
 [^8]: [Seamus Wolf, insurance broker](/out/horizon65) (April 2025)
@@ -430,11 +430,11 @@ If you are new in Germany, [register as an organ donor](/guides/organ-donor). It
 [^14]: Citation needed - Switch from expat max 3 months after you start studying
 [^15]: Citation needed - All public options are the same
 [^16]: [gesundheitsinformation.de](https://www.gesundheitsinformation.de/krankenversicherung-in-deutschland.html)
-[^17]: [blog.feather-insurance.com](https://feather-insurance.com/blog/how-are-private-health-insurance-payments-different-from-public-health-insurance/)
+[^17]: [blog.feather-insurance.com](https://feather-insurance.com/blog/how-are-private-health-insurance-payments-different-from-public-health-insurance/?utm_source=allaboutberlin)
 [^18]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/c2j339/is_pkv_still_a_terrible_idea_if_i_likely_wont/ermsqt7/)
-[^19]: [Feather Insurance](https://feather-insurance.com/blog/public-vs-private-health-insurance-germany/#:~:text=for%20high%20earners%2C%20private%20insurance%20can%20be%20cheaper) (April 2025)
-[^20]: [Feather Insurance](https://feather-insurance.com/blog/public-vs-private-health-insurance-germany/#:~:text=if%20you%E2%80%99re%20childfree%20or%20not%20planning%20on%20becoming%20a%20parent) (April 2025)
-[^21]: [finanztip.de](https://www.finanztip.de/pkv/pkv-wechsel/#:~:text=wenn%20du%20dauerhaft%20stabile%20einkunfte%20erzielst) (January 2025)
+[^19]: [Feather Insurance](https://feather-insurance.com/blog/public-vs-private-health-insurance-germany/?utm_source=allaboutberlin#:~:text=for%20high%20earners%2C%20private%20insurance%20can%20be%20cheaper) (April 2025)
+[^20]: [Feather Insurance](https://feather-insurance.com/blog/public-vs-private-health-insurance-germany/?utm_source=allaboutberlin#:~:text=if%20you%E2%80%99re%20childfree%20or%20not%20planning%20on%20becoming%20a%20parent) (April 2025)
+[^21]: [finanztip.de](https://www.finanztip.de/pkv/pkv-wechsel/#:~:text=wenn%20du%20dauerhaft%20stabile%20einkunfte%20erzielst) (January 2025), [Feather Insurance](https://feather-insurance.com/blog/public-vs-private-health-insurance-germany/?utm_source=allaboutberlin#:~:text=%20if%20you%E2%80%99re%20a%20high-earner) (April 2025)
 [^22]: [toytowngermany.com](https://web.archive.org/web/20220703211411/https://www.toytowngermany.com/forum/topic/383323-could-i-stay-on-travel-health-insurance-for-5-years/?page=2#comment-3746627)
 [^23]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/d2njye/advise_about_health_insurance_for_erasmus_student/ezvtjk1/), [krankenkassen.de](http://web.archive.org/web/20201204045304/https://www.krankenkassen.de/meine-krankenkasse/student/ehic/)
 [^24]: [faq.feather-insurance.com](https://faq.feather-insurance.com/en/articles/148524-health-insurance-for-short-term-and-seasonal-employment)
@@ -464,7 +464,7 @@ If you are new in Germany, [register as an organ donor](/guides/organ-donor). It
 [^52]: [azubi-krankenkasse.de](https://www.azubi-krankenkasse.de/hoehe-der-sozialversicherungsbeitraege/#:~:text=der%20allgemeine%20beitragssatz%20wird%20je%20zur%20halfte%20) (March 2025), [Check24](https://www.check24.de/gesetzliche-krankenversicherung/mindestbeitrag/#:~:text=es%20gibt%20fur%20sie%20keinen%20mindestbeitrag.) (March 2025), [gesetzliche-krankenkassen.de](https://www.gesetzliche-krankenkassen.de/auszubildende-azubis/#:~:text=wer%20zahlt%20meine%20krankenkasse%20in%20der%20ausbildung%3F) (March 2025)
 [^53]: [gesetzliche-krankenkassen.de](https://www.gesetzliche-krankenkassen.de/auszubildende-azubis/#:~:text=familienversicherung%20ist%20wahrend%20der%20ausbildung%20nicht%20moglich) (March 2025)
 [^54]: [gesetzliche-krankenkassen.de](https://www.gesetzliche-krankenkassen.de/auszubildende-azubis/#:~:text=eine%20versicherung%20in%20der%20privaten%20krankenversicherung%20(pkv)%20ist%20fur%20auszubildende%20nicht%20moglich) (March 2025)
-[^55]: [Feather Insurance](https://feather-insurance.com/blog/health-insurance-germany-freelancer-guide/#:~:text=typically%2C%20self-employed%20individuals%20need%20to%20earn%20at%20least%20%E2%82%AC30%2C000%20annually) (April 2025), [Emily Archer](https://www.archer-relocation.com/) says that the amount is not fixed, but that insurers need to see that you can cover your insurance bills (April 2025)
+[^55]: [Feather Insurance](https://feather-insurance.com/blog/health-insurance-germany-freelancer-guide/?utm_source=allaboutberlin#:~:text=typically%2C%20self-employed%20individuals%20need%20to%20earn%20at%20least%20%E2%82%AC30%2C000%20annually) (April 2025), [Emily Archer](https://www.archer-relocation.com/) says that the amount is not fixed, but that insurers need to see that you can cover your insurance bills (April 2025)
 [^56]: Citation needed - Private health insurer is usually cheaper for high earners
 [^57]: Citation needed - EU health insurance covers you until you start working
 [^58]: Citation needed - Private makes most sense for self-employed students
