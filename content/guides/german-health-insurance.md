@@ -365,7 +365,7 @@ Choose public health insurance if...
 
 Choose private health insurance if...
 
-- You have a stable income[^21]
+- You have a high, stable income[^21]
 - You want easy doctor appointments
 - You want the best possible coverage
 - You want the lowest possible price
@@ -422,7 +422,7 @@ If you are new in Germany, [register as an organ donor](/guides/organ-donor). It
 [^6]: [Emily Archer, insurance broker](https://www.archer-relocation.com/) (April 2025)
 [^7]: Citation needed - Employer choosing insurance for you
 [^8]: [Seamus Wolf, insurance broker](/out/horizon65) (April 2025)
-[^9]: [FinanXpats](https://www.finanxpats.com/health-insurance/2025-health-insurance-guide-for-expats#:~:text=pre-existing%20conditions%20may%20lead%20to%20risk%20surcharges) (April 2025)
+[^9]: [FinanXpats](https://www.finanxpats.com/health-insurance/2025-health-insurance-guide-for-expats#:~:text=pre-existing%20conditions%20may%20lead%20to%20risk%20surcharges) (April 2025), [Feather Insurance](https://feather-insurance.com/blog/health-insurance-guide-private-health-insurance/#:~:text=private%20health%20insurance%20companies%20reject%20these%20applications) (April 2025)
 [^10]: [krankenkassenzentrale.de](http://web.archive.org/web/20220926103421/https://www.krankenkassenzentrale.de/wiki/krankenkasse-arbeitslosigkeit), [tk.de](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-versicherte/veraenderung-berufliche-situation/wenn-sie-arbeitslos-sind-2000802)
 [^11]: [krankenkassen.de](https://www.krankenkassen.de/gesetzliche-krankenkassen/krankenkasse-beitrag/arbeitslose/#:~:text=ubernimmt%20das%20jobcenter%20den%20allgemeinen%20krankenkassen-beitrag) (February 2025), [aok.de](https://www.aok.de/pk/krankenkassenbeitraege/arbeitslosigkeit/), [aok.de](https://www.aok.de/pk/krankenkassenbeitraege/arbeitslosigkeit/), [Arbeitsagentur](https://www.arbeitsagentur.de/arbeitslosengeld-2/gesundheit-versicherung)
 [^12]: [finanztip.de](https://www.finanztip.de/pkv/pkv-wechsel/#:~:text=hast%20du%20aber%20familie%20oder%20planst) (January 2025), [FinanXpats](https://www.finanxpats.com/health-insurance/2025-health-insurance-guide-for-expats#:~:text=recommended%20for%20families) (April 2025)
