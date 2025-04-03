@@ -396,13 +396,23 @@ If you are an immigrant, choose a broker who works with expats. Your needs are d
 
 ## What to do next
 
-- [ ] [Get liability insurance](/guides/haftpflichtversicherung). It's the second most important insurance to have. Most Germans have it.
-- [ ] Get travel insurance.
-- [ ] [Register as an organ donor](/guides/organ-donor). It's really easy, and it can save another person's life.
+### Get an insurance certificate
 
-There are more types of insurance in Germany, but health and liability insurance are the most important.
+Once you are insured, you get a [certificate](/images/krankenkasse-mitgliedsbescheinigung-nach-175-sgb-v.png) from your insurer. Give it to your employer. Your employer needs to know about your health insurance, because the payments come directly from your paycheck. You also need this proof of insurance for your [residence permit](/glossary/Aufenthaltstitel) application.
 
-**[Types of insurance in Germany ➞](/guides/insurance)**
+### Get liability insurance
+
+You should also [get liability insurance](/guides/haftpflichtversicherung). It's the second most important insurance to have. Most Germans have it. There are [many types of insurance](/guides/insurance), but health and liability insurance are the most important.
+
+I got my liability insurance from [Feather](/out/feather-haftpflicht). If you [ask a broker](#insurance-brokers) to help you choose health insurance, they can also help you find liability insurance.
+
+### Get travel insurance
+
+You might also need travel insurance when you visit other countries. Your private health insurance might include it. Public health insurance generally does not.
+
+### Become an organ donor
+
+If you are new in Germany, [register as an organ donor](/guides/organ-donor). It's really easy, and it can save another person's life.
 
 [^1]: [Techniker Krankenkasse](https://www.tk.de/techniker/versicherung/beitrag-zusatztarife/beitraege-beitragssaetze/beitragsbemessungsgrenzen-uebersicht-2021692), [versicherungspflichtgrenzen.de](https://www.versicherungspflichtgrenzen.de/html/pflichtversicherungsgrenzen.html#:~:text=beitragsbemessungsgrenzen%20in%20der%20gkv%3A%20)
 [^2]: [gesundheitsinformation.de](https://www.gesundheitsinformation.de/krankenversicherung-in-deutschland.html), [gkv-spitzenverband.de](https://www.gkv-spitzenverband.de/english/statutory_health_insurance/statutory_health_insurance.jsp)
@@ -410,7 +420,7 @@ There are more types of insurance in Germany, but health and liability insurance
 [^4]: [Techniker Krankenkasse](https://www.tk.de/vertriebspartner/faq/beitragsuebersicht/beitraege/freiwillig-versichert-2065864) (April 2025)
 [^5]: [Feather](https://feather-insurance.com/blog/germany-health-insurance-expats-guide/#:~:text=this%20type%20of%20insurance%20is%20for%20visa%20applications%2C) (April 2025)
 [^6]: [Emily Archer, insurance broker](https://www.archer-relocation.com/) (April 2025)
-[^7]: [Emily Archer, insurance broker](https://www.archer-relocation.com/) (April 2025)
+[^7]: Citation needed - Employer choosing insurance for you
 [^8]: [Seamus Wolf, insurance broker](/out/horizon65) (April 2025)
 [^9]: [FinanXpats](https://www.finanxpats.com/health-insurance/2025-health-insurance-guide-for-expats#:~:text=pre-existing%20conditions%20may%20lead%20to%20risk%20surcharges) (April 2025)
 [^10]: [krankenkassenzentrale.de](http://web.archive.org/web/20220926103421/https://www.krankenkassenzentrale.de/wiki/krankenkasse-arbeitslosigkeit), [tk.de](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-versicherte/veraenderung-berufliche-situation/wenn-sie-arbeitslos-sind-2000802)
