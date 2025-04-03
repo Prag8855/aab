@@ -173,6 +173,8 @@ The state pays for your health insurance if...[^45]
 
 When you lose your job, you sometimes get [one month of free health insurance](/guides/losing-your-job#what-happens-to-your-health-insurance).
 
+If you are a [EU](/glossary/European%20Union) citizen, you can sometimes use your [insurance from your home country](#insurance-from-other-eu-countries). This is great if you get free health insurance in your home country.
+
 ### What is covered
 
 Public health insurance covers **all necessary healthcare**. Important treatments and medical prescriptions are always covered. There is a small deductible (5€ to 10€ per month) for some prescriptions. There is no other deductible. There is no coverage limit.
@@ -299,66 +301,32 @@ The best way to choose is to ask a health insurance broker. Their help is free. 
 
 ## Other options
 
-### Insurance from other EU countries
-
-If you come from another EU country, you can use your European Health Insurance Card (EHIC) in Germany. If you get healthcare in Germany, your health insurance in your home country pays for it.
-
-- **If you stay in Germany temporarily**, your EHIC covers you. You do not need extra health insurance in Germany.
-- **If you are an Erasmus student from another EU country**, your EHIC covers you.[^23] You can use your EHIC card even if you study in Germany for your entire degree.[^32] You do not need extra German health insurance unless you start working.
-- **When you start working in Germany**, your EHIC does not cover you anymore. If you earn more than {{MINIJOB_MAX_INCOME|cur}}€ per month, you must get German health insurance.[^24]
-
-If health insurance is cheaper in your home country, using your EHIC is cheaper than getting German health insurance. You can save a lot of money every month with the EHIC.
-
-**[What is the European Health Insurance Card?](https://ec.europa.eu/social/main.jsp?catId=559&langId=en)** - europa.eu
-
-**[Information for EU students](https://faq.feather-insurance.com/en/articles/28737-i-m-a-university-student-from-europe-how-do-i-get-covered)** - Feather Insurance
-
 ### Expat health insurance
 
-[[Expat health insurance]] is a kind of private health insurance. It's a **temporary solution** for people who move to Germany. It covers you until you can get public or private health insurance.
+[[Expat health insurance]] is a temporary health insurance. It covers medical emergencies before you can get public or private health insurance. You can use it to apply for your first visa or [residence permit](/glossary/Aufenthaltstitel).[^5] You can't use it to change or renew an existing residence permit.[^29]
 
-There are **3 reasons to get expat health insurance**:
+**If you are an employee**, you can get expat insurance to apply for an [opportunity card](/glossary/Chancenkarte). You must switch to public or private health insurance when you [start working](/guides/find-a-job-in-berlin#start-working).
 
-- You plan to live in Germany for less than 5 years. It's the cheapest short-term health insurance.
-- **or** you are applying for a German [residence permit](/glossary/Aufenthaltstitel) *for the first time*.[^5] Expat insurance is easier to get than public or private health insurance. It's a good *temporary* insurance, before you get something better.
-- **or** you have no other choice, because public and private health insurers rejected you. If you are a freelancer and earn under ~30,000€ per year, it can happen. If you are over 50 years old, it can also happen.
-- **and** you are not a [EU](/glossary/European%20Union) citizen. EU citizens can rarely get expat health insurance.[^33]
+**If you are a freelancer**, you can get expat insurance to apply for a [freelance visa](/glossary/Freelance%20visa). Switch to public or private health insurance as soon as possible. If you wait too long, you can be stuck with expat insurance. This is a really bad idea.
 
-### Compared to public and private health insurance
+**If you are a student**, public health insurance is a little more expensive than expat insurance, but it's *much* better. Switch to public health insurance *maximum* 3 months after you start university.[^14] If you wait too long, you can be stuck with expat insurance. This is a really bad idea.
 
-- **It's not accepted when you renew a residence permit**  
-    Expat insurance is rarely accepted when you renew your [residence permit](/glossary/Aufenthaltstitel), or when you apply for a different residence permit.[^29] You must have real public or private health insurance.
-- **It can expire after 5 years**  
-    Some expat insurances are only valid for 5 years.[^22] Many freelancers stay on expat insurance for too long. When they need to switch to public or private insurance, no insurer wants to cover them. They can't get health insurance, or the only options are very expensive. If you settle in Germany, switch to real health insurance [as soon as possible](#dont-stay-on-expat-health-insurance).
+**[Health insurance for a residence permit ➞](/guides/german-visa-health-insurance)**
+
+Don't stay on expat health insurance. It's a really bad idea. Switch to public or private health insurance as soon as possible. The coverage is bad and the price raises quickly.[^26] It usually expires after 5 years.[^22]
+
+If you develop a health condition while you have expat insurance, it can be really hard to find long-term health insurance, because all insurers will refuse to cover you. You can end up with a really expensive health insurance.
+
+If you want to stay in Germany for a long time, staying on expat insurance is a really bad idea.
+
 - **The price goes up faster**  
-    The cost of expat insurance rises really quickly.[^22] If your expat insurance does not expire, it can become really expensive when you are old. If you stay in Germany for a long time, public or private health insurance is cheaper.
+    The cost of expat insurance rises really quickly.[^22] If your expat insurance stays valid, it gets more and more expensive. In the long term, public and private health insurance are cheaper.[^10]
 - **The coverage is not as good**  
     Check-ups and dentist visits are rarely covered.[^26] You usually pay a deductible for basic treatments. Long term treatments (like cancer) are 100% covered, without any deductible.
 
-You can get expat health insurance from [Feather](/out/feather-expats), [Ottonova](/out/ottonova-expats), or any [health insurance broker](#insurance-brokers).
+Get expat health insurance from a [health insurance broker](#insurance-brokers). [Feather](/out/feather-expats) and [Ottonova](/out/ottonova-expats) also sell it.
 
 **[List of expat insurance options ➞](/guides/german-visa-health-insurance#expat-health-insurance-options)**
-
-### Compared to travel insurance
-
-- **It covers more**  
-    Travel insurance usually covers around 30,000€ of medical fees. Expat insurance has unlimited coverage. If you get very sick with travel insurance, you must end your trip and go home. With expat insurance, you can stay in Germany and recover.[^30]
-- **It lasts longer**  
-    Expat insurance can be valid for a few years. Travel insurance is only valid for a few months.
-
-### Don't stay on expat health insurance
-
-[[Expat health insurance]] is a temporary option. Switch to [public](/glossary/gesetzliche%20Krankenversicherung) or [private health insurance](/glossary/private%20Krankenversicherung) as soon as you can. If you wait too long, you can have problems:
-
-> **Example 1:** You are a freelancer, and you have expat insurance for 3 years. You regularly see a psychotherapist. You must [renew your freelance visa](/guides/renew-german-freelance-visa), so you need public or private health insurance. Since you see a therapist, no insurer wants to cover you. You can't find health insurance, so you can't renew your freelance visa.
-
-> **Example 2:** You have expat health insurance. You get cancer. After 5 years, your expat insurance expires, and no insurer wants to cover you.
-
-If your expat insurance stays valid, it gets more and more expensive. In the long term, public and private health insurance are cheaper.[^10]
-
-**If you are a freelancer**, switch to public or private health insurance as soon as possible. It's more expensive, but you don't really have a choice. You can get cheaper health insurance if you [join the Künstlersozialkasse](/guides/ksk-kuenstlersozialkasse).
-
-**If you are a student**, public health insurance is a little more expensive than expat insurance, but it's *much* better. Switch to public health insurance *maximum* 3 months after you start university. If you wait too long, you will be stuck with expat insurance.
 
 ### Travel insurance
 
@@ -369,6 +337,16 @@ It only covers medical emergencies, and treatments that can't wait until you go 
 You can buy travel insurance online in your home country. [HanseMerkur](/out/hansemerkur-travel)'s travel insurance is valid for a Schengen visa application.
 
 **[Health insurance for a Schengen visa ➞](/guides/german-visa-health-insurance#for-a-schengen-visa)**
+
+### Insurance from other EU countries
+
+If you come from another EU country, you can use your European Health Insurance Card (EHIC) in Germany. If you get healthcare in Germany, your health insurance in your home country pays for it.
+
+- **If you stay in Germany temporarily**, your EHIC covers you. You do not need extra health insurance in Germany.
+- **If you are an Erasmus student from another EU country**, your EHIC covers you.[^23] You can use your EHIC card even if you study in Germany for your entire degree.[^32] You do not need extra German health insurance unless you start working.
+- **When you start working in Germany**, your EHIC does not cover you anymore. If you earn more than {{MINIJOB_MAX_INCOME|cur}}€ per month, you must get German health insurance.[^24]
+
+If health insurance is cheaper in your home country, using your EHIC is cheaper than getting German health insurance. You can save a lot of money every month with the EHIC.
 
 ## How to decide
 
@@ -387,6 +365,7 @@ Choose public health insurance if...
 
 Choose private health insurance if...
 
+- You have a stable income[^21]
 - You want easy doctor appointments
 - You want the best possible coverage
 - You want the lowest possible price
@@ -436,21 +415,23 @@ There are more types of insurance in Germany, but health and liability insurance
 [^9]: [FinanXpats](https://www.finanxpats.com/health-insurance/2025-health-insurance-guide-for-expats#:~:text=pre-existing%20conditions%20may%20lead%20to%20risk%20surcharges) (April 2025)
 [^10]: [krankenkassenzentrale.de](http://web.archive.org/web/20220926103421/https://www.krankenkassenzentrale.de/wiki/krankenkasse-arbeitslosigkeit), [tk.de](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-versicherte/veraenderung-berufliche-situation/wenn-sie-arbeitslos-sind-2000802)
 [^11]: [krankenkassen.de](https://www.krankenkassen.de/gesetzliche-krankenkassen/krankenkasse-beitrag/arbeitslose/#:~:text=ubernimmt%20das%20jobcenter%20den%20allgemeinen%20krankenkassen-beitrag) (February 2025), [aok.de](https://www.aok.de/pk/krankenkassenbeitraege/arbeitslosigkeit/), [aok.de](https://www.aok.de/pk/krankenkassenbeitraege/arbeitslosigkeit/), [Arbeitsagentur](https://www.arbeitsagentur.de/arbeitslosengeld-2/gesundheit-versicherung)
-[^12]: Citation needed - Public is best if you want children
+[^12]: Citation needed - Public is best if you want children, [FinanXpats](https://www.finanxpats.com/health-insurance/2025-health-insurance-guide-for-expats#:~:text=recommended%20for%20families) (April 2025)
 [^13]: Citation needed - doctors that are hard to find
+[^14]: Citation needed - Switch from expat max 3 months after you start studying
 [^15]: Citation needed - All public options are the same
 [^16]: [gesundheitsinformation.de](https://www.gesundheitsinformation.de/krankenversicherung-in-deutschland.html)
 [^17]: [blog.feather-insurance.com](https://feather-insurance.com/blog/how-are-private-health-insurance-payments-different-from-public-health-insurance/)
 [^18]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/c2j339/is_pkv_still_a_terrible_idea_if_i_likely_wont/ermsqt7/)
 [^19]: [Feather Insurance](https://feather-insurance.com/blog/public-vs-private-health-insurance-germany/#:~:text=for%20high%20earners%2C%20private%20insurance%20can%20be%20cheaper) (April 2025)
 [^20]: [Feather Insurance](https://feather-insurance.com/blog/public-vs-private-health-insurance-germany/#:~:text=if%20you%E2%80%99re%20childfree%20or%20not%20planning%20on%20becoming%20a%20parent) (April 2025)
+[^21]: [finanztip.de](https://www.finanztip.de/pkv/pkv-wechsel/#:~:text=wenn%20du%20dauerhaft%20stabile%20einkunfte%20erzielst) (January 2025)
 [^22]: [toytowngermany.com](https://web.archive.org/web/20220703211411/https://www.toytowngermany.com/forum/topic/383323-could-i-stay-on-travel-health-insurance-for-5-years/?page=2#comment-3746627)
 [^23]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/d2njye/advise_about_health_insurance_for_erasmus_student/ezvtjk1/), [krankenkassen.de](http://web.archive.org/web/20201204045304/https://www.krankenkassen.de/meine-krankenkasse/student/ehic/)
 [^24]: [faq.feather-insurance.com](https://faq.feather-insurance.com/en/articles/148524-health-insurance-for-short-term-and-seasonal-employment)
+[^26]: Citation needed - Expat coverage bad, prices raise quickly
 [^29]: [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/532620887206619/)
 [^32]: [krankenkassen.de](http://web.archive.org/web/20201204045304/https://www.krankenkassen.de/meine-krankenkasse/student/ehic/)
 [^33]: Dr. Rob Schumacher, [Feather Insurance](/out/feather)
-[^26]: [Feather Insurance](/out/feather) (May 2023)
 [^25]: [tk.de](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-nicht-tk-versicherte/wie-hoch-sind-die-beitraege/freiwillige-mitglieder/haeufige-fragen-zu-beitraegen-fuer-freiwillig-versicherte/beitragshoehe-absolvent-freiwilliger-student-2006956#:~:text=nach%20dem%2030.%20geburtstag), [krankenkassen.de](https://www.krankenkassen.de/meine-krankenkasse/student/freiwillig/#:~:text=mit%20dem%20ende%20des%20semesters%2C%20in%20das%20der%2030.%20geburtstag%20fallt)
 [^30]: Citation needed - Dr. Rob Schumacher at [Feather Insurance](/out/feather) (November 2023)
 [^31]: Citation needed
@@ -476,7 +457,7 @@ There are more types of insurance in Germany, but health and liability insurance
 [^56]: Citation needed - Private health insurer is usually cheaper for high earners
 [^57]: Citation needed - EU health insurance covers you until you start working
 [^58]: Citation needed - Private makes most sense for self-employed students
-[^59]: Citation needed - Public usually the best option for students
+[^59]: Citation needed - Public usually the best option for students, [finanztip.de](https://www.finanztip.de/pkv/pkv-wechsel/#:~:text=bleib%20fur%20die%20dauer%20des%20studiums%20besser%20in%20der%20gesetzlichen%20krankenversicherung) (January 2025)
 [^61]: Citation needed - Feather is an agent
 [^60]: Citation needed - Private healthcare is unlimited
 [^62]: [250 to 350€ (FinanXpats)](https://www.finanxpats.com/health-insurance/2025-health-insurance-guide-for-expats#:~:text=pays%20around%20%E2%82%AC250%E2%80%93350%20per%20month) (April 2025), [250 to 390€ (Feather)](/out/feather-private) (April 2025), [260 to 350€ (Ottonova)](/out/ottonova) (April 2025)
