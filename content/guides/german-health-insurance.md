@@ -22,6 +22,14 @@ This guide explains how German health insurance works, how to choose the best he
     Use my [recommendation tool](#your-options) or keep reading this guide. There are two insurance systems and hundreds of options. The best option depends on your situation.
 2. **[Ask an expert](#insurance-brokers) to help you choose**{{ RECOMMENDED }}  
     Don't choose insurance yourself; it can be an expensive mistake. Get free help from a health insurance broker.
+3. **Fill the application form**  
+    Each insurer has a different form. A health insurance broker can do this for you.
+4. **Get a medical test**  
+    With private health insurance, you must get a health check from a doctor.
+5. **Get an insurance certificate**  
+    Once you are insured, you get a [certificate](/images/krankenkasse-mitgliedsbescheinigung-nach-175-sgb-v.png) (*Mitgliedsbescheinigung*). Give it to your employer. Use it as a proof of insurance for your [residence permit](/glossary/Aufenthaltstitel) application.
+6. **Pay for insurance every month**  
+    If you are an employee, the payments come out of your paycheck every month. Everyone else pays by [bank transfer](/glossary/SEPA-Überweisung).
 
 ## Your options
 
