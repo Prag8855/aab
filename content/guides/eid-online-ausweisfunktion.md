@@ -21,6 +21,7 @@ German ID cards have a chip in them. You can use your ID card and the [AusweisAp
 - Applying for *[[Kindergeld]]*[^5]
 - Registering a vehicle after you [buy it](/guides/buying-used-car-in-germany)
 - [Requesting a replacement](/guides/replacement-meldebescheinigung) of your [registration certificate](/glossary/Meldebescheinigung)
+- [Registering as an organ donor](/guides/organ-donor)
 
 In Berlin, most services are not digital, or they don't require an eID. Most new digital services require an eID.
 
@@ -55,6 +56,8 @@ If you pick up a new residence permit at the *Ausländerbehörde*, ask if they c
 If you just got your residence permit, **tell us how long it took**. Your feedback helps other people plan their residence permit application.
 
 {% include "_blocks/feedbackResidencePermit/allTypes.html" %}
+
+With your new eID, it only takes a few minutes to [register as an organ donor](/guides/organ-donor), and it can save lives.
 
 [^1]: [Berlin.de](https://www.berlin.de/einwanderung/aufenthalt/elektronischer-aufenthaltstitel/)
 [^2]: [Reddit](https://old.reddit.com/r/berlin/comments/11tuxdm/trapped_in_bureaucratic_loop_eid_function_for/), [Reddit](https://old.reddit.com/r/berlin/comments/z3fd24/visiting_berlin_moving_here_going_clubbing_have_a/jaqlmvx/), [Reddit](https://old.reddit.com/r/berlin/comments/12ew8ct/how_do_i_activate_the_eid_functionality_on_my/), [Facebook](https://www.facebook.com/groups/226825394858771/posts/1438781530329812/)
