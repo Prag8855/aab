@@ -31,8 +31,6 @@ This guide explains the current laws about cannabis in Germany.
 
 There is currently **no way to buy weed**. There are no cannabis stores. You must grow it yourself or join a [cannabis club](#cannabis-clubs).
 
-**Things can still change.** Cannabis just became legal. Some laws are still unclear.
-
 ### Cannabis clubs
 
 **You can't buy weed** from a store. To buy weed, you must join a cannabis club.
@@ -55,7 +53,7 @@ To join a club, you must...[^18]
 - Be at least 18 years old
 - Be a resident for at least 6 months[^26]
 
-At the moment, it takes a really long time to create a cannabis club.[^29] It could take a few months before you can easily buy weed from a club.{{ fail_on('2025-04-01') }}
+At the moment, it's almost impossible to join a club. There are almost no approved clubs, and the existing clubs have long waiting lists.[^29] It could take a few months before you can easily buy weed from a club.{{ fail_on('2025-06-01') }}
 
 ### Is medicinal marijuana legal?
 
@@ -116,4 +114,4 @@ This might have changed with legalisation, but it's not confirmed.
 [^25]: [§16 Abs. 2 KCanG](https://www.buzer.de/16_KCanG.htm)
 [^26]: [§16 Abs. 4 KCanG](https://www.buzer.de/16_KCanG.htm)
 [^28]: [Reddit](https://old.reddit.com/r/LSD/comments/1c29pe3/found_lsd_and_hhc_in_frankfort_germany/), [1](https://old.reddit.com/r/trees/comments/10fwyp2/hhc_carts_for_45_each_in_germany_what_do_you_think/), [2](https://old.reddit.com/r/askberliners/comments/1cq9z73/foreigner_in_berlin_would_like_to_buy_some_hhc/) (2024)
-[^29]: [businessofcannabis.com](https://businessofcannabis.com/germanys-cannabis-club-applications-continue-to-rise-but-growth-has-slowed-in-september/), [osthessen-zeitung.de](https://www.osthessen-zeitung.de/einzelansicht/news/2024/oktober/cannabis-social-club-wartet-auf-lizenz-mithilfe-fuer-mitglieder-pflicht.html) (October 2024)
+[^29]: [rbb24.de 1](https://www.rbb24.de/wirtschaft/beitrag/2025/01/berlin-cannabis-hanf-lageso-anbau.html), [2](https://www.rbb-online.de/abendschau/videos/20250401_1930/Ein_Jahr_Cannabis_Legalisierung.html) (March 2025), [businessofcannabis.com](https://businessofcannabis.com/germanys-cannabis-club-applications-continue-to-rise-but-growth-has-slowed-in-september/), [osthessen-zeitung.de](https://www.osthessen-zeitung.de/einzelansicht/news/2024/oktober/cannabis-social-club-wartet-auf-lizenz-mithilfe-fuer-mitglieder-pflicht.html) (October 2024)
