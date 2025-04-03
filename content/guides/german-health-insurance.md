@@ -175,7 +175,7 @@ When you lose your job, you sometimes get [one month of free health insurance](/
 
 If you are a [EU](/glossary/European%20Union) citizen, you can sometimes use your [insurance from your home country](#insurance-from-other-eu-countries). This is great if you get free health insurance in your home country.
 
-### What is covered
+### What public insurance covers
 
 Public health insurance covers **all necessary healthcare**. Important treatments and medical prescriptions are always covered. There is a small deductible (5€ to 10€ per month) for some prescriptions. There is no other deductible. There is no coverage limit.
 
@@ -273,7 +273,7 @@ A young, healthy employee could pay just 250€ per month for private insurance.
 - **You can be stuck with private**  
     It's hard to switch from private to public health insurance. You can be stuck with an expensive health insurance, and have no way to switch to public.
 
-### What is covered
+### What private insurance covers
 
 Private health insurance covers the same things as public health insurance, and often more. **Necessary healthcare is always covered.**
 
