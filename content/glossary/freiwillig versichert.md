@@ -2,9 +2,23 @@
 Title: What does freiwillig versichert mean?
 German_term: freiwillig versichert
 English_term: Voluntarily insured
-Description: 
+Description: If you are freiwillig versichert, you can choose public or private health insurance.
 Date_created: 2019-02-14
-Related_guides: guides/german-health-insurance.md
+Related_guides:
+    guides/german-health-insurance.md
+    tools/health-insurance-calculator.md
 ---
 
-If you are a freelancer, or if you make over {{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}}€ per year, you are voluntarily insured (*freiwillig versichert*). This means that public health insurance companies are not forced to accept you. It also means that you can choose private health insurance. Teachers and students are also voluntarily insured.
+If you are voluntarily insured (*freiwillig versichert*), you can choose [public](/glossary/gesetzliche%20Krankenversicherung) or [private health insurance](/glossary/private%20Krankenversicherung).
+
+You are *freiwillig versichert* if...
+
+- You are an employee, and you earn over {{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}}€ per year
+- or you are self-employed
+- or you are a student
+- or your total income is under {{GKV_FAMILIENVERSICHERUNG_MAX_INCOME|cur}}€ per month
+- or you have a [[Minijob]]
+- or you are a civil servant (*Beamter*)
+- or you are a doctor
+
+**[How to choose health insurance ➞](/guides/german-health-insurance)**

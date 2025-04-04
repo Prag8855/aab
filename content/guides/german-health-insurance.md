@@ -120,7 +120,7 @@ If the internship is before or after your studies:
 
 89% of Germans have [public health insurance](/glossary/gesetzliche%20Krankenversicherung).[^2] It's often your only option.
 
-Public health insurance is provided by [non-profit insurance funds](/glossary/Krankenkasse), not by the state. The cost and coverage are almost the same for all public health insurers.
+Public health insurance is run by [non-profit insurance funds](/glossary/Krankenkasse), not by the state. The cost and coverage are almost the same for all public health insurers.
 
 ### Cost of public health insurance
 
@@ -181,7 +181,7 @@ Public health insurance covers **all necessary healthcare**. Important treatment
 
 When you go to the doctor, you give your insurance card, and they charge your *[[Krankenkasse]]* directly. If a treatment is not covered, you know before you start. There are no surprise costs.
 
-Public health insurance covers essential dental care, like removing your wisdom teeth. You also get 2 free dental check-ups every year. It does not cover tooth cleanings. Many people also get [dental insurance](/glossary/Zahnzusatzversicherung) to get better coverage.
+Public health insurance covers essential dental care, like removing your wisdom teeth. You also get 2 free dental check-ups every year. It does not cover tooth cleanings. You can get [dental insurance](/glossary/Zahnzusatzversicherung) to get better coverage.
 
 Glasses and contact lenses [are rarely covered](/guides/eyeglasses). You must pay for them yourself.
 
@@ -269,7 +269,7 @@ A young, healthy employee could pay just 250€ per month for private insurance.
 - **It does not adjust to your income**  
     If your income changes, your health insurance costs the same. This is a problem if you have a bad year. Public health insurance is a much safer option, because the cost is proportional to your income.
 - **They can reject you**  
-    If you have serious health problems, they reject you. If you had psychotherapy, they usually reject you. If you have problems like AIDS, severe asthma, diabetes or obesity, they could also reject you, or charge a lot more. If you have pre-existing health conditions, public health insurance might be your only option.[^6]
+    If you have serious health problems, they reject you. If you had psychotherapy, they usually reject you. If you have problems like AIDS, severe asthma, diabetes or obesity, they could also reject you, or charge a lot more. If you have pre-existing health problems, public health insurance might be your only option.[^6]
 - **You can be stuck with private**  
     It's hard to switch from private to public health insurance. You can be stuck with an expensive health insurance, and have no way to switch to public.
 
@@ -375,24 +375,22 @@ There is no reason to choose your insurance yourself. [Ask an expert](#insurance
     You can get health insurance without an old age privision. It's up to 50% cheaper.
 - **You don't want children**[^20]
 
-Do not choose health insurance to pay as little as possible. This is a bad idea.
-
 ### Choose expat health insurance if...
 
 - **You apply for an [opportunity card](/glossary/Chancenkarte)**  
     Expat health insurance is ideal for this. When you [find a job](/guides/find-a-job-in-berlin), switch to public or private health insurance.
-- **You have no choice**  
-    Expat health insurance is the cheapest insurance. It's a bad long-term solution, but it might be the only health insurance you can afford.
+- **You have no other choice**  
+    Expat health insurance is the cheapest option. It's a bad long-term solution, but it might be the only health insurance you can afford. It also works if you can't get any public or private health insurance.
 
 German embassies and consulates usually accept expat health insurance for a visa application.[^33]
 
-The [immigration office](/glossary/Ausländerbehörde) *sometimes* accepts expat health insurance, but only if it's your first residence permit. Expat insurance is not accepted when you change or renew a residence permit.[^21]
+The [immigration office](/glossary/Ausländerbehörde) *sometimes* accepts expat health insurance for a residence permit application. It sometimes works when it's your first residence permit. It does not work when you change or renew your residence permit.[^21]
 
 **[Health insurance for a visa application ➞](/guides/german-visa-health-insurance)**
 
 ### Choose travel insurance if...
 
-- **You are visiting Germany**  
+- **You are a tourist**  
     Travel insurance covers medical emergencies while you travel. It's very cheap.
 - **You apply for a [[Schengen visa]]**  
     You need valid health insurance to apply for the Schengen visa. [HanseMerkur's Visa Plus travel insurance](/out/hansemerkur-travel) works well for this.
@@ -417,7 +415,7 @@ If you are an immigrant, choose a broker who works with expats. Your needs are d
 
 Once you are insured, you get...
 
-- **A [[Mitgliedsbescheinigung]]*  
+- **A [[Mitgliedsbescheinigung]]**  
     It's a proof of health insurance. Use it to apply for a [residence permit](/glossary/Aufenthaltstitel).
 - **A health insurance card**  
     If you have public health insurance, show it to your doctor when you need healthcare. It's a proof of health insurance.

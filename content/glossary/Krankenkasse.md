@@ -13,6 +13,6 @@ Related_guides:
 
 A *Krankenkasse* is a [public health insurance](/glossary/gesetzliche%20Krankenversicherung) company.
 
-*Krankenkassen* are non-profit funds. They are not run by the government. There are over 100 of them, but their price and coverage are almost the same. The biggest *Krankenkassen* are [[Techniker Krankenkasse]], AOK and Barmer.
+*Krankenkassen* are non-profit funds. They are not run by the government. There are over 90 of them, but their price and coverage are almost the same. The biggest *Krankenkassen* are [[Techniker Krankenkasse]], AOK and Barmer.
 
 **[How to choose health insurance ➞](/guides/german-health-insurance)**

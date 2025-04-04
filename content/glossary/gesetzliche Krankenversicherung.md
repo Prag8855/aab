@@ -17,7 +17,6 @@ Related_guides:
     guides/ksk-kuenstlersozialkasse.md
 ---
 
-
 Germany has two types of [health insurance](/glossary/Krankenversicherung): public and [private](/glossary/private%20Krankenversicherung). Most people have public health insurance (*gesetzliche Krankenversicherung* or *GKV*). It's also called statutory health insurance.
 
 Public health insurance is managed by non-profit *[Krankenkassen](/glossary/Krankenkasse)*. There are dozens of options, but the cost and the coverage are almost the same. The cost of public health insurance is based on your income.
