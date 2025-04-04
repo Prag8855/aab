@@ -36,9 +36,9 @@ It is divided in 4 parts:[^1]
 
 ## Why you need this number
 
-When you start working, **your employer needs this number as soon as possible.** This lets your employer take pension contributions from your paycheck. You also need this number if you leave Germany, and want to [get your pension payments back](/guides/pension-payments-refund).
+When you [start working](/guides/find-a-job-in-berlin#start-working), **your employer needs this number as soon as possible.** This lets your employer take pension contributions from your paycheck. You also need this number if you leave Germany, and want to [get your pension payments back](/guides/pension-payments-refund).
 
-If you don't have that number yet, don't panic! Your employer will still pay you.
+If you don't have that number yet, don't panic! You will still get paid.
 
 ## How to get your Sozialversicherungsnummer
 
