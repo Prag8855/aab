@@ -61,7 +61,7 @@ Your employer can help you get public health insurance. This is not a good idea.
 
 **If you are over 30 years old**, you can't get the student tariff. [Public health insurance](/glossary/gesetzliche%20Krankenversicherung) costs around [{{GKV_MIN_COST_SELF_PAY|cur}}€ per month](/glossary/Mindestbeitrag).[^25] [Private health insurance](/glossary/private%20Krankenversicherung) might be cheaper for you. You can't get [free health insurance](#free-health-insurance).
 
-**If you are a foreign student**, you might need temporary health insurance before school starts. If you are from the [EU](/glossary/European%20Union), you can use your [health insurance from your home country](#insurance-from-other-eu-countries). If you are not from the EU, you usually need [expat health insurance](/glossary/Expat%20health%20insurance).
+**If you are a foreign student**, you might need temporary health insurance before school starts. If you are from the EU, you can use [health insurance from your home country](#insurance-from-other-eu-countries). If you are not from the EU, you usually need [expat health insurance](/glossary/Expat%20health%20insurance).
 
 **If you are self-employed**, and your income is over {{GKV_FAMILIENVERSICHERUNG_MAX_INCOME|cur}}€ per month, you are treated [like a self-employed person](#health-insurance-for-freelancers). You can't get the student tariff and you can't get [free health insurance](#free-health-insurance). If you are young, [private health insurance](/glossary/private%20Krankenversicherung) usually makes the most sense.[^58]
 
@@ -352,35 +352,52 @@ If health insurance is cheaper in your home country, using your EHIC is cheaper 
 
 There is no reason to choose your insurance yourself. [Ask an expert](#insurance-brokers) to help you choose.
 
-Choose public health insurance if...
+### Choose public health insurance if...
 
 - **You don't have a stable income**  
-    If you are not sure you will always have a high income, public health insurance is a safer choice. It costs a percentage of your income, so if you make less, your pay less. If you just [started your business](/guides/start-a-business-in-germany), choose public health insurance.[^27]
+    If you are not sure you will always have a high income, public health insurance is safer. It costs a percentage of your income, so if you make less, your pay less. If you just [started your business](/guides/start-a-business-in-germany), choose public health insurance.[^27]
 - **You want something that just works**  
     Just show your card and get healthcare. It takes longer to get an appointment, but you don't have to deal with any paperwork.
-- **You have children or want children**  
-    Public health insurance covers your children for free. Private health insurance charges extra for each child.
-- **You can get the student tariff**  
+- **You have or want children**  
+    Public health insurance covers your children [for free](/glossary/Familienversicherung). Private health insurance charges extra for each child.
+- **You pay the student tariff**  
     The student tariff is a really good deal. If you are a student under 30 years old, public health insurance is usually the best option.[^59]
 
-Choose private health insurance if...
+### Choose private health insurance if...
 
-- You have a high, stable income[^21]
-- You want easy doctor appointments
-- You want the best possible coverage
-- You want the lowest possible price
-- You plan to leave Germany in a few years
-- You don't plan to have children[^20]
+- **You have stable income**  
+    Private health insurance makes sense if you have a high income for the rest of your career.
+- **You want fast doctor appointments**  
+    It's much easier to find a doctor.
+- **You want the best coverage**  
+    Private health insurance lets you pay more and get the best coverage.
+- **You plan to leave Germany in a few years**  
+    You can get health insurance without an old age privision. It's up to 50% cheaper.
+- **You don't want children**[^20]
 
-Choose expat health insurance if...
+Do not choose health insurance to pay as little as possible. This is a bad idea.
 
-- You need temporary insurance to apply for a residence permit
-- You have no other choice
+### Choose expat health insurance if...
 
-Choose travel insurance if...
+- **You apply for an [opportunity card](/glossary/Chancenkarte)**  
+    Expat health insurance is ideal for this. When you [find a job](/guides/find-a-job-in-berlin), switch to public or private health insurance.
+- **You have no choice**  
+    Expat health insurance is the cheapest insurance. It's a bad long-term solution, but it might be the only health insurance you can afford.
 
-- You want to visit Germany
-- You apply for a [[Schengen visa]]
+German embassies and consulates usually accept expat health insurance for a visa application.[^33]
+
+The [immigration office](/glossary/Ausländerbehörde) *sometimes* accepts expat health insurance, but only if it's your first residence permit. Expat insurance is not accepted when you change or renew a residence permit.[^21]
+
+**[Health insurance for a visa application ➞](/guides/german-visa-health-insurance)**
+
+### Choose travel insurance if...
+
+- **You are visiting Germany**  
+    Travel insurance covers medical emergencies while you travel. It's very cheap.
+- **You apply for a [[Schengen visa]]**  
+    You need valid health insurance to apply for the Schengen visa. [HanseMerkur's Visa Plus travel insurance](/out/hansemerkur-travel) works well for this.
+
+**[Health insurance for a Schengen visa ➞](/guides/german-visa-health-insurance#for-a-schengen-visa)**
 
 ### Insurance brokers
 
@@ -434,13 +451,12 @@ If you are new in Germany, [register as an organ donor](/guides/organ-donor). It
 [^18]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/c2j339/is_pkv_still_a_terrible_idea_if_i_likely_wont/ermsqt7/)
 [^19]: [Feather Insurance](https://feather-insurance.com/blog/public-vs-private-health-insurance-germany/?utm_source=allaboutberlin#:~:text=for%20high%20earners%2C%20private%20insurance%20can%20be%20cheaper) (April 2025)
 [^20]: [Feather Insurance](https://feather-insurance.com/blog/public-vs-private-health-insurance-germany/?utm_source=allaboutberlin#:~:text=if%20you%E2%80%99re%20childfree%20or%20not%20planning%20on%20becoming%20a%20parent) (April 2025)
-[^21]: [finanztip.de](https://www.finanztip.de/pkv/pkv-wechsel/#:~:text=wenn%20du%20dauerhaft%20stabile%20einkunfte%20erzielst) (January 2025), [Feather Insurance](https://feather-insurance.com/blog/public-vs-private-health-insurance-germany/?utm_source=allaboutberlin#:~:text=%20if%20you%E2%80%99re%20a%20high-earner) (April 2025)
 [^22]: [toytowngermany.com](https://web.archive.org/web/20220703211411/https://www.toytowngermany.com/forum/topic/383323-could-i-stay-on-travel-health-insurance-for-5-years/?page=2#comment-3746627)
 [^23]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/d2njye/advise_about_health_insurance_for_erasmus_student/ezvtjk1/), [krankenkassen.de](http://web.archive.org/web/20201204045304/https://www.krankenkassen.de/meine-krankenkasse/student/ehic/)
 [^24]: [faq.feather-insurance.com](https://faq.feather-insurance.com/en/articles/148524-health-insurance-for-short-term-and-seasonal-employment)
 [^25]: [tk.de](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-nicht-tk-versicherte/wie-hoch-sind-die-beitraege/freiwillige-mitglieder/haeufige-fragen-zu-beitraegen-fuer-freiwillig-versicherte/beitragshoehe-absolvent-freiwilliger-student-2006956#:~:text=nach%20dem%2030.%20geburtstag), [krankenkassen.de](https://www.krankenkassen.de/meine-krankenkasse/student/freiwillig/#:~:text=mit%20dem%20ende%20des%20semesters%2C%20in%20das%20der%2030.%20geburtstag%20fallt)
 [^26]: Citation needed - Expat coverage bad, prices raise quickly
-[^27]: [finanztip.de](https://www.finanztip.de/pkv/pkv-wechsel/#:~:text=gerade%20zu%20beginn%20deiner%20selbststandigkeit%20empfehlen%20wir%20dir%2C%20in%20der%20gkv%20zu%20bleiben) (January 2025)
+[^27]: [finanztip.de](https://www.finanztip.de/pkv/pkv-wechsel/#:~:text=gerade%20zu%20beginn%20deiner%20selbststandigkeit%20empfehlen%20wir%20dir%2C%20in%20der%20gkv%20zu%20bleiben) (January 2025), [Feather Insurance](https://feather-insurance.com/blog/public-vs-private-health-insurance-germany/?utm_source=allaboutberlin#:~:text=%20if%20you%E2%80%99re%20a%20high-earner) (April 2025)
 [^28]: [finanztip.de](https://www.finanztip.de/pkv/pkv-wechsel/#:~:text=idealerweise%20solltest%20du%20nicht%20alter%20als%2035%20bis%2040%20jahre%20sein) (January 2025)
 [^29]: [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/532620887206619/)
 [^30]: [Seamus Wolf, insurance broker](/out/horizon65) (April 2025), [Emily Archer, insurance broker](https://www.archer-relocation.com/) (April 2025)
