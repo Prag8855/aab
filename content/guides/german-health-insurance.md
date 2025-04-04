@@ -16,7 +16,7 @@ This guide explains how German health insurance works, how to choose the best he
 
 {% include "_blocks/tableOfContents.html" %}
 
-## How to choose health insurance
+## How to get health insurance
 
 1. **Understand [your options](#your-options)**  
     Use my [recommendation tool](#your-options) or keep reading this guide. There are two insurance systems and hundreds of options. The best option depends on your situation.
@@ -25,9 +25,9 @@ This guide explains how German health insurance works, how to choose the best he
 3. **Apply for health insurance**  
     Each insurer has a different application process. With private health insurance, you usually need a health check from a doctor. It costs around 250€.[^30]{{ fail_on('2026-06-01') }}
 4. **Get your documents**  
-    Once you are insured, you get a health insurance card, a *[[Mitgliedsbescheinigung]]* and a *[[Sozialversicherungsnummer]]*. Tell your employer about your new health insurance. Use the *Mitgliedsbescheinigung* as a proof of insurance for your [residence permit](/glossary/Aufenthaltstitel) application.
+    After you get insurance, you get a health insurance card, a *[[Mitgliedsbescheinigung]]* and a *[[Sozialversicherungsnummer]]*.
 5. **Pay every month**  
-    If you are an employee, the insurance payments come out of your paycheck every month. Everyone else pays by [bank transfer](/glossary/SEPA-Überweisung).
+    If you are an employee, the insurance payments come out of your paycheck every month. Otherwise, you pay by [bank transfer](/glossary/SEPA-Überweisung) or [direct debit authorisation](/glossary/SEPA-Lastschriftmandat).
 
 ## Your options
 
@@ -348,7 +348,7 @@ If you come from another EU country, you can use your European Health Insurance 
 
 If health insurance is cheaper in your home country, using your EHIC is cheaper than getting German health insurance. You can save a lot of money every month with the EHIC.
 
-## How to decide
+## How to choose
 
 There is no reason to choose your insurance yourself. [Ask an expert](#insurance-brokers) to help you choose.
 
@@ -413,9 +413,16 @@ If you are an immigrant, choose a broker who works with expats. Your needs are d
 
 ## What to do next
 
-### Get an insurance certificate
+### Get your documents
 
-Once you are insured, you get a *[[Mitgliedsbescheinigung]]*, a health insurance card and a *[[Sozialversicherungsnummer]]*. Give it to your employer. Your employer needs to know about your health insurance, because the payments come directly from your paycheck. You also need this proof of insurance for your [residence permit](/glossary/Aufenthaltstitel) application.
+Once you are insured, you get...
+
+- **A [[Mitgliedsbescheinigung]]*  
+    It's a proof of health insurance. Use it to apply for a [residence permit](/glossary/Aufenthaltstitel).
+- **A health insurance card**  
+    If you have public health insurance, show it to your doctor when you need healthcare. It's a proof of health insurance.
+- **A [[Sozialversicherungsnummer]]**  
+    When you [start working](/guides/find-a-job-in-berlin#start-working), your employer needs this number as soon as possible. If you get private health insurance, you do not get a *Sozialversicherungsnummer* automatically. You must [contact the *Deutsche Rentenversicherung*](https://www.deutsche-rentenversicherung.de/DRV/DE/Beratung-und-Kontakt/Kontakt/Anschriften-Uebersicht/anschriften_uebersicht_detail.html) and ask for it.
 
 ### Get liability insurance
 
@@ -453,6 +460,7 @@ If you are new in Germany, [register as an organ donor](/guides/organ-donor). It
 [^18]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/c2j339/is_pkv_still_a_terrible_idea_if_i_likely_wont/ermsqt7/)
 [^19]: [Feather Insurance](https://feather-insurance.com/blog/public-vs-private-health-insurance-germany/?utm_source=allaboutberlin#:~:text=for%20high%20earners%2C%20private%20insurance%20can%20be%20cheaper) (April 2025)
 [^20]: [Feather Insurance](https://feather-insurance.com/blog/public-vs-private-health-insurance-germany/?utm_source=allaboutberlin#:~:text=if%20you%E2%80%99re%20childfree%20or%20not%20planning%20on%20becoming%20a%20parent) (April 2025)
+[^21]: Citation needed - When the immigration office accepts expat insurance
 [^22]: [toytowngermany.com](https://web.archive.org/web/20220703211411/https://www.toytowngermany.com/forum/topic/383323-could-i-stay-on-travel-health-insurance-for-5-years/?page=2#comment-3746627)
 [^23]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/d2njye/advise_about_health_insurance_for_erasmus_student/ezvtjk1/), [krankenkassen.de](http://web.archive.org/web/20201204045304/https://www.krankenkassen.de/meine-krankenkasse/student/ehic/)
 [^24]: [faq.feather-insurance.com](https://faq.feather-insurance.com/en/articles/148524-health-insurance-for-short-term-and-seasonal-employment)
@@ -463,7 +471,8 @@ If you are new in Germany, [register as an organ donor](/guides/organ-donor). It
 [^29]: [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/532620887206619/)
 [^30]: [Seamus Wolf, insurance broker](/out/horizon65) (April 2025), [Emily Archer, insurance broker](https://www.archer-relocation.com/) (April 2025)
 [^32]: [krankenkassen.de](http://web.archive.org/web/20201204045304/https://www.krankenkassen.de/meine-krankenkasse/student/ehic/)
-[^31]: Citation needed
+[^31]: Citation needed - Doctors and public servants can get private
+[^33]: Citation needed - Embassies/consulates accept expat health insurance
 [^34]: [verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/krankenversicherung/familienversicherung-in-der-krankenkasse-wer-kostenlos-mit-rein-kommt-28982) (January 2025) [minijob-zentrale.de](https://www.minijob-zentrale.de/DE/meta/faq-bereich/urlaub-krankheit-und-arbeitsrechte/96_warum_kein_geld_f%C3%BCr_minijobber_aus_kv/faq_96_warum_kein_geld_f%C3%BCr_minijobber_aus_kv.html#:~:text=oft%20besteht%20eine%20beitragsfreie%20familienversicherung%20uber%20den%20ehepartner%20oder%20die%20eltern) (February 2025)
 [^36]: [minijob-zentrale.de](https://www.minijob-zentrale.de/DE/die-minijobs/versicherungen/detailseite.html#:~:text=ist%20ein%20solidarbeitrag.%20daraus%20entsteht%20fur%20den%20minijobber) (February 2025)
 [^37]: [verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/krankenversicherung/familienversicherung-in-der-krankenkasse-wer-kostenlos-mit-rein-kommt-28982#:~:text=schlie%C3%9Ft%20eine%20Familienversicherung-,aus.,-Man%20darf%20nicht) (February 2025)
