@@ -24,10 +24,10 @@ This guide explains how German health insurance works, how to choose the best he
     Don't choose insurance yourself; it can be an expensive mistake. Get free help from a health insurance broker.
 3. **Apply for health insurance**  
     Each insurer has a different application process. With private health insurance, you usually need a health check from a doctor. It costs around 250€.[^30]{{ fail_on('2026-06-01') }}
-4. **Get an insurance certificate**  
-    Once you are insured, you get a [certificate](/images/krankenkasse-mitgliedsbescheinigung-nach-175-sgb-v.png) from your insurer. Give it to your employer. Use it as a proof of insurance for your [residence permit](/glossary/Aufenthaltstitel) application.
-5. **Pay for insurance every month**  
-    If you are an employee, the payments come out of your paycheck every month. Everyone else pays by [bank transfer](/glossary/SEPA-Überweisung).
+4. **Get your documents**  
+    Once you are insured, you get a health insurance card, a *[[Mitgliedsbescheinigung]]* and a *[[Sozialversicherungsnummer]]*. Tell your employer about your new health insurance. Use the *Mitgliedsbescheinigung* as a proof of insurance for your [residence permit](/glossary/Aufenthaltstitel) application.
+5. **Pay every month**  
+    If you are an employee, the insurance payments come out of your paycheck every month. Everyone else pays by [bank transfer](/glossary/SEPA-Überweisung).
 
 ## Your options
 
@@ -415,7 +415,7 @@ If you are an immigrant, choose a broker who works with expats. Your needs are d
 
 ### Get an insurance certificate
 
-Once you are insured, you get a [certificate](/images/krankenkasse-mitgliedsbescheinigung-nach-175-sgb-v.png) from your insurer. Give it to your employer. Your employer needs to know about your health insurance, because the payments come directly from your paycheck. You also need this proof of insurance for your [residence permit](/glossary/Aufenthaltstitel) application.
+Once you are insured, you get a *[[Mitgliedsbescheinigung]]*, a health insurance card and a *[[Sozialversicherungsnummer]]*. Give it to your employer. Your employer needs to know about your health insurance, because the payments come directly from your paycheck. You also need this proof of insurance for your [residence permit](/glossary/Aufenthaltstitel) application.
 
 ### Get liability insurance
 

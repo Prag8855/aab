@@ -173,9 +173,9 @@ Bring these documents to your visa interview. [The official list of documents](h
     You must show how much you pay every month for your apartment or home. It must also prove that you live in Berlin.
     - **Lease** (*Mietvertrag*), if you rent a room or an apartment. Bring the original lease, not a copy. The lease must show how much rent you pay.
     - or **a proof of ownership**, if you own a house. It must show how much you pay per month.
-- [ ] **Proof of health insurance coverage** (*Mitgliedsbescheinigung* or *Nachweis der Krankenversicherung*)
+- [ ] **Proof of health insurance coverage** (*[[Mitgliedsbescheinigung]]* or *Nachweis der Krankenversicherung*)
     - [ ] **Proof of health insurance coverage**  
-        You can request this from your health insurer. You can usually get it from their website.
+        Get a *[[Mitgliedsbescheinigung]]* from your health insurer. You can usually get it from their website.
     - [ ] **and proof of monthly payments**  
         Bring a document that shows how much you pay for health insurance. For example, bank transactions that show health insurance payments. This is not officially required, but they sometimes ask for it. Your tax advisor might also need it for your *[[Prüfungsbericht]]*.
 - [ ] **Proof of retirement savings**  
