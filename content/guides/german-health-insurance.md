@@ -401,15 +401,15 @@ The [immigration office](/glossary/Ausländerbehörde) *sometimes* accepts expat
 
 ### Insurance brokers
 
-Health insurance brokers help you choose health insurance. They help you for free. They get paid by health insurers to bring them new customers. I strongly recommend you to ask a broker to help you choose health insurance.
+Brokers help you choose health insurance. They help you for free. They get paid by health insurers to bring them new customers. I strongly recommend you to ask a broker to help you choose health insurance.
 
-Always work with a broker (*Makler*), not an agent (*Vertreter*). Brokers are independent, and recommend health insurance from different companies. Agents only sell insurance from specific companies.
-
-For example, Feather is an agent, and they mostly sell insurance from Hallesche.[^61] They are a great company and I trust them, but their recommendations are not neutral.
+Always work with a broker (*Makler*), not an agent (*Vertreter*). Brokers are independent. They recommend health insurance from different companies. Agents only sell insurance from specific companies.
 
 If you are an immigrant, choose a broker who works with expats. Your needs are different, and your broker must know how to help you.
 
 {% include '_blocks/healthInsuranceQuestion.html' %}
+
+[Feather](/out/feather) is an agent, not a broker. They mostly sell insurance from Hallesche.[^61] [Ottonova](/out/ottonova) sells their own insurance.
 
 ## What to do next
 
