@@ -15,13 +15,17 @@ Related_guides:
     guides/german-visa-health-insurance.md
 ---
 
-The opportunity card (*Chancenkarte*) is a type of [[National Visa]]. It allows you to stay in Germany for 12 months to [find a job](/guides/find-a-job-in-berlin). It mostly replaces the [job seeker visa](/glossary/Job%20seeker%20visa).
+The opportunity card (*Chancenkarte*) is a [[National Visa]]. It allows you to come to Germany to [look for a job](/guides/find-a-job-in-berlin). It mostly replaces the [job seeker visa](/glossary/Job%20seeker%20visa).
 
-The opportunity card lets you work 20 hours per week while you look for a full time job.[^1] To work full time, you must get a [work visa](/glossary/Work%20Visa) or a [[Blue Card]].
+With an opportunity card, you can...
+
+- Come to Germany to look for a job
+- Stay in Germany for up to 12 months
+- Work for up to 20 hours per week[^1]
+
+You must apply for an opportunity card at the *[[Ausländerbehörde]]*, or at the German embassy or consulate in your home country. After you find a job, you must convert your opportunity card to a [work visa](/glossary/Work%20Visa) or a [[Blue Card]].
 
 The opportunity card does not allow self-employment, but you can convert it to a [freelance visa](/glossary/Freelance%20visa).[^2]
-
-You must apply for a job seeker visa at the German embassy or consulate in your home country.
 
 **[How to apply for an opportunity card ➞](/guides/residence-permit#how-to-get-a-residence-permit)**
 
