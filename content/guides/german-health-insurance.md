@@ -419,9 +419,11 @@ Once you are insured, you get a *[[Mitgliedsbescheinigung]]*, a health insurance
 
 ### Get liability insurance
 
-You should also [get liability insurance](/guides/haftpflichtversicherung). It's the second most important insurance to have. Most Germans have it. There are [many types of insurance](/guides/insurance), but health and liability insurance are the most important.
+You should also get [liability insurance](/glossary/Haftpflichtversicherung). It's the second most important insurance to have. Most Germans have it. There are [many types of insurance](/guides/insurance), but health and liability insurance are the most important.
 
 I got my liability insurance from [Feather](/out/feather-haftpflicht). If you [ask a broker](#insurance-brokers) to help you choose health insurance, they can also help you find liability insurance.
+
+**[How to choose liability insurance ➞](/guides/haftpflichtversicherung)**
 
 ### Get travel insurance
 
