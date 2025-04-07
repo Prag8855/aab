@@ -95,7 +95,7 @@ Bring these documents for your *[[Bürgeramt]]* appointment:[^7]
 1. Passport or *[[Personalausweis]]*
 2. First aid course certificate
 3. Eyesight test certificate
-4. Biometric picture - [where to get one](/guides/biometric-pictures-in-berlin)
+4. Biometric picture - [where to get one](/guides/biometric-pictures-in-berlin){{ fail_on('2026-01-01')}}
 5. Contract from your driving school (*Ausbildungvertrag*) - [mine looked like this](/images/ausbildungvertrag.jpg)
 6. Payment for the {{DRIVING_LICENCE_FEE|cur}}€ fee - Check which payment methods your *Bürgeramt* accepts.
 

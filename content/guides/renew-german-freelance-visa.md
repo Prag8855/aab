@@ -145,8 +145,8 @@ Bring these documents to your visa interview. [The official list of documents](h
     The passport must still be valid. It must have two free pages for your new residence permit. If your residence permit is in an older passport, bring the old passport and the new one. You do not need to have empty pages in your passport. They do not put stickers in your passport anymore. Your new residence permit will be a [plastic card](https://www.berlin.de/einwanderung/aufenthalt/elektronischer-aufenthaltstitel/).
 - [ ] **Current [residence permit](/glossary/Aufenthaltstitel)**  
     If you have a plastic residence permit, bring it. If your residence permit is in an older passport, bring the old passport and the new one.
-- [ ] **1 passport photo**  
-    You need a 35 × 45 mm biometric picture. [There are many ways to get passport photos in Berlin](/guides/biometric-pictures-in-berlin). There is a photo booth at the *Ausländerbehörde*,[^5] but you should get a picture in advance. You do not need to cut the passport photos yourself; they have a tool for this.[^6]
+- [ ] **[QR code for biometric pictures](/guides/biometric-pictures-in-berlin)** (35 × 45 mm)  
+    Printed passport photos are not allowed. Only QR codes are accepted. See [how to get biometric pictures](/guides/biometric-pictures-in-berlin).
 - [ ] **Proof of sufficient income**  
     You must prove that you make enough income to support yourself in Berlin.
     - **If you are self-employed** (*[[Gewerbetreibender]]*), bring these documents:
@@ -237,8 +237,6 @@ If you plan to become a permanent resident, you should make voluntary [public pe
 [^2]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/3tkxvi/mawista_health_insurance_could_be_not_sufficient/), [medium.com](https://medium.com/betahaus/renewing-the-german-freelance-visa-february-2019-a4a899eabe52)
 [^3]: [accountable.de](https://www.accountable.de/en/blog/gewinnermittlung-or-net-determination-letter-for-freelance-visa-renewals-in-germany/), [Facebook](https://www.facebook.com/groups/germanfreelancevisa/posts/1095767750891927/) (2021, 2023)
 [^4]: [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/989234614878575/)
-[^5]: [berlin.de](https://service.berlin.de/standort/121885/)
-[^6]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/ixrhd2/biometric_photos_for_residence_permit_should_i/)
 [^7]: [berlin.de](https://service.berlin.de/dienstleistung/327144/standort/326311/)
 [^8]: [berlin.de](https://service.berlin.de/dienstleistung/324713/)
 [^9]: [berlin.de](https://service.berlin.de/dienstleistung/324288/), [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/952250981910272/), [VAB 21.5](/out/vab) (July 2024)

@@ -197,8 +197,8 @@ These are the required documents **in Berlin**.[^2] If you apply elsewhere, they
 
 - [ ] **Passport**  
     When you [apply online](#apply-for-the-work-visa), include a colour scan of your passport. When you [go to your appointment](#go-to-your-appointment), bring your original passport. You get it back during the appointment; they do not keep it.
-- [ ] **[Passport photo](/guides/biometric-pictures-in-berlin)** (35 × 45 mm)  
-    Don't cut the photos yourself; they have a tool for this. The photo must be less than 6 months old.[^36]{{ fail_on('2025-05-01') }}
+- [ ] **[QR code for biometric pictures](/guides/biometric-pictures-in-berlin)** (35 × 45 mm)  
+    Printed passport photos are not allowed. Only QR codes are accepted. See [how to get biometric pictures](/guides/biometric-pictures-in-berlin).
 - [ ] **Job contract** or **job offer**  
     Bring the original, not a copy.
 - [ ] **[Application form](/docs/residence-permit-application-form)** (*Antrag auf Erteilung eines Aufenthaltstitels*)  
@@ -310,7 +310,6 @@ An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocatio
 [^31]: New in November 2023. [Make it in Germany](https://www.make-it-in-germany.com/en/visa-residence/skilled-immigration-act#:~:text=second%2C%20the%20restriction%20that%20individuals%20may%20only%20work%20on%20the%20basis), [§18a AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18a.html), [§18b AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18b.html), [Red Tape Translation](https://redtapetranslation.com/all-you-need-to-know-about-the-new-eu-blue-card/#:~:text=not%20just%20a%20job%20tied%20to%20their%20field%20of%20expertise)
 [^32]: [DARE Consulting](https://dareconsulting.de/wp-content/uploads/2020/12/11_Broschuere_FEG-1.pdf#page=12) (page 10), [Agentur für Arbeit](https://www.arbeitsagentur.de/fuer-menschen-aus-dem-ausland/voraussetzungen-arbeiten-in-deutschland#:~:text=zustimmung%20zur%20beschaftigung)
 [^35]: [Berlin.de](https://www.berlin.de/einwanderung/service/faq/artikel.1021739.php#:~:text=sie%20sind%20ohne%20visum%20eingereist)
-[^36]: It depends on the case worker. Multiple relocation consultants (November 2023)
 [^37]: [Berlin.de](https://service.berlin.de/dienstleistung/324659/en/#:~:text=in%20pdf%20format%20if%20possible)
 [^38]: [§26 BeschV](https://www.gesetze-im-internet.de/beschv_2013/__26.html), [DARE Consulting](https://dareconsulting.de/wp-content/uploads/2020/12/11_Broschuere_FEG-1.pdf#page=27) (page 25)
 [^41]: [make-it-in-germany.com](https://www.make-it-in-germany.com/fileadmin/1_Rebrush_2022/a_Fachkraefte/PDF-Dateien/3_Visum_u_Aufenthalt/Visagrafik_EN/2023_Jan_MiiG_Visum_zum_Arbeiten_Fachkraefte_EN.pdf)

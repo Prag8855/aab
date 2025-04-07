@@ -277,8 +277,8 @@ If you can, you should also bring...
     You can't enter the *Ausländerbehörde* without it. They check at the door. Have it on your phone or print it.[^15]
 - [ ] **Passport**  
     You get your passport back during your appointment; they do not keep it.[^75]
-- [ ] **[Passport photo](/guides/biometric-pictures-in-berlin)** (35 × 45 mm)  
-    Don't cut the photos yourself; they have a tool for this. The photo must be less than 6 months old.[^36]{{ fail_on('2025-05-01') }}
+- [ ] **[QR code for biometric pictures](/guides/biometric-pictures-in-berlin)** (35 × 45 mm)  
+    Printed passport photos are not allowed. Only QR codes are accepted. See [how to get biometric pictures](/guides/biometric-pictures-in-berlin).
 - [ ] **Cash, Visa, Mastercard or [[Girocard]]**  
     You must pay the {{NATIONAL_VISA_FEE|cur}}€ application fee.[^44] This fee is [tax-deductible](/glossary/steuerlich%20absetzbar), so keep the receipt.
 
@@ -381,7 +381,6 @@ An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocatio
 [^32]: Kathleen Parker at [Red Tape Translation](/out/red-tape-translation) (May 2023), [Touring Artists](https://www.touring-artists.info/en/visa-residence/to-germany-as-non-eu-citizen/appointment-at-the-immigration-office#:~:text=present%20your%20documents%20in%20german)
 [^34]: [Berlin.de](https://www.berlin.de/einwanderung/service/faq/artikel.1021739.php#:~:text=wenn%20sie%20mit%20einem%20visum%20zu%20diesem%20aufenthaltszweck%20eingereist%20sind), Multiple relocation consultants (October 2023)
 [^35]: [Berlin.de](https://www.berlin.de/einwanderung/service/faq/artikel.1021739.php#:~:text=sie%20sind%20ohne%20visum%20eingereist)
-[^36]: It depends on the case worker. Multiple relocation consultants (November 2023)
 [^38]: [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/481416252327083/?comment_id=481798318955543&comment_tracking=%7B%22tn%22%3A%22R0%22%7D) (2018)
 [^41]: [VAB 2.4](/out/vab)
 [^42]: [Berlin.de](https://service.berlin.de/dienstleistung/328332/#:~:text=nur%20bei%20erstmaliger%20beantragung), [Berlin.de](https://service.berlin.de/dienstleistung/305249/#:~:text=nur%20bei%20erstmaliger%20beantragung)
