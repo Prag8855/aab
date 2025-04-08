@@ -15,7 +15,7 @@ This is a guide for the *Landesamt für Einwanderung*, the immigration office in
 
 ### Apply for a residence permit
 
-Some [residence permits](/glossary/Aufenthaltstitel) have their own application form. Use that form to apply.
+Some [residence permits](/glossary/Aufenthaltstitel) have their own online application form. Use that form to apply.
 
 - [Blue Card](https://service.berlin.de/dienstleistung/324659/en/)
 - [Citizenship](https://service.berlin.de/dienstleistung/318998/)

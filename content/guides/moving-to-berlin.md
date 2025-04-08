@@ -40,9 +40,9 @@ There are [English-speaking jobs in Berlin](/guides/english-speaking-jobs-berlin
 
 **[How to find a job ➞](/guides/find-a-job-in-berlin)**
 
-You might need a [residence permit](/glossary/Aufenthaltstitel) to live and work in Germany. Some residence permits require a job offer. You might need to wait for your residence permit before you start working. It can take [a few months](/guides/auslanderbehorde-wait-times) to get.
+If you need a [residence permit](/glossary/Aufenthaltstitel) to live and work in Germany, you must get a job offer, then get a residence permit, then start working. It can take [a few weeks](/guides/auslanderbehorde-wait-times).
 
-**[Residence permits for work ➞](/guides/residence-permit#for-work)**
+**[How to get a residence permit ➞](/guides/residence-permit)**
 
 ### Find a place to live
 
