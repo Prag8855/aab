@@ -138,9 +138,11 @@ While you wait for your *Ausländerbehörde* appointment, you should also...
 
 You must apply for the Blue Card online.[^4] You do not need an *[[Ausländerbehörde]]* appointment. It takes 15 minutes.
 
-**[Apply for the Blue Card](/out/auslanderbehorde-blue-card)**
+**[Apply for the Blue Card ➞](/out/auslanderbehorde-blue-card)**
 
 It costs {{NATIONAL_VISA_FEE|cur}}€. It's cheaper for Turkish citizens. You can pay with Visa, Mastercard or PayPal. You can't pay with cash or [[Girocard]].[^8] The fee is [tax-deductible](/glossary/steuerlich%20absetzbar), so keep the receipt.
+
+If you have too many documents, [merge them](https://www.adobe.com/acrobat/online/merge-pdf.html) or [make them smaller](https://www.adobe.com/acrobat/online/compress-pdf.html).
 
 After you pay and send your application, you can download a PDF. This is your proof of application. Save it for later.
 
@@ -196,8 +198,8 @@ These are the required documents **in Berlin**.[^2] If you apply elsewhere, they
 
 - [ ] **Passport**  
     When you [apply online](#apply-for-the-blue-card-online), include a colour scan of your passport. When you [go to your appointment](#go-to-your-appointment), bring your original passport. You get it back during the appointment; they do not keep it.
-- [ ] **[Passport photo](/guides/biometric-pictures-in-berlin)** (35 × 45 mm)  
-    Don't cut the photos yourself; they have a tool for this. The photo must be less than 6 months old.[^36]{{ fail_on('2025-05-01') }}
+- [ ] **[QR code for biometric pictures](/guides/biometric-pictures-in-berlin)** (35 × 45 mm)  
+    Printed passport photos are not allowed. Only QR codes are accepted. See [how to get biometric pictures](/guides/biometric-pictures-in-berlin).
 - [ ] **Job contract** or **job offer**  
     Bring the original, not a copy.
 - [ ] **[Job description form](/documents/erklaerung-zum-beschaeftigungsverhaeltnis-2024.pdf)** (*Erklärung zum Beschäftigungsverhältnis*)  
@@ -312,7 +314,6 @@ An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocatio
 [^32]: [§18g AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18g.html), [make-it-in-germany.com](https://www.make-it-in-germany.com/en/visa-residence/skilled-immigration-act#:~:text=group%20of%20people%3A-,new%20entrants%20to%20the%20labour%20market,-%3A%20The%20possibility%20of)
 [^33]: [§18i Abs. 1 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18i.html), [make-it-in-germany.com](https://www.make-it-in-germany.com/en/visa-residence/skilled-immigration-act#:~:text=after%20a%20minimum%20stay%20of%20twelve%20months)
 [^35]: [Berlin.de](https://www.berlin.de/einwanderung/service/faq/artikel.1021739.php#:~:text=sie%20sind%20ohne%20visum%20eingereist)
-[^36]: It depends on the case worker. Multiple relocation consultants (November 2023)
 [^37]: [Berlin.de](https://service.berlin.de/dienstleistung/324659/en/#:~:text=in%20pdf%20format%20if%20possible)
 [^38]: [Berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1049092.en.php#:~:text=if%20you%20have%20a%20residence%20title%20of%20another%20schengen%20country)
 [^41]: [BAMF](https://www.bamf.de/EN/Themen/MigrationAufenthalt/ZuwandererDrittstaaten/MobilitaetEU/MobilitaetBlaueKarteEU/mobilitaet-blauekarteeu-node.html#:~:text=you%20will%20then%20have%20to%20apply%20for%20the%20eu%20blue%20card)

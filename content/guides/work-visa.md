@@ -137,13 +137,17 @@ While you wait for an *Ausländerbehörde* appointment, you should also...
 - [ ] **[Open a bank account](/guides/best-bank-germany)**  
     You need it to pay your rent, pay your work visa application fee, and get paid by your employer. You can choose a bank from any EU country.
 
-### 4. Apply for the work visa
+### 4. Apply for the work visa online
 
-[Use the *Ausländerbehörde* contact form](/guides/immigration-office#how-to-contact-the-auslanderbehorde) to send all the [required documents](#required-documents). Send your application to the [correct department](/guides/immigration-office#departments). Choose departments B1 to B4, not E1 to E6.{{ fail_on('2025-05-01') }}
+You must apply for the work visa online. You do not need an *[[Ausländerbehörde]]* appointment. It takes 15 minutes.
 
-This is the only way. You can't go to the *Ausländerbehörde* without an appointment. You only get an appointment after you send your documents through the contact form.
+**[Apply for the work visa ➞](/out/auslanderbehorde-work-visa)**
 
-**[How to send your application ➞](/guides/residence-permit#send-your-application)**
+It costs {{NATIONAL_VISA_FEE|cur}}€. It's cheaper for Turkish citizens. You can pay with Visa, Mastercard or PayPal. You can't pay with cash or [[Girocard]].[^8] The fee is [tax-deductible](/glossary/steuerlich%20absetzbar), so keep the receipt.
+
+If you have too many documents, [merge them](https://www.adobe.com/acrobat/online/merge-pdf.html) or [make them smaller](https://www.adobe.com/acrobat/online/compress-pdf.html).
+
+After you pay and send your application, you can download a PDF. This is your proof of application. Save it for later
 
 ### 5. Wait
 
@@ -196,9 +200,9 @@ You must [find a job](/guides/find-a-job-in-berlin) before you apply.[^15] Your 
 These are the required documents **in Berlin**.[^2] If you apply elsewhere, they require different documents. Check the website of the *[[Ausländerbehörde]]*, embassy or consulate where you apply. - [Find your embassy or consulate](/out/consulate-finder)
 
 - [ ] **Passport**  
-    When you [apply online](#apply-for-the-work-visa), include a colour scan of your passport. When you [go to your appointment](#go-to-your-appointment), bring your original passport. You get it back during the appointment; they do not keep it.
-- [ ] **[Passport photo](/guides/biometric-pictures-in-berlin)** (35 × 45 mm)  
-    Don't cut the photos yourself; they have a tool for this. The photo must be less than 6 months old.[^36]{{ fail_on('2025-05-01') }}
+    When you [apply online](#apply-for-the-work-visa-online), include a colour scan of your passport. When you [go to your appointment](#go-to-your-appointment), bring your original passport. You get it back during the appointment; they do not keep it.
+- [ ] **[QR code for biometric pictures](/guides/biometric-pictures-in-berlin)** (35 × 45 mm)  
+    Printed passport photos are not allowed. Only QR codes are accepted. See [how to get biometric pictures](/guides/biometric-pictures-in-berlin).
 - [ ] **Job contract** or **job offer**  
     Bring the original, not a copy.
 - [ ] **[Application form](/docs/residence-permit-application-form)** (*Antrag auf Erteilung eines Aufenthaltstitels*)  
@@ -232,7 +236,7 @@ If you are **not** a citizen of {{ BESCHV_26_COUNTRIES }}, you also need...
 - [ ] **Certificate of equivalence**  
     Proof that your professional training is recognised in Germany. If you got professional training in Germany, you don't need this.[^50]
 
-When you [send your application](#apply-for-the-work-visa), **use PDF files or photos.** Don't use word documents or other file formats.[^37] If you have too many documents, [merge them](https://www.adobe.com/acrobat/online/merge-pdf.html) or [make them smaller](https://www.adobe.com/acrobat/online/compress-pdf.html). You can also [mail your documents](/guides/mail-a-letter), but it's not better or faster.
+When you [send your application](#apply-for-the-work-visa-online), **use PDF files or photos.** Don't use word documents or other file formats.[^37] If you have too many documents, [merge them](https://www.adobe.com/acrobat/online/merge-pdf.html) or [make them smaller](https://www.adobe.com/acrobat/online/compress-pdf.html). You can also [mail your documents](/guides/mail-a-letter), but it's not better or faster.
 
 When you [go to to your appointment](#go-to-your-appointment), print everything. Use A4 paper. Do not staple the pages together. Some case workers also ask for documents that you already sent. It's safer if you bring everything you have, including documents that you already sent.
 
@@ -310,7 +314,6 @@ An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocatio
 [^31]: New in November 2023. [Make it in Germany](https://www.make-it-in-germany.com/en/visa-residence/skilled-immigration-act#:~:text=second%2C%20the%20restriction%20that%20individuals%20may%20only%20work%20on%20the%20basis), [§18a AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18a.html), [§18b AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18b.html), [Red Tape Translation](https://redtapetranslation.com/all-you-need-to-know-about-the-new-eu-blue-card/#:~:text=not%20just%20a%20job%20tied%20to%20their%20field%20of%20expertise)
 [^32]: [DARE Consulting](https://dareconsulting.de/wp-content/uploads/2020/12/11_Broschuere_FEG-1.pdf#page=12) (page 10), [Agentur für Arbeit](https://www.arbeitsagentur.de/fuer-menschen-aus-dem-ausland/voraussetzungen-arbeiten-in-deutschland#:~:text=zustimmung%20zur%20beschaftigung)
 [^35]: [Berlin.de](https://www.berlin.de/einwanderung/service/faq/artikel.1021739.php#:~:text=sie%20sind%20ohne%20visum%20eingereist)
-[^36]: It depends on the case worker. Multiple relocation consultants (November 2023)
 [^37]: [Berlin.de](https://service.berlin.de/dienstleistung/324659/en/#:~:text=in%20pdf%20format%20if%20possible)
 [^38]: [§26 BeschV](https://www.gesetze-im-internet.de/beschv_2013/__26.html), [DARE Consulting](https://dareconsulting.de/wp-content/uploads/2020/12/11_Broschuere_FEG-1.pdf#page=27) (page 25)
 [^41]: [make-it-in-germany.com](https://www.make-it-in-germany.com/fileadmin/1_Rebrush_2022/a_Fachkraefte/PDF-Dateien/3_Visum_u_Aufenthalt/Visagrafik_EN/2023_Jan_MiiG_Visum_zum_Arbeiten_Fachkraefte_EN.pdf)

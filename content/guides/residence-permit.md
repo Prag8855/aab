@@ -171,7 +171,7 @@ There are 3 ways to apply:
 
 - **Use the [Business Immigration Service](https://www.businesslocationcenter.de/en/our-services/bis-business-immigration-service)**{{ RECOMMENDED }}  
     If you are a skilled worker, use BIS. It's faster, and it's free.[^47]
-- or **[use the application form](/guides/immigration-office#apply-for-a-residence-permit)**  
+- or **[use the online application form](/guides/immigration-office#apply-for-a-residence-permit)**  
     [Some residence permits](https://www.berlin.de/einwanderung/en/services/our-services/artikel.878424.en.php) have their own application form. Use that form to apply.
 - or **[use the contact form](/guides/immigration-office#use-the-contact-form)**  
     If there is no application form for your residence permit, use the general contact form.
@@ -206,8 +206,8 @@ When you go to your appointment, bring...
     When you apply online, include a colour scan of your passport. When you [go to your appointment](#go-to-your-appointment), bring your original passport. You get it back during the appointment; they do not keep it.
     - [ ] **Passport of your spouse, parent or child** (if applicable)  
         If you apply for family reunion visas, bring everyone's passports.
-- [ ] **[Passport photo](/guides/biometric-pictures-in-berlin)** (35 × 45 mm)  
-    Don't cut the photos yourself; they have a tool for this. The photo must be less than 6 months old.[^36]{{ fail_on('2025-05-01') }}
+- [ ] **[QR code for biometric pictures](/guides/biometric-pictures-in-berlin)** (35 × 45 mm)  
+    Printed passport photos are not allowed. Only QR codes are accepted. See [how to get biometric pictures](/guides/biometric-pictures-in-berlin).
 - [ ] **Cash, Visa, Mastercard or [[Girocard]]**  
     You must pay the application fee. You must sometimes pay later, when you pick up your residence permit. This fee is [tax-deductible](/glossary/steuerlich%20absetzbar), so keep the receipt.
 - [ ] **Other required documents**  

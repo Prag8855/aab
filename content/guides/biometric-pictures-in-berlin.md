@@ -5,31 +5,75 @@ Description: Getting biometric pictures taken for passports, visas and drivers' 
 Date_created: 2017-10-06
 ---
 
-This guide shows you how to get biometric pictures or passport photos in Berlin.
+This guide shows you how to get biometric pictures or passport photos in Berlin. You need biometric pictures to apply for a [residence permit](/glossary/Aufenthaltstitel), a driving licence, a German passport or a *[[Personalausweis]]*.
 
 {% include "_blocks/tableOfContents.html" %}
 
-## From a photo kiosk
+## Biometric picture requirements
 
-You can get 35 × 45 mm passport pictures at a photo booth (*Fotoautomat*).
+Since May 1 2025, the *[[Bürgeramt]]*, the *[[Ausländerbehörde]]* only accept...[^2]{{fail_on('2025-10-01')}}
 
-There are Fotofix machines everywhere in Berlin. You pay 10€ in coins, and you follow the instructions on the screen. The machine will print 5 copies of your photo.
+- Photos from registered photographers, sent digitally
+- Photos from their own self-service photo kiosks
 
-**[List of photo machines](https://www.google.com/maps?q=fotoautomat)** - Google Maps
+They do not accept...
+
+- Printed photos
+- Photos that you have taken yourself
+- Photos from random photo kiosks
+
+This applies to photos for [residence permits](/glossary/Aufenthaltstitel), passports and [personal IDs](/glossary/Personalausweis). So far, it does not apply to driving licence pictures.{{ fail_on('2025-07-01') }}
+
+Digital biometric pictures are valid for 6 months. You can use the same photo multiple times.[^3]
+
+## Where to get biometric pictures
+
+You can get biometric pictures...
+
+- At a dm drugstore{% include '_blocks/recommended.html' %}
+- At the *[[Bürgeramt]]*
+- At the *[[Ausländerbehörde]]*
+- At a registered photographer
+
+### At a dm store
+
+[dm](https://en.wikipedia.org/wiki/Dm-drogerie_markt) stores have self-service photo kiosks. Biometric pictures cost 6€.[^7] You get a QR code. Bring it to your *[[Bürgeramt]]* or *[[Ausländerbehörde]]* appointment.
+
+This is the **best way to get biometric pictures** because you can do it in advance.[^6] If there is a problem, you have time to find another solution.
+
+**[Find a dm store ➞](https://www.google.com/maps?q=dm)**
+
+### At the Bürgeramt
+
+In Berlin, each *[[Bürgeramt]]* has self-service photo kiosks. Photos cost 6€.
+
+If you need photos, arrive early to your appointment. The photo kiosks are new. They can be busy or unreliable. The photos are valid for 6 months, so you can use the kiosks a few days in advance.
+
+You can also get photos [from a photographer](#from-a-photographer), but it's more expensive.
+
+## At the Ausländerbehörde
+
+In Berlin, the *[[Ausländerbehörde]]* has the same self-service photo kiosks as the *Bürgeramt*. Photos cost 6€.
+
+**You must also bring printed photos**, because the new photo kiosks might not work.[^5]{{fail_on('2025-06-01')}} You can get printed photos [from dm](#) or [from a photo booth](#from-a-photo-booth).
+
+## From a photographer
+
+Approved photographers can take biometric photos. They usually cost around 15€.[^1]{{ fail_on('2025-10-01') }}
+
+The photographer takes your photo, uploads it, and gives you a QR code.[^4] Bring the QR code to your *[[Bürgeramt]]* or *[[Ausländerbehörde]]* appointment.
+
+**[Find an approved photographer ➞](https://alfo-passbild.com/digitales-passfoto/#Fotografen)**
+
+## From a photo booth
+
+Photos from a photo booths are **not accepted** by the *[[Bürgeramt]]* or the *[[Ausländerbehörde]]*.[^2]
+
+There are Fotofix photo booths everywhere in Berlin. Photos cost 10€.{{ fail_on('2026-03-01') }} You get five 35 × 45 mm passport pictures printed on the same sheet.
+
+**[Find a photo booth](https://www.google.com/maps?q=fotoautomat)** - Google Maps
 
 **[List of passport photo machines](https://www.passbilder.net/ort/berlin)** - Passbilder.net
-
-These biometric photos are accepted by the *[[Bürgeramt]]* and the *[[Ausländerbehörde]]*.
-
-## At the Bürgeramt/Ausländerbehörde
-
-There are passport photo kiosks at the *[[Ausländerbehörde]]*, and at the *[[Bürgeramt]]*. [Find your Bürgeramt](https://service.berlin.de/standorte/buergeraemter/) or [Ausländerbehörde](https://www.berlin.de/einwanderung/ueber-uns/unsere-standorte/). The information page shows if there is a *Fotoautomat*.
-
-![Fotoautomat at the Bürgeramt](/images/berlin-buergeramt-fotoautomat.png)
-
-The *Fotoautomat* prints 4 to 6 pictures on one paper. You do not need to cut them; the *Bürgeramt* and *Ausländerbehörde* have a tool for this.[^0]
-
-Get your passport photos in advance, not just before your appointment. If there is a problem with the photo machine, you must have time to find another one.
 
 ## Biometric pictures for other countries
 
@@ -37,6 +81,12 @@ Other countries use different passport picture sizes. For example, India uses sq
 
 **[Passport photo requirements by country ➞](https://passport-photo.online/blog/passport-photo-size/)**
 
-Photography studios can take pictures and cut them to the correct size. It costs 5€ to 15€.
+Photography studios can take pictures and cut them to the correct size.
 
-[^0]: Emily at [Archer Relocation](https://www.archer-relocation.com/) (December 2023), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/ixrhd2/biometric_photos_for_residence_permit_should_i/g68ebiq/)
+[^1]: [diefotografen.de](https://www.diefotografen.de/business/pass-visum/) (April 2025)
+[^2]: [Berlin Ausländerbehörde](https://www.berlin.de/einwanderung/ueber-uns/aktuelles/artikel.1541531.php) (April 2025), [diefotografen.de](https://www.diefotografen.de/epassfoto/#:~:text=fur%20eine%20dauer%20von%20maximal%206%20monaten) (April 2025)
+[^3]: [alfo-passbild.com](https://alfo-passbild.com/digitales-passfoto/#:~:text=innerhalb%20von%20sechs%20monaten%20beliebig%20oft%20verwenden) (April 2025)
+[^4]: [diefotografen.de](https://www.diefotografen.de/epassfoto/) (April 2025)
+[^5]: [Berlin Ausländerbehörde](https://www.berlin.de/einwanderung/ueber-uns/aktuelles/artikel.1541531.php) (April 2025)
+[^6]: [Elliot Herman](https://www.sorted.berlin/) (April 2025)
+[^7]: [dm.de](https://newsroom.dm.de/pressreleases/ab-1-mai-bietet-dm-guenstige-digitale-passbilder-und-sicheren-transfer-fuer-buergerbueros-vorteile-595-euro-fuer-digitale-fotos-plus-papierbilder-mehrfachverwendung-ueber-6-monate-3374913) (March 2025)
