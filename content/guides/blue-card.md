@@ -142,6 +142,8 @@ You must apply for the Blue Card online.[^4] You do not need an *[[Ausländerbeh
 
 It costs {{NATIONAL_VISA_FEE|cur}}€. It's cheaper for Turkish citizens. You can pay with Visa, Mastercard or PayPal. You can't pay with cash or [[Girocard]].[^8] The fee is [tax-deductible](/glossary/steuerlich%20absetzbar), so keep the receipt.
 
+If you have too many documents, [merge them](https://www.adobe.com/acrobat/online/merge-pdf.html) or [make them smaller](https://www.adobe.com/acrobat/online/compress-pdf.html).
+
 After you pay and send your application, you can download a PDF. This is your proof of application. Save it for later.
 
 ### 5. Wait
