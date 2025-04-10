@@ -9,7 +9,7 @@ Related_guides:
     guides/german-visa-health-insurance.md
 ---
 
-Expat health insurance or incoming health insurance is a temporary health insurance. Use it to apply for a [German visa](/glossary/National%20Visa) and move to Germany. When you arrive in Germany, switch to [public](/glossary/gesetzliche%20Krankenversicherung) or [private health insurance](/glossary/private%20Krankenversicherung) as soon as possible.
+Expat health insurance or incoming health insurance is a temporary health insurance. Use it to apply for a [German visa](/glossary/National%20Visa) and [move to Germany](/guides/moving-to-berlin). When you arrive in Germany, switch to [public](/glossary/gesetzliche%20Krankenversicherung) or [private health insurance](/glossary/private%20Krankenversicherung) as soon as possible.
 
 **[How to choose German health insurance ➞](/guides/german-health-insurance#expat-health-insurance)**
 

@@ -68,7 +68,7 @@ If you can't get a work visa, there are [other residence permits](/guides/reside
 You can apply for a work visa **after you move to Germany**:
 
 1. Come to Germany
-2. Apply for a work visa at your local *[[Ausländerbehörde]]*. If you don't live in Berlin, [find your local *Ausländerbehörde*](https://bamf-navi.bamf.de/de/Themen/Behoerden/) and apply there.
+2. Apply for a work visa at your local *[[Ausländerbehörde]]*. In Berlin, you must apply online. If you don't live in Berlin, [find your local *Ausländerbehörde*](https://bamf-navi.bamf.de/de/Themen/Behoerden/) and apply there.
 3. Get your work visa
 4. Start working
 
@@ -284,7 +284,7 @@ If you have a work visa, you qualify for [permanent residence](/glossary/Niederl
 
 ## Need help?
 
-An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocation consultant](/guides/relocation-agency-in-berlin) can answer your questions. Some organisations can also help you for free.
+An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocation consultant](/guides/relocation-agency-in-berlin) can answer your questions. Some organisations can also help you for free. Your employer might offer help.
 
 **[Where to ask immigration questions ➞](/guides/questions-about-berlin#immigration-questions)**
 
