@@ -10,24 +10,24 @@ Related_reviews:
     reviews/german-health-insurance/mike-woodiwiss.md
 ---
 
-When you [move to Germany](/guides/moving-to-berlin), you must choose your health insurance. All German residents need health insurance. It pays for your healthcare when you are sick. You need it to apply for a [residence permit](/glossary/Aufenthaltstitel), and before you [start working](/guides/find-a-job-in-berlin#start-working).
+When you [move to Germany](/guides/moving-to-berlin), you must choose your health insurance. All German residents need health insurance. It pays for your healthcare when you are sick. You need it to apply for a [residence permit](/glossary/Aufenthaltstitel), and to [start working](/guides/find-a-job-in-berlin#start-working).
 
-This guide explains how German health insurance works, how to choose the best health insurance for your needs.
+This guide explains how German health insurance works, and how to choose the best health insurance for your needs.
 
 {% include "_blocks/tableOfContents.html" %}
 
 ## How to get health insurance
 
 1. **Understand [your options](#your-options)**  
-    Use my [recommendation tool](#your-options) or keep reading this guide. There are two insurance systems and hundreds of options. The best option depends on your situation.
+    Use my [recommendation tool](#your-options) or keep reading. There are two insurance systems and hundreds of options. The best option depends on your situation.
 2. **[Ask an expert](#insurance-brokers) to help you choose**{{ RECOMMENDED }}  
     Don't choose insurance yourself; it can be an expensive mistake. Get free help from a health insurance broker.
 3. **Apply for health insurance**  
-    Each insurer has a different application process. With private health insurance, you usually need a health check from a doctor. It costs around 250€.[^30]{{ fail_on('2026-06-01') }}
+    The process is different with each insurer. If you choose private health insurance, you usually need a health check from a doctor.[^44] It costs around 250€.[^30]{{ fail_on('2026-06-01') }} In some cases, health insurers can reject you.
 4. **Get your documents**  
-    After you get insurance, you get a health insurance card, a *[[Mitgliedsbescheinigung]]* and a *[[Sozialversicherungsnummer]]*.
+    After you get insured, you get a health insurance card, a *[[Mitgliedsbescheinigung]]* and a *[[Sozialversicherungsnummer]]*.
 5. **Pay every month**  
-    If you are an employee, the insurance payments come out of your paycheck every month. Otherwise, you pay by [bank transfer](/glossary/SEPA-Überweisung) or [direct debit authorisation](/glossary/SEPA-Lastschriftmandat).
+    If you are an employee, you pay for insurance out of your paycheck every month. Otherwise, you pay by [bank transfer](/glossary/SEPA-Überweisung) or [direct debit authorisation](/glossary/SEPA-Lastschriftmandat).[^35]
 
 ## Your options
 
@@ -37,25 +37,25 @@ This guide explains how German health insurance works, how to choose the best he
 
 Your health insurance is not tied to your job. Your employer does not decide what health insurance you can have. If you [lose your job](/guides/losing-your-job), you keep your health insurance.
 
-**If you earn over {{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}}€ per year**, you can choose public or private health insurance.[^3] Public health insurance costs [around {{GKV_MAX_COST_EMPLOYEE|cur}}€ per month](/glossary/Höchstbeitrag).[^1] Private health insurance will probably be cheaper for you.[^56]
+**If you earn over {{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}}€ per year**, you can choose [public](/glossary/gesetzliche%20Krankenversicherung) or [private health insurance](/glossary/private%20Krankenversicherung).[^3] Public health insurance costs [around {{GKV_MAX_COST_EMPLOYEE|cur}}€ per month](/glossary/Höchstbeitrag).[^1] Private health insurance will probably be cheaper for you.[^56]
 
 **If you earn {{GKV_MAX_INCOME|cur}}€ to {{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}}€ per year**, you can only choose [public health insurance](/glossary/gesetzliche%20Krankenversicherung).[^3] It costs [around {{GKV_MAX_COST_EMPLOYEE|cur}}€ per month](/glossary/Höchstbeitrag). Doctors and civil servants can also choose private health insurance.[^31]
 
 **If you earn less than {{GKV_MAX_INCOME|cur}}€ per year**, you can only choose public health insurance. It costs {{GKV_MIN_RATE_EMPLOYEE}}% to {{GKV_MAX_RATE_EMPLOYEE}}% of your income (including *[[Pflegeversicherung]]*). Doctors and civil servants can also choose private health insurance.[^31]
 
-**If you have a [minijob](/glossary/Minijob)**, you can choose public or private health insurance. You might get [free health insurance](#free-health-insurance). Otherwise, you pay the [minimum amount](/glossary/Mindestbeitrag): around {{GKV_MIN_COST_SELF_PAY|cur}}€ per month. Your employer does not help you pay for health insurance.[^36]
+**If you have a [minijob](/glossary/Minijob)**, you can choose public or private health insurance. You can get [free health insurance](#free-health-insurance). Otherwise, you pay the [minimum amount](/glossary/Mindestbeitrag): around {{GKV_MIN_COST_SELF_PAY|cur}}€ per month. Your employer does not help you pay for health insurance.[^36]
 
-**If you [lose your job](/guides/losing-your-job)**, you might get [free health insurance](#free-health-insurance). Otherwise, you pay the [minimum amount](/glossary/Mindestbeitrag): around {{GKV_MIN_COST_SELF_PAY|cur}}€ per month.
+**If you [lose your job](/guides/losing-your-job)**, you can get [free health insurance](#free-health-insurance). Otherwise, you pay the [minimum amount](/glossary/Mindestbeitrag): around {{GKV_MIN_COST_SELF_PAY|cur}}€ per month.
 
 If you move from a [EU](/glossary/European%20Union) country, your health insurance from your previous country usually covers you until you start working.[^57]
 
 If you move from a non-EU country, you might need [expat health insurance](/glossary/Expat%20health%20insurance).[^42] It covers you until you start working. When you start working, you must switch to public or private health insurance. A [health insurance broker](#insurance-brokers) can arrange this for you.
 
-Your employer can help you get public health insurance. This is not a good idea. They don't choose the best insurance for you; they choose what is easy for them.[^7]
+Your employer can help you get health insurance. This is a bad idea. They choose what is easy for them, not what is best for you.[^7]
 
 ### Health insurance for students
 
-**If you are under 25 years old**, you might get [free health insurance](#free-health-insurance). Otherwise, you pay the student tariff. [Public health insurance](/glossary/gesetzliche%20Krankenversicherung) costs around {{GKV_COST_STUDENT|cur}}€ per month. Public health insurance is usually the best option for students.[^59] You can also get [private health insurance](/glossary/private%20Krankenversicherung), but it's usually a little more expensive.
+**If you are under 25 years old**, you can get [free health insurance](#free-health-insurance). Otherwise, you pay the student tariff. [Public health insurance](/glossary/gesetzliche%20Krankenversicherung) costs around {{GKV_COST_STUDENT|cur}}€ per month. Public health insurance is usually the best option for students.[^59] You can also get [private health insurance](/glossary/private%20Krankenversicherung), but it's usually a little more expensive.
 
 **If you are under 30 years old**, you pay the student tariff. [Public health insurance](/glossary/gesetzliche%20Krankenversicherung) costs around {{GKV_COST_STUDENT|cur}}€ per month. Public health insurance is usually the best option for students.[^59] You also can get [private health insurance](/glossary/private%20Krankenversicherung), but it's usually a little more expensive.
 
@@ -289,7 +289,7 @@ With private health insurance, you usually pay for healthcare yourself, and get 
 
 There are big differences between private health insurance companies. Each offers very different options. **The best option depends on your situation.**
 
-The best way to choose is to ask a health insurance broker. Their help is free. They get paid by the insurance companies when they bring new customers.
+Do not choose private health insurance yourself. It's a really bad idea. The best way to choose is to ask a health insurance broker. Their help is free. They get paid by the insurance companies when they bring new customers.
 
 {% include '_blocks/healthInsuranceQuestion.html' %}
 
@@ -472,6 +472,7 @@ If you are new in Germany, [register as an organ donor](/guides/organ-donor). It
 [^31]: Citation needed - Doctors and public servants can get private
 [^33]: Citation needed - Embassies/consulates accept expat health insurance
 [^34]: [verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/krankenversicherung/familienversicherung-in-der-krankenkasse-wer-kostenlos-mit-rein-kommt-28982) (January 2025) [minijob-zentrale.de](https://www.minijob-zentrale.de/DE/meta/faq-bereich/urlaub-krankheit-und-arbeitsrechte/96_warum_kein_geld_f%C3%BCr_minijobber_aus_kv/faq_96_warum_kein_geld_f%C3%BCr_minijobber_aus_kv.html#:~:text=oft%20besteht%20eine%20beitragsfreie%20familienversicherung%20uber%20den%20ehepartner%20oder%20die%20eltern) (February 2025)
+[^35]: Personal experience (2025), [Seamus Wolf, insurance broker](/out/horizon65) (April 2025)
 [^36]: [minijob-zentrale.de](https://www.minijob-zentrale.de/DE/die-minijobs/versicherungen/detailseite.html#:~:text=ist%20ein%20solidarbeitrag.%20daraus%20entsteht%20fur%20den%20minijobber) (February 2025)
 [^37]: [verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/krankenversicherung/familienversicherung-in-der-krankenkasse-wer-kostenlos-mit-rein-kommt-28982#:~:text=schlie%C3%9Ft%20eine%20Familienversicherung-,aus.,-Man%20darf%20nicht) (February 2025)
 [^38]: Citation needed - EHIC for students
