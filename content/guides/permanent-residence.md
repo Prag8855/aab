@@ -17,8 +17,6 @@ As a permanent resident, you can...
 
 This guide explains how to apply for permanent residence in Berlin.
 
-**December 2024 update:** The application process has changed. You must [apply online](https://www.berlin.de/einwanderung/en/services/our-services/artikel.878424.en.php). You now need a language certificate and an integration test certificate.
-
 {% include "_blocks/tableOfContents.html" %}
 
 ## Why become a permanent resident
@@ -240,9 +238,7 @@ The requirements and the application process are the same. If you qualify for th
 
 ## How to apply in Berlin
 
-**December 2024 update:** The *Ausländerbehörde* just changed the application process. You can now [apply online](https://www.berlin.de/einwanderung/en/services/our-services/artikel.878424.en.php), but you need a language certificate and an integration test certificate. I will update these instructions as soon as I can.
-
-In Berlin, **it takes [4 to 9 months](/guides/auslanderbehorde-wait-times)** to get permanent residence.[^5]{{ fail_on('2025-05-15') }}.
+In Berlin, you must apply online. **It takes [2 to 9 months](/guides/auslanderbehorde-wait-times)** to get permanent residence.[^5]{{ fail_on('2025-07-15') }}.
 
 If you don't live in Berlin, you must [find your local *Ausländerbehörde*](https://bamf-navi.bamf.de/de/Themen/Behoerden/) and apply there. The application process can be different.
 
@@ -250,14 +246,14 @@ If you don't live in Berlin, you must [find your local *Ausländerbehörde*](htt
 
 ### 1. Take an integration test
 
-Since late 2024, you need a certificate from...
+Since December 2024,{{ fail_on('2025-12-31') }} you need a certificate from...
 
 - **The [citizenship test](https://service.berlin.de/dienstleistung/351180/)** (*Einbürgerungstest*){% include '_blocks/recommended.html' %}  
     You must book an appointment. Then you go to your appointment in person to book a test date. The test costs {{CITIZENSHIP_TEST_FEE|cur}}€. It has 33 questions, multiple choice. In Berlin, it's really hard to get an appointment because there are no free slots. It can be faster to take the test in another city.
 - or **the Leben in Deutschland test**  
     This is the same test and the same questions. You usually take that test after an integration course at the *[[Volkshochschule]]*. The course is very boring. You can take the test without taking the course, but only if they have free slots. In Berlin, this could be really hard.[^31]
 
-After you take the test, it takes 6 to 10 weeks to get the results.[^30]
+After you take the test, it takes 2 to 8 weeks to get the results.[^30]
 
 If you graduated from a German high school or university, you don't need this test.[^3] You must have studied in German, not English.
 
@@ -269,13 +265,17 @@ If you are self-employed, some documents must be prepared by a [tax advisor](/gl
 
 **[Required documents ➞](#required-documents)**
 
-### 3. Apply for permanent residence
+### 3. Apply for permanent residence online
 
-[Use the *Ausländerbehörde* contact form](/guides/immigration-office#how-to-contact-the-auslanderbehorde) to send all the [required documents](#required-documents). Send your application to the [correct department](/guides/immigration-office#departments). Choose departments E1 to E6, not B1 to B4.[^76]
+You must apply for the permanent residence online. You do not need an *[[Ausländerbehörde]]* appointment.
 
-This is the only way. You can't go to the *Ausländerbehörde* without an appointment. You only get an appointment after you send your documents through the contact form.
+**[Apply for permanent residence ➞](/out/auslanderbehorde-permanent-residence)**
 
-**[How to send your application ➞](/guides/residence-permit#send-your-application)**
+It costs {{NATIONAL_VISA_FEE|cur}}€. It's cheaper for Turkish citizens. You can pay with Visa, Mastercard or PayPal. You can't pay with cash or [[Girocard]]. The fee is [tax-deductible](/glossary/steuerlich%20absetzbar), so keep the receipt.
+
+If you have too many documents, [merge them](https://www.adobe.com/acrobat/online/merge-pdf.html) or [make them smaller](https://www.adobe.com/acrobat/online/compress-pdf.html).
+
+After you pay and send your application, you can download a PDF. This is your proof of application. Save it for later.
 
 ### 4. Wait
 
@@ -309,14 +309,14 @@ Go to your second *[[Ausländerbehörde]]* appointment and pick up your permanen
 
 These are the required documents **in Berlin**. In other cities, you need different documents. Check the website of the *[[Ausländerbehörde]]* where you apply.
 
-**[When you apply online](#apply-for-permanent-residence)**, use PDF files or photos. Don't use word documents or other formats. If you have too many documents, [merge them](https://www.adobe.com/acrobat/online/merge-pdf.html) or [make them smaller](https://www.adobe.com/acrobat/online/compress-pdf.html). You can also [mail your documents](/guides/mail-a-letter), but it's not better or faster.
+**[When you apply online](#apply-for-permanent-residence-online)**, use PDF files or photos. Don't use word documents or other formats. If you have too many documents, [merge them](https://www.adobe.com/acrobat/online/merge-pdf.html) or [make them smaller](https://www.adobe.com/acrobat/online/compress-pdf.html). You can also [mail your documents](/guides/mail-a-letter), but it's not better or faster.
 
 **[When you go to your appointment](#go-to-your-appointment)**, bring the documents that they ask for in your appointment confirmation.[^24] Print everything on A4 paper. Do not staple the pages together. Some case workers also ask for documents that you already sent. It's safer if you bring everything you have, including documents that you already sent.[^53]
 
 ### Required documents for everyone
 
 - [ ] **Passport**  
-    When you [apply online](#apply-for-permanent-residence), include a colour scan of your passport. When you [go to your appointment](#go-to-your-appointment), bring your original passport. You get it back during the appointment; they do not keep it.[^70]
+    When you [apply online](#apply-for-permanent-residence-online), include a colour scan of your passport. When you [go to your appointment](#go-to-your-appointment), bring your original passport. You get it back during the appointment; they do not keep it.[^70]
 - [ ] **Language certificate**
 - [ ] **Proof of integration**  
     You need a certificate from one of these courses:
@@ -474,7 +474,7 @@ An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocatio
 [^27]: [§28 Abs. 2 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__28.html), [Berlin.de](https://service.berlin.de/dienstleistung/327012/en/#:~:text=Family%20cohabitation%20with,still%20be%20current.) (June 2024)
 [^28]: [§9 Abs. 3a AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__9.html), [jurati.eu](https://www.jurati.eu/immigration_law/settlement_permit/)
 [^29]: [Berlin.de](https://service.berlin.de/dienstleistung/327012/en/#:~:text=at%20least%203-,years,-and%20still%20be) (June 2024)
-[^30]: [Reddit](https://old.reddit.com/r/askberliners/comments/1i5k14b/how_do_i_book_an_einb%C3%BCrgerung_or_leben_in/) (January 2025), [Reddit](https://old.reddit.com/r/askberliners/comments/1dzybe1/lebens_in_deutschlandintegrations_test/lcmxvr0/) (July 2024), [FragDenStaat](https://fragdenstaat.de/anfrage/zu-lange-bearbeitungsfrist-fuer-einbuergerungstest/), [Berlin.de](https://www.berlin.de/vhs-tempelhof-schoeneberg/kurse/deutsch-als-zweitsprache/pruefungen-und-abschluesse/einbuergerung/) (February 2025)
+[^30]: [Reddit](https://old.reddit.com/r/askberliners/comments/1i5k14b/how_do_i_book_an_einb%C3%BCrgerung_or_leben_in/) (January 2025), [Reddit](https://old.reddit.com/r/askberliners/comments/1dzybe1/lebens_in_deutschlandintegrations_test/lcmxvr0/) (July 2024), [FragDenStaat](https://fragdenstaat.de/anfrage/zu-lange-bearbeitungsfrist-fuer-einbuergerungstest/), [Berlin.de](https://www.berlin.de/vhs-tempelhof-schoeneberg/kurse/deutsch-als-zweitsprache/pruefungen-und-abschluesse/einbuergerung/) (February 2025), personal experience (March 2025)
 [^31]: [Elliot Herman](https://www.sorted.berlin/) (January 2025), [Reddit](https://old.reddit.com/r/askberliners/comments/1hy5bwd/question_about_vhs_deutsch_integrationskurs/) (January 2025), Fiona Macdonald, [immigration lawyer](https://www.fmr-legal.de/) (February 2025)
 [^32]: [VAB 9a.2.1.2](/out/vab) (July 2024)
 [^33]: [BAMF](https://www.bamf.de/DE/Themen/MigrationAufenthalt/ZuwandererDrittstaaten/Migrathek/Niederlassen/niederlassen-node.html#:~:text=deutschen%20Sprache%20verf%C3%BCgen.-,familienangehorige%20von%20auslandischen%20personen,-Bei%20Ehegatten%2C%20die), [§35 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__35.html), [Berlin.de](https://service.berlin.de/dienstleistung/324863/) (July 2024), [anwalt-diedrich.de](https://www.anwalt-diedrich.de/home/anwalt-auslaenderrecht/niederlassungserlaubnis/kinder/) (July 2024)
@@ -510,10 +510,9 @@ An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocatio
 [^65]: [Adithya Srinivasan](https://www.arbeitnow.com/blog/extending-residence-permit-in-berlin) (July 2024)
 [^66]: Personal experience (July 2024)
 [^68]: [§9 Abs. 3a AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__9.html), [§18c AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18c.html)
+[^70]: Personal experience (September 2024)
 [^71]: [Berlin.de](https://www.berlin.de/einwanderung/en/residence/permanent/#DA-EU) (July 2024)
 [^72]: [§9 Abs. 3a AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__9.html)
 [^73]: [Fiona Macdonald, immigration lawyer](https://en.fmr-legal.de/general-8-1) (August 2024)
 [^74]: [VAB 9a.2.1.2](/out/vab) (October 2024)
 [^75]: [VAB 9.2.1.3.1](/out/vab) (October 2024)
-[^76]: [Berlin.de](https://www.berlin.de/einwanderung/ueber-uns/kontakt/artikel.1394180.php) (November 2024)
-[^70]: Personal experience (September 2024)

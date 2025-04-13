@@ -183,7 +183,7 @@ These are the required documents **in Berlin**.[^18] If you apply elsewhere, the
 
 **Your documents must convince the Ausländerbehörde** that your business will work, and that you will make enough money to support yourself.
 
-**[When you send your application](#apply-for-permanent-residence)**, use PDF files or photos. Don't use word documents or other file formats. If you have too many documents, [merge them](https://www.adobe.com/acrobat/online/merge-pdf.html) or [make them smaller](https://www.adobe.com/acrobat/online/compress-pdf.html). You can also [mail your documents](/guides/mail-a-letter), but it's not better or faster.
+**[When you send your application](#apply-for-the-freelance-visa)**, use PDF files or photos. Don't use word documents or other file formats. If you have too many documents, [merge them](https://www.adobe.com/acrobat/online/merge-pdf.html) or [make them smaller](https://www.adobe.com/acrobat/online/compress-pdf.html). You can also [mail your documents](/guides/mail-a-letter), but it's not better or faster.
 
 **[When you go to your appointment](#go-to-your-appointment)**, bring the documents that they ask for in your appointment confirmation.[^24] Print everything on A4 paper. Do not staple the pages together. Some case workers also ask for documents that you already sent. It's safer if you bring everything you have, including documents that you already sent.[^2]
 
