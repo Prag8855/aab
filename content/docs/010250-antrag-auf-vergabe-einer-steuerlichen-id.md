@@ -15,7 +15,7 @@ Categories:
 
 This form helps you request a [tax ID](/glossary/Steueridentifikationsnummer) without [registering your address](/glossary/Anmeldung). Only use this form [if you can't register your address](/guides/anmeldung-in-english-berlin#if-you-cant-register-your-address).
 
-**This form does not always work**. It works around 80% of the time.{{fail_on('2025-06-01')}}[^4] The *[[Finanzamt]]* might send your tax ID to your foreign address, or to your employer.[^3] You might not receive your tax ID at all. This form is designed for cross-border workers, not for people who live in Germany. It's a bureaucratic hack, so it's unreliable.
+This form works in all of Germany. It works around 90% of the time.{{fail_on('2025-08-01')}}[^4] The *[[Finanzamt]]* might send your tax ID to your foreign address, or to your employer.[^3] You might not receive your tax ID at all. This form is designed for cross-border workers, not for people who live in Germany. It's a bureaucratic hack, so it's unreliable.
 
 **[How to get a tax ID ➞](/guides/german-tax-id-steuernummer#how-to-get-your-tax-id)**
 
@@ -29,10 +29,12 @@ Use this form if...
 
 Do not use this form if...
 
-- You can register your address. You get a tax ID by post 4 to 6 weeks after your first *[[Anmeldung]]*.
+- You can [register your address](/guides/anmeldung-in-english-berlin). You get a tax ID by post 4 to 6 weeks after your first *[[Anmeldung]]*.
 - You registered an address before. You already have a tax ID.
 - If you lost your tax ID.
 - You need a *[[Steuernummer]]* or [VAT number](/glossary/Umsatzsteuernummer) for your business.
+
+**[How to register your address ➞](/guides/anmeldung-in-english-berlin)**
 
 **[Where to find your tax ID ➞](/guides/german-tax-id-steuernummer#where-to-find-your-tax-id)**
 
