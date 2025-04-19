@@ -61,7 +61,7 @@ Your employer can help you get health insurance. This is a bad idea. They choose
 
 **If you are over 30 years old**, you can't get the student tariff. [Public health insurance](/glossary/gesetzliche%20Krankenversicherung) costs around [{{GKV_MIN_COST_SELF_PAY|cur}}€ per month](/glossary/Mindestbeitrag).[^25] [Private health insurance](/glossary/private%20Krankenversicherung) might be cheaper for you. You can't get [free health insurance](#free-health-insurance).
 
-**If you are a foreign student**, you might need temporary health insurance before school starts. If you are from the EU, you can use [health insurance from your home country](#insurance-from-other-eu-countries). If you are not from the EU, you usually need [expat health insurance](/glossary/Expat%20health%20insurance).
+**If you are a foreign student**, you might need temporary health insurance before school starts. If you are from the EU, you can use [health insurance from your home country](#insurance-from-other-eu-countries). If you are not from the EU, you usually need [expat health insurance](/glossary/Expat%20health%20insurance).[^47]
 
 **If you are self-employed**, and your income is over {{GKV_FAMILIENVERSICHERUNG_MAX_INCOME|cur}}€ per month, you are treated [like a self-employed person](#health-insurance-for-freelancers). You can't get the student tariff and you can't get [free health insurance](#free-health-insurance). If you are young, [private health insurance](/glossary/private%20Krankenversicherung) usually makes the most sense.[^58]
 
@@ -73,7 +73,7 @@ Your employer can help you get health insurance. This is a bad idea. They choose
 
 **If you get [[ALG I]], [[Bürgergeld]] or [[Elterngeld]]**, health insurance is free. The state pays for it.[^11] If you had private health insurance, you must usually switch to public health insurance.[^41]
 
-**If you don't get ALG I, Bürgergeld or Elterngeld**, you can choose public or private health insurance. With public health insurance, you pay the [minimum amount](/glossary/Mindestbeitrag): around {{GKV_MIN_COST_SELF_PAY|cur}}€ per month.[^40] The cost of private health insurance is not related to your income.
+**If you don't get ALG I, Bürgergeld or Elterngeld**, you can choose public or private health insurance. You can get [free health insurance](#free-health-insurance). Otherwise, if you have public health insurance, you pay the [minimum amount](/glossary/Mindestbeitrag): around {{GKV_MIN_COST_SELF_PAY|cur}}€ per month.[^40] The cost of private health insurance is not related to your income.
 
 ### Health insurance for freelancers
 
@@ -95,26 +95,29 @@ If you are a freelance artist, journalist, publicist or influencer, join the *[[
 
 **If your earn less than {{GKV_AZUBI_FREIBETRAG|cur}}€ per month**, you get free [public health insurance](/glossary/gesetzliche%20Krankenversicherung). Your employer pays for it.[^48]
 
-**If you earn more than {{GKV_AZUBI_FREIBETRAG|cur}}€ per month**, you can only get public health insurance.[^54] It costs {{GKV_MIN_RATE_EMPLOYEE}}% to {{GKV_MAX_RATE_EMPLOYEE}}% of your income (including *[[Pflegeversicherung]]*).[^52] You can't get [free health insurance](#free-health-insurance).[^53]
+**If you earn more than {{GKV_AZUBI_FREIBETRAG|cur}}€ per month**, you can only choose [public health insurance](/glossary/gesetzliche%20Krankenversicherung).[^54] It costs {{GKV_MIN_RATE_EMPLOYEE}}% to {{GKV_MAX_RATE_EMPLOYEE}}% of your income (including *[[Pflegeversicherung]]*).[^52] You can't get [free health insurance](#free-health-insurance).[^53]
 
 ### Health insurance for an internship
 
-**If it's a voluntary internship**, you have [the same options as an employee](#health-insurance-for-employees). You can sometimes get [free health insurance](#free-health-insurance).
+If it's a **mandatory internship during your studies**, you keep your student insurance. Your employer does not pay half of it.[^50]
 
-**If it's a mandatory internship**, the rules are different.
+If it's a **mandatory internship before or after your studies**:[^65]
 
-If the internship is during your studies:
+- **If it's unpaid**  
+    You have [the same options as other students](#health-insurance-for-students).[^64]
+- **It it pays up to {{GKV_AZUBI_FREIBETRAG|cur}}€ per month**  
+    Your health insurance is free. Your employer pays for it.[^49]
+- **If it pays more than {{GKV_AZUBI_FREIBETRAG|cur}}€ per month**  
+    You have [the same options as other employees](#health-insurance-for-employees).
 
-- If you earn {{GKV_AZUBI_FREIBETRAG|cur}}€ per month or less, your health insurance is free. Your employer pays for it.[^49]
-- If you earn 556€ per month or less, you can get [free health insurance](#free-health-insurance). Otherwise, you pay ???€ per month.
-- If you earn over 556€ per month, ???
+If it's a **voluntary internship**:[^66]
 
-If the internship is before or after your studies:
-
-- If you earn more than {{MINIJOB_MAX_INCOME|cur}}€ per month, you pay [the same price as other employees](#health-insurance-for-employees).[^43]
-- If you earn {{GKV_AZUBI_FREIBETRAG|cur}}€ to {{MINIJOB_MAX_INCOME|cur}}€ per month, you pay [the same price as other students](#health-insurance-for-students).[^51]
-- If you earn {{GKV_AZUBI_FREIBETRAG|cur}}€ per month or less, you get free [public health insurance](/glossary/gesetzliche%20Krankenversicherung). Your employer pays for it.
-- If it's an unpaid internship, you must pay for your own health insurance.[^50] You might get [free health insurance](#free-health-insurance).
+- **If it's unpaid**  
+    You have the [same options an unemployed student](#health-insurance-for-unemployed-people).[^68] You can get [free health insurance](#free-health-insurance).
+- **If it pays up to {{GKV_AZUBI_FREIBETRAG|cur}} per month**  
+    You get free [public health insurance](/glossary/gesetzliche%20Krankenversicherung). Your employer pays for it.[^69]
+- **If it pays more than {{GKV_AZUBI_FREIBETRAG|cur}} per month**  
+    You have the [same options as other employees](#health-insurance-for-employees).[^67]
 
 ## Public health insurance
 
@@ -211,11 +214,11 @@ Public health insurance also covers your children and your unemployed spouse for
 
 ### Best public health insurance
 
-They are all the same. The cost and coverage are almost the same. The maximum price difference is less than 20€ per month. The biggest difference is customer service.[^15]
+[Public health insurers](/glossary/Krankenkasse) have almost the same cost and coverage. The price difference is less than 20€ per month after taxes. The biggest difference is customer service.[^15]
 
-If you need an English-speaking health insurer, choose [Techniker Krankenkasse](/out/feather-tk) or [Barmer](/out/barmer). I had Techniker Krankenkasse for 6 years. It's [really good](/guides/techniker-krankenkasse-review), and it's one of the cheapest options.{{ fail_on('2025-12-31') }}.
+If you need an English-speaking public health insurer, choose [Techniker Krankenkasse](/out/feather-tk) or [Barmer](/out/barmer). I had Techniker Krankenkasse for 6 years. It's [really good](/guides/techniker-krankenkasse-review), and it's one of the cheapest options.{{ fail_on('2025-12-31') }}.
 
-The most important question: is public the best option for you? [Ask an expert](#insurance-brokers) to help you choose. The can help you get a cheaper health insurance *and* better coverage.
+The most important question is public or private health insurance.[^51] [Ask an expert](#insurance-brokers) to help you decide. The can help you get a cheaper health insurance *and* better coverage.
 
 ## Private health insurance
 
@@ -236,7 +239,7 @@ The cost depends on 4 things:
 - **Your age when you join**  
     Young people pay less. The insurer also saves part of your payments for when you are old. If you join when you are young, your payments are lower when you are old. If you plan to leave Germany after a few years, you can get health insurance without old age provisions. It's much cheaper. If you are over 40 years old, public health insurance makes more sense.[^28]
 - **Your health condition when you join**  
-    Usually, you must get a health check at the doctor. If you have pre-existing health problems, insurers charge more or reject you.[^9] After you join, if you get really sick and use your insurance all the time, the price does not change, and they can't kick you out.
+    Usually, you must get a health check at the doctor.[^44] If you have pre-existing health problems, insurers charge more or reject you.[^9] After you join, if you get really sick and use your insurance all the time, the price does not change, and they can't kick you out.
 - **The coverage you choose**  
     You can get the best coverage or the lowest price. To cover your spouse and children, you must pay more.
 - **Your [deductible](/glossary/Selbstbeteiligung)**  
@@ -481,12 +484,14 @@ If you are new in Germany, [register as an organ donor](/guides/organ-donor). It
 [^41]: [krankenkassen.de](https://www.krankenkassen.de/gesetzliche-krankenkassen/krankenkasse-beitrag/arbeitslose/#:~:text=mit%20eintritt%20der%20versicherungspflicht%20wegen%20alg%20i%20muss%20die%20private%20krankenversicherung%20den%20pkv-vertrag%20im%20beginn%20der%20mitgliedschaft%20in%20einer%20gesetzlichen%20krankenkasse%20aufheben) (February 2025)
 [^42]: Citation needed - expat insurance while moving
 [^43]: [minijob-zentrale.de](https://www.minijob-zentrale.de/DE/die-minijobs/sonderfaelle/detailseite.html#:~:text=auszubildende%20sind%20versicherungspflichtige%20arbeitnehmer%20oder%20arbeitnehmerinnen) (February 2025)
+[^44]: Citation needed - Health check usually needed
 [^45]: [Techniker Krankenkasse](https://www.tk.de/vertriebspartner/faq/beitragsuebersicht/elterngeld-und-elternzeit/elterngeld-und-elternzeit-2065854) (March 2025)
 [^46]: [Techniker Krankenkasse](https://www.tk.de/resource/blob/2033352/0a9809b0d119ad48bdd717ccf37391b2/beratungsblatt-beschaeftigung-von-studierenden-und-praktikanten-data.pdf) (January 2025), [Techniker Krankenkasse](https://www.tk.de/firmenkunden/versicherung/versicherung-faq/haeufige-fragen-zu-studenten-und-praktikanten/wer-kann-werkstudent-sein-2036666) (March 2025), [meinpraktikum.de](https://www.meinpraktikum.de/ratgeber/werkstudent/allgemeines) (March 2025)
+[^47]: Citation needed - Foreign students need expat health insurance
 [^48]: [AOK](https://www.aok.de/pk/krankenkassenbeitraege/auszubildende/#:~:text=auszubildende%20mussen%20keine%20krankenkassenbeitrage%20zahlen%2C%20wenn%20ihr%20monatsverdienst%20nicht%20mehr%20als%20325%20euro%20betragt) (March 2025), [Check24](https://www.check24.de/gesetzliche-krankenversicherung/azubis/#:~:text=wer%20eine%20ausbildungsvergutung%20von%20weniger%20als%20325%20euro%20im%20monat%20erhalt%2C%20muss%20keine%20beitrage%20zur%20krankenversicherung%20zahlen.) (March 2025), [Techniker Krankenkasse](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-versicherte/veraenderung-berufliche-situation/versichert-als-schueler-und-auszubildende/beitraege-azubi-auszubildende-hoehe-beitragshoehe-2010362#:~:text=verdienen%20sie%20nicht%20mehr%20als%20325%20euro%20brutto%20monatlich%2C%20zahlt%20ihr%20arbeitgeber%20die%20gesamten%20beitrage.) (March 2025)
-[^49]: [Techniker Krankenkasse](https://www.tk-lex.tk.de/web/guest/externalcontent?_leongshared_serviceId=2010&_leongshared_externalcontentid=HI521237) (March 2025), [§20 Abs. 3 SGB IV](https://www.gesetze-im-internet.de/sgb_4/__20.html)
-[^50]: [meinpraktikum.de](https://www.meinpraktikum.de/ratgeber/krankenversicherung#:~:text=vorgeschriebenes%20vorpraktikum%20oder%20nachpraktikum%20ohne%20vergutung)
-[^51]: Citation needed - Rate for praktikant, unverified calculation
+[^49]: [Techniker Krankenkasse](https://www.tk-lex.tk.de/web/guest/externalcontent?_leongshared_serviceId=2010&_leongshared_externalcontentid=HI521237) (March 2025), [§20 Abs. 3 SGB IV](https://www.gesetze-im-internet.de/sgb_4/__20.html), [praktikum-guide.com](https://praktikum-guide.com/krankenversicherung-im-praktikum/#:~:text=bis%20325%20%E2%82%AC%20im-,monat,-Die%20Beitr%C3%A4ge%20zur) (April 2025)
+[^50]: Citation needed - [student-kv.de](https://www.student-kv.de/krankenkasse_versicherung_im_praktikum/#:~:text=Vorgeschriebenes%20Zwischenpraktikum%20mit-,entgelt,-Absolvierst%20du%20ein) (April 2023)
+[^51]: [Seamus Wolf, insurance broker](/out/horizon65) (April 2025)
 [^52]: [azubi-krankenkasse.de](https://www.azubi-krankenkasse.de/hoehe-der-sozialversicherungsbeitraege/#:~:text=der%20allgemeine%20beitragssatz%20wird%20je%20zur%20halfte%20) (March 2025), [Check24](https://www.check24.de/gesetzliche-krankenversicherung/mindestbeitrag/#:~:text=es%20gibt%20fur%20sie%20keinen%20mindestbeitrag.) (March 2025), [gesetzliche-krankenkassen.de](https://www.gesetzliche-krankenkassen.de/auszubildende-azubis/#:~:text=wer%20zahlt%20meine%20krankenkasse%20in%20der%20ausbildung%3F) (March 2025)
 [^53]: [gesetzliche-krankenkassen.de](https://www.gesetzliche-krankenkassen.de/auszubildende-azubis/#:~:text=familienversicherung%20ist%20wahrend%20der%20ausbildung%20nicht%20moglich) (March 2025)
 [^54]: [gesetzliche-krankenkassen.de](https://www.gesetzliche-krankenkassen.de/auszubildende-azubis/#:~:text=eine%20versicherung%20in%20der%20privaten%20krankenversicherung%20(pkv)%20ist%20fur%20auszubildende%20nicht%20moglich) (March 2025)
@@ -499,3 +504,9 @@ If you are new in Germany, [register as an organ donor](/guides/organ-donor). It
 [^60]: Citation needed - Private healthcare is unlimited
 [^62]: [250 to 350€ (FinanXpats)](https://www.finanxpats.com/health-insurance/2025-health-insurance-guide-for-expats#:~:text=pays%20around%20%E2%82%AC250%E2%80%93350%20per%20month) (April 2025), [250 to 390€ (Feather)](/out/feather-private) (April 2025), [260 to 350€ (Ottonova)](/out/ottonova) (April 2025)
 [^63]: Citation needed - Private better and cheaper for young, wealthy people
+[^64]: [praktikum-guide.com](https://praktikum-guide.com/krankenversicherung-im-praktikum/#:~:text=Pflichtpraktikum%20ohne-,vergutung,-Du%20bleibst%20beitragsfrei) (April 2025)
+[^65]: [DAK](https://www.dak.de/dak/leistungen/krankenversicherung-waehrend-eines-praktikums_63456#rtf-anchor-praktikum-vor-oder-nach-dem-studium) (April 2025), [check24.de](https://www.check24.de/krankenversicherung/praktikum/#:~:text=fur%20ein%20pflichtpraktikum%2C%20das%20vor%20oder%20nach%20dem%20studium%20absolviert%20wird) (April 2025)
+[^66]: [DAK](https://www.dak.de/dak/leistungen/krankenversicherung-waehrend-eines-praktikums_63456#:~:text=gelten%20die%20regelungen%20zu%20werkstudenten%20oder%20die%20zu%20geringfugig%20entlohnten) (April 2025), [meinpraktikum.de](https://www.meinpraktikum.de/ratgeber/krankenversicherung#freiwilliges-praktikum)
+[^67]: [meinpraktikum.de](https://www.meinpraktikum.de/ratgeber/krankenversicherung#freiwilliges-praktikum)
+[^68]: [check24.de](https://www.check24.de/krankenversicherung/praktikum/#:~:text=fur%20die%20der%20praktikant%20kein%20entgelt%20erhalt) (April 2025)
+[^69]: Citation needed - free health insurance for voluntary interns making up to 325€ per month
