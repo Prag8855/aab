@@ -131,9 +131,8 @@ Turn on push notifications for the Facebook groups that you follow.
 An agent (*[[Makler]]*) can help you find an apartment. Some are really good, and some are useless. They are hard to find.[^23] Their maximum fee is 2 times the [cold rent](/glossary/Kaltmiete), plus [VAT](/glossary/Umsatzsteuer). Don't pay an agent fee if you did not hire the agent.
 
 - **[BerlinRelo](https://www.berlinrelo.de/)**{% include '_blocks/recommended.html' %}  
-    Long-term apartments only. Graham is really good at his job. He accepts a small number of customers, and guarantees results.
+    Long-term apartments only. Graham is really good at his job. He only takes a few clients at a time, but he guarantees results. He might not reply to you.
 - **[Get The Flat](https://gettheflat.com/)**  
-    They help you prepare your documents and apply for apartments. They use bots to find apartments and automatically write to landlords.
 - **[Move to Berlin Relocation](https://www.moveto-berlin.com/en/home-search-2/)**  
     Short-term and long-term apartments. They help you prepare your documents and apply for apartments.
 - [Nest Finder Berlin](https://nestfinderberlin.com/)
