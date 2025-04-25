@@ -29,7 +29,7 @@ You usually need a translation of your driving licence. There are 2 ways to get 
 You **don't** need a driving licence translation if...[^0]
 
 - Your driving licence is from the EU, [[EEA]], Andorra, Hong Kong, Monaco, New Zealand, San Marino, Senegal or Switzerland.
-- or it follows [these rules](https://www.international-driving-permit.com/Convention-on-Road-Traffic/8-November-1968/EN/Annexex/Annex-6-Domestic-Driving-Permit.aspx) (Vienna Convention on Road Traffic, Annex 6)
+- or it follows [these rules](https://treaties.un.org/doc/Treaties/1977/05/19770524%2000-13%20AM/Ch_XI_B_19.pdf#page=146) (Vienna Convention on Road Traffic, Annex 6, page 146)
 - or it's in German
 
 ### If you live in Germany
