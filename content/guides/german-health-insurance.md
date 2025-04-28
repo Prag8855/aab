@@ -4,6 +4,8 @@ Short_title: How to choose health insurance
 Description: This guide explains how public and private health insurance work in Germany. It helps you choose the best health insurance for your needs.
 Date_created: 2018-11-29
 Related_reviews:
+    reviews/german-health-insurance/seamus-wolf.md
+    reviews/german-health-insurance/mona-anbari.md
     reviews/german-health-insurance/derrick-löhr.md
     reviews/german-health-insurance/marvin-ewald-hammor.md
     reviews/german-health-insurance/dr-rob-schumacher.md
@@ -513,6 +515,6 @@ If you are new in Germany, [register as an organ donor](/guides/organ-donor). It
 [^68]: [check24.de](https://www.check24.de/krankenversicherung/praktikum/#:~:text=fur%20die%20der%20praktikant%20kein%20entgelt%20erhalt) (April 2025)
 [^69]: Citation needed - free health insurance for voluntary interns making up to 325€ per month
 [^70]: Citation needed - public deductible per prescription
-[^71]: Mona Anbari, insurance broker (April 2025)
+[^71]: Mona Anbari, insurance broker (April 2025), [Seamus Wolf, insurance broker](/out/horizon65) (April 2025)
 [^72]: Mona Anbari, insurance broker (April 2025)
 [^73]: Mona Anbari, insurance broker (April 2025)
