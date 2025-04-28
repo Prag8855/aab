@@ -22,7 +22,7 @@ For example:[^0]
 
 It sometimes covers laptops and bicycles away from home. It sometimes covers calling a locksmith when you lock yourself out.
 
-Household insurance costs less than 5€ per month. 76% of Germans have it.[^1]
+Household insurance costs around 5€ per month. 76% of Germans have it.[^1]
 
 **[Types of insurance in Germany ➞](/guides/insurance)**
 
