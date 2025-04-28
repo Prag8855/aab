@@ -209,7 +209,7 @@ Public health insurance also covers your children and your unemployed spouse for
 - **It's expensive if you have a high income**  
     If you have a high income, you pay more. If you are young and healthy when you join, private health insurance can be better *and* cheaper.[^63]
 - **It's harder to get doctor appointments**[^13]  
-    It's hard to find a psychotherapist, psychiatrist, gynaecologist, paediatrician or urologist. Those who accept public health insurance are booked for weeks or months. If you want to see a doctor quickly, private health insurance is better.
+    It's hard to find a psychotherapist, psychiatrist, gynaecologist, paediatrician or urologist. Those who accept public health insurance are booked for weeks or months. If you want to see a doctor quickly, private health insurance is much better.
 - **It does not cover special treatments**  
     Public health insurance covers *necessary* care. If you want fancier treatments, you must pay for the price difference. For example, it only covers amalgam tooth fillings, not fancy composite fillings. It only covers basic teeth cleanings, twice per year. Eyeglasses are rarely covered. With private health insurance, you can choose better coverage.
 
@@ -385,7 +385,7 @@ There is no reason to choose your insurance yourself. [Ask an expert](#insurance
 - **You have no other choice**  
     Expat health insurance is the cheapest option. It's a bad long-term solution, but it might be the only health insurance you can afford.
 
-German embassies and consulates usually accept expat health insurance for a visa application.[^33]
+German embassies and consulates *sometimes* accept expat health insurance for a visa application.[^33] Get public or private health insurance instead if you can.
 
 The [immigration office](/glossary/Ausländerbehörde) *sometimes* accepts expat health insurance for a [residence permit](/glossary/Aufenthaltstitel) application. It sometimes works when it's your first residence permit. It does not work when you change or renew your residence permit.[^21]
 
@@ -465,15 +465,15 @@ If you are new in Germany, [register as an organ donor](/guides/organ-donor). It
 [^10]: [krankenkassenzentrale.de](http://web.archive.org/web/20220926103421/https://www.krankenkassenzentrale.de/wiki/krankenkasse-arbeitslosigkeit), [tk.de](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-versicherte/veraenderung-berufliche-situation/wenn-sie-arbeitslos-sind-2000802)
 [^11]: [krankenkassen.de](https://www.krankenkassen.de/gesetzliche-krankenkassen/krankenkasse-beitrag/arbeitslose/#:~:text=ubernimmt%20das%20jobcenter%20den%20allgemeinen%20krankenkassen-beitrag) (February 2025), [aok.de](https://www.aok.de/pk/krankenkassenbeitraege/arbeitslosigkeit/), [aok.de](https://www.aok.de/pk/krankenkassenbeitraege/arbeitslosigkeit/), [Arbeitsagentur](https://www.arbeitsagentur.de/arbeitslosengeld-2/gesundheit-versicherung)
 [^12]: [Seamus Wolf](/out/horizon65) (April 2025), Mona Anbari, insurance broker (April 2025), [Emily Archer](https://www.archer-relocation.com/) (April 2025), [finanztip.de](https://www.finanztip.de/pkv/pkv-wechsel/#:~:text=hast%20du%20aber%20familie%20oder%20planst) (January 2025), [FinanXpats](https://www.finanxpats.com/health-insurance/2025-health-insurance-guide-for-expats#:~:text=recommended%20for%20families) (April 2025)
-[^13]: Citation needed - doctors that are hard to find
+[^13]: [arzt-wirtschaft.de](https://www.arzt-wirtschaft.de/news/studie-zur-terminvergabe-und-erreichbarkeit-bei-fachaerzten) (2024), [sueddeutsche.de](https://www.sueddeutsche.de/wirtschaft/pkv-gkv-wartezeiten-krankenversicherung-private-krankenversicherung-li.3173323) (2024), [study](https://www.monitor-versorgungsforschung.de/abstract/einfluss-von-versichertenstatus-und-einkommen-auf-die-wartezeit-im-ambulanten-bereich/) (2013)
 [^14]: Citation needed - Switch from expat max 3 months after you start studying
-[^15]: Citation needed - All public options are the same
+[^15]: [Seamus Wolf](/out/horizon65) (April 2025)
 [^16]: [gesundheitsinformation.de](https://www.gesundheitsinformation.de/krankenversicherung-in-deutschland.html)
 [^17]: [blog.feather-insurance.com](https://feather-insurance.com/blog/how-are-private-health-insurance-payments-different-from-public-health-insurance/?utm_source=allaboutberlin)
 [^18]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/c2j339/is_pkv_still_a_terrible_idea_if_i_likely_wont/ermsqt7/)
 [^19]: [Feather Insurance](https://feather-insurance.com/blog/public-vs-private-health-insurance-germany/?utm_source=allaboutberlin#:~:text=for%20high%20earners%2C%20private%20insurance%20can%20be%20cheaper) (April 2025)
 [^20]: [Seamus Wolf](/out/horizon65) (April 2025)
-[^21]: Citation needed - When the immigration office accepts expat insurance
+[^21]: [Emily Archer](https://www.archer-relocation.com/) (April 2025), multiple relocation consultants (2025)
 [^22]: [toytowngermany.com](https://web.archive.org/web/20220703211411/https://www.toytowngermany.com/forum/topic/383323-could-i-stay-on-travel-health-insurance-for-5-years/?page=2#comment-3746627)
 [^23]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/d2njye/advise_about_health_insurance_for_erasmus_student/ezvtjk1/), [krankenkassen.de](http://web.archive.org/web/20201204045304/https://www.krankenkassen.de/meine-krankenkasse/student/ehic/)
 [^24]: [faq.feather-insurance.com](https://faq.feather-insurance.com/en/articles/148524-health-insurance-for-short-term-and-seasonal-employment)
@@ -484,8 +484,8 @@ If you are new in Germany, [register as an organ donor](/guides/organ-donor). It
 [^29]: [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/532620887206619/)
 [^30]: [Seamus Wolf](/out/horizon65) (April 2025), [Emily Archer](https://www.archer-relocation.com/) (April 2025)
 [^32]: [krankenkassen.de](http://web.archive.org/web/20201204045304/https://www.krankenkassen.de/meine-krankenkasse/student/ehic/)
-[^31]: Citation needed - Doctors and public servants can get private
-[^33]: Citation needed - Embassies/consulates accept expat health insurance
+[^31]: Citation needed - Civil servants can get private
+[^33]: [Emily Archer](https://www.archer-relocation.com/) (April 2025)
 [^34]: [verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/krankenversicherung/familienversicherung-in-der-krankenkasse-wer-kostenlos-mit-rein-kommt-28982) (January 2025) [minijob-zentrale.de](https://www.minijob-zentrale.de/DE/meta/faq-bereich/urlaub-krankheit-und-arbeitsrechte/96_warum_kein_geld_f%C3%BCr_minijobber_aus_kv/faq_96_warum_kein_geld_f%C3%BCr_minijobber_aus_kv.html#:~:text=oft%20besteht%20eine%20beitragsfreie%20familienversicherung%20uber%20den%20ehepartner%20oder%20die%20eltern) (February 2025)
 [^35]: Personal experience (2025), [Seamus Wolf](/out/horizon65) (April 2025)
 [^36]: [minijob-zentrale.de](https://www.minijob-zentrale.de/DE/die-minijobs/versicherungen/detailseite.html#:~:text=ist%20ein%20solidarbeitrag.%20daraus%20entsteht%20fur%20den%20minijobber) (February 2025)
@@ -495,7 +495,6 @@ If you are new in Germany, [register as an organ donor](/guides/organ-donor). It
 [^40]: [krankenkassen.de](https://www.krankenkassen.de/gesetzliche-krankenkassen/krankenkasse-beitrag/arbeitslose/#:~:text=kann%20sich%20weiter%20freiwillig%20versichern) (February 2025)
 [^41]: [krankenkassen.de](https://www.krankenkassen.de/gesetzliche-krankenkassen/krankenkasse-beitrag/arbeitslose/#:~:text=mit%20eintritt%20der%20versicherungspflicht%20wegen%20alg%20i%20muss%20die%20private%20krankenversicherung%20den%20pkv-vertrag%20im%20beginn%20der%20mitgliedschaft%20in%20einer%20gesetzlichen%20krankenkasse%20aufheben) (February 2025)
 [^42]: Citation needed - expat insurance while moving
-[^43]: [minijob-zentrale.de](https://www.minijob-zentrale.de/DE/die-minijobs/sonderfaelle/detailseite.html#:~:text=auszubildende%20sind%20versicherungspflichtige%20arbeitnehmer%20oder%20arbeitnehmerinnen) (February 2025)
 [^44]: Citation needed - Health check usually needed, [Seamus Wolf](/out/horizon65) (April 2025), [Emily Archer](https://www.archer-relocation.com/) (April 2025)
 [^45]: [Techniker Krankenkasse](https://www.tk.de/vertriebspartner/faq/beitragsuebersicht/elterngeld-und-elternzeit/elterngeld-und-elternzeit-2065854) (March 2025)
 [^46]: [Techniker Krankenkasse](https://www.tk.de/resource/blob/2033352/0a9809b0d119ad48bdd717ccf37391b2/beratungsblatt-beschaeftigung-von-studierenden-und-praktikanten-data.pdf) (January 2025), [Techniker Krankenkasse](https://www.tk.de/firmenkunden/versicherung/versicherung-faq/haeufige-fragen-zu-studenten-und-praktikanten/wer-kann-werkstudent-sein-2036666) (March 2025), [meinpraktikum.de](https://www.meinpraktikum.de/ratgeber/werkstudent/allgemeines) (March 2025)
@@ -512,7 +511,6 @@ If you are new in Germany, [register as an organ donor](/guides/organ-donor). It
 [^57]: Citation needed - EU health insurance covers you until you start working
 [^58]: Citation needed - Private makes most sense for self-employed students
 [^59]: Citation needed - Public usually the best option for students, [finanztip.de](https://www.finanztip.de/pkv/pkv-wechsel/#:~:text=bleib%20fur%20die%20dauer%20des%20studiums%20besser%20in%20der%20gesetzlichen%20krankenversicherung) (January 2025)
-[^61]: Citation needed - Feather is an agent
 [^60]: [Seamus Wolf](/out/horizon65) (April 2025)
 [^62]: [250 to 350€ (FinanXpats)](https://www.finanxpats.com/health-insurance/2025-health-insurance-guide-for-expats#:~:text=pays%20around%20%E2%82%AC250%E2%80%93350%20per%20month) (April 2025), [250 to 390€ (Feather)](/out/feather-private) (April 2025), [260 to 350€ (Ottonova)](/out/ottonova) (April 2025)
 [^63]: Citation needed - Private better and cheaper for young, wealthy people
