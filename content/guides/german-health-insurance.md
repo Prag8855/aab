@@ -135,7 +135,7 @@ Public health insurance costs {{GKV_BASE_RATE_EMPLOYEE}}% of your income, plus a
 
 **If you are a student**, you usually pay the student tariff: {{GKV_COST_STUDENT|cur}}€ per month. If you are over 30 years old, you can't get the student tariff, so you pay the same price as everyone else.
 
-**If you are a trainee** (*[[Azubi]]*) and you earn {{GKV_AZUBI_FREIBETRAG|cur}}€ per month or less, you get free public health insurance. Your employer pays for it.[^48]
+**If you are an apprentice** (*[[Azubi]]*) and you earn {{GKV_AZUBI_FREIBETRAG|cur}}€ per month or less, you get free public health insurance. Your employer pays for it.[^48]
 
 **If you are self-employed**, you pay {{GKV_MIN_RATE_SELF_PAY}}% to {{GKV_MAX_RATE_SELF_PAY}}% of your income. The [minimum cost](/glossary/Mindestbeitrag) is around {{GKV_MIN_COST_SELF_PAY|cur}}€ per month. The [maximum cost](/glossary/Höchstbeitrag) is around {{GKV_MAX_COST_SELF_PAY|cur}}€ per month. You pay for health insurance by [direct debit authorisation](/glossary/SEPA-Lastschriftmandat) every month.[^8]
 
@@ -147,14 +147,14 @@ Your parents' health insurance covers you for free if...
 - and you are under 23 years old (under 25 years old if you are a student)
 - and your total income is under {{GKV_FAMILIENVERSICHERUNG_MAX_INCOME|cur}}€ per month ({{MINIJOB_MAX_INCOME|cur}}€ per month for a [minijob](/glossary/Minijob))
 - and you are not self-employed full time
-- and you are not a trainee (*[[Azubi]]*)[^53]
+- and you are not an apprentice (*[[Azubi]]*)[^53]
 
 Your spouse's health insurance covers you for free if...[^34]
 
 - Your spouse has public health insurance
 - and your total income is under {{GKV_FAMILIENVERSICHERUNG_MAX_INCOME|cur}}€ per month ({{MINIJOB_MAX_INCOME|cur}}€ per month for a [minijob](/glossary/Minijob))
 - and you are not self-employed full time
-- and you are not a trainee (*[[Azubi]]*)[^53]
+- and you are not a apprentice (*[[Azubi]]*)[^53]
 
 Your health insurance from another EU country covers you if...[^39]
 
@@ -163,7 +163,7 @@ Your health insurance from another EU country covers you if...[^39]
 
 Your employer pays for your health insurance if...[^48]
 
-- You are a trainee (*[[Azubi]]*)
+- You are an apprentice (*[[Azubi]]*)
 - and you earn {{GKV_AZUBI_FREIBETRAG|cur}}€ per month or less
 
 The state pays for your health insurance if...[^45]

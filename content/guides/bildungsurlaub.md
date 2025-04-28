@@ -27,7 +27,7 @@ You get educational leave in addition to [vacations days](/guides/vacation-days)
 
 ## Bildungsurlaub requirements
 
-All employees can get educational leave, including interns and trainees.[^10]
+All employees can get educational leave, including interns and [apprentices](/glossary/Azubi).[^10]
 
 To get educational leave, you must...
 

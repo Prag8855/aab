@@ -76,7 +76,7 @@ Rent is the biggest expense for most people. There are ways to pay less rent:
 - **Get a yearly ticket**  
     If you can't get the Deutschland Ticket, [get a yearly subscription](https://www.bvg.de/de/abos-und-tickets/alle-abos/vbb-umweltkarte) from BVG or the Deutsche Bahn. Yearly tickets are cheaper than monthly tickets.
 - **Get a student ticket**  
-    If you are a student or a trainee, get a student ticket. It's usually included in your school fees.
+    If you are a student or an [apprentice](/glossary/Azubi), get a student ticket. It's usually included in your school fees.
 - **Don't drive**  
     In most cities, [you don't need a car](/guides/buying-used-car-in-germany#do-you-need-a-car). [Buy a bicycle](/guides/bicycle-in-berlin) or [use public transit](/guides/public-transit) instead. When you really need to drive, [rent a car](/guides/public-transit#rent-a-car).
 - **Save on car insurance**  
