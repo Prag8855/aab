@@ -79,7 +79,7 @@ Your employer can help you get health insurance. This is a bad idea. They choose
 
 If you are self-employed, you can choose public or private health insurance.[^4]
 
-**[Public health insurance](#public-health-insurance)** costs {{GKV_MIN_RATE_SELF_PAY}}% to {{GKV_MAX_RATE_SELF_PAY}}% of your income (including *[[Pflegeversicherung]]*). The minimum cost is around [{{GKV_MIN_COST_SELF_PAY|cur}}€](/glossary/Mindestbeitrag) per month. The maximum cost is around [{{GKV_MAX_COST_SELF_PAY|cur}}€](/glossary/Höchstbeitrag) per month. You can't get the student tariff, you can't get [free health insurance](#free-health-insurance), and you can't health insurance from another EU country.[^37]
+**[Public health insurance](#public-health-insurance)** costs {{GKV_MIN_RATE_SELF_PAY}}% to {{GKV_MAX_RATE_SELF_PAY}}% of your income (including *[[Pflegeversicherung]]*). The minimum cost is around [{{GKV_MIN_COST_SELF_PAY|cur}}€](/glossary/Mindestbeitrag) per month. The maximum cost is around [{{GKV_MAX_COST_SELF_PAY|cur}}€](/glossary/Höchstbeitrag) per month. You can't get the student tariff, you can't get [free health insurance](#free-health-insurance), and you can't use [health insurance from another EU country](#insurance-from-other-eu-countries).[^37]
 
 **[Private health insurance](#private-health-insurance)** is usually cheaper. The cost is based on your age and your health when you sign up. If you earn less than 30,000€ per year, private health insurers might reject you.[^55] Don't get private health insurance if you have an unstable income.[^27]
 
@@ -93,7 +93,7 @@ If you are a freelance artist, journalist, publicist or influencer, join the *[[
 
 ### Health insurance for an apprenticeship
 
-**If your earn less than {{GKV_AZUBI_FREIBETRAG|cur}}€ per month**, you get free [public health insurance](/glossary/gesetzliche%20Krankenversicherung). Your employer pays for it.[^48]
+**If you earn less than {{GKV_AZUBI_FREIBETRAG|cur}}€ per month**, you get free [public health insurance](/glossary/gesetzliche%20Krankenversicherung). Your employer pays for it.[^48]
 
 **If you earn more than {{GKV_AZUBI_FREIBETRAG|cur}}€ per month**, you can only choose [public health insurance](/glossary/gesetzliche%20Krankenversicherung).[^54] It costs {{GKV_MIN_RATE_EMPLOYEE}}% to {{GKV_MAX_RATE_EMPLOYEE}}% of your income (including *[[Pflegeversicherung]]*).[^52] You can't get [free health insurance](#free-health-insurance).[^53]
 
@@ -113,7 +113,7 @@ If it's a **mandatory internship before or after your studies**:[^65]
 If it's a **voluntary internship**:[^66]
 
 - **If it's unpaid**  
-    You have the [same options an unemployed student](#health-insurance-for-unemployed-people).[^68] You can get [free health insurance](#free-health-insurance).
+    You have the [same options as an unemployed student](#health-insurance-for-unemployed-people).[^68] You can get [free health insurance](#free-health-insurance).
 - **If it pays up to {{GKV_AZUBI_FREIBETRAG|cur}} per month**  
     You get free [public health insurance](/glossary/gesetzliche%20Krankenversicherung). Your employer pays for it.[^69]
 - **If it pays more than {{GKV_AZUBI_FREIBETRAG|cur}} per month**  
@@ -180,7 +180,7 @@ If you are a [EU](/glossary/European%20Union) citizen, you can sometimes use you
 
 ### What public insurance covers
 
-Public health insurance covers **all necessary healthcare**. Important treatments and medical prescriptions are always covered. There is a small deductible (5€ to 10€ per month) for some prescriptions. There is no other deductible. There is no coverage limit.
+Public health insurance covers **all necessary healthcare**. Important treatments and medical prescriptions are always covered. There is a small deductible for some prescriptions: 5€ to 10€ per prescription.[^70] There is no other deductible. There is no coverage limit.
 
 When you go to the doctor, you give your insurance card, and they charge your *[[Krankenkasse]]* directly. If a treatment is not covered, you know before you start. There are no surprise costs.
 
@@ -226,7 +226,7 @@ The most important question is public or private health insurance.[^51] [Ask an 
 
 - You are and employee and you earn over {{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}}€ per year[^3]
 - or you are self-employed
-- or you are a student, a trainee (*[[Azubi]]*), a doctor or a public servant
+- or you are a student, a doctor or a public servant
 
 Everyone else must get [public health insurance](#public-health-insurance).
 
@@ -237,7 +237,7 @@ Your employer pays half of your health insurance. If you are self-employed, you 
 The cost depends on 4 things:
 
 - **Your age when you join**  
-    Young people pay less. The insurer also saves part of your payments for when you are old. If you join when you are young, your payments are lower when you are old. If you plan to leave Germany after a few years, you can get health insurance without old age provisions. It's much cheaper. If you are over 40 years old, public health insurance makes more sense.[^28]
+    Young people pay less. The insurer saves a part of your payments for old age. If you join when you are young, you pay less when you are old. If you plan to leave Germany after a few years, you can get health insurance without old age provisions. It's much cheaper. If you are over 45 years old, public health insurance usually makes more sense.[^28]
 - **Your health condition when you join**  
     Usually, you must get a health check at the doctor.[^44] If you have pre-existing health problems, insurers charge more or reject you.[^9] After you join, if you get really sick and use your insurance all the time, the price does not change, and they can't kick you out.
 - **The coverage you choose**  
@@ -259,7 +259,7 @@ A young, healthy employee could pay just 250€ per month for private insurance.
 - **Faster doctor appointments**  
     You can get an appointment in days instead of weeks. Try it yourself: go on [Doctolib](https://www.doctolib.de/), and look for the earliest doctor appointment. Try again with private health insurance. It's really hard to find a psychiatrist, a gynaecologist or a paediatrician with public health insurance. It's much easier with private health insurance.
 - **You choose your coverage**  
-    Your insurance can cover dental care, travel insurance, special treatments etc. You can pay more for the best coverage. You can also choose lower coverage and a high deductible to pay less.[^17] 
+    Your insurance can cover dental care, travel insurance, special treatments etc. You can pay more for the best coverage. You can also choose lower coverage and a high deductible to pay less.[^17]
 - **You pay less when you don't use it**  
     Many private health insurers have a no-claims bonus. If you don't use your health insurance, you get money back every year. If you never get sick, you can save a lot of money.
 
@@ -270,11 +270,11 @@ A young, healthy employee could pay just 250€ per month for private insurance.
 - **You pay, then you get reimbursed**  
     When you go to the doctor, you pay for it, and your health insurance reimburses you later. This is more effort and more paperwork. You also need enough money to pay for your medical bills, even if you get reimbursed later.
 - **It does not adjust to your income**  
-    If your income changes, your health insurance costs the same. This is a problem if you have a bad year. Public health insurance is a much safer option, because the cost is proportional to your income.
+    If your income changes, your health insurance costs the same. For example, if you [lose your job](/guides/losing-your-job), your business fails or you retire, your health insurance does not get cheaper. Public health insurance is a much safer option, because the cost is proportional to your income.
 - **They can reject you**  
     If you have serious health problems, they reject you. If you had psychotherapy, they usually reject you. If you have problems like AIDS, severe asthma, diabetes or obesity, they could also reject you, or charge a lot more. If you have pre-existing health problems, public health insurance might be your only option.[^6]
 - **You can be stuck with private**  
-    It's hard to switch from private to public health insurance. You can be stuck with an expensive health insurance, and have no way to switch to public.
+    It's hard to switch from private to public health insurance. You can be stuck with an expensive health insurance, and have no way to switch to public. You can sometimes switch to a cheaper private health insurance.[^72]
 
 ### What private insurance covers
 
@@ -362,7 +362,7 @@ There is no reason to choose your insurance yourself. [Ask an expert](#insurance
 - **You want something that just works**  
     Just show your card and get healthcare. It takes longer to get an appointment, but you don't have to deal with any paperwork.
 - **You have or want children**  
-    Public health insurance covers your children [for free](/glossary/Familienversicherung). Private health insurance charges extra for each child.
+    Public health insurance covers your children [for free](/glossary/Familienversicherung). Private health insurance charges extra for each child. If both parents have a high income, private health insurance can be cheaper anyway.[^71]
 - **You pay the student tariff**  
     The student tariff is a really good deal. If you are a student under 30 years old, public health insurance is usually the best option.[^59]
 
@@ -374,8 +374,10 @@ There is no reason to choose your insurance yourself. [Ask an expert](#insurance
     It's much easier to find a doctor.
 - **You want the best coverage**  
     Private health insurance lets you pay more and get the best coverage.
+- **You want a better choice of treatment**  
+    You can choose a specific doctor, or a specific kind of treatment. For example, you can get therapy or medicine that is not covered by public health insurance.[^73]
 - **You plan to leave Germany in a few years**  
-    You can get health insurance without an old age privision. It's up to 50% cheaper.
+    You can get health insurance without an old age provision. It's up to 50% cheaper.
 - **You don't want children**[^20]
 
 ### Choose expat health insurance if...
@@ -468,7 +470,7 @@ If you are new in Germany, [register as an organ donor](/guides/organ-donor). It
 [^25]: [tk.de](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-nicht-tk-versicherte/wie-hoch-sind-die-beitraege/freiwillige-mitglieder/haeufige-fragen-zu-beitraegen-fuer-freiwillig-versicherte/beitragshoehe-absolvent-freiwilliger-student-2006956#:~:text=nach%20dem%2030.%20geburtstag), [krankenkassen.de](https://www.krankenkassen.de/meine-krankenkasse/student/freiwillig/#:~:text=mit%20dem%20ende%20des%20semesters%2C%20in%20das%20der%2030.%20geburtstag%20fallt)
 [^26]: Citation needed - Expat coverage bad, prices raise quickly
 [^27]: [finanztip.de](https://www.finanztip.de/pkv/pkv-wechsel/#:~:text=gerade%20zu%20beginn%20deiner%20selbststandigkeit%20empfehlen%20wir%20dir%2C%20in%20der%20gkv%20zu%20bleiben) (January 2025), [Feather Insurance](https://feather-insurance.com/blog/public-vs-private-health-insurance-germany/?utm_source=allaboutberlin#:~:text=%20if%20you%E2%80%99re%20a%20high-earner) (April 2025)
-[^28]: [finanztip.de](https://www.finanztip.de/pkv/pkv-wechsel/#:~:text=idealerweise%20solltest%20du%20nicht%20alter%20als%2035%20bis%2040%20jahre%20sein) (January 2025)
+[^28]: [finanztip.de](https://www.finanztip.de/pkv/pkv-wechsel/#:~:text=idealerweise%20solltest%20du%20nicht%20alter%20als%2035%20bis%2040%20jahre%20sein) (January 2025), Mona Anbari, insurance broker (April 2025)
 [^29]: [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/532620887206619/)
 [^30]: [Seamus Wolf, insurance broker](/out/horizon65) (April 2025), [Emily Archer, insurance broker](https://www.archer-relocation.com/) (April 2025)
 [^32]: [krankenkassen.de](http://web.archive.org/web/20201204045304/https://www.krankenkassen.de/meine-krankenkasse/student/ehic/)
@@ -510,3 +512,7 @@ If you are new in Germany, [register as an organ donor](/guides/organ-donor). It
 [^67]: [meinpraktikum.de](https://www.meinpraktikum.de/ratgeber/krankenversicherung#freiwilliges-praktikum)
 [^68]: [check24.de](https://www.check24.de/krankenversicherung/praktikum/#:~:text=fur%20die%20der%20praktikant%20kein%20entgelt%20erhalt) (April 2025)
 [^69]: Citation needed - free health insurance for voluntary interns making up to 325€ per month
+[^70]: Citation needed - public deductible per prescription
+[^71]: Mona Anbari, insurance broker (April 2025)
+[^72]: Mona Anbari, insurance broker (April 2025)
+[^73]: Mona Anbari, insurance broker (April 2025)
