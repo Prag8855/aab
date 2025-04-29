@@ -319,14 +319,14 @@ Don't stay on expat health insurance. It's a really bad idea. Switch to public o
 
 If you develop a health condition while you have expat insurance, it can be really hard to find long-term health insurance, because all insurers will refuse to cover you. You can end up with a really expensive health insurance.
 
-If you want to stay in Germany for a long time, staying on expat insurance is a really bad idea.
+If you want to stay in Germany for a long time, don't stay on expat insurance. It's a bad idea because...
 
 - **The price goes up faster**  
     The cost of expat insurance rises really quickly.[^22] If your expat insurance stays valid, it gets more and more expensive. In the long term, public and private health insurance are cheaper.[^10]
 - **The coverage is not as good**  
     Check-ups and dentist visits are rarely covered.[^26] You usually pay a deductible for basic treatments. Long term treatments (like cancer) are 100% covered, without any deductible.
 
-Get expat health insurance from a [health insurance broker](#insurance-brokers). [Feather](/out/feather-expats) and [Ottonova](/out/ottonova-expats) also sell it.
+Get expat health insurance from a [health insurance broker](#insurance-brokers). [Feather](/out/feather-expats) and [Ottonova](/out/ottonova-expats) also sell expat insurance.
 
 **[List of expat insurance options ➞](/guides/german-visa-health-insurance#expat-health-insurance-options)**
 
@@ -512,6 +512,7 @@ If you are new in Germany, [register as an organ donor](/guides/organ-donor). It
 [^58]: Citation needed - Private makes most sense for self-employed students
 [^59]: Citation needed - Public usually the best option for students, [finanztip.de](https://www.finanztip.de/pkv/pkv-wechsel/#:~:text=bleib%20fur%20die%20dauer%20des%20studiums%20besser%20in%20der%20gesetzlichen%20krankenversicherung) (January 2025)
 [^60]: [Seamus Wolf](/out/horizon65) (April 2025)
+[^61]: [Emily Archer](https://www.archer-relocation.com/) (April 2025), [Seamus Wolf](/out/horizon65) (April 2025), multiple insurance brokers (2024, 2025)
 [^62]: [250 to 350€ (FinanXpats)](https://www.finanxpats.com/health-insurance/2025-health-insurance-guide-for-expats#:~:text=pays%20around%20%E2%82%AC250%E2%80%93350%20per%20month) (April 2025), [250 to 390€ (Feather)](/out/feather-private) (April 2025), [260 to 350€ (Ottonova)](/out/ottonova) (April 2025)
 [^63]: Citation needed - Private better and cheaper for young, wealthy people
 [^64]: [praktikum-guide.com](https://praktikum-guide.com/krankenversicherung-im-praktikum/#:~:text=Pflichtpraktikum%20ohne-,vergutung,-Du%20bleibst%20beitragsfrei) (April 2025)
