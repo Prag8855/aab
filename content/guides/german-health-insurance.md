@@ -330,15 +330,19 @@ Get expat health insurance from a [health insurance broker](#insurance-brokers).
 
 **[List of expat insurance options ➞](/guides/german-visa-health-insurance#expat-health-insurance-options)**
 
-### Travel insurance
+### Travel health insurance
 
-Travel insurance is valid **for visiting Germany**. You need it to get a [[Schengen visa]]. It's rarely valid for a [residence permit](/glossary/Aufenthaltstitel) application.
+Travel health insurance covers medical emergencies when you visit another country. It does not cover therapy, long-term treatments, health check-ups or pre-existing conditions.
 
-It only covers medical emergencies, and treatments that can't wait until you go back home. It does not cover long-term treatments, health check-ups or pre-existing conditions.
+**If you visit Germany**, travel insurance covers you during your trip. You need travel health insurance to get a [[Schengen visa]]. It does not cover you after you [move to Germany](/guides/moving-to-berlin). It's rarely valid for a [residence permit](/glossary/Aufenthaltstitel) application.
 
-You can buy travel insurance online in your home country. [HanseMerkur](/out/hansemerkur-travel)'s travel insurance is valid for a Schengen visa application.
+**[Get health insurance for a Schengen visa ➞](/guides/german-visa-health-insurance#for-a-schengen-visa)**
 
-**[Health insurance for a Schengen visa ➞](/guides/german-visa-health-insurance#for-a-schengen-visa)**
+**If you move to Germany**, travel health insurance is not valid. You must get public, private or expat health insurance.
+
+**If you live in Germany**, travel health insurance covers you when you travel to other countries. If you have [private health insurance](/glossary/private%20Krankenversicherung), it usually includes travel insurance.
+
+**[Get travel health insurance ➞](#get-travel-health-insurance)**
 
 ### Insurance from other EU countries
 
@@ -433,15 +437,15 @@ I got my liability insurance from [Feather](/out/feather-haftpflicht). If you [a
 
 **[How to choose liability insurance ➞](/guides/haftpflichtversicherung)**
 
-### Get travel insurance
+### Get travel health insurance
 
-Travel insurance covers medical emergencies when you travel to other countries. It usually costs less than 20€ per year.[^78]
+Travel health insurance covers medical emergencies when you visit other countries. It usually costs around 20€ per year.[^78]
 
-Your private health insurance usually includes travel insurance, but you should get separate travel insurance anyway. If you see a doctor abroad, you don't lose your no-claims bonus.[^20]
+Your [private health insurance](/glossary/private%20Krankenversicherung) usually includes travel insurance, but you should get separate travel insurance anyway. If you see a doctor abroad, there is no deductible, and you don't lose your no-claims bonus.[^20]
 
 Public health insurance rarely includes travel insurance.
 
-You can get travel insurance from [Envivas](https://www.envivas.de/en/insurance/travelling-abroad) or Allianz. I have used both, and they worked when I needed them. Envivas paid for helicopter transport and a hospital stay when my friend got sick in the mountains.
+You can get travel insurance from [Envivas](https://www.envivas.de/en/insurance/travelling-abroad) or [Allianz](https://www.allianzdirect.de/reiseversicherung/). I have used both, and they worked when I needed them. Envivas paid for helicopter transport and a hospital stay when my friend got sick in the mountains. Some banks like [N26](/out/n26-metal) include travel insurance with their premium account.
 
 ### Other kinds of insurance
 
