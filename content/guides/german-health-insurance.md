@@ -40,9 +40,9 @@ Your health insurance is not tied to your job. Your employer does not decide wha
 
 **If you earn {{GKV_MAX_INCOME|cur}}€ to {{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}}€ per year**, you can only choose [public health insurance](/glossary/gesetzliche%20Krankenversicherung).[^3] It costs [around {{GKV_MAX_COST_EMPLOYEE|cur}}€ per month](/glossary/Höchstbeitrag).
 
-**If you earn less than {{GKV_MAX_INCOME|cur}}€ per year**, you can only choose public health insurance. It costs {{GKV_MIN_RATE_EMPLOYEE}}% to {{GKV_MAX_RATE_EMPLOYEE}}% of your income (including *[[Pflegeversicherung]]*).
+**If you earn less than {{GKV_MAX_INCOME|cur}}€ per year**, you can only choose [public health insurance](/glossary/gesetzliche%20Krankenversicherung). It costs {{GKV_MIN_RATE_EMPLOYEE}}% to {{GKV_MAX_RATE_EMPLOYEE}}% of your income (including *[[Pflegeversicherung]]*).
 
-**If you have a [minijob](/glossary/Minijob)**, you can choose public or private health insurance. You can get [free health insurance](#free-health-insurance). Otherwise, you pay the [minimum amount](/glossary/Mindestbeitrag): around {{GKV_MIN_COST_SELF_PAY|cur}}€ per month. Your employer does not help you pay for health insurance.[^36]
+**If you have a [minijob](/glossary/Minijob)**, you can choose [public](/glossary/gesetzliche%20Krankenversicherung) or [private health insurance](/glossary/private%20Krankenversicherung). Public is usually the best option.[^56] You can get [free health insurance](#free-health-insurance). Otherwise, you pay the [minimum amount](/glossary/Mindestbeitrag): around {{GKV_MIN_COST_SELF_PAY|cur}}€ per month. Your employer does not help you pay for health insurance.[^36]
 
 **If you [lose your job](/guides/losing-your-job)**, you can get [free health insurance](#free-health-insurance). Otherwise, you pay the [minimum amount](/glossary/Mindestbeitrag): around {{GKV_MIN_COST_SELF_PAY|cur}}€ per month.
 
@@ -115,9 +115,7 @@ If it's a **voluntary internship**, you have the [same options as an employee](#
 
 ## Public health insurance
 
-87% of Germans have [public health insurance](/glossary/gesetzliche%20Krankenversicherung).[^2] It's often your only option.
-
-Public health insurance is run by [non-profit insurance funds](/glossary/Krankenkasse), not by the state. The cost and coverage are almost the same for all public health insurers.
+Public health insurance is run by [non-profit insurance funds](/glossary/Krankenkasse), not by the state. The cost and coverage are almost the same for all public health insurers. 87% of Germans have [public health insurance](/glossary/gesetzliche%20Krankenversicherung).[^2] It's often your only option.
 
 ### Cost of public health insurance
 
@@ -308,7 +306,7 @@ Do not choose private health insurance yourself. It's a really bad idea. The bes
 
 **[Health insurance for a residence permit ➞](/guides/german-visa-health-insurance)**
 
-Don't stay on expat health insurance. It's a really bad idea. Switch to public or private health insurance as soon as possible. The coverage is bad and the price raises quickly.[^26] It usually expires after 5 years.[^22]
+Don't stay on expat health insurance. It's a really bad idea. Switch to public or private health insurance as soon as possible. The coverage is bad and the price raises quickly.[^26] You can rarely use expat insurance for more than 5 years.[^22]
 
 If you develop a health condition while you have expat insurance, it can be really hard to find long-term health insurance, because all insurers will refuse to cover you. You can end up with a really expensive health insurance.
 
@@ -319,7 +317,7 @@ If you want to stay in Germany for a long time, don't stay on expat insurance. I
 - **The coverage is not as good**  
     Check-ups and dentist visits are rarely covered.[^26] You usually pay a [deductible](/glossary/Selbstbeteiligung) for basic treatments. Long term treatments (like cancer) are 100% covered, without any deductible.
 
-Get expat health insurance from a [health insurance broker](#insurance-brokers). [Feather](/out/feather-expats) and [Ottonova](/out/ottonova-expats) also sell expat insurance.
+Get expat health insurance from a [health insurance broker](#insurance-brokers). [Feather](/out/feather-expats) and [Ottonova](/out/ottonova-expats) also sell expat insurance, but it's better to get help from a broker.
 
 **[List of expat insurance options ➞](/guides/german-visa-health-insurance#expat-health-insurance-options)**
 
@@ -339,7 +337,7 @@ Travel health insurance covers medical emergencies when you visit another countr
 
 ### Insurance from other EU countries
 
-If you come from another EU country, your health insurance might cover you in Germany. You can only get treatments that are covered by German public health insurance.[^32] Unlike [travel health insurance](#travel-health-insurance), it does not cover the return flight to your home country.[^24]
+If you come from another EU country, your health insurance might cover you in Germany. You can only get treatments that are covered by German public health insurance.[^32] It does not cover repatriation if you are sick. For that, you need [travel health insurance](#travel-health-insurance).[^24]
 
 **If you visit Germany**, your EU health insurance covers medical emergencies.[^23] It only covers treatments that can't wait until you go home. For example, if you break your ankle on a hike, it covers the hospital visit. If you stay longer than 3 months, you must get German health insurance.[^38]
 
@@ -477,7 +475,7 @@ If you are new in Germany, [register as an organ donor](/guides/organ-donor). It
 [^21]: [Emily Archer](https://www.archer-relocation.com/) (April 2025), multiple relocation consultants (2025)
 [^22]: [care-concept.de](https://www.care-concept.de/expatriates_eng.php?navilang=eng#:~:text=up%20to%20a%20maximum%20of%205%20years) (April 2025), [mawista.com](https://www.mawista.com/en/tariffs/health-insurance-expatcare/) (April 2025), [Feather Insurance](https://feather-insurance.com/health-insurance/expat?utm_source=allaboutberlin#:~:text=maximum%20length%20of%20policy) (April 2025)
 [^23]: [health-insurance.de](https://www.health-insurance.de/living/eu-citizen/#:~:text=ehic%20is%20limited%20to%20emergencies) (April 2025), [ec.europa.eu](https://employment-social-affairs.ec.europa.eu/policies-and-activities/moving-working-europe/eu-social-security-coordination/frequently-asked-questions/faq-social-security-european-health-insurance-card_en#:~:text=taking%20account%20of%20the%20duration%20of%20their%20stay) (April 2025)
-[^24]: [dvka.de](https://www.dvka.de/media/dokumente/merkblaetter/urlaub-in-deutschland/ehic_dt_englisch.pdf)
+[^24]: [dvka.de](https://www.dvka.de/media/dokumente/merkblaetter/urlaub-in-deutschland/ehic_dt_englisch.pdf), [Seamus Wolf](/out/horizon65) (April 2025)
 [^25]: [tk.de](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-nicht-tk-versicherte/wie-hoch-sind-die-beitraege/freiwillige-mitglieder/haeufige-fragen-zu-beitraegen-fuer-freiwillig-versicherte/beitragshoehe-absolvent-freiwilliger-student-2006956#:~:text=nach%20dem%2030.%20geburtstag), [krankenkassen.de](https://www.krankenkassen.de/meine-krankenkasse/student/freiwillig/#:~:text=mit%20dem%20ende%20des%20semesters%2C%20in%20das%20der%2030.%20geburtstag%20fallt)
 [^26]: [Mona Anbari](https://versicherungsbuero-weiss.com/) (April 2025)
 [^27]: [finanztip.de](https://www.finanztip.de/pkv/pkv-wechsel/#:~:text=gerade%20zu%20beginn%20deiner%20selbststandigkeit%20empfehlen%20wir%20dir%2C%20in%20der%20gkv%20zu%20bleiben) (January 2025), [Feather Insurance](https://feather-insurance.com/blog/public-vs-private-health-insurance-germany/?utm_source=allaboutberlin#:~:text=%20if%20you%E2%80%99re%20a%20high-earner) (April 2025), [Emily Archer](https://www.archer-relocation.com/) (April 2025)
@@ -509,6 +507,7 @@ If you are new in Germany, [register as an organ donor](/guides/organ-donor). It
 [^53]: [gesetzliche-krankenkassen.de](https://www.gesetzliche-krankenkassen.de/auszubildende-azubis/#:~:text=familienversicherung%20ist%20wahrend%20der%20ausbildung%20nicht%20moglich) (March 2025)
 [^54]: [gesetzliche-krankenkassen.de](https://www.gesetzliche-krankenkassen.de/auszubildende-azubis/#:~:text=eine%20versicherung%20in%20der%20privaten%20krankenversicherung%20(pkv)%20ist%20fur%20auszubildende%20nicht%20moglich) (March 2025)
 [^55]: [Emily Archer](https://www.archer-relocation.com/) says that the amount is not fixed, but that insurers need to see that you can cover your insurance bills (April 2025), [Seamus Wolf](/out/horizon65) (April 2025)
+[^56]: [Dr. Rob Schumacher](/out/feather) (April 2025)
 [^58]: [Seamus Wolf](/out/horizon65) (April 2025), [finanztip](https://www.finanztip.de/pkv/pkv-kosten/#:~:text=fur%20junge%2C%20gesunde%20menschen%20ist%20die%20private%20krankenversicherung) (February 2025), [verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/krankenversicherung/private-krankenversicherung-nicht-fuer-jeden-sinnvoll-13884#:~:text=kann%20es%20unter%20finanziellen%20gesichtspunkten%20sinnvoll%20sein%2C%20in%20eine%20private%20krankenversicherung%20zu%20wechseln) (2024)
 [^59]: [finanztip.de](https://www.finanztip.de/pkv/pkv-wechsel/#:~:text=bleib%20fur%20die%20dauer%20des%20studiums%20besser%20in%20der%20gesetzlichen%20krankenversicherung) (January 2025)
 [^60]: [Seamus Wolf](/out/horizon65) (April 2025)
