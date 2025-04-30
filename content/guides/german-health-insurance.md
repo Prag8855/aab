@@ -181,11 +181,11 @@ If you are a [EU](/glossary/European%20Union) citizen, you can sometimes use you
 
 ### What public insurance covers
 
-Public health insurance covers **all necessary healthcare**. Important treatments and medical prescriptions are always covered. There is a small deductible for some prescriptions: 5€ to 10€ per prescription.[^70] There is no other deductible. There is no coverage limit.
+Public health insurance covers **all necessary healthcare**. Important treatments and medical prescriptions are always covered. There is a small [deductible](/glossary/Selbstbeteiligung) for some prescriptions: 5€ to 10€ per prescription.[^70] There is no other deductible. There is no coverage limit.
 
 When you go to the doctor, you give your insurance card, and they charge your *[[Krankenkasse]]* directly. If a treatment is not covered, you know before you start. There are no surprise costs.
 
-Public health insurance covers essential dental care, like removing your wisdom teeth. You also get 2 free dental check-ups every year. It does not cover tooth cleanings. You can get [dental insurance](/glossary/Zahnzusatzversicherung) to get better coverage.
+Public health insurance covers essential dental care like wisdom teeth removal. You also get 2 free dental check-ups every year. It does not cover tooth cleanings. You can get [dental insurance](/glossary/Zahnzusatzversicherung) to get better coverage.
 
 Glasses and contact lenses [are rarely covered](/guides/eyeglasses). You must pay for them yourself.
 
@@ -200,7 +200,7 @@ Public health insurance also covers your children and your unemployed spouse for
 - **It covers your family for free**  
     Your children and your unemployed spouse get [free health insurance](#free-health-insurance). Private health insurance charges for each person you cover. If you have more than 2 children, public health insurance is usually cheaper.[^12]
 - **It's easy to use**  
-    When you go to the doctor, you show your insurance card, and you get healthcare. You never need to think about coverage, deductibles or reimbursement. There is no paperwork; it just works.
+    When you go to the doctor, you show your insurance card, and you get healthcare. You never need to think about coverage, [deductibles](/glossary/Selbstbeteiligung) or reimbursement. There is no paperwork; it just works.
 - **It's not tied to your health**  
     The price is based on your income. You don't pay more if you have serious health conditions, or if you use your health insurance all the time.
 
@@ -211,7 +211,7 @@ Public health insurance also covers your children and your unemployed spouse for
 - **It's harder to get doctor appointments**[^13]  
     It's hard to find a psychotherapist, psychiatrist, gynaecologist, paediatrician or urologist. Those who accept public health insurance are booked for weeks or months. If you want to see a doctor quickly, private health insurance is much better.
 - **It does not cover special treatments**  
-    Public health insurance covers *necessary* care. If you want fancier treatments, you must pay for the price difference. For example, it only covers amalgam tooth fillings, not fancy composite fillings. It only covers basic teeth cleanings, twice per year. Eyeglasses are rarely covered. With private health insurance, you can choose better coverage.
+    Public health insurance covers *necessary* care. You get the most cost-effective treatment.[^43] If you want fancier treatments, you must pay for the price difference. For example, it only covers amalgam tooth fillings, not fancy composite fillings. It only covers basic teeth cleanings, twice per year. Eyeglasses are rarely covered. If you want better coverage and better treatment, choose private health insurance.[^81]
 
 ### Best public health insurance
 
@@ -262,9 +262,9 @@ A young, healthy employee could pay just 250€ per month for private insurance.
 - **Faster doctor appointments**  
     You can get an appointment in days instead of weeks. Try it yourself: go on [Doctolib](https://www.doctolib.de/), and look for the earliest doctor appointment. Try again with private health insurance. It's really hard to find a psychiatrist, a gynaecologist or a paediatrician with public health insurance. It's much easier with private health insurance.
 - **You choose your coverage**  
-    Your insurance can cover dental care, travel insurance, special medication and special treatments. You can pay more every month for the best coverage. If you choose lower coverage and a high deductible, you pay less every month.[^17]
+    Your insurance can cover dental care, travel insurance, special medication and special treatments. You can pay more every month for the best coverage. If you choose lower coverage and a high [deductible](/glossary/Selbstbeteiligung), you pay less every month.[^17]
 - **You pay less when you don't use it**  
-    Many private health insurers have a no-claims bonus. If you don't use your health insurance, you get money back every year. If you never get sick, you can save a lot of money.
+    Many private health insurers have a no-claims bonus. If you don't use your health insurance, you get money back every year. If you never get sick, you can save a lot of money. In 2024, I got a 640€ refund.
 
 ### Disadvantages of private health insurance
 
@@ -283,7 +283,7 @@ A young, healthy employee could pay just 250€ per month for private insurance.
 
 The coverage depends on the plan you choose. **Necessary healthcare is always covered.** The coverage is usually equal or better to public health insurance.
 
-The overall coverage is unlimited. There is no yearly limit. If you get cancer and the treatment costs millions of euros, your insurance pays for everything. Some treatments might have deductibles or yearly limits. For example, some plans have coverage limits for psychotherapy.[^60] A [broker](#insurance-brokers) can help you choose a plan that fits your needs.
+The overall coverage is unlimited. There is no yearly limit. If you get cancer and the treatment costs millions of euros, your insurance pays for everything. Some treatments might have [deductibles](/glossary/Selbstbeteiligung) or yearly limits. For example, some plans have coverage limits for psychotherapy.[^60] A [broker](#insurance-brokers) can help you choose a plan that fits your needs.
 
 You can customize your coverage. For example, your insurance can cover extra services like dental care, [eyeglasses](/guides/eyeglasses) and laser eye surgery. It can cover better dental implants, a better wheelchair, or a better hospital room. You can also get lower coverage to pay less every month.
 
@@ -324,7 +324,7 @@ If you want to stay in Germany for a long time, don't stay on expat insurance. I
 - **The price goes up faster**  
     The cost of expat insurance rises really quickly.[^22] If your expat insurance stays valid, it gets more and more expensive. In the long term, public and private health insurance are cheaper.[^10]
 - **The coverage is not as good**  
-    Check-ups and dentist visits are rarely covered.[^26] You usually pay a deductible for basic treatments. Long term treatments (like cancer) are 100% covered, without any deductible.
+    Check-ups and dentist visits are rarely covered.[^26] You usually pay a [deductible](/glossary/Selbstbeteiligung) for basic treatments. Long term treatments (like cancer) are 100% covered, without any deductible.
 
 Get expat health insurance from a [health insurance broker](#insurance-brokers). [Feather](/out/feather-expats) and [Ottonova](/out/ottonova-expats) also sell expat insurance.
 
@@ -441,7 +441,7 @@ I got my liability insurance from [Feather](/out/feather-haftpflicht). If you [a
 
 Travel health insurance covers medical emergencies when you visit other countries. It usually costs around 20€ per year.[^78]
 
-Your [private health insurance](/glossary/private%20Krankenversicherung) usually includes travel insurance, but you should get separate travel insurance anyway. If you see a doctor abroad, there is no deductible, and you don't lose your no-claims bonus.[^20]
+Your [private health insurance](/glossary/private%20Krankenversicherung) usually includes travel insurance, but you should get separate travel insurance anyway. If you see a doctor abroad, there is no [deductible](/glossary/Selbstbeteiligung), and you don't lose your no-claims bonus.[^20]
 
 Public health insurance rarely includes travel insurance.
 
@@ -468,7 +468,7 @@ If you are new in Germany, [register as an organ donor](/guides/organ-donor). It
 [^9]: [FinanXpats](https://www.finanxpats.com/health-insurance/2025-health-insurance-guide-for-expats#:~:text=pre-existing%20conditions%20may%20lead%20to%20risk%20surcharges) (April 2025), [Feather Insurance](https://feather-insurance.com/blog/health-insurance-guide-private-health-insurance/#:~:text=private%20health%20insurance%20companies%20reject%20these%20applications) (April 2025)
 [^10]: [krankenkassenzentrale.de](http://web.archive.org/web/20220926103421/https://www.krankenkassenzentrale.de/wiki/krankenkasse-arbeitslosigkeit), [tk.de](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-versicherte/veraenderung-berufliche-situation/wenn-sie-arbeitslos-sind-2000802)
 [^11]: [krankenkassen.de](https://www.krankenkassen.de/gesetzliche-krankenkassen/krankenkasse-beitrag/arbeitslose/#:~:text=ubernimmt%20das%20jobcenter%20den%20allgemeinen%20krankenkassen-beitrag) (February 2025), [aok.de](https://www.aok.de/pk/krankenkassenbeitraege/arbeitslosigkeit/), [aok.de](https://www.aok.de/pk/krankenkassenbeitraege/arbeitslosigkeit/), [Arbeitsagentur](https://www.arbeitsagentur.de/arbeitslosengeld-2/gesundheit-versicherung)
-[^12]: [Seamus Wolf](/out/horizon65) (April 2025), Mona Anbari, insurance broker (April 2025), [Emily Archer](https://www.archer-relocation.com/) (April 2025), [finanztip.de](https://www.finanztip.de/pkv/pkv-wechsel/#:~:text=hast%20du%20aber%20familie%20oder%20planst) (January 2025), [FinanXpats](https://www.finanxpats.com/health-insurance/2025-health-insurance-guide-for-expats#:~:text=recommended%20for%20families) (April 2025)
+[^12]: [Seamus Wolf](/out/horizon65) (April 2025), [Mona Anbari](https://versicherungsbuero-weiss.com/) (April 2025), [Emily Archer](https://www.archer-relocation.com/) (April 2025), [finanztip.de](https://www.finanztip.de/pkv/pkv-wechsel/#:~:text=hast%20du%20aber%20familie%20oder%20planst) (January 2025), [FinanXpats](https://www.finanxpats.com/health-insurance/2025-health-insurance-guide-for-expats#:~:text=recommended%20for%20families) (April 2025)
 [^13]: [arzt-wirtschaft.de](https://www.arzt-wirtschaft.de/news/studie-zur-terminvergabe-und-erreichbarkeit-bei-fachaerzten) (2024), [sueddeutsche.de](https://www.sueddeutsche.de/wirtschaft/pkv-gkv-wartezeiten-krankenversicherung-private-krankenversicherung-li.3173323) (2024), [study](https://www.monitor-versorgungsforschung.de/abstract/einfluss-von-versichertenstatus-und-einkommen-auf-die-wartezeit-im-ambulanten-bereich/) (2013)
 [^14]: Citation needed - Switch from expat max 3 months after you start studying
 [^15]: [Seamus Wolf](/out/horizon65) (April 2025)
@@ -476,7 +476,7 @@ If you are new in Germany, [register as an organ donor](/guides/organ-donor). It
 [^17]: [blog.feather-insurance.com](https://feather-insurance.com/blog/how-are-private-health-insurance-payments-different-from-public-health-insurance/?utm_source=allaboutberlin)
 [^18]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/c2j339/is_pkv_still_a_terrible_idea_if_i_likely_wont/ermsqt7/)
 [^19]: [Feather Insurance](https://feather-insurance.com/blog/public-vs-private-health-insurance-germany/?utm_source=allaboutberlin#:~:text=for%20high%20earners%2C%20private%20insurance%20can%20be%20cheaper) (April 2025)
-[^20]: [Seamus Wolf](/out/horizon65) (April 2025)
+[^20]: [Seamus Wolf](/out/horizon65) (April 2025), [Mona Anbari](https://versicherungsbuero-weiss.com/) (April 2025)
 [^21]: [Emily Archer](https://www.archer-relocation.com/) (April 2025), multiple relocation consultants (2025)
 [^22]: [toytowngermany.com](https://web.archive.org/web/20220703211411/https://www.toytowngermany.com/forum/topic/383323-could-i-stay-on-travel-health-insurance-for-5-years/?page=2#comment-3746627)
 [^23]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/d2njye/advise_about_health_insurance_for_erasmus_student/ezvtjk1/), [krankenkassen.de](http://web.archive.org/web/20201204045304/https://www.krankenkassen.de/meine-krankenkasse/student/ehic/)
@@ -484,7 +484,7 @@ If you are new in Germany, [register as an organ donor](/guides/organ-donor). It
 [^25]: [tk.de](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-nicht-tk-versicherte/wie-hoch-sind-die-beitraege/freiwillige-mitglieder/haeufige-fragen-zu-beitraegen-fuer-freiwillig-versicherte/beitragshoehe-absolvent-freiwilliger-student-2006956#:~:text=nach%20dem%2030.%20geburtstag), [krankenkassen.de](https://www.krankenkassen.de/meine-krankenkasse/student/freiwillig/#:~:text=mit%20dem%20ende%20des%20semesters%2C%20in%20das%20der%2030.%20geburtstag%20fallt)
 [^26]: Citation needed - Expat coverage bad, prices raise quickly
 [^27]: [finanztip.de](https://www.finanztip.de/pkv/pkv-wechsel/#:~:text=gerade%20zu%20beginn%20deiner%20selbststandigkeit%20empfehlen%20wir%20dir%2C%20in%20der%20gkv%20zu%20bleiben) (January 2025), [Feather Insurance](https://feather-insurance.com/blog/public-vs-private-health-insurance-germany/?utm_source=allaboutberlin#:~:text=%20if%20you%E2%80%99re%20a%20high-earner) (April 2025), [Emily Archer](https://www.archer-relocation.com/) (April 2025)
-[^28]: [finanztip.de](https://www.finanztip.de/pkv/pkv-wechsel/#:~:text=idealerweise%20solltest%20du%20nicht%20alter%20als%2035%20bis%2040%20jahre%20sein) (January 2025), Mona Anbari, insurance broker (April 2025)
+[^28]: [finanztip.de](https://www.finanztip.de/pkv/pkv-wechsel/#:~:text=idealerweise%20solltest%20du%20nicht%20alter%20als%2035%20bis%2040%20jahre%20sein) (January 2025), [Mona Anbari](https://versicherungsbuero-weiss.com/) (April 2025)
 [^29]: [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/532620887206619/)
 [^30]: [Seamus Wolf](/out/horizon65) (April 2025), [Emily Archer](https://www.archer-relocation.com/) (April 2025)
 [^32]: [krankenkassen.de](http://web.archive.org/web/20201204045304/https://www.krankenkassen.de/meine-krankenkasse/student/ehic/)
@@ -499,6 +499,7 @@ If you are new in Germany, [register as an organ donor](/guides/organ-donor). It
 [^40]: [krankenkassen.de](https://www.krankenkassen.de/gesetzliche-krankenkassen/krankenkasse-beitrag/arbeitslose/#:~:text=kann%20sich%20weiter%20freiwillig%20versichern) (February 2025)
 [^41]: [krankenkassen.de](https://www.krankenkassen.de/gesetzliche-krankenkassen/krankenkasse-beitrag/arbeitslose/#:~:text=mit%20eintritt%20der%20versicherungspflicht%20wegen%20alg%20i%20muss%20die%20private%20krankenversicherung%20den%20pkv-vertrag%20im%20beginn%20der%20mitgliedschaft%20in%20einer%20gesetzlichen%20krankenkasse%20aufheben) (February 2025)
 [^42]: Citation needed - expat insurance while moving
+[^43]: [Mona Anbari](https://versicherungsbuero-weiss.com/) (April 2025)
 [^44]: Citation needed - Health check usually needed, [Seamus Wolf](/out/horizon65) (April 2025), [Emily Archer](https://www.archer-relocation.com/) (April 2025)
 [^45]: [Techniker Krankenkasse](https://www.tk.de/vertriebspartner/faq/beitragsuebersicht/elterngeld-und-elternzeit/elterngeld-und-elternzeit-2065854) (March 2025)
 [^46]: [Techniker Krankenkasse](https://www.tk.de/resource/blob/2033352/0a9809b0d119ad48bdd717ccf37391b2/beratungsblatt-beschaeftigung-von-studierenden-und-praktikanten-data.pdf) (January 2025), [Techniker Krankenkasse](https://www.tk.de/firmenkunden/versicherung/versicherung-faq/haeufige-fragen-zu-studenten-und-praktikanten/wer-kann-werkstudent-sein-2036666) (March 2025), [meinpraktikum.de](https://www.meinpraktikum.de/ratgeber/werkstudent/allgemeines) (March 2025)
@@ -527,8 +528,8 @@ If you are new in Germany, [register as an organ donor](/guides/organ-donor). It
 [^69]: Citation needed - free health insurance for voluntary interns making up to 325€ per month
 [^70]: Citation needed - public deductible per prescription
 [^71]: [Emily Archer](https://www.archer-relocation.com/) (April 2025)
-[^72]: Mona Anbari, insurance broker (April 2025)
-[^73]: Mona Anbari, insurance broker (April 2025)
+[^72]: [Mona Anbari](https://versicherungsbuero-weiss.com/) (April 2025)
+[^73]: [Mona Anbari](https://versicherungsbuero-weiss.com/) (April 2025)
 [^74]: [Seamus Wolf](/out/horizon65) (April 2025)
 [^75]: [Seamus Wolf](/out/horizon65) (April 2025)
 [^76]: [Seamus Wolf](/out/horizon65) (April 2025)
@@ -536,3 +537,4 @@ If you are new in Germany, [register as an organ donor](/guides/organ-donor). It
 [^78]: Citation needed - Cost of travel insurance, [Seamus Wolf](/out/horizon65) (April 2025)
 [^79]: [Emily Archer](https://www.archer-relocation.com/) (April 2025), [Seamus Wolf](/out/horizon65) (April 2025)
 [^80]: [Emily Archer](https://www.archer-relocation.com/) (April 2025)
+[^81]: [Mona Anbari](https://versicherungsbuero-weiss.com/) (April 2025)
