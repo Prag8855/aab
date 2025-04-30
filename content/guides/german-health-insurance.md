@@ -36,7 +36,7 @@ This guide explains how German health insurance works, and how to choose the bes
 
 Your health insurance is not tied to your job. Your employer does not decide what health insurance you can have. If you [lose your job](/guides/losing-your-job), you keep your health insurance.
 
-**If you earn over {{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}}€ per year**, you can choose [public](/glossary/gesetzliche%20Krankenversicherung) or [private health insurance](/glossary/private%20Krankenversicherung).[^3] Public health insurance costs [around {{GKV_MAX_COST_EMPLOYEE|cur}}€ per month](/glossary/Höchstbeitrag).[^1] Private health insurance might be cheaper.[^56]
+**If you earn over {{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}}€ per year**, you can choose [public](/glossary/gesetzliche%20Krankenversicherung) or [private health insurance](/glossary/private%20Krankenversicherung).[^3] Public health insurance costs [around {{GKV_MAX_COST_EMPLOYEE|cur}}€ per month](/glossary/Höchstbeitrag).[^1] Private health insurance might be cheaper.[^58]
 
 **If you earn {{GKV_MAX_INCOME|cur}}€ to {{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}}€ per year**, you can only choose [public health insurance](/glossary/gesetzliche%20Krankenversicherung).[^3] It costs [around {{GKV_MAX_COST_EMPLOYEE|cur}}€ per month](/glossary/Höchstbeitrag).
 
@@ -111,14 +111,7 @@ If it's a **mandatory internship before or after your studies**:[^65]
 - **If it pays more than {{GKV_AZUBI_FREIBETRAG|cur}}€ per month**  
     You have [the same options as other employees](#health-insurance-for-employees).
 
-If it's a **voluntary internship**:[^66]
-
-- **If it's unpaid**  
-    You have the [same options as an unemployed student](#health-insurance-for-unemployed-people).[^68] You can get [free health insurance](#free-health-insurance).
-- **If it pays up to {{GKV_AZUBI_FREIBETRAG|cur}} per month**  
-    You get free [public health insurance](/glossary/gesetzliche%20Krankenversicherung). Your employer pays for it.[^69]
-- **If it pays more than {{GKV_AZUBI_FREIBETRAG|cur}} per month**  
-    You have the [same options as other employees](#health-insurance-for-employees).[^67]
+If it's a **voluntary internship**, you have the [same options as an employee](#health-insurance-for-employees).[^67] If it's an unpaid internship, you have the [same options as an unemployed student](#health-insurance-for-unemployed-people); you get no help from your employer.[^68]
 
 ## Public health insurance
 
@@ -207,7 +200,7 @@ Public health insurance also covers your children and your unemployed spouse for
 ### Disadvantages of public health insurance
 
 - **It's expensive if you have a high income**  
-    If you have a high income, you pay more. If you are young and healthy when you join, private health insurance can be better *and* cheaper.[^63]
+    If you have a high income, you pay more. If you are young and healthy when you join, private health insurance can be better *and* cheaper.[^58]
 - **It's harder to get doctor appointments**[^13]  
     It's hard to find a psychotherapist, psychiatrist, gynaecologist, paediatrician or urologist. Those who accept public health insurance are booked for weeks or months. If you want to see a doctor quickly, private health insurance is much better.
 - **It does not cover special treatments**  
@@ -487,8 +480,8 @@ If you are new in Germany, [register as an organ donor](/guides/organ-donor). It
 [^28]: [finanztip.de](https://www.finanztip.de/pkv/pkv-wechsel/#:~:text=idealerweise%20solltest%20du%20nicht%20alter%20als%2035%20bis%2040%20jahre%20sein) (January 2025), [Mona Anbari](https://versicherungsbuero-weiss.com/) (April 2025)
 [^29]: [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/532620887206619/)
 [^30]: [Seamus Wolf](/out/horizon65) (April 2025), [Emily Archer](https://www.archer-relocation.com/) (April 2025)
+[^31]: [pkv.de](https://www.pkv.de/positionen/krankenversicherung-fuer-beamtinnen-und-beamte/) (April 2025)
 [^32]: [krankenkassen.de](http://web.archive.org/web/20201204045304/https://www.krankenkassen.de/meine-krankenkasse/student/ehic/)
-[^31]: Citation needed - Civil servants can get private
 [^33]: [Emily Archer](https://www.archer-relocation.com/) (April 2025)
 [^34]: [verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/krankenversicherung/familienversicherung-in-der-krankenkasse-wer-kostenlos-mit-rein-kommt-28982) (January 2025) [minijob-zentrale.de](https://www.minijob-zentrale.de/DE/meta/faq-bereich/urlaub-krankheit-und-arbeitsrechte/96_warum_kein_geld_f%C3%BCr_minijobber_aus_kv/faq_96_warum_kein_geld_f%C3%BCr_minijobber_aus_kv.html#:~:text=oft%20besteht%20eine%20beitragsfreie%20familienversicherung%20uber%20den%20ehepartner%20oder%20die%20eltern) (February 2025)
 [^35]: Personal experience (2025), [Seamus Wolf](/out/horizon65) (April 2025)
@@ -506,26 +499,22 @@ If you are new in Germany, [register as an organ donor](/guides/organ-donor). It
 [^47]: Citation needed - Foreign students need expat health insurance
 [^48]: [AOK](https://www.aok.de/pk/krankenkassenbeitraege/auszubildende/#:~:text=auszubildende%20mussen%20keine%20krankenkassenbeitrage%20zahlen%2C%20wenn%20ihr%20monatsverdienst%20nicht%20mehr%20als%20325%20euro%20betragt) (March 2025), [Check24](https://www.check24.de/gesetzliche-krankenversicherung/azubis/#:~:text=wer%20eine%20ausbildungsvergutung%20von%20weniger%20als%20325%20euro%20im%20monat%20erhalt%2C%20muss%20keine%20beitrage%20zur%20krankenversicherung%20zahlen.) (March 2025), [Techniker Krankenkasse](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-versicherte/veraenderung-berufliche-situation/versichert-als-schueler-und-auszubildende/beitraege-azubi-auszubildende-hoehe-beitragshoehe-2010362#:~:text=verdienen%20sie%20nicht%20mehr%20als%20325%20euro%20brutto%20monatlich%2C%20zahlt%20ihr%20arbeitgeber%20die%20gesamten%20beitrage.) (March 2025)
 [^49]: [Techniker Krankenkasse](https://www.tk-lex.tk.de/web/guest/externalcontent?_leongshared_serviceId=2010&_leongshared_externalcontentid=HI521237) (March 2025), [§20 Abs. 3 SGB IV](https://www.gesetze-im-internet.de/sgb_4/__20.html), [praktikum-guide.com](https://praktikum-guide.com/krankenversicherung-im-praktikum/#:~:text=bis%20325%20%E2%82%AC%20im-,monat,-Die%20Beitr%C3%A4ge%20zur) (April 2025)
-[^50]: Citation needed - [student-kv.de](https://www.student-kv.de/krankenkasse_versicherung_im_praktikum/#:~:text=Vorgeschriebenes%20Zwischenpraktikum%20mit-,entgelt,-Absolvierst%20du%20ein) (April 2023)
+[^50]: [student-kv.de](https://www.student-kv.de/krankenkasse_versicherung_im_praktikum/#:~:text=Vorgeschriebenes%20Zwischenpraktikum%20mit-,entgelt,-Absolvierst%20du%20ein) (April 2023)
 [^51]: [Seamus Wolf](/out/horizon65) (April 2025)
 [^52]: [azubi-krankenkasse.de](https://www.azubi-krankenkasse.de/hoehe-der-sozialversicherungsbeitraege/#:~:text=der%20allgemeine%20beitragssatz%20wird%20je%20zur%20halfte%20) (March 2025), [Check24](https://www.check24.de/gesetzliche-krankenversicherung/mindestbeitrag/#:~:text=es%20gibt%20fur%20sie%20keinen%20mindestbeitrag.) (March 2025), [gesetzliche-krankenkassen.de](https://www.gesetzliche-krankenkassen.de/auszubildende-azubis/#:~:text=wer%20zahlt%20meine%20krankenkasse%20in%20der%20ausbildung%3F) (March 2025)
 [^53]: [gesetzliche-krankenkassen.de](https://www.gesetzliche-krankenkassen.de/auszubildende-azubis/#:~:text=familienversicherung%20ist%20wahrend%20der%20ausbildung%20nicht%20moglich) (March 2025)
 [^54]: [gesetzliche-krankenkassen.de](https://www.gesetzliche-krankenkassen.de/auszubildende-azubis/#:~:text=eine%20versicherung%20in%20der%20privaten%20krankenversicherung%20(pkv)%20ist%20fur%20auszubildende%20nicht%20moglich) (March 2025)
 [^55]: [Emily Archer](https://www.archer-relocation.com/) says that the amount is not fixed, but that insurers need to see that you can cover your insurance bills (April 2025), [Seamus Wolf](/out/horizon65) (April 2025)
-[^56]: Citation needed - Private health insurer is usually cheaper for high earners
 [^57]: Citation needed - EU health insurance covers you until you start working
-[^58]: Citation needed - Private makes most sense for self-employed students
+[^58]: [Seamus Wolf](/out/horizon65) (April 2025), [finanztip](https://www.finanztip.de/pkv/pkv-kosten/#:~:text=fur%20junge%2C%20gesunde%20menschen%20ist%20die%20private%20krankenversicherung) (February 2025), [verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/krankenversicherung/private-krankenversicherung-nicht-fuer-jeden-sinnvoll-13884#:~:text=kann%20es%20unter%20finanziellen%20gesichtspunkten%20sinnvoll%20sein%2C%20in%20eine%20private%20krankenversicherung%20zu%20wechseln) (2024)
 [^59]: Citation needed - Public usually the best option for students, [finanztip.de](https://www.finanztip.de/pkv/pkv-wechsel/#:~:text=bleib%20fur%20die%20dauer%20des%20studiums%20besser%20in%20der%20gesetzlichen%20krankenversicherung) (January 2025)
 [^60]: [Seamus Wolf](/out/horizon65) (April 2025)
 [^61]: [Emily Archer](https://www.archer-relocation.com/) (April 2025), [Seamus Wolf](/out/horizon65) (April 2025), multiple insurance brokers (2024, 2025)
 [^62]: [250 to 350€ (FinanXpats)](https://www.finanxpats.com/health-insurance/2025-health-insurance-guide-for-expats#:~:text=pays%20around%20%E2%82%AC250%E2%80%93350%20per%20month) (April 2025), [250 to 390€ (Feather)](/out/feather-private) (April 2025), [260 to 350€ (Ottonova)](/out/ottonova) (April 2025)
-[^63]: Citation needed - Private better and cheaper for young, wealthy people
 [^64]: [praktikum-guide.com](https://praktikum-guide.com/krankenversicherung-im-praktikum/#:~:text=Pflichtpraktikum%20ohne-,vergutung,-Du%20bleibst%20beitragsfrei) (April 2025)
 [^65]: [DAK](https://www.dak.de/dak/leistungen/krankenversicherung-waehrend-eines-praktikums_63456#rtf-anchor-praktikum-vor-oder-nach-dem-studium) (April 2025), [check24.de](https://www.check24.de/krankenversicherung/praktikum/#:~:text=fur%20ein%20pflichtpraktikum%2C%20das%20vor%20oder%20nach%20dem%20studium%20absolviert%20wird) (April 2025)
-[^66]: [DAK](https://www.dak.de/dak/leistungen/krankenversicherung-waehrend-eines-praktikums_63456#:~:text=gelten%20die%20regelungen%20zu%20werkstudenten%20oder%20die%20zu%20geringfugig%20entlohnten) (April 2025), [meinpraktikum.de](https://www.meinpraktikum.de/ratgeber/krankenversicherung#freiwilliges-praktikum)
-[^67]: [meinpraktikum.de](https://www.meinpraktikum.de/ratgeber/krankenversicherung#freiwilliges-praktikum)
+[^67]: [meinpraktikum.de](https://www.meinpraktikum.de/ratgeber/krankenversicherung#freiwilliges-praktikum) (April 2025), [student-kv.de](https://www.student-kv.de/krankenkasse_versicherung_im_praktikum/#:~:text=4.%20nicht%20vorgeschriebenes%20vorpraktikum%2Fnachpraktikum) (April 2025)
 [^68]: [check24.de](https://www.check24.de/krankenversicherung/praktikum/#:~:text=fur%20die%20der%20praktikant%20kein%20entgelt%20erhalt) (April 2025)
-[^69]: Citation needed - free health insurance for voluntary interns making up to 325€ per month
 [^70]: Citation needed - public deductible per prescription
 [^71]: [Emily Archer](https://www.archer-relocation.com/) (April 2025)
 [^72]: [Mona Anbari](https://versicherungsbuero-weiss.com/) (April 2025)
