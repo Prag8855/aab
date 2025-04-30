@@ -30,7 +30,7 @@ Digital biometric pictures are valid for 6 months. You can use the same photo mu
 
 You can get biometric pictures...
 
-- At a dm drugstore{% include '_blocks/recommended.html' %}
+- At a dm drugstore{{RECOMMENDED}}
 - At the *[[Bürgeramt]]*
 - At the *[[Ausländerbehörde]]*
 - At a registered photographer
