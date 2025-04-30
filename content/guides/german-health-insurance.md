@@ -115,7 +115,7 @@ If it's a **voluntary internship**, you have the [same options as an employee](#
 
 ## Public health insurance
 
-89% of Germans have [public health insurance](/glossary/gesetzliche%20Krankenversicherung).[^2] It's often your only option.
+87% of Germans have [public health insurance](/glossary/gesetzliche%20Krankenversicherung).[^2] It's often your only option.
 
 Public health insurance is run by [non-profit insurance funds](/glossary/Krankenkasse), not by the state. The cost and coverage are almost the same for all public health insurers.
 
@@ -152,7 +152,7 @@ Your spouse's health insurance covers you for free if...[^34]
 - and you are not self-employed full time
 - and you are not a apprentice (*[[Azubi]]*)[^53]
 
-Your health insurance from another EU country covers you if...[^39]
+Your [health insurance from another EU country](#insurance-from-other-eu-countries) covers you if...
 
 - Your total income is under {{GKV_FAMILIENVERSICHERUNG_MAX_INCOME|cur}}€ per month ({{MINIJOB_MAX_INCOME|cur}}€ per month for a [minijob](/glossary/Minijob))
 - or you are a student, and you work 20 hours per week or less[^38]
@@ -216,7 +216,7 @@ The most important question is public or private health insurance.[^51] [Ask an 
 
 ## Private health insurance
 
-11% of Germans have [private health insurance](/glossary/private%20Krankenversicherung).[^16] You can get private health insurance if...
+13% of Germans have [private health insurance](/glossary/private%20Krankenversicherung).[^2] You can get private health insurance if...
 
 - You are and employee and you earn over {{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}}€ per year[^3]
 - or you are self-employed
@@ -315,7 +315,7 @@ If you develop a health condition while you have expat insurance, it can be real
 If you want to stay in Germany for a long time, don't stay on expat insurance. It's a bad idea because...
 
 - **The price goes up faster**  
-    The cost of expat insurance rises really quickly.[^22] If your expat insurance stays valid, it gets more and more expensive. In the long term, public and private health insurance are cheaper.[^10]
+    The cost of expat insurance rises really quickly. If your expat insurance stays valid, it gets more and more expensive. In the long term, public and private health insurance are cheaper.[^10]
 - **The coverage is not as good**  
     Check-ups and dentist visits are rarely covered.[^26] You usually pay a [deductible](/glossary/Selbstbeteiligung) for basic treatments. Long term treatments (like cancer) are 100% covered, without any deductible.
 
@@ -333,19 +333,23 @@ Travel health insurance covers medical emergencies when you visit another countr
 
 **If you move to Germany**, travel health insurance is not valid. You must get public, private or expat health insurance.
 
-**If you live in Germany**, travel health insurance covers you when you travel to other countries. If you have [private health insurance](/glossary/private%20Krankenversicherung), it usually includes travel insurance.
+**If you live in Germany**, travel health insurance covers medical emergencies when you when you travel to other countries. It costs around 40€ per year.[^78] If you have [private health insurance](/glossary/private%20Krankenversicherung), it usually includes travel insurance.
 
 **[Get travel health insurance ➞](#get-travel-health-insurance)**
 
 ### Insurance from other EU countries
 
-If you come from another EU country, you can use your European Health Insurance Card (EHIC) in Germany. If you get healthcare in Germany, your health insurance in your home country pays for it.
+If you come from another EU country, your health insurance might cover you in Germany. You can only get treatments that are covered by German public health insurance.[^32]
 
-- **If you stay in Germany temporarily**, your EHIC covers you. You do not need extra health insurance in Germany.
-- **If you are an Erasmus student from another EU country**, your EHIC covers you.[^23] You can use your EHIC card even if you study in Germany for your entire degree.[^32] You do not need extra German health insurance unless you start working.
-- **When you start working in Germany**, your EHIC does not cover you anymore. If you earn more than {{MINIJOB_MAX_INCOME|cur}}€ per month, you must get German health insurance.[^24]
+**If you visit Germany**, your EU health insurance covers medical emergencies. It only covers treatment that can't wait until you go home. For example, if you break your ankle on a hike, it covers the hospital visit.
 
-If health insurance is cheaper in your home country, using your EHIC is cheaper than getting German health insurance. You can save a lot of money every month with the EHIC.
+**If you study in Germany**, your EU health insurance covers you until you graduate, and during your job search after graduation.[^39] It covers all treatments that can't wait until you go back home after your studies. If you work in Germany and earn more than {{MINIJOB_MAX_INCOME|cur}}€ per month, you must get German health insurance.[^24]
+
+If health insurance is cheaper in your home country, EHIC is a good way to save money, because you don't need German health insurance.
+
+Apply for EHIC with your health insurance in your home country.[^16]
+
+**[More information about EHIC ➞](https://www.health-insurance.de/student/eu-eea/)**
 
 ## How to choose
 
@@ -388,10 +392,10 @@ The [immigration office](/glossary/Ausländerbehörde) *sometimes* accepts expat
 
 **[Health insurance for a visa application ➞](/guides/german-visa-health-insurance)**
 
-### Choose travel insurance if...
+### Choose travel health insurance if...
 
 - **You are a tourist**  
-    Travel insurance covers medical emergencies while you travel. It's very cheap.
+    Travel insurance covers medical emergencies while you travel. It's cheap.
 - **You apply for a [[Schengen visa]]**  
     You need valid health insurance to apply for the Schengen visa. [HanseMerkur's Visa Plus travel insurance](/out/hansemerkur-travel) works well for this.
 
@@ -432,13 +436,13 @@ I got my liability insurance from [Feather](/out/feather-haftpflicht). If you [a
 
 ### Get travel health insurance
 
-Travel health insurance covers medical emergencies when you visit other countries. It usually costs around 20€ per year.[^78]
+Travel health insurance covers medical emergencies when you visit other countries. It usually costs around 40€ per year.[^78]
 
 Your [private health insurance](/glossary/private%20Krankenversicherung) usually includes travel insurance, but you should get separate travel insurance anyway. If you see a doctor abroad, there is no [deductible](/glossary/Selbstbeteiligung), and you don't lose your no-claims bonus.[^20]
 
 Public health insurance rarely includes travel insurance.
 
-You can get travel insurance from [Envivas](https://www.envivas.de/en/insurance/travelling-abroad) or [Allianz](https://www.allianzdirect.de/reiseversicherung/). I have used both, and they worked when I needed them. Envivas paid for helicopter transport and a hospital stay when my friend got sick in the mountains. Some banks like [N26](/out/n26-metal) include travel insurance with their premium account.
+You can get travel insurance from [Feather](/out/feather-travel), [Envivas](https://www.envivas.de/en/insurance/travelling-abroad) or [Allianz](https://www.allianzdirect.de/reiseversicherung/). I have used Allianz and Envivas, and they worked when I needed them. Envivas paid for helicopter transport and a hospital stay when my friend got sick in the mountains. Some banks like [N26](/out/n26-metal) include travel insurance with their premium account.
 
 ### Other kinds of insurance
 
@@ -451,7 +455,7 @@ Read about the other [types of insurance in Germany](/guides/insurance). The nex
 If you are new in Germany, [register as an organ donor](/guides/organ-donor). It's really easy, and it can save another person's life.
 
 [^1]: [Techniker Krankenkasse](https://www.tk.de/techniker/versicherung/beitrag-zusatztarife/beitraege-beitragssaetze/beitragsbemessungsgrenzen-uebersicht-2021692), [versicherungspflichtgrenzen.de](https://www.versicherungspflichtgrenzen.de/html/pflichtversicherungsgrenzen.html#:~:text=beitragsbemessungsgrenzen%20in%20der%20gkv%3A%20)
-[^2]: [gesundheitsinformation.de](https://www.gesundheitsinformation.de/krankenversicherung-in-deutschland.html), [gkv-spitzenverband.de](https://www.gkv-spitzenverband.de/english/statutory_health_insurance/statutory_health_insurance.jsp)
+[^2]: [gesundheitsinformation.de](https://www.gesundheitsinformation.de/krankenversicherung-in-deutschland.html), [gkv-spitzenverband.de](https://www.gkv-spitzenverband.de/english/statutory_health_insurance/statutory_health_insurance.jsp), [verwaltung.bund.de](https://verwaltung.bund.de/leistungsverzeichnis/en/rechte-und-pflichten/102837937) (April 2025)
 [^3]: [versicherungspflichtgrenzen.de](https://www.versicherungspflichtgrenzen.de/html/pflichtversicherungsgrenzen.html)
 [^4]: [Techniker Krankenkasse](https://www.tk.de/vertriebspartner/faq/beitragsuebersicht/beitraege/freiwillig-versichert-2065864) (April 2025)
 [^5]: [Emily Archer](https://www.archer-relocation.com/) (April 2025), [Feather](https://feather-insurance.com/blog/germany-health-insurance-expats-guide/?utm_source=allaboutberlin#:~:text=this%20type%20of%20insurance%20is%20for%20visa%20applications%2C) (April 2025)
@@ -463,42 +467,41 @@ If you are new in Germany, [register as an organ donor](/guides/organ-donor). It
 [^11]: [krankenkassen.de](https://www.krankenkassen.de/gesetzliche-krankenkassen/krankenkasse-beitrag/arbeitslose/#:~:text=ubernimmt%20das%20jobcenter%20den%20allgemeinen%20krankenkassen-beitrag) (February 2025), [aok.de](https://www.aok.de/pk/krankenkassenbeitraege/arbeitslosigkeit/), [aok.de](https://www.aok.de/pk/krankenkassenbeitraege/arbeitslosigkeit/), [Arbeitsagentur](https://www.arbeitsagentur.de/arbeitslosengeld-2/gesundheit-versicherung)
 [^12]: [Seamus Wolf](/out/horizon65) (April 2025), [Mona Anbari](https://versicherungsbuero-weiss.com/) (April 2025), [Emily Archer](https://www.archer-relocation.com/) (April 2025), [finanztip.de](https://www.finanztip.de/pkv/pkv-wechsel/#:~:text=hast%20du%20aber%20familie%20oder%20planst) (January 2025), [FinanXpats](https://www.finanxpats.com/health-insurance/2025-health-insurance-guide-for-expats#:~:text=recommended%20for%20families) (April 2025)
 [^13]: [arzt-wirtschaft.de](https://www.arzt-wirtschaft.de/news/studie-zur-terminvergabe-und-erreichbarkeit-bei-fachaerzten) (2024), [sueddeutsche.de](https://www.sueddeutsche.de/wirtschaft/pkv-gkv-wartezeiten-krankenversicherung-private-krankenversicherung-li.3173323) (2024), [study](https://www.monitor-versorgungsforschung.de/abstract/einfluss-von-versichertenstatus-und-einkommen-auf-die-wartezeit-im-ambulanten-bereich/) (2013)
-[^14]: Citation needed - Switch from expat max 3 months after you start studying
+[^14]: [Feather Insurance](https://feather-insurance.com/blog/health-insurance-germany-freelancer-guide/?utm_source=allaboutberlin#:~:text=you%20must%20sign%20up%20for%20public%20insurance%20within%203%20months%20of%20ending%20your%20home%20country%E2%80%99s%20insurance) (April 2025)
 [^15]: [Seamus Wolf](/out/horizon65) (April 2025)
-[^16]: [gesundheitsinformation.de](https://www.gesundheitsinformation.de/krankenversicherung-in-deutschland.html)
+[^16]: [verwaltung.bund.de](https://verwaltung.bund.de/leistungsverzeichnis/en/rechte-und-pflichten/102837937)
 [^17]: [blog.feather-insurance.com](https://feather-insurance.com/blog/how-are-private-health-insurance-payments-different-from-public-health-insurance/?utm_source=allaboutberlin)
 [^18]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/c2j339/is_pkv_still_a_terrible_idea_if_i_likely_wont/ermsqt7/)
 [^19]: [Feather Insurance](https://feather-insurance.com/blog/public-vs-private-health-insurance-germany/?utm_source=allaboutberlin#:~:text=for%20high%20earners%2C%20private%20insurance%20can%20be%20cheaper) (April 2025)
 [^20]: [Seamus Wolf](/out/horizon65) (April 2025), [Mona Anbari](https://versicherungsbuero-weiss.com/) (April 2025)
 [^21]: [Emily Archer](https://www.archer-relocation.com/) (April 2025), multiple relocation consultants (2025)
-[^22]: [toytowngermany.com](https://web.archive.org/web/20220703211411/https://www.toytowngermany.com/forum/topic/383323-could-i-stay-on-travel-health-insurance-for-5-years/?page=2#comment-3746627)
-[^23]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/d2njye/advise_about_health_insurance_for_erasmus_student/ezvtjk1/), [krankenkassen.de](http://web.archive.org/web/20201204045304/https://www.krankenkassen.de/meine-krankenkasse/student/ehic/)
+[^22]: [care-concept.de](https://www.care-concept.de/expatriates_eng.php?navilang=eng#:~:text=up%20to%20a%20maximum%20of%205%20years) (April 2025), [mawista.com](https://www.mawista.com/en/tariffs/health-insurance-expatcare/) (April 2025), [Feather Insurance](https://feather-insurance.com/health-insurance/expat?utm_source=allaboutberlin#:~:text=maximum%20length%20of%20policy) (April 2025)
 [^24]: [faq.feather-insurance.com](https://faq.feather-insurance.com/en/articles/148524-health-insurance-for-short-term-and-seasonal-employment)
 [^25]: [tk.de](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-nicht-tk-versicherte/wie-hoch-sind-die-beitraege/freiwillige-mitglieder/haeufige-fragen-zu-beitraegen-fuer-freiwillig-versicherte/beitragshoehe-absolvent-freiwilliger-student-2006956#:~:text=nach%20dem%2030.%20geburtstag), [krankenkassen.de](https://www.krankenkassen.de/meine-krankenkasse/student/freiwillig/#:~:text=mit%20dem%20ende%20des%20semesters%2C%20in%20das%20der%2030.%20geburtstag%20fallt)
-[^26]: Citation needed - Expat coverage bad, prices raise quickly
+[^26]: [Mona Anbari](https://versicherungsbuero-weiss.com/) (April 2025)
 [^27]: [finanztip.de](https://www.finanztip.de/pkv/pkv-wechsel/#:~:text=gerade%20zu%20beginn%20deiner%20selbststandigkeit%20empfehlen%20wir%20dir%2C%20in%20der%20gkv%20zu%20bleiben) (January 2025), [Feather Insurance](https://feather-insurance.com/blog/public-vs-private-health-insurance-germany/?utm_source=allaboutberlin#:~:text=%20if%20you%E2%80%99re%20a%20high-earner) (April 2025), [Emily Archer](https://www.archer-relocation.com/) (April 2025)
 [^28]: [finanztip.de](https://www.finanztip.de/pkv/pkv-wechsel/#:~:text=idealerweise%20solltest%20du%20nicht%20alter%20als%2035%20bis%2040%20jahre%20sein) (January 2025), [Mona Anbari](https://versicherungsbuero-weiss.com/) (April 2025)
 [^29]: [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/532620887206619/)
 [^30]: [Seamus Wolf](/out/horizon65) (April 2025), [Emily Archer](https://www.archer-relocation.com/) (April 2025)
 [^31]: [pkv.de](https://www.pkv.de/positionen/krankenversicherung-fuer-beamtinnen-und-beamte/) (April 2025)
-[^32]: [krankenkassen.de](http://web.archive.org/web/20201204045304/https://www.krankenkassen.de/meine-krankenkasse/student/ehic/)
+[^32]: [verwaltung.bund.de](https://verwaltung.bund.de/leistungsverzeichnis/en/rechte-und-pflichten/102837937#:~:text=the%20ehic%20can%20only%20be%20used%20for%20treatments%20that%20are%20covered%20by%20statutory%20health%20insurance) (April 2025)
 [^33]: [Emily Archer](https://www.archer-relocation.com/) (April 2025)
 [^34]: [verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/krankenversicherung/familienversicherung-in-der-krankenkasse-wer-kostenlos-mit-rein-kommt-28982) (January 2025) [minijob-zentrale.de](https://www.minijob-zentrale.de/DE/meta/faq-bereich/urlaub-krankheit-und-arbeitsrechte/96_warum_kein_geld_f%C3%BCr_minijobber_aus_kv/faq_96_warum_kein_geld_f%C3%BCr_minijobber_aus_kv.html#:~:text=oft%20besteht%20eine%20beitragsfreie%20familienversicherung%20uber%20den%20ehepartner%20oder%20die%20eltern) (February 2025)
 [^35]: Personal experience (2025), [Seamus Wolf](/out/horizon65) (April 2025)
 [^36]: [minijob-zentrale.de](https://www.minijob-zentrale.de/DE/die-minijobs/versicherungen/detailseite.html#:~:text=ist%20ein%20solidarbeitrag.%20daraus%20entsteht%20fur%20den%20minijobber) (February 2025)
 [^37]: [verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/krankenversicherung/familienversicherung-in-der-krankenkasse-wer-kostenlos-mit-rein-kommt-28982#:~:text=schlie%C3%9Ft%20eine%20Familienversicherung-,aus.,-Man%20darf%20nicht) (February 2025)
 [^38]: Citation needed - EHIC for students
-[^39]: Citation needed - EHIC for students
+[^39]: [Feather Insurance](https://faq.feather-insurance.com/en/articles/29608-what-is-ehic-european-health-insurance-card#:~:text=coverage%20throughout%20the%20whole%20duration%20of%20studies) (2023)
 [^40]: [krankenkassen.de](https://www.krankenkassen.de/gesetzliche-krankenkassen/krankenkasse-beitrag/arbeitslose/#:~:text=kann%20sich%20weiter%20freiwillig%20versichern) (February 2025)
 [^41]: [krankenkassen.de](https://www.krankenkassen.de/gesetzliche-krankenkassen/krankenkasse-beitrag/arbeitslose/#:~:text=mit%20eintritt%20der%20versicherungspflicht%20wegen%20alg%20i%20muss%20die%20private%20krankenversicherung%20den%20pkv-vertrag%20im%20beginn%20der%20mitgliedschaft%20in%20einer%20gesetzlichen%20krankenkasse%20aufheben) (February 2025)
 [^42]: Citation needed - expat insurance while moving
 [^43]: [Mona Anbari](https://versicherungsbuero-weiss.com/) (April 2025)
-[^44]: Citation needed - Health check usually needed, [Seamus Wolf](/out/horizon65) (April 2025), [Emily Archer](https://www.archer-relocation.com/) (April 2025)
+[^44]: [Seamus Wolf](/out/horizon65) (April 2025), [Emily Archer](https://www.archer-relocation.com/) (April 2025)
 [^45]: [Techniker Krankenkasse](https://www.tk.de/vertriebspartner/faq/beitragsuebersicht/elterngeld-und-elternzeit/elterngeld-und-elternzeit-2065854) (March 2025)
 [^46]: [Techniker Krankenkasse](https://www.tk.de/resource/blob/2033352/0a9809b0d119ad48bdd717ccf37391b2/beratungsblatt-beschaeftigung-von-studierenden-und-praktikanten-data.pdf) (January 2025), [Techniker Krankenkasse](https://www.tk.de/firmenkunden/versicherung/versicherung-faq/haeufige-fragen-zu-studenten-und-praktikanten/wer-kann-werkstudent-sein-2036666) (March 2025), [meinpraktikum.de](https://www.meinpraktikum.de/ratgeber/werkstudent/allgemeines) (March 2025)
 [^47]: Citation needed - Foreign students need expat health insurance
 [^48]: [AOK](https://www.aok.de/pk/krankenkassenbeitraege/auszubildende/#:~:text=auszubildende%20mussen%20keine%20krankenkassenbeitrage%20zahlen%2C%20wenn%20ihr%20monatsverdienst%20nicht%20mehr%20als%20325%20euro%20betragt) (March 2025), [Check24](https://www.check24.de/gesetzliche-krankenversicherung/azubis/#:~:text=wer%20eine%20ausbildungsvergutung%20von%20weniger%20als%20325%20euro%20im%20monat%20erhalt%2C%20muss%20keine%20beitrage%20zur%20krankenversicherung%20zahlen.) (March 2025), [Techniker Krankenkasse](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-versicherte/veraenderung-berufliche-situation/versichert-als-schueler-und-auszubildende/beitraege-azubi-auszubildende-hoehe-beitragshoehe-2010362#:~:text=verdienen%20sie%20nicht%20mehr%20als%20325%20euro%20brutto%20monatlich%2C%20zahlt%20ihr%20arbeitgeber%20die%20gesamten%20beitrage.) (March 2025)
-[^49]: [Techniker Krankenkasse](https://www.tk-lex.tk.de/web/guest/externalcontent?_leongshared_serviceId=2010&_leongshared_externalcontentid=HI521237) (March 2025), [§20 Abs. 3 SGB IV](https://www.gesetze-im-internet.de/sgb_4/__20.html), [praktikum-guide.com](https://praktikum-guide.com/krankenversicherung-im-praktikum/#:~:text=bis%20325%20%E2%82%AC%20im-,monat,-Die%20Beitr%C3%A4ge%20zur) (April 2025)
+[^49]: [Techniker Krankenkasse](https://www.tk-lex.tk.de/web/guest/externalcontent?_leongshared_serviceId=2010&_leongshared_externalcontentid=HI521237) (March 2025), [§20 Abs. 3 SGB IV](https://www.gesetze-im-internet.de/sgb_4/__20.html), [praktikum-guide.com](https://praktikum-guide.com/krankenversicherung-im-praktikum/#:~:text=bis%20325%20%E2%82%AC%20im-,monat,-Die%20Beitr%C3%A4ge%20zur) (April 2025), [haufe.de](https://www.haufe.de/id/beitrag/praktikanten-beurteilung-in-der-entgeltabrechnung-HI1565146.html#:~:text=sofern%20das%20entgelt%20die%20geringverdienergrenze%20von%20325%20eur%20monatlich%20nicht%20ubersteigt) (April 2025)
 [^50]: [student-kv.de](https://www.student-kv.de/krankenkasse_versicherung_im_praktikum/#:~:text=Vorgeschriebenes%20Zwischenpraktikum%20mit-,entgelt,-Absolvierst%20du%20ein) (April 2023)
 [^51]: [Seamus Wolf](/out/horizon65) (April 2025)
 [^52]: [azubi-krankenkasse.de](https://www.azubi-krankenkasse.de/hoehe-der-sozialversicherungsbeitraege/#:~:text=der%20allgemeine%20beitragssatz%20wird%20je%20zur%20halfte%20) (March 2025), [Check24](https://www.check24.de/gesetzliche-krankenversicherung/mindestbeitrag/#:~:text=es%20gibt%20fur%20sie%20keinen%20mindestbeitrag.) (March 2025), [gesetzliche-krankenkassen.de](https://www.gesetzliche-krankenkassen.de/auszubildende-azubis/#:~:text=wer%20zahlt%20meine%20krankenkasse%20in%20der%20ausbildung%3F) (March 2025)
@@ -507,7 +510,7 @@ If you are new in Germany, [register as an organ donor](/guides/organ-donor). It
 [^55]: [Emily Archer](https://www.archer-relocation.com/) says that the amount is not fixed, but that insurers need to see that you can cover your insurance bills (April 2025), [Seamus Wolf](/out/horizon65) (April 2025)
 [^57]: Citation needed - EU health insurance covers you until you start working
 [^58]: [Seamus Wolf](/out/horizon65) (April 2025), [finanztip](https://www.finanztip.de/pkv/pkv-kosten/#:~:text=fur%20junge%2C%20gesunde%20menschen%20ist%20die%20private%20krankenversicherung) (February 2025), [verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/krankenversicherung/private-krankenversicherung-nicht-fuer-jeden-sinnvoll-13884#:~:text=kann%20es%20unter%20finanziellen%20gesichtspunkten%20sinnvoll%20sein%2C%20in%20eine%20private%20krankenversicherung%20zu%20wechseln) (2024)
-[^59]: Citation needed - Public usually the best option for students, [finanztip.de](https://www.finanztip.de/pkv/pkv-wechsel/#:~:text=bleib%20fur%20die%20dauer%20des%20studiums%20besser%20in%20der%20gesetzlichen%20krankenversicherung) (January 2025)
+[^59]: [finanztip.de](https://www.finanztip.de/pkv/pkv-wechsel/#:~:text=bleib%20fur%20die%20dauer%20des%20studiums%20besser%20in%20der%20gesetzlichen%20krankenversicherung) (January 2025)
 [^60]: [Seamus Wolf](/out/horizon65) (April 2025)
 [^61]: [Emily Archer](https://www.archer-relocation.com/) (April 2025), [Seamus Wolf](/out/horizon65) (April 2025), multiple insurance brokers (2024, 2025)
 [^62]: [250 to 350€ (FinanXpats)](https://www.finanxpats.com/health-insurance/2025-health-insurance-guide-for-expats#:~:text=pays%20around%20%E2%82%AC250%E2%80%93350%20per%20month) (April 2025), [250 to 390€ (Feather)](/out/feather-private) (April 2025), [260 to 350€ (Ottonova)](/out/ottonova) (April 2025)
@@ -515,7 +518,7 @@ If you are new in Germany, [register as an organ donor](/guides/organ-donor). It
 [^65]: [DAK](https://www.dak.de/dak/leistungen/krankenversicherung-waehrend-eines-praktikums_63456#rtf-anchor-praktikum-vor-oder-nach-dem-studium) (April 2025), [check24.de](https://www.check24.de/krankenversicherung/praktikum/#:~:text=fur%20ein%20pflichtpraktikum%2C%20das%20vor%20oder%20nach%20dem%20studium%20absolviert%20wird) (April 2025)
 [^67]: [meinpraktikum.de](https://www.meinpraktikum.de/ratgeber/krankenversicherung#freiwilliges-praktikum) (April 2025), [student-kv.de](https://www.student-kv.de/krankenkasse_versicherung_im_praktikum/#:~:text=4.%20nicht%20vorgeschriebenes%20vorpraktikum%2Fnachpraktikum) (April 2025)
 [^68]: [check24.de](https://www.check24.de/krankenversicherung/praktikum/#:~:text=fur%20die%20der%20praktikant%20kein%20entgelt%20erhalt) (April 2025)
-[^70]: Citation needed - public deductible per prescription
+[^70]: [online-pkv.de](https://www.online-pkv.de/pkv-bu-blog/gibt-es-eine-selbstbeteiligung-in-der-gkv/) (January 2025)
 [^71]: [Emily Archer](https://www.archer-relocation.com/) (April 2025)
 [^72]: [Mona Anbari](https://versicherungsbuero-weiss.com/) (April 2025)
 [^73]: [Mona Anbari](https://versicherungsbuero-weiss.com/) (April 2025)
@@ -523,7 +526,7 @@ If you are new in Germany, [register as an organ donor](/guides/organ-donor). It
 [^75]: [Seamus Wolf](/out/horizon65) (April 2025)
 [^76]: [Seamus Wolf](/out/horizon65) (April 2025)
 [^77]: [Seamus Wolf](/out/horizon65) (April 2025)
-[^78]: Citation needed - Cost of travel insurance, [Seamus Wolf](/out/horizon65) (April 2025)
+[^78]: [Feather Insurance](/out/feather-travel), [Seamus Wolf](/out/horizon65) (April 2025)
 [^79]: [Emily Archer](https://www.archer-relocation.com/) (April 2025), [Seamus Wolf](/out/horizon65) (April 2025)
 [^80]: [Emily Archer](https://www.archer-relocation.com/) (April 2025)
 [^81]: [Mona Anbari](https://versicherungsbuero-weiss.com/) (April 2025)
