@@ -203,7 +203,7 @@ describe('calculateHealthInsuranceContributions', () => {
 
 			it('does not pay the minijob tarif', notHasFlag(outputNoKids, 'minijob'));
 			it('can get private health insurance', hasFlag(outputNoKids, 'private'));
-			it('can use their EHIC card', hasFlag(outputNoKids, 'ehic'));
+			it('can\'t use their EHIC card', notHasFlag(output, 'ehic'));
 			it('can use their spouse\'s insurance', hasFlag(outputNoKids, 'familienversicherung-spouse'));
 			it('can use their parents\' insurance', hasFlag(outputNoKids, 'familienversicherung-parents'));
 			it('does not pay more for Pflegeversicherung if he has kids', notHasFlag(outputWithKids, 'pflegeversicherung-surcharge'));
@@ -233,7 +233,7 @@ describe('calculateHealthInsuranceContributions', () => {
 
 			it('does not pay the minijob tarif', notHasFlag(outputNoKids, 'minijob'));
 			it('can get private health insurance', hasFlag(outputNoKids, 'private'));
-			it('can use their EHIC card', hasFlag(outputNoKids, 'ehic'));
+			it('can\'t use their EHIC card', notHasFlag(outputNoKids, 'ehic'));
 			it('can use their spouse\'s insurance', hasFlag(outputNoKids, 'familienversicherung-spouse'));
 			it('can use their parents\' insurance', hasFlag(outputNoKids, 'familienversicherung-parents'));
 			it('does not pay more for Pflegeversicherung if he has kids', notHasFlag(outputWithKids, 'pflegeversicherung-surcharge'));
@@ -263,7 +263,7 @@ describe('calculateHealthInsuranceContributions', () => {
 
 			it('does not pay the minijob tarif', notHasFlag(outputNoKids, 'minijob'));
 			it('can get private health insurance', hasFlag(outputNoKids, 'private'));
-			it('can use their EHIC card', hasFlag(outputNoKids, 'ehic'));
+			it('can\'t use their EHIC card', notHasFlag(outputNoKids, 'ehic'));
 			it('can use their spouse\'s insurance', hasFlag(outputNoKids, 'familienversicherung-spouse'));
 			it('can\'t use their parents\' insurance', notHasFlag(outputNoKids, 'familienversicherung-parents'));
 			it('does not pay more for Pflegeversicherung if he has kids', notHasFlag(outputWithKids, 'pflegeversicherung-surcharge'));
@@ -293,7 +293,7 @@ describe('calculateHealthInsuranceContributions', () => {
 
 			it('does not pay the minijob tarif', notHasFlag(outputNoKids, 'minijob'));
 			it('can get private health insurance', hasFlag(outputNoKids, 'private'));
-			it('can use their EHIC card', hasFlag(outputNoKids, 'ehic'));
+			it('can\'t use their EHIC card', notHasFlag(outputNoKids, 'ehic'));
 			it('can use their spouse\'s insurance', hasFlag(outputNoKids, 'familienversicherung-spouse'));
 			it('can\'t use their parents\' insurance', notHasFlag(outputNoKids, 'familienversicherung-parents'));
 			it('does not pay more for Pflegeversicherung if he has kids', notHasFlag(outputWithKids, 'pflegeversicherung-surcharge'));
@@ -324,7 +324,7 @@ describe('calculateHealthInsuranceContributions', () => {
 
 			it('can\'t get the student tarif', hasFlag(outputNoKids, 'student-30plus'));
 			it('can get private health insurance', hasFlag(outputNoKids, 'private'));
-			it('can use their EHIC card', hasFlag(outputNoKids, 'ehic'));
+			it('can\'t use their EHIC card', notHasFlag(outputNoKids, 'ehic'));
 			it('can use their spouse\'s insurance', hasFlag(outputNoKids, 'familienversicherung-spouse'));
 			it('can\'t use their parents\' insurance', notHasFlag(outputNoKids, 'familienversicherung-parents'));
 			it('does not pay more for Pflegeversicherung if he has kids', notHasFlag(outputWithKids, 'pflegeversicherung-surcharge'));
@@ -593,7 +593,7 @@ describe('calculateHealthInsuranceContributions', () => {
 			});
 
 			it('can get private health insurance', hasFlag(outputNoKids, 'private'));
-			it('can use their EHIC card', hasFlag(outputNoKids, 'ehic'));
+			it('can\'t use their EHIC card', notHasFlag(output, 'ehic'));
 			it('can use their spouse\'s insurance', hasFlag(outputNoKids, 'familienversicherung-spouse'));
 			it('can use their parents\' insurance', hasFlag(outputNoKids, 'familienversicherung-parents'));
 		});
@@ -622,7 +622,7 @@ describe('calculateHealthInsuranceContributions', () => {
 			});
 
 			it('can get private health insurance', hasFlag(outputNoKids, 'private'));
-			it('can use their EHIC card', hasFlag(outputNoKids, 'ehic'));
+			it('can\'t use their EHIC card', notHasFlag(outputNoKids, 'ehic'));
 			it('can use their spouse\'s insurance', hasFlag(outputNoKids, 'familienversicherung-spouse'));
 			it('can use their parents\' insurance', hasFlag(outputNoKids, 'familienversicherung-parents'));
 		});
@@ -651,7 +651,7 @@ describe('calculateHealthInsuranceContributions', () => {
 			});
 
 			it('can get private health insurance', hasFlag(outputNoKids, 'private'));
-			it('can use their EHIC card', hasFlag(outputNoKids, 'ehic'));
+			it('can\'t use their EHIC card', notHasFlag(outputNoKids, 'ehic'));
 			it('can use their spouse\'s insurance', hasFlag(outputNoKids, 'familienversicherung-spouse'));
 			it('can\'t use their parents\' insurance', notHasFlag(outputNoKids, 'familienversicherung-parents'));
 			it('does not pay more for Pflegeversicherung if he has kids', notHasFlag(outputWithKids, 'pflegeversicherung-surcharge'));

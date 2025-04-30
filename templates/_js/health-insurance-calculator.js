@@ -582,7 +582,7 @@ function calculateHealthInsuranceContributions({age, monthlyIncome, occupation, 
 		flags.add('alg-i-buergergeld');
 	}
 
-	if (monthlyIncome <= taxes.maxMinijobIncome && !isSelfEmployed && !isAzubi) {
+	if (monthlyIncome === 0 && !isSelfEmployed && !isAzubi) {
 		flags.add('ehic');
 	}
 
