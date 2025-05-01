@@ -70,15 +70,8 @@
 				baseContributionPercentage() {
 					return (this.result.baseContribution.totalRate * 100).toFixed(1);
 				},
-				tarifName() {
-					return {
-						employee: 'employee',
-						midijob: 'midijob',
-						selfEmployed: 'self-employed',
-						selfPay: this.flag('minijob') ? 'minijob' : 'self-pay (freiwillig Versichert)',
-						student: 'student',
-						azubi: 'apprentice',
-					}[this.result.tarif];
+				showIncomeInput() {
+					return this.occupation !== 'unemployed';
 				},
 				ottonovaLink() {
 					if(this.occupation.startsWith('student')){
@@ -180,40 +173,57 @@
 	<template v-slot:header>Health insurance calculator</template>
 
 	<template v-if="stage === 'start'">
-		<div class="range-input">
-			<label :for="uid('range-income')">
-				<strong v-if="inputIncome === 0">No income</strong>
-				<template v-if="inputIncome > 0"><strong><eur :amount="inputIncome"></eur></strong>/{{ useMonthlyIncome ? 'month' : 'year' }}</template>
-				<template v-if="inputIncome >= incomeInputRange.max">or more</template>
-				<template v-if="inputIncome > incomeInputRange.min && inputIncome < incomeInputRange.max">{{ salaryOrIncome }}</template>
-			</label>
-			<span class="no-mobile no-print range-prefix">€</span>
-			<input
-				aria-label="Salary"
-				class="no-print"
-				:id="uid('range-income')"
-				v-model.number="inputIncome"
-				type="range"
-				:step="incomeInputRange.step"
-				:min="incomeInputRange.min"
-				:max="incomeInputRange.max"
-				tabindex="0">
-			<span class="no-mobile no-print range-suffix">€€€</span>
-		</div>
-		<div class="form-group">
-			<label :for="uid('occupation')">
-				Occupation
-			</label>
-			<occupation-input :id="uid('occupation')" v-model="occupation"></occupation-input>
-		</div>
-		<div class="form-group show-errors">
+		<h3>What is your occupation?</h3>
+		<ul class="guide-buttons" aria-label="Guides for basic goals">
+			<li>
+				<a @click.prevent="occupation = 'employee'; stage = 'questions'" href="#health-insurance-for-employees">
+					{% endraw %}{% include "_css/icons/job.svg" %}{% raw %}
+					Employee
+				</a>
+			</li>
+			<li>
+				<a @click.prevent="occupation = ''; stage = 'questions'" href="/guides/german-health-insurance#health-insurance-for-students">
+					{% endraw %}{% include "_css/icons/student.svg" %}{% raw %}
+					Student
+				</a>
+			</li>
+			<li>
+				<a @click.prevent="occupation = 'selfEmployed'; stage = 'questions'" href="/guides/german-health-insurance#health-insurance-for-freelancers">
+					{% endraw %}{% include "_css/icons/business.svg" %}{% raw %}
+					Self-employed
+				</a>
+			</li>
+			<li>
+				<a @click.prevent="occupation = ''; stage = 'questions'" href="/guides/german-health-insurance#health-insurance-for-an-internship">
+					{% endraw %}{% include "_css/icons/helper.svg" %}{% raw %}
+					Intern
+				</a>
+			</li>
+			<li>
+				<a @click.prevent="occupation = 'azubi'; stage = 'questions'" href="/guides/german-health-insurance#health-insurance-for-an-apprenticeship">
+					{% endraw %}{% include "_css/icons/helper.svg" %}{% raw %}
+					Apprentice
+				</a>
+			</li>
+			<li>
+				<a @click.prevent="occupation = 'unemployed'; stage = 'questions'" href="/guides/german-health-insurance#health-insurance-for-unemployed-people">
+					{% endraw %}{% include "_css/icons/visiting.svg" %}{% raw %}
+					Unemployed
+				</a>
+			</li>
+		</ul>
+	</template>
+
+	<template v-if="stage === 'questions'">
+		<h3>Tell us a bit more about you</h3>
+		<div class="form-group show-errors" v-if="showIncomeInput">
 			<label :for="uid('income')">
 				{{ salaryOrIncome === 'salary' ? 'Salary' : 'Income' }}
 			</label>
 			<div class="input-group">
 				<income-input :id="uid('income')" v-model="inputIncome"></income-input>
 				€
-				<button class="toggle" @click="toggleUseMonthlyIncome">per {{ useMonthlyIncome ? 'month' : 'year' }}</button>
+				<button class="toggle" @click.prevent="toggleUseMonthlyIncome">per {{ useMonthlyIncome ? 'month' : 'year' }}</button>
 				before taxes
 			</div>
 		</div>

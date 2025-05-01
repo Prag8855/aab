@@ -168,7 +168,7 @@ To open the doors, you might need to press a button near the doors.
 
 ### Rent a scooter
 
-You can rent electric scooters (🛴) from [Bolt](https://bolt.eu/en-de/scooters/), [Lime](https://www.li.me/en-de/) or [Voi](https://www.voi.com/city/berlin).{{ fail_on('2025-05-01') }} You do not need a driving licence. You can book all of them in the [Jelbi](https://www.jelbi.de/en/home/) app.
+You can rent electric scooters (🛴) from [Bolt](https://bolt.eu/en-de/scooters/), [Lime](https://www.li.me/en-de/) or [Voi](https://www.voi.com/city/berlin).{{ fail_on('2025-06-01') }} You do not need a driving licence. You can book all of them in the [Jelbi](https://www.jelbi.de/en/home/) app.
 
 ### Rent a moped
 
@@ -180,7 +180,7 @@ There are also [scooter rental businesses](https://www.google.com/maps?q=scooter
 
 Rent a car for a single ride with [Miles](https://miles-mobility.com/en-de/car-sharing/berlin) or [Share Now](https://www.share-now.com/de/en/berlin/). Miles cars are bookable in the [Jelbi](https://www.jelbi.de/en/home/) app.
 
-Rent a car for a few days with [Sixt](/out/sixt), [Avis](https://www.avis.de/), [Budget](https://www.budget.de/) or [Europcar](https://www.europcar.de/de-de).{{ fail_on('2025-05-01') }} [RentalCars.com](https://www.rentalcars.com/en/) can help you find a rental car.
+Rent a car for a few days with [Sixt](/out/sixt), [Avis](https://www.avis.de/), [Budget](https://www.budget.de/) or [Europcar](https://www.europcar.de/de-de).{{ fail_on('2025-06-01') }} [RentalCars.com](https://www.rentalcars.com/en/) can help you find a rental car.
 
 You need a valid driving licence to use those services. Car sharing services don't always accept non-EU licences, because they are only valid for 6 months after you move to Germany.
 
