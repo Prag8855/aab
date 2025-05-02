@@ -152,7 +152,7 @@
 
 	<template v-if="stage === 'start'">
 		<h3>What is your occupation?</h3>
-		<ul class="guide-buttons">
+		<ul class="button-grid">
 			<li>
 				<button @click.prevent="occupation = 'employee'; stage = 'questions'">
 					{% endraw %}{% include "_css/icons/job.svg" %}{% raw %}
@@ -242,7 +242,7 @@
 		<template v-if="showFreeOptions">
 			<h3>Free health insurance</h3>
 			<p>You have a low income, so you can get free <glossary term="gesetzliche Krankenversicherung">public health insurance</glossary>. <strong>This is the best option.</strong></p>
-			<div class="collapsible-options">
+			<div class="button-list">
 				<a v-if="flag('alg-i-buergergeld')" href="/guides/german-health-insurance#free-health-insurance" target="_blank">
 					{% endraw %}{% include "_css/icons/bank.svg" %}{% raw %}
 					<div>
@@ -299,7 +299,7 @@
 			</template>
 		</p>
 		<p>There are over 90 public health insurers. Their cost and coverage are similar. Barmer and Techniker Krankenkasse are the most popular options.</p>
-		<div class="collapsible-options">
+		<div class="button-list">
 			<a @click.prevent.prevent="stage = 'askABroker'" title="Ask a health insurance broker" href="/guides/german-health-insurance#insurance-brokers" target="_blank">
 				{% endraw %}{% include "_css/icons/help.svg" %}{% raw %}
 				<div>
@@ -334,7 +334,7 @@
 			<p>
 				<glossary term="private Krankenversicherung">Private health insurance</glossary> can be better and cheaper than public health insurance. It depends on your situation.
 			</p>
-			<div class="collapsible-options">
+			<div class="button-list">
 				<a @click.prevent.prevent="stage = 'askABroker'" title="Choose a health insurance broker" href="/guides/german-health-insurance#insurance-brokers" target="_blank">
 					{% endraw %}{% include "_css/icons/help.svg" %}{% raw %}
 					<div>
@@ -364,7 +364,7 @@
 		<template v-if="flag('ksk')">
 			<hr>
 			<h3>Other options</h3>
-			<div class="collapsible-options">
+			<div class="button-list">
 				<a title="Learn more about the KSK" href="/guides/ksk-kuenstlersozialkasse" target="_blank">
 					{% endraw %}{% include "_css/icons/liability.svg" %}{% raw %}
 					<div>

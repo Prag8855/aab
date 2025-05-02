@@ -1256,7 +1256,7 @@ sup:target a{
     > ol:not(.previews) > li, > :is(ol, ul) ol > li{
         @include list-marker-ol;
     }
-    > ul:not(.feedback-list, .guide-buttons) > li, > :is(ol, ul) ul > li{
+    > ul:not(.feedback-list, .button-grid) > li, > :is(ol, ul) ul > li{
         @include list-marker-ul;
     }
     li.checkbox{
@@ -2502,7 +2502,7 @@ collapsible, letter-generator, feedback-residence-permit{  // Vue element before
     }
 }
 
-.guide-buttons{
+.button-grid{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     gap: var(--m);
@@ -2837,7 +2837,7 @@ collapsible, letter-generator, feedback-residence-permit{  // Vue element before
     }
 }
 
-.collapsible-options{
+.button-list{
     @include text-block;
     margin-bottom: var(--xl-relative);
 

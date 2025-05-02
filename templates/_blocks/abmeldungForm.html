@@ -200,7 +200,7 @@
 		<h2>You are almost done!</h2>
 		<template v-if="peopleTriples.length > 1">
 			<p>Print the forms, sign them, and bring them to your <em>Abmeldung</em> appointment.</p>
-			<div class="collapsible-options">
+			<div class="button-list">
 				<button v-for="([person1, person2, person3], index) in peopleTriples" @click="generatePDF(person1, person2, person3)" :disabled="downloadInProgress">
 					{% endraw %}{% include "_css/icons/pdf.svg" %}{% raw %}
 					<div>
@@ -210,7 +210,7 @@
 				</button>
 			</div>
 		</template>
-		<div class="collapsible-options">
+		<div class="button-list">
 			<button v-if="peopleTriples.length === 1" @click="generatePDF(people[0], people[1], people[2])" :disabled="downloadInProgress">
 				{% endraw %}{% include "_css/icons/pdf.svg" %}{% raw %}
 				<div>
@@ -221,7 +221,7 @@
 		</div>
 		<h3>What to do next</h3>
 		<p>To deregister your address, you must send this form to the Bürgeramt. You can do this by email, by post or in person.</p>
-		<div class="collapsible-options">
+		<div class="button-list">
 			<a href="/guides/abmeldung-deregister-in-berlin#by-registered-mail" target="_blank">
 				{% endraw %}{% include "_css/icons/mail.svg" %}{% raw %}
 				<div>

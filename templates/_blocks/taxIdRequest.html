@@ -244,7 +244,7 @@
 		<h2>You are almost done!</h2>
 		<template v-if="people.length > 1">
 			<p>Print these forms, sign them, and send them to your <em>Finanzamt</em>.</p>
-			<div class="collapsible-options">
+			<div class="button-list">
 				<button :aria-labelledby="uid('h-btnDownload') + index" v-for="(person, index) in people" @click="generatePDF(person)" :disabled="downloadInProgress">
 					{% endraw %}{% include "_css/icons/pdf.svg" %}{% raw %}
 					<div>
@@ -253,7 +253,7 @@
 				</button>
 			</div>
 		</template>
-		<div class="collapsible-options">
+		<div class="button-list">
 			<button v-if="people.length === 1" @click="generatePDF(people[0], people[1])" :disabled="downloadInProgress" :aria-labelledby="uid('h-btnDownload')">
 				{% endraw %}{% include "_css/icons/pdf.svg" %}{% raw %}
 				<div>
@@ -263,7 +263,7 @@
 			</button>
 		</div>
 		<h3>What to do next</h3>
-		<div class="collapsible-options">
+		<div class="button-list">
 			<a href="/docs/010250-antrag-auf-vergabe-einer-steuerlichen-id#how-to-send-this-form" target="_blank">
 				{% endraw %}{% include "_css/icons/letter.svg" %}{% raw %}
 				<div>

@@ -286,7 +286,7 @@
 		<h2>You are almost done!</h2>
 		<template v-if="peoplePairs.length > 1">
 			<p>Print these forms, sign them, and bring them to your <em>Anmeldung</em> appointment.</p>
-			<div class="collapsible-options">
+			<div class="button-list">
 				<button :aria-labelledby="uid('h-btnDownload') + index" v-for="([person1, person2], index) in peoplePairs" @click="generatePDF(person1, person2)" :disabled="downloadInProgress">
 					{% endraw %}{% include "_css/icons/pdf.svg" %}{% raw %}
 					<div>
@@ -296,7 +296,7 @@
 				</button>
 			</div>
 		</template>
-		<div class="collapsible-options">
+		<div class="button-list">
 			<button v-if="peoplePairs.length === 1" @click="generatePDF(people[0], people[1])" :disabled="downloadInProgress" :aria-labelledby="uid('h-btnDownload')">
 				{% endraw %}{% include "_css/icons/pdf.svg" %}{% raw %}
 				<div>
@@ -307,7 +307,7 @@
 		</div>
 		<h3>What to do next</h3>
 		<p>To register your address, you must book a Bürgeramt appointment and go there in person. You can also send someone else to do it for you.</p>
-		<div class="collapsible-options">
+		<div class="button-list">
 			<a href="/guides/anmeldung-in-english-berlin#get-a-burgeramt-appointment" target="_blank">
 				{% endraw %}{% include "_css/icons/calendar.svg" %}{% raw %}
 				<div>
