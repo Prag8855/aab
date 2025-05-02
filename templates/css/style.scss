@@ -1257,7 +1257,7 @@ sup:target a{
     > ol:not(.previews) > li, > :is(ol, ul) ol > li{
         @include list-marker-ol;
     }
-    > ul:not(.feedback-list) > li, > :is(ol, ul) ul > li{
+    > ul:not(.feedback-list, .guide-buttons) > li, > :is(ol, ul) ul > li{
         @include list-marker-ul;
     }
     li.checkbox{
@@ -1821,7 +1821,7 @@ input[type=range] {
 
 .input-instructions{
     font-size: var(--f-s);
-    flex: 1 0 100%;
+    flex: 1 0 100%!important;
     line-height: var(--line-height-label);
 
     &.error{
@@ -2527,7 +2527,7 @@ collapsible, letter-generator, feedback-residence-permit{  // Vue element before
         padding:0;
         margin:0;
 
-        > a{
+        > *{
             @include box-m;
             @include box-clickable;
             display: block;
