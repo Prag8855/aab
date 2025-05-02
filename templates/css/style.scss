@@ -1647,7 +1647,7 @@ input[type=range] {
     }
 }
 
-:is(.button, .tags > *){
+.button{
     @include text;
     @include box-s;
     @include box-clickable;
@@ -3105,23 +3105,6 @@ collapsible, letter-generator, feedback-residence-permit{  // Vue element before
 @keyframes fade-in {
     0% { opacity: 0; }
     100% { opacity: 1; }
-}
-
-.tags{
-    display: flex;
-    flex-wrap: wrap;
-    gap: var(--s);
-
-    > * {
-        font-size: var(--f-s);
-        box-shadow: none;
-        padding: var(--xs) var(--s);
-        white-space: nowrap;
-        &.active{
-            border-color: var(--c-border-hint);
-            background: var(--c-bg-widget);
-        }
-    }
 }
 
 @include only-print{
