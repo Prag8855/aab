@@ -53,7 +53,7 @@ Vue.component('letter-generator', {
 			</summary>
 			<div class="buttons bar no-print" v-if="stage === 'printPreview'">
 				<button class="button" @click="stage = 'edit'">
-					<i class="icon left"></i> Customize
+					<i class="icon left" aria-hidden="true"></i> Customize
 				</button>
 				<div class="tabs">
 					<button @click="language = 'en'" tabindex="0" :disabled="language === 'en'">
@@ -93,7 +93,7 @@ Vue.component('letter-generator', {
 				<hr>
 				<div class="buttons bar no-print">
 					<button class="button primary" @click="stage = 'edit'" >
-						{{ printable ? "Customize and print" : "Customize" }} <i class="icon right"></i>
+						{{ printable ? "Customize and print" : "Customize" }} <i class="icon right" aria-hidden="true"></i>
 					</button>
 				</div>
 			</template>
@@ -105,13 +105,13 @@ Vue.component('letter-generator', {
 				<hr>
 				<div class="buttons bar no-print">
 					<button v-if="printable" class="button" @click="stage = 'start'">
-						<i class="icon left"></i> Back
+						<i class="icon left" aria-hidden="true"></i> Back
 					</button>
 					<button v-if="printable" class="button primary" @click="language = 'de'; stage = 'printPreview'">
-						Preview and print <i class="icon right"></i>
+						Preview and print <i class="icon right" aria-hidden="true"></i>
 					</button>
 					<button v-if="!printable" class="button primary" @click="language = 'de'; stage = 'start'">
-						<i class="icon left"></i> Preview
+						<i class="icon left" aria-hidden="true"></i> Preview
 					</button>
 				</div>
 			</template>
