@@ -9,7 +9,7 @@ Related_reviews:
     reviews/german-health-insurance/mona-anbari.md
 ---
 
-When you [move to Germany](/guides/moving-to-berlin), you must choose your health insurance. All German residents need health insurance. It pays for your healthcare when you are sick. You need it to apply for a [residence permit](/glossary/Aufenthaltstitel), and to [start working](/guides/find-a-job-in-berlin#start-working).
+When you [move to Germany](/guides/moving-to-berlin), you must get health insurance. All German residents need health insurance. It pays for your healthcare when you are sick. You need it to apply for a [residence permit](/glossary/Aufenthaltstitel), and to [start working](/guides/find-a-job-in-berlin#start-working).
 
 This guide explains how German health insurance works, and how to choose the best health insurance for your needs.
 
@@ -343,9 +343,7 @@ If you come from another EU country, your health insurance might cover you in Ge
 
 **If you study in Germany**, your EU health insurance covers you until you graduate, and during your job search after graduation.[^39] It covers all treatments that can't wait until you go back home after your studies. If you work in Germany, you must get German health insurance.[^42]
 
-If health insurance is cheaper in your home country, EHIC is a good way to save money, because you don't need German health insurance.
-
-Apply for EHIC with your health insurance in your home country.[^16]
+Apply for EHIC with your health insurance in your home country.[^16] If health insurance is cheaper in your home country, EHIC is a good way to save money, because you don't need German health insurance.
 
 **[More information about EHIC ➞](https://www.health-insurance.de/student/eu-eea/)**
 
