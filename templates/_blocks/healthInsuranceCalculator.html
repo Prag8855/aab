@@ -152,7 +152,7 @@
 
 	<template v-if="stage === 'start'">
 		<h3>What is your occupation?</h3>
-		<ul class="guide-buttons" aria-label="Guides for basic goals">
+		<ul class="guide-buttons">
 			<li>
 				<button @click.prevent="occupation = 'employee'; stage = 'questions'">
 					{% endraw %}{% include "_css/icons/job.svg" %}{% raw %}
@@ -229,7 +229,7 @@
 			</select>
 		</div>
 		<hr>
-		<div class="buttons">
+		<div class="button-bar">
 			<button class="button" @click.prevent="stage = 'start'">
 				<i class="icon left" aria-hidden="true"></i> Go back
 			</button>
@@ -375,7 +375,7 @@
 			</div>
 		</template>
 
-		<div class="buttons">
+		<div class="button-bar">
 			<button class="button" @click.prevent="stage = 'questions'">
 				<i class="icon left" aria-hidden="true"></i> Go back
 			</button>
@@ -397,7 +397,7 @@
 			</button>
 		</template>
 		<template v-slot:after-confirmation>
-			<div class="buttons">
+			<div class="button-bar">
 				<button class="button" @click.prevent="stage = 'start'">
 					<i class="icon left" aria-hidden="true"></i> Go back
 				</button>

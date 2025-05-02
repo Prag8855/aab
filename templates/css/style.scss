@@ -1687,29 +1687,6 @@ input[type=range] {
     }
 }
 
-.buttons{
-    @include text-block;
-    display: flex;
-    gap: var(--m);
-    justify-content: center;
-    &.left{
-        justify-content: flex-start;
-    }
-
-    > *{flex: 0 0 auto;}
-
-    @include only-phone{ // Vertical buttons
-        flex-wrap: wrap;
-        gap: var(--s);
-
-        > *{
-            flex: 1 0 auto;
-            max-width: 15rem;
-            margin: 0 auto;
-        }
-    }
-}
-
 .form-group{
     @include text-block;
     align-items: flex-start; // Can't use baseline because of safari bug
@@ -2158,6 +2135,29 @@ collapsible, letter-generator, feedback-residence-permit{  // Vue element before
     + h2{
         border-top: 0;
         padding-top: 0;
+    }
+
+    .button-bar{
+        @include text-block;
+        display: flex;
+        gap: var(--m);
+        justify-content: center;
+        &.left{
+            justify-content: flex-start;
+        }
+
+        > *{flex: 0 0 auto;}
+
+        @include only-phone{ // Vertical buttons
+            flex-wrap: wrap;
+            gap: var(--s);
+
+            > *{
+                flex: 1 0 auto;
+                max-width: 15rem;
+                margin: 0 auto;
+            }
+        }
     }
 }
 

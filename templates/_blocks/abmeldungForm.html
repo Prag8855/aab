@@ -253,7 +253,7 @@
 		</div>
 	</template>
 	<hr>
-	<div class="buttons">
+	<div class="button-bar">
 		<button v-if="stageIndex === 0" class="button primary" @click="stageIndex += 1">Start <i class="icon right" aria-hidden="true"></i></button>
 		<button v-if="stageIndex > 0" class="button" @click="previousStage"><i class="icon left" aria-hidden="true"></i> Go back</button>
 		<button v-if="stage === 'addPeople'" class="button" @click="addPerson"><i class="icon person" aria-hidden="true"></i> Add another person</button>

@@ -51,7 +51,7 @@ Vue.component('letter-generator', {
 				<small>Letter generator</small>
 				<slot name="header"></slot>
 			</summary>
-			<div class="buttons no-print" v-if="stage === 'printPreview'">
+			<div class="button-bar no-print" v-if="stage === 'printPreview'">
 				<button class="button" @click="stage = 'edit'">
 					<i class="icon left"></i> Customize
 				</button>
@@ -91,7 +91,7 @@ Vue.component('letter-generator', {
 			</p>
 			<template v-if="stage === 'start'">
 				<hr>
-				<div class="buttons no-print">
+				<div class="button-bar no-print">
 					<button class="button primary" @click="stage = 'edit'" >
 						{{ printable ? "Customize and print" : "Customize" }} <i class="icon right"></i>
 					</button>
@@ -103,7 +103,7 @@ Vue.component('letter-generator', {
 				<hr>
 				<slot name="form" :language="language" :stage="stage"></slot>
 				<hr>
-				<div class="buttons no-print">
+				<div class="button-bar no-print">
 					<button v-if="printable" class="button" @click="stage = 'start'">
 						<i class="icon left"></i> Back
 					</button>
