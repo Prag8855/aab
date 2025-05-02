@@ -200,60 +200,72 @@
 		<h2>You are almost done!</h2>
 		<template v-if="peopleTriples.length > 1">
 			<p>Print the forms, sign them, and bring them to your <em>Abmeldung</em> appointment.</p>
-			<div class="button-list">
-				<button v-for="([person1, person2, person3], index) in peopleTriples" @click="generatePDF(person1, person2, person3)" :disabled="downloadInProgress">
+			<ul class="buttons list">
+				<li>
+					<button v-for="([person1, person2, person3], index) in peopleTriples" @click="generatePDF(person1, person2, person3)" :disabled="downloadInProgress">
+						{% endraw %}{% include "_css/icons/pdf.svg" %}{% raw %}
+						<div>
+							<h3>Download part {{ index + 1 }} of the form</h3>
+							<p v-if="person1.firstName">For {{ person1.firstName }}<template v-if="person2 && !person3"> and {{ person2.firstName }}</template><template v-if="person2 && person3">, {{ person2.firstName }} and {{ person3.firstName }}</template>.</p>
+						</div>
+					</button>
+				</li>
+			</ul>
+		</template>
+		<ul class="buttons list">
+			<li>
+				<button v-if="peopleTriples.length === 1" @click="generatePDF(people[0], people[1], people[2])" :disabled="downloadInProgress">
 					{% endraw %}{% include "_css/icons/pdf.svg" %}{% raw %}
 					<div>
-						<h3>Download part {{ index + 1 }} of the form</h3>
-						<p v-if="person1.firstName">For {{ person1.firstName }}<template v-if="person2 && !person3"> and {{ person2.firstName }}</template><template v-if="person2 && person3">, {{ person2.firstName }} and {{ person3.firstName }}</template>.</p>
+						<h3>Download the filled form</h3>
+						<p>Print this form, sign it, then send it to the <em>Bürgeramt</em>.</p>
 					</div>
 				</button>
-			</div>
-		</template>
-		<div class="button-list">
-			<button v-if="peopleTriples.length === 1" @click="generatePDF(people[0], people[1], people[2])" :disabled="downloadInProgress">
-				{% endraw %}{% include "_css/icons/pdf.svg" %}{% raw %}
-				<div>
-					<h3>Download the filled form</h3>
-					<p>Print this form, sign it, then send it to the <em>Bürgeramt</em>.</p>
-				</div>
-			</button>
-		</div>
+			</li>
+		</ul>
 		<h3>What to do next</h3>
 		<p>To deregister your address, you must send this form to the Bürgeramt. You can do this by email, by post or in person.</p>
-		<div class="button-list">
-			<a href="/guides/abmeldung-deregister-in-berlin#by-registered-mail" target="_blank">
-				{% endraw %}{% include "_css/icons/mail.svg" %}{% raw %}
-				<div>
-					<h3>Send the Abmeldung form</h3>
-					<p>Deregister your address by post or by email. It's easier.</p>
-				</div>
-			</a>
-			<a href="/guides/abmeldung-deregister-in-berlin#in-person-at-the-burgeramt" target="_blank">
-				{% endraw %}{% include "_css/icons/calendar.svg" %}{% raw %}
-				<div>
-					<h3>Book a Bürgeramt appointment</h3>
-					<p>Deregister your address in person, get the deregistration certificate faster.</p>
-				</div>
-			</a>
-			<a href="/out/deregistrationde-abmeldung" target="_blank">
-				{% endraw %}{% include "_css/icons/sendsomeone.svg" %}{% raw %}
-				<div>
-					<h3>Pay someone to deregister you</h3>
-					<p>Pay someone to book your appointment, go to the Bürgeramt and do your Abmeldung. It's easier, and you get your deregistration certificate by email.</p>
-				</div>
-			</a>
-			<a href="/donate" target="_blank">
-				{% endraw %}{% include "_css/icons/beers.svg" %}{% raw %}
-				<div>
-					<h3>Support this website</h3>
-					<p>Donate a few euros to help me build more free tools.</p>
-				</div>
-			</a>
-		</div>
+		<ul class="buttons list">
+			<li>
+				<a href="/guides/abmeldung-deregister-in-berlin#by-registered-mail" target="_blank">
+					{% endraw %}{% include "_css/icons/mail.svg" %}{% raw %}
+					<div>
+						<h3>Send the Abmeldung form</h3>
+						<p>Deregister your address by post or by email. It's easier.</p>
+					</div>
+				</a>
+			</li>
+			<li>
+				<a href="/guides/abmeldung-deregister-in-berlin#in-person-at-the-burgeramt" target="_blank">
+					{% endraw %}{% include "_css/icons/calendar.svg" %}{% raw %}
+					<div>
+						<h3>Book a Bürgeramt appointment</h3>
+						<p>Deregister your address in person, get the deregistration certificate faster.</p>
+					</div>
+				</a>
+			</li>
+			<li>
+				<a href="/out/deregistrationde-abmeldung" target="_blank">
+					{% endraw %}{% include "_css/icons/sendsomeone.svg" %}{% raw %}
+					<div>
+						<h3>Pay someone to deregister you</h3>
+						<p>Pay someone to book your appointment, go to the Bürgeramt and do your Abmeldung. It's easier, and you get your deregistration certificate by email.</p>
+					</div>
+				</a>
+			</li>
+			<li>
+				<a href="/donate" target="_blank">
+					{% endraw %}{% include "_css/icons/beers.svg" %}{% raw %}
+					<div>
+						<h3>Support this website</h3>
+						<p>Donate a few euros to help me build more free tools.</p>
+					</div>
+				</a>
+			</li>
+		</ul>
 	</template>
 	<hr>
-	<div class="button-bar">
+	<div class="buttons bar">
 		<button v-if="stageIndex === 0" class="button primary" @click="stageIndex += 1">Start <i class="icon right" aria-hidden="true"></i></button>
 		<button v-if="stageIndex > 0" class="button" @click="previousStage"><i class="icon left" aria-hidden="true"></i> Go back</button>
 		<button v-if="stage === 'addPeople'" class="button" @click="addPerson"><i class="icon person" aria-hidden="true"></i> Add another person</button>

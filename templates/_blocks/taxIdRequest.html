@@ -244,44 +244,52 @@
 		<h2>You are almost done!</h2>
 		<template v-if="people.length > 1">
 			<p>Print these forms, sign them, and send them to your <em>Finanzamt</em>.</p>
-			<div class="button-list">
-				<button :aria-labelledby="uid('h-btnDownload') + index" v-for="(person, index) in people" @click="generatePDF(person)" :disabled="downloadInProgress">
+			<ul class="buttons list">
+				<li>
+					<button :aria-labelledby="uid('h-btnDownload') + index" v-for="(person, index) in people" @click="generatePDF(person)" :disabled="downloadInProgress">
+						{% endraw %}{% include "_css/icons/pdf.svg" %}{% raw %}
+						<div>
+							<h3 :id="uid('h-btnDownload') + index">Download the application form for {{ person.firstName }}</h3>
+						</div>
+					</button>
+				</li>
+			</ul>
+		</template>
+		<ul class="buttons list">
+			<li>
+				<button v-if="people.length === 1" @click="generatePDF(people[0], people[1])" :disabled="downloadInProgress" :aria-labelledby="uid('h-btnDownload')">
 					{% endraw %}{% include "_css/icons/pdf.svg" %}{% raw %}
 					<div>
-						<h3 :id="uid('h-btnDownload') + index">Download the application form for {{ person.firstName }}</h3>
+						<h3 :id="uid('h-btnDownload')">Download your application form</h3>
+						<p>Print and sign this form, and send it to your local <em>Finanzamt</em>.</p>
 					</div>
 				</button>
-			</div>
-		</template>
-		<div class="button-list">
-			<button v-if="people.length === 1" @click="generatePDF(people[0], people[1])" :disabled="downloadInProgress" :aria-labelledby="uid('h-btnDownload')">
-				{% endraw %}{% include "_css/icons/pdf.svg" %}{% raw %}
-				<div>
-					<h3 :id="uid('h-btnDownload')">Download your application form</h3>
-					<p>Print and sign this form, and send it to your local <em>Finanzamt</em>.</p>
-				</div>
-			</button>
-		</div>
+			</li>
+		</ul>
 		<h3>What to do next</h3>
-		<div class="button-list">
-			<a href="/docs/010250-antrag-auf-vergabe-einer-steuerlichen-id#how-to-send-this-form" target="_blank">
-				{% endraw %}{% include "_css/icons/letter.svg" %}{% raw %}
-				<div>
-					<h3>Submit your {{ people.length > 1 ? 'forms' : 'form' }}</h3>
-					<p>Learn how to send {{ people.length > 1 ? 'these forms' : 'this form' }} to the Finanzamt.</p>
-				</div>
-			</a>
-			<a href="/donate" target="_blank">
-				{% endraw %}{% include "_css/icons/beers.svg" %}{% raw %}
-				<div>
-					<h3>Support this website</h3>
-					<p>Donate a few euros to help me build more free tools.</p>
-				</div>
-			</a>
-		</div>
+		<ul class="buttons list">
+			<li>
+				<a href="/docs/010250-antrag-auf-vergabe-einer-steuerlichen-id#how-to-send-this-form" target="_blank">
+					{% endraw %}{% include "_css/icons/letter.svg" %}{% raw %}
+					<div>
+						<h3>Submit your {{ people.length > 1 ? 'forms' : 'form' }}</h3>
+						<p>Learn how to send {{ people.length > 1 ? 'these forms' : 'this form' }} to the Finanzamt.</p>
+					</div>
+				</a>
+			</li>
+			<li>
+				<a href="/donate" target="_blank">
+					{% endraw %}{% include "_css/icons/beers.svg" %}{% raw %}
+					<div>
+						<h3>Support this website</h3>
+						<p>Donate a few euros to help me build more free tools.</p>
+					</div>
+				</a>
+			</li>
+		</ul>
 	</template>
 	<hr>
-	<div class="button-bar">
+	<div class="buttons bar">
 		<button v-if="stageIndex === 0" class="button primary" @click="stageIndex += 1">Start <i class="icon right" aria-hidden="true"></i></button>
 		<button v-if="stageIndex > 0" class="button" @click="previousStage"><i class="icon left" aria-hidden="true"></i> Go back</button>
 		<button v-if="stage === 'addPeople'" class="button" @click="addPerson"><i class="icon person" aria-hidden="true"></i> Add another person</button>

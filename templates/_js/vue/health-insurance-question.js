@@ -167,7 +167,7 @@ Vue.component('health-insurance-question', {
 						<span class="input-instructions" :id="uid('instructions-age')">Your age affects your health insurance options.</span>
 					</label>
 				</div>
-				<div class="button-bar">
+				<div class="buttons bar">
 					<slot name="form-buttons"></slot>
 					<button class="button primary no-print" @click="submitForm" :disabled="isLoading" :class="{loading: isLoading}">Send question</button>
 				</div>

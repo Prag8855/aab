@@ -289,7 +289,7 @@ Vue.component('feedback-residence-permit', {
 			</template>
 			<template v-if="showRestOfForm && stage !== 'finish'">
 				<hr>
-				<div class="button-bar" v-if="showRestOfForm && stage !== 'finish'">
+				<div class="buttons bar" v-if="showRestOfForm && stage !== 'finish'">
 					<button v-if="stage === 'email' || stage === 'error'" class="button" @click="goToStage('start')"><i class="icon left" aria-hidden="true"></i> Go back</button>
 					<button
 						class="button primary"

@@ -152,7 +152,7 @@
 
 	<template v-if="stage === 'start'">
 		<h3>What is your occupation?</h3>
-		<ul class="button-grid">
+		<ul class="buttons grid">
 			<li>
 				<button @click.prevent="occupation = 'employee'; stage = 'questions'">
 					{% endraw %}{% include "_css/icons/job.svg" %}{% raw %}
@@ -229,7 +229,7 @@
 			</select>
 		</div>
 		<hr>
-		<div class="button-bar">
+		<div class="buttons bar">
 			<button class="button" @click.prevent="stage = 'start'">
 				<i class="icon left" aria-hidden="true"></i> Go back
 			</button>
@@ -242,33 +242,39 @@
 		<template v-if="showFreeOptions">
 			<h3>Free health insurance</h3>
 			<p>You have a low income, so you can get free <glossary term="gesetzliche Krankenversicherung">public health insurance</glossary>. <strong>This is the best option.</strong></p>
-			<div class="button-list">
-				<a v-if="flag('alg-i-buergergeld')" href="/guides/german-health-insurance#free-health-insurance" target="_blank">
-					{% endraw %}{% include "_css/icons/bank.svg" %}{% raw %}
-					<div>
-						<h3>ALG I, Elterngeld or Bürgergeld</h3>
-						<p>
-							If you get <glossary>ALG I</glossary>, <glossary>Bürgergeld</glossary> or <glossary>Elterngeld</glossary>, you get free public health insurance. The <glossary>Agentur für Arbeit</glossary> pays for it.
-						</p>
-					</div>
-				</a>
-				<a v-if="flag('familienversicherung-spouse') || flag('familienversicherung-parents')" href="/guides/german-health-insurance#free-health-insurance" target="_blank">
-					{% endraw %}{% include "_css/icons/family.svg" %}{% raw %}
-					<div>
-						<h3><glossary term="Familienversicherung">Family insurance</glossary></h3>
-						<p>
-							If {{ yourSponsorsHave }} <glossary term="gesetzliche Krankenversicherung">public health insurance</glossary>, it covers you for free. Ask their health insurer.
-						</p>
-					</div>
-				</a>
-				<a v-if="flag('ehic')" title="Learn more about the EHIC" href="/guides/german-health-insurance#insurance-from-other-eu-countries" target="_blank">
-					{% endraw %}{% include "_css/icons/passport.svg" %}{% raw %}
-					<div>
-						<h3>European Health Insurance Card</h3>
-						<p>If you have health insurance from another EU country, you might not need German health insurance.</p>
-					</div>
-				</a>
-			</div>
+			<ul class="buttons list">
+				<li>
+					<a v-if="flag('alg-i-buergergeld')" href="/guides/german-health-insurance#free-health-insurance" target="_blank">
+						{% endraw %}{% include "_css/icons/bank.svg" %}{% raw %}
+						<div>
+							<h3>ALG I, Elterngeld or Bürgergeld</h3>
+							<p>
+								If you get <glossary>ALG I</glossary>, <glossary>Bürgergeld</glossary> or <glossary>Elterngeld</glossary>, you get free public health insurance. The <glossary>Agentur für Arbeit</glossary> pays for it.
+							</p>
+						</div>
+					</a>
+				</li>
+				<li>
+					<a v-if="flag('familienversicherung-spouse') || flag('familienversicherung-parents')" href="/guides/german-health-insurance#free-health-insurance" target="_blank">
+						{% endraw %}{% include "_css/icons/family.svg" %}{% raw %}
+						<div>
+							<h3><glossary term="Familienversicherung">Family insurance</glossary></h3>
+							<p>
+								If {{ yourSponsorsHave }} <glossary term="gesetzliche Krankenversicherung">public health insurance</glossary>, it covers you for free. Ask their health insurer.
+							</p>
+						</div>
+					</a>
+				</li>
+				<li>
+					<a v-if="flag('ehic')" title="Learn more about the EHIC" href="/guides/german-health-insurance#insurance-from-other-eu-countries" target="_blank">
+						{% endraw %}{% include "_css/icons/passport.svg" %}{% raw %}
+						<div>
+							<h3>European Health Insurance Card</h3>
+							<p>If you have health insurance from another EU country, you might not need German health insurance.</p>
+						</div>
+					</a>
+				</li>
+			</ul>
 			<hr>
 		</template>
 		<h3>Public health insurance</h3>
@@ -299,83 +305,97 @@
 			</template>
 		</p>
 		<p>There are over 90 public health insurers. Their cost and coverage are similar. Barmer and Techniker Krankenkasse are the most popular options.</p>
-		<div class="button-list">
-			<a @click.prevent.prevent="stage = 'askABroker'" title="Ask a health insurance broker" href="/guides/german-health-insurance#insurance-brokers" target="_blank">
-				{% endraw %}{% include "_css/icons/help.svg" %}{% raw %}
-				<div>
-					<h3>Ask an expert</h3>
-					<p>Get free advice in English by phone, email or WhatsApp. This is the best way to choose health insurance.</p>
-				</div>
-			</a>
-			<a title="Sign up with BARMER" href="/out/barmer" target="_blank">
-				{% endraw %}{% include "_css/icons/health-insurance/logo-barmer.svg" %}{% raw %}
-				<div>
-					<h3>Barmer</h3>
-					<p>Best service for expats. More choice of psychotherapists.</p>
-				</div>
-				<output>
-					<eur :amount="result.options.barmer.total.personalContribution"></eur> <small>per month</small>
-				</output>
-			</a>
-			<a title="Sign up with Techniker Krankenkasse" href="/out/feather-tk" target="_blank">
-				{% endraw %}{% include "_css/icons/health-insurance/logo-tk.svg" %}{% raw %}
-				<div>
-					<h3>Techniker Krankenkasse</h3>
-					<p>Biggest German health insurer. English-speaking support.</p>
-				</div>
-				<output>
-					<eur :amount="result.options.tk.total.personalContribution"></eur> <small>per month</small>
-				</output>
-			</a>
-		</div>
+		<ul class="buttons list">
+			<li>
+				<a @click.prevent.prevent="stage = 'askABroker'" title="Ask a health insurance broker" href="/guides/german-health-insurance#insurance-brokers" target="_blank">
+					{% endraw %}{% include "_css/icons/help.svg" %}{% raw %}
+					<div>
+						<h3>Ask an expert</h3>
+						<p>Get free advice in English by phone, email or WhatsApp. This is the best way to choose health insurance.</p>
+					</div>
+				</a>
+			</li>
+			<li>
+				<a title="Sign up with BARMER" href="/out/barmer" target="_blank">
+					{% endraw %}{% include "_css/icons/health-insurance/logo-barmer.svg" %}{% raw %}
+					<div>
+						<h3>Barmer</h3>
+						<p>Best service for expats. More choice of psychotherapists.</p>
+					</div>
+					<output>
+						<eur :amount="result.options.barmer.total.personalContribution"></eur> <small>per month</small>
+					</output>
+				</a>
+			</li>
+			<li>
+				<a title="Sign up with Techniker Krankenkasse" href="/out/feather-tk" target="_blank">
+					{% endraw %}{% include "_css/icons/health-insurance/logo-tk.svg" %}{% raw %}
+					<div>
+						<h3>Techniker Krankenkasse</h3>
+						<p>Biggest German health insurer. English-speaking support.</p>
+					</div>
+					<output>
+						<eur :amount="result.options.tk.total.personalContribution"></eur> <small>per month</small>
+					</output>
+				</a>
+			</li>
+		</ul>
 		<hr>
 		<template v-if="privateCost">
 			<h3>Private health insurance</h3>
 			<p>
 				<glossary term="private Krankenversicherung">Private health insurance</glossary> can be better and cheaper than public health insurance. It depends on your situation.
 			</p>
-			<div class="button-list">
-				<a @click.prevent.prevent="stage = 'askABroker'" title="Choose a health insurance broker" href="/guides/german-health-insurance#insurance-brokers" target="_blank">
-					{% endraw %}{% include "_css/icons/help.svg" %}{% raw %}
-					<div>
-						<h3>Ask a health insurance broker</h3>
-						<p>Don't choose private health insurance yourself; it's a really bad idea. Ask a broker to help you choose.</p>
-					</div>
-				</a>
-				<a title="Get a quote from Feather" href="/out/feather-private" target="_blank">
-					{% endraw %}{% include "_css/icons/health-insurance/logo-feather.svg" %}{% raw %}
-					<div>
-						<h3>Get a quote from Feather</h3>
-						<p>They sell insurance from a few insurers. I got my health insurance from them. It's a great company.</p>
-					</div>
-				</a>
-				<a title="Get a quote from Ottonova" :href="ottonovaLink" target="_blank">
-					{% endraw %}{% include "_css/icons/health-insurance/logo-ottonova.svg" %}{% raw %}
-					<div>
-						<h3>Get a quote from Ottonova</h3>
-						<p>They sell their own health insurance. They speak English.</p>
-					</div>
-					<output v-if="privateCost">
-						<small>From</small> <eur :amount="privateCost"></eur> <small>per month</small>
-					</output>
-				</a>
-			</div>
+			<ul class="buttons list">
+				<li>
+					<a @click.prevent.prevent="stage = 'askABroker'" title="Choose a health insurance broker" href="/guides/german-health-insurance#insurance-brokers" target="_blank">
+						{% endraw %}{% include "_css/icons/help.svg" %}{% raw %}
+						<div>
+							<h3>Ask a health insurance broker</h3>
+							<p>Don't choose private health insurance yourself; it's a really bad idea. Ask a broker to help you choose.</p>
+						</div>
+					</a>
+				</li>
+				<li>
+					<a title="Get a quote from Feather" href="/out/feather-private" target="_blank">
+						{% endraw %}{% include "_css/icons/health-insurance/logo-feather.svg" %}{% raw %}
+						<div>
+							<h3>Get a quote from Feather</h3>
+							<p>They sell insurance from a few insurers. I got my health insurance from them. It's a great company.</p>
+						</div>
+					</a>
+				</li>
+				<li>
+					<a title="Get a quote from Ottonova" :href="ottonovaLink" target="_blank">
+						{% endraw %}{% include "_css/icons/health-insurance/logo-ottonova.svg" %}{% raw %}
+						<div>
+							<h3>Get a quote from Ottonova</h3>
+							<p>They sell their own health insurance. They speak English.</p>
+						</div>
+						<output v-if="privateCost">
+							<small>From</small> <eur :amount="privateCost"></eur> <small>per month</small>
+						</output>
+					</a>
+				</li>
+			</ul>
 		</template>
 		<template v-if="flag('ksk')">
 			<hr>
 			<h3>Other options</h3>
-			<div class="button-list">
-				<a title="Learn more about the KSK" href="/guides/ksk-kuenstlersozialkasse" target="_blank">
-					{% endraw %}{% include "_css/icons/liability.svg" %}{% raw %}
-					<div>
-						<h3>Join the Künstlersozialkasse</h3>
-						<p>If you are a freelance artist or publicist, join the KSK. They pay half of your health insurance. It's always worth it.</p>
-					</div>
-				</a>
-			</div>
+			<ul class="buttons list">
+				<li>
+					<a title="Learn more about the KSK" href="/guides/ksk-kuenstlersozialkasse" target="_blank">
+						{% endraw %}{% include "_css/icons/liability.svg" %}{% raw %}
+						<div>
+							<h3>Join the Künstlersozialkasse</h3>
+							<p>If you are a freelance artist or publicist, join the KSK. They pay half of your health insurance. It's always worth it.</p>
+						</div>
+					</a>
+				</li>
+			</ul>
 		</template>
 
-		<div class="button-bar">
+		<div class="buttons bar">
 			<button class="button" @click.prevent="stage = 'questions'">
 				<i class="icon left" aria-hidden="true"></i> Go back
 			</button>
@@ -397,7 +417,7 @@
 			</button>
 		</template>
 		<template v-slot:after-confirmation>
-			<div class="button-bar">
+			<div class="buttons bar">
 				<button class="button" @click.prevent="stage = 'start'">
 					<i class="icon left" aria-hidden="true"></i> Go back
 				</button>

@@ -286,60 +286,72 @@
 		<h2>You are almost done!</h2>
 		<template v-if="peoplePairs.length > 1">
 			<p>Print these forms, sign them, and bring them to your <em>Anmeldung</em> appointment.</p>
-			<div class="button-list">
-				<button :aria-labelledby="uid('h-btnDownload') + index" v-for="([person1, person2], index) in peoplePairs" @click="generatePDF(person1, person2)" :disabled="downloadInProgress">
+			<ul class="buttons list">
+				<li>
+					<button :aria-labelledby="uid('h-btnDownload') + index" v-for="([person1, person2], index) in peoplePairs" @click="generatePDF(person1, person2)" :disabled="downloadInProgress">
+						{% endraw %}{% include "_css/icons/pdf.svg" %}{% raw %}
+						<div>
+							<h3 :id="uid('h-btnDownload') + index">Download your Anmeldung form (part {{ index + 1 }})</h3>
+							<p v-if="person1.firstName">For {{ person1.firstName }}<template v-if="person2"> and {{ person2.firstName }}</template>.</p>
+						</div>
+					</button>
+				</li>
+			</ul>
+		</template>
+		<ul class="buttons list">
+			<li>
+				<button v-if="peoplePairs.length === 1" @click="generatePDF(people[0], people[1])" :disabled="downloadInProgress" :aria-labelledby="uid('h-btnDownload')">
 					{% endraw %}{% include "_css/icons/pdf.svg" %}{% raw %}
 					<div>
-						<h3 :id="uid('h-btnDownload') + index">Download your Anmeldung form (part {{ index + 1 }})</h3>
-						<p v-if="person1.firstName">For {{ person1.firstName }}<template v-if="person2"> and {{ person2.firstName }}</template>.</p>
+						<h3 :id="uid('h-btnDownload')">Download your Anmeldung form</h3>
+						<p>Print and sign this form, and bring it to your <em>Anmeldung</em> appointment.</p>
 					</div>
 				</button>
-			</div>
-		</template>
-		<div class="button-list">
-			<button v-if="peoplePairs.length === 1" @click="generatePDF(people[0], people[1])" :disabled="downloadInProgress" :aria-labelledby="uid('h-btnDownload')">
-				{% endraw %}{% include "_css/icons/pdf.svg" %}{% raw %}
-				<div>
-					<h3 :id="uid('h-btnDownload')">Download your Anmeldung form</h3>
-					<p>Print and sign this form, and bring it to your <em>Anmeldung</em> appointment.</p>
-				</div>
-			</button>
-		</div>
+			</li>
+		</ul>
 		<h3>What to do next</h3>
 		<p>To register your address, you must book a Bürgeramt appointment and go there in person. You can also send someone else to do it for you.</p>
-		<div class="button-list">
-			<a href="/guides/anmeldung-in-english-berlin#get-a-burgeramt-appointment" target="_blank">
-				{% endraw %}{% include "_css/icons/calendar.svg" %}{% raw %}
-				<div>
-					<h3>Book a Bürgeramt appointment</h3>
-					<p>You need an appointment to register your address.</p>
-				</div>
-			</a>
-			<a href="/out/red-tape-translation-interpreter" target="_blank">
-				{% endraw %}{% include "_css/icons/translator.svg" %}{% raw %}
-				<div>
-					<h3>Hire a translator</h3>
-					<p>Bring someone who speaks German to your <em>Anmeldung</em> appointment.</p>
-				</div>
-			</a>
-			<a href="/out/red-tape-translation-anmeldung" target="_blank">
-				{% endraw %}{% include "_css/icons/sendsomeone.svg" %}{% raw %}
-				<div>
-					<h3>Pay someone to register you</h3>
-					<p>Pay someone to book your appointment, go to the Bürgeramt and do your Anmeldung. It's more convenient.</p>
-				</div>
-			</a>
-			<a href="/donate" target="_blank">
-				{% endraw %}{% include "_css/icons/beers.svg" %}{% raw %}
-				<div>
-					<h3>Support this website</h3>
-					<p>Donate a few euros to help me build more free tools.</p>
-				</div>
-			</a>
-		</div>
+		<ul class="buttons list">
+			<li>
+				<a href="/guides/anmeldung-in-english-berlin#get-a-burgeramt-appointment" target="_blank">
+					{% endraw %}{% include "_css/icons/calendar.svg" %}{% raw %}
+					<div>
+						<h3>Book a Bürgeramt appointment</h3>
+						<p>You need an appointment to register your address.</p>
+					</div>
+				</a>
+			</li>
+			<li>
+				<a href="/out/red-tape-translation-interpreter" target="_blank">
+					{% endraw %}{% include "_css/icons/translator.svg" %}{% raw %}
+					<div>
+						<h3>Hire a translator</h3>
+						<p>Bring someone who speaks German to your <em>Anmeldung</em> appointment.</p>
+					</div>
+				</a>
+			</li>
+			<li>
+				<a href="/out/red-tape-translation-anmeldung" target="_blank">
+					{% endraw %}{% include "_css/icons/sendsomeone.svg" %}{% raw %}
+					<div>
+						<h3>Pay someone to register you</h3>
+						<p>Pay someone to book your appointment, go to the Bürgeramt and do your Anmeldung. It's more convenient.</p>
+					</div>
+				</a>
+			</li>
+			<li>
+				<a href="/donate" target="_blank">
+					{% endraw %}{% include "_css/icons/beers.svg" %}{% raw %}
+					<div>
+						<h3>Support this website</h3>
+						<p>Donate a few euros to help me build more free tools.</p>
+					</div>
+				</a>
+			</li>
+		</ul>
 	</template>
 	<hr>
-	<div class="button-bar">
+	<div class="buttons bar">
 		<button v-if="stageIndex === 0" class="button primary" @click="stageIndex += 1">Start <i class="icon right" aria-hidden="true"></i></button>
 		<button v-if="stageIndex > 0" class="button" @click="previousStage"><i class="icon left" aria-hidden="true"></i> Go back</button>
 		<button v-if="stage === 'addPeople'" class="button" @click="addPerson"><i class="icon person" aria-hidden="true"></i> Add another person</button>
