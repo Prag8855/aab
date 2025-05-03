@@ -239,30 +239,36 @@
 		</div>
 	</template>
 	<template v-if="stage === 'insuranceOptions'">
+		<h3>Free health insurance</h3>
 		<template v-if="showFreeOptions">
-			<h3>Free health insurance</h3>
-			<p>You have a low income, so you can get free <glossary term="gesetzliche Krankenversicherung">public health insurance</glossary>. <strong>This is the best option.</strong></p>
+			<p>You can get <strong>free public health insurance</strong> because you have a low income.</p>
 			<ul class="buttons list">
 				<li>
-					<a v-if="flag('alg-i-buergergeld')" href="/guides/german-health-insurance#free-health-insurance" target="_blank">
+					<a v-if="flag('alg-i-buergergeld')" title="Learn more about state-sponsored health insurance" href="/guides/german-health-insurance#free-health-insurance" target="_blank">
 						{% endraw %}{% include "_css/icons/bank.svg" %}{% raw %}
 						<div>
 							<h3>ALG I, Elterngeld or Bürgergeld</h3>
 							<p>
-								If you get <glossary>ALG I</glossary>, <glossary>Bürgergeld</glossary> or <glossary>Elterngeld</glossary>, you get free public health insurance. The <glossary>Agentur für Arbeit</glossary> pays for it.
+								If you get <glossary>ALG I</glossary>, <glossary>Bürgergeld</glossary> or <glossary>Elterngeld</glossary>, you get free health insurance.
 							</p>
 						</div>
+						<output>
+							<eur :amount="0"></eur> <small>per month</small>
+						</output>
 					</a>
 				</li>
 				<li>
-					<a v-if="flag('familienversicherung-spouse') || flag('familienversicherung-parents')" href="/guides/german-health-insurance#free-health-insurance" target="_blank">
+					<a v-if="flag('familienversicherung-spouse') || flag('familienversicherung-parents')" title="Learn more about family health insurance" href="/guides/german-health-insurance#free-health-insurance" target="_blank">
 						{% endraw %}{% include "_css/icons/family.svg" %}{% raw %}
 						<div>
 							<h3><glossary term="Familienversicherung">Family insurance</glossary></h3>
 							<p>
-								If {{ yourSponsorsHave }} <glossary term="gesetzliche Krankenversicherung">public health insurance</glossary>, it covers you for free. Ask their health insurer.
+								If {{ yourSponsorsHave }} <glossary term="gesetzliche Krankenversicherung">public health insurance</glossary>, it covers you for free.
 							</p>
 						</div>
+						<output>
+							<eur :amount="0"></eur> <small>per month</small>
+						</output>
 					</a>
 				</li>
 				<li>
@@ -270,8 +276,11 @@
 						{% endraw %}{% include "_css/icons/passport.svg" %}{% raw %}
 						<div>
 							<h3>European Health Insurance Card</h3>
-							<p>If you have health insurance from another EU country, you might not need German health insurance.</p>
+							<p>Your insurance from another EU country might cover you for free.</p>
 						</div>
+						<output>
+							<eur :amount="0"></eur> <small>per month</small>
+						</output>
 					</a>
 				</li>
 			</ul>
@@ -279,7 +288,8 @@
 		</template>
 		<h3>Public health insurance</h3>
 		<p>
-			It costs
+			<template v-if="showFreeOptions">If you can't get free health insurance, you must pay</template>
+			<template v-if="!showFreeOptions">Public health insurance costs</template>
 			<strong>
 				<output v-if="maxTotal === 0">
 					<eur :amount="0"></eur>
@@ -292,29 +302,19 @@
 					to
 					<eur :amount="maxTotal.personalContribution"></eur>
 				</output>
-				per month
-			</strong>, depending on the insurer. This includes <glossary term="Pflegeversicherung">long-term care insurance</glossary>.
+				per month</strong>, depending on the insurer. This includes <glossary term="Pflegeversicherung">long-term care insurance</glossary>.
 			<template v-if="flag('max-contribution')">
 				You make over <eur :amount="healthInsurance.maxMonthlyIncome" :cents="false"></eur> per month, so you pay the <glossary term="Höchstbeitrag">maximum price</glossary>.
 			</template>
-			<template v-else-if="flag('min-contribution')">
+			<template v-else-if="flag('min-contribution') && !showFreeOptions">
 				You make under <eur :amount="healthInsurance.minMonthlyIncome" :cents="false"></eur> per month, so you pay the <glossary term="Mindestbeitrag">minimum price</glossary>.
 			</template>
 			<template v-else-if="flag('azubi-free')">
-				You make under <eur :amount="healthInsurance.azubiFreibetrag"></eur> per month, so your employer pays for your health insurance.
+				You make under <eur :amount="healthInsurance.azubiFreibetrag"></eur> per month, so your employer pays for your health insurance. You must still choose an insurer.
 			</template>
 		</p>
-		<p>There are over 90 public health insurers. Their cost and coverage are similar. Barmer and Techniker Krankenkasse are the most popular options.</p>
-		<ul class="buttons list">
-			<li>
-				<a @click.prevent.prevent="stage = 'askABroker'" title="Ask a health insurance broker" href="/guides/german-health-insurance#insurance-brokers" target="_blank">
-					{% endraw %}{% include "_css/icons/help.svg" %}{% raw %}
-					<div>
-						<h3>Ask an expert</h3>
-						<p>Get free advice in English by phone, email or WhatsApp. This is the best way to choose health insurance.</p>
-					</div>
-				</a>
-			</li>
+		<p>There are 94 public health insurers. Their cost and coverage are similar. Barmer and Techniker Krankenkasse are the most popular options.</p>
+		<ul class="buttons">
 			<li>
 				<a title="Sign up with BARMER" href="/out/barmer" target="_blank">
 					{% endraw %}{% include "_css/icons/health-insurance/logo-barmer.svg" %}{% raw %}
@@ -340,8 +340,8 @@
 				</a>
 			</li>
 		</ul>
-		<hr>
 		<template v-if="privateCost">
+			<hr>
 			<h3>Private health insurance</h3>
 			<p>
 				<glossary term="private Krankenversicherung">Private health insurance</glossary> can be better and cheaper than public health insurance. It depends on your situation.
@@ -394,13 +394,27 @@
 				</li>
 			</ul>
 		</template>
+		<hr>
+		<h3>Avoid mistakes, ask for help</h3>
+		<p>Don't choose health insurance yourself. You can make expensive mistakes. An insurance broker can help you get better, cheaper health insurance. Their help is free.</p>
+		<ul class="buttons list">
+			<li>
+				<button @click.prevent.prevent="stage = 'askABroker'">
+					{% endraw %}{% include "_css/icons/help.svg" %}{% raw %}
+					<div>
+						<h3>Ask an expert</h3>
+						<p>Get free advice in English by phone, email or WhatsApp. It's the best way to choose health insurance.</p>
+					</div>
+				</button>
+			</li>
+		</ul>
 
 		<div class="buttons bar">
 			<button class="button" @click.prevent="stage = 'questions'">
 				<i class="icon left" aria-hidden="true"></i> Go back
 			</button>
 			<button class="button primary" @click.prevent="stage = 'askABroker'">
-				Ask for advice <i class="icon right" aria-hidden="true"></i>
+				Ask an expert <i class="icon right" aria-hidden="true"></i>
 			</button>
 		</div>
 	</template>
