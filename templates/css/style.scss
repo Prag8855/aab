@@ -3140,7 +3140,7 @@ collapsible, letter-generator, feedback-residence-permit{  // Vue element before
 
     body, main{display:block;}
 
-    :is(sup, #footnotes, .recommended){
+    sup, #footnotes, .recommended, .icon.left, .icon.right, .buttons.bar{
         display:none!important;
     }
 }
