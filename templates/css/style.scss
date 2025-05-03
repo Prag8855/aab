@@ -2826,11 +2826,14 @@ collapsible, letter-generator, feedback-residence-permit{  // Vue element before
                 background: var(--c-bg-widget);
                 border-radius: var(--b-radius);
                 text-align: center;
-                grid-column: 1 / -1;
 
                 span{
                     @include heading;
                     font-size: var(--l);
+                }
+
+                @include only-phone{
+                    grid-column: 1 / -1;
                 }
 
                 @include not-phone{
