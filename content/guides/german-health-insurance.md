@@ -189,7 +189,7 @@ Public health insurance also covers your children and your unemployed spouse for
 - **It's cheap for students**  
     Students pay around {{GKV_COST_STUDENT|cur}}€ per month until they are 30 years old. Usually, public is the best option for students.[^59]
 - **It covers your family for free**  
-    Your children and your unemployed spouse get [free health insurance](#free-health-insurance). Private health insurance charges for each person you cover. If you have more than 2 children, public health insurance is usually cheaper.[^12]
+    Your children and your unemployed spouse get [free health insurance](#free-health-insurance). Private health insurance charges for each person you cover. If you have more than 2 children, public health insurance is usually the cheapest option.[^12]
 - **It's easy to use**  
     When you go to the doctor, you show your insurance card, and you get healthcare. You never need to think about coverage, [deductibles](/glossary/Selbstbeteiligung) or reimbursement. There is no paperwork; it just works.
 - **It's not tied to your health**  
@@ -358,7 +358,7 @@ There is no reason to choose your insurance yourself. [Ask an expert](#insurance
 - **You want something that just works**  
     Just show your card and get healthcare. It takes longer to get an appointment, but you don't have to deal with any paperwork.
 - **You want more than 2 children**  
-    Public health insurance covers your children [for free](/glossary/Familienversicherung). Private health insurance charges extra for each child. If both parents have a high income, private health insurance can be cheaper anyway.[^12]
+    Public health insurance covers your children [for free](/glossary/Familienversicherung). Private health insurance charges extra for each child. If you have 1 or 2 children, private health insurance can be cheaper anyway.[^12]
 - **You pay the student tariff**  
     The student tariff is a really good deal. If you are a student under 30 years old, public health insurance is usually the best option.[^59]
 
