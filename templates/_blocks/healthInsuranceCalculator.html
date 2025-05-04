@@ -243,8 +243,8 @@
 			<h3>Free health insurance</h3>
 			<p>You can get <strong>free public health insurance</strong> because you have a low income.</p>
 			<ul class="buttons list">
-				<li>
-					<a v-if="flag('alg-i-buergergeld')" title="Learn more about state-sponsored health insurance" href="/guides/german-health-insurance#free-health-insurance" target="_blank">
+				<li v-if="flag('alg-i-buergergeld')">
+					<a title="Learn more about state-sponsored health insurance" href="/guides/german-health-insurance#free-health-insurance" target="_blank">
 						{% endraw %}{% include "_css/icons/bank.svg" %}{% raw %}
 						<div>
 							<h3>ALG I, Elterngeld or Bürgergeld</h3>
@@ -257,8 +257,8 @@
 						</output>
 					</a>
 				</li>
-				<li>
-					<a v-if="flag('familienversicherung-spouse') || flag('familienversicherung-parents')" title="Learn more about family health insurance" href="/guides/german-health-insurance#free-health-insurance" target="_blank">
+				<li v-if="flag('familienversicherung-spouse') || flag('familienversicherung-parents')">
+					<a title="Learn more about family health insurance" href="/guides/german-health-insurance#free-health-insurance" target="_blank">
 						{% endraw %}{% include "_css/icons/family.svg" %}{% raw %}
 						<div>
 							<h3><glossary term="Familienversicherung">Family insurance</glossary></h3>
@@ -271,8 +271,8 @@
 						</output>
 					</a>
 				</li>
-				<li>
-					<a v-if="flag('ehic')" title="Learn more about the EHIC" href="/guides/german-health-insurance#insurance-from-other-eu-countries" target="_blank">
+				<li v-if="flag('ehic')">
+					<a title="Learn more about the EHIC" href="/guides/german-health-insurance#insurance-from-other-eu-countries" target="_blank">
 						{% endraw %}{% include "_css/icons/passport.svg" %}{% raw %}
 						<div>
 							<h3>European Health Insurance Card</h3>

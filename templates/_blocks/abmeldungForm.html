@@ -201,8 +201,8 @@
 		<template v-if="peopleTriples.length > 1">
 			<p>Print the forms, sign them, and bring them to your <em>Abmeldung</em> appointment.</p>
 			<ul class="buttons list">
-				<li>
-					<button v-for="([person1, person2, person3], index) in peopleTriples" @click="generatePDF(person1, person2, person3)" :disabled="downloadInProgress">
+				<li v-for="([person1, person2, person3], index) in peopleTriples">
+					<button @click="generatePDF(person1, person2, person3)" :disabled="downloadInProgress">
 						{% endraw %}{% include "_css/icons/pdf.svg" %}{% raw %}
 						<div>
 							<h3>Download part {{ index + 1 }} of the form</h3>
@@ -213,8 +213,8 @@
 			</ul>
 		</template>
 		<ul class="buttons list">
-			<li>
-				<button v-if="peopleTriples.length === 1" @click="generatePDF(people[0], people[1], people[2])" :disabled="downloadInProgress">
+			<li v-if="peopleTriples.length === 1">
+				<button @click="generatePDF(people[0], people[1], people[2])" :disabled="downloadInProgress">
 					{% endraw %}{% include "_css/icons/pdf.svg" %}{% raw %}
 					<div>
 						<h3>Download the filled form</h3>
@@ -258,7 +258,7 @@
 					{% endraw %}{% include "_css/icons/beers.svg" %}{% raw %}
 					<div>
 						<h3>Support this website</h3>
-						<p>Donate a few euros to help me build more free tools.</p>
+						<p>Donate 10€ euros to help me build more free tools.</p>
 					</div>
 				</a>
 			</li>
