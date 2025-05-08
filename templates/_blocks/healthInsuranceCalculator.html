@@ -124,37 +124,37 @@
 		<h3>What is your occupation?</h3>
 		<ul class="buttons grid">
 			<li>
-				<button @click.prevent="occupation = 'employee'; stage = 'questions'">
+				<button @click="occupation = 'employee'; stage = 'questions'">
 					{% endraw %}{% include "_css/icons/job.svg" %}{% raw %}
 					Employee
 				</button>
 			</li>
 			<li>
-				<button @click.prevent="occupation = 'student'; stage = 'questions'">
+				<button @click="occupation = 'student'; stage = 'questions'">
 					{% endraw %}{% include "_css/icons/student.svg" %}{% raw %}
 					Student
 				</button>
 			</li>
 			<li>
-				<button @click.prevent="occupation = 'selfEmployed'; stage = 'questions'">
+				<button @click="occupation = 'selfEmployed'; stage = 'questions'">
 					{% endraw %}{% include "_css/icons/business.svg" %}{% raw %}
 					Self-employed
 				</button>
 			</li>
 			<li>
-				<button @click.prevent="occupation = ''; stage = 'questions'">
+				<button @click="occupation = ''; stage = 'questions'">
 					{% endraw %}{% include "_css/icons/helper.svg" %}{% raw %}
 					Intern
 				</button>
 			</li>
 			<li>
-				<button @click.prevent="occupation = 'azubi'; stage = 'questions'">
+				<button @click="occupation = 'azubi'; stage = 'questions'">
 					{% endraw %}{% include "_css/icons/helper.svg" %}{% raw %}
 					Apprentice
 				</button>
 			</li>
 			<li>
-				<button @click.prevent="occupation = 'unemployed'; stage = 'questions'">
+				<button @click="occupation = 'unemployed'; stage = 'questions'">
 					{% endraw %}{% include "_css/icons/visiting.svg" %}{% raw %}
 					Unemployed
 				</button>
@@ -171,7 +171,7 @@
 			<div class="input-group">
 				<income-input :id="uid('income')" v-if="showIncomeInput" v-model="inputIncome"></income-input>
 				€
-				<button class="toggle" @click.prevent="toggleUseMonthlyIncome">per {{ useMonthlyIncome ? 'month' : 'year' }}</button>
+				<button class="toggle" @click="toggleUseMonthlyIncome">per {{ useMonthlyIncome ? 'month' : 'year' }}</button>
 				before taxes
 			</div>
 		</div>
@@ -200,10 +200,10 @@
 		</div>
 		<hr>
 		<div class="buttons bar">
-			<button class="button" @click.prevent="stage = 'start'">
+			<button class="button" @click="stage = 'start'">
 				<i class="icon left" aria-hidden="true"></i> Go back
 			</button>
-			<button class="button primary" @click.prevent="stage = 'insuranceOptions'">
+			<button class="button primary" @click="stage = 'insuranceOptions'">
 				See options <i class="icon right" aria-hidden="true"></i>
 			</button>
 		</div>
@@ -317,7 +317,7 @@
 				</a>
 			</li>
 			<li>
-				<button @click.prevent.prevent="stage = 'askABroker'">
+				<button @click="stage = 'askABroker'">
 					{% endraw %}{% include "_css/icons/help.svg" %}{% raw %}
 					<div>
 						<h3>Ask an expert to choose</h3>
@@ -354,7 +354,7 @@
 				</p>
 				<ul class="buttons list">
 					<li>
-						<button @click.prevent.prevent="stage = 'askABroker'">
+						<button @click="stage = 'askABroker'">
 							{% endraw %}{% include "_css/icons/help.svg" %}{% raw %}
 							<div>
 								<h3>Ask an expert</h3>
@@ -382,10 +382,10 @@
 		</template>
 		<hr>
 		<div class="buttons bar">
-			<button class="button" @click.prevent="stage = 'questions'">
+			<button class="button" @click="stage = 'questions'">
 				<i class="icon left" aria-hidden="true"></i> Go back
 			</button>
-			<button class="button primary" @click.prevent="stage = 'askABroker'">
+			<button class="button primary" @click="stage = 'askABroker'">
 				Ask for advice <i class="icon right" aria-hidden="true"></i>
 			</button>
 		</div>
@@ -398,13 +398,13 @@
 		:children-count="childrenCount"
 		>
 		<template v-slot:form-buttons>
-			<button class="button" @click.prevent="stage = 'insuranceOptions'">
+			<button class="button" @click="stage = 'insuranceOptions'">
 				<i class="icon left" aria-hidden="true"></i> Go back
 			</button>
 		</template>
 		<template v-slot:after-confirmation>
 			<div class="buttons bar">
-				<button class="button" @click.prevent="stage = 'start'">
+				<button class="button" @click="stage = 'start'">
 					<i class="icon left" aria-hidden="true"></i> Go back
 				</button>
 			</div>
