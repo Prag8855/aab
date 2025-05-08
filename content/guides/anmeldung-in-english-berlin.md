@@ -126,6 +126,8 @@ When you send someone else to do your *Anmeldung*, they must bring:
 
 Go to your *Bürgeramt* appointment. Bring all your documents. Arrive early.
 
+Everyone who registers must go to the appointment. If you register your spouse and your children, they must come with you.[^15] If they can't come, they must sign a *[[Vollmacht]]*, and you must bring it with you. Use my [*Vollmacht* template](/documents/Anmeldung-Vollmacht-template.pdf).
+
 At the *Bürgeramt*, find the correct waiting room. When they call your number on the screen, go to the office number on the screen.
 
 Sit at the desk, give your documents, and get your *[[Anmeldebestätigung]]*. They will put a sticker with your new address on your *[[Personalausweis]]*, [residence permit](/glossary/Aufenthaltstitel) and [vehicle registration papers](/glossary/Zulassungsbescheinigung). That sticker is not important.[^16]
@@ -269,6 +271,7 @@ When you move into an apartment, you must do a few things: lower your rent, get 
 [^12]: [reddit.com](https://old.reddit.com/r/berlin/comments/so7py2/wrong_floor_in_the_anmeldung/)
 [^13]: [Berlin.de](https://service.berlin.de/dienstleistung/120686/)
 [^14]: Kathleen Parker, [relocation consultant](/out/red-tape-translation) (March 2024), Elliot Herman, [relocation consultant](https://www.sorted.berlin/) (October 2023), multiple relocation consultants (October 2023)
+[^15]: Reader feedback (May 2025)
 [^16]: Kathleen Parker at [Red Tape Translation](/out/red-tape-translation) (March 2024)
 [^18]: [frag-einen-anwalt.de](https://www.frag-einen-anwalt.de/Ummeldung-bei-Wohnen-auf-Zeit--f311548.html), [blog.wunderflats.com](https://blog.wunderflats.com/die-wohnungsgeberbestaetigung-beim-moeblierten-wohnen-auf-zeit/#:~:text=bei%20kurzeren%20aufenthalten%20ist%20das%20ausstellen%20einer%20wohnungsgeberbescheinigung%20fur%20sie%20als%20vermieter%20einer%20beherbergungsstatte%20hingegen%20nicht%20verpflichtend), [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_bmg/englisch_bmg.html#:~:text=anyone%20staying%20in%20institutions%20for%20the%20purpose%20of%20commercial%20reception)
 [^19]: [community.withairbnb.com](https://community.withairbnb.com/t5/Gastgeben/Wohnungsbest%C3%A4tigung/td-p/427851), [blog.wunderflats.com](https://blog.wunderflats.com/die-wohnungsgeberbestaetigung-beim-moeblierten-wohnen-auf-zeit/), [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_bmg/englisch_bmg.html#:~:text=anyone%20staying%20in%20institutions%20for%20the%20purpose%20of%20commercial%20reception)
