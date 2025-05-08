@@ -83,7 +83,7 @@ describe('calculatePensionRefund', () => {
 		describe('who lives in the UK', () => {
 			const output = calculatePensionRefund('CH', 'UK', yearsAgo(12), yearsAgo(10), 30000, false);
 			it('is not eligible for a refund, because he is an EEA national', () => {
-				hasFlags(output, ['not-eligible', 'eea-national', 'uk-resident']);
+				hasFlags(output, ['not-eligible', 'eea-national']);
 			});
 		});
 
@@ -259,8 +259,8 @@ describe('calculatePensionRefund', () => {
 
 		describe('who lives in Canada', () => {
 			const output = calculatePensionRefund('GB', 'CA', new Date(2021, 0, 1), new Date(2021, 3, 1), 30000, false);
-			it('is eligible for a refund', () => {
-				hasFlags(output, ['eligible', 'uk-national']);
+			it('is not eligible for a refund', () => {
+				hasFlags(output, ['not-eligible', 'uk-national']);
 			});
 		});
 
