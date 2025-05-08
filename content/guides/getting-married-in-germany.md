@@ -102,5 +102,5 @@ After your get married in another country, you must register your marriage in Ge
 [^5]: [Reddit](https://old.reddit.com/r/germany/comments/1bpoh8d/why_do_some_go_to_denmark_to_get_married/kwyrekf/) (2024)
 [^6]: [Berlin.de](https://service.berlin.de/dienstleistung/318968/) (2024), [Reddit](https://old.reddit.com/r/germany/comments/1bpoh8d/why_do_some_go_to_denmark_to_get_married/kwx6a0f/) (2024)
 [^7]: [Reddit](https://old.reddit.com/r/germany/comments/1bpoh8d/why_do_some_go_to_denmark_to_get_married/kwx72qi/) (2024)
-[^8]: Kathleen Parker at [Red Tape Translation](/out/red-tape-translation) (May 2024)
+[^8]: [Red Tape Translation](/out/red-tape-translation) (May 2024)
 [^9]: [Berlin.de](https://service.berlin.de/dienstleistung/318962/)

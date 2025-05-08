@@ -288,7 +288,7 @@ An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocatio
 [^2]: [Berlin.de](https://service.berlin.de/dienstleistung/324659/en/), [Business Immigration Service](https://www.berlin.de/einwanderung/_assets/20210506_anlage1_checkliste-bis_extern.pdf)
 [^3]: [§18 Abs. 4 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18.html), [Berlin.de](https://service.berlin.de/dienstleistung/324659/en/#:~:text=lasts%203%20months%20longer%20than%20your%20employment%20contract), [Fiona Macdonald](https://en.fmr-legal.de/) (August 2023)
 [^4]: [Berlin.de](https://service.berlin.de/dienstleistung/324659/en/#:~:text=only%20possible%20online)
-[^5]: Kathleen Parker at [Red Tape Translation](/out/red-tape-translation) (December 2023), [Berlin.de](https://service.berlin.de/dienstleistung/324659/en/#:~:text=Proof%20of%20your,for%20example%20by)
+[^5]: [Red Tape Translation](/out/red-tape-translation) (December 2023), [Berlin.de](https://service.berlin.de/dienstleistung/324659/en/#:~:text=Proof%20of%20your,for%20example%20by)
 [^6]: [Berlin.de](https://service.berlin.de/dienstleistung/324659/en/#:~:text=for%20private%20health%20insurance), [Business Immigration Service](https://www.berlin.de/einwanderung/_assets/20210506_anlage1_checkliste-bis_extern.pdf)
 [^7]: [VAB A81.5a.2](/out/vab) (December 2024)
 [^8]: [Berlin.de](https://service.berlin.de/dienstleistung/324659/en/#:~:text=by%20credit%20card)

@@ -98,4 +98,4 @@ You must get a *[[Bürgeramt]]* appointment and bring the form in person.
 **[How to do your Anmeldung in Berlin ➞](/guides/anmeldung-in-english-berlin)**
 
 [^0]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/dm65o5/adding_co_to_the_anmeldung/), [gutefrage.net](https://www.gutefrage.net/frage/was-ist-ein-adresszusatz-)
-[^1]: Kathleen Parker at [Red Tape Translation](/out/red-tape-translation) (September 2023)
+[^1]: [Red Tape Translation](/out/red-tape-translation) (September 2023)
