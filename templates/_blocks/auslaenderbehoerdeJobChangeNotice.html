@@ -21,7 +21,7 @@
 					letterType: 'termination',
 					placeOfBirth: '',
 					nationality: userDefaults.nationality,
-					auslaenderbehoerde: 'friedrich-krause-ufer',
+					auslaenderbehoerde: 'berlin',
 					customRecipientAddress: '',
 					currentDate: new Date(),
 					lastDayOfWork: '',
@@ -31,7 +31,7 @@
 			},
 			computed: {
 				recipientAddress() {
-					if(this.auslaenderbehoerde !== 'other'){
+					if(this.auslaenderbehoerde === 'berlin'){
 						// Both locations use the same address for mail
 						return 'Landesamt für Einwanderung\nFriedrich-Krause-Ufer 24\n13353 Berlin';
 					}
@@ -212,17 +212,21 @@
 		<div class="form-group no-print">
 			<label :for="uid('auslaenderbehoerde')">Ausländerbehörde</label>
 			<div class="input-group">
-				<select :id="uid('auslaenderbehoerde')" v-model="auslaenderbehoerde">
-					<option value="friedrich-krause-ufer" selected>Berlin (Friedrich-Krause-Ufer)</option>
-					<option value="keplerstrasse">Berlin (Keplerstraße)</option>
-					<option value="other">Other</option>
-				</select>
+				<div class="tabs">
+					<button @click="auslaenderbehoerde = 'berlin'" tabindex="0" :disabled="auslaenderbehoerde === 'berlin'">
+						Berlin
+					</button>
+					<button @click="auslaenderbehoerde = 'other'" tabindex="0" :disabled="auslaenderbehoerde === 'other'">
+						Other
+					</button>
+				</div>
+				<br v-if="auslaenderbehoerde === 'other'">
 				<textarea
 					:id="uid('customRecipientAddress')"
 					v-model="customRecipientAddress"
 					class="address-input"
 					v-if="auslaenderbehoerde === 'other'"
-					placeholder="Ausländerbehörde&#10;Example Straße 123&#10;12345 Berlin"></textarea>
+					placeholder="Ausländerbehörde&#10;Example Straße 123&#10;12345 Munich"></textarea>
 				<br>
 				<a class="input-instructions external-link" v-if="auslaenderbehoerde === 'other'" href="https://bamf-navi.bamf.de/en/Themen/Behoerden/" target="_blank">
 					Find your Ausländerbehörde
