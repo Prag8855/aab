@@ -18,7 +18,7 @@ Vue.component('occupation-input', {
 		<optgroup label="Student">
 			<option value="studentEmployee">Working student</option>
 			<option value="studentSelfEmployed">Self-employed student</option>
-			<option value="student">Unemployed student</option>
+			<option value="studentUnemployed">Unemployed student</option>
 		</optgroup>
 		<optgroup label="Other">
 			<option value="selfEmployed">Self-employed / freelancer</option>

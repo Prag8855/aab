@@ -41,6 +41,9 @@
 				}
 			},
 			computed: {
+				isStudent() {
+					return occupations.isStudent(this.occupation);
+				},
 				result() {
 					return calculateHealthInsuranceContributions({
 						age: +this.age,
@@ -77,7 +80,7 @@
 				},
 				showPrivateLowIncomeWarning(){
 					return this.flag('private')
-						&& this.occupation !== 'student'
+						&& !this.isStudent
 						&& this.monthlyIncome <= taxes.maxMinijobIncome;
 				},
 				showFreeOptions(){
@@ -129,7 +132,7 @@
 				</button>
 			</li>
 			<li>
-				<button @click="occupation = 'student'; stage = 'questions'">
+				<button @click="occupation = 'studentUnemployed'; stage = 'questions'">
 					{% endraw %}{% include "_css/icons/student.svg" %}{% raw %}
 					Student
 				</button>
@@ -279,10 +282,10 @@
 			<template v-if="flag('private') && childrenCount > 2">If you have {{ childrenCount }} children, it's usually the cheapest option, because it covers your children for free.</template>
 			<template v-if="flag('private') && age > 45">If you are over 45 years old, it's usually the cheapest option.</template>
 			
-			<template v-if="occupation === 'student' && !flag('student-30plus')">
+			<template v-if="isStudent && !flag('student-30plus')">
 				<glossary term="gesetzliche Krankenversicherung">Public health insurance</glossary> is usually the best option for students under 30 years old.
 			</template>
-			<template v-if="occupation === 'student' && flag('student-30plus') && age <= 45">
+			<template v-if="isStudent && flag('student-30plus') && age <= 45">
 				You are over 30 years old, so you can't get the student tariff. Private health insurance might be cheaper.
 			</template>
 			<template v-if="occupation === 'selfEmployed' && yearlyIncome <= 30000">

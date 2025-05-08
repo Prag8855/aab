@@ -502,12 +502,11 @@ function calculateHealthInsuranceForStudent(monthlyIncome, age, childrenCount, c
 }
 
 function calculateHealthInsuranceContributions({age, monthlyIncome, occupation, isMarried, childrenCount, customZusatzbeitrag}) {
-	const isSelfEmployed = occupation == 'selfEmployed';
-	const isWorkingStudent = occupation == 'studentEmployee';
-	const isSelfEmployedStudent = occupation == 'studentSelfEmployed';
-	const isStudent = isWorkingStudent || isSelfEmployedStudent || occupation == 'student';
+	const isEmployed = occupations.isEmployed(occupation);
+	const isSelfEmployed = occupations.isSelfEmployed(occupation);
+	const isStudent = occupations.isStudent(occupation);
 	const isUnemployed = occupations.isUnemployed(occupation);
-	const isAzubi = occupation == 'azubi';
+	const isAzubi = occupation === 'azubi';
 
 	/***************************************************
 	* Tarif selection
@@ -518,10 +517,10 @@ function calculateHealthInsuranceContributions({age, monthlyIncome, occupation, 
 	if(isStudent) {
 		if(age >= 30) {
 			flags.add('student-30plus');
-			if(isWorkingStudent) {
+			if(isEmployed) {
 				tarif = 'employee';
 			}
-			else if(isSelfEmployedStudent) {
+			else if(isSelfEmployed) {
 				tarif = 'selfEmployed';
 			}
 			else {
@@ -536,15 +535,15 @@ function calculateHealthInsuranceContributions({age, monthlyIncome, occupation, 
 		// https://www.haufe.de/personal/haufe-personal-office-platin/student-versicherungsrechtliche-bewertung-einer-selbsts-5-student-oder-selbststaendiger_idesk_PI42323_HI9693887.html
 		const hoursWorked = 20; // TODO: Accept different values
 		if(hoursWorked <= 20 && monthlyIncome > 0.75*healthInsurance.nebenjobMaxIncome) {
-			tarif = isSelfEmployedStudent ? 'selfEmployed' : 'employee';
+			tarif = isSelfEmployed ? 'selfEmployed' : 'employee';
 			flags.add('not-nebenjob');
 		}
 		else if(hoursWorked > 20 && hoursWorked <= 30 && monthlyIncome > 0.5*healthInsurance.nebenjobMaxIncome) {
-			tarif = isSelfEmployedStudent ? 'selfEmployed' : 'employee';
+			tarif = isSelfEmployed ? 'selfEmployed' : 'employee';
 			flags.add('not-nebenjob');
 		}
 		else if(hoursWorked > 30 && monthlyIncome > 0.25*healthInsurance.nebenjobMaxIncome) {
-			tarif = isSelfEmployedStudent ? 'selfEmployed' : 'employee';
+			tarif = isSelfEmployed ? 'selfEmployed' : 'employee';
 			flags.add('not-nebenjob');
 		}
 	}

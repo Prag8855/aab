@@ -182,7 +182,8 @@ const pensions = {
 const occupations = {
 	isEmployed: (occupation) => ['employee', 'azubi', 'studentEmployee'].includes(occupation),
 	isSelfEmployed: (occupation) => ['selfEmployed', 'studentSelfEmployed'].includes(occupation),
-	isUnemployed: (occupation) => ['unemployed', 'student'].includes(occupation),
+	isUnemployed: (occupation) => ['unemployed', 'studentUnemployed'].includes(occupation),
+	isStudent: (occupation) => ['studentUnemployed', 'studentEmployee', 'studentSelfEmployed'].includes(occupation),
 	isMinijob: (occupation, monthlyIncome) => ['employee', 'studentEmployee'].includes(occupation) && monthlyIncome <= taxes.maxMinijobIncome,
 	isLowIncome: (monthlyIncome) => monthlyIncome <= taxes.maxMinijobIncome,
 };
