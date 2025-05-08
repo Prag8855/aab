@@ -105,7 +105,7 @@ If it's a **mandatory internship before or after your studies**:[^65]
 - **If it pays more than {{GKV_AZUBI_FREIBETRAG|cur}}€ per month**  
     You have [the same options as other employees](#health-insurance-for-employees).
 
-If it's a **voluntary internship**, you have the [same options as an employee](#health-insurance-for-employees).[^67] If it's an unpaid internship, you have the [same options as an unemployed student](#health-insurance-for-students); you get no help from your employer.[^68]
+If it's a **voluntary internship**, it's treated like a normal job. You have the [same options as an employee](#health-insurance-for-employees).[^67] If you don't get paid, you have the [same options as an unemployed student](#health-insurance-for-students), and you don't get help from your employer.[^68]
 
 ### Health insurance for an apprenticeship
 
