@@ -58,7 +58,7 @@ Your employer can help you get health insurance. This is a bad idea. They choose
 
 **If you are under 30 years old**, you pay the student tariff. [Public health insurance](/glossary/gesetzliche%20Krankenversicherung) costs around {{GKV_COST_STUDENT|cur}}€ per month. Public health insurance is usually the best option for students.[^59] You also can get [private health insurance](/glossary/private%20Krankenversicherung), but it's usually a little more expensive.
 
-**If you are over 30 years old**, you can't get the student tariff. [Public health insurance](/glossary/gesetzliche%20Krankenversicherung) costs around [{{GKV_MIN_COST_SELF_PAY|cur}}€ per month](/glossary/Mindestbeitrag).[^25] [Private health insurance](/glossary/private%20Krankenversicherung) might be cheaper for you. You can't get [free health insurance](#free-health-insurance).
+**If you are over 30 years old**, you can't get the student tariff. [Public health insurance](/glossary/gesetzliche%20Krankenversicherung) costs around [{{GKV_MIN_COST_SELF_PAY|cur}}€ per month](/glossary/Mindestbeitrag).[^25] [Private health insurance](/glossary/private%20Krankenversicherung) might be cheaper for you. You can't get [free health insurance](#free-health-insurance). If you work, you are treated [like a normal employee](#health-insurance-for-employees); public health insurance costs a percentage of your income.
 
 **If you are a foreign student**, you might need temporary health insurance before school starts. If you are from the EU, you can use [health insurance from your home country](#insurance-from-other-eu-countries). If you are not from the EU, you might need [expat health insurance](/glossary/Expat%20health%20insurance). An [insurance broker](#insurance-brokers) can help you choose.
 
