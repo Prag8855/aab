@@ -257,7 +257,10 @@
 			<hr>
 		</template>
 		<h3>Public health insurance</h3>
-		<p>
+		<p v-if="flag('azubi-free')">
+			You make under <eur :amount="healthInsurance.azubiFreibetrag"></eur> per month, so your employer pays for your health insurance. You must still choose an insurer.
+		</p>
+		<p v-else>
 			<template v-if="showFreeOptions">If you can't get free health insurance, you pay</template>
 			<template v-if="!showFreeOptions"><glossary term="gesetzliche Krankenversicherung">Public health insurance</glossary> costs</template>
 			<strong>
@@ -282,10 +285,6 @@
 			</template>
 			<template v-if="occupation === 'student' && flag('student-30plus') && age <= 45">
 				You are over 30 years old, so you can't get the student tariff. Private health insurance might be cheaper.
-			</template>
-			
-			<template v-else-if="flag('azubi-free')">
-				You make under <eur :amount="healthInsurance.azubiFreibetrag"></eur> per month, so your employer pays for your health insurance. You must still choose an insurer.
 			</template>
 			<template v-if="occupation === 'selfEmployed' && yearlyIncome <= 30000">
 				If your income is under <eur :amount="30000"></eur> per year, public health insurance is <strong>the safest option</strong>.
@@ -349,6 +348,7 @@
 						It might be your only option, because public health insurers sometimes reject freelancers.
 					</template>
 				</p>
+
 				<p>
 					<strong>Do not choose private health insurance without help.</strong> It's a hard decision and you can make expensive mistakes. An insurance broker can help you get better, cheaper health insurance. Their help is free.
 				</p>
