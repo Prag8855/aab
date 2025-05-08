@@ -90,20 +90,8 @@
 						return 'your parents have';
 					}
 				},
-				privateCost() {
-					if(!this.flag('private')){
-						return;
-					}
-
-					if(this.result.tarif === 'student' || this.flag('student-30plus')){
-						return {{ OTTONOVA_STUDENT_COST }};
-					}
-					else if(this.result.tarif === 'selfEmployed'){
-						return {{ OTTONOVA_SELFEMPLOYED_COST }};
-					}
-					else if(this.result.tarif === 'employee'){
-						return {{ OTTONOVA_EMPLOYEE_COST }};
-					}
+				showPrivateOptions() {
+					return this.flag('private')
 				},
 				ottonovaLink() {
 					if(this.occupation === 'student'){
@@ -135,10 +123,16 @@
 				},
 				occupation(newOccupation) {
 					if(newOccupation === 'unemployed') {
-						this.yearlyIncome = 0;
+						this.useMonthlyIncome = true;
+						this.inputIncome = 0;
+					}
+					else if(newOccupation === 'student') {
+						this.useMonthlyIncome = true;
+						this.inputIncome = this.useMonthlyIncome ? 500 : 5000;
 					}
 					else if(newOccupation === 'employee') {
-						this.yearlyIncome = 45000;
+						this.useMonthlyIncome = false;
+						this.inputIncome = this.useMonthlyIncome ? 4000 : 4000 * 12;
 					}
 				},
 			}
@@ -160,7 +154,7 @@
 				</button>
 			</li>
 			<li>
-				<button @click.prevent="occupation = ''; stage = 'questions'">
+				<button @click.prevent="occupation = 'student'; stage = 'questions'">
 					{% endraw %}{% include "_css/icons/student.svg" %}{% raw %}
 					Student
 				</button>
@@ -241,7 +235,7 @@
 	<template v-if="stage === 'insuranceOptions'">
 		<template v-if="showFreeOptions">
 			<h3>Free health insurance</h3>
-			<p>You can get <strong>free public health insurance</strong> because you have a low income.</p>
+			<p>You can get <strong>free <glossary term="gesetzliche Krankenversicherung">public health insurance</glossary></strong> because you have a low income.</p>
 			<ul class="buttons list">
 				<li v-if="flag('alg-i-buergergeld')">
 					<a title="Learn more about state-sponsored health insurance" href="/guides/german-health-insurance#free-health-insurance" target="_blank">
@@ -289,7 +283,7 @@
 		<h3>Public health insurance</h3>
 		<p>
 			<template v-if="showFreeOptions">If you can't get free health insurance, you must pay</template>
-			<template v-if="!showFreeOptions">Public health insurance costs</template>
+			<template v-if="!showFreeOptions"><glossary term="gesetzliche Krankenversicherung">Public health insurance</glossary> costs</template>
 			<strong>
 				<output v-if="maxTotal === 0">
 					<eur :amount="0"></eur>
@@ -302,7 +296,9 @@
 					to
 					<eur :amount="maxTotal.personalContribution"></eur>
 				</output>
-				per month</strong>, depending on the insurer. This includes <glossary term="Pflegeversicherung">long-term care insurance</glossary>.
+				per month</strong>, depending on the insurer.
+				<template v-if="childrenCount > 2">If you have {{ childrenCount }} children, it's usually the cheapest option.</template>
+				<template v-if="age > 45">If you are over 45 years old, it's usually the cheapest option.</template>
 			<template v-if="flag('max-contribution')">
 				You make over <eur :amount="healthInsurance.maxMonthlyIncome" :cents="false"></eur> per month, so you pay the <glossary term="Höchstbeitrag">maximum price</glossary>.
 			</template>
@@ -313,7 +309,7 @@
 				You make under <eur :amount="healthInsurance.azubiFreibetrag"></eur> per month, so your employer pays for your health insurance. You must still choose an insurer.
 			</template>
 		</p>
-		<p>There are 94 public health insurers. Their cost and coverage are similar. Barmer and Techniker Krankenkasse are the most popular options.</p>
+		<p>There are dozens of public health insurers. Their price and coverage are similar. Barmer and Techniker Krankenkasse are the most popular options.</p>
 		<ul class="buttons">
 			<li>
 				<a title="Sign up with BARMER" href="/out/barmer" target="_blank">
@@ -340,44 +336,18 @@
 				</a>
 			</li>
 		</ul>
-		<template v-if="privateCost">
+		<template v-if="showPrivateOptions">
 			<hr>
 			<h3>Private health insurance</h3>
-			<p>
+			<p v-if="age > 45">
+				If you are over 45 years old, <glossary term="private Krankenversicherung">private health insurance</glossary> is usually more expensive than public.
+			</p>
+			<p v-if="age <= 45">
 				<glossary term="private Krankenversicherung">Private health insurance</glossary> can be better and cheaper than public health insurance. It depends on your situation.
 			</p>
-			<ul class="buttons list">
-				<li>
-					<a @click.prevent.prevent="stage = 'askABroker'" title="Choose a health insurance broker" href="/guides/german-health-insurance#insurance-brokers" target="_blank">
-						{% endraw %}{% include "_css/icons/help.svg" %}{% raw %}
-						<div>
-							<h3>Ask a health insurance broker</h3>
-							<p>Don't choose private health insurance yourself; it's a really bad idea. Ask a broker to help you choose.</p>
-						</div>
-					</a>
-				</li>
-				<li>
-					<a title="Get a quote from Feather" href="/out/feather-private" target="_blank">
-						{% endraw %}{% include "_css/icons/health-insurance/logo-feather.svg" %}{% raw %}
-						<div>
-							<h3>Get a quote from Feather</h3>
-							<p>They sell insurance from a few insurers. I got my health insurance from them. It's a great company.</p>
-						</div>
-					</a>
-				</li>
-				<li>
-					<a title="Get a quote from Ottonova" :href="ottonovaLink" target="_blank">
-						{% endraw %}{% include "_css/icons/health-insurance/logo-ottonova.svg" %}{% raw %}
-						<div>
-							<h3>Get a quote from Ottonova</h3>
-							<p>They sell their own health insurance. They speak English.</p>
-						</div>
-						<output v-if="privateCost">
-							<small>From</small> <eur :amount="privateCost"></eur> <small>per month</small>
-						</output>
-					</a>
-				</li>
-			</ul>
+			<p>
+				Never choose private health insurance yourself. Ask a broker to help you choose.
+			</p>
 		</template>
 		<template v-if="flag('ksk')">
 			<hr>
@@ -408,7 +378,7 @@
 				</button>
 			</li>
 		</ul>
-
+		<hr>
 		<div class="buttons bar">
 			<button class="button" @click.prevent="stage = 'questions'">
 				<i class="icon left" aria-hidden="true"></i> Go back
