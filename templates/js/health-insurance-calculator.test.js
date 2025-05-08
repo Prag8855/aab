@@ -94,7 +94,7 @@ function hasMinimumSelfPayTarif(output) {
 	equal(output.tarif, 'selfPay');
 	equal(
 		output.baseContribution.totalContribution,
-		round(healthInsurance.minMonthlyIncome * healthInsurance.defaultTarif));
+		round(healthInsurance.minMonthlyIncome * healthInsurance.selfPayTarif));
 	equal(
 		output.options.tk.zusatzbeitrag.totalContribution,
 		round(healthInsurance.minMonthlyIncome * healthInsurance.companies.tk.zusatzbeitrag));
@@ -108,7 +108,7 @@ function hasMinimumSelfPayTarifWithExtraPflegeversicherung(output) {
 	equal(output.tarif, 'selfPay');
 	equal(
 		output.baseContribution.totalContribution,
-		round(healthInsurance.minMonthlyIncome * healthInsurance.defaultTarif));
+		round(healthInsurance.minMonthlyIncome * healthInsurance.selfPayTarif));
 	equal(
 		output.options.tk.zusatzbeitrag.totalContribution,
 		round(healthInsurance.minMonthlyIncome * healthInsurance.companies.tk.zusatzbeitrag));
@@ -119,21 +119,24 @@ function hasMinimumSelfPayTarifWithExtraPflegeversicherung(output) {
 	hasFlag(output, 'min-contribution')();
 }
 
-function hasStandardTarif2001(output) {
+function hasStandardTarifHighIncomeStudent(output) {
+	const income = Math.ceil(0.75 * healthInsurance.nebenjobMaxIncome + 1);
+
+
 	equal(
 		output.baseContribution.totalContribution,
-		round(2001 * healthInsurance.defaultTarif));
+		round(income * healthInsurance.defaultTarif));
 	equal(
 		output.options.tk.zusatzbeitrag.totalContribution,
-		round(2001 * healthInsurance.companies.tk.zusatzbeitrag));
+		round(income * healthInsurance.companies.tk.zusatzbeitrag));
 	equal(
 		output.pflegeversicherung.totalContribution,
-		round(2001 * pflegeversicherung.defaultTarif));
+		round(income * pflegeversicherung.defaultTarif));
 	equal(
 		output.options.tk.total.employerContribution,
-		round(2001 * healthInsurance.defaultTarif / 2)
-			+ round(2001 * healthInsurance.companies.tk.zusatzbeitrag / 2)
-			+ round(2001 * pflegeversicherung.employerTarif)
+		round(income * healthInsurance.defaultTarif / 2)
+			+ round(income * healthInsurance.companies.tk.zusatzbeitrag / 2)
+			+ round(income * pflegeversicherung.employerTarif)
 	);
 }
 function hasMaxTarif(output) {
@@ -421,17 +424,17 @@ describe('calculateHealthInsuranceContributions', () => {
 			it('does not pay more for Pflegeversicherung if he has no kids', notHasFlag(outputNoKids, 'pflegeversicherung-surcharge'));
 		});
 
-		describe('a student with a 20 hr/week, 2001€/month job', () => {
+		describe(`a student with a 20 hr/week, ${Math.ceil(0.75 * healthInsurance.nebenjobMaxIncome + 1)}€/month job`, () => {
 			const output = calculateHealthInsuranceContributions({
 				age: 22,
 				childrenCount: 0,
 				isMarried: true,
 				occupation: 'studentEmployee',
-				monthlyIncome: 2001,
+				monthlyIncome: Math.ceil(0.75 * healthInsurance.nebenjobMaxIncome + 1),
 			});
 
 			it('must pay the employee rate due to their high income', () => {
-				hasStandardTarif2001(output);
+				hasStandardTarifHighIncomeStudent(output);
 				equal(output.tarif, 'employee');
 				hasFlag(output, 'not-nebenjob')();
 			});
@@ -658,17 +661,17 @@ describe('calculateHealthInsuranceContributions', () => {
 			it('pays more for Pflegeversicherung if he has no kids', hasFlag(outputNoKids, 'pflegeversicherung-surcharge'));
 		});
 
-		describe('a 17 year old employee with a 2001€ job', () => {
+		describe(`a 17 year old employee with a ${Math.ceil(0.75 * healthInsurance.nebenjobMaxIncome + 1)}€ job`, () => {
 			const output = calculateHealthInsuranceContributions({
 				age: 17,
 				childrenCount: 0,
 				isMarried: true,
 				occupation: 'employee',
-				monthlyIncome: 2001,
+				monthlyIncome: Math.ceil(0.75 * healthInsurance.nebenjobMaxIncome + 1),
 			});
 
 			it('must pay the employee rate', () => {
-				hasStandardTarif2001(output);
+				hasStandardTarifHighIncomeStudent(output);
 				equal(output.tarif, 'employee');
 			});
 
@@ -679,17 +682,17 @@ describe('calculateHealthInsuranceContributions', () => {
 			it('can\'t use their parents\' insurance', notHasFlag(output, 'familienversicherung-parents'));
 		});
 
-		describe('an 18 year old employee with a 2001€ job', () => {
+		describe(`an 18 year old employee with a ${Math.ceil(0.75 * healthInsurance.nebenjobMaxIncome + 1)}€ job`, () => {
 			const output = calculateHealthInsuranceContributions({
 				age: 19,
 				childrenCount: 0,
 				isMarried: true,
 				occupation: 'employee',
-				monthlyIncome: 2001,
+				monthlyIncome: Math.ceil(0.75 * healthInsurance.nebenjobMaxIncome + 1),
 			});
 
 			it('must pay the employee rate', () => {
-				hasStandardTarif2001(output);
+				hasStandardTarifHighIncomeStudent(output);
 				equal(output.tarif, 'employee');
 			});
 
@@ -718,18 +721,18 @@ describe('calculateHealthInsuranceContributions', () => {
 
 			it('must pay the midijob tarif', () => {
 				equal(outputWithKids.tarif, 'midijob');
-				equal(outputWithKids.baseContribution.totalContribution, 52.71);
-				equal(outputWithKids.options.tk.zusatzbeitrag.totalContribution, 4.33);
-				equal(outputWithKids.pflegeversicherung.totalContribution, 12.28);
+				equal(outputWithKids.baseContribution.totalContribution, 54.41);
+				equal(outputWithKids.options.tk.zusatzbeitrag.totalContribution, 9.13);
+				equal(outputWithKids.pflegeversicherung.totalContribution, 13.42);
 				equal(outputNoKids.tarif, 'midijob');
-				equal(outputNoKids.baseContribution.totalContribution, 52.71);
-				equal(outputNoKids.options.tk.zusatzbeitrag.totalContribution, 4.33);
-				equal(outputNoKids.pflegeversicherung.totalContribution, 14.44);
+				equal(outputNoKids.baseContribution.totalContribution, 54.41);
+				equal(outputNoKids.options.tk.zusatzbeitrag.totalContribution, 9.13);
+				equal(outputNoKids.pflegeversicherung.totalContribution, 15.65);
 			});
 
 			it('must pay a smaller share than the employer', () => {
-				equal(outputWithKids.options.tk.total.employerContribution, 69.19);
-				equal(outputNoKids.options.tk.total.employerContribution, 69.17);
+				equal(outputWithKids.options.tk.total.employerContribution, 76.82);
+				equal(outputNoKids.options.tk.total.employerContribution, 76.8);
 			});
 
 			it('does not pay the minijob tarif', notHasFlag(outputNoKids, 'minijob'));
@@ -749,13 +752,13 @@ describe('calculateHealthInsuranceContributions', () => {
 
 			it('must pay the midijob tarif', () => {
 				equal(outputNoKids.tarif, 'midijob');
-				equal(outputNoKids.baseContribution.totalContribution, 52.71);
-				equal(outputNoKids.options.tk.zusatzbeitrag.totalContribution, 4.33);
-				equal(outputNoKids.pflegeversicherung.totalContribution, 12.28);
+				equal(outputNoKids.baseContribution.totalContribution, 54.41);
+				equal(outputNoKids.options.tk.zusatzbeitrag.totalContribution, 9.13);
+				equal(outputNoKids.pflegeversicherung.totalContribution, 13.42);
 			});
 
 			it('must pay a smaller share than the employer', () => {
-				equal(outputNoKids.options.tk.total.employerContribution, 69.19);
+				equal(outputNoKids.options.tk.total.employerContribution, 76.82);
 			});
 
 			it('does not pay the minijob tarif', notHasFlag(outputNoKids, 'minijob'));
@@ -775,13 +778,13 @@ describe('calculateHealthInsuranceContributions', () => {
 
 			it('must pay the midijob tarif', () => {
 				equal(outputNoKids.tarif, 'midijob');
-				equal(outputNoKids.baseContribution.totalContribution, 52.71);
-				equal(outputNoKids.options.tk.zusatzbeitrag.totalContribution, 4.33);
-				equal(outputNoKids.pflegeversicherung.totalContribution, 12.28);
+				equal(outputNoKids.baseContribution.totalContribution, 54.41);
+				equal(outputNoKids.options.tk.zusatzbeitrag.totalContribution, 9.13);
+				equal(outputNoKids.pflegeversicherung.totalContribution, 13.42);
 			});
 
 			it('must pay a smaller share than the employer', () => {
-				equal(outputNoKids.options.tk.total.employerContribution, 69.19);
+				equal(outputNoKids.options.tk.total.employerContribution, 76.82);
 			});
 
 			it('does not pay the minijob tarif', notHasFlag(outputNoKids, 'minijob'));
@@ -802,12 +805,12 @@ describe('calculateHealthInsuranceContributions', () => {
 			it('must pay the midijob tarif', () => {
 				equal(outputNoKids.tarif, 'midijob');
 				equal(outputNoKids.baseContribution.totalContribution, 292);
-				equal(outputNoKids.options.tk.zusatzbeitrag.totalContribution, 24);
-				equal(outputNoKids.pflegeversicherung.totalContribution, 68);
+				equal(outputNoKids.options.tk.zusatzbeitrag.totalContribution, 49);
+				equal(outputNoKids.pflegeversicherung.totalContribution, 72);
 			});
 
 			it('must pay a smaller share than the employer', () => {
-				equal(outputNoKids.options.tk.total.employerContribution, 146 + 12 + 34);
+				equal(outputNoKids.options.tk.total.employerContribution, (292 + 49 + 72) / 2);
 			});
 
 			it('does not pay the minijob tarif', notHasFlag(outputNoKids, 'minijob'));
@@ -833,13 +836,13 @@ describe('calculateHealthInsuranceContributions', () => {
 			it('does not pay the minijob tarif', notHasFlag(outputNoKids, 'minijob'));
 		});
 
-		describe('an employee with a 5000€ job', () => {
+		describe('an employee with a 6000€ job', () => {
 			const outputNoKids = calculateHealthInsuranceContributions({
 				age: 22,
 				childrenCount: 0,
 				isMarried: true,
 				occupation: 'employee',
-				monthlyIncome: 5000,
+				monthlyIncome: 6000,
 			});
 
 			it('must pay the maximum employee tarif', () => {
@@ -984,20 +987,20 @@ describe('calculateHealthInsuranceContributions', () => {
 			it('can\'t use their parents\' insurance', notHasFlag(outputNoKids, 'familienversicherung-parents'));
 		});
 
-		describe('a 23 year old freelancer with a 5000€ job', () => {
+		describe('a 23 year old freelancer with a 6000€ job', () => {
 			const outputNoKids = calculateHealthInsuranceContributions({
 				age: 23,
 				childrenCount: 0,
 				isMarried: true,
 				occupation: 'selfEmployed',
-				monthlyIncome: 5000,
+				monthlyIncome: 6000,
 			});
 			const outputWithKids = calculateHealthInsuranceContributions({
 				age: 23,
 				childrenCount: 1,
 				isMarried: true,
 				occupation: 'selfEmployed',
-				monthlyIncome: 5000,
+				monthlyIncome: 6000,
 			});
 
 			it('must pay the maximum self-employed tarif', () => {
@@ -1103,7 +1106,7 @@ describe('calculateHealthInsuranceContributions', () => {
 				equal(
 					outputNoKids.pflegeversicherung.totalContribution,
 					round(taxes.maxMinijobIncome * pflegeversicherung.surchargeTarif));
-				equal(outputNoKids.options.tk.total.employerContribution, 49.92);
+				equal(outputNoKids.options.tk.total.employerContribution, 57.41);
 				notHasFlag(outputNoKids, 'azubi-free')();
 
 				equal(outputWithKids.tarif, 'azubi');
@@ -1116,7 +1119,7 @@ describe('calculateHealthInsuranceContributions', () => {
 				equal(
 					outputWithKids.pflegeversicherung.totalContribution,
 					round(taxes.maxMinijobIncome * pflegeversicherung.defaultTarif));
-				equal(outputWithKids.options.tk.total.employerContribution, 49.92);
+				equal(outputWithKids.options.tk.total.employerContribution, 57.41);
 				notHasFlag(outputWithKids, 'azubi-free')();
 			});
 
@@ -1155,7 +1158,7 @@ describe('calculateHealthInsuranceContributions', () => {
 				equal(
 					outputNoKids.pflegeversicherung.totalContribution,
 					round((taxes.maxMinijobIncome + 1) * pflegeversicherung.surchargeTarif));
-				equal(outputNoKids.options.tk.total.employerContribution, 50.02);
+				equal(outputNoKids.options.tk.total.employerContribution, 57.51);
 				notHasFlag(outputNoKids, 'azubi-free')();
 
 				equal(outputWithKids.tarif, 'azubi');
@@ -1168,7 +1171,7 @@ describe('calculateHealthInsuranceContributions', () => {
 				equal(
 					outputWithKids.pflegeversicherung.totalContribution,
 					round((taxes.maxMinijobIncome + 1) * pflegeversicherung.defaultTarif));
-				equal(outputWithKids.options.tk.total.employerContribution, 50.02);
+				equal(outputWithKids.options.tk.total.employerContribution, 57.51);
 				notHasFlag(outputWithKids, 'azubi-free')();
 			});
 
@@ -1180,29 +1183,29 @@ describe('calculateHealthInsuranceContributions', () => {
 			it('can\'t pay the Midijob tarif', notHasFlag(outputNoKids, 'midijob'));
 		});
 
-		describe('an Azubi with a 2001€ income', () => {
+		describe(`an Azubi with a ${Math.ceil(0.75 * healthInsurance.nebenjobMaxIncome + 1)}€ income`, () => {
 			const output = calculateHealthInsuranceContributions({
 				age: 22,
 				childrenCount: 0,
 				isMarried: true,
 				occupation: 'azubi',
-				monthlyIncome: 2001,
+				monthlyIncome: Math.ceil(0.75 * healthInsurance.nebenjobMaxIncome + 1),
 			});
 
 			it('must pay the standard percentage of their income', () => {
-				hasStandardTarif2001(output);
+				hasStandardTarifHighIncomeStudent(output);
 				equal(output.tarif, 'azubi');
 			});
 			it('can\'t get private health insurance', notHasFlag(output, 'private'));
 		});
 
-		describe('an Azubi with a 5000€ income', () => {
+		describe('an Azubi with a 6000€ income', () => {
 			const output = calculateHealthInsuranceContributions({
 				age: 22,
 				childrenCount: 0,
 				isMarried: true,
 				occupation: 'azubi',
-				monthlyIncome: 5000,
+				monthlyIncome: 6000,
 			});
 
 			it('must pay the maximum employee tarif', () => {
