@@ -296,14 +296,14 @@
 				</output>
 				per month</strong>, depending on the insurer you choose.
 
-			<template v-if="flag('private') && childrenCount > 2">If you have {{ childrenCount }} children, it's usually the cheapest option, because it covers your children for free.</template>
+			<template v-if="flag('private') && childrenCount > 2">It's usually the cheapest option, because it covers your {{ childrenCount }} children for free.</template>
 			<template v-if="flag('private') && age > 45">If you are over 45 years old, it's usually the cheapest option.</template>
 			
 			<template v-if="isStudent && !flag('student-30plus')">
 				<glossary term="gesetzliche Krankenversicherung">Public health insurance</glossary> is usually the best option for students under 30 years old.
 			</template>
-			<template v-if="isStudent && flag('student-30plus') && age <= 45">
-				You are over 30 years old, so you can't get the student tariff. Private health insurance might be cheaper.
+			<template v-if="flag('private') && isStudent && flag('student-30plus') && age <= 45 && childrenCount <= 2">
+				You are over 30 years old, so you can't get the student tariff. Private health insurance might be cheaper than public.
 			</template>
 			<template v-if="occupation === 'selfEmployed' && yearlyIncome <= 30000">
 				If your income is under <eur :amount="30000"></eur> per year, public health insurance is <strong>the safest option</strong>.
@@ -359,7 +359,7 @@
 					If you are over 45 years old, <glossary term="private Krankenversicherung">private health insurance</glossary> is usually more expensive than public.
 				</p>
 				<p v-else-if="flag('student-30plus')">
-					As a student over 30 years old, private health insurance might be cheaper.
+					As a student over 30 years old, private health insurance might be cheaper than public.
 				</p>
 				<p v-else>
 					If you are young and healthy, <glossary term="private Krankenversicherung">private health insurance</glossary> can be better and cheaper than public.
