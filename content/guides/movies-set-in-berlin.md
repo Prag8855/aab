@@ -15,7 +15,7 @@ Below is a list of movies in which Berlin is a prominently featured location. Th
 
 Wings of Desire prominently features West Berlin, the Berlin wall, Potsdamer Platz and a handful of other locations around Berlin.
 
-[IMDb](https://www.imdb.com/title/tt2406566/?ref_=nv_sr_1) - [U-Bahn scene](https://www.youtube.com/watch?v=2izlo8UX_PA)
+[IMDb](https://www.imdb.com/de/title/tt0093191/) - [U-Bahn scene](https://www.youtube.com/watch?v=2izlo8UX_PA)
 
 ## Inglourious Basterds (2009)
 
