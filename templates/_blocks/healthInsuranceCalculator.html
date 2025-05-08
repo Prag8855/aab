@@ -90,21 +90,6 @@
 						return 'your parents have';
 					}
 				},
-				showPrivateOptions() {
-					return this.flag('private')
-				},
-				ottonovaLink() {
-					if(this.occupation === 'student'){
-						return "/out/ottonova-students";
-					}
-					else if(occupations.isEmployed(this.occupation)){
-						return "/out/ottonova-employees";
-					}
-					else if(occupations.isSelfEmployed(this.occupation)){
-						return "/out/ottonova-freelancers";
-					}
-					return "/out/ottonova";
-				},
 			},
 			methods: {
 				flag(flagName){
@@ -257,7 +242,7 @@
 						<div>
 							<h3><glossary term="Familienversicherung">Family insurance</glossary></h3>
 							<p>
-								If {{ yourSponsorsHave }} <glossary term="gesetzliche Krankenversicherung">public health insurance</glossary>, it covers you for free.
+								If {{ yourSponsorsHave }} public health insurance, it covers you for free.
 							</p>
 						</div>
 						<output>
@@ -297,10 +282,13 @@
 					<eur :amount="maxTotal.personalContribution"></eur>
 				</output>
 				per month</strong>, depending on the insurer.
-				<template v-if="childrenCount > 2">If you have {{ childrenCount }} children, it's usually the cheapest option.</template>
-				<template v-if="age > 45">If you are over 45 years old, it's usually the cheapest option.</template>
+				<template v-if="flag('private') && childrenCount > 2">If you have {{ childrenCount }} children, it's usually the cheapest option.</template>
+				<template v-if="flag('private') && age > 45">If you are over 45 years old, it's usually the cheapest option.</template>
+			<template v-if="result.tarif === 'student' && !flag('student-30plus')">
+				<glossary term="gesetzliche Krankenversicherung">Public health insurance</glossary> is usually the best option for students under 30 years old.
+			</template>
 			<template v-if="flag('max-contribution')">
-				You make over <eur :amount="healthInsurance.maxMonthlyIncome" :cents="false"></eur> per month, so you pay the <glossary term="Höchstbeitrag">maximum price</glossary>.
+				You make over <eur :amount="healthInsurance.maxMonthlyIncome * 12" :cents="false"></eur> per year, so you pay the <glossary term="Höchstbeitrag">maximum price</glossary>.
 			</template>
 			<template v-else-if="flag('min-contribution') && !showFreeOptions">
 				You make under <eur :amount="healthInsurance.minMonthlyIncome" :cents="false"></eur> per month, so you pay the <glossary term="Mindestbeitrag">minimum price</glossary>.
@@ -309,14 +297,14 @@
 				You make under <eur :amount="healthInsurance.azubiFreibetrag"></eur> per month, so your employer pays for your health insurance. You must still choose an insurer.
 			</template>
 		</p>
-		<p>There are dozens of public health insurers. Their price and coverage are similar. Barmer and Techniker Krankenkasse are the most popular options.</p>
+		<p>You must choose an insurer. There are dozens of options. Their price and coverage are almost the same. Barmer and Techniker Krankenkasse are the most popular options.</p>
 		<ul class="buttons">
 			<li>
 				<a title="Sign up with BARMER" href="/out/barmer" target="_blank">
 					{% endraw %}{% include "_css/icons/health-insurance/logo-barmer.svg" %}{% raw %}
 					<div>
 						<h3>Barmer</h3>
-						<p>Best sign-up experience for expats. They speak English.</p>
+						<p>Best sign-up experience for expats. Second biggest health insurer. They speak English.</p>
 					</div>
 					<output>
 						<eur :amount="result.options.barmer.total.personalContribution"></eur> <small>per month</small>
@@ -335,20 +323,46 @@
 					</output>
 				</a>
 			</li>
+			<li>
+				<button @click.prevent.prevent="stage = 'askABroker'">
+					{% endraw %}{% include "_css/icons/help.svg" %}{% raw %}
+					<div>
+						<h3>Ask an expert to choose</h3>
+						<p>Let an independent insurance broker choose the best insurance for you. Their help is free.</p>
+					</div>
+				</button>
+			</li>
 		</ul>
-		<template v-if="showPrivateOptions">
-			<hr>
-			<h3>Private health insurance</h3>
+		<hr>
+		<h3>Private health insurance</h3>
+		<template v-if="flag('private')">
 			<p v-if="age > 45">
 				If you are over 45 years old, <glossary term="private Krankenversicherung">private health insurance</glossary> is usually more expensive than public.
+			</p>
+			<p v-if="result.tarif === 'student' && flag('student-30plus')">
+				As a student over 30 years old, private health insurance makes sense. It's often cheaper than public health insurance.
 			</p>
 			<p v-if="age <= 45">
 				<glossary term="private Krankenversicherung">Private health insurance</glossary> can be better and cheaper than public health insurance. It depends on your situation.
 			</p>
 			<p>
-				Never choose private health insurance yourself. Ask a broker to help you choose.
+				<strong>Don't choose private health insurance yourself.</strong> You can make expensive mistakes. An insurance broker can help you get better, cheaper health insurance. Their help is free.
 			</p>
+			<ul class="buttons list">
+				<li>
+					<button @click.prevent.prevent="stage = 'askABroker'">
+						{% endraw %}{% include "_css/icons/help.svg" %}{% raw %}
+						<div>
+							<h3>Ask an expert</h3>
+							<p>Get free advice in English by phone, email or WhatsApp. It's the best way to choose health insurance.</p>
+						</div>
+					</button>
+				</li>
+			</ul>
 		</template>
+		<p v-if="!flag('private')">
+			You can't choose <glossary term="private Krankenversicherung">private health insurance</glossary>, because your income is too low.
+		</p>
 		<template v-if="flag('ksk')">
 			<hr>
 			<h3>Other options</h3>
@@ -364,20 +378,6 @@
 				</li>
 			</ul>
 		</template>
-		<hr>
-		<h3>Avoid mistakes, ask for help</h3>
-		<p>Don't choose health insurance yourself. You can make expensive mistakes. An insurance broker can help you get better, cheaper health insurance. Their help is free.</p>
-		<ul class="buttons list">
-			<li>
-				<button @click.prevent.prevent="stage = 'askABroker'">
-					{% endraw %}{% include "_css/icons/help.svg" %}{% raw %}
-					<div>
-						<h3>Ask an expert</h3>
-						<p>Get free advice in English by phone, email or WhatsApp. It's the best way to choose health insurance.</p>
-					</div>
-				</button>
-			</li>
-		</ul>
 		<hr>
 		<div class="buttons bar">
 			<button class="button" @click.prevent="stage = 'questions'">
