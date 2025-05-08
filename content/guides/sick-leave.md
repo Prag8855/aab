@@ -69,6 +69,10 @@ After 6 weeks, your employer stops paying you. Instead, you get *[[Krankengeld]]
 
 If you have [private health insurance](/glossary/private%20Krankenversicherung), you do not get *Krankengeld*. You must get a separate *[[Krankentagegeld]]* insurance.
 
+If you have a [minijob](/glossary/Minijob), you do not get *Krankengeld* because you don't pay for it.[^26]
+
+If you are self-employed, you do not get *Krankengeld* unless you pay for it.[^27] By default, most freelancers do not pay for it. You can also get disability insurance (*[[Berufsunfähigkeitsversicherung]]*). It pays your salary if you are too sick or injured to work.
+
 ### After that
 
 You can get *Krankengeld* for 78 weeks every 3 years. After 6 weeks of sick pay and 78 weeks of *[[Krankengeld]]*, you must go to the *[[Agentur für Arbeit]]*, and apply for disability benefits.
@@ -151,3 +155,5 @@ Missing work because of a hangover looks really bad. If it happens often, you ca
 [^23]: [bild.de](https://www.bild.de/ratgeber/leben-und-wissen-verbraucherportal/verbraucherportal/jobfrage-kann-man-sich-mit-kater-krankschreiben-lassen-59202490.bild.html), [anwalt.de](https://www.anwalt.de/rechtstipps/olg-frankfurt-entscheidet-alkoholbedingter-kater-gilt-als-krankheit_163903.html#:~:text=auch%20wer%20verkatert%20zur%20arbeit%20erscheint%2C%20geht%20ein%20risiko%20ein.), [praxistipps.focus.de](https://praxistipps.focus.de/wegen-einem-kater-krankschreiben-lassen-alle-infos_137943#:~:text=fehlen%20sie%20auffallig%20oft)
 [^24]: [tk.de](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-versicherte/leistungen/weitere-leistungen/krankengeld/selbststaendige/krankengeldanspruch-selbststaendige-2006296)
 [^25]: [arbeitgeber.de](https://arbeitgeber.de/elektronische-arbeitsunfaehigkeitsbescheinigung/)
+[^26]: [verdi.de](https://www.verdi.de/themen/arbeit/++co++710ce828-5da8-11ec-be48-001a4a160129#:~:text=aus%20dem%20minijob%20selbst%20entsteht%20aber%20(daruber%20hinaus)%20kein%20anspruch%20auf%20krankengeld) (January 2025)
+[^27]: [tk.de](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-versicherte/leistungen/weitere-leistungen/krankengeld/selbststaendige/beitragshoehe-versicherung-krankengeld-selbststaendige-2006330)
