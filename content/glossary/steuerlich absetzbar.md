@@ -11,9 +11,11 @@ Related_guides:
     guides/english-speaking-steuerberater-berlin.md
 ---
 
-Some expenses are tax-deductible (*steuerlich absetzbar*). When you file a [tax declaration](/glossary/Steuererklärung), you can deduct those expenses. This reduces your taxable income, so you pay less [income tax](/glossary/Einkommensteuer). It's a good way to [save money](/guides/saving-money-germany).
+Some expenses are tax-deductible (*steuerlich absetzbar*). Your taxable income does not include the money you spent on those things.
 
-Tax software and [tax advisors](/glossary/Steuerberater) can help you file a [tax declaration](/glossary/Steuererklärung).
+For example, if you earn 50,000€ per year, and you have a tax-deductible expense of 10,000€, your taxable income is 40,000€. You only pay [income tax](/glossary/Einkommensteuer) on 40,000€.
+
+[Health insurance](/glossary/Krankenversicherung), some pension payments and business expenses are tax-deductible. [Tax software](/guides/german-tax-software) and [tax advisors](/glossary/Steuerberater) can help you file a [tax declaration](/glossary/Steuererklärung) and declare tax-deductible expenses.
 
 **[List of German tax software ➞](/guides/german-tax-software)**
 

@@ -133,6 +133,8 @@ Public health insurance costs {{GKV_BASE_RATE_EMPLOYEE}}% of your income, plus a
 
 **If you are self-employed**, you pay {{GKV_MIN_RATE_SELF_PAY}}% to {{GKV_MAX_RATE_SELF_PAY}}% of your income. The [minimum cost](/glossary/Mindestbeitrag) is around {{GKV_MIN_COST_SELF_PAY|cur}}€ per month. The [maximum cost](/glossary/Höchstbeitrag) is around {{GKV_MAX_COST_SELF_PAY|cur}}€ per month. You pay for health insurance by [direct debit authorisation](/glossary/SEPA-Lastschriftmandat) every month.[^8]
 
+The cost of public health insurance is [tax-deductible](/glossary/steuerlich%20absetzbar).
+
 ### Free health insurance
 
 Your parents' health insurance covers you for free if...
@@ -245,6 +247,8 @@ You can get really cheap private health insurance. You have low monthly payments
 You can also pay more and get the best coverage. You have higher monthly payments, but there is no deductible.
 
 A young, healthy employee could pay just 250€ per month for private insurance.[^62] Some insurers also have discounts for students.
+
+The cost of private health insurance is [tax-deductible](/glossary/steuerlich%20absetzbar).
 
 ### Benefits of private health insurance
 
