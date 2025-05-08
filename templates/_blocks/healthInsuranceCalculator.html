@@ -75,8 +75,8 @@
 				baseContributionPercentage() {
 					return (this.result.baseContribution.totalRate * 100).toFixed(1);
 				},
-				showIncomeInput() {
-					return this.occupation !== 'unemployed';
+				isUnemployed() {
+					return occupations.isUnemployed(this.occupation);
 				},
 				showPrivateLowIncomeWarning(){
 					return this.flag('private')
@@ -166,17 +166,6 @@
 
 	<template v-if="stage === 'questions'">
 		<h3>Tell us a bit more about you</h3>
-		<div class="form-group show-errors" v-if="showIncomeInput">
-			<label :for="uid('income')">
-				{{ salaryOrIncome }}
-			</label>
-			<div class="input-group">
-				<income-input :id="uid('income')" v-if="showIncomeInput" v-model="inputIncome"></income-input>
-				€
-				<button class="toggle" @click="useMonthlyIncome = !useMonthlyIncome">per {{ useMonthlyIncome ? 'month' : 'year' }}</button>
-				before taxes
-			</div>
-		</div>
 		<div class="form-group show-errors">
 			<label :for="uid('age')">
 				Age
@@ -199,6 +188,34 @@
 				<option :value="5">5 children</option>
 				<option :value="6">6+ children</option>
 			</select>
+		</div>
+		<div class="form-group" v-if="isStudent">
+			<label :for="uid('studentOccupation')">Other occupation</label>
+			<div class="input-group vertical">
+				<label class="checkbox">
+					<input type="radio" :name="uid('studentOccupation')" v-model="occupation" value="studentEmployee" required>
+					I have a job
+				</label>
+				<label class="checkbox">
+					<input type="radio" :name="uid('studentOccupation')" v-model="occupation" value="studentSelfEmployed" required>
+					I am self-employed
+				</label>
+				<label class="checkbox">
+					<input type="radio" :name="uid('studentOccupation')" v-model="occupation" value="studentUnemployed" required>
+					No other occupation
+				</label>
+			</div>
+		</div>
+		<div class="form-group show-errors" v-if="!isUnemployed">
+			<label :for="uid('income')">
+				{{ salaryOrIncome }}
+			</label>
+			<div class="input-group">
+				<income-input :id="uid('income')" v-model="inputIncome"></income-input>
+				€
+				<button class="toggle" @click="useMonthlyIncome = !useMonthlyIncome">per {{ useMonthlyIncome ? 'month' : 'year' }}</button>
+				before taxes
+			</div>
 		</div>
 		<hr>
 		<div class="buttons bar">
