@@ -171,7 +171,7 @@ There are 3 ways to apply:
 
 - **Use the [Business Immigration Service](https://www.businesslocationcenter.de/en/our-services/bis-business-immigration-service)**{{ RECOMMENDED }}  
     If you are a skilled worker, use BIS. It's faster, and it's free.[^47]
-- or **[use the online application form](/guides/immigration-office#apply-for-a-residence-permit)**  
+- or **[use the online application form](/guides/immigration-office#to-apply-for-a-residence-permit)**  
     [Some residence permits](https://www.berlin.de/einwanderung/en/services/our-services/artikel.878424.en.php) have their own application form. Use that form to apply.
 - or **[use the contact form](/guides/immigration-office#use-the-contact-form)**  
     If there is no application form for your residence permit, use the general contact form.

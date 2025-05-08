@@ -13,9 +13,9 @@ This is a guide for the *Landesamt für Einwanderung*, the immigration office in
 
 ## How to contact the Ausländerbehörde
 
-### Apply for a residence permit
+### To apply for a residence permit
 
-Some [residence permits](/glossary/Aufenthaltstitel) have their own online application form. Use that form to apply.
+Some [residence permits](/glossary/Aufenthaltstitel) have their own online application form:
 
 - [Blue Card](https://service.berlin.de/dienstleistung/324659/en/)
 - [Work visa for people with a university degree](https://service.berlin.de/dienstleistung/329328/en/)
@@ -142,7 +142,7 @@ In other cities, threatening to sue the *Ausländerbehörde* can make things wor
 
 ## Need help?
 
-The immigration office does not give immigration advice. An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocation consultant](/guides/relocation-agency-in-berlin) can answer your questions. Some organisations can also help you for free.
+The immigration office does not give immigration advice. An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocation consultant](/guides/relocation-agency-in-berlin) can answer your questions. You can also get free advice from some organisations.
 
 **[Where to ask immigration questions ➞](/guides/questions-about-berlin#immigration-questions)**
 
