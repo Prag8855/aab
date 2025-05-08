@@ -266,7 +266,7 @@ The cost of private health insurance is [tax-deductible](/glossary/steuerlich%20
 - **It discourages getting healthcare**  
     You usually have a yearly [deductible](/glossary/Selbstbeteiligung). You pay for healthcare yourself until you reach that deductible. After that, the insurer pays for your healthcare. If you are below the deductible, you might ignore small health problems instead of paying 50€ to 150€ to see a doctor.
 - **You pay, then you get reimbursed**  
-    When you go to the doctor, you pay for it, and your health insurance reimburses you later. This is more effort and more paperwork. You also need enough money to pay for your medical bills, even if you get reimbursed later.
+    When you go to the doctor, you pay for it, and your health insurance reimburses you later. This is more effort and more paperwork. You also need enough money to pay for medical emergencies, even if you get reimbursed later.
 - **It does not adjust to your income**  
     If your income changes, your health insurance costs the same. For example, if you [lose your job](/guides/losing-your-job), your business fails or you retire, your health insurance does not get cheaper. Public health insurance is a much safer option, because the cost is proportional to your income.
 - **They can reject you**  
@@ -292,9 +292,9 @@ There are thousands of private health insurance options. There are huge differen
 
 Do not choose private health insurance yourself. It's a really bad idea. The best way to choose is to [ask a health insurance broker](#insurance-brokers). Their help is free.
 
-[Feather](/out/feather-private) sells private health insurance. They are excellent, but they only sell insurance from a few companies. They might not sell the best insurance for your needs. To compare all insurance options, [talk to a broker](#insurance-brokers).
+[Feather](/out/feather-private) sells private health insurance. They are excellent, but they only sell insurance from a few companies. To compare all insurance options, [talk to a broker](#insurance-brokers).
 
-[Ottonova](/out/ottonova) sells their own private health insurance. It's rarely the best option.[^77] Don't choose Ottonova directly. [Ask a broker](#insurance-brokers) to help you choose. If Ottonova is a good option for you, they will tell you.[^76]
+[Ottonova](/out/ottonova) sells their own private health insurance. It's rarely the best option.[^77] Don't choose Ottonova directly; [ask a broker](#insurance-brokers) to help you. If Ottonova is a good option for you, they will tell you.[^76]
 
 ## Other options
 
