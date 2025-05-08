@@ -50,7 +50,9 @@
 						childrenCount: this.childrenCount,
 					});
 				},
-				salaryOrIncome() { return occupations.isEmployed(this.occupation) ? 'salary' : 'income' },
+				salaryOrIncome() {
+					return occupations.isEmployed(this.occupation) ? 'Salary' : 'Income';
+				},
 				incomeInputRange() {
 					return {
 						min: 0,
@@ -103,9 +105,6 @@
 				eur(num) {
 					return formatCurrency(num, false, '€', false);
 				},
-				toggleUseMonthlyIncome(){
-					this.useMonthlyIncome = !this.useMonthlyIncome;
-				},
 			},
 			watch: {
 				inputIncome(newIncome){
@@ -142,7 +141,7 @@
 				</button>
 			</li>
 			<li>
-				<button @click="occupation = ''; stage = 'questions'">
+				<button @click="occupation = 'intern'; stage = 'questions'">
 					{% endraw %}{% include "_css/icons/helper.svg" %}{% raw %}
 					Intern
 				</button>
@@ -166,12 +165,12 @@
 		<h3>Tell us a bit more about you</h3>
 		<div class="form-group show-errors" v-if="showIncomeInput">
 			<label :for="uid('income')">
-				{{ salaryOrIncome === 'salary' ? 'Salary' : 'Income' }}
+				{{ salaryOrIncome }}
 			</label>
 			<div class="input-group">
 				<income-input :id="uid('income')" v-if="showIncomeInput" v-model="inputIncome"></income-input>
 				€
-				<button class="toggle" @click="toggleUseMonthlyIncome">per {{ useMonthlyIncome ? 'month' : 'year' }}</button>
+				<button class="toggle" @click="useMonthlyIncome = !useMonthlyIncome">per {{ useMonthlyIncome ? 'month' : 'year' }}</button>
 				before taxes
 			</div>
 		</div>
