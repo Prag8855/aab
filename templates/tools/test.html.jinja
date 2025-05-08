@@ -45,15 +45,21 @@
 	</script>
 	<style type="text/css">
 		#mocha-stats{margin:0;padding:var(--m);background:var(--c-bg-widget);border-radius:var(--b-radius)}
-			.progress, .duration, .replay{display:none}
+			.progress-contain, .duration, .replay, .result{display:none}
 
 		#mocha-report .suite{margin-top:var(--s)}
 		#mocha-report > .suite > h1{font-weight:bold}
 		#mocha-report > .suite .pass h2{color:var(--c-text-light)}
 		#mocha-report > .suite > ul > .suite > h1{font-weight:bold}
 
+		.section{
+			max-width: 100%;
+			overflow-x:hidden;
+		}
+
 		#mocha-report *{
-			font-size: var(--m) !important;
+			font-size: var(--f-s) !important;
+			font-weight: normal;
 			line-height: var(--m) !important;
 			margin-top: 0;
 			margin-bottom: 0;
@@ -63,5 +69,11 @@
 			overflow-x:auto;
 			margin:var(--m) 0;
 		}
+
+		#mocha-report li li{
+			padding-left: var(--l);
+		}
+
+		#mocha-report .test.fail h2{color:red;font-weight: bold;}
 	</style>
 {% endblock %}
