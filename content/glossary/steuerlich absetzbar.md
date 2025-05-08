@@ -13,9 +13,9 @@ Related_guides:
 
 Some expenses are tax-deductible (*steuerlich absetzbar*). Your taxable income does not include the money you spent on those things.
 
-For example, if you earn 50,000€ per year, and you have a tax-deductible expense of 10,000€, your taxable income is 40,000€. You only pay [income tax](/glossary/Einkommensteuer) on 40,000€.
+For example, if you earn 50,000€ per year, and you have a 10,000€ tax-deductible expense, your taxable income is 40,000€. You only pay [income tax](/glossary/Einkommensteuer) on 40,000€.
 
-[Health insurance](/glossary/Krankenversicherung), some pension payments and business expenses are tax-deductible. [Tax software](/guides/german-tax-software) and [tax advisors](/glossary/Steuerberater) can help you file a [tax declaration](/glossary/Steuererklärung) and declare tax-deductible expenses.
+[Health insurance](/glossary/Krankenversicherung), business expenses and some pension payments are tax-deductible. [Tax software](/guides/german-tax-software) and [tax advisors](/glossary/Steuerberater) can help you file a [tax declaration](/glossary/Steuererklärung) and declare your tax-deductible expenses.
 
 **[List of German tax software ➞](/guides/german-tax-software)**
 
