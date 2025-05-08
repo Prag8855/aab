@@ -68,12 +68,6 @@ Your employer can help you get health insurance. This is a bad idea. They choose
 
 [Ask an expert](#insurance-brokers) to help you choose. They can help you find the cheapest health insurance. Their help is free.
 
-### Health insurance for unemployed people
-
-**If you get [[ALG I]], [[Bürgergeld]] or [[Elterngeld]]**, health insurance is free. The state pays for it.[^11] If you had private health insurance, you must usually switch to public health insurance.[^41]
-
-**If you don't get ALG I, Bürgergeld or Elterngeld**, you can choose public or private health insurance. You can get [free health insurance](#free-health-insurance). Otherwise, if you have public health insurance, you pay the [minimum amount](/glossary/Mindestbeitrag): around {{GKV_MIN_COST_SELF_PAY|cur}}€ per month.[^40] The cost of private health insurance is not related to your income.
-
 ### Health insurance for freelancers
 
 If you are self-employed, you can choose public or private health insurance.[^4]
@@ -92,11 +86,11 @@ If you are a freelance artist, journalist, publicist or influencer, join the *[[
 
 **[How to apply for the KSK ➞](/guides/ksk-kuenstlersozialkasse)**
 
-### Health insurance for an apprenticeship
+### Health insurance when unemployed
 
-**If you earn less than {{GKV_AZUBI_FREIBETRAG|cur}}€ per month**, you get free [public health insurance](/glossary/gesetzliche%20Krankenversicherung). Your employer pays for it.[^48]
+**If you get [[ALG I]], [[Bürgergeld]] or [[Elterngeld]]**, health insurance is free. The state pays for it.[^11] If you had private health insurance, you must usually switch to public health insurance.[^41]
 
-**If you earn more than {{GKV_AZUBI_FREIBETRAG|cur}}€ per month**, you can only choose [public health insurance](/glossary/gesetzliche%20Krankenversicherung).[^54] It costs {{GKV_MIN_RATE_EMPLOYEE}}% to {{GKV_MAX_RATE_EMPLOYEE}}% of your income (including *[[Pflegeversicherung]]*).[^52] You can't get [free health insurance](#free-health-insurance).[^53]
+**If you don't get ALG I, Bürgergeld or Elterngeld**, you can choose public or private health insurance. You can get [free health insurance](#free-health-insurance). Otherwise, if you have public health insurance, you pay the [minimum amount](/glossary/Mindestbeitrag): around {{GKV_MIN_COST_SELF_PAY|cur}}€ per month.[^40] The cost of private health insurance is not related to your income.
 
 ### Health insurance for an internship
 
@@ -111,7 +105,13 @@ If it's a **mandatory internship before or after your studies**:[^65]
 - **If it pays more than {{GKV_AZUBI_FREIBETRAG|cur}}€ per month**  
     You have [the same options as other employees](#health-insurance-for-employees).
 
-If it's a **voluntary internship**, you have the [same options as an employee](#health-insurance-for-employees).[^67] If it's an unpaid internship, you have the [same options as an unemployed student](#health-insurance-for-unemployed-people); you get no help from your employer.[^68]
+If it's a **voluntary internship**, you have the [same options as an employee](#health-insurance-for-employees).[^67] If it's an unpaid internship, you have the [same options as an unemployed student](#health-insurance-for-students); you get no help from your employer.[^68]
+
+### Health insurance for an apprenticeship
+
+**If you earn less than {{GKV_AZUBI_FREIBETRAG|cur}}€ per month**, you get free [public health insurance](/glossary/gesetzliche%20Krankenversicherung). Your employer pays for it.[^48]
+
+**If you earn more than {{GKV_AZUBI_FREIBETRAG|cur}}€ per month**, you can only choose [public health insurance](/glossary/gesetzliche%20Krankenversicherung).[^54] It costs {{GKV_MIN_RATE_EMPLOYEE}}% to {{GKV_MAX_RATE_EMPLOYEE}}% of your income (including *[[Pflegeversicherung]]*).[^52] You can't get [free health insurance](#free-health-insurance).[^53]
 
 ## Public health insurance
 
