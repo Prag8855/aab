@@ -330,8 +330,43 @@
 				If you make less than <eur :amount="30000"></eur> per year, public health insurance is <strong>the safest option</strong>.
 			</template>
 		</p>
+		<ul class="buttons">
+			<li>
+				<a title="Sign up with BARMER" href="/out/barmer" target="_blank">
+					{% endraw %}{% include "_css/icons/health-insurance/logo-barmer.svg" %}{% raw %}
+					<div>
+						<h3>Barmer</h3>
+						<p>Best sign-up experience for expats. Second biggest health insurer. They speak English.</p>
+					</div>
+					<output>
+						<eur :amount="result.options.barmer.total.personalContribution"></eur> <small>per month</small>
+					</output>
+				</a>
+			</li>
+			<li>
+				<a title="Sign up with Techniker Krankenkasse" href="/out/feather-tk" target="_blank">
+					{% endraw %}{% include "_css/icons/health-insurance/logo-tk.svg" %}{% raw %}
+					<div>
+						<h3>Techniker Krankenkasse</h3>
+						<p>Biggest German health insurer. They speak English.</p>
+					</div>
+					<output>
+						<eur :amount="result.options.tk.total.personalContribution"></eur> <small>per month</small>
+					</output>
+				</a>
+			</li>
+			<li>
+				<button @click="goToStage('askABroker')">
+					{% endraw %}{% include "_css/icons/help.svg" %}{% raw %}
+					<div>
+						<h3>Let an expert choose</h3>
+						<p>Ask an independent insurance broker to choose the best option. Their help is free.</p>
+					</div>
+				</button>
+			</li>
+		</ul>
 
-		<details class="collapsible">
+		<details class="cost-explanation">
 			<summary>Cost explanation</summary>
 			<p>
 				You pay the <strong>{{ tarifName }} tarif</strong>.
@@ -505,43 +540,6 @@
 				</p>
 			</details>
 		</details>
-
-		<p>You must choose an insurer. There are dozens of options, but their price and coverage are almost the same. The most popular are Barmer and Techniker Krankenkasse.</p>
-		<ul class="buttons">
-			<li>
-				<a title="Sign up with BARMER" href="/out/barmer" target="_blank">
-					{% endraw %}{% include "_css/icons/health-insurance/logo-barmer.svg" %}{% raw %}
-					<div>
-						<h3>Barmer</h3>
-						<p>Best sign-up experience for expats. Second biggest health insurer. They speak English.</p>
-					</div>
-					<output>
-						<eur :amount="result.options.barmer.total.personalContribution"></eur> <small>per month</small>
-					</output>
-				</a>
-			</li>
-			<li>
-				<a title="Sign up with Techniker Krankenkasse" href="/out/feather-tk" target="_blank">
-					{% endraw %}{% include "_css/icons/health-insurance/logo-tk.svg" %}{% raw %}
-					<div>
-						<h3>Techniker Krankenkasse</h3>
-						<p>Biggest German health insurer. They speak English.</p>
-					</div>
-					<output>
-						<eur :amount="result.options.tk.total.personalContribution"></eur> <small>per month</small>
-					</output>
-				</a>
-			</li>
-			<li>
-				<button @click="goToStage('askABroker')">
-					{% endraw %}{% include "_css/icons/help.svg" %}{% raw %}
-					<div>
-						<h3>Ask an expert to choose</h3>
-						<p>Let an independent insurance broker choose the best option for you. Their help is free.</p>
-					</div>
-				</button>
-			</li>
-		</ul>
 		<hr>
 		<h3>Private health insurance</h3>
 		<p v-if="!flag('private')">

@@ -2141,16 +2141,13 @@ collapsible, letter-generator, feedback-residence-permit{  // Vue element before
         padding-top: 0;
     }
 
-    .collapsible{
-        background: transparent;
-        box-shadow: none;
-
-        > summary{
-            font-weight: normal;
+    .cost-explanation {
+        > p{
+            font-size: var(--m);
         }
 
-        &:not([open]) > summary{
-            padding: var(--s) var(--m);
+        > summary{
+            text-align: center;
         }
     }
 }
