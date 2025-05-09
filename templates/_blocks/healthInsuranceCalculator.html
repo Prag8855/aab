@@ -139,6 +139,8 @@
 {% raw %}
 	<template v-slot:header>Health insurance calculator</template>
 
+	<progress v-if="stage !== 'start'" aria-label="Form progress" :max="stages.length - 1" :value="stageIndex"></progress>
+
 	<template v-if="stage === 'start'">
 		<h3>What is your occupation?</h3>
 		<ul class="buttons grid" aria-label="Occupations">
