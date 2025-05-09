@@ -257,7 +257,7 @@
 					<a title="Learn more about state-sponsored health insurance" href="/guides/german-health-insurance#free-health-insurance" target="_blank">
 						{% endraw %}{% include "_css/icons/bank.svg" %}{% raw %}
 						<div>
-							<h3>Social benefits</h3>
+							<h3>Paid by social benefits</h3>
 							<p>
 								If you get <glossary term="ALG I">unemployment benefits</glossary>, <glossary>Bürgergeld</glossary> or <glossary>Elterngeld</glossary>, you get free health insurance.
 							</p>
@@ -332,7 +332,7 @@
 		</p>
 
 		<details class="collapsible">
-			<summary>How the cost is calculated</summary>
+			<summary>Cost explanation</summary>
 			<p>
 				You pay the <strong>{{ tarifName }} tarif</strong>.
 				<template v-if="result.tarif === 'employee'">
@@ -410,7 +410,7 @@
 					</output>
 				</summary>
 				<p>
-					Insurers can charge more to offer better services. The average surcharge is {{ formatPercent(healthInsurance.avgZusatzbeitrag * 100) }} of your income.
+					Insurers can charge more to offer better services. Each insurer has a different surcharge. The average surcharge is {{ formatPercent(healthInsurance.avgZusatzbeitrag * 100) }} of your income.
 				</p>
 			</details>
 			<details>
@@ -537,7 +537,7 @@
 					{% endraw %}{% include "_css/icons/help.svg" %}{% raw %}
 					<div>
 						<h3>Ask an expert to choose</h3>
-						<p>Let an independent insurance broker choose the best insurance for you. Their help is free.</p>
+						<p>Let an independent insurance broker choose the best option for you. Their help is free.</p>
 					</div>
 				</button>
 			</li>
