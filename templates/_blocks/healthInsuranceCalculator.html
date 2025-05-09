@@ -10,23 +10,37 @@
 {% include '_js/vue/income-input.js' %}
 {% include '_js/vue/mixins/userDefaultsMixin.js' %}
 {% include '_js/vue/occupation-input.js' %}
+{% include '_js/vue/mixins/multiStageMixin.js' %}
 {% include '_js/vue/mixins/trackedStagesMixin.js' %}
 {% include '_js/vue/mixins/uniqueIdsMixin.js' %}
 {% js %}
 	document.querySelectorAll('collapsible.health-insurance-calculator').forEach(
 		el => new Vue({
 			el: el,
-			mixins: [userDefaultsMixin, uniqueIdsMixin, trackedStagesMixin],
+			mixins: [userDefaultsMixin, multiStageMixin, uniqueIdsMixin, trackedStagesMixin],
 			data() {
 				return {
-					trackAs: 'Health insurance calculator',
-					occupation: null,
-					childrenCount: userDefaults.childrenCount,
-					yearlyIncome: userDefaults.yearlyIncome,
-					inputIncome: 0,
 					age: userDefaults.age,
-					stage: 'start',
+					childrenCount: userDefaults.childrenCount,
+					inputIncome: userDefaults.useMonthlyIncome ? Math.round(userDefaults.yearlyIncome / 12) : userDefaults.yearlyIncome,
+					occupation: null,
 					useMonthlyIncome: userDefaults.useMonthlyIncome,
+					yearlyIncome: userDefaults.yearlyIncome,
+
+					trackAs: 'Health insurance calculator',
+					stages: [
+						'start',
+						'questions',
+						'options',
+						'askABroker',
+					],
+					inputsToFocus: {
+						start: () => this.$refs.startButton,
+						oldAddress: () => this.$refs.oldAddressInput,
+						newAddress: () => this.$refs.newAddressInput,
+						addPeople: () => this.$refs.firstNameInput[0],
+					},
+
 					formatPercent,
 					pflegeversicherung,
 					healthInsurance,
@@ -121,45 +135,45 @@
 	);
 {% endjs %}
 
-<collapsible class="health-insurance-calculator" ref="collapsible" {% if static|default %}static{% endif %}>
+<collapsible class="health-insurance-calculator" {% if static|default %}static{% endif %}>
 {% raw %}
 	<template v-slot:header>Health insurance calculator</template>
 
 	<template v-if="stage === 'start'">
 		<h3>What is your occupation?</h3>
-		<ul class="buttons grid">
+		<ul class="buttons grid" aria-label="Occupations">
 			<li>
-				<button @click="occupation = 'employee'; stage = 'questions'">
+				<button @click="occupation = 'employee'; nextStage()">
 					{% endraw %}{% include "_css/icons/job.svg" %}{% raw %}
 					Employee
 				</button>
 			</li>
 			<li>
-				<button @click="occupation = 'studentUnemployed'; stage = 'questions'">
+				<button @click="occupation = 'studentUnemployed'; nextStage()">
 					{% endraw %}{% include "_css/icons/student.svg" %}{% raw %}
 					Student
 				</button>
 			</li>
 			<li>
-				<button @click="occupation = 'selfEmployed'; stage = 'questions'">
+				<button @click="occupation = 'selfEmployed'; nextStage()">
 					{% endraw %}{% include "_css/icons/business.svg" %}{% raw %}
 					Self-employed
 				</button>
 			</li>
 			<li>
-				<button @click="occupation = 'intern'; stage = 'questions'">
+				<button @click="occupation = 'intern'; nextStage()">
 					{% endraw %}{% include "_css/icons/helper.svg" %}{% raw %}
 					Intern
 				</button>
 			</li>
 			<li>
-				<button @click="occupation = 'azubi'; stage = 'questions'">
+				<button @click="occupation = 'azubi'; nextStage()">
 					{% endraw %}{% include "_css/icons/helper.svg" %}{% raw %}
 					Apprentice
 				</button>
 			</li>
 			<li>
-				<button @click="occupation = 'unemployed'; stage = 'questions'">
+				<button @click="occupation = 'unemployed'; nextStage()">
 					{% endraw %}{% include "_css/icons/visiting.svg" %}{% raw %}
 					Unemployed
 				</button>
@@ -169,14 +183,14 @@
 
 	<template v-if="stage === 'questions'">
 		<h3>Tell us a bit more about you</h3>
-		<div class="form-group show-errors">
+		<div class="form-group">
 			<label :for="uid('age')">
 				Age
 			</label>
-			<label class="input-group">
+			<div class="input-group">
 				<age-input :id="uid('age')" v-model="age"></age-input>
 				years old
-			</label>
+			</div>
 		</div>
 		<div class="form-group">
 			<label :for="uid('children-count')">
@@ -209,7 +223,7 @@
 				</label>
 			</div>
 		</div>
-		<div class="form-group show-errors" v-if="!isUnemployed">
+		<div class="form-group" v-if="!isUnemployed">
 			<label :for="uid('income')">
 				{{ salaryOrIncome }}
 			</label>
@@ -222,15 +236,15 @@
 		</div>
 		<hr>
 		<div class="buttons bar">
-			<button class="button" @click="stage = 'start'">
+			<button class="button" @click="goToStage('start')">
 				<i class="icon left" aria-hidden="true"></i> Go back
 			</button>
-			<button class="button primary" @click="stage = 'insuranceOptions'">
+			<button class="button primary" @click="nextStage('options')">
 				See options <i class="icon right" aria-hidden="true"></i>
 			</button>
 		</div>
 	</template>
-	<template v-if="stage === 'insuranceOptions'">
+	<template v-if="stage === 'options'">
 		<template v-if="showFreeOptions">
 			<h3>Free health insurance</h3>
 			<p>You can get free <glossary term="gesetzliche Krankenversicherung">public health insurance</glossary> because you have a low income. This is the best option.</p>
@@ -511,7 +525,7 @@
 				</a>
 			</li>
 			<li>
-				<button @click="stage = 'askABroker'">
+				<button @click="goToStage('askABroker')">
 					{% endraw %}{% include "_css/icons/help.svg" %}{% raw %}
 					<div>
 						<h3>Ask an expert to choose</h3>
@@ -548,7 +562,7 @@
 				</p>
 				<ul class="buttons list">
 					<li>
-						<button @click="stage = 'askABroker'">
+						<button @click="goToStage('askABroker')">
 							{% endraw %}{% include "_css/icons/help.svg" %}{% raw %}
 							<div>
 								<h3>Ask an expert</h3>
@@ -576,10 +590,10 @@
 		</template>
 		<hr>
 		<div class="buttons bar">
-			<button class="button" @click="stage = 'questions'">
+			<button class="button" @click="previousStage()">
 				<i class="icon left" aria-hidden="true"></i> Go back
 			</button>
-			<button class="button primary" @click="stage = 'askABroker'">
+			<button class="button primary" @click="goToStage('askABroker')">
 				Ask for advice <i class="icon right" aria-hidden="true"></i>
 			</button>
 		</div>
@@ -592,13 +606,13 @@
 		:children-count="childrenCount"
 		>
 		<template v-slot:form-buttons>
-			<button class="button" @click="stage = 'insuranceOptions'">
+			<button class="button" @click="previousStage()">
 				<i class="icon left" aria-hidden="true"></i> Go back
 			</button>
 		</template>
 		<template v-slot:after-confirmation>
 			<div class="buttons bar">
-				<button class="button" @click="stage = 'start'">
+				<button class="button" @click="goToStage('start')">
 					<i class="icon left" aria-hidden="true"></i> Go back
 				</button>
 			</div>
