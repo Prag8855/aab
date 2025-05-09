@@ -53,8 +53,6 @@ On the other hand, the price of [private health insurance](/glossary/private%20K
 
 This is why going with private health insurance sometimes makes more sense. I explain this in my guide on [how to choose health insurance](/guides/german-health-insurance). In this situation, TK might not be the best option for you, and you should [talk with a health insurance broker](/guides/german-health-insurance#insurance-brokers).
 
-{% include '_blocks/healthInsuranceCalculator.html' %}
-
 ### Good support
 
 You can call TK, use their online chat, or ask them to call you. Their online chat works really well. They reply quickly and give clear answers.

@@ -30,7 +30,7 @@ This guide explains how German health insurance works, and how to choose the bes
 
 ## Your options
 
-{% include '_blocks/healthInsuranceCalculator.html' %}
+{% include '_blocks/healthInsuranceCalculatorStatic.html' %}
 
 ### Health insurance for employees
 
@@ -121,7 +121,7 @@ Public health insurance is run by [non-profit insurance funds](/glossary/Kranken
 
 Public health insurance costs {{GKV_BASE_RATE_EMPLOYEE}}% of your income, plus around {{GKV_AVG_ZUSATZBEITRAG}}% for the [insurer surcharge](/glossary/Zusatzbeitrag), and {{PFLEGEVERSICHERUNG_MIN_RATE}}% to {{PFLEGEVERSICHERUNG_MAX_RATE}}% for [long-term care insurance](/glossary/Pflegeversicherung). If you are an employee, your employer pays half of it.
 
-{% include '_blocks/healthInsuranceCalculator.html' %}
+**[Calculate the cost ➞](#your-options)**
 
 **If you are an employee**, you pay {{GKV_MIN_RATE_EMPLOYEE}}% to {{GKV_MAX_RATE_EMPLOYEE}}% of your income (including *[[Pflegeversicherung]]*). The [minimum cost](/glossary/Mindestbeitrag) is around {{GKV_MIN_COST_EMPLOYEE|cur}}€ per month. The [maximum cost](/glossary/Höchstbeitrag) is around {{GKV_MAX_COST_EMPLOYEE|cur}}€ per month. Health insurance payments are taken from your paycheck each month.
 
@@ -365,6 +365,8 @@ There is no reason to choose your insurance yourself. [Ask an expert](#insurance
     Public health insurance covers your children [for free](/glossary/Familienversicherung). Private health insurance charges extra for each child. If you have 1 or 2 children, private health insurance can be cheaper anyway.[^12]
 - **You pay the student tariff**  
     The student tariff is a really good deal. If you are a student under 30 years old, public health insurance is usually the best option.[^59]
+- **You have pre-existing health problems**  
+    Private health insurers might charge more or refuse to cover you. Even getting psychotherapy can disqualify you. Public health insurance is usually forced to accept you.
 
 ### Choose private health insurance if...
 

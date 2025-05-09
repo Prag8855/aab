@@ -52,7 +52,7 @@ Comprehensive (*Vollkasko*) insurance also covers **damage to your own vehicle, 
 
 *Vollkasko* insurance makes more sense for new vehicles.[^14]
 
-## How to pick German car insurance
+## How to choose German car insurance
 
 Use [Verivox](/out/verivox-kfz) or [Tarifcheck](/out/tarifcheck-kfz) to compare car insurance prices.
 
