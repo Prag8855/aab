@@ -2063,7 +2063,7 @@ details{
         &[hidden] + * {margin-top: 0}
     }
 
-    details {
+    details:not(.collapsible) {
         @include text-block-compact;
 
         &[open]{
@@ -2139,6 +2139,10 @@ collapsible, letter-generator, feedback-residence-permit{  // Vue element before
     + h2{
         border-top: 0;
         padding-top: 0;
+    }
+
+    .collapsible{
+        background: transparent;
     }
 }
 
