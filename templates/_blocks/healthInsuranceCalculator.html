@@ -24,8 +24,11 @@
 					childrenCount: userDefaults.childrenCount,
 					inputIncome: userDefaults.useMonthlyIncome ? Math.round(userDefaults.yearlyIncome / 12) : userDefaults.yearlyIncome,
 					occupation: null,
+					isMarried: userDefaults.isMarried,
 					useMonthlyIncome: userDefaults.useMonthlyIncome,
 					yearlyIncome: userDefaults.yearlyIncome,
+
+					preference: null,
 
 					trackAs: 'Health insurance calculator',
 					stages: [
@@ -63,7 +66,7 @@
 						age: +this.age,
 						monthlyIncome: this.occupation === 'unemployed' ? 0 : +this.monthlyIncome,
 						occupation: this.occupation,
-						isMarried: true,
+						isMarried: this.isMarried,
 						childrenCount: this.childrenCount,
 					});
 				},
@@ -132,12 +135,12 @@
 
 <collapsible class="health-insurance-calculator" {% if static|default %}static{% endif %}>
 {% raw %}
-	<template v-slot:header>Health insurance calculator</template>
+	<template v-slot:header>Health insurance picker</template>
 
 	<progress v-if="stage !== 'start'" aria-label="Form progress" :max="stages.length - 1" :value="stageIndex"></progress>
 
 	<template v-if="stage === 'start'">
-		<h3>What is your occupation?</h3>
+		<p>Let's help you choose health insurance. What is your occupation?</p>
 		<ul class="buttons grid" aria-label="Occupations">
 			<li>
 				<button @click="occupation = 'employee'; nextStage()">
@@ -179,7 +182,9 @@
 	</template>
 
 	<template v-if="stage === 'questions'">
-		<h3>Tell us a bit more about you</h3>
+		<h3>Tell us a bit more about you&hellip;</h3>
+		<p>It helps us find the best health insurance for your needs.</p>
+		<hr>
 		<div class="form-group">
 			<label :for="uid('age')">
 				Age
@@ -191,17 +196,22 @@
 		</div>
 		<div class="form-group">
 			<label :for="uid('children-count')">
-				Children
+				Family situation
 			</label>
-			<select :id="uid('children-count')" v-model="childrenCount">
-				<option :value="0">No children</option>
-				<option :value="1">1 child</option>
-				<option :value="2">2 children</option>
-				<option :value="3">3 children</option>
-				<option :value="4">4 children</option>
-				<option :value="5">5 children</option>
-				<option :value="6">6+ children</option>
-			</select>
+			<div class="input-group vertical">
+				<div class="input-group">
+					<button class="toggle" @click="isMarried = !isMarried">{{ isMarried ? 'Married' : 'Not married' }}</button>
+					<select v-model="childrenCount">
+						<option :value="0">No children</option>
+						<option :value="1">1 child</option>
+						<option :value="2">2 children</option>
+						<option :value="3">3 children</option>
+						<option :value="4">4 children</option>
+						<option :value="5">5 children</option>
+						<option :value="6">6+ children</option>
+					</select>
+				</div>
+			</div>
 		</div>
 		<div class="form-group" v-if="isStudent">
 			<label :for="uid('studentOccupation')">
@@ -324,8 +334,22 @@
 			<template v-if="occupation === 'selfEmployed' && yearlyIncome <= 30000">
 				If you make less than <eur :amount="30000"></eur> per year, it's the safest option.
 			</template>
+
+			<template v-if="!flag('private') && !showFreeOptions">This is your only option.</template>
+		</p>
+		<p>
+			You must choose an insurer. There are dozens of options, but their cost and coverage are almost the same.
 		</p>
 		<ul class="buttons">
+			<li v-if="!flag('private')">
+				<button @click="goToStage('askABroker')">
+					{% endraw %}{% include "_css/icons/help.svg" %}{% raw %}
+					<div>
+						<h3>Let an expert choose</h3>
+						<p>Ask an independent insurance broker to choose the best option. Their help is free.</p>
+					</div>
+				</button>
+			</li>
 			<li>
 				<a title="Sign up with BARMER" href="/out/barmer" target="_blank">
 					{% endraw %}{% include "_css/icons/health-insurance/logo-barmer.svg" %}{% raw %}
@@ -539,7 +563,7 @@
 
 			<p v-if="occupation === 'selfEmployed'">
 				<template v-if="yearlyIncome >= 30000">
-					is often the best option for freelancers. It might be your only option, because public health insurers can reject you.
+					<glossary term="private Krankenversicherung">Private health insurance</glossary> often the best option for freelancers. It might be your only option, because public health insurers can reject you.
 				</template>
 				<template v-else>
 					If you earn less than <eur :amount=30000></eur> per year, <glossary term="private Krankenversicherung">private health insurance</glossary> is usually a bad idea. Insurers might reject you because your income is too low.
@@ -562,7 +586,7 @@
 						{% endraw %}{% include "_css/icons/help.svg" %}{% raw %}
 						<div>
 							<h3>Get a quote</h3>
-							<p>Ask an independent broker to compare all options. It's the best way to get better, cheaper health insurance. Their help is free</p>
+							<p>Ask an independent broker to compare all options. Their help is free. It's the best way to get better, cheaper health insurance.</p>
 						</div>
 					</button>
 				</li>
@@ -584,22 +608,6 @@
 			</ul>
 		</template>
 
-		<hr>
-		<h3>Avoid mistakes, ask an expert</h3>
-		<p>
-			Don't choose insurance yourself! You can make expensive mistakes.
-		</p>
-		<ul class="buttons">
-			<li>
-				<button @click="goToStage('askABroker')">
-					{% endraw %}{% include "_css/icons/help.svg" %}{% raw %}
-					<div>
-						<h3>Let an expert choose</h3>
-						<p>Ask an independent insurance broker to choose the best option. Their help is free.</p>
-					</div>
-				</button>
-			</li>
-		</ul>
 		<hr>
 		<div class="buttons bar">
 			<button class="button" @click="previousStage()">

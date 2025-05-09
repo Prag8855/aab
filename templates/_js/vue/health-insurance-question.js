@@ -14,6 +14,7 @@ Vue.component('health-insurance-question', {
 		age: Number,
 		income: Number,
 		childrenCount: Number,
+		preference: String,
 	},
 	data: function() {
 		return {
@@ -33,39 +34,6 @@ Vue.component('health-insurance-question', {
 
 			isLoading: false,
 		};
-	},
-	created(){
-		this.question = '';
-
-		if(!this.age || !this.occupation) {
-			return;
-		}
-
-		this.question = 'Hi Rob,\n\n';
-		const formattedIncome = `${formatCurrency(this.income, false, '€', false)} per year`;
-		this.question += {
-			employee: `I am an employee, and I make ${formattedIncome}.`,
-			azubi: `I am an apprentice, and I make ${formattedIncome}.`,
-			studentEmployee: `I am a working student, and I make ${formattedIncome}.`,
-			studentSelfEmployed: `I am a self-employed student, and I make ${formattedIncome}.`,
-			student: `I am a student, `,
-			selfEmployed: `I am self-employed, and I make ${formattedIncome}.`,
-			unemployed: `I am unemployed.`,
-		}[this.occupation];
-
-		this.question += ` I am ${this.age} years old`;
-
-		if(this.childrenCount == 1){
-			this.question += " and I have one child.";
-		}
-		if(this.childrenCount > 1){
-			this.question += ` and I have ${this.childrenCount} children.`;
-		}
-		else {
-			this.question += " and I don't have children.";
-		}
-
-		this.question +=  '\n\nWhich health insurance should I choose?';
 	},
 	methods: {
 		async submitForm() {
