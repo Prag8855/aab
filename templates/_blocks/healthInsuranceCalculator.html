@@ -322,7 +322,7 @@
 				You are over 30 years old, so you can't get the student tariff. Private health insurance might be cheaper than public.
 			</template>
 			<template v-if="occupation === 'selfEmployed' && yearlyIncome <= 30000">
-				If you make less than <eur :amount="30000"></eur> per year, public health insurance is <strong>the safest option</strong>.
+				If you make less than <eur :amount="30000"></eur> per year, it's the safest option.
 			</template>
 		</p>
 		<ul class="buttons">
@@ -349,15 +349,6 @@
 						<eur :amount="result.options.tk.total.personalContribution"></eur> <small>per month</small>
 					</output>
 				</a>
-			</li>
-			<li>
-				<button @click="goToStage('askABroker')">
-					{% endraw %}{% include "_css/icons/help.svg" %}{% raw %}
-					<div>
-						<h3>Let an expert choose</h3>
-						<p>Ask an independent insurance broker to choose the best option. Their help is free.</p>
-					</div>
-				</button>
 			</li>
 		</ul>
 		<details class="cost-explanation">
@@ -547,9 +538,11 @@
 			</p>
 
 			<p v-if="occupation === 'selfEmployed'">
-				<glossary term="private Krankenversicherung">Private health insurance</glossary> is often the best option for freelancers.
-				<template v-if="occupation === 'selfEmployed'">
-					It might be your only option, because public health insurers often reject freelancers.
+				<template v-if="yearlyIncome >= 30000">
+					is often the best option for freelancers. It might be your only option, because public health insurers can reject you.
+				</template>
+				<template v-else>
+					If you earn less than <eur :amount=30000></eur> per year, <glossary term="private Krankenversicherung">private health insurance</glossary> is usually a bad idea. Insurers might reject you because your income is too low.
 				</template>
 			</p>
 
@@ -569,7 +562,7 @@
 						{% endraw %}{% include "_css/icons/help.svg" %}{% raw %}
 						<div>
 							<h3>Get a quote</h3>
-							<p>An insurance broker helps you get better, cheaper health insurance. Their help is free. It's the best way to choose insurance.</p>
+							<p>Ask an independent broker to compare all options. It's the best way to get better, cheaper health insurance. Their help is free</p>
 						</div>
 					</button>
 				</li>
@@ -590,6 +583,23 @@
 				</li>
 			</ul>
 		</template>
+
+		<hr>
+		<h3>Avoid mistakes, ask an expert</h3>
+		<p>
+			Don't choose insurance yourself! You can make expensive mistakes.
+		</p>
+		<ul class="buttons">
+			<li>
+				<button @click="goToStage('askABroker')">
+					{% endraw %}{% include "_css/icons/help.svg" %}{% raw %}
+					<div>
+						<h3>Let an expert choose</h3>
+						<p>Ask an independent insurance broker to choose the best option. Their help is free.</p>
+					</div>
+				</button>
+			</li>
+		</ul>
 		<hr>
 		<div class="buttons bar">
 			<button class="button" @click="previousStage()">
