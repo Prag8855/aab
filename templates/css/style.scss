@@ -2148,6 +2148,10 @@ collapsible, letter-generator, feedback-residence-permit{  // Vue element before
         > summary{
             font-weight: normal;
         }
+
+        &:not([open]) > summary{
+            padding: var(--s) var(--m);
+        }
     }
 }
 
