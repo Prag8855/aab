@@ -95,11 +95,6 @@
 				isUnemployed() {
 					return occupations.isUnemployed(this.occupation);
 				},
-				showPrivateLowIncomeWarning(){
-					return this.flag('private')
-						&& !this.isStudent
-						&& this.monthlyIncome <= taxes.maxMinijobIncome;
-				},
 				showFreeOptions(){
 					return this.flag('familienversicherung-parents')
 						|| this.flag('familienversicherung-spouse')
@@ -336,7 +331,7 @@
 					{% endraw %}{% include "_css/icons/health-insurance/logo-barmer.svg" %}{% raw %}
 					<div>
 						<h3>Barmer</h3>
-						<p>Best sign-up experience for expats. Second biggest health insurer. They speak English.</p>
+						<p>Easiest sign-up for expats. Second biggest health insurer. They speak English.</p>
 					</div>
 					<output>
 						<eur :amount="result.options.barmer.total.personalContribution"></eur> <small>per month</small>
@@ -365,7 +360,6 @@
 				</button>
 			</li>
 		</ul>
-
 		<details class="cost-explanation">
 			<summary>Cost explanation</summary>
 			<p>
@@ -541,43 +535,45 @@
 			</details>
 		</details>
 		<hr>
+
 		<h3>Private health insurance</h3>
 		<p v-if="!flag('private')">
 			You can't choose <glossary term="private Krankenversicherung">private health insurance</glossary> because your income is too low.
 		</p>
 		<template v-if="flag('private')">
-			<p v-if="showPrivateLowIncomeWarning">
-				You can choose <glossary term="private Krankenversicherung">private health insurance</glossary>, but your income is too low, so most insurers will reject you.
+			<p v-if="occupation === 'employee'">
+				<template v-if="age <= 35">If you are young and well-paid, <glossary term="private Krankenversicherung">private health insurance</glossary> is usually cheaper and better.</template>
+				<template v-if="age >= 45">If you are over 45 years old, <glossary term="private Krankenversicherung">private health insurance</glossary> is usually more expensive than public. It still makes sense if you want better, faster healthcare.</template>
 			</p>
-			<template v-if="!showPrivateLowIncomeWarning">
-				<p v-if="age > 45">
-					If you are over 45 years old, <glossary term="private Krankenversicherung">private health insurance</glossary> is usually more expensive than public.
-				</p>
-				<p v-else-if="flag('student-30plus')">
-					As a student over 30 years old, private health insurance might be cheaper than public.
-				</p>
-				<p v-else>
-					If you are young and healthy, <glossary term="private Krankenversicherung">private health insurance</glossary> can be better and cheaper than public.
-					<template v-if="occupation === 'selfEmployed'">
-						It might be your only option, because public health insurers sometimes reject freelancers.
-					</template>
-				</p>
 
-				<p>
-					<strong>Do not choose private health insurance without help.</strong> It's a hard decision and you can make expensive mistakes. An insurance broker can help you get better, cheaper health insurance. Their help is free.
-				</p>
-				<ul class="buttons list">
-					<li>
-						<button @click="goToStage('askABroker')">
-							{% endraw %}{% include "_css/icons/help.svg" %}{% raw %}
-							<div>
-								<h3>Ask an expert</h3>
-								<p>Get free advice in English by phone, email or WhatsApp. It's the best way to choose health insurance.</p>
-							</div>
-						</button>
-					</li>
-				</ul>
-			</template>
+			<p v-if="occupation === 'selfEmployed'">
+				<glossary term="private Krankenversicherung">Private health insurance</glossary> is often the best option for freelancers.
+				<template v-if="occupation === 'selfEmployed'">
+					It might be your only option, because public health insurers often reject freelancers.
+				</template>
+			</p>
+
+			<p v-if="occupation === 'unemployed'">
+				You can get <glossary term="private Krankenversicherung">private health insurance</glossary>, but most insurers reject unemployed people.
+			</p>
+
+			<p v-if="isStudent">
+				You can choose <glossary term="private Krankenversicherung">private health insurance</glossary>.
+				<template v-if="flag('student-30plus')">For students over 30 years old, private might can be cheaper than public.</template>
+				<template v-if="!flag('student-30plus')">For most students, public is a better option.</template>
+			</p>
+
+			<ul class="buttons list">
+				<li>
+					<button @click="goToStage('askABroker')">
+						{% endraw %}{% include "_css/icons/help.svg" %}{% raw %}
+						<div>
+							<h3>Get a quote</h3>
+							<p>An insurance broker helps you get better, cheaper health insurance. Their help is free. It's the best way to choose insurance.</p>
+						</div>
+					</button>
+				</li>
+			</ul>
 		</template>
 		<template v-if="flag('ksk')">
 			<hr>
