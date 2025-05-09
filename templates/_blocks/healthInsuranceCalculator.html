@@ -75,8 +75,8 @@
 				maxTotal() {
 					return this.result.options.mostExpensive.total;
 				},
-				baseContributionPercentage() {
-					return (this.result.baseContribution.totalRate * 100).toFixed(1);
+				baseContributionRate() {
+					return this.formatPercent(this.result.baseContribution.totalRate * 100);
 				},
 				isUnemployed() {
 					return occupations.isUnemployed(this.occupation);
@@ -233,7 +233,7 @@
 	<template v-if="stage === 'insuranceOptions'">
 		<template v-if="showFreeOptions">
 			<h3>Free health insurance</h3>
-			<p>You can get <strong>free <glossary term="gesetzliche Krankenversicherung">public health insurance</glossary></strong> because you have a low income. This is the best option.</p>
+			<p>You can get free <glossary term="gesetzliche Krankenversicherung">public health insurance</glossary> because you have a low income. This is the best option.</p>
 			<ul class="buttons list">
 				<li v-if="flag('alg-i-buergergeld')">
 					<a title="Learn more about state-sponsored health insurance" href="/guides/german-health-insurance#free-health-insurance" target="_blank">
@@ -280,7 +280,7 @@
 		</template>
 		<h3>Public health insurance</h3>
 		<p v-if="flag('azubi-free')">
-			You make under <eur :amount="healthInsurance.azubiFreibetrag"></eur> per month, so your employer pays for your health insurance. You must still choose an insurer.
+			You make less than <eur :amount="healthInsurance.azubiFreibetrag"></eur> per month, so your employer pays for your health insurance. You must still choose an insurer.
 		</p>
 		<p v-else>
 			<template v-if="showFreeOptions">If you can't get free health insurance, you pay</template>
@@ -309,7 +309,7 @@
 				You are over 30 years old, so you can't get the student tariff. Private health insurance might be cheaper than public.
 			</template>
 			<template v-if="occupation === 'selfEmployed' && yearlyIncome <= 30000">
-				If your income is under <eur :amount="30000"></eur> per year, public health insurance is <strong>the safest option</strong>.
+				If you make less than <eur :amount="30000"></eur> per year, public health insurance is <strong>the safest option</strong>.
 			</template>
 		</p>
 
@@ -358,13 +358,13 @@
 				</summary>
 				<p>
 					<template v-if="flag('minijob')">
-						You have a minijob, so you pay the <glossary term="Mindestbeitrag">minimum price</glossary>. It's {{ baseContributionPercentage }}% of <eur :amount="healthInsurance.minMonthlyIncome" cents></eur> }}.
+						You have a minijob, so you pay the <glossary term="Mindestbeitrag">minimum price</glossary>. It's {{ baseContributionRate }} of <eur :amount="healthInsurance.minMonthlyIncome" cents></eur> }}.
 					</template>
 					<template v-else-if="flag('min-contribution')">
-						You make less than <eur :amount="healthInsurance.minMonthlyIncome" cents></eur> per month, so you pay the <glossary term="Mindestbeitrag">minimum price</glossary>. It's {{ baseContributionPercentage }}% of <eur :amount="healthInsurance.minMonthlyIncome" cents></eur>.
+						You make less than <eur :amount="healthInsurance.minMonthlyIncome" cents></eur> per month, so you pay the <glossary term="Mindestbeitrag">minimum price</glossary>. It's {{ baseContributionRate }} of <eur :amount="healthInsurance.minMonthlyIncome" cents></eur>.
 					</template>
 					<template v-else-if="flag('max-contribution')">
-						You make more than <eur :amount="healthInsurance.maxMonthlyIncome" cents></eur> per month, so you pay the <glossary term="Höchstbeitrag">maximum price</glossary>. It's {{ baseContributionPercentage }}% of <eur :amount="healthInsurance.maxMonthlyIncome" cents></eur>.
+						You make more than <eur :amount="healthInsurance.maxMonthlyIncome" cents></eur> per month, so you pay the <glossary term="Höchstbeitrag">maximum price</glossary>. It's {{ baseContributionRate }} of <eur :amount="healthInsurance.maxMonthlyIncome" cents></eur>.
 					</template>
 					<template v-else-if="flag('midijob')">
 						You make less than <eur :amount="healthInsurance.midijobMaxIncome" cents></eur>, so you pay the midijob tarif. It's cheaper than the normal tarif.
@@ -373,9 +373,9 @@
 						You pay the student tarif; the base cost is a fixed price.
 					</template>
 					<template v-else>
-						You pay {{ baseContributionPercentage }}% of your income.
+						You pay {{ baseContributionRate }} of your income.
 					</template>
-					All public health insurers charge the same base cost.
+					The base cost is the same with all insurers.
 				</p>
 			</details>
 			<details>
@@ -404,15 +404,21 @@
 				</summary>
 				<p>
 					<template v-if="flag('max-contribution')">
-						You make over <eur :amount="healthInsurance.maxMonthlyIncome" cents></eur> per month, so you pay the <glossary term="Höchstbeitrag">maximum price</glossary>.
-					</template>
-					<template v-else-if="age > pflegeversicherung.defaultTarifMaxAge && childrenCount === 0">
-						It costs {{ (pflegeversicherung.surchargeTarif*100).toFixed(1) }}% of your income, because you are over {{ pflegeversicherung.defaultTarifMaxAge }} years old and you don't have children.
+						You pay the <glossary term="Höchstbeitrag">maximum price</glossary>, because you make more than <eur :amount="healthInsurance.maxMonthlyIncome" :cents="false"></eur> per month.
 					</template>
 					<template v-else>
-						It costs {{ (pflegeversicherung.defaultTarif*100).toFixed(2) }}% of your income.
+						You pay {{ formatPercent(result.pflegeversicherung.totalRate * 100) }} of your income.
+						<template v-if="age > pflegeversicherung.defaultTarifMaxAge && childrenCount === 0">
+							You pay more because you are over {{ pflegeversicherung.defaultTarifMaxAge }} years old and you don't have children.
+						</template>
+						<template v-else-if="age <= pflegeversicherung.defaultTarifMaxAge">
+							You pay less because you are under {{ pflegeversicherung.defaultTarifMaxAge + 1 }} years old.
+						</template>
+						<template v-else>
+							You pay less because you have children.
+						</template>
 					</template>
-					All public health insurers charge the same for long-term care insurance.
+					It costs the same with all insurers.
 				</p>
 			</details>
 			<details>
@@ -442,7 +448,7 @@
 					When you have a minijob, your employer does not pay for your health insurance.
 				</p>
 				<p v-else>
-					When you are an employee, your employer pays half of your health insurance.
+					Your employer pays half of your health insurance.
 				</p>
 			</details>
 			<details>
@@ -463,7 +469,7 @@
 					</output>
 				</summary>
 				<p>
-					This is how much you pay every month for public health insurance.
+					This is what you pay for public health insurance.
 					<template v-if="flag('max-contribution')">
 						You make more than <eur :amount="healthInsurance.maxMonthlyIncome" cents></eur> per month, so you pay the <glossary term="Höchstbeitrag">maximum price</glossary>.
 					</template>
@@ -478,7 +484,7 @@
 			</details>
 		</details>
 
-		<p>There are dozens of public health insurers. Their price and coverage are almost the same. The most popular options are Barmer and Techniker Krankenkasse.</p>
+		<p>You must choose an insurer. There are dozens of options, but their price and coverage are almost the same. The most popular are Barmer and Techniker Krankenkasse.</p>
 		<ul class="buttons">
 			<li>
 				<a title="Sign up with BARMER" href="/out/barmer" target="_blank">
