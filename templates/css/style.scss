@@ -2143,6 +2143,11 @@ collapsible, letter-generator, feedback-residence-permit{  // Vue element before
 
     .collapsible{
         background: transparent;
+        box-shadow: none;
+
+        > summary{
+            font-weight: normal;
+        }
     }
 }
 
