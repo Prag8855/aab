@@ -141,7 +141,7 @@ Vue.component('health-insurance-question', {
 				</div>
 			</template>
 			<template v-if="stage === 'thank-you'">
-				<p><strong>Message sent!</strong> Rob will contact you today or during the next business day. Expect an email from Feather Insurance.</p>
+				<p><strong>Message sent!</strong> We will contact you today or during the next business day.</p>
 				<slot name="after-confirmation"></slot>
 			</template>
 			<template v-if="stage === 'error'">

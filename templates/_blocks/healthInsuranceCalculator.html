@@ -140,7 +140,7 @@
 	<progress v-if="stage !== 'start'" aria-label="Form progress" :max="stages.length - 1" :value="stageIndex"></progress>
 
 	<template v-if="stage === 'start'">
-		<p>Let's help you choose health insurance. What is your occupation?</p>
+		<p>Let's get you insured. What is your occupation?</p>
 		<ul class="buttons grid" aria-label="Occupations">
 			<li>
 				<button @click="occupation = 'employee'; nextStage()">
@@ -320,7 +320,7 @@
 					to
 					<eur :amount="maxTotal.personalContribution"></eur>
 				</output>
-				per month</strong>, depending on the insurer you choose.
+				per month</strong>, depending on the insurer.
 
 			<template v-if="flag('private') && childrenCount > 2">It's usually the cheapest option, because it covers your {{ childrenCount }} children for free.</template>
 			<template v-if="flag('private') && age > 45">If you are over 45 years old, it's usually the cheapest option.</template>
