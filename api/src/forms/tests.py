@@ -6,7 +6,8 @@ from django.contrib.auth.models import User
 from django.core.cache import cache
 from django.utils import timezone
 from forms.models import HealthInsuranceQuestion, HealthInsuranceQuestionConfirmation, PensionRefundQuestion, \
-    PensionRefundReminder, PensionRefundRequest, ResidencePermitFeedback, TaxIdRequestFeedbackReminder
+    PensionRefundReminder, PensionRefundRequest, ResidencePermitFeedback, TaxIdRequestFeedbackReminder, \
+    HealthInsuranceQuestionFeedback
 from forms.utils import readable_date_range
 from rest_framework.test import APITestCase
 import unittest
@@ -163,6 +164,16 @@ class HealthInsuranceQuestionTestCase(ScheduledMessageEndpointMixin, APITestCase
     def test_create_confirmation_message(self):
         self.client.post(self.endpoint, self.example_request, format='json')
         HealthInsuranceQuestionConfirmation.objects.get(email='contact@nicolasbouliane.com', name='John Test')
+
+        feedback_email = HealthInsuranceQuestionFeedback.objects.get(email='contact@nicolasbouliane.com', name='John Test')
+        self.assertEqual(
+            timezone.now().replace(second=0, microsecond=0),
+            feedback_email.creation_date.replace(second=0, microsecond=0)
+        )
+        self.assertEqual(
+            feedback_email.delivery_date.replace(microsecond=0),
+            (feedback_email.creation_date + timedelta(weeks=1)).replace(microsecond=0)
+        )
 
 
 class PensionRefundQuestionTestCase(ScheduledMessageEndpointMixin, APITestCase):

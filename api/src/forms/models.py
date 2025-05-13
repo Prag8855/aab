@@ -148,6 +148,7 @@ class HealthInsuranceQuestion(NameMixin, ReplyToSenderMixin, EmailMixin, Schedul
     def save(self, *args, **kwargs):
         if not self.pk:
             HealthInsuranceQuestionConfirmation.objects.create(email=self.email, name=self.name)
+            HealthInsuranceQuestionFeedback.objects.create(email=self.email, name=self.name)
         super().save(*args, **kwargs)
 
     def remove_personal_data(self):
@@ -167,6 +168,19 @@ class HealthInsuranceQuestion(NameMixin, ReplyToSenderMixin, EmailMixin, Schedul
 class HealthInsuranceQuestionConfirmation(NameMixin, RecipientIsSenderMixin, EmailMixin, ScheduledMessage):
     subject = 'Feather will contact you soon'
     template = 'health-insurance-question-confirmation.html'
+
+    class Meta(ScheduledMessage.Meta):
+        pass
+
+
+def in_1_week():
+    return timezone.now() + timedelta(weeks=1)
+
+
+class HealthInsuranceQuestionFeedback(NameMixin, RecipientIsSenderMixin, EmailMixin, ScheduledMessage):
+    subject = 'Did Feather help you?'
+    template = 'health-insurance-question-feedback.html'
+    delivery_date = models.DateTimeField(default=in_1_week)
 
     class Meta(ScheduledMessage.Meta):
         pass
@@ -373,6 +387,7 @@ class TaxIdRequestFeedbackReminder(NameMixin, RecipientIsSenderMixin, EmailMixin
 scheduled_message_models = [
     HealthInsuranceQuestion,
     HealthInsuranceQuestionConfirmation,
+    HealthInsuranceQuestionFeedback,
     PensionRefundQuestion,
     PensionRefundRequest,
     PensionRefundReminder,
