@@ -178,7 +178,7 @@ def in_1_week():
 
 
 class HealthInsuranceQuestionFeedback(NameMixin, RecipientIsSenderMixin, EmailMixin, ScheduledMessage):
-    subject = 'Did Feather help you?'
+    subject = 'Did Feather help you get insured?'
     template = 'health-insurance-question-feedback.html'
     delivery_date = models.DateTimeField(default=in_1_week)
 
