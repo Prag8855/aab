@@ -2286,6 +2286,11 @@ collapsible, letter-generator, feedback-residence-permit{  // Vue element before
                 background: var(--c-highlight);
             }
         }
+
+        @include only-phone{
+            padding: var(--xs) var(--s);
+            font-size: var(--f-s);
+        }
     }
 
     &.language-picker{
@@ -2934,6 +2939,9 @@ collapsible, letter-generator, feedback-residence-permit{  // Vue element before
         height: auto;
         border:none;
         border-radius:100%
+    }
+    h3{
+        margin: 0 0 var(--l)
     }
     p{
         margin:0

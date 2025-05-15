@@ -77,7 +77,7 @@ Vue.component('health-insurance-question', {
 			<template v-if="stage === 'contactInfo'">
 				<div class="form-recipient">
 					<div>
-						<h3>Let's get you insured</h3>
+						<h3 class="no-mobile">Let's get you insured</h3>
 						<p><strong>Seamus Wolf</strong> is our insurance expert. {{ whatSeamusWillDo }}</p>
 					</div>
 					<img
@@ -112,10 +112,9 @@ Vue.component('health-insurance-question', {
 					</div>
 					<hr>
 				</template>
-				<hr>
 				<h3>How can we reach you?</h3>
 				<div class="form-group">
-					<span class="label">Contact method</span>
+					<span class="label no-mobile">Contact method</span>
 					<div class="tabs">
 						<button @click="contactMethod = 'email'" tabindex="0" :disabled="contactMethod === 'email'">
 							Email
@@ -159,6 +158,7 @@ Vue.component('health-insurance-question', {
 						<span class="input-instructions" :id="uid('instructions-age')">Your age affects your health insurance options.</span>
 					</label>
 				</div>
+				<hr>
 				<div class="buttons bar">
 					<slot name="form-buttons"></slot>
 					<button class="button primary no-print" @click="submitForm" :disabled="isLoading" :class="{loading: isLoading}">Ask Seamus</button>
