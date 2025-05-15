@@ -1774,7 +1774,7 @@ input[type=range] {
             @include text-bold;
         }
 
-        * {
+        > * {
             grid-column-start: 1;
         }
     }
