@@ -43,9 +43,9 @@ I do not answer visa and residence permit questions, because I can't give legal 
 ## Payment information
 
 **Account holder:** Nicolas Bouliane  
-**[[IBAN]]:** DE40 1101 0101 5620 3125 66  
-**Bank:** Solarisbank AG (Kontist)  
-**BIC:** SOBKDEB2XXX
+**[[IBAN]]:** DE24 1001 1001 2354 8387 97  
+**Bank:** [N26](/out/n26)  
+**BIC:** NTSBDEB1XXX
 
 **[Tax number](/glossary/Steuernummer):** 35/237/02005  
 **[VAT number](/glossary/Umsatzsteuernummer):** DE318085089

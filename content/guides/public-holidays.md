@@ -23,8 +23,6 @@ These are the 10 public holidays in Berlin:
     Easter Monday (*Ostermontag*) marks the second day of the Octave of Easter. It's celebrated on Monday after Easter.
 - **International Workers' Day** (May 1)  
     Workers' Day, Labour Day or May Day (*Tag der Arbeit*) celebrates labourers and the working classes.
-- **End of the Second World War** (May 8, 2025)  
-    Celebrates the 80th anniversary of the end of the war. This public holiday will only happen once.{{ fail_on('2025-05-10') }}
 - **Ascension Day** (late April to early June)  
     Ascension Day (*Christi Himmelfahrt*) commemorates the Christian belief of Jesus' Ascension into heaven. It's always on a Thursday.
 - **Whit Monday** (May or June)  
