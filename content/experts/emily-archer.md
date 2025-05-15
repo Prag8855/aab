@@ -6,4 +6,4 @@ Website: https://www.archer-relocation.com/
 Picture: experts/photos/emily-archer.jpg
 ---
 
-Emily is a relocation consultant. She runs [Archer Relocation](https://www.archer-relocation.com/) since 2015.
+Emily is a relocation consultant and an insurance broker. She runs [Archer Relocation](https://www.archer-relocation.com/) since 2015.
