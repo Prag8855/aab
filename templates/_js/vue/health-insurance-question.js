@@ -42,7 +42,7 @@ Vue.component('health-insurance-question', {
 				'barmer': 'He will get you insured with Barmer.',
 				'tk': 'He will get you insured with Techniker Krankenkasse.',
 				'public': 'He will help you choose the best public health insurance.',
-				'public': 'He will help you choose the best private health insurance.',
+				'private': 'He will help you choose the best private health insurance.',
 			}[this.preference] || 'He will help you choose health insurance.';
 		}
 	},

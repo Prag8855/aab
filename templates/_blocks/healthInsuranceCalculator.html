@@ -342,7 +342,7 @@
 		</p>
 		<ul class="buttons">
 			<li>
-				<button @click="goToStage('askABroker')">
+				<button @click="preference = 'public'; goToStage('askABroker')">
 					{% endraw %}{% include "_css/icons/help.svg" %}{% raw %}
 					<div>
 						<h3>Let an expert choose</h3>
@@ -582,7 +582,7 @@
 
 			<ul class="buttons list">
 				<li>
-					<button @click="goToStage('askABroker')">
+					<button @click="preference = 'private'; goToStage('askABroker')">
 						{% endraw %}{% include "_css/icons/help.svg" %}{% raw %}
 						<div>
 							<h3>Get a quote</h3>
@@ -624,6 +624,7 @@
 		:income="yearlyIncome"
 		:occupation="occupation"
 		:children-count="childrenCount"
+		:preference="preference"
 		>
 		<template v-slot:form-buttons>
 			<button class="button" @click="previousStage()">
