@@ -27,6 +27,7 @@ Vue.component('health-insurance-question', {
 			fullName: userDefaults.fullName,
 			email: userDefaults.email,
 			phone: userDefaults.phone,
+			contactMethod: 'email',
 
 			inputAge: this.age,
 			inputOccupation: this.occupation,
@@ -34,6 +35,16 @@ Vue.component('health-insurance-question', {
 
 			isLoading: false,
 		};
+	},
+	computed: {
+		whatSeamusWillDo(){
+			return {
+				'barmer': 'He will get you insured with Barmer.',
+				'tk': 'He will get you insured with Techniker Krankenkasse.',
+				'public': 'He will help you choose the best public health insurance.',
+				'public': 'He will help you choose the best private health insurance.',
+			}[this.preference] || 'He will help you choose health insurance.';
+		}
 	},
 	methods: {
 		async submitForm() {
@@ -67,11 +78,18 @@ Vue.component('health-insurance-question', {
 				<div class="form-recipient">
 					<img
 						srcset="/experts/photos/bioLarge1x/dr-rob-schumacher-feather-insurance.jpg, /experts/photos/bioLarge2x/dr-rob-schumacher-feather-insurance.jpg 2x"
-						alt="Dr. Rob Schumacher" width="125" height="125"
+						alt="Seamus Wolf, insurance broker" width="125" height="125"
 						sizes="125px">
-					<p><strong>Dr. Rob Schumacher</strong> answers your questions for free. He is an independent insurance broker at <a href="/out/feather" target="_blank">Feather</a>. I work with him since 2018.</p>
+					<p><strong>Seamus Wolf</strong> is our insurance expert. I chose him for his knowledge and honesty. {{ whatSeamusWillDo }}</p>
 				</div>
 				<hr>
+				<h3>How can we help you?</h3>
+				<div class="form-group">
+					<span class="label">About you</span>
+					<div class="input-group">
+						Employee, married, 2 children, 45,000€ per year salary.
+					</div>
+				</div>
 				<div class="form-group required">
 					<label :for="uid('question')">Your question</label>
 					<div class="input-group">
@@ -107,22 +125,31 @@ Vue.component('health-insurance-question', {
 						{% endraw %}{% include "_blocks/formHoneypot.html" %}{% raw %}
 					</div>
 				</div>
-				<div class="form-group required">
+				<div class="form-group">
+					<span class="label">Contact method</span>
+					<div class="tabs">
+						<button @click="contactMethod = 'email'" tabindex="0" :disabled="contactMethod === 'email'">
+							Email
+						</button>
+						<button @click="contactMethod = 'whatsapp'" tabindex="0" :disabled="contactMethod === 'whatsapp'">
+							WhatsApp
+						</button>
+						<button @click="contactMethod = 'phone'" tabindex="0" :disabled="contactMethod === 'phone'">
+							Phone
+						</button>
+					</div>
+				</div>
+				<div class="form-group required" v-if="contactMethod === 'phone' || contactMethod === 'whatsapp'">
+					<label :for="uid('phone')">
+						{{ contactMethod === 'whatsapp' ? 'WhatsApp' : 'Phone' }} number
+					</label>
+					<input v-model="phone" type="tel" :id="uid('phone')" placeholder="+49..." autocomplete="tel" :aria-describedby="uid('instructions-phone')" required>
+				</div>
+				<div class="form-group required" v-if="contactMethod === 'email'">
 					<label :for="uid('email')">
 						Email address
 					</label>
-					<div class="input-group">
-						<input v-model="email" type="email" :id="uid('email')" required autocomplete="email">
-					</div>
-				</div>
-				<div class="form-group">
-					<label :for="uid('phone')">
-						Phone number
-					</label>
-					<div class="input-group">
-						<input v-model="phone" type="tel" :id="uid('phone')" placeholder="+49..." autocomplete="tel" :aria-describedby="uid('instructions-phone')">
-						<span class="input-instructions" :id="uid('instructions-phone')">Only if you prefer a phone call.</span>
-					</div>
+					<input v-model="email" type="email" :id="uid('email')" required autocomplete="email">
 				</div>
 				<hr>
 				<div class="form-group required" v-if="!age">
