@@ -183,7 +183,7 @@
 
 	<template v-if="stage === 'questions'">
 		<h3>Tell us a bit more about you&hellip;</h3>
-		<p>It helps us find the best health insurance for your needs.</p>
+		<p>It helps us recommend the best health insurance for your needs.</p>
 		<hr>
 		<div class="form-group">
 			<label :for="uid('age')">
@@ -307,7 +307,9 @@
 		</p>
 		<p v-else>
 			<template v-if="showFreeOptions">If you can't get free health insurance, it costs</template>
-			<template v-if="!showFreeOptions"><glossary term="gesetzliche Krankenversicherung">Public health insurance</glossary> costs</template>
+			<template v-if="!showFreeOptions">
+				<glossary term="gesetzliche Krankenversicherung">Public health insurance</glossary>
+				<template v-if="!flag('private') && !showFreeOptions">is your only option. It </template>costs</template>
 			<strong>
 				<output v-if="maxTotal === 0">
 					<eur :amount="0"></eur>
@@ -334,22 +336,11 @@
 			<template v-if="occupation === 'selfEmployed' && yearlyIncome <= 30000">
 				If you make less than <eur :amount="30000"></eur> per year, it's the safest option.
 			</template>
-
-			<template v-if="!flag('private') && !showFreeOptions">This is your only option.</template>
 		</p>
 		<p>
 			You must choose an insurer. There are dozens of options, but their cost and coverage are almost the same.
 		</p>
 		<ul class="buttons">
-			<li>
-				<button @click="preference = 'public'; goToStage('askABroker')">
-					{% endraw %}{% include "_css/icons/help.svg" %}{% raw %}
-					<div>
-						<h3>Let an expert choose</h3>
-						<p>Ask an independent insurance broker to choose the best option. Their help is free.</p>
-					</div>
-				</button>
-			</li>
 			<li>
 				<a title="Sign up with BARMER" href="/out/barmer" target="_blank">
 					{% endraw %}{% include "_css/icons/health-insurance/logo-barmer.svg" %}{% raw %}
@@ -373,6 +364,15 @@
 						<eur :amount="result.options.tk.total.personalContribution"></eur> <small>per month</small>
 					</output>
 				</a>
+			</li>
+			<li>
+				<button @click="preference = 'public'; goToStage('askABroker')">
+					{% endraw %}{% include "_css/icons/help.svg" %}{% raw %}
+					<div>
+						<h3>Let an expert choose</h3>
+						<p>Ask an independent insurance broker to choose the best option. Their help is free.</p>
+					</div>
+				</button>
 			</li>
 		</ul>
 		<details class="cost-explanation">
@@ -614,7 +614,7 @@
 				<i class="icon left" aria-hidden="true"></i> Go back
 			</button>
 			<button class="button primary" @click="goToStage('askABroker')">
-				Ask for advice <i class="icon right" aria-hidden="true"></i>
+				Ask an expert <i class="icon right" aria-hidden="true"></i>
 			</button>
 		</div>
 	</template>

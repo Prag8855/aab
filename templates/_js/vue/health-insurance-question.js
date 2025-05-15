@@ -76,26 +76,11 @@ Vue.component('health-insurance-question', {
 		<div ref="collapsible" class="health-insurance-question">
 			<template v-if="stage === 'contactInfo'">
 				<div class="form-recipient">
+					<p><strong>Seamus Wolf</strong> is our insurance expert. {{ whatSeamusWillDo }}</p>
 					<img
 						srcset="/experts/photos/bioLarge1x/dr-rob-schumacher-feather-insurance.jpg, /experts/photos/bioLarge2x/dr-rob-schumacher-feather-insurance.jpg 2x"
 						alt="Seamus Wolf, insurance broker" width="125" height="125"
 						sizes="125px">
-					<p><strong>Seamus Wolf</strong> is our insurance expert. I chose him for his knowledge and honesty. {{ whatSeamusWillDo }}</p>
-				</div>
-				<hr>
-				<h3>How can we help you?</h3>
-				<div class="form-group">
-					<span class="label">About you</span>
-					<div class="input-group">
-						Employee, married, 2 children, 45,000€ per year salary.
-					</div>
-				</div>
-				<div class="form-group required">
-					<label :for="uid('question')">Your question</label>
-					<div class="input-group">
-						<textarea v-model="question" :id="uid('question')" required placeholder=" "></textarea>
-						<span class="input-instructions">If you are applying for a <glossary term="Aufenthaltstitel">residence permit</glossary>, mention it.</span>
-					</div>
 				</div>
 				<hr>
 				<div class="form-group" v-if="!occupation">
@@ -116,15 +101,7 @@ Vue.component('health-insurance-question', {
 					</div>
 				</div>
 				<hr v-if="income === undefined && !occupation">
-				<div class="form-group required">
-					<label :for="uid('name')">
-						Name
-					</label>
-					<div class="input-group">
-						<input v-model="fullName" type="text" :id="uid('name')" required autocomplete="name">
-						{% endraw %}{% include "_blocks/formHoneypot.html" %}{% raw %}
-					</div>
-				</div>
+				<h3>How can we contact you?</h3>
 				<div class="form-group">
 					<span class="label">Contact method</span>
 					<div class="tabs">
@@ -139,6 +116,15 @@ Vue.component('health-insurance-question', {
 						</button>
 					</div>
 				</div>
+				<div class="form-group required">
+					<label :for="uid('name')">
+						Name
+					</label>
+					<div class="input-group">
+						<input v-model="fullName" type="text" :id="uid('name')" required autocomplete="name">
+						{% endraw %}{% include "_blocks/formHoneypot.html" %}{% raw %}
+					</div>
+				</div>
 				<div class="form-group required" v-if="contactMethod === 'phone' || contactMethod === 'whatsapp'">
 					<label :for="uid('phone')">
 						{{ contactMethod === 'whatsapp' ? 'WhatsApp' : 'Phone' }} number
@@ -151,7 +137,6 @@ Vue.component('health-insurance-question', {
 					</label>
 					<input v-model="email" type="email" :id="uid('email')" required autocomplete="email">
 				</div>
-				<hr>
 				<div class="form-group required" v-if="!age">
 					<label :for="uid('age')">
 						Age
@@ -162,6 +147,20 @@ Vue.component('health-insurance-question', {
 						<span class="input-instructions" :id="uid('instructions-age')">Your age affects your health insurance options.</span>
 					</label>
 				</div>
+				<hr>
+				<template v-if="!preference">
+					<h3>How can we help?</h3>
+					<p>
+						You are a 22 years old employee. Your salary is 45,000€ per year. You are married and you have 2 children. You want to sign up with Barmer.
+					</p>
+					<div class="form-group">
+						<label :for="uid('question')">Your question</label>
+						<div class="input-group">
+							<textarea v-model="question" :id="uid('question')" required placeholder=" "></textarea>
+						</div>
+					</div>
+					<hr>
+				</template>
 				<div class="buttons bar">
 					<slot name="form-buttons"></slot>
 					<button class="button primary no-print" @click="submitForm" :disabled="isLoading" :class="{loading: isLoading}">Send question</button>

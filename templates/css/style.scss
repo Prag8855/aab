@@ -2066,6 +2066,10 @@ details{
     details:not(.collapsible) {
         @include text-block-compact;
 
+        summary{
+            font-size: var(--f-s);
+        }
+
         &[open]{
             margin-bottom:var(--l-relative);
         }
@@ -2922,7 +2926,7 @@ collapsible, letter-generator, feedback-residence-permit{  // Vue element before
     display: grid;
     align-items:center;
     gap: var(--m);
-    grid-template-columns: auto 1fr;
+    grid-template-columns: 1fr auto;
 
     img{
         margin: 0 auto;
