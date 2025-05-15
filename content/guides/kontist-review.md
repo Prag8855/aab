@@ -5,9 +5,11 @@ Description: I use Kontist as my business bank since January 2022. All of my bus
 Date_created: 2023-03-10
 ---
 
-[Kontist](/out/kontist) is a German bank. They offer a business bank account (*[[Geschäftskonto]]*) for freelancers.
+[Kontist](/out/kontist) is a German bank. They offer business bank accounts (*[[Geschäftskonto]]*) for freelancers.
 
-I use Kontist since January 2022. This is my review of Kontist in 2025{{ fail_on('2025-06-01') }}, feature by feature. In my opinion, **there is no good reason to choose Kontist**, and you should look at the [alternatives](#kontist-alternatives).
+This is my review of Kontist in May 2025. I used Kontist for my business from January 2022 to May 2025. Now I use [N26](/out/n26-business) instead.
+
+In my opinion, **there is no good reason to choose Kontist**. Use one of the [Kontist alternatives](#kontist-alternatives).
 
 {% include "_blocks/tableOfContents.html" %}
 
@@ -15,15 +17,15 @@ I use Kontist since January 2022. This is my review of Kontist in 2025{{ fail_on
 
 ## Cost and fees
 
-A Kontist account costs [9€ to 80€ per month](/out/kontist-plans). The other fees are too high:
+A Kontist account costs [9€ to 80€ per month](/out/kontist-plans){{ fail_on('2025-06-01') }}.
+
+There are extra fees:
 
 - 10 free transactions per month, then 0.15€ per transaction (incoming and outgoing).
 - 1.7% fee on foreign currency transactions (incoming and outgoing).[^8] For example, if you get 1,000 USD from a client, you pay around 17€ in fees.
 - 2€ per ATM withdrawal.
 
-If you get paid in foreign currencies, or have many small transactions, Kontist gets expensive.
-
-They added the transaction fee in October 2022.[^6] Since then, I pay twice as much for the same service. It was a slap in the face, especially when the features I pay for don't work.
+If you get paid in foreign currencies, or have many small transactions, Kontist gets expensive. I paid 12 to 15€ per month in fees, but sometimes a single transaction cost me 20€ in currency conversion fees.
 
 [![Kontist invoice with account fees](/images/kontist-account-fees.png "9€ for the account, and 11.68€ in transaction fees.")](/images/kontist-account-fees.png)
 
@@ -36,29 +38,27 @@ Kontist has a free account. It's almost useless.
 - No invoicing, no integration with bookkeeping tools, and no MT940 exports (only CSV).
 - No automatic bookkeeping.
 
-This means that for almost everyone, the free account is not free. [N26 Business](/out/n26-business) has a better free account.
+This means that for almost everyone, the free account is not free. Check the [Kontist alternatives](#kontist-alternatives) to find a better free business account.
 
 ## Automatic tax deductions
 
-When you are self-employed, you must save some of your income for [income tax](/glossary/Einkommensteuer) and [VAT](/glossary/Umsatzsteuer) payments. It's hard to know how much money you really have. Sometimes, you have 5,000€ in your bank account, but only 1,000€ is really yours. The rest is for the *[[Finanzamt]]*.
+When you are self-employed, you must save part of your income for [VAT](/glossary/Umsatzsteuer) and [income tax](/glossary/Einkommensteuer). It's hard to know how much money you really have. Sometimes, you have 5,000€ in your bank account, but only 1,000€ is really yours. The rest goes to the *[[Finanzamt]]*.
 
 Kontist promises to fix this. It automatically saves money for VAT and income tax payments. It shows you how much money is for you, and how much is for the *Finanzamt*. It even categorises your transactions automatically!
 
-[![VAT and tax deductions in the Kontist app](/images/kontist-vat-value.png "I can see how much VAT and income tax I owe on each transaction.")](/images/kontist-vat-value.png)
+This is why I opened a Kontist account. There is only one problem: **it does not work**.
 
-This is a great feature. It's why I opened a Kontist account. There is only one problem: **it does not work**.
+[![VAT and tax deductions in the Kontist app](/images/kontist-vat-value.png "I can see how much VAT and income tax I owe on each transaction.")](/images/kontist-vat-value.png)
 
 ### Automatic VAT
 
 You decide how much [VAT](/glossary/Umsatzsteuer) to set aside for each transaction: 0%, {{ VAT_RATE_REDUCED }}% or {{ VAT_RATE }}%.
 
-Kontist uses AI to guess the correct VAT rate for each transaction. It's wrong more than 30% of the time. Instead of leaving transactions uncategorised, it puts them in the wrong category, with the wrong VAT rate. When you correct the AI, it makes the same mistakes the next month. It does not learn.
+Kontist uses AI to guess the correct VAT rate for each transaction. It's often wrong. Instead of leaving transactions uncategorised, it puts them in the wrong category, with the wrong VAT rate. When you correct the AI, it makes the same mistakes the next month. It does not learn.
 
-Since I have to double-check every transaction, the AI just creates more work for me. There is no way to turn it off.
+The AI's errors just creates more work for me, because I have to check every transaction. There is no way to turn this feature off.
 
-Like other banks, Kontist integrates with [Lexware Office](/out/lexoffice), where I do all of my bookkeeping. All of my transactions are categorised in Lexware Office already. They already have the right VAT. Kontist sees this information, and still sets the VAT wrong. The Kontist support confirmed this.
-
-**The automatic VAT feature is useless.** It does not work, but it can't be turned off.
+I do my bookkeeping in [Lexware Office](/out/lexoffice). All of my transactions are categorised in Lexware Office already. They already have the right VAT. Kontist sees this information, and still sets the VAT wrong.
 
 [![Screenshot of Kontist app: setting the VAT on a transaction](/images/kontist-sort-transactions.png "You must set the VAT on each transaction. The AI does it automatically, but it's often wrong")](/images/kontist-sort-transactions.png)
 
@@ -66,15 +66,15 @@ Like other banks, Kontist integrates with [Lexware Office](/out/lexoffice), wher
 
 Kontist also sets some of your income aside for [income tax](/glossary/Einkommensteuer).
 
-This time, there is no AI magic. You manually set your income tax rate, and Kontist takes that amount out of every transaction.
+This time, there is no AI magic. You manually set your income tax rate. For example, if you choose a 34% income tax, it sets aside 34% of each transaction.
 
 **[Calculate your income tax rate ➞](/tools/tax-calculator)**
 
-When you pay your income tax, you can't reset how much income tax you owe. Kontist can keep too much money aside. You can't do anything about it.
+When you pay your income tax, you can't reset how much income tax you owe. Kontist can keep too much money aside. You can't change that.
 
-Kontist does not understand [trade tax](/glossary/Gewerbesteuer). This makes the income tax calculation even less precise.
+Kontist does not understand [trade tax](/glossary/Gewerbesteuer) payments. This makes the income tax calculation even less precise.
 
-In the end, this feature is too crude to help.
+In the end, this feature is too crude to help. I don't trust that Kontist sets aside the correct amount.
 
 ## Invoicing and bookkeeping
 
@@ -203,7 +203,7 @@ Your bank, your accounting software and your tax advisor should be 3 different s
 ### Other business banks
 
 - **[N26 Business](/out/n26-business)**  
-    Exactly like N26 personal accounts, but for businesses. I am with N26 since 2016, and [I like it](/guides/an-honest-review-of-n26). There is no automatic accounting, but you can put money aside in "spaces". You can't have a personal N26 account *and* an N26 Business account.
+    Exactly like N26 personal accounts, but for businesses. I am with N26 since 2016, and [I like it](/guides/an-honest-review-of-n26). There is no automatic accounting, but you can put money aside in "spaces".
 - **[Holvi](/out/holvi)**  
     Very similar to Kontist. They have better invoicing and better reports. Your tax advisor can access your account and export transactions.
 - **[Qonto](/out/qonto)**  
