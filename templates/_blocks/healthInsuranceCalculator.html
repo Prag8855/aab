@@ -341,7 +341,7 @@
 			You must choose an insurer. There are dozens of options, but their cost and coverage are almost the same.
 		</p>
 		<ul class="buttons">
-			<li v-if="!flag('private')">
+			<li>
 				<button @click="goToStage('askABroker')">
 					{% endraw %}{% include "_css/icons/help.svg" %}{% raw %}
 					<div>
@@ -586,7 +586,7 @@
 						{% endraw %}{% include "_css/icons/help.svg" %}{% raw %}
 						<div>
 							<h3>Get a quote</h3>
-							<p>Ask an independent broker to compare all options. Their help is free. It's the best way to get better, cheaper health insurance.</p>
+							<p>Ask an independent expert to compare all options. It's the best way to choose insurance. This is a free service.</p>
 						</div>
 					</button>
 				</li>
