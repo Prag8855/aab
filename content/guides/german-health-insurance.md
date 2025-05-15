@@ -15,19 +15,6 @@ All German residents need health insurance. It pays for your healthcare when you
 
 {% include "_blocks/tableOfContents.html" %}
 
-## How to get health insurance
-
-1. **Understand [your options](#your-options)**  
-    Use my [recommendation tool](#your-options) or keep reading. There are two insurance systems and hundreds of options. The best option depends on your situation.
-2. **[Ask an expert](#insurance-brokers) to help you choose**{{ RECOMMENDED }}  
-    Don't choose insurance yourself; it can be an expensive mistake. Get free help from a health insurance broker.
-3. **Apply for health insurance**  
-    The process is different with each insurer. If you are new in Germany and you choose private health insurance, you usually need a health check from a doctor.[^44] It costs around 250€.[^30]{{ fail_on('2026-06-01') }} In some cases, health insurers can reject you.
-4. **Get your documents**  
-    After you get insured, you get a health insurance card and a few other things, a *[[Mitgliedsbescheinigung]]* and a *[[Sozialversicherungsnummer]]*. You might need them to [start a new job](/guides/find-a-job-in-berlin#start-working) or [apply for a residence permit](/guides/residence-permit).
-5. **Pay every month**  
-    If you have public health insurance, you pay out of your paycheck every month. If you have private health insurance or you are self-employed, you pay by [bank transfer](/glossary/SEPA-Überweisung) or [direct debit authorisation](/glossary/SEPA-Lastschriftmandat).[^35]
-
 ## Your options
 
 {% include '_blocks/healthInsuranceCalculatorStatic.html' %}
@@ -417,9 +404,29 @@ If you are an immigrant, choose a broker who works with expats. Your needs are d
 
 [Feather](/out/feather) is an agent, not a broker. They mostly sell insurance from Hallesche.[^61] [Ottonova](/out/ottonova) sells their own insurance. Even if you get Ottonova, it's better to get it through a broker.
 
-## What to do next
+## How to get insured
 
-### Get your documents
+### 1. Understand your options
+
+Use my [recommendation tool](#your-options) to know your options. There are two insurance systems and hundreds of options. The best option depends on your situation.
+
+### 2. Ask an expert to help you choose
+
+Don't choose health insurance yourself. Always ask a health insurance broker. They ask you the right questions, look at *all* options, and help you find the best one. You get better, cheaper health insurance. Their help is free.
+
+{% include '_blocks/healthInsuranceQuestion.html' %}
+
+If you are a freelancer, you should *never* choose health insurance without help. You can make expensive mistakes.
+
+### 3. Apply for health insurance
+
+The process is different with each insurer. Your health insurance broker can take care of this.
+
+If you choose private health insurance, you usually need a health check from a doctor.[^44] It costs around 250€.[^30]{{ fail_on('2027-01-01') }}
+
+If you are self-employed and new in Germany, it can be hard to get health insurance. Public and private health insurers can reject you.
+
+### 4. Get your documents
 
 Once you are insured, you get...
 
@@ -429,6 +436,12 @@ Once you are insured, you get...
     If you have public health insurance, show it to your doctor when you need healthcare. It's a proof of health insurance.
 - **A [[Sozialversicherungsnummer]]**  
     When you [start working](/guides/find-a-job-in-berlin#start-working), your employer needs this number as soon as possible. If you get private health insurance, you do not get a *Sozialversicherungsnummer* automatically. Your employer can also request it for you.[^80] You can also [contact the *Deutsche Rentenversicherung*](https://www.deutsche-rentenversicherung.de/DRV/DE/Beratung-und-Kontakt/Kontakt/Anschriften-Uebersicht/anschriften_uebersicht_detail.html) and ask for it.
+
+### 5. Pay every month
+
+If you have public health insurance, you pay out of your paycheck every month. If you have private health insurance or you are self-employed, you pay by [bank transfer](/glossary/SEPA-Überweisung) or [direct debit authorisation](/glossary/SEPA-Lastschriftmandat).[^35]
+
+## What to do next
 
 ### Get liability insurance
 
