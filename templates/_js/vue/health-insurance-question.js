@@ -76,7 +76,10 @@ Vue.component('health-insurance-question', {
 		<div ref="collapsible" class="health-insurance-question">
 			<template v-if="stage === 'contactInfo'">
 				<div class="form-recipient">
-					<p><strong>Seamus Wolf</strong> is our insurance expert. {{ whatSeamusWillDo }}</p>
+					<div>
+						<h3>Let's get you insured</h3>
+						<p><strong>Seamus Wolf</strong> is our insurance expert. {{ whatSeamusWillDo }}</p>
+					</div>
 					<img
 						srcset="/experts/photos/bioLarge1x/dr-rob-schumacher-feather-insurance.jpg, /experts/photos/bioLarge2x/dr-rob-schumacher-feather-insurance.jpg 2x"
 						alt="Seamus Wolf, insurance broker" width="125" height="125"
@@ -96,7 +99,21 @@ Vue.component('health-insurance-question', {
 					</label>
 				</div>
 				<hr v-if="income === undefined && !occupation">
-				<h3>How can we contact you?</h3>
+				<template v-if="!preference">
+					<h3>How can we help?</h3>
+					<p>
+						You are a 22 years old employee. Your salary is 45,000€ per year. You are married and you have 2 children. You want to sign up with Barmer.
+					</p>
+					<div class="form-group">
+						<label :for="uid('question')">Your question</label>
+						<div class="input-group">
+							<textarea v-model="question" :id="uid('question')" required placeholder=" "></textarea>
+						</div>
+					</div>
+					<hr>
+				</template>
+				<hr>
+				<h3>How can we reach you?</h3>
 				<div class="form-group">
 					<span class="label">Contact method</span>
 					<div class="tabs">
@@ -142,20 +159,6 @@ Vue.component('health-insurance-question', {
 						<span class="input-instructions" :id="uid('instructions-age')">Your age affects your health insurance options.</span>
 					</label>
 				</div>
-				<hr>
-				<template v-if="!preference">
-					<h3>How can we help?</h3>
-					<p>
-						You are a 22 years old employee. Your salary is 45,000€ per year. You are married and you have 2 children. You want to sign up with Barmer.
-					</p>
-					<div class="form-group">
-						<label :for="uid('question')">Your question</label>
-						<div class="input-group">
-							<textarea v-model="question" :id="uid('question')" required placeholder=" "></textarea>
-						</div>
-					</div>
-					<hr>
-				</template>
 				<div class="buttons bar">
 					<slot name="form-buttons"></slot>
 					<button class="button primary no-print" @click="submitForm" :disabled="isLoading" :class="{loading: isLoading}">Ask Seamus</button>

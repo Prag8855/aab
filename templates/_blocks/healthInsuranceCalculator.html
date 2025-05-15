@@ -185,7 +185,7 @@
 
 	<template v-if="stage === 'questions'">
 		<h3>Tell us a bit more about you&hellip;</h3>
-		<p>It helps us recommend the best health insurance for your needs.</p>
+		<p>It helps us calculate prices and recommend the right health insurance.</p>
 		<hr>
 		<div class="form-group">
 			<label :for="uid('age')">
@@ -571,7 +571,7 @@
 		<template v-if="flag('private')">
 			<p v-if="occupation === 'employee'">
 				<template v-if="age <= 35">If you are young and well-paid, <glossary term="private Krankenversicherung">private health insurance</glossary> is usually cheaper and better.</template>
-				<template v-if="age >= 45">If you are over 45 years old, <glossary term="private Krankenversicherung">private health insurance</glossary> is usually more expensive than public. It only makes sense if you want better, faster healthcare.</template>
+				<template v-if="age >= 45">If you are over 45 years old, <glossary term="private Krankenversicherung">private health insurance</glossary> is usually more expensive than public, but you can get better, faster healthcare.</template>
 			</p>
 
 			<p v-if="occupation === 'selfEmployed'">
@@ -590,7 +590,7 @@
 			<p v-if="isStudent">
 				You can choose <glossary term="private Krankenversicherung">private health insurance</glossary>.
 				<template v-if="flag('student-30plus')">For students over 30 years old, private might can be cheaper than public.</template>
-				<template v-if="!flag('student-30plus')">For students under 30 years old, private is usually more expensive than public. It only makes sense if you want better, faster healthcare.</template>
+				<template v-if="!flag('student-30plus')">For students under 30 years old, private is usually more expensive than public, but you can get better, faster healthcare.</template>
 			</p>
 
 			<ul class="buttons list">
@@ -627,7 +627,7 @@
 				<i class="icon left" aria-hidden="true"></i> Go back
 			</button>
 			<button class="button primary" @click="goToStage('askABroker')">
-				Ask an expert <i class="icon right" aria-hidden="true"></i>
+				Get insured <i class="icon right" aria-hidden="true"></i>
 			</button>
 		</div>
 	</template>
