@@ -9,9 +9,9 @@ Related_reviews:
     reviews/german-health-insurance/mona-anbari.md
 ---
 
-When you [move to Germany](/guides/moving-to-berlin), you must get health insurance. All German residents need health insurance. It pays for your healthcare when you are sick. You need it to apply for a [residence permit](/glossary/Aufenthaltstitel), and to [start working](/guides/find-a-job-in-berlin#start-working).
+When you [move to Germany](/guides/moving-to-berlin), you must choose health insurance. This guide explains how German health insurance works, and how to choose the best health insurance for your needs.
 
-This guide explains how German health insurance works, and how to choose the best health insurance for your needs.
+All German residents need health insurance. It pays for your healthcare when you are sick. You also need it to [start a new job](/guides/find-a-job-in-berlin#start-working) or [apply for a residence permit](/guides/residence-permit).
 
 {% include "_blocks/tableOfContents.html" %}
 
@@ -34,7 +34,7 @@ This guide explains how German health insurance works, and how to choose the bes
 
 ### Health insurance for employees
 
-Your health insurance is not tied to your job. Your employer does not decide what health insurance you can have. If you [lose your job](/guides/losing-your-job), you keep your health insurance.
+When you are an employee, your health insurance is not tied to your job. If you [lose your job](/guides/losing-your-job), you keep your health insurance. Your employer does not decide which health insurance you can have.
 
 **If you earn over {{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}}€ per year**, you can choose [public](/glossary/gesetzliche%20Krankenversicherung) or [private health insurance](/glossary/private%20Krankenversicherung).[^3] Public health insurance costs [around {{GKV_MAX_COST_EMPLOYEE|cur}}€ per month](/glossary/Höchstbeitrag).[^1] Private health insurance might be cheaper.[^58]
 
@@ -171,6 +171,8 @@ The state pays for your health insurance if...[^45]
 When you lose your job, you sometimes get [one month of free health insurance](/guides/losing-your-job#what-happens-to-your-health-insurance).
 
 If you are a [EU](/glossary/European%20Union) citizen, you can sometimes use your [insurance from your home country](#insurance-from-other-eu-countries). This is great if you get free health insurance in your home country.
+
+When you get free health insurance, you must still choose an insurer.
 
 ### What public insurance covers
 
