@@ -1,17 +1,15 @@
 ---
 Title: German health insurance calculator
 Short_title: Health insurance calculator
-Description: Calculate the cost of health insurance, and choose the best German health insurance for your needs.
+Description: Calculate the cost of health insurance, and choose the right German health insurance for your needs.
 Date_created: 2022-01-18
 Categories:
     calculator
 ---
 
-This calculator helps you choose health insurance in Germany. It tells you how much [health insurance](/glossary/Krankenversicherung) costs in {{ now.strftime('%Y') }}, and how to pay less.
+This tool helps you choose the best German health insurance. It tells you what options you have, and how much [health insurance](/glossary/Krankenversicherung) costs in {{ now.strftime('%Y') }}.
 
 {% include '_blocks/healthInsuranceCalculatorStatic.html' %}
-
-You can also try Feather's [health insurance recommendation tool](/out/feather-calc).
 
 ## Cost of German health insurance
 
