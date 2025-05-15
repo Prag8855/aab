@@ -431,6 +431,7 @@ describe('calculateHealthInsuranceContributions', () => {
 				isMarried: true,
 				occupation: 'studentEmployee',
 				monthlyIncome: Math.ceil(0.75 * healthInsurance.nebenjobMaxIncome + 1),
+				hoursWorked: 20
 			});
 
 			it('must pay the employee rate due to their high income', () => {
@@ -440,6 +441,27 @@ describe('calculateHealthInsuranceContributions', () => {
 			});
 
 			it('can\'t get the student tarif due to their high income', hasFlag(output, 'not-nebenjob'));
+			it('can\'t get private health insurance', notHasFlag(output, 'private'));
+			it('can\'t use their EHIC card', notHasFlag(output, 'ehic'));
+			it('can\'t use their spouse\'s insurance', notHasFlag(output, 'familienversicherung-spouse'));
+			it('can\'t use their parents\' insurance', notHasFlag(output, 'familienversicherung-parents'));
+		});
+
+		describe(`a student with a 21 hr/week, 1500€/month job`, () => {
+			const output = calculateHealthInsuranceContributions({
+				age: 22,
+				childrenCount: 0,
+				isMarried: true,
+				occupation: 'studentEmployee',
+				monthlyIncome: 1500,
+				hoursWorked: 21
+			});
+
+			it('must pay the midijob tarif instead of the student tarif', () => {
+				equal(output.tarif, 'midijob');
+			});
+
+			it('can\'t get the student tarif', hasFlag(output, 'not-nebenjob'));
 			it('can\'t get private health insurance', notHasFlag(output, 'private'));
 			it('can\'t use their EHIC card', notHasFlag(output, 'ehic'));
 			it('can\'t use their spouse\'s insurance', notHasFlag(output, 'familienversicherung-spouse'));

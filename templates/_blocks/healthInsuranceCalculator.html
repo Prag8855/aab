@@ -27,6 +27,7 @@
 					isMarried: userDefaults.isMarried,
 					useMonthlyIncome: userDefaults.useMonthlyIncome,
 					yearlyIncome: userDefaults.yearlyIncome,
+					worksOver20HoursPerWeek: false,
 
 					preference: null,
 
@@ -68,6 +69,7 @@
 						occupation: this.occupation,
 						isMarried: this.isMarried,
 						childrenCount: this.childrenCount,
+						hoursWorked: this.worksOver20HoursPerWeek ? 30 : 20,
 					});
 				},
 				salaryOrIncome() {
@@ -219,16 +221,16 @@
 			</label>
 			<div class="input-group vertical">
 				<label class="checkbox">
+					<input type="radio" :name="uid('studentOccupation')" v-model="occupation" value="studentUnemployed" required>
+					I am unemployed
+				</label>
+				<label class="checkbox">
 					<input type="radio" :name="uid('studentOccupation')" v-model="occupation" value="studentEmployee" required>
 					I have a job
 				</label>
 				<label class="checkbox">
 					<input type="radio" :name="uid('studentOccupation')" v-model="occupation" value="studentSelfEmployed" required>
 					I am self-employed
-				</label>
-				<label class="checkbox">
-					<input type="radio" :name="uid('studentOccupation')" v-model="occupation" value="studentUnemployed" required>
-					I am unemployed
 				</label>
 			</div>
 		</div>
@@ -242,6 +244,10 @@
 				<button class="toggle" @click="useMonthlyIncome = !useMonthlyIncome">per {{ useMonthlyIncome ? 'month' : 'year' }}</button>
 				before taxes
 			</div>
+			<label class="input-group" v-if="isStudent">
+				<input type="checkbox" v-model="worksOver20HoursPerWeek">
+				I work more than 20 hours per week
+			</label>
 		</div>
 		<hr>
 		<div class="buttons bar">
@@ -327,8 +333,12 @@
 			<template v-if="flag('private') && childrenCount > 2">It's usually the cheapest option, because it covers your {{ childrenCount }} children for free.</template>
 			<template v-if="flag('private') && age > 45">If you are over 45 years old, it's usually the cheapest option.</template>
 			
-			<template v-if="isStudent && !flag('student-30plus')">
+			<template v-if="flag('private') && isStudent && !flag('student-30plus')">
 				<glossary term="gesetzliche Krankenversicherung">Public health insurance</glossary> is usually the best option for students under 30 years old.
+			</template>
+
+			<template v-else-if="flag('not-nebenjob') && worksOver20HoursPerWeek">
+				You work more than 20 hours per week, so you can't get the student tarif.
 			</template>
 			<template v-if="flag('private') && isStudent && flag('student-30plus') && age <= 45 && childrenCount <= 2">
 				You are over 30 years old, so you can't get the student tariff. Private health insurance might be cheaper than public.
@@ -370,7 +380,7 @@
 					{% endraw %}{% include "_css/icons/help.svg" %}{% raw %}
 					<div>
 						<h3>Let an expert choose</h3>
-						<p>Ask an independent insurance broker to choose the best option. Their help is free.</p>
+						<p>Ask an independent insurance broker to choose the best public health insurance.</p>
 					</div>
 				</button>
 			</li>
@@ -406,7 +416,10 @@
 				<template v-if="flag('student-30plus')">
 					You can't get the student tarif because you are over 30 years old.
 				</template>
-				<template v-else-if="flag('not-nebenjob')">
+				<template v-else-if="flag('not-nebenjob') && worksOver20HoursPerWeek">
+					You can't get the student tarif because you work more than 20 hours per week.
+				</template>
+				<template v-else-if="flag('not-nebenjob') && !worksOver20HoursPerWeek">
 					You can't get the student tarif because your income is too high.
 				</template>
 			</p>
@@ -558,7 +571,7 @@
 		<template v-if="flag('private')">
 			<p v-if="occupation === 'employee'">
 				<template v-if="age <= 35">If you are young and well-paid, <glossary term="private Krankenversicherung">private health insurance</glossary> is usually cheaper and better.</template>
-				<template v-if="age >= 45">If you are over 45 years old, <glossary term="private Krankenversicherung">private health insurance</glossary> is usually more expensive than public. It still makes sense if you want better, faster healthcare.</template>
+				<template v-if="age >= 45">If you are over 45 years old, <glossary term="private Krankenversicherung">private health insurance</glossary> is usually more expensive than public. It only makes sense if you want better, faster healthcare.</template>
 			</p>
 
 			<p v-if="occupation === 'selfEmployed'">
@@ -577,7 +590,7 @@
 			<p v-if="isStudent">
 				You can choose <glossary term="private Krankenversicherung">private health insurance</glossary>.
 				<template v-if="flag('student-30plus')">For students over 30 years old, private might can be cheaper than public.</template>
-				<template v-if="!flag('student-30plus')">For most students, public is a better option.</template>
+				<template v-if="!flag('student-30plus')">For students under 30 years old, private is usually more expensive than public. It only makes sense if you want better, faster healthcare.</template>
 			</p>
 
 			<ul class="buttons list">
@@ -586,7 +599,7 @@
 						{% endraw %}{% include "_css/icons/help.svg" %}{% raw %}
 						<div>
 							<h3>Get a quote</h3>
-							<p>Ask an independent expert to compare all options. It's the best way to choose insurance. This is a free service.</p>
+							<p>Ask an independent expert to compare all options. It's the best way to choose insurance, and it's free.</p>
 						</div>
 					</button>
 				</li>

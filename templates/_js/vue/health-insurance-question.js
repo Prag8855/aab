@@ -43,7 +43,7 @@ Vue.component('health-insurance-question', {
 				'tk': 'He will get you insured with Techniker Krankenkasse.',
 				'public': 'He will help you choose the best public health insurance.',
 				'private': 'He will help you choose the best private health insurance.',
-			}[this.preference] || 'He will help you choose health insurance.';
+			}[this.preference] || 'He will help you get health insurance.';
 		}
 	},
 	methods: {
@@ -91,14 +91,9 @@ Vue.component('health-insurance-question', {
 						<option value="student">Student</option>
 						<option value="other">Other</option>
 					</select>
-				</div>
-				<div class="form-group" v-if="income === undefined">
-					<span class="label"></span>
-					<div class="input-group">
-						<label class="checkbox">
-							<input type="checkbox" v-model="incomeOverLimit"> <span>I earn more than <eur :amount="minFreiwilligMonthlyIncome"></eur> per year</span>
-						</label>
-					</div>
+					<label class="checkbox" v-if="income === undefined">
+						<input type="checkbox" v-model="incomeOverLimit"> <span>I earn more than <eur :amount="minFreiwilligMonthlyIncome"></eur> per year</span>
+					</label>
 				</div>
 				<hr v-if="income === undefined && !occupation">
 				<h3>How can we contact you?</h3>
@@ -163,7 +158,7 @@ Vue.component('health-insurance-question', {
 				</template>
 				<div class="buttons bar">
 					<slot name="form-buttons"></slot>
-					<button class="button primary no-print" @click="submitForm" :disabled="isLoading" :class="{loading: isLoading}">Send question</button>
+					<button class="button primary no-print" @click="submitForm" :disabled="isLoading" :class="{loading: isLoading}">Ask Seamus</button>
 				</div>
 			</template>
 			<template v-if="stage === 'thank-you'">

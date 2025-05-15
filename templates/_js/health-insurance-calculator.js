@@ -501,7 +501,7 @@ function calculateHealthInsuranceForStudent(monthlyIncome, age, childrenCount, c
 	return out;
 }
 
-function calculateHealthInsuranceContributions({age, monthlyIncome, occupation, isMarried, childrenCount, customZusatzbeitrag}) {
+function calculateHealthInsuranceContributions({age, monthlyIncome, occupation, isMarried, childrenCount, customZusatzbeitrag, hoursWorked}) {
 	const isEmployed = occupations.isEmployed(occupation);
 	const isSelfEmployed = occupations.isSelfEmployed(occupation);
 	const isStudent = occupations.isStudent(occupation);
@@ -533,16 +533,12 @@ function calculateHealthInsuranceContributions({age, monthlyIncome, occupation, 
 
 		// You are earning too much to be considered a student
 		// https://www.haufe.de/personal/haufe-personal-office-platin/student-versicherungsrechtliche-bewertung-einer-selbsts-5-student-oder-selbststaendiger_idesk_PI42323_HI9693887.html
-		const hoursWorked = 20; // TODO: Accept different values
+		hoursWorked = hoursWorked === undefined ? 20 : +hoursWorked;
 		if(hoursWorked <= 20 && monthlyIncome > 0.75*healthInsurance.nebenjobMaxIncome) {
 			tarif = isSelfEmployed ? 'selfEmployed' : 'employee';
 			flags.add('not-nebenjob');
 		}
-		else if(hoursWorked > 20 && hoursWorked <= 30 && monthlyIncome > 0.5*healthInsurance.nebenjobMaxIncome) {
-			tarif = isSelfEmployed ? 'selfEmployed' : 'employee';
-			flags.add('not-nebenjob');
-		}
-		else if(hoursWorked > 30 && monthlyIncome > 0.25*healthInsurance.nebenjobMaxIncome) {
+		else if(hoursWorked > 20) {
 			tarif = isSelfEmployed ? 'selfEmployed' : 'employee';
 			flags.add('not-nebenjob');
 		}
