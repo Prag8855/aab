@@ -43,7 +43,7 @@ Vue.component('health-insurance-question', {
 				'tk': 'He will get you insured with Techniker Krankenkasse.',
 				'public': 'He will help you choose the best public health insurance.',
 				'private': 'He will help you choose the best private health insurance.',
-			}[this.preference] || 'He will help you get the right health insurance.';
+			}[this.preference] || 'He will answer your questions and help you get the right health insurance.';
 		}
 	},
 	methods: {
@@ -78,7 +78,7 @@ Vue.component('health-insurance-question', {
 				<div class="form-recipient">
 					<div>
 						<h3 class="no-mobile">Let's get you insured</h3>
-						<p><strong>Seamus Wolf</strong> is our insurance expert. {{ whatSeamusWillDo }}</p>
+						<p>Seamus Wolf is my insurance expert. {{ whatSeamusWillDo }}</p>
 					</div>
 					<img
 						srcset="/experts/photos/bioLarge1x/dr-rob-schumacher-feather-insurance.jpg, /experts/photos/bioLarge2x/dr-rob-schumacher-feather-insurance.jpg 2x"
