@@ -412,7 +412,7 @@ Use my [recommendation tool](#your-options) to know your options. There are two 
 
 ### 2. Ask an expert to help you choose
 
-Don't choose health insurance yourself. Always ask a health insurance broker. They ask you the right questions, look at *all* options, and help you find the best one. You get better, cheaper health insurance. Their help is free.
+Don't choose health insurance yourself. Always ask a health insurance broker. They ask you the right questions, look at *all* options, and help you find the best one. You can get better, cheaper health insurance. Their help is free.
 
 {% include '_blocks/healthInsuranceQuestion.html' %}
 
