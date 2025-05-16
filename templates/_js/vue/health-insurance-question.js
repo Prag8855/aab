@@ -86,14 +86,8 @@ Vue.component('health-insurance-question', {
 						sizes="125px">
 				</div>
 				<hr>
-				<template v-if="!preference">
-					<h3>How can we help?</h3>
-					<div class="form-group">
-						<label :for="uid('question')">Your question</label>
-						<div class="input-group">
-							<textarea v-model="question" :id="uid('question')" required placeholder=" "></textarea>
-						</div>
-					</div>
+				<template v-if="!age">
+					<h3>How can we help you?</h3>
 					<div class="form-group" v-if="!occupation">
 						<span class="label">Occupation</span>
 						<select v-model="inputOccupation">
@@ -118,7 +112,7 @@ Vue.component('health-insurance-question', {
 					</div>
 					<hr>
 				</template>
-				<h3>How can we reach you?</h3>
+				<h3>How can we contact you?</h3>
 				<div class="form-group">
 					<span class="label no-mobile">Contact method</span>
 					<div class="tabs">
@@ -155,6 +149,20 @@ Vue.component('health-insurance-question', {
 					<input v-model="email" type="email" :id="uid('email')" required autocomplete="email">
 				</div>
 				<hr>
+				<template v-if="age">
+					<h3>What we know</h3>
+					<p>You are 22 years old, you are an employee, you earn 22,000€ per year, you are married, and you don't have children. You want to <strong>choose the best public health insurance</strong>.</p>
+					<details>
+						<summary>Add more information</summary>
+						<div class="form-group">
+							<label :for="uid('question')">Details about you</label>
+							<div class="input-group">
+								<textarea v-model="question" :id="uid('question')" required placeholder="Tell us more about your situation."></textarea>
+							</div>
+						</div>
+					</details>
+					<hr>
+				</template>
 				<div class="buttons bar">
 					<slot name="form-buttons"></slot>
 					<button class="button primary no-print" @click="submitForm" :disabled="isLoading" :class="{loading: isLoading}">Ask Seamus</button>
