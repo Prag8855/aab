@@ -1,9 +1,0 @@
----
-Name: Mike Woodiwiss
-Job_title: Health insurance broker
-Email: mw@spectrum-int.com
-Website: https://www.spectrum-int.com/
-Picture: experts/photos/mike_woodiwiss.jpg
----
-
-Mike was a health insurance broker at Spectrum International. He passed away.
