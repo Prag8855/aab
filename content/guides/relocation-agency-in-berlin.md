@@ -27,9 +27,10 @@ Relocation agencies make it easier to [move to Germany](/guides/moving-to-berlin
 A relocation agency can help you...
 
 - Apply for a [residence permit](/glossary/Aufenthaltstitel)
-- Book *[[Bürgeramt]]* and *[[Ausländerbehörde]]* appointments
+- [Book a *Bürgeramt* appointment](/guides/berlin-burgeramt-appointment)
 - [Find an apartment](/guides/find-a-flat-in-berlin) and [register your address](/glossary/Anmeldung)
 - Fill and translate documents
+- Go to the *[[Ausländerbehörde]]* with you
 
 {% include "_blocks/tableOfContents.html" %}
 
