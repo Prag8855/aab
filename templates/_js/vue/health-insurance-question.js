@@ -43,7 +43,7 @@ Vue.component('health-insurance-question', {
 				'tk': 'He will get you insured with Techniker Krankenkasse.',
 				'public': 'He will help you choose the best public health insurance.',
 				'private': 'He will help you choose the best private health insurance.',
-			}[this.preference] || 'He will help you get health insurance.';
+			}[this.preference] || 'He will help you get the right health insurance.';
 		}
 	},
 	methods: {
@@ -86,29 +86,35 @@ Vue.component('health-insurance-question', {
 						sizes="125px">
 				</div>
 				<hr>
-				<div class="form-group" v-if="!occupation">
-					<span class="label">Your occupation</span>
-					<select v-model="inputOccupation">
-						<option value="employee">Employee</option>
-						<option value="selfEmployed">Self-employed</option>
-						<option value="student">Student</option>
-						<option value="other">Other</option>
-					</select>
-					<label class="checkbox" v-if="income === undefined">
-						<input type="checkbox" v-model="incomeOverLimit"> <span>I earn more than <eur :amount="minFreiwilligMonthlyIncome"></eur> per year</span>
-					</label>
-				</div>
-				<hr v-if="income === undefined && !occupation">
 				<template v-if="!preference">
 					<h3>How can we help?</h3>
-					<p>
-						You are a 22 years old employee. Your salary is 45,000€ per year. You are married and you have 2 children. You want to sign up with Barmer.
-					</p>
 					<div class="form-group">
 						<label :for="uid('question')">Your question</label>
 						<div class="input-group">
 							<textarea v-model="question" :id="uid('question')" required placeholder=" "></textarea>
 						</div>
+					</div>
+					<div class="form-group" v-if="!occupation">
+						<span class="label">Occupation</span>
+						<select v-model="inputOccupation">
+							<option value="employee">Employee</option>
+							<option value="selfEmployed">Self-employed</option>
+							<option value="student">Student</option>
+							<option value="other">Other</option>
+						</select>
+						<label class="checkbox" v-if="income === undefined">
+							<input type="checkbox" v-model="incomeOverLimit"> <span>I earn more than <eur :amount="minFreiwilligMonthlyIncome"></eur> per year</span>
+						</label>
+					</div>
+					<div class="form-group required" v-if="!age">
+						<label :for="uid('age')">
+							Age
+						</label>
+						<label class="input-group">
+							<age-input v-model="inputAge" :id="uid('age')" required :aria-describedby="uid('instructions-age')"></age-input>
+							years old
+							<span class="input-instructions" :id="uid('instructions-age')">Your age affects your health insurance options.</span>
+						</label>
 					</div>
 					<hr>
 				</template>
@@ -147,16 +153,6 @@ Vue.component('health-insurance-question', {
 						Email address
 					</label>
 					<input v-model="email" type="email" :id="uid('email')" required autocomplete="email">
-				</div>
-				<div class="form-group required" v-if="!age">
-					<label :for="uid('age')">
-						Age
-					</label>
-					<label class="input-group">
-						<age-input v-model="inputAge" :id="uid('age')" required :aria-describedby="uid('instructions-age')"></age-input>
-						years old
-						<span class="input-instructions" :id="uid('instructions-age')">Your age affects your health insurance options.</span>
-					</label>
 				</div>
 				<hr>
 				<div class="buttons bar">
