@@ -201,7 +201,7 @@ Public health insurance also covers your children and your unemployed spouse for
 
 If you need an English-speaking public health insurer, choose [Barmer](/out/barmer) or [Techniker Krankenkasse](/out/feather-tk). Barmer has the best English-language support and service for immigrants.[^57] Techniker Krankenkasse is also [very good](/guides/techniker-krankenkasse-review), and slightly cheaper.{{ fail_on('2025-12-31') }}
 
-The most important question is public or private health insurance.[^51] [Ask an expert](#insurance-brokers) to help you decide. The can help you get a cheaper health insurance *and* better coverage.
+The most important question is public or private health insurance.[^51] [Ask an expert](#insurance-brokers) to help you decide. They can get you cheaper health insurance *and* better coverage.
 
 ## Private health insurance
 
