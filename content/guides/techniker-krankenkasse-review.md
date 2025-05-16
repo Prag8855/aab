@@ -35,7 +35,7 @@ I was a TK customer since I moved to Berlin in 2015. I was with TK until 2021. I
 
 ### Excellent coverage
 
-In my experience, **TK covers everything without asking questions**. You go to the doctor, you show your health insurance card, and you get the treatments you need. I have seen doctors, physiotherapists, podiatrists, psychotherapists, psychiatrists and dentists. TK paid for everything without asking questions. It just worked.
+In my experience, **TK covers everything without asking questions**. You go to the doctor, you show your [health insurance card](/glossary/Gesundheitskarte), and you get the treatments you need. I have seen doctors, physiotherapists, podiatrists, psychotherapists, psychiatrists and dentists. TK paid for everything without asking questions. It just worked.
 
 Glasses are rarely covered. Most of the time, [you must buy your own eyeglasses](/guides/eyeglasses#does-public-health-insurance-cover-glasses). It's the same with other public health insurers.
 

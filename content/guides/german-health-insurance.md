@@ -165,7 +165,7 @@ When you get free health insurance, you must still choose an insurer.
 
 Public health insurance covers **all necessary healthcare**. Important treatments and medical prescriptions are always covered. There is a small [deductible](/glossary/Selbstbeteiligung) for some prescriptions: 5€ to 10€ per prescription.[^70] There is no other deductible. There is no coverage limit.
 
-When you go to the doctor, you give your insurance card, and they charge your *[[Krankenkasse]]* directly. If a treatment is not covered, you know before you start. There are no surprise costs.
+When you go to the doctor, you show your [insurance card](/glossary/Gesundheitskarte), and they charge your *[[Krankenkasse]]* directly. If a treatment is not covered, you know before you start. There are no surprise costs.
 
 Public health insurance covers essential dental care like wisdom teeth removal. You also get 2 free dental check-ups every year. It does not cover tooth cleanings. You can get [dental insurance](/glossary/Zahnzusatzversicherung) to get better coverage.
 
@@ -182,7 +182,7 @@ Public health insurance also covers your children and your unemployed spouse for
 - **It covers your family for free**  
     Your children and your unemployed spouse get [free health insurance](#free-health-insurance). Private health insurance charges for each person you cover. If you have more than 2 children, public is usually the cheapest option.[^12]
 - **It's easy to use**  
-    When you go to the doctor, you show your insurance card, and you get healthcare. You never need to think about coverage, [deductibles](/glossary/Selbstbeteiligung) or reimbursement. There is no paperwork; it just works.
+    When you go to the doctor, you show your [insurance card](/glossary/Gesundheitskarte), and you get healthcare. You never need to think about coverage, [deductibles](/glossary/Selbstbeteiligung) or reimbursement. There is no paperwork; it just works.
 - **It's not tied to your health**  
     You don't pay more if you have serious health conditions, or if you use your health insurance all the time.
 
@@ -273,7 +273,7 @@ You can customize your coverage. For example, your insurance can cover extra ser
 
 You have more healthcare options, because you can visit doctors and therapists that don't accept public health insurance. Doctors often give priority to patients with private health insurance.
 
-With private health insurance, you usually pay for healthcare yourself, and get reimbursed by the insurance company. For big, expensive treatments, the insurance company pays the doctor directly. This is different from public health insurance, where you just show your insurance card.
+With private health insurance, you usually pay for healthcare yourself, and get reimbursed by the insurance company. For big, expensive treatments, the insurance company pays the doctor directly. This is different from public health insurance, where you just show your [insurance card](/glossary/Gesundheitskarte) and get treated.
 
 ### Best private health insurance
 
@@ -430,12 +430,12 @@ If you are self-employed and new in Germany, it can be hard to get health insura
 
 Once you are insured, you get...
 
+- **A [health insurance card](/glossary/Gesundheitskarte)**  
+    Bring it when you go to the doctor. You can also use it as a proof of health insurance.
 - **A [[Mitgliedsbescheinigung]]**  
     It's a proof of health insurance. Use it to apply for a [residence permit](/glossary/Aufenthaltstitel).
-- **A health insurance card**  
-    If you have public health insurance, show it to your doctor when you need healthcare. It's a proof of health insurance.
 - **A [[Sozialversicherungsnummer]]**  
-    When you [start working](/guides/find-a-job-in-berlin#start-working), your employer needs this number as soon as possible. If you get private health insurance, you do not get a *Sozialversicherungsnummer* automatically. Your employer can also request it for you.[^80] You can also [contact the *Deutsche Rentenversicherung*](https://www.deutsche-rentenversicherung.de/DRV/DE/Beratung-und-Kontakt/Kontakt/Anschriften-Uebersicht/anschriften_uebersicht_detail.html) and ask for it.
+    Give it to your employer. If you get private health insurance, you do not get a *Sozialversicherungsnummer* automatically. Your employer can also request it for you.[^80] You can also [contact the *Deutsche Rentenversicherung*](https://www.deutsche-rentenversicherung.de/DRV/DE/Beratung-und-Kontakt/Kontakt/Anschriften-Uebersicht/anschriften_uebersicht_detail.html) and ask for it.
 
 ### 5. Pay every month
 
