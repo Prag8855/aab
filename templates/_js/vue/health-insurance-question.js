@@ -153,7 +153,7 @@ Vue.component('health-insurance-question', {
 					<h3>What we know</h3>
 					<p>You are 22 years old, you are an employee, you earn 22,000€ per year, you are married, and you don't have children. You want to <strong>choose the best public health insurance</strong>.</p>
 					<details>
-						<summary>Add more information</summary>
+						<summary>Add more details</summary>
 						<div class="form-group">
 							<label :for="uid('question')">Details about you</label>
 							<div class="input-group">

@@ -33,7 +33,7 @@ Most employees pay 35% to 50% of their income in taxes, health insurance and pen
 - **Join the [[Künstlersozialkasse]]**  
     If you are a freelance artist, publicist or art teacher, [join the *Künstlersozialkasse* (*KSK*)](/guides/ksk-kuenstlersozialkasse). They pay half of your health insurance, and half of your pension insurance. It's always worth it.
 
-Use my health insurance calculator to see your options. If you need help, [talk to a broker](/guides/german-health-insurance#insurance-brokers). It's free.
+Use my health insurance picker to see your options. If you need help, [ask my insurance broker](/guides/german-health-insurance#insurance-brokers).
 
 {% include '_blocks/healthInsuranceCalculator.html' %}
 
