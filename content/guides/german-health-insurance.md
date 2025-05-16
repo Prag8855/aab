@@ -112,7 +112,7 @@ Public health insurance costs {{GKV_BASE_RATE_EMPLOYEE}}% of your income, plus a
 
 **If you are an employee**, you pay {{GKV_MIN_RATE_EMPLOYEE}}% to {{GKV_MAX_RATE_EMPLOYEE}}% of your income (including *[[Pflegeversicherung]]*). The [minimum cost](/glossary/Mindestbeitrag) is around {{GKV_MIN_COST_EMPLOYEE|cur}}€ per month. The [maximum cost](/glossary/Höchstbeitrag) is around {{GKV_MAX_COST_EMPLOYEE|cur}}€ per month. Health insurance payments are taken from your paycheck each month.
 
-**If you are unemployed**, you pay the [minimum amount](/glossary/Mindestbeitrag): around {{GKV_MIN_COST_SELF_PAY|cur}}€ per month. When you lose your job, you sometimes get [one month of free health insurance](/guides/losing-your-job#what-happens-to-your-health-insurance).
+**If you are unemployed**, you pay the [minimum amount](/glossary/Mindestbeitrag): around {{GKV_MIN_COST_SELF_PAY|cur}}€ per month. When you [lose your job](/guides/losing-your-job), you sometimes get [one month of free health insurance](/guides/losing-your-job#what-happens-to-your-health-insurance).
 
 **If you are a student**, you usually pay the student tariff: {{GKV_COST_STUDENT|cur}}€ per month. If you are over 30 years old, you can't get the student tariff, so you pay the same price as everyone else.
 
@@ -155,7 +155,7 @@ The state pays for your health insurance if...[^45]
 - or you get *[[Bürgergeld]]*
 - or you get *[[Elterngeld]]*
 
-When you lose your job, you sometimes get [one month of free health insurance](/guides/losing-your-job#what-happens-to-your-health-insurance).
+When you [lose your job](/guides/losing-your-job), you sometimes get [one month of free health insurance](/guides/losing-your-job#what-happens-to-your-health-insurance).
 
 If you are a [EU](/glossary/European%20Union) citizen, you can sometimes use your [insurance from your home country](#insurance-from-other-eu-countries). This is great if you get free health insurance in your home country.
 
@@ -176,15 +176,15 @@ Public health insurance also covers your children and your unemployed spouse for
 ### Benefits of public health insurance
 
 - **The cost is proportional to your income**  
-    If you have a low income, you pay less. This is great if you have an unstable income, if you [lose your job](/guides/losing-your-job), or if you retire. If you just [started your business](/guides/start-a-business-in-germany) or your income is low, choose public health insurance.[^27]
+    If you have a low income, you pay less. This is great if you have an unstable income, if you [lose your job](/guides/losing-your-job), or if you retire. If you just [started your business](/guides/start-a-business-in-germany) or if your income is not stable, choose public health insurance.[^27]
 - **It's cheap for students**  
-    Students pay around {{GKV_COST_STUDENT|cur}}€ per month until they are 30 years old. Usually, public is the best option for students.[^59]
+    Students pay around {{GKV_COST_STUDENT|cur}}€ per month until they are 30 years old. If you are under 30 years old, public is usually the best option.[^59]
 - **It covers your family for free**  
-    Your children and your unemployed spouse get [free health insurance](#free-health-insurance). Private health insurance charges for each person you cover. If you have more than 2 children, public health insurance is usually the cheapest option.[^12]
+    Your children and your unemployed spouse get [free health insurance](#free-health-insurance). Private health insurance charges for each person you cover. If you have more than 2 children, public is usually the cheapest option.[^12]
 - **It's easy to use**  
     When you go to the doctor, you show your insurance card, and you get healthcare. You never need to think about coverage, [deductibles](/glossary/Selbstbeteiligung) or reimbursement. There is no paperwork; it just works.
 - **It's not tied to your health**  
-    The price is based on your income. You don't pay more if you have serious health conditions, or if you use your health insurance all the time.
+    You don't pay more if you have serious health conditions, or if you use your health insurance all the time.
 
 ### Disadvantages of public health insurance
 
