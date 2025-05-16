@@ -210,7 +210,7 @@ Most employees in Germany are paid by [bank transfer](/glossary/SEPA-%C3%9Cberwe
 
 During your first 6 months at a new company, you are in your probation period (*[[Probezeit]]*).[^1] During that time, it's easier to get fired. It's also harder to [find an apartment](/guides/find-a-flat-in-berlin), because you don't have a stable job.
 
-**[How does the probation period work? ➞](/guides/probezeit)**
+**[How the probation period works ➞](/guides/probezeit)**
 
 All employees in Germany get paid [vacation days](/guides/vacation-days), and paid [sick leave](/guides/sick-leave). You don't work on [public holidays](/guides/public-holidays), but you still get paid.
 
