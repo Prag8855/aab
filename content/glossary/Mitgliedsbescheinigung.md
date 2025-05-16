@@ -22,4 +22,4 @@ If you have [public health insurance](/glossary/gesetzliche%20Krankenversicherun
 
 [![Example Mitgliedsbescheinigung](/images/krankenkasse-mitgliedsbescheinigung-nach-175-sgb-v.png)](/images/krankenkasse-mitgliedsbescheinigung-nach-175-sgb-v.png "Example Mitgliedsbescheinigung")
 
-If you don't have health insurance, get a *vorläufige Mitgliedsbescheinigung* from any public health insurer, or [ask a health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you.
+If you don't have health insurance, get a *vorläufige Mitgliedsbescheinigung* from any public health insurer, or [ask my health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you.

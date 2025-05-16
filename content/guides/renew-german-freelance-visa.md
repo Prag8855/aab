@@ -66,7 +66,7 @@ When you renew a [residence permit](/glossary/Aufenthaltstitel), [expat health i
 
 **[Health insurance for a freelance visa ➞](/guides/german-visa-health-insurance#for-a-freelance-visa)**
 
-It takes 1 or 2 weeks to switch, but **it can take up to 3 months**.[^17] [Ask a health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose the correct health insurance. Their help is free. Don't choose health insurance yourself; you can make expensive mistakes.
+It takes 1 or 2 weeks to switch, but **it can take up to 3 months**.[^17] [Ask my health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose the correct health insurance. His help is free. Don't choose health insurance yourself; you can make expensive mistakes. Many applications are rejected because of invalid health insurance.[^5]
 
 {% include '_blocks/healthInsuranceQuestion.html' %}
 
@@ -237,6 +237,7 @@ If you plan to become a permanent resident, you should make voluntary [public pe
 [^2]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/3tkxvi/mawista_health_insurance_could_be_not_sufficient/), [medium.com](https://medium.com/betahaus/renewing-the-german-freelance-visa-february-2019-a4a899eabe52)
 [^3]: [accountable.de](https://www.accountable.de/en/blog/gewinnermittlung-or-net-determination-letter-for-freelance-visa-renewals-in-germany/), [Facebook](https://www.facebook.com/groups/germanfreelancevisa/posts/1095767750891927/) (2021, 2023)
 [^4]: [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/989234614878575/)
+[^5]: Kathleen Parker at [Red Tape Translation](/out/red-tape-translation) (2024)
 [^7]: [berlin.de](https://service.berlin.de/dienstleistung/327144/standort/326311/)
 [^8]: [berlin.de](https://service.berlin.de/dienstleistung/324713/)
 [^9]: [berlin.de](https://service.berlin.de/dienstleistung/324288/), [facebook.com](https://www.facebook.com/groups/germanfreelancevisa/permalink/952250981910272/), [VAB 21.5](/out/vab) (July 2024)

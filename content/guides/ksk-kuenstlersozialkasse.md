@@ -355,7 +355,7 @@ If you can, include proof that you have upcoming projects. Proofs of future inco
 ### Health insurance documents
 
 - [ ] **Proof of health insurance** (*Mitgliedbescheinigung*)  
-    You get this from your health insurer, or from your health insurance broker. If you don't have health insurance yet, get a *vorläufige Mitgliedsbescheinigung* from any public health insurer, or [ask a health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you [choose health insurance](/guides/german-health-insurance).
+    You get this from your health insurer, or from your health insurance broker. If you don't have health insurance yet, get a *vorläufige Mitgliedsbescheinigung* from any public health insurer, or [ask my health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you [choose health insurance](/guides/german-health-insurance). His help is free.
     - **[Public health insurance exemption form](https://www.kuenstlersozialkasse.de/fileadmin/Dokumente/Mediencenter_K%C3%BCnstler_Publizisten/Vordrucke_und_Formulare/Befreiung_von_der_gesetzl._KV.pdf)**  
         If you want to [keep your private health insurance](/guides/ksk-kuenstlersozialkasse#can-i-have-private-health-insurance-with-the-ksk) after you join the KSK, include this form.
     - **Private health insurance contract**  

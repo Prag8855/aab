@@ -57,7 +57,7 @@ To apply for a [work visa](/glossary/Work%20Visa) or a [[Blue Card]], you need *
 
 **If you renew or change your current residence permit**, you need [public](/glossary/gesetzliche%20Krankenversicherung) or [private health insurance](/glossary/private%20Krankenversicherung). Expat health insurance is rarely accepted.[^0]
 
-Don't choose health insurance yourself. It's a *really* bad idea when you are self-employed. The best option depends on your citizenship, your income, your health, and your plans for the future. [Ask a health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose.
+Don't choose health insurance yourself. It's a *really* bad idea when you are self-employed. The best option depends on your citizenship, your income, your health, and your plans for the future. [Ask my health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose.
 
 **[How to apply for a freelance visa ➞](/guides/freelance-visa)**
 
@@ -77,7 +77,9 @@ Travel insurance is not accepted when you apply for a residence permit.
 
 ## How to choose health insurance
 
-[Ask a health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose. Their help is free. It's the best way to choose insurance.
+Don't choose health insurance yourself. You can make expensive mistakes. Choosing the wrong insurance can delay your visa application.
+
+[Ask my health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose. His help is free. It's the best way to choose insurance.
 
 {% include '_blocks/healthInsuranceQuestion.html' %}
 
