@@ -1936,7 +1936,7 @@ input[type=range] {
 
 }
 
-output.placeholder, .recommended{
+output.placeholder, .recommended:before{
     background: var(--c-bg-widget);
     box-decoration-break: clone;
     border-radius: var(--b-radius);
@@ -1945,11 +1945,9 @@ output.placeholder, .recommended{
     color: var(--c-text-light)!important;
     white-space: nowrap;
 }
-.recommended{
-    &:before{
-        font-size: var(--f-s);
-        content: '✦ Recommended';
-    }
+.recommended:before{
+    font-size: var(--f-s);
+    content: '✦ Recommended';
 
     &:hover{
         cursor: help;
@@ -2820,10 +2818,26 @@ collapsible, letter-generator, feedback-residence-permit{  // Vue element before
             width: 100%;
             height: 100%;
 
+            position: relative; // For the .recommended flair
+
             @include only-phone{
                 text-align: left;
                 gap: var(--m);
                 align-items: center;
+            }
+
+            &.recommended{
+                @include box-clickable-hover;
+
+                &:before{
+                    position: absolute;
+                    right: var(--m);
+                    top: calc(var(--m) * var(--line-height-text) * -1/2);
+                    color: #fff!important;
+                    background: var(--c-highlight);
+
+                    @include box-clickable-hover;
+                }
             }
 
             svg{
@@ -3167,7 +3181,7 @@ collapsible, letter-generator, feedback-residence-permit{  // Vue element before
 
     body, main{display:block;}
 
-    sup, #footnotes, .recommended, .icon.left, .icon.right, .buttons.bar{
+    sup, #footnotes, a.recommended, .icon.left, .icon.right, .buttons.bar{
         display:none!important;
     }
 }
