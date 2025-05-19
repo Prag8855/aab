@@ -30,10 +30,12 @@ You must register your address to...
 
 You don't need to register your address to...
 
-- **Start working**  
+- **[Start working](/guides/find-a-job-in-berlin#start-working)**  
     Your employer needs your [tax ID](/glossary/Steueridentifikationsnummer), but it can wait. You can also [get a tax ID without an *Anmeldung*](/guides/german-tax-id-steuernummer#how-to-get-your-tax-id).
-- **Open a bank account**  
+- **[Open a bank account](/guides/best-bank-germany)**  
     There are [banks that don't require an *Anmeldung*](/guides/best-bank-germany#banks-that-dont-require-an-anmeldung).
+- **[Get health insurance](/guides/german-health-insurance)**  
+    You can get health insurance without a German address.[^21]
 
 ### People who don't need to register
 
@@ -277,6 +279,7 @@ When you move into an apartment, you must do a few things: lower your rent, get 
 [^18]: [frag-einen-anwalt.de](https://www.frag-einen-anwalt.de/Ummeldung-bei-Wohnen-auf-Zeit--f311548.html), [blog.wunderflats.com](https://blog.wunderflats.com/die-wohnungsgeberbestaetigung-beim-moeblierten-wohnen-auf-zeit/#:~:text=bei%20kurzeren%20aufenthalten%20ist%20das%20ausstellen%20einer%20wohnungsgeberbescheinigung%20fur%20sie%20als%20vermieter%20einer%20beherbergungsstatte%20hingegen%20nicht%20verpflichtend), [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_bmg/englisch_bmg.html#:~:text=anyone%20staying%20in%20institutions%20for%20the%20purpose%20of%20commercial%20reception)
 [^19]: [community.withairbnb.com](https://community.withairbnb.com/t5/Gastgeben/Wohnungsbest%C3%A4tigung/td-p/427851), [blog.wunderflats.com](https://blog.wunderflats.com/die-wohnungsgeberbestaetigung-beim-moeblierten-wohnen-auf-zeit/), [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_bmg/englisch_bmg.html#:~:text=anyone%20staying%20in%20institutions%20for%20the%20purpose%20of%20commercial%20reception)
 [^20]: [§17 Abs. 1 BMG](https://www.gesetze-im-internet.de/englisch_bmg/englisch_bmg.html#p0184), [Senate Department for the Interior, Digitalization and Sport](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-15247.pdf), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/dpdyog/student_staying_for_5_months_without_an_anmeldung/f5utqom/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/dpdyog/student_staying_for_5_months_without_an_anmeldung/f5w36it/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/dgl6o8/are_there_consequences_for_completing_anmeldung/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/9s3xzd/do_you_actually_receive_a_fine_for_a_late/), Kathleen Parker at [Red Tape Translation](https://redtapetranslation.com/) (March 2024), multiple relocation consultants (February 2024)
+[^21]: [Seamus Wolf](/out/horizon65) (May 2025)
 [^23]: [giga.de](https://www.giga.de/unternehmen/deutsche-post-ag/specials/c-o-bedeutung-der-angabe-bei-adressen-auf-briefen-post-und-paketen/), [focus.de](https://web.archive.org/web/20220614064533/https://www.focus.de/finanzen/praxistipps/c-o-adresse-das-steckt-dahinter_id_7762940.html) (2017)
 [^24]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/dm65o5/adding_co_to_the_anmeldung/), [frag-einen-anwalt.de](https://www.frag-einen-anwalt.de/Meldeadresse-mit-co-Zeichnung--f212142.html), [Screenshot](/images/anmeldung-mit-bei-erlaubt-2022-12-23.png)
 [^25]: [Screenshot](/images/Anmeldung-mit-co-2022-12-09.png), [Screenshot](/images/Anmeldung-mit-c-o-2022-10-05.png), [Reddit](https://old.reddit.com/r/askberliners/comments/180e5ye/does_it_require_a_stamp/)
