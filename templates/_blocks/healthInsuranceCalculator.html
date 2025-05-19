@@ -339,7 +339,7 @@
 				<glossary term="gesetzliche Krankenversicherung">Public health insurance</glossary> is usually the best option for students under 30 years old.
 			</template>
 
-			<template v-else-if="flag('not-nebenjob') && worksOver20HoursPerWeek">
+			<template v-else-if="flag('not-nebenjob') && worksOver20HoursPerWeek && !flag('student-30plus')">
 				You work more than 20 hours per week, so you can't get the student tarif.
 			</template>
 			<template v-if="flag('private') && isStudent && flag('student-30plus') && age <= 45 && childrenCount <= 2">
@@ -573,7 +573,7 @@
 		<template v-if="flag('private')">
 			<p v-if="occupation === 'employee'">
 				<template v-if="age <= 35">If you are young and well-paid, <glossary term="private Krankenversicherung">private health insurance</glossary> is usually cheaper and better.</template>
-				<template v-if="age >= 45">If you are over 45 years old, <glossary term="private Krankenversicherung">private health insurance</glossary> is usually more expensive than public, but you can get better, faster healthcare.</template>
+				<template v-if="age >= 45">If you are over 45 years old, <glossary term="private Krankenversicherung">private health insurance</glossary> is usually more expensive than public, but you can get better coverage and see doctors faster.</template>
 			</p>
 
 			<p v-if="occupation === 'selfEmployed'">
@@ -592,7 +592,7 @@
 			<p v-if="isStudent">
 				You can choose <glossary term="private Krankenversicherung">private health insurance</glossary>.
 				<template v-if="flag('student-30plus')">For students over 30 years old, private might can be cheaper than public.</template>
-				<template v-if="!flag('student-30plus')">For students under 30 years old, private is usually more expensive than public, but you can get better, faster healthcare.</template>
+				<template v-if="!flag('student-30plus')">For students under 30 years old, private is usually more expensive than public, but you can get better coverage and see doctors faster.</template>
 			</p>
 
 			<ul class="buttons list">
