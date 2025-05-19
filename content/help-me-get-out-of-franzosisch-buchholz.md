@@ -16,12 +16,12 @@ Same thing, but more central. I want to live in Berlin, not commute to it.
 
 These are my criteria:
 
-- Over 45 m^2
-- Up to 20€ per m^2
+- Over 45 m^2^
+- Up to 20€ per m^2^
 - Up to 1300€ warm
-- Somewhat central
 - Unlimited lease
 - With a balcony
+- Ideally in the blue area above
 
 If you have anything like that, **[contact me](/contact#contact-information)**!
 
