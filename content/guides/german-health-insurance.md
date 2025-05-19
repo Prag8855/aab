@@ -289,7 +289,7 @@ Do not choose private health insurance yourself. It's a really bad idea. The bes
 
 ### Expat health insurance
 
-[[Expat health insurance]] is a temporary health insurance. It covers medical emergencies before you can get public or private health insurance. You can *sometimes* use it to apply for your first visa or [residence permit](/glossary/Aufenthaltstitel).[^5] You can't use it to change or renew an existing residence permit.[^29]
+[[Expat health insurance]] is a temporary health insurance. It covers medical emergencies before you can get public or private health insurance. You can sometimes use it to apply for your first visa or [residence permit](/glossary/Aufenthaltstitel).[^5] You can't use it to change or renew an existing residence permit.[^29]
 
 **If you are an employee**, you might need expat insurance to apply for an [opportunity card](/glossary/Chancenkarte). You must switch to public or private health insurance when you [start working](/guides/find-a-job-in-berlin#start-working).
 
@@ -312,7 +312,7 @@ If you want to stay in Germany for a long time, don't stay on expat insurance. I
 - **They can stop covering you**  
     Insurers can end your contract, and refuse to keep covering you. It can be hard to find another health insurance.[^66]
 
-Get expat health insurance from a [health insurance broker](#insurance-brokers). [Feather](/out/feather-expats) and [Ottonova](/out/ottonova-expats) also sell expat insurance, but it's better to get help from a broker.
+Get expat health insurance from a [health insurance broker](#insurance-brokers). [Feather](/out/feather-expats) and [Ottonova](/out/ottonova-expats) sell expat insurance, but brokers compare all options from all insurers.
 
 **[List of expat insurance options ➞](/guides/german-visa-health-insurance#expat-health-insurance-options)**
 
@@ -398,15 +398,17 @@ The *[[Ausländerbehörde]]* sometimes accepts expat health insurance when you a
 
 ### Insurance brokers
 
-Brokers help you choose health insurance. They help you for free. They get paid by health insurers to bring them new customers. I strongly recommend you to ask a broker to help you choose health insurance.
-
-Always work with a broker (*Makler*), not an agent (*Vertreter*). Brokers are independent. They recommend health insurance from different companies. Agents only sell insurance from specific companies.
-
-If you are an immigrant, choose a broker who works with expats. Your needs are different, and your broker must know how to help you.
+Ask a broker to help you. It's the best way to choose health insurance. It's a free service. The broker gets paid by the insurers for each new client.
 
 {% include '_blocks/healthInsuranceQuestion.html' %}
 
-[Feather](/out/feather) is an agent, not a broker. They mostly sell insurance from Hallesche.[^61] [Ottonova](/out/ottonova) sells their own insurance. Even if you get Ottonova, it's better to get it through a broker.
+Choose a broker who works with expats. Your situation is different, and your broker must know how to help you.
+
+Ask a broker (*Makler*), not an agent (*Vertreter*). Brokers are independent. They recommend health insurance from different companies. Agents only sell insurance from specific companies.
+
+**[Feather](/out/feather)** is an agent, not a broker. They mostly sell insurance from Hallesche.[^61]
+
+**[Ottonova](/out/ottonova)** sells their own insurance. Even if you get Ottonova, it's better to get it through a broker. See my [review of Ottonova](/guides/ottonova-review).
 
 ## How to get insured
 
