@@ -52,7 +52,7 @@ There are more requirements, depending on your situation.
 To become a permanent resident, you must also...
 
 - [ ] **Have a job**  
-    You must have a stable, long-term income. If you are unemployed, if you are in your [probation period](/glossary/Probezeit), or if your work contract ends in the next 6 months, you might not get a [PR](/glossary/Niederlassungserlaubnis). If you have a history of stable employment, you might get it anyway.[^36]
+    You must have a stable, long-term income. If you are unemployed, if you are in your [probation period](/glossary/Probezeit), or if your work contract ends in the next 6 months, your application will get rejected.[^36]
 - [ ] **Have a Blue Card for 21 to 27 months**  
     27 months if you speak [[A1]] German, or 21 months if you speak [[B1]] German.[^10] This includes the time when you met the [Blue Card requirements](/guides/blue-card#blue-card-requirements), even if you had a different [residence permit](/glossary/Aufenthaltstitel).[^41]
 - [ ] **Speak [[A1]] or [[B1]] German**
@@ -115,7 +115,7 @@ Your spouse must...
 - [ ] **Be a skilled worker**  
     Their last residence permit must have been a [[Blue Card]], or a §18a, §18b or §18d [work visa](/glossary/Work%20Visa).[^68] If they had a different residence permit, follow the [requirements for everybody else](#everyone-else).
 - [ ] **Have a job**  
-    They must have a stable, long-term income. If they are unemployed, if they are in their [probation period](/glossary/Probezeit), or if their work contract ends in the next 6 months, you might not get a [PR](/glossary/Niederlassungserlaubnis). If they have a history of stable employment, you might get it anyway.[^36]
+    They must have a stable, long-term income. If they are unemployed, if they are in their [probation period](/glossary/Probezeit), or if their work contract ends in the next 6 months, your application will be rejected.[^36]
 
 ### If you have a [student visa](/glossary/Student%20visa)
 
@@ -479,7 +479,7 @@ An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocatio
 [^32]: [VAB 9a.2.1.2](/out/vab) (July 2024)
 [^33]: [BAMF](https://www.bamf.de/DE/Themen/MigrationAufenthalt/ZuwandererDrittstaaten/Migrathek/Niederlassen/niederlassen-node.html#:~:text=deutschen%20Sprache%20verf%C3%BCgen.-,familienangehorige%20von%20auslandischen%20personen,-Bei%20Ehegatten%2C%20die), [§35 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__35.html), [Berlin.de](https://service.berlin.de/dienstleistung/324863/) (July 2024), [anwalt-diedrich.de](https://www.anwalt-diedrich.de/home/anwalt-auslaenderrecht/niederlassungserlaubnis/kinder/) (July 2024)
 [^35]: [ArbeitNow](https://www.arbeitnow.com/blog/blue-card-to-permanent-residence-in-germany#getting-pension-contributions-faster-rentenversicherung) (April 2021), Reader feedback (June 2024), Oliver at [SympatMe](https://sympat.me) (June 2024)
-[^36]: [VAB 2.3.1.10](/out/vab) (July 2024), [Reddit](https://old.reddit.com/r/germany/comments/10pxr3u/blue_card_to_permanent_residence_my_experience/#:~:text=i%20switched%20jobs%20at%20some%20point) (2023), [Reddit](https://old.reddit.com/r/askberliners/comments/1abthxy/permanent_residence_application/kjz3laq/) (2023), [Reddit](https://old.reddit.com/r/askberliners/comments/uvygv2/denied_niederlassungserlaubnis_because_i_start_a/) (2022), [Reddit](https://old.reddit.com/r/germany/comments/1b9ly48/niederlassungserlaubnis_and_befristet_contracts/) (2024), Victoria Messer (January 2024), [jurati.eu](https://www.jurati.eu/immigration_law/settlement_permit/), [Facebook](https://www.facebook.com/groups/226825394858771/posts/1174074926800475/) (2022)
+[^36]: A lot of reader feedback (May 2025), [VAB 2.3.1.10](/out/vab) (July 2024), [Reddit](https://old.reddit.com/r/germany/comments/10pxr3u/blue_card_to_permanent_residence_my_experience/#:~:text=i%20switched%20jobs%20at%20some%20point) (2023), [Reddit](https://old.reddit.com/r/askberliners/comments/1abthxy/permanent_residence_application/kjz3laq/) (2023), [Reddit](https://old.reddit.com/r/askberliners/comments/uvygv2/denied_niederlassungserlaubnis_because_i_start_a/) (2022), [Reddit](https://old.reddit.com/r/germany/comments/1b9ly48/niederlassungserlaubnis_and_befristet_contracts/) (2024), Victoria Messer (January 2024), [jurati.eu](https://www.jurati.eu/immigration_law/settlement_permit/), [Facebook](https://www.facebook.com/groups/226825394858771/posts/1174074926800475/) (2022)
 [^37]: [For Blue Card holders](https://service.berlin.de/dienstleistung/326556/#:~:text=aktuelle%20arbeitgeber-bescheinigung), [for work visa holders](https://service.berlin.de/dienstleistung/326558/#:~:text=aktuelle%20arbeitgeber-bescheinigung), [for refugees](https://service.berlin.de/dienstleistung/326554/#:~:text=aktuelle%20bescheinigung%20des%20arbeitgebers) and [for everyone else](https://service.berlin.de/dienstleistung/121864/#:~:text=aktuelle%20bescheinigung%20des%20arbeitgebers)
 [^38]: [§18c Abs. 1 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18c.html)
 [^39]: [§21 Abs. 4 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html), [VAB 21.4.2](/out/vab) (July 2024), [Fiona Macdonald, immigration lawyer](https://www.fmr-legal.de/) (June 2024), [Twitter](https://x.com/GomezCamilo/status/1816007686950961326) (2024)
