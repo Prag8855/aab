@@ -8,7 +8,7 @@ Related_guides:
     guides/german-health-insurance.md
 ---
 
-Your [public health insurance](/glossary/gesetzliche%20Krankenversicherung) covers your dependents for free. This is called *Familienversicherung*.
+Your [public health insurance](/glossary/gesetzliche%20Krankenversicherung) covers your dependents for free. They get the same coverage as you. This is called *Familienversicherung*.
 
 Your insurance covers...
 

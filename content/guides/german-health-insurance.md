@@ -61,7 +61,7 @@ If you are self-employed, you can choose public or private health insurance.[^4]
 
 **[Public health insurance](#public-health-insurance)** costs {{GKV_MIN_RATE_SELF_PAY}}% to {{GKV_MAX_RATE_SELF_PAY}}% of your income (including *[[Pflegeversicherung]]*). The minimum cost is around [{{GKV_MIN_COST_SELF_PAY|cur}}€](/glossary/Mindestbeitrag) per month. The maximum cost is around [{{GKV_MAX_COST_SELF_PAY|cur}}€](/glossary/Höchstbeitrag) per month. You can't get the student tariff, you can't get [free health insurance](#free-health-insurance), and you can't use [health insurance from another EU country](#insurance-from-other-eu-countries).[^37]
 
-**[Private health insurance](#private-health-insurance)** is usually cheaper. The cost is based on your age and your health when you sign up, and the level of coverage you choose.[^79] If you have an unstable income, or you earn less than 30,000€ per year, don't get private health insurance.[^27] Insurers often reject people with a low or unstable income.[^55]
+**[Private health insurance](#private-health-insurance)** is usually cheaper. The cost is based on your age and your health when you sign up, and the level of coverage you choose.[^79] If you have an unstable income, or you earn less than 30,000€ per year, don't get private health insurance.[^27] Ideally, you should make more than 60,000€ per year.[^69] Insurers often reject people with a low or unstable income.[^55]
 
 **[Expat health insurance](#expat-health-insurance)** is the cheapest option. This is supposed to be temporary health insurance. You can use it to apply for a [freelance visa](/glossary/Freelance%20visa). Staying on expat insurance is a really bad idea. Switch to public or private health insurance as soon as you can.
 
@@ -309,6 +309,8 @@ If you want to stay in Germany for a long time, don't stay on expat insurance. I
     The cost of expat insurance rises really quickly. If your expat insurance stays valid, it gets more and more expensive. In the long term, public and private health insurance are cheaper.[^10]
 - **The coverage is not as good**  
     Check-ups and dentist visits are rarely covered.[^26] You usually pay a [deductible](/glossary/Selbstbeteiligung) for basic treatments. Long term treatments (like cancer) are 100% covered, without any deductible.
+- **They can stop covering you**  
+    Insurers can end your contract, and refuse to keep covering you. It can be hard to find another health insurance.[^66]
 
 Get expat health insurance from a [health insurance broker](#insurance-brokers). [Feather](/out/feather-expats) and [Ottonova](/out/ottonova-expats) also sell expat insurance, but it's better to get help from a broker.
 
@@ -373,13 +375,15 @@ There is no reason to choose your insurance yourself. [Ask an expert](#insurance
 ### Choose expat health insurance if...
 
 - **You apply for an [opportunity card](/glossary/Chancenkarte)**  
-    Expat health insurance is ideal for this. When you [find a job](/guides/find-a-job-in-berlin), switch to public or private health insurance.
+    Expat health insurance is perfect for this. When you [find a job](/guides/find-a-job-in-berlin), switch to public or private health insurance.
 - **You have no other choice**  
-    Expat health insurance is the cheapest option. It's a bad long-term solution, but it might be the only health insurance you can afford.
+    If you are self-employed and you have pre-existing health problems, it might be your only option. Expat health insurance is usually the cheapest option. It's a bad long-term solution, but it might be the only insurance you can afford.
 
-German embassies and consulates *sometimes* accept expat health insurance for a visa application.[^33] Get public or private health insurance instead if you can.
+Expat health insurance is rarely the best option. It's often a bad idea. Always [ask an expert](#insurance-brokers) if it makes sense for you.
 
-The [immigration office](/glossary/Ausländerbehörde) *sometimes* accepts expat health insurance for a [residence permit](/glossary/Aufenthaltstitel) application. It sometimes works when it's your first residence permit. It does not work when you change or renew your residence permit.[^21]
+German embassies and consulates sometimes accept expat health insurance when you apply for a visa.[^33] Get public or private health insurance if you can.
+
+The *[[Ausländerbehörde]]* sometimes accepts expat health insurance when you apply for your first [residence permit](/glossary/Aufenthaltstitel). It does not work when you change or renew your residence permit.[^21]
 
 **[Health insurance for a visa application ➞](/guides/german-visa-health-insurance)**
 
@@ -412,13 +416,13 @@ Use my [recommendation tool](#your-options) to know your options. There are two 
 
 ### 2. Ask an expert to choose
 
-Don't choose health insurance yourself. Always [ask a health insurance broker](#insurance-brokers). They ask you the right questions, look at all the options, and help you find the best one. You can get better, cheaper health insurance. Their help is free.
+Don't choose health insurance yourself. Always [ask a broker](#insurance-brokers) to help you. They ask you the right questions, look at all the options, and help you find the best one. You can get better, cheaper health insurance. Their help is free.
+
+If you choose the wrong health insurance, your [residence permit](/glossary/Aufenthaltstitel) application can be rejected. If you choose the cheapest insurance, you might save money now but lose a lot of money later.
 
 {% include '_blocks/healthInsuranceQuestion.html' %}
 
-If you are self-employed, *never* choose health insurance without help. It's a really complicated choice, and you can make expensive mistakes.
-
-If you choose the wrong health insurance, your [residence permit](/glossary/Aufenthaltstitel) application can be rejected.
+If you are self-employed, *never* choose health insurance yourself. It's a really complicated choice, and you can make expensive mistakes.
 
 ### 3. Apply for health insurance
 
@@ -540,8 +544,10 @@ If you are new in Germany, [register as an organ donor](/guides/organ-donor). It
 [^63]: [Seamus Wolf](/out/horizon65) (May 2025)
 [^64]: [praktikum-guide.com](https://praktikum-guide.com/krankenversicherung-im-praktikum/#:~:text=Pflichtpraktikum%20ohne-,vergutung,-Du%20bleibst%20beitragsfrei) (April 2025)
 [^65]: [DAK](https://www.dak.de/dak/leistungen/krankenversicherung-waehrend-eines-praktikums_63456#rtf-anchor-praktikum-vor-oder-nach-dem-studium) (April 2025), [check24.de](https://www.check24.de/krankenversicherung/praktikum/#:~:text=fur%20ein%20pflichtpraktikum%2C%20das%20vor%20oder%20nach%20dem%20studium%20absolviert%20wird) (April 2025)
+[^66]: [Seamus Wolf](/out/horizon65) (April 2025)
 [^67]: [meinpraktikum.de](https://www.meinpraktikum.de/ratgeber/krankenversicherung#freiwilliges-praktikum) (April 2025), [student-kv.de](https://www.student-kv.de/krankenkasse_versicherung_im_praktikum/#:~:text=4.%20nicht%20vorgeschriebenes%20vorpraktikum%2Fnachpraktikum) (April 2025)
 [^68]: [check24.de](https://www.check24.de/krankenversicherung/praktikum/#:~:text=fur%20die%20der%20praktikant%20kein%20entgelt%20erhalt) (April 2025)
+[^69]: [Seamus Wolf](/out/horizon65) (April 2025)
 [^70]: [online-pkv.de](https://www.online-pkv.de/pkv-bu-blog/gibt-es-eine-selbstbeteiligung-in-der-gkv/) (January 2025)
 [^71]: [Emily Archer](https://www.archer-relocation.com/) (April 2025)
 [^72]: [Mona Anbari](https://versicherungsbuero-weiss.com/) (April 2025)
