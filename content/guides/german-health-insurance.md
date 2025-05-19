@@ -410,17 +410,21 @@ If you are an immigrant, choose a broker who works with expats. Your needs are d
 
 Use my [recommendation tool](#your-options) to know your options. There are two insurance systems and hundreds of options. The best option depends on your situation.
 
-### 2. Ask an expert to help you choose
+### 2. Ask an expert to choose
 
-Don't choose health insurance yourself. Always ask a health insurance broker. They ask you the right questions, look at *all* options, and help you find the best one. You can get better, cheaper health insurance. Their help is free.
+Don't choose health insurance yourself. Always [ask a health insurance broker](#insurance-brokers). They ask you the right questions, look at all the options, and help you find the best one. You can get better, cheaper health insurance. Their help is free.
 
 {% include '_blocks/healthInsuranceQuestion.html' %}
 
-If you are a freelancer, you should *never* choose health insurance without help. You can make expensive mistakes.
+If you are self-employed, *never* choose health insurance without help. It's a really complicated choice, and you can make expensive mistakes.
+
+If you choose the wrong health insurance, your [residence permit](/glossary/Aufenthaltstitel) application can be rejected.
 
 ### 3. Apply for health insurance
 
 The process is different with each insurer. Your health insurance broker can take care of this.
+
+You only need an ID document and a photo for your insurance card. You do not need a German address or an *[[Anmeldung]]*.[^63]
 
 If you choose private health insurance, you usually need a health check from a doctor.[^44] It costs around 250€.[^30]{{ fail_on('2027-01-01') }}
 
@@ -533,6 +537,7 @@ If you are new in Germany, [register as an organ donor](/guides/organ-donor). It
 [^60]: [Seamus Wolf](/out/horizon65) (April 2025)
 [^61]: [Emily Archer](https://www.archer-relocation.com/) (April 2025), [Seamus Wolf](/out/horizon65) (April 2025), multiple insurance brokers (2024, 2025)
 [^62]: [250 to 350€ (FinanXpats)](https://www.finanxpats.com/health-insurance/2025-health-insurance-guide-for-expats#:~:text=pays%20around%20%E2%82%AC250%E2%80%93350%20per%20month) (April 2025), [250 to 390€ (Feather)](/out/feather-private) (April 2025), [260 to 350€ (Ottonova)](/out/ottonova) (April 2025)
+[^63]: [Seamus Wolf](/out/horizon65) (May 2025)
 [^64]: [praktikum-guide.com](https://praktikum-guide.com/krankenversicherung-im-praktikum/#:~:text=Pflichtpraktikum%20ohne-,vergutung,-Du%20bleibst%20beitragsfrei) (April 2025)
 [^65]: [DAK](https://www.dak.de/dak/leistungen/krankenversicherung-waehrend-eines-praktikums_63456#rtf-anchor-praktikum-vor-oder-nach-dem-studium) (April 2025), [check24.de](https://www.check24.de/krankenversicherung/praktikum/#:~:text=fur%20ein%20pflichtpraktikum%2C%20das%20vor%20oder%20nach%20dem%20studium%20absolviert%20wird) (April 2025)
 [^67]: [meinpraktikum.de](https://www.meinpraktikum.de/ratgeber/krankenversicherung#freiwilliges-praktikum) (April 2025), [student-kv.de](https://www.student-kv.de/krankenkasse_versicherung_im_praktikum/#:~:text=4.%20nicht%20vorgeschriebenes%20vorpraktikum%2Fnachpraktikum) (April 2025)
