@@ -1,5 +1,5 @@
 ---
-Title: I am looking for a flat
+Title: Nick needs a flat
 Description: Help me find my new home, get 1,000€.
 Date_created: 2025-05-20
 ---
@@ -10,11 +10,13 @@ I am looking for an apartment somewhere in central Berlin. If you help me find a
 
 ## What I am looking for
 
-Same thing, but more central. I want Berlin to be the city I live in, not the one I commute to.
+Same thing, but more central. I want to live in Berlin, not commute to it.
+
+![A map of places where I would like to live](/images/desired-locations.jpg)
 
 - Over 45 m^2
-- Under 20€ per m^2
-- Under 1200€ warm
+- Up to 20€ per m^2
+- Up to 1300€ warm
 - Somewhat central
 - Unlimited lease
 - With a balcony
@@ -27,7 +29,7 @@ I moved to Berlin in 2015 to be a software engineer. I started this website in 2
 
 I am legally and spiritually a permanent resident. I am overqualified for citizenship. I speak German.
 
-I live alone, without pets. My loudest hobby is using a typewriter, but never after 10 PM. My favourite place to party is elsewhere. My cooking smells great.
+I live alone, without pets. My loudest hobby is using a typewriter, (never after 10 PM). My favourite place to party is elsewhere. My cooking smells great.
 
 All of these statements are true and I have the paperwork to prove it.
 
