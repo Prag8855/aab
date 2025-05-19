@@ -1,4 +1,5 @@
 {% include '_js/constants.js' %}
+{% include '_js/currency.js' %}
 {% include '_js/vue.js' %}
 {% include '_js/vue/age-input.js' %}
 {% include '_js/vue/eur.js' %}
@@ -39,12 +40,62 @@ Vue.component('health-insurance-question', {
 	computed: {
 		whatSeamusWillDo(){
 			return {
-				'barmer': 'He will get you insured with Barmer.',
-				'tk': 'He will get you insured with Techniker Krankenkasse.',
-				'public': 'He will help you choose the best public health insurance.',
-				'private': 'He will help you choose the best private health insurance.',
+				barmer: 'He will get you insured with Barmer.',
+				tk: 'He will get you insured with Techniker Krankenkasse.',
+				public: 'He will help you choose the best public health insurance.',
+				private: 'He will help you choose the best private health insurance.',
 			}[this.preference] || 'He will answer your questions and help you get the right health insurance.';
-		}
+		},
+		personSummary(){
+			const facts = [];
+
+			if(!this.showAgeField){
+				facts.push(`you are ${this.inputAge} years old`);
+			}
+
+			const cleanOccupation = {
+				azubi: 'an apprentice',
+				employee: 'employed',
+				selfEmployed: 'self-employed',
+				studentEmployee: 'a student',
+				studentSelfEmployed: 'a self-employed student',
+				studentUnemployed: 'an unemployed student',
+				unemployed: 'unemployed',
+			}[this.inputOccupation];
+			if(cleanOccupation){
+				facts.push(`you are ${cleanOccupation}`);
+			}
+			if(!this.showIncomeField){
+				facts.push(`you earn ${formatCurrency(this.income)} per year`);
+			}
+
+			if(this.childrenCount !== undefined){
+				if(this.childrenCount === 0){
+					facts.push("you don't have children");
+				}
+				else if(this.childrenCount === 1){
+					facts.push("you have one child");
+				}
+				else {
+					facts.push(`you have ${this.childrenCount} children`);
+				}
+			}
+
+			facts[0] = facts[0].charAt(0).toUpperCase() + facts[0].slice(1);
+
+			return new Intl.ListFormat('en-US', {style: 'long', type: 'conjunction'}).format(facts) + '.';
+
+			// You want to <strong>choose the best public health insurance</strong>.
+		},
+		showAgeField(){
+			return this.age === undefined;
+		},
+		showIncomeField(){
+			return this.income === undefined;
+		},
+		showOccupationField(){
+			return this.occupation === undefined;
+		},
 	},
 	methods: {
 		async submitForm() {
@@ -78,7 +129,7 @@ Vue.component('health-insurance-question', {
 				<div class="form-recipient">
 					<div>
 						<h3 class="no-mobile">Let's get you insured</h3>
-						<p>Seamus Wolf is my insurance expert. {{ whatSeamusWillDo }}</p>
+						<p>Seamus Wolf is my insurance expert. {{ whatSeamusWillDo }} This is a free service.</p>
 					</div>
 					<img
 						srcset="/experts/photos/bioLarge1x/dr-rob-schumacher-feather-insurance.jpg, /experts/photos/bioLarge2x/dr-rob-schumacher-feather-insurance.jpg 2x"
@@ -86,9 +137,9 @@ Vue.component('health-insurance-question', {
 						sizes="125px">
 				</div>
 				<hr>
-				<template v-if="!age">
+				<template v-if="showAgeField || showOccupationField || showIncomeField">
 					<h3>How can we help you?</h3>
-					<div class="form-group" v-if="!occupation">
+					<div class="form-group" v-if="!showOccupationField">
 						<span class="label">Occupation</span>
 						<select v-model="inputOccupation">
 							<option value="employee">Employee</option>
@@ -100,7 +151,7 @@ Vue.component('health-insurance-question', {
 							<input type="checkbox" v-model="incomeOverLimit"> <span>I earn more than <eur :amount="minFreiwilligMonthlyIncome"></eur> per year</span>
 						</label>
 					</div>
-					<div class="form-group required" v-if="!age">
+					<div class="form-group required" v-if="!showAgeField">
 						<label :for="uid('age')">
 							Age
 						</label>
@@ -149,11 +200,11 @@ Vue.component('health-insurance-question', {
 					<input v-model="email" type="email" :id="uid('email')" required autocomplete="email">
 				</div>
 				<hr>
-				<template v-if="age">
+				<template v-if="personSummary">
 					<h3>What we know</h3>
-					<p>You are 22 years old, you are an employee, you earn 22,000€ per year, you are married, and you don't have children. You want to <strong>choose the best public health insurance</strong>.</p>
+					<p>{{ personSummary }}</p>
 					<details>
-						<summary>Add more details</summary>
+						<summary>Add more details about you</summary>
 						<div class="form-group">
 							<label :for="uid('question')">Details about you</label>
 							<div class="input-group">
