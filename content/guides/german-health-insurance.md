@@ -9,9 +9,9 @@ Related_reviews:
     reviews/german-health-insurance/mona-anbari.md
 ---
 
-When you [move to Germany](/guides/moving-to-berlin), you must choose health insurance. This guide explains how German health insurance works, and how to choose the best health insurance for your needs.
+When you [move to Germany](/guides/moving-to-berlin), you must choose health insurance. This guide explains how it works, and how to choose the best health insurance for your needs.
 
-All German residents need health insurance. It pays for your healthcare when you are sick. You also need it to [start a new job](/guides/find-a-job-in-berlin#start-working) or [apply for a residence permit](/guides/residence-permit).
+All German residents need health insurance. It pays for your healthcare when you are sick. You also need it to [start a new job](/guides/find-a-job-in-berlin#start-working) or to [apply for a residence permit](/guides/residence-permit).
 
 {% include "_blocks/tableOfContents.html" %}
 
@@ -359,18 +359,22 @@ There is no reason to choose your insurance yourself. [Ask an expert](#insurance
 - **You have pre-existing health problems**  
     Private health insurers might charge more or refuse to cover you. Even getting psychotherapy can disqualify you. Public health insurance is usually forced to accept you.
 
+Public health insurance is **the safest option**, because you can always choose private health insurance later.[^82]
+
 ### Choose private health insurance if...
 
 - **You have stable income**  
     Private health insurance makes sense if you have a high income for the rest of your career.
-- **You want fast doctor appointments**  
-    It's much easier to find a doctor.
+- **You want faster doctor appointments**  
+    It's much easier to find a doctor, a psychotherapist, a paediatrician or a gynaecologist.
 - **You want the best coverage**  
     Private health insurance lets you pay more and get the best coverage for you and your family.
 - **You want better treatment**  
     You can choose a specific doctor, or a specific kind of treatment. For example, you can get innovative therapy or medication that is not yet covered by public health insurance.[^73] It can cover better dental implants, a better wheelchair, or a better hospital room.
 - **You plan to leave Germany in a few years**  
     You can get short-term private health insurance. It's up to 50% cheaper, because there is no old age provision.[^74]
+
+Private health insurance is **a risky decision**. If you are not happy, it's really hard to switch to public health insurance. Never choose private health insurance yourself. Always [ask a broker](#insurance-brokers) to help you choose.
 
 ### Choose expat health insurance if...
 
@@ -379,7 +383,7 @@ There is no reason to choose your insurance yourself. [Ask an expert](#insurance
 - **You have no other choice**  
     If you are self-employed and you have pre-existing health problems, it might be your only option. Expat health insurance is usually the cheapest option. It's a bad long-term solution, but it might be the only insurance you can afford.
 
-Expat health insurance is rarely the best option. It's often a bad idea. Always [ask an expert](#insurance-brokers) if it makes sense for you.
+Expat health insurance is **rarely the best option**. It's often a bad idea. Always [ask an expert](#insurance-brokers) if it makes sense for you.
 
 German embassies and consulates sometimes accept expat health insurance when you apply for a visa.[^33] Get public or private health insurance if you can.
 
@@ -400,15 +404,17 @@ The *[[Ausländerbehörde]]* sometimes accepts expat health insurance when you a
 
 Ask a broker to help you. It's the best way to choose health insurance. It's a free service. The broker gets paid by the insurers for each new client.
 
+I work with Seamus Wolf. He is honest and knowledgeable, and he speaks English.
+
 {% include '_blocks/healthInsuranceQuestion.html' %}
 
 Choose a broker who works with expats. Your situation is different, and your broker must know how to help you.
 
-Ask a broker (*Makler*), not an agent (*Vertreter*). Brokers are independent. They recommend health insurance from different companies. Agents only sell insurance from specific companies.
+Talk to a broker (*Makler*), not an agent (*Vertreter*). Brokers are independent. They recommend health insurance from different companies. Agents only sell insurance from specific companies.
 
-**[Feather](/out/feather)** is an agent, not a broker. They mostly sell insurance from Hallesche.[^61]
+**[Feather](/out/feather)** is an agent, not a broker. They only sell insurance from a few companies.[^61] They might not sell the best insurance for your needs.
 
-**[Ottonova](/out/ottonova)** sells their own insurance. Even if you get Ottonova, it's better to get it through a broker. See my [review of Ottonova](/guides/ottonova-review).
+**[Ottonova](/out/ottonova)** sells their own insurance. It's rarely the best option.[^83] Even if you get Ottonova, it's better to get it through a broker. See my [review of Ottonova](/guides/ottonova-review).
 
 ## How to get insured
 
@@ -562,3 +568,5 @@ If you are new in Germany, [register as an organ donor](/guides/organ-donor). It
 [^79]: [Emily Archer](https://www.archer-relocation.com/) (April 2025), [Seamus Wolf](/out/horizon65) (April 2025)
 [^80]: [Emily Archer](https://www.archer-relocation.com/) (April 2025)
 [^81]: [Mona Anbari](https://versicherungsbuero-weiss.com/) (April 2025)
+[^82]: [Seamus Wolf](/out/horizon65) (April 2025)
+[^83]: [Seamus Wolf](/out/horizon65) (April 2025)
