@@ -65,11 +65,13 @@
 				result() {
 					return calculateHealthInsuranceContributions({
 						age: +this.age,
-						monthlyIncome: this.occupation === 'unemployed' ? 0 : +this.monthlyIncome,
 						occupation: this.occupation,
 						isMarried: this.isMarried,
 						childrenCount: this.childrenCount,
 						hoursWorked: this.worksOver20HoursPerWeek ? 30 : 20,
+
+						// Clear the income when the income input is not visible
+						monthlyIncome: this.isUnemployed ? 0 : +this.monthlyIncome,
 					});
 				},
 				salaryOrIncome() {
