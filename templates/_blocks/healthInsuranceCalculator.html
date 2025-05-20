@@ -311,7 +311,7 @@
 		</template>
 		<h3>Public health insurance</h3>
 		<p v-if="flag('azubi-free')">
-			You make less than <eur :amount="healthInsurance.azubiFreibetrag"></eur> per month, so your employer pays for your health insurance. You must still choose an insurer.
+			You make less than <eur :amount="healthInsurance.azubiFreibetrag"></eur> per month, so your employer pays for your health insurance.
 		</p>
 		<p v-else>
 			<template v-if="showFreeOptions">If you can't get free health insurance, it costs</template>
@@ -394,7 +394,7 @@
 				<template v-if="result.tarif === 'employee'">
 					Your health insurance costs a percentage of your income. Your employer pays half of it.
 				</template>
-				<template v-if="result.tarif === 'selfEmployed'">
+				<template v-if="result.tarif === 'selfEmployed' || (result.tarif === 'azubi' && !flag('azubi-free'))">
 					Your health insurance costs a percentage of your income.
 				</template>
 				<template v-if="result.tarif === 'student'">
@@ -411,7 +411,7 @@
 				<template v-if="result.tarif === 'midijob'">
 					It's a cheaper tarif for low-income jobs.
 				</template>
-				<template v-if="result.tarif === 'azubi'">
+				<template v-if="result.tarif === 'azubi' && flag('azubi-free')">
 					You make less than <eur :amount="healthInsurance.azubiFreibetrag"></eur> per month, so you don't pay for health insurance. Your employer pays for it.
 				</template>
 
@@ -537,17 +537,18 @@
 			<details>
 				<summary class="price highlighted">
 					You pay
-					<output v-if="maxTotal === 0">
+					<output v-if="maxTotal.personalContribution === 0">
 						<eur :amount="0"></eur>
 					</output>
 					<output v-if="eur(minTotal.personalContribution) === eur(maxTotal.personalContribution) && maxTotal.personalContribution > 0">
-						<eur :amount="maxTotal.personalContribution"></eur><small class="no-mobile">/month</small>
+						<eur :amount="maxTotal.personalContribution"></eur>
 					</output>
 					<output v-if="eur(minTotal.personalContribution) != eur(maxTotal.personalContribution) && maxTotal.personalContribution > 0">
 						<eur :amount="minTotal.personalContribution" no-symbol></eur>
 						&nbsp;to&nbsp;
-						<eur :amount="maxTotal.personalContribution"></eur><small class="no-mobile">/month</small>
+						<eur :amount="maxTotal.personalContribution"></eur>
 					</output>
+					<small class="no-mobile">/month</small>
 				</summary>
 				<p>
 					This is what you pay for public health insurance.
