@@ -34,6 +34,8 @@ Vue.component('health-insurance-question', {
 			inputOccupation: this.occupation,
 			incomeOverLimit: this.income >= (healthInsurance.minFreiwilligMonthlyIncome * 12),
 
+			showDetailsField: false,
+
 			isLoading: false,
 		};
 	},
@@ -45,6 +47,14 @@ Vue.component('health-insurance-question', {
 				public: 'He will help you choose the best public health insurance.',
 				private: 'He will help you choose the best private health insurance.',
 			}[this.preference] || 'He will answer your questions and help you get the right health insurance.';
+		},
+		submitButtonText(){
+			return {
+				barmer: 'Get insured',
+				tk: 'Get insured',
+				public: 'Get a recommendation',
+				private: 'Get a quote',
+			}[this.preference] || 'Ask Seamus';
 		},
 		personSummary(){
 			const facts = [];
@@ -81,9 +91,25 @@ Vue.component('health-insurance-question', {
 				}
 			}
 
+			if(!facts){
+				return;
+			}
+
 			facts[0] = facts[0].charAt(0).toUpperCase() + facts[0].slice(1);
 
-			return new Intl.ListFormat('en-US', {style: 'long', type: 'conjunction'}).format(facts) + '.';
+			let summary = new Intl.ListFormat('en-US', {style: 'long', type: 'conjunction'}).format(facts) + '.';
+
+			if(this.preference) {
+				summary += ' You want to ';
+				summary += {
+					barmer: 'get insured with Barmer',
+					tk: 'get insured with Techniker Krankenkasse',
+					public: 'choose the right public health insurance',
+					private: 'get a quote for private health insurance',
+				}[this.preference] || 'choose the right health insurance';
+				summary += '.';
+			}
+			return summary;
 
 			// You want to <strong>choose the best public health insurance</strong>.
 		},
@@ -202,21 +228,21 @@ Vue.component('health-insurance-question', {
 				<hr>
 				<template v-if="personSummary">
 					<h3>What we know</h3>
-					<p>{{ personSummary }}</p>
-					<details>
-						<summary>Add more details about you</summary>
-						<div class="form-group">
-							<label :for="uid('question')">Details about you</label>
-							<div class="input-group">
-								<textarea v-model="question" :id="uid('question')" required placeholder="Tell us more about your situation."></textarea>
-							</div>
+					<p v-html="personSummary"></p>
+					<p>
+						<strong><a href="#" @click.prevent="showDetailsField = true">+ Add more details about you</a></strong>
+					</p>
+					<div class="form-group" v-if="showDetailsField">
+						<label :for="uid('question')">More about you</label>
+						<div class="input-group">
+							<textarea v-model="question" :id="uid('question')" required placeholder="Tell us more about your situation."></textarea>
 						</div>
-					</details>
+					</div>
 					<hr>
 				</template>
 				<div class="buttons bar">
 					<slot name="form-buttons"></slot>
-					<button class="button primary no-print" @click="submitForm" :disabled="isLoading" :class="{loading: isLoading}">Ask Seamus</button>
+					<button class="button primary no-print" @click="submitForm" :disabled="isLoading" :class="{loading: isLoading}" v-text="submitButtonText"></button>
 				</div>
 			</template>
 			<template v-if="stage === 'thank-you'">
