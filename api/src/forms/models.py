@@ -138,7 +138,7 @@ class Feedback(EmailMixin, models.Model):
 class HealthInsuranceQuestion(NameMixin, ReplyToSenderMixin, EmailMixin, ScheduledMessage):
     age = models.PositiveSmallIntegerField(null=True)
     income = models.PositiveIntegerField(null=True)
-    occupation = models.CharField(max_length=50)  # "selfEmployed"
+    occupation = models.CharField(max_length=50, blank=True)  # "selfEmployed"
     phone = models.CharField(max_length=30, blank=True)
     question = models.TextField(blank=True)
     is_married = models.BooleanField(null=True)
