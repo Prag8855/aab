@@ -47,6 +47,7 @@ function calculateHealthInsuranceForAzubi(monthlyIncome, age, childrenCount, cus
 	};
 
 	if(monthlyIncome <= healthInsurance.azubiFreibetrag) {
+		out.tarif = 'azubi-free';
 		out.flags.add('azubi-free');
 	}
 
@@ -536,11 +537,11 @@ function calculateHealthInsuranceContributions({age, monthlyIncome, occupation, 
 		hoursWorked = hoursWorked === undefined ? 20 : +hoursWorked;
 		if(hoursWorked <= 20 && monthlyIncome > 0.75*healthInsurance.nebenjobMaxIncome) {
 			tarif = isSelfEmployed ? 'selfEmployed' : 'employee';
-			flags.add('not-nebenjob');
+			flags.add('not-werkstudent');
 		}
 		else if(hoursWorked > 20) {
 			tarif = isSelfEmployed ? 'selfEmployed' : 'employee';
-			flags.add('not-nebenjob');
+			flags.add('not-werkstudent');
 		}
 	}
 	else if(isSelfEmployed) {

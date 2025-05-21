@@ -165,12 +165,6 @@
 				</button>
 			</li>
 			<li>
-				<button @click="occupation = 'intern'; nextStage()">
-					{% endraw %}{% include "_css/icons/helper.svg" %}{% raw %}
-					Intern
-				</button>
-			</li>
-			<li>
 				<button @click="occupation = 'azubi'; nextStage()">
 					{% endraw %}{% include "_css/icons/helper.svg" %}{% raw %}
 					Apprentice
@@ -180,6 +174,12 @@
 				<button @click="occupation = 'unemployed'; nextStage()">
 					{% endraw %}{% include "_css/icons/visiting.svg" %}{% raw %}
 					Unemployed
+				</button>
+			</li>
+			<li>
+				<button @click="goToStage('askABroker')">
+					{% endraw %}{% include "_css/icons/help.svg" %}{% raw %}
+					It's complicated
 				</button>
 			</li>
 		</ul>
@@ -339,7 +339,7 @@
 				<glossary term="gesetzliche Krankenversicherung">Public health insurance</glossary> is usually the best option for students under 30 years old.
 			</template>
 
-			<template v-else-if="flag('not-nebenjob') && worksOver20HoursPerWeek && !flag('student-30plus')">
+			<template v-else-if="flag('not-werkstudent') && worksOver20HoursPerWeek && !flag('student-30plus')">
 				You work more than 20 hours per week, so you can't get the student tarif.
 			</template>
 			<template v-if="flag('private') && isStudent && flag('student-30plus') && age <= 45 && childrenCount <= 2">
@@ -418,10 +418,10 @@
 				<template v-if="flag('student-30plus')">
 					You can't get the student tarif because you are over 30 years old.
 				</template>
-				<template v-else-if="flag('not-nebenjob') && worksOver20HoursPerWeek">
+				<template v-else-if="flag('not-werkstudent') && worksOver20HoursPerWeek">
 					You can't get the student tarif because you work more than 20 hours per week.
 				</template>
-				<template v-else-if="flag('not-nebenjob') && !worksOver20HoursPerWeek">
+				<template v-else-if="flag('not-werkstudent') && !worksOver20HoursPerWeek">
 					You can't get the student tarif because your income is too high.
 				</template>
 			</p>
