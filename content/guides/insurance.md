@@ -51,9 +51,9 @@ Dog liability insurance costs around 5€ per month. You sometimes pay less if y
 
 If you don't speak German, [Feather](/out/feather-dogs) and [Getsafe](/out/getsafe-dogs) sell dog liability insurance and they speak English. They also cover dangerous breeds. Use [Tarifcheck](/out/tarifcheck-dogs) to compare prices.
 
-## Home contents insurance ([[Hausratversicherung]])
+## Home contents insurance
 
-Home contents insurance or household insurance (*Hausratversicherung*) insures your furniture, your appliances, and the other movable things in your house. It costs around 5€ per month.
+Home contents insurance or household insurance (*[[Hausratversicherung]]*) insures your furniture, your appliances, and the other movable things in your house. It costs around 5€ per month.
 
 For example:[^3]
 
@@ -67,19 +67,17 @@ Get this insurance if you can't afford to replace everything after a fire. 76% o
 
 If you don't speak German, [Feather](/out/feather-hausrat) and [Getsafe](/out/getsafe-home) sell household insurance, and they speak English. Use [Tarifcheck](/out/tarifcheck-hausrat) to compare options.
 
-## Health insurance (Krankenversicherung)
+## Health insurance
 
-Health insurance is required for all German residents. It pays for your healthcare when you need it.
+Health insurance (*[[Krankenversicherung]]*) is required for all German residents. It pays for your healthcare when you need it.
 
 {% include '_blocks/healthInsuranceCalculator.html' %}
 
-The best way to find health insurance is to talk to an independent broker. Their services are free; they get a commission from the insurance company when you sign a contract.
+**[How to choose health insurance ➞](/guides/german-health-insurance)**
 
-**[How to choose German health insurance ➞](/guides/german-health-insurance)**
+The best way to choose health insurance is to talk to an independent broker. Their help is free. They get a commission from the insurance company when you sign a contract.
 
-{% include '_blocks/healthInsuranceQuestion.html' %}
-
-## Pet health insurance ([[Tierkrankenversicherung]])
+## Pet health insurance
 
 Pet health insurance (*[[Tierkrankenversicherung]]* or *Hundekrankenversicherung*) covers the veterinary bills if your dog gets sick. Usually, it does not cover routine operations like vaccines or castration.[^5] However, it covers expensive operations. This can be important when your dog gets old.
 
@@ -89,9 +87,9 @@ If you don't speak German, [Getsafe](/out/getsafe-pethealth) and [Feather](/out/
 
 **[Guide for Berlin dog owners ➞](/guides/dog-ownership)**
 
-## Car insurance (Kfz-Versicherung)
+## Car insurance
 
-If you drive a vehicle in Germany, it must be insured. There are two types of car insurance: *[[Vollkasko]]* and *[[Teilkasko]]*.
+If you drive a vehicle in Germany, it must be insured. There are two types of car insurance (*[[Kfz-Versicherung]]*): *[[Vollkasko]]* and *[[Teilkasko]]*.
 
 - **[[Vollkasko]]** insurance covers the damage to your car and to other cars, even if the accident is your fault. If you destroy your car in an accident, the insurance company will replace it. *Vollkasko* insurance is usually several times more expensive than *Teilkasko*.
 - **[[Teilkasko]]** insurance only covers the damage to other people and vehicles. If you cause an accident, your *Teilkasko* will pay to fix other people's cars, but it will not pay you to on your own car. If the accident is someone else's fault, *their* insurance will pay for the repairs on your car.
@@ -102,23 +100,23 @@ Use [Verivox](/out/verivox-kfz) or [Tarifcheck](/out/tarifcheck-kfz) to compare 
 
 **[Car insurance in Germany ➞](/guides/car-insurance-germany)**
 
-## Disability insurance ([[Berufsunfähigkeitsversicherung]])
+## Disability insurance
 
-This translates to "professional disability insurance" or "income protection insurance". If you have an accident and can't do your job anymore, this insurance will help you. For example, if you are a surgeon and you lose a finger, this insurance can be useful. It's also useful for office workers who can suffer from burnout.
+If you have an accident and can't do your job anymore, this insurance will help you. For example, if you are a surgeon and you lose a finger, this insurance can be useful. It's also useful for office workers who can suffer from burnout. It's called disability insurance or income protection insurance (*[[Berufsunfähigkeitsversicherung]]*).
 
 This insurance makes sense if you have people who depend on you, or a mortgage to pay. If you can't work, you can still take care of your family. Around 26% of Germans have disability insurance.[^4]
 
 If you don't speak German, [Feather](/out/feather-disability) and [Getsafe](/out/getsafe-berufunfahigkeit) sell disability insurance, and they speak English. [Tarifcheck](/out/tarifcheck-berufunfahigkeit) helps you compare options, but it's only in German.
 
-## Life insurance (Lebensversicherung)
+## Life insurance
 
-Life insurance pays money to your family when you die. It's not useful for you, but it's useful for the people who depend on you. If you have people who depend on you financially, then life insurance is really important. Life insurance is cheap when you are young, but more expensive when you get older.
+Life insurance (*Lebensversicherung*) pays money to your family when you die. It's not useful for you, but it's useful for the people who depend on you. If you have people who depend on you financially, then life insurance is really important. Life insurance is cheap when you are young, but more expensive when you get older.
 
 [Feather](/out/feather-disability) sells life insurance, and they speak English.
 
-## Legal insurance ([[Rechtsschutzversicherung]])
+## Legal insurance
 
-Legal insurance gives you free access to a lawyer. If you have a problem with your landlord, your employer, the tax office or anyone else, you can call a lawyer. You can ask them questions, they can write letters for you, and they can go to court with you. Legal insurance will pay for it.
+Legal insurance (*[[Rechtsschutzversicherung]]*) gives you free access to a lawyer. If you have a problem with your landlord, your employer, the tax office or anyone else, you can call a lawyer. You can ask them questions, they can write letters for you, and they can go to court with you. Legal insurance will pay for it.
 
 There is private legal insurance (for you), and professional legal insurance (for your business). Private legal insurance costs around 15€ per month. Professional legal insurance is more expensive. The price depends on the type of business.
 
