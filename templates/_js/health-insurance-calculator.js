@@ -447,7 +447,7 @@ function calculateHealthInsuranceForStudent(monthlyIncome, age, childrenCount, c
 	out.baseContribution.totalRate = healthInsurance.studentTarif;
 	out.baseContribution.totalContribution = roundCurrency(out.baseContribution.totalRate * bafogBedarfssatz);
 
-	// TODO: How do employers contribute to student health insurance?
+	// Employers do not contribute to student health insurance
 	out.baseContribution.employerRate = 0;
 	out.baseContribution.personalRate = undefined;
 	out.baseContribution.personalContribution = out.baseContribution.totalContribution;
@@ -460,7 +460,7 @@ function calculateHealthInsuranceForStudent(monthlyIncome, age, childrenCount, c
 
 	out.pflegeversicherung = {};
 
-	// TODO: How does an employer contribute to a student's Pflegeversicherung?
+	// Employers do not contribute to a student's Pflegeversicherung
 	out.pflegeversicherung.totalRate = calculatePflegeversicherungRate(age, childrenCount);
 	out.pflegeversicherung.totalContribution = roundCurrency(out.pflegeversicherung.totalRate * bafogBedarfssatz);
 	out.pflegeversicherung.employerRate = 0;
