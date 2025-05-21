@@ -402,19 +402,19 @@ The *[[Ausländerbehörde]]* sometimes accepts expat health insurance when you a
 
 ### Insurance brokers
 
-Ask a broker to help you. It's the best way to choose health insurance. It's a free service. The broker gets paid by the insurers for each new client.
-
-I work with Seamus Wolf. He is honest and knowledgeable, and he speaks English.
+Don't choose health insurance yourself. Ask a broker to help you. They help you avoid mistakes. They can get you better, cheaper health insurance. Their help is free.
 
 {% include '_blocks/healthInsuranceQuestionStatic.html' %}
 
-Choose a broker who works with expats. Your situation is different, and your broker must know how to help you.
-
 Talk to a broker (*Makler*), not an agent (*Vertreter*). Brokers are independent. They recommend health insurance from different companies. Agents only sell insurance from specific companies.
+
+Choose a broker who works with expats. Your situation is different, and your broker must know how to help you.
 
 **[Feather](/out/feather)** is an agent, not a broker. They only sell insurance from a few companies.[^61] They might not sell the best insurance for your needs.
 
 **[Ottonova](/out/ottonova)** sells their own insurance. It's rarely the best option.[^83] Even if you get Ottonova, it's better to get it through a broker. See my [review of Ottonova](/guides/ottonova-review).
+
+I work with Seamus Wolf. He is honest and knowledgeable, and he speaks English.
 
 ## How to get insured
 
