@@ -102,7 +102,7 @@ If it's a **voluntary internship**, it's treated like a normal job. You have the
 
 ## Public health insurance
 
-Public health insurance is run by [non-profit insurance funds](/glossary/Krankenkasse), not by the state. The cost and coverage are almost the same for all public health insurers. 87% of Germans have [public health insurance](/glossary/gesetzliche%20Krankenversicherung).[^2] It's often your only option.
+Public health insurance is run by [non-profit insurance funds](/glossary/Krankenkasse), not by the state. The cost and coverage are almost the same for all public health insurers.[^85] 87% of Germans have [public health insurance](/glossary/gesetzliche%20Krankenversicherung).[^2] It's often your only option.
 
 ### Cost of public health insurance
 
@@ -197,7 +197,7 @@ Public health insurance also covers your children and your unemployed spouse for
 
 ### Best public health insurance
 
-[Public health insurers](/glossary/Krankenkasse) have almost the same cost and coverage. The price difference is less than 20€ per month after taxes. The biggest difference is customer service.[^15]
+[Public health insurers](/glossary/Krankenkasse) have almost the same cost and coverage.[^85] The price difference is less than 20€ per month after taxes. The biggest difference is customer service.[^15]
 
 If you need an English-speaking public health insurer, choose [Barmer](/out/barmer) or [Techniker Krankenkasse](/out/feather-tk). Barmer has the best English-language support and service for immigrants.[^57] Techniker Krankenkasse is also [very good](/guides/techniker-krankenkasse-review), and slightly cheaper.{{ fail_on('2025-12-31') }}
 
@@ -459,6 +459,10 @@ If you have public health insurance, you pay out of your paycheck every month. I
 
 ## What to do next
 
+### Tell your employer
+
+When you change your health insurance, you must tell your employer.[^84] You can do this by email.
+
 ### Get liability insurance
 
 You should also get [liability insurance](/glossary/Haftpflichtversicherung). It's the second most important insurance to have. Most Germans have it. There are [many types of insurance](/guides/insurance), but health and liability insurance are the most important.
@@ -570,3 +574,5 @@ If you are new in Germany, [register as an organ donor](/guides/organ-donor). It
 [^81]: [Mona Anbari](https://versicherungsbuero-weiss.com/) (April 2025)
 [^82]: [Seamus Wolf](/out/horizon65) (April 2025)
 [^83]: [Seamus Wolf](/out/horizon65) (April 2025)
+[^84]: [check24.de](https://www.check24.de/gesetzliche-krankenversicherung/fragen/information-arbeitgeber/) (May 2025), [krankenkassen.de](https://www.krankenkassen.de/gesetzliche-krankenkassen/beschwerde/krankenkassenwechsel/#:~:text=muss%20ich%20meinen%20arbeitgeber%20vom%20krankenkassen-wechsel%20informieren%3F) (May 2025)
+[^85]: [check24.de](https://www.check24.de/gesetzliche-krankenversicherung/krankenkasse-wechseln/#:~:text=95%20prozent%20der%20leistungen) (May 2025)
