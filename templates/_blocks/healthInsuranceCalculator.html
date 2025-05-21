@@ -127,6 +127,14 @@
 				eur(num) {
 					return formatCurrency(num, false, '€', false);
 				},
+				previousStage(){
+					if(!this.occupation){
+						this.stageIndex = 0;
+					}
+					else{
+						this.stageIndex -= 1;
+					}
+				}
 			},
 			watch: {
 				inputIncome(newIncome){
@@ -177,8 +185,8 @@
 				</button>
 			</li>
 			<li>
-				<button @click="goToStage('askABroker')">
-					{% endraw %}{% include "_css/icons/help.svg" %}{% raw %}
+				<button @click="occupation = null; goToStage('askABroker')">
+					{% endraw %}{% include "_css/icons/family.svg" %}{% raw %}
 					It's complicated
 				</button>
 			</li>
@@ -636,11 +644,11 @@
 	</template>
 	<health-insurance-question
 		v-if="stage === 'askABroker'"
-		:age="age"
-		:income="yearlyIncome"
-		:occupation="occupation"
-		:children-count="childrenCount"
-		:preference="preference"
+		:age="occupation ? age : undefined"
+		:income="occupation ? yearlyIncome : undefined"
+		:occupation="occupation ? occupation : undefined"
+		:children-count="occupation ? childrenCount : undefined"
+		:preference="occupation ? preference : undefined"
 		>
 		<template v-slot:form-buttons>
 			<button class="button" @click="previousStage()">

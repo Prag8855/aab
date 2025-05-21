@@ -2,6 +2,8 @@
 {% include '_js/currency.js' %}
 {% include '_js/vue.js' %}
 {% include '_js/vue/age-input.js' %}
+{% include '_js/vue/income-input.js' %}
+{% include '_js/vue/occupation-input.js' %}
 {% include '_js/vue/eur.js' %}
 {% include '_js/vue/glossary.js' %}
 {% include '_js/vue/mixins/trackedStagesMixin.js' %}
@@ -32,7 +34,7 @@ Vue.component('health-insurance-question', {
 
 			inputAge: this.age,
 			inputOccupation: this.occupation,
-			incomeOverLimit: this.income >= (healthInsurance.minFreiwilligMonthlyIncome * 12),
+			inputIncome: this.income,
 
 			showDetailsField: false,
 
@@ -54,7 +56,7 @@ Vue.component('health-insurance-question', {
 				tk: 'Get insured',
 				public: 'Get a recommendation',
 				private: 'Get a quote',
-			}[this.preference] || 'Ask Seamus';
+			}[this.preference] || 'Get a recommendation';
 		},
 		personSummary(){
 			const facts = [];
@@ -117,7 +119,7 @@ Vue.component('health-insurance-question', {
 			return this.age === undefined;
 		},
 		showIncomeField(){
-			return this.income === undefined;
+			return this.income === undefined && !occupations.isUnemployed(this.inputOccupation);
 		},
 		showOccupationField(){
 			return this.occupation === undefined;
@@ -137,7 +139,7 @@ Vue.component('health-insurance-question', {
 							name: this.fullName,
 							email: this.email,
 							phone: this.phone || '',
-							income_over_limit: this.incomeOverLimit,
+							income: this.inputIncome,
 							occupation: this.inputOccupation,
 							age: this.inputAge,
 							question: this.question,
@@ -164,28 +166,29 @@ Vue.component('health-insurance-question', {
 				</div>
 				<hr>
 				<template v-if="showAgeField || showOccupationField || showIncomeField">
-					<h3>How can we help you?</h3>
-					<div class="form-group" v-if="!showOccupationField">
-						<span class="label">Occupation</span>
-						<select v-model="inputOccupation">
-							<option value="employee">Employee</option>
-							<option value="selfEmployed">Self-employed</option>
-							<option value="student">Student</option>
-							<option value="other">Other</option>
-						</select>
-						<label class="checkbox" v-if="income === undefined">
-							<input type="checkbox" v-model="incomeOverLimit"> <span>I earn more than <eur :amount="minFreiwilligMonthlyIncome"></eur> per year</span>
-						</label>
-					</div>
-					<div class="form-group required" v-if="!showAgeField">
+					<h3>Tell us a bit about you</h3>
+					<p>It helps us recommend the right health insurance. You can also tell us later.</p>
+					<div class="form-group" v-if="showAgeField">
 						<label :for="uid('age')">
 							Age
 						</label>
 						<label class="input-group">
-							<age-input v-model="inputAge" :id="uid('age')" required :aria-describedby="uid('instructions-age')"></age-input>
+							<age-input v-model="inputAge" :id="uid('age')" :aria-describedby="uid('instructions-age')"></age-input>
 							years old
-							<span class="input-instructions" :id="uid('instructions-age')">Your age affects your health insurance options.</span>
 						</label>
+					</div>
+					<div class="form-group" v-if="showOccupationField">
+						<span class="label">Occupation</span>
+						<occupation-input v-model="inputOccupation"></occupation-input>
+					</div>
+					<div class="form-group" v-if="showIncomeField">
+						<label :for="uid('income')">
+							Income
+						</label>
+						<div class="input-group">
+							<income-input :id="uid('income')" v-model="inputIncome"></income-input>
+							€ per year before taxes
+						</div>
 					</div>
 					<hr>
 				</template>
@@ -204,12 +207,12 @@ Vue.component('health-insurance-question', {
 						</button>
 					</div>
 				</div>
-				<div class="form-group required">
+				<div class="form-group">
 					<label :for="uid('name')">
 						Name
 					</label>
 					<div class="input-group">
-						<input v-model="fullName" type="text" :id="uid('name')" required autocomplete="name">
+						<input v-model="fullName" type="text" :id="uid('name')" autocomplete="name">
 						{% endraw %}{% include "_blocks/formHoneypot.html" %}{% raw %}
 					</div>
 				</div>
@@ -226,7 +229,7 @@ Vue.component('health-insurance-question', {
 					<input v-model="email" type="email" :id="uid('email')" required autocomplete="email">
 				</div>
 				<hr>
-				<template v-if="personSummary">
+				<template v-if="!(showAgeField || showOccupationField || showIncomeField) && personSummary">
 					<h3>What we know</h3>
 					<p v-html="personSummary"></p>
 					<p>
@@ -235,7 +238,7 @@ Vue.component('health-insurance-question', {
 					<div class="form-group" v-if="showDetailsField">
 						<label :for="uid('question')">More about you</label>
 						<div class="input-group">
-							<textarea v-model="question" :id="uid('question')" required placeholder="Tell us more about your situation."></textarea>
+							<textarea v-model="question" :id="uid('question')" placeholder="Tell us more about your situation."></textarea>
 						</div>
 					</div>
 					<hr>
@@ -246,7 +249,7 @@ Vue.component('health-insurance-question', {
 				</div>
 			</template>
 			<template v-if="stage === 'thank-you'">
-				<p><strong>Message sent!</strong> We will contact you today or during the next business day.</p>
+				<p><strong>Message sent!</strong> Seamus will contact you today or during the next business day.</p>
 				<slot name="after-confirmation"></slot>
 			</template>
 			<template v-if="stage === 'error'">
