@@ -67,9 +67,9 @@ After 6 weeks, your employer stops paying you. Instead, you get *[[Krankengeld]]
 
 **[Krankengeld calculator](https://www.arbeitnow.com/en/tools/krankengeldrechner/germany)** - Arbeitnow
 
-If you have [private health insurance](/glossary/private%20Krankenversicherung), you do not get *Krankengeld*. You must get a separate *[[Krankentagegeld]]* insurance.
+If you have [private health insurance](/glossary/private%20Krankenversicherung) or [expat health insurance](/glossary/Expat%20health%20insurance), you do not get *Krankengeld*. You must get a separate *[[Krankentagegeld]]* insurance.
 
-If you have a [minijob](/glossary/Minijob), you do not get *Krankengeld* because you don't pay for it.[^26]
+If you have a [minijob](/glossary/Minijob) or student health insurance, you do not get *Krankengeld* because you don't pay for it.[^26]
 
 If you are self-employed, you do not get *Krankengeld* unless you pay for it.[^27] By default, most freelancers do not pay for it. You can also get disability insurance (*[[Berufsunfähigkeitsversicherung]]*). It pays your salary if you are too sick or injured to work.
 
