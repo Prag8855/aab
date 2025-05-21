@@ -727,7 +727,7 @@ body > header {
     }
 
     h2{
-        margin-top: calc((var(--xxl) - var(--l)) / 2);
+        margin: calc((var(--xxl) - var(--l)) / 2) 0 var(--m);
         font-size: var(--l);
     }
 
