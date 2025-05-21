@@ -406,7 +406,7 @@ Ask a broker to help you. It's the best way to choose health insurance. It's a f
 
 I work with Seamus Wolf. He is honest and knowledgeable, and he speaks English.
 
-{% include '_blocks/healthInsuranceQuestion.html' %}
+{% include '_blocks/healthInsuranceQuestionStatic.html' %}
 
 Choose a broker who works with expats. Your situation is different, and your broker must know how to help you.
 
