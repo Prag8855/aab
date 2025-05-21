@@ -150,7 +150,7 @@ Vue.component('health-insurance-question', {
 						<p>Seamus Wolf is my insurance broker. I trust him because he is honest and knowledgeable. {{ whatSeamusWillDo }} This is a free service.</p>
 					</div>
 					<img
-						srcset="/experts/photos/bioLarge1x/dr-rob-schumacher-feather-insurance.jpg, /experts/photos/bioLarge2x/dr-rob-schumacher-feather-insurance.jpg 2x"
+						srcset="/experts/photos/bioLarge1x/seamus-wolf.jpg, /experts/photos/bioLarge2x/seamus-wolf.jpg 2x"
 						alt="Seamus Wolf, insurance broker" width="125" height="125"
 						sizes="125px">
 				</div>
