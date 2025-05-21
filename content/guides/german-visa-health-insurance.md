@@ -19,9 +19,9 @@ To apply for a [[Schengen visa]] (tourist visa), you must have **travel insuranc
 
 Your travel insurance must...[^1]
 
-- Cover you for at least 30,000€
-- Be valid in *all* Schengen area countries, not just Germany
-- Be valid during your whole trip in the [[Schengen area]]
+- [ ] Cover you for at least 30,000€
+- [ ] Be valid in *all* Schengen area countries, not just Germany
+- [ ] Be valid during your whole trip in the [[Schengen area]]
 
 [HanseMerkur's Visa Plus travel insurance](/out/hansemerkur-travel) works well for a Schengen visa application.
 
@@ -81,9 +81,9 @@ Don't choose health insurance yourself. You can make expensive mistakes. Choosin
 
 [Ask my health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose. His help is free. It's the best way to choose insurance.
 
-{% include '_blocks/healthInsuranceQuestion.html' %}
+{% include '_blocks/healthInsuranceQuestionStatic.html' %}
 
-**[How to choose German health insurance ➞](/guides/german-health-insurance)**
+**[How to choose health insurance ➞](/guides/german-health-insurance)**
 
 ## Expat health insurance options
 
@@ -103,12 +103,6 @@ These insurers are less reliable:
 
 - **[Mawista Expatcare](/out/mawista-expats)** is not always accepted[^8]
 - **[Cigna Global](/out/cigna)** is not always accepted[^9]
-
-## Need help?
-
-{% include '_blocks/healthInsuranceQuestion.html' %}
-
-**[How to choose health insurance ➞](/guides/german-health-insurance)**
 
 [^0]: [blog.feather-insurance.com](https://feather-insurance.com/blog/how-can-i-use-expat-health-insurance-for-my-visa/)
 [^1]: [schengenvisainfo.com](https://www.schengenvisainfo.com/schengen-visa-insurance/), [germany.info](https://www.germany.info/us-en/service/visa/medical-health-insurance/953982), [visaguide.world](https://visaguide.world/travel-insurance/europe/germany-travel-insurance/)
