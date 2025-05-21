@@ -1405,6 +1405,9 @@ select{
     }
 }
 
+input[type=checkbox]{
+    border-radius: var(--xs)!important; // Otherwise it looks like a radio button
+}
 input[type=checkbox], input[type=radio]{
     flex-shrink: 0;
     flex:0 0 auto!important;
