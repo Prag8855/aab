@@ -15,7 +15,7 @@ This guide explains how to choose health insurance when you apply for a German v
 
 ### For a Schengen visa
 
-To apply for a [[Schengen visa]] (tourist visa), you must have **travel insurance**.[^0]
+To apply for a [[Schengen visa]] (tourist visa), you need **travel insurance**.[^0]
 
 Your travel insurance must...[^1]
 
@@ -29,7 +29,7 @@ Your travel insurance must...[^1]
 
 ### For a National Visa
 
-To apply for a [[National Visa]], you need **[public](/glossary/gesetzliche%20Krankenversicherung), [private](/glossary/private%20Krankenversicherung) or [expat health insurance](/glossary/Expat%20health%20insurance)**.
+To apply for a [[National Visa]] or Category D visa, you need **[public](/glossary/gesetzliche%20Krankenversicherung), [private](/glossary/private%20Krankenversicherung) or [expat health insurance](/glossary/Expat%20health%20insurance)**.
 
 When you start working in Germany, you must switch to public or private health insurance. If you have a [minijob](/glossary/Minijob), you can usually stay on expat insurance.[^2]
 
