@@ -91,7 +91,7 @@ Vue.component('health-insurance-question', {
 				}
 			}
 
-			if(!facts){
+			if(facts.length === 0){
 				return;
 			}
 
