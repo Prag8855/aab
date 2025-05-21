@@ -136,13 +136,15 @@ class Feedback(EmailMixin, models.Model):
 
 
 class HealthInsuranceQuestion(NameMixin, ReplyToSenderMixin, EmailMixin, ScheduledMessage):
-    age = models.PositiveSmallIntegerField()
-    income_over_limit = models.BooleanField()  # Above or below the Versicherungspflichtgrenze
-    occupation = models.CharField(max_length=50)  # "Self-employed"
+    age = models.PositiveSmallIntegerField(null=True)
+    income = models.PositiveIntegerField(null=True)
+    occupation = models.CharField(max_length=50)  # "selfEmployed"
     phone = models.CharField(max_length=30, blank=True)
-    question = models.TextField()
+    question = models.TextField(blank=True)
+    children_count = models.PositiveSmallIntegerField(null=True)
+    desired_service = models.CharField(max_length=50, blank=True)  # "barmer"
 
-    recipients = ['hello@feather-insurance.com', ]
+    recipients = ['Seamus.Wolf@horizon65.com', ]
     template = 'health-insurance-question.html'
 
     def save(self, *args, **kwargs):
@@ -153,8 +155,6 @@ class HealthInsuranceQuestion(NameMixin, ReplyToSenderMixin, EmailMixin, Schedul
 
     def remove_personal_data(self):
         super().remove_personal_data()
-        self.age = 0
-        self.occupation = 'unknown'
         self.phone = filler_string
 
     @property

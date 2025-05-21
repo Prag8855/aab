@@ -19,8 +19,10 @@ class HealthInsuranceQuestionSerializer(HyperlinkedModelSerializer):
         fields = [
             *message_fields,
             'age',
+            'children_count',
+            'desired_service',
             'email',
-            'income_over_limit',
+            'income',
             'name',
             'occupation',
             'phone',
