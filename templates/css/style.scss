@@ -749,8 +749,7 @@ body > header {
         background-color: var(--c-bg-error);
 
         display: grid;
-        gap: var(--m);
-        grid-template-columns: 1fr auto;
+        gap: var(--s);
 
         a{
             display: block;
