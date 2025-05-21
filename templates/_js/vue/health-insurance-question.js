@@ -124,8 +124,8 @@ Vue.component('health-insurance-question', {
 							occupation: this.occupation,
 							age: this.age,
 							question: this.question,
-							childrenCount: this.childrenCount,
-							desiredService: this.desiredService
+							children_count: this.childrenCount,
+							desired_service: this.desiredService
 						}),
 					}
 				);
@@ -142,7 +142,7 @@ Vue.component('health-insurance-question', {
 			<template v-if="stage === 'contactInfo'">
 				<div class="form-recipient">
 					<div>
-						<p>Seamus Wolf is my insurance broker. I chose him because he is honest and knowledgeable. {{ whatSeamusWillDo }} This is a free service.</p>
+						<p>Seamus Wolf is my insurance broker. I trust him because he is honest and knowledgeable. {{ whatSeamusWillDo }} This is a free service.</p>
 					</div>
 					<img
 						srcset="/experts/photos/bioLarge1x/dr-rob-schumacher-feather-insurance.jpg, /experts/photos/bioLarge2x/dr-rob-schumacher-feather-insurance.jpg 2x"
