@@ -121,7 +121,7 @@ class TypographyExtension(Extension):
         sectionPattern = SubstituteTextPattern(r'§ ', ('§&nbsp;',), md)
         inline_processor.inlinePatterns.register(sectionPattern, 'typo-section', 10)
 
-        ellipsisPattern = SubstituteTextPattern(r'\.\.\.', ('&hellip;',), md)
+        ellipsisPattern = SubstituteTextPattern(r'\.\.\.', ('…',), md)
         inline_processor.inlinePatterns.register(ellipsisPattern, 'typo-ellipsis', 10)
 
         ellipsisPattern = SubstituteTextPattern(r' - ', ('&nbsp;–&nbsp;',), md)
