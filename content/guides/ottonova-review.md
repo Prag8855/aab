@@ -5,45 +5,45 @@ Description: Before you choose Ottonova as your German health insurer, you shoul
 Date_created: 2019-06-29
 ---
 
-[Ottonova](/out/ottonova) is an insurance company in Germany. They sell [private health insurance](/glossary/private%20Krankenversicherung) and [dental insurance](/glossary/Zahnzusatzversicherung).
+[Ottonova](/out/ottonova) is an insurance company in Germany. They sell their own [private health insurance](/glossary/private%20Krankenversicherung) and [dental insurance](/glossary/Zahnzusatzversicherung).
 
-They are popular with immigrants for 3 reasons:
-
-- They speak English
-- Their health insurance is valid for a [residence permit](/glossary/Aufenthaltstitel) application
-- They advertise everywhere
-
-This guide explains **why Ottonova is not that great**, and what you should choose instead.
+This review explains why **you should not choose Ottonova**, and what you should do instead.
 
 {% include "_blocks/tableOfContents.html" %}
 
-## Why does everyone recommend Ottonova?
+## Summary
 
-**Because they get paid to do it.** If a blogger convinces you to buy Ottonova insurance, they get 500€.[^0] If they say bad things about Ottonova, you don't choose Ottonova, and they don't make 500€. Other companies also do this; Ottonova just pays better.
+Ottonova is a very small insurer with great marketing.[^8] It's okay, but it's not special.[^1] You can find better, cheaper health insurance if you [ask an expert](/guides/german-health-insurance#insurance-brokers).
 
-That does not mean that Ottonova is bad, but it means that these recommendations are not honest. Most bloggers are not Ottonova customers, and they know nothing about German health insurance. They don't try to inform you, they try to sell you something.
+If you need health insurance for a visa or residence permit application, there are [other options](/guides/german-visa-health-insurance).
 
-This review is fair and honest. I have talked with many health insurance brokers, I have read hundreds of Ottonova reviews, and I have read their financial documents. I tell you the facts, and you decide what to do.
+## Don't trust the marketing
 
-## What should you know?
+Bloggers recommend Ottonova because it pays well. If they convince you to choose Ottonova, they get 500€.[^0] These articles are not written by customers or by insurance experts. They are ads.
+
+If you want a honest health insurance recommendation, talk to an [independent health insurance broker](/guides/german-health-insurance#insurance-brokers). It's the best way to choose health insurance, and it's free.
+
+I also get paid to help you choose health insurance. I get paid no matter what you choose, so I want you to get the best possible option.
+
+## What you need to know
 
 ### It's private health insurance
 
-[Ottonova](/out/ottonova) sells [private health insurance](/glossary/private%20Krankenversicherung). It's not always the best option for you, even when it's cheaper than public health insurance.
+[Ottonova](/out/ottonova) sells [private health insurance](/glossary/private%20Krankenversicherung) and [expat health insurance](/glossary/Expat%20health%20insurance). It might not be the best option for you. Before you choose, [understand your options](/guides/german-health-insurance#your-options) and [how health insurance works](/guides/german-health-insurance).
 
-In many cases, [public health insurance](/glossary/gesetzliche%20Krankenversicherung) is the best option. Before you choose health insurance, understand [how German health insurance works](/guides/german-health-insurance) and [talk to a insurance broker](/guides/german-health-insurance#insurance-brokers). If you are self-employed, do not choose health insurance without help.
+### It's valid for a visa application
 
-### It's accepted by the immigration office
+When you apply for a German visa or [residence permit](/glossary/Aufenthaltstitel), you need valid health insurance.
 
-When you apply for a German [residence permit](/glossary/Aufenthaltstitel), you need valid health insurance.
+Ottonova's health insurance works for this. You can use it to apply for a [freelance visa](/glossary/Freelance%20visa), [work visa](/glossary/Work%20Visa) or [[Blue Card]], for example.
 
-Ottonova's health insurance works for all residence permit applications, including the [freelance visa](/glossary/Freelance%20visa), the [work visa](/glossary/Work%20Visa) and the [[Blue Card]]. It's also accepted when you renew your residence permit. Ottonova confirms this on [their home page](/out/ottonova-expats). I confirmed it independently.
+**[How to apply for a residence permit ➞](/guides/residence-permit)**
 
-**[Health insurance for a residence permit application ➞](/guides/german-visa-health-insurance)**
+**[Health insurance for a residence permit ➞](/guides/german-visa-health-insurance)**
 
 ### It's expensive
 
-Compared to other private health insurances, Ottonova is expensive for what you get. You can get a better deal with other insurers.
+Ottonova is more expensive than comparable private health insurances. You can get a better deal if you [ask an expert](/guides/german-health-insurance#insurance-brokers).[^1]
 
 [Talk to a insurance broker](/guides/german-health-insurance#insurance-brokers) to find a cheaper option. Be careful; choosing the cheapest option can be a serious mistake, and cost you a lot of money later.
 
@@ -57,45 +57,55 @@ If you get health insurance from an English-speaking insurance broker, you can a
 
 ### It's a young insurance company
 
-[Ottonova](/out/ottonova) is a very small health insurer, and **it's not profitable**. They lost 1.5 million euros in 2018, 2.4 million in 2019, 3.1 million euros in 2020, and 2.1 million euros in 2021. Ottonova is growing fast, but for now, it's losing money.[^7]
+[Ottonova](/out/ottonova) is a very small health insurer, and **it's not profitable**. They lost 2.3 million euros in 2024.[^7]
 
-They are in business since 2017.[^3] In 2018, they had 406 members.[^4] In 2019, they had 4,480 members, but only 860 had health insurance.[^5] In 2021, they had 14,050 members, but only 1,854 had health insurance.[^6] This is very little for a health insurer.
+They are in business since 2017.[^3] In 2023, they only had 5,470 clients with private health insurance.[^6] Other insurers have hundreds of thousands of customers. Their solvency rating is also below average.[^4]
 
 Small health insurers are riskier. In 2010, a private health insurer with 25,000 members almost went bankrupt because of two sick patients.[^11] [City BKK's bankruptcy](https://www.wsws.org/en/articles/2011/05/germ-m31.html) shows what happens to you if your health insurer goes bankrupt.
 
-If you only live in Germany for a few years, this is not important. If you plan to live in Germany for a long time, choose a stable health insurer.
+If you plan to live in Germany for a long time, choose a stable health insurer.[^5]
 
-## Summary
+## What experts say about Ottonova
 
-Ottonova is okay. It's not *bad*, but it's also not special. You can **[get a quote from Ottonova](/out/ottonova)**, and decide if it works for you. You might get a better deal if you [talk to a insurance broker](/guides/german-health-insurance#insurance-brokers).
+This is what independent health insurance brokers think of Ottonova:
 
-### Pros
+> "It’s a decent provider, but there is no real reason to chose them over others. They don’t have the best terms and conditions. They don’t have the best price/value. They are not the only one that is super digital. So as a broker, even though they pay really good commissions, it would not be my first or second choice/recommendation."  
+> — Seamus Wolf, April 2025
 
-- They have 24/7 customer service in English.
-- It's valid for a visa or [residence permit](/glossary/Aufenthaltstitel) application.
+> "As a newer player, it lacks the long-term track record and product breadth of traditional insurers. Always [get a comparison](/guides/german-health-insurance#insurance-brokers), you might find better offers that suit your needs more closely."  
+> — Emily Archer, April 2025
 
-### Cons
+> "Let's put it this way: it's an insurance company like any other (only smaller) that has very good marketing."  
+> — Mona Anbari, April 2025
 
-- It's a small, unprofitable health insurer.
-- It's not the cheapest health insurer.
-- It's not special. There are hundreds of other options.
-
-### Other options
+## Ottonova alternatives
 
 There are hundreds of health insurance options. The best option depends on your situation, and your plans for the future.
 
-You should:
+You should...
 
-1. Understand [how to choose health insurance](/guides/german-health-insurance), and [which health insurance you need for your residence permit](/guides/german-visa-health-insurance). My [health insurance calculator](/tools/health-insurance-calculator) shows what your options are.
-2. [Talk to a health insurance broker](/guides/german-health-insurance#insurance-brokers), who will help you choose the best option for *your* situation. Their help is free.
+1. Understand [how to choose health insurance](/guides/german-health-insurance), and [which health insurance you need for your residence permit](/guides/german-visa-health-insurance). Use my [health insurance picker](/tools/health-insurance-calculator) to know your options are.
+2. [Talk to a health insurance broker](/guides/german-health-insurance#insurance-brokers), who will help you choose the best option for *your* situation. Their help is free. If Ottonova is the best insurance for you, they will tell you.
 3. If it still makes sense, [get a quote from Ottonova](/out/ottonova), and decide if it works for you.
 
-{% include '_blocks/healthInsuranceQuestion.html' %}
+{% include '_blocks/healthInsuranceCalculatorStatic.html' %}
+
+## How to choose health insurance
+
+You should never choose private health insurance yourself. It's a complex decision, and you can make expensive mistakes.
+
+Ask a health insurance broker to help you. It's the best way to choose health insurance. If Ottonova is the best option, they will tell you.
+
+{% include '_blocks/healthInsuranceQuestionStatic.html' %}
+
+**[How to choose health insurance ➞](/guides/german-health-insurance)**
 
 [^0]: [ui.awin.com](https://ui.awin.com/merchant-profile/15971)
+[^1]: [Seamus Wolf](/out/horizon65) (March 2025), [Dr. Schlemann](https://schlemann.com/krankenversicherung/beratung-krankenversicherung/ottonova/#:~:text=andere%20anbieter%20sind%20deutlich%20leistungsstarker%20und%20kaum%20teurer.) (2023)
 [^3]: [businessinsider.de](https://www.businessinsider.de/gruenderszene/business/ottonova-krankenversicherung-zahlen-2018/), [ottonova.de](https://www.ottonova.de/unternehmen)
-[^4]: [handelsblatt.com](https://www.handelsblatt.com/finanzen/banken-versicherungen/versicherer/versicherer-ottonova-bekommt-60-millionen-euro-frisches-kapital/25266338.html), [procontra-online.de](https://web.archive.org/web/20221208204937/https://www.procontra-online.de/artikel/date/2021/01/ottonova-kann-kundenzahl-deutlich-steigern/)
-[^5]: [startbase.com](https://www.startbase.com/news/ottonova-veroeffentlicht-neue-zahlen/)
-[^6]: [versicherungsbote.de](https://www.versicherungsbote.de/id/4904689/Ottonova-waechst-auf-fuenfstellige-Kundenzahl/)
-[^7]: [businessinsider.de](https://www.businessinsider.de/gruenderszene/business/ottonova-krankenversicherung-zahlen-2018/), [ottonova.de](https://assets.ottonova.de/assets/img/documents/SFCR_2018.pdf), [procontra-online.de](https://web.archive.org/web/20221208204937/https://www.procontra-online.de/artikel/date/2021/01/ottonova-kann-kundenzahl-deutlich-steigern/), [procontra-online.de](https://web.archive.org/web/20221208204937/https://www.procontra-online.de/artikel/date/2021/01/ottonova-kann-kundenzahl-deutlich-steigern/), [ottonova.de](https://assets.ottonova.de/assets/img/documents/SFCR_2020.pdf), [assets.ottonova.de](https://assets.ottonova.de/assets/img/documents/SFCR_2021.pdf)
+[^4]: [Dr. Schlemann](https://schlemann.com/krankenversicherung/beratung-krankenversicherung/ottonova/#:~:text=wie%20kapitalstark%20ist%20ottonova%3F)
+[^5]: [Dr. Schlemann](https://schlemann.com/krankenversicherung/beratung-krankenversicherung/ottonova/#:~:text=mit%20ihrer%20gesundheit%20sollten%20sie%20nicht%20experimentieren)
+[^6]: [online-pkv.de](https://www.online-pkv.de/pkv-bu-blog/ottonova-zufriedenheitsgarantie-gestrichen/)
+[^7]: [handelsblatt.com](https://www.handelsblatt.com/finanzen/banken-versicherungen/versicherer/versicherer-wie-insurtechs-die-gewinnzone-erreichen-wollen/100118110.html) (2025), [ottonova.de](https://assets.ottonova.de/assets/img/documents/SFCR_2024.pdf) (2024)
+[^8]: [Dr. Schlemann](https://schlemann.com/krankenversicherung/beratung-krankenversicherung/ottonova/#:~:text=einer%20schonen%20homepage%20und%20investment%20in%20seo%20und%20google%20ads) (2023), [Seamus Wolf](/out/horizon65) (March 2025), [Mona Anbari](https://versicherungsbuero-weiss.com/) (April 2025)
 [^11]: [Wikipedia](https://de.wikipedia.org/wiki/Gemeinsame_Betriebskrankenkasse_K%C3%B6ln)
