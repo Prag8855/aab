@@ -17,24 +17,19 @@ Vue.component('health-insurance-question', {
 		age: Number,
 		income: Number,
 		childrenCount: Number,
-		preference: String,
+		desiredService: String,
 	},
 	data: function() {
 		return {
 			trackAs: 'Health insurance question',
 
 			stage: 'contactInfo',
-			minFreiwilligMonthlyIncome: healthInsurance.minFreiwilligMonthlyIncome * 12,
 
 			question: '',
 			fullName: userDefaults.fullName,
 			email: userDefaults.email,
 			phone: userDefaults.phone,
-			contactMethod: 'email',
-
-			inputAge: this.age,
-			inputOccupation: this.occupation,
-			inputIncome: this.income,
+			contactMethod: null,
 
 			showDetailsField: false,
 
@@ -48,21 +43,21 @@ Vue.component('health-insurance-question', {
 				tk: 'He will get you insured with Techniker Krankenkasse.',
 				public: 'He will help you choose the best public health insurance.',
 				private: 'He will help you choose the best private health insurance.',
-			}[this.preference] || 'He will answer your questions and help you get the right health insurance.';
+			}[this.desiredService] || 'He will help you find the right health insurance.';
 		},
 		submitButtonText(){
-			return {
+			return ({
 				barmer: 'Get insured',
 				tk: 'Get insured',
 				public: 'Get a recommendation',
 				private: 'Get a quote',
-			}[this.preference] || 'Get a recommendation';
+			}[this.desiredService] || 'Send question') + ' <i class="icon right"></i>'
 		},
 		personSummary(){
 			const facts = [];
 
-			if(!this.showAgeField){
-				facts.push(`you are ${this.inputAge} years old`);
+			if(this.age !== undefined){
+				facts.push(`that you are ${this.age} years old`);
 			}
 
 			const cleanOccupation = {
@@ -75,21 +70,21 @@ Vue.component('health-insurance-question', {
 				unemployed: 'unemployed',
 			}[this.inputOccupation];
 			if(cleanOccupation){
-				facts.push(`you are ${cleanOccupation}`);
+				facts.push(`that you are ${cleanOccupation}`);
 			}
-			if(!this.showIncomeField){
-				facts.push(`you earn ${formatCurrency(this.income)} per year`);
+			if(this.income !== undefined){
+				facts.push(`that you earn ${formatCurrency(this.income)} per year`);
 			}
 
 			if(this.childrenCount !== undefined){
 				if(this.childrenCount === 0){
-					facts.push("you don't have children");
+					facts.push("that you don't have children");
 				}
 				else if(this.childrenCount === 1){
-					facts.push("you have one child");
+					facts.push("that you have a child");
 				}
 				else {
-					facts.push(`you have ${this.childrenCount} children`);
+					facts.push(`that you have ${this.childrenCount} children`);
 				}
 			}
 
@@ -97,33 +92,19 @@ Vue.component('health-insurance-question', {
 				return;
 			}
 
-			facts[0] = facts[0].charAt(0).toUpperCase() + facts[0].slice(1);
-
 			let summary = new Intl.ListFormat('en-US', {style: 'long', type: 'conjunction'}).format(facts) + '.';
-
-			if(this.preference) {
-				summary += ' You want to ';
-				summary += {
-					barmer: 'get insured with Barmer',
-					tk: 'get insured with Techniker Krankenkasse',
-					public: 'choose the right public health insurance',
-					private: 'get a quote for private health insurance',
-				}[this.preference] || 'choose the right health insurance';
-				summary += '.';
+			return 'We know ' + summary;
+		},
+		whatsappMessage(){
+			return "Hi Seamus, I found you through All About Berlin. I need help with German health insurance."
+		},
+		whatsappUrl(){
+			let url = 'https://wa.me/+491626969454';
+			if(this.whatsappMessage){
+				url += '?text=' + encodeURIComponent(this.whatsappMessage)
 			}
-			return summary;
-
-			// You want to <strong>choose the best public health insurance</strong>.
-		},
-		showAgeField(){
-			return this.age === undefined;
-		},
-		showIncomeField(){
-			return this.income === undefined && !occupations.isUnemployed(this.inputOccupation);
-		},
-		showOccupationField(){
-			return this.occupation === undefined;
-		},
+			return url;
+		}
 	},
 	methods: {
 		async submitForm() {
@@ -139,10 +120,12 @@ Vue.component('health-insurance-question', {
 							name: this.fullName,
 							email: this.email,
 							phone: this.phone || '',
-							income: this.inputIncome,
-							occupation: this.inputOccupation,
-							age: this.inputAge,
+							income: this.income,
+							occupation: this.occupation,
+							age: this.age,
 							question: this.question,
+							childrenCount: this.childrenCount,
+							desiredService: this.desiredService
 						}),
 					}
 				);
@@ -150,14 +133,16 @@ Vue.component('health-insurance-question', {
 				this.stage = response.ok ? 'thank-you' : 'error';
 			}
 		},
+		trackWhatsapp() {
+			plausible(this.trackAs, { props: { stage: 'whatsapp' }});
+		}
 	},
 	template: `
 		<div ref="collapsible" class="health-insurance-question">
 			<template v-if="stage === 'contactInfo'">
 				<div class="form-recipient">
 					<div>
-						<h3 class="no-mobile">Let's get you insured</h3>
-						<p>Seamus Wolf is my insurance expert. {{ whatSeamusWillDo }} This is a free service.</p>
+						<p>Seamus Wolf is my insurance broker. I chose him because he is honest and knowledgeable. {{ whatSeamusWillDo }} This is a free service.</p>
 					</div>
 					<img
 						srcset="/experts/photos/bioLarge1x/dr-rob-schumacher-feather-insurance.jpg, /experts/photos/bioLarge2x/dr-rob-schumacher-feather-insurance.jpg 2x"
@@ -165,87 +150,60 @@ Vue.component('health-insurance-question', {
 						sizes="125px">
 				</div>
 				<hr>
-				<template v-if="showAgeField || showOccupationField || showIncomeField">
-					<h3>Tell us a bit about you</h3>
-					<p>It helps us recommend the right health insurance. You can also tell us later.</p>
-					<div class="form-group" v-if="showAgeField">
-						<label :for="uid('age')">
-							Age
-						</label>
-						<label class="input-group">
-							<age-input v-model="inputAge" :id="uid('age')" :aria-describedby="uid('instructions-age')"></age-input>
-							years old
-						</label>
-					</div>
-					<div class="form-group" v-if="showOccupationField">
-						<span class="label">Occupation</span>
-						<occupation-input v-model="inputOccupation"></occupation-input>
-					</div>
-					<div class="form-group" v-if="showIncomeField">
-						<label :for="uid('income')">
-							Income
+				<h3>How can Seamus contact you?</h3>
+				<div class="tabs">
+					<button @click="contactMethod = 'whatsapp'" tabindex="0" :disabled="contactMethod === 'whatsapp'">
+						WhatsApp
+					</button>
+					<button @click="contactMethod = 'email'" tabindex="0" :disabled="contactMethod === 'email'">
+						Email
+					</button>
+					<button @click="contactMethod = 'phone'" tabindex="0" :disabled="contactMethod === 'phone'">
+						Phone
+					</button>
+				</div>
+				<template v-if="contactMethod && contactMethod !== 'whatsapp'">
+					<hr>
+					<div class="form-group">
+						<label :for="uid('name')">
+							Name
 						</label>
 						<div class="input-group">
-							<income-input :id="uid('income')" v-model="inputIncome"></income-input>
-							€ per year before taxes
+							<input v-model="fullName" type="text" :id="uid('name')" autocomplete="name">
+							{% endraw %}{% include "_blocks/formHoneypot.html" %}{% raw %}
 						</div>
 					</div>
-					<hr>
-				</template>
-				<h3>How can we contact you?</h3>
-				<div class="form-group">
-					<span class="label no-mobile">Contact method</span>
-					<div class="tabs">
-						<button @click="contactMethod = 'email'" tabindex="0" :disabled="contactMethod === 'email'">
-							Email
-						</button>
-						<button @click="contactMethod = 'whatsapp'" tabindex="0" :disabled="contactMethod === 'whatsapp'">
-							WhatsApp
-						</button>
-						<button @click="contactMethod = 'phone'" tabindex="0" :disabled="contactMethod === 'phone'">
-							Phone
-						</button>
+					<div class="form-group">
+						<label :for="uid('question')">
+							How can we help?
+						</label>
+						<textarea :id="uid('question')" v-model="question" placeholder="Tell us more about your situation"></textarea>
+						<div v-if="personSummary" class="input-instructions" v-text="personSummary"></div>
 					</div>
-				</div>
-				<div class="form-group">
-					<label :for="uid('name')">
-						Name
-					</label>
-					<div class="input-group">
-						<input v-model="fullName" type="text" :id="uid('name')" autocomplete="name">
-						{% endraw %}{% include "_blocks/formHoneypot.html" %}{% raw %}
-					</div>
-				</div>
-				<div class="form-group required" v-if="contactMethod === 'phone' || contactMethod === 'whatsapp'">
-					<label :for="uid('phone')">
-						{{ contactMethod === 'whatsapp' ? 'WhatsApp' : 'Phone' }} number
-					</label>
-					<input v-model="phone" type="tel" :id="uid('phone')" placeholder="+49..." autocomplete="tel" :aria-describedby="uid('instructions-phone')" required>
-				</div>
-				<div class="form-group required" v-if="contactMethod === 'email'">
-					<label :for="uid('email')">
-						Email address
-					</label>
-					<input v-model="email" type="email" :id="uid('email')" required autocomplete="email">
-				</div>
-				<hr>
-				<template v-if="!(showAgeField || showOccupationField || showIncomeField) && personSummary">
-					<h3>What we know</h3>
-					<p v-html="personSummary"></p>
-					<p>
-						<strong><a href="#" @click.prevent="showDetailsField = true">+ Add more details about you</a></strong>
-					</p>
-					<div class="form-group" v-if="showDetailsField">
-						<label :for="uid('question')">More about you</label>
-						<div class="input-group">
-							<textarea v-model="question" :id="uid('question')" placeholder="Tell us more about your situation."></textarea>
+					<div class="form-group required" v-if="contactMethod === 'phone'">
+						<label :for="uid('phone')">
+							Your phone number
+						</label>
+						<input v-model="phone" type="tel" :id="uid('phone')" placeholder="+49..." autocomplete="tel" :aria-describedby="uid('instructions-phone')" required>
+						<div class="input-instructions">
+							Seamus' phone number is <a href="tel:+491626969454">+49&nbsp;162&nbsp;6969454</a>.
 						</div>
 					</div>
-					<hr>
+					<div class="form-group required" v-if="contactMethod === 'email'">
+						<label :for="uid('email')">
+							Email address
+						</label>
+						<input v-model="email" type="email" :id="uid('email')" required autocomplete="email">
+					</div>
 				</template>
-				<div class="buttons bar">
+				<hr v-if="contactMethod">
+				<div class="buttons bar" v-if="contactMethod">
 					<slot name="form-buttons"></slot>
-					<button class="button primary no-print" @click="submitForm" :disabled="isLoading" :class="{loading: isLoading}" v-text="submitButtonText"></button>
+					<button v-if="contactMethod !== 'whatsapp'" class="button primary no-print" @click="submitForm" :disabled="isLoading" :class="{loading: isLoading}" v-html="submitButtonText"></button>
+					<a @click="trackWhatsapp" v-if="contactMethod === 'whatsapp'" class="button whatsapp no-print" :href="whatsappUrl" target="_blank">
+						<svg width="25px" height="25px" fill="currentColor" viewBox="0 0 308 308"><path d="M227.9 176.98c-.6-.29-23.05-11.34-27.04-12.78a15.53 15.53 0 0 0-5.23-1.16c-3.03 0-5.58 1.51-7.56 4.48-2.25 3.34-9.04 11.27-11.13 13.64-.28.32-.65.7-.88.7-.2 0-3.67-1.44-4.72-1.9-24.1-10.46-42.37-35.62-44.88-39.86-.36-.61-.37-.89-.38-.89.1-.32.9-1.14 1.32-1.55a62.27 62.27 0 0 0 3.83-4.35c.6-.73 1.21-1.47 1.81-2.16a24.05 24.05 0 0 0 3.65-5.79l.5-1c2.35-4.66.34-8.6-.3-9.86-.53-1.06-10.02-23.95-11.02-26.35-2.43-5.8-5.63-8.5-10.08-8.5-.41 0 0 0-1.73.07-2.11.09-13.6 1.6-18.68 4.8C90 87.92 80.9 98.74 80.9 117.77c0 17.13 10.87 33.3 15.54 39.45l.63.93c17.88 26.1 40.16 45.44 62.75 54.47 21.74 8.68 32.04 9.69 37.9 9.69 2.45 0 4.42-.2 6.16-.37l1.1-.1c7.51-.67 24.02-9.22 27.78-19.66 2.95-8.22 3.73-17.2 1.77-20.46-1.35-2.21-3.68-3.33-6.62-4.74z"/><path d="M156.73 0C73.32 0 5.45 67.35 5.45 150.14c0 26.78 7.17 53 20.75 75.93l-26 76.65a4 4 0 0 0 5 5.1l79.92-25.4a152.3 152.3 0 0 0 71.6 17.85c83.41 0 151.27-67.35 151.27-150.13C308 67.35 240.14 0 156.73 0zm0 269c-23.53 0-46.33-6.8-65.93-19.66a4 4 0 0 0-3.4-.47L47.35 261.6l12.92-38.13a4 4 0 0 0-.56-3.65 117.23 117.23 0 0 1-22.81-69.68c0-65.54 53.75-118.86 119.82-118.86S276.55 84.6 276.55 150.14c0 65.54-53.75 118.85-119.82 118.85z"/></svg>
+						Chat on WhatsApp
+					</a>
 				</div>
 			</template>
 			<template v-if="stage === 'thank-you'">

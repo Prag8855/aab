@@ -1469,7 +1469,8 @@ label.checkbox{
 .percent-input,
 .last-name-input,
 .documentnumber-input,
-.postalcode-input
+.postalcode-input,
+input[type=tel]
 {
     box-sizing:content-box!important;
     flex: 0 0 auto!important;
@@ -1489,9 +1490,13 @@ label.checkbox{
 .postalcode-input{
     width: 5ch!important;
 }
+input[type=tel]{
+    width: 16ch!important  // +49...
+}
 .documentnumber-input{
     width: calc(2em + 10ch)!important;
 }
+
 .anrede-input{flex: 0 0 auto;max-width:5em!important;}
 .address-input{height: calc(1rem * var(--line-height-text) * 3 + var(--xs) * 2)!important;}
 
@@ -1661,6 +1666,24 @@ input[type=range] {
         background-color: var(--c-highlight);
         border-color: var(--c-highlight);
         color: #fff!important;
+
+        &:hover, &:focus-visible{
+            background-color: var(--c-bg-input);
+            color: var(--c-text-heading)!important;
+        }
+    }
+
+    &.whatsapp{
+        background-color: #25d366;
+        border-color: #25d366;
+        color: #fff!important;
+
+        svg{
+            vertical-align: text-top;
+            width: var(--l);
+            height: var(--l);
+            margin-right: var(--xs);
+        }
 
         &:hover, &:focus-visible{
             background-color: var(--c-bg-input);
@@ -2922,6 +2945,14 @@ collapsible, letter-generator, feedback-residence-permit{  // Vue element before
 .health-insurance-question{
     > :last-child{
         margin-bottom: 0;
+    }
+
+    h3{
+        text-align: center;
+    }
+
+    .tabs{
+        margin: var(--l-relative) auto;
     }
 }
 

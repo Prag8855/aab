@@ -29,7 +29,7 @@
 					yearlyIncome: userDefaults.yearlyIncome,
 					worksOver20HoursPerWeek: false,
 
-					preference: null,
+					desiredService: null,
 
 					trackAs: 'Health insurance calculator',
 					stages: [
@@ -119,6 +119,18 @@
 						return 'your parents have';
 					}
 				},
+				contactFormValues() {
+					return {
+						age: this.occupation ? this.age : undefined,
+						income: (
+							!occupations.isUnemployed(this.occupation)
+							&& this.yearlyIncome
+						) ? this.yearlyIncome : undefined,
+						occupation: this.occupation ? this.occupation : undefined,
+						childrenCount: this.childrenCount,
+						desiredService: this.desiredService ? this.desiredService : undefined,
+					}
+				}
 			},
 			methods: {
 				flag(flagName){
@@ -386,7 +398,7 @@
 				</a>
 			</li>
 			<li>
-				<button class="recommended" @click="preference = 'public'; goToStage('askABroker')">
+				<button class="recommended" @click="desiredService = 'public'; goToStage('askABroker')">
 					{% endraw %}{% include "_css/icons/help.svg" %}{% raw %}
 					<div>
 						<h3>Let an expert choose</h3>
@@ -606,7 +618,7 @@
 
 			<ul class="buttons list">
 				<li>
-					<button @click="preference = 'private'; goToStage('askABroker')">
+					<button @click="desiredService = 'private'; goToStage('askABroker')">
 						{% endraw %}{% include "_css/icons/help.svg" %}{% raw %}
 						<div>
 							<h3>Get a quote</h3>
@@ -637,19 +649,12 @@
 			<button class="button" @click="previousStage()">
 				<i class="icon left" aria-hidden="true"></i> Go back
 			</button>
-			<button class="button primary" @click="preference = null; goToStage('askABroker')">
-				Get insured <i class="icon right" aria-hidden="true"></i>
+			<button class="button primary" @click="desiredService = null; goToStage('askABroker')">
+				Get a recommendation <i class="icon right" aria-hidden="true"></i>
 			</button>
 		</div>
 	</template>
-	<health-insurance-question
-		v-if="stage === 'askABroker'"
-		:age="occupation ? age : undefined"
-		:income="occupation ? yearlyIncome : undefined"
-		:occupation="occupation ? occupation : undefined"
-		:children-count="occupation ? childrenCount : undefined"
-		:preference="occupation ? preference : undefined"
-		>
+	<health-insurance-question v-if="stage === 'askABroker'" v-bind="contactFormValues">
 		<template v-slot:form-buttons>
 			<button class="button" @click="previousStage()">
 				<i class="icon left" aria-hidden="true"></i> Go back

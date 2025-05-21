@@ -336,7 +336,7 @@ If you come from another EU country, your health insurance might cover you in Ge
 
 **If you visit Germany**, your EU health insurance covers medical emergencies.[^23] It only covers treatments that can't wait until you go home. For example, if you break your ankle on a hike, it covers the hospital visit. If you stay longer than 3 months, you must get German health insurance.[^38]
 
-**If you study in Germany**, your EU health insurance covers you until you graduate, and during your job search after graduation.[^39] It covers all treatments that can't wait until you go back home after your studies. If you work in Germany, you must get German health insurance.[^42]
+**If you study in Germany**, your EU health insurance covers you until you graduate, and during your job search after graduation.[^39] It covers all treatments that can't wait until you go back home after your studies. If you start working in Germany, you must get German health insurance.[^42]
 
 Apply for EHIC with your health insurance in your home country.[^16] If health insurance is cheaper in your home country, EHIC is a good way to save money, because you don't need German health insurance.
 
