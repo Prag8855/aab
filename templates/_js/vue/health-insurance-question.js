@@ -155,8 +155,8 @@ Vue.component('health-insurance-question', {
 						sizes="125px">
 				</div>
 				<hr>
-				<h3>How do you prefer to talk?</h3>
-				<div class="tabs">
+				<h3 class="no-print">How do you prefer to talk?</h3>
+				<div class="tabs no-print">
 					<button @click="contactMethod = 'whatsapp'" tabindex="0" :disabled="contactMethod === 'whatsapp'">
 						WhatsApp
 					</button>

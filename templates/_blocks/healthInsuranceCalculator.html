@@ -657,7 +657,7 @@
 	</template>
 	<health-insurance-question v-if="stage === 'askABroker'" v-bind="contactFormValues">
 		<template v-slot:form-buttons>
-			<button class="button" @click="previousStage()">
+			<button class="button no-mobile" @click="previousStage()">
 				<i class="icon left" aria-hidden="true"></i> Go back
 			</button>
 		</template>
