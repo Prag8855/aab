@@ -141,6 +141,7 @@ class HealthInsuranceQuestion(NameMixin, ReplyToSenderMixin, EmailMixin, Schedul
     occupation = models.CharField(max_length=50)  # "selfEmployed"
     phone = models.CharField(max_length=30, blank=True)
     question = models.TextField(blank=True)
+    is_married = models.BooleanField(null=True)
     children_count = models.PositiveSmallIntegerField(null=True)
     desired_service = models.CharField(max_length=50, blank=True)  # "barmer"
 
