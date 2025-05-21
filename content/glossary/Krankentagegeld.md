@@ -2,9 +2,11 @@
 Title: What is Krankentagegeld?
 German_term: Krankentagegeld
 English_term: Sickness allowance
-Description: An allowance you get from your health insurance if you are sick for a long time.
+Description: An allowance you get from your health insurer if you are sick for a long time.
 Date_created: 2022-08-30
-Related_guides: guides/sick-leave.md
+Related_guides:
+    guides/sick-leave.md
+    guides/german-health-insurance.md
 ---
 
 If you have [private health insurance](/glossary/private%20Krankenversicherung), you do not get *[[Krankengeld]]* when you are sick. You must get a separate contract for *Krankentagegeld*.
