@@ -18,6 +18,7 @@ Vue.component('health-insurance-question', {
 		income: Number,
 		childrenCount: Number,
 		desiredService: String,
+		isMarried: Boolean,
 	},
 	data: function() {
 		return {
@@ -75,6 +76,9 @@ Vue.component('health-insurance-question', {
 			if(this.income !== undefined){
 				facts.push(`that you earn ${formatCurrency(this.income)} per year`);
 			}
+			if(this.isMarried !== undefined){
+				facts.push(`that you are ${this.isMarried ? '' : 'not '}married`)
+			}
 
 			if(this.childrenCount !== undefined){
 				if(this.childrenCount === 0){
@@ -124,6 +128,7 @@ Vue.component('health-insurance-question', {
 							occupation: this.occupation,
 							age: this.age,
 							question: this.question,
+							is_married: !!this.isMarried,
 							children_count: this.childrenCount,
 							desired_service: this.desiredService
 						}),
