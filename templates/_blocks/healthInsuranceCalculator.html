@@ -165,7 +165,7 @@
 	<progress v-if="stage !== 'start'" aria-label="Form progress" :max="stages.length - 1" :value="stageIndex"></progress>
 
 	<template v-if="stage === 'start'">
-		<p><strong>Let's get you the right health insurance.</strong> What is your occupation?</p>
+		<p><strong>Let's find the right health insurance.</strong> What is your occupation?</p>
 		<ul class="buttons grid" aria-label="Occupations">
 			<li>
 				<button @click="occupation = 'employee'; nextStage()">

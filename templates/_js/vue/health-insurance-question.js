@@ -57,6 +57,10 @@ Vue.component('health-insurance-question', {
 		personSummary(){
 			const facts = [];
 
+			if(!this.occupation){ // "It's complicated" or direct contact form
+				return;
+			}
+
 			if(this.age !== undefined){
 				facts.push(`that you are ${this.age} years old`);
 			}
