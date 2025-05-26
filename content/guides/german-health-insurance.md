@@ -126,15 +126,15 @@ The cost of public health insurance is [tax-deductible](/glossary/steuerlich%20a
 
 Your parents' health insurance covers you for free if...
 
-- Your parents have public health insurance
+- Your parents have [public health insurance](/glossary/gesetzliche%20Krankenversicherung)
 - and you are under 23 years old (under 25 years old if you are a student)
 - and your total income is under {{GKV_FAMILIENVERSICHERUNG_MAX_INCOME|cur}}€ per month ({{MINIJOB_MAX_INCOME|cur}}€ per month for a [minijob](/glossary/Minijob))
 - and you are not self-employed full time
 - and you are not an apprentice (*[[Azubi]]*)[^53]
 
-Your spouse's health insurance covers you for free if...[^34]
+Your spouse's covers you for free if...[^34]
 
-- Your spouse has public health insurance
+- Your spouse has [public health insurance](/glossary/gesetzliche%20Krankenversicherung)
 - and your total income is under {{GKV_FAMILIENVERSICHERUNG_MAX_INCOME|cur}}€ per month ({{MINIJOB_MAX_INCOME|cur}}€ per month for a [minijob](/glossary/Minijob))
 - and you are not self-employed full time
 - and you are not a apprentice (*[[Azubi]]*)[^53]
@@ -149,17 +149,13 @@ Your employer pays for your health insurance if...[^48]
 - You are an apprentice (*[[Azubi]]*)
 - and you earn {{GKV_AZUBI_FREIBETRAG|cur}}€ per month or less
 
-The state pays for your health insurance if...[^45]
+The state pays for your public health insurance if...[^45]
 
 - You get [unemployment benefits](/glossary/ALG%20I)
 - or you get *[[Bürgergeld]]*
 - or you get *[[Elterngeld]]*
 
-When you [lose your job](/guides/losing-your-job), you sometimes get [one month of free health insurance](/guides/losing-your-job#what-happens-to-your-health-insurance).
-
-If you are a [EU](/glossary/European%20Union) citizen, you can sometimes use your [insurance from your home country](#insurance-from-other-eu-countries). This is great if you get free health insurance in your home country.
-
-When you get free health insurance, you must still choose an insurer.
+When you [lose your job](/guides/losing-your-job), you sometimes get [one month of free health insurance](/guides/losing-your-job#what-happens-to-your-health-insurance). Your current health insurance pays for it.
 
 ### What public insurance covers
 
