@@ -287,13 +287,13 @@
 			<h3>Free health insurance</h3>
 			<p>You can get free <glossary term="gesetzliche Krankenversicherung">public health insurance</glossary> because you have a low income.</p>
 			<ul class="buttons list">
-				<li v-if="flag('alg-i-buergergeld')">
-					<a title="Learn more about state-sponsored health insurance" href="/guides/german-health-insurance#free-health-insurance" target="_blank">
-						{% endraw %}{% include "_css/icons/bank.svg" %}{% raw %}
+				<li v-if="flag('familienversicherung-spouse') || flag('familienversicherung-parents')">
+					<a class="recommended" title="Learn more about family health insurance" href="/guides/german-health-insurance#free-health-insurance" target="_blank">
+						{% endraw %}{% include "_css/icons/family.svg" %}{% raw %}
 						<div>
-							<h3>Paid by social benefits</h3>
+							<h3><glossary term="Familienversicherung">Family insurance</glossary></h3>
 							<p>
-								If you get <glossary term="ALG I">unemployment benefits</glossary>, <glossary>Bürgergeld</glossary> or <glossary>Elterngeld</glossary>, you get free health insurance.
+								If {{ yourSponsorsHave }} public health insurance, it covers you for free.
 							</p>
 						</div>
 						<output>
@@ -301,13 +301,13 @@
 						</output>
 					</a>
 				</li>
-				<li v-if="flag('familienversicherung-spouse') || flag('familienversicherung-parents')">
-					<a title="Learn more about family health insurance" href="/guides/german-health-insurance#free-health-insurance" target="_blank">
-						{% endraw %}{% include "_css/icons/family.svg" %}{% raw %}
+				<li v-if="flag('alg-i-buergergeld')">
+					<a title="Learn more about state-sponsored health insurance" href="/guides/german-health-insurance#free-health-insurance" target="_blank">
+						{% endraw %}{% include "_css/icons/bank.svg" %}{% raw %}
 						<div>
-							<h3><glossary term="Familienversicherung">Family insurance</glossary></h3>
+							<h3>Paid by social benefits</h3>
 							<p>
-								If {{ yourSponsorsHave }} public health insurance, it covers you for free.
+								If you get <glossary term="ALG I">unemployment benefits</glossary>, <glossary>Bürgergeld</glossary> or <glossary>Elterngeld</glossary>, you get free health insurance.
 							</p>
 						</div>
 						<output>
@@ -379,7 +379,7 @@
 					{% endraw %}{% include "_css/icons/health-insurance/logo-barmer.svg" %}{% raw %}
 					<div>
 						<h3>Barmer</h3>
-						<p>Easiest sign-up for expats. Second biggest health insurer. They speak English.</p>
+						<p>Easiest option for expats. Second biggest health insurer. They speak English.</p>
 					</div>
 					<output>
 						<eur :amount="result.options.barmer.total.personalContribution"></eur> <small>per month</small>
@@ -402,8 +402,8 @@
 				<button class="recommended" @click="desiredService = 'public'; goToStage('askABroker')">
 					{% endraw %}{% include "_css/icons/help.svg" %}{% raw %}
 					<div>
-						<h3>Let an expert choose</h3>
-						<p>Ask an independent insurance broker to choose the best public health insurance. They speak English.</p>
+						<h3>Let our expert choose</h3>
+						<p>Ask our independent insurance broker to choose the best option. He speaks English.</p>
 					</div>
 				</button>
 			</li>
@@ -473,7 +473,7 @@
 					<template v-else>
 						You pay {{ baseContributionRate }} of your income.
 					</template>
-					The base cost is the same for all insurers.
+					This cost is the same for all insurers.
 				</p>
 			</details>
 			<details>
@@ -490,7 +490,7 @@
 					</output>
 				</summary>
 				<p>
-					Insurers can charge more to offer better services. Each insurer has a different surcharge. The average surcharge is {{ formatPercent(healthInsurance.avgZusatzbeitrag * 100) }} of your income.
+					Insurers can charge more for better services. Each insurer has a different surcharge. The average surcharge is {{ formatPercent(healthInsurance.avgZusatzbeitrag * 100) }} of your income.
 				</p>
 			</details>
 			<details>
@@ -507,13 +507,13 @@
 					<template v-else>
 						You pay {{ formatPercent(result.pflegeversicherung.totalRate * 100) }} of your income.
 						<template v-if="age > pflegeversicherung.defaultTarifMaxAge && childrenCount === 0">
-							It costs more because you are over {{ pflegeversicherung.defaultTarifMaxAge }} years old and you don't have children.
+							You pay more because you are over {{ pflegeversicherung.defaultTarifMaxAge }} years old and you don't have children.
 						</template>
 						<template v-else-if="age <= pflegeversicherung.defaultTarifMaxAge">
-							It costs less because you are under {{ pflegeversicherung.defaultTarifMaxAge + 1 }} years old.
+							You pay less because you are under {{ pflegeversicherung.defaultTarifMaxAge + 1 }} years old.
 						</template>
 						<template v-else>
-							It costs less because you have children.
+							You pay less because you have children.
 						</template>
 					</template>
 					The cost is the same for all insurers.
@@ -623,7 +623,7 @@
 						{% endraw %}{% include "_css/icons/help.svg" %}{% raw %}
 						<div>
 							<h3>Get a quote</h3>
-							<p>Ask an independent expert to compare all options. It's the best way to choose insurance, and it's free. They speak English.</p>
+							<p>Ask our independent expert to compare all options. It's the best way to get insured, and it's free. He speaks English.</p>
 						</div>
 					</button>
 				</li>

@@ -338,7 +338,7 @@ If you come from another EU country, your health insurance might cover you in Ge
 
 **If you study in Germany**, your EU health insurance covers you until you graduate, and during your job search after graduation.[^39] It covers all treatments that can't wait until you go back home after your studies. If you start working in Germany, you must get German health insurance.[^42]
 
-Apply for EHIC with your health insurance in your home country.[^16] If health insurance is cheaper in your home country, EHIC is a good way to save money, because you don't need German health insurance.
+If health insurance is cheaper in your home country, EHIC is a good way to save money, because you don't need German health insurance. Apply for EHIC with your health insurance in your home country.[^16]
 
 **[More information about EHIC ➞](https://www.health-insurance.de/student/eu-eea/)**
 
@@ -364,7 +364,7 @@ Public health insurance is **the safest option**, because you can always choose 
 ### Choose private health insurance if...
 
 - **You have stable income**  
-    Private health insurance makes sense if you have a high income for the rest of your career.
+    Private health insurance makes sense if you know you will always have a high income.
 - **You want faster doctor appointments**  
     It's much easier to find a doctor, a psychotherapist, a paediatrician or a gynaecologist.
 - **You want the best coverage**  
@@ -373,6 +373,8 @@ Public health insurance is **the safest option**, because you can always choose 
     You can choose a specific doctor, or a specific kind of treatment. For example, you can get innovative therapy or medication that is not yet covered by public health insurance.[^73] It can cover better dental implants, a better wheelchair, or a better hospital room.
 - **You plan to leave Germany in a few years**  
     You can get short-term private health insurance. It's up to 50% cheaper, because there is no old age provision.[^74]
+- **You can't choose public health insurance**  
+    If you are a freelancer or a student from a non-[EU](/glossary/European%20Union) country, public health insurers might reject you. Private health insurance might be your only option.
 
 Private health insurance is **a risky decision**. If you are not happy, it's really hard to switch to public health insurance. Never choose private health insurance yourself. Always [ask a broker](#insurance-brokers) to help you choose.
 

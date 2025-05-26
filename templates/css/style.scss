@@ -742,6 +742,12 @@ body > header {
         }
     }
 
+    small{
+        display: block;
+        margin-top: var(--s);
+        color: var(--c-text-light);
+    }
+
     .donate{
         margin: var(--l) 0 0;
         padding: var(--m) var(--xl);
@@ -1676,8 +1682,8 @@ input[type=range] {
     }
 
     &.whatsapp{
-        background-color: #25d366;
-        border-color: #25d366;
+        background-color: #4ab969;
+        border-color: #4ab969;
         color: #fff!important;
 
         svg{

@@ -40,11 +40,11 @@ Vue.component('health-insurance-question', {
 	computed: {
 		whatSeamusWillDo(){
 			return {
-				barmer: 'He will get you insured with Barmer.',
-				tk: 'He will get you insured with Techniker Krankenkasse.',
-				public: 'He will help you choose the best public health insurance.',
-				private: 'He will help you choose the best private health insurance.',
-			}[this.desiredService] || 'He will help you choose the right health insurance.';
+				barmer: 'get you insured with Barmer',
+				tk: 'get you insured with Techniker Krankenkasse',
+				public: 'help you choose the best public health insurance',
+				private: 'help you choose the best private health insurance',
+			}[this.desiredService] || 'help you choose the right health insurance';
 		},
 		submitButtonText(){
 			return ({
@@ -151,7 +151,7 @@ Vue.component('health-insurance-question', {
 			<template v-if="stage === 'contactInfo'">
 				<div class="form-recipient">
 					<div>
-						<p><strong>Seamus Wolf</strong> is the insurance broker I trust. He is honest and knowledgeable. {{ whatSeamusWillDo }} This is a free service.</p>
+						<p><strong>Seamus Wolf</strong> will {{ whatSeamusWillDo }}. I trust him because he is honest and knowledgeable. This is a free service.</p>
 					</div>
 					<img
 						srcset="/experts/photos/bioLarge1x/seamus-wolf.jpg, /experts/photos/bioLarge2x/seamus-wolf.jpg 2x"
