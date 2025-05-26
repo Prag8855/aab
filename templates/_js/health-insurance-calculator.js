@@ -584,7 +584,8 @@ function calculateHealthInsuranceContributions({age, monthlyIncome, occupation, 
 
 	// Azubis can't use Familienversicherung - krankenkasse-vergleich-direkt.de/ratgeber/krankenversicherung-fuer-auszubildende.html
 	// If the minijob income > familienversicherung income, minijobbers keep their familienversicherung. - §8 SGB V
-	if(monthlyIncome <= Math.max(taxes.maxMinijobIncome, healthInsurance.maxFamilienvericherungIncome) && !isAzubi) {
+	const maxFamilienvericherungIncome = isEmployed ? taxes.maxMinijobIncome : healthInsurance.maxFamilienvericherungIncome;
+	if(monthlyIncome <= maxFamilienvericherungIncome && !isAzubi) {
 		if(isMarried){
 			flags.add('familienversicherung-spouse'); // No age limit
 		}
