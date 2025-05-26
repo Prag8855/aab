@@ -265,7 +265,7 @@
 				<income-input :id="uid('income')" v-model="inputIncome"></income-input>
 				€
 				<button class="toggle" @click="useMonthlyIncome = !useMonthlyIncome">per {{ useMonthlyIncome ? 'month' : 'year' }}</button>
-				before taxes
+				<span class="no-mobile">before taxes</span>
 			</div>
 			<label class="input-group" v-if="isStudent">
 				<input type="checkbox" v-model="worksOver20HoursPerWeek">
@@ -274,8 +274,8 @@
 		</div>
 		<hr>
 		<div class="buttons bar">
-			<button class="button" @click="goToStage('start')">
-				<i class="icon left" aria-hidden="true"></i> Go back
+			<button aria-label="Go back" class="button" @click="goToStage('start')">
+				<i class="icon left" aria-hidden="true"></i> <span class="no-mobile">Go back</span>
 			</button>
 			<button class="button primary" @click="nextStage('options')">
 				See options <i class="icon right" aria-hidden="true"></i>
@@ -647,23 +647,23 @@
 
 		<hr>
 		<div class="buttons bar">
-			<button class="button" @click="previousStage()">
-				<i class="icon left" aria-hidden="true"></i> Go back
+			<button aria-label="Go back" class="button" @click="previousStage()">
+				<i class="icon left" aria-hidden="true"></i> <span class="no-mobile">Go back</span>
 			</button>
 			<button class="button primary" @click="desiredService = null; goToStage('askABroker')">
-				Get a recommendation <i class="icon right" aria-hidden="true"></i>
+				Ask an expert <i class="icon right" aria-hidden="true"></i>
 			</button>
 		</div>
 	</template>
 	<health-insurance-question v-if="stage === 'askABroker'" v-bind="contactFormValues">
 		<template v-slot:form-buttons>
-			<button class="button no-mobile" @click="previousStage()">
-				<i class="icon left" aria-hidden="true"></i> Go back
+			<button aria-label="Go back" class="button" @click="previousStage()">
+				<i class="icon left" aria-hidden="true"></i> <span class="no-mobile">Go back</span>
 			</button>
 		</template>
 		<template v-slot:after-confirmation>
 			<div class="buttons bar">
-				<button class="button" @click="goToStage('start')">
+				<button aria-label="Go back" class="button" @click="goToStage('start')">
 					<i class="icon left" aria-hidden="true"></i> Go back
 				</button>
 			</div>

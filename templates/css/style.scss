@@ -2282,6 +2282,14 @@ collapsible, letter-generator, feedback-residence-permit{  // Vue element before
     background: var(--c-bg-widget);
     box-shadow: inset var(--shadow-s);
 
+    @include full-width-site{
+        display: flex; // Items have equal width on desktop, not on mobile
+        &.language-picker{
+            float:none;
+            margin: 0 auto;
+        }
+    }
+
     button{
         padding: var(--xs) var(--m);
         color: var(--c-text);
@@ -2313,12 +2321,6 @@ collapsible, letter-generator, feedback-residence-permit{  // Vue element before
     &.language-picker{
         float: right;
         margin-left: var(--m);
-    }
-    @include full-width-site{
-        &.language-picker{
-            float:none;
-            margin: 0 auto;
-        }
     }
 }
 
