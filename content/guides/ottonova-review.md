@@ -55,11 +55,11 @@ Public health insurers like [Techniker Krankenkasse](/guides/techniker-krankenka
 
 If you get health insurance from an English-speaking insurance broker, you can always get help from your broker. They can help you make insurance claims, and answer your insurance questions.
 
-### It's a young insurance company
+### It's a very small insurer
 
 [Ottonova](/out/ottonova) is a very small health insurer, and **it's not profitable**. They lost 2.3 million euros in 2024.[^7]
 
-They are in business since 2017.[^3] In 2023, they only had 5,470 clients with private health insurance.[^6] Other insurers have hundreds of thousands of customers. Their solvency rating is also below average.[^4]
+They are in business since 2017.[^3] In 2023, they only had 5,470 clients with private health insurance.[^6] Other insurers have hundreds of thousands of customers.[^2] Their solvency rating is also below average.[^4]
 
 Small health insurers are riskier. In 2010, a private health insurer with 25,000 members almost went bankrupt because of two sick patients.[^11] [City BKK's bankruptcy](https://www.wsws.org/en/articles/2011/05/germ-m31.html) shows what happens to you if your health insurer goes bankrupt.
 
@@ -102,6 +102,7 @@ Ask a health insurance broker to help you. It's the best way to choose health in
 
 [^0]: [ui.awin.com](https://ui.awin.com/merchant-profile/15971)
 [^1]: [Seamus Wolf](/out/horizon65) (March 2025), [Dr. Schlemann](https://schlemann.com/krankenversicherung/beratung-krankenversicherung/ottonova/#:~:text=andere%20anbieter%20sind%20deutlich%20leistungsstarker%20und%20kaum%20teurer.) (2023)
+[^2]: [health-insurance.de](https://www.health-insurance.de/private-health-insurance/statistics/largest/) (the numbers here are higher because they include all types of insured customers, not just those with private health insurance)
 [^3]: [businessinsider.de](https://www.businessinsider.de/gruenderszene/business/ottonova-krankenversicherung-zahlen-2018/), [ottonova.de](https://www.ottonova.de/unternehmen)
 [^4]: [Dr. Schlemann](https://schlemann.com/krankenversicherung/beratung-krankenversicherung/ottonova/#:~:text=wie%20kapitalstark%20ist%20ottonova%3F)
 [^5]: [Dr. Schlemann](https://schlemann.com/krankenversicherung/beratung-krankenversicherung/ottonova/#:~:text=mit%20ihrer%20gesundheit%20sollten%20sie%20nicht%20experimentieren)
