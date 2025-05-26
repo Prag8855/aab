@@ -351,7 +351,7 @@ To apply for an apartment, you need these documents:[^19]
     - **If you are a student**  
         Bring a *[[Mietbürgschaft]]*, and proof of your guarantor's income.[^5]
 - [ ] **[[Mietschuldenfreiheitsbescheinigung]]** (optional)  
-    This document proves that you don't owe money to your previous landlord. You get it from your previous landlord. It has no specific format, but you can use [this template](/documents/Mietschuldenfreiheitsbescheinigung-muster.pdf). You can also use bank statements to show that you pay rent every month.[^47]
+    This document proves that you don't owe money to your previous landlord. You get it from your previous landlord. It has no specific format, but you can use [this template](/documents/Mietschuldenfreiheitsbescheinigung-muster.pdf). Your landlord can refuse to give you one, or charge a fee for it.[^48] You can also use bank statements to show that you pay rent every month.[^47]
 - [ ] **[[Mietbürgschaft]]** (optional)  
     If you have a low or unstable income, someone can be your guarantor. If you don't pay rent, they must pay it for you. It's useful for students and freelancers. Landlords don't like it. Some leases don't allow it. Use [this *Mietbürgschaft* template](https://drive.google.com/file/d/1fyhRVDPmmzkER5ElnPSlAR3J5ohw2j32/view).
 - [ ] **Passport or [[Personalausweis]]**
@@ -568,6 +568,7 @@ A [real estate agent](#real-estate-agents) can help you find an apartment. A *[[
 [^45]: [Spotahome](https://help.spotahome.com/hc/en-us/articles/360019389160-What-is-virtual-verification) (2024)
 [^46]: [Spotahome](https://help.spotahome.com/hc/en-us/articles/360014619980-When-will-I-receive-the-first-payment) (2024)
 [^47]: [reddit.com](https://old.reddit.com/r/berlinsocialclub/comments/14rdwit/landlord_doesnt_provide/), [reddit.com](https://old.reddit.com/r/berlin/comments/nfjm73/landlord_doesnt_want_to_provide/)
+[^48]: [erste-hausverwaltung.de](https://erste-hausverwaltung.de/mietschuldenfreiheitsbescheinigung/#:~:text=dabei%3A%20Die%20Mitschuldenfreiheitsbescheinigung.-,vermieter%3Ainnen%20sind%20gesetzlich%20nicht%20dazu%20verpflichtet,-%2C%20eine%20Mietschuldenfreiheitsbescheinigung%20auszustellen) (May 2025)
 [^49]: [Trustpilot](https://ie.trustpilot.com/review/housinganywhere.com?search=schufa&sort=recency) (2021), [HousingAnywhere](https://housinganywhere.com/Berlin--Germany/rent-in-berlin#:~:text=you%20can%20rent%20via%20platforms%20like%20housinganywhere)
 [^50]: [Reddit](https://old.reddit.com/r/berlin/comments/1bs7hxc/this_is_the_berlin_housing_market_in_2024/kxdydoa/) (April 2024)
 [^52]: [Christine Gerkrath](https://www.moveto-berlin.com/en/) (March 2024)

@@ -209,11 +209,13 @@ If your landlord tries to scam you, get help from your [tenants' association](/g
 
 ## Get a Mietschuldenfreiheitsbescheinigung
 
-Get a *[[Mietschuldenfreiheitsbescheinigung]]* from your landlord. It confirms that you have no debt to your landlord. You might need it to [apply for an apartment](/guides/find-a-flat-in-berlin#apply-for-the-apartment).
+Get a *[[Mietschuldenfreiheitsbescheinigung]]* from your landlord. It confirms that you have no debt to your landlord. You might need it to [apply for an apartment](/guides/find-a-flat-in-berlin#apply-for-the-apartment). Your landlord can refuse to give you one, or charge a fee for it.[^46]
 
 If you live in a [[WG]], you can also get a letter from your roommates to confirm that you always paid your rent on time.[^42]
 
 Your landlord can refuse to give you a *Mietschuldenfreiheitsbescheinigung*. Some landlords charge around 50€ for it.[^2]
+
+**[Mietschuldenfreiheitsbescheinigung template ➞](/documents/Mietschuldenfreiheitsbescheinigung-muster.pdf)**
 
 ## Deduct your moving expenses
 
@@ -256,6 +258,7 @@ If you move for work, your relocation costs are [tax-deductible](/glossary/steue
 
 [^0]: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_bgb/englisch_bgb.html#p2289), [mieterengel.de](https://mieterengel.de/kuendigungsfrist-wohnung/#Anchor1)
 [^1]: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_bgb/englisch_bgb.html#p2289), [ratgeber.immowelt.de](https://ratgeber.immowelt.de/a/auszug-aus-der-mietwohnung-kuendigungsfristen-nicht-vergessen.html#targetText=In%20den%20meisten%20F%C3%A4llen%3A%20drei%20Monate%20K%C3%BCndigungsfrist&targetText=Genauer%3A%20Die%20K%C3%BCndigung%20muss%20sp%C3%A4testens,das%20Mietverh%C3%A4ltnis%20am%2031.%20Juli.)
+[^2]: [berliner-mieterverein.de](https://www.berliner-mieterverein.de/magazin/online/mm0110/kein-anspruch-auf-mietschuldenfreiheitsbescheinigung-011013a.htm), [homeday.de](https://www.homeday.de/de/musterdokumente/mietschuldenfreiheitsbescheinigung/#kosten), [reddit.com](https://old.reddit.com/r/berlinsocialclub/comments/14rdwit/landlord_doesnt_provide/), [reddit.com](https://old.reddit.com/r/berlin/comments/nfjm73/landlord_doesnt_want_to_provide/)
 [^3]: [§568 BGB](https://www.gesetze-im-internet.de/bgb/__568.html), [§126 BGB](https://www.gesetze-im-internet.de/bgb/__126.html), [deurag.de](https://www.deurag.de/blog/mietvertrag-per-e-mail/), [promietrecht.de](https://www.promietrecht.de/Mieterkuendigung/Formelle-Regeln/schriftlich/Kuendigung-des-Mietvertrages-der-Wohnung-per-Mail-reicht-das-E1939.htm)
 [^4]: [mietrecht.de](https://www.mietrecht.de/wohnungsbesichtigung-vermieter-recht/#1-annehmbare-gr%C3%BCnde-f%C3%BCr-eine-wohnungsbesichtigung)
 [^5]: [mietrecht.de](https://www.mietrecht.de/wohnungsbesichtigung-vermieter-recht/#21-darf-der-vermieter-sich-vertreten-lassen)
@@ -277,6 +280,7 @@ If you move for work, your relocation costs are [tax-deductible](/glossary/steue
 [^21]: [berliner-mieterverein.de](https://www.berliner-mieterverein.de/recht/infoblaetter/info-180-probleme-beim-auszug-aus-der-mietwohnung-kuendigung-rueckgabe-schoenheitsreparaturen-kaution-mieterinvestitionen.htm#5-Schoenheitsreparaturen), [mieterschutzbund-berlin.de](https://www.mieterschutzbund-berlin.de/Sch%C3%B6nheitsreparaturen.html), [mieterschutzbund-berlin.de](https://www.mieterschutzbund-berlin.de/Fristenplan.html)
 [^22]: [mieterschutzbund-berlin.de](https://www.mieterschutzbund-berlin.de/Sch%C3%B6nheitsreparaturen.html#:~:text=so%20sind%20zum%20beispiel%20klauseln%20mit%20einem%20starren%20fristenplan)
 [^23]: [mieterschutzbund-berlin.de](https://www.mieterschutzbund-berlin.de/Sch%C3%B6nheitsreparaturen.html#:~:text=die%20sog.%20Tapetenklausel.-,farbdiktat,-Im%20Rahmen%20der)
+[^24]: Jonathan Wooddin from [Smoovers](https://smoover-moving.de/) (January 2023)
 [^25]: [zapf.de](https://www.zapf.de/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/8jc3ps/moving_companies_umzugsunternehmen_in_berlin/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/71i6sl/moving_company/)
 [^26]: [berliner-woche.de](https://www.berliner-woche.de/neukoelln/c-verkehr/parkverbot-berlin-einrichten_a187219), [bussgeldkatalog.org](https://www.bussgeldkatalog.org/halteverbot-umzug/#nicht_nur_fuer_einen_umzug_nuetzlich_das_halteverbot)
 [^27]: [berlin.de](https://service.berlin.de/dienstleistung/325649/), [berlin.de](https://www.berlin.de/special/neu-in-berlin/745345-744080-halteverbote-fuer-umzug-beantragen.html), [halteverbot-berlin24.de](https://www.halteverbot-berlin24.de/)
@@ -291,12 +295,11 @@ If you move for work, your relocation costs are [tax-deductible](/glossary/steue
 [^36]: [ssr.germanymantra.com](https://ssr.germanymantra.com/faqs)
 [^37]: [§60 Abs. 1 TKG](http://www.gesetze-im-internet.de/tkg_2021/__60.html)
 [^38]: [§60 Abs. 2 TKG](http://www.gesetze-im-internet.de/tkg_2021/__60.html#:~:text=wird%20die%20vertraglich%20geschuldete%20leistung%20am%20neuen%20wohnsitz%20nicht%20angeboten)
-[^24]: Jonathan Wooddin from [Smoovers](https://smoover-moving.de/) (January 2023)
 [^39]: Jonathan Wooddin from [Smoovers](https://smoover-moving.de/) (January 2023)
 [^40]: Jonathan Wooddin from [Smoovers](https://smoover-moving.de/) (January 2023)
 [^41]: Jonathan Wooddin from [Smoovers](https://smoover-moving.de/) (January 2023)
-[^2]: [berliner-mieterverein.de](https://www.berliner-mieterverein.de/magazin/online/mm0110/kein-anspruch-auf-mietschuldenfreiheitsbescheinigung-011013a.htm), [homeday.de](https://www.homeday.de/de/musterdokumente/mietschuldenfreiheitsbescheinigung/#kosten), [reddit.com](https://old.reddit.com/r/berlinsocialclub/comments/14rdwit/landlord_doesnt_provide/), [reddit.com](https://old.reddit.com/r/berlin/comments/nfjm73/landlord_doesnt_want_to_provide/)
 [^42]: [reddit.com](https://old.reddit.com/r/berlin/comments/b0o9zr/need_some_information_about/)
 [^43]: [sueddeutsche.de](https://www.sueddeutsche.de/geld/auszug-aus-der-wohnung-was-sollte-im-uebergabeprotokoll-stehen-1.1735527#:~:text=ich%20wurde%20immer%20ein%20ubergabeprotokoll%20empfehlen)
 [^44]: [mietkautionsbuergschaft.de](https://www.mietkautionsbuergschaft.de/mietkaution-rueckzahlung.html#:~:text=ein%20vermieter%20kann%20nach%20der%20unterzeichnung%20keine%20(weiteren)%20mangel)
 [^45]: [Finanztip](https://www.finanztip.de/mietvertrag/zeitmietvertrag/#:~:text=du%20kannst%20nicht%20kundigen)
+[^46]: [erste-hausverwaltung.de](https://erste-hausverwaltung.de/mietschuldenfreiheitsbescheinigung/#:~:text=dabei%3A%20Die%20Mitschuldenfreiheitsbescheinigung.-,vermieter%3Ainnen%20sind%20gesetzlich%20nicht%20dazu%20verpflichtet,-%2C%20eine%20Mietschuldenfreiheitsbescheinigung%20auszustellen) (May 2025)
