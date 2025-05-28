@@ -408,7 +408,7 @@ Talk to a broker (*Makler*), not an agent (*Vertreter*). Brokers are independent
 
 Choose a broker who works with expats. Your situation is different, and your broker must know how to help you.
 
-**[Feather](/out/feather)** is an agent, not a broker. They only sell insurance from a few companies.[^61] They might not sell the best insurance for your needs.
+**[Feather](/out/feather)** is an agent, not a broker. They have an excellent service, but they only sell insurance from a few companies.[^61] They might not sell the best insurance for your needs.
 
 **[Ottonova](/out/ottonova)** sells their own insurance. It's rarely the best option.[^83] Even if you get Ottonova, it's better to get it through a broker. See my [review of Ottonova](/guides/ottonova-review).
 
