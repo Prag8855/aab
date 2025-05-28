@@ -75,9 +75,9 @@ If you are a freelance artist, journalist, publicist or influencer, join the *[[
 
 ### Health insurance when unemployed
 
-**If you get [[ALG I]], [[Bürgergeld]] or [[Elterngeld]]**, health insurance is free. The state pays for it.[^11] If you had private health insurance, you must usually switch to public health insurance.[^41]
+**If you get [[ALG I]] or [[Bürgergeld]]**, you get free [public health insurance](/glossary/gesetzliche%20Krankenversicherung). The state pays for it.[^11] If you had private health insurance, you must usually switch to public health insurance.[^41]
 
-**If you don't get ALG I, Bürgergeld or Elterngeld**, you can choose public or private health insurance. You can get [free health insurance](#free-health-insurance). Otherwise, if you have public health insurance, you pay the [minimum amount](/glossary/Mindestbeitrag): around {{GKV_MIN_COST_SELF_PAY|cur}}€ per month.[^40] The cost of private health insurance is not related to your income.
+**If you don't get ALG I or Bürgergeld**, you can choose public or private health insurance. You can get [free health insurance](#free-health-insurance). Otherwise, if you have public health insurance, you pay the [minimum amount](/glossary/Mindestbeitrag): around {{GKV_MIN_COST_SELF_PAY|cur}}€ per month.[^40] The cost of private health insurance is not related to your income, so it stays the same.
 
 ### Health insurance for an internship
 
@@ -153,7 +153,7 @@ The state pays for your public health insurance if...[^45]
 
 - You get [unemployment benefits](/glossary/ALG%20I)
 - or you get *[[Bürgergeld]]*
-- or you get *[[Elterngeld]]*
+- or you get *[[Elterngeld]]* (in some cases)
 
 When you [lose your job](/guides/losing-your-job), you sometimes get [one month of free health insurance](/guides/losing-your-job#what-happens-to-your-health-insurance). Your current health insurance pays for it.
 
@@ -529,11 +529,11 @@ If you are new in Germany, [register as an organ donor](/guides/organ-donor). It
 [^38]: [Feather Insurance](https://feather-insurance.com/blog/is-an-ehic-card-still-valid-in-germany/#:~:text=generally%20limited%20to%203%20months) (2023)
 [^39]: [Feather Insurance](https://faq.feather-insurance.com/en/articles/29608-what-is-ehic-european-health-insurance-card#:~:text=coverage%20throughout%20the%20whole%20duration%20of%20studies) (2023)
 [^40]: [krankenkassen.de](https://www.krankenkassen.de/gesetzliche-krankenkassen/krankenkasse-beitrag/arbeitslose/#:~:text=kann%20sich%20weiter%20freiwillig%20versichern) (February 2025)
-[^41]: [krankenkassen.de](https://www.krankenkassen.de/gesetzliche-krankenkassen/krankenkasse-beitrag/arbeitslose/#:~:text=mit%20eintritt%20der%20versicherungspflicht%20wegen%20alg%20i%20muss%20die%20private%20krankenversicherung%20den%20pkv-vertrag%20im%20beginn%20der%20mitgliedschaft%20in%20einer%20gesetzlichen%20krankenkasse%20aufheben) (February 2025)
+[^41]: [krankenkassen.de](https://www.krankenkassen.de/gesetzliche-krankenkassen/krankenkasse-beitrag/arbeitslose/#:~:text=mit%20eintritt%20der%20versicherungspflicht%20wegen%20alg%20i%20muss%20die%20private%20krankenversicherung%20den%20pkv-vertrag%20im%20beginn%20der%20mitgliedschaft%20in%20einer%20gesetzlichen%20krankenkasse%20aufheben) (February 2025), [Seamus Wolf](/out/horizon65) (April 2025)
 [^42]: [feather-insurance.com](https://feather-insurance.com/blog/how-long-is-the-european-health-insurance-card-valid-after-moving-to-germany/#:~:text=if%20a%20student%20begins%20working%20in%20the%20new%20country%20of%20residence) (2023), [verwaltung.bund.de](https://verwaltung.bund.de/leistungsverzeichnis/en/rechte-und-pflichten/102837937#:~:text=Germany%2C%20for%20example-,if%20you%20start%20a%20job,-.%20In%20the%20case) (April 2025)
 [^43]: [Mona Anbari](https://versicherungsbuero-weiss.com/) (April 2025)
 [^44]: [Seamus Wolf](/out/horizon65) (April 2025), [Emily Archer](https://www.archer-relocation.com/) (April 2025)
-[^45]: [Techniker Krankenkasse](https://www.tk.de/vertriebspartner/faq/beitragsuebersicht/elterngeld-und-elternzeit/elterngeld-und-elternzeit-2065854) (March 2025)
+[^45]: [Techniker Krankenkasse](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-versicherte/veraenderung-berufliche-situation/versichert-als-arbeitnehmer/berufliche-auszeiten/elternzeit/beitragszahlung-waehrend-elternzeit---elterngeld-2005602) (May 2025), [familienportal.de](https://familienportal.de/familienportal/familienleistungen/elternzeit/arbeit-versicherung/wie-bin-ich-waehrend-der-elternzeit-versichert--124862) (May 2025)
 [^46]: [Techniker Krankenkasse](https://www.tk.de/resource/blob/2033352/0a9809b0d119ad48bdd717ccf37391b2/beratungsblatt-beschaeftigung-von-studierenden-und-praktikanten-data.pdf) (January 2025), [Techniker Krankenkasse](https://www.tk.de/firmenkunden/versicherung/versicherung-faq/haeufige-fragen-zu-studenten-und-praktikanten/wer-kann-werkstudent-sein-2036666) (March 2025), [meinpraktikum.de](https://www.meinpraktikum.de/ratgeber/werkstudent/allgemeines) (March 2025)
 [^47]: [Feather Insurance](https://feather-insurance.com/blog/is-an-ehic-card-still-valid-in-germany/#:~:text=job%20seeking%20in%20aforementioned%20states) (2023)
 [^48]: [AOK](https://www.aok.de/pk/krankenkassenbeitraege/auszubildende/#:~:text=auszubildende%20mussen%20keine%20krankenkassenbeitrage%20zahlen%2C%20wenn%20ihr%20monatsverdienst%20nicht%20mehr%20als%20325%20euro%20betragt) (March 2025), [Check24](https://www.check24.de/gesetzliche-krankenversicherung/azubis/#:~:text=wer%20eine%20ausbildungsvergutung%20von%20weniger%20als%20325%20euro%20im%20monat%20erhalt%2C%20muss%20keine%20beitrage%20zur%20krankenversicherung%20zahlen.) (March 2025), [Techniker Krankenkasse](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-versicherte/veraenderung-berufliche-situation/versichert-als-schueler-und-auszubildende/beitraege-azubi-auszubildende-hoehe-beitragshoehe-2010362#:~:text=verdienen%20sie%20nicht%20mehr%20als%20325%20euro%20brutto%20monatlich%2C%20zahlt%20ihr%20arbeitgeber%20die%20gesamten%20beitrage.) (March 2025)
