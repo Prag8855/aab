@@ -167,7 +167,7 @@ class HealthInsuranceQuestion(NameMixin, ReplyToSenderMixin, EmailMixin, Schedul
 
 
 class HealthInsuranceQuestionConfirmation(NameMixin, RecipientIsSenderMixin, EmailMixin, ScheduledMessage):
-    subject = 'Feather will contact you soon'
+    subject = 'Seamus will contact you soon'
     template = 'health-insurance-question-confirmation.html'
 
     class Meta(ScheduledMessage.Meta):
@@ -179,7 +179,7 @@ def in_1_week():
 
 
 class HealthInsuranceQuestionFeedback(NameMixin, RecipientIsSenderMixin, EmailMixin, ScheduledMessage):
-    subject = 'Did Feather help you get insured?'
+    subject = 'Did Seamus help you get insured?'
     template = 'health-insurance-question-feedback.html'
     delivery_date = models.DateTimeField(default=in_1_week)
 
