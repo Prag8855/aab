@@ -1,9 +1,9 @@
 ---
-Title: What is Kindergeld?
-German_term: Kindergeld
-English_term: Child allowance
-Description: A parental allowance for parents 
-Date_created: 2025-03-03
+Title: What is Elterngeld?
+German_term: Elterngeld
+English_term: Parental allowance
+Description: An income parents receive during parental leave.
+Date_created: 2025-05-28
 Related_guides:
     guides/german-health-insurance.md
     guides/how-to-get-a-kitagutschein.md
@@ -12,6 +12,6 @@ Related_guides:
 
 *Elterngeld* is financial support for parents. It gives parents an income when they stop working to raise their newborn child.
 
-*Elterngeld* also pays for your [health insurance](/glossary/Krankenversicherung).[^1]
+Usually *Elterngeld* also pays for your [health insurance](/glossary/Krankenversicherung).[^1]
 
-[^1]: [Techniker Krankenkasse](https://www.tk.de/vertriebspartner/faq/beitragsuebersicht/elterngeld-und-elternzeit/elterngeld-und-elternzeit-2065854) (March 2025)
+[^1]: [Techniker Krankenkasse](https://www.tk.de/vertriebspartner/faq/beitragsuebersicht/elterngeld-und-elternzeit/elterngeld-und-elternzeit-2065854) (March 2025), [Techniker Krankenkasse](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-versicherte/veraenderung-berufliche-situation/versichert-als-arbeitnehmer/berufliche-auszeiten/elternzeit/beitragszahlung-waehrend-elternzeit---elterngeld-2005602) (May 2025)
