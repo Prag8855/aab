@@ -3,7 +3,7 @@ Title: What is a Mitgliedsbescheinigung?
 German_term: Mitgliedsbescheinigung
 English_term: Health insurance certificate
 Description: A document that proves that you have health insurance.
-Date_created: 2025-04-04
+Date_created: 2025-05-28
 Related_guides:
     guides/german-health-insurance.md
     guides/german-visa-health-insurance.md
