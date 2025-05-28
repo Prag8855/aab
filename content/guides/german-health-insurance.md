@@ -159,15 +159,19 @@ When you [lose your job](/guides/losing-your-job), you sometimes get [one month 
 
 ### What public insurance covers
 
-Public health insurance covers **all necessary healthcare**. Important treatments and medical prescriptions are always covered. There is a small [deductible](/glossary/Selbstbeteiligung) for some prescriptions: 5€ to 10€ per prescription.[^70] There is no other deductible. There is no coverage limit.
+Public health insurance covers **all necessary healthcare**. All important treatments and medical prescriptions are covered. There is no limit on the cost of treatments.
+
+Public health insurance covers "economic, sufficient, necessary and appropriate" healthcare. This means that it usually pays for the cheapest treatment that works. It also means that optional, aesthetic treatments are not covered. For example, it does not cover tooth whitening.
+
+Public health insurance also covers your children and your unemployed spouse [for free](#free-health-insurance). This is called *[[Familienversicherung]]*.
 
 When you go to the doctor, you show your [insurance card](/glossary/Gesundheitskarte), and they charge your *[[Krankenkasse]]* directly. If a treatment is not covered, you know before you start. There are no surprise costs.
 
-Public health insurance covers essential dental care like wisdom teeth removal. You also get 2 free dental check-ups every year. It does not cover tooth cleanings. You can get [dental insurance](/glossary/Zahnzusatzversicherung) to get better coverage.
+Public health insurance is almost completely free to use. There is sometimes a small [deductible](/glossary/Selbstbeteiligung): 5€ to 10€ per treatment or prescription.[^70]
+
+Essential dental care like wisdom teeth removal is covered. You also get 2 free dental check-ups every year. It does not cover tooth cleanings. You can get [dental insurance](/glossary/Zahnzusatzversicherung) to get better coverage.
 
 Glasses and contact lenses [are rarely covered](/guides/eyeglasses). You must pay for them yourself.
-
-Public health insurance also covers your children and your unemployed spouse for free. This is called *[[Familienversicherung]]*.
 
 ### Benefits of public health insurance
 
@@ -257,7 +261,7 @@ The cost of private health insurance is [tax-deductible](/glossary/steuerlich%20
 - **They can reject you**  
     If you have serious health problems, they can reject you. If you had psychotherapy, they usually reject you. If you have problems like HIV, severe asthma, diabetes or obesity, they usually reject you, or sometimes charge a lot more. They can also refuse to cover healthcare related to a pre-existing health problem.[^75] If you have pre-existing health problems, public health insurance might be your only option.[^6]
 - **You can be stuck with private**  
-    It's hard to switch from private to public health insurance. If you are over 55 years old, it's almost impossible. You can be stuck with a private insurance you can't afford, with no way to switch to public. You can sometimes switch to a cheaper private health insurance.[^72]
+    It's hard to switch from private to public health insurance. If you are over 55 years old, it's almost impossible. You can be stuck with a private insurance that you can't afford. You can sometimes switch to a cheaper private health insurance.[^72]
 
 ### What private insurance covers
 
