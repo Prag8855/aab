@@ -1701,6 +1701,10 @@ input[type=range] {
 
     &.loading{
         color: transparent!important;
+
+        .icon{
+            opacity: 0;
+        }
     }
 
     @include only-print{
