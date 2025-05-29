@@ -89,8 +89,8 @@ After you adjust your medication dosage, you can get prescriptions from your fam
 **Medikinet** (Ritalin) is the most commonly prescribed ADHD medication. You can also get Elvanse (Vyvanse), Atomoxetine (Strattera) and other similar drugs, but you must usually start with Medikinet.[^5]
 
 [^0]: [bundesgesundheitsministerium.de](https://www.bundesgesundheitsministerium.de/zuzahlung-und-erstattung-arzneimittel.html)
-[^2]: [facebook.com](https://www.facebook.com/groups/1501180583530755/posts/2775481096100691/?comment_id=2818316808483786)
-[^3]: [facebook.com](https://www.facebook.com/groups/1501180583530755/posts/2507204306261706/?comment_id=2659109251071210)
+[^2]: [Facebook](https://www.facebook.com/groups/1501180583530755/posts/2775481096100691/?comment_id=2818316808483786)
+[^3]: [Facebook](https://www.facebook.com/groups/1501180583530755/posts/2507204306261706/?comment_id=2659109251071210)
 [^4]: [reddit.com](https://old.reddit.com/r/ADHD/comments/vpd8vt/moving_to_germany_how_is_germany_with_managing/ieikpii/)
 [^5]: [reddit.com](https://old.reddit.com/r/askberliners/comments/124jitd/tk_insuranceprescribing_elvansevyvanse_adhd/)
 [^6]: [Google Sheet, unknown author](https://docs.google.com/spreadsheets/d/1E52j1v6zl-NwkY2PQlYzx2yUve09UySyfG00fxGHa5U/edit#gid=0)

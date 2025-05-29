@@ -61,4 +61,4 @@ If you want to receive your packages reliably, **don't use your home address**.
 
 [^0]: [reddit.com](https://old.reddit.com/r/berlin/comments/pk7c4f/dhl_delivered_package_to_neighbor_who_is_never/)
 [^1]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/andj0d/shitpostpng/efv25zp/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/f1tx3x/why_are_berlin_postmen_illiterate/)
-[^2]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/5y78t9/dhl_packages_systematically_not_arriving_on_time/deoibs5/), [facebook.com](https://www.facebook.com/groups/berlinexpats/permalink/2286859917993448/?comment_id=2287171601295613)
+[^2]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/5y78t9/dhl_packages_systematically_not_arriving_on_time/deoibs5/), [Facebook](https://www.facebook.com/groups/berlinexpats/permalink/2286859917993448/?comment_id=2287171601295613)

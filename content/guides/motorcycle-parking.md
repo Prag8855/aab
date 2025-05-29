@@ -11,6 +11,6 @@ The law says that motorbikes can only park on the sidewalk if explicitly allowed
 
 If you have seasonal plates (*[[Saisonkennzeichen]]*), you can't park in public spaces during the winter.[^2] You must put your motorcycle in storage or use a private parking space.
 
-[^0]: [facebook.com](https://www.facebook.com/groups/berlinexpats/permalink/2160885117257596/), [facebook.com](https://www.facebook.com/groups/150125349005531/permalink/256309915053740/)
+[^0]: [Facebook](https://www.facebook.com/groups/berlinexpats/permalink/2160885117257596/), [Facebook](https://www.facebook.com/groups/150125349005531/permalink/256309915053740/)
 [^1]: [zeit.de](https://www.zeit.de/mobilitaet/2017-01/motorroller-stadtverkehr-parken-parkplaetze), [adac.de](http://web.archive.org/web/20160407043412/https://www.adac.de/infotestrat/motorrad-roller/sicherheit-praxis/tipps-motorradfahren/parken.aspx), [kanzlei-hoenig.de](https://www.kanzlei-hoenig.de/specials/juristenalltag/straf-bussgeld-sachen/parken-im-parkverbot/), [bussgeldkatalog.org](https://www.bussgeldkatalog.org/halten-parken/auf-dem-gehweg/#darf_ich_mit_meinem_motorrad_auf_dem_gehweg_parken)
 [^2]: [mycarly.com](https://www.mycarly.com/de/blog/gebrauchtwagen-check/darf-ich-mein-auto-ohne-kennzeichen-abstellen/#Was_ist_mit_einem_abgelaufenen_Saisonkennzeichen)

@@ -236,7 +236,7 @@ For quick business or immigration questions, try Alexander von Engelhardt's lega
 [^33]: [clark.de](https://www.clark.de/rechtsschutzversicherung/privater-rechtsschutz/#Gibt-es-eine-private-Rechtsschutzversicherung-ohne-Selbstbeteiligung?)
 [^34]: [check24.de](https://www.check24.de/rechtsschutzversicherung/fragen/welche-selbstbeteiligung-sinnvoll/)
 [^35]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/7lieb1/rechtsschutzversicherung/drp5rt0/)
-[^36]: [facebook.com](https://www.facebook.com/groups/berlinexpats/posts/4623131591032924)
+[^36]: [Facebook](https://www.facebook.com/groups/berlinexpats/posts/4623131591032924)
 [^37]: [gesetze-im-internet.de](http://www.gesetze-im-internet.de/englisch_berathig/englisch_berathig.html#p0013)
 [^38]: [beratungshilfe-berlin.de](http://www.beratungshilfe-berlin.de/beratungshilfe)
 [^39]: Fiona Macdonald, [immigration lawyer](https://www.fmr-legal.de/) (February 2023)
