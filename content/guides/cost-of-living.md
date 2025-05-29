@@ -31,7 +31,7 @@ In Germany, a part of your [gross income](/glossary/Brutto%20income) (*Brutto*) 
 
 In Germany, there is the cold rent (*[[Kaltmiete]]*), and the warm rent (*[[Warmmiete]]*). The warm rent includes utilities (*[[Nebenkosten]]*).
 
-Rent is usually your biggest expense. An unfurnished apartment costs 15 to €22/m^2^.{{ fail_on('2026-06-01')}} Temporary furnished apartments are more expensive.
+Rent is usually your biggest expense. An unfurnished apartment costs €15 to €22/m^2^.{{ fail_on('2026-06-01')}} Temporary furnished apartments are more expensive.
 
 If you just moved to Germany, you usually pay more for rent. [Landlords prefer stable tenants](/guides/find-a-flat-in-berlin#what-landlords-want), so cheap apartments usually go to long-term residents.
 

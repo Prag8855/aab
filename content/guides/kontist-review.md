@@ -25,7 +25,7 @@ There are extra fees:
 - 1.7% fee on foreign currency transactions (incoming and outgoing).[^8] For example, if you get 1,000 USD from a client, you pay around €17 in fees.
 - €2 per ATM withdrawal.
 
-If you get paid in foreign currencies, or have many small transactions, Kontist gets expensive. I paid 12 to €15 per month in fees, but sometimes a single transaction cost me €20 in currency conversion fees.
+If you get paid in foreign currencies, or have many small transactions, Kontist gets expensive. I paid €12 to €15 per month in fees, but sometimes a single transaction cost me €20 in currency conversion fees.
 
 [![Kontist invoice with account fees](/images/kontist-account-fees.png "€9 for the account, and €11.68 in transaction fees.")](/images/kontist-account-fees.png)
 

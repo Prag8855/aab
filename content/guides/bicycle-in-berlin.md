@@ -173,7 +173,7 @@ These are some of the most important road rules for cyclists. Those rules apply 
 - **You must use bicycle paths with blue signs.**[^18]  
     If you see [these blue signs](/images/bicycle-path-signs-stvo-237-240-241.jpg), you *must* use the bicycle path. You can't ride on the street. If you ignore those signs, you can get a €20 fine.[^19] If you don't see any blue signs, you can also ride on the street. If you see [this sign](/images/fahrraeder-frei-schild.png), you can ride there, but you don't have priority. If you ride in the wrong direction, you can still get a €20 fine.[^20]
 - **You must use hand signals before you turn.**[^21]  
-    Before you turn left or right, you must announce it with hand signals. If you don't use hand signals, you can get a 10 to €35 fine.[^20] Point left with your left hand, and point right with your right hand.[^22]
+    Before you turn left or right, you must announce it with hand signals. If you don't use hand signals, you can get a €10 to €35 fine.[^20] Point left with your left hand, and point right with your right hand.[^22]
 - **You can ride next to your friend if you don't block traffic.**[^23]  
     You can ride [two abreast](/images/cyclists-two-abreast.jpg) if it does not block traffic. Otherwise, you must ride [one behind the other](/images/cyclists-file-queue-line.jpg). If you ride two abreast and block traffic, you can get a €20 fine.[^19]
 - **You must give bus and tram passengers the priority.**[^24]  
