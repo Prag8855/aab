@@ -1,4 +1,5 @@
-from extensions.functions import hyphenate, soft_hyphen
+from decimal import Decimal
+from extensions.functions import hyphenate, soft_hyphen, to_currency
 from markdown.extensions import Extension
 from markdown.extensions.smarty import SubstituteTextPattern
 from markdown.preprocessors import Preprocessor
@@ -75,20 +76,30 @@ class ArrowLinkIconExtension(Extension):
         md.treeprocessors.register(ArrowLinkIconProcessor(self), "linkicon", 0)
 
 
-class JinjaCurrencyPreprocessor(Preprocessor):
+class CurrencyPreprocessor(Preprocessor):
     """
-    Wraps jinja template variables followed with "€" in a <span class="currency"> tag
+    Wraps euro amounts in a <span class="currency"> tag
     """
-    JINJA_RE = re.compile('({{([^}]+)}})€', re.MULTILINE | re.DOTALL)
+    CURRENCY_RE = re.compile(r'€((\d+(,\d{3})*(\.\d{2})?))', re.MULTILINE | re.DOTALL)
+
+    def replace_match(self, match):
+        formatted_number = to_currency(Decimal(match[1].replace(',', '')))
+        return self.md.htmlStash.store(f'€<span class="currency">{formatted_number}</span>')
 
     def run(self, lines):
         text = "\n".join(lines)
 
-        def replace_match(match):
-            placeholder = self.md.htmlStash.store(f'<span class="currency">{match[1]}</span>€')
-            return placeholder
+        return re.sub(self.CURRENCY_RE, self.replace_match, text).split("\n")
 
-        return re.sub(self.JINJA_RE, replace_match, text).split("\n")
+
+class JinjaCurrencyPreprocessor(CurrencyPreprocessor):
+    """
+    Wraps jinja template variables followed with "€" in a <span class="currency"> tag
+    """
+    CURRENCY_RE = re.compile('€({{([^}]+)}})', re.MULTILINE | re.DOTALL)
+
+    def replace_match(self, match):
+        return self.md.htmlStash.store(f'€<span class="currency">{match[1]}</span>')
 
 
 class CurrencyExtension(Extension):
@@ -97,16 +108,7 @@ class CurrencyExtension(Extension):
     """
 
     def extendMarkdown(self, md):
-        inline_processor = InlineProcessor(md)
-
-        # 1,234.56€
-        currencyPattern = SubstituteTextPattern(
-            r'((\d+(,\d{3})*(\.\d{2})?))€',
-            ('<span class="currency">', 1, '</span>€'), md
-        )
-        inline_processor.inlinePatterns.register(currencyPattern, 'currency', 65)
-        md.treeprocessors.register(inline_processor, 'currency', 2)
-
+        md.preprocessors.register(JinjaCurrencyPreprocessor(md), 'cur', 25)
         md.preprocessors.register(JinjaCurrencyPreprocessor(md), 'jinja-cur', 26)
 
 

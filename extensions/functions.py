@@ -1,4 +1,5 @@
 from datetime import datetime
+from decimal import Decimal
 from markdown.extensions.toc import slugify
 from typing import Match, Any
 from ursus.context_processors import Entry
@@ -9,7 +10,7 @@ import string
 import urllib
 
 
-def to_currency(value: int) -> str:
+def to_currency(value: Decimal) -> str:
     return "{:0,.2f}".format(value).replace('.00', '') if value else ''
 
 
