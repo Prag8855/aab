@@ -5,7 +5,7 @@
 <p><strong>Name:</strong> {{ message.name }}</p>
 <p><strong>Email:</strong> {{ message.email }}</p>
 <p><strong>Phone:</strong> {{ message.phone }}</p>
-<p><strong>Income:</strong> {% if message.income %}{{ message.income }}€ per year{% else %}Unknown{% endif %}</p>
+<p><strong>Income:</strong> {% if message.income %}€{{ message.income }} per year{% else %}Unknown{% endif %}</p>
 <p><strong>Occupation:</strong> {{ message.occupation }}</p>
 <p><strong>Age:</strong> {{ message.age }} years old</p>
 <p><strong>Preference:</strong> {{ message.preference }}</p>
