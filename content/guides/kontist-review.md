@@ -17,7 +17,7 @@ In my opinion, **there is no good reason to choose Kontist**. Use one of the [Ko
 
 ## Cost and fees
 
-A Kontist account costs [9€ to 80€ per month](/out/kontist-plans){{ fail_on('2025-06-01') }}.
+A Kontist account costs [9€ to 29€ per month](/out/kontist-plans){{ fail_on('2025-12-01') }}.
 
 There are extra fees:
 
@@ -158,7 +158,7 @@ They usually answer in 1 business day. They give complete and helpful answers, a
 
 I opened my Kontist account in 10 minutes: 5 minutes to create the account, and 5 minutes to verify my identity. You can do it in English or in German, but the terms and conditions are only in German.
 
-You only need a phone and an ID document. You don't need a registered address (*[[Anmeldung]]*). Kontist uses IDNow to verify your ID.[^2] Some passports are not supported by IDNow. Other online banks have the same problem.
+You only need a phone and an ID document. You don't need a registered address (*[[Anmeldung]]*). Kontist uses IDNow to verify your ID.[^2] It supports almost all passports.[^1]
 
 Only freelancers, [small businesses](/glossary/Kleinunternehmer) and sole traders can open an account. Corporations and partnerships (GmbH, KG, UG, or GbR) are not allowed.[^5]
 
@@ -203,7 +203,7 @@ Your bank, your accounting software and your tax advisor should be 3 different s
 ### Other business banks
 
 - **[N26 Business](/out/n26-business)**  
-    Exactly like N26 personal accounts, but for businesses. I am with N26 since 2016, and [I like it](/guides/an-honest-review-of-n26). There is no automatic accounting, but you can put money aside in "spaces".
+    Exactly like N26 personal accounts, but for your business. I am with N26 since 2016, and [I like it](/guides/an-honest-review-of-n26). Since 2025, I also use it for my business. There is no automatic accounting, but you can put money aside in "spaces".
 - **[Holvi](/out/holvi)**  
     Very similar to Kontist. They have better invoicing and better reports. Your tax advisor can access your account and export transactions.
 - **[Qonto](/out/qonto)**  
@@ -220,6 +220,7 @@ Your bank, your accounting software and your tax advisor should be 3 different s
     [Deutsche Bank](/out/deutsche-bank-business), [Commerzbank](/out/commerzbank-business) and other German banks offer business accounts. They might not speak English.
 
 [^0]: [trustpilot.com](https://www.trustpilot.com/reviews/62eaa6ab8000af4a8853a456)
+[^1]: [idnow.com](https://www.idnow.io/wp-content/uploads/IDCheck.io-Document-Coverage-Release-25.03.0-PUBLIC.pdf?utm_source=chatgpt.com) (March 2025), [idnow.com](https://www.idnow.io/wp-content/uploads/Allowed-Docs-AI-Signing.pdf) (May 2025)
 [^2]: [intercom.help](https://intercom.help/kontist/en/articles/1559626-do-i-need-to-have-german-citizenship-to-open-a-kontist-account)
 [^4]: [intercom.help](https://intercom.help/kontist/de/articles/1559937-kann-ich-bareinzahlungen-auf-mein-kontist-konto-vornehmen)
 [^5]: [intercom.help](https://intercom.help/kontist/en/articles/1559494-can-i-open-a-kontist-account-for-gmbh-kg-ug-gbr)

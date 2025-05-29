@@ -274,7 +274,7 @@ You can let someone take care of everything. There are good reasons to get help:
 - **You pay lower transaction fees**  
     These companies offer more payment options than the [[Deutsche Rentenversicherung]]. They can use services like [Wise](/out/wise) to pay you in another currency with lower conversion fees.
 
-These businesses can help you request a refund. They will fill the forms and request the refund for you. They can also check how much money you will get back.{{ fail_on('2025-06-01') }}
+These businesses can help you request a refund. They will fill the forms and request the refund for you. They can also check how much money you will get back.{{ fail_on('2025-12-01') }}
 
 - **[Pension Refund Germany](/out/pension-refund-germany)**{{ RECOMMENDED }}  
     Their fee is {{ PENSIONREFUNDGERMANY_FEE }}% of your refund (maximum fee {{PENSIONREFUNDGERMANY_MAX_FEE|cur}}€).[^31]

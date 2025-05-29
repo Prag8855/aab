@@ -64,11 +64,11 @@ If you only stay in Berlin for a few months, you can rent a bicycle instead.
     Recycled and refurbished bicycles. Cheaper than Swapfiets, with more flexible contracts. Maintenance and repairs are included in the price.
 - **[Bikesurf](https://www.bikesurf.org/)**  
     Borrow a bike, pay what you can.
-- **Bike sharing**  
+- **Bike sharing**{{ fail_on('2025-03-01') }}  
     Some bike sharing services let you rent a bike for less than a day, only when you need it.
     - **[Jelbi](https://www.jelbi.de/en/home/)**{{ RECOMMENDED }} - Rent bikes, scooters and cars from different services
     - [Nextbike](https://www.nextbike.de/en/) and [Call a Bike](https://www.callabike.de/en/cities-berlin/) - Regular bikes. Also in the [Jelbi](https://www.jelbi.de/en/home/) app. 
-    - [Lime](https://www.li.me/vehicles), [Tier](https://www.tier.app/en/) and [Bolt](https://bolt.eu/en-de/ebikes/) - Electric bikes. Also in the [Jelbi](https://www.jelbi.de/en/home/) app. 
+    - [Lime](https://www.li.me/vehicles), [Dott](https://ridedott.com/) and [Bolt](https://bolt.eu/en-de/ebikes/) - Electric bikes. Also in the [Jelbi](https://www.jelbi.de/en/home/) app. 
     - [fLotte](https://flotte-berlin.de/) - Free cargo bike rental
     - [Cargoroo](https://cargoroo.nl/en/cargoroo-cities/#Berlijn) - Cargo bikes. Also in the [Jelbi](https://www.jelbi.de/en/home/) app.
 

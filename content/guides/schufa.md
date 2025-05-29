@@ -24,7 +24,7 @@ A score above 95% is good enough.[^4]
 There are 2 versions of the Schufa:[^5]
 
 - **The [paid version](/out/meineschufa)** (*Bonitätsauskunft*)  
-    It costs {{SCHUFA_REPORT_FEE|cur}}€. It looks more official, so landlords prefer it.[^7] You can get it online now, or by post in 1 to 3 days.
+    It costs {{SCHUFA_REPORT_FEE|cur}}€. It looks more official, so landlords prefer it.[^7] You can get it online now (as a PDF), or by post in 1 to 3 days. You must verify your documents with your phone or computer camera. It works with most passports.[^12]
 - **The [free version](https://www.meineschufa.de/de/datenkopie)** (*Datenkopie*)  
     It has the same information, but they make it look worse:[^3]
     - It's harder to read. Your score is mixed with your private information. You must censor it before you share it.[^6]
@@ -33,7 +33,7 @@ There are 2 versions of the Schufa:[^5]
 
 The paid version is better for apartment applications; it's what landlords expect.[^7] The free version is better for your own use.
 
-You can also get a Schufa from [ImmoScout24](https://bonitaetscheck.immobilienscout24.de/). It costs {{SCHUFA_REPORT_FEE|cur}}€. If you have a [premium membership](https://www.immobilienscout24.de/meinkonto/premium-mitgliedschaft/), you pay 20% to 50% less. It does not work for everyone. You must verify your identity with your bank, and some banks are not supported.{{ fail_on('2025-06-01') }}
+You can also get a Schufa from [ImmoScout24](https://bonitaetscheck.immobilienscout24.de/). It costs {{SCHUFA_REPORT_FEE|cur}}€. If you have a [premium membership](https://www.immobilienscout24.de/meinkonto/premium-mitgliedschaft/), you pay 20% to 50% less. It does not work for everyone. You must verify your identity with your bank, and some banks are not supported.{{ fail_on('2025-12-01') }}
 
 The [Bonify app](https://www.bonify.de/) shows the same information as the free Schufa report.[^10] The app does not work well, tries to sell you financial products, and is a privacy risk.[^8] I don't recommend it.
 
@@ -82,3 +82,4 @@ Get a [free report](https://www.meineschufa.de/de/datenkopie) every year, and ch
 [^9]: [verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/digitale-welt/datenschutz/scoring-mit-kundendaten-so-verlangen-sie-auskunft-bei-schufa-co-12756#:~:text=wichtig%3A%20falsche%20daten%20korrigieren)
 [^10]: [Schufa](https://www.schufa.de/newsroom/schufa/bonify-app-schufa-basisscore-einsehen/#:~:text=nein%2C%20bei%20bonify%20wird%20nur%20der%20schufa-basisscore%20angezeigt%2C%20den%20man%20auch%20auf%20der%20kostenlosen%20datenkopie%20findet.%20) (January 2025)
 [^11]: Graham Pugh, [apartment search expert](https://www.berlinrelo.de/) (February 2025)
+[^12]: [idnow.com](https://www.idnow.io/wp-content/uploads/IDCheck.io-Document-Coverage-Release-25.03.0-PUBLIC.pdf?utm_source=chatgpt.com) (March 2025), [idnow.com](https://www.idnow.io/wp-content/uploads/Allowed-Docs-AI-Signing.pdf) (May 2025)
