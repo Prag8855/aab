@@ -77,11 +77,11 @@
 		</ul>
 
 		<p v-if="language === 'en'">
-			<template v-if="hasPaidFee">I have already paid the fee of {% endraw %}{{ BESCHEINIGUNG_IN_STEUERSACHEN_FEE|cur }}€{% raw %} on {{ currentDate.toLocaleDateString("en-US") }}. </template>
+			<template v-if="hasPaidFee">I have already paid the fee of {% endraw %}€{{ BESCHEINIGUNG_IN_STEUERSACHEN_FEE|cur }}{% raw %} on {{ currentDate.toLocaleDateString("en-US") }}. </template>
 			Please issue the requested document to my home address as soon as possible.
 		</p>
 		<p v-if="language === 'de'">
-			<template v-if="hasPaidFee">Ich habe die Gebühr von {% endraw %}{{ BESCHEINIGUNG_IN_STEUERSACHEN_FEE|cur }}€{% raw %} bereits am {{ currentDate.toLocaleDateString("de-DE") }} bezahlt. </template>
+			<template v-if="hasPaidFee">Ich habe die Gebühr von {% endraw %}€{{ BESCHEINIGUNG_IN_STEUERSACHEN_FEE|cur }}{% raw %} bereits am {{ currentDate.toLocaleDateString("de-DE") }} bezahlt. </template>
 			Bitte stellen Sie die angeforderte Bescheinigung so schnell wie möglich an meine Privatadresse aus.
 		</p>
 
@@ -131,7 +131,7 @@
 				<label class="checkbox">
 					<input type="checkbox" v-model="hasPaidFee">
 					<div>
-						I already transferred {% endraw %}{{ BESCHEINIGUNG_IN_STEUERSACHEN_FEE|cur }}€{% raw %} to the <em>Finanzamt</em>(optional)
+						I already transferred {% endraw %}€{{ BESCHEINIGUNG_IN_STEUERSACHEN_FEE|cur }}{% raw %} to the <em>Finanzamt</em>(optional)
 					</div>
 				</label>
 			</div>

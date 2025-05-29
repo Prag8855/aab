@@ -138,7 +138,7 @@ function calculateTax(yearlyIncome, opts) {
 	// TODO: Steuerklassen - Defined by § 38b
 	// - sk1: single
 	// - sk2: single parent
-	//   - Entlastungsbetrag für Alleinerziehende of 4008€ (+240 per extra child) - Alleinerziehendenentlastungsbetrag
+	//   - Entlastungsbetrag für Alleinerziehende of €4008 (+240 per extra child) - Alleinerziehendenentlastungsbetrag
 	// - sk3: married, earns more than spouse
 	//   - Freibetrag für Betreuung, Erziehung und Ausbildung in Höhe von 2.928
 	//   - Splittingverfahren all the time?
@@ -149,7 +149,7 @@ function calculateTax(yearlyIncome, opts) {
 	// - sk6: Students/retirees with a Nebenjob
 	//   - No Freibetrag
 
-	// Kinderfreibetrag: 8388€ limit? https://www.kinderinfo.de/kindergeld/kinderfreibetrag/#Dank-dem-Kinderfreibetrag-weniger-Steuern-zahlen
+	// Kinderfreibetrag: €8388 limit? https://www.kinderinfo.de/kindergeld/kinderfreibetrag/#Dank-dem-Kinderfreibetrag-weniger-Steuern-zahlen
 
 	// Class 3+5: the higher earner gets double the freibetrag, and the low earner no freibetrag
 

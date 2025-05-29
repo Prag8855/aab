@@ -21,10 +21,10 @@ Vue.component('eur', {
 			<span class="currency" :data-currencies="tooltipText">{{ value }}</span>
 		</template>
 		<template v-else-if="!tooltipText">
-			<span class="currency">{{ value }}&nbsp;€</span>
+			<span class="currency">€{{ value }}</span>
 		</template>
 		<template v-else>
-			<span><span class="currency" :data-currencies="tooltipText">{{ value }}</span>&nbsp;€</span>
+			<span>€<span class="currency" :data-currencies="tooltipText">{{ value }}</span></span>
 		</template>
 	`,
 });

@@ -277,8 +277,7 @@
 				{{ salaryOrIncome === 'salary' ? 'Salary' : 'Income' }}
 			</label>
 			<div class="input-group">
-				<income-input :id="uid('income')" v-model="inputIncome"></income-input>
-				€
+				<income-input :id="uid('income')" v-model="inputIncome"></income-input>&nbsp;€
 				<button class="toggle" @click="toggleUseMonthlyIncome">per {{ monthOrYear }}</button>
 			</div>
 		</div>

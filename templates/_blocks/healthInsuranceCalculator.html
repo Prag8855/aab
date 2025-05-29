@@ -262,8 +262,7 @@
 				{{ salaryOrIncome }}
 			</label>
 			<div class="input-group">
-				<income-input :id="uid('income')" v-model="inputIncome"></income-input>
-				€
+				<income-input :id="uid('income')" v-model="inputIncome"></income-input>&nbsp;€
 				<button class="toggle" @click="useMonthlyIncome = !useMonthlyIncome">per {{ useMonthlyIncome ? 'month' : 'year' }}</button>
 				<span class="no-mobile">before taxes</span>
 			</div>

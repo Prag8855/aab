@@ -232,7 +232,7 @@
 		<div class="form-group">
 			<label :for="uid('kautionAmount') + '-day'">Deposit amount</label>
 			<div class="input-group">
-				<income-input :id="uid('kautionAmount')" v-model="kautionAmount"></income-input>€
+				<income-input :id="uid('kautionAmount')" v-model="kautionAmount"></income-input>&nbsp;€
 			</div>
 			<label class="checkbox">
 				<input type="checkbox" v-model="hasReceivedPartOfKaution">
@@ -241,7 +241,7 @@
 				</div>
 			</label>
 			<div class="input-group" v-if="hasReceivedPartOfKaution">
-				<income-input v-model="remainingKautionAmount"></income-input>€ left to pay
+				<income-input v-model="remainingKautionAmount"></income-input>€&nbsp;left&nbsp;to&nbsp;pay
 			</div>
 		</div>
 		<div class="form-group">

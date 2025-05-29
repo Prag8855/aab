@@ -22,9 +22,9 @@ function formatCurrency(num, includeCents=false, currency='€', html=false, loc
 	}
 
 	if(html) {
-		return `<span class="currency" data-currencies="${getCurrencyTooltipText(formattedNum)}">${formattedNum}</span>${currency ? '&nbsp;' : ''}${currency || ''}`;
+		return `${currency || ''}<span class="currency" data-currencies="${getCurrencyTooltipText(formattedNum)}">${formattedNum}</span>`;
 	}
-	return currency ? `${formattedNum} ${currency}` : formattedNum;
+	return currency ? `${currency}${formattedNum}` : formattedNum;
 }
 
 /* Currency conversion tooltips */

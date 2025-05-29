@@ -2,11 +2,11 @@ describe('formatCurrency', () => {
 	const testCases = [
 		{
 			args: [1234567.89, true],
-			output: '1,234,567.89 €',
+			output: '€1,234,567.89',
 		},
 		{
 			args: [1234567.89, true, '$'],
-			output: '1,234,567.89 $',
+			output: '$1,234,567.89',
 		},
 		{
 			args: [1234567.89, true, null],
@@ -14,27 +14,27 @@ describe('formatCurrency', () => {
 		},
 		{
 			args: [1234567.89, false],
-			output: '1,234,568 €',
+			output: '€1,234,568',
 		},
 		{
 			args: [1234567.89, false, '$'],
-			output: '1,234,568 $',
+			output: '$1,234,568',
 		},
 		{
 			args: [567.89, false],
-			output: '568 €',
+			output: '€568',
 		},
 		{
 			args: [567.89, true],
-			output: '567.89 €',
+			output: '€567.89',
 		},
 		{
 			args: [4567.89, false],
-			output: '4,568 €',
+			output: '€4,568',
 		},
 		{
 			args: [4567.89, true],
-			output: '4,567.89 €',
+			output: '€4,567.89',
 		},
 		{
 			args: [1234567.89, false, null],
