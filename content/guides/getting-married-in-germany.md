@@ -17,7 +17,7 @@ Usually, it takes 2 to 10 months.[^3] It costs a few hundred euros.
 
 People often [get married in Denmark](#get-married-in-denmark) because it's cheaper, faster and easier.
 
-## How much does it cost?
+## Cost of getting married in Germany
 
 **A few hundred euros.** It costs more if you were born in another country or if you don't speak German, because you need expensive certified translations for everything.[^7] If you don't speak German, you also need a sworn interpreter for your *Standesamt* appointment.
 

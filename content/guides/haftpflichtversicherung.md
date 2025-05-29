@@ -64,9 +64,9 @@ Most insurance policies do not cover...
 
 83% of German homes have liability insurance.[^16] It's the most important type of insurance after [health insurance](/glossary/Krankenversicherung).
 
-## How much does it cost?
+## Cost of liability insurance
 
-It usually costs **less than 5€ per month**, or around 60€ per year. You can pay less if you get multiple insurances from the same company.
+It usually costs **around 5€ per month**, or around 60€ per year. You can pay less if you get multiple insurances from the same company.
 
 ## The best liability insurance
 

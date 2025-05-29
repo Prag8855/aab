@@ -28,11 +28,11 @@ Children can go to the *Kita* for up to 9 hours for free. It depends on their ag
 
 If you want your child to spend more hours at the *Kita* than allowed, you must prove that your working hours make it necessary.[^1] If you work situation changes, you can apply for more *Kita* hours later.
 
-## How much does a Kitagutschein cost?
+## Cost of a Kitagutschein
 
-The *Kitagutschein* is free for everyone. However, some Kitas will charge extra for meals and activities. You can find more details about *Kita* costs [here](/guides/how-to-find-a-kita-in-berlin#how-much-does-kita-cost). Typically, you will pay around 23€ per month for meals, and 60€ to 90€ per month for activities.
+The *Kitagutschein* is free for everyone. However, some Kitas will charge extra for meals and activities. You can find more details about *Kita* costs [here](/guides/how-to-find-a-kita-in-berlin#cost-of-kita). Typically, you will pay around 23€ per month for meals, and 60€ to 90€ per month for activities.
 
-## When should you apply for a Kitagutschein?
+## When to apply for a Kitagutschein
 
 You need to apply for the *Kitagutschein* **from 2 to 9 months before your desired start date**.[^2] Your child must be at least 8 weeks old.[^2]
 

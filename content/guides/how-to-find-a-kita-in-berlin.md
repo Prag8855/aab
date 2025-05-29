@@ -14,7 +14,7 @@ You must go through a few steps before your child can go to a *Kita* in Berlin.
 
 {% include "_blocks/tableOfContents.html" %}
 
-## How much does Kita cost?
+## Cost of Kita
 
 **Attending Kita is free**, but food, special activities and language lessons can cost extra. The food usually costs 23€ per month.[^0] The cost of activities can cost 60 to 90€ per month, depending on the *Kita*.
 

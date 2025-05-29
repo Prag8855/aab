@@ -15,7 +15,7 @@ I was a TK customer from 2015 to 2021. I had their health insurance as an intern
 
 **Techniker Krankenkasse** (or TK) is a [public health insurance](/glossary/gesetzliche%20Krankenversicherung) company (*Krankenkasse*) in Germany. It's the largest health insurer in the country, with 10.4 million members.[^0] TK is a non-profit company, like all public health insurers in Germany. It's just a little larger than [Barmer](/out/barmer), the second largest *Krankenkasse*.
 
-## How much does TK health insurance cost?
+## Cost of TK health insurance
 
 Your health insurance contributions depend on your income, and your situation. All public health insurers in Germany charge almost the same prices. TK is not the cheapest or the most expensive; it's just average.
 

@@ -69,7 +69,7 @@ To add a lawyer, [fill this form](/suggest-business).
 
 {% include '_blocks/relatedPlaces.html' %}
 
-## How much does a lawyer cost?
+## Cost of a lawyer
 
 **Around 200€ per hour.**[^0] If you have [legal insurance](/guides/legal-insurance), it will pay for the lawyer.
 

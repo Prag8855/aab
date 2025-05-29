@@ -35,7 +35,7 @@ This guide explains how to get tested for sexually transmitted diseases in Berli
 
 **[More testing options](https://www.hivandmore.de/aerzteverzeichnis/index.shtml)** - hivandmore.de
 
-## How much does a test cost?
+## Cost of STD testing in Berlin
 
 If the test is not covered by your health insurance, it costs **between 10€ and 60€**. Complete tests cost more. If you have a low income, you can get tested for free at the *[Gesundheitsamt](https://service.berlin.de/dienstleistung/325457/)*.
 

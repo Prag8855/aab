@@ -99,7 +99,7 @@ You can't use your legal insurance as soon as you get it. There is usually a 3 t
 4. **Solve the problem**  
     Now, you know your options, and you know that your insurance covers the cost. You can do what you need to do, and solve your legal problem.
 
-## How much does legal insurance cost?
+## Cost of legal insurance
 
 **16€ to 24€ per month**.[^20] The cost depends on a few things:[^20]
 
