@@ -11,10 +11,11 @@ Related_guides:
     guides/ksk-kuenstlersozialkasse.md
 ---
 
-A *Mitgliedsbescheinigung* proves that you have [health insurance](/glossary/Krankenversicherung). You get this document from your health insurer after you [choose health insurance](/guides/german-health-insurance).
+A *Mitgliedsbescheinigung* or *Versicherungsbescheinigung* proves that you have [health insurance](/glossary/Krankenversicherung). You get this document from your health insurer after you [choose health insurance](/guides/german-health-insurance).
 
 You need a *Mitgliedsbescheinigung* to...
 
+- Apply for a [[National Visa]]
 - [Apply for a residence permit](/guides/residence-permit)
 - [Join the Künstlersozialkasse](/guides/ksk-kuenstlersozialkasse)
 
