@@ -54,7 +54,7 @@ If you are **not** a citizen of {{ BESCHV_26_1_COUNTRIES }}, you must have...[^4
 
 If you are over 45 years old, you must have...[^43]
 
-- [ ] A [net salary](/glossary/Netto%20income) of at least {{ WORK_VISA_MIN_INCOME|cur }}€ per year
+- [ ] A [net salary](/glossary/Netto%20income) of at least €{{ WORK_VISA_MIN_INCOME|cur }} per year
 - [ ] **or** a pension plan that guarantees an income after retirement {# Give exact amount #}
 
 **You do not need to speak German** to get a work visa.[^27]
@@ -143,7 +143,7 @@ You must apply for the work visa online. You do not need an *[[Ausländerbehörd
 
 **[Apply for the work visa ➞](/out/auslanderbehorde-work-visa)**
 
-It costs {{NATIONAL_VISA_FEE|cur}}€. It's cheaper for Turkish citizens. You can pay with Visa, Mastercard or PayPal. You can't pay with cash or [[Girocard]].[^8] The fee is [tax-deductible](/glossary/steuerlich%20absetzbar), so keep the receipt.
+It costs €{{NATIONAL_VISA_FEE|cur}}. It's cheaper for Turkish citizens. You can pay with Visa, Mastercard or PayPal. You can't pay with cash or [[Girocard]].[^8] The fee is [tax-deductible](/glossary/steuerlich%20absetzbar), so keep the receipt.
 
 If you have too many documents, [merge them](https://www.adobe.com/acrobat/online/merge-pdf.html) or [make them smaller](https://www.adobe.com/acrobat/online/compress-pdf.html).
 
@@ -191,7 +191,7 @@ You can also apply for a work visa in your country, then move to Germany. This i
 
 You must [find a job](/guides/find-a-job-in-berlin) before you apply.[^15] Your job offer must meet the [work visa requirements](#work-visa-requirements). If you don't have a job offer, you can get an [opportunity card](/glossary/Chancenkarte), come to Germany, find a job, then apply for a work visa in Germany.
 
-**To get a work visa faster**, use the [fast-track procedure](https://www.make-it-in-germany.com/en/looking-for-foreign-professionals/entering/the-fast-track-procedure-for-skilled-workers) (*Beschleunigtes Verfahren*). It costs {{FAST_TRACK_FEE|cur}}€.
+**To get a work visa faster**, use the [fast-track procedure](https://www.make-it-in-germany.com/en/looking-for-foreign-professionals/entering/the-fast-track-procedure-for-skilled-workers) (*Beschleunigtes Verfahren*). It costs €{{FAST_TRACK_FEE|cur}}.
 
 **[How to apply in your country ➞](/guides/residence-permit#how-to-apply-in-your-country)**
 

@@ -13,10 +13,10 @@ If you are voluntarily insured (*freiwillig versichert*), you can choose [public
 
 You are *freiwillig versichert* if...
 
-- You are an employee, and you earn over {{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}}€ per year
+- You are an employee, and you earn over €{{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}} per year
 - or you are self-employed
 - or you are a student
-- or your total income is under {{GKV_FAMILIENVERSICHERUNG_MAX_INCOME|cur}}€ per month
+- or your total income is under €{{GKV_FAMILIENVERSICHERUNG_MAX_INCOME|cur}} per month
 - or you have a [[Minijob]]
 - or you are a civil servant (*Beamter*)
 - or you are a doctor

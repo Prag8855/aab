@@ -39,7 +39,7 @@ Income from investments is taxed differently.[^3] You pay:
 
 All German residents pay income tax (*[[Einkommensteuer]]*). This tax is a percentage of your income. It's a progressive tax, so if you earn more, you pay a bigger percentage of your income.[^2]
 
-If you earn less than {{GRUNDFREIBETRAG|cur}}€ per year, you pay no income tax. If you earn the [median income](/guides/salaries-in-germany#median-income), your income tax is around 18% of your income. The maximum income tax is {{INCOME_TAX_MAX_RATE}}% of your income.[^0]
+If you earn less than €{{GRUNDFREIBETRAG|cur}} per year, you pay no income tax. If you earn the [median income](/guides/salaries-in-germany#median-income), your income tax is around 18% of your income. The maximum income tax is {{INCOME_TAX_MAX_RATE}}% of your income.[^0]
 
 **If you are an employee**, you pay a salary tax (*[[Lohnsteuer]]*) on every paycheck. This is a prepayment of your *estimated* income tax. If you pay too much salary tax, you can make a [tax declaration](/glossary/Steuererklärung) and get money back.
 
@@ -55,7 +55,7 @@ There are three types of health insurance:
 - [Private health insurance](/glossary/private%20Krankenversicherung). The cost is set by the health insurer.
 - [[Expat health insurance]]. The cost is set by the health insurer.
 
-If you are an employee, your employer pays half of it. If you earn less than {{GKV_FAMILIENVERSICHERUNG_MAX_INCOME|cur}}€ per month, you can use your parents' or spouse's health insurance for free. Students get a cheaper tariff.
+If you are an employee, your employer pays half of it. If you earn less than €{{GKV_FAMILIENVERSICHERUNG_MAX_INCOME|cur}} per month, you can use your parents' or spouse's health insurance for free. Students get a cheaper tariff.
 
 {% include '_blocks/healthInsuranceCalculator.html' %}
 
@@ -93,13 +93,13 @@ You stop paying church tax by leaving the church.
 
 ### Solidarity surcharge
 
-If you pay more than {{SOLIDARITY_TAX_MILDERUNGSZONE_MIN_INCOME_TAX|cur}}€ per year in [income tax](/glossary/Einkommensteuer), you must pay a solidarity surcharge (*[[Solidaritätszuschlag]]*). It's a percentage of your income tax.
+If you pay more than €{{SOLIDARITY_TAX_MILDERUNGSZONE_MIN_INCOME_TAX|cur}} per year in [income tax](/glossary/Einkommensteuer), you must pay a solidarity surcharge (*[[Solidaritätszuschlag]]*). It's a percentage of your income tax.
 
 **[German tax calculator ➞](/tools/tax-calculator)**
 
 ### Capital gains tax
 
-If you make money from investments, you pay a {{CAPITAL_GAINS_TAX_RATE}}% tax on income on all profit above {{CAPITAL_GAINS_FREIBETRAG|cur}}€ per year. This is the capital gains tax (*[[Kapitalertragsteuer]]*). It applies to profit, interests and dividends from stocks, ETFs and other financial investments.
+If you make money from investments, you pay a {{CAPITAL_GAINS_TAX_RATE}}% tax on income on all profit above €{{CAPITAL_GAINS_FREIBETRAG|cur}} per year. This is the capital gains tax (*[[Kapitalertragsteuer]]*). It applies to profit, interests and dividends from stocks, ETFs and other financial investments.
 
 Revenue from cryptocurrencies is not taxed as an investment, but as a private transaction.[^4]
 

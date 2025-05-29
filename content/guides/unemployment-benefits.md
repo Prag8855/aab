@@ -68,7 +68,7 @@ A *Sperrzeit* means that you get less *ALG I* in total. For example, if you have
 
 ## How much money do I get?
 
-You get **60% of your [gross income](/glossary/Brutto%20income)** (67% if you have children),[^5] and free [health insurance](/glossary/Krankenversicherung).[^3] They use your average gross income of the last 12 months, including bonuses.[^12] They ignore your income above {{BEITRAGSBEMESSUNGSGRENZE|cur}}€ per year.
+You get **60% of your [gross income](/glossary/Brutto%20income)** (67% if you have children),[^5] and free [health insurance](/glossary/Krankenversicherung).[^3] They use your average gross income of the last 12 months, including bonuses.[^12] They ignore your income above €{{BEITRAGSBEMESSUNGSGRENZE|cur}} per year.
 
 **[Unemployment benefits calculator](https://www.pub.arbeitsagentur.de/start.html)** (in German) - Agentur für Arbeit
 

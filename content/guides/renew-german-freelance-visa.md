@@ -39,7 +39,7 @@ When you renew your freelance visa, they verify that...
 - [ ] **You have valid health insurance**  
     This time, you can't have cheap [expat health insurance](/glossary/Expat%20health%20insurance). You must have valid public or private health insurance. - [More information ➞](#get-valid-health-insurance).
 - [ ] **You have a retirement plan**  
-    If you are over 45 years old, you must prove that you will get a pension of at least {{FREELANCE_VISA_MIN_MONTHLY_PENSION|cur}}€ per month for at least 12 years, or that you have {{FREELANCE_VISA_MIN_PENSION|cur}}€ in assets.[^0] This is not required for citizens of the Dominican Republic, Indonesia, Japan, Philippines, Sri Lanka, Turkey and the United States.[^1]
+    If you are over 45 years old, you must prove that you will get a pension of at least €{{FREELANCE_VISA_MIN_MONTHLY_PENSION|cur}} per month for at least 12 years, or that you have €{{FREELANCE_VISA_MIN_PENSION|cur}} in assets.[^0] This is not required for citizens of the Dominican Republic, Indonesia, Japan, Philippines, Sri Lanka, Turkey and the United States.[^1]
 
 If you don't meet those requirements, you can't renew your freelance visa.
 
@@ -157,7 +157,7 @@ Bring these documents to your visa interview. [The official list of documents](h
         - [ ] **and a copy of your trade certificate** (*[[Gewerbeschein]]*)  
             You get this document during your business registration (*[[Gewerbeanmeldung]]*).
         - [ ] **and a [certificate of tax matters](/guides/bescheinigung-in-steuersachen)** (*Bescheinigung in Steuersachen* or *Unbedenklichkeitsbescheinigung*)  
-            It proves that you paid your taxes on time. [Request it from the *Finanzamt*.](/guides/bescheinigung-in-steuersachen) It costs {{ BESCHEINIGUNG_IN_STEUERSACHEN_FEE|cur }}€. It arrives in 1 to 3 weeks.[^8]
+            It proves that you paid your taxes on time. [Request it from the *Finanzamt*.](/guides/bescheinigung-in-steuersachen) It costs €{{ BESCHEINIGUNG_IN_STEUERSACHEN_FEE|cur }}. It arrives in 1 to 3 weeks.[^8]
     - **If you are a freelancer** (*[[Freiberufler]]*), you don't need a *[[Prüfungsbericht]]*.[^9] Bring these documents instead:
         - [ ] **Income tax assessments** (*[[Steuerbescheid]]*)  
             If possible, bring *Steuerbescheide* of the last 2-3 years, not just the latest one.
@@ -179,7 +179,7 @@ Bring these documents to your visa interview. [The official list of documents](h
     - [ ] **and proof of monthly payments**  
         Bring a document that shows how much you pay for health insurance. For example, bank transactions that show health insurance payments. This is not officially required, but they sometimes ask for it. Your tax advisor might also need it for your *[[Prüfungsbericht]]*.
 - [ ] **Proof of retirement savings**  
-    If you are over 45 years old, you must prove that you will get a pension of at least {{FREELANCE_VISA_MIN_MONTHLY_PENSION|cur}}€ per month for at least 12 years, or that you have {{FREELANCE_VISA_MIN_PENSION|cur}}€ in assets.
+    If you are over 45 years old, you must prove that you will get a pension of at least €{{FREELANCE_VISA_MIN_MONTHLY_PENSION|cur}} per month for at least 12 years, or that you have €{{FREELANCE_VISA_MIN_PENSION|cur}} in assets.
     - If you are a citizen of the Dominican Republic, Indonesia, Japan, the Philippines, Sri Lanka, Turkey or the United States, you do not need this proof.
     - If you are under 46 years old, you do not need this proof.
 - [ ] **Proof of residence in Berlin**  
@@ -195,12 +195,12 @@ Bring these documents to your visa interview. [The official list of documents](h
 
 ### How much does it cost?
 
-A freelance visa renewal costs **{{NATIONAL_VISA_RENEWAL_FEE|cur}}€**. It's cheaper for Turkish citizens.[^12] If you get a *[[Fiktionsbescheinigung]]*, it might cost €13.[^13]
+A freelance visa renewal costs **€{{NATIONAL_VISA_RENEWAL_FEE|cur}}**. It's cheaper for Turkish citizens.[^12] If you get a *[[Fiktionsbescheinigung]]*, it might cost €13.[^13]
 
 Some of the [required documents](/guides/renew-german-freelance-visa#required-documents) also cost money:{{ fail_on('2026-06-01') }}
 
 - *Aktuelle Handelsregisterauszug*: €10 if you need it[^7]
-- *Bescheinigung in Steuersachen*: {{ BESCHEINIGUNG_IN_STEUERSACHEN_FEE|cur }}€[^8]
+- *Bescheinigung in Steuersachen*: €{{ BESCHEINIGUNG_IN_STEUERSACHEN_FEE|cur }}[^8]
 - *[[Gewerbeschein]]*: €15 to €31, but you probably have it already[^14]
 - *[[Prüfungsbericht]]*: up to €800[^11] - [Tax Germany](/out/taxgermany) is cheaper
 - *[[Netto-Gewinnermittlung]]*: €100 to €150
@@ -224,7 +224,7 @@ If you have a freelance visa, you qualify for [permanent residence](/glossary/Ni
 
 **[How to apply for permanent residence ➞](/guides/permanent-residence)**
 
-If you plan to become a permanent resident, you should make voluntary [public pension](/glossary/gesetzliche%20Rentenversicherung) payments. You usually need 60 months of pension payments to qualify for permanent residence. The minimum payment is {{RV_MIN_CONTRIBUTION|cur}}€ per month. A private pension can also work.
+If you plan to become a permanent resident, you should make voluntary [public pension](/glossary/gesetzliche%20Rentenversicherung) payments. You usually need 60 months of pension payments to qualify for permanent residence. The minimum payment is €{{RV_MIN_CONTRIBUTION|cur}} per month. A private pension can also work.
 
 **[Pension requirements for the PR ➞](/guides/permanent-residence#pension-requirements)**
 

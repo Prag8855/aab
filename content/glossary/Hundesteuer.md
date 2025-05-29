@@ -13,6 +13,6 @@ Related_guides:
 
 When you have a dog in Berlin, you must add them to the dog register (*[[Hunderegister]]*) and pay a dog tax (*Hundesteuer*).
 
-It costs **{{HUNDESTEUER_FIRST_DOG|cur}}€/year** for one dog, and {{HUNDESTEUER_MORE_DOGS|cur}}€ per year for each extra dog.
+It costs **€{{HUNDESTEUER_FIRST_DOG|cur}}/year** for one dog, and €{{HUNDESTEUER_MORE_DOGS|cur}} per year for each extra dog.
 
 **[Berlin dog owner guide ➞](/guides/dog-ownership)**

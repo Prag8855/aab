@@ -9,7 +9,7 @@ Related_guides:
     guides/german-health-insurance.md
 ---
 
-In Germany, a minijob is a job that pays {{MINIJOB_MAX_INCOME|cur}}€ per month or less.[^0]
+In Germany, a minijob is a job that pays €{{MINIJOB_MAX_INCOME|cur}} per month or less.[^0]
 
 Minijobs have a few benefits:
 

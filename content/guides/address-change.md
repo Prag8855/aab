@@ -36,7 +36,7 @@ The *Bürgeramt* will share your new address with...
 - **The church**  
     If you pay the [church tax](/glossary/Kirchensteuer), your church will know about your address change.
 - **The [[Kfz-Zulassungsstelle]]**  
-    Bring your [vehicle registration papers](/glossary/Zulassungsbescheinigung) to your *Anmeldung* appointment. They will put a sticker on them with your new address. It costs {{VEHICLE_UMMELDUNG_FEE|cur}}€ per vehicle. You can also [change your vehicle's address online](https://service.berlin.de/dienstleistung/120918/).
+    Bring your [vehicle registration papers](/glossary/Zulassungsbescheinigung) to your *Anmeldung* appointment. They will put a sticker on them with your new address. It costs €{{VEHICLE_UMMELDUNG_FEE|cur}} per vehicle. You can also [change your vehicle's address online](https://service.berlin.de/dienstleistung/120918/).
 
 ## Notify everyone
 

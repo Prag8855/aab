@@ -41,9 +41,9 @@ In Germany, you pay [around 35% of your salary](/tools/tax-calculator) in taxes 
 
 ### Median income
 
-The median income **in Germany** was {{MEDIAN_INCOME_GERMANY|cur}}€ per year before taxes.
+The median income **in Germany** was €{{MEDIAN_INCOME_GERMANY|cur}} per year before taxes.
 
-The median income **in Berlin** was {{MEDIAN_INCOME_BERLIN|cur}}€ per year before taxes.[^1]
+The median income **in Berlin** was €{{MEDIAN_INCOME_BERLIN|cur}} per year before taxes.[^1]
 
 This is only for full-time employees. The median income for all German residents is much lower: in 2019, it was €2109 per month.[^6] The median income for immigrants is lower.
 
@@ -55,7 +55,7 @@ This is only for full-time employees. The median income for all German residents
 
 ### Minimum wage
 
-The minimum wage (*[[Mindestlohn]]*) in Germany is **{{MINIMUM_WAGE|cur}}€ per hour**.[^3] [Some professions](https://www.destatis.de/DE/Themen/Arbeit/Verdienste/Mindestloehne/Tabellen/mindestlohn-deutschland.html) have a higher minimum wage (*Branchenmindestlohn*).
+The minimum wage (*[[Mindestlohn]]*) in Germany is **€{{MINIMUM_WAGE|cur}} per hour**.[^3] [Some professions](https://www.destatis.de/DE/Themen/Arbeit/Verdienste/Mindestloehne/Tabellen/mindestlohn-deutschland.html) have a higher minimum wage (*Branchenmindestlohn*).
 
 Around 4% of jobs pay the minimum wage.[^4]
 

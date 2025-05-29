@@ -19,13 +19,13 @@ This guide explains what all dog owners in Berlin must know. The rules can be di
 
 ### Dog register
 
-You must register your dog in the *[[Hunderegister]]*. It costs {{HUNDEREGISTER_FEE|cur}}€. This is how you register for the [dog tax](/glossary/Hundesteuer).
+You must register your dog in the *[[Hunderegister]]*. It costs €{{HUNDEREGISTER_FEE|cur}}. This is how you register for the [dog tax](/glossary/Hundesteuer).
 
 **[Register your dog](https://hunderegister.berlin.de/)** - Berlin.de
 
 ### Dog tax
 
-After you register your dog, you will pay the dog tax (*[[Hundesteuer]]*) by automatic [bank transfer](/glossary/SEPA-Lastschriftmandat). The dog tax is {{HUNDESTEUER_FIRST_DOG|cur}}€ per year for one dog, and {{HUNDESTEUER_MORE_DOGS|cur}}€ per year for each extra dog.
+After you register your dog, you will pay the dog tax (*[[Hundesteuer]]*) by automatic [bank transfer](/glossary/SEPA-Lastschriftmandat). The dog tax is €{{HUNDESTEUER_FIRST_DOG|cur}} per year for one dog, and €{{HUNDESTEUER_MORE_DOGS|cur}} per year for each extra dog.
 
 ### Identification chip
 
@@ -43,7 +43,7 @@ If you have a *[[Hundeführerschein]]*, your dog must also wear its green tag (*
 
 You must [register dogs of dangerous breeds at the *Ordnungsamt*](https://service.berlin.de/dienstleistung/326263/). Pitbulls, American Staffordshire Terriers and Bull Terriers are considered dangerous breeds.[^3]
 
-This costs {{ORDNUNGSAMT_DANGEROUS_DOG_FEE|cur}}€. If you move, you must also report the address change. If you leave Berlin, you must [deregister your dog](https://service.berlin.de/dienstleistung/326257/) at the *Ordnungsamt*.
+This costs €{{ORDNUNGSAMT_DANGEROUS_DOG_FEE|cur}}. If you move, you must also report the address change. If you leave Berlin, you must [deregister your dog](https://service.berlin.de/dienstleistung/326257/) at the *Ordnungsamt*.
 
 **[Register a dangerous breed](https://service.berlin.de/dienstleistung/326263/)** - Berlin.de
 
@@ -55,7 +55,7 @@ To walk your dog without a leash, you need a dog handler certificate (*[[Hundef�
 
 **[List of certified dog trainers in Berlin](http://www.berlin.de/ba-neukoelln/politik-und-verwaltung/aemter/ordnungsamt/sachverstaendigenliste-stand-20161201-extern.pdf)** (2016, in German) - Berlin.de
 
-When you pass the exam, you receive a certificate (*Sachkundenachweis für Hundehalter*). You can then [apply for the *Hundeführerschein*](https://service.berlin.de/dienstleistung/121822/) at the local *Bezirksamt*. This costs {{HUNDEFUHRERSCHEIN_FEE|cur}}€.[^6]
+When you pass the exam, you receive a certificate (*Sachkundenachweis für Hundehalter*). You can then [apply for the *Hundeführerschein*](https://service.berlin.de/dienstleistung/121822/) at the local *Bezirksamt*. This costs €{{HUNDEFUHRERSCHEIN_FEE|cur}}.[^6]
 
 **[Apply for the Hundeführerschein](https://service.berlin.de/dienstleistung/121822/)** (in German) - Berlin.de
 

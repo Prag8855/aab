@@ -26,7 +26,7 @@ When you are a KSK member, **they pay half of your [health insurance](/glossary/
 ### Advantages
 
 - **They pay half of your health insurance**  
-    Normally, freelancers pay [{{GKV_MIN_COST_SELF_PAY|cur}}€ to {{GKV_MAX_COST_SELF_PAY|cur}}€ per month](/tools/health-insurance-calculator) for [public health insurance](/glossary/gesetzliche%20Krankenversicherung). If you are in the KSK, you pay 50% less. You keep the same coverage.
+    Normally, freelancers pay [€{{GKV_MIN_COST_SELF_PAY|cur}} to €{{GKV_MAX_COST_SELF_PAY|cur}} per month](/tools/health-insurance-calculator) for [public health insurance](/glossary/gesetzliche%20Krankenversicherung). If you are in the KSK, you pay 50% less. You keep the same coverage.
 - **They pay half of your public pension insurance**  
     [Public pension insurance](/glossary/gesetzliche%20Krankenversicherung) is optional for most freelancers, so you probably don't pay for it. If you join the KSK, it's required, but the KSK pays half of it. You get a public pension for half the price.
 - **It lets you get [public health insurance](/glossary/gesetzliche%20Krankenversicherung)**  
@@ -34,7 +34,7 @@ When you are a KSK member, **they pay half of your [health insurance](/glossary/
 - **It helps you get [permanent residence](/glossary/Niederlassungserlaubnis)**  
     Before you apply for [permanent residence](/glossary/Niederlassungserlaubnis), you must pay [public pension insurance](/glossary/gesetzliche%20Krankenversicherung) for 60 months. The KSK makes public pension insurance more affordable for freelancers.
 - **It's usually free**  
-    If you earn less than {{GKV_MAX_INCOME|cur}}€ per year, the KSK does not cost more money. If you earn more, [it can cost a little more](/guides/ksk-kuenstlersozialkasse#how-much-does-it-cost) - up to €175 per month - but it's still a really good deal.
+    If you earn less than €{{GKV_MAX_INCOME|cur}} per year, the KSK does not cost more money. If you earn more, [it can cost a little more](/guides/ksk-kuenstlersozialkasse#how-much-does-it-cost) - up to €175 per month - but it's still a really good deal.
 
 ### Disadvantages
 
@@ -43,9 +43,9 @@ When you are a KSK member, **they pay half of your [health insurance](/glossary/
 - **They reject a lot of people**  
     You might need to try multiple times, and still get rejected. Some people give up. Others sue the KSK to get accepted.
 - **You can't always keep your private health insurance**  
-    With the KSK, if you earn less than {{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}}€ per year, you must switch to [public health insurance](/glossary/gesetzliche%20Krankenversicherung). Most of the time, it's a good thing, but you might prefer to keep your private health insurance. [More information here.](/guides/ksk-kuenstlersozialkasse#can-i-have-private-health-insurance-with-the-ksk)
+    With the KSK, if you earn less than €{{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}} per year, you must switch to [public health insurance](/glossary/gesetzliche%20Krankenversicherung). Most of the time, it's a good thing, but you might prefer to keep your private health insurance. [More information here.](/guides/ksk-kuenstlersozialkasse#can-i-have-private-health-insurance-with-the-ksk)
 - **It can limit your options**  
-    If you have other sources of income, [it can be complicated](/guides/ksk-kuenstlersozialkasse#can-i-have-another-source-of-income-while-in-the-ksk). You can't earn more than {{MINIJOB_MAX_INCOME|cur}}€ per month from other freelance activities. You might need to refuse some contracts to stay in the KSK. You can still have a side job and stay in the KSK.
+    If you have other sources of income, [it can be complicated](/guides/ksk-kuenstlersozialkasse#can-i-have-another-source-of-income-while-in-the-ksk). You can't earn more than €{{MINIJOB_MAX_INCOME|cur}} per month from other freelance activities. You might need to refuse some contracts to stay in the KSK. You can still have a side job and stay in the KSK.
 - **Backpayments**  
     When the KSK accepts you, your membership starts on the date you applied. You must pay health insurance and pension insurance for the time you waited. If they take 5 months to accept you, you must pay KSK contributions for those 5 months. These backpayments can be very expensive. [More information about KSK backpayments.](/guides/ksk-kuenstlersozialkasse#backpayments)
 
@@ -67,15 +67,15 @@ In other words, **you save money on health insurance, and reinvest it in your pe
 | €45,000 <br><small>per year</small> | €700 <br><small>per month</small> | €695 <br><small>per month</small> |
 | €55,000 <br><small>per year</small> | €850 <br><small>per month</small> | €850 <br><small>per month</small> |
 | €70,000 <br><small>per year</small> | €900 <br><small>per month</small> | €990 <br><small>per month</small> |
-| Over {{BEITRAGSBEMESSUNGSGRENZE|cur}}€ / year | €900 / month | €1,075 / month |
+| Over €{{BEITRAGSBEMESSUNGSGRENZE|cur}} / year | €900 / month | €1,075 / month |
 
-**If you earn over {{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}}€ per year**, you pay a bit more. You pay up to €175 per month more, but you contribute up to €1,311 per month to your public pension. This is the best pension plan you can find.
+**If you earn over €{{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}} per year**, you pay a bit more. You pay up to €175 per month more, but you contribute up to €1,311 per month to your public pension. This is the best pension plan you can find.
 
 ### Should I join the KSK?
 
 **Yes!** The KSK is always worth it, except if you stay only 1 year in Germany.
 
-If you earn more than {{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}}€ per year, the KSK can feel more expensive, but it's still worth it, because you get a really cheap pension plan.
+If you earn more than €{{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}} per year, the KSK can feel more expensive, but it's still worth it, because you get a really cheap pension plan.
 
 ## Who can join the KSK?
 
@@ -135,8 +135,8 @@ This means that...
 
 - **You work for profit**  
     It's a business, not a hobby. You must charge money for your services.
-- **You make at least {{KSK_MIN_INCOME|cur}}€ per year**   
-    You must make at least {{KSK_MIN_INCOME|cur}}€ in [profit](/glossary/Gewinn) as a freelance artist, publicist or art teacher.[^18] In the first 3 years of your career, there is no minimum income.[^18] After you join the KSK, your income can go below {{KSK_MIN_INCOME|cur}}€ per year 2 times every 6 years.[^18] There is no maximum income.[^19]
+- **You make at least €{{KSK_MIN_INCOME|cur}} per year**   
+    You must make at least €{{KSK_MIN_INCOME|cur}} in [profit](/glossary/Gewinn) as a freelance artist, publicist or art teacher.[^18] In the first 3 years of your career, there is no minimum income.[^18] After you join the KSK, your income can go below €{{KSK_MIN_INCOME|cur}} per year 2 times every 6 years.[^18] There is no maximum income.[^19]
 
 ### You are self-employed
 
@@ -388,7 +388,7 @@ When the KSK accepts you, your membership starts on the date you applied. You mu
 
 What happens depends on the health insurance you had while you waited:
 
-- **If you had [public health insurance](/glossary/gesetzliche%20Krankenversicherung)**, you can get a refund from your health insurer. You can use your refund to pay the KSK. The cost will be almost the same. If you earn over {{GKV_MAX_INCOME|cur}}€ per year, you could pay a little more.
+- **If you had [public health insurance](/glossary/gesetzliche%20Krankenversicherung)**, you can get a refund from your health insurer. You can use your refund to pay the KSK. The cost will be almost the same. If you earn over €{{GKV_MAX_INCOME|cur}} per year, you could pay a little more.
 - **If you had [private health insurance](/glossary/private%20Krankenversicherung)**, you can *sometimes* get a refund from your health insurer. You can use your refund to pay the KSK backpayments. If you don't get a refund, you will pay twice for your health insurance for the months you were waiting.
 - **If you had [expat health insurance](/glossary/Expat%20health%20insurance)**, you can *sometimes* get a refund from your health insurer.
 
@@ -432,7 +432,7 @@ If you can't get your pension payments back, you will get a German pension when 
 **It depends.**[^27] You can only have private health insurance if...[^40]
 
 - You were a freelancer for less than 3 years[^49]
-- or you earn more than {{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}}€ per year for 3 years in a row.[^51]
+- or you earn more than €{{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}} per year for 3 years in a row.[^51]
 
 Your private health insurance must offer similar coverage to public health insurance. [[Expat health insurance]] is not accepted.
 
@@ -451,20 +451,20 @@ If you are not sure about this, [talk to a health insurance broker](/guides/germ
 - **Freelance artist + regular job**  
     If you are a freelance artist *and* an employee, you can usually stay in the KSK.
     - **If your job is a [minijob](/glossary/Minijob)**  
-        If your job pays less than {{MINIJOB_MAX_INCOME|cur}}€ per month, the KSK pays for half of your health insurance, and half of your pension insurance. Your job makes no difference.[^43]
+        If your job pays less than €{{MINIJOB_MAX_INCOME|cur}} per month, the KSK pays for half of your health insurance, and half of your pension insurance. Your job makes no difference.[^43]
     - **If most of your income is from your job**  
         It depends on how much you earn from your job.[^44]
-        - **If your job pays under {{KSK_MAX_EMPLOYMENT_INCOME|cur}}€ per year**  
+        - **If your job pays under €{{KSK_MAX_EMPLOYMENT_INCOME|cur}} per year**  
             The KSK pays half of your pension insurance *for your freelance income*. Your employer pays half of your pension insurance *for your employee income*. Your employer pays half of your health insurance. The KSK does not pay for your health insurance.
-        - **If your job pays over {{KSK_MAX_EMPLOYMENT_INCOME|cur}}€ per year**  
+        - **If your job pays over €{{KSK_MAX_EMPLOYMENT_INCOME|cur}} per year**  
             You get kicked out of the KSK. You earn too much as an employee.
     - **If most of your income is from freelancing**  
         The KSK pays half of your pension insurance for your freelance income. Your employer pays half of your pension insurance for your employee income. The KSK pays half of your health insurance. Your employer does not pay for your health insurance.
 - **Freelance artist + other freelance income**  
     It depends on how much other freelance income you have.[^50]
-    - **If your other freelance income is less than {{MINIJOB_MAX_INCOME|cur}}€ per month**  
+    - **If your other freelance income is less than €{{MINIJOB_MAX_INCOME|cur}} per month**  
         The KSK pays for half of your public pension insurance, and half of your health insurance.
-    - **If your other freelance income is more than {{MINIJOB_MAX_INCOME|cur}}€ per month**  
+    - **If your other freelance income is more than €{{MINIJOB_MAX_INCOME|cur}} per month**  
         The KSK pays for half of your public pension insurance. It does not pay for half of your health insurance. This could change soon.[^45]
 - **Freelance artist + full time student**  
     The KSK pays for half of your public pension insurance. It does not pay for your health insurance.

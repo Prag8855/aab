@@ -17,8 +17,8 @@ Related_guides:
 
 A small business (*Kleinunternehmer*) is a business that follows 2 conditions:
 
-- last year's [revenue](/glossary/Umsatz) was under {{KLEINUNTERNEHMER_MAX_INCOME_FIRST_YEAR|cur}}€
-- and this year's *expected* revenue is less than {{KLEINUNTERNEHMER_MAX_INCOME|cur}}€
+- last year's [revenue](/glossary/Umsatz) was under €{{KLEINUNTERNEHMER_MAX_INCOME_FIRST_YEAR|cur}}
+- and this year's *expected* revenue is less than €{{KLEINUNTERNEHMER_MAX_INCOME|cur}}
 
 If you are a *Kleinunternehmer*, you can *choose* not to charge [VAT](/glossary/Umsatzsteuer). This makes accounting easier, but it's not always a good idea.
 

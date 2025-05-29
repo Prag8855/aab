@@ -33,7 +33,7 @@ Plan the cost of running your business. It helps you decide how much savings you
     Use my [tax calculator](/tools/tax-calculator). Set your occupation to "self-employed".
 - **Business taxes**
     - **[Trade tax](/glossary/Gewerbesteuer)**  
-        In Berlin, it costs an extra {{GEWERBESTEUER_EXTRA_COST_BERLIN}}% of all [profit](/glossary/Gewinn) above {{GEWERBESTEUER_FREIBETRAG|cur}}€ per year. If you are a *[[Freiberufler]]*, you don't pay the trade tax. - [How the trade tax works](/guides/gewerbesteuer)
+        In Berlin, it costs an extra {{GEWERBESTEUER_EXTRA_COST_BERLIN}}% of all [profit](/glossary/Gewinn) above €{{GEWERBESTEUER_FREIBETRAG|cur}} per year. If you are a *[[Freiberufler]]*, you don't pay the trade tax. - [How the trade tax works](/guides/gewerbesteuer)
     - **[Value-added tax (VAT)](/glossary/Umsatzsteuer)**  
         You must charge a {{ VAT_RATE }}% tax on your invoices, and give that money to the *[[Finanzamt]]*. You don't pay VAT, your clients do, but it still raises your prices. [Some businesses](/glossary/Kleinunternehmer) don't need to charge VAT. - [How VAT works](/guides/value-added-tax)
     - **[[IHK]] membership**  
@@ -281,7 +281,7 @@ You must get professional legal insurance. Private legal insurance rarely covers
 
 ### Get disability insurance
 
-If you are an employee, you get sickness pay while you are sick. Your employer pays your full salary for the first 6 weeks. After 6 weeks, your health insurance pays you 70% of your salary (up to {{GKV_KRANKENGELD_DAILY_LIMIT|cur}}€ per day) for 78 weeks.
+If you are an employee, you get sickness pay while you are sick. Your employer pays your full salary for the first 6 weeks. After 6 weeks, your health insurance pays you 70% of your salary (up to €{{GKV_KRANKENGELD_DAILY_LIMIT|cur}} per day) for 78 weeks.
 
 By default, freelancers don't get sickness pay. If you don't work, you don't get paid.
 

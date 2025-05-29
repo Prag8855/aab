@@ -96,9 +96,9 @@ You might also need these documents:
 - [ ] **[Residence permit](/glossary/Aufenthaltstitel)**  
     If you have a residence permit, bring it. Your residence permit has your old address on it. They will put a sticker on it with your new address.[^8] That sticker is not important.[^16]
 - [ ] **Vehicle registration papers**  
-    If you have a vehicle, and it's registered at your old address, bring your [*Zulassungsbescheinigung Teil 1*](/glossary/Zulassungsbescheinigung). They will put a sticker on it with your new address. It costs {{VEHICLE_UMMELDUNG_FEE|cur}}€ per vehicle.
+    If you have a vehicle, and it's registered at your old address, bring your [*Zulassungsbescheinigung Teil 1*](/glossary/Zulassungsbescheinigung). They will put a sticker on it with your new address. It costs €{{VEHICLE_UMMELDUNG_FEE|cur}} per vehicle.
 - [ ] **Cash** or a **[[Girocard]]**  
-    The *Anmeldung* costs nothing, but if you have vehicles, it costs {{VEHICLE_UMMELDUNG_FEE|cur}}€ per vehicle. You can only pay with cash or a *Girocard*. Some *Bürgeramt* locations accept Visa and Mastercard.[^9]
+    The *Anmeldung* costs nothing, but if you have vehicles, it costs €{{VEHICLE_UMMELDUNG_FEE|cur}} per vehicle. You can only pay with cash or a *Girocard*. Some *Bürgeramt* locations accept Visa and Mastercard.[^9]
 
 If this is your first *Anmeldung*, you must also bring:
 
@@ -230,7 +230,7 @@ If you were baptised in your home country, they might collect church tax [even i
 
 ### How much does the Anmeldung cost?
 
-**It's free.** If you must update your vehicle registration papers, you must pay {{VEHICLE_UMMELDUNG_FEE|cur}}€ per vehicle. You can only pay with cash or with a *Girokarte*. Some *Bürgeramt* locations accept Visa and Mastercard.[^9]
+**It's free.** If you must update your vehicle registration papers, you must pay €{{VEHICLE_UMMELDUNG_FEE|cur}} per vehicle. You can only pay with cash or with a *Girokarte*. Some *Bürgeramt* locations accept Visa and Mastercard.[^9]
 
 ### How many people can register at the same address?
 

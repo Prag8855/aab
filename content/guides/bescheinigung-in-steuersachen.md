@@ -15,7 +15,7 @@ When you [apply for a freelance visa](/guides/freelance-visa) or for [permanent 
 
 ## How to get this document
 
-Request it from the *[[Finanzamt]]*, online or in person. It costs {{ BESCHEINIGUNG_IN_STEUERSACHEN_FEE|cur }}€.[^1] It arrives by post in 1 to 3 weeks.
+Request it from the *[[Finanzamt]]*, online or in person. It costs €{{ BESCHEINIGUNG_IN_STEUERSACHEN_FEE|cur }}.[^1] It arrives by post in 1 to 3 weeks.
 
 ### Online
 
@@ -24,7 +24,7 @@ Request it from the *[[Finanzamt]]*, online or in person. It costs {{ BESCHEINIG
 2. **Contact your Finanzamt**  
     [Find your Finanzamt](https://www.elster.de/finanzamt), then [find its contact information](/out/finanzamt-finder). Email them and ask for a *Bescheinigung in Steuersachen*. Use my [email template](#email-template).
 3. **Pay the application fee**  
-    [Find your Finanzamt's bank information](/out/finanzamt-finder), and transfer them {{ BESCHEINIGUNG_IN_STEUERSACHEN_FEE|cur }}€. In the payment message, include your [tax ID](/glossary/Steueridentifikationsnummer), your name and "Bescheinigung in Steuersachen".[^3]
+    [Find your Finanzamt's bank information](/out/finanzamt-finder), and transfer them €{{ BESCHEINIGUNG_IN_STEUERSACHEN_FEE|cur }}. In the payment message, include your [tax ID](/glossary/Steueridentifikationsnummer), your name and "Bescheinigung in Steuersachen".[^3]
 4. **Wait**  
     You will get the document by post in 1 to 3 weeks.[^2] If you don't get it after 3 weeks, contact the *Finanzamt*. It's faster if you phone them. Mine got lost in the mail, so they sent it again.
 
@@ -35,7 +35,7 @@ You can also get the document if you go to the *Finanzamt* in person. It might n
 1. **Find your Finanzamt**  
     [Find your Finanzamt](https://www.elster.de/finanzamt), then [find its address and opening hours](https://www.bzst.de/DE/Service/Behoerdenwegweiser/Finanzamtsuche/GemFa/finanzamtsuche_Formular.html).
 2. **Go to the Finanzamt**  
-    Go to the Finanzamt without an appointment, and ask for a *Bescheinigung in Steuersachen*. Pay the {{ BESCHEINIGUNG_IN_STEUERSACHEN_FEE|cur }}€ fee.
+    Go to the Finanzamt without an appointment, and ask for a *Bescheinigung in Steuersachen*. Pay the €{{ BESCHEINIGUNG_IN_STEUERSACHEN_FEE|cur }} fee.
 3. **Wait**  
     You will get the document by post in 1 to 3 weeks.[^2]
 

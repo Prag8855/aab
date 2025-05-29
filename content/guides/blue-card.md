@@ -40,7 +40,7 @@ To get a Blue Card, you need...[^18]
     - [ ] **A German employer**  
         You must work for a German employer, or an employer with an office in Germany.[^30] It can be a remote job. You must be an employee, not a freelancer.
     - [ ] **A high salary**  
-        Your salary must be over {{BLUE_CARD_MIN_INCOME|cur}}€ per year (before taxes, without bonuses).[^3] If your job is in [the list of shortage occupations](https://www.make-it-in-germany.com/pdf-engpassberufe-en), your salary must be over {{BLUE_CARD_SHORTAGE_MIN_INCOME|cur}}€ per year.[^21] If you graduated less than 3 years ago, your salary must be over {{BLUE_CARD_SHORTAGE_MIN_INCOME|cur}}€ per year.[^32] Your salary must cover the cost of living for you and your family.
+        Your salary must be over €{{BLUE_CARD_MIN_INCOME|cur}} per year (before taxes, without bonuses).[^3] If your job is in [the list of shortage occupations](https://www.make-it-in-germany.com/pdf-engpassberufe-en), your salary must be over €{{BLUE_CARD_SHORTAGE_MIN_INCOME|cur}} per year.[^21] If you graduated less than 3 years ago, your salary must be over €{{BLUE_CARD_SHORTAGE_MIN_INCOME|cur}} per year.[^32] Your salary must cover the cost of living for you and your family.
     - [ ] **A long term contract**  
         Your job contract must be for at least 6 months.[^24]
 - [ ] **Qualifications for this job**  
@@ -54,7 +54,7 @@ You do not need a university degree if...[^31]
 
 - [ ] You are an IT specialist
 - [ ] **and** you have at least 3 years of experience
-- [ ] **and** your salary is over {{BLUE_CARD_SHORTAGE_MIN_INCOME|cur}}€ per year
+- [ ] **and** your salary is over €{{BLUE_CARD_SHORTAGE_MIN_INCOME|cur}} per year
 
 **You do not need to speak German** to get a Blue Card.[^27]
 
@@ -140,7 +140,7 @@ You must apply for the Blue Card online.[^4] You do not need an *[[Ausländerbeh
 
 **[Apply for the Blue Card ➞](/out/auslanderbehorde-blue-card)**
 
-It costs {{NATIONAL_VISA_FEE|cur}}€. It's cheaper for Turkish citizens. You can pay with Visa, Mastercard or PayPal. You can't pay with cash or [[Girocard]].[^8] The fee is [tax-deductible](/glossary/steuerlich%20absetzbar), so keep the receipt.
+It costs €{{NATIONAL_VISA_FEE|cur}}. It's cheaper for Turkish citizens. You can pay with Visa, Mastercard or PayPal. You can't pay with cash or [[Girocard]].[^8] The fee is [tax-deductible](/glossary/steuerlich%20absetzbar), so keep the receipt.
 
 If you have too many documents, [merge them](https://www.adobe.com/acrobat/online/merge-pdf.html) or [make them smaller](https://www.adobe.com/acrobat/online/compress-pdf.html).
 
@@ -188,7 +188,7 @@ You can also apply for a Blue Card in your country, then move to Germany. This i
 
 You must [find a job](/guides/find-a-job-in-berlin) before you apply.[^15] Your job offer must meet the [Blue Card requirements](#blue-card-requirements). If you don't have a job offer, you can get an [opportunity card](/glossary/Chancenkarte), come to Germany, find a job, then apply for a Blue Card in Germany.
 
-**To get a Blue Card faster**, use the [fast-track procedure](https://www.make-it-in-germany.com/en/looking-for-foreign-professionals/entering/the-fast-track-procedure-for-skilled-workers) (*Beschleunigtes Verfahren*). It costs {{FAST_TRACK_FEE|cur}}€.
+**To get a Blue Card faster**, use the [fast-track procedure](https://www.make-it-in-germany.com/en/looking-for-foreign-professionals/entering/the-fast-track-procedure-for-skilled-workers) (*Beschleunigtes Verfahren*). It costs €{{FAST_TRACK_FEE|cur}}.
 
 **[How to apply in your country ➞](/guides/residence-permit#how-to-apply-in-your-country)**
 

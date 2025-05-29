@@ -172,7 +172,7 @@ To get a PR, you need savings for retirement.[^17] There are 4 ways to do this:
 - or **use your spouse's pension**  
     If you are married, and your spouse has a valid pension, you can use their pension. For example, if your spouse has made 60 months of public pension payments, it's enough.[^18]
 - or **get a private pension**  
-    It must *guarantee* an income of at least {{ FREELANCE_VISA_MIN_MONTHLY_PENSION|cur }}€ per month for at least 12 years after you retire. It must include a pension in case of disability.[^42] A Rürüp pension like [the one Feather sells](/out/feather-basis-pension) should work fine.
+    It must *guarantee* an income of at least €{{ FREELANCE_VISA_MIN_MONTHLY_PENSION|cur }} per month for at least 12 years after you retire. It must include a pension in case of disability.[^42] A Rürüp pension like [the one Feather sells](/out/feather-basis-pension) should work fine.
 - or **use your foreign pension**  
     A guaranteed pension from another country also counts.[^74]
 - or **have real estate or other investments**  
@@ -183,7 +183,7 @@ In Berlin, you need a *guaranteed* pension. Stocks or money in your bank account
 If you are self-employed, you don't pay for a public pension. Instead, you can...
 
 - **Make voluntary public pension payments**  
-    You can make the minimum contribution ({{RV_MIN_CONTRIBUTION|cur}}€ per month) until you have 60 months of pension contributions. To make voluntary contributions, [fill form V0060](https://www.deutsche-rentenversicherung.de/SharedDocs/Formulare/DE/_pdf/V0060.html?groupName_str=formulare).[^25] You can make retroactive payments for up to 1 year.
+    You can make the minimum contribution (€{{RV_MIN_CONTRIBUTION|cur}} per month) until you have 60 months of pension contributions. To make voluntary contributions, [fill form V0060](https://www.deutsche-rentenversicherung.de/SharedDocs/Formulare/DE/_pdf/V0060.html?groupName_str=formulare).[^25] You can make retroactive payments for up to 1 year.
 - or **join the [[Künstlersozialkasse]]**  
     If you are a freelance artist, publicist or teacher, the KSK can pay half of your pension. It's a cheaper way to get a pension.
 - or **use your foreign pension**  
@@ -191,7 +191,7 @@ If you are self-employed, you don't pay for a public pension. Instead, you can..
 - or **get a private pension**
 - or **use your spouse's pension**
 - or **have enough savings**  
-    It looks like you need at least {{ FREELANCE_VISA_MIN_PENSION|cur }}€ in savings.[^75] There is no clear information about this. It might not work. If you try it, [let me know](/contact).
+    It looks like you need at least €{{ FREELANCE_VISA_MIN_PENSION|cur }} in savings.[^75] There is no clear information about this. It might not work. If you try it, [let me know](/contact).
 
 If you are a refugee or an asylum seeker, you don't need a pension.[^55]
 
@@ -249,7 +249,7 @@ If you don't live in Berlin, you must [find your local *Ausländerbehörde*](htt
 Since December 2024,{{ fail_on('2025-12-31') }} you need a certificate from...
 
 - **The [citizenship test](https://service.berlin.de/dienstleistung/351180/)** (*Einbürgerungstest*){{ RECOMMENDED }}  
-    You must book an appointment. Then you go to your appointment in person to book a test date. The test costs {{CITIZENSHIP_TEST_FEE|cur}}€. It has 33 questions, multiple choice. In Berlin, it's really hard to get an appointment because there are no free slots. It can be faster to take the test in another city.
+    You must book an appointment. Then you go to your appointment in person to book a test date. The test costs €{{CITIZENSHIP_TEST_FEE|cur}}. It has 33 questions, multiple choice. In Berlin, it's really hard to get an appointment because there are no free slots. It can be faster to take the test in another city.
 - or **the Leben in Deutschland test**  
     This is the same test and the same questions. You usually take that test after an integration course at the *[[Volkshochschule]]*. The course is very boring. You can take the test without taking the course, but only if they have free slots. In Berlin, this could be really hard.[^31]
 
@@ -271,7 +271,7 @@ You must apply for the permanent residence online. You do not need an *[[Auslän
 
 **[Apply for permanent residence ➞](/out/auslanderbehorde-permanent-residence)**
 
-It costs {{NATIONAL_VISA_FEE|cur}}€. It's cheaper for Turkish citizens. You can pay with Visa, Mastercard or PayPal. You can't pay with cash or [[Girocard]]. The fee is [tax-deductible](/glossary/steuerlich%20absetzbar), so keep the receipt.
+It costs €{{NATIONAL_VISA_FEE|cur}}. It's cheaper for Turkish citizens. You can pay with Visa, Mastercard or PayPal. You can't pay with cash or [[Girocard]]. The fee is [tax-deductible](/glossary/steuerlich%20absetzbar), so keep the receipt.
 
 If you have too many documents, [merge them](https://www.adobe.com/acrobat/online/merge-pdf.html) or [make them smaller](https://www.adobe.com/acrobat/online/compress-pdf.html).
 
@@ -377,7 +377,7 @@ If you receive social benefits like *[[Kindergeld]]*, *Kinderzuschlag*, *[[Elter
     - [ ] **Net profit assessment** (*[[Netto-Gewinnermittlung]]*)[^59]  
         If you don't have a recent tax return, bring this instead. This document must be stamped by a [tax advisor](/glossary/Steuerberater).[^66] If you don't have a tax advisor, get it from [Tax Germany](/out/taxgermany). It takes a few days to prepare.
 - [ ] **[Certificate of tax matters](/guides/bescheinigung-in-steuersachen)** (*Bescheinigung in Steuersachen*)[^59]  
-    It proves that you paid your taxes on time. [Request it from the *Finanzamt*.](/guides/bescheinigung-in-steuersachen) It costs {{ BESCHEINIGUNG_IN_STEUERSACHEN_FEE|cur }}€. It arrives in 1 to 3 weeks.
+    It proves that you paid your taxes on time. [Request it from the *Finanzamt*.](/guides/bescheinigung-in-steuersachen) It costs €{{ BESCHEINIGUNG_IN_STEUERSACHEN_FEE|cur }}. It arrives in 1 to 3 weeks.
 - [ ] **Trade certificate** (*[[Gewerbeschein]]*)[^59]  
     If your business is a *[[Gewerbe]]*, bring your *Gewerbeschein*. If you are a *[[Freiberufler]]*, you don't need this.
 - [ ] **[Trade register](/glossary/Handelsregister) entry** (*Handelsregisterauszug*)[^59]  
@@ -437,7 +437,7 @@ Your immigration expenses are [tax-deductible](/glossary/steuerlich%20absetzbar)
 
 **When you get a new passport**, your permanent residence *card* becomes invalid. You are still a permanent resident, but you must get a new card.
 
-To get a new card, [get a Bürgeramt appointment](https://service.berlin.de/dienstleistung/324280/en/), go in person, pay {{RESIDENCE_PERMIT_REPLACEMENT_FEE|cur}}€, and wait a few weeks.[^64] You should get the card by post. The [[eID]] function might be deactivated on your new card. You might need [another *Bürgeramt* appointment](https://service.berlin.de/dienstleistung/329830/) to activate it.[^65]
+To get a new card, [get a Bürgeramt appointment](https://service.berlin.de/dienstleistung/324280/en/), go in person, pay €{{RESIDENCE_PERMIT_REPLACEMENT_FEE|cur}}, and wait a few weeks.[^64] You should get the card by post. The [[eID]] function might be deactivated on your new card. You might need [another *Bürgeramt* appointment](https://service.berlin.de/dienstleistung/329830/) to activate it.[^65]
 
 ## Need help?
 

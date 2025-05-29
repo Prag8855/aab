@@ -81,7 +81,7 @@ If you have a [[Deutschland Ticket]], you can travel in all zones.
 
 **Daily, monthly and weekly passes** are cheaper. They usually let you [bring other people for free](#bring-other-people-for-free).
 
-**The [Deutschland Ticket](/guides/deutschland-ticket)** is a monthly subscription. You can use all public transit in Germany for {{DEUTSCHLAND_TICKET_PRICE|cur}}€ per month.
+**The [Deutschland Ticket](/guides/deutschland-ticket)** is a monthly subscription. You can use all public transit in Germany for €{{DEUTSCHLAND_TICKET_PRICE|cur}} per month.
 
 ### Ticket types
 
@@ -98,7 +98,7 @@ If you have a [[Deutschland Ticket]], you can travel in all zones.
 
 ### If you get caught without a ticket
 
-There are ticket checkers who enter the train and look at everyone's tickets. They wait until the doors close, so you can't run away. If your ticket is not valid, you get a {{BVG_FINE|cur}}€ fine.
+There are ticket checkers who enter the train and look at everyone's tickets. They wait until the doors close, so you can't run away. If your ticket is not valid, you get a €{{BVG_FINE|cur}} fine.
 
 If you have the wrong ticket, you still get a fine.
 

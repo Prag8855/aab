@@ -12,6 +12,6 @@ Related_guides:
     guides/taxes.md
 ---
 
-The TV tax (*Rundfunkbeitrag*) is a public broadcasting fee in Germany. Every household in Germany must pay it. It costs {{RUNDFUNKBEITRAG_FEE|cur}}€ per month. It's collected by the *[[ARD ZDF Deutschlandradio Beitragsservice]]*.
+The TV tax (*Rundfunkbeitrag*) is a public broadcasting fee in Germany. Every household in Germany must pay it. It costs €{{RUNDFUNKBEITRAG_FEE|cur}} per month. It's collected by the *[[ARD ZDF Deutschlandradio Beitragsservice]]*.
 
 **[More information about the TV tax ➞](/guides/gez-rundfunkbeitrag)**

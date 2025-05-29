@@ -15,8 +15,8 @@ This guide explains who can be a *Kleinunternehmer*, and when it makes sense to 
 
 You are a *Kleinunternehmer* if...[^1]
 
-- last year, you [revenue](/glossary/Umsatz) was below {{KLEINUNTERNEHMER_MAX_INCOME_FIRST_YEAR|cur}}€
-- **and** this year, your *expected* revenue is below {{KLEINUNTERNEHMER_MAX_INCOME|cur}}€
+- last year, you [revenue](/glossary/Umsatz) was below €{{KLEINUNTERNEHMER_MAX_INCOME_FIRST_YEAR|cur}}
+- **and** this year, your *expected* revenue is below €{{KLEINUNTERNEHMER_MAX_INCOME|cur}}
 
 If you are a *Kleinunternehmer*, you can choose not to charge [VAT](/glossary/Umsatzsteuer).
 
@@ -35,7 +35,7 @@ If you don't charge VAT, it means:
 - **No VAT refund on business expenses**  
     If you charge VAT, you get a VAT refund on your business expenses.[^9] For example, if you buy a computer for your business, you get the VAT back. If you don't charge VAT, you must pay VAT on all expenses. If you have a lot of expenses, it's better to charge VAT and get VAT refunds.[^10]
 - **Growing your business is more complicated**  
-    If your [revenue](/glossary/Umsatz) grows over {{KLEINUNTERNEHMER_MAX_INCOME_FIRST_YEAR|cur}}€ per year, you must start charging VAT. You must raise your prices to include VAT, change your invoices, and maybe change your accounting tools. If you raise your prices, you can lose customers.[^11] If you plan to make over {{KLEINUNTERNEHMER_MAX_INCOME_FIRST_YEAR|cur}}€ per year, it's easier to charge VAT from the start.[^13]
+    If your [revenue](/glossary/Umsatz) grows over €{{KLEINUNTERNEHMER_MAX_INCOME_FIRST_YEAR|cur}} per year, you must start charging VAT. You must raise your prices to include VAT, change your invoices, and maybe change your accounting tools. If you raise your prices, you can lose customers.[^11] If you plan to make over €{{KLEINUNTERNEHMER_MAX_INCOME_FIRST_YEAR|cur}} per year, it's easier to charge VAT from the start.[^13]
 
 ## How Kleinunternehmer revenue is calculated
 
@@ -43,23 +43,23 @@ The *Kleinunternehmer* status depends on your total self-employed revenue.
 
 Your [revenue](/glossary/Umsatz) counts, not just your [profit](/glossary/Gewinn).
 
-> **Example:** You have a €70,000 revenue. Your business expenses are €50,000. You make €20,000 in profit. You are not a *Kleinunternehmer*, because your revenue is more than the {{KLEINUNTERNEHMER_MAX_INCOME_FIRST_YEAR|cur}}€ limit.
+> **Example:** You have a €70,000 revenue. Your business expenses are €50,000. You make €20,000 in profit. You are not a *Kleinunternehmer*, because your revenue is more than the €{{KLEINUNTERNEHMER_MAX_INCOME_FIRST_YEAR|cur}} limit.
 
 Only your self-employed revenue counts. Revenue from your job does not count.
 
-> **Example:** You make €40,000 per year working in a factory. You have a side business that makes €5,000 per year. You can be a *Kleinunternehmer*, because your self-employed revenue is less than the {{KLEINUNTERNEHMER_MAX_INCOME_FIRST_YEAR|cur}}€ limit.
+> **Example:** You make €40,000 per year working in a factory. You have a side business that makes €5,000 per year. You can be a *Kleinunternehmer*, because your self-employed revenue is less than the €{{KLEINUNTERNEHMER_MAX_INCOME_FIRST_YEAR|cur}} limit.
 
-The limit is {{KLEINUNTERNEHMER_MAX_INCOME_FIRST_YEAR|cur}}€ per year for your total self-employed revenue, not for each business.[^4]
+The limit is €{{KLEINUNTERNEHMER_MAX_INCOME_FIRST_YEAR|cur}} per year for your total self-employed revenue, not for each business.[^4]
 
-> **Example:** You have two businesses. One business makes €15,000 per year, and the other makes €20,000 per year. You can't be a *Kleinunternehmer*, because your revenue is more than the {{KLEINUNTERNEHMER_MAX_INCOME_FIRST_YEAR|cur}}€ limit. 
+> **Example:** You have two businesses. One business makes €15,000 per year, and the other makes €20,000 per year. You can't be a *Kleinunternehmer*, because your revenue is more than the €{{KLEINUNTERNEHMER_MAX_INCOME_FIRST_YEAR|cur}} limit. 
 
 ## How the revenue limit works
 
-Your [revenue](/glossary/Umsatz) must be less than {{KLEINUNTERNEHMER_MAX_INCOME_FIRST_YEAR|cur}}€ per year.
+Your [revenue](/glossary/Umsatz) must be less than €{{KLEINUNTERNEHMER_MAX_INCOME_FIRST_YEAR|cur}} per year.
 
-In your first year in business, the {{KLEINUNTERNEHMER_MAX_INCOME_FIRST_YEAR|cur}}€ limit is prorated:
+In your first year in business, the €{{KLEINUNTERNEHMER_MAX_INCOME_FIRST_YEAR|cur}} limit is prorated:
 
-> **Example:** If you start your business in July, the limit for that year is {{KLEINUNTERNEHMER_MAX_INCOME_FIRST_YEAR|cur}}€ × 50% of the year: {{(KLEINUNTERNEHMER_MAX_INCOME_FIRST_YEAR/2)|cur}}€.
+> **Example:** If you start your business in July, the limit for that year is €{{KLEINUNTERNEHMER_MAX_INCOME_FIRST_YEAR|cur}} × 50% of the year: €{{(KLEINUNTERNEHMER_MAX_INCOME_FIRST_YEAR/2)|cur}}.
 
 Only your VAT-eligible income is measured. VAT-free income does not count.[^14]
 
@@ -67,17 +67,17 @@ Only your VAT-eligible income is measured. VAT-free income does not count.[^14]
 
 ### If you earn more than the limit
 
-If your revenue is more than {{KLEINUNTERNEHMER_MAX_INCOME_FIRST_YEAR|cur}}€ this year, you stop being a *Kleinunternehmer* the next year.[^3]
+If your revenue is more than €{{KLEINUNTERNEHMER_MAX_INCOME_FIRST_YEAR|cur}} this year, you stop being a *Kleinunternehmer* the next year.[^3]
 
-> **Example:** You make €40,000 this year, so you are over the {{KLEINUNTERNEHMER_MAX_INCOME_FIRST_YEAR|cur}}€ limit. In January the next year, you stop being a *Kleinunternehmer*, and you must charge [VAT](/glossary/Umsatzsteuer).
+> **Example:** You make €40,000 this year, so you are over the €{{KLEINUNTERNEHMER_MAX_INCOME_FIRST_YEAR|cur}} limit. In January the next year, you stop being a *Kleinunternehmer*, and you must charge [VAT](/glossary/Umsatzsteuer).
 
-If your revenue is more than {{KLEINUNTERNEHMER_MAX_INCOME|cur}}€, you stop being a *Kleinunternehmer* this year.
+If your revenue is more than €{{KLEINUNTERNEHMER_MAX_INCOME|cur}}, you stop being a *Kleinunternehmer* this year.
 
-> **Example:** You make €110,000 this year, so you are over the {{KLEINUNTERNEHMER_MAX_INCOME|cur}}€ limit. You must start charging [VAT](/glossary/Umsatzsteuer).
+> **Example:** You make €110,000 this year, so you are over the €{{KLEINUNTERNEHMER_MAX_INCOME|cur}} limit. You must start charging [VAT](/glossary/Umsatzsteuer).
 
-If your revenue goes back under {{KLEINUNTERNEHMER_MAX_INCOME_FIRST_YEAR|cur}}€, you can be a *Kleinunternehmer* again.
+If your revenue goes back under €{{KLEINUNTERNEHMER_MAX_INCOME_FIRST_YEAR|cur}}, you can be a *Kleinunternehmer* again.
 
-> **Example:** You make €40,000 one year, so you are over the limit. The next year, you make €20,000. Your revenue is less than the {{KLEINUNTERNEHMER_MAX_INCOME_FIRST_YEAR|cur}}€ limit again, so you can be a *Kleinunternehmer* again.
+> **Example:** You make €40,000 one year, so you are over the limit. The next year, you make €20,000. Your revenue is less than the €{{KLEINUNTERNEHMER_MAX_INCOME_FIRST_YEAR|cur}} limit again, so you can be a *Kleinunternehmer* again.
 
 ## How to be a Kleinunternehmer
 

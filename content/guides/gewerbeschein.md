@@ -14,7 +14,7 @@ You must do your *Gewerbeanmeldung* to...
 
 Freelancers (*[[Freiberufler]]*) do not pay the trade tax. They don't need to do the *Gewerbeanmeldung*.[^0]
 
-You can do this online. It takes 30 minutes to fill the form, and around 4 weeks to get the *[[Gewerbeschein]]*. It costs {{GEWERBEANMELDUNG_FEE|cur}}€.
+You can do this online. It takes 30 minutes to fill the form, and around 4 weeks to get the *[[Gewerbeschein]]*. It costs €{{GEWERBEANMELDUNG_FEE|cur}}.
 
 {% include "_blocks/tableOfContents.html" %}
 
@@ -22,7 +22,7 @@ You can do this online. It takes 30 minutes to fill the form, and around 4 weeks
 
 To do your *Gewerbeanmeldung*, you need...
 
-- [ ] A credit card (Visa or Mastercard) to pay the {{GEWERBEANMELDUNG_FEE|cur}}€ fee.
+- [ ] A credit card (Visa or Mastercard) to pay the €{{GEWERBEANMELDUNG_FEE|cur}} fee.
 - [ ] Permission to be self-employed in Germany. If you need a [residence permit](/glossary/Aufenthaltstitel) to live in Germany, [check if it allows self-employment](/guides/residence-permit#for-self-employment). You must get your residence permit before you do the *Gewerbeanmeldung*.
 
 ## How to fill the registration form
@@ -128,7 +128,7 @@ Verify the information that you entered, then tick the two boxes.
 
 [![Step 11 of the Gewerbeanmeldung form](/images/gewerbeanmeldung-berlin-step11.png)](/images/gewerbeanmeldung-berlin-step11.png)
 
-Pay the {{GEWERBEANMELDUNG_FEE|cur}}€ fee.
+Pay the €{{GEWERBEANMELDUNG_FEE|cur}} fee.
 
 [![Step 12 of the Gewerbeanmeldung form](/images/gewerbeanmeldung-berlin-step12.png)](/images/gewerbeanmeldung-berlin-step12.png)
 

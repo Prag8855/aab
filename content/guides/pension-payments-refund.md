@@ -277,11 +277,11 @@ You can let someone take care of everything. There are good reasons to get help:
 These businesses can help you request a refund. They will fill the forms and request the refund for you. They can also check how much money you will get back.{{ fail_on('2025-12-01') }}
 
 - **[Pension Refund Germany](/out/pension-refund-germany)**{{ RECOMMENDED }}  
-    Their fee is {{ PENSIONREFUNDGERMANY_FEE }}% of your refund (maximum fee {{PENSIONREFUNDGERMANY_MAX_FEE|cur}}€).[^31]
+    Their fee is {{ PENSIONREFUNDGERMANY_FEE }}% of your refund (maximum fee €{{PENSIONREFUNDGERMANY_MAX_FEE|cur}}).[^31]
 - **[Germany Pension Refund](/out/germany-pension-refund)**  
     Their fee is {{ GERMANYPENSIONREFUND_FEE }}% of your refund (no minimum or maximum fee).[^30]
 - **[FundsBack](/out/fundsback)**  
-    Their fee is {{ FUNDSBACK_FEE }}% of your refund (minimum fee {{FUNDSBACK_MIN_FEE}}€, maximum {{FUNDSBACK_MAX_FEE|cur}}€).[^29]
+    Their fee is {{ FUNDSBACK_FEE }}% of your refund (minimum fee €{{FUNDSBACK_MIN_FEE}}, maximum €{{FUNDSBACK_MAX_FEE|cur}}).[^29]
 
 The *[[Deutsche Rentenversicherung]]* can also help you fill the forms. Their email is <meinefrage@drv-bund.de>. They only answer in German. You can also [book an appointment](https://www.deutsche-rentenversicherung.de/DRV/DE/Beratung-und-Kontakt/Beratung-suchen-und-buchen/beratung-suchen-und-buchen_node.html) and visit them in person.
 

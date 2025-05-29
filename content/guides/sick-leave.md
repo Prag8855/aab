@@ -61,7 +61,7 @@ You don't get paid sick leave for tattoos or plastic surgery.
 
 ### The next 78 weeks
 
-After 6 weeks, your employer stops paying you. Instead, you get *[[Krankengeld]]* from your [public health insurance](/glossary/gesetzliche%20Krankenversicherung). It's 70% of your [gross salary](/glossary/Brutto%20income), up to {{GKV_KRANKENGELD_DAILY_LIMIT|cur}}€ per day.[^13]
+After 6 weeks, your employer stops paying you. Instead, you get *[[Krankengeld]]* from your [public health insurance](/glossary/gesetzliche%20Krankenversicherung). It's 70% of your [gross salary](/glossary/Brutto%20income), up to €{{GKV_KRANKENGELD_DAILY_LIMIT|cur}} per day.[^13]
 
 **[Krankengeld calculator](https://www.tk.de/service/app/2002892/krankengeldrechner/rechner.app)** (in German) - [[Techniker Krankenkasse]]
 

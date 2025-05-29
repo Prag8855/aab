@@ -18,7 +18,7 @@ You might need a visa to visit Germany. It depends on your citizenship:
 - **Other [[Schengen area]] residents**  
     You can visit Germany without a visa. You stay in Germany for 90 days in a 180 day period.[^0] If you want to [stay longer](/guides/moving-to-berlin), or [work in Germany](/guides/find-a-job-in-berlin), you need a [residence permit](/glossary/Aufenthaltstitel).
 - **Citizens of [other countries](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/-/231148)**  
-    People from [certain countries](https://www.auswaertiges-amt.de/en/visa-service/-/231148) can visit Germany for 90 days without a visa. Other people need a [Schengen Visa](/glossary/Schengen%20visa) to visit Germany. A Schengen Visa costs {{SCHENGEN_VISA_FEE|cur}}€.[^1] You can apply for a Schengen visa at the [German embassy or consulate in your country](/out/consulate-finder).
+    People from [certain countries](https://www.auswaertiges-amt.de/en/visa-service/-/231148) can visit Germany for 90 days without a visa. Other people need a [Schengen Visa](/glossary/Schengen%20visa) to visit Germany. A Schengen Visa costs €{{SCHENGEN_VISA_FEE|cur}}.[^1] You can apply for a Schengen visa at the [German embassy or consulate in your country](/out/consulate-finder).
 
 **[Visa requirements by country](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/-/231148)** - Federal Foreign Office
 
@@ -31,7 +31,7 @@ Fly to the [Berlin Brandenburg airport](https://goo.gl/maps/iERwxpTUr7EnYFnKA). 
 To get from the airport to the city, you can...
 
 - **Use [public transit](/guides/public-transit)** (recommended)  
-    Take a train from BER airport to Berlin. It takes 30 to 45 minutes. Use [Google Maps](https://www.google.com/maps/place/BER+Airport+-+Terminal+1-2/@52.3647378,13.5089418,16.66z) or [BVG Fahrinfo](https://www.bvg.de/en/subscriptions-and-tickets/all-apps/fahrinfo-app) to get directions. The airport is in zone C, so you must buy an ABC ticket. The ticket costs {{BVG_ABC_TICKET|cur}}€. You can buy tickets at the airport, near the train platform. You can pay with cash or a credit card.[^2] [Validate](/guides/public-transit#validate-your-ticket) your ticket before you get on the train. - [How to use public transit](/guides/public-transit)
+    Take a train from BER airport to Berlin. It takes 30 to 45 minutes. Use [Google Maps](https://www.google.com/maps/place/BER+Airport+-+Terminal+1-2/@52.3647378,13.5089418,16.66z) or [BVG Fahrinfo](https://www.bvg.de/en/subscriptions-and-tickets/all-apps/fahrinfo-app) to get directions. The airport is in zone C, so you must buy an ABC ticket. The ticket costs €{{BVG_ABC_TICKET|cur}}. You can buy tickets at the airport, near the train platform. You can pay with cash or a credit card.[^2] [Validate](/guides/public-transit#validate-your-ticket) your ticket before you get on the train. - [How to use public transit](/guides/public-transit)
 - **Take a taxi**  
     There are taxis outside the BER airport. A ride from the airport to the city centre costs at least €50.[^3] You can also book a taxi with [Uber](https://www.uber.com/global/en/airports/ber/) or [FreeNow](https://www.free-now.com/de/flughafen). You can pay with cash or a credit card.[^4]
 - **Rent a car**  
@@ -49,7 +49,7 @@ Most intercity buses arrive at...
 - [Zentraler Omnibusbahnhof](https://goo.gl/maps/m5e93UyQamw4YvDY6) (ZOB), 25 minutes from the centre
 - [Alexanderplatz](https://goo.gl/maps/Mg5nKPhJzAS7fLNdA), in the centre
 
-If you arrive at BER airport, you need an [ABC train ticket](/guides/public-transit#tariff-zones) to get to Berlin. It costs {{BVG_ABC_TICKET|cur}}€.
+If you arrive at BER airport, you need an [ABC train ticket](/guides/public-transit#tariff-zones) to get to Berlin. It costs €{{BVG_ABC_TICKET|cur}}.
 
 ### By train
 
@@ -87,7 +87,7 @@ The area inside the *[[Ringbahn]]* is an [environmental zone](https://www.berlin
 
 ### How to use public transit in Berlin
 
-Berlin has very good public transit. It's the best way to get around, even when you have a car. Just make sure you [buy the right ticket](/guides/public-transit#buy-a-ticket) and [validate it](/guides/public-transit#validate-your-ticket). If you are caught with the wrong ticket, you will get a [{{BVG_FINE|cur}}€ fine](/guides/paying-a-bvg-fine).
+Berlin has very good public transit. It's the best way to get around, even when you have a car. Just make sure you [buy the right ticket](/guides/public-transit#buy-a-ticket) and [validate it](/guides/public-transit#validate-your-ticket). If you are caught with the wrong ticket, you will get a [€{{BVG_FINE|cur}} fine](/guides/paying-a-bvg-fine).
 
 You can buy a 24 hour, 7 day or 1 month ticket. It's cheaper than buying a ticket every time. There's also the [WelcomeCard](https://www.berlin-welcomecard.de/en), a ticket that gives you rebates on museums and attractions.
 

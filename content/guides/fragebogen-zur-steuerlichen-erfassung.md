@@ -400,8 +400,8 @@ In this section, you choose how you report your income to the *Finanzamt*.
     - **Gewinn- und Verlustrechnung** - Profit and loss statement  
         Also known as double entry bookkeeping. In some cases, you are forced to use double entry bookkeeping.
         - If you will be registered in the *[[Handelsregister]]*, you must choose this option.[^2]
-        - **or** if you register a *[[Gewerbe]]*, and you make more than {{DOUBLE_ENTRY_MIN_INCOME|cur}}€ per year in profit, you must choose this option.[^2]
-        - **or** if you register a *[[Gewerbe]]*, and you make more than {{DOUBLE_ENTRY_MIN_REVENUE|cur}}€ per year in revenue, you must choose this option.[^2]
+        - **or** if you register a *[[Gewerbe]]*, and you make more than €{{DOUBLE_ENTRY_MIN_INCOME|cur}} per year in profit, you must choose this option.[^2]
+        - **or** if you register a *[[Gewerbe]]*, and you make more than €{{DOUBLE_ENTRY_MIN_REVENUE|cur}} per year in revenue, you must choose this option.[^2]
     - **Einnahmen-Überschuss-Rechnung** - Income surplus calculation  
         Also known as single entry bookkeeping or cash-basis accounting. This is simpler than double entry bookkeeping.
         - If you register as a *[[Freiberufler]]*, you do not need to use double entry bookkeeping.[^2] Single entry bookkeeping can be easier for you.
@@ -460,12 +460,12 @@ Your estimated revenue is used decide how you will pay your taxes. It also decid
     How much revenue you expect in your second year of business (your second *calendar* year, not your first 365 days).
 
 **Kleinunternehmer-Regelung**  
-If you are a small business (*[[Kleinunternehmer]]*), you can charge VAT, but you don't have to. You can only be a small business if your revenue is under {{KLEINUNTERNEHMER_MAX_INCOME_FIRST_YEAR|cur}}€ in your first year of business **and** under {{KLEINUNTERNEHMER_MAX_INCOME|cur}}€ in the following years.[^2] *[[Freiberufler]]* and *[[Gewerbe]]* can both be small businesses. - [More information](/guides/kleinunternehmer)
+If you are a small business (*[[Kleinunternehmer]]*), you can charge VAT, but you don't have to. You can only be a small business if your revenue is under €{{KLEINUNTERNEHMER_MAX_INCOME_FIRST_YEAR|cur}} in your first year of business **and** under €{{KLEINUNTERNEHMER_MAX_INCOME|cur}} in the following years.[^2] *[[Freiberufler]]* and *[[Gewerbe]]* can both be small businesses. - [More information](/guides/kleinunternehmer)
 
 - **... In Rechnungen wird keine Umsatzsteuer gesondert ausgewiesen ...**  
     Check this box if you are a small business (*[[Kleinunternehmer]]*), **and** you don't want to charge VAT (*[[Umsatzsteuer]]*) on your invoices. If you think your business will stay small, this can be better.[^11] - [More information](/guides/kleinunternehmer)
 - **... Es wird auf die Anwendung der Kleinunternehmer-Regelung verzichtet. ...**  
-    Check this box if you are a small business (*[[Kleinunternehmer]]*), **and** you want to charge VAT (*[[Umsatzsteuer]]*) on your invoices. If you think your business will make over {{KLEINUNTERNEHMER_MAX_INCOME|cur}}€ per year later, this can be better.[^11] - [More information](/guides/kleinunternehmer)
+    Check this box if you are a small business (*[[Kleinunternehmer]]*), **and** you want to charge VAT (*[[Umsatzsteuer]]*) on your invoices. If you think your business will make over €{{KLEINUNTERNEHMER_MAX_INCOME|cur}} per year later, this can be better.[^11] - [More information](/guides/kleinunternehmer)
 
 **Zahllast / Überschuss (geschätzt)**  
 Enter how much VAT you will collect. This decides how you will make VAT payments to the *Finanzamt*.
@@ -505,7 +505,7 @@ You can choose to calculate VAT payments based on the revenue you *should* have 
     - **Istversteuerung**  
         Check this box if you want to charge VAT based on the amount you *actually* have collected. You only make VAT payments once you receive money from your customers. If you are a freelancer or a small business, this is the best option for you.[^12]
 - **Ich beantrage die Istversteuerung, weil der ... Gesamtumsatz für das Gründungsjahr den in [§ 20 Satz 1 Nummer 1 UStG](https://www.gesetze-im-internet.de/ustg_1980/__20.html) genannten Betrag voraussichtlich nicht übersteigen wird.**  
-    Check this box if you chose *Istversteuerung*, and you expect to make less than {{DOUBLE_ENTRY_MIN_REVENUE|cur}}€ in revenue during your first year.[^14]
+    Check this box if you chose *Istversteuerung*, and you expect to make less than €{{DOUBLE_ENTRY_MIN_REVENUE|cur}} in revenue during your first year.[^14]
 - **Ich beantrage die Istversteuerung, weil ich von der Verpflichtung, Bücher zu führen und auf Grund jährlicher Bestandsaufnahmen regelmäßig Abschlüsse zu machen, nach [§ 148 AO](https://www.gesetze-im-internet.de/englisch_ao/englisch_ao.html#p1456) befreit bin**  
     Check this box if you chose *Istversteuerung*, and you don't want to use double entry bookkeeping because of [§148 AO](https://www.gesetze-im-internet.de/englisch_ao/englisch_ao.html#p1456). In other words, check this box if you think double entry bookkeeping would be too hard for your business.
 - **Ich beantrage die Istversteuerung, weil ich Umsätze ausführe, für die ich als Angehöriger eines freien Berufs im Sinne von [§ 18 Abs. 1 Nr. 1 EStG](https://www.gesetze-im-internet.de/estg/__18.html) weder buchführungspflichtig bin noch freiwillig Bücher führe**  
@@ -523,7 +523,7 @@ If you are not declaring a business association or a business partnership, leave
 
 ### Section 19: Besonderes Besteuerungsverfahren "One-stop-shop"
 
-In this section, you can choose to establish a One Stop Shop (OSS). A One Stop Shop makes it easier to sell to customers in other EU countries. If you plan to have more than {{EU_VAT_SCHWELLENWERT|cur}}€ per year in [[B2C]] [revenue](/glossary/Umsatz) from other EU countries, check this box.
+In this section, you can choose to establish a One Stop Shop (OSS). A One Stop Shop makes it easier to sell to customers in other EU countries. If you plan to have more than €{{EU_VAT_SCHWELLENWERT|cur}} per year in [[B2C]] [revenue](/glossary/Umsatz) from other EU countries, check this box.
 
 **[What is a One Stop Shop?](https://hellotax.com/blog/one-stop-shop/)** - HelloTax
 
@@ -541,8 +541,8 @@ This subsection is for businesses based in Germany.
 - **Ich habe keine Niederlassung in einem anderen EU-Mitgliedstaat und der Gesamtbetrag ... der innergemeinschaftlichen Fernverkäufe ... an ... Nichtunternehmer überschreitet im laufenden Kalenderjahr nicht {{EU_VAT_SCHWELLENWERT|cur}} Euro und hat dies auch im vorangegangenen Kalenderjahr nicht getan.**  
     Check this box if...
     - You sell digital content and services to *customers* (not businesses) in other EU countries
-    - **and** the total revenue from those sales (without VAT) was under {{EU_VAT_SCHWELLENWERT|cur}}€/year this calendar year
-    - **and** the total revenue from those sales (without VAT) was under {{EU_VAT_SCHWELLENWERT|cur}}€/year last calendar year
+    - **and** the total revenue from those sales (without VAT) was under €{{EU_VAT_SCHWELLENWERT|cur}}/year this calendar year
+    - **and** the total revenue from those sales (without VAT) was under €{{EU_VAT_SCHWELLENWERT|cur}}/year last calendar year
     - **and** you do not have a business branch in another country
 - **Die entsprechenden Umsätze werde ich im Inland ... versteuern** - I will pay taxes in Germany for this revenue
 - **Auf die Möglichkeit der Versteuerung der entsprechenden Umsätze im Inland verzichte ich für mindestens zwei Kalenderjahre ...** - I waive the option of taxing the corresponding domestic sales for at least two calendar years

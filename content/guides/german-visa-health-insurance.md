@@ -43,7 +43,7 @@ When you [start working](/guides/find-a-job-in-berlin#start-working), you must s
 
 ### For a work visa or Blue Card
 
-To apply for a [work visa](/glossary/Work%20Visa) or a [[Blue Card]], you need **[public](/glossary/gesetzliche%20Krankenversicherung) or [private](/glossary/private%20Krankenversicherung) health insurance**.  If your salary is under {{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}}€ per year, you can't get private health insurance.
+To apply for a [work visa](/glossary/Work%20Visa) or a [[Blue Card]], you need **[public](/glossary/gesetzliche%20Krankenversicherung) or [private](/glossary/private%20Krankenversicherung) health insurance**.  If your salary is under €{{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}} per year, you can't get private health insurance.
 
 **If you apply in another country** (at the German embassy or consulate), you can get expat insurance to get your [[National Visa]]. When you [start working](/guides/find-a-job-in-berlin#start-working), you must switch to public or private health insurance.[^0]
 

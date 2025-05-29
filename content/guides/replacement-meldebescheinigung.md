@@ -18,7 +18,7 @@ This guide explains how to get a copy of an existing registration certificate. I
 
 ## How to get an Anmeldebestätigung
 
-Request it **[online](https://eww.berlin.de/buergerdienste/app/meldebescheinigung) or in person** from the *[[Bürgeramt]]*. It's free online, or {{ERWEITERTE_MELDEBESCHEINIGUNG_FEE|cur}}€ in person.
+Request it **[online](https://eww.berlin.de/buergerdienste/app/meldebescheinigung) or in person** from the *[[Bürgeramt]]*. It's free online, or €{{ERWEITERTE_MELDEBESCHEINIGUNG_FEE|cur}} in person.
 
 ### Online
 
@@ -56,7 +56,7 @@ You rarely need an *erweiterte Meldebescheinigung*. The regular *Meldebescheinig
 You can request an *erweiterte Meldebescheinigung* by email. They will mail it to you.[^1]
 
 1. [Find your *Bürgeramt*.](https://service.berlin.de/standorte/buergeraemter/) On each *Bürgeramt*'s page, you can find their email and bank details.
-2. Send them {{ERWEITERTE_MELDEBESCHEINIGUNG_FEE|cur}}€ by [bank transfer](/glossary/SEPA-Überweisung). In the payment description, write "erweiterte Meldebescheinigung" and your name.
+2. Send them €{{ERWEITERTE_MELDEBESCHEINIGUNG_FEE|cur}} by [bank transfer](/glossary/SEPA-Überweisung). In the payment description, write "erweiterte Meldebescheinigung" and your name.
 3. Email them, and ask for an *erweiterte Meldebescheinigung*. Use this template:  
 > Title: Antrag auf eine erweiterte Meldebescheinigung
 > 

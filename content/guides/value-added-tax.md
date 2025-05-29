@@ -110,9 +110,9 @@ There are 4 ways to make VAT returns:
 
 | VAT paid last year | When to submit VAT returns |
 |---|---|
-| Under {{VAT_MIN_QUARTERLY_AMOUNT|cur}}€ | Never |
-| {{VAT_MIN_QUARTERLY_AMOUNT|cur}}€ to {{VAT_MIN_MONTHLY_AMOUNT|cur}}€ | Every quarter |
-| Over {{VAT_MIN_MONTHLY_AMOUNT|cur}}€ | Every month |
+| Under €{{VAT_MIN_QUARTERLY_AMOUNT|cur}} | Never |
+| €{{VAT_MIN_QUARTERLY_AMOUNT|cur}} to €{{VAT_MIN_MONTHLY_AMOUNT|cur}} | Every quarter |
+| Over €{{VAT_MIN_MONTHLY_AMOUNT|cur}} | Every month |
 
 **Due date:** You must submit your VAT return before the 10th day of the next month.[^15] If that day is a Saturday, Sunday or public holiday, you have until the next [business day](/glossary/Arbeitstag).[^16]
 
@@ -165,9 +165,9 @@ Use the **[VAT helper](https://europa.eu/youreurope/business/taxation/vat/cross-
 - **If you sell to a private customer** ([[B2C]])
     - **If you sell goods**  
         It depends on how much [[B2C]] [revenue](/glossary/Umsatz) you get from other EU countries:
-        - **Less than {{EU_VAT_SCHWELLENWERT|cur}}€ in EU sales**  
+        - **Less than €{{EU_VAT_SCHWELLENWERT|cur}} in EU sales**  
             You charge the German VAT rate, {{VAT_RATE}}%.
-        - **More than {{EU_VAT_SCHWELLENWERT|cur}}€ in EU sales**  
+        - **More than €{{EU_VAT_SCHWELLENWERT|cur}} in EU sales**  
             You charge the VAT rate in the customer's country. You must register your business for VAT in the customer's country, or [open a One Stop Shop](https://www.elster.de/bportal/start?locale=en_US). - [What is a One Stop Shop?](https://hellotax.com/blog/one-stop-shop/)
     - **If you sell services**  
         You usually charge the German VAT rate, {{VAT_RATE}}%, but there are exceptions:

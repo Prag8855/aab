@@ -24,7 +24,7 @@ A score above 95% is good enough.[^4]
 There are 2 versions of the Schufa:[^5]
 
 - **The [paid version](/out/meineschufa)** (*Bonitätsauskunft*)  
-    It costs {{SCHUFA_REPORT_FEE|cur}}€. It looks more official, so landlords prefer it.[^7] You can get it online now (as a PDF), or by post in 1 to 3 days. You must verify your documents with your phone or computer camera. It works with most passports.[^12]
+    It costs €{{SCHUFA_REPORT_FEE|cur}}. It looks more official, so landlords prefer it.[^7] You can get it online now (as a PDF), or by post in 1 to 3 days. You must verify your documents with your phone or computer camera. It works with most passports.[^12]
 - **The [free version](https://www.meineschufa.de/de/datenkopie)** (*Datenkopie*)  
     It has the same information, but they make it look worse:[^3]
     - It's harder to read. Your score is mixed with your private information. You must censor it before you share it.[^6]
@@ -33,7 +33,7 @@ There are 2 versions of the Schufa:[^5]
 
 The paid version is better for apartment applications; it's what landlords expect.[^7] The free version is better for your own use.
 
-You can also get a Schufa from [ImmoScout24](https://bonitaetscheck.immobilienscout24.de/). It costs {{SCHUFA_REPORT_FEE|cur}}€. If you have a [premium membership](https://www.immobilienscout24.de/meinkonto/premium-mitgliedschaft/), you pay 20% to 50% less. It does not work for everyone. You must verify your identity with your bank, and some banks are not supported.{{ fail_on('2025-12-01') }}
+You can also get a Schufa from [ImmoScout24](https://bonitaetscheck.immobilienscout24.de/). It costs €{{SCHUFA_REPORT_FEE|cur}}. If you have a [premium membership](https://www.immobilienscout24.de/meinkonto/premium-mitgliedschaft/), you pay 20% to 50% less. It does not work for everyone. You must verify your identity with your bank, and some banks are not supported.{{ fail_on('2025-12-01') }}
 
 The [Bonify app](https://www.bonify.de/) shows the same information as the free Schufa report.[^10] The app does not work well, tries to sell you financial products, and is a privacy risk.[^8] I don't recommend it.
 
@@ -68,7 +68,7 @@ Not all companies check your score. Foreign companies rarely care about Schufa. 
 
 After you get your Schufa report, [look for an apartment](/guides/find-a-flat-in-berlin).
 
-Get a [free report](https://www.meineschufa.de/de/datenkopie) every year, and check if the information is correct.[^9] False information can lower your Schufa score. You don't need the {{SCHUFA_REPORT_FEE|cur}}€ version for this.
+Get a [free report](https://www.meineschufa.de/de/datenkopie) every year, and check if the information is correct.[^9] False information can lower your Schufa score. You don't need the €{{SCHUFA_REPORT_FEE|cur}} version for this.
 
 [^0]: [advocado.de](https://www.advocado.de/ratgeber/bank-und-kapitalmarktrecht/bonitaet/wann-bekommt-man-einen-schufa-eintrag.html#wann-steht-man-in-der-schufa), [HereLocation](https://herelocation.de/de/schufa-auskunft-fuer-auslaender/#:~:text=eine%20schufa-auskunft%20erhalten%20internationale%20transferres) (2025), Graham Pugh, [apartment search expert](https://www.berlinrelo.de/) (January 2024)
 [^1]: Wendelin Winkelmann, meineSchufa.de (July 2024)

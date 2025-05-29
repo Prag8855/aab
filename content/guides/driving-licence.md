@@ -14,7 +14,7 @@ This guide shows you how to get a car or motorcycle driving licence in Berlin.
 In total, it costs **around €4,000** to get your driving licence.[^0]{{fail_on('2026-06-01')}} The costs include:
 
 - [ ] Eyesight test: [€0](https://www.fielmann.de/service/fuehrerschein-sehtest/) to €25
-- [ ] Driving licence fees: {{DRIVING_LICENCE_FEE|cur}}€
+- [ ] Driving licence fees: €{{DRIVING_LICENCE_FEE|cur}}
 - [ ] Theory lessons: around €150
 - [ ] Theoretical exam: €22.49[^1]
 - [ ] Practical lessons: around €70 for 45 minutes[^2]
@@ -97,14 +97,14 @@ Bring these documents for your *[[Bürgeramt]]* appointment:[^7]
 3. Eyesight test certificate
 4. Biometric picture - [where to get one](/guides/biometric-pictures-in-berlin){{ fail_on('2026-01-01')}}
 5. Contract from your driving school (*Ausbildungvertrag*) - [mine looked like this](/images/ausbildungvertrag.jpg)
-6. Payment for the {{DRIVING_LICENCE_FEE|cur}}€ fee - Check which payment methods your *Bürgeramt* accepts.
+6. Payment for the €{{DRIVING_LICENCE_FEE|cur}} fee - Check which payment methods your *Bürgeramt* accepts.
 
 ### During the Bürgeramt appointment
 
 The appointment takes 15 minutes. During the appointment, you must:
 
 - Show the required documents
-- Pay the {{DRIVING_LICENCE_FEE|cur}}€ fee
+- Pay the €{{DRIVING_LICENCE_FEE|cur}} fee
 - Choose the Dekra or TÜV location where you will take your driving exam
 
 If you can, ask them to mail you the driving licence when it's ready. It costs €5 more, but it means you don't have to pick it up at the *Fahrerlaubnisbehörde*.

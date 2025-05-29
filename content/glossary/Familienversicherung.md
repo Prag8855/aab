@@ -19,7 +19,7 @@ Your insurance covers...
 Your insurance only covers them if...[^1]
 
 - You have [public health insurance](/glossary/gesetzliche%20Krankenversicherung)
-- and their total income is under {{GKV_FAMILIENVERSICHERUNG_MAX_INCOME|cur}}€ per month, or {{MINIJOB_MAX_INCOME|cur}}€ per month for a [minijob](/glossary/Minijob)
+- and their total income is under €{{GKV_FAMILIENVERSICHERUNG_MAX_INCOME|cur}} per month, or €{{MINIJOB_MAX_INCOME|cur}} per month for a [minijob](/glossary/Minijob)
 - and they are not self-employed full time
 - and they are not a civil servant (*Beamter*)
 - and they are not an apprentice (*[[Azubi]]*)[^2]

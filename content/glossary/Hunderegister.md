@@ -8,6 +8,6 @@ Related_guides:
     guides/dog-ownership.md
 ---
 
-In Berlin, all dogs must be registered in the dog registry (*Hunderegister*). The registration costs {{HUNDEREGISTER_FEE|cur}}€.
+In Berlin, all dogs must be registered in the dog registry (*Hunderegister*). The registration costs €{{HUNDEREGISTER_FEE|cur}}.
 
 **[Berlin dog register](https://hunderegister.berlin.de/)** - Berlin.de

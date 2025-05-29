@@ -79,7 +79,7 @@ This is how you get a trade certificate (*[[Gewerbeschein]]*). Your employer mig
 
 If you are a *Gewerbetreibender*, you must pay the trade tax (*[[Gewerbesteuer]]*). You register for trade tax when you do the *[[Gewerbeanmeldung]]*. If you are a *[[Freiberufler]]*, you don't pay the trade tax.
 
-In Berlin, trade tax costs an extra {{GEWERBESTEUER_EXTRA_COST_BERLIN}}% of all [profit](/glossary/Gewinn) above {{GEWERBESTEUER_FREIBETRAG|cur}}€ per year.
+In Berlin, trade tax costs an extra {{GEWERBESTEUER_EXTRA_COST_BERLIN}}% of all [profit](/glossary/Gewinn) above €{{GEWERBESTEUER_FREIBETRAG|cur}} per year.
 
 **[What is the trade tax? ➞](/guides/gewerbesteuer)**
 
@@ -101,8 +101,8 @@ In Berlin, if you are a *Gewerbetreibender*, you automatically join the [[IHK]].
 
 As a *Gewerbetreibender*, you must use double entry bookkeeping if...[^12]
 
-- your [profit](/glossary/Gewinn) is over {{DOUBLE_ENTRY_MIN_INCOME|cur}}€ per year
-- **or** your [revenue](/glossary/Umsatz) is over {{DOUBLE_ENTRY_MIN_REVENUE|cur}}€ per year
+- your [profit](/glossary/Gewinn) is over €{{DOUBLE_ENTRY_MIN_INCOME|cur}} per year
+- **or** your [revenue](/glossary/Umsatz) is over €{{DOUBLE_ENTRY_MIN_REVENUE|cur}} per year
 - **or** you are listed in the trade register (*[[Handelsregister]]*)
 
 *Freiberufler* don't need to use double entry bookkeeping.

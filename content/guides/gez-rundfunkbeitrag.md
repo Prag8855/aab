@@ -5,7 +5,7 @@ Description: The TV tax is a broadcasting tax that every German household must p
 Date_created: 2017-10-10
 ---
 
-The TV tax (*Rundfunkbeitrag*) is a public broadcasting tax in Germany. It costs {{RUNDFUNKBEITRAG_FEE|cur}}€ per household per month.
+The TV tax (*Rundfunkbeitrag*) is a public broadcasting tax in Germany. It costs €{{RUNDFUNKBEITRAG_FEE|cur}} per household per month.
 
 {% include "_blocks/tableOfContents.html" %}
 
@@ -17,7 +17,7 @@ The TV tax is collected by the *[ARD ZDF Deutschlandradio Beitragsservice](https
 
 ### How much is the TV tax?
 
-The German TV tax costs **{{RUNDFUNKBEITRAG_FEE|cur}}€ per household per month**. Each *household* pays {{RUNDFUNKBEITRAG_FEE|cur}}€/month. If you live with other people, only one person has to pay the TV tax.
+The German TV tax costs **€{{RUNDFUNKBEITRAG_FEE|cur}} per household per month**. Each *household* pays €{{RUNDFUNKBEITRAG_FEE|cur}}/month. If you live with other people, only one person has to pay the TV tax.
 
 ### Do I really have to pay it?
 
@@ -63,7 +63,7 @@ How to pay by bank transfer:
 
 ### If you live with other people
 
-Each *household* pays {{RUNDFUNKBEITRAG_FEE|cur}}€/month. If you live with other people, only one person has to pay the TV tax.[^12] You can decide how you share the cost. If someone in your household already pays the TV tax, you must fill [this deregistration form](https://www.rundfunkbeitrag.de/buergerinnen_und_buerger/formulare/abmelden/index_ger.html).
+Each *household* pays €{{RUNDFUNKBEITRAG_FEE|cur}}/month. If you live with other people, only one person has to pay the TV tax.[^12] You can decide how you share the cost. If someone in your household already pays the TV tax, you must fill [this deregistration form](https://www.rundfunkbeitrag.de/buergerinnen_und_buerger/formulare/abmelden/index_ger.html).
 
 If you live in a student dorm (*Studentenwohnheim*), you must still pay the TV tax.[^5]
 

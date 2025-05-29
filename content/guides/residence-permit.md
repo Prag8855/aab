@@ -55,7 +55,7 @@ If you have a job offer:
 - **[[Internship visa]]**  
     For university students. Do an internship in Germany for up to 6 months.
 - **[[Au pair visa]]**  
-    For people who want to be a helper (*[au pair](/glossary/Au%20pair)*) for a host family in Germany. You need an au pair contract. You must be under 27 years old.[^5] It's valid for up to 1 year. Your income must be over {{ AU_PAIR_MIN_ALLOWANCE|cur }}€ per month. There is no education requirement.
+    For people who want to be a helper (*[au pair](/glossary/Au%20pair)*) for a host family in Germany. You need an au pair contract. You must be under 27 years old.[^5] It's valid for up to 1 year. Your income must be over €{{ AU_PAIR_MIN_ALLOWANCE|cur }} per month. There is no education requirement.
 - **[Permanent residence](/glossary/Niederlassungserlaubnis)** - [How to apply](/guides/permanent-residence)  
     You can already take any job. You don't need permission from the *[[Ausländerbehörde]]*.
 - **Other residence permits**  
@@ -265,7 +265,7 @@ To apply in your country:[^27]
 6. Come to Germany and start working or studying.
 7. Convert your National Visa into a residence permit.
 
-**To get a residence permit faster**, use the [fast-track procedure](https://www.make-it-in-germany.com/en/looking-for-foreign-professionals/entering/the-fast-track-procedure-for-skilled-workers) (*Beschleunigtes Verfahren*). It costs {{FAST_TRACK_FEE|cur}}€.[^39] In India, Pakistan, Bangladesh and many African countries, it takes months to get an embassy appointment. The fast-track procedure really helps, especially if you bring your family with you.[^40]
+**To get a residence permit faster**, use the [fast-track procedure](https://www.make-it-in-germany.com/en/looking-for-foreign-professionals/entering/the-fast-track-procedure-for-skilled-workers) (*Beschleunigtes Verfahren*). It costs €{{FAST_TRACK_FEE|cur}}.[^39] In India, Pakistan, Bangladesh and many African countries, it takes months to get an embassy appointment. The fast-track procedure really helps, especially if you bring your family with you.[^40]
 
 ### 1. Find a job
 

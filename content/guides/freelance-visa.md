@@ -41,7 +41,7 @@ To get a freelance visa, you need...[^18]
 - [ ] **A local economic interest**  
     You must have clients in Germany, or hire German employees.[^71]
 - [ ] **Enough income**  
-    In Berlin, your [gross income](/glossary/Brutto%20income) must be more than your rent + your health insurance + {{FREELANCE_VISA_MIN_INCOME|cur}}€ per month.[^53] If you support children or a spouse, you need a higher income.[^79]
+    In Berlin, your [gross income](/glossary/Brutto%20income) must be more than your rent + your health insurance + €{{FREELANCE_VISA_MIN_INCOME|cur}} per month.[^53] If you support children or a spouse, you need a higher income.[^79]
 - [ ] **Self-employed work**  
     You must be self-employed.[^73] You can't be an employee with social benefits. [Fake self-employment](/glossary/Scheinselbstständigkeit) is not allowed.[^3] If you only have one client, you might not get a freelance visa.
 - [ ] **Permission to do this job**  
@@ -50,10 +50,10 @@ To get a freelance visa, you need...[^18]
 If you are over 45 years old, and you are not a citizen of {{AUFENTHG_21_2_COUNTRIES}}, you must have...[^58]
 
 - [ ] **A private retirement pension**  
-    Your pension must guarantee {{FREELANCE_VISA_MIN_MONTHLY_PENSION|cur}}€ per month for at least 12 years after you turn 67 years old.[^59]
+    Your pension must guarantee €{{FREELANCE_VISA_MIN_MONTHLY_PENSION|cur}} per month for at least 12 years after you turn 67 years old.[^59]
 - [ ] or **a public pension**  
     You need a guaranteed public pension in Germany, Australia, Bosnia-Herzegovina, Chile, India, Israel, Japan, Canada, Kosovo, Morocco, North Macedonia, Montenegro, Serbia, South Korea, Tunisia, Turkey or the United States.[^60] If you made 5 years of public pension payments in Germany, you have a guaranteed public pension.
-- [ ] or **{{FREELANCE_VISA_MIN_PENSION|cur}}€ in business assets**
+- [ ] or **€{{FREELANCE_VISA_MIN_PENSION|cur}} in business assets**
 
 **You do not need to speak German** to get a freelance visa.[^27]
 
@@ -109,7 +109,7 @@ Before you apply for the freelance visa...
 - [ ] **[Find a place to live](/guides/find-a-flat-in-berlin)**  
     It's really hard to find your first apartment. It's much harder for freelancers. Start looking as soon as you can. Your only options might be a [[WG]] or a furnished apartment.[^29]
     - [ ] You must be allowed to [register your address](/glossary/Anmeldung). Your landlord must give you a [tenancy confirmation](/glossary/Wohnungsgeberbestätigung). If you can't get a tenancy confirmation, you might not get a freelance visa.[^1]
-    - [ ] Your rent must be affordable. In Berlin, your income must be more than your rent + your health insurance + {{FREELANCE_VISA_MIN_INCOME|cur}}€ per month before taxes.[^53]
+    - [ ] Your rent must be affordable. In Berlin, your income must be more than your rent + your health insurance + €{{FREELANCE_VISA_MIN_INCOME|cur}} per month before taxes.[^53]
     - [ ] Your apartment must be big enough. You need 9 m^2^ per adult, and 6 m^2^ per child.[^80]
 - [ ] **[Get health insurance](/guides/german-visa-health-insurance#for-a-freelance-visa)**  
     You need valid [health insurance](/glossary/Krankenversicherung). Many applications are rejected because of invalid health insurance.[^30] [Ask my health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose the correct health insurance. Don't choose insurance yourself; it's a really bad idea. Many applications get rejected because people have the wrong health insurance.[^21]
@@ -280,7 +280,7 @@ If you can, you should also bring...
 - [ ] **[QR code for biometric pictures](/guides/biometric-pictures-in-berlin)** (35 × 45 mm)  
     Printed passport photos are not allowed. Only QR codes are accepted. See [how to get biometric pictures](/guides/biometric-pictures-in-berlin).
 - [ ] **Cash, Visa, Mastercard or [[Girocard]]**  
-    You must pay the {{NATIONAL_VISA_FEE|cur}}€ application fee.[^44] This fee is [tax-deductible](/glossary/steuerlich%20absetzbar), so keep the receipt.
+    You must pay the €{{NATIONAL_VISA_FEE|cur}} application fee.[^44] This fee is [tax-deductible](/glossary/steuerlich%20absetzbar), so keep the receipt.
 
 ### Optional documents
 
@@ -333,7 +333,7 @@ If you have a freelance visa, you qualify for [permanent residence](/glossary/Ni
 
 **[How to apply for permanent residence ➞](/guides/permanent-residence)**
 
-If you plan to become a permanent resident, start making voluntary [public pension](/glossary/gesetzliche%20Rentenversicherung) payments. You usually need 60 months of pension payments to qualify for permanent residence. The minimum payment is {{RV_MIN_CONTRIBUTION|cur}}€ per month. You can also get a private pension instead.
+If you plan to become a permanent resident, start making voluntary [public pension](/glossary/gesetzliche%20Rentenversicherung) payments. You usually need 60 months of pension payments to qualify for permanent residence. The minimum payment is €{{RV_MIN_CONTRIBUTION|cur}} per month. You can also get a private pension instead.
 
 **[Pension requirements for permanent residence ➞](/guides/permanent-residence#pension-requirements)**
 

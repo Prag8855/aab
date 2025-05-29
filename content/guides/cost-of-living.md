@@ -60,7 +60,7 @@ For €35 per month, you can get a 100 Mbit/s internet connection.
 
 ### TV tax
 
-**Cost:** {{RUNDFUNKBEITRAG_FEE|cur}}€ per household per month
+**Cost:** €{{RUNDFUNKBEITRAG_FEE|cur}} per household per month
 
 Every household pays the TV tax (*[[Rundfunkbeitrag]]*). If you live with other people, you can split the cost. [In some cases](/guides/gez-rundfunkbeitrag#how-to-pay-less), you don't have to pay it.
 
@@ -80,7 +80,7 @@ If you only eat at home, you should pay around €200 per month for groceries. I
 
 ### Public transit
 
-**Cost (Berlin):** €42 to €99 per month (monthly pass), or {{ BVG_AB_TICKET }}€ per ride
+**Cost (Berlin):** €42 to €99 per month (monthly pass), or €{{ BVG_AB_TICKET }} per ride
 
 ### Vehicles
 
@@ -183,7 +183,7 @@ My budget includes a motorcycle, and a garage (€120/month). You don't need tho
 | [Rent](/glossary/Warmmiete)                       | €678 | €8,136 |
 | Groceries                        | €175 | €2,100 |
 | Electricity                      | €50  | €600   |
-| Public transit pass              | {{DEUTSCHLAND_TICKET_PRICE|cur}}€ | {{(DEUTSCHLAND_TICKET_PRICE*12)|cur}}€ |
+| Public transit pass              | €{{DEUTSCHLAND_TICKET_PRICE|cur}} | €{{(DEUTSCHLAND_TICKET_PRICE*12)|cur}} |
 | Internet                         | €40  | €480   |
 | [Vehicle insurance](/glossary/Kfz-Versicherung)          | €25  | €304   |
 | [TV tax (*Rundfunkbeitrag*)](/glossary/Rundfunkbeitrag) | €18  | €210   |
