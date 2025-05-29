@@ -108,7 +108,7 @@ class CurrencyExtension(Extension):
     """
 
     def extendMarkdown(self, md):
-        md.preprocessors.register(JinjaCurrencyPreprocessor(md), 'cur', 25)
+        md.preprocessors.register(CurrencyPreprocessor(md), 'cur', 25)
         md.preprocessors.register(JinjaCurrencyPreprocessor(md), 'jinja-cur', 26)
 
 
