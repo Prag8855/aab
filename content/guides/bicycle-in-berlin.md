@@ -59,7 +59,7 @@ If you are caught with a stolen bicycle, the police will seize it. If you can fi
 If you only stay in Berlin for a few months, you can rent a bicycle instead.
 
 - **[Swapfiets](https://swapfiets.de/)**  
-    Rent a bicycle for a few months. Minimum 15€ per month.{{fail_on('2025-06-01')}} Maintenance and repairs are included in the price. They also rent electric bikes.
+    Rent a bicycle for a few months. Minimum 15€ per month.{{fail_on('2025-12-01')}} Maintenance and repairs are included in the price. They also rent electric bikes.
 - **[Recyclies](https://recyclies.com/)**  
     Recycled and refurbished bicycles. Cheaper than Swapfiets, with more flexible contracts. Maintenance and repairs are included in the price.
 - **[Bikesurf](https://www.bikesurf.org/)**  

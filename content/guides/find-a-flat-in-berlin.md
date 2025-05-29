@@ -161,7 +161,7 @@ In Berlin, **you can't be picky**, but you can still avoid [scams](/guides/housi
 
 - [ ] **[Is it a scam?](/guides/housing-scams)**
 - [ ] **Is the price fair?**  
-    The [ImmoScout24 rent atlas](https://atlas.immobilienscout24.de/) shows rent prices in the area. Furnished apartments are much more expensive. If you can't afford the rent, the [immigration office](/glossary/Ausländerbehörde) can reject your [residence permit](/glossary/Aufenthaltstitel) application.[^2] If the price is too low, it might be a scam.
+    An unfurnished apartment costs 15 to 22€/m^2^.{{ fail_on('2026-06-01')}} Temporary furnished apartments are more expensive. Long-term residents can find cheaper apartments. Recent immigrants usually pay more. Check the [ImmoScout24 rent atlas](https://atlas.immobilienscout24.de/). If you can't afford the rent, the [immigration office](/glossary/Ausländerbehörde) can reject your [residence permit](/glossary/Aufenthaltstitel) application.[^2]
 - [ ] **Can you [register your address](/glossary/Anmeldung) there?**  
     Choose an apartment where you can do your *[[Anmeldung]]*. [It's very important](/guides/anmeldung-in-english-berlin#why-you-must-register-your-address) for recent immigrants.
 - [ ] **Is the lease unlimited?**  

@@ -31,7 +31,11 @@ In Germany, a part of your [gross income](/glossary/Brutto%20income) (*Brutto*) 
 
 In Germany, there is the cold rent (*[[Kaltmiete]]*), and the warm rent (*[[Warmmiete]]*). The warm rent includes utilities (*[[Nebenkosten]]*).
 
-Rent is often your biggest expense. An unfurnished apartment costs around 24€/m^2^ or 2.25€/sqft.[^1]{{ fail_on('2025-12-01')}} Immigrants often get expensive furnished apartments, because they can't find anything else. After a few months in Germany, [get your rent lowered](/guides/moving-in#lower-your-rent) or look for a cheaper apartment.
+Rent is usually your biggest expense. An unfurnished apartment costs 15 to 22€/m^2^.{{ fail_on('2026-06-01')}} Temporary furnished apartments are more expensive.
+
+If you just moved to Germany, you usually pay more for rent. [Landlords prefer stable tenants](/guides/find-a-flat-in-berlin#what-landlords-want), so cheap apartments usually go to long-term residents.
+
+If you just moved to Germany, you might need to pay more. Immigrants often get expensive furnished apartments, because they can't find anything else. After a few months in Germany, [get your rent lowered](/guides/moving-in#lower-your-rent) or look for a cheaper apartment.
 
 **[How to pay less rent ➞](/guides/saving-money-germany#rent)**
 
@@ -154,20 +158,19 @@ This is an example budget for a single person who lives in Berlin. It uses reali
 
 ### Income
 
-3,994€ was the average German salary in 2019.[^2] I used health insurance from [[Techniker Krankenkasse]]. I used the tax class for a single person without children.{{ fail_on('2025-06-01') }}
+4,634€ was the average German salary in 2024.[^2] This is an example budget for an unmarried employee with no children.{{ fail_on('2026-01-01') }}
 
-**[Calculate your taxes ➞](/tools/tax-calculator)**
+**[Calculate your income after taxes ➞](/tools/tax-calculator)**
 
 | Description | Monthly | Yearly  |
 |-------------|--------:|--------:|
-| [Gross income](/glossary/Brutto%20income) | 3,994€ | 47,928€ |
-| [Church tax](/glossary/Kirchensteuer) | 59€ | 708€ |
-| [Income tax](/glossary/Einkommensteuer) | 656€ | 7,873€ |
-| [Pension insurance](/glossary/gesetzliche%20Rentenversicherung) | 371€ | 4,457€  |
-| [Unemployment insurance](/glossary/Arbeitslosenversicherung) | 48€ | 575€ |
-| [Health insurance](/glossary/Krankenversicherung) | 316€ | 3,786€ |
-| [Long-term care insurance](/glossary/Pflegeversicherung) | 71€ | 851€ |
-| **Net income**<br>This is the money you have left to spend | 2,473€ | 29,677€ |
+| [Gross income](/glossary/Brutto%20income) | 4,634€ | 55,608€ |
+| [Church tax](/glossary/Kirchensteuer) | 63€ | 756€ |
+| [Income tax](/glossary/Einkommensteuer) | 699€ | 8,388€ |
+| [Pension insurance](/glossary/gesetzliche%20Rentenversicherung) | 431€ | 5,172€  |
+| [Unemployment insurance](/glossary/Arbeitslosenversicherung) | 60€ | 720€ |
+| [Health insurance](/glossary/Krankenversicherung) | 506€ | 6,072€ |
+| **[Net income](/glossary/Netto%20income)**<br>This is the money you have left to spend | 2,875€ | 34,500€ |
 
 ### Expenses
 
@@ -193,5 +196,4 @@ My budget includes a motorcycle, and a garage (120€/month). You don't need tho
 
 **[How to save money in Germany ➞](/guides/saving-money-germany)**
 
-[^1]: Graham Pugh, [apartment search expert](https://www.berlinrelo.de/) (January 2024)
 [^2]: [destatis.de](https://www.destatis.de/DE/Themen/Arbeit/Verdienste/Verdienste-Branche-Berufe/_inhalt.html#:~:text=Verdienste%202019%3A%20durchschnittlich%203%20994%20Euro%20brutto%20im%20Monat%20-%20Statistisches%20Bundesamt)
