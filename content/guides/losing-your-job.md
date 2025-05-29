@@ -112,11 +112,13 @@ When you know that you will be unemployed, register as a job seeker at the *[[Ag
 
 If you have a [residence permit](/glossary/Aufenthaltstitel), always tell the *[[Ausländerbehörde]]* when you change or lose your job. Do not wait more than 2 weeks.[^11] [Permanent residents](/glossary/Niederlassungserlaubnis) don't need to do this.
 
+**If you change employers**, use the [online form](https://service.berlin.de/dienstleistung/326856/) to tell the *Ausländerbehörde*.[^39] You get a PDF confirmation.
+
+**If you lose your job**, use my letter generator to write the message. Use the [*Ausländerbehörde*'s contact form](/guides/immigration-office#use-the-contact-form) to send it to the [correct department](/guides/immigration-office#departments). Attach your [resignation letter](/glossary/Kündigungsschreiben) or termination notice. If you have a new job, also attach your new work contract.
+
 {% include "_blocks/auslaenderbehoerdeJobChangeNotice.html" %}
 
-Use my letter generator to write your message. Use the [*Ausländerbehörde*'s contact form](/guides/immigration-office#use-the-contact-form) to send it. Attach your [resignation letter](/glossary/Kündigungsschreiben) or termination notice. If you have a new job, also attach your new work contract
-
-In Berlin, the *Ausländerbehörde* will reply by email. It can take a few weeks. They might not reply at all.[^46]
+The *Ausländerbehörde* will reply by email. It can take a few weeks. They might not reply at all.[^46]
 
 **[What happens to your residence permit ➞](#what-happens-to-your-residence-permit)**
 
@@ -344,6 +346,7 @@ If you need help, get legal help. In Germany, it's normal to hire a lawyer. It's
 [^36]: [§18g Abs. 4 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18g.html)
 [^37]: Experience of a friend (January 2025), [VAB 18.2.2.2](/out/vab) (January 2025)
 [^38]: [§18g Abs. 4 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18g.html)
+[^39]: [Berlin.de](https://www.berlin.de/einwanderung/ueber-uns/aktuelles/artikel.1564491.php) (May 2025)
 [^40]: [karrierebibel.de](https://karrierebibel.de/schneller-aus-dem-arbeitsvertrag/#:~:text=versuch%20einer%20einvernehmlichen%20einigung)
 [^43]: [Alexander von Engelhardt](https://www.vonengelhardt.com/en/) (July 2023)
 [^44]: [Dr. Drees](https://www.dr-drees.com/abfindung-per-kuendigungsschutzklage/) (July 2024)
