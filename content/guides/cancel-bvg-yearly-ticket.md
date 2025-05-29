@@ -59,7 +59,7 @@ The BVG will receive your request, and confirm that your subscription is cancell
 
 ### 4. Return your BVG card
 
-At the end of your 12 month subscription, your BVG card will stop working. You have 10 days to return it to the BVG.[^4] If you do not return the card, you will be billed 10€.[^2] You can send the card by mail, or bring it to a [BVG Kundenzentrum](https://www.bvg.de/de/service-und-kontakt/verkaufsstellen).
+At the end of your 12 month subscription, your BVG card will stop working. You have 10 days to return it to the BVG.[^4] If you do not return the card, you will be billed €10.[^2] You can send the card by mail, or bring it to a [BVG Kundenzentrum](https://www.bvg.de/de/service-und-kontakt/verkaufsstellen).
 
 ## How to cancel in person
 

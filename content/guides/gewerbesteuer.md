@@ -21,7 +21,7 @@ In Berlin, trade tax is {{ GEWERBESTEUER_RATE_BERLIN }}% of all profit above {{G
 
 To calculate your trade tax:
 
-1. Take your [profit](/glossary/Gewinn) for the year, and round it down to the nearest 100€.[^11]
+1. Take your [profit](/glossary/Gewinn) for the year, and round it down to the nearest €100.[^11]
 2. If you are a sole proprietor (*Einzelunternehmer*), remove {{GEWERBESTEUER_FREIBETRAG|cur}}€ (the tax-free amount).
 2. Multiply that by {{ GEWERBESTEUER_RATE }}%.
 3. Multiply that by [the *Hebesatz* in your city](https://www.lexoffice.de/wissenswelt/gewerbesteuerhebesatz/). In Berlin, it's {{ GEWERBESTEUER_HEBESATZ_BERLIN }}%.
@@ -42,7 +42,7 @@ If you are a sole proprietor (*Einzelunternehmer*), you get an income tax credit
 
 ### Tax-free amount
 
-If you are a sole proprietor (*Einzelunternehmer*), the first {{GEWERBESTEUER_FREIBETRAG|cur}}€ per year in profit are not taxed. If you have a society (*Verein*), the first 5,000€ per year in profit are not taxed.[^4] If you have a corporation (*Kapitalgesellschaft*, *AG*, *GmbH*), the entire profit is taxed.[^5]
+If you are a sole proprietor (*Einzelunternehmer*), the first {{GEWERBESTEUER_FREIBETRAG|cur}}€ per year in profit are not taxed. If you have a society (*Verein*), the first €5,000 per year in profit are not taxed.[^4] If you have a corporation (*Kapitalgesellschaft*, *AG*, *GmbH*), the entire profit is taxed.[^5]
 
 ## IHK membership
 

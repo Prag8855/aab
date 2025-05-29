@@ -39,7 +39,7 @@ For each person, you need...
 - [ ] **Income certificate** (*Einkommensbescheinigung*)  
     If you have a work contract, your employer's HR department should provide you with a copy. If you’re a freelancer, download [this form](/images/2224_71_1.pdf) and [ask an accountant](/guides/english-speaking-steuerberater-berlin) to review/sign it for you.
 - [ ] **Certificate of no impediment to marriage** (*Ehefähigkeitszeugnis*)  
-    You can usually get it from your embassy. To get this document, you might need to send more documents. It can take a few weeks. Some countries don't to give a valid *Ehefähigkeitszeugnis*. Your certificate might need to be approved by a *Kammergericht* for around 75€.
+    You can usually get it from your embassy. To get this document, you might need to send more documents. It can take a few weeks. Some countries don't to give a valid *Ehefähigkeitszeugnis*. Your certificate might need to be approved by a *Kammergericht* for around €75.
 - [ ] **Divorce certificate**  
     If you were married before, you need it to prove your divorce. If it's not a EU birth certificate, it needs an *Apostille* and [certified translation](/glossary/beglaubigte%20Übersetzung).
 
@@ -71,7 +71,7 @@ Book an appointment in Berlin:
 
 If you don't speak German, you must bring an interpreter to your *Standesamt* appointment.[^6] You can't just bring a friend who speaks German.
 
-They might require a *sworn* interpreter (*beeidigte Dolmetscher*), not just a regular interpreter. A regular interpreter costs around 140€. A sworn interpreter costs around 240€.[^8]{{ fail_on('2025-12-31') }}
+They might require a *sworn* interpreter (*beeidigte Dolmetscher*), not just a regular interpreter. A regular interpreter costs around €140. A sworn interpreter costs around €240.[^8]{{ fail_on('2025-12-31') }}
 
 In Berlin, I recommend [Red Tape Translation](/out/red-tape-translation-standesamt). They have both regular and sworn interpreters.
 

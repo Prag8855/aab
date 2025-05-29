@@ -17,7 +17,7 @@ Most people tip in restaurants, but it's okay if you don't.[^0] The waiter won't
 
 ### Restaurants with table service
 
-Most people **round up by 1 or 2€**.[^2] For example, if your bill is 16.30€, you give 17€ or 18€ in total. You don't have to tip more if the bill is higher.
+Most people **round up by €1 or €2**.[^2] For example, if your bill is €16.30, you give €17 or €18 in total. You don't have to tip more if the bill is higher.
 
 Other people tip around 10% of the bill.[^3] For larger bills, they usually tip less - around 5%.[^4] 18% of Germans don't tip at all.[^17]
 
@@ -25,7 +25,7 @@ Other people tip around 10% of the bill.[^3] For larger bills, they usually tip 
 
 ### Restaurants without table service
 
-In restaurants without table service, tipping is less common. If you want, you can round up your bill. For example, if the bill is 5.50€, you can leave 6€.[^6]
+In restaurants without table service, tipping is less common. If you want, you can round up your bill. For example, if the bill is €5.50, you can leave €6.[^6]
 
 People rarely tip in fast food restaurants like McDonalds or Burger King.[^16]
 
@@ -39,7 +39,7 @@ When the tip goes directly to the employee, it's not taxed. If it's shared betwe
 
 Tipping in cafés and bars works **like in restaurants**. You can tip if you are happy with the service, but it's optional.
 
-When there is table service, you can round up your bill, or tip 10%. For example, if a beer costs 4.50€, you can give 5€.
+When there is table service, you can round up your bill, or tip 10%. For example, if a beer costs €4.50, you can give €5.
 
 When there is no table service, tipping is not expected.[^23]
 
@@ -47,7 +47,7 @@ When there is no table service, tipping is not expected.[^23]
 
 ### Food delivery
 
-Tipping is optional. People often tip **0.50€ to 2€**.[^8] When the weather is really bad, people sometimes give more.
+Tipping is optional. People often tip **€0.50 to €2**.[^8] When the weather is really bad, people sometimes give more.
 
 **Tip the driver directly, in cash**.[^9] When you tip in the delivery app, the money sometimes goes to the restaurant. Some restaurants don't give the tips to their drivers.[^10]
 
@@ -67,11 +67,11 @@ Tipping is optional. Around half of customers tip. If you are happy with your ha
 
 People rarely leave a tip in hotel rooms. It's not expected. You can leave a few Euros in your room for the cleaning staff, if you choose to.[^13]
 
-When you order room service, you can tip 1€ or 2€.[^21]
+When you order room service, you can tip €1 or €2.[^21]
 
 ## Other services
 
-At the cloak room (coat check), tipping is optional. You can give **0.50€ to 1€**.[^24]
+At the cloak room (coat check), tipping is optional. You can give **€0.50 to €2**.[^24]
 
 ## How to leave a tip
 
@@ -79,17 +79,17 @@ At the cloak room (coat check), tipping is optional. You can give **0.50€ to 1
 
 If you want to leave a tip, you say the total amount (bill + tip) when you give the money.
 
-> **Example:** The bill is 16.30€. You say "18" and give a 20€ bill. The employee gives you 2€ back. They 1.70€ in tip.[^14]
+> **Example:** The bill is €16.30. You say "18" and give a €20 bill. The employee gives you €2 back. They €1.70 in tip.[^14]
 
 If you want the waiter to keep the change, give the money and say "stimmt so".[^15]
 
-> **Example:** The bill is 18€. You give 20€. You say "stimmt so". The employee keeps the extra 2€.
+> **Example:** The bill is €18. You give €20. You say "stimmt so". The employee keeps the extra €2.
 
 ### When you pay by card
 
 German credit card machines don't have a button for tip. When it's time to pay, you say how much you want to give (bill + tip) in advance.
 
-> **Example:** The bill is 16.30€. You say "18" and give your card. The credit card machine charges you 18€. The waiter gets a 1.70€ tip.
+> **Example:** The bill is €16.30. You say "18" and give your card. The credit card machine charges you €18. The waiter gets a €1.70 tip.
 
 It's better if you pay by card, but tip in cash.[^20]
 

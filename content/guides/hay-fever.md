@@ -26,13 +26,13 @@ You can get hay fever in Germany, even if you did not have it before. When I [mo
 There are different types of pills against hay fever. **You can buy them without a prescription**. If you go to a pharmacy (*Apotheke*), they will help you choose. Just ask for *Heuschnupfentabletten*.
 
 - **Loratadin**  
-    Pill. Around 10€ for 100 pills.[^2] No prescription needed. This is what I use. It's called Claritin in many countries.[^3] It has [minor side effects](https://en.wikipedia.org/wiki/Loratadine#Adverse_effects).
+    Pill. Around €10 for 100 pills.[^2] No prescription needed. This is what I use. It's called Claritin in many countries.[^3] It has [minor side effects](https://en.wikipedia.org/wiki/Loratadine#Adverse_effects).
 - **Cetirizine**  
-    Pill. Around 8€ for 100 pills.[^4] No prescription needed. It's called Zyrtec in many countries.[^5] It has [some side effects](https://en.wikipedia.org/wiki/Cetirizine).
+    Pill. Around €8 for 100 pills.[^4] No prescription needed. It's called Zyrtec in many countries.[^5] It has [some side effects](https://en.wikipedia.org/wiki/Cetirizine).
 - **Levocetirizine**  
-    Pill. Around 8€ for 20 pills.[^6] No prescription needed. It's called Xyzal in many countries.[^7] It has [minor side effects](https://en.wikipedia.org/wiki/Levocetirizine#Side_effects).
+    Pill. Around €8 for 20 pills.[^6] No prescription needed. It's called Xyzal in many countries.[^7] It has [minor side effects](https://en.wikipedia.org/wiki/Levocetirizine#Side_effects).
 - **Mometasone**  
-    Nose spray. Around 12€ per bottle.[^8] No prescription needed. It has [some side effects](https://en.wikipedia.org/wiki/Mometasone#Side_effects).
+    Nose spray. Around €12 per bottle.[^8] No prescription needed. It has [some side effects](https://en.wikipedia.org/wiki/Mometasone#Side_effects).
 
 You can buy pollen allergy pills in these places:
 

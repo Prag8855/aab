@@ -21,7 +21,7 @@ You don't need a German bank account. You can use a bank from any [EU](/glossary
 
 ### Types of bank accounts
 
-The **Girokonto** or checking account is your default bank account. You use it to send and receive money. This account pays near 0% interest, so don't keep a lot of money in it. People usually keep around 2,000€ in their *Girokonto*. All banks must offer a free *Girokonto* called the *Basiskonto*.
+The **Girokonto** or checking account is your default bank account. You use it to send and receive money. This account pays near 0% interest, so don't keep a lot of money in it. People usually keep around €2,000 in their *Girokonto*. All banks must offer a free *Girokonto* called the *Basiskonto*.
 
 The **Tagesgeldkonto** or savings account is where you keep your extra money. This account pays up to 4% interest.
 
@@ -31,7 +31,7 @@ Open a **business account** for your business. It's optional, but [it's a really
 
 Foreign students might need a **blocking account** (*[[Sperrkonto]]*) to get a [residence permit](/glossary/Aufenthaltstitel). You put your money into this account, and you get a fixed amount back every month. This guarantees that you will have money to support yourself while you study in Germany.
 
-The money you put in your *Girokonto* and *Tagesgeldkonto* is insured up to 100,000€. Even if the bank closes, you get your money back. Money in your *Depot* account is not insured.[^4]
+The money you put in your *Girokonto* and *Tagesgeldkonto* is insured up to €100,000. Even if the bank closes, you get your money back. Money in your *Depot* account is not insured.[^4]
 
 ### Types of banks
 
@@ -55,13 +55,13 @@ Germans use 4 payment methods: bank transfers, cash, Girocard and Visa/Mastercar
 
 ### Bank transfers
 
-In the European Union, bank transfers are free. It's the **standard way to send money** to other people. Bank transfers take 1 to 3 days, but instant transfers are also possible. Some banks offer free instant transfers. Others charge a small fee like 0.50€.
+In the European Union, bank transfers are free. It's the **standard way to send money** to other people. Bank transfers take 1 to 3 days, but instant transfers are also possible. Some banks offer free instant transfers. Others charge a small fee like €0.50.
 
 A company can regularly take money from your bank account with a direct debit authorisation (*[[SEPA-Lastschriftmandat]]*). People often pay bills and taxes that way.
 
 ### Cash
 
-Germans love cash. 58% of their transactions are paid with cash.[^3] They usually have around 100€ in their wallet, and use an ATM around 3 times per month.[^3]
+Germans love cash. 58% of their transactions are paid with cash.[^3] They usually have around €100 in their wallet, and use an ATM around 3 times per month.[^3]
 
 Many restaurants only accept cash. Most street food kiosks and *[Spätis](/glossary/Sp%C3%A4ti)* only accept cash.
 
@@ -91,7 +91,7 @@ Germans do not use checks or QR code payments. There is no system like Alipay, C
 
 Most bank accounts come with a Visa or Mastercard *debit* card. The card only works if there is money in your account.
 
-Real credit cards are rare.[^3] Immigrants can rarely get one. You might get a very small limit like 500€.
+Real credit cards are rare.[^3] Immigrants can rarely get one. You might get a very small limit like €500.
 
 Some bank accounts only include a **virtual card**. That means that you get a credit card number, an expiration code and CVV code, but you don't get a plastic card. You can only use it with Apple Pay, Google Pay or for online payments. You can usually get a plastic card for a small fee.
 

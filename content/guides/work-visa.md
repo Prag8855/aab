@@ -85,7 +85,7 @@ If you can't apply in Germany, you must [apply in your home country](#how-to-app
 
 Usually, you can't work while you wait for your work visa.[^35] You might wait [a few months](/guides/auslanderbehorde-wait-times) with no income. It's cheaper and safer if you [apply in your home country](#how-to-apply-in-your-country), then come to Germany when you have permission to work.
 
-**If you need help**, an [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocation consultant](/guides/relocation-agency-in-berlin) can take care of everything. It costs 500 to 2,000€.[^45] Your employer might pay for it, or hire someone to help you.
+**If you need help**, an [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocation consultant](/guides/relocation-agency-in-berlin) can take care of everything. It costs €500 to €2,000.[^45] Your employer might pay for it, or hire someone to help you.
 
 ### 1. Come to Germany
 

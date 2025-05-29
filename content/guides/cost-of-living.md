@@ -27,11 +27,11 @@ In Germany, a part of your [gross income](/glossary/Brutto%20income) (*Brutto*) 
 
 ### Rent
 
-**Cost:** 600€ to 900€ per month (room), 700€ to 1,500€ per month (apartment)
+**Cost:** €600 to €900 per month (room), €700 to €1,500 per month (apartment)
 
 In Germany, there is the cold rent (*[[Kaltmiete]]*), and the warm rent (*[[Warmmiete]]*). The warm rent includes utilities (*[[Nebenkosten]]*).
 
-Rent is usually your biggest expense. An unfurnished apartment costs 15 to 22€/m^2^.{{ fail_on('2026-06-01')}} Temporary furnished apartments are more expensive.
+Rent is usually your biggest expense. An unfurnished apartment costs 15 to €22/m^2^.{{ fail_on('2026-06-01')}} Temporary furnished apartments are more expensive.
 
 If you just moved to Germany, you usually pay more for rent. [Landlords prefer stable tenants](/guides/find-a-flat-in-berlin#what-landlords-want), so cheap apartments usually go to long-term residents.
 
@@ -41,20 +41,20 @@ If you just moved to Germany, you might need to pay more. Immigrants often get e
 
 ### Electricity
 
-**Cost:** 45€ to 70€ per month
+**Cost:** €45 to €70 per month
 
 In Germany, you pay two power bills:
 
 - The heating and hot water that are usually included in your warm rent (*[[Warmmiete]]*)
-- The electricity and gas for your lights and appliances. This costs 45€ to 70€ per month
+- The electricity and gas for your lights and appliances. This costs €45 to €70 per month
 
 **[How electric bills work ➞](/guides/electric-bill-berlin)**
 
 ### Internet
 
-**Cost:** around 35€ per month
+**Cost:** around €35 per month
 
-For 35€ per month, you can get a 100 Mbit/s internet connection.
+For €35 per month, you can get a 100 Mbit/s internet connection.
 
 **[Compare internet plans ➞](/out/verivox-internet)**
 
@@ -70,9 +70,9 @@ You get a TV tax invoice by post every 3 months. You can pay it manually with a 
 
 ## Food
 
-**Cost:** around 200€ per month
+**Cost:** around €200 per month
 
-If you only eat at home, you should pay around 200€ per month for groceries. If you eat out, you will spend a lot more.
+If you only eat at home, you should pay around €200 per month for groceries. If you eat out, you will spend a lot more.
 
 **[Cost of food and restaurants in Berlin](https://www.numbeo.com/cost-of-living/in/Berlin)** - numbeo
 
@@ -80,23 +80,23 @@ If you only eat at home, you should pay around 200€ per month for groceries. I
 
 ### Public transit
 
-**Cost (Berlin):** 42€ to 99€ per month (monthly pass), or {{ BVG_AB_TICKET }}€ per ride
+**Cost (Berlin):** €42 to €99 per month (monthly pass), or {{ BVG_AB_TICKET }}€ per ride
 
 ### Vehicles
 
-**Cost:** at least 100€ per month
+**Cost:** at least €100 per month
 
 Cars are expensive to own and maintain. If you have a car, you must pay for parking, car insurance, [vehicle tax](/glossary/Kraftfahrzeugsteuer), fuel, tires and maintenance.
 
-You need a [driving licence](/guides/driving-licence) to drive in Germany. It costs around 2,000€ to get. You can sometimes [convert your foreign driving licence](/guides/convert-to-german-driving-licence). It's much cheaper. There is no yearly cost for a driving licence.
+You need a [driving licence](/guides/driving-licence) to drive in Germany. It costs around €2,000 to get. You can sometimes [convert your foreign driving licence](/guides/convert-to-german-driving-licence). It's much cheaper. There is no yearly cost for a driving licence.
 
 **[Cost of owning a car ➞](/guides/car-cost-of-ownership-germany)**
 
 ## Mobile phone
 
-**Cost:** 7€ to 40€ per month
+**Cost:** €7 to €40 per month
 
-A basic pay-as-you-go data plan costs around 10€ per month. Plans that include a smartphone are much more expensive. It's cheaper to buy the phone without a plan.
+A basic pay-as-you-go data plan costs around €10 per month. Plans that include a smartphone are much more expensive. It's cheaper to buy the phone without a plan.
 
 **[Compare mobile phone plans ➞](/out/verivox-cellphone)**
 
@@ -104,27 +104,27 @@ A basic pay-as-you-go data plan costs around 10€ per month. Plans that include
 
 ### Banking
 
-**Cost:** 0€ to 10€ per month
+**Cost:** €0 to €10 per month
 
-Some banks charge a monthly fee. It's usually around 10€ per month. Some banks also charge 5€ to 10€ when you use an ATM from another network.
+Some banks charge a monthly fee. It's usually around €10 per month. Some banks also charge €5 to €10 when you use an ATM from another network.
 
 **[Compare German banks ➞](/guides/best-bank-germany)**
 
 ### Liability insurance
 
-**Cost:** around 5€ per month
+**Cost:** around €5 per month
 
-[Liability insurance](/glossary/Haftpflichtversicherung) is optional, but it's *really* important to have. If you cause an accident, and someone sues you, the liability insurance pays for the damages. It costs around 5€ per month. Most Germans have it.
+[Liability insurance](/glossary/Haftpflichtversicherung) is optional, but it's *really* important to have. If you cause an accident, and someone sues you, the liability insurance pays for the damages. It costs around €5 per month. Most Germans have it.
 
 **[How to choose liability insurance ➞](/guides/haftpflichtversicherung)**
 
 ## Dogs
 
-**Cost:** at least 50€ per month
+**Cost:** at least €50 per month
 
 If you have a dog, you must pay for dog food, [liability insurance](/glossary/Hundehaftpflichtversicherung), [health insurance](/glossary/Tierkrankenversicherung), dog food and [dog tax](/glossary/Hundesteuer).
 
-The dog tax is 120€ to 180€ per year. Dog liability insurance is required, and it costs around 5€ per month. Pet health insurance is optional, and it costs around 20€ per month. You can see the price of dog food [here](https://www.fressnapf.de/c/hund/hundefutter/trockenfutter/).
+The dog tax is €120 to €180 per year. Dog liability insurance is required, and it costs around €5 per month. Pet health insurance is optional, and it costs around €20 per month. You can see the price of dog food [here](https://www.fressnapf.de/c/hund/hundefutter/trockenfutter/).
 
 **[Having a dog in Berlin ➞](/guides/dog-ownership)**
 
@@ -144,7 +144,7 @@ If you live in a [[WG]], the deposit is smaller. Sometimes, there is no deposit.
 
 ### Furniture, appliances, etc
 
-**Cost:** 200€ to 10,000€
+**Cost:** €200 to €10,000
 
 When you [move into your first apartment](/guides/moving-in), you must get new furniture, new appliances, kitchen equipment, etc. In Germany, you might even need to buy light fixtures, and a kitchen counter.
 
@@ -158,39 +158,39 @@ This is an example budget for a single person who lives in Berlin. It uses reali
 
 ### Income
 
-4,634€ was the average German salary in 2024.[^2] This is an example budget for an unmarried employee with no children.{{ fail_on('2026-01-01') }}
+€4,634 was the average German salary in 2024.[^2] This is an example budget for an unmarried employee with no children.{{ fail_on('2026-01-01') }}
 
 **[Calculate your income after taxes ➞](/tools/tax-calculator)**
 
 | Description | Monthly | Yearly  |
 |-------------|--------:|--------:|
-| [Gross income](/glossary/Brutto%20income) | 4,634€ | 55,608€ |
-| [Church tax](/glossary/Kirchensteuer) | 63€ | 756€ |
-| [Income tax](/glossary/Einkommensteuer) | 699€ | 8,388€ |
-| [Pension insurance](/glossary/gesetzliche%20Rentenversicherung) | 431€ | 5,172€  |
-| [Unemployment insurance](/glossary/Arbeitslosenversicherung) | 60€ | 720€ |
-| [Health insurance](/glossary/Krankenversicherung) | 506€ | 6,072€ |
-| **[Net income](/glossary/Netto%20income)**<br>This is the money you have left to spend | 2,875€ | 34,500€ |
+| [Gross income](/glossary/Brutto%20income) | €4,634 | €55,608 |
+| [Church tax](/glossary/Kirchensteuer) | €63 | €756 |
+| [Income tax](/glossary/Einkommensteuer) | €699 | €8,388 |
+| [Pension insurance](/glossary/gesetzliche%20Rentenversicherung) | €431 | €5,172  |
+| [Unemployment insurance](/glossary/Arbeitslosenversicherung) | €60 | €720 |
+| [Health insurance](/glossary/Krankenversicherung) | €506 | €6,072 |
+| **[Net income](/glossary/Netto%20income)**<br>This is the money you have left to spend | €2,875 | €34,500 |
 
 ### Expenses
 
 These are my real monthly expenses. This table does not include buying clothes, replacing broken things, or having fun. It only lists the bills I *must* pay.
 
-My budget includes a motorcycle, and a garage (120€/month). You don't need those. My rent is also very low, because I live far from the centre.{{ fail_on('2025-12-31') }}
+My budget includes a motorcycle, and a garage (€120/month). You don't need those. My rent is also very low, because I live far from the centre.{{ fail_on('2025-12-31') }}
 
 | Description                      | Monthly | Yearly |
 |----------------------------------|-----:|-------:|
-| [Rent](/glossary/Warmmiete)                       | 678€ | 8,136€ |
-| Groceries                        | 175€ | 2,100€ |
-| Electricity                      | 50€  | 600€   |
+| [Rent](/glossary/Warmmiete)                       | €678 | €8,136 |
+| Groceries                        | €175 | €2,100 |
+| Electricity                      | €50  | €600   |
 | Public transit pass              | {{DEUTSCHLAND_TICKET_PRICE|cur}}€ | {{(DEUTSCHLAND_TICKET_PRICE*12)|cur}}€ |
-| Internet                         | 40€  | 480€   |
-| [Vehicle insurance](/glossary/Kfz-Versicherung)          | 25€  | 304€   |
-| [TV tax (*Rundfunkbeitrag*)](/glossary/Rundfunkbeitrag) | 18€  | 210€   |
-| Mobile phone                     | 10€  | 120€   |
-| [Liability insurance](/glossary/Haftpflichtversicherung)        | 6€   | 74€  |
-| Vehicle tax                      | 4€   | 47€  |
-| **Total**<br>This is how much I need to pay the bills | **1,055€** | **12,660€** |
+| Internet                         | €40  | €480   |
+| [Vehicle insurance](/glossary/Kfz-Versicherung)          | €25  | €304   |
+| [TV tax (*Rundfunkbeitrag*)](/glossary/Rundfunkbeitrag) | €18  | €210   |
+| Mobile phone                     | €10  | €120   |
+| [Liability insurance](/glossary/Haftpflichtversicherung)        | €6   | €74  |
+| Vehicle tax                      | €4   | €47  |
+| **Total**<br>This is how much I need to pay the bills | **€1,055** | **€12,660** |
 
 ## How to save money
 

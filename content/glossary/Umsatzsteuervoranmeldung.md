@@ -17,8 +17,8 @@ It tells the *[[Finanzamt]]* how much VAT you charged your customers, and how mu
 
 For example:
 
-> You made 20,000€ in sales, including 3,193€ VAT  
-> You paid 12,000€ for tools and supplies, including 1,916€ VAT  
-> You must give 1,277€ to the *Finanzamt* (3,193€ − 1,916€)
+> You made €20,000 in sales, including €3,193 VAT  
+> You paid €12,000 for tools and supplies, including €1,916 VAT  
+> You must give €1,277 to the *Finanzamt* (€3,193 − €1,916)
 
 **[How VAT works in Germany ➞](/guides/value-added-tax)**

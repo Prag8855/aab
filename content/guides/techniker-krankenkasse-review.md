@@ -142,7 +142,7 @@ If you don't know which health insurer to choose, get help from a health insuran
 
 {% include '_blocks/healthInsuranceQuestion.html' %}
 
-If you choose TK, you can pay 10€ per year to get [Envivas travel insurance](https://www.envivas.de/en/insurance/travelling-abroad). It covers your medical expenses while you travel. It works well: they paid for my friend's helicopter evacuation, ambulance trip and hospital recovery in Nepal.
+If you choose TK, you can pay €10 per year to get [Envivas travel insurance](https://www.envivas.de/en/insurance/travelling-abroad). It covers your medical expenses while you travel. It works well: they paid for my friend's helicopter evacuation, ambulance trip and hospital recovery in Nepal.
 
 [^0]: [krankenkassen.de](https://www.krankenkassen.de/krankenkassen-vergleich/statistik/versicherte/aktuell/), [tk.de](https://www.tk.de/presse/tk-unternehmensdaten-2051018)
 [^1]: [allaboutberlin.com](/out/barmer)

@@ -34,23 +34,23 @@ Conny charges **6 months of rent reduction**, plus [VAT](/glossary/Umsatzsteuer)
 
 > **Example fee**
 > 
-> Old rent: 1000€ per month  
-> New rent: 900€ per month  
-> Rent reduction: 100€ per month
+> Old rent: €1000 per month  
+> New rent: €900 per month  
+> Rent reduction: €100 per month
 > 
-> Conny's fee: 100€ × 6 months + 19% VAT = **714€**
+> Conny's fee: €100 × 6 months + 19% VAT = **€714**
 
 When you lower your rent, you get money back for all the months that you paid too much rent. If you lived in this apartment for 3 years, you might get 3 years of extra payments back. **Conny keeps that money too.**
 
 > **Example fee**
 > 
-> Old rent: 1000€ per month  
-> New rent: 900€ per month  
-> Rent reduction: 100€ per month  
+> Old rent: €1000 per month  
+> New rent: €900 per month  
+> Rent reduction: €100 per month  
 > Time in this apartment: 18 months  
-> Total rent reduction: 100€ × 18 months = 1800€
+> Total rent reduction: €100 × 18 months = €1800
 > 
-> Conny's fee: 100€ × 6 months + 1800€ + 19% VAT = **2856€**
+> Conny's fee: €100 × 6 months + €1800 + 19% VAT = **€2856**
 
 In my opinion, this is **too expensive**. There are [cheaper ways to lower your rent](#conny-alternatives).
 
@@ -78,7 +78,7 @@ You have to decide what is more important for you: the money you save, or your r
 
 ### It works
 
-The most important part: their service works. Conny is good at lowering your rent. One of my friends saved 324€ per month with Conny. There are many more success stories online.
+The most important part: their service works. Conny is good at lowering your rent. One of my friends saved €324 per month with Conny. There are many more success stories online.
 
 But Conny is not the only option. There are [other ways to reduce your rent](#conny-alternatives), and some might be cheaper.
 

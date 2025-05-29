@@ -24,7 +24,7 @@ Benefits of a working time account:
 - **You keep your residence permit**  
     The [work visa](/glossary/Work%20Visa) and the [[Blue Card]] are tied to your job. You must keep your job to keep your residence permit. With the working time account, you keep your job, so that's not a problem.
 - **You pay less income tax**  
-    You pay less [income tax](/glossary/Einkommensteuer) on 5 × 80% of your salary than on 4 × 100% of your salary. If you have a 50,000€ salary, you save around 5,200€ in income tax. - [Calculate your income tax](/tools/tax-calculator).
+    You pay less [income tax](/glossary/Einkommensteuer) on 5 × 80% of your salary than on 4 × 100% of your salary. If you have a €50,000 salary, you save around €5,200 in income tax. - [Calculate your income tax](/tools/tax-calculator).
 
 Disadvantages:
 

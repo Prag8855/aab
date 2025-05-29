@@ -15,9 +15,9 @@ This guide explains VAT for German businesses. You must understand this to [star
 
 In Germany, VAT is a {{VAT_RATE}}% tax on most goods and services. In German, it's called *Umsatzsteuer* (*USt.*) or *Mehrwertsteuer* (*MwSt.*).
 
-VAT is **always included in the advertised price**.[^0] If the price label says 20€, the customer pays 20€ *including* VAT.
+VAT is **always included in the advertised price**.[^0] If the price label says €20, the customer pays €20 *including* VAT.
 
-> **VAT included example:** On a restaurant menu, a meal costs 15€. You pay 12.61€ for the meal, and 2.39€ VAT; 15€ in total.
+> **VAT included example:** On a restaurant menu, a meal costs €15. You pay €12.61 for the meal, and €2.39 VAT; €15 in total.
 
 Other EU countries also have a VAT; it's between 17% and 25%.[^1]
 
@@ -68,14 +68,14 @@ If you are a small business (*[[Kleinunternehmer]]*), you can *choose* not to ch
 5. Pay the difference to the *Finanzamt* with a [bank transfer](/glossary/SEPA-%C3%9Cberweisung). If the difference is negative, the *Finanzamt* pays you.[^11]
 
 > **Example:**  
-> You make 20,000€ in sales, including 3,193€ VAT  
-> You pay 12,000€ for tools and supplies, including 1,916€ VAT  
-> You must give 1,277€ to the *Finanzamt* (3,193€ − 1,916€)
+> You make €20,000 in sales, including €3,193 VAT  
+> You pay €12,000 for tools and supplies, including €1,916 VAT  
+> You must give €1,277 to the *Finanzamt* (€3,193 − €1,916)
 
 > **Example with negative VAT:**  
-> You make 20,000€ in sales, including 3,193€ VAT  
-> You pay 100,000€ for new office equipment, including 15,966€ VAT  
-> The *Finanzamt* must give you 12,773€ (15,966€ − 3,193€)
+> You make €20,000 in sales, including €3,193 VAT  
+> You pay €100,000 for new office equipment, including €15,966 VAT  
+> The *Finanzamt* must give you €12,773 (€15,966 − €3,193)
 
 ### 1. Register for VAT
 
@@ -93,7 +93,7 @@ You must charge VAT to all your German customers, and some of your EU customers.
 
 **[When to charge VAT ➞](/guides/value-added-tax#when-to-charge-vat)**
 
-If you forget to charge your customers VAT, you must still pay VAT to the *[[Finanzamt]]*.[^13] For example, if you make a 100€ invoice, and you forget to charge 19€ for VAT, the *Finanzamt* still collects 19€ from you. If you write incorrect invoices, you can lose money.
+If you forget to charge your customers VAT, you must still pay VAT to the *[[Finanzamt]]*.[^13] For example, if you make a €100 invoice, and you forget to charge €19 for VAT, the *Finanzamt* still collects €19 from you. If you write incorrect invoices, you can lose money.
 
 ### 3. Submit VAT returns
 
@@ -116,7 +116,7 @@ There are 4 ways to make VAT returns:
 
 **Due date:** You must submit your VAT return before the 10th day of the next month.[^15] If that day is a Saturday, Sunday or public holiday, you have until the next [business day](/glossary/Arbeitstag).[^16]
 
-If you submit your VAT returns late, you pay a fine (*Verspätungszuschlag*). The fine is up to 10% of the VAT you owe, maximum 25,000€.[^17]
+If you submit your VAT returns late, you pay a fine (*Verspätungszuschlag*). The fine is up to 10% of the VAT you owe, maximum €25,000.[^17]
 
 ### 4. Pay VAT to the Finanzamt
 
@@ -132,7 +132,7 @@ If the VAT you paid is more than the VAT you charged, you get a refund from the 
 
 If you submit your VAT return on time, but you payment is late, you get a fine (*Säumniszuschlag*). The fine is 1% of the VAT you owe for every month you wait.[^21]
 
-> **Late payment example:** You owe the *Finanzamt* 5,300€. You pay your VAT 2 weeks late. The fine is 53€ (1% of 5,300€).[^22]
+> **Late payment example:** You owe the *Finanzamt* €5,300. You pay your VAT 2 weeks late. The fine is €53 (1% of €5,300).[^22]
 
 ### 5. Submit a yearly VAT declaration
 
@@ -140,7 +140,7 @@ You must also make a yearly VAT declaration (*[[Umsatzsteuererklärung]]*). If y
 
 **Due date:** May 31 of the next year.[^24] If your [tax advisor](/glossary/Steuerberater) submits it for you, they have until September 30.[^25]
 
-If you submit your VAT declaration late, the fine is the same as for a late VAT return: up to 10% of the VAT you owe, maximum 25,000€.
+If you submit your VAT declaration late, the fine is the same as for a late VAT return: up to 10% of the VAT you owe, maximum €25,000.
 
 ## When to charge VAT
 

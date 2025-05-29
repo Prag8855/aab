@@ -76,12 +76,12 @@ By default, you must return the money now. That means maximum April 30.[^1] Do n
 
 **If you have a low income**, you can get an [interest-free loan](https://web.archive.org/web/20220519162045/https://www.ibb.de/de/immobilienfoerderung/themen/mietendeckel/mietendeckel.html) from the city (the *Sicher-Wohnen-Hilfe*). This helps you pay back your landlord now, but you must still pay the loan back.[^17] To get this loan, your household must earn less than the income limit:[^18]
 
-- 1 person living alone: less than 33,600€ per year
-- 2 people living together: 50,400€ per year in total
-- 3 people living together: 61,880€ per year in total
-- 4 people living together: 73,360€ per year in total
-- 5 people living together: 84,840€ per year in total
-- 6 people living together: 96,320€ per year in total
+- 1 person living alone: less than €33,600 per year
+- 2 people living together: €50,400 per year in total
+- 3 people living together: €61,880 per year in total
+- 4 people living together: €73,360 per year in total
+- 5 people living together: €84,840 per year in total
+- 6 people living together: €96,320 per year in total
 
 ### 4. Pay the new rent
 
@@ -101,7 +101,7 @@ The *Mietpreisbremse* does not cover all apartments, and it can take a long time
 
 There are many ways to get your rent reduced with the *[[Mietpreisbremse]]*:
 
-- Your **tenants' association** (*[[Mieterverein]]*) can check your lease, and tell you if you pay too much rent. They can also help you ask for a rent reduction. You must be a member to use this service. It costs around 10€ per month.
+- Your **tenants' association** (*[[Mieterverein]]*) can check your lease, and tell you if you pay too much rent. They can also help you ask for a rent reduction. You must be a member to use this service. It costs around €10 per month.
 - **[Conny](/out/conny-mietpreisbremse)** specialises in reducing your rent with the *Mietpreisbremse*. They are expensive, but you only pay if they are successful. I wrote a [review of this service](/guides/conny-review).
 - A **lawyer**. Use my [list of English-speaking lawyers](/guides/english-speaking-lawyers-berlin). If you have legal insurance (*[[Rechtsschutzversicherung]]*), you can get their advice for free. If you don't have legal insurance, this option can be very expensive, especially if you must go to court.
 

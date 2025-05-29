@@ -30,7 +30,7 @@ If you want your child to spend more hours at the *Kita* than allowed, you must 
 
 ## Cost of a Kitagutschein
 
-The *Kitagutschein* is free for everyone. However, some Kitas will charge extra for meals and activities. You can find more details about *Kita* costs [here](/guides/how-to-find-a-kita-in-berlin#cost-of-kita). Typically, you will pay around 23€ per month for meals, and 60€ to 90€ per month for activities.
+The *Kitagutschein* is free for everyone. However, some Kitas will charge extra for meals and activities. You can find more details about *Kita* costs [here](/guides/how-to-find-a-kita-in-berlin#cost-of-kita). Typically, you will pay around €23 per month for meals, and €60 to €90 per month for activities.
 
 ## When to apply for a Kitagutschein
 

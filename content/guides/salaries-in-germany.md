@@ -45,7 +45,7 @@ The median income **in Germany** was {{MEDIAN_INCOME_GERMANY|cur}}€ per year b
 
 The median income **in Berlin** was {{MEDIAN_INCOME_BERLIN|cur}}€ per year before taxes.[^1]
 
-This is only for full-time employees. The median income for all German residents is much lower: in 2019, it was 2109€ per month.[^6] The median income for immigrants is lower.
+This is only for full-time employees. The median income for all German residents is much lower: in 2019, it was €2109 per month.[^6] The median income for immigrants is lower.
 
 **[Compare your income](https://www.iwkoeln.de/fileadmin/user_upload/HTML/2022/Einkommensrechner/index.html)** (German) - Enter your [[Netto income]], see how it compares to what other people earn.
 

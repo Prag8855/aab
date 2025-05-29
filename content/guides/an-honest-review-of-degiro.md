@@ -57,7 +57,7 @@ A few years ago, the Degiro platform was not reliable. It went down a few times 
 
 ## Fees
 
-Degiro's fees are low: around 2€ per trade. Some German banks charge 10-20€ per trade *plus* monthly fees. This is why I switched from Commerzbank to Degiro in 2018. I saved hundreds of euros in trading fees.
+Degiro's fees are low: around €2 per trade. Some German banks charge €10 to €20 per trade *plus* monthly fees. This is why I switched from Commerzbank to Degiro in 2018. I saved hundreds of euros in trading fees.
 
 The fees used to be much lower. They raised their fees a lot, so it's not as competitive as before.[^3] If you trade larger amounts, [Interactive Brokers](https://www.interactivebrokers.com/en/home.php) might be cheaper.[^4]
 

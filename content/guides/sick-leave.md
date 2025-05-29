@@ -83,7 +83,7 @@ You can get *Krankengeld* for 78 weeks every 3 years. After 6 weeks of sick pay 
 Two things can happen:
 
 1. **Temporary sickness: unemployment benefits**  
-    You get unemployment benefits for the disabled (*Arbeitslosengeld bei Arbeitsunfähigkeit*) until you get better. You will get very little money - about 835€ per month.[^14]
+    You get unemployment benefits for the disabled (*Arbeitslosengeld bei Arbeitsunfähigkeit*) until you get better. You will get very little money - about €835 per month.[^14]
 2. **Permanent disability: public pension**  
     If you can't work again, you get a pension for the disabled (*Erwerbsminderungsrente*). If you paid public pension contributions for less than 60 months, you can't get a pension.[^15]
 

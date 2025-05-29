@@ -40,7 +40,7 @@ Plan the cost of running your business. It helps you decide how much savings you
         In Berlin, if you have a *[[Gewerbe]]*, you must join the [[IHK]]. The membership fee is a few hundred euros per year. - [Membership fee calculator](https://www.ihk.de/berlin/ueber-uns/mitgliedschaft-und-beitrag/das-verfahren-der-beitragserhebung/beitragsberechnung-2280534)
 - **Business expenses**
     - **Accounting**  
-        A tax advisor costs 700€ to 2,000€ per year if you charge [VAT](/glossary/Umsatzsteuer), or 300€ to 800€ per year if you don't.[^15] [Accounting software](/guides/german-tax-software) is cheaper and [[ELSTER]] is free, but you must do all the work yourself.
+        A tax advisor costs €700 to €2,000 per year if you charge [VAT](/glossary/Umsatzsteuer), or €300 to €800 per year if you don't.[^15] [Accounting software](/guides/german-tax-software) is cheaper and [[ELSTER]] is free, but you must do all the work yourself.
     - **Equipment and office space**  
         Most business expenses are [tax-deductible](/glossary/steuerlich%20absetzbar).
 - **Retirement savings**  
@@ -190,7 +190,7 @@ Ask freelancers in your field how they work. Some industries organise [meetups](
 
 Tax advisors are worth it. They handle your taxes and most of your paperwork. They can prevent expensive mistakes, and solve problems with the *[[Finanzamt]]*. You *must* have a tax advisor to [renew your freelance visa](/guides/renew-german-freelance-visa).
 
-A tax advisor costs **700€ to 2,000€ per year** if you charge [VAT](/glossary/Umsatzsteuer), or 300€ to 800€ per year if you don't. The prices vary a lot. The only way to know is to call and ask.
+A tax advisor costs **€700 to €2,000 per year** if you charge [VAT](/glossary/Umsatzsteuer), or €300 to €800 per year if you don't. The prices vary a lot. The only way to know is to call and ask.
 
 Tax software is cheaper than a tax advisor. [Sorted](/out/sorted-taxes) and [Lexware Office](/out/lexoffice) help with invoicing and VAT reporting. You can do your tax declaration in [[ELSTER]]. I use Lexware Office for all of my bookkeeping, but I still have a tax advisor.
 
@@ -235,7 +235,7 @@ The state can help you start a business. There are many options:
 - **Initial funding** (*Einstiegsgeld*)  
     If you already get [[Bürgergeld]], the *[[Agentur für Arbeit]]* can give 50% more money to help you start your business.[^10] More information [here](https://redtapetranslation.com/algii-and-einstiegsgeld-a-government-grant-to-start-your-business/).
 - **Investment grant** (*Investitionszuschuss*)  
-    If you already get [[Bürgergeld]], the *[[Agentur für Arbeit]]* can give you up to 5,000€ to buy equipment for your business.[^11]
+    If you already get [[Bürgergeld]], the *[[Agentur für Arbeit]]* can give you up to €5,000 to buy equipment for your business.[^11]
 - **EXIST start-up grant**  
     If you are a student, a graduate or a scientist working in an innovative technology, you can apply for this grant. - [More information](https://www.exist.de/EXIST/Navigation/EN/Start-upFunding/EXIST-Business-Start-up-Grant/exist-business-start-up-grant.html)
 
@@ -255,7 +255,7 @@ Since you don't know your future income, they use your *estimated* income. If yo
 
 When you are an employee, health insurance payments are taken from your salary. When you are self-employed, you pay every month by [bank transfer](/glossary/SEPA-%C3%9Cberweisung).
 
-[Private health insurance](/glossary/private%20Krankenversicherung) could be a lot cheaper for you. For example, I save over 400€ per month, and I have *better* coverage. Talk to a [health insurance broker](/guides/german-health-insurance#insurance-brokers) about it. It's not a simple decision.
+[Private health insurance](/glossary/private%20Krankenversicherung) could be a lot cheaper for you. For example, I save over €400 per month, and I have *better* coverage. Talk to a [health insurance broker](/guides/german-health-insurance#insurance-brokers) about it. It's not a simple decision.
 
 **[How to choose health insurance ➞](/guides/german-health-insurance)**
 
@@ -287,7 +287,7 @@ By default, freelancers don't get sickness pay. If you don't work, you don't get
 
 If you pay a little more for health insurance, you get sickness pay for 78 weeks.
 
-You can also get disability insurance (*[[Berufsunfähigkeitsversicherung]]*). It gives you a regular income if you are too sick to work. Disability insurance is optional, but it's useful if you have dependents or a mortgage. Around 26% of Germans have disability insurance.[^6] It costs around 40€ per month.[^13]
+You can also get disability insurance (*[[Berufsunfähigkeitsversicherung]]*). It gives you a regular income if you are too sick to work. Disability insurance is optional, but it's useful if you have dependents or a mortgage. Around 26% of Germans have disability insurance.[^6] It costs around €40 per month.[^13]
 
 If you don't speak German, [Feather](/out/feather-disability) and [Getsafe](/out/getsafe-berufunfahigkeit) sell disability insurance, and they speak English. [Tarifcheck](/out/tarifcheck-berufunfahigkeit) helps you compare options, but it's only in German.
 

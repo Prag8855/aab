@@ -81,9 +81,9 @@ If you have a simple tax situation, you don't need a tax advisor. The *[[Finanza
 
 ## Cost of a tax advisor
 
-**If you are an employee**, you pay 300€ to 1,000€ for a [tax declaration](/glossary/Steuererklärung).[^1] The prices vary a lot. Use [this calculator](https://www.steuerschroeder.de/Steuerberatergebuehren.html) to estimate the costs.
+**If you are an employee**, you pay €300 to €1,000 for a [tax declaration](/glossary/Steuererklärung).[^1] The prices vary a lot. Use [this calculator](https://www.steuerschroeder.de/Steuerberatergebuehren.html) to estimate the costs.
 
-**If you are self-employed**, you must pay more. If you don't charge [VAT](/glossary/Umsatzsteuer), it costs 300€ to 800€ per year. If you charge VAT, it costs 700€ to 2,000€ per year. The prices vary a lot. The only way to know is to call and ask.
+**If you are self-employed**, you must pay more. If you don't charge [VAT](/glossary/Umsatzsteuer), it costs €300 to €800 per year. If you charge VAT, it costs €700 to €2,000 per year. The prices vary a lot. The only way to know is to call and ask.
 
 The cost of a tax advisor is [tax-deductible](/glossary/steuerlich%20absetzbar).[^0]
 
@@ -119,7 +119,7 @@ They can help you file your [tax declaration](/glossary/Steuererklärung), but y
 
 A tax help union (*[[Lohnsteuerhilfeverein]]*) is a non-profit organisation that helps its members file their taxes. They are cheaper than tax advisors, but their competence varies a lot.[^2]
 
-The membership costs 30€ to 300€ per year, depending on your income.[^4] Only employees can be members, not self-employed people.[^3]
+The membership costs €30 to €300 per year, depending on your income.[^4] Only employees can be members, not self-employed people.[^3]
 
 ### Freelancer cooperative
 

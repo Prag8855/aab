@@ -19,7 +19,7 @@ If you need health insurance for a visa or residence permit application, there a
 
 ## Don't trust the marketing
 
-Bloggers recommend Ottonova because it pays well. If they convince you to choose Ottonova, they get 500€.[^0] These articles are not written by customers or by insurance experts. They are ads.
+Bloggers recommend Ottonova because it pays well. If they convince you to choose Ottonova, they get €500.[^0] These articles are not written by customers or by insurance experts. They are ads.
 
 If you want a honest health insurance recommendation, talk to an [independent health insurance broker](/guides/german-health-insurance#insurance-brokers). It's the best way to choose health insurance, and it's free.
 

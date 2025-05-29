@@ -61,7 +61,7 @@ If you are self-employed, you can choose public or private health insurance.[^4]
 
 **[Public health insurance](#public-health-insurance)** costs {{GKV_MIN_RATE_SELF_PAY}}% to {{GKV_MAX_RATE_SELF_PAY}}% of your income (including *[[Pflegeversicherung]]*). The minimum cost is around [{{GKV_MIN_COST_SELF_PAY|cur}}€](/glossary/Mindestbeitrag) per month. The maximum cost is around [{{GKV_MAX_COST_SELF_PAY|cur}}€](/glossary/Höchstbeitrag) per month. You can't get the student tariff, you can't get [free health insurance](#free-health-insurance), and you can't use [health insurance from another EU country](#insurance-from-other-eu-countries).[^37]
 
-**[Private health insurance](#private-health-insurance)** is usually cheaper. The cost is based on your age and your health when you sign up, and the level of coverage you choose.[^79] If you have an unstable income, or you earn less than 30,000€ per year, don't get private health insurance.[^27] Ideally, you should make more than 60,000€ per year.[^69] Insurers often reject people with a low or unstable income.[^55]
+**[Private health insurance](#private-health-insurance)** is usually cheaper. The cost is based on your age and your health when you sign up, and the level of coverage you choose.[^79] If you have an unstable income, or you earn less than €30,000 per year, don't get private health insurance.[^27] Ideally, you should make more than €60,000 per year.[^69] Insurers often reject people with a low or unstable income.[^55]
 
 **[Expat health insurance](#expat-health-insurance)** is the cheapest option. This is supposed to be temporary health insurance. You can use it to apply for a [freelance visa](/glossary/Freelance%20visa). Staying on expat insurance is a really bad idea. Switch to public or private health insurance as soon as you can.
 
@@ -167,7 +167,7 @@ Public health insurance also covers your children and your unemployed spouse [fo
 
 When you go to the doctor, you show your [insurance card](/glossary/Gesundheitskarte), and they charge your *[[Krankenkasse]]* directly. If a treatment is not covered, you know before you start. There are no surprise costs.
 
-Public health insurance is almost completely free to use. There is sometimes a small [deductible](/glossary/Selbstbeteiligung): 5€ to 10€ per treatment or prescription.[^70]
+Public health insurance is almost completely free to use. There is sometimes a small [deductible](/glossary/Selbstbeteiligung): €5 to €10 per treatment or prescription.[^70]
 
 Essential dental care like wisdom teeth removal is covered. You also get 2 free dental check-ups every year. It does not cover tooth cleanings. You can get [dental insurance](/glossary/Zahnzusatzversicherung) to get better coverage.
 
@@ -197,7 +197,7 @@ Glasses and contact lenses [are rarely covered](/guides/eyeglasses). You must pa
 
 ### Best public health insurance
 
-[Public health insurers](/glossary/Krankenkasse) have almost the same cost and coverage.[^85] The price difference is less than 20€ per month after taxes. The biggest difference is customer service.[^15]
+[Public health insurers](/glossary/Krankenkasse) have almost the same cost and coverage.[^85] The price difference is less than €20 per month after taxes. The biggest difference is customer service.[^15]
 
 If you need an English-speaking public health insurer, choose [Barmer](/out/barmer) or [Techniker Krankenkasse](/out/feather-tk). Barmer has the best English-language support and service for immigrants.[^57] Techniker Krankenkasse is also [very good](/guides/techniker-krankenkasse-review), and slightly cheaper.{{ fail_on('2025-12-31') }}
 
@@ -235,7 +235,7 @@ You can get really cheap private health insurance. You have low monthly payments
 
 You can also pay more and get the best coverage. You have higher monthly payments, but there is no deductible.
 
-A young, healthy employee could pay just 250€ per month for private insurance.[^62] Some insurers also have discounts for students.
+A young, healthy employee could pay just €250 per month for private insurance.[^62] Some insurers also have discounts for students.
 
 The cost of private health insurance is [tax-deductible](/glossary/steuerlich%20absetzbar).
 
@@ -248,12 +248,12 @@ The cost of private health insurance is [tax-deductible](/glossary/steuerlich%20
 - **You choose your coverage**  
     Your insurance can cover dental care, travel insurance, special medication and special treatments. You can pay more every month for the best coverage. If you choose lower coverage and a high [deductible](/glossary/Selbstbeteiligung), you pay less every month.[^17]
 - **You pay less when you don't use it**  
-    Many private health insurers have a no-claims bonus. If you don't use your health insurance, you get money back every year. If you never get sick, you can save a lot of money. In 2024, I got a 640€ refund.
+    Many private health insurers have a no-claims bonus. If you don't use your health insurance, you get money back every year. If you never get sick, you can save a lot of money. In 2024, I got a €640 refund.
 
 ### Disadvantages of private health insurance
 
 - **It discourages getting healthcare**  
-    You usually have a yearly [deductible](/glossary/Selbstbeteiligung). You pay for healthcare yourself until you reach that deductible. After that, the insurer pays for your healthcare. If you are below the deductible, you might ignore small health problems instead of paying 50€ to 150€ to see a doctor.
+    You usually have a yearly [deductible](/glossary/Selbstbeteiligung). You pay for healthcare yourself until you reach that deductible. After that, the insurer pays for your healthcare. If you are below the deductible, you might ignore small health problems instead of paying €50 to €150 to see a doctor.
 - **You pay, then you get reimbursed**  
     When you go to the doctor, you pay for it, and your health insurance reimburses you later. This is more effort and more paperwork. You also need enough money to pay for medical emergencies, even if you get reimbursed later.
 - **It does not adjust to your income**  
@@ -326,7 +326,7 @@ Travel health insurance covers medical emergencies when you visit another countr
 
 **If you move to Germany**, travel health insurance is not valid. You must get public, private or expat health insurance.
 
-**If you live in Germany**, travel health insurance covers medical emergencies when you when you travel to other countries. It costs around 40€ per year.[^78] If you have [private health insurance](/glossary/private%20Krankenversicherung), it usually includes travel insurance.
+**If you live in Germany**, travel health insurance covers medical emergencies when you when you travel to other countries. It costs around €40 per year.[^78] If you have [private health insurance](/glossary/private%20Krankenversicherung), it usually includes travel insurance.
 
 **[Get travel health insurance ➞](#get-travel-health-insurance)**
 
@@ -440,7 +440,7 @@ The process is different with each insurer. Your health insurance broker can tak
 
 You only need an ID document and a photo for your insurance card. You do not need a German address or an *[[Anmeldung]]*.[^63]
 
-If you choose private health insurance, you usually need a health check from a doctor.[^44] It costs around 250€.[^30]{{ fail_on('2027-01-01') }}
+If you choose private health insurance, you usually need a health check from a doctor.[^44] It costs around €250.[^30]{{ fail_on('2027-01-01') }}
 
 If you are self-employed and new in Germany, it can be hard to get health insurance. Public and private health insurers can reject you.
 
@@ -475,7 +475,7 @@ I got my liability insurance from [Feather](/out/feather-haftpflicht). If you [a
 
 ### Get travel health insurance
 
-Travel health insurance covers medical emergencies when you visit other countries. It usually costs around 40€ per year.[^78]
+Travel health insurance covers medical emergencies when you visit other countries. It usually costs around €40 per year.[^78]
 
 Your [private health insurance](/glossary/private%20Krankenversicherung) usually includes travel insurance, but you should get separate travel insurance anyway. If you see a doctor abroad, there is no [deductible](/glossary/Selbstbeteiligung), and you don't lose your no-claims bonus.[^20]
 
@@ -554,7 +554,7 @@ If you are new in Germany, [register as an organ donor](/guides/organ-donor). It
 [^59]: [finanztip.de](https://www.finanztip.de/pkv/pkv-wechsel/#:~:text=bleib%20fur%20die%20dauer%20des%20studiums%20besser%20in%20der%20gesetzlichen%20krankenversicherung) (January 2025)
 [^60]: [Seamus Wolf](/out/horizon65) (April 2025)
 [^61]: [Emily Archer](https://www.archer-relocation.com/) (April 2025), [Seamus Wolf](/out/horizon65) (April 2025), multiple insurance brokers (2024, 2025)
-[^62]: [250 to 350€ (FinanXpats)](https://www.finanxpats.com/health-insurance/2025-health-insurance-guide-for-expats#:~:text=pays%20around%20%E2%82%AC250%E2%80%93350%20per%20month) (April 2025), [250 to 390€ (Feather)](/out/feather-private) (April 2025), [260 to 350€ (Ottonova)](/out/ottonova) (April 2025)
+[^62]: [€250 to €350 (FinanXpats)](https://www.finanxpats.com/health-insurance/2025-health-insurance-guide-for-expats#:~:text=pays%20around%20%E2%82%AC250%E2%80%93350%20per%20month) (April 2025), [250 to €390 (Feather)](/out/feather-private) (April 2025), [260 to €350 (Ottonova)](/out/ottonova) (April 2025)
 [^63]: [Seamus Wolf](/out/horizon65) (May 2025)
 [^64]: [praktikum-guide.com](https://praktikum-guide.com/krankenversicherung-im-praktikum/#:~:text=Pflichtpraktikum%20ohne-,vergutung,-Du%20bleibst%20beitragsfrei) (April 2025)
 [^65]: [DAK](https://www.dak.de/dak/leistungen/krankenversicherung-waehrend-eines-praktikums_63456#rtf-anchor-praktikum-vor-oder-nach-dem-studium) (April 2025), [check24.de](https://www.check24.de/krankenversicherung/praktikum/#:~:text=fur%20ein%20pflichtpraktikum%2C%20das%20vor%20oder%20nach%20dem%20studium%20absolviert%20wird) (April 2025)

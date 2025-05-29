@@ -66,7 +66,7 @@ Most insurance policies do not cover...
 
 ## Cost of liability insurance
 
-It usually costs **around 5€ per month**, or around 60€ per year. You can pay less if you get multiple insurances from the same company.
+It usually costs **around €5 per month**, or around €60 per year. You can pay less if you get multiple insurances from the same company.
 
 ## The best liability insurance
 
@@ -88,8 +88,8 @@ Your liability insurance must cover you well. This is the minimum it should cove
 - **Minimum insured sum**  
     These are the minimum sums a good liability insurance should cover.
     - At least 10 million euros[^18] in damages to other people. 50 million euros is better.[^19]
-    - At least 300,000€ in damages to the apartment you rent.
-    - At least 50,000€ in damages while using a computer.
+    - At least €300,000 in damages to the apartment you rent.
+    - At least €50,000 in damages while using a computer.
 - **Worldwide coverage**  
     It should cover you anywhere in the world, not just in Germany.
 - **Coverage for rented things** (*geliehene Sachen*)  
@@ -97,7 +97,7 @@ Your liability insurance must cover you well. This is the minimum it should cove
 
 I recommend liability insurance that covers lost keys. [Replacing a lost key](/guides/lost-keys) can be very expensive. The landlord could make you pay to [replace all the locks in the building](/guides/lost-keys#do-i-need-to-pay-to-replace-the-locks). Most insurers cover lost keys, including [Feather](/out/feather-haftpflicht) and [Getsafe](/out/getsafe-haftpflicht).
 
-If you often rent vehicles, you can pay around 1€/month more to cover rented vehicles. This covers the car rental company's deductible if you damage the car.
+If you often rent vehicles, you can pay around €1/month more to cover rented vehicles. This covers the car rental company's deductible if you damage the car.
 
 ### Don't wait
 
@@ -151,7 +151,7 @@ Some professions are required to have liability insurance:[^26]
 
 Dog liability insurance (*[[Hundehaftpflichtversicherung]]*) is required in Berlin, Brandenburg, Hamburg, Lower Saxony and Thuringia. This insurance pays for the damages caused by your dog. It's sometimes called pet liability insurance (*Tierhaftpflichtversicherung*) or pet owner liability insurance (*Tierhalterhaftpflichtversicherung*).
 
-*Hundehaftpflichtversicherung* costs around 5€ per month. Use [Tarifcheck](/out/tarifcheck-dogs) to compare prices. If you don't speak German, [Feather](/out/feather-dogs) and [Getsafe](/out/getsafe-dogs) sell dog liability insurance, and they speak English. Their insurance covers dangerous breeds.
+*Hundehaftpflichtversicherung* costs around €5 per month. Use [Tarifcheck](/out/tarifcheck-dogs) to compare prices. If you don't speak German, [Feather](/out/feather-dogs) and [Getsafe](/out/getsafe-dogs) sell dog liability insurance, and they speak English. Their insurance covers dangerous breeds.
 
 **[More about dog liability insurance ➞](/guides/dog-ownership#dog-liability-insurance)**
 
@@ -165,7 +165,7 @@ When you drive a vehicle, you are covered by your car's insurance (*Kfz-Haftpfli
 
 [Legal insurance](/guides/legal-insurance) (*[[Rechtsschutzversicherung]]*) gives you free access to a lawyer. If you have a problem with your landlord, your employer, the tax office or anyone else, you can call a lawyer. You can ask them questions, they can write letters for you, and they can go to court with you. Legal insurance will pay for it.
 
-There is private legal insurance (for you), and professional legal insurance (for your business). Private legal insurance costs 16€ to 24€ per month.[^29] Professional legal insurance is more expensive. The price depends on what type of business you run.
+There is private legal insurance (for you), and professional legal insurance (for your business). Private legal insurance costs €16 to €24 per month.[^29] Professional legal insurance is more expensive. The price depends on what type of business you run.
 
 [Feather](/out/feather-rechtsschutz) and [Getsafe](/out/getsafe-rechtsschutz) sell legal insurance, and they speak English. [Tarifcheck](/out/tarifcheck-rechtsschutz) lets you compare insurances, but it's only in German.
 

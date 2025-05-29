@@ -27,9 +27,9 @@ Most employees pay 35% to 50% of their income in taxes, health insurance and pen
 - **Use your [EHIC card](/guides/german-health-insurance#insurance-from-other-eu-countries)**  
     If you come from another EU country, you can use your European Health Insurance Card (EHIC) in Germany. You might not need German health insurance.
 - **Switch to [private health insurance](/glossary/private%20Krankenversicherung)**  
-    It's *sometimes* much cheaper. I save over 400€ per month. This is a very complex decision, and it can be an expensive mistake. [Ask my health insurance broker](/guides/german-health-insurance#insurance-brokers) if it private health insurance makes sense for you.
+    It's *sometimes* much cheaper. I save over €400 per month. This is a very complex decision, and it can be an expensive mistake. [Ask my health insurance broker](/guides/german-health-insurance#insurance-brokers) if it private health insurance makes sense for you.
 - **Choose a different [public health insurance](/glossary/gesetzliche%20Krankenversicherung)**  
-    Pick an insurer with a lower *[[Zusatzbeitrag]]*. You can save up to 500€ per year.
+    Pick an insurer with a lower *[[Zusatzbeitrag]]*. You can save up to €500 per year.
 - **Join the [[Künstlersozialkasse]]**  
     If you are a freelance artist, publicist or art teacher, [join the *Künstlersozialkasse* (*KSK*)](/guides/ksk-kuenstlersozialkasse). They pay half of your health insurance, and half of your pension insurance. It's always worth it.
 
@@ -60,12 +60,12 @@ Rent is the biggest expense for most people. There are ways to pay less rent:
 - **Know your rights**  
     Avoid [housing scams](/guides/housing-scams). If you pay a bribe to get an apartment, or pay too much for a kitchen or furniture, you can get that money back. Talk to a lawyer or a *[[Mieterverein]]*.
 - **Move somewhere else**  
-    [Look for a cheaper apartment](/guides/find-a-flat-in-berlin) in a cheaper neighbourhood. I moved from Mitte to Französisch Buchholz to save 400€ per month. Finding a new apartment can be extremely hard, but if you already have one, you have more time to look.
+    [Look for a cheaper apartment](/guides/find-a-flat-in-berlin) in a cheaper neighbourhood. I moved from Mitte to Französisch Buchholz to save €400 per month. Finding a new apartment can be extremely hard, but if you already have one, you have more time to look.
 
 ### Utilities
 
 - **Change electricity and gas providers**  
-    Energy companies give rebates to new customers. When the rebate expires, switch to another company.[^0] Do this every year before your contract renews. You can save around 100€ to 200€ per year. Use [Verivox](/out/verivox-electricity) or [Check24](/out/check24-electricity) to find another energy company.
+    Energy companies give rebates to new customers. When the rebate expires, switch to another company.[^0] Do this every year before your contract renews. You can save around €100 to €200 per year. Use [Verivox](/out/verivox-electricity) or [Check24](/out/check24-electricity) to find another energy company.
 - **Stop paying the TV tax**  
     When you receive financial aid (*[[Bürgergeld]]* or *[[BAföG]]*), fill [this form](https://www.rundfunkbeitrag.de/buergerinnen_und_buerger/formulare/befreiung_oder_ermaessigung_beantragen/index_ger.html) to stop paying the TV tax.
 

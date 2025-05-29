@@ -17,7 +17,7 @@ The *Pfand* system is a big part of [sorting your trash in Germany](/guides/sort
 
 The deposit is **between 8 and 25 cents**. It depends on the type of container.[^0]
 
-Bottle crates (*Bierkasten*) also have a deposit between 0,75€ and 1,50€. [^6]
+Bottle crates (*Bierkasten*) also have a deposit between €0.75 and €1.50. [^6]
 
 ## Which bottles have a Pfand?
 
@@ -25,12 +25,12 @@ Bottle crates (*Bierkasten*) also have a deposit between 0,75€ and 1,50€. [^
 
 These bottles have a deposit.[^0] You can return them at any store that sells them, and you will get some money back.
 
-- Beer bottles - 0.08€ (0.15€ for [resealable bottles](https://commons.wikimedia.org/wiki/File:Wulle.jpg))
-- Aluminium cans - 0.25€
-- Single-use (*Einweg*) plastic bottles - 0.25€
-- Multiple-use (*Mehrweg*) glass and plastic bottles - 0.08€ to 0.15€[^1]
+- Beer bottles - €0.08 (€0.15 for [resealable bottles](https://commons.wikimedia.org/wiki/File:Wulle.jpg))
+- Aluminium cans - €0.25
+- Single-use (*Einweg*) plastic bottles - €0.25
+- Multiple-use (*Mehrweg*) glass and plastic bottles - €0.08 to €0.15[^1]
 - *Landliebe* yoghurt containers
-- Some wine bottles - 0.03€
+- Some wine bottles - €0.03
 
 ### Bottles with no deposit
 
@@ -45,9 +45,9 @@ These bottles can still be recycled, but they don't have a deposit.
 
 ### Bottle crates with a deposit
 
-Bottle crates also have a deposit. It's usually 1,50€. You can return bottle crates where you return bottles. Bottle return machines (*[Pfandautomaten](/glossary/Pfandautomat)*) have a hole at the bottom for bottle crates.
+Bottle crates also have a deposit. It's usually €1.50. You can return bottle crates where you return bottles. Bottle return machines (*[Pfandautomaten](/glossary/Pfandautomat)*) have a hole at the bottom for bottle crates.
 
-![Bierkasten mit Pfand](/images/bierkasten-mit-pfand.jpg "A beer crate with a 1,50€ Pfand.")
+![Bierkasten mit Pfand](/images/bierkasten-mit-pfand.jpg "A beer crate with a 1,€50 Pfand.")
 
 ## How to identify Pfand bottles
 

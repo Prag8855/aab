@@ -153,7 +153,7 @@ Bring these documents to your visa interview. [The official list of documents](h
         - [ ] **Audit report form** (*[[Prüfungsbericht]]*)  
             Your [tax advisor](/glossary/Steuerberater) must fill [this template](https://www.berlin.de/formularverzeichnis/?formular=/labo/zuwanderung/_assets/pruefungsbericht_bis.docx) and stamp it. It takes a few days to prepare. If your finances are not organised, it can take a few weeks. If you don't have a tax advisor, get a *Prüfungsbericht* from [Tax Germany](/out/taxgermany); it's cheaper and faster.
         - [ ] **and a proof of business registration** (*aktuelle Handelsregisterauszug*)  
-            [If your business needs a Handelsregister entry](/guides/handelsregisternummer-germany#who-needs-a-handelsregister-entry), bring a *Handelsregisterauszug*. You probably don't need this. Get it [in person, in writing](https://service.berlin.de/dienstleistung/327144/standort/326311/), or [online](https://www.handelsregister.de/rp_web/welcome.xhtml). It costs 10€.[^7] It can take a few days to receive this document.
+            [If your business needs a Handelsregister entry](/guides/handelsregisternummer-germany#who-needs-a-handelsregister-entry), bring a *Handelsregisterauszug*. You probably don't need this. Get it [in person, in writing](https://service.berlin.de/dienstleistung/327144/standort/326311/), or [online](https://www.handelsregister.de/rp_web/welcome.xhtml). It costs €10.[^7] It can take a few days to receive this document.
         - [ ] **and a copy of your trade certificate** (*[[Gewerbeschein]]*)  
             You get this document during your business registration (*[[Gewerbeanmeldung]]*).
         - [ ] **and a [certificate of tax matters](/guides/bescheinigung-in-steuersachen)** (*Bescheinigung in Steuersachen* or *Unbedenklichkeitsbescheinigung*)  
@@ -195,16 +195,16 @@ Bring these documents to your visa interview. [The official list of documents](h
 
 ### How much does it cost?
 
-A freelance visa renewal costs **{{NATIONAL_VISA_RENEWAL_FEE|cur}}€**. It's cheaper for Turkish citizens.[^12] If you get a *[[Fiktionsbescheinigung]]*, it might cost 13€.[^13]
+A freelance visa renewal costs **{{NATIONAL_VISA_RENEWAL_FEE|cur}}€**. It's cheaper for Turkish citizens.[^12] If you get a *[[Fiktionsbescheinigung]]*, it might cost €13.[^13]
 
 Some of the [required documents](/guides/renew-german-freelance-visa#required-documents) also cost money:{{ fail_on('2026-06-01') }}
 
-- *Aktuelle Handelsregisterauszug*: 10€ if you need it[^7]
+- *Aktuelle Handelsregisterauszug*: €10 if you need it[^7]
 - *Bescheinigung in Steuersachen*: {{ BESCHEINIGUNG_IN_STEUERSACHEN_FEE|cur }}€[^8]
-- *[[Gewerbeschein]]*: 15€ to 31€, but you probably have it already[^14]
-- *[[Prüfungsbericht]]*: up to 800€[^11] - [Tax Germany](/out/taxgermany) is cheaper
-- *[[Netto-Gewinnermittlung]]*: 100€ to 150€
-- [Certified translations](/glossary/beglaubigte%20Übersetzung): 15€ to 70€ per document
+- *[[Gewerbeschein]]*: €15 to €31, but you probably have it already[^14]
+- *[[Prüfungsbericht]]*: up to €800[^11] - [Tax Germany](/out/taxgermany) is cheaper
+- *[[Netto-Gewinnermittlung]]*: €100 to €150
+- [Certified translations](/glossary/beglaubigte%20Übersetzung): €15 to €70 per document
 
 Keep the receipts. Those expenses are [tax-deductible](/glossary/steuerlich%20absetzbar).
 

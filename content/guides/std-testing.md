@@ -21,23 +21,23 @@ This guide explains how to get tested for sexually transmitted diseases in Berli
     - **[Praxis Schöneberg](http://praxisschöneberg.de/services.html)** - (English, German)
     - **[Viropraxis](https://www.viropraxis.de/)** (English, Spanish, German)
 - **At home**  
-    [s.a.m. health](https://www.samhealth.de/en/) sells home tests for HIV, Syphilis, Gonorrhoea and Chlamydia. It costs 75€ the first time, then 59€.[^0]{{ fail_on('2026-01-01') }}
+    [s.a.m. health](https://www.samhealth.de/en/) sells home tests for HIV, Syphilis, Gonorrhoea and Chlamydia. It costs €75 the first time, then €59.[^0]{{ fail_on('2026-01-01') }}
 - **[Zentrum für sexuelle Gesundheit](https://www.berlin.de/ba-mitte/politik-und-verwaltung/aemter/gesundheitsamt/zentren/artikel.248356.en.php)** of the Gesundheitsamt (English, German, other languages)  
-    HIV tests for 10€. If you have a low income, it's free.[^1] They don't have general STI tests. There are [4 locations in Berlin](https://www.google.com/maps/search/Zentrum+für+sexuelle+Gesundheit/@52.5947073,13.3052094,11z/). They speak English.[^2]
+    HIV tests for €10. If you have a low income, it's free.[^1] They don't have general STI tests. There are [4 locations in Berlin](https://www.google.com/maps/search/Zentrum+für+sexuelle+Gesundheit/@52.5947073,13.3052094,11z/). They speak English.[^2]
 - **[Berlin Aids-Hilfe](https://www.berlin-aidshilfe.de/angebote/test-angebote/)** (German, other languages)  
-    General STI test for 25€. HIV test for 10€.
+    General STI test for €25. HIV test for €10.
 - **[Praxis Prenzlauer Berg](https://praxis-prenzlauer-berg.de/DE/)** (German)  
-    HIV test for 20€. Other tests available. They accept public and private health insurance.[^6]
+    HIV test for €20. Other tests available. They accept public and private health insurance.[^6]
 - **[Checkpoint](https://checkpoint-bln.de/en/)** (German, English, other languages)  
-    HIV and other STI tests for LGBTQ+ people. Tests cost between 5€ and 25€.
+    HIV and other STI tests for LGBTQ+ people. Tests cost between €5 and €25.
 - **[Mann-o-meter](https://www.mann-o-meter.de/angebote/tests-auf-hiv-und-andere-stis)** (German)  
-    HIV and other STI tests for LGBTQ+ people. Complete test for 15€.
+    HIV and other STI tests for LGBTQ+ people. Complete test for €15.
 
 **[More testing options](https://www.hivandmore.de/aerzteverzeichnis/index.shtml)** - hivandmore.de
 
 ## Cost of STD testing in Berlin
 
-If the test is not covered by your health insurance, it costs **between 10€ and 60€**. Complete tests cost more. If you have a low income, you can get tested for free at the *[Gesundheitsamt](https://service.berlin.de/dienstleistung/325457/)*.
+If the test is not covered by your health insurance, it costs **between €10 and €60**. Complete tests cost more. If you have a low income, you can get tested for free at the *[Gesundheitsamt](https://service.berlin.de/dienstleistung/325457/)*.
 
 ### Does German health insurance cover STI tests?
 
@@ -48,7 +48,7 @@ If the test is not covered by your health insurance, it costs **between 10€ an
 - **If you have [private health insurance](/glossary/private%20Krankenversicherung)**  
     Some private health insurances pay for STI tests. You pay for the test yourself, and your insurance sometimes reimburse you. It depends on the insurance policy. Ask your private health insurer.
 - **If you have travel or expat insurance**  
-    STI tests are almost never covered. Some insurances like April and aLC include a 300€ per year budget for tests and check-ups.
+    STI tests are almost never covered. Some insurances like April and aLC include a €300 per year budget for tests and check-ups.
 
 ## Need help?
 

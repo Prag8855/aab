@@ -114,7 +114,7 @@ If you don't speak German, the *Agentur für Arbeit* can cancel your appointment
 
 Before you get ALG I, your employer must send your *[[Arbeitsbescheinigung]]* to the *Agentur für Arbeit*.[^21] Your employer can do this online; you might not get a copy.[^24]
 
-If your employer takes too long, tell your case worker at the *Agentur für Arbeit*. They will pressure your employer, and can fine them up to 2,000€. This can still take a few weeks.[^22]
+If your employer takes too long, tell your case worker at the *Agentur für Arbeit*. They will pressure your employer, and can fine them up to €2,000. This can still take a few weeks.[^22]
 
 If you can't wait for your *Arbeitsbescheinigung*, ask the *Agentur für Arbeit* for a preliminary approval of your employment benefits (*vorläufige Bewilligung*).[^23] You will get unemployment benefits faster. [Use this template](/docs/alg-i-vorlaeufige-entscheidung) to make the request.
 

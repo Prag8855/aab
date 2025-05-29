@@ -11,20 +11,20 @@ This guide shows you how to get a car or motorcycle driving licence in Berlin.
 
 ## How much does it cost?
 
-In total, it costs **around 4,000€** to get your driving licence.[^0]{{fail_on('2026-06-01')}} The costs include:
+In total, it costs **around €4,000** to get your driving licence.[^0]{{fail_on('2026-06-01')}} The costs include:
 
-- [ ] Eyesight test: [0€](https://www.fielmann.de/service/fuehrerschein-sehtest/) to 25€
+- [ ] Eyesight test: [€0](https://www.fielmann.de/service/fuehrerschein-sehtest/) to €25
 - [ ] Driving licence fees: {{DRIVING_LICENCE_FEE|cur}}€
-- [ ] Theory lessons: around 150€
-- [ ] Theoretical exam: 22.49€[^1]
-- [ ] Practical lessons: around 70€ for 45 minutes[^2]
+- [ ] Theory lessons: around €150
+- [ ] Theoretical exam: €22.49[^1]
+- [ ] Practical lessons: around €70 for 45 minutes[^2]
     - Interurban driving: minimum 5 × 45 minutes
     - Highway driving: minimum 4 × 45 minutes
     - Driving at night: minimum 3 × 45 minutes
     - Extra practice if you need it. Most people take more lessons.
-- [ ] Practical exam: around 150€ for the driving school + 121.38€ for the TÜV/Dekra
+- [ ] Practical exam: around €150 for the driving school + €121.38 for the TÜV/Dekra
 
-**For motorcyclists:** You also need around 1,000€ to 2,000€ for your motorcycle equipment: helmet, jacket, gloves, trousers and boots. Some driving schools will give you protective gear for your classes, but it's old and it doesn't fit well.
+**For motorcyclists:** You also need around €1,000 to €2,000 for your motorcycle equipment: helmet, jacket, gloves, trousers and boots. Some driving schools will give you protective gear for your classes, but it's old and it doesn't fit well.
 
 ## 1. Convert your foreign driving licence
 
@@ -107,7 +107,7 @@ The appointment takes 15 minutes. During the appointment, you must:
 - Pay the {{DRIVING_LICENCE_FEE|cur}}€ fee
 - Choose the Dekra or TÜV location where you will take your driving exam
 
-If you can, ask them to mail you the driving licence when it's ready. It costs 5€ more, but it means you don't have to pick it up at the *Fahrerlaubnisbehörde*.
+If you can, ask them to mail you the driving licence when it's ready. It costs €5 more, but it means you don't have to pick it up at the *Fahrerlaubnisbehörde*.
 
 6 to 9 weeks later, you will get a letter that gives you the permission to take a driving exam. Show it to your driving school, and they will give you a training certificate[^8] (*Ausbildungsbescheinigung der Fahrschule*). With this document, you have everything you need to take the theoretical exam later.[^9]
 
@@ -123,7 +123,7 @@ Some questions are really hard. They are badly translated, and the translations 
 
 Your driving school will give you access to a practice app. The questions in the app are exactly the same as in the real exam. Even the translations are the same.[^12] You must memorise all the questions and all the answers. I needed 3 to 4 weeks to prepare.
 
-When you are ready to take the theoretical exam, go to your assigned Dekra or TÜV branch. You don't need an appointment. It costs 22.49€.[^9]
+When you are ready to take the theoretical exam, go to your assigned Dekra or TÜV branch. You don't need an appointment. It costs €22.49.[^9]
 
 ## 6. Take the practical exam
 
@@ -153,11 +153,11 @@ This information is in the letter you got from the Bürgeramt in step 4.
 
 ### Get your driving licence by post
 
-If you paid the 5€ fee, and your letter says you should get the plastic driving licence by post, you just need to wait. The licence is sent by [registered mail](/glossary/Einschreibebrief), so you are guaranteed to receive it.[^10][^16]
+If you paid the €5 fee, and your letter says you should get the plastic driving licence by post, you just need to wait. The licence is sent by [registered mail](/glossary/Einschreibebrief), so you are guaranteed to receive it.[^10][^16]
 
 ### Pick up the plastic licence from the Fahrerlaubnisbehörde
 
-If you didn't pay a 5€ fee, your letter should tell you to pick up your licence from the *[Fahrerlaubnisbehörde](https://www.google.com/maps/place/LABO+Fahrerlaubnisbeh%C3%B6rde/@52.5045857,13.3871626,17z/)* at least 4 weeks after passing your driving exam. **You will NOT be informed when your permanent licence is ready.** You do not need an appointment to visit the *Fahrerlaubnisbehörde*[^13] and pick it up.
+If you didn't pay a €5 fee, your letter should tell you to pick up your licence from the *[Fahrerlaubnisbehörde](https://www.google.com/maps/place/LABO+Fahrerlaubnisbeh%C3%B6rde/@52.5045857,13.3871626,17z/)* at least 4 weeks after passing your driving exam. **You will NOT be informed when your permanent licence is ready.** You do not need an appointment to visit the *Fahrerlaubnisbehörde*[^13] and pick it up.
 
 Just go to the *Fahrerlaubnisbehörde* with your temporary driving licence and your ID,[^14] and say that you came to pick up your driving licence. You must wait until they call you. It can take an hour. You will give your temporary driving licence and get your plastic driving licence.
 

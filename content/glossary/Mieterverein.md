@@ -26,6 +26,6 @@ A Mieterverein can...
 
 After you join a *Mieterverein*, you must wait a few months before you use their legal services.[^0]
 
-The [Berliner Mieterverein](https://www.berliner-mieterverein.de/sprachen/englisch.htm) and [Mieterschutzbund Berlin](https://www.mieterschutzbund-berlin.de/) are the two biggest associations in Berlin. The membership costs 50€ to 100€ per year.
+The [Berliner Mieterverein](https://www.berliner-mieterverein.de/sprachen/englisch.htm) and [Mieterschutzbund Berlin](https://www.mieterschutzbund-berlin.de/) are the two biggest associations in Berlin. The membership costs €50 to €100 per year.
 
 [^0]: [berliner-mieterverein.de](https://www.berliner-mieterverein.de/mitgliedsbeitraege-und-leistungen.htm#:~:text=mit%20einer%20dreimonatigen%20wartefrist%20), [mieterbund-siegerland.de](https://www.mieterbund-siegerland.de/infos/faqs/nichtmitglieder/kuemmert-sich-der-mieterbund-auch-noch-um-probleme-die-ich-bereits-habe-wenn-ich-beitreten-moechte#:~:text=eine%203-monatige%20wartezeit%20ab%20beginn%20der%20versicherungszeit%20besteht)

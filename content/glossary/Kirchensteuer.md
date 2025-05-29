@@ -13,7 +13,7 @@ Related_guides:
 
 Members of certain churches must pay the church tax (*Kirchensteuer*). It's **9% of your [income tax](/glossary/Einkommensteuer)**, or 8% in Bavaria and Baden-Württemberg.[^2]
 
-If you earn 50,000€ per year, the church tax is around 800€ per year.
+If you earn €50,000 per year, the church tax is around €800 per year.
 
 **[Calculate your church tax ➞](/tools/tax-calculator)**
 

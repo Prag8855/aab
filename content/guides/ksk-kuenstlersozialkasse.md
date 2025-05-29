@@ -34,7 +34,7 @@ When you are a KSK member, **they pay half of your [health insurance](/glossary/
 - **It helps you get [permanent residence](/glossary/Niederlassungserlaubnis)**  
     Before you apply for [permanent residence](/glossary/Niederlassungserlaubnis), you must pay [public pension insurance](/glossary/gesetzliche%20Krankenversicherung) for 60 months. The KSK makes public pension insurance more affordable for freelancers.
 - **It's usually free**  
-    If you earn less than {{GKV_MAX_INCOME|cur}}€ per year, the KSK does not cost more money. If you earn more, [it can cost a little more](/guides/ksk-kuenstlersozialkasse#how-much-does-it-cost) - up to 175€ per month - but it's still a really good deal.
+    If you earn less than {{GKV_MAX_INCOME|cur}}€ per year, the KSK does not cost more money. If you earn more, [it can cost a little more](/guides/ksk-kuenstlersozialkasse#how-much-does-it-cost) - up to €175 per month - but it's still a really good deal.
 
 ### Disadvantages
 
@@ -61,15 +61,15 @@ In other words, **you save money on health insurance, and reinvest it in your pe
 
 | Income<br><small>per year</small> | Normal cost<br><small>Health insurance only</small> | KSK member cost<br><small>Health insurance + pension</small> |
 |---|---|---|
-| 15,000€ <br><small>per year</small> | 230€ <br><small>per month</small> | 230€ <br><small>per month</small> |
-| 25,000€ <br><small>per year</small> | 390€ <br><small>per month</small> | 385€ <br><small>per month</small> |
-| 35,000€ <br><small>per year</small> | 545€ <br><small>per month</small> | 540€ <br><small>per month</small> |
-| 45,000€ <br><small>per year</small> | 700€ <br><small>per month</small> | 695€ <br><small>per month</small> |
-| 55,000€ <br><small>per year</small> | 850€ <br><small>per month</small> | 850€ <br><small>per month</small> |
-| 70,000€ <br><small>per year</small> | 900€ <br><small>per month</small> | 990€ <br><small>per month</small> |
-| Over {{BEITRAGSBEMESSUNGSGRENZE|cur}}€ / year | 900€ / month | 1,075€ / month |
+| €15,000 <br><small>per year</small> | €230 <br><small>per month</small> | €230 <br><small>per month</small> |
+| €25,000 <br><small>per year</small> | €390 <br><small>per month</small> | €385 <br><small>per month</small> |
+| €35,000 <br><small>per year</small> | €545 <br><small>per month</small> | €540 <br><small>per month</small> |
+| €45,000 <br><small>per year</small> | €700 <br><small>per month</small> | €695 <br><small>per month</small> |
+| €55,000 <br><small>per year</small> | €850 <br><small>per month</small> | €850 <br><small>per month</small> |
+| €70,000 <br><small>per year</small> | €900 <br><small>per month</small> | €990 <br><small>per month</small> |
+| Over {{BEITRAGSBEMESSUNGSGRENZE|cur}}€ / year | €900 / month | €1,075 / month |
 
-**If you earn over {{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}}€ per year**, you pay a bit more. You pay up to 175€ per month more, but you contribute up to 1,311€ per month to your public pension. This is the best pension plan you can find.
+**If you earn over {{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}}€ per year**, you pay a bit more. You pay up to €175 per month more, but you contribute up to €1,311 per month to your public pension. This is the best pension plan you can find.
 
 ### Should I join the KSK?
 
@@ -408,7 +408,7 @@ If your predicted income is wrong, it's okay.
 - If your predicted income is too low, you pay less than you should. The KSK will not ask you to pay more.[^36] Good for you.
 - If your predicted income is too high, you pay more than you should. The KSK will not give you any money back.[^37] Bad for you.
 - If your prediction is really wrong, then you can [make a correction](https://www.kuenstlersozialkasse.de/kuenstler-und-publizisten/aenderungsmitteilungen) (*Änderungsmitteilung*). The KSK will adjust your future payments. They will not ask you to pay more for the past months. They will not give you any money back.
-- If you make bad predictions on purpose, the KSK can fine you up to 5,000€.[^38] They can also kick you out. They can't ask you to pay more for the past months.
+- If you make bad predictions on purpose, the KSK can fine you up to €5,000.[^38] They can also kick you out. They can't ask you to pay more for the past months.
 
 ### There are random audits
 
@@ -485,7 +485,7 @@ If you have private health insurance, you usually need to pay more to cover your
 
 There are people who can help you apply for the KSK. They can review your documents, answer your questions, and talk to the KSK for you.
 
-A consultation costs between 75€ and 200€. Keep the invoice; it's a [tax-deductible](/glossary/steuerlich%20absetzbar) expense.[^46]
+A consultation costs between €75 and €200. Keep the invoice; it's a [tax-deductible](/glossary/steuerlich%20absetzbar) expense.[^46]
 
 ### Contact the KSK
 

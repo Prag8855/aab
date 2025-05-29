@@ -144,7 +144,7 @@ Recycling centres accept all electronics and appliances.
 
 - **Batteries ➞ [electronics stores](/guides/where-to-buy-what#electronics), [hardware stores](/guides/where-to-buy-what#hardware-and-home-improvement) and [supermarkets](/guides/where-to-buy-what#groceries)**
 - **Car batteries ➞ [auto parts store](/guides/where-to-buy-what#car-and-motorcycle-parts), some [recycling centres](https://www.bsr.de/recyclinghoefe-20503.php)**  
-    They have a 7.50€ *[[Pfand]]*.[^17] [A.T.U](https://www.atu.de/filialen/) accepts car batteries. You must have the receipt to get the *Pfand* backs. Some recycling centres recycle batteries for free, but only if they accept dangerous materials (*Schadstoffe*).
+    They have a €7.50 *[[Pfand]]*.[^17] [A.T.U](https://www.atu.de/filialen/) accepts car batteries. You must have the receipt to get the *Pfand* backs. Some recycling centres recycle batteries for free, but only if they accept dangerous materials (*Schadstoffe*).
 
 ![Battery recycling bin at Lidl](/images/lidl-battery-recycling-akku-entsorgung.jpg "A battery recycling bin in a Lidl supermarket")
 
@@ -181,7 +181,7 @@ Cartridges and toners do not go in the yellow bin. Recycle them [where you recyc
 - **Car oil ➞ garages, [car parts stores](/guides/where-to-buy-what#car-and-motorcycle-parts), [hardware stores](/guides/where-to-buy-what#hardware-and-home-improvement), some [recycling centres](https://www.bsr.de/recyclinghoefe-20503.php)**  
     If a business sells car oil, they must accept your old oil.[^18] Usually, they only take oil if you bought it from them. If you ask nicely, they will take oil from other places. Check if your recycling store accepts dangerous materials (*Schadstoffe*). They charge a small fee per kilo.
 - **Car tires ➞ garages, [recycling centres](https://www.bsr.de/recyclinghoefe-20503.php)**  
-    At the recycling centre, you must pay around 3€ per tire.
+    At the recycling centre, you must pay around €3 per tire.
 - **⚫ Cooking oil ➞ grey bin**
 
 ## Other things

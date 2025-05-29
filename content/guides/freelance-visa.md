@@ -85,7 +85,7 @@ If you can't apply in Germany, you must [apply in your home country](#how-to-app
 
 Your current residence permit [might allow self-employment](/guides/residence-permit#for-self-employment). If not, you must wait for your freelance visa to start working.[^35] This can take [a few months](/guides/auslanderbehorde-wait-times). It might be cheaper and safer if you [apply in your home country](#how-to-apply-in-your-country), then come to Germany when you have permission to start your business.
 
-**If you need help**, an [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocation consultant](/guides/relocation-agency-in-berlin) can take care of everything. It costs 500€ to 2,000€.[^45] It's a [tax-deductible](/glossary/steuerlich%20absetzbar) expense.
+**If you need help**, an [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocation consultant](/guides/relocation-agency-in-berlin) can take care of everything. It costs €500 to €2,000.[^45] It's a [tax-deductible](/glossary/steuerlich%20absetzbar) expense.
 
 ### 1. Come to Germany
 
@@ -222,7 +222,7 @@ There are two types of self-employed people. They get a different kind of freela
     - [ ] and **proof of rent payments**  
         You must show what you really pay for housing. Print recent bank statements that show rent payments.[^52]
 - [ ] **Bank statements**  
-    It shows how much savings you have.[^74] In Berlin, 3,000€ to 5,000€ in savings is usually enough.[^28] In other cities, you might need around 10,000€.[^22] You don't need a [blocking account](/glossary/Sperrkonto). If you can, use a German bank.[^61] If it's in another currency, convert it to euros.
+    It shows how much savings you have.[^74] In Berlin, €3,000 to €5,000 in savings is usually enough.[^28] In other cities, you might need around €10,000.[^22] You don't need a [blocking account](/glossary/Sperrkonto). If you can, use a German bank.[^61] If it's in another currency, convert it to euros.
 - [ ] **Translations**  
     If your documents are not in German, bring translations. For certificates and official documents, bring [certified translations](/glossary/beglaubigte%20Übersetzung). They *sometimes* accept untranslated documents, but don't take the risk.[^32] Get translations from [Red Tape Translation](/out/red-tape-translation-certified) or [Lingoking](/out/lingoking).
 

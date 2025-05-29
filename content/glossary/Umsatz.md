@@ -13,4 +13,4 @@ Related_guides:
 
 Revenue (*Umsatz* or *Ertrag*) is how much money you earn, ignoring expenses. It's not the same as profit (*[[Gewinn]]*).
 
-For example, you have a product that costs 6€ to make, and sells for 10€. Your revenue is 10€ per unit, and your profit is 4€ per unit.
+For example, you have a product that costs €6 to make, and sells for €10. Your revenue is €10 per unit, and your profit is €4 per unit.

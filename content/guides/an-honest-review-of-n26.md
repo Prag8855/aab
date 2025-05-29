@@ -21,7 +21,7 @@ I switched to N26 to save money. I didn't want to pay fees to withdraw money. Th
 
 ### There are no ATM withdrawal fees
 
-With N26, you get 2 free withdrawals every month (before, it was 5).[^4] Most German banks charge 5-7€ to use another bank's ATM. With N26, I haven't paid ATM fees in years. I can use any ATM, even the sketchy ones in [*Spätis*](/glossary/Sp%C3%A4ti) and train stations. There is no withdrawal limit for [CASH26 withdrawals](/out/n26-cash26).
+With N26, you get 2 free withdrawals every month (before, it was 5).[^4] Most German banks charge €5 to €7 to use another bank's ATM. With N26, I haven't paid ATM fees in years. I can use any ATM, even the sketchy ones in [*Spätis*](/glossary/Sp%C3%A4ti) and train stations. There is no withdrawal limit for [CASH26 withdrawals](/out/n26-cash26).
 
 This is my favourite feature. I really hate to pay to access my own money. I also hate to walk a kilometre to the next free ATM. With N26, I see an ATM, I use it.
 
@@ -95,7 +95,7 @@ There are also things I don't like about N26. Here they are, in order of importa
 
 N26 fees and conditions get worse every year:
 
-- When you open an account, you must pay 10€ to get a plastic Mastercard. It used to be free.
+- When you open an account, you must pay €10 to get a plastic Mastercard. It used to be free.
 - The free account has 2 free ATM withdrawals per month. It used to be 5.
 - The free account does not include Spaces.
 
@@ -113,7 +113,7 @@ If you can't open an N26 account with your passport, [these banks](/guides/best-
 
 In Germany, you always need cash. Fast food kiosks, *[Spätis](/glossary/Sp%C3%A4ti)* and even some restaurants only accept cash. No credit cards or debit cards.
 
-The free N26 account lets you withdraw money 3 times per month for free. After that, you pay 2€ each time you withdraw money. My account is older, and it still has 5 free withdrawals per month. It's enough for me, but it's not a lot. [The N26 You](/out/n26-you) and [N26 Metal](/out/n26-metal) accounts have no withdrawal fees, but they have a monthly fee.
+The free N26 account lets you withdraw money 3 times per month for free. After that, you pay €2 each time you withdraw money. My account is older, and it still has 5 free withdrawals per month. It's enough for me, but it's not a lot. [The N26 You](/out/n26-you) and [N26 Metal](/out/n26-metal) accounts have no withdrawal fees, but they have a monthly fee.
 
 Only [DKB](/out/dkb) and [ING](/out/ing) have no withdrawal fees. [Other banks](/guides/best-bank-germany#banks-with-no-atm-fees) charge even higher fees to withdraw money.
 
@@ -174,7 +174,7 @@ Here are a few things I love about the N26 app:
 - **Push notifications**  
     This is my favourite feature. You get a notification for every transaction in your bank account. When I pay with my N26 card, I get the notification before the receipt starts printing. It helps you keep an eye on your spending and catch unexpected transactions.
 - **Spaces** - [screenshot](/images/n26-app-spaces.jpg)  
-    Spaces are a simple but useful feature. Spaces are buckets in which you can put money. You can transfer money to the "Bills" space, or create a "Vacations" space with a 3,000€ savings goal. You can even transfer money automatically. It's a nice way to create a simple budget. This feature is only for paid accounts. It used to be free. When you export transactions as CSV files, you can't see the money in your spaces.
+    Spaces are a simple but useful feature. Spaces are buckets in which you can put money. You can transfer money to the "Bills" space, or create a "Vacations" space with a €3,000 savings goal. You can even transfer money automatically. It's a nice way to create a simple budget. This feature is only for paid accounts. It used to be free. When you export transactions as CSV files, you can't see the money in your spaces.
 - **Transactions and stats** - [screenshot 1](/images/n26-app-home.jpg), [screenshot 2](/images/n26-app-budget.jpg)  
     N26 automatically categorises your transactions. You can easily search through them, and see statistics for each month. Unfortunately, the statistics only show your spending. This is not very useful if you have irregular income. The N26 [Smart](/out/n26-plans), [You](/out/n26-you) and [Metal](/out/n26-metal) accounts can automatically save a bit of money with every transaction.
 - **Google Pay and Apple Pay**  
@@ -199,7 +199,7 @@ Here are things I don't like about it:
 
 ## Is N26 safe?
 
-**Yes.** N26 is a regular bank, with 1500 employees and millions of users.[^5] It's not a startup. Your money is insured up to 100,000€[^3] by the German government. This is normal for all German banks.
+**Yes.** N26 is a regular bank, with 1500 employees and millions of users.[^5] It's not a startup. Your money is insured up to €100,000[^3] by the German government. This is normal for all German banks.
 
 ## Conclusion
 

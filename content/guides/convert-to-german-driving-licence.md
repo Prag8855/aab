@@ -80,7 +80,7 @@ Where did you get your driving licence? The requirements are different for each 
 
 ### 3. Take a first aid course
 
-If your licence is not from an EU, [[EEA]] or [Annex 11](https://www.gesetze-im-internet.de/fev_2010/anlage_11.html) country, you must take a first aid course (*Erste-Hilfe-Kurs*). It takes around **9 hours** and costs around **70€**.[^12]
+If your licence is not from an EU, [[EEA]] or [Annex 11](https://www.gesetze-im-internet.de/fev_2010/anlage_11.html) country, you must take a first aid course (*Erste-Hilfe-Kurs*). It takes around **9 hours** and costs around **€70**.[^12]
 
 Where to take a first aid course in English:
 
@@ -90,7 +90,7 @@ Where to take a first aid course in English:
 
 ### 4. Get an eye test
 
-If your licence is not from an EU, [[EEA]] or [Annex 11](https://www.gesetze-im-internet.de/fev_2010/anlage_11.html) country, you must get an eye test (*Sehtest*). It takes **a few minutes** and costs **less than 10€**.
+If your licence is not from an EU, [[EEA]] or [Annex 11](https://www.gesetze-im-internet.de/fev_2010/anlage_11.html) country, you must get an eye test (*Sehtest*). It takes **a few minutes** and costs **less than €10**.
 
 Where to get an eye test:
 
@@ -122,7 +122,7 @@ Go to your *Bürgeramt* appointment, and bring all the [required documents](http
 - [ ] **Photocopy of your driving licence**
 - [ ] **Passport or [[Personalausweis]]**
 - [ ] **Passport photo**  
-    You can [get biometric pictures](/guides/biometric-pictures-in-berlin) for around 10€.{{fail_on('2026-01-01')}}
+    You can [get biometric pictures](/guides/biometric-pictures-in-berlin) for around €10.{{fail_on('2026-01-01')}}
 - [ ] **Registration certificate** (*[[Anmeldebestätigung]]*)  
     This proves that you live in Berlin. Other proofs of residence might be accepted.[^2]
 - [ ] **A [[Girocard]] or cash**  
@@ -131,7 +131,7 @@ Go to your *Bürgeramt* appointment, and bring all the [required documents](http
 If your licence is not from a EU or EEA country, you must also bring...
 
 - [ ] **Certified translation of your driving licence**  
-    If your driving licence is not in German, you need a [certified translation](/glossary/beglaubigte%20Übersetzung) or an [International Driving Permit](/glossary/Internationaler%20Führerschein). In Berlin, they also accept driving licences in English.[^19] Get a certified from [Red Tape Translation](/out/red-tape-translation-certified), [Lingoking](/out/lingoking-drivers-licence) or [ADAC](https://www.adac.de/). It costs around 60€. In some cities, they only accept certified translations, not [International Driving Permits](/glossary/Internationaler%20Führerschein).[^14]
+    If your driving licence is not in German, you need a [certified translation](/glossary/beglaubigte%20Übersetzung) or an [International Driving Permit](/glossary/Internationaler%20Führerschein). In Berlin, they also accept driving licences in English.[^19] Get a certified from [Red Tape Translation](/out/red-tape-translation-certified), [Lingoking](/out/lingoking-drivers-licence) or [ADAC](https://www.adac.de/). It costs around €60. In some cities, they only accept certified translations, not [International Driving Permits](/glossary/Internationaler%20Führerschein).[^14]
 
 If your licence is not from a [EU](/glossary/European%20Union), [[EEA]] or [Annex 11](https://www.gesetze-im-internet.de/fev_2010/anlage_11.html) country, you must also bring...
 

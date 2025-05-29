@@ -81,7 +81,7 @@ Sign an internet contract as soon as possible. It can take a few weeks for the c
 
 Use [Verivox](/out/verivox-internet) or [Check24](/out/check24-internet) to compare internet service providers.
 
-If you already have a contract at your old address, you can transfer it to your new address. There is usually a moving fee. For example, Vodafone charges 40€.
+If you already have a contract at your old address, you can transfer it to your new address. There is usually a moving fee. For example, Vodafone charges €40.
 
 If your current internet company can't service your new apartment, you can cancel your contract and find another company. If they can service your new apartment, you can't cancel your contract. You must stay with the same company.
 
@@ -137,7 +137,7 @@ To move heavy furniture, use a [Möbel Taxi](https://www.moebel-taxi.de/english/
 
 ### Install light fixtures
 
-Most apartments come without light fixtures. You must buy your own and install them. A *Handwerker* can install them for you for 40€ to 120€.[^14] You can find cheaper ones on [Kleinanzeigen](https://www.kleinanzeigen.de/s-berlin/handwerker/k0l3331), [TaskRabbit](https://www.taskrabbit.com/) or [Driller Queens](https://www.drillerqueens.com/).
+Most apartments come without light fixtures. You must buy your own and install them. A *Handwerker* can install them for you for €40 to €120.[^14] You can find cheaper ones on [Kleinanzeigen](https://www.kleinanzeigen.de/s-berlin/handwerker/k0l3331), [TaskRabbit](https://www.taskrabbit.com/) or [Driller Queens](https://www.drillerqueens.com/).
 
 ### Change your address
 
@@ -147,7 +147,7 @@ Tell everyone your new address. The address change is not automatic. When you re
 
 ### Get liability insurance
 
-Liability insurance (*[[Haftpflichtversicherung]]*) is optional, but **everyone should have it**. 85% of German homes have it.[^3] It costs around 5€ per month. I have liability insurance from [Feather](/out/feather-haftpflicht).
+Liability insurance (*[[Haftpflichtversicherung]]*) is optional, but **everyone should have it**. 85% of German homes have it.[^3] It costs around €5 per month. I have liability insurance from [Feather](/out/feather-haftpflicht).
 
 **[How to choose liability insurance ➞](/guides/haftpflichtversicherung)**
 
@@ -162,7 +162,7 @@ Your own things are not covered by liability insurance. To insure your own furni
 Landlords often [try to scam](/guides/housing-scams#scams-by-landlords-and-tenants) immigrants. You must be ready to defend yourself. There are many ways to do this:
 
 - **Join a tenants' association** (*[[Mieterverein]]*){{ RECOMMENDED }}  
-    If you are a member, you get free help from their lawyers. They can check your lease, help you with a bad landlord, lower your rent, and help you sublet your apartment. It costs around 5€ per month. The [Berliner Mieterverein](https://www.berliner-mieterverein.de/sprachen/englisch.htm) and [Mieterschutzbund Berlin](https://www.mieterschutzbund-berlin.de/) are the biggest ones in Berlin. The Berliner Mieterverein speaks English.[^10]
+    If you are a member, you get free help from their lawyers. They can check your lease, help you with a bad landlord, lower your rent, and help you sublet your apartment. It costs around €5 per month. The [Berliner Mieterverein](https://www.berliner-mieterverein.de/sprachen/englisch.htm) and [Mieterschutzbund Berlin](https://www.mieterschutzbund-berlin.de/) are the biggest ones in Berlin. The Berliner Mieterverein speaks English.[^10]
 - or **get legal insurance** (*[[Rechtsschutzversicherung]]*)  
     It pays for your legal costs. You get free access to a lawyer. It's more expensive than a *[[Mieterverein]]*, but you get better service, and you can choose any [English-speaking lawyer](/guides/english-speaking-lawyers-berlin). [Feather](/out/feather-rechtsschutz) and [Getsafe](/out/getsafe-rechtsschutz) sell legal insurance, and they speak in English.
 - or **get help from the [Mieterberatung](https://www.berlin.de/ba-mitte/politik-und-verwaltung/aemter/amt-fuer-buergerdienste/buergeraemter/artikel.244745.php)**  
@@ -208,7 +208,7 @@ You can only deduct moving costs if:
 These expenses are tax-deductible:
 
 - **Visiting apartments**  
-    You can deduct 0.30€ per kilometre when you travel to [visit apartments](/guides/find-a-flat-in-berlin#visit-the-apartment).
+    You can deduct €0.30 per kilometre when you travel to [visit apartments](/guides/find-a-flat-in-berlin#visit-the-apartment).
 - **Double rent**  
     If you must pay two rents at once, you can deduct one of them.
     - The rent of your old apartment, if you can't end your lease now. You can deduct up to 6 months of rent.

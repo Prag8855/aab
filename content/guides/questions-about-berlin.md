@@ -45,7 +45,7 @@ You can get help from these communities and services.
 - **Immigration lawyer**  
     Use my [list of English-speaking lawyers](/guides/english-speaking-lawyers-berlin).
     - **Immigration lawyer hotline** - [09008 529 366 11](tel:0900852936611)  
-        Use this number to ask quick questions. You will talk to Alexander von Engelhardt, a business and immigration lawyer in Berlin. It costs 2€ per minute.
+        Use this number to ask quick questions. You will talk to Alexander von Engelhardt, a business and immigration lawyer in Berlin. It costs €3 per minute.
 - **[Red Tape Translation](/out/red-tape-translation-interpreter)**  
     They offer immigration coaching. They can also come with you to the *Ausländerbehorde*. They have a lot of experience with visa applications. They often help me with this website.
 - **[Verfahrenshinweise zum Aufenthalt in Berlin](/out/vab)** (in German)  
@@ -56,14 +56,14 @@ You can get help from these communities and services.
 ## Apartment questions
 
 - **Tenant associations** (*[[Mieterverein]]*)  
-    A *Mieterverein* protects tenants from landlords. When you are a member, you can get help from their lawyers. They can check your lease, help you with a bad landlord, get your rent reduced, and help you sublet an apartment. The membership costs 40€ to 120€ per year.[^1] If you have a low income, it can be cheaper.[^2] Some unions have a waiting period before they help you.[^3] [Berliner Mieterverein](https://www.berliner-mieterverein.de/sprachen/englisch.htm) and [Mieterschutzbund Berlin](https://www.mieterschutzbund-berlin.de/) are the two biggest associations in Berlin. [Berliner Mieterverein](https://www.berliner-mieterverein.de/sprachen/englisch.htm) can help you in English. 
+    A *Mieterverein* protects tenants from landlords. When you are a member, you can get help from their lawyers. They can check your lease, help you with a bad landlord, get your rent reduced, and help you sublet an apartment. The membership costs €40 to €120 per year.[^1] If you have a low income, it can be cheaper.[^2] Some unions have a waiting period before they help you.[^3] [Berliner Mieterverein](https://www.berliner-mieterverein.de/sprachen/englisch.htm) and [Mieterschutzbund Berlin](https://www.mieterschutzbund-berlin.de/) are the two biggest associations in Berlin. [Berliner Mieterverein](https://www.berliner-mieterverein.de/sprachen/englisch.htm) can help you in English. 
 - **[Tenant counsel](https://www.berlin.de/sen/wohnen/service/serviceadressen/mieterberatungen-in-den-bezirken/)** (*Mieterberatung*)  
     This is a free service from the city of Berlin. They have [many branches](https://www.berlin.de/sen/wohnen/service/serviceadressen/mieterberatungen-in-den-bezirken/). You might need to go in person. They might not speak English.
     - **[asum Berlin](https://www.asum-berlin.de/english/)** - Free counselling for tenants
     - **[Tenant counsel](https://dielinke.berlin/beratung)** by Die Linke  
         Free legal advice and help clinics in different neighbourhoods. Die Linke is a political party.
 - **[Lawyers](/guides/english-speaking-lawyers-berlin)**  
-    Use my [list of English-speaking lawyers](/guides/english-speaking-lawyers-berlin). If you have legal insurance (*[[Rechtsschutzversicherung]]*), it might pay for your lawyer. If not, a lawyer costs around 200€ per hour.
+    Use my [list of English-speaking lawyers](/guides/english-speaking-lawyers-berlin). If you have legal insurance (*[[Rechtsschutzversicherung]]*), it might pay for your lawyer. If not, a lawyer costs around €200 per hour.
     - **[Conny](/out/conny-mietpreisbremse)**  
         A legal service that helps people lower their rent. Their fee is high, but you only pay when it works. They speak English. Read my [review of Conny](/guides/conny-review).
 
@@ -89,7 +89,7 @@ Use my lists of English-speaking professionals:
 - **[Lawyers](/guides/english-speaking-lawyers-berlin)**  
     Use my [list of English-speaking lawyers in Berlin](/guides/english-speaking-lawyers-berlin). If you have [legal insurance](/glossary/Rechtsschutzversicherung) can help you find a lawyer, and it might pay for it. Some legal insurances have a legal hotline.
     - **Business and immigration lawyer hotline** - [09008 529 366 11](tel:0900852936611)  
-        Use this number to ask quick legal questions. You will talk to Alexander von Engelhardt, a business and immigration lawyer in Berlin. It costs 3€ per minute.{{ fail_on('2025-12-31') }}
+        Use this number to ask quick legal questions. You will talk to Alexander von Engelhardt, a business and immigration lawyer in Berlin. It costs €3 per minute.{{ fail_on('2025-12-31') }}
 - **Legaltech** (*Rechtsdienstleister*)  
     Legal services can help you with specific legal problems. For example, [Conny](/out/conny-mietpreisbremse) specialises in tenant law. They can [lower your rent](/guides/moving-in#lower-your-rent) and many other things. I reviewed them [here](/guides/conny-review). Usually, their services cost nothing if you lose. If you win, they keep a part of the money you get back.
 
@@ -115,13 +115,13 @@ Use my lists of English-speaking professionals:
 - **[BMAS Bürgertelefon](https://www.bmas.de/DE/Service/Kontakt/Buergertelefon/buergertelefon.html)**  
     Free help for immigrants and asylum seekers. They mostly speak German.
 - **[ArbeitnehmerHilfe](https://www.arbeitnehmerhilfe-berlin.de)**  
-    Legal advice for members. Membership costs 40€ per year.{{ fail_on('2026-06-30') }} You can use their help immediately after you become a member.
+    Legal advice for members. Membership costs €40 per year.{{ fail_on('2026-06-30') }} You can use their help immediately after you become a member.
 - **Your works council** (*Betriebsrat*)  
     If your company has a *Betriebsrat*, they can advise you for free. They work for you, not your employer.
 - **Workers union** (*Gewerkschaft*)  
     If you are in a union, you can usually get free legal help, but only for work-related problems.[^4]
 - **Lawyer** (*Fachanwalt für Arbeitsrecht*)  
-    Hire a lawyer who specialises in employment law (*Arbeitsrecht*). They cost around 200€ per hour. Use my [list of English-speaking lawyers in Berlin](/guides/english-speaking-lawyers-berlin). Your [legal insurance](/glossary/Rechtsschutzversicherung) might pay for it.
+    Hire a lawyer who specialises in employment law (*Arbeitsrecht*). They cost around €200 per hour. Use my [list of English-speaking lawyers in Berlin](/guides/english-speaking-lawyers-berlin). Your [legal insurance](/glossary/Rechtsschutzversicherung) might pay for it.
 
 Don't be afraid to use a lawyer. Your employer can't fire you or blacklist you because you defend your rights. It will not affect your job search.[^7]
 
@@ -134,7 +134,7 @@ Don't be afraid to use a lawyer. Your employer can't fire you or blacklist you b
 - **[Tax advisors](/guides/english-speaking-steuerberater-berlin)**  
     Use my [list of English-speaking tax advisors in Berlin](/guides/english-speaking-steuerberater-berlin).
 - **Business and immigration lawyer hotline** - [09008 529 366 11](tel:0900852936611)  
-    Use this number to ask quick legal questions. You will talk to Alexander von Engelhardt, a business and immigration lawyer in Berlin. It costs 3€ per minute.{{ fail_on('2025-12-31') }}
+    Use this number to ask quick legal questions. You will talk to Alexander von Engelhardt, a business and immigration lawyer in Berlin. It costs €3 per minute.{{ fail_on('2025-12-31') }}
 - [List of English-speaking lawyers in Berlin](/guides/english-speaking-lawyers-berlin)
 - [Berlin startups](https://www.facebook.com/groups/159595270791268/) - Facebook group
 - [Berlin freelancers](https://www.facebook.com/groups/berlinfreelancers/) - Facebook group

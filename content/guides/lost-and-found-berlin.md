@@ -30,11 +30,11 @@ If you lost something on a Flixbus bus, you must their [lost item search](https:
 
 If you lost something on a Deutsche Bahn train, use their online [lost property service](https://db.novafind.eu/home/db/db/app/lossrecords/new/items/0/categoryCultureName=EN). You can find more information [here](https://www.bahn.de/service/ueber-uns/fundservice).
 
-Found items are kept at the train station for 7 days. Items worth more than 15€ are then sent to the central collection point in Wuppertal.[^2]
+Found items are kept at the train station for 7 days. Items worth more than €15 are then sent to the central collection point in Wuppertal.[^2]
 
 - **Where to go:** The online [lost property service](https://db.novafind.eu/home/db/db/app/lossrecords/new/items/0/categoryCultureName=EN) on Deutsche Bahn website
 - **When to go:** As soon as you lost something on the train. It can take up to 2 days for items to be returned to the station.[^2] After 70 days, the found items are put on auction. You can find the auction dates [here](https://www.bahn.de/service/ueber-uns/fundservice).
-- **Special instructions:** [Report the item loss online](https://www.bahn.com/en/contact/lost-luggage-form). There is a fee of 5 to 35€ for getting your items back.[^3] You can find the fee list [here](https://www.bahn.de/service/ueber-uns/fundservice).
+- **Special instructions:** [Report the item loss online](https://www.bahn.com/en/contact/lost-luggage-form). There is a fee of €5 to €35 for getting your items back.[^3] You can find the fee list [here](https://www.bahn.de/service/ueber-uns/fundservice).
 
 ## Lost objects at BER airport
 
@@ -79,14 +79,14 @@ Everything else goes to the [Zentrales Fundbüro](https://goo.gl/maps/AjDeA1Jy82
 
 If you find something in Germany, you have the right to ask for a reward.[^1] The reward depends on how much the item is worth.
 
-- **Under 500€**: 5% of the value of the item
-- **Over 500€**: 25€ + 3% of the value of the item over 500€. For example, for a 1,200€ item: 25€ + 3% of 700€ = 46€
+- **Under €500**: 5% of the value of the item
+- **Over €500**: €25 + 3% of the value of the item over €500. For example, for a €1,200 item: €25 + 3% of €700 = €46
 - **Animals**: 3% of the value of the animal
 
 For objects found in the train or public transit, the rules are different:
 
-- **Under 50€**: no reward
-- **Over 50€**: half of the normal reward
+- **Under €50**: no reward
+- **Over €50**: half of the normal reward
 
 [^0]: [bvg.de](https://www.bvg.de/de/service-und-kontakt/fundbuero)
 [^1]: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_bgb/englisch_bgb.html#p3896), [juraforum.de](https://www.juraforum.de/news/finderlohn-berechnung-der-hoehe-nach-s-965-bgb_247417), [Wikipedia](https://de.wikipedia.org/wiki/Finderlohn)

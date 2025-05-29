@@ -56,7 +56,7 @@ Your internet, telephone and insurance contracts don't end because you move. You
 
 ### If you stay in Germany
 
-Your **internet contract** usually moves with you. There is usually a moving fee of 20€ to 70€ moving fee.[^11] Your contract continues, but it's not extended.[^37]
+Your **internet contract** usually moves with you. There is usually a moving fee of €20 to €70 moving fee.[^11] Your contract continues, but it's not extended.[^37]
 
 You can end your contract with a 1 month notice if...
 
@@ -165,7 +165,7 @@ You can find cardboard boxes...
 
 ### Hire a moving company
 
-A moving company helps you pack boxes, disassemble furniture, save a parking space (*Halteverbot*), hire movers, and [change your address](/guides/address-change). It costs 600 to 1,200€, but it's worth it.[^24] The price depend on how much furniture you have, and how hard it is to move the furniture.[^40]
+A moving company helps you pack boxes, disassemble furniture, save a parking space (*Halteverbot*), hire movers, and [change your address](/guides/address-change). It costs €600 to €1,200, but it's worth it.[^24] The price depend on how much furniture you have, and how hard it is to move the furniture.[^40]
 
 If you don't have many things to move, hire a "man with a van". They are usually cheaper than a moving company. You can find them on [Kleinanzeigen](https://www.kleinanzeigen.de/s-mitte/umzug/k0l3518). [Möbel Taxi](https://www.moebel-taxi.de/english/) is a popular option.
 
@@ -213,7 +213,7 @@ Get a *[[Mietschuldenfreiheitsbescheinigung]]* from your landlord. It confirms t
 
 If you live in a [[WG]], you can also get a letter from your roommates to confirm that you always paid your rent on time.[^42]
 
-Your landlord can refuse to give you a *Mietschuldenfreiheitsbescheinigung*. Some landlords charge around 50€ for it.[^2]
+Your landlord can refuse to give you a *Mietschuldenfreiheitsbescheinigung*. Some landlords charge around €50 for it.[^2]
 
 **[Mietschuldenfreiheitsbescheinigung template ➞](/documents/Mietschuldenfreiheitsbescheinigung-muster.pdf)**
 

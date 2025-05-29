@@ -318,7 +318,7 @@ Before your embassy or consulate appointment, you must...
 - [ ] **Prepare the required documents**  
     The required documents are different in each country. [Find your German embassy or consulate](/out/consulate-finder), and use their list of required documents.
 - [ ] **Save money**  
-    If you apply at the embassy or consulate, they might need proof that you have savings in your bank account. Each place has different requirements. They usually ask for around 10,000€ in savings.[^24]
+    If you apply at the embassy or consulate, they might need proof that you have savings in your bank account. Each place has different requirements. They usually ask for around €10,000 in savings.[^24]
 
 If you apply for a [work visa](/glossary/Work%20Visa) or a [[Blue Card]], you must...
 
@@ -475,7 +475,7 @@ If you leave Germany with an expired residence permit, they might not let you re
 
 ## Need help?
 
-An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocation consultant](/guides/relocation-agency-in-berlin) can take care of everything. It costs 500 to 2,000€.[^14] Your employer might pay for it, or hire someone to help you. Some organisations can also help you for free.
+An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocation consultant](/guides/relocation-agency-in-berlin) can take care of everything. It costs 500 to €2,000.[^14] Your employer might pay for it, or hire someone to help you. Some organisations can also help you for free.
 
 **[Where to ask immigration questions ➞](/guides/questions-about-berlin#immigration-questions)**
 

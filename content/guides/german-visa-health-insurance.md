@@ -19,7 +19,7 @@ To apply for a [[Schengen visa]] (tourist visa), you need **travel insurance**.[
 
 Your travel insurance must...[^1]
 
-- [ ] Cover you for at least 30,000€
+- [ ] Cover you for at least €30,000
 - [ ] Be valid in *all* Schengen area countries, not just Germany
 - [ ] Be valid during your whole trip in the [[Schengen area]]
 

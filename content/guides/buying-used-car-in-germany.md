@@ -72,7 +72,7 @@ Electric bicycles are treated as normal bicycles. You don't need licence plates 
 
 ### TÜV inspection
 
-Vehicles in Germany must be inspected every 2 years. This inspection is called the *[[Hauptuntersuchung]]*, *HU* or *TÜV*.[^6] This inspection is very thorough. They check everything. Only workshops certified by [[TÜV]], Dekra or KÜS can do this inspection. It costs around 120€.[^7]
+Vehicles in Germany must be inspected every 2 years. This inspection is called the *[[Hauptuntersuchung]]*, *HU* or *TÜV*.[^6] This inspection is very thorough. They check everything. Only workshops certified by [[TÜV]], Dekra or KÜS can do this inspection. It costs around €120.[^7]
 
 If a vehicle fails the inspection, it can't be registered, and you can't drive it. This is why old vehicles are cheaper when their   
 inspection approaches, and *much* cheaper when it's overdue (*TÜV abgelaufen*). You might need to spend a lot of money to make the vehicle pass the inspection again.
@@ -171,9 +171,9 @@ When you go to your *[[Kfz-Zulassungsstelle]]* appointment, bring these document
 - [ ] **Your [Meldebescheinigung](/glossary/Anmeldebest%C3%A4tigung)**  
     If your ID does not show your address, you must bring your *[Meldebescheinigung](/glossary/Anmeldebest%C3%A4tigung)*.
 - [ ] **Money for the registration fee**  
-    The registration fee is 19.60€ to 31.50€.[^8] The *[[Kfz-Zulassungsstelle]]* only accepts EC-cards and cash.[^9]
+    The registration fee is €19.60 to €31.50.[^8] The *[[Kfz-Zulassungsstelle]]* only accepts EC-cards and cash.[^9]
 - [ ] **Money for a new plate**  
-    If necessary, bring an extra 15€ to get new licence plates. There are many kiosks that make licence plates next to the *[[Kfz-Zulassungsstelle]]*. The kiosks in front of the building.
+    If necessary, bring an extra €15 to get new licence plates. There are many kiosks that make licence plates next to the *[[Kfz-Zulassungsstelle]]*. The kiosks in front of the building.
 - [ ] **The filled vehicle registration form**  
     Print and fill the [vehicle registration form](/documents/sepa-lastschriftmandat-kfz-zulassungsstelle-berlin.pdf).
 - [ ] **The filled direct debit authorisation**  
@@ -185,15 +185,15 @@ During the appointment, the employee will give you a [plastic card](/images/kass
 
 The employee will put a new [sticker](/images/berlin-licence-plate-sticker.jpg) on your licence plate, and give it back to you. If the vehicle is already registered in the same city, you can use the old licence plate.
 
-If you need a new licence plate, you can go to one of the kiosks in front of the *[[Kfz-Zulassungsstelle]]*. They will make a new plate for you. This costs around 15€, and it only takes a few minutes.
+If you need a new licence plate, you can go to one of the kiosks in front of the *[[Kfz-Zulassungsstelle]]*. They will make a new plate for you. This costs around €15, and it only takes a few minutes.
 
-![Kfz Zulassungsstelle Berlin Schilder](/images/kfz-zulassungsstelle-berlin-schilder.jpg "The kiosks near the Kfz-Zulassungsstelle can make new licence plates for your car. New plates cost around 15€.")
+![Kfz Zulassungsstelle Berlin Schilder](/images/kfz-zulassungsstelle-berlin-schilder.jpg "The kiosks near the Kfz-Zulassungsstelle can make new licence plates for your car. New plates cost around €15.")
 
 ### With a registration service
 
 You can use a vehicle registration service (*Kfz Zulassungsdienst*). You send them your documents, and they register the vehicle for you. It's easier and faster than going to the registration office, but it's more expensive. The biggest one is [Kroschke](https://www.kroschke.de/shop/kfz-zulassungsdienst), but [there are many more](https://www.google.com/search?q=kfz+zulassungsdienst+berlin).
 
-If you buy a vehicle at the dealership, they can usually register it for you. It costs around 150€. I used that service twice. If you can't register your vehicle online, and you want to drive it as soon as possible, it's worth it.
+If you buy a vehicle at the dealership, they can usually register it for you. It costs around €150. I used that service twice. If you can't register your vehicle online, and you want to drive it as soon as possible, it's worth it.
 
 ## 6. Drive your vehicle
 

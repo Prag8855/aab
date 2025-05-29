@@ -147,9 +147,9 @@ There are also many language learning apps for German:
     Stream recorded videos of real beginner German lessons online.
 - **[Italki](https://www.italki.com/)**  
     Private video lessons with language teachers. Each teacher charges a different price. You can talk with your teacher on the Italki website, Zoom, Facetime, Skype or another tool.[^10]
-- **[Lingoda](/out/lingoda)** - from 11€ per lesson  
+- **[Lingoda](/out/lingoda)** - from €11 per lesson  
     Lingoda lets you have video classes with a teacher. You can have 1-to-1 classes, or join a group of 3-5 people. Lingoda is not as good as Chatterbug: the platform is worse, you can't keep the same teachers, it's harder to cancel classes, and it's twice as expensive. You receive a certificate when you complete a level.
-- **[Memrise](https://www.memrise.com/)** - 5€ per month  
+- **[Memrise](https://www.memrise.com/)** - €5 per month  
     Regular language lesson without a teacher.
 
 ## Language tandems

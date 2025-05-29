@@ -1,6 +1,6 @@
 ---
 Name: Spieletreff Berlin Wednesday meetup
-Description: 2€ per person
+Description: €2 per person
 Website: http://www.spieletreff-berlin.de/
 Email: 
 Address: Nazarethkirchstraße 50

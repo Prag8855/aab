@@ -17,17 +17,17 @@ Dead animals - especially wild ones - can carry diseases, so you can't dunk them
 
 ### Burial
 
-You cannot bury an animal on public grounds or in a park. You can be fined up to 50,000€ for it. However, you can legally bury your deceased pets on your own property, as long as it's not in a water conservation area (Wasserschutzgebiet) or right next to a public road or square. You must bury the animal at least 50 centimetres deep.
+You cannot bury an animal on public grounds or in a park. You can be fined up to €50,000 for it. However, you can legally bury your deceased pets on your own property, as long as it's not in a water conservation area (Wasserschutzgebiet) or right next to a public road or square. You must bury the animal at least 50 centimetres deep.
 
-A pet cemetery (*Tierfriedhof*) is also an option. [Tierschutzverein Berlin](https://tierschutz-berlin.de/service/tierfriedhof/) and [Tierhimmel](http://www.tierhimmel.de/tierkrematorium/preise/) will bury your best friend. Burial costs 10€ to 350€, depending on the animal's weight.
+A pet cemetery (*Tierfriedhof*) is also an option. [Tierschutzverein Berlin](https://tierschutz-berlin.de/service/tierfriedhof/) and [Tierhimmel](http://www.tierhimmel.de/tierkrematorium/preise/) will bury your best friend. Burial costs €10 to €350, depending on the animal's weight.
 
 ### Cremation
 
-There are a few *Haustierkrematoriums* in Berlin. The prices go from 50€ to 350€, depending on the weight of the animal.
+There are a few *Haustierkrematoriums* in Berlin. The prices go from €50 to €350, depending on the weight of the animal.
 
 ### Disposal
 
-Many veterinarians will dispose of animal bodies, albeit for a fee. Alternatively, [SecAnim](https://www.saria.de/sr/unternehmen/unternehmensstruktur/secanim/) is contracted by the city to dispose of roadkill and other wild animals. You can call them and they will collect your deceased pets for a fee of 10€ to 30€.
+Many veterinarians will dispose of animal bodies, albeit for a fee. Alternatively, [SecAnim](https://www.saria.de/sr/unternehmen/unternehmensstruktur/secanim/) is contracted by the city to dispose of roadkill and other wild animals. You can call them and they will collect your deceased pets for a fee of €10 to €30.
 
 **[English speaking veterinarians in Berlin ➞](/guides/english-speaking-vets)**
 

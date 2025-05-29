@@ -59,7 +59,7 @@ If you are caught with a stolen bicycle, the police will seize it. If you can fi
 If you only stay in Berlin for a few months, you can rent a bicycle instead.
 
 - **[Swapfiets](https://swapfiets.de/)**  
-    Rent a bicycle for a few months. Minimum 15€ per month.{{fail_on('2025-12-01')}} Maintenance and repairs are included in the price. They also rent electric bikes.
+    Rent a bicycle for a few months. Minimum €15 per month.{{fail_on('2025-12-01')}} Maintenance and repairs are included in the price. They also rent electric bikes.
 - **[Recyclies](https://recyclies.com/)**  
     Recycled and refurbished bicycles. Cheaper than Swapfiets, with more flexible contracts. Maintenance and repairs are included in the price.
 - **[Bikesurf](https://www.bikesurf.org/)**  
@@ -102,7 +102,7 @@ There are self-service repair stations (*Selbsthilfewerkstatt*) where you can re
 - [Velo-fit](https://www.facebook.com/velofitberlin/) (Kreuzberg)- bike workshop by Berliner Stadtmission
 - [Workshop in Amtshaus Buchholz](https://www.buergerhaus-gmbh.de/fahrradselbsthilfewerkstatt.html) (Buchholz)
 
-If you just need air in your tires, use the [map of public bicycle pumps](https://www.pumpsofberlin.com/#13/52.5221/13.4131), or [buy a bicycle pump](https://www.decathlon.de/browse/c0-alle-sportarten-a-z/c1-fahrrad-welt/c4-fahrrad-luftpumpen-zubehor/_/N-rrj9o) for less than 10€. Petrol stations also have free air pumps, but they don't work with some bicycle tire valves.
+If you just need air in your tires, use the [map of public bicycle pumps](https://www.pumpsofberlin.com/#13/52.5221/13.4131), or [buy a bicycle pump](https://www.decathlon.de/browse/c0-alle-sportarten-a-z/c1-fahrrad-welt/c4-fahrrad-luftpumpen-zubehor/_/N-rrj9o) for less than €10. Petrol stations also have free air pumps, but they don't work with some bicycle tire valves.
 
 ## Bicycle theft
 
@@ -131,13 +131,13 @@ Report the theft to the Berlin police. You can do it online. If your bicycle is 
 Your bicycle must have lights, reflectors, a bell and working brakes. The Berlin Police sometimes controls bicycles.
 
 - [ ] **[Lights](https://www.amazon.de/s/ref=as_li_ss_tl?k=stvzo+fahrradbeleuchtung&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2AZ7Q8F9D9AJ3&sprefix=stvzo+fahrrad,aps,215&ref=nb_sb_ss_i_1_13&linkCode=sl2&tag=nicolasboulia-21&linkId=9f73421a651437357fb9a83c139353ff&language=de_DE)** (*Scheinwerfer*)  
-    Your bicycle must have a white light in the front, and a red light in the back.[^5] Your light must be [StVZO-compliant](https://www.bikeradar.com/advice/buyers-guides/stvzo-bike-lights/). This means that it's designed to avoid blinding others. Blinking lights are not allowed.[^6] If your bicycle has no lights, you can get a 20 to 35€ fine.[^7] You can get a fine even during the day.
+    Your bicycle must have a white light in the front, and a red light in the back.[^5] Your light must be [StVZO-compliant](https://www.bikeradar.com/advice/buyers-guides/stvzo-bike-lights/). This means that it's designed to avoid blinding others. Blinking lights are not allowed.[^6] If your bicycle has no lights, you can get a €20 to €35 fine.[^7] You can get a fine even during the day.
     - [ ] **Headlight**  
         One white front light, powered by a battery or dynamo. StVZO-compliant. Must not blind other people.
     - [ ] **Rear light**  
         One red rear light, powered by a battery or dynamo. Must not blink.
 - [ ] **Reflectors** (*Rückstrahler*)  
-    Your bicycle must have all the required reflectors.[^8] If you don't have the correct reflectors, you can get a 20€ fine.
+    Your bicycle must have all the required reflectors.[^8] If you don't have the correct reflectors, you can get a €20 fine.
     - [ ] **[Front reflector](https://www.amazon.de/Fischer-Erwachsene-Vorbaubefestigung-Reflektor-schwarz/dp/B0154YPBIM/ref=as_li_ss_tl?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=fahrrad+reflektoren+stvzo&qid=1598610815&sr=8-11&linkCode=sl1&tag=nicolasboulia-21&linkId=7de1370f58f8c1a068d0ab4e0648c300&language=de_DE)**  
         One white reflector. You must also have a bicycle light. Many bicycle lights have a reflector inside them.
     - [ ] **[Rear reflector](https://www.amazon.de/JABs-Heckrefletor-Hinterradstrahler-R%C3%BCckstrahler-Kinderfahrrad/dp/B07ZPG565Y/ref=as_li_ss_tl?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=fahrrad+reflektoren+stvzo&qid=1598610815&sr=8-10&linkCode=sl1&tag=nicolasboulia-21&linkId=bd3e62ec9a81da2110eab61572324a0e&language=de_DE)**  
@@ -147,9 +147,9 @@ Your bicycle must have lights, reflectors, a bell and working brakes. The Berlin
     - [ ] **Pedal reflectors**  
         Two yellow reflectors on each pedal: one facing forward, and one facing rearward.
 - [ ] **[Bell](https://www.amazon.de/s/ref=as_li_ss_tl?k=fahrradglocke&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=23OWAP1LZ3EMH&sprefix=fahrradgl,aps,272&ref=nb_sb_ss_i_1_9&linkCode=sl2&tag=nicolasboulia-21&linkId=7b61d0c44912f5dac5ec4a61e0098a2b)** (*Fahrradglocke*)  
-    Your bicycle must have a bell.[^9] It must be attached to the handlebars and easy to reach.[^10] You can [buy a bicycle bell](https://www.amazon.de/s/ref=as_li_ss_tl?k=fahrradglocke&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=23OWAP1LZ3EMH&sprefix=fahrradgl,aps,272&ref=nb_sb_ss_i_1_9&linkCode=sl2&tag=nicolasboulia-21&linkId=7b61d0c44912f5dac5ec4a61e0098a2b) for less than 5€. If you don't have a bell, you can get a 15€ fine.
+    Your bicycle must have a bell.[^9] It must be attached to the handlebars and easy to reach.[^10] You can [buy a bicycle bell](https://www.amazon.de/s/ref=as_li_ss_tl?k=fahrradglocke&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=23OWAP1LZ3EMH&sprefix=fahrradgl,aps,272&ref=nb_sb_ss_i_1_9&linkCode=sl2&tag=nicolasboulia-21&linkId=7b61d0c44912f5dac5ec4a61e0098a2b) for less than €5. If you don't have a bell, you can get a €15 fine.
 - [ ] **Brakes** (*Bremse*)  
-    Your bicycle must have working brakes.[^11] The front and rear breaks must both work.[^12] If your brakes don't work, you can get a 10€ fine.[^13]
+    Your bicycle must have working brakes.[^11] The front and rear breaks must both work.[^12] If your brakes don't work, you can get a €10 fine.[^13]
 
 Some equipment is not required, and some equipment is forbidden:
 
@@ -169,27 +169,27 @@ Some equipment is not required, and some equipment is forbidden:
 These are some of the most important road rules for cyclists. Those rules apply for all of Germany, not just Berlin. If you break the law on a bicycle, you can lose points on your driving licence.[^15]
 
 - **You can't ride on the sidewalk.**[^16]  
-    You must ride your bicycle on the street, not on the sidewalk. If you ride on the sidewalk, you can get a 55€ fine.[^17] Children up to 8 years old *must* ride on the sidewalk. Children up to 10 years old *can* ride on the sidewalk. Parents who accompany their children can also ride on the sidewalk. Pedestrians still have priority on the sidewalk.
+    You must ride your bicycle on the street, not on the sidewalk. If you ride on the sidewalk, you can get a €55 fine.[^17] Children up to 8 years old *must* ride on the sidewalk. Children up to 10 years old *can* ride on the sidewalk. Parents who accompany their children can also ride on the sidewalk. Pedestrians still have priority on the sidewalk.
 - **You must use bicycle paths with blue signs.**[^18]  
-    If you see [these blue signs](/images/bicycle-path-signs-stvo-237-240-241.jpg), you *must* use the bicycle path. You can't ride on the street. If you ignore those signs, you can get a 20€ fine.[^19] If you don't see any blue signs, you can also ride on the street. If you see [this sign](/images/fahrraeder-frei-schild.png), you can ride there, but you don't have priority. If you ride in the wrong direction, you can still get a 20€ fine.[^20]
+    If you see [these blue signs](/images/bicycle-path-signs-stvo-237-240-241.jpg), you *must* use the bicycle path. You can't ride on the street. If you ignore those signs, you can get a €20 fine.[^19] If you don't see any blue signs, you can also ride on the street. If you see [this sign](/images/fahrraeder-frei-schild.png), you can ride there, but you don't have priority. If you ride in the wrong direction, you can still get a €20 fine.[^20]
 - **You must use hand signals before you turn.**[^21]  
-    Before you turn left or right, you must announce it with hand signals. If you don't use hand signals, you can get a 10 to 35€ fine.[^20] Point left with your left hand, and point right with your right hand.[^22]
+    Before you turn left or right, you must announce it with hand signals. If you don't use hand signals, you can get a 10 to €35 fine.[^20] Point left with your left hand, and point right with your right hand.[^22]
 - **You can ride next to your friend if you don't block traffic.**[^23]  
-    You can ride [two abreast](/images/cyclists-two-abreast.jpg) if it does not block traffic. Otherwise, you must ride [one behind the other](/images/cyclists-file-queue-line.jpg). If you ride two abreast and block traffic, you can get a 20€ fine.[^19]
+    You can ride [two abreast](/images/cyclists-two-abreast.jpg) if it does not block traffic. Otherwise, you must ride [one behind the other](/images/cyclists-file-queue-line.jpg). If you ride two abreast and block traffic, you can get a €20 fine.[^19]
 - **You must give bus and tram passengers the priority.**[^24]  
     If you ride past a stopped bus or tram, you must slow down. You do not have priority. The passengers who enter and exit the bus have priority. In [this photo](/images/bus-pedestrian-bicycle-priority.jpg), the bicycle must wait for people to enter/leave the bus.
 - **You can't ride in the bus lane**[^25]  
-    You can't use the bus lanes, unless there is a ["Fahrrad frei" sign](https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Zusatzzeichen_1022-10_-_Radfahrer_frei%2C_StVO_1992.svg/200px-Zusatzzeichen_1022-10_-_Radfahrer_frei%2C_StVO_1992.svg.png). If you ride on a bus lane, you can get a 15€ fine.[^26]
+    You can't use the bus lanes, unless there is a ["Fahrrad frei" sign](https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Zusatzzeichen_1022-10_-_Radfahrer_frei%2C_StVO_1992.svg/200px-Zusatzzeichen_1022-10_-_Radfahrer_frei%2C_StVO_1992.svg.png). If you ride on a bus lane, you can get a €15 fine.[^26]
 - **You must stop at red lights.**  
-    Cyclists can't cross the street on a red light, just like in a car. If you cross on a red light, you can get a 90€ fine, and lose one Flensburg point.[^27] You can't turn right when the light is red, unless you see [this sign](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Zeichen_721_-_Gr%C3%BCnpfeilschild_mit_Beschr%C3%A4nkung_auf_den_Radverkehr%2C_StVO_2020.svg/450px-Zeichen_721_-_Gr%C3%BCnpfeilschild_mit_Beschr%C3%A4nkung_auf_den_Radverkehr%2C_StVO_2020.svg.png).[^28]
+    Cyclists can't cross the street on a red light, just like in a car. If you cross on a red light, you can get a €90 fine, and lose one Flensburg point.[^27] You can't turn right when the light is red, unless you see [this sign](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Zeichen_721_-_Gr%C3%BCnpfeilschild_mit_Beschr%C3%A4nkung_auf_den_Radverkehr%2C_StVO_2020.svg/450px-Zeichen_721_-_Gr%C3%BCnpfeilschild_mit_Beschr%C3%A4nkung_auf_den_Radverkehr%2C_StVO_2020.svg.png).[^28]
 - **You can't use your phone while riding.**  
-    If you use your phone while riding, you can get a 55€ fine.[^19]
+    If you use your phone while riding, you can get a €55 fine.[^19]
 - **You can use headphones while riding.**  
     You can listen to music on your bicycle, but it must not be too loud.[^29] You must be able to hear sirens and horns.[^30] You can also make hands-free phone calls.[^31] If you get in an accident, and you wear headphones, you might not get money from the insurance company.[^32] They can say that you are partly responsible for the accident, even if you were the victim.
 - **You must hold the handlebars.**  
-    If you ride without hands, you can get a 5€ fine.[^20]
+    If you ride without hands, you can get a €5 fine.[^20]
 - **You can't ride your bicycle in some parks.**  
-    Look at the signs near park entrances. Sometimes, bicycles are forbidden. If you ride your bicycle in these parks, you can get a 15€ fine.
+    Look at the signs near park entrances. Sometimes, bicycles are forbidden. If you ride your bicycle in these parks, you can get a €15 fine.
 
 ### Right of way
 

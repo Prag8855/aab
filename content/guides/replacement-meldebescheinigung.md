@@ -34,7 +34,7 @@ You can download your *Meldebescheinigung* as a PDF. To use this service, you ne
 1. [Get a *Bürgeramt* appointment](https://service.berlin.de/terminvereinbarung/termin/all/120702/). You can go to any *Bürgeramt* in Berlin.
 2. When you go to your appointment, bring...
     - [ ] Your passport or *[[Personalausweis]]*
-    - [ ] 10€ for the fee. You can usually pay by [[Girocard]], Visa or Mastercard. It depends on the *Bürgeramt*.
+    - [ ] €10 for the fee. You can usually pay by [[Girocard]], Visa or Mastercard. It depends on the *Bürgeramt*.
 
 **[How to get a Bürgeramt appointment ➞](/guides/berlin-burgeramt-appointment)**
 

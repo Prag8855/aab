@@ -267,7 +267,7 @@ Your [private health insurance](/glossary/private%20Krankenversicherung) becomes
 - **If you get [unemployment benefits](/glossary/ALG%20I)**  
     You must switch to [public health insurance](/glossary/gesetzliche%20Krankenversicherung). The *[[Agentur für Arbeit]]* pays for your health insurance, so you are covered for free.[^1] In some cases, you can keep your private health insurance.[^2]
 - **If you don't get unemployment benefits**  
-    You keep your private health insurance.[^3] Your employer does not pay half of it. For example, if your private health insurance costs 500€ per month, your employer paid 250€, and you paid 250€. If you lose your job, you pay 500€ alone without help.
+    You keep your private health insurance.[^3] Your employer does not pay half of it. For example, if your private health insurance costs €500 per month, your employer paid €250, and you paid €250. If you lose your job, you pay €500 alone without help.
 
 **[Who gets unemployment benefits ➞](/guides/unemployment-benefits#who-can-get-unemployment-benefits)**
 

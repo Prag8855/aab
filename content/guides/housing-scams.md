@@ -70,7 +70,7 @@ You should never pay the landlord, the previous tenant, the owner or the *[[Haus
 
 The previous tenant wants to sell their furniture to you. They usually ask for a ridiculous price. It's a bribe to get the apartment. If you don't buy the furniture, you don't get the apartment.[^1]
 
-Overcharging for furniture is illegal. You can't pay more than 150% of the items' current value.[^12] For example, the previous tenant can't sell you an old bed and a desk for 2,000€. If you paid too much, you can get your money back and keep the apartment.[^14] You might need a lawyer.[^24]
+Overcharging for furniture is illegal. You can't pay more than 150% of the items' current value.[^12] For example, the previous tenant can't sell you an old bed and a desk for €2,000. If you paid too much, you can get your money back and keep the apartment.[^14] You might need a lawyer.[^24]
 
 Buying the furniture might not help you. The previous tenant does not choose who gets the apartment. The landlord might still choose someone else. Try to sign the lease without promising anything.
 
@@ -142,7 +142,7 @@ The landlord can only use your deposit to repair damages that you caused. You mu
 Signs of a scam:
 
 - ⚠️ The price is too good to be true[^9]
-- ⚠️ The rent and *[[Nebenkosten]]* are round numbers like 800€ and 75€[^13]
+- ⚠️ The rent and *[[Nebenkosten]]* are round numbers like €800 and €75[^13]
 
 Check if the apartment really exists.  Use [reverse image search](https://support.google.com/websearch/answer/1325808?hl=en&co=GENIE.Platform%3DDesktop&oco=0) to see if the photos are used on other websites. Use Google search to check if the listing text is used on other websites.
 

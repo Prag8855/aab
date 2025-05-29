@@ -19,7 +19,7 @@ This guide explains how people usually buy weed in Berlin. Weed [is legal in Ger
 
 ## Cost of weed in Berlin
 
-You should pay **around 10€ per gram**, but quality weed can be more expensive.
+You should pay **around €10 per gram**, but quality weed can be more expensive.
 
 ## Where do Berliners buy weed?
 
@@ -91,7 +91,7 @@ You *can't* see if your weed is contaminated with a synthetic cannabinoid test k
 
 All doctors can prescribe cannabis, but few doctors do it.
 
-You can get a medical prescription for cannabis online.[^12] It's the easiest way to get medical marijuana. You book a video call with a doctor, pay around 50€, and get a prescription for cannabis. You can renew your prescription for around 20€.[^13]
+You can get a medical prescription for cannabis online.[^12] It's the easiest way to get medical marijuana. You book a video call with a doctor, pay around €50, and get a prescription for cannabis. You can renew your prescription for around €20.[^13]
 
 You can get a prescription from [TeleCan](https://www.telecan.eu/), [CannGo](https://canngo.express/), [DrAnsay](https://dransay.com/cannabis-rezept-online/) or Algea Care. TeleCan and CannGo have good reviews. Algea has bad reviews.
 

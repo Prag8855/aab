@@ -594,7 +594,7 @@ If you have questions about this form, [ask a tax advisor](/guides/english-speak
 
 If you have [public health insurance](/glossary/gesetzliche%20Krankenversicherung), tell your insurer that you are self-employed. When you are an employee, health insurance comes directly from your paycheck. When you are self-employed, you must pay by [bank transfer](/glossary/SEPA-%C3%9Cberweisung). The cost of your public health insurance will be based on your *estimated* income. Your health insurance will ask for your *[[Steuerbescheid]]* every year to prove your real income.
 
-When you are self-employed, [private health insurance](/glossary/private%20Krankenversicherung) is often better and cheaper. I save over 400€ per month since I switched. This is a risky decision. Ask my [health insurance broker](/glossary/Makler) to check if it makes sense for you.
+When you are self-employed, [private health insurance](/glossary/private%20Krankenversicherung) is often better and cheaper. I save over €400 per month since I switched. This is a risky decision. Ask my [health insurance broker](/glossary/Makler) to check if it makes sense for you.
 
 {% include '_blocks/healthInsuranceQuestion.html' %}
 

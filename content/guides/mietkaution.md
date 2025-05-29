@@ -25,7 +25,7 @@ You can pay your *Kaution* in 3 parts:[^17]
 
 Your lease starts when you can [move in](/guides/moving-in), not when you sign your lease, and not when you actually move in.[^3] This is when you must pay the first 1/3 of your *Kaution*.
 
-> **Example:** Your *Kaution* is 3,000€. You can move in on January 1, but you move in on January 9. You must pay 1,000€ before January 1, then 1,000€ before February 1, then 1,000€ before March 1.
+> **Example:** Your *Kaution* is €3,000. You can move in on January 1, but you move in on January 9. You must pay €1,000 before January 1, then €1,000 before February 1, then €1,000 before March 1.
 
 Your landlord can't force you to...
 
@@ -70,7 +70,7 @@ Your landlord holds your *Kaution* until...
 - and you received the last *[[Nebenkostenabrechnung]]*
 - and you paid for any extra *[[Nebenkosten]]*
 
-Your landlord can't hold back more money than needed. For example, they can't keep your whole deposit just for the last *[[Nebenkostenabrechnung]]*, or for a few small repairs. You should get part of your *Kaution* back now, and get the rest when the repairs are finished.[^10] For example, your landlord can't hold back a 3,000€ *Kaution* to repair a few holes in the wall.
+Your landlord can't hold back more money than needed. For example, they can't keep your whole deposit just for the last *[[Nebenkostenabrechnung]]*, or for a few small repairs. You should get part of your *Kaution* back now, and get the rest when the repairs are finished.[^10] For example, your landlord can't hold back a €3,000 *Kaution* to repair a few holes in the wall.
 
 If everything is paid, your landlord must return your *Kaution* without waiting.[^25]
 

@@ -46,7 +46,7 @@ The free account is a little limited. The paid accounts have free ATM withdrawal
 
 Wise is the **easiest way to get a bank account**. They have the easiest requirements, and accept the most passport types.[^3] You can **open an account before you arrive in Germany**, without a German address, a [residence permit](/glossary/Aufenthaltstitel) or an *[[Anmeldung]]*.
 
-The free account **includes most of what you need**: free ATM withdrawals (up to 200€ per month), multiple languages, and a good mobile app. You don't get a German IBAN: Wise gives you a Belgian [[IBAN]]. This is [not a big problem](#banks-in-other-eu-countries).
+The free account **includes most of what you need**: free ATM withdrawals (up to €200 per month), multiple languages, and a good mobile app. You don't get a German IBAN: Wise gives you a Belgian [[IBAN]]. This is [not a big problem](#banks-in-other-eu-countries).
 
 Wise speaks English, Chinese, French, German, Hungarian, Indonesian, Italian, Japanese, Polish, Portuguese, Romanian, Russian, Spanish, Thai, Turkish and Ukrainian.
 
@@ -102,7 +102,7 @@ These banks offer a **free bank account** with no monthly fees:
 - **[Wise](/out/wise)**
 - **[Revolut](/out/revolut)**
 
-These banks have no monthly fee **if you deposit at least 700€ per month**:
+These banks have no monthly fee **if you deposit at least €700 per month**:
 
 - **[DKB](/out/dkb)**
 - **[ING](/out/ing)**[^22]
@@ -115,42 +115,42 @@ These banks have no monthly fee **for young people**:
 
 These banks have no monthly fee **for students**:
 
-- **[Berliner Sparkasse](/out/sparkasse)** - No fee for students under 26 years old.[^24] 8.50€ per year for a debit card.
+- **[Berliner Sparkasse](/out/sparkasse)** - No fee for students under 26 years old.[^24] €8.50 per year for a debit card.
 - **[Deutsche Bank](/out/deutsche-bank)** - No monthly fee for EU students.[^25]
 - **[comdirect](/out/comdirect)** - No fee for students under 28 years old.[^20]
 - **[Commerzbank](/out/commerzbank-students)** - No fee for students under 27 years old.[^21]
-- **[ING](/out/ing)** - Just 1€ per month for the debit card.[^22]
+- **[ING](/out/ing)** - Just €1 per month for the debit card.[^22]
 - **[Volksbank](/out/volksbank)** - No monthly fee for students.[^27]
 
 These banks might still charge for a credit card, or to withdraw money from an ATM. Choose a bank with no ATM fees.
 
 ## Banks with no ATM fees
 
-Choose a bank with free ATM withdrawals. In Germany, you often need cash. On average, Germans withdraw cash 3 times per month. They withdraw around 200€ per month.[^12] Don't pay 5€ to 7€ every time you use an ATM. It's a waste of money.
+Choose a bank with free ATM withdrawals. In Germany, you often need cash. On average, Germans withdraw cash 3 times per month. They withdraw around €200 per month.[^12] Don't pay €5 to €7 every time you use an ATM. It's a waste of money.
 
 These banks let you **use any ATM in Germany for free**:
 
 - **[DKB](/out/dkb)**
-- **[ING](/out/ing)** - Minimum withdrawal is 50€.[^36]
-- **[bunq](/out/bunq)** - 6 free withdrawals per month.[^33] You can only withdraw 250€ per day in the first 3 months, and 500€ per day after 3 months.[^34]
+- **[ING](/out/ing)** - Minimum withdrawal is €50.[^36]
+- **[bunq](/out/bunq)** - 6 free withdrawals per month.[^33] You can only withdraw €250 per day in the first 3 months, and €500 per day after 3 months.[^34]
 - **[C24](/out/c24)** - 4 free withdrawals per month.
-- **[comdirect](/out/comdirect)** - 3 free withdrawals per month. Use Cash Group ATMs for free (15% of ATMs). 9.90€ per withdrawal outside the [Eurozone](https://en.wikipedia.org/wiki/Eurozone).
-- **[N26](/out/n26)** - 2 free withdrawals per month, then 2€ per withdrawal.
-- **[Wise](/out/wise-account)** - Withdraw up to 200€ per month for free.
-- **[Revolut](/out/revolut)** - Withdraw up to 200€ per month for free.
+- **[comdirect](/out/comdirect)** - 3 free withdrawals per month. Use Cash Group ATMs for free (15% of ATMs). €9.90 per withdrawal outside the [Eurozone](https://en.wikipedia.org/wiki/Eurozone).
+- **[N26](/out/n26)** - 2 free withdrawals per month, then €2 per withdrawal.
+- **[Wise](/out/wise-account)** - Withdraw up to €200 per month for free.
+- **[Revolut](/out/revolut)** - Withdraw up to €200 per month for free.
 
 These banks only let you **use some ATMs for free**. You might need to walk another 10 minutes to find a free ATM. I don't recommend them.
 
 - **[Berliner Sparkasse](/out/sparkasse)**  
-    Use Sparkasse ATMs for free (45% of ATMs).[^38] Fee of 2% (minimum 7.50€) per withdrawal from other ATMs.[^24]
+    Use Sparkasse ATMs for free (45% of ATMs).[^38] Fee of 2% (minimum €7.50) per withdrawal from other ATMs.[^24]
 - **[Berliner Volksbank](/out/volksbank)**  
-    Use BVR ATMs for free (32% of ATMs).[^52] Fee of 7.50€ or 1% of withdrawal amount for other ATMs.[^39]
+    Use BVR ATMs for free (32% of ATMs).[^52] Fee of €7.50 or 1% of withdrawal amount for other ATMs.[^39]
 - **[Commerzbank](/out/commerzbank)**  
-    Use Cash Group ATMs for free (15% of ATMs). Fee of 1.95% (minimum 5.98€) of withdrawal amount for other ATMs.[^21]
+    Use Cash Group ATMs for free (15% of ATMs). Fee of 1.95% (minimum €5.98) of withdrawal amount for other ATMs.[^21]
 - **[Deutsche Bank](/out/deutsche-bank)**  
-    Use Cash Group ATMs for free (15% of ATMs).[^38] Fee of 6€ or 1% of withdrawal amount for other ATMs.
+    Use Cash Group ATMs for free (15% of ATMs).[^38] Fee of €6 or 1% of withdrawal amount for other ATMs.
 - **[1822direkt](/out/1822direkt)**  
-    4 free withdrawals per month from Sparkasse ATMs[^37] (45% of ATMs).[^38] Otherwise, 2€ per withdrawal.[^37]
+    4 free withdrawals per month from Sparkasse ATMs[^37] (45% of ATMs).[^38] Otherwise, €2 per withdrawal.[^37]
 
 ## Banks that don't require an Anmeldung
 
@@ -183,7 +183,7 @@ These banks have branches in Berlin:
 
 ## Banks in other EU countries
 
-You don't need a German bank. You can use a bank in any EU country. Your money is safe with any EU bank: it's always insured up to 100,000€.[^8]
+You don't need a German bank. You can use a bank in any EU country. Your money is safe with any EU bank: it's always insured up to €100,000.[^8]
 
 There are a few differences:
 

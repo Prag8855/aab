@@ -9,8 +9,8 @@ Related_guides:
     guides/pfand-bottles.md
 ---
 
-*Pfand* is the deposit you pay on some bottles in Germany. When you return the bottle, you get the deposit back. Many bottles have a *Pfand* of 0.08€ to 0.25€.
+*Pfand* is the deposit you pay on some bottles in Germany. When you return the bottle, you get the deposit back. Many bottles have a *Pfand* of €0.08 to €0.25.
 
-Car batteries have a *Pfand* of 7.50€.
+Car batteries have a *Pfand* of €7.50.
 
 **[How the German deposit system works ➞](/guides/pfand-bottles)**

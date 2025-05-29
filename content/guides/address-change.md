@@ -76,7 +76,7 @@ You should also tell...
 
 You might still receive letters at your old address. You can pay to forward mail from your old address to your new address. Register for this service **before you move**.
 
-**[Deutsche Post](https://shop.deutschepost.de/nachsendeservice-beauftragen)** - 30€ for 6 months{{ fail_on('2026-01-31') }}
+**[Deutsche Post](https://shop.deutschepost.de/nachsendeservice-beauftragen)** - €30 for 6 months{{ fail_on('2026-01-31') }}
 
 Mail forwarding is **unreliable**. Official mail from the [[Bürgeramt]], [[Finanzamt]] and [[Ausländerbehörde]] is not always forwarded, because they use a different mail service.[^5] Forwarded mail can take a week longer to arrive.[^6] Packages are not forwarded.
 

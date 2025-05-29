@@ -1,6 +1,6 @@
 ---
 Name: RuDi Thursday meetup
-Description: 1€ per person
+Description: €1 per person
 Website: http://www.rudizentrum.de/
 Email: 
 Address: Modersohnstraße 55

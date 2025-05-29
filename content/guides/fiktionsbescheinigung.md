@@ -49,7 +49,7 @@ In Berlin, you can get a *Fiktionsbescheinigung* if...
 
 In Berlin, they often ignore you or refuse to give you a *Fiktionsbescheinigung*.[^17] You must insist. It's your right, even if you don't have travel plans or plane tickets.[^15] They have no legal reason to refuse. I asked them 5 times before they gave me one. If necessary, hire a lawyer.
 
-They might send your *Fiktionsbescheinigung* by post, or you might need to pick it up at the *Ausländerbehörde.[^1] There might be a 13€ fee.[^11]
+They might send your *Fiktionsbescheinigung* by post, or you might need to pick it up at the *Ausländerbehörde.[^1] There might be a €13 fee.[^11]
 
 **If you can't get a Fiktionsbescheinigung**, you can usually stay in Germany anyway. After you [apply for a residence permit](/guides/residence-permit#how-to-apply-in-germany), the *Fiktionswirkung* applies. It allows you to stay in Germany until you get your residence permit. The *Fiktionsbescheinigung* is just a proof of that *Fiktionswirkung*. The *Fiktionswirkung* applies even if you don't have a *Fiktionsbescheinigung*.
 

@@ -62,24 +62,24 @@ Your employer must pay for your glasses if...[^6]
 
 ## Eyeglass insurance
 
-Some insurers also offer glasses insurance (*Brillenversicherung*). It costs around 7€ per month. Usually, it pays for new glasses every 2 years. Usually, **it's not worth it**.[^7] The insurance is more expensive than the glasses it pays for. It rarely cover lost glasses.[^8]
+Some insurers also offer glasses insurance (*Brillenversicherung*). It costs around €7 per month. Usually, it pays for new glasses every 2 years. Usually, **it's not worth it**.[^7] The insurance is more expensive than the glasses it pays for. It rarely cover lost glasses.[^8]
 
 ## How to pay less for eyeglasses
 
-A normal pair of eyeglasses costs around 350€. This includes the frame and the lenses. There are ways to pay less.
+A normal pair of eyeglasses costs around €350. This includes the frame and the lenses. There are ways to pay less.
 
 ### Buy generic frames
 
-Frames from popular brands cost 150€ to 350€. Generic frames often cost less than 100€. You can even find eyeglasses for less than 50€, lenses included.
+Frames from popular brands cost €150 to €350. Generic frames often cost less than €100. You can even find eyeglasses for less than €50, lenses included.
 
 These stores sell generic frames:
 
 - **[Ace + Tate](https://www.aceandtate.com/de-en/)**  
-    Generic frames starting at 100€. They have [3 stores](https://www.aceandtate.com/de-en/stores/search?q=52.52000659999999,13.404954&qp=Berlin,%20Germany&l=en_DE) in Berlin.
+    Generic frames starting at €100. They have [3 stores](https://www.aceandtate.com/de-en/stores/search?q=52.52000659999999,13.404954&qp=Berlin,%20Germany&l=en_DE) in Berlin.
 - **[Brillenplatz.de](/out/brillenplatz)** (German)  
-    Cheaper glasses with generic frames for less than 50€.
+    Cheaper glasses with generic frames for less than €50.
 - **[Fielmann](https://www.fielmann.de/)** (German)  
-    The [Nulltarif collection](https://www.fielmann.de/brillen/nulltarif/) costs less than 20€. They have [hundreds of branches](https://www.fielmann.de/niederlassungen/) in Germany.
+    The [Nulltarif collection](https://www.fielmann.de/brillen/nulltarif/) costs less than €20. They have [hundreds of branches](https://www.fielmann.de/niederlassungen/) in Germany.
 - **[Mister Spex](/out/mister-spex)** (German)  
     Cheaper glasses with generic frames. They have [dozens of branches](https://www.misterspex.de/c/sto/1000) in Germany. They also let you try different frames at home, and return the ones you don't like.[^9]
 - **[Robin Look](https://www.robinlook.de/)** (German)  
@@ -91,7 +91,7 @@ When you visit an optician, they usually show you expensive frames first. Say th
 
 If you have [public health insurance](/glossary/gesetzliche%20Krankenversicherung), get tested at the ophthalmologist (*Augenarzt*). The test is covered by your health insurance.
 
-If you go to an optician, you must pay around 25€ for the test. Usually, the test is free if you also buy eyeglasses.
+If you go to an optician, you must pay around €25 for the test. Usually, the test is free if you also buy eyeglasses.
 
 ### Deduct glasses from your taxes
 

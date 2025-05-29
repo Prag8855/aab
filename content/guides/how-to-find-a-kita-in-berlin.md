@@ -16,9 +16,9 @@ You must go through a few steps before your child can go to a *Kita* in Berlin.
 
 ## Cost of Kita
 
-**Attending Kita is free**, but food, special activities and language lessons can cost extra. The food usually costs 23€ per month.[^0] The cost of activities can cost 60 to 90€ per month, depending on the *Kita*.
+**Attending Kita is free**, but food, special activities and language lessons can cost extra. The food usually costs €23 per month.[^0] The cost of activities can cost €60 to €90 per month, depending on the *Kita*.
 
-Kitas can charge up to 60€ for sports, special food (such as vegan food or organic food), language lessons and activities. If the *Kita* provides special activities or regular breakfast and snacks for the children, they can charge up 90€ per month. They must itemize all costs above 60€, and they must allow parents to opt out of these costs.
+Kitas can charge up to €60 for sports, special food (such as vegan food or organic food), language lessons and activities. If the *Kita* provides special activities or regular breakfast and snacks for the children, they can charge up €90 per month. They must itemize all costs above €60, and they must allow parents to opt out of these costs.
 
 - **Children under 1 year old** can go to *Kita* or have a nanny (*Tagesmutter*) for a 4 to 5 hours per day. This is called half days or *halbtags* childcare. You must prove that your child requires it. You can do this by showing your work contract or freelance work commitments. Children who live in homeless shelters or collective housing can also get *halbtags* care.
 - **Children over 1 year old** get 5 to 9 free *Kita* hours per day.[^1]
@@ -100,7 +100,7 @@ You should also look at the *Kita*'s reviews on Google Maps to make sure others 
 
 After you find a *Kita*, ask them for a contract. Sign the contract and send it back with a copy of your *[[Kitagutschein]]*.
 
-Food is not usually covered by the *Kitagutschein*. It costs around 23€ per month extra. If your Kita offers language lessons or special activities, it might cost more. Each individual *Kita* will explain this to you.
+Food is not usually covered by the *Kitagutschein*. It costs around €23 per month extra. If your Kita offers language lessons or special activities, it might cost more. Each individual *Kita* will explain this to you.
 
 ## 6. Your child's first days at the Kita
 

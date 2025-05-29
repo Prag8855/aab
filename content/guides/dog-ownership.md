@@ -29,7 +29,7 @@ After you register your dog, you will pay the dog tax (*[[Hundesteuer]]*) by aut
 
 ### Identification chip
 
-Your dog must have an identification chip.[^0] A veterinarian can chip your dog. It costs around 50€.[^1]
+Your dog must have an identification chip.[^0] A veterinarian can chip your dog. It costs around €50.[^1]
 
 **[English speaking vets in Berlin ➞](/guides/english-speaking-vets)**
 
@@ -51,7 +51,7 @@ This costs {{ORDNUNGSAMT_DANGEROUS_DOG_FEE|cur}}€. If you move, you must also 
 
 Outside your home, your dog must be on a leash.[^19] It must be less than 2 metres long.[^20] There are [dog parks](https://www.berlin.de/forsten/walderlebnis/hundeauslauf-im-wald/) (*Hundeauslaufgebiet*) where your dog can play without a leash.
 
-To walk your dog without a leash, you need a dog handler certificate (*[[Hundeführerschein]]*). You can get it at certain dog schools. It costs 80€ to 100€.[^4] You must take a theory exam and a practical exam. In the practical exam, you must prove that your dog follows your commands.[^4] Your dog must be at least 15 months old.[^5]
+To walk your dog without a leash, you need a dog handler certificate (*[[Hundeführerschein]]*). You can get it at certain dog schools. It costs €80 to €100.[^4] You must take a theory exam and a practical exam. In the practical exam, you must prove that your dog follows your commands.[^4] Your dog must be at least 15 months old.[^5]
 
 **[List of certified dog trainers in Berlin](http://www.berlin.de/ba-neukoelln/politik-und-verwaltung/aemter/ordnungsamt/sachverstaendigenliste-stand-20161201-extern.pdf)** (2016, in German) - Berlin.de
 
@@ -98,7 +98,7 @@ Dog health insurance (*[[Tierkrankenversicherung]]*) is optional.
 
 It covers the veterinarian bills when your dog gets sick. It rarely covers routine operations like vaccines or castration, but it covers expensive operations.[^8] This can be important when your dog gets old.
 
-The cost depends on your dog's age, race and sex. Basic coverage costs around 20€ per month. Full coverage costs around 60€ per month.
+The cost depends on your dog's age, race and sex. Basic coverage costs around €20 per month. Full coverage costs around €60 per month.
 
 Compare prices with [Tarifcheck](/out/tarifcheck-pethealth). If you don't speak German, [Getsafe](/out/getsafe-pethealth) and [Feather](/out/feather-pethealth) sell pet health insurance, and they speak English.
 
@@ -110,7 +110,7 @@ You must be nice to your neighbours. If your dog barks all the time, or if you l
 
 ### Dog poop
 
-You must collect your dog's poop, and put it in a trash bin. When you walk your dog, you must carry poop bags with you. If the *[[Ordnungsamt]]* catches you without a bag, you can get a 35€ to 250€ fine.
+You must collect your dog's poop, and put it in a trash bin. When you walk your dog, you must carry poop bags with you. If the *[[Ordnungsamt]]* catches you without a bag, you can get a €35 to €250 fine.
 
 ### Dogs on public transit
 

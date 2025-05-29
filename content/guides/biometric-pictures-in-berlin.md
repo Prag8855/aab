@@ -37,7 +37,7 @@ You can get biometric pictures...
 
 ### At a dm store
 
-[dm](https://en.wikipedia.org/wiki/Dm-drogerie_markt) stores have self-service photo kiosks. Biometric pictures cost 6€.[^7] You get a QR code. Bring it to your *[[Bürgeramt]]* or *[[Ausländerbehörde]]* appointment.
+[dm](https://en.wikipedia.org/wiki/Dm-drogerie_markt) stores have self-service photo kiosks. Biometric pictures cost €6.[^7] You get a QR code. Bring it to your *[[Bürgeramt]]* or *[[Ausländerbehörde]]* appointment.
 
 This is the **best way to get biometric pictures** because you can do it in advance.[^6] If there is a problem, you have time to find another solution.
 
@@ -45,7 +45,7 @@ This is the **best way to get biometric pictures** because you can do it in adva
 
 ### At the Bürgeramt
 
-In Berlin, each *[[Bürgeramt]]* has self-service photo kiosks. Photos cost 6€.
+In Berlin, each *[[Bürgeramt]]* has self-service photo kiosks. Photos cost €6.
 
 If you need photos, arrive early to your appointment. The photo kiosks are new. They can be busy or unreliable. The photos are valid for 6 months, so you can use the kiosks a few days in advance.
 
@@ -53,13 +53,13 @@ You can also get photos [from a photographer](#from-a-photographer), but it's mo
 
 ## At the Ausländerbehörde
 
-In Berlin, the *[[Ausländerbehörde]]* has the same self-service photo kiosks as the *Bürgeramt*. Photos cost 6€.
+In Berlin, the *[[Ausländerbehörde]]* has the same self-service photo kiosks as the *Bürgeramt*. Photos cost €6.
 
 **You must also bring printed photos**, because the new photo kiosks might not work.[^5]{{fail_on('2025-06-15')}} You can get printed photos [from dm](#) or [from a photo booth](#from-a-photo-booth).
 
 ## From a photographer
 
-Approved photographers can take biometric photos. They usually cost around 15€.[^1]{{ fail_on('2025-10-01') }}
+Approved photographers can take biometric photos. They usually cost around €15.[^1]{{ fail_on('2025-10-01') }}
 
 The photographer takes your photo, uploads it, and gives you a QR code.[^4] Bring the QR code to your *[[Bürgeramt]]* or *[[Ausländerbehörde]]* appointment.
 
@@ -69,7 +69,7 @@ The photographer takes your photo, uploads it, and gives you a QR code.[^4] Brin
 
 Photos from a photo booths are **not accepted** by the *[[Bürgeramt]]* or the *[[Ausländerbehörde]]*.[^2]
 
-There are Fotofix photo booths everywhere in Berlin. Photos cost 10€.{{ fail_on('2026-03-01') }} You get five 35 × 45 mm passport pictures printed on the same sheet.
+There are Fotofix photo booths everywhere in Berlin. Photos cost €10.{{ fail_on('2026-03-01') }} You get five 35 × 45 mm passport pictures printed on the same sheet.
 
 **[Find a photo booth](https://www.google.com/maps?q=fotoautomat)** - Google Maps
 

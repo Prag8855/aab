@@ -17,23 +17,23 @@ In my opinion, **there is no good reason to choose Kontist**. Use one of the [Ko
 
 ## Cost and fees
 
-A Kontist account costs [9€ to 29€ per month](/out/kontist-plans){{ fail_on('2025-12-01') }}.
+A Kontist account costs [€9 to €29 per month](/out/kontist-plans){{ fail_on('2025-12-01') }}.
 
 There are extra fees:
 
-- 10 free transactions per month, then 0.15€ per transaction (incoming and outgoing).
-- 1.7% fee on foreign currency transactions (incoming and outgoing).[^8] For example, if you get 1,000 USD from a client, you pay around 17€ in fees.
-- 2€ per ATM withdrawal.
+- 10 free transactions per month, then €0.15 per transaction (incoming and outgoing).
+- 1.7% fee on foreign currency transactions (incoming and outgoing).[^8] For example, if you get 1,000 USD from a client, you pay around €17 in fees.
+- €2 per ATM withdrawal.
 
-If you get paid in foreign currencies, or have many small transactions, Kontist gets expensive. I paid 12 to 15€ per month in fees, but sometimes a single transaction cost me 20€ in currency conversion fees.
+If you get paid in foreign currencies, or have many small transactions, Kontist gets expensive. I paid 12 to €15 per month in fees, but sometimes a single transaction cost me €20 in currency conversion fees.
 
-[![Kontist invoice with account fees](/images/kontist-account-fees.png "9€ for the account, and 11.68€ in transaction fees.")](/images/kontist-account-fees.png)
+[![Kontist invoice with account fees](/images/kontist-account-fees.png "€9 for the account, and €11.68 in transaction fees.")](/images/kontist-account-fees.png)
 
 ### Free account
 
 Kontist has a free account. It's almost useless.
 
-- You only get 10 free transactions per month (incoming and outgoing), then you pay 0.15€ per transaction.[^6]
+- You only get 10 free transactions per month (incoming and outgoing), then you pay €0.15 per transaction.[^6]
 - It only comes with a virtual Visa card, no physical card.
 - No invoicing, no integration with bookkeeping tools, and no MT940 exports (only CSV).
 - No automatic bookkeeping.
@@ -42,7 +42,7 @@ This means that for almost everyone, the free account is not free. Check the [Ko
 
 ## Automatic tax deductions
 
-When you are self-employed, you must save part of your income for [VAT](/glossary/Umsatzsteuer) and [income tax](/glossary/Einkommensteuer). It's hard to know how much money you really have. Sometimes, you have 5,000€ in your bank account, but only 1,000€ is really yours. The rest goes to the *[[Finanzamt]]*.
+When you are self-employed, you must save part of your income for [VAT](/glossary/Umsatzsteuer) and [income tax](/glossary/Einkommensteuer). It's hard to know how much money you really have. Sometimes, you have €5,000 in your bank account, but only €1,000 is really yours. The rest goes to the *[[Finanzamt]]*.
 
 Kontist promises to fix this. It automatically saves money for VAT and income tax payments. It shows you how much money is for you, and how much is for the *Finanzamt*. It even categorises your transactions automatically!
 
@@ -146,7 +146,7 @@ All my business transactions go through my Kontist account. Bank transfers and c
 
 You can't deposit cash into your Kontist account.[^4] It's simply impossible. You must [transfer money](/glossary/SEPA-%C3%9Cberweisung) from another bank account.
 
-This is rarely a problem, except when you open an account. When you open a Kontist account, you must transfer 9€ from another bank to pay for the monthly fee.
+This is rarely a problem, except when you open an account. When you open a Kontist account, you must transfer €9 from another bank to pay for the monthly fee.
 
 ## Customer service
 
@@ -186,7 +186,7 @@ Kontist was supposed to make my bookkeeping easier, but **it makes too many erro
 
 ### Don't trust what you read
 
-Bloggers get paid to promote Kontist.[^7] When you open an account, they get around 50€. If they tell you that Kontist is bad, they make less money. They don't know if Kontist is good or bad, because they don't use it.
+Bloggers get paid to promote Kontist.[^7] When you open an account, they get around €50. If they tell you that Kontist is bad, they make less money. They don't know if Kontist is good or bad, because they don't use it.
 
 Read [reviews from real users](https://www.trustpilot.com/review/kontist.com) instead, and decide for yourself.
 
@@ -224,7 +224,7 @@ Your bank, your accounting software and your tax advisor should be 3 different s
 [^2]: [intercom.help](https://intercom.help/kontist/en/articles/1559626-do-i-need-to-have-german-citizenship-to-open-a-kontist-account)
 [^4]: [intercom.help](https://intercom.help/kontist/de/articles/1559937-kann-ich-bareinzahlungen-auf-mein-kontist-konto-vornehmen)
 [^5]: [intercom.help](https://intercom.help/kontist/en/articles/1559494-can-i-open-a-kontist-account-for-gmbh-kg-ug-gbr)
-[^6]: 0.15€ plus VAT. [mobiflip.de](https://www.mobiflip.de/shortnews/kontist-dreht-an-der-preisschraube/)
+[^6]: €0.15 plus VAT. [mobiflip.de](https://www.mobiflip.de/shortnews/kontist-dreht-an-der-preisschraube/)
 [^7]: [kontist.com](https://kontist.com/product/partner/)
 [^8]: [kontist.com](https://kontist.com/en/pricing/)
 [^9]: [securityboulevard.com](https://securityboulevard.com/2021/12/why-using-sms-authentication-for-2fa-is-not-secure/)

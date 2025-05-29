@@ -35,7 +35,7 @@ Every month, you pay for your *estimated* electricity use. Every year, the elect
 
 ## How much are the Nebenkosten?
 
-The warm rent (*[[Warmmiete]]*) includes heating, water, garbage disposal and many other things. It's usually 50€ to 200€ a month. It can be higher if your building has a garden, a gym or other facilities.
+The warm rent (*[[Warmmiete]]*) includes heating, water, garbage disposal and many other things. It's usually €50 to €200 a month. It can be higher if your building has a garden, a gym or other facilities.
 
 ## How much is the electric bill?
 
@@ -43,11 +43,11 @@ Use [Verivox](/out/verivox-electricity) or [Check24](/out/check24-electricity) t
 
 The cost depends on how much electricity you use. Estimate 1,500 to 2,000 kWh per person.[^1] If your rent does not include hot water, you will use a little more electricity.
 
-Electricity companies charge a base price, plus a fee per kWh. For example, you might pay 10€ per month, plus 0.35€ per kWh:
+Electricity companies charge a base price, plus a fee per kWh. For example, you might pay €10 per month, plus €0.35 per kWh:
 
-> Base price: 10€ per month
-> Electricity usage: 0.35€ × 125 kWh = 43.75€
-> Total: 53.75€ per month
+> Base price: €10 per month
+> Electricity usage: €0.35 × 125 kWh = €43.75
+> Total: €53.75 per month
 
 ## How to save money
 

@@ -1,6 +1,6 @@
 ---
 Title: Nick needs a flat
-Description: Help me find my new home, get 1,000€.
+Description: Help me find my new home, get €1,000.
 Date_created: 2025-05-20
 ---
 
@@ -17,8 +17,8 @@ Same thing, but more central. I want to live in Berlin, not commute to it.
 These are my criteria:
 
 - Over 45 m^2^
-- Up to 20€ per m^2^
-- Up to 1300€ warm
+- Up to €20 per m^2^
+- Up to €1300 warm
 - Unlimited lease
 - With a balcony
 - Ideally in the blue area above
@@ -35,8 +35,8 @@ I live alone, without pets. My loudest hobby is using a typewriter (never after 
 
 All of these statements are true and I have the paperwork to prove it.
 
-## Help me find a flat, get 1,000€
+## Help me find a flat, get €1,000
 
-If you help me find my new home, you get 1,000€ the day I sign the lease. 
+If you help me find my new home, you get €1,000 the day I sign the lease. 
 
 Sounds good? If you see something, **[contact me](/contact#contact-information)**.

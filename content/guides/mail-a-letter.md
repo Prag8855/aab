@@ -39,7 +39,7 @@ To mail a letter from a computer, use these services:
 - **[Superpost](https://www.superpost.com/en/)** (English)  
     Send text or PDF documents in any format. More expensive, but easier to use. No account needed.
 - [LetterXpress](https://www.letterxpress.de/briefe-uebertragen/brief-schreiben) (German)  
-    Send text or PDF documents in any format. You must create an account and add at least 5€ in funds.
+    Send text or PDF documents in any format. You must create an account and add at least €5 in funds.
 - [eBrief](https://www.ebrief.de/) (German)  
     Send PDF documents in the [DIN 5008 format](https://de.wikipedia.org/wiki/DIN_5008#/media/Datei:DIN_5008,_Form_A.svg). You must create an account.
 

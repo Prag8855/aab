@@ -117,7 +117,7 @@ When you register an underage child's address, you might need a letter of consen
 
 **[Hire a translator ➞](/out/red-tape-translation-interpreter)**
 
-You can also **[pay someone else to do it](/out/red-tape-translation-anmeldung)**. They will book your appointment, collect your documents, and go to the *Bürgeramt* for you. It costs 250€. The *Anmeldung* is easy. You probably don't need this service.
+You can also **[pay someone else to do it](/out/red-tape-translation-anmeldung)**. They will book your appointment, collect your documents, and go to the *Bürgeramt* for you. It costs €250. The *Anmeldung* is easy. You probably don't need this service.
 
 When you send someone else to do your *Anmeldung*, they must bring:
 
@@ -220,7 +220,7 @@ Translators like [Red Tape Translation](/out/red-tape-translation-interpreter) c
 
 **It depends.** When you register for the first time, they ask you what your religion is. Depending on your answer, you might start paying [church tax](/glossary/Kirchensteuer).
 
-Church tax is 8% or 9% of your [income tax](/glossary/Einkommensteuer) (not 8-9% of your income).[^26] It's taken directly from your paycheck. A single person earning 50,000€ a year would pay 800 to 900€ per year in church tax.[^26]
+Church tax is 8% or 9% of your [income tax](/glossary/Einkommensteuer) (not 8-9% of your income).[^26] It's taken directly from your paycheck. A single person earning €50,000 a year would pay 800 to €900 per year in church tax.[^26]
 
 **[Calculate your church tax ➞](/tools/tax-calculator)**
 

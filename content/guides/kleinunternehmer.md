@@ -43,15 +43,15 @@ The *Kleinunternehmer* status depends on your total self-employed revenue.
 
 Your [revenue](/glossary/Umsatz) counts, not just your [profit](/glossary/Gewinn).
 
-> **Example:** You have a 70,000€ revenue. Your business expenses are 50,000€. You make 20,000€ in profit. You are not a *Kleinunternehmer*, because your revenue is more than the {{KLEINUNTERNEHMER_MAX_INCOME_FIRST_YEAR|cur}}€ limit.
+> **Example:** You have a €70,000 revenue. Your business expenses are €50,000. You make €20,000 in profit. You are not a *Kleinunternehmer*, because your revenue is more than the {{KLEINUNTERNEHMER_MAX_INCOME_FIRST_YEAR|cur}}€ limit.
 
 Only your self-employed revenue counts. Revenue from your job does not count.
 
-> **Example:** You make 40,000€ per year working in a factory. You have a side business that makes 5,000€ per year. You can be a *Kleinunternehmer*, because your self-employed revenue is less than the {{KLEINUNTERNEHMER_MAX_INCOME_FIRST_YEAR|cur}}€ limit.
+> **Example:** You make €40,000 per year working in a factory. You have a side business that makes €5,000 per year. You can be a *Kleinunternehmer*, because your self-employed revenue is less than the {{KLEINUNTERNEHMER_MAX_INCOME_FIRST_YEAR|cur}}€ limit.
 
 The limit is {{KLEINUNTERNEHMER_MAX_INCOME_FIRST_YEAR|cur}}€ per year for your total self-employed revenue, not for each business.[^4]
 
-> **Example:** You have two businesses. One business makes 15,000€ per year, and the other makes 20,000€ per year. You can't be a *Kleinunternehmer*, because your revenue is more than the {{KLEINUNTERNEHMER_MAX_INCOME_FIRST_YEAR|cur}}€ limit. 
+> **Example:** You have two businesses. One business makes €15,000 per year, and the other makes €20,000 per year. You can't be a *Kleinunternehmer*, because your revenue is more than the {{KLEINUNTERNEHMER_MAX_INCOME_FIRST_YEAR|cur}}€ limit. 
 
 ## How the revenue limit works
 
@@ -63,21 +63,21 @@ In your first year in business, the {{KLEINUNTERNEHMER_MAX_INCOME_FIRST_YEAR|cur
 
 Only your VAT-eligible income is measured. VAT-free income does not count.[^14]
 
-> **Example:** Your revenue is 130,000€ per year. 30,000€ is salary from employment (no VAT), 80,000€ is from US clients (no VAT), and 20,000€ from German clients (with VAT). Your VAT-eligible revenue is 20,000€, so you can be a Kleinunternehmer.
+> **Example:** Your revenue is €130,000 per year. €30,000 is salary from employment (no VAT), €80,000 is from US clients (no VAT), and €20,000 from German clients (with VAT). Your VAT-eligible revenue is €20,000, so you can be a Kleinunternehmer.
 
 ### If you earn more than the limit
 
 If your revenue is more than {{KLEINUNTERNEHMER_MAX_INCOME_FIRST_YEAR|cur}}€ this year, you stop being a *Kleinunternehmer* the next year.[^3]
 
-> **Example:** You make 40,000€ this year, so you are over the {{KLEINUNTERNEHMER_MAX_INCOME_FIRST_YEAR|cur}}€ limit. In January the next year, you stop being a *Kleinunternehmer*, and you must charge [VAT](/glossary/Umsatzsteuer).
+> **Example:** You make €40,000 this year, so you are over the {{KLEINUNTERNEHMER_MAX_INCOME_FIRST_YEAR|cur}}€ limit. In January the next year, you stop being a *Kleinunternehmer*, and you must charge [VAT](/glossary/Umsatzsteuer).
 
 If your revenue is more than {{KLEINUNTERNEHMER_MAX_INCOME|cur}}€, you stop being a *Kleinunternehmer* this year.
 
-> **Example:** You make 110,000€ this year, so you are over the {{KLEINUNTERNEHMER_MAX_INCOME|cur}}€ limit. You must start charging [VAT](/glossary/Umsatzsteuer).
+> **Example:** You make €110,000 this year, so you are over the {{KLEINUNTERNEHMER_MAX_INCOME|cur}}€ limit. You must start charging [VAT](/glossary/Umsatzsteuer).
 
 If your revenue goes back under {{KLEINUNTERNEHMER_MAX_INCOME_FIRST_YEAR|cur}}€, you can be a *Kleinunternehmer* again.
 
-> **Example:** You make 40,000€ one year, so you are over the limit. The next year, you make 20,000€. Your revenue is less than the {{KLEINUNTERNEHMER_MAX_INCOME_FIRST_YEAR|cur}}€ limit again, so you can be a *Kleinunternehmer* again.
+> **Example:** You make €40,000 one year, so you are over the limit. The next year, you make €20,000. Your revenue is less than the {{KLEINUNTERNEHMER_MAX_INCOME_FIRST_YEAR|cur}}€ limit again, so you can be a *Kleinunternehmer* again.
 
 ## How to be a Kleinunternehmer
 

@@ -19,7 +19,7 @@ Legal insurance is also called legal protection insurance or legal expenses insu
 
 For example, if you have a problem with your landlord, you can talk to a lawyer for free. The lawyer can write a letter to your landlord. If the letter doesn't solve the problem, you can sue your landlord. Your legal insurance will pay for everything.[^0]
 
-If you don't have legal insurance, you must decide between paying 200€ per hour[^1] for a lawyer, or giving up. In Germany, the loser pays for the winner's legal fees (except with employment law), but if you are not 100% sure of winning, it's risky. If the case is settled out of court, you still need to pay your lawyer. People often let their landlord or their employer win, because they can't afford a lawyer. With legal insurance, you can always defend yourself. When people know that you can defend yourself, they don't mess with you.
+If you don't have legal insurance, you must decide between paying €200 per hour[^1] for a lawyer, or giving up. In Germany, the loser pays for the winner's legal fees (except with employment law), but if you are not 100% sure of winning, it's risky. If the case is settled out of court, you still need to pay your lawyer. People often let their landlord or their employer win, because they can't afford a lawyer. With legal insurance, you can always defend yourself. When people know that you can defend yourself, they don't mess with you.
 
 ## What does legal insurance cover?
 
@@ -101,12 +101,12 @@ You can't use your legal insurance as soon as you get it. There is usually a 3 t
 
 ## Cost of legal insurance
 
-**16€ to 24€ per month**.[^20] The cost depends on a few things:[^20]
+**€16 to €24 per month**.[^20] The cost depends on a few things:[^20]
 
 - **What your insurance covers**  
     You can choose if your legal insurance covers traffic problems, work problems or apartment problems. If your legal insurance covers more things, it will be more expensive.
 - **What deductible you choose**  
-    If you choose a higher deductible (*[[Selbstbeteiligung]]*), your legal insurance will be cheaper. If you need to use your insurance, you must pay part of the costs yourself. The deductible is usually 150€ to 500€. Usually, there is no deductible for a first consultation with a lawyer. Some insurances have a variable deductible. For example, it can be 300€ in the first year, and 0€ after 1 year.
+    If you choose a higher deductible (*[[Selbstbeteiligung]]*), your legal insurance will be cheaper. If you need to use your insurance, you must pay part of the costs yourself. The deductible is usually €150 to €500. Usually, there is no deductible for a first consultation with a lawyer. Some insurances have a variable deductible. For example, it can be €300 in the first year, and €0 after 1 year.
 - **If you pay every month, or every year**  
     If you pay for the whole year, your insurance will be cheaper.
 - **Your age, location, occupation and marital status**
@@ -153,7 +153,7 @@ You can choose what your legal insurance covers.
 
 ### Coverage limit
 
-Your legal insurance should cover you for at least 300,000€.[^7] Clark recommends at least 500,000€, plus 25,000€ for problems in other countries.[^28] Some insurances have unlimited coverage.
+Your legal insurance should cover you for at least €300,000.[^7] Clark recommends at least €500,000, plus €25,000 for problems in other countries.[^28] Some insurances have unlimited coverage.
 
 Remember that if you use your insurance too much, [they can cancel it](/guides/legal-insurance#fair-use).
 
@@ -165,7 +165,7 @@ Your insurance does not cover existing problems, even if there is no waiting per
 
 ### Deductible
 
-You can choose legal insurance with a deductible (*[[Selbstbeteiligung]]*). When you have a deductible, your insurance is cheaper.[^33] Usually, the deductible is less than 500€. Check24 recommends a 150€ deductible.[^34]
+You can choose legal insurance with a deductible (*[[Selbstbeteiligung]]*). When you have a deductible, your insurance is cheaper.[^33] Usually, the deductible is less than €500. Check24 recommends a €150 deductible.[^34]
 
 Some insurance policies have no deductible for first consultations. That means that you can talk to a lawyer for free,[^18] and pay no deductible. If you go to court and you win, the losing side pays for your legal costs, including your deductible.[^18]
 
@@ -187,7 +187,7 @@ If you don't speak German, [Feather](/out/feather-rechtsschutz) and [Getsafe](/o
 
 For apartment problems, join a tenant association (*[[Mieterverein]]*). [Conny](/out/conny-mietpreisbremse) can help you lower your rent. [Mineko](https://www.mineko.de/) can check your [utilities bill](/glossary/Betriebskostenabrechnung).
 
-For quick business or immigration questions, try Alexander von Engelhardt's legal hotline: [09008 529 366 11](tel:0900852936611). It costs 3€ per minute.{{ fail_on('2025-12-31') }}
+For quick business or immigration questions, try Alexander von Engelhardt's legal hotline: [09008 529 366 11](tel:0900852936611). It costs €3 per minute.{{ fail_on('2025-12-31') }}
 
 **If you have a low income**, you can apply for legal help (*Beratungshilfe*) at the [local *Amtsgericht*](https://www.gerichtsverzeichnis.de/verzeichnis.php).[^37] You will get a certificate (*Beratungshilfeschein*) that pays for your legal costs. If you get [[Bürgergeld]] or *Sozialhilfe*, or if you are an asylum seeker, you are eligible.[^38] You usually need to speak German.
 

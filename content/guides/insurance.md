@@ -25,7 +25,7 @@ For example:
 
 If someone gets hurt because of you, you might pay thousands or even millions of euros in reparations. This is why liability insurance is so important.
 
-83% of Germans have liability insurance.[^6] It costs around 5€ per month.
+83% of Germans have liability insurance.[^6] It costs around €5 per month.
 
 [Feather](/out/feather-haftpflicht) and [Getsafe](/out/getsafe-haftpflicht) sell liability insurance, and they speak English. Both options are fine. Both insurers speak English. I have insurance with Feather, but Getsafe is a little better: they sell their own insurance, their website clearly explains what it covers, and the contract is in English.
 
@@ -47,13 +47,13 @@ Dog liability insurance is **required in Berlin, Brandenburg, Hamburg, Lower Sax
 
 **[Having a dog in Berlin ➞](/guides/dog-ownership)**
 
-Dog liability insurance costs around 5€ per month. You sometimes pay less if you combine private liability insurance and dog liability insurance.
+Dog liability insurance costs around €5 per month. You sometimes pay less if you combine private liability insurance and dog liability insurance.
 
 If you don't speak German, [Feather](/out/feather-dogs) and [Getsafe](/out/getsafe-dogs) sell dog liability insurance and they speak English. They also cover dangerous breeds. Use [Tarifcheck](/out/tarifcheck-dogs) to compare prices.
 
 ## Home contents insurance
 
-Home contents insurance or household insurance (*[[Hausratversicherung]]*) insures your furniture, your appliances, and the other movable things in your house. It costs around 5€ per month.
+Home contents insurance or household insurance (*[[Hausratversicherung]]*) insures your furniture, your appliances, and the other movable things in your house. It costs around €5 per month.
 
 For example:[^3]
 
@@ -81,7 +81,7 @@ The best way to choose health insurance is to [ask my insurance broker](/guides/
 
 Pet health insurance (*[[Tierkrankenversicherung]]* or *Hundekrankenversicherung*) covers the veterinary bills if your dog gets sick. Usually, it does not cover routine operations like vaccines or castration.[^5] However, it covers expensive operations. This can be important when your dog gets old.
 
-The price of pet insurance depends on the age, race and sex of your dog. It costs around 20€ per month if your dog is still young.
+The price of pet insurance depends on the age, race and sex of your dog. It costs around €20 per month if your dog is still young.
 
 If you don't speak German, [Getsafe](/out/getsafe-pethealth) and [Feather](/out/feather-pethealth) sell pet health insurance, and they speak English. Use [Tarifcheck](/out/tarifcheck-pethealth) to compare options.
 
@@ -118,7 +118,7 @@ Life insurance (*Lebensversicherung*) pays money to your family when you die. It
 
 Legal insurance (*[[Rechtsschutzversicherung]]*) gives you free access to a lawyer. If you have a problem with your landlord, your employer, the tax office or anyone else, you can call a lawyer. You can ask them questions, they can write letters for you, and they can go to court with you. Legal insurance will pay for it.
 
-There is private legal insurance (for you), and professional legal insurance (for your business). Private legal insurance costs around 15€ per month. Professional legal insurance is more expensive. The price depends on the type of business.
+There is private legal insurance (for you), and professional legal insurance (for your business). Private legal insurance costs around €15 per month. Professional legal insurance is more expensive. The price depends on the type of business.
 
 Around 46% of Germans have legal insurance.[^4] It's not as important as liability insurance, but it's good to have.
 

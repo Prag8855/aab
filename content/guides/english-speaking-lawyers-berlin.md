@@ -71,14 +71,14 @@ To add a lawyer, [fill this form](/suggest-business).
 
 ## Cost of a lawyer
 
-**Around 200€ per hour.**[^0] If you have [legal insurance](/guides/legal-insurance), it will pay for the lawyer.
+**Around €200 per hour.**[^0] If you have [legal insurance](/guides/legal-insurance), it will pay for the lawyer.
 
 ## Alternatives to a lawyer
 
 - **Legal insurance**  
     Your [legal insurance](/guides/legal-insurance) might have a legal hotline.
 - **Business and immigration hotline**  
-    Call [09008 529 366 11](tel:0900852936611) to talk to Alexander von Engelhardt, a business and immigration lawyer. It costs 3€ per minute.{{ fail_on('2025-12-31') }}
+    Call [09008 529 366 11](tel:0900852936611) to talk to Alexander von Engelhardt, a business and immigration lawyer. It costs €3 per minute.{{ fail_on('2025-12-31') }}
 
 **[Where to get legal help ➞](/guides/questions-about-berlin#legal-questions)**
 

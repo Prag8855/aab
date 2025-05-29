@@ -33,7 +33,7 @@ To get from the airport to the city, you can...
 - **Use [public transit](/guides/public-transit)** (recommended)  
     Take a train from BER airport to Berlin. It takes 30 to 45 minutes. Use [Google Maps](https://www.google.com/maps/place/BER+Airport+-+Terminal+1-2/@52.3647378,13.5089418,16.66z) or [BVG Fahrinfo](https://www.bvg.de/en/subscriptions-and-tickets/all-apps/fahrinfo-app) to get directions. The airport is in zone C, so you must buy an ABC ticket. The ticket costs {{BVG_ABC_TICKET|cur}}€. You can buy tickets at the airport, near the train platform. You can pay with cash or a credit card.[^2] [Validate](/guides/public-transit#validate-your-ticket) your ticket before you get on the train. - [How to use public transit](/guides/public-transit)
 - **Take a taxi**  
-    There are taxis outside the BER airport. A ride from the airport to the city centre costs at least 50€.[^3] You can also book a taxi with [Uber](https://www.uber.com/global/en/airports/ber/) or [FreeNow](https://www.free-now.com/de/flughafen). You can pay with cash or a credit card.[^4]
+    There are taxis outside the BER airport. A ride from the airport to the city centre costs at least €50.[^3] You can also book a taxi with [Uber](https://www.uber.com/global/en/airports/ber/) or [FreeNow](https://www.free-now.com/de/flughafen). You can pay with cash or a credit card.[^4]
 - **Rent a car**  
     You can rent a car at the airport. There are kiosks for different car rental companies. You can also rent a [Miles](https://miles-mobility.com/en-de/car-sharing/berlin) car.
 
@@ -67,7 +67,7 @@ You can drive in Germany with a foreign driving licence. You might need a transl
 
 Driving in Berlin is easy, but free parking is hard to find.
 
-Most parking spaces in the centre cost 1€ to 4€ per hour.[^6] Use [Parkopedia](https://www.parkopedia.com) to find a free or paid parking space. Most parking spaces outside of the central neighbourhoods are free. [Motorcycles can park on the sidewalk](/guides/motorcycle-parking) for free.
+Most parking spaces in the centre cost €1 to €4 per hour.[^6] Use [Parkopedia](https://www.parkopedia.com) to find a free or paid parking space. Most parking spaces outside of the central neighbourhoods are free. [Motorcycles can park on the sidewalk](/guides/motorcycle-parking) for free.
 
 You can also park outside the city and take the train to Berlin. There are free [Park and Ride (P+R) car parks](https://www.google.com/maps/d/viewer?mid=1lfZOUDUCPL1UgzHwGptdyyfhwEk). You can park your car there for free, and take the train to Berlin. You can find them on [this map](https://www.vbb.de/en/vbb-travel-info/) (in Multi-mobility), or with [this list](https://www.visitberlin.de/en/car-parks).
 
@@ -95,7 +95,7 @@ You can buy a 24 hour, 7 day or 1 month ticket. It's cheaper than buying a ticke
 
 ### How to rent a bicycle or a scooter
 
-**This is the best way to see Berlin**. Berlin is very flat and has a lot of bike paths, so it's easy to ride a bicycle or a scooter. You can rent them for around 10€ per day.
+**This is the best way to see Berlin**. Berlin is very flat and has a lot of bike paths, so it's easy to ride a bicycle or a scooter. You can rent them for around €10 per day.
 
 When I have visitors, this is my favourite way to show Berlin. I take my visitors along the river Spree and the Landwehrkanal.
 
@@ -195,7 +195,7 @@ Berlin is famous for its techno clubs. It can be hard to get into certain clubs.
 
 In Berlin, people don't wear fancy clothes to go clubbing. If you dress too nice, you won't get in.[^8] Each club has its own unofficial dress code. Ask the locals what the dress code is.
 
-Most clubs have a cover charge. You must pay 5€ to 25€ to get in. Clubs in Berlin stay open all night. The party starts late, and the busiest time is around 2AM. You can buy presale tickets for club events on [Resident Advisor](https://ra.co/guide/de/berlin). When you have tickets, it's easier to get in.[^9] If you don't get in, you get your money back.[^5]
+Most clubs have a cover charge. You must pay €5 to €25 to get in. Clubs in Berlin stay open all night. The party starts late, and the busiest time is around 2AM. You can buy presale tickets for club events on [Resident Advisor](https://ra.co/guide/de/berlin). When you have tickets, it's easier to get in.[^9] If you don't get in, you get your money back.[^5]
 
 Find club events on [Resident Advisor](https://ra.co/guide/de/berlin), or follow clubs on Facebook and Instagram.
 
