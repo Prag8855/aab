@@ -38,7 +38,7 @@ The biggest disadvantage: [the required documents](/out/n26-supported-passports)
 
 They are a **good alternative to N26**. They are more expensive, but they [accept more passport types](/out/bunq-supported-passports). They let you open an account quickly, without an *[[Anmeldung]]*.[^55] You must be in Germany when you open the account.[^16] After you open your account, you have 90 days to give them a [proof of residence](/glossary/Anmeldebestätigung) and your [tax ID](/glossary/Steueridentifikationsnummer). They speak English, Dutch, French, German, Italian, Portuguese and Spanish.
 
-Creating a bunq account does not create a Schufa record.[^19] A Schufa record can help you [find an apartment](/guides/find-a-flat-in-berlin).
+Creating a bunq account does not create a [Schufa](/glossary/Schufa) record.[^19] A Schufa record can help you [find an apartment](/guides/find-a-flat-in-berlin).
 
 The free account is a little limited. The paid accounts have free ATM withdrawals. If you pay more, you get a German [[IBAN]].
 
