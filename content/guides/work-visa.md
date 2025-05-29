@@ -213,7 +213,7 @@ These are the required documents **in Berlin**.[^2] If you apply elsewhere, they
     You need valid [health insurance](/glossary/Krankenversicherung). Travel insurance is not accepted. [Ask my health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you [choose health insurance](/guides/german-health-insurance).
     - [ ] **[Health insurance card](/glossary/Gesundheitskarte)**
     - [ ] or **proof of public health insurance**  
-        Get a *[Mitgliedsbescheinigung nach 175 SGB V](/glossary/Mitgliedsbescheinigung)* from your health insurer or your health insurance broker.
+        Get a *[Mitgliedsbescheinigung nach 175 SGB V](/glossary/Mitgliedsbescheinigung)* from your health insurer or your [health insurance broker](/guides/german-health-insurance#insurance-brokers).
     - [ ] or **proof of private health insurance**  
         Bring your insurance contract, a *[[Mitgliedsbescheinigung]]*, and bank statements that show health insurance payments. Get these documents from your health insurer or your health insurance broker.[^6]
 - [ ] **Proof of housing**  
