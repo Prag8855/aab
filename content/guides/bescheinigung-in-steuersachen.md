@@ -32,7 +32,7 @@ Request it from the *[[Finanzamt]]*, online or in person. It costs {{ BESCHEINIG
 
 You can also get the document if you go to the *Finanzamt* in person. It might not be faster, because they might still mail it to you.[^4]
 
-1. **Find your local Finanzamt**  
+1. **Find your Finanzamt**  
     [Find your Finanzamt](https://www.elster.de/finanzamt), then [find its address and opening hours](https://www.bzst.de/DE/Service/Behoerdenwegweiser/Finanzamtsuche/GemFa/finanzamtsuche_Formular.html).
 2. **Go to the Finanzamt**  
     Go to the Finanzamt without an appointment, and ask for a *Bescheinigung in Steuersachen*. Pay the {{ BESCHEINIGUNG_IN_STEUERSACHEN_FEE|cur }}€ fee.

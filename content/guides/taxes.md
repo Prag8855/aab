@@ -165,7 +165,7 @@ A tax advisor can answer your questions and help you file your German taxes corr
 
 **[English-speaking tax advisors in Berlin ➞](/guides/english-speaking-steuerberater-berlin)**
 
-**[Find your local Finanzamt ➞](/out/finanzamt-finder)**
+**[Find your Finanzamt ➞](/out/finanzamt-finder)**
 
 [^0]: [§32a EStG](https://www.gesetze-im-internet.de/estg/__32a.html)
 [^1]: [selbststaendig.de](https://www.selbststaendig.de/wissen/steuerklasse-fuer-selbststaendige)

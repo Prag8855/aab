@@ -19,4 +19,4 @@ Related_guides:
 
 The tax office (*Finanzamt*) is responsible for all tax matters.
 
-**[Find your local Finanzamt ➞](/out/finanzamt-finder)**
+**[Find your Finanzamt ➞](/out/finanzamt-finder)**
