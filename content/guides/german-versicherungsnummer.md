@@ -77,7 +77,7 @@ There are many ways to do this:
 - **In person**  
     You can visit [your local *Deutsche Rentenversicherung* branch](https://www.deutsche-rentenversicherung.de/DRV/DE/Beratung-und-Kontakt/Beratung-suchen-und-buchen/beratung-suchen-und-buchen_node.html). You do not need an appointment. Bring your passport and your [*Anmeldebestätigung*](/glossary/Anmeldebest%C3%A4tigung). This is the fastest way. You will get your *Sozialversicherungsnummer* instantly.
 - **Ask your health insurance broker**  
-    If you get your health insurance from a broker, they can also help you apply for the *Sozialversicherungsnummer*.
+    If you get your health insurance from a [broker](/glossary/Makler), they can also help you apply for the *Sozialversicherungsnummer*.
 - **Ask your employer**  
     Your employer can help you apply for a *Sozialversicherungsnummer*.[^9] Ask your HR department.
 

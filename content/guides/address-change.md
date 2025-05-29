@@ -47,7 +47,7 @@ You should also tell...
 - [ ] **Your bank**  
     You can change your address on your bank's online portal, or by asking your financial advisor.
 - [ ] **Your car/home insurance**  
-    If you have vehicle or home insurance, tell your insurer about your address change. You can usually do it on their website. You can also contact your insurance broker.
+    If you have vehicle or home insurance, tell your insurer about your address change. You can usually do it on their website. You can also contact your [insurance broker](/glossary/Makler).
 - [ ] **Your health insurance**  
     You can change your address on your health insurer's online portal, or by asking your insurance broker.
 - [ ] **The [[Agentur für Arbeit]]**  

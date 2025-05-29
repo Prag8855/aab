@@ -148,11 +148,9 @@ In Germany, you *must* have [health insurance](/glossary/Krankenversicherung). I
 
 As a freelancer, **never choose health insurance yourself**. It's a terrible idea. Freelancers often get stuck with bad or expensive health insurance. [Freelance visa](/glossary/Freelance%20visa) applications are often rejected because of invalid health insurance.
 
-Talk with a health insurance broker. They will help you choose the best insurance. Their help is free.
+Ask my health insurance broker for advice. He will help you choose the best insurance. His help is free.
 
 {% include '_blocks/healthInsuranceQuestion.html' %}
-
-I work with [Feather Insurance](/out/feather) since 2018. They helped me switch to private insurance and save over 400€ per month. I had a difficult case, and Rob worked for months to get me accepted. They have a lot of experience with immigrants.
 
 **Join the [[Künstlersozialkasse]]** if you can. They pay half of your health insurance. It's a really good deal. You can do this later.
 

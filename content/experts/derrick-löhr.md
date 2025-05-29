@@ -6,4 +6,4 @@ Website: https://optimumcapital.de/
 Picture: experts/photos/derrick-loehr.jpg
 ---
 
-Derrick is an insurance broker and the founder of [Optimum Capital](https://optimumcapital.de/). He has a lot of experience with immigrants.
+Derrick is an insurance broker and the founder of [Optimum Capital](https://optimumcapital.de/).

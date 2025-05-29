@@ -127,7 +127,7 @@ If you don't need full legal insurance, look at [cheaper options](/guides/questi
 
 To choose legal insurance:
 
-1. **Talk to an insurance broker**  
+1. **Talk to an [insurance broker](/glossary/Makler)**  
     An independent insurance broker can help you pick the best insurance from multiple companies. Their help is free, because they are paid by commission.
 2. **Use a comparison website**  
     [Tarifcheck](/out/tarifcheck-rechtsschutz) helps you compare insurances. It's only in German.

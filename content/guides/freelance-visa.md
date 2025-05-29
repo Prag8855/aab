@@ -210,7 +210,7 @@ There are two types of self-employed people. They get a different kind of freela
     - [ ] or **proof of public health insurance**  
         Get a *[Mitgliedsbescheinigung nach 175 SGB V](/glossary/Mitgliedsbescheinigung)* from your health insurer or your [health insurance broker](/guides/german-health-insurance#insurance-brokers).
     - [ ] or **proof of private health insurance**  
-        Bring your insurance contract, a *[[Mitgliedsbescheinigung]]*, and bank statements that show health insurance payments. Get these documents from your health insurer or your health insurance broker.[^6]
+        Bring your insurance contract, a *[[Mitgliedsbescheinigung]]*, and bank statements that show health insurance payments. Get these documents from your health insurer or your [health insurance broker](/guides/german-health-insurance#insurance-brokers).[^6]
 - [ ] **Proof of housing**  
     You need a [place to live](/guides/find-a-flat-in-berlin) where you can [register your address](/glossary/Anmeldung). If you apply in Berlin, your home address must be in Berlin.
     - [ ] **Lease**  

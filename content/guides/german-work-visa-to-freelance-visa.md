@@ -42,13 +42,13 @@ Next, you must [apply for the freelance visa](/guides/freelance-visa). This can 
 
 {% include "_blocks/feedbackResidencePermit/freelanceVisa.html" %}
 
-### Tell your health insurance company
+### Tell your health insurer
 
 When you are an employee, your employer pays half of your health insurance. When you are self-employed, you pay the full amount yourself. This means that **your health insurance will be twice as expensive**.
 
 {% include '_blocks/healthInsuranceCalculator.html' %}
 
-Sometimes, it makes sense to switch to private health insurance. [Talk to a health insurance broker](/guides/german-health-insurance#insurance-brokers) about it first.
+Sometimes, it makes sense to switch to private health insurance. It's a risky decision. [Ask my health insurance broker](/guides/german-health-insurance#insurance-brokers) if it makes sense for you.
 
 **[How to choose German health insurance ➞](/guides/german-health-insurance)**
 

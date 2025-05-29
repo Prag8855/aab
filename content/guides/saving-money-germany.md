@@ -24,22 +24,22 @@ Most employees pay 35% to 50% of their income in taxes, health insurance and pen
 
 ### How to pay less for [health insurance](/glossary/Krankenversicherung)
 
-- **Use your EHIC card**  
-    If you come from another EU country, you can use your European Health Insurance Card (EHIC) in Germany. You might not need German health insurance. - [More information](/guides/german-health-insurance#insurance-from-other-eu-countries)
+- **Use your [EHIC card](/guides/german-health-insurance#insurance-from-other-eu-countries)**  
+    If you come from another EU country, you can use your European Health Insurance Card (EHIC) in Germany. You might not need German health insurance.
 - **Switch to [private health insurance](/glossary/private%20Krankenversicherung)**  
-    It's *sometimes* much cheaper. I save over 400€ per month. This is a very complex decision and it can be an expensive mistake. I strongly recommend that you [talk to a health insurance broker](/guides/german-health-insurance#insurance-brokers) first.
+    It's *sometimes* much cheaper. I save over 400€ per month. This is a very complex decision, and it can be an expensive mistake. [Ask my health insurance broker](/guides/german-health-insurance#insurance-brokers) if it private health insurance makes sense for you.
 - **Choose a different [public health insurance](/glossary/gesetzliche%20Krankenversicherung)**  
     Pick an insurer with a lower *[[Zusatzbeitrag]]*. You can save up to 500€ per year.
 - **Join the [[Künstlersozialkasse]]**  
     If you are a freelance artist, publicist or art teacher, [join the *Künstlersozialkasse* (*KSK*)](/guides/ksk-kuenstlersozialkasse). They pay half of your health insurance, and half of your pension insurance. It's always worth it.
 
-Use my health insurance picker to see your options. If you need help, [ask my insurance broker](/guides/german-health-insurance#insurance-brokers).
+Use my [health insurance picker](/tools/health-insurance-calculator) to see your options. [Ask my insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose insurance. His help is free.
 
 {% include '_blocks/healthInsuranceCalculator.html' %}
 
 ### How to pay less [pension insurance](/glossary/gesetzliche%20Rentenversicherung)
 
-- **Join the Künstlersozialkasse**  
+- **Join the [[Künstlersozialkasse]]**  
     If you are a freelance artist, publicist or art teacher, [join the *Künstlersozialkasse* (*KSK*)](/guides/ksk-kuenstlersozialkasse). They pay half of your health insurance, and half of your pension insurance. It's always worth it.
 - **Get a pension payments refund**  
     If you leave Germany, you can sometimes [get your pension payments refunded](/guides/pension-payments-refund). You can get [thousands of euros](/tools/pension-refund-calculator) back.

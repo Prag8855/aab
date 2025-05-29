@@ -56,7 +56,7 @@ Comprehensive (*Vollkasko*) insurance also covers **damage to your own vehicle, 
 
 Use [Verivox](/out/verivox-kfz) or [Tarifcheck](/out/tarifcheck-kfz) to compare car insurance prices.
 
-You can also talk to an insurance broker. They can help you transfer your driving experience from another country. You will get a much better price for your car insurance. Few brokers sell car insurance, because it's not profitable.
+You can also talk to an [insurance broker](/glossary/Makler). They can help you transfer your driving experience from another country. You will get a much better price for your car insurance. Few brokers sell car insurance, because it's not profitable.
 
 After you pick the right insurance, ask for an [eVB number](/glossary/eVB-Nummer). You will get it in less than a day.[^16] When you [buy a vehicle](/guides/buying-used-car-in-germany) and [register it](/guides/buying-used-car-in-germany#register-the-vehicle) at the *[[Kfz-Zulassungsstelle]]*, you must have that eVB number.
 
@@ -115,8 +115,6 @@ Damages that are not your fault don't affect your *Schadenfreiheitsklasse*.[^8] 
 | 26 years or more | SF26 and above | 75 to 80% |
 
 **If you have driving experience in other another EU country**, tell your insurance company. They will count it as driving experience, and your insurance will be cheaper. Otherwise, you will be treated as a new driver, and your insurance will be more expensive. Each insurer has different rules for recognizing driving experience. They all ask for different documents.
-
-[Expat Car Insurance](https://expatcarinsurance.de/) specialises in this. They help you find car insurance that recognises your driving experience. Most insurance brokers avoid this, because it's a lot of work and it does not pay well.
 
 **If you have driving experience with car sharing**, tell your insurance company. Some insurance companies count car sharing as driving experience, so your insurance will be cheaper.[^9]
 

@@ -75,7 +75,7 @@ Health insurance (*[[Krankenversicherung]]*) is required for all German resident
 
 **[How to choose health insurance ➞](/guides/german-health-insurance)**
 
-The best way to choose health insurance is to talk to an independent broker. Their help is free. They get a commission from the insurance company when you sign a contract.
+The best way to choose health insurance is to [ask my insurance broker](/guides/german-health-insurance#insurance-brokers). His help is free.
 
 ## Pet health insurance
 
