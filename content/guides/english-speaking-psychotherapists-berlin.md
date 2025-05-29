@@ -122,13 +122,15 @@ They are not covered by public health insurance.
 
 **It's really hard.** If you have [public health insurance](/glossary/gesetzliche%20Krankenversicherung), it's harder, because most therapists only accept private health insurance and self-pay.[^0]
 
-## How much does psychotherapy cost?
+## Cost of psychotherapy
 
-In Berlin, it costs around 100€ per hour.[^0] Group therapy is usually cheaper.
+In Berlin, it costs around 100€ per hour.[^0] Group therapy is cheaper.
 
 **If you have [public health insurance](/glossary/gesetzliche%20Krankenversicherung)**, find a therapist that accepts public insurance. You won't have to pay anything. Ask your insurance company to recommend a therapist. Few therapists accept public insurance, so you might need to pay for a private therapist.
 
 **If you have [private health insurance](/glossary/private%20Krankenversicherung)**, your insurance will usually refund the costs. Check with your health insurer first, just to be sure.
+
+**If you have [expat health insurance](/glossary/Expat%20health%20insurance)**, it rarely covers therapy.
 
 **If you are a student**, you can also get free therapy [from your *Studentenwerk*](https://www.stw.berlin/en/counselling/psychologic-counselling/).
 
