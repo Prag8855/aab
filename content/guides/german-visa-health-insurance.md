@@ -29,7 +29,7 @@ Your travel insurance must...[^1]
 
 To apply for a [[National Visa]] or Category D visa, you need **[public](/glossary/gesetzliche%20Krankenversicherung), [private](/glossary/private%20Krankenversicherung) or [expat health insurance](/glossary/Expat%20health%20insurance)**.
 
-When you start working in Germany, you must switch to public or private health insurance. If you have a [minijob](/glossary/Minijob), you can usually stay on expat insurance.[^2]
+When you [start working](/guides/find-a-job-in-berlin#start-working) in Germany, you must switch to public or private health insurance. If you have a [minijob](/glossary/Minijob), you can usually stay on expat insurance.[^2]
 
 ## For a student visa
 
@@ -58,9 +58,14 @@ When you [start working](/guides/find-a-job-in-berlin#start-working), you must s
 
 ## For a work visa or Blue Card
 
-To apply for a [work visa](/glossary/Work%20Visa) or a [[Blue Card]], you need **[public](/glossary/gesetzliche%20Krankenversicherung) or [private](/glossary/private%20Krankenversicherung) health insurance**.  If your salary is under €{{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}} per year, you can't get private health insurance.
+To apply for a [work visa](/glossary/Work%20Visa) or a [[Blue Card]], you have 2 options:
 
-**If you apply in another country** (at the German embassy or consulate), you can get expat insurance to get your [[National Visa]]. When you [start working](/guides/find-a-job-in-berlin#start-working), you must switch to public or private health insurance.[^0]
+- **[Public health insurance](/glossary/gesetzliche%20Krankenversicherung)**  
+    If your earn less than €{{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}} per year, it's your only option. You must choose an [insurer](/glossary/Krankenkasse). There are dozens of insurers, but their price and coverage are almost the same. [Barmer](/out/barmer) and [Techniker Krankenkasse](/out/feather-tk) are expat-friendly options.
+- **[Private health insurance](/glossary/private%20Krankenversicherung)**  
+    If your earn more than €{{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}} per year, you can have private health insurance. It can be better and cheaper than public health insurance. Never choose private health insurance yourself; always [ask an expert](/guides/german-health-insurance#insurance-brokers).
+
+If you choose public health insurance, you might need expat health insurance for your [[National Visa]] application. It covers you from the day you arrive in Germany to the day you [start working](/guides/find-a-job-in-berlin#start-working). After you start working, your public health insurance covers you.
 
 **[How to apply for a work visa ➞](/guides/work-visa)**
 
