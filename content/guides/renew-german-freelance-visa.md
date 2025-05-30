@@ -47,6 +47,8 @@ If you don't meet those requirements, you can't renew your freelance visa.
 
 **[How to apply for permanent residence ➞](/guides/permanent-residence)**
 
+**You might also qualify for [German citizenship](/guides/permanent-residence#citizenship).** It's the best option. You can qualify after 5 years in Germany.{{ fail_on('2026-03-01') }}
+
 ### 2. Know if you are freelance or self-employed
 
 The required documents are different for freelancers (*[[Freiberufler]]*) and for tradespeople (*[Gewerbetreibende](/glossary/Gewerbetreibender)*). You much know which one you are. **Look on your [on your residence permit](/illustrations/freelance-visa-type.png).**
