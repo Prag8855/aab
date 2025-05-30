@@ -25,12 +25,6 @@ Your travel insurance must...[^1]
 
 [If you can visit Germany without a visa](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/-/231148), you don't need travel insurance, but it's good to have.
 
-## For a National Visa
-
-To apply for a [[National Visa]] or Category D visa, you need **[public](/glossary/gesetzliche%20Krankenversicherung), [private](/glossary/private%20Krankenversicherung) or [expat health insurance](/glossary/Expat%20health%20insurance)**.
-
-When you [start working](/guides/find-a-job-in-berlin#start-working) in Germany, you must switch to public or private health insurance. If you have a [minijob](/glossary/Minijob), you can usually stay on expat insurance.[^2]
-
 ## For a Blue Card or work visa
 
 To apply for a [work visa](/glossary/Work%20Visa) or a [[Blue Card]], you have 2 options:
@@ -42,26 +36,24 @@ To apply for a [work visa](/glossary/Work%20Visa) or a [[Blue Card]], you have 2
 
 If you choose public health insurance, you might need expat health insurance for your [[National Visa]] application. It covers you from the day you arrive in Germany to the day you [start working](/guides/find-a-job-in-berlin#start-working). After you start working, your public health insurance covers you.
 
-**[How to apply for a work visa ➞](/guides/work-visa)**
-
 **[How to apply for a Blue Card ➞](/guides/blue-card)**
+
+**[How to apply for a work visa ➞](/guides/work-visa)**
 
 ## For a student visa
 
-Students have 2 options:
+To apply for a [student visa](/glossary/Student%20visa), you have 2 options:
 
 - **Travel insurance + [public health insurance](/glossary/gesetzliche%20Krankenversicherung)**{{ RECOMMENDED }}  
-    The travel insurance covers you before school starts. Public health insurance covers you until you graduate. If you are under 30 years old, this is the best option. You get great coverage for a low price.
+    The travel insurance covers you before school starts. Public health insurance covers you until you graduate. If you are under 30 years old, this is the best option. You get great coverage for a low price. [Barmer](/out/barmer) and [Techniker Krankenkasse](/out/feather-tk) are expat-friendly options.
 - **[Expat health insurance](/glossary/Expat%20health%20insurance)**  
-    If you are over 30 years old, public health insurance is more expensive. Expat health insurance is cheaper, but the coverage is limited. It covers you until you graduate.
+    If you are over 30 years old, public health insurance is more expensive. Expat health insurance is cheaper, but the coverage is limited. It covers you until you graduate. [Feather](/out/feather-students) and [Ottonova](/out/ottonova-students) sell expat health insurance. You can also [ask an expert](/guides/german-health-insurance#insurance-brokers) to help you choose. It's a free service.
 
-**[Feather](/out/feather-students)** sells valid insurance for a student visa. They offer both options, so you will get the best option for your situation. I work with them since 2018; you can trust them. You can also [ask my insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose. It's a free service.
-
-You can choose insurance yourself, but there is no benefit. [HanseMerkur](/out/hansemerkur-students) and [Care Concept](/out/care-concept) sell valid travel insurance. [Barmer](/out/barmer) and [Techniker Krankenkasse](/out/feather-tk) sell student-friendly public health insurance. [Feather](/out/feather-students) and [Ottonova](/out/ottonova-students) sell valid expat health insurance.
+**[Feather](/out/feather-students)** sells valid insurance for a student visa. They offer both options, so you will get the best option for your situation. I work with them since 2018; you can trust them. 
 
 After you get insured, your insurer tells your university (the *M10 Meldung*). This is done digitally; you don't need to do anything. It takes around 3 days.[^15] You also get a *[[Mitgliedsbescheinigung]]* for your student visa application.
 
-After you arrive in Germany, your insurer needs your German address and [[IBAN]].[^16]
+After you arrive in Germany, your insurer needs your German address and your [[IBAN]].[^16]
 
 ## For a [job seeker visa](/glossary/Job%20seeker%20visa)
 
@@ -87,6 +79,12 @@ To apply for a [[Working Holiday Visa]] or [[Youth Mobility Visa]], you need [pu
 
 When you start working, you need public or private health insurance.[^14] If you have a [minijob](/glossary/Minijob), you can usually stay on travel or expat insurance.[^2]
 
+## For a National Visa
+
+To apply for a [[National Visa]] or Category D visa, you need **[public](/glossary/gesetzliche%20Krankenversicherung), [private](/glossary/private%20Krankenversicherung) or [expat health insurance](/glossary/Expat%20health%20insurance)**.
+
+When you [start working](/guides/find-a-job-in-berlin#start-working) in Germany, you must switch to public or private health insurance. If you have a [minijob](/glossary/Minijob), you can usually stay on expat insurance.[^2]
+
 ## For other residence permits
 
 **If this is your first [residence permit](/glossary/Aufenthaltstitel)**, you need [public](/glossary/gesetzliche%20Krankenversicherung), [private](/glossary/private%20Krankenversicherung) or [expat health insurance](/glossary/Expat%20health%20insurance).
@@ -104,6 +102,10 @@ Don't choose health insurance yourself. You can make expensive mistakes. Choosin
 {% include '_blocks/healthInsuranceQuestionStatic.html' %}
 
 **[How to choose health insurance ➞](/guides/german-health-insurance)**
+
+## Travel insurance options
+
+[HanseMerkur](/out/hansemerkur-students) and [Care Concept](/out/care-concept) sell valid travel insurance. 
 
 ## Expat health insurance options
 
