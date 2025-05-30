@@ -80,6 +80,7 @@
 /out/feather-private                          "https://feather-insurance.com/private-health-insurance?utm_source=allaboutberlin";
 /out/feather-private-estimate                 "https://feather-insurance.com/private-health-insurance?utm_source=allaboutberlin#calculator";
 /out/feather-rechtsschutz                     "https://feather-insurance.com/legal-insurance?utm_source=allaboutberlin";
+/out/feather-students                         "https://feather-insurance.com/health-insurance/public/students?utm_source=allaboutberlin";
 /out/feather-tk                               "https://feather-insurance.com/en/public-health-insurance/tk?utm_source=allaboutberlin";
 /out/feather-travel                           "https://feather-insurance.com/travel-insurance?utm_source=allaboutberlin";
 /out/finanzamt-finder                         "https://www.bzst.de/DE/Service/Behoerdenwegweiser/Finanzamtsuche/GemFa/finanzamtsuche_node.html";
@@ -97,6 +98,7 @@
 /out/getsafe-home                             "https://financeads.net/tc.php?t=28713C232349850T";
 /out/getsafe-pethealth                        "https://www.financeads.net/tc.php?t=28713C2323119808T";
 /out/getsafe-rechtsschutz                     "https://financeads.net/tc.php?t=28713C232348738T";
+/out/hansemerkur-students                     "https://www.awin1.com/cread.php?awinmid=11705&awinaffid=559395&ued=https%3A%2F%2Fwww.hmrv.de%2Fen%2Ftravel-health-insurances%2Fpupils-students-and-trainees";
 /out/hansemerkur-travel                       "https://www.awin1.com/cread.php?awinmid=11705&awinaffid=559395&ued=https%3A%2F%2Fwww.hmrv.de%2Fen%2Fincoming%2Fvisum-travel-insurance";
 /out/hope-apartments                          "https://www.hope-apartments.de/en/rent-your-home/?mtm_campaign=allaboutberlin&mtm_kwd=ref";
 /out/horizon65                                "https://vergleich.horizon65.com/altersvorsorge-2022-en?utm_source=allaboutberlin&utm_medium=blog&utm_campaign=partnership";
@@ -210,7 +212,6 @@
 /out/debitoor                                 "https://debitoor.com/?utm_source=allaboutberlin";
 /out/deutsche-bank-sperrkonto                 "https://www.deutsche-bank.de/pk/konto-und-karte/konten-im-ueberblick/internationale-studenten.html";
 /out/expath                                   "https://www.expath.com";
-/out/feather-students                         "/out/feather-tk";
 /out/fromatob                                 "https://www.fromatob.com/en-GB";
 /out/income-tax-calculator                    "/calculators/tax-calculator";
 /out/luko-dogs                                "/out/feather-dogs";

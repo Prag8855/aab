@@ -33,6 +33,23 @@ To apply for a [[National Visa]] or Category D visa, you need **[public](/glossa
 
 When you start working in Germany, you must switch to public or private health insurance. If you have a [minijob](/glossary/Minijob), you can usually stay on expat insurance.[^2]
 
+### For a student visa
+
+Students have 2 options:
+
+- **Travel insurance + [public health insurance](/glossary/gesetzliche%20Krankenversicherung)**{{ RECOMMENDED }}  
+    The travel insurance covers you before school starts. Public health insurance covers you until you graduate. If you are under 30 years old, this is the best option. You get great coverage for a low price.
+- **[Expat health insurance](/glossary/Expat%20health%20insurance)**  
+    If you are over 30 years old, public health insurance is more expensive. Expat health insurance is cheaper, but the coverage is limited. It covers you until you graduate.
+
+**[Feather](/out/feather-students)** sells valid insurance for a student visa. They offer both options, so you will get the best option for your situation. I work with them since 2018; you can trust them. You can also [ask my insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose. It's a free service.
+
+You can choose insurance yourself, but there is no benefit. [HanseMerkur](/out/hansemerkur-students) and [Care Concept](/out/care-concept) sell valid travel insurance. [Barmer](/out/barmer) and [Techniker Krankenkasse](/out/feather-tk) sell student-friendly public health insurance. [Feather](/out/feather-students) and [Ottonova](/out/ottonova-students) sell valid expat health insurance.
+
+After you get insured, your insurer tells your university (the *M10 Meldung*). This is done digitally; you don't need to do anything. It takes around 3 days.[^15] You also get a *[[Mitgliedsbescheinigung]]* for your student visa application.
+
+After you arrive in Germany, your insurer needs your German address and [[IBAN]].[^16]
+
 ### For a [job seeker visa](/glossary/Job%20seeker%20visa)
 
 **If you have never lived in Germany**, you need travel insurance or [expat insurance](/glossary/Expat%20health%20insurance).
@@ -114,7 +131,8 @@ These insurers are less reliable:
 [^7]: [Facebook](https://www.facebook.com/groups/berlinfreelancers/posts/4261939800553038/?__cft__[0]=AZV7zZrPivBoZDL0rqrnsaIM5z30t4Qa-eMFG7snPBMSv-0a8iDRS7ZuaBf6OBQb6EnLsMHZ5xMqbqEkJtg-mKCwqY8iUgAalwBIKyrQP6EwoXkmNvOdFyJ2N3a6_4JtSvc&__tn__=%2CO%2CP-R)
 [^8]: [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/819822105153161/), [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/789315664870472/), [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/789315664870472/?comment_id=792026081266097), [medium.com](https://medium.com/german-health-insurance-guide/list-of-private-health-insurance-companies-in-germany-eb2def6b5874), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/3tkxvi/mawista_health_insurance_could_be_not_sufficient/), [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/588038748331499/?comment_id=588207591647948), [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/754116128390426/?comment_id=754404985028207), [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/625882637880443/?comment_id=626153777853329), [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/625882637880443/?comment_id=627056011096439)
 [^9]: Confirmed by a Cigna employee (2022), [m.facebook.com](https://m.facebook.com/groups/germanfreelancevisa/permalink/1143842756084426/?anchor_composer=false)
-[^10]: [uni-frankfurt.de](https://www.uni-frankfurt.de/120841082/Krankenversicherung_f%C3%BCr_internationale_Studierende#:~:text=eine%20reisekrankenversicherung%20ist%20fur%20ein%20studium%20in%20deutschland%20nicht%20ausreichend!) (May 2025)
 [^12]: [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/659867781148595/?comment_id=663022727499767)
 [^13]: [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/659867781148595/)
 [^14]: Rob Schumacher at Feather (November 2023), personal experience (2015)
+[^15]: [Feather Insurance](https://faq.feather-insurance.com/en/articles/70045-public-health-insurance-signup-for-students?utm_source=allaboutberlin#:~:text=above%2C%20allow%20for%20university%20enrolment%20(your%20chosen%20insurance%20provider%20will%20send%20an%20M10%20Meldung%20to%20your%20uni-,within%203%20working%20days,-%2C%20confirming%20your%20insurance%20status).%20So%20there%20is%20no%20need%20for%20insurance%20number%20at%20this%20point%2C%20and%20your) (May 2025), [Uni Frankfurt](https://www.uni-frankfurt.de/120841082/Krankenversicherung_f%C3%BCr_internationale_Studierende#:~:text=NEU%3A%20Die%20digitale-,versicherungsmeldung,-Keine%20Einschreibung%20ohne) (May 2025)
+[^16]: [Feather Insurance](https://faq.feather-insurance.com/en/articles/70045-public-health-insurance-signup-for-students#:~:text=travel%20insurance%20confirmation.-,german%20address%20and%20iban,-%3A%20once%20you%20arrive) (May 2025)
