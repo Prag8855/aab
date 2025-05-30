@@ -2987,7 +2987,11 @@ collapsible, letter-generator, feedback-residence-permit{  // Vue element before
         margin: 0 0 var(--l)
     }
     p{
-        margin:0
+        margin: 0;
+
+        + p {
+            margin-top: var(--m);
+        }
     }
 
     @include only-phone{

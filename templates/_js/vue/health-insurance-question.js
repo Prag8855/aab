@@ -151,7 +151,8 @@ Vue.component('health-insurance-question', {
 			<template v-if="stage === 'contactInfo'">
 				<div class="form-recipient">
 					<div>
-						<p><strong>Seamus Wolf</strong> will {{ whatSeamusWillDo }}. I trust him because he is honest and knowledgeable. This is a free service.</p>
+						<p><strong>Seamus Wolf</strong> will {{ whatSeamusWillDo }}. I trust him because he is honest and knowledgeable.</p>
+						<p>This service is <strong>100% free</strong>.</p>
 					</div>
 					<img
 						srcset="/experts/photos/bioLarge1x/seamus-wolf.jpg, /experts/photos/bioLarge2x/seamus-wolf.jpg 2x"
