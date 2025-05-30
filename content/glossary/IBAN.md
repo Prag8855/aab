@@ -17,3 +17,5 @@ IBANs have the format **DE 1234 5678 9012 3456 7890 12**. The first two letters 
 You can find your own IBAN on your *[[Girocard]]*, in your banking app, or on your online banking platform.
 
 **[How banking works in Germany ➞](/guides/banking)**
+
+**[Open a German bank account ➞](/guides/best-bank-germany)**
