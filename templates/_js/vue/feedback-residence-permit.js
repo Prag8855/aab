@@ -265,9 +265,9 @@ Vue.component('feedback-residence-permit', {
 							<a target="_blank" href="/guides/immigration-office#departments">Find your Ausländerbehörde department.</a> Don't choose a random department.
 						</span>
 					</div>
-					<div class="form-group">
+					<div class="form-group optional">
 						<label :for="uid('notes')">Notes and advice</label>
-						<textarea placeholder="" v-model="notes" :id="uid('notes')"></textarea>
+						<textarea placeholder=" " v-model="notes" :id="uid('notes')"></textarea>
 						<span class="input-instructions">Add information about your situation and give advice to other people. Do not ask questions here.</span>
 					</div>
 				</template>

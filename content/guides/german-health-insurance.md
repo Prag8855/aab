@@ -53,7 +53,7 @@ Your employer can help you get health insurance. This is a bad idea. They choose
 
 **If you work over 20 hours per week**, you are treated [like a normal employee](#health-insurance-for-employees).[^46] You can't get the student tariff, and you can't get [free health insurance](#free-health-insurance). There are different rules for [internships](#health-insurance-for-an-internship) and [apprenticeships](#health-insurance-for-an-apprenticeship).
 
-[Ask an expert](#insurance-brokers) to help you choose. They can help you find the cheapest health insurance. Their help is free.
+[Ask an expert](#insurance-brokers) to help you choose. They help you find the cheapest health insurance. They also give you a proof of insurance for your school and your visa application. This is a free service.
 
 ### Health insurance for freelancers
 
@@ -580,8 +580,8 @@ If you are new in Germany, [register as an organ donor](/guides/organ-donor). It
 [^83]: [Seamus Wolf](/out/horizon65) (April 2025)
 [^84]: [check24.de](https://www.check24.de/gesetzliche-krankenversicherung/fragen/information-arbeitgeber/) (May 2025), [krankenkassen.de](https://www.krankenkassen.de/gesetzliche-krankenkassen/beschwerde/krankenkassenwechsel/#:~:text=muss%20ich%20meinen%20arbeitgeber%20vom%20krankenkassen-wechsel%20informieren%3F) (May 2025)
 [^85]: [check24.de](https://www.check24.de/gesetzliche-krankenversicherung/krankenkasse-wechseln/#:~:text=95%20prozent%20der%20leistungen) (May 2025)
-[^86]: Citation needed, [finanztip.de](https://www.finanztip.de/krankenversicherung/krankenversicherung-student/#:~:text=kannst%20du%20zwischen%20gesetzlicher%20und%20privater%20krankenversicherung%20wahlen) (May 2025)
+[^86]: [finanztip.de](https://www.finanztip.de/krankenversicherung/krankenversicherung-student/#:~:text=kannst%20du%20zwischen%20gesetzlicher%20und%20privater%20krankenversicherung%20wahlen) (May 2025)
 [^87]: [krankenkassen.de](https://www.krankenkassen.de/meine-krankenkasse/student/freiwillig/#:~:text=es%20kann%20etwas%20gunstiger%20sein%2C%20eine%20private%20krankenversicherung%20fur%20studenten%20abzuschlie%C3%9Fen) (May 2025), [krankenkassen.de](https://www.krankenkassen.de/meine-krankenkasse/student/private-kv/#:~:text=einem%20speziellen%20tarif%20fur%20studenten) (May 2025)
-[^88]: Citation needed, [studierendenwerke.de](https://www.studierendenwerke.de/themen/studieren-mit-behinderung/finanzierung/krankenversicherung/private-krankenversicherung-sinnvolle-alternative-fuer-studierende-mit-beeintraechtigungen#:~:text=zu%20studienbeginn%20oder%20nach%20ende%20der%20familienversicherung%20befreien%20lassen) (May 2025)
+[^88]: [studierendenwerke.de](https://www.studierendenwerke.de/themen/studieren-mit-behinderung/finanzierung/krankenversicherung/private-krankenversicherung-sinnvolle-alternative-fuer-studierende-mit-beeintraechtigungen#:~:text=zu%20studienbeginn%20oder%20nach%20ende%20der%20familienversicherung%20befreien%20lassen) (May 2025)
 [^89]: [krankenkassen.de](https://www.krankenkassen.de/meine-krankenkasse/student/krankenversicherung/#:~:text=bis%20zur%20vollendung%20des%2030.%20lebensjahres%20mitglied%20in%20der%20gesetzlichen%20krankenversicherung%20fur%20studenten%20bleiben) (May 2025)
 [^90]: [krankenkassen.de](https://www.krankenkassen.de/incoming/student/ausland/#:~:text=mussen%20vom%20tag%20der%20einreise%20an%20krankenversichert%20sein) (May 2025)
