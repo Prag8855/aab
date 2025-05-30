@@ -11,9 +11,7 @@ This guide explains how to choose health insurance when you apply for a German v
 
 {% include "_blocks/tableOfContents.html" %}
 
-## What health insurance do you need?
-
-### For a Schengen visa
+## For a Schengen visa
 
 To apply for a [[Schengen visa]] (tourist visa), you need **travel insurance**.[^0]
 
@@ -27,13 +25,13 @@ Your travel insurance must...[^1]
 
 [If you can visit Germany without a visa](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/-/231148), you don't need travel insurance, but it's good to have.
 
-### For a National Visa
+## For a National Visa
 
 To apply for a [[National Visa]] or Category D visa, you need **[public](/glossary/gesetzliche%20Krankenversicherung), [private](/glossary/private%20Krankenversicherung) or [expat health insurance](/glossary/Expat%20health%20insurance)**.
 
 When you start working in Germany, you must switch to public or private health insurance. If you have a [minijob](/glossary/Minijob), you can usually stay on expat insurance.[^2]
 
-### For a student visa
+## For a student visa
 
 Students have 2 options:
 
@@ -50,7 +48,7 @@ After you get insured, your insurer tells your university (the *M10 Meldung*). T
 
 After you arrive in Germany, your insurer needs your German address and [[IBAN]].[^16]
 
-### For a [job seeker visa](/glossary/Job%20seeker%20visa)
+## For a [job seeker visa](/glossary/Job%20seeker%20visa)
 
 **If you have never lived in Germany**, you need travel insurance or [expat insurance](/glossary/Expat%20health%20insurance).
 
@@ -58,7 +56,7 @@ After you arrive in Germany, your insurer needs your German address and [[IBAN]]
 
 When you [start working](/guides/find-a-job-in-berlin#start-working), you must switch to [public](/glossary/gesetzliche%20Krankenversicherung) or [private health insurance](/glossary/private%20Krankenversicherung).
 
-### For a work visa or Blue Card
+## For a work visa or Blue Card
 
 To apply for a [work visa](/glossary/Work%20Visa) or a [[Blue Card]], you need **[public](/glossary/gesetzliche%20Krankenversicherung) or [private](/glossary/private%20Krankenversicherung) health insurance**.  If your salary is under €{{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}} per year, you can't get private health insurance.
 
@@ -68,7 +66,7 @@ To apply for a [work visa](/glossary/Work%20Visa) or a [[Blue Card]], you need *
 
 **[How to apply for a Blue Card ➞](/guides/blue-card)**
 
-### For a freelance visa
+## For a freelance visa
 
 **If this is your first [residence permit](/glossary/Aufenthaltstitel)**, you need [public](/glossary/gesetzliche%20Krankenversicherung), [private](/glossary/private%20Krankenversicherung) or [expat health insurance](/glossary/Expat%20health%20insurance). Travel insurance is not accepted.
 
@@ -78,13 +76,13 @@ Don't choose health insurance yourself. It's a *really* bad idea when you are se
 
 **[How to apply for a freelance visa ➞](/guides/freelance-visa)**
 
-### For a Working Holiday Visa
+## For a Working Holiday Visa
 
 To apply for a [[Working Holiday Visa]] or [[Youth Mobility Visa]], you need [public](/glossary/gesetzliche%20Krankenversicherung), [private](/glossary/private%20Krankenversicherung), travel or [expat health insurance](/glossary/Expat%20health%20insurance).
 
 When you start working, you need public or private health insurance.[^14] If you have a [minijob](/glossary/Minijob), you can usually stay on travel or expat insurance.[^2]
 
-### For other residence permits
+## For other residence permits
 
 **If this is your first [residence permit](/glossary/Aufenthaltstitel)**, you need [public](/glossary/gesetzliche%20Krankenversicherung), [private](/glossary/private%20Krankenversicherung) or [expat health insurance](/glossary/Expat%20health%20insurance).
 
@@ -107,7 +105,7 @@ Don't choose health insurance yourself. You can make expensive mistakes. Choosin
 These insurers usually work:
 
 - **[Feather](/out/feather-expats)**{{ RECOMMENDED }}  
-    It works really well.[^12] They sell public, private and expat health from a few companies. They speak English. I got my own insurance from them. I trust them the most.
+    It works really well.[^12] They sell public, private and expat health from a few companies. They speak English. I work with them since 2018, and I trust them the most.
 - **[Ottonova](/out/ottonova-expats)**  
     It works well too.[^4] They sell their own private and expat health insurance. They speak English. They are not the cheapest long-term option. - [My review of Ottonova](/guides/ottonova-review)
 - **[Care Concept](/out/care-concept)**  
