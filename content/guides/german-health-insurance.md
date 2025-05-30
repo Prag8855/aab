@@ -457,9 +457,11 @@ Once you are insured, you get...
 - **A [health insurance card](/glossary/Gesundheitskarte)**  
     Bring it when you go to the doctor. You can also use it as a proof of health insurance.
 - **A [[Mitgliedsbescheinigung]]**  
-    It's a proof of health insurance. Use it to apply for a [residence permit](/glossary/Aufenthaltstitel).
+    It's a proof of health insurance. Use it to apply for a visa or [residence permit](/glossary/Aufenthaltstitel).
 - **A [[Sozialversicherungsnummer]]**  
     Give it to your employer. If you get private health insurance, you do not get a *Sozialversicherungsnummer* automatically. Your employer can also request it for you.[^80] You can also [contact the *Deutsche Rentenversicherung*](https://www.deutsche-rentenversicherung.de/DRV/DE/Beratung-und-Kontakt/Kontakt/Anschriften-Uebersicht/anschriften_uebersicht_detail.html) and ask for it.
+
+If you are a student, your health insurer will tell your school that you are insured (the *M10 Meldung*). It's done digitally; you don't need to do anything. It takes around 3 days.[^86]
 
 ### 5. Pay every month
 
@@ -584,6 +586,7 @@ If you are new in Germany, [register as an organ donor](/guides/organ-donor). It
 [^83]: [Seamus Wolf](/out/horizon65) (April 2025)
 [^84]: [check24.de](https://www.check24.de/gesetzliche-krankenversicherung/fragen/information-arbeitgeber/) (May 2025), [krankenkassen.de](https://www.krankenkassen.de/gesetzliche-krankenkassen/beschwerde/krankenkassenwechsel/#:~:text=muss%20ich%20meinen%20arbeitgeber%20vom%20krankenkassen-wechsel%20informieren%3F) (May 2025)
 [^85]: [check24.de](https://www.check24.de/gesetzliche-krankenversicherung/krankenkasse-wechseln/#:~:text=95%20prozent%20der%20leistungen) (May 2025)
+[^86]: [Feather Insurance](https://faq.feather-insurance.com/en/articles/70045-public-health-insurance-signup-for-students?utm_source=allaboutberlin#:~:text=above%2C%20allow%20for%20university%20enrolment%20(your%20chosen%20insurance%20provider%20will%20send%20an%20M10%20Meldung%20to%20your%20uni-,within%203%20working%20days,-%2C%20confirming%20your%20insurance%20status).%20So%20there%20is%20no%20need%20for%20insurance%20number%20at%20this%20point%2C%20and%20your) (May 2025), [Uni Frankfurt](https://www.uni-frankfurt.de/120841082/Krankenversicherung_f%C3%BCr_internationale_Studierende#:~:text=NEU%3A%20Die%20digitale-,versicherungsmeldung,-Keine%20Einschreibung%20ohne) (May 2025)
 [^87]: [krankenkassen.de](https://www.krankenkassen.de/meine-krankenkasse/student/freiwillig/#:~:text=es%20kann%20etwas%20gunstiger%20sein%2C%20eine%20private%20krankenversicherung%20fur%20studenten%20abzuschlie%C3%9Fen) (May 2025), [krankenkassen.de](https://www.krankenkassen.de/meine-krankenkasse/student/private-kv/#:~:text=einem%20speziellen%20tarif%20fur%20studenten) (May 2025)
 [^88]: [studierendenwerke.de](https://www.studierendenwerke.de/themen/studieren-mit-behinderung/finanzierung/krankenversicherung/private-krankenversicherung-sinnvolle-alternative-fuer-studierende-mit-beeintraechtigungen#:~:text=zu%20studienbeginn%20oder%20nach%20ende%20der%20familienversicherung%20befreien%20lassen) (May 2025)
 [^89]: [krankenkassen.de](https://www.krankenkassen.de/meine-krankenkasse/student/krankenversicherung/#:~:text=bis%20zur%20vollendung%20des%2030.%20lebensjahres%20mitglied%20in%20der%20gesetzlichen%20krankenversicherung%20fur%20studenten%20bleiben) (May 2025)
