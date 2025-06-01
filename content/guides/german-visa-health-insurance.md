@@ -69,7 +69,7 @@ When you [start working](/guides/find-a-job-in-berlin#start-working), you must s
 
 **If you renew or change your current residence permit**, you need [public](/glossary/gesetzliche%20Krankenversicherung) or [private health insurance](/glossary/private%20Krankenversicherung). Expat health insurance is rarely accepted.[^0]
 
-Don't choose health insurance yourself. It's a *really* bad idea when you are self-employed. The best option depends on your citizenship, your income, your health, and your plans for the future. [Ask my health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose.
+Don't choose health insurance yourself. It's a *really* bad idea when you are self-employed. The best option depends on your citizenship, your income, your health, and your plans for the future. [Ask my health insurance expert](/guides/german-health-insurance#insurance-brokers) to help you choose.
 
 **[How to apply for a freelance visa ➞](/guides/freelance-visa)**
 
@@ -97,7 +97,7 @@ Travel insurance is not accepted when you apply for a residence permit.
 
 Don't choose health insurance yourself. You can make expensive mistakes. Choosing the wrong insurance can delay your visa application.
 
-[Ask my health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose. His help is free. It's the best way to choose insurance.
+[Ask my health insurance expert](/guides/german-health-insurance#insurance-brokers) to help you choose. His help is free. It's the best way to choose health insurance.
 
 {% include '_blocks/healthInsuranceQuestionStatic.html' %}
 
