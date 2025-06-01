@@ -23,18 +23,18 @@ Your travel insurance must...[^1]
 
 [HanseMerkur's Visa Plus travel insurance](/out/hansemerkur-travel) works well for a Schengen visa application.
 
-[If you can visit Germany without a visa](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/-/231148), you don't need travel insurance, but it's good to have.
+[If you can visit Germany without a visa](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/-/231148), you don't need travel insurance, but it's still a good idea.
 
 ## For a Blue Card or work visa
 
-To apply for a [work visa](/glossary/Work%20Visa) or a [[Blue Card]], you have 2 options:
+To [apply for a work visa](/guides/work-visa) or a [Blue Card](/guides/blue-card), you have 2 options:
 
 - **[Public health insurance](/glossary/gesetzliche%20Krankenversicherung)**  
     If your earn less than €{{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}} per year, it's your only option. You must choose an [insurer](/glossary/Krankenkasse). There are dozens of insurers, but their price and coverage are almost the same. [Barmer](/out/barmer) and [Techniker Krankenkasse](/out/feather-tk) are expat-friendly options.
 - **[Private health insurance](/glossary/private%20Krankenversicherung)**  
     If your earn more than €{{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}} per year, you can have private health insurance. It can be better and cheaper than public health insurance. Never choose private health insurance yourself; always [ask an expert](/guides/german-health-insurance#insurance-brokers).
 
-If you choose public health insurance, you might need expat health insurance for your [[National Visa]] application. It covers you from the day you arrive in Germany to the day you [start working](/guides/find-a-job-in-berlin#start-working). After you start working, your public health insurance covers you.
+If you choose public health insurance, you might need [expat health insurance](/glossary/Expat%20health%20insurance) for your [[National Visa]] application.[^10] It covers you from the day you arrive in Germany to the day you [start working](/guides/find-a-job-in-berlin#start-working). After you start working, your public health insurance covers you.
 
 **[How to apply for a Blue Card ➞](/guides/blue-card)**
 
@@ -103,11 +103,11 @@ Don't choose health insurance yourself. You can make expensive mistakes. Choosin
 
 **[How to choose health insurance ➞](/guides/german-health-insurance)**
 
-## Travel insurance options
+### Travel insurance options
 
 [HanseMerkur](/out/hansemerkur-students) and [Care Concept](/out/care-concept) sell valid travel insurance. 
 
-## Expat health insurance options
+### Expat health insurance options
 
 These insurers usually work:
 
