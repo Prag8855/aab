@@ -23,15 +23,15 @@ A score above 95% is good enough.[^4]
 
 There are 2 versions of the Schufa:[^5]
 
-- **The [paid version](/out/meineschufa)** (*Bonitätsauskunft*)  
-    It costs €{{SCHUFA_REPORT_FEE|cur}}. It looks more official, so landlords prefer it.[^7] You can get it online now (as a PDF), or by post in 1 to 3 days. You must verify your documents with your phone or computer camera. It works with most passports.[^12]
+- **The [paid version](/out/meineschufa)** (*Bonitätsauskunft*){{ RECOMMENDED }}  
+    It costs €{{SCHUFA_REPORT_FEE|cur}}. It looks more official, so landlords prefer it.[^7] You can get it online now (as a PDF), or by post in 1 to 3 days. You must verify your ID document with your phone or computer camera. It works with most passports.[^12]
 - **The [free version](https://www.meineschufa.de/de/datenkopie)** (*Datenkopie*)  
     It has the same information, but they make it look worse:[^3]
     - It's harder to read. Your score is mixed with your private information. You must censor it before you share it.[^6]
     - It looks worse. Many landlords want the fancy certificate you get with the paid version.[^7]
     - You get it slower. It arrives by post in 5 to 7 days.
 
-The paid version is better for apartment applications; it's what landlords expect.[^7] The free version is better for your own use.
+The paid version is better when you [apply for an apartment](/guides/find-a-flat-in-berlin#apply-for-the-apartment), because it's what landlords expect.[^7] The free version is better for your own use.
 
 You can also get a Schufa from [ImmoScout24](https://bonitaetscheck.immobilienscout24.de/). It costs €{{SCHUFA_REPORT_FEE|cur}}. If you have a [premium membership](https://www.immobilienscout24.de/meinkonto/premium-mitgliedschaft/), you pay 20% to 50% less. It does not work for everyone. You must verify your identity with your bank, and some banks are not supported.{{ fail_on('2025-12-01') }}
 
