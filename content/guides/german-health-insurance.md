@@ -31,6 +31,8 @@ All German residents need health insurance. It pays for your healthcare when you
 
 **If you don't get ALG I or Bürgergeld**, you can choose public or private health insurance. You can get [free health insurance](#free-health-insurance). Otherwise, if you have public health insurance, you pay the [minimum amount](/glossary/Mindestbeitrag): around €{{GKV_MIN_COST_SELF_PAY|cur}} per month.[^40] The cost of private health insurance is not related to your income, so it stays the same.
 
+When you [lose your job](/guides/losing-your-job), you sometimes get [one month of free health insurance](/guides/losing-your-job#what-happens-to-your-health-insurance). Your current health insurance pays for it.
+
 ### Health insurance for an apprenticeship
 
 **If you earn less than €{{GKV_AZUBI_FREIBETRAG|cur}} per month**, you get free [public health insurance](/glossary/gesetzliche%20Krankenversicherung). Your employer pays for it.[^48]
@@ -53,9 +55,13 @@ Public health insurance costs {{GKV_BASE_RATE_EMPLOYEE}}% of your income, plus a
 
 **If you are a student**, you usually pay the student tariff: €{{GKV_COST_STUDENT|cur}} per month. If you are over 30 years old, you can't get the student tariff, so you pay the same price as everyone else.
 
+**[Health insurance for students ➞](/guides/german-health-insurance/for-students)**
+
 **If you are an apprentice** (*[[Azubi]]*) and you earn €{{GKV_AZUBI_FREIBETRAG|cur}} per month or less, you get free public health insurance. Your employer pays for it.[^48]
 
 **If you are self-employed**, you pay {{GKV_MIN_RATE_SELF_PAY}}% to {{GKV_MAX_RATE_SELF_PAY}}% of your income. The [minimum cost](/glossary/Mindestbeitrag) is around €{{GKV_MIN_COST_SELF_PAY|cur}} per month. The [maximum cost](/glossary/Höchstbeitrag) is around €{{GKV_MAX_COST_SELF_PAY|cur}} per month. You pay for health insurance by [direct debit authorisation](/glossary/SEPA-Lastschriftmandat) every month.[^8]
+
+**[Health insurance for freelancers ➞](/guides/german-health-insurance/for-freelancers)**
 
 The cost of public health insurance is [tax-deductible](/glossary/steuerlich%20absetzbar).
 
@@ -230,11 +236,15 @@ Do not choose private health insurance yourself. It's a really bad idea. The bes
 
 **If you are an employee**, you might need expat insurance to apply for an [opportunity card](/glossary/Chancenkarte). You must switch to public or private health insurance when you [start working](/guides/find-a-job-in-berlin#start-working).
 
+**[Health insurance for employees ➞](/guides/german-health-insurance/for-employees)**
+
 **If you are a freelancer**, use expat insurance to apply for a [freelance visa](/glossary/Freelance%20visa).[^6] Switch to public or private health insurance as soon as you get your residence permit. If you wait too long, you can be stuck with expat insurance. This is a really bad idea.
+
+**[Health insurance for freelancers ➞](/guides/german-health-insurance/for-freelancers)**
 
 **If you are a student**, public health insurance is a little more expensive than expat insurance, but it's *much* better. Switch to public health insurance *maximum* 3 months after you start university.[^14] If you wait too long, you can be stuck with expat insurance. This is a really bad idea.
 
-**[Health insurance for a residence permit ➞](/guides/german-visa-health-insurance)**
+**[Health insurance for students ➞](/guides/german-health-insurance/for-students)**
 
 Don't stay on expat health insurance. It's a really bad idea. Switch to public or private health insurance as soon as possible. The coverage is bad and the price raises quickly.[^26] You can rarely use expat insurance for more than 5 years.[^22]
 
@@ -259,7 +269,7 @@ Travel health insurance covers medical emergencies when you visit another countr
 
 **If you visit Germany**, travel insurance covers you during your trip. You need travel health insurance to get a [[Schengen visa]]. It does not cover you after you [move to Germany](/guides/moving-to-berlin). It's rarely valid for a [residence permit](/glossary/Aufenthaltstitel) application.
 
-**[Get health insurance for a Schengen visa ➞](/guides/german-visa-health-insurance#for-a-schengen-visa)**
+**[Health insurance for a Schengen visa ➞](/guides/german-visa-health-insurance#for-a-schengen-visa)**
 
 **If you move to Germany**, travel health insurance is not valid. You must get public, private or expat health insurance.
 
