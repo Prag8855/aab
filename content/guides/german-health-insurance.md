@@ -49,7 +49,7 @@ Your employer can help you get health insurance. This is a bad idea. They choose
 
 **If you are a [EU](/glossary/European%20Union) student**, you can also use [health insurance from your home country](#insurance-from-other-eu-countries).[^39] You might not need German health insurance.
 
-**If you are a non-EU student**, you can get [public health insurance](/glossary/gesetzliche%20Krankenversicherung) or [expat health insurance](/glossary/Expat%20health%20insurance). If you are under 30 years old, [public health insurance](/glossary/gesetzliche%20Krankenversicherung) is usually the best option. If you are over 30 years old [expat health insurance](/glossary/Expat%20health%20insurance) might make more sense. [Feather](/out/feather-students) is one of the easiest way to get insured.
+**If you are a non-EU student**, you can get [public health insurance](/glossary/gesetzliche%20Krankenversicherung) or [expat health insurance](/glossary/Expat%20health%20insurance). If you are under 30 years old, [public health insurance](/glossary/gesetzliche%20Krankenversicherung) is usually the best option. If you are over 30 years old [expat health insurance](/glossary/Expat%20health%20insurance) might make more sense.[^91] [Feather](/out/feather-students) is one of the easiest way to get insured.
 
 **[Health insurance for a student visa ➞](/guides/german-visa-health-insurance#for-a-student-visa)**
 
@@ -591,3 +591,4 @@ If you are new in Germany, [register as an organ donor](/guides/organ-donor). It
 [^88]: [studierendenwerke.de](https://www.studierendenwerke.de/themen/studieren-mit-behinderung/finanzierung/krankenversicherung/private-krankenversicherung-sinnvolle-alternative-fuer-studierende-mit-beeintraechtigungen#:~:text=zu%20studienbeginn%20oder%20nach%20ende%20der%20familienversicherung%20befreien%20lassen) (May 2025)
 [^89]: [krankenkassen.de](https://www.krankenkassen.de/meine-krankenkasse/student/krankenversicherung/#:~:text=bis%20zur%20vollendung%20des%2030.%20lebensjahres%20mitglied%20in%20der%20gesetzlichen%20krankenversicherung%20fur%20studenten%20bleiben) (May 2025)
 [^90]: [Feather Insurance](https://feather-insurance.com/blog/health-insurance-students-germany-guide/#:~:text=typically%2C%20students%20must%20earn%20at%20least%20%E2%82%AC30%2C000%20annually) (May 2025)
+[^91]: [Feather Insurance](https://feather-insurance.com/blog/health-insurance-students-germany-guide/#:~:text=Read%20our%20guide-,Ideal%20for%20non-eligible,students%3A%20Expat%20health%20insurance,-If%20you%E2%80%99re%20not) (May 2025)
