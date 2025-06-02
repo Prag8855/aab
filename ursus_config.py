@@ -431,6 +431,8 @@ config.linters = [
     # 'extensions.linters.places.PlacesLinter',
     # 'ursus.linters.markdown.MarkdownExternalLinksLinter',
     # 'extensions.linters.redirects.RedirectsLinter',
+    'extensions.linters.currency.CurrencyLinter',
+    'extensions.linters.currency.JinjaCurrencyLinter',
     'extensions.linters.footnotes.CitationNeededLinter',
     'extensions.linters.footnotes.FootnoteLocationLinter',
     'extensions.linters.footnotes.QuestionMarkLinter',
