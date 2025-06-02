@@ -333,7 +333,9 @@ The interview for a *[[Zweck-WG]]* is usually shorter. Your roommate wants to sa
 
 ## 5. Apply for the apartment
 
-If you like the apartment, apply for it as soon as you can. Send the [required documents](#required-documents). You can sometimes apply during the viewing.
+If you like the apartment, apply for it as soon as you can. Send the [required documents](#required-documents) to the *[[Hausverwaltung]]*. You can sometimes apply during the viewing.
+
+The *[[Hausverwaltung]]* can take a few days to reply. If you don't get the apartment, they might not answer.
 
 ![Berlin apartment documents](/illustrations/berlin-apartment-documents.png)
 
