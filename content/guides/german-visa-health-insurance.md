@@ -27,51 +27,15 @@ Your travel insurance must...[^1]
 
 ## For a Blue Card or work visa
 
-To [apply for a work visa](/guides/work-visa) or a [Blue Card](/guides/blue-card), you have 2 options:
-
-- **[Public health insurance](/glossary/gesetzliche%20Krankenversicherung)**  
-    If your earn less than €{{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}} per year, it's your only option. You must choose an [insurer](/glossary/Krankenkasse). There are dozens of insurers, but their price and coverage are almost the same. [Barmer](/out/barmer) and [Techniker Krankenkasse](/out/feather-tk) are expat-friendly options.
-- **[Private health insurance](/glossary/private%20Krankenversicherung)**  
-    If your earn more than €{{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}} per year, you can have private health insurance. It can be better and cheaper than public health insurance. Never choose private health insurance yourself; always [ask an expert](/guides/german-health-insurance#insurance-brokers).
-
-If you choose public health insurance, you might need [expat health insurance](/glossary/Expat%20health%20insurance) for your [[National Visa]] application.[^10] It covers you from the day you arrive in Germany to the day you [start working](/guides/find-a-job-in-berlin#start-working). After you start working, your public health insurance covers you.
-
-**[How to apply for a Blue Card ➞](/guides/blue-card)**
-
-**[How to apply for a work visa ➞](/guides/work-visa)**
+**[Health insurance for a work visa or a Blue Card ➞](/guides/german-health-insurance/for-employees)**
 
 ## For a student visa
 
-To apply for a [student visa](/glossary/Student%20visa), you have 2 options:
-
-- **Travel insurance + [public health insurance](/glossary/gesetzliche%20Krankenversicherung)**{{ RECOMMENDED }}  
-    The travel insurance covers you before school starts. Public health insurance covers you until you graduate. If you are under 30 years old, this is the best option. You get great coverage for a low price. [Barmer](/out/barmer) and [Techniker Krankenkasse](/out/feather-tk) are expat-friendly options.
-- **[Expat health insurance](/glossary/Expat%20health%20insurance)**  
-    If you are over 30 years old, public health insurance is more expensive. Expat health insurance is cheaper, but the coverage is limited. It covers you until you graduate. [Feather](/out/feather-students) and [Ottonova](/out/ottonova-students) sell expat health insurance. You can also [ask an expert](/guides/german-health-insurance#insurance-brokers) to help you choose. It's a free service.
-
-**[Feather](/out/feather-students)** sells valid insurance for a student visa. They offer both options, so you will get the best option for your situation. I work with them since 2018; you can trust them. 
-
-After you get insured, your insurer tells your university (the *M10 Meldung*). This is done digitally; you don't need to do anything. It takes around 3 days.[^15] You also get a *[[Mitgliedsbescheinigung]]* for your student visa application.
-
-After you arrive in Germany, your insurer needs your German address and your [[IBAN]].[^16]
-
-## For a [job seeker visa](/glossary/Job%20seeker%20visa)
-
-**If you have never lived in Germany**, you need travel insurance or [expat insurance](/glossary/Expat%20health%20insurance).
-
-**If you lived in Germany before**, you need [public](/glossary/gesetzliche%20Krankenversicherung), [private](/glossary/private%20Krankenversicherung) or [expat health insurance](/glossary/Expat%20health%20insurance). Travel insurance is not accepted.[^3] If you come back to Germany, you can get the same type of insurance as before.
-
-When you [start working](/guides/find-a-job-in-berlin#start-working), you must switch to [public](/glossary/gesetzliche%20Krankenversicherung) or [private health insurance](/glossary/private%20Krankenversicherung).
+**[Health insurance for a student visa ➞](/guides/german-health-insurance/for-students)**
 
 ## For a freelance visa
 
-**If this is your first [residence permit](/glossary/Aufenthaltstitel)**, you need [public](/glossary/gesetzliche%20Krankenversicherung), [private](/glossary/private%20Krankenversicherung) or [expat health insurance](/glossary/Expat%20health%20insurance). Travel insurance is not accepted.
-
-**If you renew or change your current residence permit**, you need [public](/glossary/gesetzliche%20Krankenversicherung) or [private health insurance](/glossary/private%20Krankenversicherung). Expat health insurance is rarely accepted.[^0]
-
-Don't choose health insurance yourself. It's a *really* bad idea when you are self-employed. The best option depends on your citizenship, your income, your health, and your plans for the future. [Ask my health insurance expert](/guides/german-health-insurance#insurance-brokers) to help you choose.
-
-**[How to apply for a freelance visa ➞](/guides/freelance-visa)**
+**[Health insurance for a freelance visa ➞](/guides/german-health-insurance/for-freelancers)**
 
 ## For a Working Holiday Visa
 
@@ -84,6 +48,14 @@ When you start working, you need public or private health insurance.[^14] If you
 To apply for a [[National Visa]] or Category D visa, you need **[public](/glossary/gesetzliche%20Krankenversicherung), [private](/glossary/private%20Krankenversicherung) or [expat health insurance](/glossary/Expat%20health%20insurance)**.
 
 When you [start working](/guides/find-a-job-in-berlin#start-working) in Germany, you must switch to public or private health insurance. If you have a [minijob](/glossary/Minijob), you can usually stay on expat insurance.[^2]
+
+## For a [job seeker visa](/glossary/Job%20seeker%20visa)
+
+**If you have never lived in Germany**, you need travel insurance or [expat insurance](/glossary/Expat%20health%20insurance).
+
+**If you lived in Germany before**, you need [public](/glossary/gesetzliche%20Krankenversicherung), [private](/glossary/private%20Krankenversicherung) or [expat health insurance](/glossary/Expat%20health%20insurance). Travel insurance is not accepted.[^3] If you come back to Germany, you can get the same type of insurance as before.
+
+When you [start working](/guides/find-a-job-in-berlin#start-working), you must switch to [public](/glossary/gesetzliche%20Krankenversicherung) or [private health insurance](/glossary/private%20Krankenversicherung).
 
 ## For other residence permits
 
@@ -126,7 +98,7 @@ These insurers are less reliable:
 - **[Mawista Expatcare](/out/mawista-expats)** is not always accepted[^8]
 - **[Cigna Global](/out/cigna)** is not always accepted[^9]
 
-[^0]: [blog.feather-insurance.com](https://feather-insurance.com/blog/how-can-i-use-expat-health-insurance-for-my-visa/)
+[^0]: Citation needed, [blog.feather-insurance.com](https://feather-insurance.com/blog/how-can-i-use-expat-health-insurance-for-my-visa/)
 [^1]: [schengenvisainfo.com](https://www.schengenvisainfo.com/schengen-visa-insurance/), [germany.info](https://www.germany.info/us-en/service/visa/medical-health-insurance/953982), [visaguide.world](https://visaguide.world/travel-insurance/europe/germany-travel-insurance/)
 [^2]: [Dr. Rob Schumacher](/out/feather) (November 2023)
 [^3]: [berlin.de](https://service.berlin.de/dienstleistung/324661/en/)
@@ -136,6 +108,7 @@ These insurers are less reliable:
 [^7]: [Facebook](https://www.facebook.com/groups/berlinfreelancers/posts/4261939800553038/?__cft__[0]=AZV7zZrPivBoZDL0rqrnsaIM5z30t4Qa-eMFG7snPBMSv-0a8iDRS7ZuaBf6OBQb6EnLsMHZ5xMqbqEkJtg-mKCwqY8iUgAalwBIKyrQP6EwoXkmNvOdFyJ2N3a6_4JtSvc&__tn__=%2CO%2CP-R)
 [^8]: [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/819822105153161/), [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/789315664870472/), [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/789315664870472/?comment_id=792026081266097), [medium.com](https://medium.com/german-health-insurance-guide/list-of-private-health-insurance-companies-in-germany-eb2def6b5874), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/3tkxvi/mawista_health_insurance_could_be_not_sufficient/), [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/588038748331499/?comment_id=588207591647948), [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/754116128390426/?comment_id=754404985028207), [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/625882637880443/?comment_id=626153777853329), [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/625882637880443/?comment_id=627056011096439)
 [^9]: Confirmed by a Cigna employee (2022), [m.facebook.com](https://m.facebook.com/groups/germanfreelancevisa/permalink/1143842756084426/?anchor_composer=false)
+[^10]: Citation needed
 [^12]: [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/659867781148595/?comment_id=663022727499767)
 [^13]: [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/659867781148595/)
 [^14]: Rob Schumacher at Feather (November 2023), personal experience (2015)

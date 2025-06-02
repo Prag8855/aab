@@ -9,7 +9,7 @@ Related_reviews:
     reviews/german-health-insurance/mona-anbari.md
 ---
 
-When you [move to Germany](/guides/moving-to-berlin), you must choose health insurance. This guide explains how it works, and how to choose the best health insurance for your needs.
+When you [move to Germany](/guides/moving-to-berlin), you must choose health insurance. This guide explains how it works, and how to choose the best health insurance.
 
 All German residents need health insurance. It pays for your healthcare when you are sick. You also need it to [start a new job](/guides/find-a-job-in-berlin#start-working), study at a German university, or [apply for a residence permit](/guides/residence-permit).
 
@@ -19,84 +19,17 @@ All German residents need health insurance. It pays for your healthcare when you
 
 {% include '_blocks/healthInsuranceCalculatorStatic.html' %}
 
-### Health insurance for employees
+**[Health insurance for employees ➞](/guides/german-health-insurance/for-employees)**
 
-When you are an employee, your health insurance is not tied to your job. If you [lose your job](/guides/losing-your-job), you keep your health insurance. Your employer does not decide which health insurance you can have.
+**[Health insurance for students ➞](/guides/german-health-insurance/for-students)**
 
-**If you earn over €{{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}} per year**, you can choose [public](/glossary/gesetzliche%20Krankenversicherung) or [private health insurance](/glossary/private%20Krankenversicherung).[^3] Public health insurance costs [around €{{GKV_MAX_COST_EMPLOYEE|cur}} per month](/glossary/Höchstbeitrag).[^1] Private health insurance might be cheaper.[^58]
-
-**If you earn €{{GKV_MAX_INCOME|cur}} to €{{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}} per year**, you can only choose [public health insurance](/glossary/gesetzliche%20Krankenversicherung).[^3] It costs [around €{{GKV_MAX_COST_EMPLOYEE|cur}} per month](/glossary/Höchstbeitrag).
-
-**If you earn less than €{{GKV_MAX_INCOME|cur}} per year**, you can only choose [public health insurance](/glossary/gesetzliche%20Krankenversicherung). It costs {{GKV_MIN_RATE_EMPLOYEE}}% to {{GKV_MAX_RATE_EMPLOYEE}}% of your income (including *[[Pflegeversicherung]]*).
-
-**If you have a [minijob](/glossary/Minijob)**, you can choose [public](/glossary/gesetzliche%20Krankenversicherung) or [private health insurance](/glossary/private%20Krankenversicherung). Public is usually the best option.[^56] You can get [free health insurance](#free-health-insurance). Otherwise, you pay the [minimum amount](/glossary/Mindestbeitrag): around €{{GKV_MIN_COST_SELF_PAY|cur}} per month. Your employer does not help you pay for health insurance.[^36]
-
-**If you [lose your job](/guides/losing-your-job)**, you can get [free health insurance](#free-health-insurance). Otherwise, you pay the [minimum amount](/glossary/Mindestbeitrag): around €{{GKV_MIN_COST_SELF_PAY|cur}} per month.
-
-If you move from another [EU](/glossary/European%20Union) country, your [health insurance from your home country](#insurance-from-other-eu-countries) usually covers you until you [start working](/guides/find-a-job-in-berlin#start-working).[^47] It might be much cheaper than German health insurance.
-
-If you move from a non-EU country, you might need [expat health insurance](/glossary/Expat%20health%20insurance). It covers you until you [start working](/guides/find-a-job-in-berlin#start-working). When you start working, you must switch to public or private health insurance. A [health insurance broker](#insurance-brokers) can arrange this for you.
-
-Your employer can help you get health insurance. This is a bad idea. They choose what is easy for them, not what is best for you.[^7]
-
-### Health insurance for students
-
-**If you are under 25 years old**, you can get [free health insurance](#free-health-insurance). Otherwise, [public health insurance](/glossary/gesetzliche%20Krankenversicherung) is usually the best option.[^59] You pay the student tariff: around €{{GKV_COST_STUDENT|cur}} per month. Foreign students can also get [expat health insurance](/glossary/Expat%20health%20insurance), but it's rarely worth it.[^88] You can't get [private health insurance](/glossary/private%20Krankenversicherung) because your income is too low.[^90]
-
-**If you are under 30 years old**, you pay the student tariff.[^89] [Public health insurance](/glossary/gesetzliche%20Krankenversicherung) is usually the best option.[^59] It costs around €{{GKV_COST_STUDENT|cur}} per month. Foreign students can also get [expat health insurance](/glossary/Expat%20health%20insurance), but it's rarely worth it.[^88] You can't get [private health insurance](/glossary/private%20Krankenversicherung) because your income is too low.[^90]
-
-**If you are over 30 years old**, you can't get the student tariff. [Public health insurance](/glossary/gesetzliche%20Krankenversicherung) costs around [€{{GKV_MIN_COST_SELF_PAY|cur}} per month](/glossary/Mindestbeitrag).[^25] [Private health insurance](/glossary/private%20Krankenversicherung) might be cheaper for you; they usually have a cheaper tariff for students.[^87] You can't get [free health insurance](#free-health-insurance). If you work, you are treated [like a normal employee](#health-insurance-for-employees); public health insurance costs a percentage of your income.
-
-**If you are a [EU](/glossary/European%20Union) student**, you can also use [health insurance from your home country](#insurance-from-other-eu-countries).[^39] You might not need German health insurance.
-
-**If you are a non-EU student**, you can get [public health insurance](/glossary/gesetzliche%20Krankenversicherung) or [expat health insurance](/glossary/Expat%20health%20insurance). If you are under 30 years old, [public health insurance](/glossary/gesetzliche%20Krankenversicherung) is usually the best option. If you are over 30 years old [expat health insurance](/glossary/Expat%20health%20insurance) might make more sense.[^91] [Feather](/out/feather-students) is one of the easiest way to get insured.
-
-**[Health insurance for a student visa ➞](/guides/german-visa-health-insurance#for-a-student-visa)**
-
-**If you are self-employed**, and your income is over €{{GKV_FAMILIENVERSICHERUNG_MAX_INCOME|cur}} per month, you are treated [like a self-employed person](#health-insurance-for-freelancers). You can't get the student tariff and you can't get [free health insurance](#free-health-insurance). If you are young and healthy, [private health insurance](/glossary/private%20Krankenversicherung) usually makes the most sense.[^58]
-
-**If you work over 20 hours per week**, you are treated [like a normal employee](#health-insurance-for-employees).[^46] You can't get the student tariff, and you can't get [free health insurance](#free-health-insurance). There are different rules for [internships](#health-insurance-for-an-internship) and [apprenticeships](#health-insurance-for-an-apprenticeship).
-
-[Ask an expert](#insurance-brokers) to help you choose. They help you find the cheapest health insurance. They also give you a proof of insurance for your school and your visa application. This is a free service.
-
-### Health insurance for freelancers
-
-If you are self-employed, you can choose public or private health insurance.[^4]
-
-**[Public health insurance](#public-health-insurance)** costs {{GKV_MIN_RATE_SELF_PAY}}% to {{GKV_MAX_RATE_SELF_PAY}}% of your income (including *[[Pflegeversicherung]]*). The minimum cost is around [€{{GKV_MIN_COST_SELF_PAY|cur}}](/glossary/Mindestbeitrag) per month. The maximum cost is around [€{{GKV_MAX_COST_SELF_PAY|cur}}](/glossary/Höchstbeitrag) per month. You can't get the student tariff, you can't get [free health insurance](#free-health-insurance), and you can't use [health insurance from another EU country](#insurance-from-other-eu-countries).[^37]
-
-**[Private health insurance](#private-health-insurance)** is usually cheaper. The cost is based on your age and your health when you sign up, and the level of coverage you choose.[^79] Don't choose private health insurance if you have an unstable income, or you earn less than €30,000 per year.[^27] Insurers often reject people with a low or unstable income.[^55] Ideally, you should make more than €60,000 per year.[^69]
-
-**[Expat health insurance](#expat-health-insurance)** is the cheapest option. This is supposed to be temporary health insurance. You can use it to apply for a [freelance visa](/glossary/Freelance%20visa). Staying on expat insurance is a really bad idea. Switch to public or private health insurance as soon as you can.
-
-If you just moved to Germany, public health insurers might reject you. Private health insurance might be your only option.[^71]
-
-Don't choose health insurance yourself. It's a *really* bad idea when you are self-employed. The best option depends on your citizenship, your income, your health, and your plans for the future. [Ask an expert](/guides/german-health-insurance#insurance-brokers) to help you choose. This is really important.
-
-If you are a freelance artist, journalist, publicist or influencer, join the *[[Künstlersozialkasse]]* (KSK). They pay half of your health insurance, and half of your [public pension insurance](/glossary/gesetzliche%20Krankenversicherung). It's always worth it. If you earn less than €{{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}} per year, you must switch to public health insurance.
-
-**[How to apply for the KSK ➞](/guides/ksk-kuenstlersozialkasse)**
+**[Health insurance for freelancers ➞](/guides/german-health-insurance/for-freelancers)**
 
 ### Health insurance when unemployed
 
 **If you get [[ALG I]] or [[Bürgergeld]]**, you get free [public health insurance](/glossary/gesetzliche%20Krankenversicherung). The state pays for it.[^11] If you had private health insurance, you must usually switch to public health insurance.[^41]
 
 **If you don't get ALG I or Bürgergeld**, you can choose public or private health insurance. You can get [free health insurance](#free-health-insurance). Otherwise, if you have public health insurance, you pay the [minimum amount](/glossary/Mindestbeitrag): around €{{GKV_MIN_COST_SELF_PAY|cur}} per month.[^40] The cost of private health insurance is not related to your income, so it stays the same.
-
-### Health insurance for an internship
-
-If it's a **mandatory internship during your studies**, you keep your student insurance. Your employer does not pay half of it.[^50]
-
-If it's a **mandatory internship before or after your studies**:[^65]
-
-- **If it's unpaid**  
-    You have [the same options as other students](#health-insurance-for-students).[^64]
-- **It it pays up to €{{GKV_AZUBI_FREIBETRAG|cur}} per month**  
-    Your health insurance is free. Your employer pays for it.[^49]
-- **If it pays more than €{{GKV_AZUBI_FREIBETRAG|cur}} per month**  
-    You have [the same options as other employees](#health-insurance-for-employees).
-
-If it's a **voluntary internship**, it's treated like a normal job. You have the [same options as an employee](#health-insurance-for-employees).[^67] If you don't get paid, you have the [same options as an unemployed student](#health-insurance-for-students), and you don't get help from your employer.[^68]
 
 ### Health insurance for an apprenticeship
 
@@ -128,7 +61,7 @@ The cost of public health insurance is [tax-deductible](/glossary/steuerlich%20a
 
 ### Free health insurance
 
-Your parents' health insurance covers you for free if...
+Your parents' insurance covers you for free if...
 
 - Your parents have [public health insurance](/glossary/gesetzliche%20Krankenversicherung)
 - and you are under 23 years old (under 25 years old if you are a student)
@@ -136,7 +69,7 @@ Your parents' health insurance covers you for free if...
 - and you are not self-employed full time
 - and you are not an apprentice (*[[Azubi]]*)[^53]
 
-Your spouse's covers you for free if...[^34]
+Your spouse's insurance covers you for free if...[^34]
 
 - Your spouse has [public health insurance](/glossary/gesetzliche%20Krankenversicherung)
 - and your total income is under €{{GKV_FAMILIENVERSICHERUNG_MAX_INCOME|cur}} per month (€{{MINIJOB_MAX_INCOME|cur}} per month for a [minijob](/glossary/Minijob))
