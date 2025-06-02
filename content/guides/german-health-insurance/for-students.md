@@ -45,6 +45,21 @@ Foreign students can get [expat health insurance](/glossary/Expat%20health%20ins
 
 Usually, you can't get [private health insurance](/glossary/private%20Krankenversicherung) because your income is too low.[^90] It's rarely the best option anyway.
 
+## Health insurance for a student visa
+
+To apply for a [student visa](/glossary/Student%20visa), you have 2 options:
+
+- **Travel insurance + [public health insurance](/glossary/gesetzliche%20Krankenversicherung)**{{ RECOMMENDED }}  
+    The travel insurance covers you before school starts. Public health insurance covers you until you graduate. If you are under 30 years old, this is the best option. You get great coverage for a low price. [Barmer](/out/barmer) and [Techniker Krankenkasse](/out/feather-tk) are expat-friendly options.
+- **[Expat health insurance](/glossary/Expat%20health%20insurance)**  
+    If you are over 30 years old, public health insurance is more expensive. Expat health insurance is cheaper, but the coverage is limited. It covers you until you graduate. [Feather](/out/feather-students) and [Ottonova](/out/ottonova-students) sell expat health insurance. You can also [ask an expert](/guides/german-health-insurance#insurance-brokers) to help you choose. It's a free service.
+
+**[Feather](/out/feather-students)** sells valid insurance for a student visa. They offer both options, so you will get the best option for your situation. I work with them since 2018; you can trust them. 
+
+After you get insured, your insurer tells your university (the *M10 Meldung*). This is done digitally; you don't need to do anything. It takes around 3 days.[^15] You also get a *[[Mitgliedsbescheinigung]]* for your student visa application.
+
+After you arrive in Germany, your insurer needs your German address and your [[IBAN]].[^16]
+
 ## For an internship
 
 If it's a **mandatory internship during your studies**, you keep your student insurance. Your employer does not pay half of it.[^50]
@@ -61,21 +76,6 @@ If it's a **mandatory internship before or after your studies**:[^65]
 If it's a **voluntary internship**, it's treated like a normal job. You have the [same options as an employee](#health-insurance-for-employees).[^67] If you don't get paid, you have the [same options as an unemployed student](#health-insurance-for-students), and you don't get help from your employer.[^68]
 
 ## For an apprenticeship
-
-## Health insurance for a student visa
-
-To apply for a [student visa](/glossary/Student%20visa), you have 2 options:
-
-- **Travel insurance + [public health insurance](/glossary/gesetzliche%20Krankenversicherung)**{{ RECOMMENDED }}  
-    The travel insurance covers you before school starts. Public health insurance covers you until you graduate. If you are under 30 years old, this is the best option. You get great coverage for a low price. [Barmer](/out/barmer) and [Techniker Krankenkasse](/out/feather-tk) are expat-friendly options.
-- **[Expat health insurance](/glossary/Expat%20health%20insurance)**  
-    If you are over 30 years old, public health insurance is more expensive. Expat health insurance is cheaper, but the coverage is limited. It covers you until you graduate. [Feather](/out/feather-students) and [Ottonova](/out/ottonova-students) sell expat health insurance. You can also [ask an expert](/guides/german-health-insurance#insurance-brokers) to help you choose. It's a free service.
-
-**[Feather](/out/feather-students)** sells valid insurance for a student visa. They offer both options, so you will get the best option for your situation. I work with them since 2018; you can trust them. 
-
-After you get insured, your insurer tells your university (the *M10 Meldung*). This is done digitally; you don't need to do anything. It takes around 3 days.[^15] You also get a *[[Mitgliedsbescheinigung]]* for your student visa application.
-
-After you arrive in Germany, your insurer needs your German address and your [[IBAN]].[^16]
 
 ## After you graduate
 
