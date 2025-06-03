@@ -89,9 +89,9 @@ If you renew a freelance visa, you usually need [public](/glossary/gesetzliche%2
 
 ## How to choose
 
-**Don't choose health insurance yourself** when you are self-employed. It's a *really* bad idea and you can make expensive mistakes. The best option depends on your citizenship, your income, your health, and your plans for the future. [Ask my health insurance expert](/guides/german-health-insurance#insurance-brokers) to help you choose. This is a free service.
+**Don't choose health insurance yourself** when you are self-employed. It's a *really* bad idea and you can make expensive mistakes. The best option depends on your citizenship, your income, your health, and your plans for the future.
 
-Don't choose health insurance yourself. It's a *really* bad idea when you are self-employed. The best option depends on your citizenship, your income, your health, and your plans for the future. [Ask an expert](/guides/german-health-insurance#insurance-brokers) to help you choose. This is really important.
+[Ask my health insurance expert](/guides/german-health-insurance#insurance-brokers) to help you choose. This is a free service.
 
 {% include '_blocks/healthInsuranceQuestionStatic.html' %}
 
@@ -101,4 +101,7 @@ You pay by bank transfer every month. Cost based on estimated income, adjusted y
 
 [^1]: Citation needed
 [^2]: [finanztip.de](https://www.finanztip.de/pkv/pkv-wechsel/#:~:text=gerade%20zu%20beginn%20deiner%20selbststandigkeit%20empfehlen%20wir%20dir%2C%20in%20der%20gkv%20zu%20bleiben) (January 2025), [Feather Insurance](https://feather-insurance.com/blog/public-vs-private-health-insurance-germany/?utm_source=allaboutberlin#:~:text=%20if%20you%E2%80%99re%20a%20high-earner) (April 2025), [Emily Archer](https://www.archer-relocation.com/) (April 2025)
-[^71]: Seamus, etc
+[^55]: [Emily Archer](https://www.archer-relocation.com/) says that the amount is not fixed, but that insurers need to see that you can cover your insurance bills (April 2025), [Seamus Wolf](/out/horizon65) (April 2025)
+[^69]: [Seamus Wolf](/out/horizon65) (April 2025)
+[^71]: [Seamus Wolf](/out/horizon65) (June 2025), [Emily Archer](https://www.archer-relocation.com/) (April 2025)
+[^79]: [Emily Archer](https://www.archer-relocation.com/) (April 2025), [Seamus Wolf](/out/horizon65) (April 2025)

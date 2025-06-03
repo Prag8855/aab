@@ -43,7 +43,7 @@ If you [lose your job](/guides/losing-your-job), you can get [free health insura
 
 **If you move from a non-[EU](/glossary/European%20Union) country**, you might need [expat health insurance](/glossary/Expat%20health%20insurance). It covers you until you [start working](/guides/find-a-job-in-berlin#start-working). When you start working, you must switch to public or private health insurance. A [health insurance broker](/guides/german-health-insurance#insurance-brokers) can arrange this for you.
 
-If you choose public health insurance, you might need [expat health insurance](/glossary/Expat%20health%20insurance) for your [[National Visa]] application.[^10] It covers you from the day you arrive in Germany to the day you [start working](/guides/find-a-job-in-berlin#start-working). After you start working, your public health insurance covers you.
+If you choose public health insurance, you might need [expat health insurance](/glossary/Expat%20health%20insurance) for your [[National Visa]] application.[^6] It covers you from the day you arrive in Germany to the day you [start working](/guides/find-a-job-in-berlin#start-working). After you start working, your public health insurance covers you.
 
 **[How to apply for a Blue Card ➞](/guides/blue-card)**
 
@@ -53,13 +53,19 @@ If you choose public health insurance, you might need [expat health insurance](/
 
 ???
 
-**If you earn over €{{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}} per year**, you can choose [public](/glossary/gesetzliche%20Krankenversicherung) or [private health insurance](/glossary/private%20Krankenversicherung).[^3] Public health insurance costs [around €{{GKV_MAX_COST_EMPLOYEE|cur}} per month](/glossary/Höchstbeitrag).[^1] Private health insurance might be cheaper.[^58]
+**If you earn over €{{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}} per year**, you can choose [public](/glossary/gesetzliche%20Krankenversicherung) or [private health insurance](/glossary/private%20Krankenversicherung).[^3] Public health insurance costs [around €{{GKV_MAX_COST_EMPLOYEE|cur}} per month](/glossary/Höchstbeitrag).[^1] Private health insurance might be cheaper.[^5]
 
 **If you earn €{{GKV_MAX_INCOME|cur}} to €{{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}} per year**, you can only choose [public health insurance](/glossary/gesetzliche%20Krankenversicherung).[^3] It costs [around €{{GKV_MAX_COST_EMPLOYEE|cur}} per month](/glossary/Höchstbeitrag).
 
 **If you earn less than €{{GKV_MAX_INCOME|cur}} per year**, you can only choose [public health insurance](/glossary/gesetzliche%20Krankenversicherung). It costs {{GKV_MIN_RATE_EMPLOYEE}}% to {{GKV_MAX_RATE_EMPLOYEE}}% of your income (including *[[Pflegeversicherung]]*).
 
-Your employer can help you get health insurance. This is a bad idea. They choose what is easy for them, not what is best for you.[^7]
+Your employer can help you get health insurance. This is a bad idea. They choose what is easy for them, not what is best for you.[^4]
 
 [^1]: Citation needed, Seamus
+[^3]: [versicherungspflichtgrenzen.de](https://www.versicherungspflichtgrenzen.de/html/pflichtversicherungsgrenzen.html)
 [^2]: [minijob-zentrale.de](https://www.minijob-zentrale.de/DE/die-minijobs/versicherungen/detailseite.html#:~:text=ist%20ein%20solidarbeitrag.%20daraus%20entsteht%20fur%20den%20minijobber) (February 2025)
+[^4]: [Seamus Wolf](/out/horizon65) (April 2025), [Emily Archer](https://www.archer-relocation.com/) (April 2025)
+[^5]: [Seamus Wolf](/out/horizon65) (April 2025), [finanztip](https://www.finanztip.de/pkv/pkv-kosten/#:~:text=fur%20junge%2C%20gesunde%20menschen%20ist%20die%20private%20krankenversicherung) (February 2025), [verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/krankenversicherung/private-krankenversicherung-nicht-fuer-jeden-sinnvoll-13884#:~:text=kann%20es%20unter%20finanziellen%20gesichtspunkten%20sinnvoll%20sein%2C%20in%20eine%20private%20krankenversicherung%20zu%20wechseln) (2024)
+[^6]: Citation needed
+[^47]: [Feather Insurance](https://feather-insurance.com/blog/is-an-ehic-card-still-valid-in-germany/#:~:text=job%20seeking%20in%20aforementioned%20states) (2023)
+[^56]: [Dr. Rob Schumacher](/out/feather) (April 2025)
