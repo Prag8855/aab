@@ -52,7 +52,7 @@ Usually, you can't get [private health insurance](/glossary/private%20Krankenver
 To apply for a [student visa](/glossary/Student%20visa), you have 2 options:
 
 - **Travel insurance + [public health insurance](/glossary/gesetzliche%20Krankenversicherung)**{{ RECOMMENDED }}  
-    The travel insurance covers you before school starts. Public health insurance covers you until you graduate. If you are under 30 years old, this is the best option. You get great coverage for a low price. [Barmer](/out/barmer) and [Techniker Krankenkasse](/out/feather-tk) are expat-friendly options.
+    The travel insurance covers you before school starts. Public health insurance covers you until you graduate. If you are under 30 years old, this is the best option. You get great coverage for a low price. [Barmer](/out/barmer) and [Techniker Krankenkasse](/out/feather-tk) are expat-friendly options. They speak English.
 - **[Expat health insurance](/glossary/Expat%20health%20insurance)**  
     If you are over 30 years old, public health insurance is more expensive. Expat health insurance is cheaper, but the coverage is limited. It covers you until you graduate. [Feather](/out/feather-students) and [Ottonova](/out/ottonova-students) sell expat health insurance. You can also [ask an expert](/guides/german-health-insurance#insurance-brokers) to help you choose. It's a free service.
 

@@ -59,7 +59,17 @@ If you choose public health insurance, you might need [expat health insurance](/
 
 **If you earn less than €{{GKV_MAX_INCOME|cur}} per year**, you can only choose [public health insurance](/glossary/gesetzliche%20Krankenversicherung). It costs {{GKV_MIN_RATE_EMPLOYEE}}% to {{GKV_MAX_RATE_EMPLOYEE}}% of your income (including *[[Pflegeversicherung]]*).
 
+## How to get insured
+
+You must choose insurance yourself.
+
+[Ask my health insurance expert](/guides/german-health-insurance#insurance-brokers) to help you choose. It's the safest option.
+
 Your employer can help you get health insurance. This is a bad idea. They choose what is easy for them, not what is best for you.[^4]
+
+If you choose public health insurance, there are dozens of options, but their price and coverage are almost the same. [Barmer](/out/barmer) and [Techniker Krankenkasse](/out/feather-tk) are expat-friendly options. They speak English.
+
+**[How to get insured ➞](/guides/german-health-insurance#how-to-get-insured)**
 
 [^1]: Citation needed, Seamus
 [^3]: [versicherungspflichtgrenzen.de](https://www.versicherungspflichtgrenzen.de/html/pflichtversicherungsgrenzen.html)

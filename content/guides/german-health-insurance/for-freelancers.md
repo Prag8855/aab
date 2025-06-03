@@ -27,8 +27,6 @@ Choose public health insurance if...
     If you earn under €30,000 per year, public health insurance is a safer, cheaper option.[^2] If you can get [free health insurance](/guides/german-health-insurance#free-health-insurance), it's the best option.
 - **You have more than 2 children**  
     Your public health insurance [covers your children and unemployed spouse for free](/guides/german-health-insurance#free-health-insurance). If you have many children, public is usually the best option.
-- **You have pre-existing health problems**  
-    Your health does not affect the cost.
 - **You are over 45 years old**  
     Your age does not affect the cost. After 45 years old, public is usually a better deal than private.
 - **You are a student under 30 years old**  
@@ -65,9 +63,9 @@ If you have a low income, it might be your only option.
 
 ### Künstlersozialkasse
 
-If you are a freelance artist, journalist, publicist or influencer, join the *[[Künstlersozialkasse]]* (KSK). They pay half of your health insurance, and half of your [public pension insurance](/glossary/gesetzliche%20Krankenversicherung). It's always worth it.
+If you are an artist, journalist, publicist or art teacher, join the *[[Künstlersozialkasse]]* (KSK). They pay half of your health insurance, and half of your [public pension insurance](/glossary/gesetzliche%20Krankenversicherung). It's always worth it.
 
-If you earn less than €{{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}} per year, you must switch to [public health insurance](/glossary/gesetzliche%20Krankenversicherung). Joining the KSK is a good way to switch from private to public health insurance.
+If you earn less than €{{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}} per year, you must switch to [public health insurance](/glossary/gesetzliche%20Krankenversicherung) after you join the KSK. It's a good way to switch from private to public.
 
 **[How to apply for the KSK ➞](/guides/ksk-kuenstlersozialkasse)**
 
@@ -87,17 +85,15 @@ If you renew a freelance visa, you usually need [public](/glossary/gesetzliche%2
 
 **[How to renew a freelance visa ➞](/guides/renew-german-freelance-visa)**
 
-## How to choose
+## How to get insured
 
-**Don't choose health insurance yourself** when you are self-employed. It's a *really* bad idea and you can make expensive mistakes. The best option depends on your citizenship, your income, your health, and your plans for the future.
+If you are self-employed, **don't choose health insurance yourself**. It's a *really* bad idea. You can make expensive mistakes. The best option depends on your citizenship, your income, your health, and your plans for the future.
 
-[Ask my health insurance expert](/guides/german-health-insurance#insurance-brokers) to help you choose. This is a free service.
+[Ask my health insurance expert](/guides/german-health-insurance#insurance-brokers) to help you find better, cheaper health insurance.
 
 {% include '_blocks/healthInsuranceQuestionStatic.html' %}
 
-## How it works
-
-You pay by bank transfer every month. Cost based on estimated income, adjusted yearly.
+**[How to get insured ➞](/guides/german-health-insurance#how-to-get-insured)**
 
 [^1]: Citation needed
 [^2]: [finanztip.de](https://www.finanztip.de/pkv/pkv-wechsel/#:~:text=gerade%20zu%20beginn%20deiner%20selbststandigkeit%20empfehlen%20wir%20dir%2C%20in%20der%20gkv%20zu%20bleiben) (January 2025), [Feather Insurance](https://feather-insurance.com/blog/public-vs-private-health-insurance-germany/?utm_source=allaboutberlin#:~:text=%20if%20you%E2%80%99re%20a%20high-earner) (April 2025), [Emily Archer](https://www.archer-relocation.com/) (April 2025)

@@ -26,8 +26,8 @@ There is also a guide for each occupation:
 - [Health insurance for **employees**](/guides/german-health-insurance/for-employees)
 - [Health insurance for **students**](/guides/german-health-insurance/for-students)
 - [Health insurance for **freelancers**](/guides/german-health-insurance/for-freelancers)
-- [Health insurance for **apprentices**](/guides/german-health-insurance/for-freelancers) (*[Azubis](/glossary/Azubi)*)
-- [Health insurance when **unemployed**](/guides/german-health-insurance/for-freelancers)
+- [Health insurance for **apprentices**](/guides/german-health-insurance/for-apprentices) (*[Azubis](/glossary/Azubi)*)
+- [Health insurance when **unemployed**](/guides/german-health-insurance/when-unemployed)
 
 ## Public health insurance
 
@@ -373,8 +373,6 @@ Once you are insured, you get...
     Give it to your employer. If you get private health insurance, you do not get a *Sozialversicherungsnummer* automatically. Your employer can also request it for you.[^80] You can also [contact the *Deutsche Rentenversicherung*](https://www.deutsche-rentenversicherung.de/DRV/DE/Beratung-und-Kontakt/Kontakt/Anschriften-Uebersicht/anschriften_uebersicht_detail.html) and ask for it.
 
 If you are a student, your health insurer will tell your school that you are insured (the *M10 Meldung*). It's done digitally; you don't need to do anything. It takes around 3 days.[^86]
-
-???It's different if you don't have public???
 
 ### 5. Pay every month
 
