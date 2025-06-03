@@ -748,17 +748,32 @@ body > header {
     }
 
     .donate{
+        position: relative;
         margin: var(--l) 0 0;
-        padding: var(--m) var(--xl);
-        border-radius: var(--b-radius);
-        background-color: var(--c-bg-error);
+        padding: var(--l) 0 0 var(--xl);;
+        border-top: var(--b-box);
 
-        display: grid;
-        gap: var(--s);
 
-        a{
+        &:before{
+            content: '';
+
+
+
             display: block;
-            text-align: right;
+            position: absolute;
+            left: 0;
+            width: 0.8em;
+            height: calc(1em * var(--line-height-text));
+            mask-image: var(--i-heart);
+            mask-position: center;
+            mask-repeat: no-repeat;
+            background-color: var(--c-highlight);
+            transition: transform 0.2s;
+        }
+        @media (hover: hover) {
+            &:hover:before{
+                animation: 0.6s pulse infinite;
+            }
         }
     }
 }
