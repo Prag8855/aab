@@ -39,6 +39,8 @@ You can't choose public health insurance if...
 - **You currently have private health insurance**  
     It's really hard to switch to public health insurance. You can switch by joining the *[[Künstlersozialkasse]]*.
 
+**[Learn more about public health insurance ➞](/guides/german-health-insurance#public-health-insurance)**
+
 ### Private health insurance
 
 The cost of [private health insurance](#private-health-insurance) is based on your age and your health when you sign up, and the level of coverage you choose.[^79] Private health insurance lets you choose better coverage or a lower price. It can be better *and* cheaper than public health insurance.
@@ -55,11 +57,15 @@ You can't choose private health insurance if...
 - **Your earn less than €30,000 per year**  
     Private health insurers usually reject freelancers with a low or unstable income.[^55] You might need more proofs of income to show that you can pay for your insurance every month.
 
+**[Learn more about private health insurance ➞](/guides/german-health-insurance#private-health-insurance)**
+
 ### Expat health insurance
 
 [Expat health insurance](#expat-health-insurance) is the cheapest option. This is supposed to be temporary health insurance. You can use it to apply for a [freelance visa](/glossary/Freelance%20visa). Staying on expat insurance is a really bad idea. Switch to public or private health insurance as soon as you can.
 
 If you have a low income, it might be your only option.
+
+**[Learn more about expat health insurance ➞](/guides/german-health-insurance#expat-health-insurance)**
 
 ### Künstlersozialkasse
 
@@ -87,7 +93,7 @@ If you renew a freelance visa, you usually need [public](/glossary/gesetzliche%2
 
 ## How to get insured
 
-If you are self-employed, **don't choose health insurance yourself**. It's a *really* bad idea. You can make expensive mistakes. The best option depends on your citizenship, your income, your health, and your plans for the future.
+If you are self-employed, **never choose health insurance yourself**. It's a complicated decision, and you can make expensive mistakes. The best option depends on your citizenship, your income, your health, and your plans for the future.
 
 [Ask my health insurance expert](/guides/german-health-insurance#insurance-brokers) to help you find better, cheaper health insurance.
 

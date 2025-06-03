@@ -29,23 +29,25 @@ If you are over 30 years old, public health insurance costs at least ??? per mon
 
 **If you are under 30 years old**, you pay the student tariff. [Public health insurance](/glossary/gesetzliche%20Krankenversicherung) is usually the best option.[^59] It costs around €{{GKV_COST_STUDENT|cur}} per month.
 
-If you just moved from a non-EU country, and you are over 30 years old, you can't get public health insurance.
+**[Learn more about public health insurance ➞](/guides/german-health-insurance#public-health-insurance)**
 
 ### Expat health insurance
 
 Foreign students can get [expat health insurance](/glossary/Expat%20health%20insurance). If you are under 30 years old, it's rarely worth it.[^88]
 
-If you decide to not choose public, you are stuck with your decision until the end of your studies.
+If you choose expat health insurance, you are stuck with your decision until you graduate.[^3]
 
-You also need to talk to a public health insurance that will do the M10 Meldung for you.
+**[Learn more about expat health insurance ➞](/guides/german-health-insurance#expat-health-insurance)**
 
 ### EHIC
 
-**If you are a [EU](/glossary/European%20Union) student**, you can also use [health insurance from your home country](/guides/german-health-insurance#insurance-from-other-eu-countries).[^39] You might not need German health insurance.
+**If you are a [EU](/glossary/European%20Union) student**, you can use health insurance from your home country.[^39] You might not need German health insurance.
+
+**[Learn more about EHIC ➞](/guides/german-health-insurance#insurance-from-other-eu-countries)**
 
 ### Private health insurance
 
-Usually, you can't get [private health insurance](/glossary/private%20Krankenversicherung) because your income is too low.[^90] It's rarely the best option anyway.
+Usually, you can't get [private health insurance](/glossary/private%20Krankenversicherung) because your income is too low.[^90] It's rarely the best option for students.
 
 ## Health insurance for a student visa
 
@@ -60,7 +62,7 @@ To apply for a [student visa](/glossary/Student%20visa), you have 2 options:
 
 After you get insured, your insurer tells your university (the *M10 Meldung*). This is done digitally; you don't need to do anything. It takes around 3 days.[^1] You also get a *[[Mitgliedsbescheinigung]]* for your student visa application.
 
-After you arrive in Germany, your insurer needs your German address and your [[IBAN]].
+**[How to get insured ➞](/guides/german-health-insurance#how-to-get-insured)**
 
 ## For an internship
 
@@ -99,6 +101,8 @@ If it's a **voluntary internship**, it's treated like a normal job. You have the
 [Ask an expert](/guides/german-health-insurance#insurance-brokers) to help you choose. They help you find the cheapest health insurance. They also give you a proof of insurance for your school and your visa application. This is a free service.
 
 [^1]: [Feather Insurance](https://faq.feather-insurance.com/en/articles/70045-public-health-insurance-signup-for-students?utm_source=allaboutberlin#:~:text=above%2C%20allow%20for%20university%20enrolment%20(your%20chosen%20insurance%20provider%20will%20send%20an%20M10%20Meldung%20to%20your%20uni-,within%203%20working%20days,-%2C%20confirming%20your%20insurance%20status).%20So%20there%20is%20no%20need%20for%20insurance%20number%20at%20this%20point%2C%20and%20your) (May 2025), [Uni Frankfurt](https://www.uni-frankfurt.de/120841082/Krankenversicherung_f%C3%BCr_internationale_Studierende#:~:text=NEU%3A%20Die%20digitale-,versicherungsmeldung,-Keine%20Einschreibung%20ohne) (May 2025)
+[^2]: [Seamus Wolf](/out/horizon65) (June 2025)
+[^3]: Citation needed, [Seamus Wolf](/out/horizon65) (June 2025)
 [^5]: [Seamus Wolf](/out/horizon65) (April 2025), [finanztip](https://www.finanztip.de/pkv/pkv-kosten/#:~:text=fur%20junge%2C%20gesunde%20menschen%20ist%20die%20private%20krankenversicherung) (February 2025), [verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/krankenversicherung/private-krankenversicherung-nicht-fuer-jeden-sinnvoll-13884#:~:text=kann%20es%20unter%20finanziellen%20gesichtspunkten%20sinnvoll%20sein%2C%20in%20eine%20private%20krankenversicherung%20zu%20wechseln) (2024)
 [^25]: [tk.de](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-nicht-tk-versicherte/wie-hoch-sind-die-beitraege/freiwillige-mitglieder/haeufige-fragen-zu-beitraegen-fuer-freiwillig-versicherte/beitragshoehe-absolvent-freiwilliger-student-2006956#:~:text=nach%20dem%2030.%20geburtstag), [krankenkassen.de](https://www.krankenkassen.de/meine-krankenkasse/student/freiwillig/#:~:text=mit%20dem%20ende%20des%20semesters%2C%20in%20das%20der%2030.%20geburtstag%20fallt)
 [^39]: [Feather Insurance](https://faq.feather-insurance.com/en/articles/29608-what-is-ehic-european-health-insurance-card#:~:text=coverage%20throughout%20the%20whole%20duration%20of%20studies) (2023), [Feather Insurance](https://faq.feather-insurance.com/en/articles/28609-i-am-about-to-enrol-into-a-german-university-what-insurance-options-do-i-have#:~:text=if%20you%20are%20statutorily%20insured%20in%20one%20of%20the%20aforementioned%20countries%2C%20you%20can%20stay%20on%20your%20home%20insurance%20for%20the%20whole%20duration%20of%20your%20studies%20regardless%20of%20your%20age.) (May 2025), [krankenkassen.de](https://www.krankenkassen.de/incoming/student/ehic/) (May 2025)

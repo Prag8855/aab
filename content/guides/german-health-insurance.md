@@ -349,7 +349,7 @@ If you choose the wrong health insurance, your [residence permit](/glossary/Aufe
 
 {% include '_blocks/healthInsuranceQuestion.html' %}
 
-If you are self-employed, *never* choose health insurance yourself. It's a really complicated choice, and you can make expensive mistakes.
+If you are self-employed, never choose health insurance yourself. It's a complicated decision, and you can make expensive mistakes.
 
 ### 3. Apply for health insurance
 
