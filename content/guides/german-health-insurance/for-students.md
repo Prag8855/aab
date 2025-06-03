@@ -83,14 +83,15 @@ If it's a **voluntary internship**, it's treated like a normal job. You have the
 
 ## After you graduate
 
+If you start working, you must usually get public health insurance. If you make more than €{{|cur}} per year, you can also get private health insurance.
+
+**[Health insurance for employees ➞](/guides/german-health-insurance/for-employees)**
+
+If you have private health insurance as a student, [finding a job](/guides/find-a-job-in-berlin) is a good way to switch to public health insurance. If you are unemployed or self-employed, you might be stuck with private health insurance.
+
 - Usually, your job forces you onto the public system
     - Not applicable to unemployed or self-employed people, among others
 
-
-
-
-
-**If you are over 30 years old**, you can't get the student tariff. [Public health insurance](/glossary/gesetzliche%20Krankenversicherung) costs around [€{{GKV_MIN_COST_SELF_PAY|cur}} per month](/glossary/Mindestbeitrag).[^25] [Private health insurance](/glossary/private%20Krankenversicherung) might be cheaper for you; they usually have a cheaper tariff for students.[^87] You can't get [free health insurance](#free-health-insurance). If you work, you are treated [like a normal employee](/guides/german-health-insurance/for-employees); public health insurance costs a percentage of your income.
 
 **If you are a non-EU student**, you can get [public health insurance](/glossary/gesetzliche%20Krankenversicherung) or [expat health insurance](/glossary/Expat%20health%20insurance). If you are under 30 years old, [public health insurance](/glossary/gesetzliche%20Krankenversicherung) is usually the best option. If you are over 30 years old [expat health insurance](/glossary/Expat%20health%20insurance) might make more sense.[^91] [Feather](/out/feather-students) is one of the easiest way to get insured.
 
