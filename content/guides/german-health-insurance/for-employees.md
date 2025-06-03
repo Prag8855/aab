@@ -29,7 +29,7 @@ Never choose private health insurance yourself; always [ask an expert](/guides/g
 
 ## For a minijob
 
-**If you have a [minijob](/glossary/Minijob)**, you can choose [public](/glossary/gesetzliche%20Krankenversicherung) or [private health insurance](/glossary/private%20Krankenversicherung). Public is usually the best option.[^56] You can get [free health insurance](/guides/german-health-insurance#free-health-insurance). Otherwise, you pay the [minimum amount](/glossary/Mindestbeitrag): around €{{GKV_MIN_COST_SELF_PAY|cur}} per month. Your employer does not help you pay for health insurance.[^36]
+**If you have a [minijob](/glossary/Minijob)**, you can choose [public](/glossary/gesetzliche%20Krankenversicherung) or [private health insurance](/glossary/private%20Krankenversicherung). Public is usually the best option.[^56] You can get [free health insurance](/guides/german-health-insurance#free-health-insurance). Otherwise, you pay the [minimum amount](/glossary/Mindestbeitrag): around €{{GKV_MIN_COST_SELF_PAY|cur}} per month. Your employer does not help you pay for health insurance.[^2]
 
 ## If you lose your job
 
@@ -61,4 +61,5 @@ If you choose public health insurance, you might need [expat health insurance](/
 
 Your employer can help you get health insurance. This is a bad idea. They choose what is easy for them, not what is best for you.[^7]
 
-[^1]: Seamus
+[^1]: Citation needed, Seamus
+[^2]: [minijob-zentrale.de](https://www.minijob-zentrale.de/DE/die-minijobs/versicherungen/detailseite.html#:~:text=ist%20ein%20solidarbeitrag.%20daraus%20entsteht%20fur%20den%20minijobber) (February 2025)

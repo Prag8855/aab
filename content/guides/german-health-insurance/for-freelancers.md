@@ -24,7 +24,7 @@ Use my [health insurance picker](/tools/health-insurance-calculator) to see your
 Choose public health insurance if...
 
 - **You have a low or unstable income**  
-    If you earn under €30,000 per year, public health insurance is a safer, cheaper option.[^27] If you can get [free health insurance](/guides/german-health-insurance#free-health-insurance), it's the best option.
+    If you earn under €30,000 per year, public health insurance is a safer, cheaper option.[^2] If you can get [free health insurance](/guides/german-health-insurance#free-health-insurance), it's the best option.
 - **You have more than 2 children**  
     Your public health insurance [covers your children and unemployed spouse for free](/guides/german-health-insurance#free-health-insurance). If you have many children, public is usually the best option.
 - **You have pre-existing health problems**  
@@ -100,4 +100,5 @@ Don't choose health insurance yourself. It's a *really* bad idea when you are se
 You pay by bank transfer every month. Cost based on estimated income, adjusted yearly.
 
 [^1]: Citation needed
+[^2]: [finanztip.de](https://www.finanztip.de/pkv/pkv-wechsel/#:~:text=gerade%20zu%20beginn%20deiner%20selbststandigkeit%20empfehlen%20wir%20dir%2C%20in%20der%20gkv%20zu%20bleiben) (January 2025), [Feather Insurance](https://feather-insurance.com/blog/public-vs-private-health-insurance-germany/?utm_source=allaboutberlin#:~:text=%20if%20you%E2%80%99re%20a%20high-earner) (April 2025), [Emily Archer](https://www.archer-relocation.com/) (April 2025)
 [^71]: Seamus, etc
