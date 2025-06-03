@@ -23,21 +23,21 @@ If you need a visa to enter Germany, you need [expat health insurance](/glossary
 
 ### Private health insurance
 
-If your earn more than €{{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}} per year, you can choose private health insurance. It can be better and cheaper than public health insurance.
+If your earn more than €{{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}} per year, you can choose private health insurance. It's sometimes better and cheaper than public health insurance.
 
 Never choose private health insurance yourself; always [ask an expert](/guides/german-health-insurance#insurance-brokers).
 
 ## For a minijob
 
-**If you have a [minijob](/glossary/Minijob)**, you can choose [public](/glossary/gesetzliche%20Krankenversicherung) or [private health insurance](/glossary/private%20Krankenversicherung). Public is usually the best option.[^56] You can get [free health insurance](#free-health-insurance). Otherwise, you pay the [minimum amount](/glossary/Mindestbeitrag): around €{{GKV_MIN_COST_SELF_PAY|cur}} per month. Your employer does not help you pay for health insurance.[^36]
+**If you have a [minijob](/glossary/Minijob)**, you can choose [public](/glossary/gesetzliche%20Krankenversicherung) or [private health insurance](/glossary/private%20Krankenversicherung). Public is usually the best option.[^56] You can get [free health insurance](/guides/german-health-insurance#free-health-insurance). Otherwise, you pay the [minimum amount](/glossary/Mindestbeitrag): around €{{GKV_MIN_COST_SELF_PAY|cur}} per month. Your employer does not help you pay for health insurance.[^36]
 
 ## If you lose your job
 
 If you [lose your job](/guides/losing-your-job), you can get [free health insurance](/guides/german-health-insurance#free-health-insurance). Otherwise, you pay the [minimum amount](/glossary/Mindestbeitrag): around €{{GKV_MIN_COST_SELF_PAY|cur}} per month.
 
-**[Health insurance when unemployed ➞](/guides/german-health-insurance#health-insurance-when-unemployed)**
+**[Health insurance when unemployed ➞](/guides/german-health-insurance/when-unemployed)**
 
-## Health insurance for a Blue Card or work visa
+## For a Blue Card or work visa
 
 **If you move from another [EU](/glossary/European%20Union) country**, your [health insurance from your home country](/guides/german-health-insurance#insurance-from-other-eu-countries) usually covers you until you [start working](/guides/find-a-job-in-berlin#start-working).[^47] It might be cheaper than German health insurance.
 
@@ -49,7 +49,9 @@ If you choose public health insurance, you might need [expat health insurance](/
 
 **[How to apply for a work visa ➞](/guides/work-visa)**
 
-## Health insurance for a work visa
+## For an opportunity card
+
+???
 
 **If you earn over €{{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}} per year**, you can choose [public](/glossary/gesetzliche%20Krankenversicherung) or [private health insurance](/glossary/private%20Krankenversicherung).[^3] Public health insurance costs [around €{{GKV_MAX_COST_EMPLOYEE|cur}} per month](/glossary/Höchstbeitrag).[^1] Private health insurance might be cheaper.[^58]
 
