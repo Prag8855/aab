@@ -61,9 +61,9 @@ You can't choose private health insurance if...
 
 ### Expat health insurance
 
-[Expat health insurance](#expat-health-insurance) is the cheapest option. This is supposed to be temporary health insurance. You can use it to apply for a [freelance visa](/glossary/Freelance%20visa). Staying on expat insurance is a really bad idea. Switch to public or private health insurance as soon as you can.
+Expat health insurance is the cheapest option. If you have a low income, it might be your only option. You can use it to apply for a [freelance visa](/glossary/Freelance%20visa), or as temporary insurance when you apply for the *[[Künstlersozialkasse]]*.
 
-If you have a low income, it might be your only option.
+This is supposed to be temporary health insurance. It's usually valid for up to 5 years. Staying on expat insurance is a really bad idea. In the long term, it gets very expensive. Switch to public or private health insurance as soon as you can.
 
 **[Learn more about expat health insurance ➞](/guides/german-health-insurance#expat-health-insurance)**
 
@@ -72,6 +72,8 @@ If you have a low income, it might be your only option.
 If you are an artist, journalist, publicist or art teacher, join the *[[Künstlersozialkasse]]* (KSK). They pay half of your health insurance, and half of your [public pension insurance](/glossary/gesetzliche%20Krankenversicherung). It's always worth it.
 
 If you earn less than €{{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}} per year, you must switch to [public health insurance](/glossary/gesetzliche%20Krankenversicherung) after you join the KSK. It's a good way to switch from private to public.
+
+Joining the KSK takes a few months. While you wait, you can get public, private or expat health insurance.
 
 **[How to apply for the KSK ➞](/guides/ksk-kuenstlersozialkasse)**
 
