@@ -394,13 +394,13 @@ I got my liability insurance from [Feather](/out/feather-haftpflicht). If you [a
 
 ### Get travel health insurance
 
-Travel health insurance covers medical emergencies when you visit other countries. It usually costs around €40 per year.[^78]
+Travel health insurance covers medical emergencies when you travel outside of Germany. It costs around €25 to €40 per year.[^78]{{ fail_on('2026-03-01') }}
 
-Your [private health insurance](/glossary/private%20Krankenversicherung) usually includes travel insurance, but you should get separate travel insurance anyway. If you see a doctor abroad, there is no [deductible](/glossary/Selbstbeteiligung), and you don't lose your no-claims bonus.[^20]
+[Private health insurance](/glossary/private%20Krankenversicherung) usually includes travel insurance, but you should get separate travel insurance anyway. If you see a doctor abroad, there is no [deductible](/glossary/Selbstbeteiligung), and you don't lose your no-claims bonus.[^20]
 
-Public health insurance rarely includes travel insurance.
+[Public health insurance](/glossary/gesetzliche%20Krankenversicherung) rarely includes travel insurance.
 
-You can get travel insurance from [Feather](/out/feather-travel), [Envivas](https://www.envivas.de/en/insurance/travelling-abroad) or [Allianz](https://www.allianzdirect.de/reiseversicherung/). I have used Allianz and Envivas, and they worked when I needed them. Envivas paid for helicopter transport and a hospital stay when my friend got sick in the mountains. Some banks like [N26](/out/n26-metal) include travel insurance with their premium account.
+You can get travel insurance from [Feather](/out/feather-travel), [Envivas](https://www.envivas.de/en/insurance/travelling-abroad) or [Allianz](https://www.allianzdirect.de/reiseversicherung/). Some banks like [N26](/out/n26-metal) include travel insurance with their premium account.
 
 ### Other kinds of insurance
 
