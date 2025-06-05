@@ -73,7 +73,7 @@ Your **electricity and gas** contracts move with you. They must offer the same s
 
 You can **cancel your phone, internet and electricity contracts** with a 1 month notice.[^18] You can do it on the company's website or in writing. Use [aboalarm](https://www.aboalarm.de/) to write the [cancellation letter](/glossary/Kündigungsschreiben).
 
-To **stop paying the [TV tax]**, [deregister on the Rundfunkbeitrag website](https://www.rundfunkbeitrag.de/buergerinnen_und_buerger/formulare/abmelden/index_ger.html). You can also [pay someone to do it for you](/out/deregistrationde-gez).
+To **stop paying the [TV tax](/glossary/Rundfunkbeitrag)**, [deregister on the Rundfunkbeitrag website](https://www.rundfunkbeitrag.de/buergerinnen_und_buerger/formulare/abmelden/index_ger.html). You can also [pay someone to do it for you](/out/deregistrationde-gez).
 
 To **stop paying the [dog tax](/glossary/Hundesteuer)** after you leave Berlin, [deregister your dog](https://service.berlin.de/dienstleistung/324161/).
 
