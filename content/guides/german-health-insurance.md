@@ -276,7 +276,7 @@ Do not choose your insurance yourself. There is no benefit. [Ask an expert](#ins
 - **You have pre-existing health problems**  
     Private health insurers might charge more or refuse to cover you. Even getting psychotherapy can disqualify you. Public health insurance is usually forced to accept you.
 
-Public health insurance is **the safest option**, because you can always choose private health insurance later.[^82]
+Public health insurance is **the safest option**, because you can choose private health insurance later.[^82]
 
 ### Choose private health insurance if...
 
@@ -297,12 +297,16 @@ Private health insurance is **a risky decision**. If you are not happy, it's rea
 
 ### Choose expat health insurance if...
 
-- **You apply for an [opportunity card](/glossary/Chancenkarte)**  
-    Expat health insurance is perfect for this. When you [find a job](/guides/find-a-job-in-berlin), switch to public or private health insurance.
+- **You are a foreign student over 30 years old**  
+    If you come from a non-[EU](/glossary/European%20Union) country, it's often the only option.
+- **You need temporary insurance coverage**  
+    Expat health insurance covers you until your public health insurance starts working. You might need it to apply for a German visa.
 - **You have no other choice**  
     If you are self-employed and you have pre-existing health problems, it might be your only option. Expat health insurance is usually the cheapest option. It's a bad long-term solution, but it might be the only insurance you can afford.
+- **You apply for an [opportunity card](/glossary/Chancenkarte)**  
+    Expat health insurance is perfect for this. When you [find a job](/guides/find-a-job-in-berlin), switch to public or private health insurance.
 
-Expat health insurance is **rarely the best option**. It's often a bad idea. Always [ask an expert](#insurance-brokers) if it makes sense for you.
+Expat health insurance is **rarely the best option**. Always [ask an expert](#insurance-brokers) if it makes sense for you.
 
 German embassies and consulates sometimes accept expat health insurance when you apply for a visa.[^33] Get public or private health insurance if you can.
 
