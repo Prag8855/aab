@@ -243,7 +243,7 @@ Travel health insurance covers medical emergencies when you visit another countr
 - **If you move to Germany**, travel health insurance is not valid. You must get public, private or expat health insurance.
 - **If you live in Germany**, travel health insurance covers medical emergencies when you when you travel to other countries. It costs around €40 per year.[^78] If you have [private health insurance](/glossary/private%20Krankenversicherung), it usually includes travel insurance.
 
-**[Get travel health insurance ➞](#get-travel-health-insurance)**
+You can get travel insurance from [Feather](/out/feather-travel), [Envivas](https://www.envivas.de/en/insurance/travelling-abroad) or [Allianz](https://www.allianzdirect.de/reiseversicherung/). Your [private health insurance](/glossary/private%20Krankenversicherung) might include travel insurance. Some banks accounts like [N26 Metal](/out/n26-metal) include travel insurance.
 
 ### Insurance from other EU countries
 
@@ -380,37 +380,14 @@ If you have public health insurance, you pay out of your paycheck every month. I
 
 ## What to do next
 
-### Tell your employer
-
-When you change your health insurance, you must tell your employer.[^84] You can do this by email.
-
-### Get liability insurance
-
-You should also get [liability insurance](/glossary/Haftpflichtversicherung). It's the second most important insurance to have. Most Germans have it. There are [many types of insurance](/guides/insurance), but health and liability insurance are the most important.
-
-I got my liability insurance from [Feather](/out/feather-haftpflicht). If you [ask a broker](#insurance-brokers) to help you choose health insurance, they can also help you find liability insurance.
-
-**[How to choose liability insurance ➞](/guides/haftpflichtversicherung)**
-
-### Get travel health insurance
-
-Travel health insurance covers medical emergencies when you travel outside of Germany. It costs around €25 to €40 per year.[^78]{{ fail_on('2026-03-01') }}
-
-[Private health insurance](/glossary/private%20Krankenversicherung) usually includes travel insurance, but you should get separate travel insurance anyway. If you see a doctor abroad, there is no [deductible](/glossary/Selbstbeteiligung), and you don't lose your no-claims bonus.[^20]
-
-[Public health insurance](/glossary/gesetzliche%20Krankenversicherung) rarely includes travel insurance.
-
-You can get travel insurance from [Feather](/out/feather-travel), [Envivas](https://www.envivas.de/en/insurance/travelling-abroad) or [Allianz](https://www.allianzdirect.de/reiseversicherung/). Some banks like [N26](/out/n26-metal) include travel insurance with their premium account.
-
-### Other kinds of insurance
-
-Read about the other [types of insurance in Germany](/guides/insurance). The next most important insurances to have are [legal insurance](/glossary/Rechtsschutzversicherung) and [disability insurance](/glossary/Berufsunfähigkeitsversicherung).
-
-**[Types of insurance in Germany ➞](/guides/insurance)**
-
-### Become an organ donor
-
-If you are new in Germany, [register as an organ donor](/guides/organ-donor). It's really easy, and it can save another person's life.
+- [ ] **Tell your employer**  
+    When you change your health insurance, tell your employer.[^84] Tell the human resources department.
+- [ ] **[Get liability insurance](/guides/haftpflichtversicherung)**  
+    [Liability insurance](/glossary/Haftpflichtversicherung) is the second most important insurance. Most Germans have it. I got mine from [Feather](/out/feather-haftpflicht).
+- [ ] **Get travel insurance**  
+    It covers you when you travel outside of Germany. It costs around €25 to €40 per year.[^78]{{ fail_on('2026-03-01') }} You can get travel insurance from [Feather](/out/feather-travel), [Envivas](https://www.envivas.de/en/insurance/travelling-abroad) or [Allianz](https://www.allianzdirect.de/reiseversicherung/). Your [private health insurance](/glossary/private%20Krankenversicherung) might include travel insurance. Some banks accounts like [N26 Metal](/out/n26-metal) include travel insurance.
+- [ ] **[Become an organ donor](/guides/organ-donor)**  
+    It's really easy. It can save another person's life.
 
 [^2]: [gesundheitsinformation.de](https://www.gesundheitsinformation.de/krankenversicherung-in-deutschland.html), [gkv-spitzenverband.de](https://www.gkv-spitzenverband.de/english/statutory_health_insurance/statutory_health_insurance.jsp), [verwaltung.bund.de](https://verwaltung.bund.de/leistungsverzeichnis/en/rechte-und-pflichten/102837937) (April 2025)
 [^3]: [versicherungspflichtgrenzen.de](https://www.versicherungspflichtgrenzen.de/html/pflichtversicherungsgrenzen.html)
