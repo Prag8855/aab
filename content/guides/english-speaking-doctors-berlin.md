@@ -4,7 +4,6 @@ short_title: English-speaking GPs
 Description: These doctors serve their patients in English in Berlin.
 Date_created: 2018-03-01
 Related_places:
-    places/dorothee-michel.md
     places/herr-dr-med-anton-kugler.md
     places/dr-ilker-a-aydin.md
     places/dr-michael-latzke.md
@@ -32,6 +31,7 @@ Related_places:
     places/dr-med-katharina-schieke.md
     places/herr-dr-med-jurgen-putz.md
     places/katrin-ludwig.md
+    places/dr-med-julia-ertl.md
 ---
 
 This is how you can find an English-speaking doctor or GP.
