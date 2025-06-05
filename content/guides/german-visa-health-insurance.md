@@ -77,7 +77,7 @@ Don't choose health insurance yourself. You can make expensive mistakes. Choosin
 
 ### Travel insurance options
 
-[HanseMerkur](/out/hansemerkur-students) and [Care Concept](/out/care-concept) sell valid travel insurance. 
+[HanseMerkur](/out/hansemerkur-students) and [Care Concept](/out/care-concept) sell valid travel insurance for a [[Schengen visa]] application.
 
 ### Expat health insurance options
 
