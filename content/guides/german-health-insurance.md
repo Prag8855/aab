@@ -21,7 +21,7 @@ Use my [health insurance picker](/tools/health-insurance-calculator) to see your
 
 {% include '_blocks/healthInsuranceCalculatorStatic.html' %}
 
-There is also a guide for each occupation:
+There is a guide for each occupation:
 
 - [Health insurance for **employees**](/guides/german-health-insurance/for-employees)
 - [Health insurance for **students**](/guides/german-health-insurance/for-students)
@@ -259,9 +259,9 @@ If you start working in Germany, your EHIC stops working, and you must get Germa
 
 **[More information about EHIC ➞](https://www.health-insurance.de/student/eu-eea/)**
 
-## How to choose
+## Public or private insurance?
 
-There is no reason to choose your insurance yourself. [Ask an expert](#insurance-brokers) to help you choose.
+Do not choose your insurance yourself. There is no benefit. [Ask an expert](#insurance-brokers) to help you choose.
 
 ### Choose public health insurance if...
 
@@ -382,11 +382,11 @@ If you have public health insurance, you pay out of your paycheck every month. I
 
 - [ ] **Tell your employer**  
     When you change your health insurance, tell your employer.[^84] Tell the human resources department.
-- [ ] **[Get liability insurance](/guides/haftpflichtversicherung)**  
+- [ ] **[Get liability insurance](/guides/haftpflichtversicherung)**{{ RECOMMENDED }}  
     [Liability insurance](/glossary/Haftpflichtversicherung) is the second most important insurance. Most Germans have it. I got mine from [Feather](/out/feather-haftpflicht).
 - [ ] **Get travel insurance**  
     It covers you when you travel outside of Germany. It costs around €25 to €40 per year.[^78]{{ fail_on('2026-03-01') }} You can get travel insurance from [Feather](/out/feather-travel), [Envivas](https://www.envivas.de/en/insurance/travelling-abroad) or [Allianz](https://www.allianzdirect.de/reiseversicherung/). Your [private health insurance](/glossary/private%20Krankenversicherung) might include travel insurance. Some banks accounts like [N26 Metal](/out/n26-metal) include travel insurance.
-- [ ] **[Become an organ donor](/guides/organ-donor)**  
+- [ ] **[Become an organ donor](/guides/organ-donor)**{{ RECOMMENDED }}  
     It's really easy. It can save another person's life.
 
 [^2]: [gesundheitsinformation.de](https://www.gesundheitsinformation.de/krankenversicherung-in-deutschland.html), [gkv-spitzenverband.de](https://www.gkv-spitzenverband.de/english/statutory_health_insurance/statutory_health_insurance.jsp), [verwaltung.bund.de](https://verwaltung.bund.de/leistungsverzeichnis/en/rechte-und-pflichten/102837937) (April 2025)
@@ -404,7 +404,6 @@ If you have public health insurance, you pay out of your paycheck every month. I
 [^17]: [blog.feather-insurance.com](https://feather-insurance.com/blog/how-are-private-health-insurance-payments-different-from-public-health-insurance/?utm_source=allaboutberlin)
 [^18]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/c2j339/is_pkv_still_a_terrible_idea_if_i_likely_wont/ermsqt7/)
 [^19]: [Feather Insurance](https://feather-insurance.com/blog/public-vs-private-health-insurance-germany/?utm_source=allaboutberlin#:~:text=for%20high%20earners%2C%20private%20insurance%20can%20be%20cheaper) (April 2025)
-[^20]: [Seamus Wolf](/out/horizon65) (April 2025), [Mona Anbari](https://versicherungsbuero-weiss.com/) (April 2025)
 [^21]: [Emily Archer](https://www.archer-relocation.com/) (April 2025), multiple relocation consultants (2025)
 [^22]: [care-concept.de](https://www.care-concept.de/expatriates_eng.php?navilang=eng#:~:text=up%20to%20a%20maximum%20of%205%20years) (April 2025), [mawista.com](https://www.mawista.com/en/tariffs/health-insurance-expatcare/) (April 2025), [Feather Insurance](https://feather-insurance.com/health-insurance/expat?utm_source=allaboutberlin#:~:text=maximum%20length%20of%20policy) (April 2025)
 [^23]: [health-insurance.de](https://www.health-insurance.de/living/eu-citizen/#:~:text=ehic%20is%20limited%20to%20emergencies) (April 2025), [ec.europa.eu](https://employment-social-affairs.ec.europa.eu/policies-and-activities/moving-working-europe/eu-social-security-coordination/frequently-asked-questions/faq-social-security-european-health-insurance-card_en#:~:text=taking%20account%20of%20the%20duration%20of%20their%20stay) (April 2025)
