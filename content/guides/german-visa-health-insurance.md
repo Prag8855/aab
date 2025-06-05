@@ -31,18 +31,16 @@ To apply for a [[National Visa]] at the German embassy or consulate, you need [e
 
 When you arrive in Germany, you must usually switch to [public](/glossary/gesetzliche%20Krankenversicherung) or [private](/glossary/private%20Krankenversicherung) health insurance. You must switch before you convert your National Visa to a [residence permit](/glossary/Aufenthaltstitel).
 
-To find the right health insurance, use my [health insurance picker](/tools/health-insurance-calculator), or [ask an expert](/guides/german-health-insurance#insurance-brokers) to help you.
+Use my [health insurance picker](/tools/health-insurance-calculator), or [ask an expert](/guides/german-health-insurance#insurance-brokers) to help you.
 
 {% include '_blocks/healthInsuranceCalculatorStatic.html' %}
 
 The requirements depend on the visa you apply for:
 
-???Fix URLs???
-
-- [Health insurance for a **Blue Card**](/guides/german-health-insurance/for-employees)
-- [Health insurance for a **work visa**](/guides/german-health-insurance/for-employees)
-- [Health insurance for a **student visa**](/guides/german-health-insurance/for-students)
-- [Health insurance for a **freelance visa**](/guides/german-health-insurance/for-freelancers)
+- [Health insurance for a **Blue Card**](/guides/german-health-insurance/for-employees#for-a-blue-card-or-work-visa)
+- [Health insurance for a **work visa**](/guides/german-health-insurance/for-employees#for-a-blue-card-or-work-visa)
+- [Health insurance for a **student visa**](/guides/german-health-insurance/for-students#insurance-for-a-student-visa)
+- [Health insurance for a **freelance visa**](/guides/german-health-insurance/for-freelancers#insurance-for-a-freelance-visa)
 - [Health insurance for a **Working Holiday Visa**](/guides/german-health-insurance/for-employees#for-a-working-holiday-visa)
 - [Health insurance for a **Youth Mobility Visa**](/guides/german-health-insurance/for-employees#for-a-youth-mobility-visa)
 - [Health insurance for an **opportunity card**](/guides/german-health-insurance/for-employees#for-an-opportunity-card)

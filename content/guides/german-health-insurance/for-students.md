@@ -53,7 +53,7 @@ If you choose expat health insurance, you are stuck with your decision until you
 
 Usually, you can't get [private health insurance](/glossary/private%20Krankenversicherung) because your income is too low.[^90] It's rarely the best option for students.
 
-## Health insurance for a student visa
+## Insurance for a student visa
 
 To apply for a [student visa](/glossary/Student%20visa), you have 2 options:
 
