@@ -69,7 +69,9 @@ See the [requirements for a Working Holiday Visa ➞](#for-a-working-holiday-vis
 
 ## If you lose your job
 
-If you [lose your job](/guides/losing-your-job), you can get [free health insurance](/guides/german-health-insurance#free-health-insurance). Otherwise, you pay the [minimum amount](/glossary/Mindestbeitrag): around €{{GKV_MIN_COST_SELF_PAY|cur}} per month.
+If you [lose your job](/guides/losing-your-job), you keep your health insurance. The coverage does not change.
+
+If you have public health insurance, the price can change. You might get free health insurance. Otherwise, you pay the [minimum amount](/glossary/Mindestbeitrag): around €{{GKV_MIN_COST_SELF_PAY|cur}} per month.
 
 **[Health insurance when unemployed ➞](/guides/german-health-insurance/when-unemployed)**
 
