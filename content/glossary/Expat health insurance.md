@@ -1,6 +1,6 @@
 ---
 Title: What is German expat insurance?
-German_term: Auslandskrankenversicherung
+German_term: Gästeversicherung
 English_term: Expat health insurance
 Description: A type of short-term health insurance that is useful when applying for a German residence permit.
 Date_created: 2020-02-21
