@@ -55,7 +55,7 @@ When you [start working](/guides/find-a-job-in-berlin#start-working), you must s
 
 ### For a Working Holiday Visa
 
-To apply for a [[Working Holiday Visa]], you need [public](/glossary/gesetzliche%20Krankenversicherung), [private](/glossary/private%20Krankenversicherung), travel or [expat health insurance](/glossary/Expat%20health%20insurance). You must get insurance before you apply for the visa. It must cover you for the entire time you are in Germany.[^7]
+To apply for a [[Working Holiday Visa]], you need [expat health insurance](/glossary/Expat%20health%20insurance). It must cover you for the entire time you are in Germany.[^7]
 
 **When you start working**, you must switch to public health insurance.[^8] If you make more than €{{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}} per year, you can choose [private health insurance](/glossary/private%20Krankenversicherung) instead. If you have a [minijob](/glossary/Minijob), you can stay on expat health insurance.[^9]
 
@@ -93,9 +93,9 @@ If you choose public health insurance, there are dozens of options, but their pr
 [^4]: [Seamus Wolf](/out/horizon65) (April 2025), [Emily Archer](https://www.archer-relocation.com/) (April 2025)
 [^5]: [Seamus Wolf](/out/horizon65) (April 2025), [finanztip](https://www.finanztip.de/pkv/pkv-kosten/#:~:text=fur%20junge%2C%20gesunde%20menschen%20ist%20die%20private%20krankenversicherung) (February 2025), [verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/krankenversicherung/private-krankenversicherung-nicht-fuer-jeden-sinnvoll-13884#:~:text=kann%20es%20unter%20finanziellen%20gesichtspunkten%20sinnvoll%20sein%2C%20in%20eine%20private%20krankenversicherung%20zu%20wechseln) (2024)
 [^6]: [Seamus Wolf](/out/horizon65) (April 2025)
-[^7]: Citation needed
+[^7]: Citation needed, [Feather Insurance](https://feather-insurance.com/blog/how-can-i-use-expat-health-insurance-for-my-visa/?utm_source=allaboutberlin#:~:text=you%20can%20use%20expat%20health%20insurance%20unless)
 [^8]: [Dr. Rob Schumacher](/out/feather) (November 2023), personal experience (2015)
 [^9]: Citation needed, [Dr. Rob Schumacher](/out/feather) (November 2023)
 [^10]: Citation needed - Chancenkarte insurance
-[^11]: [Feather Insurance](https://feather-insurance.com/blog/is-an-ehic-card-still-valid-in-germany/#:~:text=job%20seeking%20in%20aforementioned%20states) (2023)
+[^11]: [Feather Insurance](https://feather-insurance.com/blog/is-an-ehic-card-still-valid-in-germany/?utm_source=allaboutberlin#:~:text=job%20seeking%20in%20aforementioned%20states) (2023)
 [^12]: [Dr. Rob Schumacher](/out/feather) (April 2025)
