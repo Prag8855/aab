@@ -1,13 +1,13 @@
 ---
 Title: Health insurance for a German visa or residence permit
 Short_title: Health insurance for a German visa
-Description: This guide helps you choose health insurance for a Schengen visa, National Visa, Blue Card, freelance visa and other residence permits.
+Description: This guide helps you find the best health insurance to apply for a German visa or residence permit.
 Date_created: 2020-02-21
 Related_reviews:
     reviews/german-visa-health-insurance/dr-rob-schumacher.md
 ---
 
-This guide explains how to choose health insurance when you apply for a German visa, a [[National Visa]] or a [residence permit](/glossary/Aufenthaltstitel).
+This guide explains how to choose health insurance for a German visa or [residence permit](/glossary/Aufenthaltstitel) application.
 
 {% include "_blocks/tableOfContents.html" %}
 
