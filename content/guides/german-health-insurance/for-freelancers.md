@@ -50,7 +50,7 @@ Choose private health insurance if...
 - **You have a high, stable income**  
     If you have a high income and a stable business, private might be a better option. Ideally, you should earn more than €60,000 per year.[^69]
 - **You are young and healthy**  
-    ???If you have pre-existing health problems, your insurance might be really expensive.
+    Your insurer saves a part of your payments for later. If you join when you are young, you pay less when you are old.
 
 You can't choose private health insurance if...
 
