@@ -25,47 +25,43 @@ Your travel insurance must...[^1]
 
 [If you can visit Germany without a visa](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/-/231148), you don't need travel insurance, but it's still a good idea.
 
-## For a Blue Card or work visa
-
-**[Health insurance for a work visa or a Blue Card ➞](/guides/german-health-insurance/for-employees)**
-
-## For a student visa
-
-**[Health insurance for a student visa ➞](/guides/german-health-insurance/for-students)**
-
-## For a freelance visa
-
-**[Health insurance for a freelance visa ➞](/guides/german-health-insurance/for-freelancers)**
-
-## For a Working Holiday Visa
-
-To apply for a [[Working Holiday Visa]] or [[Youth Mobility Visa]], you need [public](/glossary/gesetzliche%20Krankenversicherung), [private](/glossary/private%20Krankenversicherung), travel or [expat health insurance](/glossary/Expat%20health%20insurance).
-
-When you start working, you need public or private health insurance.[^14] If you have a [minijob](/glossary/Minijob), you can usually stay on travel or expat insurance.[^2]
-
 ## For a National Visa
 
-To apply for a [[National Visa]] or Category D visa, you need **[public](/glossary/gesetzliche%20Krankenversicherung), [private](/glossary/private%20Krankenversicherung) or [expat health insurance](/glossary/Expat%20health%20insurance)**.
+To apply for a [[National Visa]] at the German embassy or consulate, you need [expat health insurance](/glossary/Expat%20health%20insurance). This temporary insurance covers you during your first few months in Germany.
 
-When you [start working](/guides/find-a-job-in-berlin#start-working) in Germany, you must switch to public or private health insurance. If you have a [minijob](/glossary/Minijob), you can usually stay on expat insurance.[^2]
+When you arrive in Germany, you must usually switch to [public](/glossary/gesetzliche%20Krankenversicherung) or [private](/glossary/private%20Krankenversicherung) health insurance. You must switch before you convert your National Visa to a [residence permit](/glossary/Aufenthaltstitel).
 
-## For a [job seeker visa](/glossary/Job%20seeker%20visa)
+To find the right health insurance, use my [health insurance picker](/tools/health-insurance-calculator), or [ask an expert](/guides/german-health-insurance#insurance-brokers) to help you.
 
-**If you have never lived in Germany**, you need travel insurance or [expat insurance](/glossary/Expat%20health%20insurance).
+{% include '_blocks/healthInsuranceCalculatorStatic.html' %}
 
-**If you lived in Germany before**, you need [public](/glossary/gesetzliche%20Krankenversicherung), [private](/glossary/private%20Krankenversicherung) or [expat health insurance](/glossary/Expat%20health%20insurance). Travel insurance is not accepted.[^3] If you come back to Germany, you can get the same type of insurance as before.
+The requirements depend on the visa you apply for:
 
-When you [start working](/guides/find-a-job-in-berlin#start-working), you must switch to [public](/glossary/gesetzliche%20Krankenversicherung) or [private health insurance](/glossary/private%20Krankenversicherung).
+???Fix URLs???
 
-## For other residence permits
+- [Health insurance for a **Blue Card**](/guides/german-health-insurance/for-employees)
+- [Health insurance for a **work visa**](/guides/german-health-insurance/for-employees)
+- [Health insurance for a **student visa**](/guides/german-health-insurance/for-students)
+- [Health insurance for a **freelance visa**](/guides/german-health-insurance/for-freelancers)
+- [Health insurance for a **Working Holiday Visa**](/guides/german-health-insurance/for-employees#for-a-working-holiday-visa)
+- [Health insurance for a **Youth Mobility Visa**](/guides/german-health-insurance/for-employees#for-a-youth-mobility-visa)
+- [Health insurance for an **opportunity card**](/guides/german-health-insurance/for-employees#for-an-opportunity-card)
+- [Health insurance for a **job seeker visa**](/guides/german-health-insurance/for-employees#for-a-job-seeker-visa)
 
-**If this is your first [residence permit](/glossary/Aufenthaltstitel)**, you need [public](/glossary/gesetzliche%20Krankenversicherung), [private](/glossary/private%20Krankenversicherung) or [expat health insurance](/glossary/Expat%20health%20insurance).
+## For a residence permit
 
-**If you renew or change your current residence permit**, you need [public](/glossary/gesetzliche%20Krankenversicherung) or [private health insurance](/glossary/private%20Krankenversicherung). Expat health insurance is rarely accepted.[^0]
+After you arrive in Germany, you must convert your [[National Visa]] to a [residence permit](/glossary/Aufenthaltstitel) at the *[[Ausländerbehörde]]*. Some people can also enter Germany without a visa, and apply directly for a residence permit.
 
-Travel insurance is not accepted when you apply for a residence permit.
+To apply for residence permit, you need [public](/glossary/gesetzliche%20Krankenversicherung) or [private](/glossary/private%20Krankenversicherung) health insurance. [Expat health insurance](/glossary/Expat%20health%20insurance) is sometimes accepted.
 
-## How to choose health insurance
+The requirements depend on your occupation:
+
+- [Health insurance for an **employee**](/guides/german-health-insurance/for-employees)
+- [Health insurance for a **student**](/guides/german-health-insurance/for-students)
+- [Health insurance for a **freelancer**](/guides/german-health-insurance/for-freelancers)
+- [Health insurance for an **apprentice**](/guides/german-health-insurance/for-apprentices)
+
+## How to choose
 
 Don't choose health insurance yourself. You can make expensive mistakes. Choosing the wrong insurance can delay your visa application.
 
