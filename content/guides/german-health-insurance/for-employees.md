@@ -71,11 +71,11 @@ If you choose public health insurance, there are dozens of options, but their pr
 
 **[How to get insured ➞](/guides/german-health-insurance#how-to-get-insured)**
 
-[^1]: Citation needed, Seamus
-[^3]: [versicherungspflichtgrenzen.de](https://www.versicherungspflichtgrenzen.de/html/pflichtversicherungsgrenzen.html)
+[^1]: [Seamus Wolf](/out/horizon65) (April 2025)
 [^2]: [minijob-zentrale.de](https://www.minijob-zentrale.de/DE/die-minijobs/versicherungen/detailseite.html#:~:text=ist%20ein%20solidarbeitrag.%20daraus%20entsteht%20fur%20den%20minijobber) (February 2025)
+[^3]: [versicherungspflichtgrenzen.de](https://www.versicherungspflichtgrenzen.de/html/pflichtversicherungsgrenzen.html)
 [^4]: [Seamus Wolf](/out/horizon65) (April 2025), [Emily Archer](https://www.archer-relocation.com/) (April 2025)
 [^5]: [Seamus Wolf](/out/horizon65) (April 2025), [finanztip](https://www.finanztip.de/pkv/pkv-kosten/#:~:text=fur%20junge%2C%20gesunde%20menschen%20ist%20die%20private%20krankenversicherung) (February 2025), [verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/krankenversicherung/private-krankenversicherung-nicht-fuer-jeden-sinnvoll-13884#:~:text=kann%20es%20unter%20finanziellen%20gesichtspunkten%20sinnvoll%20sein%2C%20in%20eine%20private%20krankenversicherung%20zu%20wechseln) (2024)
-[^6]: Citation needed
+[^6]: [Seamus Wolf](/out/horizon65) (April 2025)
 [^47]: [Feather Insurance](https://feather-insurance.com/blog/is-an-ehic-card-still-valid-in-germany/#:~:text=job%20seeking%20in%20aforementioned%20states) (2023)
 [^56]: [Dr. Rob Schumacher](/out/feather) (April 2025)

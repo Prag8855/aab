@@ -98,7 +98,7 @@ These insurers are less reliable:
 - **[Mawista Expatcare](/out/mawista-expats)** is not always accepted[^8]
 - **[Cigna Global](/out/cigna)** is not always accepted[^9]
 
-[^0]: Citation needed, [blog.feather-insurance.com](https://feather-insurance.com/blog/how-can-i-use-expat-health-insurance-for-my-visa/)
+[^0]: [Feather Insurance](https://feather-insurance.com/blog/how-can-i-use-expat-health-insurance-for-my-visa/#:~:text=expat%20insurance%20is%20almost%20always%20denied) (2025)
 [^1]: [schengenvisainfo.com](https://www.schengenvisainfo.com/schengen-visa-insurance/), [germany.info](https://www.germany.info/us-en/service/visa/medical-health-insurance/953982), [visaguide.world](https://visaguide.world/travel-insurance/europe/germany-travel-insurance/)
 [^2]: [Dr. Rob Schumacher](/out/feather) (November 2023)
 [^3]: [berlin.de](https://service.berlin.de/dienstleistung/324661/en/)
