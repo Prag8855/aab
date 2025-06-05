@@ -134,7 +134,7 @@ The cost of private health insurance is [tax-deductible](/glossary/steuerlich%20
 - **Faster doctor appointments**  
     You can get an appointment in days instead of weeks. Try it yourself: go on [Doctolib](https://www.doctolib.de/), and look for the earliest doctor appointment. Try again with private health insurance. It's really hard to find a psychiatrist, a gynaecologist or a paediatrician with public health insurance. It's much easier with private health insurance.
 - **You choose your coverage**  
-    Your insurance can cover dental care, travel insurance, special medication and special treatments. You can pay more every month for the best coverage. If you choose lower coverage and a high [deductible](/glossary/Selbstbeteiligung), you pay less every month.[^17]
+    Your insurance can cover dental care, travel health insurance, special medication and special treatments. You can pay more every month for the best coverage. If you choose lower coverage and a high [deductible](/glossary/Selbstbeteiligung), you pay less every month.[^17]
 - **You pay less when you don't use it**  
     Many private health insurers have a no-claims bonus. If you don't use your health insurance, you get money back every year. If you never get sick, you can save a lot of money. In 2024, I got a €640 refund.
 
@@ -243,7 +243,7 @@ Travel health insurance covers medical emergencies when you visit another countr
 - **If you move to Germany**, travel health insurance is not valid. You must get public, private or expat health insurance.
 - **If you live in Germany**, travel health insurance covers medical emergencies when you when you travel to other countries. It costs around €40 per year.[^78] If you have [private health insurance](/glossary/private%20Krankenversicherung), it usually includes travel insurance.
 
-You can get travel insurance from [Feather](/out/feather-travel), [Envivas](https://www.envivas.de/en/insurance/travelling-abroad) or [Allianz](https://www.allianzdirect.de/reiseversicherung/). Your [private health insurance](/glossary/private%20Krankenversicherung) might include travel insurance. Some banks accounts like [N26 Metal](/out/n26-metal) include travel insurance.
+You can get travel health insurance from [Feather](/out/feather-travel), [Envivas](https://www.envivas.de/en/insurance/travelling-abroad) or [Allianz](https://www.allianzdirect.de/reiseversicherung/). Your [private health insurance](/glossary/private%20Krankenversicherung) might include travel insurance. Some banks accounts like [N26 Metal](/out/n26-metal) include travel insurance.
 
 ### Insurance from other EU countries
 
@@ -388,7 +388,7 @@ If you have public health insurance, you pay out of your paycheck every month. I
     When you change your health insurance, tell your employer.[^84] Tell the human resources department.
 - [ ] **[Get liability insurance](/guides/haftpflichtversicherung)**{{ RECOMMENDED }}  
     [Liability insurance](/glossary/Haftpflichtversicherung) is the second most important insurance. Most Germans have it. I got mine from [Feather](/out/feather-haftpflicht).
-- [ ] **Get travel insurance**  
+- [ ] **Get travel health insurance**  
     It covers you when you travel outside of Germany. It costs around €25 to €40 per year.[^78]{{ fail_on('2026-03-01') }} You can get travel insurance from [Feather](/out/feather-travel), [Envivas](https://www.envivas.de/en/insurance/travelling-abroad) or [Allianz](https://www.allianzdirect.de/reiseversicherung/). Your [private health insurance](/glossary/private%20Krankenversicherung) might include travel insurance. Some banks accounts like [N26 Metal](/out/n26-metal) include travel insurance.
 - [ ] **[Become an organ donor](/guides/organ-donor)**{{ RECOMMENDED }}  
     It's really easy. It can save another person's life.

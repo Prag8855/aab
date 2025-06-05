@@ -13,9 +13,9 @@ This guide explains how to choose health insurance for a German visa or [residen
 
 ## For a Schengen visa
 
-To apply for a [[Schengen visa]] (tourist visa), you need **travel insurance**.[^0]
+To apply for a [[Schengen visa]] (tourist visa), you need **travel health insurance**.[^0]
 
-Your travel insurance must...[^1]
+Your travel health insurance must...[^1]
 
 - [ ] Cover you for at least €30,000
 - [ ] Be valid in *all* Schengen area countries, not just Germany
