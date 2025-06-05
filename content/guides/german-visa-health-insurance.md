@@ -21,7 +21,7 @@ Your travel insurance must...[^1]
 - [ ] Be valid in *all* Schengen area countries, not just Germany
 - [ ] Be valid during your whole trip in the [[Schengen area]]
 
-[HanseMerkur's Visa Plus travel insurance](/out/hansemerkur-travel) works well for a Schengen visa application.
+**[HanseMerkur Visa Plus](/out/hansemerkur-travel)** works well for a Schengen visa application.
 
 [If you can visit Germany without a visa](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/-/231148), you don't need travel insurance, but it's still a good idea.
 
@@ -74,10 +74,6 @@ Don't choose health insurance yourself. You can make expensive mistakes. Choosin
 {% include '_blocks/healthInsuranceQuestionStatic.html' %}
 
 **[How to choose health insurance ➞](/guides/german-health-insurance)**
-
-### Travel insurance options
-
-[HanseMerkur](/out/hansemerkur-students) and [Care Concept](/out/care-concept) sell valid travel insurance for a [[Schengen visa]] application.
 
 ### Expat health insurance options
 

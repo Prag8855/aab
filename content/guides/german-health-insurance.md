@@ -319,7 +319,7 @@ The *[[Ausländerbehörde]]* sometimes accepts expat health insurance when you a
 - **You are a tourist**  
     Travel insurance covers medical emergencies while you travel. It's cheap.
 - **You apply for a [[Schengen visa]]**  
-    You need valid health insurance to apply for the Schengen visa. [HanseMerkur's Visa Plus travel insurance](/out/hansemerkur-travel) works well for this.
+    You need valid health insurance to apply for the Schengen visa. [HanseMerkur Visa Plus](/out/hansemerkur-travel) works well for this.
 
 **[Health insurance for a Schengen visa ➞](/guides/german-visa-health-insurance#for-a-schengen-visa)**
 
