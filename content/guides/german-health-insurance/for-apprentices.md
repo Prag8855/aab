@@ -25,7 +25,7 @@ Use my [health insurance picker](/tools/health-insurance-calculator) to see your
 
 ## How to get insured
 
-You must choose a [public health insurer](/glossary/Krankenkasse). There are dozens of options, but their price and coverage are almost the same. [Barmer](/out/barmer) and [Techniker Krankenkasse](/out/feather-tk) are expat-friendly options. They speak English. You can [ask my health insurance expert](/guides/german-health-insurance#insurance-brokers) to help you choose.
+You must choose a [public health insurer](/glossary/Krankenkasse). There are dozens of options, but their price and coverage are almost the same. [Barmer](/out/barmer) and [Techniker Krankenkasse](/out/feather-tk) are English-speaking options. [Ask my insurance expert](/guides/german-health-insurance#insurance-brokers) to help you choose.
 
 **[How to get insured ➞](/guides/german-health-insurance#how-to-get-insured)**
 

@@ -21,7 +21,7 @@ Use my [health insurance picker](/tools/health-insurance-calculator) to see your
 
 If your earn less than €{{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}} per year, you can only get [public health insurance](/glossary/gesetzliche%20Krankenversicherung).
 
-You must choose an [insurer](/glossary/Krankenkasse). There are dozens of insurers, but their price and coverage are almost the same. [Barmer](/out/barmer) and [Techniker Krankenkasse](/out/feather-tk) are expat-friendly options. They speak English.
+You must choose an [insurer](/glossary/Krankenkasse). There are dozens of insurers, but their price and coverage are almost the same. [Barmer](/out/barmer) and [Techniker Krankenkasse](/out/feather-tk) are English-speaking options.
 
 ### Private health insurance
 
