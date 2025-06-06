@@ -21,6 +21,6 @@ Germany has two types of [health insurance](/glossary/Krankenversicherung): publ
 
 Public health insurance is managed by non-profit *[Krankenkassen](/glossary/Krankenkasse)*. There are dozens of options, but the cost and the coverage are almost the same. The cost of public health insurance is based on your income.
 
-**[Public health insurance calculator ➞](/tools/health-insurance-calculator)**
+**[Health insurance calculator ➞](/tools/health-insurance-calculator)**
 
 **[How to choose health insurance ➞](/guides/german-health-insurance)**

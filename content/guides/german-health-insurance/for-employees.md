@@ -11,21 +11,27 @@ When you [work in Germany](/guides/find-a-job-in-berlin), you must choose health
 
 ## Your options
 
-**Your options depend on your income.** When you are an employee, your health insurance is not tied to your job. If you [lose your job](/guides/losing-your-job), you keep your health insurance. Your employer does not decide which health insurance you can have.
+**Your options depend on your income.** Your health insurance is not tied to your job. Your employer does not decide which health insurance you can have. If you [lose your job](/guides/losing-your-job), you keep your health insurance.
+
+Use my [health insurance picker](/tools/health-insurance-calculator) to see your options.
+
+{% include '_blocks/healthInsuranceCalculatorStatic.html' %}
 
 ### Public health insurance
 
-If your earn less than €{{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}} per year, it's your only option.
+If your earn less than €{{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}} per year, you can only get [public health insurance](/glossary/gesetzliche%20Krankenversicherung).
+
+**[Public or private health insurance? ➞](/guides/german-health-insurance#public-or-private-insurance)**
 
 You must choose an [insurer](/glossary/Krankenkasse). There are dozens of insurers, but their price and coverage are almost the same. [Barmer](/out/barmer) and [Techniker Krankenkasse](/out/feather-tk) are expat-friendly options. They speak English.
 
-If you need a visa to enter Germany, you need [expat health insurance](/glossary/Expat%20health%20insurance) for your visa application.[^1] It covers you from the day you arrive in Germany to the day you start working. When you start working, your public health insurance covers you.
-
 ### Private health insurance
 
-If your earn more than €{{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}} per year, you can choose private health insurance. It's sometimes better and cheaper than public health insurance.
+If your earn more than €{{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}} per year, you can choose [private health insurance](/glossary/private%20Krankenversicherung). It's sometimes better and cheaper than public health insurance.[^5]
 
-Never choose private health insurance yourself; always [ask an expert](/guides/german-health-insurance#insurance-brokers).
+**[Public or private health insurance? ➞](/guides/german-health-insurance#public-or-private-insurance)**
+
+Don't choose private health insurance yourself. There are too many options. [Ask my insurance expert](/guides/german-health-insurance#insurance-brokers) to help you choose. It's a free service.
 
 ## For a visa or residence permit
 
@@ -58,7 +64,7 @@ You can get public or expat health insurance from [Feather](/out/feather-expats)
 
 **If you are moving to Germany**, you need [expat health insurance](/glossary/Expat%20health%20insurance). When you [start working](/guides/find-a-job-in-berlin#start-working), you must switch to [public](/glossary/gesetzliche%20Krankenversicherung) or [private health insurance](/glossary/private%20Krankenversicherung).
 
-**If you already live in Germany**, you can keep your current health insurance. When you start working, you must switch to [public health insurance](/glossary/gesetzliche%20Krankenversicherung). If you earn more than €{{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}} per year, you can get private health insurance instead.
+**If you already live in Germany**, you can keep your current health insurance. When you [start working](/guides/find-a-job-in-berlin#start-working), you must switch to [public health insurance](/glossary/gesetzliche%20Krankenversicherung). If you earn more than €{{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}} per year, you can get [private health insurance](/glossary/private%20Krankenversicherung) instead.
 
 ### For a Working Holiday Visa
 
@@ -94,7 +100,6 @@ If you choose public health insurance, there are dozens of options, but their pr
 
 **[How to get insured ➞](/guides/german-health-insurance#how-to-get-insured)**
 
-[^1]: [Seamus Wolf](/out/horizon65) (April 2025)
 [^2]: [minijob-zentrale.de](https://www.minijob-zentrale.de/DE/die-minijobs/versicherungen/detailseite.html#:~:text=ist%20ein%20solidarbeitrag.%20daraus%20entsteht%20fur%20den%20minijobber) (February 2025)
 [^4]: [Seamus Wolf](/out/horizon65) (April 2025), [Emily Archer](https://www.archer-relocation.com/) (April 2025)
 [^5]: [Seamus Wolf](/out/horizon65) (April 2025), [finanztip](https://www.finanztip.de/pkv/pkv-kosten/#:~:text=fur%20junge%2C%20gesunde%20menschen%20ist%20die%20private%20krankenversicherung) (February 2025), [verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/krankenversicherung/private-krankenversicherung-nicht-fuer-jeden-sinnvoll-13884#:~:text=kann%20es%20unter%20finanziellen%20gesichtspunkten%20sinnvoll%20sein%2C%20in%20eine%20private%20krankenversicherung%20zu%20wechseln) (2024)
@@ -102,7 +107,7 @@ If you choose public health insurance, there are dozens of options, but their pr
 [^7]: Citation needed, [Feather Insurance](https://feather-insurance.com/blog/how-can-i-use-expat-health-insurance-for-my-visa/?utm_source=allaboutberlin#:~:text=you%20can%20use%20expat%20health%20insurance%20unless)
 [^8]: [Dr. Rob Schumacher](/out/feather) (November 2023), personal experience (2015)
 [^9]: Citation needed, [Dr. Rob Schumacher](/out/feather) (November 2023)
-[^10]: [Feather Insurance](https://feather-insurance.com/blog/how-can-i-use-expat-health-insurance-for-my-visa/?utm_source=allaboutberlin#:~:text=this%20means%20that%20expat%20health%20insurance%20is%20perfect%20for%20this%20period) (June 2025), [Feather Insurance](https://feather-insurance.com/blog/chancenkarte-how-to-apply/#:~:text=our%20expat%20health%20insurance%20has%20successfully%20assisted%20numerous%20customers%20in%20securing%20their%20chancenkarte%20worldwide) (June 2025), [Seamus Wolf](/out/horizon65) (June 2025), [Dr. Rekha Singh](https://zuhaus.org/) (June 2025)
+[^10]: [Feather Insurance](https://feather-insurance.com/blog/how-can-i-use-expat-health-insurance-for-my-visa/?utm_source=allaboutberlin#:~:text=this%20means%20that%20expat%20health%20insurance%20is%20perfect%20for%20this%20period) (June 2025), [Feather Insurance](https://feather-insurance.com/blog/chancenkarte-how-to-apply/#:~:text=our%20expat%20health%20insurance%20has%20successfully%20assisted%20numerous%20customers%20in%20securing%20their%20chancenkarte%20worldwide) (June 2025), [Seamus Wolf](/out/horizon65) (June 2025), [Dr. Rekha Singh](https://zuhaus.org/) (June 2025), [Expatrio](https://help.expatrio.com/hc/en-us/articles/360001332411-Job-Seekers-What-health-insurance-is-right-for-me) (June 2025)
 [^11]: [Feather Insurance](https://feather-insurance.com/blog/is-an-ehic-card-still-valid-in-germany/?utm_source=allaboutberlin#:~:text=job%20seeking%20in%20aforementioned%20states) (2023)
 [^12]: [Dr. Rob Schumacher](/out/feather) (April 2025)
 [^13]: [Federal Foreign Office](https://india.diplo.de/in-en/service/2659810-2659810#:~:text=and%20work%20permit.-,Proof%20of%20health%20insurance,your%20tentative%20travel%20date,-Info) (June 2025), [Feather Insurance](https://faq.feather-insurance.com/en/articles/176059-what-is-the-opportunity-card-chancenkarte-visa-and-which-health-insurance-should-i-choose/?utm_source=allaboutberlin#:~:text=you%20can%20also%20sign%20up%20for%20public%20health%20insurance) (June 2025)
