@@ -7,7 +7,7 @@ Related_reviews:
     reviews/german-visa-health-insurance/dr-rob-schumacher.md
 ---
 
-This guide explains how to choose health insurance for a German visa or [residence permit](/glossary/Aufenthaltstitel) application.
+This guide explains which health insurance you need for a visa or [residence permit](/glossary/Aufenthaltstitel) application.
 
 {% include "_blocks/tableOfContents.html" %}
 
@@ -50,11 +50,11 @@ The requirements depend on the visa you apply for:
 
 After you arrive in Germany, you must convert your [[National Visa]] to a [residence permit](/glossary/Aufenthaltstitel) at the *[[Ausländerbehörde]]*. Some people can also enter Germany without a visa, and apply directly for a residence permit.
 
-To apply for residence permit, you need [public](/glossary/gesetzliche%20Krankenversicherung) or [private](/glossary/private%20Krankenversicherung) health insurance. [Expat health insurance](/glossary/Expat%20health%20insurance) is sometimes accepted.
+To apply for a residence permit, you need [public](/glossary/gesetzliche%20Krankenversicherung) or [private](/glossary/private%20Krankenversicherung) health insurance. [Expat health insurance](/glossary/Expat%20health%20insurance) is *sometimes* accepted.
 
 The requirements depend on your occupation:
 
-- [Health insurance for an **employee**](/guides/german-health-insurance/for-employees)
+- [Health insurance for an **employee**](/guides/german-health-insurance/for-employees#for-a-visa-or-residence-permit)
 - [Health insurance for a **student**](/guides/german-health-insurance/for-students)
 - [Health insurance for a **freelancer**](/guides/german-health-insurance/for-freelancers)
 - [Health insurance for an **apprentice**](/guides/german-health-insurance/for-apprentices)
