@@ -76,7 +76,7 @@ Don't choose health insurance yourself. You can make expensive mistakes. Choosin
 These insurers usually work:
 
 - **[Feather](/out/feather-expats)**{{ RECOMMENDED }}  
-    It works really well.[^12] They sell public, private and expat health from a few companies. They speak English. I work with them since 2018, and I trust them the most.
+    It works really well.[^12] They sell public, private and expat health insurance from a few companies. They speak English. I work with them since 2018, and I trust them the most.
 - **[Ottonova](/out/ottonova-expats)**  
     It works well too.[^4] They sell their own private and expat health insurance. They speak English. They are not the cheapest long-term option. - [My review of Ottonova](/guides/ottonova-review)
 - **[Care Concept](/out/care-concept)**  
