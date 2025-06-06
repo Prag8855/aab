@@ -43,9 +43,16 @@ If you choose public health insurance, you might need [expat health insurance](/
 
 ### For an opportunity card
 
-To apply for a [[Chancenkarte]], you need [expat health insurance](/glossary/Expat%20health%20insurance).[^10]
+To apply for a [[Chancenkarte]], you have 3 options:[^14]
 
-### For a job seeker visa
+- **[[Expat health insurance]]**{{ RECOMMENDED }}  
+    If you don't have a job offer, it's impossible to get public or private health insurance. Get expat health insurance, and switch to public or private when you [start working](/guides/find-a-job-in-berlin#start-working).[^10]
+- **Travel health insurance + [public health insurance](/glossary/gesetzliche%20Krankenversicherung)**  
+    If you have a job, you can already get public health insurance.[^13] The travel insurance covers you before you start working.[^15] After you start working, your public health insurance covers you.
+- **[Private health insurance](/glossary/private%20Krankenversicherung)**  
+    If you have a job offer, and you earn more than €{{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}} per year, you can get private health insurance. Private can be better or cheaper than public.
+
+You can get public or expat health insurance from [Feather](/out/feather-expats). You can also [ask my insurance expert](/guides/german-health-insurance#insurance-brokers) to find the best insurance for you. It's the safest way to choose.
 
 **If you have never lived in Germany**, you need travel insurance or [expat insurance](/glossary/Expat%20health%20insurance).
 
@@ -96,6 +103,9 @@ If you choose public health insurance, there are dozens of options, but their pr
 [^7]: Citation needed, [Feather Insurance](https://feather-insurance.com/blog/how-can-i-use-expat-health-insurance-for-my-visa/?utm_source=allaboutberlin#:~:text=you%20can%20use%20expat%20health%20insurance%20unless)
 [^8]: [Dr. Rob Schumacher](/out/feather) (November 2023), personal experience (2015)
 [^9]: Citation needed, [Dr. Rob Schumacher](/out/feather) (November 2023)
-[^10]: Citation needed - Chancenkarte insurance
+[^10]: [Feather Insurance](https://feather-insurance.com/blog/how-can-i-use-expat-health-insurance-for-my-visa/?utm_source=allaboutberlin#:~:text=this%20means%20that%20expat%20health%20insurance%20is%20perfect%20for%20this%20period) (June 2025), [Feather Insurance](https://feather-insurance.com/blog/chancenkarte-how-to-apply/#:~:text=our%20expat%20health%20insurance%20has%20successfully%20assisted%20numerous%20customers%20in%20securing%20their%20chancenkarte%20worldwide) (June 2025), [Seamus Wolf](/out/horizon65) (June 2025), [Dr. Rekha Singh](https://zuhaus.org/) (June 2025)
 [^11]: [Feather Insurance](https://feather-insurance.com/blog/is-an-ehic-card-still-valid-in-germany/?utm_source=allaboutberlin#:~:text=job%20seeking%20in%20aforementioned%20states) (2023)
 [^12]: [Dr. Rob Schumacher](/out/feather) (April 2025)
+[^13]: [Federal Foreign Office](https://india.diplo.de/in-en/service/2659810-2659810#:~:text=and%20work%20permit.-,Proof%20of%20health%20insurance,your%20tentative%20travel%20date,-Info) (June 2025), [Feather Insurance](https://faq.feather-insurance.com/en/articles/176059-what-is-the-opportunity-card-chancenkarte-visa-and-which-health-insurance-should-i-choose/?utm_source=allaboutberlin#:~:text=you%20can%20also%20sign%20up%20for%20public%20health%20insurance) (June 2025)
+[^14]: [Federal Foreign Service](https://accra.diplo.de/gh-en/service/-visainformation/2656920-2656920?isLocal=false&isPreview=false#:~:text=-%20incoming%20medical%20insurance,is%20NOT%20sufficient) (June 2025), [Feather Insurance](https://faq.feather-insurance.com/en/articles/176059-what-is-the-opportunity-card-chancenkarte-visa-and-which-health-insurance-should-i-choose/?utm_source=allaboutberlin) (June 2025)
+[^15]: [Federal Foreign Service](https://accra.diplo.de/gh-en/service/-visainformation/2656920-2656920?isLocal=false&isPreview=false#:~:text=a%20health%20insurance%20coverage%20must%20be%20proven%20for%20the%20period%20prior%20to%20the%20employment%20beginning%20and%20prior%20to%20being%20eligible%20for%20statutory%20health%20insurance.) (June 2025)
