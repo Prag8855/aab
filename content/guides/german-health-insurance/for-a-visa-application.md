@@ -77,8 +77,6 @@ Insurance from these companies usually works for a [[National Visa]] application
 
 - **[Feather](/out/feather-expats)**{{ RECOMMENDED }}  
     It works really well.[^12] It's a German company. They speak English, and they have excellent customer service. I work with them since 2018, and I trust them the most.
-- **[Ottonova](/out/ottonova-expats)**  
-    It works well too.[^4] They sell their own private and expat health insurance. They speak English. They are [not the best long-term option](/guides/ottonova-review).
 - **[Care Concept](/out/care-concept)**  
     It's usually accepted.[^5] It's not the best insurance, but it works.
 - **[Mawista](/out/mawista-expats)**  
@@ -87,6 +85,8 @@ Insurance from these companies usually works for a [[National Visa]] application
     Usually accepted for an opportunity card.
 - **[April International](https://de.april-international.com/de)**[^7]
 - **[Allianz Worldwide Care](https://www.allianzcare.com/en.html)**[^13]
+- **[Ottonova](/out/ottonova-expats)**  
+    It works well too.[^4] They sell their own private and expat health insurance. They speak English. They are [not the best long-term option](/guides/ottonova-review).
 
 Some [blocked accounts](/glossary/Sperrkonto) include health insurance. It's rarely the best option. Choose health insurance separately.
 
@@ -95,6 +95,6 @@ Some [blocked accounts](/glossary/Sperrkonto) include health insurance. It's rar
 [^4]: [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/659867781148595/?comment_id=663168410818532), [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/675361512932555/), [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/697100177425355/), [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/515940132208028/), [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/489761834825858/?comment_id=489789594823082)
 [^5]: [Reddit](https://old.reddit.com/r/chancenkarte/comments/1jxedo2/reapplying_for_chancenkarte_visa_after_a_rejection/mnizh1q/) (May 2025), [Reddit](https://old.reddit.com/r/chancenkarte/comments/1k7i4ww/health_insurance_for_chancenkarte/) (May 2025), [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/789315664870472/?comment_id=792026081266097), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/3tkxvi/mawista_health_insurance_could_be_not_sufficient/cx810dd/), [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/754116128390426/?comment_id=754173935051312), [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/489761834825858/)
 [^7]: [Facebook](https://www.facebook.com/groups/berlinfreelancers/posts/4261939800553038/?__cft__[0]=AZV7zZrPivBoZDL0rqrnsaIM5z30t4Qa-eMFG7snPBMSv-0a8iDRS7ZuaBf6OBQb6EnLsMHZ5xMqbqEkJtg-mKCwqY8iUgAalwBIKyrQP6EwoXkmNvOdFyJ2N3a6_4JtSvc&__tn__=%2CO%2CP-R)
-[^11]: [Reddit](https://old.reddit.com/r/germany/comments/1ico8k6/need_advice_mawista_insurance_refusing_to_cover/) (January 2025), [Reddit](https://old.reddit.com/r/germany/comments/ueu39a/dispute_with_mawista_caused_by_their_consultation/) (August 2023), [Reddit](https://old.reddit.com/r/germany/comments/12fp3fd/versicherung_doesnt_want_to_cover_hospital_fees/) (April 2023)
+[^11]: Thai Embassy employee (June 2025), [Oliver Redsch](https://icb-relocation.de/dr-oliver-redsch) (June 2025), [Reddit](https://old.reddit.com/r/germany/comments/1ico8k6/need_advice_mawista_insurance_refusing_to_cover/) (January 2025), [Reddit](https://old.reddit.com/r/germany/comments/ueu39a/dispute_with_mawista_caused_by_their_consultation/) (August 2023), [Reddit](https://old.reddit.com/r/germany/comments/12fp3fd/versicherung_doesnt_want_to_cover_hospital_fees/) (April 2023)
 [^12]: [Reddit](https://old.reddit.com/r/chancenkarte/comments/1ixplhc/health_insurance/meou5jr/) (February 2025), [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/659867781148595/?comment_id=663022727499767)
 [^13]: [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/659867781148595/)
