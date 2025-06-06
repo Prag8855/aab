@@ -54,11 +54,11 @@ To apply for a [[Chancenkarte]], you have 3 options:[^14]
 
 You can get public or expat health insurance from [Feather](/out/feather-expats). You can also [ask my insurance expert](/guides/german-health-insurance#insurance-brokers) to find the best insurance for you. It's the safest way to choose.
 
-**If you have never lived in Germany**, you need travel insurance or [expat insurance](/glossary/Expat%20health%20insurance).
+### For a job seeker visa
 
-**If you lived in Germany before**, you need [public](/glossary/gesetzliche%20Krankenversicherung), [private](/glossary/private%20Krankenversicherung) or [expat health insurance](/glossary/Expat%20health%20insurance). Travel insurance is not accepted.[^3] If you come back to Germany, you can get the same type of insurance as before.
+**If you are moving to Germany**, you need [expat health insurance](/glossary/Expat%20health%20insurance). When you [start working](/guides/find-a-job-in-berlin#start-working), you must switch to [public](/glossary/gesetzliche%20Krankenversicherung) or [private health insurance](/glossary/private%20Krankenversicherung).
 
-When you [start working](/guides/find-a-job-in-berlin#start-working), you must switch to [public](/glossary/gesetzliche%20Krankenversicherung) or [private health insurance](/glossary/private%20Krankenversicherung).
+**If you already live in Germany**, you can keep your current health insurance. When you start working, you must switch to [public health insurance](/glossary/gesetzliche%20Krankenversicherung). If you earn more than €{{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}} per year, you can get private health insurance instead.
 
 ### For a Working Holiday Visa
 
@@ -96,10 +96,9 @@ If you choose public health insurance, there are dozens of options, but their pr
 
 [^1]: [Seamus Wolf](/out/horizon65) (April 2025)
 [^2]: [minijob-zentrale.de](https://www.minijob-zentrale.de/DE/die-minijobs/versicherungen/detailseite.html#:~:text=ist%20ein%20solidarbeitrag.%20daraus%20entsteht%20fur%20den%20minijobber) (February 2025)
-[^3]: [versicherungspflichtgrenzen.de](https://www.versicherungspflichtgrenzen.de/html/pflichtversicherungsgrenzen.html)
 [^4]: [Seamus Wolf](/out/horizon65) (April 2025), [Emily Archer](https://www.archer-relocation.com/) (April 2025)
 [^5]: [Seamus Wolf](/out/horizon65) (April 2025), [finanztip](https://www.finanztip.de/pkv/pkv-kosten/#:~:text=fur%20junge%2C%20gesunde%20menschen%20ist%20die%20private%20krankenversicherung) (February 2025), [verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/krankenversicherung/private-krankenversicherung-nicht-fuer-jeden-sinnvoll-13884#:~:text=kann%20es%20unter%20finanziellen%20gesichtspunkten%20sinnvoll%20sein%2C%20in%20eine%20private%20krankenversicherung%20zu%20wechseln) (2024)
-[^6]: [Seamus Wolf](/out/horizon65) (April 2025)
+[^6]: [Seamus Wolf](/out/horizon65) (April 2025), [Feather Insurance](https://feather-insurance.com/blog/how-can-i-use-expat-health-insurance-for-my-visa/?utm_source=allaboutberlin#:~:text=someone%20might%20need%20expat%20insurance%20because%20they%E2%80%99re%20coming%20to%20germany%20on%20a%20temporary%20employment%20visa) (June 2025)
 [^7]: Citation needed, [Feather Insurance](https://feather-insurance.com/blog/how-can-i-use-expat-health-insurance-for-my-visa/?utm_source=allaboutberlin#:~:text=you%20can%20use%20expat%20health%20insurance%20unless)
 [^8]: [Dr. Rob Schumacher](/out/feather) (November 2023), personal experience (2015)
 [^9]: Citation needed, [Dr. Rob Schumacher](/out/feather) (November 2023)
