@@ -5,7 +5,7 @@ Description: This guide explains how to choose the best health insurance to stud
 Date_created: 2025-06-02
 ---
 
-When you do an apprenticeship (*Ausbildung*) in Germany, you must choose health insurance. This guide helps you choose the best health insurance for an apprentice (*[[Azubi]]*).
+When you do an apprenticeship (*Ausbildung*) in Germany, you need health insurance. This guide helps you choose the best health insurance *[Azubis](/glossary/Azubi)*.
 
 {% include "_blocks/tableOfContents.html" %}
 

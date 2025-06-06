@@ -5,7 +5,7 @@ Description: This guide explains how to choose the best health insurance to work
 Date_created: 2025-06-02
 ---
 
-This guide helps you choose the best health insurance to [work in Germany](/guides/find-a-job-in-berlin).
+To [work in Germany](/guides/find-a-job-in-berlin), you need health insurance. This guide helps you choose the best health insurance for employees.
 
 {% include "_blocks/tableOfContents.html" %}
 

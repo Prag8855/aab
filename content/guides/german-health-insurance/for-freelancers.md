@@ -5,7 +5,7 @@ Description: This guide explains how to choose the best health insurance for sel
 Date_created: 2025-06-02
 ---
 
-If you move to Germany, you must choose health insurance. This guide helps you choose the best health insurance for self-employment.
+All German residents need health insurance. This guide helps you choose the best health insurance for self-employment.
 
 {% include "_blocks/tableOfContents.html" %}
 
