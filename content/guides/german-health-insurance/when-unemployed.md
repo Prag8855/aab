@@ -11,6 +11,8 @@ All German residents need health insurance, even when unemployed. This guide exp
 
 {% include "_blocks/tableOfContents.html" %}
 
+## If you lost your job
+
 ### With public health insurance
 
 Your [public health insurance](/glossary/gesetzliche%20Krankenversicherung) becomes cheaper. The coverage stays the same.
@@ -32,6 +34,21 @@ Your [private health insurance](/glossary/private%20Krankenversicherung) becomes
     You keep your private health insurance.[^1] The *[[Agentur für Arbeit]]* pays €210 per month.[^7] Your employer does not pay half of it. For example, if your private health insurance costs €500 per month, your employer paid €250, and you paid €250. If you lose your job, you pay €500 alone without help.
 
 **[Who gets unemployment benefits ➞](/guides/unemployment-benefits#who-can-get-unemployment-benefits)**
+
+## After you find a job
+
+When you start a new job, you must switch to public health insurance. If you make more than €{{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}} per year, you can choose private health insurance instead.
+
+**[Health insurance for employees ➞](/guides/german-health-insurance/for-employees)**
+
+## If you just moved to Germany
+
+- **If you move from another [EU](/glossary/European%20Union) country**  
+    Your [health insurance from your home country](/guides/german-health-insurance#insurance-from-other-eu-countries) usually covers you until you start making money.
+- **If you move from a non-[EU](/glossary/European%20Union) country**  
+    You can use your [expat health insurance](/glossary/Expat%20health%20insurance) until you start working or studying. You usually need [public](/glossary/gesetzliche%20Krankenversicherung) or [private](/glossary/private%20Krankenversicherung) for your [resident permit](/glossary/Aufenthaltstitel) application.
+
+**[Health insurance for a residence permit application ➞](/guides/german-health-insurance/for-a-visa-application#for-a-residence-permit)**
 
 [^1]: [krankenkassen.de](https://www.krankenkassen.de/gesetzliche-krankenkassen/krankenkasse-beitrag/arbeitslose/#:~:text=kann%20sich%20weiter%20freiwillig%20versichern) (February 2025), [Feather](https://faq.feather-insurance.com/en/articles/28591-i-ve-just-lost-my-job-what-happens-to-my-private-health-insurance)
 [^2]: [krankenkassen.de](https://www.krankenkassen.de/gesetzliche-krankenkassen/krankenkasse-beitrag/arbeitslose/#:~:text=mit%20eintritt%20der%20versicherungspflicht%20wegen%20alg%20i%20muss%20die%20private%20krankenversicherung%20den%20pkv-vertrag%20im%20beginn%20der%20mitgliedschaft%20in%20einer%20gesetzlichen%20krankenkasse%20aufheben) (February 2025), [Seamus Wolf](/out/horizon65) (April 2025)
