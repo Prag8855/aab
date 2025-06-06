@@ -29,9 +29,9 @@ Your travel health insurance must...[^1]
 
 **To apply for a [[National Visa]]** at the German embassy or consulate, you need [expat health insurance](/glossary/Expat%20health%20insurance). This temporary insurance covers you during your first few months in Germany. [Feather's expat insurance](/out/feather-expats) works well for a National Visa.
 
-**When you arrive in Germany**, you must usually switch to [public](/glossary/gesetzliche%20Krankenversicherung) or [private](/glossary/private%20Krankenversicherung) health insurance. You must switch before you convert your National Visa to a [residence permit](/glossary/Aufenthaltstitel). [Barmer](/out/barmer) and [Techniker Krankenkasse](/out/feather-tk) are safe, English-speaking options.
+**When you arrive in Germany**, you must usually switch to [public](/glossary/gesetzliche%20Krankenversicherung) or [private](/glossary/private%20Krankenversicherung) health insurance. You must switch before you convert your National Visa to a [residence permit](/glossary/Aufenthaltstitel). The best option depends on your situation.
 
-Use my [health insurance picker](/tools/health-insurance-calculator), or [ask an expert](/guides/german-health-insurance#insurance-brokers) to help you.
+Use my [health insurance picker](/tools/health-insurance-calculator), or [ask an expert](/guides/german-health-insurance#insurance-brokers) to help you choose.
 
 {% include '_blocks/healthInsuranceCalculatorStatic.html' %}
 
@@ -50,7 +50,7 @@ The requirements depend on the visa you apply for:
 
 After you arrive in Germany, you must convert your [[National Visa]] to a [residence permit](/glossary/Aufenthaltstitel) at the *[[Ausländerbehörde]]*. Some people can also enter Germany without a visa, and apply directly for a residence permit.
 
-To apply for a residence permit, you need [public](/glossary/gesetzliche%20Krankenversicherung) or [private](/glossary/private%20Krankenversicherung) health insurance. [Expat health insurance](/glossary/Expat%20health%20insurance) is *sometimes* accepted.
+To apply for a residence permit, you need [public](/glossary/gesetzliche%20Krankenversicherung) or [private](/glossary/private%20Krankenversicherung) health insurance. [Expat health insurance](/glossary/Expat%20health%20insurance) is *sometimes* accepted. It depends on the residence permit you apply for.
 
 To change or renew an existing residence permit, expat health insurance is rarely accepted.
 
@@ -73,37 +73,28 @@ Don't choose health insurance yourself. You can make expensive mistakes. Choosin
 
 ### Expat health insurance options
 
-These insurers usually work:
+Insurance from these companies usually works for a [[National Visa]] application:
 
 - **[Feather](/out/feather-expats)**{{ RECOMMENDED }}  
-    It works really well.[^12] They sell public, private and expat health insurance from a few companies. They speak English. I work with them since 2018, and I trust them the most.
+    It works really well.[^12] It's a German company. They speak English, and they have excellent customer service. I work with them since 2018, and I trust them the most.
 - **[Ottonova](/out/ottonova-expats)**  
-    It works well too.[^4] They sell their own private and expat health insurance. They speak English. They are not the cheapest long-term option. - [My review of Ottonova](/guides/ottonova-review)
+    It works well too.[^4] They sell their own private and expat health insurance. They speak English. They are [not the best long-term option](/guides/ottonova-review).
 - **[Care Concept](/out/care-concept)**  
     It's usually accepted.[^5] It's not the best insurance, but it works.
+- **[Mawista](/out/mawista-expats)**  
+    It's usually accepted, but it's a bad insurance.[^11]
+- **[Dr Walter Educare24](/out/dr-walter)**  
+    Usually accepted for an opportunity card.
 - **[April International](https://de.april-international.com/de)**[^7]
-- **[aLC](https://www.alchealth.com/)**[^6]
 - **[Allianz Worldwide Care](https://www.allianzcare.com/en.html)**[^13]
 
 Some [blocked accounts](/glossary/Sperrkonto) include health insurance. It's rarely the best option. Choose health insurance separately.
 
-These insurers are less reliable:
-
-- **[Mawista](/out/mawista-expats)**  
-    It's usually accepted, but it's a bad insurance.[^11]
-- **[Cigna Global](/out/cigna)**  
-    Not always accepted.[^9]
-- **[Dr Walter Educare24](/out/dr-walter)**  
-    Sometimes rejected for an opportunity card, especially in Mumbai[^2]{{ fail_on('2025-10-01') }}
-
 [^0]: [Feather Insurance](https://feather-insurance.com/blog/how-can-i-use-expat-health-insurance-for-my-visa/#:~:text=expat%20insurance%20is%20almost%20always%20denied) (2025)
 [^1]: [schengenvisainfo.com](https://www.schengenvisainfo.com/schengen-visa-insurance/), [germany.info](https://www.germany.info/us-en/service/visa/medical-health-insurance/953982), [visaguide.world](https://visaguide.world/travel-insurance/europe/germany-travel-insurance/)
-[^2]: [Reddit](https://old.reddit.com/r/chancenkarte/comments/1jxedo2/reapplying_for_chancenkarte_visa_after_a_rejection/mmqobnl/) (May 2025), [Reddit](https://old.reddit.com/r/chancenkarte/comments/1j6apkd/german_consulate_rejected_dr_walter_educare24/) (March 2025), [Reddit](https://old.reddit.com/r/chancenkarte/comments/1jezp4p/dr_walters_educare24_health_insurance_rejectedany/) (March 2025)
 [^4]: [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/659867781148595/?comment_id=663168410818532), [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/675361512932555/), [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/697100177425355/), [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/515940132208028/), [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/489761834825858/?comment_id=489789594823082)
 [^5]: [Reddit](https://old.reddit.com/r/chancenkarte/comments/1jxedo2/reapplying_for_chancenkarte_visa_after_a_rejection/mnizh1q/) (May 2025), [Reddit](https://old.reddit.com/r/chancenkarte/comments/1k7i4ww/health_insurance_for_chancenkarte/) (May 2025), [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/789315664870472/?comment_id=792026081266097), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/3tkxvi/mawista_health_insurance_could_be_not_sufficient/cx810dd/), [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/754116128390426/?comment_id=754173935051312), [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/489761834825858/)
-[^6]: [Facebook](https://www.facebook.com/groups/berlinexpats/permalink/1705858052760307/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/4chwmn/berlin_lpt_for_all_expats_and_longterm_tourists/d1iy5fc/), [Facebook](https://www.facebook.com/groups/berlinexpats/permalink/1783388938340551/?comment_id=1784299188249526)
 [^7]: [Facebook](https://www.facebook.com/groups/berlinfreelancers/posts/4261939800553038/?__cft__[0]=AZV7zZrPivBoZDL0rqrnsaIM5z30t4Qa-eMFG7snPBMSv-0a8iDRS7ZuaBf6OBQb6EnLsMHZ5xMqbqEkJtg-mKCwqY8iUgAalwBIKyrQP6EwoXkmNvOdFyJ2N3a6_4JtSvc&__tn__=%2CO%2CP-R)
-[^9]: Confirmed by a Cigna employee (2022), [m.facebook.com](https://m.facebook.com/groups/germanfreelancevisa/permalink/1143842756084426/?anchor_composer=false)
-[^11]: Citation needed - Mawista sucks
+[^11]: [Reddit](https://old.reddit.com/r/germany/comments/1ico8k6/need_advice_mawista_insurance_refusing_to_cover/) (January 2025), [Reddit](https://old.reddit.com/r/germany/comments/ueu39a/dispute_with_mawista_caused_by_their_consultation/) (August 2023), [Reddit](https://old.reddit.com/r/germany/comments/12fp3fd/versicherung_doesnt_want_to_cover_hospital_fees/) (April 2023)
 [^12]: [Reddit](https://old.reddit.com/r/chancenkarte/comments/1ixplhc/health_insurance/meou5jr/) (February 2025), [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/659867781148595/?comment_id=663022727499767)
 [^13]: [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/659867781148595/)

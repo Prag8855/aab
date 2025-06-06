@@ -87,6 +87,10 @@ See the [requirements for a Working Holiday Visa ➞](#for-a-working-holiday-vis
 
 If you have a [minijob](/glossary/Minijob), you can choose [public](/glossary/gesetzliche%20Krankenversicherung) or [private health insurance](/glossary/private%20Krankenversicherung). Public is usually the best option.[^12] You can get [free health insurance](/guides/german-health-insurance#free-health-insurance). Otherwise, you pay the [minimum amount](/glossary/Mindestbeitrag): around €{{GKV_MIN_COST_SELF_PAY|cur}} per month. Your employer does not help you pay for health insurance.[^2]
 
+## For an internship
+
+See **[health insurance for an internship ➞](/guides/german-health-insurance/for-students#for-an-internship)**
+
 ## If you lose your job
 
 If you [lose your job](/guides/losing-your-job), you keep your health insurance. The coverage does not change.
