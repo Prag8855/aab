@@ -119,7 +119,7 @@ Before you apply for the work visa...
     - [ ] You must be allowed to [register your address](/glossary/Anmeldung). Your landlord must give you a [tenancy confirmation](/glossary/Wohnungsgeberbestätigung). If you can't get a tenancy confirmation, you might not get a work visa.[^1]
     - [ ] Your apartment must be affordable. Your total cost of living must be less than your income.
     - [ ] Your apartment must be big enough. You need 9 m^2^ per adult, and 6 m^2^ per child.[^54]
-- [ ] **[Get health insurance](/guides/german-health-insurance/for-a-visa-application#for-a-blue-card-or-work-visa)**  
+- [ ] **[Get health insurance](/guides/german-health-insurance/for-employees#for-a-blue-card-or-work-visa)**  
     You need valid [health insurance](/glossary/Krankenversicherung). [Ask my health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose the correct health insurance.
 - [ ] **Prepare the [required documents ➞](#required-documents)**
 
