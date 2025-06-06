@@ -11,7 +11,7 @@ Related_guides:
     guides/freelance-visa.md
     guides/moving-to-berlin.md
     guides/german-work-visa-to-freelance-visa.md
-    guides/german-visa-health-insurance.md
+    guides/german-health-insurance/for-a-visa-application.md
 ---
 
 If you are not a citizen of the [EU](/glossary/European%20Union), [[EEA]] or Switzerland, you need a residence permit (*Aufenthaltstitel* or *Aufenthaltserlaubnis*) to live in Germany.

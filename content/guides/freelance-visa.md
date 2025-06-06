@@ -111,7 +111,7 @@ Before you apply for the freelance visa...
     - [ ] You must be allowed to [register your address](/glossary/Anmeldung). Your landlord must give you a [tenancy confirmation](/glossary/Wohnungsgeberbestätigung). If you can't get a tenancy confirmation, you might not get a freelance visa.[^1]
     - [ ] Your rent must be affordable. In Berlin, your income must be more than your rent + your health insurance + €{{FREELANCE_VISA_MIN_INCOME|cur}} per month before taxes.[^53]
     - [ ] Your apartment must be big enough. You need 9 m^2^ per adult, and 6 m^2^ per child.[^80]
-- [ ] **[Get health insurance](/guides/german-visa-health-insurance#for-a-freelance-visa)**  
+- [ ] **[Get health insurance](/guides/german-health-insurance/for-freelancers#insurance-for-a-freelance-visa)**  
     You need valid [health insurance](/glossary/Krankenversicherung). Many applications are rejected because of invalid health insurance.[^30] [Ask my health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose the correct health insurance. Don't choose insurance yourself; it's a really bad idea. Many applications get rejected because people have the wrong health insurance.[^21]
 - [ ] **Prepare the [required documents ➞](#required-documents)**  
     This takes a few weeks. Start as soon as you can.

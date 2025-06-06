@@ -6,7 +6,7 @@ Description: A type of short-term health insurance that is useful when applying 
 Date_created: 2020-02-21
 Related_guides:
     guides/german-health-insurance.md
-    guides/german-visa-health-insurance.md
+    guides/german-health-insurance/for-a-visa-application.md
     tools/health-insurance-calculator.md
 ---
 
@@ -16,4 +16,4 @@ Expat health insurance or incoming health insurance is a temporary health insura
 
 You can get expat health insurance from a [health insurance broker](/guides/german-health-insurance#insurance-brokers), or directly from [Feather](/out/feather-expats) and [Ottonova](/out/ottonova-expats).
 
-**[List of expat insurance options ➞](/guides/german-visa-health-insurance#expat-health-insurance-options)**
+**[List of expat insurance options ➞](/guides/german-health-insurance/for-a-visa-application#expat-health-insurance-options)**

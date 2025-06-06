@@ -10,7 +10,7 @@ Related_guides:
     guides/moving-to-berlin.md
     guides/blue-card.md
     guides/work-visa.md
-    guides/german-visa-health-insurance.md
+    guides/german-health-insurance/for-a-visa-application.md
 ---
 
 A National Visa (or Category D visa) lets you move to Germany and start working or studying. It's valid for 3 to 12 months.[^1]

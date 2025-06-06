@@ -15,7 +15,7 @@ This review explains why **you should not choose Ottonova**, and what you should
 
 Ottonova is a very small insurer with great marketing.[^8] It's okay, but it's not special.[^1] You can find better, cheaper health insurance if you [ask an expert](/guides/german-health-insurance#insurance-brokers).
 
-If you need health insurance for a visa or residence permit application, there are [other options](/guides/german-visa-health-insurance).
+If you need health insurance for a visa or residence permit application, there are [other options](/guides/german-health-insurance/for-a-visa-application).
 
 ## Don't trust the marketing
 
@@ -39,7 +39,7 @@ Ottonova's health insurance works for this. You can use it to apply for a [freel
 
 **[How to apply for a residence permit ➞](/guides/residence-permit)**
 
-**[Health insurance for a residence permit ➞](/guides/german-visa-health-insurance)**
+**[Health insurance for a residence permit ➞](/guides/german-health-insurance/for-a-visa-application)**
 
 ### It's expensive
 
@@ -84,7 +84,7 @@ There are hundreds of health insurance options. The best option depends on your 
 
 You should...
 
-1. Understand [how to choose health insurance](/guides/german-health-insurance), and [which health insurance you need for your residence permit](/guides/german-visa-health-insurance). Use my [health insurance picker](/tools/health-insurance-calculator) to know your options are.
+1. Understand [how to choose health insurance](/guides/german-health-insurance), and [which health insurance you need for your residence permit](/guides/german-health-insurance/for-a-visa-application). Use my [health insurance picker](/tools/health-insurance-calculator) to know your options.
 2. [Talk to a health insurance broker](/guides/german-health-insurance#insurance-brokers), who will help you choose the best option for *your* situation. Their help is free. If Ottonova is the best insurance for you, they will tell you.
 3. If it still makes sense, [get a quote from Ottonova](/out/ottonova), and decide if it works for you.
 

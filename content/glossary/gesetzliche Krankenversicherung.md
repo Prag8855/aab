@@ -6,7 +6,7 @@ Description: Statutory health insurance, one of the two types of German health i
 Date_created: 2018-11-30
 Related_guides:
     guides/german-health-insurance.md
-    guides/german-visa-health-insurance.md
+    guides/german-health-insurance/for-a-visa-application.md
     tools/health-insurance-calculator.md
     guides/german-versicherungsnummer.md
     guides/insurance.md

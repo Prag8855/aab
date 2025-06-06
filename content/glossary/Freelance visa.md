@@ -18,7 +18,7 @@ Related_guides:
     guides/blue-card.md
     guides/work-visa.md
     guides/permanent-residence.md
-    guides/german-visa-health-insurance.md
+    guides/german-health-insurance/for-a-visa-application.md
 ---
 
 The freelance visa is a [residence permit](/glossary/Aufenthaltstitel) for self-employment in Germany.

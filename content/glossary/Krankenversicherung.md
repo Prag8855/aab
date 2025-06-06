@@ -8,7 +8,7 @@ Related_guides:
     guides/german-health-insurance.md
     tools/health-insurance-calculator.md
     guides/insurance.md
-    guides/german-visa-health-insurance.md
+    guides/german-health-insurance/for-a-visa-application.md
     guides/cost-of-living.md
     guides/taxes.md
     tools/tax-calculator.md

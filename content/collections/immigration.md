@@ -12,7 +12,7 @@ Related_guides:
     guides/auslanderbehorde-wait-times.md
     guides/fiktionsbescheinigung.md
     guides/biometric-pictures-in-berlin.md
-    guides/german-visa-health-insurance.md
+    guides/german-health-insurance/for-a-visa-application.md
     guides/relocation-agency-in-berlin.md
 Order: 110
 ---

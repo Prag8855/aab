@@ -3,7 +3,7 @@ Title: Healthcare
 Description: Guides for the healthy Berliner
 Related_guides:
     guides/german-health-insurance.md
-    guides/german-visa-health-insurance.md
+    guides/german-health-insurance/for-a-visa-application.md
     guides/how-to-find-english-speaking-medical-professionals-in-berlin.md
     guides/list-of-english-speaking-dentists-in-berlin.md
     guides/sick-leave.md

@@ -15,7 +15,7 @@ Related_guides:
     guides/immigration-office.md
     guides/auslanderbehorde-wait-times.md
     guides/german-work-visa-to-freelance-visa.md
-    guides/german-visa-health-insurance.md
+    guides/german-health-insurance/for-a-visa-application.md
     guides/freelance-visa-letter-of-intent.md
 Categories:
     auslaenderbehoerde

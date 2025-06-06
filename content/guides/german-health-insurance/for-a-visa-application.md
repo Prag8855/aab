@@ -4,7 +4,7 @@ Short_title: Health insurance for a German visa
 Description: This guide helps you find the best health insurance to apply for a German visa or residence permit.
 Date_created: 2020-02-21
 Related_reviews:
-    reviews/german-visa-health-insurance/dr-rob-schumacher.md
+    reviews/german-health-insurance/for-a-visa-application/dr-rob-schumacher.md
 ---
 
 This guide explains which health insurance you need for a visa or [residence permit](/glossary/Aufenthaltstitel) application.
@@ -85,12 +85,11 @@ These insurers usually work:
 
 These insurers are less reliable:
 
-- **[Mawista Expatcare](/out/mawista-expats)** is not always accepted[^8]
+- **[Mawista Expatcare](/out/mawista-expats)** is usually accepted, but it's a bad insurance.[^11]
 - **[Cigna Global](/out/cigna)** is not always accepted[^9]
 
 [^0]: [Feather Insurance](https://feather-insurance.com/blog/how-can-i-use-expat-health-insurance-for-my-visa/#:~:text=expat%20insurance%20is%20almost%20always%20denied) (2025)
 [^1]: [schengenvisainfo.com](https://www.schengenvisainfo.com/schengen-visa-insurance/), [germany.info](https://www.germany.info/us-en/service/visa/medical-health-insurance/953982), [visaguide.world](https://visaguide.world/travel-insurance/europe/germany-travel-insurance/)
-[^2]: [Dr. Rob Schumacher](/out/feather) (November 2023)
 [^3]: [berlin.de](https://service.berlin.de/dienstleistung/324661/en/)
 [^4]: [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/659867781148595/?comment_id=663168410818532), [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/675361512932555/), [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/697100177425355/), [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/515940132208028/), [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/489761834825858/?comment_id=489789594823082)
 [^5]: [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/789315664870472/?comment_id=792026081266097), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/3tkxvi/mawista_health_insurance_could_be_not_sufficient/cx810dd/), [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/754116128390426/?comment_id=754173935051312), [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/489761834825858/)
@@ -100,4 +99,4 @@ These insurers are less reliable:
 [^9]: Confirmed by a Cigna employee (2022), [m.facebook.com](https://m.facebook.com/groups/germanfreelancevisa/permalink/1143842756084426/?anchor_composer=false)
 [^12]: [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/659867781148595/?comment_id=663022727499767)
 [^13]: [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/659867781148595/)
-[^14]: Rob Schumacher at Feather (November 2023), personal experience (2015)
+[^11]: Citation needed - Mawista sucks

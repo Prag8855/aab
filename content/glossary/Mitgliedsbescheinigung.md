@@ -6,7 +6,7 @@ Description: A document that proves that you have health insurance.
 Date_created: 2025-05-28
 Related_guides:
     guides/german-health-insurance.md
-    guides/german-visa-health-insurance.md
+    guides/german-health-insurance/for-a-visa-application.md
     guides/residence-permit.md
     guides/ksk-kuenstlersozialkasse.md
 ---

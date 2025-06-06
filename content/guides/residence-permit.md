@@ -149,7 +149,7 @@ Before you apply for a residence permit...
     - [ ] You must be allowed to [register your address](/glossary/Anmeldung). Your landlord must give you a [tenancy confirmation](/glossary/Wohnungsgeberbestätigung). If you can't get a tenancy confirmation, you might not get a residence permit.[^23]
     - [ ] Your rent must be affordable. Your total cost of living must be less than your income.
     - [ ] Your apartment must be big enough. In Berlin, you need 9 m^2^ per adult, and 6 m^2^ per child.[^20]
-- [ ] **[Get health insurance](/guides/german-visa-health-insurance)**  
+- [ ] **[Get health insurance](/guides/german-health-insurance/for-a-visa-application)**  
     You need valid [health insurance](/glossary/Krankenversicherung). [Ask my health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose the correct health insurance.
 - [ ] **Prepare the required documents**  
     The required documents are different at each *[[Ausländerbehörde]]*, and for each residence permit. Check the required documents for the [Blue Card](/guides/blue-card#required-documents), [work visa](/guides/work-visa#required-documents), [freelance visa](/guides/freelance-visa#required-documents) or [permanent residence](/guides/permanent-residence#required-documents).
@@ -313,7 +313,7 @@ Before your embassy or consulate appointment, you must...
 
 - [ ] **[Find a place to live](/guides/find-a-flat-in-berlin) in Germany**  
     Some embassies and consulates ask for it.[^16] It's really hard to find an apartment before you arrive in Germany. Find a temporary place like a hotel room or a furnished apartment to get your National Visa.[^17] After you arrive in Germany, find an apartment where you can [register your address](/glossary/Anmeldung).
-- [ ] **[Get health insurance](/guides/german-visa-health-insurance#for-a-national-visa)**  
+- [ ] **[Get health insurance](/guides/german-health-insurance/for-a-visa-application#for-a-national-visa)**  
     You need valid [health insurance](/glossary/Krankenversicherung). [Ask my health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose the correct health insurance.
 - [ ] **Prepare the required documents**  
     The required documents are different in each country. [Find your German embassy or consulate](/out/consulate-finder), and use their list of required documents.

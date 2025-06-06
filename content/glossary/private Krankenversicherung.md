@@ -6,7 +6,7 @@ Description: Health insurance managed by a private company. An alternative to pu
 Date_created: 2018-11-30
 Related_guides:
     guides/german-health-insurance.md
-    guides/german-visa-health-insurance.md
+    guides/german-health-insurance/for-a-visa-application.md
     tools/health-insurance-calculator.md
     guides/ottonova-review.md
     guides/insurance.md

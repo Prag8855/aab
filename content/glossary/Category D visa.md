@@ -10,7 +10,7 @@ Related_guides:
     guides/moving-to-berlin.md
     guides/blue-card.md
     guides/work-visa.md
-    guides/german-visa-health-insurance.md
+    guides/german-health-insurance/for-a-visa-application.md
 ---
 
 See [[National Visa]].

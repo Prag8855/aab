@@ -7,7 +7,7 @@ Date_created: 2019-07-21
 Related_guides:
     guides/ottonova-review.md
     guides/german-health-insurance.md
-    guides/german-visa-health-insurance.md
+    guides/german-health-insurance/for-a-visa-application.md
     tools/health-insurance-calculator.md
     guides/techniker-krankenkasse-review.md
     guides/insurance.md

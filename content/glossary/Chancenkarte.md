@@ -12,7 +12,7 @@ Related_guides:
     guides/freelance-visa.md
     guides/work-visa.md
     guides/blue-card.md
-    guides/german-visa-health-insurance.md
+    guides/german-health-insurance/for-a-visa-application.md
 ---
 
 The opportunity card (*Chancenkarte*) is a [[National Visa]]. It allows you to come to Germany to [look for a job](/guides/find-a-job-in-berlin). It mostly replaces the [job seeker visa](/glossary/Job%20seeker%20visa).

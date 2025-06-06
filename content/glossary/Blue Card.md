@@ -15,7 +15,6 @@ Related_guides:
     guides/fragebogen-zur-steuerlichen-erfassung.md
     guides/moving-to-berlin.md
     guides/german-work-visa-to-freelance-visa.md
-    guides/german-visa-health-insurance.md
 ---
 
 The EU Blue Card (*Blaue Karte*) is a [residence permit](/glossary/Aufenthaltstitel) for skilled workers.

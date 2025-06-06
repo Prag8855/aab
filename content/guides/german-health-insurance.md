@@ -233,13 +233,13 @@ If you want to stay in Germany for a long time, don't stay on expat insurance. I
 
 Get expat health insurance from a [health insurance broker](#insurance-brokers). [Feather](/out/feather-expats) and [Ottonova](/out/ottonova-expats) sell expat insurance, but brokers compare all options from all insurers.
 
-**[List of expat insurance options ➞](/guides/german-visa-health-insurance#expat-health-insurance-options)**
+**[List of expat insurance options ➞](/guides/german-health-insurance/for-a-visa-application#expat-health-insurance-options)**
 
 ### Travel health insurance
 
 Travel health insurance covers medical emergencies when you visit another country. It does not cover therapy, long-term treatments, health check-ups or pre-existing conditions.
 
-- **[If you visit Germany](/guides/german-visa-health-insurance#for-a-schengen-visa)**, travel insurance covers you during your trip. You need travel health insurance to get a [[Schengen visa]]. It does not cover you after you [move to Germany](/guides/moving-to-berlin). It's rarely valid for a [residence permit](/glossary/Aufenthaltstitel) application.
+- **[If you visit Germany](/guides/german-health-insurance/for-a-visa-application#for-a-schengen-visa)**, travel insurance covers you during your trip. You need travel health insurance to get a [[Schengen visa]]. It does not cover you after you [move to Germany](/guides/moving-to-berlin). It's rarely valid for a [residence permit](/glossary/Aufenthaltstitel) application.
 - **If you move to Germany**, travel health insurance is not valid. You must get public, private or expat health insurance.
 - **If you live in Germany**, travel health insurance covers medical emergencies when you when you travel to other countries. It costs around €40 per year.[^78] If you have [private health insurance](/glossary/private%20Krankenversicherung), it usually includes travel insurance.
 
@@ -312,7 +312,7 @@ German embassies and consulates sometimes accept expat health insurance when you
 
 The *[[Ausländerbehörde]]* sometimes accepts expat health insurance when you apply for your first [residence permit](/glossary/Aufenthaltstitel). It does not work when you change or renew your residence permit.[^21]
 
-**[Health insurance for a visa application ➞](/guides/german-visa-health-insurance)**
+**[Health insurance for a visa application ➞](/guides/german-health-insurance/for-a-visa-application)**
 
 ### Choose travel health insurance if...
 
@@ -321,7 +321,7 @@ The *[[Ausländerbehörde]]* sometimes accepts expat health insurance when you a
 - **You apply for a [[Schengen visa]]**  
     You need valid health insurance to apply for the Schengen visa. [HanseMerkur Visa Plus](/out/hansemerkur-travel) works well for this.
 
-**[Health insurance for a Schengen visa ➞](/guides/german-visa-health-insurance#for-a-schengen-visa)**
+**[Health insurance for a Schengen visa ➞](/guides/german-health-insurance/for-a-visa-application#for-a-schengen-visa)**
 
 ### Insurance brokers
 
