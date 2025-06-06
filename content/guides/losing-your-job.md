@@ -251,25 +251,9 @@ Your [permanent residence](/glossary/Niederlassungserlaubnis) or citizenship app
 
 ## What happens to your health insurance
 
-### With public health insurance
+When you lose your job, you stay insured. The coverage stays the same. If you get [unemployment benefits](/glossary/ALG%20I), you usually get free health insurance.
 
-Your [public health insurance](/glossary/gesetzliche%20Krankenversicherung) becomes cheaper. The coverage stays the same.
-
-- **If you get [unemployment benefits](/glossary/ALG%20I)**, your health insurance is free. The *[[Agentur für Arbeit]]* pays for it.[^17]
-- **If you don't get unemployment benefits**, you pay around [around €{{GKV_MIN_COST_SELF_PAY|cur}} per month](/glossary/Mindestbeitrag). You can get [free health insurance](/guides/german-health-insurance#free-health-insurance) from your spouse or your parents.[^7]
-
-In some cases, your health insurance is free for 1 month after you lose your job (*nachgehender Leistungsanspruch*).[^18] This happens automatically; you don't need to apply for it.
-
-### With private health insurance
-
-Your [private health insurance](/glossary/private%20Krankenversicherung) becomes more expensive, because you employer stops paying half of it. The coverage stays the same.
-
-- **If you get [unemployment benefits](/glossary/ALG%20I)**  
-    You must switch to [public health insurance](/glossary/gesetzliche%20Krankenversicherung). The *[[Agentur für Arbeit]]* pays for your health insurance, so you are covered for free.[^1] In some cases, you can keep your private health insurance.[^2]
-- **If you don't get unemployment benefits**  
-    You keep your private health insurance.[^3] Your employer does not pay half of it. For example, if your private health insurance costs €500 per month, your employer paid €250, and you paid €250. If you lose your job, you pay €500 alone without help.
-
-**[Who gets unemployment benefits ➞](/guides/unemployment-benefits#who-can-get-unemployment-benefits)**
+**[Health insurance when unemployed ➞](/guides/german-health-insurance/when-unemployed)**
 
 ## What happens to your pay and bonuses
 
@@ -308,13 +292,9 @@ If you need help, get legal help. In Germany, it's normal to hire a lawyer. It's
 
 **[Where to get legal help ➞](/guides/questions-about-berlin#work-questions)**
 
-[^1]: [Feather](https://faq.feather-insurance.com/en/articles/28591-i-ve-just-lost-my-job-what-happens-to-my-private-health-insurance)
-[^2]: [Feather](https://faq.feather-insurance.com/en/articles/28591-i-ve-just-lost-my-job-what-happens-to-my-private-health-insurance)
-[^3]: [Feather](https://faq.feather-insurance.com/en/articles/28591-i-ve-just-lost-my-job-what-happens-to-my-private-health-insurance)
 [^4]: [VAB A.18g.4](/out/vab) (December 2024), [§82 Abs. 6 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__82.html)
 [^5]: [§7 Abs. 2 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__7.html), [7.2.2 VAB](/out/vab), [David Kremers](https://www.linkedin.com/pulse/mutual-obligations-case-early-termination-employment-non-eu-kremers/?utm_source=share&utm_medium=member_ios&utm_campaign=share_via#:~:text=usually%2C%20nothing%20happens%20at%20first), [anwalt.de](https://www.anwalt.de/rechtstipps/blaue-karte-eu-was-tun-bei-arbeitgeberwechsel-oder-kuendigung-211321.html), [make-it-in-germany.com](https://www.make-it-in-germany.com/de/blaue-karte-eu#:~:text=danach%20kann%20nach%20%C2%A7%2018c%20aufenthg%20fur%20maximal%20ein%20halbes%20jahr), [Facebook](https://www.facebook.com/groups/226825394858771/?multi_permalinks=1328506994690600), Charlott Posch of the [Willkommenszentrum](https://www.berlin.de/willkommenszentrum/) (June 2023), Beratungsservice of the Ausländerbehörde (June 2023), [Red Tape Translation](/out/red-tape-translation) (July 2023), Carina Senf at [Rotwang Law](https://rotwang-law.de/en/) (July 2023), [BAMF](https://www.bamf.de/EN/Themen/MigrationAufenthalt/ZuwandererDrittstaaten/Arbeit/Fachkraft/fachkraft-node.html#:~:text=you%20have%20the%20option%20of%20applying%20for%20a%20residence%20permit%20for%20up%20to%20six%20months%20to%20look%20for%20a%20job)
 [^6]: [Techniker Krankenkasse](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-versicherte/veraenderung-berufliche-situation/wenn-sie-arbeitslos-sind/werde-arbeitslos-wie-bin-ich-versichert-2005726)
-[^7]: [Techniker Krankenkasse](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-versicherte/veraenderung-berufliche-situation/wenn-sie-arbeitslos-sind/werde-arbeitslos-wie-bin-ich-versichert-2005726)
 [^8]: [§9 Abs. 1 BeschV](https://www.gesetze-im-internet.de/beschv_2013/__9.html)
 [^9]: [wiwi-treff.de](https://www.wiwi-treff.de/Kuendigung/Kuendigungsfrist-3-Monate/Diskussion-22909#:~:text=eine%20kundigungsfrist%20von%20drei%20monaten%20ist%20eher%20die%20regel%20als%20die%20ausnahme)
 [^10]: [Finanztip](https://www.finanztip.de/fristlose-kuendigung/)
@@ -324,8 +304,6 @@ If you need help, get legal help. In Germany, it's normal to hire a lawyer. It's
 [^14]: [spiegel.de](https://www.spiegel.de/karriere/leitfaden-ich-kuendige-aber-richtig-a-858159.html#:~:text=%20was%20ist%20mit%20resturlaub%3F%20)
 [^15]: [verdi.de](https://www.verdi.de/themen/arbeit/++co++6c32cc08-6d54-11ec-b675-001a4a16012a), [§109 GewO](https://www.gesetze-im-internet.de/gewo/__109.html)
 [^16]: [karrierebibel.de](https://karrierebibel.de/arbeitszeugnis/)
-[^17]: [aok.de](https://www.aok.de/pk/krankenkassenbeitraege/arbeitslosigkeit/#:~:text=fur%20empfanger%20von%20arbeitslosengeld%20ubernimmt%20die%20bundesagentur%20fur%20arbeit%20die%20beitrage)
-[^18]: [Finanztip](https://www.finanztip.de/gkv/nachgehender-leistungsanspruch/)
 [^19]: [arbeitnow.com](https://www.arbeitnow.com/blog/fired-in-germany#what-you-should-not-do-when-you-are-fired), [Finanztip](https://www.finanztip.de/aufhebungsvertrag/#c15632)
 [^20]: [Finanztip](https://www.finanztip.de/aufhebungsvertrag/#:~:text=dein%20arbeitgeber%20kann%20dich%20nicht%20zwingen)
 [^21]: [§1a KSchG](https://www.gesetze-im-internet.de/kschg/__1a.html)

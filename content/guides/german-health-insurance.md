@@ -206,7 +206,7 @@ The state pays for your public health insurance if...[^45]
 - or you get *[[Bürgergeld]]*
 - or you get *[[Elterngeld]]* (in some cases)
 
-When you [lose your job](/guides/losing-your-job), you sometimes get [one month of free health insurance](/guides/losing-your-job#what-happens-to-your-health-insurance). Your current health insurance pays for it.
+[When you lose your job](/guides/german-health-insurance/when-unemployed), your public health insurance is sometimes free for 1 month (*nachgehender Leistungsanspruch*). This happens automatically; you don't need to apply for it.
 
 ## Other options
 
