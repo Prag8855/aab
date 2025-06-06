@@ -1,7 +1,7 @@
 ---
-Title: What is a blocking account (Sperrkonto)?
+Title: What is a blocked account (Sperrkonto)?
 German_term: Sperrkonto
-English_term: Blocking account
+English_term: Blocked account
 Description: A bank account that restricts how you can access your money.
 Date_created: 2018-07-31
 Related_guides:
@@ -9,8 +9,8 @@ Related_guides:
     guides/best-bank-germany.md
 ---
 
-A blocking account (*Sperrkonto*) is a special type of bank account. A *Sperrkonto* is a requirement when applying for certain visas and [residence permits](/glossary/Aufenthaltstitel).
+A blocked account (*Sperrkonto*) is a special type of bank account. You need a *Sperrkonto* to apply for certain German visas.
 
 Unlike a normal bank account, a blocked account only lets you withdraw a fixed amount every month.
 
-**[Banks that offer blocking accounts ➞](/guides/best-bank-germany#blocking-account-for-students)**
+**[Banks that offer blocked accounts ➞](/guides/best-bank-germany#blocked-account-for-students)**

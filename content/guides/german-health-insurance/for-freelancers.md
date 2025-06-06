@@ -105,6 +105,7 @@ If you are self-employed, **never choose health insurance yourself**. It's a com
 
 [^1]: [Feather Insurance](https://feather-insurance.com/blog/how-can-i-use-expat-health-insurance-for-my-visa/#:~:text=expat%20insurance%20is%20almost%20always%20denied) (2025)
 [^2]: [finanztip.de](https://www.finanztip.de/pkv/pkv-wechsel/#:~:text=gerade%20zu%20beginn%20deiner%20selbststandigkeit%20empfehlen%20wir%20dir%2C%20in%20der%20gkv%20zu%20bleiben) (January 2025), [Feather Insurance](https://feather-insurance.com/blog/public-vs-private-health-insurance-germany/?utm_source=allaboutberlin#:~:text=%20if%20you%E2%80%99re%20a%20high-earner) (April 2025), [Emily Archer](https://www.archer-relocation.com/) (April 2025)
+[^3]: [Feather Insurance](https://feather-insurance.com/blog/how-can-i-use-expat-health-insurance-for-my-visa/?utm_source=allaboutberlin#:~:text=then%20we%20recommend%20you%20get%20public%20health%20insurance) (June 2025)
 [^55]: [Emily Archer](https://www.archer-relocation.com/) says that the amount is not fixed, but that insurers need to see that you can cover your insurance bills (April 2025), [Seamus Wolf](/out/horizon65) (April 2025)
 [^69]: [Seamus Wolf](/out/horizon65) (April 2025)
 [^71]: [Seamus Wolf](/out/horizon65) (June 2025), [Emily Archer](https://www.archer-relocation.com/) (April 2025)

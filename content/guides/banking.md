@@ -29,7 +29,7 @@ Use a **Depot** or trading account to invest in stocks and ETFs. This is a popul
 
 Open a **business account** for your business. It's optional, but [it's a really good idea](/guides/start-a-business-in-germany#open-a-bank-account). Some banks don't let you use your personal account for your business. Having a separate business account makes accounting easier.
 
-Foreign students might need a **blocking account** (*[[Sperrkonto]]*) to get a [residence permit](/glossary/Aufenthaltstitel). You put your money into this account, and you get a fixed amount back every month. This guarantees that you will have money to support yourself while you study in Germany.
+Foreign students might need a **blocked account** (*[[Sperrkonto]]*) to get a [residence permit](/glossary/Aufenthaltstitel). You put your money into this account, and you get a fixed amount back every month. This guarantees that you will have money to support yourself while you study in Germany.
 
 The money you put in your *Girokonto* and *Tagesgeldkonto* is insured up to €100,000. Even if the bank closes, you get your money back. Money in your *Depot* account is not insured.[^4]
 

@@ -58,7 +58,7 @@ To apply for a [[Chancenkarte]], you have 3 options:[^14]
 - **[Private health insurance](/glossary/private%20Krankenversicherung)**  
     If you have a job offer, and you earn more than €{{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}} per year, you can get private health insurance. Private can be better or cheaper than public.
 
-You can get public or expat health insurance from [Feather](/out/feather-expats). You can also [ask my insurance expert](/guides/german-health-insurance#insurance-brokers) to find the best insurance for you. It's the safest way to choose.
+**[Feather](/out/feather-expats)** sells valid public and expat health insurance. I work with them since 2018. You can also [ask my insurance expert](/guides/german-health-insurance#insurance-brokers) to find the best insurance for you. It's the safest way to choose.
 
 Some [blocked accounts](/glossary/Sperrkonto) include health insurance. It's rarely the best health insurance. You should choose insurance separately.
 

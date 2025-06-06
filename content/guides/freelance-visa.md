@@ -222,7 +222,7 @@ There are two types of self-employed people. They get a different kind of freela
     - [ ] and **proof of rent payments**  
         You must show what you really pay for housing. Print recent bank statements that show rent payments.[^52]
 - [ ] **Bank statements**  
-    It shows how much savings you have.[^74] In Berlin, €3,000 to €5,000 in savings is usually enough.[^28] In other cities, you might need around €10,000.[^22] You don't need a [blocking account](/glossary/Sperrkonto). If you can, use a German bank.[^61] If it's in another currency, convert it to euros.
+    It shows how much savings you have.[^74] In Berlin, €3,000 to €5,000 in savings is usually enough.[^28] In other cities, you might need around €10,000.[^22] You don't need a [blocked account](/glossary/Sperrkonto). If you can, use a German bank.[^61] If it's in another currency, convert it to euros.
 - [ ] **Translations**  
     If your documents are not in German, bring translations. For certificates and official documents, bring [certified translations](/glossary/beglaubigte%20Übersetzung). They *sometimes* accept untranslated documents, but don't take the risk.[^32] Get translations from [Red Tape Translation](/out/red-tape-translation-certified) or [Lingoking](/out/lingoking).
 

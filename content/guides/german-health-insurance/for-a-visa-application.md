@@ -85,7 +85,7 @@ These insurers usually work:
 - **[aLC](https://www.alchealth.com/)**[^6]
 - **[Allianz Worldwide Care](https://www.allianzcare.com/en.html)**[^13]
 
-Some [blocked accounts](/glossary/Sperrkonto) include health insurance. It's rarely the option. Choose health insurance separately.
+Some [blocked accounts](/glossary/Sperrkonto) include health insurance. It's rarely the best option. Choose health insurance separately.
 
 These insurers are less reliable:
 

@@ -194,7 +194,7 @@ There are a few differences:
 - **No [[Schufa]] record**  
     Usually, opening a bank account is a good way to get your first Schufa record. Non-German banks don't create a Schufa record.
 
-## Blocking account for students
+## Blocked account for students
 
 To apply for a [student visa](/glossary/Student%20visa), you usually need a proof of financial resources (*[[Finanzierungsnachweis]]*) like a scholarship or a blocked account (*[[Sperrkonto]]*).[^40]
 
@@ -207,6 +207,8 @@ You can open a blocked account with...
 - [Coracle](/out/coracle)
 - [Sparkasse](/out/sparkasse), but only at some branches[^41]
 - [Kotak Mahindra Bank](https://www.kotak.com/en/digital-banking/insta-services/send-money-abroad/kotak-german-blocked-account-sperrkonto.html) in India[^43]{{ fail_on('2025-12-15') }}
+
+Some [blocked accounts](/glossary/Sperrkonto) include health insurance. It's rarely the best option. [Choose health insurance](/guides/german-health-insurance) separately.
 
 Deutsche Bank stopped offering blocked accounts.[^42]
 
