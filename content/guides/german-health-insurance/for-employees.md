@@ -60,6 +60,12 @@ To apply for a [[Chancenkarte]], you have 3 options:[^14]
 
 You can get public or expat health insurance from [Feather](/out/feather-expats). You can also [ask my insurance expert](/guides/german-health-insurance#insurance-brokers) to find the best insurance for you. It's the safest way to choose.
 
+Some [blocked accounts](/glossary/Sperrkonto) include health insurance. It's rarely the best health insurance. You should choose insurance separately.
+
+The consulate in Mumbai often rejects expat health insurance for an opportunity card.[^1]{{ fail_on('2025-10-01') }}
+
+**[List of expat insurance options ➞](/guides/german-health-insurance/for-a-visa-application#expat-health-insurance-options)**
+
 ### For a job seeker visa
 
 **If you are moving to Germany**, you need [expat health insurance](/glossary/Expat%20health%20insurance). When you [start working](/guides/find-a-job-in-berlin#start-working), you must switch to [public](/glossary/gesetzliche%20Krankenversicherung) or [private health insurance](/glossary/private%20Krankenversicherung).
@@ -100,6 +106,7 @@ If you choose public health insurance, there are dozens of options, but their pr
 
 **[How to get insured ➞](/guides/german-health-insurance#how-to-get-insured)**
 
+[^1]: [Feather Insurance](https://feather-insurance.com/blog/chancenkarte-how-to-apply/#:~:text=the%20mumbai%20consulate%20has%20shown%20resistance%20to%20this%20solution) (May 2025), [Reddit](https://old.reddit.com/r/chancenkarte/comments/1jxedo2/reapplying_for_chancenkarte_visa_after_a_rejection/mmqobnl/) (May 2025), [Reddit](https://old.reddit.com/r/chancenkarte/comments/1j6apkd/german_consulate_rejected_dr_walter_educare24/) (March 2025), [Reddit](https://old.reddit.com/r/chancenkarte/comments/1jezp4p/dr_walters_educare24_health_insurance_rejectedany/) (March 2025)
 [^2]: [minijob-zentrale.de](https://www.minijob-zentrale.de/DE/die-minijobs/versicherungen/detailseite.html#:~:text=ist%20ein%20solidarbeitrag.%20daraus%20entsteht%20fur%20den%20minijobber) (February 2025)
 [^4]: [Seamus Wolf](/out/horizon65) (April 2025), [Emily Archer](https://www.archer-relocation.com/) (April 2025)
 [^5]: [Seamus Wolf](/out/horizon65) (April 2025), [finanztip](https://www.finanztip.de/pkv/pkv-kosten/#:~:text=fur%20junge%2C%20gesunde%20menschen%20ist%20die%20private%20krankenversicherung) (February 2025), [verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/krankenversicherung/private-krankenversicherung-nicht-fuer-jeden-sinnvoll-13884#:~:text=kann%20es%20unter%20finanziellen%20gesichtspunkten%20sinnvoll%20sein%2C%20in%20eine%20private%20krankenversicherung%20zu%20wechseln) (2024)
