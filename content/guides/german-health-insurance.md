@@ -155,7 +155,7 @@ The cost of private health insurance is [tax-deductible](/glossary/steuerlich%20
 
 The coverage depends on the plan you choose. **Necessary healthcare is always covered.** The coverage is usually equal or better to public health insurance.
 
-The overall coverage is unlimited. There is no yearly limit. If you get cancer and the treatment costs millions of euros, your insurance pays for everything. Some treatments might have [deductibles](/glossary/Selbstbeteiligung) or yearly limits. For example, some plans have coverage limits for psychotherapy.[^60] A [broker](#insurance-brokers) can help you choose a plan that fits your needs.
+The overall coverage is unlimited. There is no yearly cost limit. If you get cancer and the treatment costs millions of euros, your insurance pays for everything. Some treatments might have [deductibles](/glossary/Selbstbeteiligung) or yearly limits. For example, some plans have coverage limits for psychotherapy.[^60] A [broker](#insurance-brokers) can help you choose a plan that fits your needs.
 
 You can customize your coverage. For example, your insurance can cover extra services like dental care, [eyeglasses](/guides/eyeglasses) and laser eye surgery. It can cover better dental implants, a better wheelchair, or a better hospital room. You can also get lower coverage to pay less every month.
 
