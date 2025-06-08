@@ -1,11 +1,11 @@
 ---
 Title: German health insurance for freelancers
 Short_title: Health insurance for freelancers
-Description: This guide explains how to choose the best health insurance for self-employment in Germany.
+Description: This guide helps you choose the best health insurance for self-employment in Germany.
 Date_created: 2025-06-02
 ---
 
-All German residents need health insurance. This guide helps you choose the best health insurance for self-employment.
+This guide helps you choose the best health insurance for self-employment. All German residents need health insurance. You need it to [apply for a freelance visa](/guides/freelance-visa).
 
 {% include "_blocks/tableOfContents.html" %}
 

@@ -5,7 +5,7 @@ Description: This guide explains how to choose the best health insurance to work
 Date_created: 2025-06-02
 ---
 
-To [work in Germany](/guides/find-a-job-in-berlin), you need health insurance. This guide helps you choose the best health insurance for employees.
+This guide helps you choose the best health insurance to work in Germany. All German residents need health insurance. You need it to apply for a [work visa](/glossary/Work%20Visa) or a [[Blue Card]].
 
 {% include "_blocks/tableOfContents.html" %}
 

@@ -1,7 +1,7 @@
 ---
 Title: German health insurance when unemployed
 Short_title: Health insurance when unemployed
-Description: This guide explains how to German health insurance works when you are unemployed.
+Description: This guide helps you choose German health insurance when you have no income.
 Date_created: 2025-06-02
 ---
 
