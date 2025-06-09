@@ -266,7 +266,7 @@ Do not choose your insurance yourself. There is no benefit. [Ask an expert](#ins
 ### Choose public health insurance if...
 
 - **You don't have a stable income**  
-    If you are not sure you will always have a high income, public health insurance is safer. It costs a percentage of your income, so if you make less, your pay less. If you just [started your business](/guides/start-a-business-in-germany) or your income is low, choose public health insurance.[^27]
+    If you are not sure you will always have a high income, public health insurance is safer. It costs a percentage of your income, so if you make less, your pay less. If you just [started your business](/guides/start-a-business-in-germany) or your income is below €30,000, choose public health insurance.[^27]
 - **You want something that just works**  
     Just show your card and get healthcare. It takes longer to get an appointment, but you don't have to deal with any paperwork.
 - **You want more than 2 children**  
@@ -413,7 +413,7 @@ If you have public health insurance, you pay out of your paycheck every month. I
 [^23]: [health-insurance.de](https://www.health-insurance.de/living/eu-citizen/#:~:text=ehic%20is%20limited%20to%20emergencies) (April 2025), [ec.europa.eu](https://employment-social-affairs.ec.europa.eu/policies-and-activities/moving-working-europe/eu-social-security-coordination/frequently-asked-questions/faq-social-security-european-health-insurance-card_en#:~:text=taking%20account%20of%20the%20duration%20of%20their%20stay) (April 2025)
 [^24]: [dvka.de](https://www.dvka.de/media/dokumente/merkblaetter/urlaub-in-deutschland/ehic_dt_englisch.pdf), [Seamus Wolf](/out/horizon65) (April 2025)
 [^26]: [Mona Anbari](https://versicherungsbuero-weiss.com/) (April 2025)
-[^27]: [finanztip.de](https://www.finanztip.de/pkv/pkv-wechsel/#:~:text=gerade%20zu%20beginn%20deiner%20selbststandigkeit%20empfehlen%20wir%20dir%2C%20in%20der%20gkv%20zu%20bleiben) (January 2025), [Feather Insurance](https://feather-insurance.com/blog/public-vs-private-health-insurance-germany/?utm_source=allaboutberlin#:~:text=%20if%20you%E2%80%99re%20a%20high-earner) (April 2025), [Emily Archer](https://www.archer-relocation.com/) (April 2025)
+[^27]: [finanztip.de](https://www.finanztip.de/pkv/pkv-wechsel/#:~:text=gerade%20zu%20beginn%20deiner%20selbststandigkeit%20empfehlen%20wir%20dir%2C%20in%20der%20gkv%20zu%20bleiben) (January 2025), [Feather Insurance](https://feather-insurance.com/blog/public-vs-private-health-insurance-germany/?utm_source=allaboutberlin#:~:text=%20if%20you%E2%80%99re%20a%20high-earner) (April 2025), [Emily Archer](https://www.archer-relocation.com/) says that the amount is not fixed, but that insurers need to see that you can cover your insurance bills (April 2025)
 [^28]: [finanztip.de](https://www.finanztip.de/pkv/pkv-wechsel/#:~:text=idealerweise%20solltest%20du%20nicht%20alter%20als%2035%20bis%2040%20jahre%20sein) (January 2025), [Mona Anbari](https://versicherungsbuero-weiss.com/) (April 2025)
 [^29]: [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/532620887206619/)
 [^30]: [Seamus Wolf](/out/horizon65) (April 2025), [Emily Archer](https://www.archer-relocation.com/) (April 2025)
