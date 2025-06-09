@@ -40,7 +40,7 @@ To apply for a [[Blue Card]] or a [work visa](/glossary/Work%20Visa), you have a
 - **If you already live in Germany**  
     You can keep your current public or private health insurance.
 - **If you move from another [EU](/glossary/European%20Union) country**  
-    Your [health insurance from your home country](/guides/german-health-insurance#insurance-from-other-eu-countries) usually covers you until you start working.[^11] It might be cheaper than German health insurance. When you start working, you need public or private health insurance.
+    Your [health insurance from your home country](/guides/german-health-insurance#insurance-from-other-eu-countries) usually covers you until you start working.[^11] It might be cheaper than German health insurance. When you start working, you need [public](/glossary/gesetzliche%20Krankenversicherung) or [private](/glossary/private%20Krankenversicherung) health insurance.
 - **If you move from a non-[EU](/glossary/European%20Union) country**  
     You might need [expat health insurance](/glossary/Expat%20health%20insurance) for your [[National Visa]] application.[^6] It covers you until you [start working](/guides/find-a-job-in-berlin#start-working). When you start working, your public or private health insurance covers you.
 
@@ -113,9 +113,9 @@ Your employer can help you get health insurance. This is a bad idea. They choose
 [^4]: [Seamus Wolf](/out/horizon65) (April 2025), [Emily Archer](https://www.archer-relocation.com/) (April 2025)
 [^5]: [Seamus Wolf](/out/horizon65) (April 2025), [finanztip](https://www.finanztip.de/pkv/pkv-kosten/#:~:text=fur%20junge%2C%20gesunde%20menschen%20ist%20die%20private%20krankenversicherung) (February 2025), [verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/krankenversicherung/private-krankenversicherung-nicht-fuer-jeden-sinnvoll-13884#:~:text=kann%20es%20unter%20finanziellen%20gesichtspunkten%20sinnvoll%20sein%2C%20in%20eine%20private%20krankenversicherung%20zu%20wechseln) (2024)
 [^6]: [Seamus Wolf](/out/horizon65) (April 2025), [Feather Insurance](https://feather-insurance.com/blog/how-can-i-use-expat-health-insurance-for-my-visa/?utm_source=allaboutberlin#:~:text=someone%20might%20need%20expat%20insurance%20because%20they%E2%80%99re%20coming%20to%20germany%20on%20a%20temporary%20employment%20visa) (June 2025)
-[^7]: Citation needed, [Feather Insurance](https://feather-insurance.com/blog/how-can-i-use-expat-health-insurance-for-my-visa/?utm_source=allaboutberlin#:~:text=you%20can%20use%20expat%20health%20insurance%20unless)
+[^7]: [Feather Insurance](https://feather-insurance.com/blog/how-can-i-use-expat-health-insurance-for-my-visa/?utm_source=allaboutberlin#:~:text=you%20can%20use%20expat%20health%20insurance%20unless)
 [^8]: [Dr. Rob Schumacher](/out/feather) (November 2023), personal experience (2015)
-[^9]: Citation needed, [Dr. Rob Schumacher](/out/feather) (November 2023)
+[^9]: [Dr. Rob Schumacher](/out/feather) (November 2023)
 [^10]: [Feather Insurance](https://feather-insurance.com/blog/how-can-i-use-expat-health-insurance-for-my-visa/?utm_source=allaboutberlin#:~:text=this%20means%20that%20expat%20health%20insurance%20is%20perfect%20for%20this%20period) (June 2025), [Feather Insurance](https://feather-insurance.com/blog/chancenkarte-how-to-apply/#:~:text=our%20expat%20health%20insurance%20has%20successfully%20assisted%20numerous%20customers%20in%20securing%20their%20chancenkarte%20worldwide) (June 2025), [Seamus Wolf](/out/horizon65) (June 2025), [Dr. Rekha Singh](https://zuhaus.org/) (June 2025), [Expatrio](https://help.expatrio.com/hc/en-us/articles/360001332411-Job-Seekers-What-health-insurance-is-right-for-me) (June 2025)
 [^11]: [Feather Insurance](https://feather-insurance.com/blog/is-an-ehic-card-still-valid-in-germany/?utm_source=allaboutberlin#:~:text=job%20seeking%20in%20aforementioned%20states) (2023)
 [^12]: [Dr. Rob Schumacher](/out/feather) (April 2025)
