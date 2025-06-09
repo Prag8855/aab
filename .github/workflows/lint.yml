@@ -28,4 +28,4 @@ jobs:
         run: pip install ursus-ssg
 
       - name: Lint content
-        run: ursus lint
+        run: ursus lint --level=WARNING
