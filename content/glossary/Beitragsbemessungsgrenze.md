@@ -2,7 +2,7 @@
 Title: What is the Beitragsbemessungsgrenze?
 German_term: Beitragsbemessungsgrenze
 English_term: Contribution assessment ceiling
-Description: 
+Description: If you earn more than this, your social security contributions stay the same.
 Date_created: 2022-02-14
 Related_guides:
     tools/arbeitslosenversicherung-calculator.md

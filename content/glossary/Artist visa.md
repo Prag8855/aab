@@ -1,7 +1,7 @@
 ---
 Title: What is the German Artist Visa?
 German_term: Artist visa
-English_term: 
+English_term: Artist visa
 Description: A variant of the German freelance visa for artists.
 Date_created: 2018-08-28
 Related_guides:
