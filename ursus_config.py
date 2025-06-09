@@ -159,9 +159,9 @@ ctx["GKV_ZUSATZBEITRAG_TK"] = fail_on('2025-12-31', Decimal('2.45'))
 # https://www.ottonova.de/v/private-krankenversicherung/angestellte
 # https://www.ottonova.de/v/private-krankenversicherung/studenten
 # https://www.ottonova.de/v/private-krankenversicherung/selbststaendige
-ctx["OTTONOVA_SELFEMPLOYED_COST"] = fail_on('2025-06-01', 552)  # Premium economy
-ctx["OTTONOVA_STUDENT_COST"] = fail_on('2025-06-01', 111)  # Study smart
-ctx["OTTONOVA_EMPLOYEE_COST"] = fail_on('2025-06-01', 263)  # Premium economy
+ctx["OTTONOVA_SELFEMPLOYED_COST"] = fail_on('2025-12-01', 552)  # Premium economy
+ctx["OTTONOVA_STUDENT_COST"] = fail_on('2025-12-01', 111)  # Study smart
+ctx["OTTONOVA_EMPLOYEE_COST"] = fail_on('2025-12-01', 263)  # Premium economy
 
 # Maximum daily Krankengeld
 ctx['GKV_KRANKENGELD_DAILY_LIMIT'] = (ctx['GKV_MAX_INCOME'] * Decimal('0.7') / 360).normalize()  # § 47 SGB V
