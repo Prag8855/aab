@@ -11,6 +11,7 @@ Related_guides:
     guides/website-freiberuf-or-gewerbe.md
     guides/start-a-business-in-germany.md
     guides/gewerbesteuer.md
+    guides/german-health-insurance/for-freelancers.md
 ---
 
 A self-employed (*Selbständig*) person is someone who runs their own business, but is not a freelancer (*[[Freiberufler]]*). In most cases, *Selbständiger* means the same thing as *[[Gewerbetreibender]]*.

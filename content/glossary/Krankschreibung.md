@@ -7,6 +7,7 @@ Date_created: 2020-03-10
 Related_guides: 
     guides/vacation-days.md
     guides/sick-leave.md
+    guides/german-health-insurance.md
 ---
 
 A sick note (*Krankschreibung*, *Arbeitsunfähigkeitsbescheinigung*, *AU-Bescheinigung* or *gelber Schein*) is a document you get from a doctor. It confirms that you are sick, and that you should get [sick leave](/guides/sick-leave).

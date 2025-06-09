@@ -7,6 +7,12 @@ Date_created: 2018-11-29
 Related_guides:
     guides/german-health-insurance.md
     tools/health-insurance-calculator.md
+    guides/german-health-insurance/for-a-visa-application.md
+    guides/german-health-insurance/for-employees.md
+    guides/german-health-insurance/for-students.md
+    guides/german-health-insurance/for-freelancers.md
+    guides/german-health-insurance/for-apprentices.md
+    guides/german-health-insurance/when-unemployed.md
     guides/insurance.md
     guides/german-health-insurance/for-a-visa-application.md
     guides/cost-of-living.md

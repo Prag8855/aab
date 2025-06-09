@@ -11,7 +11,7 @@ Related_guides:
     guides/blue-card.md
     guides/work-visa.md
     guides/freelance-visa.md
-    guides/german-work-visa-to-freelance-visa.md
+    guides/german-health-insurance/for-a-visa-application.md
 ---
 
 The immigration office (*Ausländerbehörde*, *Landesamt für Einwanderung*, *LEA*, *Einwanderungsamt* or *Ausländeramt*) is where foreigners apply for a German [residence permit](/glossary/Aufenthaltstitel) or [permanent residence](/glossary/Niederlassungserlaubnis).

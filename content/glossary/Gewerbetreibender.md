@@ -12,6 +12,7 @@ Related_guides:
     guides/start-a-business-in-germany.md
     guides/fragebogen-zur-steuerlichen-erfassung.md
     guides/website-compliance-germany.md
+    guides/german-health-insurance/for-freelancers.md
 ---
 
 A tradesperson (*Gewerbetreibender*) is person who is self-employed, but not a freelancer (*Freiberufler*). The business they run is called a trade (*[[Gewerbe]]*). They are sometimes called *[[Selbständig]]*.

@@ -5,6 +5,7 @@ Related_guides:
     guides/find-a-job-in-berlin.md
     guides/salaries-in-germany.md
     guides/taxes.md
+    guides/german-health-insurance/for-employees.md
     guides/blue-card.md
     guides/work-visa.md
     guides/probezeit.md

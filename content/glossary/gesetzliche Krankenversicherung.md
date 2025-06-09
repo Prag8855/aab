@@ -5,9 +5,14 @@ English_term: Public health insurance
 Description: Statutory health insurance, one of the two types of German health insurance.
 Date_created: 2018-11-30
 Related_guides:
+    tools/health-insurance-calculator.md
     guides/german-health-insurance.md
     guides/german-health-insurance/for-a-visa-application.md
-    tools/health-insurance-calculator.md
+    guides/german-health-insurance/for-employees.md
+    guides/german-health-insurance/for-students.md
+    guides/german-health-insurance/for-freelancers.md
+    guides/german-health-insurance/for-apprentices.md
+    guides/german-health-insurance/when-unemployed.md
     guides/german-versicherungsnummer.md
     guides/insurance.md
     guides/techniker-krankenkasse-review.md

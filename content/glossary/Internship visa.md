@@ -10,6 +10,8 @@ Related_guides:
     guides/find-a-job-in-berlin.md
     guides/work-visa.md
     guides/blue-card.md
+    guides/immigration-office.md
+    guides/auslanderbehorde-wait-times.md
 ---
 
 The German internship visa is a type of [residence permit](/glossary/Aufenthaltstitel). It allows university students to do an internship (*Praktikum*) in Germany.[^1]

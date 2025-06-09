@@ -6,6 +6,7 @@ Description: A family doctor or general practitioner practices general medicine.
 Date_created: 2020-12-11
 Related_guides:
     guides/english-speaking-doctors-berlin.md
+    guides/german-health-insurance.md
 ---
 
 A family doctor or general practitioner (*Hausarzt*) is a type of doctor. It's usually the first doctor you see when you have a problem. If needed, they will refer you to a specialist.

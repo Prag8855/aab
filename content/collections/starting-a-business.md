@@ -5,6 +5,7 @@ Related_guides:
     guides/start-a-business-in-germany.md
     guides/freelance-visa.md
     guides/german-work-visa-to-freelance-visa.md
+    guides/german-health-insurance/for-freelancers.md
     guides/freelance-developer-rate.md
     guides/ksk-kuenstlersozialkasse.md
     guides/value-added-tax.md

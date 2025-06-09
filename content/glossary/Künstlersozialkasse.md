@@ -7,6 +7,7 @@ Date_created: 2020-02-22
 Related_guides:
     guides/ksk-kuenstlersozialkasse.md
     guides/german-health-insurance.md
+    guides/german-health-insurance/for-freelancers.md
     guides/saving-money-germany.md
 ---
 

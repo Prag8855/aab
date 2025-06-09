@@ -7,6 +7,7 @@ Date_created: 2019-01-31
 Related_guides:
     guides/german-health-insurance.md
     guides/german-health-insurance/for-a-visa-application.md
+    guides/german-health-insurance/when-unemployed.md
     tools/health-insurance-calculator.md
 ---
 

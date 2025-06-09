@@ -7,6 +7,10 @@ Date_created: 2019-02-14
 Related_guides:
     guides/german-health-insurance.md
     tools/health-insurance-calculator.md
+    guides/german-health-insurance/for-a-visa-application.md
+    guides/german-health-insurance/for-employees.md
+    guides/german-health-insurance/for-students.md
+    guides/german-health-insurance/when-unemployed.md
 ---
 
 If you are voluntarily insured (*freiwillig versichert*), you can choose [public](/glossary/gesetzliche%20Krankenversicherung) or [private health insurance](/glossary/private%20Krankenversicherung).

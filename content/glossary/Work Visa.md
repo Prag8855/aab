@@ -13,7 +13,7 @@ Related_guides:
     guides/auslanderbehorde-wait-times.md
     guides/find-a-job-in-berlin.md
     guides/moving-to-berlin.md
-    guides/german-health-insurance/for-a-visa-application.md
+    guides/german-health-insurance/for-employees.md
     guides/freelance-visa.md
     guides/permanent-residence.md
     guides/fragebogen-zur-steuerlichen-erfassung.md

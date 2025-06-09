@@ -8,6 +8,7 @@ Related_guides:
     guides/banking.md
     guides/best-bank-germany.md
     guides/residence-permit.md
+    guides/german-health-insurance/for-students.md
 ---
 
 A proof of financial resources (*Finanzierungsnachweis*) is required to apply for student, au-pair, language student and job-seeker visas.

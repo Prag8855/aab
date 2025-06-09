@@ -11,6 +11,7 @@ Related_guides:
     guides/freelance-visa.md
     guides/fragebogen-zur-steuerlichen-erfassung.md
     guides/gewerbeschein.md
+    guides/german-health-insurance/for-a-visa-application.md
 ---
 
 A freelancer (*Freiberufler*) is a self-employed professional *with special qualifications* who sells their services. Self-employed doctors, lawyers, accountants, engineers, IT professionals and architects are usually *Freiberufler*.

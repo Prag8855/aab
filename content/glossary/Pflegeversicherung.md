@@ -6,7 +6,6 @@ Description: It pays for your healthcare when you are old.
 Date_created: 2018-12-11
 Related_guides:
     guides/german-health-insurance.md
-    guides/german-health-insurance/for-a-visa-application.md
     tools/health-insurance-calculator.md
     guides/taxes.md
 ---
