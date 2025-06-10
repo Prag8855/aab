@@ -22,4 +22,4 @@ In Germany, your EHIC is usually on the back of your [health insurance card](/gl
 
 ![Example European Health Insurance Card](/images/german-ehic.jpg "Example European Health Insurance Card")
 
-**[How EHIC works ➞](/guides/german-health-insurance#insurance-from-other-eu-countries)
+**[How EHIC works ➞](/guides/german-health-insurance#insurance-from-other-eu-countries)**
