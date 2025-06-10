@@ -18,4 +18,8 @@ You can use your EHIC to...
 - Get healthcare while you study in Germany
 - Get healthcare in before you start working in Germany
 
+In Germany, your EHIC is usually on the back of your [health insurance card](/glossary/Gesundheitskarte).
+
+![Example European Health Insurance Card](/images/german-ehic.jpg "Example European Health Insurance Card")
+
 **[How EHIC works ➞](/guides/german-health-insurance#insurance-from-other-eu-countries)
