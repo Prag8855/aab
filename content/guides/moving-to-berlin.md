@@ -56,15 +56,15 @@ Be careful while looking for apartments. There are a lot of [housing scams](/gui
 
 ### Get health insurance
 
-If you live in Germany, you need [health insurance](/glossary/Krankenversicherung). It's required when you apply for a [residence permit](/glossary/Aufenthaltstitel).
+If you live in Germany, you need [health insurance](/glossary/Krankenversicherung). You need it to apply for a [[National Visa]] or a [residence permit](/glossary/Aufenthaltstitel). You need it before you [start working](/guides/find-a-job-in-berlin#start-working).
 
-Use my [health insurance calculator](/guides/german-health-insurance) to see your options, then [ask my insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose. It's the best way to get insured.
+Use my [health insurance picker](/guides/german-health-insurance) to know your options. [Ask my insurance expert](/guides/german-health-insurance#insurance-brokers) to help you choose. It's the best way to get insured.
 
 {% include '_blocks/healthInsuranceCalculator.html' %}
 
 **[How to choose health insurance ➞](/guides/german-health-insurance)**
 
-If you are an EU citizen, you can use health insurance from your home country. Your [[EHIC]] covers you until you [start working](/guides/find-a-job-in-berlin#start-working). If you are a student, your EHIC covers you until you graduate.
+If you are an EU citizen, your [European Health Insurance Card](/glossary/EHIC) covers you until you [start working](/guides/find-a-job-in-berlin#start-working). If you are a student, it covers you until you graduate.
 
 **[How EHIC works ➞](/guides/german-health-insurance#insurance-from-other-eu-countries)**
 
