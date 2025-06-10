@@ -247,13 +247,15 @@ You can get travel health insurance from [Feather](/out/feather-travel), [Enviva
 
 ### Insurance from other EU countries
 
-If you come from another EU country, your health insurance might cover you in Germany. You can only get treatments that are covered by German public health insurance.[^32] It does not cover repatriation if you are sick. For that, you need [travel health insurance](#travel-health-insurance).[^24]
+If you come from another EU country, your health insurance might cover you in Germany. You can use your [European Health Insurance Card](/glossary/EHIC) to get healthcare.
 
 **If you visit Germany**, your EU health insurance covers medical emergencies.[^23] It only covers treatments that can't wait until you go home. For example, if you break your ankle on a hike, it covers the hospital visit. If you stay longer than 3 months, you must get German health insurance.[^38]
 
 **If you study in Germany**, your EU health insurance covers you until you graduate, and during your job search after graduation.[^39] It covers all treatments that can't wait until after your studies.
 
-If health insurance is cheaper in your home country, EHIC is a good way to save money, because you don't need German health insurance. Apply for EHIC with your health insurance in your home country.[^16]
+If health insurance is cheaper in your home country, [[EHIC]] is a good way to save money, because you don't need German health insurance. Apply for EHIC with your health insurance in your home country.[^16]
+
+You can only get treatments that are covered by German public health insurance.[^32] It does not cover repatriation if you are sick. For that, you need [travel health insurance](#travel-health-insurance).[^24]
 
 If you start working in Germany, your EHIC stops working, and you must get German health insurance.[^42]
 
