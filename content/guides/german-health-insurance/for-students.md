@@ -45,9 +45,9 @@ If you choose expat health insurance, you are stuck with your decision until you
 
 ### EHIC
 
-**If you are a [EU](/glossary/European%20Union) student**, you can use health insurance from your home country.[^39] You might not need German health insurance.
+**If you are a [EU](/glossary/European%20Union) student**, you can use health insurance from your home country.[^39] Your [[EHIC]] covers you until you graduate or [get a job](/guides/find-a-job-in-berlin). You might not need German health insurance.
 
-**[Learn more about EHIC ➞](/guides/german-health-insurance#insurance-from-other-eu-countries)**
+**[How EHIC works ➞](/guides/german-health-insurance#insurance-from-other-eu-countries)**
 
 ### Private health insurance
 

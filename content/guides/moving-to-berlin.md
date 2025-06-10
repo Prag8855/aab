@@ -64,7 +64,9 @@ Use my [health insurance calculator](/guides/german-health-insurance) to see you
 
 **[How to choose health insurance ➞](/guides/german-health-insurance)**
 
-If you are an EU citizen, your [EHIC card](/guides/german-health-insurance#insurance-from-other-eu-countries) covers you until you start working. If you are a student, your EHIC card covers you until you graduate. You can't use your EHIC card after you [start working](/guides/find-a-job-in-berlin#start-working).
+If you are an EU citizen, you can use health insurance from your home country. Your [[EHIC]] covers you until you [start working](/guides/find-a-job-in-berlin#start-working). If you are a student, your EHIC covers you until you graduate.
+
+**[How EHIC works ➞](/guides/german-health-insurance#insurance-from-other-eu-countries)**
 
 ### Apply for a residence permit
 

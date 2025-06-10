@@ -28,7 +28,7 @@ Use my [health insurance picker](/tools/health-insurance-calculator) to see your
 
 {% include '_blocks/healthInsuranceCalculatorStatic.html' %}
 
-- **Use your [EHIC card](/guides/german-health-insurance#insurance-from-other-eu-countries)**  
+- **Use your [[EHIC]]**  
     If you come from another EU country, you can use your European Health Insurance Card (EHIC) in Germany. You might not need German health insurance.
 - **Switch to [private health insurance](/glossary/private%20Krankenversicherung)**  
     It can be better and cheaper than [public health insurance](/glossary/gesetzliche%20Krankenversicherung). I save around €600 per month. This is a complex decision, and it can be an expensive mistake. [Ask my insurance expert](/guides/german-health-insurance#insurance-brokers) if private health insurance makes sense for you.
