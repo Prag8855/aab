@@ -84,6 +84,25 @@ Use my lists of English-speaking professionals:
 - [Psychotherapists](/guides/english-speaking-psychotherapists-berlin)
 - [Other medical professionals](/guides/how-to-find-english-speaking-medical-professionals-in-berlin)
 
+## Work questions
+
+- **[Working and living in Germany](https://www.bamf.de/EN/Service/ServiceCenter/ThemenHotlines/ArbeitenUndLeben/arbeitenundleben-node.html)**  
+    Free hotline from the Office for Migration and Refugees.
+- **[BEMA](https://bema.berlin/en/)**  
+    Free help for immigrants and asylum seekers. They speak English and many other languages.
+- **[BMAS Bürgertelefon](https://www.bmas.de/DE/Service/Kontakt/Buergertelefon/buergertelefon.html)**  
+    Free help for immigrants and asylum seekers. They mostly speak German.
+- **[ArbeitnehmerHilfe](https://www.arbeitnehmerhilfe-berlin.de)**  
+    Legal advice for members. Membership costs €40 per year.{{ fail_on('2026-06-30') }} You can use their help immediately after you become a member.
+- **Your works council** (*Betriebsrat*)  
+    If your company has a *Betriebsrat*, they can advise you for free. They work for you, not your employer.
+- **Workers union** (*Gewerkschaft*)  
+    If you are in a union, you can usually get free legal help, but only for work-related problems.[^4]
+- **Lawyer** (*Fachanwalt für Arbeitsrecht*)  
+    Hire a lawyer who specialises in employment law (*Arbeitsrecht*). They cost around €200 per hour. Use my [list of English-speaking lawyers in Berlin](/guides/english-speaking-lawyers-berlin). Your [legal insurance](/glossary/Rechtsschutzversicherung) might pay for it.
+
+Don't be afraid to use a lawyer. Your employer can't fire you or blacklist you because you defend your rights. It will not affect your job search.[^7]
+
 ## Legal questions
 
 - **[Lawyers](/guides/english-speaking-lawyers-berlin)**  
@@ -106,24 +125,9 @@ Use my lists of English-speaking professionals:
 - **Tax help union** (*[[Lohnsteuerhilfeverein]]*)  
     A *Lohnsteuerhilfeverein* can help you file a [tax declaration](/glossary/Steuererklärung). It's usually cheaper than a tax advisor. The cost is often based on your income.
 
-## Work questions
+### Health insurance questions
 
-- **[Working and living in Germany](https://www.bamf.de/EN/Service/ServiceCenter/ThemenHotlines/ArbeitenUndLeben/arbeitenundleben-node.html)**  
-    Free hotline from the Office for Migration and Refugees.
-- **[BEMA](https://bema.berlin/en/)**  
-    Free help for immigrants and asylum seekers. They speak English and many other languages.
-- **[BMAS Bürgertelefon](https://www.bmas.de/DE/Service/Kontakt/Buergertelefon/buergertelefon.html)**  
-    Free help for immigrants and asylum seekers. They mostly speak German.
-- **[ArbeitnehmerHilfe](https://www.arbeitnehmerhilfe-berlin.de)**  
-    Legal advice for members. Membership costs €40 per year.{{ fail_on('2026-06-30') }} You can use their help immediately after you become a member.
-- **Your works council** (*Betriebsrat*)  
-    If your company has a *Betriebsrat*, they can advise you for free. They work for you, not your employer.
-- **Workers union** (*Gewerkschaft*)  
-    If you are in a union, you can usually get free legal help, but only for work-related problems.[^4]
-- **Lawyer** (*Fachanwalt für Arbeitsrecht*)  
-    Hire a lawyer who specialises in employment law (*Arbeitsrecht*). They cost around €200 per hour. Use my [list of English-speaking lawyers in Berlin](/guides/english-speaking-lawyers-berlin). Your [legal insurance](/glossary/Rechtsschutzversicherung) might pay for it.
-
-Don't be afraid to use a lawyer. Your employer can't fire you or blacklist you because you defend your rights. It will not affect your job search.[^7]
+{% include '_blocks/healthInsuranceQuestion.html' %}
 
 ## Business questions
 

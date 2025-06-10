@@ -24,18 +24,18 @@ Most employees pay 35% to 50% of their income in taxes, health insurance and pen
 
 ### How to pay less for [health insurance](/glossary/Krankenversicherung)
 
+Use my [health insurance picker](/tools/health-insurance-calculator) to see your options. [Ask my insurance broker](/guides/german-health-insurance#insurance-brokers) to help you find cheaper health insurance. This is a free service.
+
+{% include '_blocks/healthInsuranceCalculatorStatic.html' %}
+
 - **Use your [EHIC card](/guides/german-health-insurance#insurance-from-other-eu-countries)**  
     If you come from another EU country, you can use your European Health Insurance Card (EHIC) in Germany. You might not need German health insurance.
 - **Switch to [private health insurance](/glossary/private%20Krankenversicherung)**  
-    It's *sometimes* much cheaper. I save over €400 per month. This is a very complex decision, and it can be an expensive mistake. [Ask my health insurance broker](/guides/german-health-insurance#insurance-brokers) if it private health insurance makes sense for you.
+    It can be better and cheaper than [public health insurance](/glossary/gesetzliche%20Krankenversicherung). I save around €600 per month. This is a complex decision, and it can be an expensive mistake. [Ask my insurance expert](/guides/german-health-insurance#insurance-brokers) if private health insurance makes sense for you.
 - **Choose a different [public health insurance](/glossary/gesetzliche%20Krankenversicherung)**  
     Pick an insurer with a lower *[[Zusatzbeitrag]]*. You can save up to €500 per year.
 - **Join the [[Künstlersozialkasse]]**  
     If you are a freelance artist, publicist or art teacher, [join the *Künstlersozialkasse* (*KSK*)](/guides/ksk-kuenstlersozialkasse). They pay half of your health insurance, and half of your pension insurance. It's always worth it.
-
-Use my [health insurance picker](/tools/health-insurance-calculator) to see your options. [Ask my insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose insurance. His help is free.
-
-{% include '_blocks/healthInsuranceCalculator.html' %}
 
 ### How to pay less [pension insurance](/glossary/gesetzliche%20Rentenversicherung)
 
@@ -53,14 +53,14 @@ Use my [health insurance picker](/tools/health-insurance-calculator) to see your
 
 ### Rent
 
-Rent is the biggest expense for most people. There are ways to pay less rent:
-
 - **Lower your rent**  
     If your rent is above the legal limit, you can get it reduced. Use a [rent limit calculator](https://mietencheck.de) to check if you pay too much. A *[[Mieterverein]]*, [Conny](/out/conny-mietpreisbremse), or a [lawyer](/guides/english-speaking-lawyers-berlin) can reduce your rent. You can save a few hundred euros per month.
 - **Know your rights**  
-    Avoid [housing scams](/guides/housing-scams). If you pay a bribe to get an apartment, or pay too much for a kitchen or furniture, you can get that money back. Talk to a lawyer or a *[[Mieterverein]]*.
-- **Move somewhere else**  
-    [Look for a cheaper apartment](/guides/find-a-flat-in-berlin) in a cheaper neighbourhood. I moved from Mitte to Französisch Buchholz to save €400 per month. Finding a new apartment can be extremely hard, but if you already have one, you have more time to look.
+    Avoid [housing scams](/guides/housing-scams). If you pay a bribe to get an apartment, or pay too much for a kitchen or furniture, you can get that money back. Talk to a *[[Mieterverein]]* or a lawyer.
+- **[Find a cheaper apartment](/guides/find-a-flat-in-berlin)**  
+    If you already have a place to live, you have more time to find something cheaper.
+
+**[Where to ask apartment questions ➞](/guides/questions-about-berlin#apartment-questions)**
 
 ### Utilities
 

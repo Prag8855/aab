@@ -586,27 +586,31 @@ If you have questions about this form, [ask a tax advisor](/guides/english-speak
 
 ## What to do next
 
+**[How to start your business ➞](/guides/start-a-business-in-germany)**
+
 ### Wait for your tax number and VAT number
 
-**In 4 to 6 weeks**, you will receive your *[[Steuernummer]]* and [VAT number (*Umsatzsteuernummer*)](/glossary/Umsatzsteuernummer) by post.[^6] Add these numbers to your invoices, and to the [[Impressum]] on your website. It's required.
+**In 4 to 6 weeks**, you will get your [tax number](/glossary/Steuernummer) and [VAT number](/glossary/Umsatzsteuernummer) by post.[^6] Add them to your invoices, and to the [[Impressum]] on your website. It's required.
 
 ### Tell your health insurance
 
-If you have [public health insurance](/glossary/gesetzliche%20Krankenversicherung), tell your insurer that you are self-employed. When you are an employee, health insurance comes directly from your paycheck. When you are self-employed, you must pay by [bank transfer](/glossary/SEPA-%C3%9Cberweisung). The cost of your public health insurance will be based on your *estimated* income. Your health insurance will ask for your *[[Steuerbescheid]]* every year to prove your real income.
+If you have [public health insurance](/glossary/gesetzliche%20Krankenversicherung), tell your insurer that you are self-employed. You will pay them every month by [bank transfer](/glossary/SEPA-%C3%9Cberweisung). The cost will be based on your *estimated* income. It will be adjusted every year when you prove your real income.
 
-When you are self-employed, [private health insurance](/glossary/private%20Krankenversicherung) is often better and cheaper. I save over €400 per month since I switched. This is a risky decision. Ask my [health insurance broker](/glossary/Makler) to check if it makes sense for you.
+When you are self-employed, [private health insurance](/glossary/private%20Krankenversicherung) is often better and cheaper than [public](/glossary/gesetzliche%20Krankenversicherung). I switched, and I save around €600 per month. This is a complex decision. [Ask my insurance expert](/glossary/Makler) if it makes sense for you.
 
 {% include '_blocks/healthInsuranceQuestion.html' %}
 
 **[How to choose health insurance ➞](/guides/german-health-insurance)**
 
-If you can, join the *[[Künstlersozialkasse]]*. They pay half of your health insurance. It's always a good deal.
+If you can, join the *[[Künstlersozialkasse]]*. They pay half of your health insurance. It's always worth it.
 
 **[How to join the Künstlersozialkasse ➞](/guides/ksk-kuenstlersozialkasse)**
 
 ### Find a tax advisor
 
-If you are [starting a business in Germany](/guides/start-a-business-in-germany), get a [tax advisor](/guides/english-speaking-steuerberater-berlin). They make your life much easier.
+If you are [starting a business in Germany](/guides/start-a-business-in-germany), get a [tax advisor](/guides/english-speaking-steuerberater-berlin). They make your life much easier. They are hard to find, but they let you focus on running your business.
+
+You need a tax advisor to [renew your freelance visa](/guides/renew-german-freelance-visa). They must stamp some of your application documents. If you can't find a tax advisor, use [Tax Germany](/out/taxgermany) for this.
 
 **[List of English-speaking tax advisors ➞](/guides/english-speaking-steuerberater-berlin)**
 
@@ -614,7 +618,7 @@ You can also use tax software like [Sorted](/out/sorted-taxes) or [Lexware Offic
 
 **[List of tax software for freelancers ➞](/guides/german-tax-software#tax-software-for-freelancers)**
 
-Some banks like [Kontist](/out/kontist), [Holvi](/out/holvi) and [Qonto](/out/qonto) can also make your accounting easier.
+Some banks like [Holvi](/out/holvi), [Qonto](/out/qonto) and [Kontist](/out/kontist) can make your accounting easier.
 
 [^0]: [berlin.de](https://service.berlin.de/dienstleistung/325409/en/)
 [^1]: [medium.com](https://tiahardyrobinson.medium.com/in-berlin-depending-on-which-finanzamt-is-responsible-for-you-it-can-take-4-6-weeks-to-get-the-3e8e30ce5ea2)

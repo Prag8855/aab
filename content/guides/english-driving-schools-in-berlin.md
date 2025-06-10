@@ -10,7 +10,6 @@ Related_places:
     places/fahrschule-asma.md
     places/fahrschule-asphalt-profis.md
     places/fahrschule-ibf.md
-    places/fahrschule-glowalla.md
     places/sevim-fahrschule.md
     places/fahrschule-aktiv.md
     places/2drive-fahrschule.md

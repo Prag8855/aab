@@ -370,7 +370,7 @@ If you are self-employed and new in Germany, it can be hard to get health insura
 Once you are insured, you get...
 
 - **A [health insurance card](/glossary/Gesundheitskarte)**  
-    Bring it when you go to the doctor. You can also use it as a proof of health insurance.
+    When you go to the doctor, bring it with you. It's also a proof of health insurance when you travel to other [EU](/glossary/European%20Union) countries.
 - **A [[Mitgliedsbescheinigung]]**  
     It's a proof of health insurance. Use it to apply for a visa or [residence permit](/glossary/Aufenthaltstitel).
 - **A [[Sozialversicherungsnummer]]**  
