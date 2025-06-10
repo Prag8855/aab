@@ -38,14 +38,6 @@ Vue.component('health-insurance-question', {
 		};
 	},
 	computed: {
-		whatSeamusWillDo(){
-			return {
-				barmer: 'get you insured with Barmer',
-				tk: 'get you insured with Techniker Krankenkasse',
-				public: 'help you choose the best public health insurance',
-				private: 'help you choose the best private health insurance',
-			}[this.desiredService] || 'help you choose the right health insurance';
-		},
 		submitButtonText(){
 			return ({
 				barmer: 'Get insured',
@@ -54,57 +46,8 @@ Vue.component('health-insurance-question', {
 				private: 'Get a quote',
 			}[this.desiredService] || 'Send question') + ' <i class="icon right"></i>'
 		},
-		personSummary(){
-			const facts = [];
-
-			if(!this.occupation){ // "It's complicated" or direct contact form
-				return;
-			}
-
-			if(this.age !== undefined){
-				facts.push(`that you are ${this.age} years old`);
-			}
-
-			const cleanOccupation = {
-				azubi: 'an apprentice',
-				employee: 'employed',
-				selfEmployed: 'self-employed',
-				studentEmployee: 'a student',
-				studentSelfEmployed: 'a self-employed student',
-				studentUnemployed: 'an unemployed student',
-				unemployed: 'unemployed',
-			}[this.inputOccupation];
-			if(cleanOccupation){
-				facts.push(`that you are ${cleanOccupation}`);
-			}
-			if(this.income !== undefined){
-				facts.push(`that you earn ${formatCurrency(this.income)} per year`);
-			}
-			if(this.isMarried !== undefined){
-				facts.push(`that you are ${this.isMarried ? '' : 'not '}married`)
-			}
-
-			if(this.childrenCount !== undefined){
-				if(this.childrenCount === 0){
-					facts.push("that you don't have children");
-				}
-				else if(this.childrenCount === 1){
-					facts.push("that you have a child");
-				}
-				else {
-					facts.push(`that you have ${this.childrenCount} children`);
-				}
-			}
-
-			if(facts.length === 0){
-				return;
-			}
-
-			let summary = new Intl.ListFormat('en-US', {style: 'long', type: 'conjunction'}).format(facts) + '.';
-			return 'We know ' + summary;
-		},
 		whatsappMessage(){
-			return "Hi Seamus, I found you through All About Berlin. I need help with German health insurance."
+			return `Hi Seamus, can you ${this.whatSeamusWillDo(true)}? ${this.personSummary(true) || ''}.`;
 		},
 		whatsappUrl(){
 			let url = 'https://wa.me/+491626969454';
@@ -142,6 +85,72 @@ Vue.component('health-insurance-question', {
 				this.stage = response.ok ? 'thank-you' : 'error';
 			}
 		},
+		whatSeamusWillDo(firstPerson=true){
+			const youOrMe = firstPerson ? 'me' : 'you';
+			return {
+				barmer: `get ${youOrMe} insured with Barmer`,
+				tk: `get ${youOrMe} insured with Techniker Krankenkasse`,
+				public: `help ${youOrMe} choose the best public health insurance`,
+				private: `help ${youOrMe} choose the best private health insurance`,
+			}[this.desiredService] || `help ${youOrMe} choose the right health insurance`;
+		},
+		personSummary(firstPerson=true){
+			const facts = [];
+
+			if(!this.occupation){ // "It's complicated" or direct contact form
+				return;
+			}
+
+			const youOrI = firstPerson ? 'I' : 'you';
+			const iAm = firstPerson ? 'I am' : 'you are';
+
+			if(this.age !== undefined){
+				facts.push(`${iAm} ${this.age} years old`);
+			}
+
+			const cleanOccupation = {
+				azubi: 'an apprentice',
+				employee: 'employed',
+				selfEmployed: 'self-employed',
+				studentEmployee: 'a student',
+				studentSelfEmployed: 'a self-employed student',
+				studentUnemployed: 'an unemployed student',
+				unemployed: 'unemployed',
+			}[this.inputOccupation];
+			if(cleanOccupation){
+				facts.push(`${iAm} ${cleanOccupation}`);
+			}
+			if(this.income !== undefined){
+				facts.push(`${youOrI} earn ${formatCurrency(this.income)} per year`);
+			}
+			if(this.isMarried !== undefined){
+				facts.push(`${iAm} ${this.isMarried ? '' : 'not '}married`)
+			}
+
+			if(this.childrenCount !== undefined){
+				if(this.childrenCount === 0){
+					facts.push(`${youOrI} don't have children`);
+				}
+				else if(this.childrenCount === 1){
+					facts.push(`${youOrI} have a child`);
+				}
+				else {
+					facts.push(`${youOrI} have ${this.childrenCount} children`);
+				}
+			}
+
+			if(facts.length === 0){
+				return;
+			}
+
+			if(firstPerson){
+				// I am ..., I am ... and I am ...
+				return new Intl.ListFormat('en-US', {style: 'long', type: 'conjunction'}).format(facts);
+			}
+
+			// We know that ..., that ... and that ...
+			return 'We know ' + new Intl.ListFormat('en-US', {style: 'long', type: 'conjunction'}).format(facts.map(f => `that ${f}`)) + '.';
+		},
 		trackWhatsapp() {
 			plausible(this.trackAs, { props: { stage: 'whatsapp' }});
 		}
@@ -151,7 +160,7 @@ Vue.component('health-insurance-question', {
 			<template v-if="stage === 'contactInfo'">
 				<div class="form-recipient">
 					<div>
-						<p><strong>Seamus Wolf</strong> will {{ whatSeamusWillDo }}. I trust him because he is honest and knowledgeable.</p>
+						<p><strong>Seamus Wolf</strong> will {{ whatSeamusWillDo(false) }}. I trust him because he is honest and knowledgeable.</p>
 						<p>This service is <strong>100% free</strong>.</p>
 					</div>
 					<img
@@ -188,7 +197,7 @@ Vue.component('health-insurance-question', {
 							How can we help?
 						</label>
 						<textarea :id="uid('question')" v-model="question" placeholder="Tell us more about your situation"></textarea>
-						<div v-if="personSummary" class="input-instructions" v-text="personSummary"></div>
+						<div v-if="personSummary(false)" class="input-instructions" v-text="personSummary(false)"></div>
 					</div>
 					<div class="form-group required" v-if="contactMethod === 'phone'">
 						<label :for="uid('phone')">
