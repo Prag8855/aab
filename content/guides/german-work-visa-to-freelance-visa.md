@@ -13,7 +13,7 @@ This guide shows you how to go from employee to freelancer. It's based on my per
 
 ## Side business with a work visa
 
-If you can, [start your business](/guides/start-a-business-in-germany) before you quit your job. It gives you time to register your business, find clients, and prepare for the transition. You need at least a few weeks to [register your business](/guides/fragebogen-zur-steuerlichen-erfassung) and [apply for the freelance visa](/guides/freelance-visa).
+If you can, [start your business](/guides/start-a-business-in-germany) before you [quit your job](/guides/losing-your-job). You have more time to register your business, find clients, and prepare for the transition. You need at least a few weeks to [register your business](/guides/fragebogen-zur-steuerlichen-erfassung) and [apply for the freelance visa](/guides/freelance-visa).
 
 **[How to start a business in Germany ➞](/guides/start-a-business-in-germany)**
 
@@ -27,22 +27,22 @@ If you need a residence permit to live in Germany, check if it allows self-emplo
 
 Some residence permits allow *part time* self-employment. You must keep your job, and it must be your main source of income. To be self-employed full time, you might need to [apply for a freelance visa](/guides/freelance-visa).
 
-### Does your employer let you freelance?
+### Does your job allow freelancing?
 
 You do not need permission from your employer to have a side business,[^2] but there are exceptions:
 
 - If you are a civil servant, soldier or judge, you need permission from their employer.
 - If your work contract prevents you from having a side business.[^2] Each work contract is different.
 
-### Apply for the freelance visa
+## Apply for the freelance visa
 
 Next, you must [apply for the freelance visa](/guides/freelance-visa). This can take many weeks.
 
-**The freelance visa will replace your current residence permit**. You can't have both at the same time. As soon as you get the freelance visa, your old residence permit will become invalid. You must stop working for your employer as soon as you get the freelance visa, but you don't know when you will get the freelance visa. This can be hard to synchronise.
+**The freelance visa will replace your current residence permit**. You can't have both at the same time. When you get your freelance visa, your old residence permit will become invalid. If your freelance visa does not allow employment, you must stop working for your employer.
 
 {% include "_blocks/feedbackResidencePermit/freelanceVisa.html" %}
 
-### Tell your health insurer
+## Tell your health insurer
 
 When you are an employee, your employer pays half of your health insurance. When you are self-employed, you pay the full amount yourself. This means that **your health insurance will be twice as expensive**.
 

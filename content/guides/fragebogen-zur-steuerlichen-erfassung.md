@@ -610,7 +610,7 @@ If you can, join the *[[Künstlersozialkasse]]*. They pay half of your health in
 
 If you are [starting a business in Germany](/guides/start-a-business-in-germany), get a [tax advisor](/guides/english-speaking-steuerberater-berlin). They make your life much easier. They are hard to find, but they let you focus on running your business.
 
-To [renew your freelance visa](/guides/renew-german-freelance-visa), you need a tax advisor. They must stamp some of your application documents. If you can't find a tax advisor, use [Tax Germany](/out/taxgermany) for this.
+You need a tax advisor to [renew your freelance visa](/guides/renew-german-freelance-visa). They must stamp some of your application documents. If you can't find a tax advisor, use [Tax Germany](/out/taxgermany) for this.
 
 **[List of English-speaking tax advisors ➞](/guides/english-speaking-steuerberater-berlin)**
 
