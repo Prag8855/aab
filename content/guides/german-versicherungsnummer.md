@@ -19,7 +19,7 @@ In English, it also has many names:
 
 - Pension insurance number
 - Social insurance number
-- Social security number.
+- Social security number
 
 {% include "_blocks/tableOfContents.html" %}
 
@@ -36,7 +36,7 @@ It is divided in 4 parts:[^1]
 
 ## Why you need this number
 
-When you [start working](/guides/find-a-job-in-berlin#start-working), **your employer needs this number as soon as possible.** This lets your employer take pension contributions from your paycheck. You also need this number if you leave Germany, and want to [get your pension payments back](/guides/pension-payments-refund).
+**Your employer needs this number** as soon as possible after you [start working](/guides/find-a-job-in-berlin#start-working). This lets your employer take pension contributions from your paycheck. You also need this number if you leave Germany, and want to [get your pension payments back](/guides/pension-payments-refund).
 
 If you don't have that number yet, don't panic! You will still get paid.
 
@@ -44,12 +44,12 @@ If you don't have that number yet, don't panic! You will still get paid.
 
 ### If you just moved to Germany
 
-If you just moved to Germany, you don't have a *Sozialversicherungsnummer* yet.
+If you just moved to Germany, you don't have a *Sozialversicherungsnummer* yet. You get this number after you [choose health insurance](/guides/german-health-insurance).
 
 - **If you get [public health insurance](/glossary/gesetzliche%20Krankenversicherung)**  
     You get a *Sozialversicherungsnummer* automatically after you apply for public health insurance. You will get it by post.
 - **If you get [private health insurance](/glossary/private%20Krankenversicherung) or [expat health insurance](/glossary/Expat%20health%20insurance)**  
-    You do not get a *Sozialversicherungsnummer* automatically. You must [contact the *Deutsche Rentenversicherung*](https://www.deutsche-rentenversicherung.de/DRV/DE/Beratung-und-Kontakt/Kontakt/Anschriften-Uebersicht/anschriften_uebersicht_detail.html) and ask for it. You can do it in person at [a local branch](https://www.deutsche-rentenversicherung.de/DRV/DE/Beratung-und-Kontakt/Beratung-suchen-und-buchen/beratung-suchen-und-buchen_node.html). Your health insurance broker can do it for you.[^3] Your employer can sometimes do it for you.[^4]
+    You do not get a *Sozialversicherungsnummer* automatically. You must [contact the *Deutsche Rentenversicherung*](https://www.deutsche-rentenversicherung.de/DRV/DE/Beratung-und-Kontakt/Kontakt/Anschriften-Uebersicht/anschriften_uebersicht_detail.html) and ask for it. You can do it in person at [a local branch](https://www.deutsche-rentenversicherung.de/DRV/DE/Beratung-und-Kontakt/Beratung-suchen-und-buchen/beratung-suchen-und-buchen_node.html). Your [health insurance broker](/glossary/Makler) can do it for you.[^3] Your employer can sometimes do it for you.[^4]
 
 You get your *Sozialversicherungsnummer* by post to your German address. It takes 1 to 6 weeks. Most of the time, it takes less than 2 weeks. If you need it now, go to [your local *Deutsche Rentenversicherung* branch](https://www.deutsche-rentenversicherung.de/DRV/DE/Beratung-und-Kontakt/Beratung-suchen-und-buchen/beratung-suchen-und-buchen_node.html).
 
@@ -91,8 +91,8 @@ There are many ways to do this:
     Every year, between January 1 and February 15, your employer gives you a *[[Meldebescheinigung zur Sozialversicherung]]*. Your *Sozialversicherungsnummer* is on this document.
 - **Your previous employer**  
     If you don't live in Germany anymore, contact your previous employers. They will know your *Sozialversicherungsnummer*. It's also on the tax documents they gave you before.
-- **Your tax advisor**  
-    Your tax advisor (*[[Steuerberater]]*) should know your *Sozialversicherungsnummer*.
+- **Your [tax advisor](/glossary/Steuerberater)**  
+    They should know your *Sozialversicherungsnummer*.
 
 ## What are the PANR, BXNR and ZANR numbers?
 
