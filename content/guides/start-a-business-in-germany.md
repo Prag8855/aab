@@ -255,7 +255,7 @@ Since you don't know your future income, they use your *estimated* income. If yo
 
 When you are an employee, health insurance payments are taken from your salary. When you are self-employed, you pay every month by [bank transfer](/glossary/SEPA-%C3%9Cberweisung).
 
-[Private health insurance](/glossary/private%20Krankenversicherung) could be a lot cheaper for you. For example, I save over €400 per month, and I have *better* coverage. Talk to a [health insurance broker](/guides/german-health-insurance#insurance-brokers) about it. It's not a simple decision.
+[Private health insurance](/glossary/private%20Krankenversicherung) could be a lot cheaper for you. For example, I save around €600 per month. Talk to a [health insurance broker](/guides/german-health-insurance#insurance-brokers) about it. It's not a simple decision.
 
 **[How to choose health insurance ➞](/guides/german-health-insurance)**
 
