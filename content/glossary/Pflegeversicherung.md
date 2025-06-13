@@ -14,7 +14,7 @@ If you have [public health insurance](/glossary/gesetzliche%20Krankenversicherun
 
 *Pflegeversicherung* costs {{PFLEGEVERSICHERUNG_MIN_RATE}}% to {{PFLEGEVERSICHERUNG_MAX_RATE}}% of your income. If you have a job, your employer pays {{ PFLEGEVERSICHERUNG_EMPLOYER_RATE }}% and you pay the rest.
 
-**[German health insurance calculator ➞](/tools/health-insurance-calculator)**
+**[Health insurance calculator ➞](/tools/health-insurance-calculator)**
 
 If you have [private health insurance](/glossary/private%20Krankenversicherung), *Pflegeversicherung* is included in your insurance policy. The cost is set by the company. It's not a percentage of your income.
 

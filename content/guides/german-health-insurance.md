@@ -391,7 +391,7 @@ If you have public health insurance, you pay out of your paycheck every month. I
 - [ ] **[Get liability insurance](/guides/haftpflichtversicherung)**{{ RECOMMENDED }}  
     [Liability insurance](/glossary/Haftpflichtversicherung) is the second most important insurance. Most Germans have it. I got mine from [Feather](/out/feather-haftpflicht).
 - [ ] **Get travel health insurance**  
-    It covers you when you travel outside of Germany. It costs around €25 to €40 per year.[^78]{{ fail_on('2026-03-01') }} You can get travel insurance from [Feather](/out/feather-travel), [Envivas](https://www.envivas.de/en/insurance/travelling-abroad) or [Allianz](https://www.allianzdirect.de/reiseversicherung/). Your [private health insurance](/glossary/private%20Krankenversicherung) might include travel insurance. Some banks accounts like [N26 Metal](/out/n26-metal) include travel insurance.
+    It covers you when you travel outside of Germany. It costs €25 to €40 per year.[^78]{{ fail_on('2026-03-01') }} You can get travel insurance from [Feather](/out/feather-travel), [Envivas](https://www.envivas.de/en/insurance/travelling-abroad) or [Allianz](https://www.allianzdirect.de/reiseversicherung/). Your [private health insurance](/glossary/private%20Krankenversicherung) might include travel insurance. Some banks accounts like [N26 Metal](/out/n26-metal) include travel insurance.
 - [ ] **[Become an organ donor](/guides/organ-donor)**{{ RECOMMENDED }}  
     It's really easy. It can save another person's life.
 
