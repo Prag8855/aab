@@ -44,7 +44,7 @@
 		{% endif %}
 	</main>
 	
-	<div class="sidebar no-print" aria-hidden="true">
+	<div class="sidebar" aria-hidden="true">
 		{% with entry=entry, showScrollToTop=true, showRelatedEntriesLink=related_collections|length %}
 			{% include '_blocks/tableOfContents.html' %}
 		{% endwith %}
@@ -53,6 +53,9 @@
 				Did this website help you? Consider <a href="{{ site_url }}/donate" target="_blank" title="Donate to All About Berlin">donating 10 €</a> to support my work.
 			</div>
 		{% endblock %}
+		<button class="button open-close" title="Show/hide table of contents">
+			{% include "_css/icons/table-of-contents.svg" %}
+		</button>
 	</div>
 	{% include "_js/sidebar.js" %}
 {% endblock %}

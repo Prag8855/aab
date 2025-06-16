@@ -4,13 +4,35 @@ window.addEventListener("DOMContentLoaded", function() {
 	const main = document.querySelector('main');
 	const articleBody = main.querySelector('.article-body');
 	const bodyTableOfContents = articleBody && articleBody.querySelector('.table-of-contents');
-	const sidebarTableOfContents = document.querySelector('.sidebar .table-of-contents');
-	const sidebarLinks = Array.from(document.querySelectorAll('.sidebar .table-of-contents li a:not(.expand)'));
+	const sidebar = document.querySelector('.sidebar');
+	const sidebarTableOfContents = sidebar.querySelector('.table-of-contents');
+	const sidebarOpenCloseButton = sidebar.querySelector('.open-close')
+	const sidebarLinks = Array.from(sidebarTableOfContents.querySelectorAll('li a:not(.expand)'));
+
+	function toggleSidebar(shouldBeOpen){
+		sidebar.classList.toggle('open', shouldBeOpen);
+		document.body.classList.toggle('sidebar-open', shouldBeOpen);
+	}
+
+	// Hide mobile sidebar when clicking outside of it
+	document.body.addEventListener('click', (e) => {
+		if(!sidebar.contains(e.target)){
+			toggleSidebar(false);
+		}
+	})
+	
+	// Hide mobile sidebar when a table of contents link is clicked
 	sidebarLinks.forEach((link, index) => {
 		link.addEventListener('click', (e) => {
-			sidebarTableOfContents.classList.add('collapsed');
+			toggleSidebar(false);
 		});
 	});
+
+	// Show/hide mobile sidebar
+	sidebarOpenCloseButton.addEventListener('click', (e) => {
+		toggleSidebar();
+	});
+
 	const sectionHeaders = document.querySelectorAll('.article-body h2, .article-body h3');
 	const headerMap = sidebarLinks.reduce((map, link) => {
 		if(link.hash) {
@@ -57,12 +79,13 @@ window.addEventListener("DOMContentLoaded", function() {
 			}
 		}
 
+		// Only show mobile sidebar open/close button if the content is in view
 		const tableOfContentsIsInView = (
 			bodyTableOfContents
 			&& bodyTableOfContents.getBoundingClientRect().bottom <= 0
 		);
-		if(sidebarTableOfContents) {
-			sidebarTableOfContents.classList.toggle('visible', tableOfContentsIsInView);
+		if(sidebarOpenCloseButton) {
+			sidebarOpenCloseButton.classList.toggle('visible', tableOfContentsIsInView);
 		}
 	};
 	onScroll();

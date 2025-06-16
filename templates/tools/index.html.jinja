@@ -100,18 +100,22 @@
 			</div>
 		</article>
 	</main>
-	<div class="sidebar no-print" aria-hidden="true">
+	<div class="sidebar" aria-hidden="true">
 		<nav class="table-of-contents no-print" aria-label="Table of contents" {% if not showScreenReaders|default(true) %}aria-hidden="true"{% endif %}>
-		<h2>Categories</h2>
-		<ol>
-			<li><a href="#calculators">Calculators</a></li>
-			<li><a href="#burgeramt">For the Bürgeramt</a></li>
-			<li><a href="#auslanderbehorde">For the Ausländerbehörde</a></li>
-			<li><a href="#finanzamt">For the Finanzamt</a></li>
-			<li><a href="#agentur-fur-arbeit">For the Agentur für Arbeit</a></li>
-			<li><a href="#employer">For your employer</a></li>
-			<li><a href="#landlord">For your landlord</a></li>
-		</ol>
+			<h2>Categories</h2>
+			<ol>
+				<li><a href="#calculators">Calculators</a></li>
+				<li><a href="#burgeramt">For the Bürgeramt</a></li>
+				<li><a href="#auslanderbehorde">For the Ausländerbehörde</a></li>
+				<li><a href="#finanzamt">For the Finanzamt</a></li>
+				<li><a href="#agentur-fur-arbeit">For the Agentur für Arbeit</a></li>
+				<li><a href="#employer">For your employer</a></li>
+				<li><a href="#landlord">For your landlord</a></li>
+			</ol>
+		</nav>
+		<button class="button open-close" title="Show/hide table of contents">
+			{% include "_css/icons/table-of-contents.svg" %}
+		</button>
 	</div>
 	{% include "_js/sidebar.js" %}
 {% endblock %}
