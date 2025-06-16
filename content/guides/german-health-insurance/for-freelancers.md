@@ -46,7 +46,7 @@ If you are an artist, journalist, publicist or art teacher, join the *[[Künstle
 
 If you earn less than €{{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}} per year, you must switch to [public health insurance](/glossary/gesetzliche%20Krankenversicherung) after you join the KSK. It's a good way to switch from private to public.
 
-Joining the KSK takes a few months. While you wait, you can get public, private or expat health insurance.
+Joining the KSK takes a few months. While you wait, you need public, private or expat health insurance.
 
 **[How to apply for the KSK ➞](/guides/ksk-kuenstlersozialkasse)**
 
@@ -62,6 +62,8 @@ If you renew a freelance visa, you usually need [public](/glossary/gesetzliche%2
 
 **[How to renew a freelance visa ➞](/guides/renew-german-freelance-visa)**
 
+If you applied for the *[[Künstlersozialkasse]]*, you can have expat health insurance plus a proof of your KSK application.[^3]
+
 ## How to choose
 
 If you are self-employed, **never choose health insurance yourself**. It's a complicated decision, and you can make big mistakes. The cheapest option today can be an expensive mistake later. The best option depends on your citizenship, your income, your health, and your plans for the future.
@@ -74,6 +76,7 @@ If you are self-employed, **never choose health insurance yourself**. It's a com
 
 [^1]: [Feather Insurance](https://feather-insurance.com/blog/how-can-i-use-expat-health-insurance-for-my-visa/#:~:text=expat%20insurance%20is%20almost%20always%20denied) (2025)
 [^2]: [Emily Archer](https://www.archer-relocation.com/) says that the amount is not fixed, but that insurers need to see that you can cover your insurance bills (April 2025), [Seamus Wolf](/out/horizon65) (April 2025)
+[^3]: Reader feedback (February 2025)
 [^4]: [Red Tape Translation](https://redtapetranslation.com/7-common-mistakes-at-the-auslanderbehorde/#:~:text=not%20having%20the%20right%20type%20of%20health%20insurance)
 [^5]: [Seamus Wolf](/out/horizon65) (June 2025)
 [^6]: [Seamus Wolf](/out/horizon65) (June 2025)

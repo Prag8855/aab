@@ -214,7 +214,7 @@ The state pays for your public health insurance if...[^45]
 
 [[Expat health insurance]] is a temporary health insurance. It covers medical emergencies before you can get public or private health insurance. You can sometimes use it to apply for your first visa or [residence permit](/glossary/Aufenthaltstitel).[^5] You can't use it to change or renew an existing residence permit.[^29]
 
-- **[If you are a freelancer](/guides/german-health-insurance/for-freelancers)**, use expat insurance to apply for a [freelance visa](/glossary/Freelance%20visa).[^6] Switch to public or private health insurance as soon as you get your residence permit. If you wait too long, you can be stuck with expat insurance. This is a really bad idea.
+- **[If you are a freelancer](/guides/german-health-insurance/for-freelancers)**, use expat insurance to apply for a [freelance visa](/glossary/Freelance%20visa).[^6] Switch to public or private health insurance as soon as you get your [residence permit](/glossary/Aufenthaltstitel). If you wait too long, you can be stuck with expat insurance. This is a really bad idea.
 - **[If you are a student](/guides/german-health-insurance/for-students)**, public health insurance is a little more expensive than expat insurance, but it's *much* better. Switch to public health insurance *maximum* 3 months after you start university.[^14] If you wait too long, you can be stuck with expat insurance. This is a really bad idea.
 - **[If you are an employee](/guides/german-health-insurance/for-employees)**, you might need expat insurance to apply for an [opportunity card](/glossary/Chancenkarte). You must switch to public or private health insurance when you [start working](/guides/find-a-job-in-berlin#start-working).
 

@@ -127,7 +127,7 @@ Don't be afraid to use a lawyer. Your employer can't fire you or blacklist you b
 
 ### Health insurance questions
 
-{% include '_blocks/healthInsuranceQuestion.html' %}
+{% include '_blocks/healthInsuranceQuestionStatic.html' %}
 
 ## Business questions
 

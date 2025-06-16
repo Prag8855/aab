@@ -26,7 +26,7 @@ When you are a KSK member, **they pay half of your [health insurance](/glossary/
 ### Advantages
 
 - **They pay half of your health insurance**  
-    Normally, freelancers pay [€{{GKV_MIN_COST_SELF_PAY|cur}} to €{{GKV_MAX_COST_SELF_PAY|cur}} per month](/tools/health-insurance-calculator) for [public health insurance](/glossary/gesetzliche%20Krankenversicherung). If you are in the KSK, you pay 50% less. You keep the same coverage.
+    Normally, freelancers pay [€{{GKV_MIN_COST_SELF_PAY|cur}} to €{{GKV_MAX_COST_SELF_PAY|cur}} per month](/tools/health-insurance-calculator) for [public health insurance](/glossary/gesetzliche%20Krankenversicherung). If you are in the KSK, you pay 50% less. You get the same coverage.
 - **They pay half of your public pension insurance**  
     [Public pension insurance](/glossary/gesetzliche%20Krankenversicherung) is optional for most freelancers, so you probably don't pay for it. If you join the KSK, it's required, but the KSK pays half of it. You get a public pension for half the price.
 - **It lets you get [public health insurance](/glossary/gesetzliche%20Krankenversicherung)**  
@@ -122,31 +122,31 @@ When you apply for the KSK, you must prove that you meet those requirements.[^16
 
 This means that...
 
-- **You work in an artistic or journalistic context**  
+- [ ] **You work in an artistic or journalistic context**  
     Creativity and originality is a big part of your work. If your work is original enough to have copyright, it should be okay. If you don't get credited for your work, it's probably not creative enough. For example, wedding singers don't work in an artistic context, so they sometimes get rejected. Some dance teachers teach fitness, not art.
-- **It's your main job**  
+- [ ] **It's your main job**  
     Creative work must be the biggest part of your work, and the biggest part of your income. You can have other sources of income, but [it gets complicated](/guides/ksk-kuenstlersozialkasse#can-i-have-another-source-of-income-while-in-the-ksk).
-- **It's not temporary**  
+- [ ] **It's not temporary**  
     You plan to do this kind of work for a long time, not just a few months.[^17]
 
 ### You make money with your work
 
 This means that...
 
-- **You work for profit**  
+- [ ] **You work for profit**  
     It's a business, not a hobby. You must charge money for your services.
-- **You make at least €{{KSK_MIN_INCOME|cur}} per year**   
+- [ ] **You make at least €{{KSK_MIN_INCOME|cur}} per year**   
     You must make at least €{{KSK_MIN_INCOME|cur}} in [profit](/glossary/Gewinn) as a freelance artist, publicist or art teacher.[^18] In the first 3 years of your career, there is no minimum income.[^18] After you join the KSK, your income can go below €{{KSK_MIN_INCOME|cur}} per year 2 times every 6 years.[^18] There is no maximum income.[^19]
 
 ### You are self-employed
 
 This means that...[^20]
 
-- **You have many clients**  
+- [ ] **You have many clients**  
     You are not working for only one agency, orchestra, theatre group, film production or art school.
-- **You are an independent worker**  
+- [ ] **You are an independent worker**  
     You are not treated like an employee. You choose how much you charge, when you work, and where you work. For example, if you have to practice with your orchestra every day, or you are an extra in a movie, you might not be independent. The KSK can reject you because of [fake self-employment](/glossary/Scheinselbstst%C3%A4ndigkeit). It depends on many different things.
-- **You take risks**  
+- [ ] **You take risks**  
     You take entrepreneurial risks, because you are self-employed. Your employer is not protecting you. For example, if you have a seasonal contract, or you get paid even when you are sick, the KSK can reject you.
 
 These documents explain who is self-employed, and who is not:
@@ -161,7 +161,7 @@ You can be *[[Freiberufler]]* or a *[[Gewerbetreibender]]*.[^21] It does not mak
 
 This means that...
 
-- **You work from Germany**  
+- [ ] **You work from Germany**  
     You must work from Germany at least 25% of the time, even if your clients are in other countries. You don't need German clients to join the KSK.[^22]
 
 All German residents can join the KSK. You don't need German citizenship. Your nationality does not affect your application.
@@ -170,7 +170,7 @@ All German residents can join the KSK. You don't need German citizenship. Your n
 
 This means that...
 
-- **You have maximum one employee**  
+- [ ] **You have maximum one employee**  
     You can only hire one other employee.[^23] You can hire as many [apprentices](/glossary/Azubi), [minijob](/glossary/Minijob) employees, and freelancers as you want.[^23]
 
 ## How to apply for the KSK?
