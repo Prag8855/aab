@@ -222,7 +222,7 @@ The KSK is not a health insurer. You must [choose health insurance](/guides/germ
 
 **[How to choose German health insurance ➞](/guides/german-health-insurance)**
 
-If you don't have health insurance yet, [ask my health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you. Health insurance is complicated for freelancers. Choosing the wrong insurance is an expensive mistake. A broker will help you choose the right insurance for your needs. Tell your broker that you plan to join the KSK.
+[Ask my insurance expert](/guides/german-health-insurance#insurance-brokers) to help you choose the correct health insurance. Tell him that you plan to join the KSK.
 
 {% include '_blocks/healthInsuranceQuestion.html' %}
 
@@ -355,7 +355,7 @@ If you can, include proof that you have upcoming projects. Proofs of future inco
 ### Health insurance documents
 
 - [ ] **Proof of health insurance** (*[[Mitgliedsbescheinigung]]*)  
-    You get this from your health insurer, or from your health insurance broker. If you don't have health insurance yet, get a *vorläufige Mitgliedsbescheinigung* from any public health insurer, or [ask my health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you [choose health insurance](/guides/german-health-insurance). His help is free.
+    You get this from your health insurer, or from your health insurance broker. If you don't have health insurance yet, get a *vorläufige Mitgliedsbescheinigung* from any public health insurer, or [ask my insurance expert](/guides/german-health-insurance#insurance-brokers) to help you [choose health insurance](/guides/german-health-insurance/for-freelancers). His help is free.
     - **[Public health insurance exemption form](https://www.kuenstlersozialkasse.de/fileadmin/Dokumente/Mediencenter_K%C3%BCnstler_Publizisten/Vordrucke_und_Formulare/Befreiung_von_der_gesetzl._KV.pdf)**  
         If you want to [keep your private health insurance](/guides/ksk-kuenstlersozialkasse#can-i-have-private-health-insurance-with-the-ksk) after you join the KSK, include this form.
     - **Private health insurance contract**  

@@ -122,7 +122,7 @@ Before you apply for the Blue Card...
     - [ ] Your rent must be affordable. Your total cost of living must be less than your income.
     - [ ] Your apartment must be big enough. You need 9 m^2^ per adult, and 6 m^2^ per child.[^49]
 - [ ] **[Get health insurance](/guides/german-health-insurance/for-employees#for-a-blue-card-or-work-visa)**  
-    You need valid [health insurance](/glossary/Krankenversicherung). [Ask my health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose the correct health insurance.
+    You need valid [health insurance](/glossary/Krankenversicherung). [Ask my insurance expert](/guides/german-health-insurance#insurance-brokers) to help you choose the correct health insurance.
 - [ ] **Prepare the [required documents ➞](#required-documents)**
 
 If you bring your family to Germany, you can apply for their [family reunion visa](/glossary/Family%20reunion%20visa) at the same time. You must prepare their documents too.
@@ -205,7 +205,7 @@ These are the required documents **in Berlin**.[^2] If you apply elsewhere, they
 - [ ] **[Job description form](/documents/erklaerung-zum-beschaeftigungsverhaeltnis-2024.pdf)** (*Erklärung zum Beschäftigungsverhältnis*)  
     Your employer should fill this form and sign it. Download the form [here](/documents/erklaerung-zum-beschaeftigungsverhaeltnis-2024.pdf) or [on Berlin.de](https://www.berlin.de/einwanderung/_assets/stellenbeschreibung.pdf).
 - [ ] **Proof of health insurance**  
-    You need valid [health insurance](/glossary/Krankenversicherung). Travel health insurance is not accepted. [Ask my health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you [choose health insurance](/guides/german-health-insurance).
+    You need valid [health insurance](/glossary/Krankenversicherung). Travel health insurance is not accepted. [Ask my insurance expert](/guides/german-health-insurance#insurance-brokers) to help you [choose health insurance for your Blue Card](/guides/german-health-insurance/for-employees#for-a-blue-card-or-work-visa).
     - [ ] **[Health insurance card](/glossary/Gesundheitskarte)**
     - [ ] or **proof of public health insurance**  
         Get a *[Mitgliedsbescheinigung nach 175 SGB V](/glossary/Mitgliedsbescheinigung)* from your health insurer or your [health insurance broker](/guides/german-health-insurance#insurance-brokers).

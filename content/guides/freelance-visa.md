@@ -41,7 +41,7 @@ To get a freelance visa, you need...[^18]
 - [ ] **A local economic interest**  
     You must have clients in Germany, or hire German employees.[^71]
 - [ ] **Enough income**  
-    In Berlin, your [gross income](/glossary/Brutto%20income) must be more than your rent + your health insurance + €{{FREELANCE_VISA_MIN_INCOME|cur}} per month.[^53] If you support children or a spouse, you need a higher income.[^79]
+    In Berlin, your [gross income](/glossary/Brutto%20income) must be more than your rent + your [health insurance](/glossary/Krankenversicherung) + €{{FREELANCE_VISA_MIN_INCOME|cur}} per month.[^53] If you support children or a spouse, you need a higher income.[^79]
 - [ ] **Self-employed work**  
     You must be self-employed.[^73] You can't be an employee with social benefits. [Fake self-employment](/glossary/Scheinselbstständigkeit) is not allowed.[^3] If you only have one client, you might not get a freelance visa.
 - [ ] **Permission to do this job**  
@@ -109,10 +109,10 @@ Before you apply for the freelance visa...
 - [ ] **[Find a place to live](/guides/find-a-flat-in-berlin)**  
     It's really hard to find your first apartment. It's much harder for freelancers. Start looking as soon as you can. Your only options might be a [[WG]] or a furnished apartment.[^29]
     - [ ] You must be allowed to [register your address](/glossary/Anmeldung). Your landlord must give you a [tenancy confirmation](/glossary/Wohnungsgeberbestätigung). If you can't get a tenancy confirmation, you might not get a freelance visa.[^1]
-    - [ ] Your rent must be affordable. In Berlin, your income must be more than your rent + your health insurance + €{{FREELANCE_VISA_MIN_INCOME|cur}} per month before taxes.[^53]
+    - [ ] Your rent must be affordable. In Berlin, your income must be more than your rent + your [health insurance](/glossary/Krankenversicherung) + €{{FREELANCE_VISA_MIN_INCOME|cur}} per month before taxes.[^53]
     - [ ] Your apartment must be big enough. You need 9 m^2^ per adult, and 6 m^2^ per child.[^80]
 - [ ] **[Get health insurance](/guides/german-health-insurance/for-freelancers#insurance-for-a-freelance-visa)**  
-    You need valid [health insurance](/glossary/Krankenversicherung). Many applications are rejected because of invalid health insurance.[^30] [Ask my health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you choose the correct health insurance. Don't choose insurance yourself; it's a really bad idea. Many applications get rejected because people have the wrong health insurance.[^21]
+    You need valid [health insurance](/glossary/Krankenversicherung). Many applications are rejected because of invalid health insurance.[^30] [Ask my insurance expert](/guides/german-health-insurance#insurance-brokers) to help you [choose the correct health insurance](/guides/german-health-insurance/for-freelancers#insurance-for-a-freelance-visa). Don't choose insurance yourself; it's a really bad idea. Many applications get rejected because people have the wrong health insurance.[^21]
 - [ ] **Prepare the [required documents ➞](#required-documents)**  
     This takes a few weeks. Start as soon as you can.
 
@@ -205,7 +205,7 @@ There are two types of self-employed people. They get a different kind of freela
 - [ ] **[Application form](/docs/residence-permit-application-form)** (*Antrag auf Erteilung eines Aufenthaltstitels*)  
     If this is your first residence permit application, fill this form. Download the form [here](/docs/residence-permit-application-form) or [on Berlin.de](https://www.berlin.de/formularverzeichnis/?formular=/labo/zuwanderung/_assets/lea-agen1-antrag_engl_frz_ital-112021.pdf).[^42]
 - [ ] **Proof of health insurance**  
-    You need valid [health insurance](/glossary/Krankenversicherung). Travel health insurance is not accepted. [Ask my health insurance broker](/guides/german-health-insurance#insurance-brokers) to help you [choose health insurance](/guides/german-health-insurance).
+    You need valid [health insurance](/glossary/Krankenversicherung). Travel health insurance is not accepted. [Ask my insurance expert](/guides/german-health-insurance#insurance-brokers) to help you [choose health insurance for your work visa](/guides/german-health-insurance/for-employees#for-a-blue-card-or-work-visa).
     - [ ] **[Health insurance card](/glossary/Gesundheitskarte)**
     - [ ] or **proof of public health insurance**  
         Get a *[Mitgliedsbescheinigung nach 175 SGB V](/glossary/Mitgliedsbescheinigung)* from your health insurer or your [health insurance broker](/guides/german-health-insurance#insurance-brokers).
