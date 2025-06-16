@@ -55,7 +55,7 @@ You can also get photos [from a photographer](#from-a-photographer), but it's mo
 
 In Berlin, the *[[Ausländerbehörde]]* has the same self-service photo kiosks as the *Bürgeramt*. Photos cost €6.
 
-**You must also bring printed photos**, because the new photo kiosks might not work.[^5]{{fail_on('2025-06-15')}} You can get printed photos [from dm](#) or [from a photo booth](#from-a-photo-booth).
+**You must also bring printed photos**, because the new photo kiosks might not work.[^5]{{fail_on('2025-07-15')}} You can get printed photos [from dm](#) or [from a photo booth](#from-a-photo-booth).
 
 ## From a photographer
 
