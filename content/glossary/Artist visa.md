@@ -6,8 +6,10 @@ Description: A variant of the German freelance visa for artists.
 Date_created: 2018-08-28
 Related_guides:
     guides/freelance-visa.md
+    guides/german-health-insurance/for-freelancers.md
     guides/immigration-office.md
     guides/auslanderbehorde-wait-times.md
+    guides/ksk-kuenstlersozialkasse.md
 ---
 
 The artist visa does not exist. It's just a [freelance visa](/glossary/Freelance%20visa).

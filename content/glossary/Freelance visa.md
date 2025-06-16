@@ -10,7 +10,7 @@ Related_guides:
     guides/renew-german-freelance-visa.md
     guides/immigration-office.md
     guides/auslanderbehorde-wait-times.md
-    guides/german-health-insurance/for-a-visa-application.md
+    guides/german-health-insurance/for-freelancers.md
     guides/start-a-business-in-germany.md
     guides/residence-permit.md
     guides/fragebogen-zur-steuerlichen-erfassung.md

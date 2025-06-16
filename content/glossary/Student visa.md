@@ -7,6 +7,7 @@ Date_created: 2019-08-07
 Related_guides:
     guides/residence-permit.md
     guides/moving-to-berlin.md
+    guides/german-health-insurance/for-students.md
     guides/work-visa.md
     guides/blue-card.md
     guides/freelance-visa.md
