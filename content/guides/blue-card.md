@@ -206,10 +206,9 @@ These are the required documents **in Berlin**.[^2] If you apply elsewhere, they
     Your employer should fill this form and sign it. Download the form [here](/documents/erklaerung-zum-beschaeftigungsverhaeltnis-2024.pdf) or [on Berlin.de](https://www.berlin.de/einwanderung/_assets/stellenbeschreibung.pdf).
 - [ ] **Proof of health insurance**  
     You need valid [health insurance](/glossary/Krankenversicherung). Travel health insurance is not accepted. [Ask my insurance expert](/guides/german-health-insurance#insurance-brokers) to help you [choose health insurance for your Blue Card](/guides/german-health-insurance/for-employees#for-a-blue-card-or-work-visa).
-    - [ ] **[Health insurance card](/glossary/Gesundheitskarte)**
-    - [ ] or **proof of public health insurance**  
+    - [ ] **Proof of [public health insurance](/glossary/gesetzliche%20Krankenversicherung)**  
         Get a *[Mitgliedsbescheinigung nach 175 SGB V](/glossary/Mitgliedsbescheinigung)* from your health insurer or your [health insurance broker](/guides/german-health-insurance#insurance-brokers).
-    - [ ] or **proof of private health insurance**  
+    - [ ] or **proof of [private health insurance](/glossary/private%20Krankenversicherung)**  
         Bring your insurance contract, a *[[Mitgliedsbescheinigung]]*, and bank statements that show health insurance payments. Get these documents from your health insurer or your health insurance broker.[^6]
 - [ ] **Proof of housing**  
     You need a [place to live](/guides/find-a-flat-in-berlin) where you can [register your address](/glossary/Anmeldung).  If you apply in Berlin, your home address must be in Berlin.
