@@ -346,7 +346,7 @@
 					<eur :amount="maxTotal.personalContribution"></eur>
 				</output>
 				<output v-if="eur(minTotal.personalContribution) != eur(maxTotal.personalContribution) && maxTotal.personalContribution > 0">
-					<eur :amount="minTotal.personalContribution" no-symbol></eur>
+					<eur :amount="minTotal.personalContribution"></eur>
 					to
 					<eur :amount="maxTotal.personalContribution"></eur>
 				</output>
@@ -483,7 +483,7 @@
 						<eur :amount="result.options.mostExpensive.zusatzbeitrag.totalContribution"></eur>
 					</output>
 					<output v-else>
-						<eur :amount="result.options.cheapest.zusatzbeitrag.totalContribution" no-symbol></eur>
+						<eur :amount="result.options.cheapest.zusatzbeitrag.totalContribution"></eur>
 						&nbsp;to&nbsp;
 						<eur :amount="result.options.mostExpensive.zusatzbeitrag.totalContribution"></eur><small class="no-mobile">/month</small>
 					</output>
@@ -529,7 +529,7 @@
 							<eur :amount="maxTotal.employerContribution"></eur><small class="no-mobile">/month</small>
 						</output>
 						<output v-else>
-							<eur :amount="minTotal.employerContribution" no-symbol></eur>
+							<eur :amount="minTotal.employerContribution"></eur>
 							&nbsp;to&nbsp;
 							<eur :amount="maxTotal.employerContribution"></eur><small class="no-mobile">/month</small>
 						</output>
@@ -564,7 +564,7 @@
 						<eur :amount="maxTotal.personalContribution"></eur>
 					</output>
 					<output v-if="eur(minTotal.personalContribution) != eur(maxTotal.personalContribution) && maxTotal.personalContribution > 0">
-						<eur :amount="minTotal.personalContribution" no-symbol></eur>
+						<eur :amount="minTotal.personalContribution"></eur>
 						&nbsp;to&nbsp;
 						<eur :amount="maxTotal.personalContribution"></eur>
 					</output>
