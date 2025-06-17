@@ -112,7 +112,7 @@ Before you apply for the freelance visa...
     - [ ] Your rent must be affordable. In Berlin, your income must be more than your rent + your [health insurance](/glossary/Krankenversicherung) + €{{FREELANCE_VISA_MIN_INCOME|cur}} per month before taxes.[^53]
     - [ ] Your apartment must be big enough. You need 9 m^2^ per adult, and 6 m^2^ per child.[^80]
 - [ ] **[Get health insurance](/guides/german-health-insurance/for-freelancers#insurance-for-a-freelance-visa)**  
-    You need valid [health insurance](/glossary/Krankenversicherung). Many applications are rejected because of invalid health insurance.[^30] [Ask my insurance expert](/guides/german-health-insurance#insurance-brokers) to help you [choose the correct health insurance](/guides/german-health-insurance/for-freelancers#insurance-for-a-freelance-visa). Don't choose insurance yourself; it's a really bad idea. Many applications get rejected because people have the wrong health insurance.[^21]
+    You need valid [health insurance](/glossary/Krankenversicherung). [Ask my insurance expert](/guides/german-health-insurance#insurance-brokers) to help you [choose the correct health insurance](/guides/german-health-insurance/for-freelancers#insurance-for-a-freelance-visa). Don't choose insurance yourself; it's a really bad idea. Many applications get rejected because people have the wrong health insurance.[^21]
 - [ ] **Prepare the [required documents ➞](#required-documents)**  
     This takes a few weeks. Start as soon as you can.
 
@@ -376,7 +376,6 @@ An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocatio
 [^27]: [make-it-in-germany.com](https://www.make-it-in-germany.com/fileadmin/1_Rebrush_2022/a_Fachkraefte/PDF-Dateien/3_Visum_u_Aufenthalt/Visagrafik_EN/2023_Jan_Erforderliche_Deutschkenntnisse_EN.pdf)
 [^28]: [Facebook](https://www.facebook.com/groups/germanfreelancevisa/posts/1442308979571134/) (2022)
 [^29]: [Graham Pugh](https://www.berlinrelo.de/) (January 2025)
-[^30]: [Red Tape Translation](https://redtapetranslation.com/7-common-mistakes-at-the-auslanderbehorde/#:~:text=not%20having%20the%20right%20type%20of%20health%20insurance)
 [^31]: [§21 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html), [§18 EStG](https://www.gesetze-im-internet.de/estg/__18.html), [2 K 7356/18](https://www.landesrecht-bw.de/jportal/?quelle=jlink&docid=MWRE190002951&psml=bsbawueprod.psml&max=true&doc.part=L&doc.norm=all#:~:text=der%20begriff%20%E2%80%9Efreiberufliche%20tatigkeit%E2%80%9C%20bestimmt%20sich%20nach%20den%20katalogberufen%20des)
 [^32]: [Red Tape Translation](/out/red-tape-translation) (May 2023), [Touring Artists](https://www.touring-artists.info/en/visa-residence/to-germany-as-non-eu-citizen/appointment-at-the-immigration-office#:~:text=present%20your%20documents%20in%20german)
 [^34]: [Berlin.de](https://www.berlin.de/einwanderung/service/faq/artikel.1021739.php#:~:text=wenn%20sie%20mit%20einem%20visum%20zu%20diesem%20aufenthaltszweck%20eingereist%20sind), Multiple relocation consultants (October 2023)
