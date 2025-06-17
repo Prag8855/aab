@@ -6,7 +6,7 @@ function getBoundedMonthlyIncome(monthlyIncome){
 	return Math.min(healthInsurance.maxMonthlyIncome, Math.max(monthlyIncome, healthInsurance.minMonthlyIncome));
 }
 
-function getInsurerOptions(customZusatzbeitrag){
+function getPublicHealthInsurerOptions(customZusatzbeitrag){
 	const allInsurers = Object.entries(healthInsurance.companies);
 	if(customZusatzbeitrag !== undefined) {
 		// Add an extra option with the user-specified Zusatzbeitrag
@@ -102,7 +102,7 @@ function calculateHealthInsuranceForAzubi(monthlyIncome, age, childrenCount, cus
 	* Zusatzbeitrag
 	***************************************************/
 
-	out.options = getInsurerOptions(customZusatzbeitrag).reduce((options, [krankenkasseKey, krankenkasse]) => {
+	out.options = getPublicHealthInsurerOptions(customZusatzbeitrag).reduce((options, [krankenkasseKey, krankenkasse]) => {
 		options[krankenkasseKey] = {
 			zusatzbeitrag: {}
 		};
@@ -180,7 +180,7 @@ function calculateHealthInsuranceForEmployee(monthlyIncome, age, childrenCount, 
 	* Zusatzbeitrag
 	***************************************************/
 
-	out.options = getInsurerOptions(customZusatzbeitrag).reduce((options, [krankenkasseKey, krankenkasse]) => {
+	out.options = getPublicHealthInsurerOptions(customZusatzbeitrag).reduce((options, [krankenkasseKey, krankenkasse]) => {
 		options[krankenkasseKey] = {
 			zusatzbeitrag: {}
 		};
@@ -274,7 +274,7 @@ function calculateHealthInsuranceForMidijob(monthlyIncome, age, childrenCount, c
 	* Zusatzbeitrag
 	***************************************************/
 
-	out.options = getInsurerOptions(customZusatzbeitrag).reduce((options, [krankenkasseKey, krankenkasse]) => {
+	out.options = getPublicHealthInsurerOptions(customZusatzbeitrag).reduce((options, [krankenkasseKey, krankenkasse]) => {
 		options[krankenkasseKey] = {
 			zusatzbeitrag: {}
 		};
@@ -339,7 +339,7 @@ function calculateHealthInsuranceForSelfEmployment(monthlyIncome, age, childrenC
 	* Zusatzbeitrag
 	***************************************************/
 
-	out.options = getInsurerOptions(customZusatzbeitrag).reduce((options, [krankenkasseKey, krankenkasse]) => {
+	out.options = getPublicHealthInsurerOptions(customZusatzbeitrag).reduce((options, [krankenkasseKey, krankenkasse]) => {
 		options[krankenkasseKey] = {
 			zusatzbeitrag: {}
 		};
@@ -404,7 +404,7 @@ function calculateHealthInsuranceForSelfPay(monthlyIncome, age, childrenCount, c
 	* Zusatzbeitrag
 	***************************************************/
 
-	out.options = getInsurerOptions(customZusatzbeitrag).reduce((options, [krankenkasseKey, krankenkasse]) => {
+	out.options = getPublicHealthInsurerOptions(customZusatzbeitrag).reduce((options, [krankenkasseKey, krankenkasse]) => {
 		options[krankenkasseKey] = {
 			zusatzbeitrag: {}
 		};
@@ -474,7 +474,7 @@ function calculateHealthInsuranceForStudent(monthlyIncome, age, childrenCount, c
 	* Zusatzbeitrag
 	***************************************************/
 
-	out.options = getInsurerOptions(customZusatzbeitrag).reduce((options, [krankenkasseKey, krankenkasse]) => {
+	out.options = getPublicHealthInsurerOptions(customZusatzbeitrag).reduce((options, [krankenkasseKey, krankenkasse]) => {
 		options[krankenkasseKey] = {
 			zusatzbeitrag: {}
 		};
