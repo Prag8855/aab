@@ -62,6 +62,9 @@
 				isStudent() {
 					return occupations.isStudent(this.occupation);
 				},
+				isUnemployed() {
+					return occupations.isUnemployed(this.occupation);
+				},
 				result() {
 					return calculateHealthInsuranceContributions({
 						age: +this.age,
@@ -90,17 +93,14 @@
 				monthlyIncome() {
 					return this.yearlyIncome / 12;
 				},
-				minTotal() {
+				minPublicPrice() {
 					return this.result.options.cheapest.total;
 				},
-				maxTotal() {
+				maxPublicPrice() {
 					return this.result.options.mostExpensive.total;
 				},
 				baseContributionRate() {
 					return this.formatPercent(this.result.baseContribution.totalRate * 100);
-				},
-				isUnemployed() {
-					return occupations.isUnemployed(this.occupation);
 				},
 				showFreeOptions(){
 					return this.flag('familienversicherung-parents')
@@ -396,16 +396,16 @@
 				<glossary term="gesetzliche Krankenversicherung">Public health insurance</glossary>
 				<template v-if="!flag('private') && !showFreeOptions">is your only option. It </template>costs</template>
 			<strong>
-				<output v-if="maxTotal === 0">
+				<output v-if="maxPublicPrice === 0">
 					<eur :amount="0"></eur>
 				</output>
-				<output v-if="eur(minTotal.personalContribution) === eur(maxTotal.personalContribution) && maxTotal.personalContribution > 0">
-					<eur :amount="maxTotal.personalContribution"></eur>
+				<output v-if="eur(minPublicPrice.personalContribution) === eur(maxPublicPrice.personalContribution) && maxPublicPrice.personalContribution > 0">
+					<eur :amount="maxPublicPrice.personalContribution"></eur>
 				</output>
-				<output v-if="eur(minTotal.personalContribution) != eur(maxTotal.personalContribution) && maxTotal.personalContribution > 0">
-					<eur :amount="minTotal.personalContribution"></eur>
+				<output v-if="eur(minPublicPrice.personalContribution) != eur(maxPublicPrice.personalContribution) && maxPublicPrice.personalContribution > 0">
+					<eur :amount="minPublicPrice.personalContribution"></eur>
 					to
-					<eur :amount="maxTotal.personalContribution"></eur>
+					<eur :amount="maxPublicPrice.personalContribution"></eur>
 				</output>
 				per month</strong>, depending on the insurer you choose. There are dozens of options. Their cost and coverage are almost the same.
 		</p>
@@ -559,17 +559,17 @@
 			<details>
 				<summary class="price">
 					Your employer pays
-					<output v-if="maxTotal.employerContribution === 0">
+					<output v-if="maxPublicPrice.employerContribution === 0">
 						<eur :amount="0"></eur>
 					</output>
 					<template v-else>
-						<output v-if="eur(minTotal.employerContribution) === eur(maxTotal.employerContribution)">
-							<eur :amount="maxTotal.employerContribution"></eur><small class="no-mobile">/month</small>
+						<output v-if="eur(minPublicPrice.employerContribution) === eur(maxPublicPrice.employerContribution)">
+							<eur :amount="maxPublicPrice.employerContribution"></eur><small class="no-mobile">/month</small>
 						</output>
 						<output v-else>
-							<eur :amount="minTotal.employerContribution"></eur>
+							<eur :amount="minPublicPrice.employerContribution"></eur>
 							&nbsp;to&nbsp;
-							<eur :amount="maxTotal.employerContribution"></eur><small class="no-mobile">/month</small>
+							<eur :amount="maxPublicPrice.employerContribution"></eur><small class="no-mobile">/month</small>
 						</output>
 					</template>
 				</summary>
@@ -595,16 +595,16 @@
 			<details>
 				<summary class="price highlighted">
 					You pay
-					<output v-if="maxTotal.personalContribution === 0">
+					<output v-if="maxPublicPrice.personalContribution === 0">
 						<eur :amount="0"></eur>
 					</output>
-					<output v-if="eur(minTotal.personalContribution) === eur(maxTotal.personalContribution) && maxTotal.personalContribution > 0">
-						<eur :amount="maxTotal.personalContribution"></eur>
+					<output v-if="eur(minPublicPrice.personalContribution) === eur(maxPublicPrice.personalContribution) && maxPublicPrice.personalContribution > 0">
+						<eur :amount="maxPublicPrice.personalContribution"></eur>
 					</output>
-					<output v-if="eur(minTotal.personalContribution) != eur(maxTotal.personalContribution) && maxTotal.personalContribution > 0">
-						<eur :amount="minTotal.personalContribution"></eur>
+					<output v-if="eur(minPublicPrice.personalContribution) != eur(maxPublicPrice.personalContribution) && maxPublicPrice.personalContribution > 0">
+						<eur :amount="minPublicPrice.personalContribution"></eur>
 						&nbsp;to&nbsp;
-						<eur :amount="maxTotal.personalContribution"></eur>
+						<eur :amount="maxPublicPrice.personalContribution"></eur>
 					</output>
 					<small class="no-mobile">/month</small>
 				</summary>
