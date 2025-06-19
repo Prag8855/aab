@@ -22,7 +22,7 @@ If you are under 30 years old, you have 3 options:
 - **[Free health insurance](/glossary/Familienversicherung)**{{RECOMMENDED}}  
     Your spouse's public health insurance can [cover you for free](/guides/german-health-insurance#free-health-insurance). If you are under 25 years old, your parents' insurance can also cover you.
 - **[Public health insurance](/glossary/gesetzliche%20Krankenversicherung)**{{RECOMMENDED}}  
-    If you can't get free health insurance, public is usually the best option.[^59] You pay the student tariff: around €{{GKV_COST_STUDENT|cur}} per month.
+    If you can't get free health insurance, public is usually the best option.[^59] You pay the student tariff: around €{{GKV_COST_STUDENT|cur}} per month. If you move from a non-[EU](/glossary/European%20Union), you might also need travel health insurance between the day you arrive and the day you start studying.
 - **[Expat health insurance](/glossary/Expat%20health%20insurance)**  
     If you are under 30 years old, it's rarely worth it.[^88] It can be cheaper, but the coverage is much worse. Public health insurance is a better option. If you choose expat health insurance, you are stuck with it until you graduate.[^3]
 
@@ -34,7 +34,7 @@ If you are over 30 years old, your options change.
 
 **If you just moved from a non-[EU](/glossary/European%20Union) country**, you can't get public health insurance.[^2] [[Expat health insurance]] might be your only option.[^91] It costs around €{{OTTONOVA_STUDENT_COST|cur}} per month. [Feather](/out/feather-students) and [Ottonova](/out/ottonova-students) sell expat health insurance. You can also [ask my insurance expert](/guides/german-health-insurance#insurance-brokers) to help you choose.
 
-**If you move from another EU country**, you have more options:
+**If you just moved from another EU country**, you have more options:
 
 - **[Insurance from your home country](/guides/german-health-insurance#insurance-from-other-eu-countries)**{{RECOMMENDED}}  
     Your [[EHIC]] covers you until you graduate or [get a job](/guides/find-a-job-in-berlin). You might not need German health insurance.[^39]
