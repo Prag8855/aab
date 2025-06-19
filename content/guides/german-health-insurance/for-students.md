@@ -5,7 +5,7 @@ Description: This guide explains how to choose the best health insurance to stud
 Date_created: 2025-06-02
 ---
 
-This guide helps you choose the best health insurance for students. All German residents need health insurance. You need it to apply for a [student visa](/glossary/Student%20visa).
+This guide helps you choose the best health insurance to study in Germany. All German residents need health insurance. You need it to apply for a [student visa](/glossary/Student%20visa).
 
 {% include "_blocks/tableOfContents.html" %}
 
@@ -15,43 +15,41 @@ Use my [health insurance picker](/tools/health-insurance-calculator) to see your
 
 {% include '_blocks/healthInsuranceCalculatorStatic.html' %}
 
-### Free health insurance
+### Under 30 years old
 
-**[Free health insurance options ➞](/guides/german-health-insurance#free-health-insurance)**
+If you are under 30 years old, you have 3 options:
 
-### Public health insurance
+- **[Free health insurance](/glossary/Familienversicherung)**{{RECOMMENDED}}  
+    Your spouse's public health insurance can [cover you for free](/guides/german-health-insurance#free-health-insurance). If you are under 25 years old, your parents' insurance can also cover you.
+- **[Public health insurance](/glossary/gesetzliche%20Krankenversicherung)**{{RECOMMENDED}}  
+    If you can't get free health insurance, public is usually the best option.[^59] You pay the student tariff: around €{{GKV_COST_STUDENT|cur}} per month.
+- **[Expat health insurance](/glossary/Expat%20health%20insurance)**  
+    If you are under 30 years old, it's rarely worth it.[^88] It can be cheaper, but the coverage is much worse. Public health insurance is a better option. If you choose expat health insurance, you are stuck with it until you graduate.[^3]
 
-**If you are under 25 years old**, public health insurance is usually the best option.[^59] Your spouse or parents' public health insurance can [cover you for free](/guides/german-health-insurance#free-health-insurance). Otherwise, you pay the student tariff: around €{{GKV_COST_STUDENT|cur}} per month.
+**If you work more than 20 hours per week**, you are treated [like a normal employee](/guides/german-health-insurance/for-employees).[^46] You must switch to public health insurance. It costs a percentage of your income. You can't get the student tariff, and you can't get [free health insurance](/guides/german-health-insurance#free-health-insurance).
 
-**If you are under 30 years old**, public health insurance is usually the best option.[^59] You pay the student tariff: around €{{GKV_COST_STUDENT|cur}} per month.[^89]
+### Over 30 years old
 
-**If you are over 30 years old**, you can't get the student tariff. [Public health insurance](/glossary/gesetzliche%20Krankenversicherung) costs around [€{{GKV_MIN_COST_SELF_PAY|cur}} per month](/glossary/Mindestbeitrag).[^25] [Expat health insurance](/glossary/Expat%20health%20insurance) might be cheaper for you.[^87] You can't get [free health insurance](#free-health-insurance). If you work, you are treated [like a normal employee](/guides/german-health-insurance/for-employees); public health insurance costs a percentage of your income.
+If you are over 30 years old, your options change.
 
-If you are over 30 years old and you just moved from a non-[EU](/glossary/European%20Union) country, you can't get public health insurance.[^2] [Expat health insurance](/glossary/Expat%20health%20insurance) might be your only option.
+**If you just moved from a non-[EU](/glossary/European%20Union) country**, you can't get public health insurance.[^2] [[Expat health insurance]] might be your only option.[^91] It costs around €{{OTTONOVA_STUDENT_COST|cur}} per month. [Feather](/out/feather-students) and [Ottonova](/out/ottonova-students) sell expat health insurance. You can also [ask my insurance expert](/guides/german-health-insurance#insurance-brokers) to help you choose.
 
-**If you work over 20 hours per week**, you are treated [like a normal employee](/guides/german-health-insurance/for-employees).[^46] You can't get the student tariff, and you can't get [free health insurance](#free-health-insurance). There are different rules for [internships](/guides/german-health-insurance/for-students#for-an-internship) and [apprenticeships](/guides/german-health-insurance/for-apprentices).
+**If you move from another EU country**, you have more options:
 
-**If you are self-employed**, and your income is over €{{GKV_FAMILIENVERSICHERUNG_MAX_INCOME|cur}} per month, you are treated [like a self-employed person](/guides/german-health-insurance/for-freelancers). You can't get the student tariff and you can't get [free health insurance](#free-health-insurance). If you are young and healthy, [private](/glossary/private%20Krankenversicherung) or [expat health insurance](/glossary/Expat%20health%20insurance) usually make more sense.[^5]
+- **[Insurance from your home country](/guides/german-health-insurance#insurance-from-other-eu-countries)**{{RECOMMENDED}}  
+    Your [[EHIC]] covers you until you graduate or [get a job](/guides/find-a-job-in-berlin). You might not need German health insurance.[^39]
+- **[Public health insurance](/glossary/gesetzliche%20Krankenversicherung)**  
+    It costs around €{{GKV_MIN_COST_SELF_PAY|cur}} per month, because you don't get the student tariff.[^25] If you work, you are treated [like a normal employee](/guides/german-health-insurance/for-employees); public health insurance costs a percentage of your income.
+- **[Private health insurance](/glossary/private%20Krankenversicherung)**  
+    Usually, you can't get [private health insurance](/glossary/private%20Krankenversicherung) because your income is too low.[^90] Some insurers offer private health insurance for EU students, and it can be cheaper.[^87] If you choose private health insurance, you are stuck with it until you graduate.[^3] [Ask my insurance expert](/guides/german-health-insurance#insurance-brokers) if it makes sense for your situation.
 
-**[Learn more about public health insurance ➞](/guides/german-health-insurance#public-health-insurance)**
+**If you already live in Germany**, you can choose [public](/glossary/gesetzliche%20Krankenversicherung) or [private](/glossary/private%20Krankenversicherung) health insurance. The best option depends on your situation. [Ask my insurance expert](/guides/german-health-insurance#insurance-brokers) to help you choose.
 
-### Expat health insurance
+### Self-employment
 
-Foreign students can get [expat health insurance](/glossary/Expat%20health%20insurance). If you are 30 years old, it might be a good option.[^91] If you are under 30 years old, it's rarely worth it.[^88]
+If you are self-employed, and your income is over €{{GKV_FAMILIENVERSICHERUNG_MAX_INCOME|cur}} per month, you are treated [like a self-employed person](/guides/german-health-insurance/for-freelancers). You can't get the student tariff and you can't get [free health insurance](/guides/german-health-insurance#free-health-insurance).
 
-If you choose expat health insurance, you are stuck with your decision until you graduate.[^3]
-
-**[Learn more about expat health insurance ➞](/guides/german-health-insurance#expat-health-insurance)**
-
-### EHIC
-
-**If you are a [EU](/glossary/European%20Union) student**, you can use health insurance from your home country.[^39] Your [[EHIC]] covers you until you graduate or [get a job](/guides/find-a-job-in-berlin). You might not need German health insurance.
-
-**[How EHIC works ➞](/guides/german-health-insurance#insurance-from-other-eu-countries)**
-
-### Private health insurance
-
-Usually, you can't get [private health insurance](/glossary/private%20Krankenversicherung) because your income is too low.[^90] It's rarely the best option for students.
+If you are young and healthy, [private](/glossary/private%20Krankenversicherung) or [expat health insurance](/glossary/Expat%20health%20insurance) usually make more sense.[^5]
 
 ## Insurance for a student visa
 
@@ -60,7 +58,7 @@ To apply for a [student visa](/glossary/Student%20visa), you have 2 options:
 - **Travel insurance + [public health insurance](/glossary/gesetzliche%20Krankenversicherung)**{{ RECOMMENDED }}  
     The travel insurance covers you before school starts.[^6] Public health insurance covers you until you graduate. If you are under 30 years old, this is the best option. You get great coverage for a low price. [Barmer](/out/barmer) and [Techniker Krankenkasse](/out/feather-tk) are English-speaking options.
 - **[Expat health insurance](/glossary/Expat%20health%20insurance)**  
-    If you are over 30 years old, public health insurance is more expensive. Expat health insurance is cheaper, but the coverage is limited. It covers you until you graduate. [Feather](/out/feather-students) and [Ottonova](/out/ottonova-students) sell expat health insurance. You can also [ask an expert](/guides/german-health-insurance#insurance-brokers) to help you choose. It's a free service.
+    If you are over 30 years old, public health insurance is more expensive. Expat health insurance is cheaper, but the coverage is worse. It covers you until you graduate. [Feather](/out/feather-students) and [Ottonova](/out/ottonova-students) sell expat health insurance. You can also [ask an expert](/guides/german-health-insurance#insurance-brokers) to help you choose. It's a free service.
 
 **[Feather](/out/feather-students)** sells valid insurance for a student visa. They offer both options, so you will get the best option for your situation. I work with them since 2018; you can trust them.
 
@@ -81,6 +79,8 @@ If it's a **voluntary internship**, it's treated like a normal job. You have the
 
 ## For an apprenticeship
 
+**[Health insurance for Azubis ➞](/guides/german-health-insurance/for-apprentices)**
+
 ## After you graduate
 
 If you start working, you must usually get public health insurance. [Finding a job](/guides/find-a-job-in-berlin) is the best way to switch to public health insurance.
@@ -89,7 +89,7 @@ If you make more than €{{GKV_MAX_INCOME|cur}} per year, you can also get priva
 
 **[Health insurance for employees ➞](/guides/german-health-insurance/for-employees)**
 
-If you are unemployed or self-employed, you might be stuck with private health insurance until you find a job.[^4]
+If you are unemployed or self-employed, you might be stuck with your current private health insurance until you find a job.[^4]
 
 ## How to get insured
 
@@ -119,6 +119,5 @@ After you get insured, your insurer tells your university (the *M10 Meldung*). T
 [^68]: [check24.de](https://www.check24.de/krankenversicherung/praktikum/#:~:text=fur%20die%20der%20praktikant%20kein%20entgelt%20erhalt) (April 2025)
 [^87]: [krankenkassen.de](https://www.krankenkassen.de/meine-krankenkasse/student/freiwillig/#:~:text=es%20kann%20etwas%20gunstiger%20sein%2C%20eine%20private%20krankenversicherung%20fur%20studenten%20abzuschlie%C3%9Fen) (May 2025), [krankenkassen.de](https://www.krankenkassen.de/meine-krankenkasse/student/private-kv/#:~:text=einem%20speziellen%20tarif%20fur%20studenten) (May 2025)
 [^88]: [studierendenwerke.de](https://www.studierendenwerke.de/themen/studieren-mit-behinderung/finanzierung/krankenversicherung/private-krankenversicherung-sinnvolle-alternative-fuer-studierende-mit-beeintraechtigungen#:~:text=zu%20studienbeginn%20oder%20nach%20ende%20der%20familienversicherung%20befreien%20lassen) (May 2025)
-[^89]: [krankenkassen.de](https://www.krankenkassen.de/meine-krankenkasse/student/krankenversicherung/#:~:text=bis%20zur%20vollendung%20des%2030.%20lebensjahres%20mitglied%20in%20der%20gesetzlichen%20krankenversicherung%20fur%20studenten%20bleiben) (May 2025)
 [^90]: [Feather Insurance](https://feather-insurance.com/blog/health-insurance-students-germany-guide/#:~:text=typically%2C%20students%20must%20earn%20at%20least%20%E2%82%AC30%2C000%20annually) (May 2025)
 [^91]: [Feather Insurance](https://feather-insurance.com/blog/health-insurance-students-germany-guide/#:~:text=Read%20our%20guide-,Ideal%20for%20non-eligible,students%3A%20Expat%20health%20insurance,-If%20you%E2%80%99re%20not) (May 2025)
