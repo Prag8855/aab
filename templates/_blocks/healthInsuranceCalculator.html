@@ -51,12 +51,7 @@
 				}
 			},
 			mounted(){
-				if(this.useMonthlyIncome){
-					this.inputIncome = this.monthlyIncome;
-				}
-				else{
-					this.inputIncome = this.yearlyIncome;
-				}
+				this.inputIncome = this.useMonthlyIncome ? this.monthlyIncome : this.yearlyIncome;
 			},
 			computed: {
 				isStudent() {
@@ -209,6 +204,9 @@
 			watch: {
 				inputIncome(newIncome){
 					this.yearlyIncome = this.useMonthlyIncome ? newIncome * 12 : newIncome;
+				},
+				useMonthlyIncome(monthly){
+					this.yearlyIncome = monthly ? this.inputIncome * 12 : this.inputIncome;
 				},
 			}
 		})

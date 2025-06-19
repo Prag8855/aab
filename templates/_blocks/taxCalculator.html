@@ -203,13 +203,11 @@
 			},
 			watch: {
 				inputIncome(newIncome){
-					if(this.useMonthlyIncome){
-						this.yearlyIncome = newIncome * 12;
-					}
-					else{
-						this.yearlyIncome = newIncome;
-					}
-				}
+					this.yearlyIncome = this.useMonthlyIncome ? newIncome * 12 : newIncome;
+				},
+				useMonthlyIncome(monthly){
+					this.yearlyIncome = monthly ? this.inputIncome * 12 : this.inputIncome;
+				},
 			},
 			methods: {
 				spouseTaxClass(taxClass) {
