@@ -149,7 +149,7 @@ Vue.component('health-insurance-question', {
 			}
 
 			// We know that ..., that ... and that ...
-			return 'We know ' + new Intl.ListFormat('en-US', {style: 'long', type: 'conjunction'}).format(facts.map(f => `that ${f}`)) + '.';
+			return 'We already know ' + new Intl.ListFormat('en-US', {style: 'long', type: 'conjunction'}).format(facts.map(f => `that ${f}`)) + '.';
 		},
 		trackWhatsapp() {
 			plausible(this.trackAs, { props: { stage: 'whatsapp' }});
@@ -201,7 +201,7 @@ Vue.component('health-insurance-question', {
 					</div>
 					<div class="form-group required" v-if="contactMethod === 'phone'">
 						<label :for="uid('phone')">
-							Your phone number
+							Phone number
 						</label>
 						<input v-model="phone" type="tel" :id="uid('phone')" placeholder="+49..." autocomplete="tel" :aria-describedby="uid('instructions-phone')" required>
 						<div class="input-instructions">
