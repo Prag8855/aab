@@ -29,6 +29,11 @@
 					yearlyIncome: userDefaults.yearlyIncome,
 					worksOver20HoursPerWeek: false,
 
+					isEUCitizen: false,
+					isApplyingForResidencePermit: false,
+					isAlreadyInsured: false,
+					isGettingSocialBenefits: false,
+
 					desiredService: null,
 
 					trackAs: 'Health insurance calculator',
@@ -325,6 +330,26 @@
 				<input type="checkbox" v-model="worksOver20HoursPerWeek">
 				I work more than 20 hours per week
 			</label>
+		</div>
+		<hr>
+		<div class="form-group">
+			<span class="label">
+				Visa situation
+			</span>
+			<div class="input-group vertical">
+				<label class="checkbox">
+					<input type="checkbox" :name="uid('isEUCitizen')" v-model="isEUCitizen">
+					<span>I am a <glossary term="European Union">EU</glossary> citizen</span>
+				</label>
+				<label class="checkbox" v-if="!isEUCitizen">
+					<input type="checkbox" :name="uid('isApplyingForResidencePermit')" v-model="isApplyingForResidencePermit">
+					<span>I am applying for a student visa</span>
+				</label>
+				<label class="checkbox" v-if="!isEUCitizen">
+					<input type="checkbox" :name="uid('isAlreadyInsured')" v-model="isAlreadyInsured">
+					I already have German health insurance
+				</label>
+			</div>
 		</div>
 		<hr>
 		<div class="buttons bar">
