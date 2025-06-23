@@ -117,7 +117,7 @@ Vue.component('gkv-cost-explanation', {
 						You make more than <eur :amount="healthInsurance.maxMonthlyIncome"></eur> per month, so you pay the <glossary term="Höchstbeitrag">maximum price</glossary>. It's {{ baseContributionRate }} of <eur :amount="healthInsurance.maxMonthlyIncome"></eur>.
 					</template>
 					<template v-else-if="flag('midijob')">
-						You make less than <eur :amount="healthInsurance.midijobMaxIncome"></eur> per month, so you pay the midijob tarif. It's cheaper than the normal tarif.
+						You make less than <eur :amount="healthInsurance.maxMidijobIncome"></eur> per month, so you pay the midijob tarif. It's cheaper than the normal tarif.
 					</template>
 					<template v-else-if="result.tarif === 'student'">
 						You pay the student tarif; the base cost is a fixed price.

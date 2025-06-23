@@ -149,7 +149,7 @@ function hasMinimumSelfPayTarifWithExtraPflegeversicherung(output) {
 }
 
 function hasStandardTarifHighIncomeStudent(output) {
-	const income = Math.ceil(0.75 * healthInsurance.nebenjobMaxIncome + 1);
+	const income = Math.ceil(0.75 * healthInsurance.maxNebenjobIncome + 1);
 
 
 	equal(
@@ -195,7 +195,7 @@ describe('calculateHealthInsuranceContributions', () => {
 			childrenCount: 0,
 			isMarried: true,
 			occupation: 'unemployed',
-			monthlyIncome: taxes.maxMinijobIncome,
+			monthlyIncome: healthInsurance.maxFamilienversicherungIncome,
 		});
 		it('can use their spouse\'s insurance', hasFlag(output, 'familienversicherung-spouse'));
 	});
@@ -420,13 +420,13 @@ describe('calculateHealthInsuranceContributions', () => {
 			it('does not pay more for Pflegeversicherung if he has no kids', notHasFlag(outputNoKids, 'pflegeversicherung-surcharge'));
 		});
 
-		describe(`a student with a 20 hr/week, ${Math.ceil(0.75 * healthInsurance.nebenjobMaxIncome + 1)}€/month job`, () => {
+		describe(`a student with a 20 hr/week, ${Math.ceil(0.75 * healthInsurance.maxNebenjobIncome + 1)}€/month job`, () => {
 			const output = calculateHealthInsuranceContributions({
 				age: 22,
 				childrenCount: 0,
 				isMarried: true,
 				occupation: 'studentEmployee',
-				monthlyIncome: Math.ceil(0.75 * healthInsurance.nebenjobMaxIncome + 1),
+				monthlyIncome: Math.ceil(0.75 * healthInsurance.maxNebenjobIncome + 1),
 				hoursWorked: 20
 			});
 
@@ -675,13 +675,13 @@ describe('calculateHealthInsuranceContributions', () => {
 			it('pays more for Pflegeversicherung if he has no kids', hasFlag(outputNoKids, 'pflegeversicherung-surcharge'));
 		});
 
-		describe(`a 17 year old employee with a ${Math.ceil(0.75 * healthInsurance.nebenjobMaxIncome + 1)}€ job`, () => {
+		describe(`a 17 year old employee with a ${Math.ceil(0.75 * healthInsurance.maxNebenjobIncome + 1)}€ job`, () => {
 			const output = calculateHealthInsuranceContributions({
 				age: 17,
 				childrenCount: 0,
 				isMarried: true,
 				occupation: 'employee',
-				monthlyIncome: Math.ceil(0.75 * healthInsurance.nebenjobMaxIncome + 1),
+				monthlyIncome: Math.ceil(0.75 * healthInsurance.maxNebenjobIncome + 1),
 			});
 
 			it('must pay the employee rate', () => {
@@ -696,13 +696,13 @@ describe('calculateHealthInsuranceContributions', () => {
 			it('can\'t use their parents\' insurance', notHasFlag(output, 'familienversicherung-parents'));
 		});
 
-		describe(`an 18 year old employee with a ${Math.ceil(0.75 * healthInsurance.nebenjobMaxIncome + 1)}€ job`, () => {
+		describe(`an 18 year old employee with a ${Math.ceil(0.75 * healthInsurance.maxNebenjobIncome + 1)}€ job`, () => {
 			const output = calculateHealthInsuranceContributions({
 				age: 19,
 				childrenCount: 0,
 				isMarried: true,
 				occupation: 'employee',
-				monthlyIncome: Math.ceil(0.75 * healthInsurance.nebenjobMaxIncome + 1),
+				monthlyIncome: Math.ceil(0.75 * healthInsurance.maxNebenjobIncome + 1),
 			});
 
 			it('must pay the employee rate', () => {
@@ -807,13 +807,13 @@ describe('calculateHealthInsuranceContributions', () => {
 			it('can\'t use their parents\' insurance', notHasFlag(outputNoKids, 'familienversicherung-parents'));
 		});
 
-		describe(`an employee with a ${healthInsurance.midijobMaxIncome}€ job`, () => {
+		describe(`an employee with a ${healthInsurance.maxMidijobIncome}€ job`, () => {
 			const outputNoKids = calculateHealthInsuranceContributions({
 				age: 22,
 				childrenCount: 0,
 				isMarried: true,
 				occupation: 'employee',
-				monthlyIncome: healthInsurance.midijobMaxIncome,
+				monthlyIncome: healthInsurance.maxMidijobIncome,
 			});
 
 			it('must pay the midijob tariff', () => {
@@ -833,13 +833,13 @@ describe('calculateHealthInsuranceContributions', () => {
 			it('can\'t use their parents\' insurance', notHasFlag(outputNoKids, 'familienversicherung-parents'));
 		});
 
-		describe(`an employee with a ${healthInsurance.midijobMaxIncome + 1}€ job`, () => {
+		describe(`an employee with a ${healthInsurance.maxMidijobIncome + 1}€ job`, () => {
 			const outputNoKids = calculateHealthInsuranceContributions({
 				age: 22,
 				childrenCount: 0,
 				isMarried: true,
 				occupation: 'employee',
-				monthlyIncome: healthInsurance.midijobMaxIncome + 1,
+				monthlyIncome: healthInsurance.maxMidijobIncome + 1,
 			});
 
 			it('must pay the employee tariff', () => {
@@ -1160,13 +1160,13 @@ describe('calculateHealthInsuranceContributions', () => {
 			it('can\'t pay the Midijob tariff', notHasFlag(outputNoKids, 'midijob'));
 		});
 
-		describe(`an Azubi with a ${Math.ceil(0.75 * healthInsurance.nebenjobMaxIncome + 1)}€ income`, () => {
+		describe(`an Azubi with a ${Math.ceil(0.75 * healthInsurance.maxNebenjobIncome + 1)}€ income`, () => {
 			const output = calculateHealthInsuranceContributions({
 				age: 22,
 				childrenCount: 0,
 				isMarried: true,
 				occupation: 'azubi',
-				monthlyIncome: Math.ceil(0.75 * healthInsurance.nebenjobMaxIncome + 1),
+				monthlyIncome: Math.ceil(0.75 * healthInsurance.maxNebenjobIncome + 1),
 			});
 
 			it('must pay the standard percentage of their income', () => {

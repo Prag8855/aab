@@ -6,22 +6,7 @@ function getBoundedMonthlyIncome(monthlyIncome){
 	return Math.min(healthInsurance.maxMonthlyIncome, Math.max(monthlyIncome, healthInsurance.minMonthlyIncome));
 }
 
-function getPublicHealthInsurerOptions(customZusatzbeitrag){
-	const allInsurers = Object.entries(healthInsurance.companies);
-	if(customZusatzbeitrag !== undefined) {
-		// Add an extra option with the user-specified Zusatzbeitrag
-		allInsurers.push([
-			'custom',
-			{
-				name: 'Other health insurer',
-				zusatzbeitrag: customZusatzbeitrag,
-			}
-		]);
-	}
-	return allInsurers;
-}
-
-function calculatePflegeversicherungRate(age, childrenCount){
+function getPflegeversicherungRate(age, childrenCount){
 	if (age > pflegeversicherung.defaultTarifMaxAge && childrenCount === 0) {
 		return pflegeversicherung.surchargeTarif;
 	}
@@ -38,6 +23,22 @@ function calculatePflegeversicherungRate(age, childrenCount){
 			)
 		);
 	}
+}
+
+function getPublicHealthInsurerOptions(customZusatzbeitrag){
+	// Get a list of Krankenkassen with their price
+	const allInsurers = Object.entries(healthInsurance.companies);
+	if(customZusatzbeitrag !== undefined) {
+		// Add an extra option with the user-specified Zusatzbeitrag
+		allInsurers.push([
+			'custom',
+			{
+				name: 'Other health insurer',
+				zusatzbeitrag: customZusatzbeitrag,
+			}
+		]);
+	}
+	return allInsurers;
 }
 
 function calculateHealthInsuranceForAzubi(monthlyIncome, age, childrenCount, customZusatzbeitrag){
@@ -80,7 +81,7 @@ function calculateHealthInsuranceForAzubi(monthlyIncome, age, childrenCount, cus
 	***************************************************/
 
 	out.pflegeversicherung = {};
-	out.pflegeversicherung.totalRate = calculatePflegeversicherungRate(age, childrenCount);
+	out.pflegeversicherung.totalRate = getPflegeversicherungRate(age, childrenCount);
 	out.pflegeversicherung.totalContribution = roundCurrency(adjustedIncome * out.pflegeversicherung.totalRate);
 
 	// Personal + employer contributions
@@ -144,7 +145,7 @@ function calculateHealthInsuranceForEmployee(monthlyIncome, age, childrenCount, 
 		tarif: 'employee',
 	};
 
-	if(monthlyIncome > healthInsurance.minFreiwilligMonthlyIncome){
+	if(canHavePrivateHealthInsurance('employee', monthlyIncome, 40)){
 		out.flags.add('private');
 	}
 
@@ -168,7 +169,7 @@ function calculateHealthInsuranceForEmployee(monthlyIncome, age, childrenCount, 
 	***************************************************/
 
 	out.pflegeversicherung = {};
-	out.pflegeversicherung.totalRate = calculatePflegeversicherungRate(age, childrenCount);
+	out.pflegeversicherung.totalRate = getPflegeversicherungRate(age, childrenCount);
 	out.pflegeversicherung.totalContribution = roundCurrency(adjustedIncome * out.pflegeversicherung.totalRate);
 	out.pflegeversicherung.employerRate = pflegeversicherung.employerTarif;
 	out.pflegeversicherung.employerContribution = roundCurrency(adjustedIncome * out.pflegeversicherung.employerRate);
@@ -223,11 +224,11 @@ function calculateHealthInsuranceForMidijob(monthlyIncome, age, childrenCount, c
 	const adjustedIncomeEmployer = (
 		healthInsurance.factorF * taxes.maxMinijobIncome
 		+ (
-			(healthInsurance.midijobMaxIncome / (healthInsurance.midijobMaxIncome-taxes.maxMinijobIncome))
+			(healthInsurance.maxMidijobIncome / (healthInsurance.maxMidijobIncome-taxes.maxMinijobIncome))
 			- (
 				(
 					taxes.maxMinijobIncome
-					/ (healthInsurance.midijobMaxIncome - taxes.maxMinijobIncome)
+					/ (healthInsurance.maxMidijobIncome - taxes.maxMinijobIncome)
 				)
 				* healthInsurance.factorF
 			)
@@ -235,7 +236,7 @@ function calculateHealthInsuranceForMidijob(monthlyIncome, age, childrenCount, c
 	);
 
 	const adjustedIncomeEmployee = (
-		(healthInsurance.midijobMaxIncome / (healthInsurance.midijobMaxIncome-taxes.maxMinijobIncome))
+		(healthInsurance.maxMidijobIncome / (healthInsurance.maxMidijobIncome-taxes.maxMinijobIncome))
 		* (monthlyIncome - taxes.maxMinijobIncome)
 	);
 
@@ -258,7 +259,7 @@ function calculateHealthInsuranceForMidijob(monthlyIncome, age, childrenCount, c
 	***************************************************/
 
 	out.pflegeversicherung = {};
-	out.pflegeversicherung.totalRate = calculatePflegeversicherungRate(age, childrenCount);
+	out.pflegeversicherung.totalRate = getPflegeversicherungRate(age, childrenCount);
 	out.pflegeversicherung.totalContribution = roundCurrency(adjustedIncomeEmployer * out.pflegeversicherung.totalRate);
 
 	out.pflegeversicherung.employerRate = pflegeversicherung.employerTarif;
@@ -327,7 +328,7 @@ function calculateHealthInsuranceForSelfEmployment(monthlyIncome, age, childrenC
 	***************************************************/
 
 	out.pflegeversicherung = {};
-	out.pflegeversicherung.totalRate = calculatePflegeversicherungRate(age, childrenCount);
+	out.pflegeversicherung.totalRate = getPflegeversicherungRate(age, childrenCount);
 	out.pflegeversicherung.totalContribution = roundCurrency(adjustedIncome * out.pflegeversicherung.totalRate);
 	out.pflegeversicherung.employerRate = 0;
 	out.pflegeversicherung.employerContribution = 0;
@@ -392,7 +393,7 @@ function calculateHealthInsuranceForSelfPay(monthlyIncome, age, childrenCount, c
 	***************************************************/
 
 	out.pflegeversicherung = {};
-	out.pflegeversicherung.totalRate = calculatePflegeversicherungRate(age, childrenCount);
+	out.pflegeversicherung.totalRate = getPflegeversicherungRate(age, childrenCount);
 	out.pflegeversicherung.totalContribution = roundCurrency(adjustedIncome * out.pflegeversicherung.totalRate);
 	out.pflegeversicherung.employerRate = 0;
 	out.pflegeversicherung.employerContribution = 0;
@@ -462,7 +463,7 @@ function calculateHealthInsuranceForStudent(monthlyIncome, age, childrenCount, c
 	out.pflegeversicherung = {};
 
 	// Employers do not contribute to a student's Pflegeversicherung
-	out.pflegeversicherung.totalRate = calculatePflegeversicherungRate(age, childrenCount);
+	out.pflegeversicherung.totalRate = getPflegeversicherungRate(age, childrenCount);
 	out.pflegeversicherung.totalContribution = roundCurrency(out.pflegeversicherung.totalRate * bafogBedarfssatz);
 	out.pflegeversicherung.employerRate = 0;
 	out.pflegeversicherung.employerContribution = 0;
@@ -502,119 +503,108 @@ function calculateHealthInsuranceForStudent(monthlyIncome, age, childrenCount, c
 	return out;
 }
 
-function calculateHealthInsuranceContributions({age, monthlyIncome, occupation, isMarried, childrenCount, customZusatzbeitrag, hoursWorked}) {
-	const isEmployed = occupations.isEmployed(occupation);
-	const isSelfEmployed = occupations.isSelfEmployed(occupation);
-	const isStudent = occupations.isStudent(occupation);
-	const isUnemployed = occupations.isUnemployed(occupation);
-	const isAzubi = occupation === 'azubi';
-
-	/***************************************************
-	* Tarif selection
-	***************************************************/
+function getPublicHealthInsuranceTarif(age, occupation, monthlyIncome, hoursWorkedPerWeek){
 	let tarif = null;
-	const flags = new Set();
 
-	if(isStudent) {
+	if(occupations.isStudent(occupation)) {
+		tarif = 'student';
 		if(age >= 30) {
-			flags.add('student-30plus');
-			if(isEmployed) {
+			if(occupations.isEmployed(occupation)) {
 				tarif = 'employee';
 			}
-			else if(isSelfEmployed) {
+			else if(occupations.isSelfEmployed(occupation)) {
 				tarif = 'selfEmployed';
 			}
 			else {
 				tarif = 'selfPay';
 			}
 		}
-		else{
-			tarif = 'student';
-		}
 
-		// You are earning too much to be considered a student
-		// https://www.haufe.de/personal/haufe-personal-office-platin/student-versicherungsrechtliche-bewertung-einer-selbsts-5-student-oder-selbststaendiger_idesk_PI42323_HI9693887.html
-		hoursWorked = hoursWorked === undefined ? 20 : +hoursWorked;
-		if(hoursWorked <= 20 && monthlyIncome > 0.75*healthInsurance.nebenjobMaxIncome) {
-			tarif = isSelfEmployed ? 'selfEmployed' : 'employee';
-			flags.add('not-werkstudent');
-		}
-		else if(hoursWorked > 20) {
-			tarif = isSelfEmployed ? 'selfEmployed' : 'employee';
-			flags.add('not-werkstudent');
+		if(!isWorkingStudent(occupation, monthlyIncome, hoursWorkedPerWeek)){
+			tarif = occupations.isSelfEmployed(occupation) ? 'selfEmployed' : 'employee';
 		}
 	}
-	else if(isSelfEmployed) {
+	else if(occupations.isSelfEmployed(occupation)) {
 		tarif = 'selfEmployed';
 	}
-	else if(isUnemployed) {
+	else if(occupations.isUnemployed(occupation)) {
 		tarif = 'selfPay';
 	}
 	else if(occupation === 'employee') {
 		tarif = 'employee';
 	}
-	else if(isAzubi) {
+	else if(occupation === 'azubi') {
 		tarif = 'azubi';
 	}
 
-	if(tarif == 'employee' && !isAzubi) {
-		// Azubis don't get the midijob tarif
-		// https://www.haufe.de/sozialwesen/versicherungen-beitraege/auszubildende-besonderheiten-bei-den-neuen/besonderheiten-bei-der-beitragsberechnung_240_94670.html
-		if(monthlyIncome <= taxes.maxMinijobIncome) {
+	if(tarif === 'employee'){
+		if(isMinijob(occupation, monthlyIncome)) {
 			tarif = 'selfPay';
-			flags.add('minijob');
 		}
-		else if(monthlyIncome <= healthInsurance.midijobMaxIncome) {
+		else if(isMidijob(occupation, monthlyIncome)) {
 			tarif = 'midijob';
 		}
 	}
 
+	return tarif;
+}
+
+function calculateHealthInsuranceContributions({age, monthlyIncome, occupation, isMarried, childrenCount, customZusatzbeitrag, hoursWorked}) {
+	const hoursWorkedPerWeek = hoursWorked === undefined ? 20 : +hoursWorked;
+
+	/***************************************************
+	* Tarif selection
+	***************************************************/
+
+	const tarif = getPublicHealthInsuranceTarif(age, occupation, monthlyIncome, hoursWorkedPerWeek);
 
 	/***************************************************
 	* Flags
 	***************************************************/
 
-	if (isUnemployed){
+	const flags = new Set();
+	if(isPaidBySocialBenefits(occupation)){
 		flags.add('alg-i-buergergeld');
 	}
-
-	if (monthlyIncome === 0 && !isSelfEmployed && !isAzubi) {
+	if(canHaveEHIC(true, false, monthlyIncome)) {
 		flags.add('ehic');
 	}
 
-	// Azubis can't use Familienversicherung - krankenkasse-vergleich-direkt.de/ratgeber/krankenversicherung-fuer-auszubildende.html
-	// If the minijob income > familienversicherung income, minijobbers keep their familienversicherung. - §8 SGB V
-	const maxFamilienvericherungIncome = isEmployed ? taxes.maxMinijobIncome : healthInsurance.maxFamilienvericherungIncome;
-	if(monthlyIncome <= maxFamilienvericherungIncome && !isAzubi) {
-		if(isMarried){
-			flags.add('familienversicherung-spouse'); // No age limit
-		}
-		if(age < 23 || (isStudent && age < 25)) {
-			flags.add('familienversicherung-parents');
-		}
+	if(canHaveFamilienversicherungFromSpouse(occupation, monthlyIncome, isMarried)){
+		flags.add('familienversicherung-spouse');
 	}
-
-	if (isSelfEmployed && (monthlyIncome * 12) >= healthInsurance.kskMinimumIncome) {
+	if(canHaveFamilienversicherungFromParents(occupation, monthlyIncome, age)){
+		flags.add('familienversicherung-parents');
+	}
+	if(canHaveKSK(occupation, monthlyIncome, hoursWorked)) {
 		flags.add('ksk');
 	}
+	if(occupations.isStudent(occupation)){
+		if(age >= 30) {
+			flags.add('student-30plus');
+		}
+		if(!isWorkingStudent(occupation, monthlyIncome, hoursWorkedPerWeek)){
+			flags.add('not-werkstudent');
+		}
+	}
 
-	if (monthlyIncome >= healthInsurance.maxMonthlyIncome) {
+	if(monthlyIncome >= healthInsurance.maxMonthlyIncome) {
 		flags.add('max-contribution');
 	}
 
-	if (monthlyIncome <= healthInsurance.minMonthlyIncome && (tarif === 'selfPay' || tarif === 'selfEmployed')) {
+	if(monthlyIncome <= healthInsurance.minMonthlyIncome && (tarif === 'selfPay' || tarif === 'selfEmployed')) {
 		flags.add('min-contribution');
 	}
 
-	if(tarif == 'employee' && !isAzubi && monthlyIncome <= taxes.maxMinijobIncome) {
+	if(tarif !== 'student' && isMinijob(occupation, monthlyIncome)) {
 		flags.add('minijob');
 	}
 
-	if (age > pflegeversicherung.defaultTarifMaxAge && childrenCount === 0) {
+	if(age > pflegeversicherung.defaultTarifMaxAge && childrenCount === 0) {
 		flags.add('pflegeversicherung-surcharge');
 	}
 
-	if (monthlyIncome >= healthInsurance.minFreiwilligMonthlyIncome || isUnemployed || tarif === 'selfPay' || tarif === 'selfEmployed' || tarif === 'minijob' || tarif === 'student') {
+	if(canHavePrivateHealthInsurance(occupation, monthlyIncome, hoursWorkedPerWeek)) {
 		flags.add('private');
 	}
 
@@ -640,5 +630,133 @@ function calculateHealthInsuranceContributions({age, monthlyIncome, occupation, 
 	flags.forEach(f => output.flags.add(f));
 
 	return output;
+}
+
+function canHaveEHIC(isEUResident, hasGermanInsurance, monthlyIncome){
+	// EHIC is available if you are insured in another EU country
+	// It's invalidated as soon as you have an income, even if it's below the minijob threshold
+	return isEUResident && !hasGermanInsurance && monthlyIncome === 0;
+}
+
+function isMinijob(occupation, monthlyIncome){
+	return (
+		occupations.isEmployed(occupation)
+		&& occupation !== 'azubi' // No minijob tarif for an Ausbildung
+		&& monthlyIncome <= taxes.maxMinijobIncome
+	);
+}
+
+function isMidijob(occupation, monthlyIncome){
+	// No midijob tarif for Azubis
+	// https://www.haufe.de/sozialwesen/versicherungen-beitraege/auszubildende-besonderheiten-bei-den-neuen/besonderheiten-bei-der-beitragsberechnung_240_94670.html
+	return (
+		occupation === 'employee'
+		&& occupation !== 'azubi'
+		&& !isMinijob(occupation, monthlyIncome)
+		&& monthlyIncome <= healthInsurance.maxMidijobIncome
+	);
+}
+
+function _canHaveFamilienversicherung(occupation, monthlyIncome){
+	// The max income you can have before you're disqualified from Familienversicherung
+	// The threshold is different for minijobs - §8 SGB V
+	const maxIncome = occupations.isEmployed(occupation) ? taxes.maxMinijobIncome : healthInsurance.maxFamilienversicherungIncome;
+
+	// Azubis can't use Familienversicherung - krankenkasse-vergleich-direkt.de/ratgeber/krankenversicherung-fuer-auszubildende.html
+	return occupation !== 'azubi' && monthlyIncome <= maxIncome;
+}
+
+function canHaveFamilienversicherungFromSpouse(occupation, monthlyIncome, isMarried){
+	// There is no age limit if getting FV from your spouse
+	return isMarried && _canHaveFamilienversicherung(occupation, monthlyIncome);
+}
+
+function canHaveFamilienversicherungFromParents(occupation, monthlyIncome, age){
+	return _canHaveFamilienversicherung(occupation, monthlyIncome) && (
+		age < 23
+		|| (
+			age < 25
+			&& occupations.isStudent(occupation)
+		)
+	);
+}
+
+function isPaidBySocialBenefits(occupation){
+	// If income below limit, and receiving social benefits
+	return occupations.isUnemployed(occupation);
+}
+
+function canHavePublicHealthInsurance(occupation, age, isEUResident, hasGermanInsurance){
+	if(hasGermanInsurance){  // If it's public health insurance
+		return true;
+	}
+
+	// If uninsured, non-EU student over 30
+	if(occupations.isStudent(occupation) && age >= 30){
+		if(!isEUCitizen && !hasGermanInsurance){
+			return false;
+		}
+	}
+	else if(!isEUResident && occupations.isSelfEmployed(occupation) && !hasGermanInsurance){
+		return false;
+	}
+
+	// If uninsured, non-EU freelancer over 30
+
+	return (
+		isEUCitizen
+		|| currentHealthInsurance === 'public'
+	);
+}
+
+function canHavePrivateHealthInsurance(occupation, monthlyIncome, hoursWorkedPerWeek){
+	return (
+		!isWorkingStudent(occupation, monthlyIncome, hoursWorkedPerWeek)
+		&&(
+		 	(occupations.isEmployed(occupation) && monthlyIncome >= healthInsurance.minFreiwilligMonthlyIncome)
+			|| occupations.isSelfEmployed(occupation)
+			|| occupations.isUnemployed(occupation)
+			|| isMinijob(occupation, monthlyIncome)
+		)
+	);
+}
+
+function canHaveExpatHealthInsurance(occupation, hasGermanInsurance){
+	return !hasGermanInsurance && occupation !== 'employee';
+}
+
+function canHaveKSK(occupation, monthlyIncome, hoursWorkedPerWeek){
+	// Künstlersozialkasse
+	// The KSK only covers a student's health insurance if they work under 20 hours per week
+	return (
+		occupations.isSelfEmployed(occupation)
+		&& (monthlyIncome * 12) >= healthInsurance.kskMinimumIncome
+		&& (
+			!occupations.isStudent(occupation)
+			|| hoursWorkedPerWeek <= 20
+		)
+	);
+}
+
+function isWorkingStudent(occupation, monthlyIncome, hoursWorkedPerWeek){
+	// A Werkstudent keeps their student insurance even if their income is above the Familienversicherung threshold
+
+	return (
+		occupations.isStudent(occupation)
+
+		// TODO: Unless it's an internship during studies
+		&& hoursWorkedPerWeek <= 20
+
+		// You can earn too much to be considered a student
+		// https://www.haufe.de/personal/haufe-personal-office-platin/student-versicherungsrechtliche-bewertung-einer-selbsts-5-student-oder-selbststaendiger_idesk_PI42323_HI9693887.html
+		&& monthlyIncome <= 0.75 * healthInsurance.maxNebenjobIncome
+	)
+}
+
+function needsGapInsurance(occupation, isEUResident){
+	// Immigrants might need expat insurance to cover them from the moment they arrive in Germany
+	// to the moment they get covered by public health insurance.
+	// - Students before the start of their semester
+	// - Employees before they start working
 }
 {% endjs %}
