@@ -130,7 +130,7 @@ function gkvTotal(baseContributionValues, pflegeversicherungValues, zusatzbeitra
 	};
 }
 
-function gkvKrankenkasseOptions(customZusatzbeitrag){
+function gkvKrankenkassenList(customZusatzbeitrag){
 	// Get a list of Krankenkassen with their price
 	const allInsurers = Object.entries(healthInsurance.companies);
 	if(customZusatzbeitrag !== undefined) {
@@ -146,76 +146,72 @@ function gkvKrankenkasseOptions(customZusatzbeitrag){
 	return allInsurers;
 }
 
-function gkvCostForAzubi(monthlyIncome, age, childrenCount, customZusatzbeitrag){
-	// When the Azubi's pay is too low, the employer pays for everything - §20 Abs. 3 SGB IV
-	const employerPaysForEverything = monthlyIncome <= healthInsurance.azubiFreibetrag;
-
-	const out = {
-		tariff: employerPaysForEverything ? 'azubi-free' : 'azubi',
-	};
-
-	const boundedMonthlyIncome = Math.min(healthInsurance.maxMonthlyIncome, monthlyIncome);
-	if(employerPaysForEverything) {
-		out.baseContribution = {
-			totalRate: healthInsurance.defaultRate,
-			personalRate: 0,
-			employerRate: healthInsurance.defaultRate,
-			totalContribution: roundCurrency(boundedMonthlyIncome),
-			personalContribution: 0,
-			employerContribution: roundCurrency(boundedMonthlyIncome),
-		};
-
-		const pflegeversicherungRate = gkvPflegeversicherungRate(age, childrenCount);
-		out.pflegeversicherung = {
-			totalRate: pflegeversicherungRate,
-			personalRate: 0,
-			employerRate: pflegeversicherungRate,
-			totalContribution: roundCurrency(pflegeversicherungRate * boundedMonthlyIncome),
-			personalContribution: 0,
-			employerContribution: roundCurrency(pflegeversicherungRate * boundedMonthlyIncome),
-		}
-	}
-	else{
-		out.baseContribution = gkvBaseContribution(boundedMonthlyIncome, healthInsurance.defaultRate, true);
-		out.pflegeversicherung = gkvPflegeversicherung(age, childrenCount, boundedMonthlyIncome, true);
-	}
-
-	out.options = gkvKrankenkasseOptions(customZusatzbeitrag).reduce((options, [krankenkasseKey, krankenkasse]) => {
-		const employerRate = employerPaysForEverything ? krankenkasse.zusatzbeitrag : krankenkasse.zusatzbeitrag / 2;
+function gkvKrankenkassenOptions(monthlyIncome, employerContributes, customZusatzbeitrag){
+	return gkvKrankenkassenList(customZusatzbeitrag).reduce((options, [krankenkasseKey, krankenkasse]) => {
 		options[krankenkasseKey] = {
-			zusatzbeitrag: {
-				totalRate: krankenkasse.zusatzbeitrag,
-				personalRate: krankenkasse.zusatzbeitrag - employerRate,
-				employerRate,
-				totalContribution: roundCurrency(boundedMonthlyIncome * krankenkasse.zusatzbeitrag),
-				personalContribution: roundCurrency(boundedMonthlyIncome * (krankenkasse.zusatzbeitrag - employerRate)),
-				employerContribution: roundCurrency(boundedMonthlyIncome * employerRate),
-			},
+			zusatzbeitrag: gkvZusatzbeitrag(krankenkasse.zusatzbeitrag, monthlyIncome, employerContributes),
 		};
 		return options;
 	}, {});
+}
 
-	return out;
+function gkvCostForAzubi(monthlyIncome, age, childrenCount, customZusatzbeitrag){
+	const boundedMonthlyIncome = Math.min(healthInsurance.maxMonthlyIncome, monthlyIncome);
+
+	// When the Azubi's pay is too low, the employer pays for everything - §20 Abs. 3 SGB IV
+	if(monthlyIncome > healthInsurance.azubiFreibetrag){
+		return {
+			tariff: 'azubi',
+			baseContribution: gkvBaseContribution(boundedMonthlyIncome, healthInsurance.defaultRate, true),
+			pflegeversicherung: gkvPflegeversicherung(age, childrenCount, boundedMonthlyIncome, true),
+			options: gkvKrankenkassenOptions(boundedMonthlyIncome, true, customZusatzbeitrag),
+		};
+	}
+	else{
+		const pflegeversicherungRate = gkvPflegeversicherungRate(age, childrenCount);
+		return {
+			tariff: 'azubi-free',
+			baseContribution: {
+				totalRate: healthInsurance.defaultRate,
+				personalRate: 0,
+				employerRate: healthInsurance.defaultRate,
+				totalContribution: roundCurrency(boundedMonthlyIncome),
+				personalContribution: 0,
+				employerContribution: roundCurrency(boundedMonthlyIncome),
+			},
+			pflegeversicherung: {
+				totalRate: pflegeversicherungRate,
+				personalRate: 0,
+				employerRate: pflegeversicherungRate,
+				totalContribution: roundCurrency(pflegeversicherungRate * boundedMonthlyIncome),
+				personalContribution: 0,
+				employerContribution: roundCurrency(pflegeversicherungRate * boundedMonthlyIncome),
+			},
+			options: gkvKrankenkassenList(customZusatzbeitrag).reduce((options, [krankenkasseKey, krankenkasse]) => {
+				options[krankenkasseKey] = {
+					zusatzbeitrag: {
+						totalRate: krankenkasse.zusatzbeitrag,
+						personalRate: 0,
+						employerRate: krankenkasse.zusatzbeitrag,
+						totalContribution: roundCurrency(boundedMonthlyIncome * krankenkasse.zusatzbeitrag),
+						personalContribution: 0,
+						employerContribution: roundCurrency(boundedMonthlyIncome * krankenkasse.zusatzbeitrag),
+					},
+				};
+				return options;
+			}, {}),
+		}
+	}
 }
 
 function gkvCostForEmployee(monthlyIncome, age, childrenCount, customZusatzbeitrag){
-	const out = {
-		tariff: 'employee',
-	};
-
 	const boundedMonthlyIncome = getBoundedMonthlyIncome(monthlyIncome);
-
-	out.baseContribution = gkvBaseContribution(boundedMonthlyIncome, healthInsurance.defaultRate, true);
-	out.pflegeversicherung = gkvPflegeversicherung(age, childrenCount, boundedMonthlyIncome, true);
-
-	out.options = gkvKrankenkasseOptions(customZusatzbeitrag).reduce((options, [krankenkasseKey, krankenkasse]) => {
-		options[krankenkasseKey] = {
-			zusatzbeitrag: gkvZusatzbeitrag(krankenkasse.zusatzbeitrag, boundedMonthlyIncome, true),
-		};
-		return options;
-	}, {});
-
-	return out;
+	return {
+		tariff: 'employee',
+		baseContribution: gkvBaseContribution(boundedMonthlyIncome, healthInsurance.defaultRate, true),
+		pflegeversicherung: gkvPflegeversicherung(age, childrenCount, boundedMonthlyIncome, true),
+		options: gkvKrankenkassenOptions(boundedMonthlyIncome, true, customZusatzbeitrag),
+	};
 }
 
 function gkvCostForMidijob(monthlyIncome, age, childrenCount, customZusatzbeitrag){
@@ -256,8 +252,8 @@ function gkvCostForMidijob(monthlyIncome, age, childrenCount, customZusatzbeitra
 		employerRate: healthInsurance.defaultRate / 2,
 		personalRate: healthInsurance.defaultRate / 2,
 		totalContribution: roundCurrency(healthInsurance.defaultRate * boundedMonthlyIncomeEmployer),
+		personalContribution: roundCurrency(boundedMonthlyIncomeEmployee * healthInsurance.defaultRate / 2),
 	};
-	out.baseContribution.personalContribution = roundCurrency(boundedMonthlyIncomeEmployee * out.baseContribution.personalRate);
 	out.baseContribution.employerContribution = roundCurrency(out.baseContribution.totalContribution - out.baseContribution.personalContribution);
 
 	/***************************************************
@@ -275,15 +271,10 @@ function gkvCostForMidijob(monthlyIncome, age, childrenCount, customZusatzbeitra
 	* Zusatzbeitrag
 	***************************************************/
 
-	out.options = gkvKrankenkasseOptions(customZusatzbeitrag).reduce((options, [krankenkasseKey, krankenkasse]) => {
+	out.options = gkvKrankenkassenList(customZusatzbeitrag).reduce((options, [krankenkasseKey, krankenkasse]) => {
 		options[krankenkasseKey] = {
-			zusatzbeitrag: {
-				totalContribution: roundCurrency(krankenkasse.zusatzbeitrag * boundedMonthlyIncomeEmployer),
-				personalRate: krankenkasse.zusatzbeitrag / 2,
-				employerRate: krankenkasse.zusatzbeitrag / 2,
-			}
+			zusatzbeitrag: gkvZusatzbeitrag(krankenkasse.zusatzbeitrag, boundedMonthlyIncomeEmployer, true)
 		};
-
 		options[krankenkasseKey].zusatzbeitrag.personalContribution = roundCurrency(boundedMonthlyIncomeEmployee * options[krankenkasseKey].zusatzbeitrag.personalRate);
 		options[krankenkasseKey].zusatzbeitrag.employerContribution = roundCurrency(options[krankenkasseKey].zusatzbeitrag.totalContribution - options[krankenkasseKey].zusatzbeitrag.personalContribution);
 		return options;
@@ -294,44 +285,26 @@ function gkvCostForMidijob(monthlyIncome, age, childrenCount, customZusatzbeitra
 
 function gkvCostForSelfEmployment(monthlyIncome, age, childrenCount, customZusatzbeitrag){
 	const boundedMonthlyIncome = getBoundedMonthlyIncome(monthlyIncome);
-
-	const out = {
+	return {
 		tariff: 'selfEmployed',
 		baseContribution: gkvBaseContribution(boundedMonthlyIncome, healthInsurance.selfPayRate, false),
 		pflegeversicherung: gkvPflegeversicherung(age, childrenCount, boundedMonthlyIncome, false),
+		options: gkvKrankenkassenOptions(boundedMonthlyIncome, false, customZusatzbeitrag),
 	};
-
-	out.options = gkvKrankenkasseOptions(customZusatzbeitrag).reduce((options, [krankenkasseKey, krankenkasse]) => {
-		options[krankenkasseKey] = {
-			zusatzbeitrag: gkvZusatzbeitrag(krankenkasse.zusatzbeitrag, boundedMonthlyIncome, false),
-		};
-		return options;
-	}, {});
-
-	return out;
 }
 
 function gkvCostForSelfPay(monthlyIncome, age, childrenCount, customZusatzbeitrag){
 	const boundedMonthlyIncome = getBoundedMonthlyIncome(monthlyIncome);
-
-	const out = {
+	return {
 		tariff: 'selfPay',
 		baseContribution: gkvBaseContribution(boundedMonthlyIncome, healthInsurance.selfPayRate, false),
 		pflegeversicherung: gkvPflegeversicherung(age, childrenCount, boundedMonthlyIncome, false),
+		options: gkvKrankenkassenOptions(boundedMonthlyIncome, false, customZusatzbeitrag),
 	};
-
-	out.options = gkvKrankenkasseOptions(customZusatzbeitrag).reduce((options, [krankenkasseKey, krankenkasse]) => {
-		options[krankenkasseKey] = {
-			zusatzbeitrag: gkvZusatzbeitrag(krankenkasse.zusatzbeitrag, boundedMonthlyIncome, false),
-		};
-		return options;
-	}, {});
-
-	return out;
 }
 
 function gkvCostForStudent(monthlyIncome, age, childrenCount, customZusatzbeitrag){
-	const out = {
+	return {
 		tariff: 'student',
 
 		// Students pay a fixed amount: 70% of the normal rate * the bafogBedarfssatz
@@ -340,16 +313,9 @@ function gkvCostForStudent(monthlyIncome, age, childrenCount, customZusatzbeitra
 		// Employers do not contribute to a student's Pflegeversicherung
 		// The cost is based on the bafogBedarfssatz instead of the student's income		
 		pflegeversicherung: gkvPflegeversicherung(age, childrenCount, bafogBedarfssatz, false),
+
+		options: gkvKrankenkassenOptions(bafogBedarfssatz, false, customZusatzbeitrag),
 	};
-
-	out.options = gkvKrankenkasseOptions(customZusatzbeitrag).reduce((options, [krankenkasseKey, krankenkasse]) => {
-		options[krankenkasseKey] = {
-			zusatzbeitrag: gkvZusatzbeitrag(krankenkasse.zusatzbeitrag, bafogBedarfssatz, false),
-		};
-		return options;
-	}, {});
-
-	return out;
 }
 
 function calculateHealthInsuranceContributions({age, monthlyIncome, occupation, isMarried, childrenCount, customZusatzbeitrag, hoursWorked}) {
