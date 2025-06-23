@@ -58,14 +58,14 @@ function calculateTax(yearlyIncome, opts) {
 	}
 	result.healthInsuranceDetails = healthInsuranceResult;
 
-	const healthInsuranceVorsorgepauschaleTarif = (
+	const healthInsuranceVorsorgepauschaleTariff = (
 		healthInsurance.selfPayRate / 2
 		+ result.healthInsuranceDetails.pflegeversicherung.personalRate
 		+ zusatzbeitrag /2
 	);
 
 	// TODO: This breaks with a midijob income
-	const healthInsuranceLohnsteuerDeduction = Math.min(yearlyIncome, healthInsurance.maxMonthlyIncome * 12) * healthInsuranceVorsorgepauschaleTarif;
+	const healthInsuranceLohnsteuerDeduction = Math.min(yearlyIncome, healthInsurance.maxMonthlyIncome * 12) * healthInsuranceVorsorgepauschaleTariff;
 
 	/* Unemployment insurance *************************/
 
@@ -211,14 +211,14 @@ function calculateIncomeTax(taxableIncome, isSplittingTarif=false) {  // Einkomm
 		// These values are defined by §32a EStG - https://www.gesetze-im-internet.de/estg/__32a.html
 		const x = taxableIncome;
 		const y = (taxableIncome - taxes.grundfreibetrag)/10000;
-		const z = (taxableIncome - taxes.incomeTaxTarifZones[2].maxIncome)/10000;
+		const z = (taxableIncome - taxes.incomeTaxBrackets[2].maxIncome)/10000;
 
-		const [tarifZoneNumber, tarifZone] = Object.entries(taxes.incomeTaxTarifZones).find(
-			([key, tarifZone]) => taxableIncome > tarifZone.minIncome && taxableIncome <= tarifZone.maxIncome
+		const [taxBracketNumber, taxBracket] = Object.entries(taxes.incomeTaxBrackets).find(
+			([key, taxBracket]) => taxableIncome > taxBracket.minIncome && taxableIncome <= taxBracket.maxIncome
 		);
 
-		incomeTaxFlags.add(`income-tax-tarif-zone-${tarifZoneNumber}`);
-		incomeTax = tarifZone.formula(x, y, z);
+		incomeTaxFlags.add(`income-tax-bracket-${taxBracketNumber}`);
+		incomeTax = taxBracket.formula(x, y, z);
 		incomeTax = Math.floor(incomeTax);
 
 		return {

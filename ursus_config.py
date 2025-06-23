@@ -29,11 +29,11 @@ ctx["AU_PAIR_MIN_ALLOWANCE"] = fail_on('2025-07-01', 280)
 ctx['BEITRAGSBEMESSUNGSGRENZE'] = fail_on('2025-12-31', 8050 * 12)  # § SGB 6 Anlage 2 [BBGRV]
 
 ctx["GRUNDFREIBETRAG"] = fail_on('2025-12-31', 12096)  # § 32a EstG [GFB]
-ctx["INCOME_TAX_TARIF_2_MAX_INCOME"] = fail_on('2025-12-31', 17430)  # § 32a EstG [UPTAB24]
-ctx["INCOME_TAX_TARIF_3_MAX_INCOME"] = fail_on('2025-12-31', 68430)  # § 32a EstG [UPTAB24]
-ctx["INCOME_TAX_TARIF_4_MAX_INCOME"] = fail_on('2025-12-31', 277825)  # § 32a EstG [UPTAB24]
+ctx["INCOME_TAX_BRACKET_2_MAX_INCOME"] = fail_on('2025-12-31', 17430)  # § 32a EstG [UPTAB24]
+ctx["INCOME_TAX_BRACKET_3_MAX_INCOME"] = fail_on('2025-12-31', 68430)  # § 32a EstG [UPTAB24]
+ctx["INCOME_TAX_BRACKET_4_MAX_INCOME"] = fail_on('2025-12-31', 277825)  # § 32a EstG [UPTAB24]
 
-# Upper bound (€/y) of income tax tarif zones for tax classes 5 and 6
+# Upper bound (€/y) of income tax tariff zones for tax classes 5 and 6
 ctx["INCOME_TAX_CLASS_56_LIMIT_1"] = fail_on('2025-12-31', 13785)  # § 39b Abs. 2 Satz 7 EstG [W1STKL5]
 ctx["INCOME_TAX_CLASS_56_LIMIT_2"] = fail_on('2025-12-31', 34240)  # § 39b Abs. 2 Satz 7 EstG [W2STKL5]
 ctx["INCOME_TAX_CLASS_56_LIMIT_3"] = fail_on('2025-12-31', 222260)  # § 39b Abs. 2 Satz 7 EstG [W3STKL5]
@@ -252,7 +252,7 @@ ctx["GKV_MIN_COST_EMPLOYEE"] = round(ctx['GKV_MIN_INCOME'] * ctx["GKV_MIN_RATE_E
 ctx["GKV_MAX_COST_EMPLOYEE"] = round(ctx['GKV_MAX_INCOME'] / 12 * ctx["GKV_MAX_RATE_EMPLOYEE"] / 100, -1)
 
 
-# Contribution (€/mth) for self-pay tarif without right to Krankengeld
+# Contribution (€/mth) for self-pay tariff without right to Krankengeld
 ctx['GKV_MIN_COST_SELF_PAY'] = round(
     ctx['GKV_MIN_INCOME'] * ctx['GKV_MIN_RATE_SELF_PAY'] / 100,
     -1

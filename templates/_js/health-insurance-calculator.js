@@ -8,7 +8,7 @@ function getBoundedMonthlyIncome(monthlyIncome){
 
 function getPflegeversicherungRate(age, childrenCount){
 	if (age > pflegeversicherung.defaultRateMaxAge && childrenCount === 0) {
-		return pflegeversicherung.surchargeTarif;
+		return pflegeversicherung.surchargeRate;
 	}
 	else if(childrenCount < pflegeversicherung.minimumChildCountForDiscount){
 		return pflegeversicherung.defaultRate;
@@ -44,11 +44,11 @@ function getPublicHealthInsurerOptions(customZusatzbeitrag){
 function calculateHealthInsuranceForAzubi(monthlyIncome, age, childrenCount, customZusatzbeitrag){
 	const out = {
 		flags: new Set(),
-		tarif: 'azubi',
+		tariff: 'azubi',
 	};
 
 	if(monthlyIncome <= healthInsurance.azubiFreibetrag) {
-		out.tarif = 'azubi-free';
+		out.tariff = 'azubi-free';
 		out.flags.add('azubi-free');
 	}
 
@@ -92,7 +92,7 @@ function calculateHealthInsuranceForAzubi(monthlyIncome, age, childrenCount, cus
 		out.pflegeversicherung.personalContribution = 0;
 	}
 	else{
-		out.pflegeversicherung.employerRate = pflegeversicherung.employerTarif;
+		out.pflegeversicherung.employerRate = pflegeversicherung.employerRate;
 		out.pflegeversicherung.employerContribution = roundCurrency(adjustedIncome * out.pflegeversicherung.employerRate);
 		out.pflegeversicherung.personalRate = out.pflegeversicherung.totalRate - out.pflegeversicherung.employerRate;
 		out.pflegeversicherung.personalContribution = roundCurrency(out.pflegeversicherung.totalContribution - out.pflegeversicherung.employerContribution);
@@ -142,7 +142,7 @@ function calculateHealthInsuranceForAzubi(monthlyIncome, age, childrenCount, cus
 function calculateHealthInsuranceForEmployee(monthlyIncome, age, childrenCount, customZusatzbeitrag){
 	const out = {
 		flags: new Set(),
-		tarif: 'employee',
+		tariff: 'employee',
 	};
 
 	if(canHavePrivateHealthInsurance('employee', monthlyIncome, 40)){
@@ -171,7 +171,7 @@ function calculateHealthInsuranceForEmployee(monthlyIncome, age, childrenCount, 
 	out.pflegeversicherung = {};
 	out.pflegeversicherung.totalRate = getPflegeversicherungRate(age, childrenCount);
 	out.pflegeversicherung.totalContribution = roundCurrency(adjustedIncome * out.pflegeversicherung.totalRate);
-	out.pflegeversicherung.employerRate = pflegeversicherung.employerTarif;
+	out.pflegeversicherung.employerRate = pflegeversicherung.employerRate;
 	out.pflegeversicherung.employerContribution = roundCurrency(adjustedIncome * out.pflegeversicherung.employerRate);
 	out.pflegeversicherung.personalRate = out.pflegeversicherung.totalRate - out.pflegeversicherung.employerRate;
 	out.pflegeversicherung.personalContribution = roundCurrency(out.pflegeversicherung.totalContribution - out.pflegeversicherung.employerContribution);
@@ -213,7 +213,7 @@ function calculateHealthInsuranceForEmployee(monthlyIncome, age, childrenCount, 
 function calculateHealthInsuranceForMidijob(monthlyIncome, age, childrenCount, customZusatzbeitrag){
 	const out = {
 		flags: new Set(['midijob']),
-		tarif: 'midijob',
+		tariff: 'midijob',
 	};
 
 	/***************************************************
@@ -262,7 +262,7 @@ function calculateHealthInsuranceForMidijob(monthlyIncome, age, childrenCount, c
 	out.pflegeversicherung.totalRate = getPflegeversicherungRate(age, childrenCount);
 	out.pflegeversicherung.totalContribution = roundCurrency(adjustedIncomeEmployer * out.pflegeversicherung.totalRate);
 
-	out.pflegeversicherung.employerRate = pflegeversicherung.employerTarif;
+	out.pflegeversicherung.employerRate = pflegeversicherung.employerRate;
 	out.pflegeversicherung.personalRate = out.pflegeversicherung.totalRate - out.pflegeversicherung.employerRate;
 	out.pflegeversicherung.personalContribution = roundCurrency(
 		(out.pflegeversicherung.totalRate - pflegeversicherung.defaultRate) * adjustedIncomeEmployer
@@ -305,7 +305,7 @@ function calculateHealthInsuranceForMidijob(monthlyIncome, age, childrenCount, c
 function calculateHealthInsuranceForSelfEmployment(monthlyIncome, age, childrenCount, customZusatzbeitrag){
 	const out = {
 		flags: new Set(['private']),
-		tarif: 'selfEmployed',
+		tariff: 'selfEmployed',
 	};
 
 	const adjustedIncome = getBoundedMonthlyIncome(monthlyIncome);
@@ -371,7 +371,7 @@ function calculateHealthInsuranceForSelfEmployment(monthlyIncome, age, childrenC
 function calculateHealthInsuranceForSelfPay(monthlyIncome, age, childrenCount, customZusatzbeitrag){
 	const out = {
 		flags: new Set(['private']),
-		tarif: 'selfPay',
+		tariff: 'selfPay',
 	};
 
 	const adjustedIncome = getBoundedMonthlyIncome(monthlyIncome);
@@ -436,7 +436,7 @@ function calculateHealthInsuranceForSelfPay(monthlyIncome, age, childrenCount, c
 function calculateHealthInsuranceForStudent(monthlyIncome, age, childrenCount, customZusatzbeitrag){
 	const out = {
 		flags: new Set(['student', 'private']),
-		tarif: 'student',
+		tariff: 'student',
 	};
 
 	/***************************************************
@@ -503,60 +503,56 @@ function calculateHealthInsuranceForStudent(monthlyIncome, age, childrenCount, c
 	return out;
 }
 
-function getPublicHealthInsuranceTarif(age, occupation, monthlyIncome, hoursWorkedPerWeek){
-	let tarif = null;
+function getPublicHealthInsuranceTariff(age, occupation, monthlyIncome, hoursWorkedPerWeek){
+	let tariff = null;
 
 	if(occupations.isStudent(occupation)) {
-		tarif = 'student';
+		tariff = 'student';
 		if(age >= 30) {
 			if(occupations.isEmployed(occupation)) {
-				tarif = 'employee';
+				tariff = 'employee';
 			}
 			else if(occupations.isSelfEmployed(occupation)) {
-				tarif = 'selfEmployed';
+				tariff = 'selfEmployed';
 			}
 			else {
-				tarif = 'selfPay';
+				tariff = 'selfPay';
 			}
 		}
 
 		if(!isWorkingStudent(occupation, monthlyIncome, hoursWorkedPerWeek)){
-			tarif = occupations.isSelfEmployed(occupation) ? 'selfEmployed' : 'employee';
+			tariff = occupations.isSelfEmployed(occupation) ? 'selfEmployed' : 'employee';
 		}
 	}
 	else if(occupations.isSelfEmployed(occupation)) {
-		tarif = 'selfEmployed';
+		tariff = 'selfEmployed';
 	}
 	else if(occupations.isUnemployed(occupation)) {
-		tarif = 'selfPay';
+		tariff = 'selfPay';
 	}
 	else if(occupation === 'employee') {
-		tarif = 'employee';
+		tariff = 'employee';
 	}
 	else if(occupation === 'azubi') {
-		tarif = 'azubi';
+		tariff = 'azubi';
 	}
 
-	if(tarif === 'employee'){
+	if(tariff === 'employee'){
 		if(isMinijob(occupation, monthlyIncome)) {
-			tarif = 'selfPay';
+			tariff = 'selfPay';
 		}
 		else if(isMidijob(occupation, monthlyIncome)) {
-			tarif = 'midijob';
+			tariff = 'midijob';
 		}
 	}
 
-	return tarif;
+	return tariff;
 }
 
 function calculateHealthInsuranceContributions({age, monthlyIncome, occupation, isMarried, childrenCount, customZusatzbeitrag, hoursWorked}) {
 	const hoursWorkedPerWeek = hoursWorked === undefined ? 20 : +hoursWorked;
 
-	/***************************************************
-	* Tarif selection
-	***************************************************/
-
-	const tarif = getPublicHealthInsuranceTarif(age, occupation, monthlyIncome, hoursWorkedPerWeek);
+	const tariff = getPublicHealthInsuranceTariff(age, occupation, monthlyIncome, hoursWorkedPerWeek);
 
 	/***************************************************
 	* Flags
@@ -592,11 +588,11 @@ function calculateHealthInsuranceContributions({age, monthlyIncome, occupation, 
 		flags.add('max-contribution');
 	}
 
-	if(monthlyIncome <= healthInsurance.minMonthlyIncome && (tarif === 'selfPay' || tarif === 'selfEmployed')) {
+	if(monthlyIncome <= healthInsurance.minMonthlyIncome && (tariff === 'selfPay' || tariff === 'selfEmployed')) {
 		flags.add('min-contribution');
 	}
 
-	if(tarif !== 'student' && isMinijob(occupation, monthlyIncome)) {
+	if(tariff !== 'student' && isMinijob(occupation, monthlyIncome)) {
 		flags.add('minijob');
 	}
 
@@ -620,7 +616,7 @@ function calculateHealthInsuranceContributions({age, monthlyIncome, occupation, 
 		'selfEmployed': calculateHealthInsuranceForSelfEmployment,
 		'selfPay': calculateHealthInsuranceForSelfPay,
 		'student': calculateHealthInsuranceForStudent,
-	}[tarif];
+	}[tariff];
 	const output = calcFunction(monthlyIncome, age, childrenCount, customZusatzbeitrag);
 
 	const insurerOptionsSortedByPrice = Object.values(output.options).sort((a, b) => a.total.personalContribution - b.total.personalContribution);
@@ -641,13 +637,13 @@ function canHaveEHIC(isEUResident, hasGermanInsurance, monthlyIncome){
 function isMinijob(occupation, monthlyIncome){
 	return (
 		occupations.isEmployed(occupation)
-		&& occupation !== 'azubi' // No minijob tarif for an Ausbildung
+		&& occupation !== 'azubi' // No minijob tariff for an Ausbildung
 		&& monthlyIncome <= taxes.maxMinijobIncome
 	);
 }
 
 function isMidijob(occupation, monthlyIncome){
-	// No midijob tarif for Azubis
+	// No midijob tariff for Azubis
 	// https://www.haufe.de/sozialwesen/versicherungen-beitraege/auszubildende-besonderheiten-bei-den-neuen/besonderheiten-bei-der-beitragsberechnung_240_94670.html
 	return (
 		occupation === 'employee'

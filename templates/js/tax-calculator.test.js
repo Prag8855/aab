@@ -82,98 +82,98 @@ describe('calculateIncomeTax', () => {
 		{
 			yearlyIncome: 0, splittingTarif: false,
 			output: {
-				flags: ['income-tax-tarif-zone-1'],
+				flags: ['income-tax-bracket-1'],
 				incomeTax: 0,
 			},
 		},
 		{
 			yearlyIncome: 9990, splittingTarif: false,
 			output: {
-				flags: ['income-tax-tarif-zone-1'],
+				flags: ['income-tax-bracket-1'],
 				incomeTax: incomeTax9990,
 			},
 		},
 		{
 			yearlyIncome: 14900, splittingTarif: false,
 			output: {
-				flags: ['income-tax-tarif-zone-2'],
+				flags: ['income-tax-bracket-2'],
 				incomeTax: incomeTax14900,
 			},
 		},
 		{
 			yearlyIncome: 58500, splittingTarif: false,
 			output: {
-				flags: ['income-tax-tarif-zone-3'],
+				flags: ['income-tax-bracket-3'],
 				incomeTax: incomeTax58500,
 			},
 		},
 		{
 			yearlyIncome: 60000, splittingTarif: false,
 			output: {
-				flags: ['income-tax-tarif-zone-4'],
+				flags: ['income-tax-bracket-4'],
 				incomeTax: incomeTax60000,
 			},
 		},
 		{
 			yearlyIncome: 277000, splittingTarif: false,
 			output: {
-				flags: ['income-tax-tarif-zone-4'],
+				flags: ['income-tax-bracket-4'],
 				incomeTax: incomeTax277000,
 			},
 		},
 		{
 			yearlyIncome: 280000, splittingTarif: false,
 			output: {
-				flags: ['income-tax-tarif-zone-5'],
+				flags: ['income-tax-bracket-5'],
 				incomeTax: incomeTax280000,
 			},
 		},
 		{
 			yearlyIncome: 0, splittingTarif: true,
 			output: {
-				flags: ['income-tax-tarif-zone-1', 'splittingtarif'],
+				flags: ['income-tax-bracket-1', 'splittingtarif'],
 				incomeTax: 0,
 			},
 		},
 		{
 			yearlyIncome: 9990 * 2, splittingTarif: true,
 			output: {
-				flags: ['income-tax-tarif-zone-1', 'splittingtarif'],
+				flags: ['income-tax-bracket-1', 'splittingtarif'],
 				incomeTax: incomeTax9990,
 			},
 		},
 		{
 			yearlyIncome: 14900 * 2, splittingTarif: true,
 			output: {
-				flags: ['income-tax-tarif-zone-2', 'splittingtarif'],
+				flags: ['income-tax-bracket-2', 'splittingtarif'],
 				incomeTax: incomeTax14900 * 2,
 			},
 		},
 		{
 			yearlyIncome: 58500 * 2, splittingTarif: true,
 			output: {
-				flags: ['income-tax-tarif-zone-3', 'splittingtarif'],
+				flags: ['income-tax-bracket-3', 'splittingtarif'],
 				incomeTax: incomeTax58500 * 2,
 			},
 		},
 		{
 			yearlyIncome: 60000 * 2, splittingTarif: true,
 			output: {
-				flags: ['income-tax-tarif-zone-4', 'splittingtarif'],
+				flags: ['income-tax-bracket-4', 'splittingtarif'],
 				incomeTax: incomeTax60000 * 2,
 			},
 		},
 		{
 			yearlyIncome: 277000 * 2, splittingTarif: true,
 			output: {
-				flags: ['income-tax-tarif-zone-4', 'splittingtarif'],
+				flags: ['income-tax-bracket-4', 'splittingtarif'],
 				incomeTax: incomeTax277000 * 2,
 			},
 		},
 		{
 			yearlyIncome: 280000 * 2, splittingTarif: true,
 			output: {
-				flags: ['income-tax-tarif-zone-5', 'splittingtarif'],
+				flags: ['income-tax-bracket-5', 'splittingtarif'],
 				incomeTax: incomeTax280000 * 2,
 			},
 		},

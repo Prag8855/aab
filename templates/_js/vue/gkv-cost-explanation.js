@@ -31,7 +31,7 @@ Vue.component('gkv-cost-explanation', {
 				monthlyIncome: this.monthlyIncome,
 			});
 		},
-		tarifName() {
+		tariffName() {
 			return {
 				employee: 'employee',
 				midijob: 'midijob',
@@ -39,7 +39,7 @@ Vue.component('gkv-cost-explanation', {
 				selfPay: this.flag('minijob') ? 'minijob' : 'self-pay',
 				student: 'student',
 				azubi: 'apprentice',
-			}[this.result.tarif];
+			}[this.result.tariff];
 		},
 		baseContributionRate() {
 			return this.formatPercent(this.result.baseContribution.totalRate * 100);
@@ -63,17 +63,17 @@ Vue.component('gkv-cost-explanation', {
 		<details class="cost-explanation">
 			<summary>Cost explanation</summary>
 			<p>
-				You pay the <strong>{{ tarifName }} tarif</strong>.
-				<template v-if="result.tarif === 'employee'">
+				You pay the <strong>{{ tariffName }} tariff</strong>.
+				<template v-if="result.tariff === 'employee'">
 					Your health insurance costs a percentage of your income. Your employer pays half of it.
 				</template>
-				<template v-if="result.tarif === 'selfEmployed' || (result.tarif === 'azubi' && !flag('azubi-free'))">
+				<template v-if="result.tariff === 'selfEmployed' || (result.tariff === 'azubi' && !flag('azubi-free'))">
 					Your health insurance costs a percentage of your income.
 				</template>
-				<template v-if="result.tarif === 'student'">
+				<template v-if="result.tariff === 'student'">
 					Your health insurance has a fixed price.
 				</template>
-				<template v-if="result.tarif === 'selfPay'">
+				<template v-if="result.tariff === 'selfPay'">
 					<template v-if="flag('minijob')">
 						You pay the <glossary term="Mindestbeitrag">minimum price</glossary>.
 					</template>
@@ -81,21 +81,21 @@ Vue.component('gkv-cost-explanation', {
 						Your health insurance costs a percentage of your income.
 					</template>
 				</template>
-				<template v-if="result.tarif === 'midijob'">
-					It's a cheaper tarif for low-income jobs.
+				<template v-if="result.tariff === 'midijob'">
+					It's a cheaper tariff for low-income jobs.
 				</template>
-				<template v-if="result.tarif === 'azubi' && flag('azubi-free')">
+				<template v-if="result.tariff === 'azubi' && flag('azubi-free')">
 					You make less than <eur :amount="healthInsurance.azubiFreibetrag"></eur> per month, so you don't pay for health insurance. Your employer pays for it.
 				</template>
 
 				<template v-if="flag('student-30plus')">
-					You can't get the student tarif because you are over 30 years old.
+					You can't get the student tariff because you are over 30 years old.
 				</template>
 				<template v-else-if="flag('not-werkstudent') && worksOver20HoursPerWeek">
-					You can't get the student tarif because you work more than 20 hours per week.
+					You can't get the student tariff because you work more than 20 hours per week.
 				</template>
 				<template v-else-if="flag('not-werkstudent') && !worksOver20HoursPerWeek">
-					You can't get the student tarif because your income is too high.
+					You can't get the student tariff because your income is too high.
 				</template>
 			</p>
 			<hr>
@@ -117,10 +117,10 @@ Vue.component('gkv-cost-explanation', {
 						You make more than <eur :amount="healthInsurance.maxMonthlyIncome"></eur> per month, so you pay the <glossary term="Höchstbeitrag">maximum price</glossary>. It's {{ baseContributionRate }} of <eur :amount="healthInsurance.maxMonthlyIncome"></eur>.
 					</template>
 					<template v-else-if="flag('midijob')">
-						You make less than <eur :amount="healthInsurance.maxMidijobIncome"></eur> per month, so you pay the midijob tarif. It's cheaper than the normal tarif.
+						You make less than <eur :amount="healthInsurance.maxMidijobIncome"></eur> per month, so you pay the midijob tariff. It's cheaper than the normal tariff.
 					</template>
-					<template v-else-if="result.tarif === 'student'">
-						You pay the student tarif; the base cost is a fixed price.
+					<template v-else-if="result.tariff === 'student'">
+						You pay the student tariff; the base cost is a fixed price.
 					</template>
 					<template v-else>
 						You pay {{ baseContributionRate }} of your income.
@@ -188,22 +188,22 @@ Vue.component('gkv-cost-explanation', {
 						</output>
 					</template>
 				</summary>
-				<p v-if="result.tarif === 'selfEmployed'">
+				<p v-if="result.tariff === 'selfEmployed'">
 					You are self-employed, so you don't get help from an employer.
 				</p>
 				<p v-if="flag('azubi-free')">
 					When you make less than <eur :amount="healthInsurance.azubiFreibetrag"></eur> per month, your employer pays for your health insurance.
 				</p>
-				<p v-if="result.tarif === 'selfPay' && !flag('minijob')">
+				<p v-if="result.tariff === 'selfPay' && !flag('minijob')">
 					You are unemployed, so you don't get help from an employer.
 				</p>
 				<p v-if="flag('minijob')">
 					When you have a <glossary term="Minijob">minijob</glossary>, your employer does not pay for your health insurance.
 				</p>
-				<p v-if="result.tarif === 'employee'">
+				<p v-if="result.tariff === 'employee'">
 					Your employer pays half of your health insurance.
 				</p>
-				<p v-if="result.tarif === 'midijob'">
+				<p v-if="result.tariff === 'midijob'">
 					Your employer pays part of your health insurance.
 				</p>
 			</details>
