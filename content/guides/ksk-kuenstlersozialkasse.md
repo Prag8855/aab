@@ -114,6 +114,8 @@ The KSK does not accept...
 
 For some professions, it's harder to apply. You need really strong proof that you are an artist, not an artisan or a technical worker. In that situation, I recommend to hire an expert to help you.
 
+**Students** can join the KSK. If you work less than 20 hours per week, the KSK does not pay half of your health insurance, but it pays half of your public pension.[^55]
+
 ## What are the KSK requirements?
 
 When you apply for the KSK, you must prove that you meet those requirements.[^16] You must send a lot of [documents](/guides/ksk-kuenstlersozialkasse#required-documents) to prove that.
@@ -125,7 +127,7 @@ This means that...
 - [ ] **You work in an artistic or journalistic context**  
     Creativity and originality is a big part of your work. If your work is original enough to have copyright, it should be okay. If you don't get credited for your work, it's probably not creative enough. For example, wedding singers don't work in an artistic context, so they sometimes get rejected. Some dance teachers teach fitness, not art.
 - [ ] **It's your main job**  
-    Creative work must be the biggest part of your work, and the biggest part of your income. You can have other sources of income, but [it gets complicated](/guides/ksk-kuenstlersozialkasse#can-i-have-another-source-of-income-while-in-the-ksk).
+    Creative work must be the biggest part of your work, and the biggest part of your income. You can have other sources of income, but [it gets complicated](/guides/ksk-kuenstlersozialkasse#can-i-have-another-source-of-income-while-in-the-ksk). Students can also join the KSK.[^55]
 - [ ] **It's not temporary**  
     You plan to do this kind of work for a long time, not just a few months.[^17]
 
@@ -580,3 +582,4 @@ Many organisations offer **free** consultations, support and workshops for artis
 [^52]: Sebastian Hoffmann at [Smart Coop](https://smart-eg.de/en/) (2022)
 [^53]: Letter from the KSK (2023)
 [^54]: Sebastian Hoffmann at [Smart Coop](https://smart-eg.de/en/) (2022)
+[^55]: [kuenstlersozialkasse.de](https://www.kuenstlersozialkasse.de/fileadmin/Dokumente/Mediencenter_K%C3%BCnstler_Publizisten/Informationsschriften/Versicherung_bei_der_KSK_f%C3%BCr_Studierende.pdf) (January 2025)
