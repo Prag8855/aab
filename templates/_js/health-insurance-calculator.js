@@ -646,7 +646,7 @@ function isMidijob(occupation, monthlyIncome){
 	// No midijob tariff for Azubis
 	// https://www.haufe.de/sozialwesen/versicherungen-beitraege/auszubildende-besonderheiten-bei-den-neuen/besonderheiten-bei-der-beitragsberechnung_240_94670.html
 	return (
-		occupation === 'employee'
+		occupations.isEmployed(occupation)
 		&& occupation !== 'azubi'
 		&& !isMinijob(occupation, monthlyIncome)
 		&& monthlyIncome <= healthInsurance.maxMidijobIncome
