@@ -3,7 +3,7 @@ const bafogBedarfssatz = {{ BAFOG_BEDARFSSATZ }};
 
 const healthInsurance = {
 	defaultRate: {{ GKV_BASE_RATE_EMPLOYEE }}/100,
-	selfPayRate: {{ GKV_BASE_RATE_SELF_PAY }}/100,
+	selfPayRate: {{ GKV_BASE_RATE_SELF_PAY }}/100,  // Rate without Krankengeld
 	studentRate: {{ GKV_BASE_RATE_STUDENT }}/100,
 	minMonthlyIncome: {{ GKV_MIN_INCOME }},
 	maxMonthlyIncome: {{ GKV_MAX_INCOME }}/12,

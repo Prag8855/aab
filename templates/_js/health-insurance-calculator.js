@@ -121,7 +121,7 @@ function gkvOptions(customZusatzbeitrag){
 	return allInsurers;
 }
 
-function calculateHealthInsuranceForAzubi(monthlyIncome, age, childrenCount, customZusatzbeitrag){
+function gkvCostForAzubi(monthlyIncome, age, childrenCount, customZusatzbeitrag){
 	const out = {
 		flags: new Set(),
 		tariff: 'azubi',
@@ -202,7 +202,7 @@ function calculateHealthInsuranceForAzubi(monthlyIncome, age, childrenCount, cus
 	return out;
 }
 
-function calculateHealthInsuranceForEmployee(monthlyIncome, age, childrenCount, customZusatzbeitrag){
+function gkvCostForEmployee(monthlyIncome, age, childrenCount, customZusatzbeitrag){
 	const out = {
 		flags: new Set(),
 		tariff: 'employee',
@@ -267,7 +267,7 @@ function calculateHealthInsuranceForEmployee(monthlyIncome, age, childrenCount, 
 	return out;
 }
 
-function calculateHealthInsuranceForMidijob(monthlyIncome, age, childrenCount, customZusatzbeitrag){
+function gkvCostForMidijob(monthlyIncome, age, childrenCount, customZusatzbeitrag){
 	const out = {
 		flags: new Set(['midijob']),
 		tariff: 'midijob',
@@ -354,7 +354,7 @@ function calculateHealthInsuranceForMidijob(monthlyIncome, age, childrenCount, c
 	return out;
 }
 
-function calculateHealthInsuranceForSelfEmployment(monthlyIncome, age, childrenCount, customZusatzbeitrag){
+function gkvCostForSelfEmployment(monthlyIncome, age, childrenCount, customZusatzbeitrag){
 	const out = {
 		flags: new Set(['private']),
 		tariff: 'selfEmployed',
@@ -414,7 +414,7 @@ function calculateHealthInsuranceForSelfEmployment(monthlyIncome, age, childrenC
 	return out;
 }
 
-function calculateHealthInsuranceForSelfPay(monthlyIncome, age, childrenCount, customZusatzbeitrag){
+function gkvCostForSelfPay(monthlyIncome, age, childrenCount, customZusatzbeitrag){
 	const out = {
 		flags: new Set(['private']),
 		tariff: 'selfPay',
@@ -473,7 +473,7 @@ function calculateHealthInsuranceForSelfPay(monthlyIncome, age, childrenCount, c
 	return out;
 }
 
-function calculateHealthInsuranceForStudent(monthlyIncome, age, childrenCount, customZusatzbeitrag){
+function gkvCostForStudent(monthlyIncome, age, childrenCount, customZusatzbeitrag){
 	const out = {
 		flags: new Set(['student', 'private']),
 		tariff: 'student',
@@ -597,12 +597,12 @@ function calculateHealthInsuranceContributions({age, monthlyIncome, occupation, 
 	***************************************************/
 
 	const calcFunction = {
-		'azubi': calculateHealthInsuranceForAzubi,
-		'employee': calculateHealthInsuranceForEmployee,
-		'midijob': calculateHealthInsuranceForMidijob,
-		'selfEmployed': calculateHealthInsuranceForSelfEmployment,
-		'selfPay': calculateHealthInsuranceForSelfPay,
-		'student': calculateHealthInsuranceForStudent,
+		'azubi': gkvCostForAzubi,
+		'employee': gkvCostForEmployee,
+		'midijob': gkvCostForMidijob,
+		'selfEmployed': gkvCostForSelfEmployment,
+		'selfPay': gkvCostForSelfPay,
+		'student': gkvCostForStudent,
 	}[tariff];
 	const output = calcFunction(monthlyIncome, age, childrenCount, customZusatzbeitrag);
 
