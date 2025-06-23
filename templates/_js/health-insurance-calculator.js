@@ -7,14 +7,14 @@ function getBoundedMonthlyIncome(monthlyIncome){
 }
 
 function getPflegeversicherungRate(age, childrenCount){
-	if (age > pflegeversicherung.defaultTarifMaxAge && childrenCount === 0) {
+	if (age > pflegeversicherung.defaultRateMaxAge && childrenCount === 0) {
 		return pflegeversicherung.surchargeTarif;
 	}
 	else if(childrenCount < pflegeversicherung.minimumChildCountForDiscount){
-		return pflegeversicherung.defaultTarif;
+		return pflegeversicherung.defaultRate;
 	}
 	else{
-		return pflegeversicherung.defaultTarif - (
+		return pflegeversicherung.defaultRate - (
 			pflegeversicherung.discountPerChild
 			* (
 				Math.min(childrenCount, pflegeversicherung.maximumChildCountForDiscount)
@@ -59,7 +59,7 @@ function calculateHealthInsuranceForAzubi(monthlyIncome, age, childrenCount, cus
 	***************************************************/
 
 	out.baseContribution = {};
-	out.baseContribution.totalRate = healthInsurance.defaultTarif;
+	out.baseContribution.totalRate = healthInsurance.defaultRate;
 	out.baseContribution.totalContribution = roundCurrency(out.baseContribution.totalRate * adjustedIncome);
 
 	if(adjustedIncome <= healthInsurance.azubiFreibetrag) { // Below this, the employer pays everything
@@ -156,7 +156,7 @@ function calculateHealthInsuranceForEmployee(monthlyIncome, age, childrenCount, 
 	***************************************************/
 
 	out.baseContribution = {};
-	out.baseContribution.totalRate = healthInsurance.defaultTarif;
+	out.baseContribution.totalRate = healthInsurance.defaultRate;
 	out.baseContribution.totalContribution = roundCurrency(out.baseContribution.totalRate * adjustedIncome);
 	out.baseContribution.employerRate = out.baseContribution.totalRate / 2;
 	out.baseContribution.employerContribution = roundCurrency(adjustedIncome * out.baseContribution.employerRate);
@@ -245,10 +245,10 @@ function calculateHealthInsuranceForMidijob(monthlyIncome, age, childrenCount, c
 	***************************************************/
 
 	out.baseContribution = {};
-	out.baseContribution.totalRate = healthInsurance.defaultTarif;
+	out.baseContribution.totalRate = healthInsurance.defaultRate;
 	out.baseContribution.totalContribution = roundCurrency(out.baseContribution.totalRate * adjustedIncomeEmployer);
 
-	out.baseContribution.employerRate = healthInsurance.defaultTarif / 2;
+	out.baseContribution.employerRate = healthInsurance.defaultRate / 2;
 	out.baseContribution.personalRate = out.baseContribution.totalRate - out.baseContribution.employerRate;
 	out.baseContribution.personalContribution = roundCurrency(adjustedIncomeEmployee * out.baseContribution.personalRate);
 	out.baseContribution.employerContribution = roundCurrency(out.baseContribution.totalContribution - out.baseContribution.personalContribution);
@@ -265,7 +265,7 @@ function calculateHealthInsuranceForMidijob(monthlyIncome, age, childrenCount, c
 	out.pflegeversicherung.employerRate = pflegeversicherung.employerTarif;
 	out.pflegeversicherung.personalRate = out.pflegeversicherung.totalRate - out.pflegeversicherung.employerRate;
 	out.pflegeversicherung.personalContribution = roundCurrency(
-		(out.pflegeversicherung.totalRate - pflegeversicherung.defaultTarif) * adjustedIncomeEmployer
+		(out.pflegeversicherung.totalRate - pflegeversicherung.defaultRate) * adjustedIncomeEmployer
 		+ out.pflegeversicherung.personalRate * adjustedIncomeEmployee // The childless surcharge is not covered by the employer
 	);
 	out.pflegeversicherung.employerContribution = roundCurrency(out.pflegeversicherung.totalContribution - out.pflegeversicherung.personalContribution);
@@ -315,7 +315,7 @@ function calculateHealthInsuranceForSelfEmployment(monthlyIncome, age, childrenC
 	***************************************************/
 
 	out.baseContribution = {};
-	out.baseContribution.totalRate = healthInsurance.selfPayTarif;
+	out.baseContribution.totalRate = healthInsurance.selfPayRate;
 	out.baseContribution.totalContribution = roundCurrency(out.baseContribution.totalRate * adjustedIncome);
 	out.baseContribution.employerRate = 0;
 	out.baseContribution.employerContribution = 0;
@@ -381,7 +381,7 @@ function calculateHealthInsuranceForSelfPay(monthlyIncome, age, childrenCount, c
 	***************************************************/
 
 	out.baseContribution = {};
-	out.baseContribution.totalRate = healthInsurance.selfPayTarif;  // Rate without Krankengeld
+	out.baseContribution.totalRate = healthInsurance.selfPayRate;  // Rate without Krankengeld
 	out.baseContribution.totalContribution = roundCurrency(out.baseContribution.totalRate * adjustedIncome);
 	out.baseContribution.employerRate = 0;
 	out.baseContribution.employerContribution = 0;
@@ -446,7 +446,7 @@ function calculateHealthInsuranceForStudent(monthlyIncome, age, childrenCount, c
 	out.baseContribution = {};
 
 	// Students pay a fixed amount: 70% of the normal rate * the bafogBedarfssatz
-	out.baseContribution.totalRate = healthInsurance.studentTarif;
+	out.baseContribution.totalRate = healthInsurance.studentRate;
 	out.baseContribution.totalContribution = roundCurrency(out.baseContribution.totalRate * bafogBedarfssatz);
 
 	// Employers do not contribute to student health insurance
@@ -600,7 +600,7 @@ function calculateHealthInsuranceContributions({age, monthlyIncome, occupation, 
 		flags.add('minijob');
 	}
 
-	if(age > pflegeversicherung.defaultTarifMaxAge && childrenCount === 0) {
+	if(age > pflegeversicherung.defaultRateMaxAge && childrenCount === 0) {
 		flags.add('pflegeversicherung-surcharge');
 	}
 

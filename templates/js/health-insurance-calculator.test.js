@@ -32,13 +32,13 @@ function hasStudentTarif(output) {
 		equal(output.tarif, 'student');
 		equal(
 			output.baseContribution.totalContribution,
-			round(healthInsurance.studentTarif * bafogBedarfssatz));
+			round(healthInsurance.studentRate * bafogBedarfssatz));
 		equal(
 			output.options.tk.zusatzbeitrag.totalContribution,
 			round(healthInsurance.companies.tk.zusatzbeitrag * bafogBedarfssatz));
 		equal(
 			output.pflegeversicherung.totalContribution,
-			round(pflegeversicherung.defaultTarif * bafogBedarfssatz));
+			round(pflegeversicherung.defaultRate * bafogBedarfssatz));
 		equal(output.options.tk.total.employerContribution, 0);
 		notHasFlag(output, 'student-30plus')();
 	});
@@ -49,7 +49,7 @@ function hasStudentTarifWithExtraPflegeversicherung(output) {
 		equal(output.tarif, 'student');
 		equal(
 			output.baseContribution.totalContribution,
-			round(healthInsurance.studentTarif * bafogBedarfssatz));
+			round(healthInsurance.studentRate * bafogBedarfssatz));
 		equal(
 			output.options.tk.zusatzbeitrag.totalContribution,
 			round(healthInsurance.companies.tk.zusatzbeitrag * bafogBedarfssatz));
@@ -65,13 +65,13 @@ function hasMinimumSelfEmployedTarif(output) {
 	equal(output.tarif, 'selfEmployed');
 	equal(
 		output.baseContribution.totalContribution,
-		round(healthInsurance.minMonthlyIncome * healthInsurance.selfPayTarif));
+		round(healthInsurance.minMonthlyIncome * healthInsurance.selfPayRate));
 	equal(
 		output.options.tk.zusatzbeitrag.totalContribution,
 		round(healthInsurance.minMonthlyIncome * healthInsurance.companies.tk.zusatzbeitrag));
 	equal(
 		output.pflegeversicherung.totalContribution,
-		round(healthInsurance.minMonthlyIncome * pflegeversicherung.defaultTarif));
+		round(healthInsurance.minMonthlyIncome * pflegeversicherung.defaultRate));
 	equal(output.options.tk.total.employerContribution, 0);
 	hasFlag(output, 'min-contribution')();
 }
@@ -79,7 +79,7 @@ function hasMinimumSelfEmployedTarifWithExtraPflegeversicherung(output) {
 	equal(output.tarif, 'selfEmployed');
 	equal(
 		output.baseContribution.totalContribution,
-		round(healthInsurance.minMonthlyIncome * healthInsurance.selfPayTarif));
+		round(healthInsurance.minMonthlyIncome * healthInsurance.selfPayRate));
 	equal(
 		output.options.tk.zusatzbeitrag.totalContribution,
 		round(healthInsurance.minMonthlyIncome * healthInsurance.companies.tk.zusatzbeitrag));
@@ -94,13 +94,13 @@ function hasMaximumSelfEmployedTarif(output) {
 	equal(output.tarif, 'selfEmployed');
 	equal(
 		output.baseContribution.totalContribution,
-		round(healthInsurance.maxMonthlyIncome * healthInsurance.selfPayTarif));
+		round(healthInsurance.maxMonthlyIncome * healthInsurance.selfPayRate));
 	equal(
 		output.options.tk.zusatzbeitrag.totalContribution,
 		round(healthInsurance.maxMonthlyIncome * healthInsurance.companies.tk.zusatzbeitrag));
 	equal(
 		output.pflegeversicherung.totalContribution,
-		round(healthInsurance.maxMonthlyIncome * pflegeversicherung.defaultTarif));
+		round(healthInsurance.maxMonthlyIncome * pflegeversicherung.defaultRate));
 	equal(output.options.tk.total.employerContribution, 0);
 	hasFlag(output, 'max-contribution')();
 }
@@ -108,7 +108,7 @@ function hasMaximumSelfEmployedTarifWithExtraPflegeversicherung(output) {
 	equal(output.tarif, 'selfEmployed');
 	equal(
 		output.baseContribution.totalContribution,
-		round(healthInsurance.maxMonthlyIncome * healthInsurance.selfPayTarif));
+		round(healthInsurance.maxMonthlyIncome * healthInsurance.selfPayRate));
 	equal(
 		output.options.tk.zusatzbeitrag.totalContribution,
 		round(healthInsurance.maxMonthlyIncome * healthInsurance.companies.tk.zusatzbeitrag));
@@ -123,13 +123,13 @@ function hasMinimumSelfPayTarif(output) {
 	equal(output.tarif, 'selfPay');
 	equal(
 		output.baseContribution.totalContribution,
-		round(healthInsurance.minMonthlyIncome * healthInsurance.selfPayTarif));
+		round(healthInsurance.minMonthlyIncome * healthInsurance.selfPayRate));
 	equal(
 		output.options.tk.zusatzbeitrag.totalContribution,
 		round(healthInsurance.minMonthlyIncome * healthInsurance.companies.tk.zusatzbeitrag));
 	equal(
 		output.pflegeversicherung.totalContribution,
-		round(healthInsurance.minMonthlyIncome * pflegeversicherung.defaultTarif));
+		round(healthInsurance.minMonthlyIncome * pflegeversicherung.defaultRate));
 	equal(output.options.tk.total.employerContribution, 0);
 	hasFlag(output, 'min-contribution')();
 }
@@ -137,7 +137,7 @@ function hasMinimumSelfPayTarifWithExtraPflegeversicherung(output) {
 	equal(output.tarif, 'selfPay');
 	equal(
 		output.baseContribution.totalContribution,
-		round(healthInsurance.minMonthlyIncome * healthInsurance.selfPayTarif));
+		round(healthInsurance.minMonthlyIncome * healthInsurance.selfPayRate));
 	equal(
 		output.options.tk.zusatzbeitrag.totalContribution,
 		round(healthInsurance.minMonthlyIncome * healthInsurance.companies.tk.zusatzbeitrag));
@@ -154,16 +154,16 @@ function hasStandardTarifHighIncomeStudent(output) {
 
 	equal(
 		output.baseContribution.totalContribution,
-		round(income * healthInsurance.defaultTarif));
+		round(income * healthInsurance.defaultRate));
 	equal(
 		output.options.tk.zusatzbeitrag.totalContribution,
 		round(income * healthInsurance.companies.tk.zusatzbeitrag));
 	equal(
 		output.pflegeversicherung.totalContribution,
-		round(income * pflegeversicherung.defaultTarif));
+		round(income * pflegeversicherung.defaultRate));
 	equal(
 		output.options.tk.total.employerContribution,
-		round(income * healthInsurance.defaultTarif / 2)
+		round(income * healthInsurance.defaultRate / 2)
 			+ round(income * healthInsurance.companies.tk.zusatzbeitrag / 2)
 			+ round(income * pflegeversicherung.employerTarif)
 	);
@@ -171,17 +171,17 @@ function hasStandardTarifHighIncomeStudent(output) {
 function hasMaxTarif(output) {
 	equal(
 		output.baseContribution.totalContribution,
-		round(healthInsurance.maxMonthlyIncome * healthInsurance.defaultTarif));
+		round(healthInsurance.maxMonthlyIncome * healthInsurance.defaultRate));
 	equal(
 		output.options.tk.zusatzbeitrag.totalContribution,
 		round(healthInsurance.maxMonthlyIncome * healthInsurance.companies.tk.zusatzbeitrag));
 	equal(
 		output.pflegeversicherung.totalContribution,
-		round(healthInsurance.maxMonthlyIncome * pflegeversicherung.defaultTarif));
+		round(healthInsurance.maxMonthlyIncome * pflegeversicherung.defaultRate));
 	equal(
 		output.options.tk.total.employerContribution,
 		round(
-			round(healthInsurance.maxMonthlyIncome * healthInsurance.defaultTarif / 2)
+			round(healthInsurance.maxMonthlyIncome * healthInsurance.defaultRate / 2)
 			+ round(healthInsurance.maxMonthlyIncome * healthInsurance.companies.tk.zusatzbeitrag / 2)
 			+ round(healthInsurance.maxMonthlyIncome * pflegeversicherung.employerTarif)
 		));
@@ -1076,7 +1076,7 @@ describe('calculateHealthInsuranceContributions', () => {
 				equal(outputNoKids.tarif, 'azubi');
 				equal(
 					outputNoKids.baseContribution.totalContribution,
-					round(taxes.maxMinijobIncome * healthInsurance.defaultTarif));
+					round(taxes.maxMinijobIncome * healthInsurance.defaultRate));
 				equal(
 					outputNoKids.options.tk.zusatzbeitrag.totalContribution,
 					round(taxes.maxMinijobIncome * healthInsurance.companies.tk.zusatzbeitrag));
@@ -1089,13 +1089,13 @@ describe('calculateHealthInsuranceContributions', () => {
 				equal(outputWithKids.tarif, 'azubi');
 				equal(
 					outputWithKids.baseContribution.totalContribution,
-					round(taxes.maxMinijobIncome * healthInsurance.defaultTarif));
+					round(taxes.maxMinijobIncome * healthInsurance.defaultRate));
 				equal(
 					outputWithKids.options.tk.zusatzbeitrag.totalContribution,
 					round(taxes.maxMinijobIncome * healthInsurance.companies.tk.zusatzbeitrag));
 				equal(
 					outputWithKids.pflegeversicherung.totalContribution,
-					round(taxes.maxMinijobIncome * pflegeversicherung.defaultTarif));
+					round(taxes.maxMinijobIncome * pflegeversicherung.defaultRate));
 				equal(outputWithKids.options.tk.total.employerContribution, 57.41);
 				notHasFlag(outputWithKids, 'azubi-free')();
 			});
@@ -1128,7 +1128,7 @@ describe('calculateHealthInsuranceContributions', () => {
 				equal(outputNoKids.tarif, 'azubi');
 				equal(
 					outputNoKids.baseContribution.totalContribution,
-					round((taxes.maxMinijobIncome + 1) * healthInsurance.defaultTarif));
+					round((taxes.maxMinijobIncome + 1) * healthInsurance.defaultRate));
 				equal(
 					outputNoKids.options.tk.zusatzbeitrag.totalContribution,
 					round((taxes.maxMinijobIncome + 1) * healthInsurance.companies.tk.zusatzbeitrag));
@@ -1141,13 +1141,13 @@ describe('calculateHealthInsuranceContributions', () => {
 				equal(outputWithKids.tarif, 'azubi');
 				equal(
 					outputWithKids.baseContribution.totalContribution,
-					round((taxes.maxMinijobIncome + 1) * healthInsurance.defaultTarif));
+					round((taxes.maxMinijobIncome + 1) * healthInsurance.defaultRate));
 				equal(
 					outputWithKids.options.tk.zusatzbeitrag.totalContribution,
 					round((taxes.maxMinijobIncome + 1) * healthInsurance.companies.tk.zusatzbeitrag));
 				equal(
 					outputWithKids.pflegeversicherung.totalContribution,
-					round((taxes.maxMinijobIncome + 1) * pflegeversicherung.defaultTarif));
+					round((taxes.maxMinijobIncome + 1) * pflegeversicherung.defaultRate));
 				equal(outputWithKids.options.tk.total.employerContribution, 57.51);
 				notHasFlag(outputWithKids, 'azubi-free')();
 			});
@@ -1235,7 +1235,7 @@ describe('calculateHealthInsuranceContributions', () => {
 			});
 
 			it('gets no Pflegeversicherung discount', () => {
-				equal(output.pflegeversicherung.totalRate, pflegeversicherung.defaultTarif);
+				equal(output.pflegeversicherung.totalRate, pflegeversicherung.defaultRate);
 			});
 		});
 		describe(`a parent with 2 children`, () => {
@@ -1248,7 +1248,7 @@ describe('calculateHealthInsuranceContributions', () => {
 			});
 
 			it('must get a 0.25% Pflegeversicherung discount', () => {
-				equal(output.pflegeversicherung.totalRate, pflegeversicherung.defaultTarif - 0.25/100);
+				equal(output.pflegeversicherung.totalRate, pflegeversicherung.defaultRate - 0.25/100);
 			});
 		});
 		describe(`a parent with 3 children`, () => {
@@ -1261,7 +1261,7 @@ describe('calculateHealthInsuranceContributions', () => {
 			});
 
 			it('must get a 0.5% Pflegeversicherung discount', () => {
-				equal(output.pflegeversicherung.totalRate, pflegeversicherung.defaultTarif - 0.5/100);
+				equal(output.pflegeversicherung.totalRate, pflegeversicherung.defaultRate - 0.5/100);
 			});
 		});
 		describe(`a parent with 4 children`, () => {
@@ -1274,7 +1274,7 @@ describe('calculateHealthInsuranceContributions', () => {
 			});
 
 			it('must get a 0.75% Pflegeversicherung discount', () => {
-				equal(output.pflegeversicherung.totalRate, pflegeversicherung.defaultTarif - 0.75/100);
+				equal(output.pflegeversicherung.totalRate, pflegeversicherung.defaultRate - 0.75/100);
 			});
 		});
 		describe(`a parent with 5 children`, () => {
@@ -1287,7 +1287,7 @@ describe('calculateHealthInsuranceContributions', () => {
 			});
 
 			it('must get a 1% Pflegeversicherung discount', () => {
-				equal(output.pflegeversicherung.totalRate, pflegeversicherung.defaultTarif - 1/100);
+				equal(output.pflegeversicherung.totalRate, pflegeversicherung.defaultRate - 1/100);
 			});
 		});
 		describe(`a parent with 6 children`, () => {
@@ -1300,7 +1300,7 @@ describe('calculateHealthInsuranceContributions', () => {
 			});
 
 			it('must get a 1% Pflegeversicherung discount', () => {
-				equal(output.pflegeversicherung.totalRate, pflegeversicherung.defaultTarif - 1/100);
+				equal(output.pflegeversicherung.totalRate, pflegeversicherung.defaultRate - 1/100);
 			});
 		});
 	});

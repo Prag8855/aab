@@ -158,11 +158,11 @@ Vue.component('gkv-cost-explanation', {
 					</template>
 					<template v-else>
 						You pay {{ formatPercent(result.pflegeversicherung.totalRate * 100) }} of your income.
-						<template v-if="age > pflegeversicherung.defaultTarifMaxAge && childrenCount === 0">
-							You pay more because you are over {{ pflegeversicherung.defaultTarifMaxAge }} years old and you don't have children.
+						<template v-if="age > pflegeversicherung.defaultRateMaxAge && childrenCount === 0">
+							You pay more because you are over {{ pflegeversicherung.defaultRateMaxAge }} years old and you don't have children.
 						</template>
-						<template v-else-if="age <= pflegeversicherung.defaultTarifMaxAge">
-							You pay less because you are under {{ pflegeversicherung.defaultTarifMaxAge + 1 }} years old.
+						<template v-else-if="age <= pflegeversicherung.defaultRateMaxAge">
+							You pay less because you are under {{ pflegeversicherung.defaultRateMaxAge + 1 }} years old.
 						</template>
 						<template v-else>
 							You pay less because you have children.

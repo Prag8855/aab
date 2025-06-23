@@ -2,9 +2,9 @@
 const bafogBedarfssatz = {{ BAFOG_BEDARFSSATZ }};
 
 const healthInsurance = {
-	defaultTarif: {{ GKV_BASE_RATE_EMPLOYEE }}/100,
-	selfPayTarif: {{ GKV_BASE_RATE_SELF_PAY }}/100,
-	studentTarif: {{ GKV_BASE_RATE_STUDENT }}/100,
+	defaultRate: {{ GKV_BASE_RATE_EMPLOYEE }}/100,
+	selfPayRate: {{ GKV_BASE_RATE_SELF_PAY }}/100,
+	studentRate: {{ GKV_BASE_RATE_STUDENT }}/100,
 	minMonthlyIncome: {{ GKV_MIN_INCOME }},
 	maxMonthlyIncome: {{ GKV_MAX_INCOME }}/12,
 	minFreiwilligMonthlyIncome: {{ GKV_FREIWILLIG_VERSICHERT_MIN_INCOME }}/12,
@@ -44,13 +44,13 @@ const healthInsurance = {
 }
 
 const pflegeversicherung = {
-	defaultTarif: {{ PFLEGEVERSICHERUNG_BASE_RATE }}/100,
+	defaultRate: {{ PFLEGEVERSICHERUNG_BASE_RATE }}/100,
 	surchargeTarif: {{ PFLEGEVERSICHERUNG_MAX_RATE }}/100,
 	discountPerChild: {{ PFLEGEVERSICHERUNG_DISCOUNT_PER_CHILD }}/100,
 	minimumChildCountForDiscount: {{ PFLEGEVERSICHERUNG_DISCOUNT_MIN_CHILDREN }},
 	maximumChildCountForDiscount: {{ PFLEGEVERSICHERUNG_DISCOUNT_MAX_CHILDREN }},
 	employerTarif: {{ PFLEGEVERSICHERUNG_BASE_RATE }}/100/2, // Employer doesn't contribute to surcharge
-	defaultTarifMaxAge: {{ PFLEGEVERSICHERUNG_BASE_RATE_MAX_AGE }}, // Above this age, if you don't have kids, you pay the surchargeTarif
+	defaultRateMaxAge: {{ PFLEGEVERSICHERUNG_BASE_RATE_MAX_AGE }}, // Above this age, if you don't have kids, you pay the surchargeTarif
 };
 
 const taxes = {
