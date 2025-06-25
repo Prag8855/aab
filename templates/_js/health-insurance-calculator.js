@@ -2,17 +2,17 @@
 {% js %}
 
 function getBoundedMonthlyIncome(monthlyIncome){
-	// The income limited by the min and max health insurance contributions
 	return Math.min(
-		healthInsurance.maxMonthlyIncome,
+		healthInsurance.maxMonthlyIncome, // If you earn more, your contributions stop going up
 		Math.max(
 			monthlyIncome,
-			healthInsurance.minMonthlyIncome
+			healthInsurance.minMonthlyIncome // If you earn less, your contributions stop going down
 		)
 	);
 }
 
 function gkvTariff(age, occupation, monthlyIncome, hoursWorkedPerWeek){
+	// Choose the tariff used to calculate the cost of public health insurance
 	let tariff = null;
 
 	if(occupations.isStudent(occupation)) {
@@ -73,6 +73,7 @@ function gkvBaseContribution(monthlyIncome, totalRate, isEmployerContributing){
 }
 
 function gkvPflegeversicherungRate(age, childrenCount){
+	// Calculate the cost of Pflegeversicherung as a percentage of income
 	if (age > pflegeversicherung.defaultRateMaxAge && childrenCount === 0) {
 		return pflegeversicherung.surchargeRate;
 	}
@@ -92,6 +93,7 @@ function gkvPflegeversicherungRate(age, childrenCount){
 }
 
 function gkvPflegeversicherung(age, childrenCount, monthlyIncome, isEmployerContributing){
+	// Calculate the rate and cost of Pflegeversicherung for the employee and the employer
 	const totalRate = gkvPflegeversicherungRate(age, childrenCount);
 	const employerRate = isEmployerContributing ? pflegeversicherung.employerRate : 0;
 	const personalRate = totalRate - employerRate;
@@ -106,6 +108,7 @@ function gkvPflegeversicherung(age, childrenCount, monthlyIncome, isEmployerCont
 }
 
 function gkvZusatzbeitrag(zusatzbeitragRate, monthlyIncome, isEmployerContributing){
+	// Calculate the health insurance Zusatzbeitrag for the employee and the employer
 	const employerRate = isEmployerContributing ? zusatzbeitragRate / 2 : 0;
 	return {
 		totalRate: zusatzbeitragRate,
