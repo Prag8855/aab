@@ -4,10 +4,10 @@ export const hasFlags = (output, expectedFlags) => {
 	return assert(sameFlags, `Expected flags ${[...expectedFlagsSet]}, got ${[...output.flags]}`);
 };
 export const hasFlag = (output, flag) => {
-	return () => assert(output.flags.has(flag), `output has no "${flag}" flag`);
+	return () => assert(output.flags.has(flag), `Output has no "${flag}" flag. Flags are: ${[...output.flags].join(', ')}`);
 };
 export const notHasFlag = (output, flag) => {
-	return () => assert(!output.flags.has(flag), `output has unexpected "${flag}" flag`);
+	return () => assert(!output.flags.has(flag), `Output has unexpected "${flag}" flag`);
 };
 export function yearsAgo(yearCount) {
 	return ((date) => date.setFullYear(date.getFullYear() - yearCount) && date)(new Date())

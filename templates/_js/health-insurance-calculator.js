@@ -1,14 +1,65 @@
 {% include '_js/constants.js' %}
+{% include '_js/currency.js' %}
 {% js %}
 
-function getBoundedMonthlyIncome(monthlyIncome){
-	return Math.min(
-		healthInsurance.maxMonthlyIncome, // If you earn more, your contributions stop going up
-		Math.max(
-			monthlyIncome,
-			healthInsurance.minMonthlyIncome // If you earn less, your contributions stop going down
-		)
+function getAdjustedMonthlyIncome(tariff, monthlyIncome){
+	// Returns the income used to calculate the cost of public health insurance contributions.
+	// This is used to enforce a minimum/maximum cost.
+	// In some cases, different incomes can be used to measure the employee and employer's contributions.
+
+	if(tariff === 'azubiFree'){
+		// There is no minimum income for the Azubi calculation, but the Beitragsbemessungsgrenze applies
+		const adjustedIncome = Math.min(healthInsurance.maxMonthlyIncome, monthlyIncome);
+		return {
+			personal: adjustedIncome,
+			employer: adjustedIncome,
+			total: adjustedIncome,
+		}
+	}
+	else if(tariff === 'midijob'){
+		// With a midijob, the cost is based on a fictional income, calculated according to § 20 Abs. 2a SGB IV
+		const totalAdjustedIncome = (
+			healthInsurance.factorF * taxes.maxMinijobIncome
+			+ (
+				(healthInsurance.maxMidijobIncome / (healthInsurance.maxMidijobIncome - taxes.maxMinijobIncome))
+				- (
+					(taxes.maxMinijobIncome / (healthInsurance.maxMidijobIncome - taxes.maxMinijobIncome))
+					* healthInsurance.factorF
+				)
+			) * (monthlyIncome - taxes.maxMinijobIncome)
+		);
+		const employeeAdjustedIncome = (
+			(
+				healthInsurance.maxMidijobIncome
+				/ (healthInsurance.maxMidijobIncome - taxes.maxMinijobIncome)
+			)
+			* (monthlyIncome - taxes.maxMinijobIncome)
+		);
+		return {
+			personal: employeeAdjustedIncome,
+			employer: totalAdjustedIncome - employeeAdjustedIncome,
+			total: totalAdjustedIncome,
+		}
+
+	}
+	else if(tariff === 'student'){
+		// Students pay a fixed amount based on the bafogBedarfssatz
+		return {
+			personal: bafogBedarfssatz,
+			employer: bafogBedarfssatz,
+			total: bafogBedarfssatz,
+		}
+	}
+
+	const adjustedIncome = Math.min(
+		healthInsurance.maxMonthlyIncome, // Beitragsbemessungsgrenze - If you earn more, your contributions stop going up
+		Math.max(monthlyIncome, healthInsurance.minMonthlyIncome) // If you earn less, your contributions stop going down
 	);
+	return {
+		personal: adjustedIncome,
+		employer: adjustedIncome,
+		total: adjustedIncome,
+	}
 }
 
 function gkvTariff(age, occupation, monthlyIncome, hoursWorkedPerWeek){
@@ -43,7 +94,8 @@ function gkvTariff(age, occupation, monthlyIncome, hoursWorkedPerWeek){
 		tariff = 'employee';
 	}
 	else if(occupation === 'azubi') {
-		tariff = 'azubi';
+		// When the Azubi's pay is too low, the employer pays for everything - §20 Abs. 3 SGB IV
+		tariff = monthlyIncome <= healthInsurance.azubiFreibetrag ? 'azubiFree' : 'azubi';
 	}
 
 	if(tariff === 'employee'){
@@ -58,17 +110,40 @@ function gkvTariff(age, occupation, monthlyIncome, hoursWorkedPerWeek){
 	return tariff;
 }
 
-function gkvBaseContribution(monthlyIncome, totalRate, isEmployerContributing){
+function gkvBaseContribution(tariff, monthlyIncome){
 	// Calculate the base contribution for the employee and the employer
 	// This is the main cost of public health insurance - usually 14% or 14.6% of one's income
-	const employerRate = isEmployerContributing ? totalRate / 2 : 0;
+	const adjustedMonthlyIncome = getAdjustedMonthlyIncome(tariff, monthlyIncome);
+
+	const totalRate = {
+		student: healthInsurance.studentRate,
+		selfPay: healthInsurance.selfPayRate,
+		selfEmployed: healthInsurance.selfPayRate,
+		midijob: healthInsurance.defaultRate,
+		employee: healthInsurance.defaultRate,
+		azubi: healthInsurance.defaultRate,
+		azubiFree: healthInsurance.defaultRate,
+	}[tariff];
+
+	const employerRate = {
+		student: 0,
+		selfPay: 0,
+		selfEmployed: 0,
+		midijob: totalRate / 2,
+		employee: totalRate / 2,
+		azubi: totalRate / 2,
+		azubiFree: totalRate,
+	}[tariff];
+
+	const personalRate = totalRate - employerRate;
+
 	return {
 		totalRate,
-		personalRate: totalRate - employerRate,
+		personalRate,
 		employerRate,
-		totalContribution: roundCurrency(totalRate * monthlyIncome),
-		personalContribution: roundCurrency((totalRate - employerRate) * monthlyIncome),
-		employerContribution: roundCurrency(employerRate * monthlyIncome),
+		totalContribution: roundCurrency(totalRate * adjustedMonthlyIncome.total),
+		personalContribution: roundCurrency(personalRate * adjustedMonthlyIncome.personal),
+		employerContribution: roundCurrency(employerRate * adjustedMonthlyIncome.employer),
 	}
 }
 
@@ -92,324 +167,85 @@ function gkvPflegeversicherungRate(age, childrenCount){
 	}
 }
 
-function gkvPflegeversicherung(age, childrenCount, monthlyIncome, isEmployerContributing){
+function gkvPflegeversicherung(tariff, monthlyIncome, age, childrenCount){
 	// Calculate the rate and cost of Pflegeversicherung for the employee and the employer
+	const adjustedMonthlyIncome = getAdjustedMonthlyIncome(tariff, monthlyIncome);
+
 	const totalRate = gkvPflegeversicherungRate(age, childrenCount);
-	const employerRate = isEmployerContributing ? pflegeversicherung.employerRate : 0;
+	const employerRate = {
+		student: 0,
+		selfPay: 0,
+		selfEmployed: 0,
+		midijob: pflegeversicherung.employerRate,
+		employee: pflegeversicherung.employerRate,
+		azubi: pflegeversicherung.employerRate,
+		azubiFree: totalRate,
+	}[tariff];
+
 	const personalRate = totalRate - employerRate;
+
 	return {
 		totalRate,
 		personalRate,
 		employerRate,
-		totalContribution: roundCurrency(totalRate * monthlyIncome),
-		personalContribution: roundCurrency(personalRate * monthlyIncome),
-		employerContribution: roundCurrency(employerRate * monthlyIncome),
+		totalContribution: roundCurrency(totalRate * adjustedMonthlyIncome.total),
+		personalContribution: roundCurrency(personalRate * adjustedMonthlyIncome.personal),
+		employerContribution: roundCurrency(employerRate * adjustedMonthlyIncome.employer),
 	}
 }
 
-function gkvZusatzbeitrag(zusatzbeitragRate, monthlyIncome, isEmployerContributing){
+function gkvZusatzbeitrag(zusatzbeitragRate, tariff, monthlyIncome){
 	// Calculate the health insurance Zusatzbeitrag for the employee and the employer
-	const employerRate = isEmployerContributing ? zusatzbeitragRate / 2 : 0;
+	const adjustedMonthlyIncome = getAdjustedMonthlyIncome(tariff, monthlyIncome);
+
+	const employerRate = {
+		student: 0,
+		selfPay: 0,
+		selfEmployed: 0,
+		midijob: zusatzbeitragRate / 2,
+		employee: zusatzbeitragRate / 2,
+		azubi: zusatzbeitragRate / 2,
+		azubiFree: zusatzbeitragRate,
+	}[tariff];
+
+	const personalRate = zusatzbeitragRate - employerRate;
+
 	return {
 		totalRate: zusatzbeitragRate,
-		personalRate: zusatzbeitragRate - employerRate,
+		personalRate,
 		employerRate,
-		totalContribution: roundCurrency(monthlyIncome * zusatzbeitragRate),
-		personalContribution: roundCurrency(monthlyIncome * (zusatzbeitragRate - employerRate)),
-		employerContribution: roundCurrency(monthlyIncome * employerRate),
+		totalContribution: roundCurrency(zusatzbeitragRate * adjustedMonthlyIncome.total),
+		personalContribution: roundCurrency(personalRate * adjustedMonthlyIncome.personal),
+		employerContribution: roundCurrency(employerRate * adjustedMonthlyIncome.employer),
 	};
 }
 
-function gkvKrankenkassenList(customZusatzbeitrag){
-	// Get a list of Krankenkassen with their Zusatzbeitrag
-	const allInsurers = Object.entries(healthInsurance.companies);
-	if(customZusatzbeitrag !== undefined) {
-		// Add an extra option with the user-specified Zusatzbeitrag
-		allInsurers.push([
-			'custom',
-			{
-				name: 'Other health insurer',
-				zusatzbeitrag: customZusatzbeitrag,
-			}
-		]);
-	}
-	return allInsurers;
-}
-
-function gkvKrankenkassenOptions(monthlyIncome, employerContributes, customZusatzbeitrag){
-	// Get a list of Krankenkassen with their cost
-	return gkvKrankenkassenList(customZusatzbeitrag).reduce((options, [krankenkasseKey, krankenkasse]) => {
-		options[krankenkasseKey] = {
-			zusatzbeitrag: gkvZusatzbeitrag(krankenkasse.zusatzbeitrag, monthlyIncome, employerContributes),
-		};
-		return options;
-	}, {});
-}
-
-function gkvCostForAzubi(monthlyIncome, age, childrenCount, customZusatzbeitrag){
-	const boundedMonthlyIncome = Math.min(healthInsurance.maxMonthlyIncome, monthlyIncome);
-
-	// When the Azubi's pay is too low, the employer pays for everything - §20 Abs. 3 SGB IV
-	if(monthlyIncome > healthInsurance.azubiFreibetrag){
-		return {
-			tariff: 'azubi',
-			baseContribution: gkvBaseContribution(boundedMonthlyIncome, healthInsurance.defaultRate, true),
-			pflegeversicherung: gkvPflegeversicherung(age, childrenCount, boundedMonthlyIncome, true),
-			options: gkvKrankenkassenOptions(boundedMonthlyIncome, true, customZusatzbeitrag),
-		};
-	}
-	else{
-		const pflegeversicherungRate = gkvPflegeversicherungRate(age, childrenCount);
-		return {
-			tariff: 'azubi-free',
-			baseContribution: {
-				totalRate: healthInsurance.defaultRate,
-				personalRate: 0,
-				employerRate: healthInsurance.defaultRate,
-				totalContribution: roundCurrency(boundedMonthlyIncome),
-				personalContribution: 0,
-				employerContribution: roundCurrency(boundedMonthlyIncome),
-			},
-			pflegeversicherung: {
-				totalRate: pflegeversicherungRate,
-				personalRate: 0,
-				employerRate: pflegeversicherungRate,
-				totalContribution: roundCurrency(pflegeversicherungRate * boundedMonthlyIncome),
-				personalContribution: 0,
-				employerContribution: roundCurrency(pflegeversicherungRate * boundedMonthlyIncome),
-			},
-			options: gkvKrankenkassenList(customZusatzbeitrag).reduce((options, [krankenkasseKey, krankenkasse]) => {
-				options[krankenkasseKey] = {
-					zusatzbeitrag: {
-						totalRate: krankenkasse.zusatzbeitrag,
-						personalRate: 0,
-						employerRate: krankenkasse.zusatzbeitrag,
-						totalContribution: roundCurrency(boundedMonthlyIncome * krankenkasse.zusatzbeitrag),
-						personalContribution: 0,
-						employerContribution: roundCurrency(boundedMonthlyIncome * krankenkasse.zusatzbeitrag),
-					},
-				};
-				return options;
-			}, {}),
-		}
-	}
-}
-
-function gkvCostForEmployee(monthlyIncome, age, childrenCount, customZusatzbeitrag){
-	const boundedMonthlyIncome = getBoundedMonthlyIncome(monthlyIncome);
-	return {
-		tariff: 'employee',
-		baseContribution: gkvBaseContribution(boundedMonthlyIncome, healthInsurance.defaultRate, true),
-		pflegeversicherung: gkvPflegeversicherung(age, childrenCount, boundedMonthlyIncome, true),
-		options: gkvKrankenkassenOptions(boundedMonthlyIncome, true, customZusatzbeitrag),
-	};
-}
-
-function gkvCostForMidijob(monthlyIncome, age, childrenCount, customZusatzbeitrag){
-	const out = {
-		tariff: 'midijob',
-	};
-
-	/***************************************************
-	* Monthly income
-	* According to Gleitzone formula: §20 Abs. 2a SGB VI
-	***************************************************/
-
-	const boundedMonthlyIncomeEmployer = (
-		healthInsurance.factorF * taxes.maxMinijobIncome
-		+ (
-			(healthInsurance.maxMidijobIncome / (healthInsurance.maxMidijobIncome-taxes.maxMinijobIncome))
-			- (
-				(
-					taxes.maxMinijobIncome
-					/ (healthInsurance.maxMidijobIncome - taxes.maxMinijobIncome)
-				)
-				* healthInsurance.factorF
-			)
-		) * (monthlyIncome - taxes.maxMinijobIncome)
-	);
-
-	const boundedMonthlyIncomeEmployee = (
-		(healthInsurance.maxMidijobIncome / (healthInsurance.maxMidijobIncome-taxes.maxMinijobIncome))
-		* (monthlyIncome - taxes.maxMinijobIncome)
-	);
-
-	/***************************************************
-	* Base contribution
-	***************************************************/
-
-	out.baseContribution = {
-		totalRate: healthInsurance.defaultRate,
-		employerRate: healthInsurance.defaultRate / 2,
-		personalRate: healthInsurance.defaultRate / 2,
-		totalContribution: roundCurrency(healthInsurance.defaultRate * boundedMonthlyIncomeEmployer),
-		personalContribution: roundCurrency(boundedMonthlyIncomeEmployee * healthInsurance.defaultRate / 2),
-	};
-	out.baseContribution.employerContribution = roundCurrency(out.baseContribution.totalContribution - out.baseContribution.personalContribution);
-
-	/***************************************************
-	* Pflegeversicherung
-	***************************************************/
-
-	out.pflegeversicherung = gkvPflegeversicherung(age, childrenCount, boundedMonthlyIncomeEmployer, true);
-	out.pflegeversicherung.personalContribution = roundCurrency(
-		(out.pflegeversicherung.totalRate - pflegeversicherung.defaultRate) * boundedMonthlyIncomeEmployer
-		+ out.pflegeversicherung.personalRate * boundedMonthlyIncomeEmployee // The childless surcharge is not covered by the employer
-	);
-	out.pflegeversicherung.employerContribution = roundCurrency(out.pflegeversicherung.totalContribution - out.pflegeversicherung.personalContribution);
-
-	/***************************************************
-	* Zusatzbeitrag
-	***************************************************/
-
-	out.options = gkvKrankenkassenList(customZusatzbeitrag).reduce((options, [krankenkasseKey, krankenkasse]) => {
-		options[krankenkasseKey] = {
-			zusatzbeitrag: gkvZusatzbeitrag(krankenkasse.zusatzbeitrag, boundedMonthlyIncomeEmployer, true)
-		};
-		options[krankenkasseKey].zusatzbeitrag.personalContribution = roundCurrency(boundedMonthlyIncomeEmployee * options[krankenkasseKey].zusatzbeitrag.personalRate);
-		options[krankenkasseKey].zusatzbeitrag.employerContribution = roundCurrency(options[krankenkasseKey].zusatzbeitrag.totalContribution - options[krankenkasseKey].zusatzbeitrag.personalContribution);
-		return options;
-	}, {});
-
-	return out;
-}
-
-function gkvCostForSelfEmployment(monthlyIncome, age, childrenCount, customZusatzbeitrag){
-	const boundedMonthlyIncome = getBoundedMonthlyIncome(monthlyIncome);
-	return {
-		tariff: 'selfEmployed',
-		baseContribution: gkvBaseContribution(boundedMonthlyIncome, healthInsurance.selfPayRate, false),
-		pflegeversicherung: gkvPflegeversicherung(age, childrenCount, boundedMonthlyIncome, false),
-		options: gkvKrankenkassenOptions(boundedMonthlyIncome, false, customZusatzbeitrag),
-	};
-}
-
-function gkvCostForSelfPay(monthlyIncome, age, childrenCount, customZusatzbeitrag){
-	const boundedMonthlyIncome = getBoundedMonthlyIncome(monthlyIncome);
-	return {
-		tariff: 'selfPay',
-		baseContribution: gkvBaseContribution(boundedMonthlyIncome, healthInsurance.selfPayRate, false),
-		pflegeversicherung: gkvPflegeversicherung(age, childrenCount, boundedMonthlyIncome, false),
-		options: gkvKrankenkassenOptions(boundedMonthlyIncome, false, customZusatzbeitrag),
-	};
-}
-
-function gkvCostForStudent(monthlyIncome, age, childrenCount, customZusatzbeitrag){
-	return {
-		tariff: 'student',
-
-		// Students pay a fixed amount: 70% of the normal rate * the bafogBedarfssatz
-		baseContribution: gkvBaseContribution(bafogBedarfssatz, healthInsurance.studentRate, false),
-
-		// Employers do not contribute to a student's Pflegeversicherung
-		// The cost is based on the bafogBedarfssatz instead of the student's income		
-		pflegeversicherung: gkvPflegeversicherung(age, childrenCount, bafogBedarfssatz, false),
-
-		options: gkvKrankenkassenOptions(bafogBedarfssatz, false, customZusatzbeitrag),
-	};
-}
-
-function calculateHealthInsuranceContributions({age, monthlyIncome, occupation, isMarried, childrenCount, customZusatzbeitrag, hoursWorked}) {
-	const hoursWorkedPerWeek = hoursWorked === undefined ? 20 : +hoursWorked;
-
+function gkvOptions({occupation, monthlyIncome, hoursWorkedPerWeek, age, childrenCount}){
 	const tariff = gkvTariff(age, occupation, monthlyIncome, hoursWorkedPerWeek);
 
-	/***************************************************
-	* Flags
-	***************************************************/
+	const baseContribution = gkvBaseContribution(tariff, monthlyIncome);
+	const pflegeversicherung = gkvPflegeversicherung(tariff, monthlyIncome, age, childrenCount);
 
-	const flags = new Set();
-	if(isPaidBySocialBenefits(occupation)){
-		flags.add('alg-i-buergergeld');
-	}
-	if(canHaveEHIC(true, false, monthlyIncome)) {
-		flags.add('ehic');
-	}
+	return Object.entries(healthInsurance.companies).map(([krankenkasseKey, krankenkasse]) => {
+		const zusatzbeitrag = gkvZusatzbeitrag(krankenkasse.zusatzbeitrag, tariff, monthlyIncome);
 
-	if(canHaveFamilienversicherungFromSpouse(occupation, monthlyIncome, isMarried)){
-		flags.add('familienversicherung-spouse');
-	}
-	if(canHaveFamilienversicherungFromParents(occupation, monthlyIncome, age)){
-		flags.add('familienversicherung-parents');
-	}
-	if(canHaveKSK(occupation, monthlyIncome, hoursWorked)) {
-		flags.add('ksk');
-	}
-	if(occupations.isStudent(occupation)){
-		if(age >= 30) {
-			flags.add('student-30plus');
-		}
-		if(!isWorkingStudent(occupation, monthlyIncome, hoursWorkedPerWeek)){
-			flags.add('not-werkstudent');
-		}
-	}
-
-	if(tariff === 'azubi-free'){
-		flags.add('azubi-free')
-	}
-
-	if(monthlyIncome >= healthInsurance.maxMonthlyIncome) {
-		flags.add('max-contribution');
-	}
-
-	if((tariff === 'selfPay' || tariff === 'selfEmployed') && monthlyIncome <= healthInsurance.minMonthlyIncome) {
-		flags.add('min-contribution');
-	}
-
-	if(tariff !== 'student' && isMinijob(occupation, monthlyIncome)) {
-		flags.add('minijob');
-	}
-	if(tariff === 'midijob') {
-		flags.add('midijob');
-	}
-	if(tariff === 'student') {
-		flags.add('student');
-	}
-
-	if(age > pflegeversicherung.defaultRateMaxAge && childrenCount === 0) {
-		flags.add('pflegeversicherung-surcharge');
-	}
-
-	if(canHavePrivateHealthInsurance(occupation, monthlyIncome, hoursWorkedPerWeek)) {
-		flags.add('private');
-	}
-
-
-	/***************************************************
-	* Contributions calculation
-	***************************************************/
-
-	const calcFunction = {
-		'azubi': gkvCostForAzubi,
-		'employee': gkvCostForEmployee,
-		'midijob': gkvCostForMidijob,
-		'selfEmployed': gkvCostForSelfEmployment,
-		'selfPay': gkvCostForSelfPay,
-		'student': gkvCostForStudent,
-	}[tariff];
-	const output = calcFunction(monthlyIncome, age, childrenCount, customZusatzbeitrag);
-
-	output.flags = flags;
-
-	// Add .total cost to each health insurance option
-	Object.values(output.options).forEach(option => {
-		const total = field => output.baseContribution[field] + output.pflegeversicherung[field] + option.zusatzbeitrag[field];
-		option.total = {
-			totalRate: total('totalRate'),
-			employerRate: total('employerRate'),
-			personalRate: total('personalRate'),
-			totalContribution: roundCurrency(total('totalContribution')),
-			employerContribution: roundCurrency(total('employerContribution')),
-			personalContribution: roundCurrency(total('personalContribution')),
+		return {
+			id: krankenkasseKey, 
+			name: krankenkasse.name,
+			tariff,
+			baseContribution,
+			pflegeversicherung,
+			zusatzbeitrag,
+			total: {
+				totalRate: baseContribution.totalRate + pflegeversicherung.totalRate + zusatzbeitrag.totalRate,
+				employerRate: baseContribution.employerRate + pflegeversicherung.employerRate + zusatzbeitrag.employerRate,
+				personalRate: baseContribution.personalRate + pflegeversicherung.personalRate + zusatzbeitrag.personalRate,
+				totalContribution: roundCurrency(baseContribution.totalContribution + pflegeversicherung.totalContribution + zusatzbeitrag.totalContribution),
+				employerContribution: roundCurrency(baseContribution.employerContribution + pflegeversicherung.employerContribution + zusatzbeitrag.employerContribution),
+				personalContribution: roundCurrency(baseContribution.personalContribution + pflegeversicherung.personalContribution + zusatzbeitrag.personalContribution),
+			}
 		};
 	});
-
-	// Add .cheapest and .mostExpensive options	
-	const insurerOptionsSortedByPrice = Object.values(output.options).sort((a, b) => a.total.personalContribution - b.total.personalContribution);
-	output.options.cheapest = insurerOptionsSortedByPrice[0];
-	output.options.mostExpensive = insurerOptionsSortedByPrice[insurerOptionsSortedByPrice.length - 1];
-
-	return output;
 }
 
 function canHaveEHIC(isEUResident, hasGermanInsurance, monthlyIncome){
@@ -472,7 +308,7 @@ function isPaidBySocialBenefits(occupation, monthlyIncome){
 function canHavePublicHealthInsurance(occupation, age, isEUResident, hasGermanInsurance){
 	if(!hasGermanInsurance){
 		// Non-EU students over 30 are disqualified, unless they're already insured
-		if(occupations.isStudent(occupation) && age >= 30 && !isEUCitizen){
+		if(occupations.isStudent(occupation) && age >= 30 && !isEUResident){
 			return false;
 		}
 		
@@ -486,6 +322,8 @@ function canHavePublicHealthInsurance(occupation, age, isEUResident, hasGermanIn
 	if(age >= 55){  // A switch to public is impossible after that age
 		return false; // TODO: A switch between Krankenkassen is possible (Seamus)
 	}
+
+	return true;
 }
 
 function canHavePrivateHealthInsurance(occupation, monthlyIncome, hoursWorkedPerWeek){
@@ -517,7 +355,6 @@ function canHaveKSK(occupation, monthlyIncome, hoursWorkedPerWeek){
 
 function isWorkingStudent(occupation, monthlyIncome, hoursWorkedPerWeek){
 	// A Werkstudent keeps their student insurance even if their income is above the Familienversicherung threshold
-
 	return (
 		occupations.isStudent(occupation)
 
@@ -535,5 +372,167 @@ function needsGapInsurance(occupation, isEUResident){
 	// to the moment they get covered by public health insurance.
 	// - Students before the start of their semester
 	// - Employees before they start working
+}
+
+function getInsuranceOptions({
+	age,
+	childrenCount,
+	hasGermanInsurance,
+	hoursWorkedPerWeek,
+	isEUResident,
+	isMarried,
+	monthlyIncome,
+	occupation,
+}){
+	const output = {
+		flags: new Set(),
+		asList: [],  // The order here matters
+	};
+
+
+	/***************************************************
+	* Free options
+	***************************************************/
+
+	output.free = {
+		id: 'free',
+		name: 'Free health insurance',
+		eligible: false,
+		description: '',
+		options: [],
+	};
+
+	if(canHaveEHIC(isEUResident, hasGermanInsurance, monthlyIncome)){
+		output.free.options.push({ id: 'ehic' });
+		output.flags.add('ehic');
+	}
+
+	if(isPaidBySocialBenefits(occupation)){
+		output.free.options.push({ id: 'social-benefits' });
+		output.flags.add('social-benefits');
+	}
+
+	if(canHaveFamilienversicherungFromSpouse(occupation, monthlyIncome, isMarried)){
+		output.free.options.push({ id: 'familienversicherung-spouse' });
+		output.flags.add('familienversicherung');
+		output.flags.add('familienversicherung-spouse');
+	}
+	if(canHaveFamilienversicherungFromParents(occupation, monthlyIncome, age)){
+		output.free.options.push({ id: 'familienversicherung-parents' });
+		output.flags.add('familienversicherung');
+		output.flags.add('familienversicherung-parents');
+	}
+
+	if(output.free.options.length){
+		output.free.eligible = true;
+		output.flags.add('free');
+	}
+	output.asList.push(output.free);
+
+
+	/***************************************************
+	* Expat health insurance
+	***************************************************/
+
+	output.expat = {
+		id: 'expat',
+		name: 'Expat health insurance',
+		eligible: false,
+		description: '',
+		options: [],
+	}
+	if(canHaveExpatHealthInsurance(occupation, hasGermanInsurance)){
+		output.expat.eligible = true;
+		output.flags.add('expat');
+	}
+	output.asList.push(output.expat);
+
+
+	/***************************************************
+	* Public health insurance
+	***************************************************/
+
+	output.public = {
+		id: 'public',
+		name: 'Public health insurance',
+		eligible: false,
+		description: '',
+		options: gkvOptions({occupation, monthlyIncome, hoursWorkedPerWeek, age, childrenCount}),
+	}
+	if(canHavePublicHealthInsurance(occupation, age, isEUResident, hasGermanInsurance)){
+		output.public.eligible = true;
+		output.flags.add('public');
+
+		const tariff = gkvTariff(age, occupation, monthlyIncome, hoursWorkedPerWeek);
+		output.flags.add(`public-tariff-${tariff}`);
+
+		if(occupations.isStudent(occupation)){
+			if(age >= 30) {
+				output.flags.add('public-student-over-30');
+			}
+			if(!isWorkingStudent(occupation, monthlyIncome, hoursWorkedPerWeek)){
+				output.flags.add('public-not-werkstudent');
+			}
+		}
+
+		if(monthlyIncome >= healthInsurance.maxMonthlyIncome) {
+			output.flags.add('public-max-contribution');
+		}
+
+		if((tariff === 'selfPay' || tariff === 'selfEmployed') && monthlyIncome <= healthInsurance.minMonthlyIncome) {
+			output.flags.add('public-min-contribution');
+		}
+
+		if(tariff !== 'student' && isMinijob(occupation, monthlyIncome)) {
+			output.flags.add('public-minijob');
+		}
+
+		if(age > pflegeversicherung.defaultRateMaxAge && childrenCount === 0) {
+			// TODO: Duplicate business logic
+			output.flags.add('public-pflegeversicherung-surcharge');
+		}
+	}
+	output.asList.push(output.public);
+
+
+	/***************************************************
+	* Private health insurance
+	***************************************************/
+
+	output.private = {
+		id: 'private',
+		name: 'Private health insurance',
+		eligible: false,
+		description: '',
+		options: [],
+	}
+
+	if(canHavePrivateHealthInsurance(occupation, monthlyIncome, hoursWorkedPerWeek)){
+		output.flags.add('private');
+		output.private.eligible = true;
+	}
+	output.asList.push(output.private);
+
+
+	/***************************************************
+	* Künstlersozialkasse
+	***************************************************/
+
+	output.other = {
+		id: 'other',
+		name: 'Other options',
+		eligible: true,
+		description: '',
+		options: [],
+	};
+
+	if(canHaveKSK(occupation, monthlyIncome, hoursWorkedPerWeek)){
+		output.other.eligible = true;
+		output.other.options.push({id: 'ksk'});
+		output.flags.add('ksk');
+	};
+	output.asList.push(output.other);
+
+	return output;
 }
 {% endjs %}
