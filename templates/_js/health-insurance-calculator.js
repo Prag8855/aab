@@ -467,26 +467,22 @@ function isPaidBySocialBenefits(occupation){
 }
 
 function canHavePublicHealthInsurance(occupation, age, isEUResident, hasGermanInsurance){
-	if(hasGermanInsurance){  // If it's public health insurance
-		return true;
-	}
-
-	// If uninsured, non-EU student over 30
-	if(occupations.isStudent(occupation) && age >= 30){
-		if(!isEUCitizen && !hasGermanInsurance){
+	if(!hasGermanInsurance){
+		// Non-EU students over 30 are disqualified, unless they're already insured
+		if(occupations.isStudent(occupation) && age >= 30 && !isEUCitizen){
+			return false;
+		}
+		
+		// Non-EU freelancers are disqualified, unless they're already insured
+		// TODO: What about self-employed students?
+		if(occupation === 'selfEmployed' && !isEUResident){
 			return false;
 		}
 	}
-	else if(!isEUResident && occupations.isSelfEmployed(occupation) && !hasGermanInsurance){
-		return false;
+
+	if(age >= 55){  // A switch to public is impossible after that age
+		return false; // TODO: A switch between Krankenkassen is possible (Seamus)
 	}
-
-	// If uninsured, non-EU freelancer over 30
-
-	return (
-		isEUCitizen
-		|| currentHealthInsurance === 'public'
-	);
 }
 
 function canHavePrivateHealthInsurance(occupation, monthlyIncome, hoursWorkedPerWeek){
