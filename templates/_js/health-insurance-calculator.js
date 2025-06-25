@@ -461,9 +461,12 @@ function canHaveFamilienversicherungFromParents(occupation, monthlyIncome, age){
 	);
 }
 
-function isPaidBySocialBenefits(occupation){
+function isPaidBySocialBenefits(occupation, monthlyIncome){
 	// If income below limit, and receiving social benefits
-	return occupations.isUnemployed(occupation);
+	return (
+		occupations.isUnemployed(occupation)
+		&& monthlyIncome <= healthInsurance.maxFamilienversicherungIncome
+	);
 }
 
 function canHavePublicHealthInsurance(occupation, age, isEUResident, hasGermanInsurance){
