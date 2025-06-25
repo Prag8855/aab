@@ -120,21 +120,8 @@ function gkvZusatzbeitrag(zusatzbeitragRate, monthlyIncome, isEmployerContributi
 	};
 }
 
-function gkvTotal(baseContributionValues, pflegeversicherungValues, zusatzbeitragValues){
-	// Adds the total/employer/personal contribution objects
-	const total = field => baseContributionValues[field] + pflegeversicherungValues[field] + zusatzbeitragValues[field];
-	return {
-		totalRate: total('totalRate'),
-		employerRate: total('employerRate'),
-		personalRate: total('personalRate'),
-		totalContribution: roundCurrency(total('totalContribution')),
-		employerContribution: roundCurrency(total('employerContribution')),
-		personalContribution: roundCurrency(total('personalContribution')),
-	};
-}
-
 function gkvKrankenkassenList(customZusatzbeitrag){
-	// Get a list of Krankenkassen with their price
+	// Get a list of Krankenkassen with their Zusatzbeitrag
 	const allInsurers = Object.entries(healthInsurance.companies);
 	if(customZusatzbeitrag !== undefined) {
 		// Add an extra option with the user-specified Zusatzbeitrag
@@ -150,6 +137,7 @@ function gkvKrankenkassenList(customZusatzbeitrag){
 }
 
 function gkvKrankenkassenOptions(monthlyIncome, employerContributes, customZusatzbeitrag){
+	// Get a list of Krankenkassen with their cost
 	return gkvKrankenkassenList(customZusatzbeitrag).reduce((options, [krankenkasseKey, krankenkasse]) => {
 		options[krankenkasseKey] = {
 			zusatzbeitrag: gkvZusatzbeitrag(krankenkasse.zusatzbeitrag, monthlyIncome, employerContributes),
@@ -405,7 +393,15 @@ function calculateHealthInsuranceContributions({age, monthlyIncome, occupation, 
 
 	// Add .total cost to each health insurance option
 	Object.values(output.options).forEach(option => {
-		option.total = gkvTotal(output.baseContribution, output.pflegeversicherung, option.zusatzbeitrag);
+		const total = field => output.baseContribution[field] + output.pflegeversicherung[field] + option.zusatzbeitrag[field];
+		option.total = {
+			totalRate: total('totalRate'),
+			employerRate: total('employerRate'),
+			personalRate: total('personalRate'),
+			totalContribution: roundCurrency(total('totalContribution')),
+			employerContribution: roundCurrency(total('employerContribution')),
+			personalContribution: roundCurrency(total('personalContribution')),
+		};
 	});
 
 	// Add .cheapest and .mostExpensive options	
