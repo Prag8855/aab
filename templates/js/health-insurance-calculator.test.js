@@ -95,22 +95,42 @@ function hasStudentTariff(output, paysPflegeversicherungSurcharge) {
 		notHasFlag(output, 'public-student-over-30')();
 		notHasFlag(output, 'public-not-werkstudent')();
 
-		// TODO: Fix calculation
-		equal(o.baseContribution.totalContribution, round(healthInsurance.studentRate * bafogBedarfssatz));
-		equal(o.zusatzbeitrag.totalContribution, round(defaultInsurer.zusatzbeitrag * bafogBedarfssatz));
-		if(paysPflegeversicherungSurcharge){
-			equal(o.pflegeversicherung.totalContribution, round(pflegeversicherung.surchargeRate * bafogBedarfssatz));
-		}
-		else{
-			equal(o.pflegeversicherung.totalContribution, round(pflegeversicherung.defaultRate * bafogBedarfssatz));
-		}
-		equal(o.total.employerContribution, 0);
+		assert.deepEqual(o.baseContribution, {
+			totalRate: healthInsurance.studentRate,
+			totalContribution: round(bafogBedarfssatz * healthInsurance.studentRate),
+			employerRate: 0,
+			employerContribution: 0,
+			personalRate: healthInsurance.studentRate,
+			personalContribution: round(bafogBedarfssatz * healthInsurance.studentRate),
+		});
+
+		assert.deepEqual(o.zusatzbeitrag, {
+			totalRate: defaultInsurer.zusatzbeitrag,
+			totalContribution: round(bafogBedarfssatz * defaultInsurer.zusatzbeitrag),
+			employerRate: 0,
+			employerContribution: 0,
+			personalRate: defaultInsurer.zusatzbeitrag,
+			personalContribution: round(bafogBedarfssatz * defaultInsurer.zusatzbeitrag),
+		});
+
+		const pflegeversicherungRate = paysPflegeversicherungSurcharge ? pflegeversicherung.surchargeRate : pflegeversicherung.defaultRate;
+
+		assert.deepEqual(o.pflegeversicherung, {
+			totalRate: pflegeversicherungRate,
+			totalContribution: round(bafogBedarfssatz * pflegeversicherungRate),
+			employerRate: 0,
+			employerContribution: 0,
+			personalRate: pflegeversicherungRate,
+			personalContribution: round(bafogBedarfssatz * pflegeversicherungRate),
+		});
 	});
 }
 
 function paysPflegeversicherungSurcharge(output){
-	// TODO: Test surcharge rate
-	it('pays a Pflegeversicherung surcharge', hasFlag(output, 'public-pflegeversicherung-surcharge'));
+	it('pays a Pflegeversicherung surcharge', () => {
+		hasFlag(output, 'public-pflegeversicherung-surcharge')();
+		equal(output.public.options[0].pflegeversicherung.totalRate, pflegeversicherung.surchargeRate);
+	});
 }
 
 function doesNotPayPflegeversicherungSurcharge(output){
@@ -202,9 +222,33 @@ function paysMaximumEmployeeAmount(output) {
 	it('pays the maximum price for employees', () => {
 		hasFlag(output, 'public-max-contribution')();
 
-		equal(o.baseContribution.totalContribution, round(healthInsurance.maxMonthlyIncome * healthInsurance.defaultRate));
-		equal(o.zusatzbeitrag.totalContribution, round(healthInsurance.maxMonthlyIncome * defaultInsurer.zusatzbeitrag));
-		equal(o.pflegeversicherung.totalContribution, round(healthInsurance.maxMonthlyIncome * pflegeversicherung.defaultRate));
+		assert.deepEqual(o.baseContribution, {
+			totalRate: healthInsurance.defaultRate,
+			totalContribution: round(healthInsurance.maxMonthlyIncome * healthInsurance.defaultRate),
+			employerRate: healthInsurance.defaultRate / 2,
+			employerContribution: round(healthInsurance.maxMonthlyIncome * healthInsurance.defaultRate / 2),
+			personalRate: healthInsurance.defaultRate / 2,
+			personalContribution: round(healthInsurance.maxMonthlyIncome * healthInsurance.defaultRate / 2),
+		});
+
+		assert.deepEqual(o.zusatzbeitrag, {
+			totalRate: defaultInsurer.zusatzbeitrag,
+			totalContribution: round(healthInsurance.maxMonthlyIncome * defaultInsurer.zusatzbeitrag),
+			employerRate: defaultInsurer.zusatzbeitrag / 2,
+			employerContribution: round(healthInsurance.maxMonthlyIncome * defaultInsurer.zusatzbeitrag / 2),
+			personalRate: defaultInsurer.zusatzbeitrag / 2,
+			personalContribution: round(healthInsurance.maxMonthlyIncome * defaultInsurer.zusatzbeitrag / 2),
+		});
+
+		assert.deepEqual(o.pflegeversicherung, {
+			totalRate: pflegeversicherung.defaultRate,
+			totalContribution: round(healthInsurance.maxMonthlyIncome * pflegeversicherung.defaultRate),
+			employerRate: pflegeversicherung.employerRate,
+			employerContribution: round(healthInsurance.maxMonthlyIncome * pflegeversicherung.employerRate),
+			personalRate: pflegeversicherung.defaultRate - pflegeversicherung.employerRate,
+			personalContribution: round(healthInsurance.maxMonthlyIncome * o.pflegeversicherung.personalRate),
+		});
+
 		equal(
 			o.total.employerContribution,
 			round(
