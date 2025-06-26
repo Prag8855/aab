@@ -15,11 +15,8 @@ const healthInsurance = {
 	maxNebenjobIncome: {{ GKV_NEBENJOB_MAX_INCOME }},
 	factorF: {{ GKV_FACTOR_F }},
 	kskMinimumIncome: {{ KSK_MIN_INCOME }},
+	averageZusatzbeitrag: {{ GKV_ZUSATZBEITRAG_AVERAGE }}/100,
 	companies: {
-		average: {
-			name: 'Average health insurance',
-			zusatzbeitrag: {{ GKV_ZUSATZBEITRAG_AVERAGE }}/100,
-		},
 		aok: {
 			name: 'AOK Nordost',
 			zusatzbeitrag: {{ GKV_ZUSATZBEITRAG_AOK }}/100,

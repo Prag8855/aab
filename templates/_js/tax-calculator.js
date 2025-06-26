@@ -4,30 +4,25 @@
 {% include '_js/pension-refund-calculator.js' %}
 {% js %}
 
-function hasSponsoredHealthInsurance(healthInsuranceType) {
-	return ['ehic', 'familienversicherung-spouse', 'familienversicherung-parents'].includes(healthInsuranceType);
-}
+function calculateTax(yearlyIncome, {
+	age,  // Number
+	childrenCount,  // Number
+	fixedHealthInsuranceCost,  // Monthly cost of private health insurance, or null/undefined
+	germanState,  // State where you WORK, not live. Abbreviation (e.g. "bb")
+	healthInsuranceType, // public-[krankenkasseKey], public-custom, ehic, familienversicherung-spouse, familienversicherung-parents, private, unknown
+	isMarried,  // Bool
+	isPayingChurchTax,  // Bool
+	occupation,  // String. See constants.js > occupations
+	taxClass,  // Number
+	zusatzbeitrag,
+}) {
+	zusatzbeitrag = Number.isNaN(zusatzbeitrag) ? healthInsurance.averageZusatzbeitrag : zusatzbeitrag;
 
-function calculateTax(yearlyIncome, opts) {
-	const age = +opts.age;  // TODO: §24 EStG for 64+
-	const childrenCount = +opts.childrenCount;
-	const germanStateAbbr = opts.germanState; // State where you WORK, not live
-	const isPayingChurchTax = !!opts.isPayingChurchTax;
-	const occupation = opts.occupation;
-	const taxClass = +opts.taxClass;
-	const isMarried = !!opts.isMarried;
+	const monthlyIncome = yearlyIncome / 12;
+
 	const year = (new Date()).getFullYear();
-
-	const zusatzbeitrag = Number.isNaN(+opts.zusatzbeitrag) ? healthInsurance.companies.average.zusatzbeitrag : +opts.zusatzbeitrag;
-	const fixedHealthInsuranceCost = Number.isNaN(+opts.fixedHealthInsuranceCost) ? undefined : +opts.fixedHealthInsuranceCost; // Monthly value
-	const healthInsuranceType = opts.healthInsuranceType;
-
-	const isEmployed = occupations.isEmployed(occupation);
-	const isInEastGermany = germanStates.isEastGerman(germanStateAbbr);
+	const isInEastGermany = germanStates.isEastGerman(germanState);
 	const hasChildren = childrenCount > 0;
-
-	yearlyIncome = +yearlyIncome;
-	const monthlyIncome = yearlyIncome/12;
 
 	const result = { flags: new Set() };
 
@@ -38,26 +33,46 @@ function calculateTax(yearlyIncome, opts) {
 
 	/* Health insurance *******************************/
 
-	const healthInsuranceResult = calculateHealthInsuranceContributions({ age, isMarried, childrenCount, monthlyIncome, occupation, customZusatzbeitrag: zusatzbeitrag });
+	const healthInsuranceResult = getHealthInsuranceOptions({
+		age,
+		childrenCount,
+		customZusatzbeitrag: zusatzbeitrag,
+		isMarried,
+		monthlyIncome,
+		occupation,
+
+		// Sensible defaults
+		hoursWorkedPerWeek: 20,  // Ensures Werkstudent pricing for students
+		isEUResident: true,  // Ensures public for freelancers
+		hasGermanInsurance: true,  // Ensures public in general
+		sortByPrice: true,
+	});
 	healthInsuranceResult.flags.forEach(f => result.flags.add(`kv-${f}`));
 
-	if(hasSponsoredHealthInsurance(healthInsuranceType)) {
+	const cheapestGkv = healthInsuranceResult.public.options[0];
+	const mostExpensiveGkv = healthInsuranceResult.public.options.at(-1);
+	const customHealthInsurance = healthInsuranceResult.public.options.find(o => o.id === 'custom');
+
+	if(['ehic', 'familienversicherung-spouse', 'familienversicherung-parents'].includes(healthInsuranceType)) {
+		// Free, sponsored health insurance
 		result.healthInsurance = 0;
 	}
-	else if(fixedHealthInsuranceCost !== undefined) {
-		// This is a gross oversimplification for private health insurance, but there's no way to calculate the real number.
-		// TODO: mention that in the UI?
-		const personalContributionRate = healthInsuranceResult.baseContribution.personalRate / healthInsuranceResult.baseContribution.totalRate;
+	else if(fixedHealthInsuranceCost != null) {
+		// Private health insurance, user-defined price
+		// Note: This is a gross oversimplification for private health insurance, but there's no way to calculate the real number.
+		const personalContributionRate = cheapestGkv.baseContribution.personalRate / cheapestGkv.baseContribution.totalRate;
 		result.healthInsurance = fixedHealthInsuranceCost * 12 * personalContributionRate;
 	}
 	else {
-		result.healthInsurance = healthInsuranceResult.options.custom.total.personalContribution * 12;
+		// Public health insurance, custom zusatzbeitrag
+		result.healthInsurance = customHealthInsurance.total.personalContribution * 12;
 	}
-	result.healthInsuranceDetails = healthInsuranceResult;
+
+	result.healthInsuranceOptions = healthInsuranceResult;
 
 	const healthInsuranceVorsorgepauschaleTariff = (
 		healthInsurance.selfPayRate / 2
-		+ result.healthInsuranceDetails.pflegeversicherung.personalRate
+		+ cheapestGkv.pflegeversicherung.personalRate
 		+ zusatzbeitrag /2
 	);
 
@@ -72,7 +87,7 @@ function calculateTax(yearlyIncome, opts) {
 
 	/* Pension insurance ******************************/
 
-	if(isEmployed) {
+	if(occupations.isEmployed(occupation)) {
 		// TODO: Set rv-max-contribution flag
 		result.publicPension = roundCurrency(estimateYearlyPensionContributions(year, yearlyIncome, isInEastGermany));
 	}
@@ -92,7 +107,7 @@ function calculateTax(yearlyIncome, opts) {
 		result.taxableIncome -= taxes.sonderausgabenPauschbetrag;
 	}
 	
-	if(isEmployed) {
+	if(occupations.isEmployed(occupation)) {
 		/* Flat rate Lohnsteuer deductions ******************************/
 		if(taxClass < 6) {
 			result.taxableIncome -= taxes.arbeitnehmerpauschale;
@@ -156,10 +171,10 @@ function calculateTax(yearlyIncome, opts) {
 	* AFTER INCOME TAX
 	***************************************************/
 
-	const isSplittingTarif = isEmployed && taxClass === 3;
+	const isSplittingTarif = occupations.isEmployed(occupation) && taxClass === 3;
 
 	let incomeTaxResult = null;
-	if (isEmployed && (taxClass === 5 || taxClass === 6)) {
+	if (occupations.isEmployed(occupation) && (taxClass === 5 || taxClass === 6)) {
 		incomeTaxResult = calculateIncomeTaxClass56(result.taxableIncome)
 	}
 	else {
@@ -168,7 +183,7 @@ function calculateTax(yearlyIncome, opts) {
 	incomeTaxResult.flags.forEach(f => result.flags.add(f));
 	result.incomeTax = incomeTaxResult.incomeTax;
 
-	const churchTaxResult = calculateChurchTax(result.incomeTax, germanStateAbbr);
+	const churchTaxResult = calculateChurchTax(result.incomeTax, germanState);
 	result.churchTaxRate = isPayingChurchTax ? churchTaxResult.churchTaxRate : 0;
 	result.churchTax = isPayingChurchTax ? churchTaxResult.churchTax : 0;
 

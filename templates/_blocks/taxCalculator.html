@@ -74,23 +74,30 @@
 					const insurer = healthInsurance.companies[insurerKey] || healthInsurance.companies.tk;
 					return insurer.zusatzbeitrag * 100;
 				},
-				isPayingMinHealthInsurancePrice() { return this.result.flags.has('kv-min-contribution') },
-				isPayingMaxHealthInsurancePrice() { return this.result.flags.has('kv-max-contribution') },
-				isPayingNormalHealthInsurancePrice() { return !this.isPayingMinHealthInsurancePrice && !this.isPayingMaxHealthInsurancePrice },
-				hasSponsoredHealthInsurance() { return hasSponsoredHealthInsurance(this.healthInsuranceType) },
+				isPayingNormalHealthInsurancePrice() {
+					return !this.flag('kv-public-min-contribution') && !this.flag('kv-public-max-contribution')
+				},
+				hasSponsoredHealthInsurance() {
+					return ['ehic', 'familienversicherung-spouse', 'familienversicherung-parents'].includes(this.healthInsuranceType);
+				},
+				disposableIncomeRatio() {
+					// Percentage you keep vs you pay as taxes
+					return Math.round(Math.max(this.result.disposableIncome / this.inputIncome, 0) * 100)
+				},
 
-				disposableIncomeRatio() { return Math.round(Math.max(this.result.disposableIncome / this.inputIncome, 0) * 100)},
-
-				isInEastGermany() { return germanStates.isEastGerman(this.germanState) },
 				isPayingChurchTax() { return this.church !== 'other' },
 				monthOrYear() { return this.useMonthlyIncome ? 'month' : 'year' },
 
+				customGkv() {
+					return this.result.healthInsuranceOptions.public.options.find(o => o.id === 'custom');
+				},
+
 				availableHealthInsuranceTypes() {
 					const healthInsuranceTypes = {
-						ehic: this.result.flags.has('kv-ehic'),
-						'familienversicherung-spouse': this.result.flags.has('kv-familienversicherung-spouse'),
-						'familienversicherung-parents': this.result.flags.has('kv-familienversicherung-parents'),
-						private: this.result.flags.has('kv-private'),
+						ehic: this.flag('kv-ehic'),
+						'familienversicherung-spouse': this.flag('kv-familienversicherung-spouse'),
+						'familienversicherung-parents': this.flag('kv-familienversicherung-parents'),
+						private: this.flag('kv-private'),
 					};
 
 					// Pick different health insurance if this one is not available.
@@ -102,16 +109,18 @@
 				},
 				zusatzbeitragRange() {
 					return {
-						min: Math.floor(this.result.healthInsuranceDetails.options.cheapest.zusatzbeitrag.totalRate * 100 * 10) / 10,
-						max: Math.ceil(this.result.healthInsuranceDetails.options.mostExpensive.zusatzbeitrag.totalRate * 100 * 10) / 10,
+						min: Math.floor(this.result.healthInsuranceOptions.public.options[0].zusatzbeitrag.totalRate * 100 * 10) / 10,
+						max: Math.ceil(this.result.healthInsuranceOptions.public.options.at(-1).zusatzbeitrag.totalRate * 100 * 10) / 10,
 					};
 				},
 
 				beitragsbemessungsgrenze() {
-					return taxes.beitragsbemessungsgrenze.currentYear[this.isInEastGermany ? 'east' : 'west'];
+					return taxes.beitragsbemessungsgrenze.currentYear[germanStates.isEastGerman(this.germanState) ? 'east' : 'west'];
 				},
 
-				monthlyIncome() { return this.useMonthlyIncome ? this.inputIncome : this.inputIncome / 12 },
+				monthlyIncome() {
+					return this.useMonthlyIncome ? this.inputIncome : this.inputIncome / 12
+				},
 				incomeInputRange() {
 					return {
 						min: this.useMonthlyIncome ? 250 : 5000,
@@ -142,18 +151,18 @@
 				result() {
 					const calculationOptions = {
 						germanState: this.germanState,
-						isPayingChurchTax: this.isPayingChurchTax,
+						isPayingChurchTax: !!this.isPayingChurchTax,
 						occupation: this.occupation,
-						age: this.age,
-						isMarried: this.isMarried,
-						childrenCount: this.childrenCount,
-						taxClass: this.taxClass,
+						age: +this.age,
+						isMarried: !!this.isMarried,
+						childrenCount: +this.childrenCount,
+						taxClass: +this.taxClass,
 						healthInsuranceType: this.healthInsuranceType,
 					};
 
 					// Health insurance - public or private
 					if(this.healthInsuranceType === 'private') {
-						calculationOptions.fixedHealthInsuranceCost = this.privateHealthInsuranceCost;
+						calculationOptions.fixedHealthInsuranceCost = +this.privateHealthInsuranceCost;
 					}
 					else if(this.hasSponsoredHealthInsurance) {
 						calculationOptions.fixedHealthInsuranceCost = 0;
@@ -210,6 +219,9 @@
 				},
 			},
 			methods: {
+				flag(flagName){
+					return this.result.healthInsuranceOptions.flags.has(flagName);
+				},
 				spouseTaxClass(taxClass) {
 					if(taxClass === 3) return 5;
 					else if(taxClass === 5) return 3;
@@ -493,55 +505,55 @@
 				</summary>
 				<p v-if="healthInsuranceType === 'private'">
 					Your <glossary term="private Krankenversicherung">private health insurance</glossary> costs <eur :amount="privateHealthInsuranceCost"></eur> per month.
-					<template v-if="result.healthInsuranceDetails.baseContribution.employerContribution > 0">Your employer pays half of it.</template>
+					<template v-if="customGkv.baseContribution.employerContribution > 0">Your employer pays half of it.</template>
 				</p>
 				<template v-if="healthInsuranceType.startsWith('public') || healthInsuranceType === 'unknown'">
 					<p>
 						<glossary term="gesetzliche Krankenversicherung">Public health insurance</glossary> pays for healthcare when you need it.
-						<template v-if="isPayingMinHealthInsurancePrice">
+						<template v-if="flag('kv-public-min-contribution')">
 							Your income is very low, so you pay the <glossary term="Mindestbeitrag">minimum price</glossary>.
 						</template>
-						<template v-if="isPayingMaxHealthInsurancePrice">
+						<template v-if="flag('kv-public-max-contribution')">
 							You earn more than <eur :amount="useMonthlyIncome ? healthInsuranceMaxMonthlyIncome : healthInsuranceMaxMonthlyIncome * 12"></eur> per {{ monthOrYear }}, so you pay the <glossary term="Höchstbeitrag">maximum price</glossary>.
 						</template>
 					</p>
-					<p v-if="result.flags.has('kv-pflegeversicherung-surcharge')">
+					<p v-if="flag('kv-public-pflegeversicherung-surcharge')">
 						You pay a bit more for <glossary term="Pflegeversicherung">long-term care insurance</glossary>, because you are over {{ pflegeversicherung.defaultRateMaxAge }} years old and you don't have children.
 					</p>
 					<p class="price">
 						Base cost
 						<output class="no-mobile"
 							v-if="isPayingNormalHealthInsurancePrice"
-							v-html="formatPercent(result.healthInsuranceDetails.baseContribution.personalRate * 100)"></output>
+							v-html="formatPercent(customGkv.baseContribution.personalRate * 100)"></output>
 						<output>
-							<eur :amount="result.healthInsuranceDetails.baseContribution.personalContribution * 12"></eur>
+							<eur :amount="customGkv.baseContribution.personalContribution * 12"></eur>
 						</output>
 					</p>
 					<p class="price">
 						<glossary term="Pflegeversicherung">Long-term care insurance</glossary>
 						<output class="no-mobile"
 							v-if="isPayingNormalHealthInsurancePrice"
-							v-html="formatPercent(result.healthInsuranceDetails.pflegeversicherung.personalRate * 100)"></output>
+							v-html="formatPercent(customGkv.pflegeversicherung.personalRate * 100)"></output>
 						<output>
-							<eur :amount="result.healthInsuranceDetails.pflegeversicherung.personalContribution * 12"></eur>
+							<eur :amount="customGkv.pflegeversicherung.personalContribution * 12"></eur>
 						</output>
 					</p>
 					<p class="price">
 						<glossary term="Zusatzbeitrag">Insurer surcharge</glossary>
 						<output class="no-mobile"
 							v-if="isPayingNormalHealthInsurancePrice"
-							v-html="formatPercent(result.healthInsuranceDetails.options.custom.zusatzbeitrag.personalRate * 100)"></output>
+							v-html="formatPercent(customGkv.zusatzbeitrag.personalRate * 100)"></output>
 						<output>
-							<eur :amount="result.healthInsuranceDetails.options.custom.zusatzbeitrag.personalContribution * 12"></eur>
+							<eur :amount="customGkv.zusatzbeitrag.personalContribution * 12"></eur>
 						</output>
 					</p>
-					<p class="price" v-if="result.healthInsuranceDetails.baseContribution.employerContribution > 0">
+					<p class="price" v-if="customGkv.baseContribution.employerContribution > 0">
 						Total
 						<output class="no-mobile"
 							v-if="isPayingNormalHealthInsurancePrice"
-							v-html="formatPercent(result.healthInsuranceDetails.options.custom.total.personalRate * 100)"></output>
+							v-html="formatPercent(customGkv.total.personalRate * 100)"></output>
 						<output>
-							<eur :amount="result.healthInsuranceDetails.options.custom.total.personalContribution * 12"></eur>
+							<eur :amount="customGkv.total.personalContribution * 12"></eur>
 						</output>
 					</p>
 				</template>
@@ -601,14 +613,14 @@
 						It costs {{ formatPercent(taxes.arbeitslosenversicherungRate * 2 * 100) }} of your income.
 					</template>
 				</p>
-				<p class="price" v-if="result.healthInsuranceDetails.baseContribution.employerContribution > 0">
+				<p class="price" v-if="customGkv.baseContribution.employerContribution > 0">
 					Your employer pays
 					<output class="no-mobile" v-if="yearlyIncome <= beitragsbemessungsgrenze" v-html="formatPercent(taxes.arbeitslosenversicherungRate * 100)"></output>
 					<output>
 						<eur :amount="result.unemploymentInsurance"></eur>
 					</output>
 				</p>
-				<p class="price" v-if="result.healthInsuranceDetails.baseContribution.employerContribution > 0">
+				<p class="price" v-if="customGkv.baseContribution.employerContribution > 0">
 					You pay
 					<output class="no-mobile" v-if="yearlyIncome <= beitragsbemessungsgrenze" v-html="formatPercent(taxes.arbeitslosenversicherungRate * 100)"></output>
 					<output>
@@ -653,10 +665,10 @@
 				<p>
 					If you pay more than <eur :amount="taxes.solidarity.minIncomeTax"></eur>/year in income tax, you must pay a <glossary term="Solidaritätszuschlag">solidarity surcharge</glossary>. It's a percentage of your <glossary term="Einkommensteuer">income tax</glossary>.
 				</p>
-				<p v-if="result.flags.has('soli-mid-rate')">
+				<p v-if="flag('soli-mid-rate')">
 					Solidarity surcharge is {{ formatPercent(taxes.solidarity.milderungszoneRate * 100) }} of all <glossary term="Einkommensteuer">income tax</glossary> above <eur :amount="taxes.solidarity.minIncomeTax"></eur>.
 				</p>
-				<p v-if="result.flags.has('soli-max-rate')">
+				<p v-if="flag('soli-max-rate')">
 					The solidarity surcharge is {{ formatPercent(taxes.solidarity.maxRate * 100) }} of your <glossary term="Einkommensteuer">income tax</glossary>.
 				</p>
 			</details>
