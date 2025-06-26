@@ -29,30 +29,22 @@ function hasEmployeeTarif(output){
 }
 
 function hasMinijobTariff(output, paysPflegeversicherungSurcharge){
+ 	const o = output.public.options[0];
+
 	it('pays the minimum self-pay rate (minijob)', () => {
 		hasFlag(output, 'public-minijob')();
 		hasFlag(output, 'public-tariff-selfPay')();
 		hasFlag(output, 'public-min-contribution')();
 
-		equal(
-			output.public.options[0].baseContribution.totalContribution,
-			round(healthInsurance.minMonthlyIncome * healthInsurance.selfPayRate));
-		equal(
-			output.public.options[0].zusatzbeitrag.totalContribution,
-			round(healthInsurance.minMonthlyIncome * defaultInsurer.zusatzbeitrag));
+		equal(o.baseContribution.totalContribution, round(healthInsurance.minMonthlyIncome * healthInsurance.selfPayRate));
+		equal(o.zusatzbeitrag.totalContribution, round(healthInsurance.minMonthlyIncome * defaultInsurer.zusatzbeitrag));
 		if(paysPflegeversicherungSurcharge){
-			equal(
-				output.public.options[0].pflegeversicherung.totalContribution,
-				round(pflegeversicherung.surchargeRate * healthInsurance.minMonthlyIncome)
-			);
+			equal(o.pflegeversicherung.totalContribution, round(pflegeversicherung.surchargeRate * healthInsurance.minMonthlyIncome));
 		}
 		else{
-			equal(
-				output.public.options[0].pflegeversicherung.totalContribution,
-				round(pflegeversicherung.defaultRate * healthInsurance.minMonthlyIncome)
-			);
+			equal(o.pflegeversicherung.totalContribution, round(pflegeversicherung.defaultRate * healthInsurance.minMonthlyIncome));
 		}
-		equal(output.public.options[0].total.employerContribution, 0);
+		equal(o.total.employerContribution, 0);
 	});
 }
 function doesNotHaveMinijobTariff(output){
@@ -96,33 +88,23 @@ function cannotUseEHIC(output){
 }
 
 function hasStudentTariff(output, paysPflegeversicherungSurcharge) {
+ 	const o = output.public.options[0];
+
 	it('pays the student tariff', () => {
 		hasFlag(output, 'public-tariff-student')();
 		notHasFlag(output, 'public-student-over-30')();
 		notHasFlag(output, 'public-not-werkstudent')();
 
 		// TODO: Fix calculation
-		equal(
-			output.public.options[0].baseContribution.totalContribution,
-			round(healthInsurance.studentRate * bafogBedarfssatz)
-		);
-		equal(
-			output.public.options[0].zusatzbeitrag.totalContribution,
-			round(defaultInsurer.zusatzbeitrag * bafogBedarfssatz)
-		);
+		equal(o.baseContribution.totalContribution, round(healthInsurance.studentRate * bafogBedarfssatz));
+		equal(o.zusatzbeitrag.totalContribution, round(defaultInsurer.zusatzbeitrag * bafogBedarfssatz));
 		if(paysPflegeversicherungSurcharge){
-			equal(
-				output.public.options[0].pflegeversicherung.totalContribution,
-				round(pflegeversicherung.surchargeRate * bafogBedarfssatz)
-			);
+			equal(o.pflegeversicherung.totalContribution, round(pflegeversicherung.surchargeRate * bafogBedarfssatz));
 		}
 		else{
-			equal(
-				output.public.options[0].pflegeversicherung.totalContribution,
-				round(pflegeversicherung.defaultRate * bafogBedarfssatz)
-			);
+			equal(o.pflegeversicherung.totalContribution, round(pflegeversicherung.defaultRate * bafogBedarfssatz));
 		}
-		equal(output.public.options[0].total.employerContribution, 0);
+		equal(o.total.employerContribution, 0);
 	});
 }
 
@@ -136,129 +118,101 @@ function doesNotPayPflegeversicherungSurcharge(output){
 }
 
 function paysMinimumSelfEmployedAmount(output, paysPflegeversicherungSurcharge) {
+ 	const o = output.public.options[0];
+
 	it('pays the minimum price for self-employed people', () => {
 		hasFlag(output, 'public-tariff-selfEmployed')();
 		hasFlag(output, 'public-min-contribution')();
 
-		equal(
-			output.public.options[0].baseContribution.totalContribution,
-			round(healthInsurance.minMonthlyIncome * healthInsurance.selfPayRate));
-		equal(
-			output.public.options[0].zusatzbeitrag.totalContribution,
-			round(healthInsurance.minMonthlyIncome * defaultInsurer.zusatzbeitrag));
+		equal(o.baseContribution.totalContribution, round(healthInsurance.minMonthlyIncome * healthInsurance.selfPayRate));
+		equal(o.zusatzbeitrag.totalContribution, round(healthInsurance.minMonthlyIncome * defaultInsurer.zusatzbeitrag));
 		if(paysPflegeversicherungSurcharge){
-			equal(
-				output.public.options[0].pflegeversicherung.totalContribution,
-				round(healthInsurance.minMonthlyIncome * pflegeversicherung.surchargeRate));
+			equal(o.pflegeversicherung.totalContribution, round(healthInsurance.minMonthlyIncome * pflegeversicherung.surchargeRate));
 		}
 		else{
-			equal(
-				output.public.options[0].pflegeversicherung.totalContribution,
-				round(healthInsurance.minMonthlyIncome * pflegeversicherung.defaultRate));
+			equal(o.pflegeversicherung.totalContribution, round(healthInsurance.minMonthlyIncome * pflegeversicherung.defaultRate));
 		}	
-		equal(output.public.options[0].total.employerContribution, 0);
+		equal(o.total.employerContribution, 0);
 	});
 }
 
 function paysMinimumSelfPayAmount(output, paysPflegeversicherungSurcharge){
-	// TODO
+ 	const o = output.public.options[0];
+
 	it('pays the minimum self-pay price', () => {
 		hasFlag(output, 'public-tariff-selfPay')();
 		hasFlag(output, 'public-min-contribution')();
 
-		equal(
-			output.public.options[0].baseContribution.totalContribution,
-			round(healthInsurance.minMonthlyIncome * healthInsurance.selfPayRate));
-		equal(
-			output.public.options[0].zusatzbeitrag.totalContribution,
-			round(healthInsurance.minMonthlyIncome * defaultInsurer.zusatzbeitrag));
+		equal(o.baseContribution.totalContribution, round(healthInsurance.minMonthlyIncome * healthInsurance.selfPayRate));
+		equal(o.zusatzbeitrag.totalContribution, round(healthInsurance.minMonthlyIncome * defaultInsurer.zusatzbeitrag));
+
 		if(paysPflegeversicherungSurcharge){
-			equal(
-				output.public.options[0].pflegeversicherung.totalContribution,
-				round(healthInsurance.minMonthlyIncome * pflegeversicherung.surchargeRate));
+			equal(o.pflegeversicherung.totalContribution, round(healthInsurance.minMonthlyIncome * pflegeversicherung.surchargeRate));
 		}
 		else{
-			equal(
-				output.public.options[0].pflegeversicherung.totalContribution,
-				round(healthInsurance.minMonthlyIncome * pflegeversicherung.defaultRate));
+			equal(o.pflegeversicherung.totalContribution, round(healthInsurance.minMonthlyIncome * pflegeversicherung.defaultRate));
 		}
-		equal(output.public.options[0].total.employerContribution, 0);
+		equal(o.total.employerContribution, 0);
 	});
 }
 
 function hasMaximumSelfEmployedTariff(output) {
+ 	const o = output.public.options[0];
+
 	it('pays the maximum price for self-employed people', () => {
 		hasFlag(output, 'public-tariff-selfEmployed')();
 		hasFlag(output, 'public-max-contribution')();
 
-		equal(
-			output.public.options[0].baseContribution.totalContribution,
-			round(healthInsurance.maxMonthlyIncome * healthInsurance.selfPayRate));
-		equal(
-			output.public.options[0].zusatzbeitrag.totalContribution,
-			round(healthInsurance.maxMonthlyIncome * defaultInsurer.zusatzbeitrag));
+		equal(o.baseContribution.totalContribution, round(healthInsurance.maxMonthlyIncome * healthInsurance.selfPayRate));
+		equal(o.zusatzbeitrag.totalContribution, round(healthInsurance.maxMonthlyIncome * defaultInsurer.zusatzbeitrag));
 		if(paysPflegeversicherungSurcharge){
-			equal(
-				output.public.options[0].pflegeversicherung.totalContribution,
-				round(healthInsurance.maxMonthlyIncome * pflegeversicherung.surchargeRate));
+			equal(o.pflegeversicherung.totalContribution, round(healthInsurance.maxMonthlyIncome * pflegeversicherung.surchargeRate));
 		}
 		else{
-			equal(
-				output.public.options[0].pflegeversicherung.totalContribution,
-				round(healthInsurance.maxMonthlyIncome * pflegeversicherung.defaultRate));
+			equal(o.pflegeversicherung.totalContribution, round(healthInsurance.maxMonthlyIncome * pflegeversicherung.defaultRate));
 		}
-		equal(output.public.options[0].total.employerContribution, 0);
+		equal(o.total.employerContribution, 0);
 	});
 }
 
 function isNotWerkstudentDueToIncome(output, paysPflegeversicherungSurcharge) {
+ 	const o = output.public.options[0];
+
 	it('is a Werkstudent because their income is too high', () => {
 		hasFlag(output, 'public-tariff-employee')();
 		hasFlag(output, 'public-not-werkstudent')();
 		notHasFlag(output, 'public-tariff-student')();
 
 		const income = Math.ceil(0.75 * healthInsurance.maxNebenjobIncome + 1);
-		equal(
-			output.public.options[0].baseContribution.totalContribution,
-			round(income * healthInsurance.defaultRate));
-		equal(
-			output.public.options[0].zusatzbeitrag.totalContribution,
-			round(income * defaultInsurer.zusatzbeitrag));
-
+		equal(o.baseContribution.totalContribution, round(income * healthInsurance.defaultRate));
+		equal(o.zusatzbeitrag.totalContribution, round(income * defaultInsurer.zusatzbeitrag));
 		if(paysPflegeversicherungSurcharge){
-			equal(
-				output.public.options[0].pflegeversicherung.totalContribution,
-				round(income * pflegeversicherung.surchargeRate));
+			equal(o.pflegeversicherung.totalContribution, round(income * pflegeversicherung.surchargeRate));
 		}
 		else{
-			equal(
-				output.public.options[0].pflegeversicherung.totalContribution,
-				round(income * pflegeversicherung.defaultRate));
+			equal(o.pflegeversicherung.totalContribution, round(income * pflegeversicherung.defaultRate));
 		}
 
 	});
 }
 
 function paysMaximumEmployeeAmount(output) {
+ 	const o = output.public.options[0];
+
 	it('pays the maximum price for employees', () => {
 		hasFlag(output, 'public-max-contribution')();
 
+		equal(o.baseContribution.totalContribution, round(healthInsurance.maxMonthlyIncome * healthInsurance.defaultRate));
+		equal(o.zusatzbeitrag.totalContribution, round(healthInsurance.maxMonthlyIncome * defaultInsurer.zusatzbeitrag));
+		equal(o.pflegeversicherung.totalContribution, round(healthInsurance.maxMonthlyIncome * pflegeversicherung.defaultRate));
 		equal(
-			output.public.options[0].baseContribution.totalContribution,
-			round(healthInsurance.maxMonthlyIncome * healthInsurance.defaultRate));
-		equal(
-			output.public.options[0].zusatzbeitrag.totalContribution,
-			round(healthInsurance.maxMonthlyIncome * defaultInsurer.zusatzbeitrag));
-		equal(
-			output.public.options[0].pflegeversicherung.totalContribution,
-			round(healthInsurance.maxMonthlyIncome * pflegeversicherung.defaultRate));
-		equal(
-			output.public.options[0].total.employerContribution,
+			o.total.employerContribution,
 			round(
 				round(healthInsurance.maxMonthlyIncome * healthInsurance.defaultRate / 2)
 				+ round(healthInsurance.maxMonthlyIncome * defaultInsurer.zusatzbeitrag / 2)
 				+ round(healthInsurance.maxMonthlyIncome * pflegeversicherung.employerRate)
-			));
+			)
+		);
 	});
 }
 
