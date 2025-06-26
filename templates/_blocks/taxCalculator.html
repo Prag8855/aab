@@ -66,14 +66,6 @@
 				}
 			},
 			computed: {
-				healthInsuranceZusatzbeitrag() {
-					if (this.healthInsuranceType === 'public-custom') {
-						return this.customZusatzbeitrag;
-					}
-					const insurerKey = this.healthInsuranceType.split('-')[1];
-					const insurer = healthInsurance.companies[insurerKey] || healthInsurance.companies.tk;
-					return insurer.zusatzbeitrag * 100;
-				},
 				isPayingNormalHealthInsurancePrice() {
 					return !this.flag('kv-public-min-contribution') && !this.flag('kv-public-max-contribution')
 				},
@@ -128,7 +120,6 @@
 						step: this.useMonthlyIncome ? 250 : 5000,
 					};
 				},
-
 				availableTaxClasses() {
 					const taxClasses = Object.entries({
 						1: !this.isMarried,
@@ -168,7 +159,15 @@
 						calculationOptions.fixedHealthInsuranceCost = 0;
 					}
 					else {
-						calculationOptions.zusatzbeitrag = this.healthInsuranceZusatzbeitrag/100;
+						// The rate paid for the Zusatzbeitrag
+						if (this.healthInsuranceType === 'public-custom') {
+							calculationOptions.zusatzbeitrag = this.customZusatzbeitrag / 100;
+						}
+						else{
+							const insurerKey = this.healthInsuranceType.split('-')[1];
+							const selectedInsurer = healthInsurance.companies[insurerKey] || healthInsurance.companies.tk;
+							calculationOptions.zusatzbeitrag = selectedInsurer.zusatzbeitrag;
+						}
 					}
 
 					const calculation = calculateTax(this.yearlyIncome, calculationOptions);
@@ -250,6 +249,9 @@
 					else{
 						this.inputIncome *= 12;
 					}
+				},
+				monthlyYearlyCost(monthlyAmount) {
+					return this.useMonthlyIncome ? monthlyAmount : monthlyAmount * 12;
 				}
 			}
 			// TODO: Spouse's familienversicherung
@@ -514,7 +516,7 @@
 							Your income is very low, so you pay the <glossary term="Mindestbeitrag">minimum price</glossary>.
 						</template>
 						<template v-if="flag('kv-public-max-contribution')">
-							You earn more than <eur :amount="useMonthlyIncome ? healthInsuranceMaxMonthlyIncome : healthInsuranceMaxMonthlyIncome * 12"></eur> per {{ monthOrYear }}, so you pay the <glossary term="Höchstbeitrag">maximum price</glossary>.
+							You earn more than <eur :amount="monthlyYearlyCost(healthInsuranceMaxMonthlyIncome)"></eur> per {{ monthOrYear }}, so you pay the <glossary term="Höchstbeitrag">maximum price</glossary>.
 						</template>
 					</p>
 					<p v-if="flag('kv-public-pflegeversicherung-surcharge')">
@@ -526,7 +528,7 @@
 							v-if="isPayingNormalHealthInsurancePrice"
 							v-html="formatPercent(customGkv.baseContribution.personalRate * 100)"></output>
 						<output>
-							<eur :amount="customGkv.baseContribution.personalContribution * 12"></eur>
+							<eur :amount="monthlyYearlyCost(customGkv.baseContribution.personalContribution)"></eur>
 						</output>
 					</p>
 					<p class="price">
@@ -535,7 +537,7 @@
 							v-if="isPayingNormalHealthInsurancePrice"
 							v-html="formatPercent(customGkv.pflegeversicherung.personalRate * 100)"></output>
 						<output>
-							<eur :amount="customGkv.pflegeversicherung.personalContribution * 12"></eur>
+							<eur :amount="monthlyYearlyCost(customGkv.pflegeversicherung.personalContribution)"></eur>
 						</output>
 					</p>
 					<p class="price">
@@ -544,7 +546,7 @@
 							v-if="isPayingNormalHealthInsurancePrice"
 							v-html="formatPercent(customGkv.zusatzbeitrag.personalRate * 100)"></output>
 						<output>
-							<eur :amount="customGkv.zusatzbeitrag.personalContribution * 12"></eur>
+							<eur :amount="monthlyYearlyCost(customGkv.zusatzbeitrag.personalContribution)"></eur>
 						</output>
 					</p>
 					<p class="price" v-if="customGkv.baseContribution.employerContribution > 0">
@@ -553,7 +555,7 @@
 							v-if="isPayingNormalHealthInsurancePrice"
 							v-html="formatPercent(customGkv.total.personalRate * 100)"></output>
 						<output>
-							<eur :amount="customGkv.total.personalContribution * 12"></eur>
+							<eur :amount="monthlyYearlyCost(customGkv.total.personalContribution)"></eur>
 						</output>
 					</p>
 				</template>
@@ -573,7 +575,7 @@
 				<p>
 					<glossary term="gesetzliche Rentenversicherung">Public pension insurance</glossary> pays for your pension when you retire.
 					<template v-if="yearlyIncome > beitragsbemessungsgrenze">
-						You earn more than <eur :amount="useMonthlyIncome ? beitragsbemessungsgrenze / 12 : beitragsbemessungsgrenze"></eur> per {{ monthOrYear }}, so you pay the maximum contribution.
+						You earn more than <eur :amount="monthlyYearlyCost(beitragsbemessungsgrenze / 12)"></eur> per {{ monthOrYear }}, so you pay the maximum contribution.
 					</template>
 					<template v-else>
 						It costs <template v-html="formatPercent(pensions.contributionRates.currentYear)"></template> of your income.
@@ -607,7 +609,7 @@
 				<p>
 					<glossary term="/Arbeitslosenversicherung">Unemployment insurance</glossary> pays for <glossary term="ALG I">unemployment benefits</glossary> if you lose your job.
 					<template v-if="yearlyIncome > beitragsbemessungsgrenze">
-						You earn more than <eur :amount="useMonthlyIncome ? beitragsbemessungsgrenze / 12 : beitragsbemessungsgrenze"></eur> per {{ monthOrYear }}, so you pay the maximum contribution.
+						You earn more than <eur :amount="monthlyYearlyCost(beitragsbemessungsgrenze / 12)"></eur> per {{ monthOrYear }}, so you pay the maximum contribution.
 					</template>
 					<template v-else>
 						It costs {{ formatPercent(taxes.arbeitslosenversicherungRate * 2 * 100) }} of your income.
@@ -644,12 +646,12 @@
 				<p class="price">
 					Taxable income
 					<output>
-						<eur :amount="result.taxableIncome"></eur>
+						<eur :amount="monthlyYearlyCost(result.taxableIncome / 12)"></eur>
 					</output>
 				</p>
 				<p class="price">
 					Income tax rate
-					<output v-html="formatPercent(Math.round(result.incomeTax / result.taxableIncome * 1000) / 10)"></output>
+					<output v-html="formatPercent(result.incomeTax * 12 / result.taxableIncome * 100, true, 1)"></output>
 				</p>
 			</details>
 			<details v-if="result.solidarityTax > 0">
