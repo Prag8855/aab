@@ -63,8 +63,8 @@
 				isUnemployed() {
 					return occupations.isUnemployed(this.occupation);
 				},
-				result() {
-					return calculateHealthInsuranceContributions(this.calculatorParams);
+				results() {
+					return getHealthInsuranceOptions(this.calculatorParams);
 				},
 				salaryOrIncome() {
 					return occupations.isEmployed(this.occupation) ? 'Salary' : 'Income';
@@ -73,21 +73,15 @@
 					return this.yearlyIncome / 12;
 				},
 				minPublicPrice() {
-					return this.result.options.cheapest.total;
+					return this.results.public.options[0].total;
 				},
 				maxPublicPrice() {
-					return this.result.options.mostExpensive.total;
-				},
-				showFreeOptions(){
-					return this.flag('familienversicherung-parents')
-						|| this.flag('familienversicherung-spouse')
-						|| this.flag('alg-i-buergergeld')
-						|| this.flag('ehic');
+					return this.results.public.options.at(-1).total;
 				},
 				publicHealthInsuranceClarification(){
-					if(this.flag('private')){
+					if(this.results.private.eligible){
 						if(this.isStudent){
-							if(this.flag('student-30plus')){
+							if(this.flag('public-student-over-30')){
 								return "You are over 30 years old, so you can't get the student tariff. Private health insurance might be cheaper for you."
 							}
 							else{
@@ -105,12 +99,12 @@
 						}
 					}
 
-					if(this.isStudent && this.flag('not-werkstudent') && !this.flag('student-30plus') && this.worksOver20HoursPerWeek){
+					if(this.isStudent && this.flag('public-not-werkstudent') && !this.flag('public-student-over-30') && this.worksOver20HoursPerWeek){
 						return "You work more than 20 hours per week, so you can't get the student tariff."
 					}
 				},
 				privateHealthInsuranceClarification(){
-					if(!this.flag('private')){
+					if(!this.results.private.eligible){
 						return "You can't choose private health insurance because your income is too low."
 					}
 					else if(this.occupation === 'employee'){
@@ -162,6 +156,7 @@
 
 						// Clear the income when the income input is not visible
 						monthlyIncome: this.isUnemployed ? 0 : +this.monthlyIncome,
+						sortByPrice: true,
 					}
 				},
 				contactFormParams() {
@@ -180,7 +175,7 @@
 			},
 			methods: {
 				flag(flagName){
-					return this.result.flags.has(flagName);
+					return this.results.flags.has(flagName);
 				},
 				eur(num) {
 					return formatCurrency(num, false, '€', false);
@@ -192,7 +187,10 @@
 					else{
 						this.stageIndex -= 1;
 					}
-				}
+				},
+				publicOptionPrice(id){
+					return this.results.public.options.find(o => o.id === id).total.personalContribution;
+				},
 			},
 			watch: {
 				inputIncome(newIncome){
@@ -350,11 +348,11 @@
 		</div>
 	</template>
 	<template v-if="stage === 'options'">
-		<template v-if="showFreeOptions">
+		<template v-if="results.free.eligible">
 			<h3>Free health insurance</h3>
 			<p>You can get free <glossary term="gesetzliche Krankenversicherung">public health insurance</glossary> because you have a low income.</p>
 			<ul class="buttons list">
-				<li v-if="flag('familienversicherung-spouse') || flag('familienversicherung-parents')">
+				<li v-if="flag('familienversicherung')">
 					<a title="Learn more about family health insurance" href="/guides/german-health-insurance#free-health-insurance" target="_blank">
 						{% endraw %}{% include "_css/icons/family.svg" %}{% raw %}
 						<div>
@@ -368,7 +366,7 @@
 						</output>
 					</a>
 				</li>
-				<li v-if="flag('alg-i-buergergeld')">
+				<li v-if="flag('social-benefits')">
 					<a title="Learn more about state-sponsored health insurance" href="/guides/german-health-insurance#free-health-insurance" target="_blank">
 						{% endraw %}{% include "_css/icons/bank.svg" %}{% raw %}
 						<div>
@@ -398,14 +396,14 @@
 			<hr>
 		</template>
 		<h3>Public health insurance</h3>
-		<p v-if="flag('azubi-free')">
+		<p v-if="flag('public-tariff-azubiFree')">
 			You make less than <eur :amount="healthInsurance.azubiFreibetrag"></eur> per month, so your employer pays for your health insurance.
 		</p>
 		<p v-else>
-			<template v-if="showFreeOptions">If you can't get free health insurance, it costs</template>
-			<template v-if="!showFreeOptions">
+			<template v-if="results.free.eligible">If you can't get free health insurance, it costs</template>
+			<template v-if="!results.free.eligible">
 				<glossary term="gesetzliche Krankenversicherung">Public health insurance</glossary>
-				<template v-if="!flag('private') && !showFreeOptions">is your only option. It </template>costs</template>
+				<template v-if="!results.private.eligible && !results.free.eligible">is your only option. It </template>costs</template>
 			<strong>
 				<output v-if="maxPublicPrice === 0">
 					<eur :amount="0"></eur>
@@ -430,7 +428,7 @@
 						<p>Easiest option for expats. Second biggest health insurer. They speak English.</p>
 					</div>
 					<output>
-						<eur :amount="result.options.barmer.total.personalContribution"></eur> <small>per month</small>
+						<eur :amount="publicOptionPrice('barmer')"></eur> <small>per month</small>
 					</output>
 				</a>
 			</li>
@@ -442,7 +440,7 @@
 						<p>Biggest German health insurer. They speak English.</p>
 					</div>
 					<output>
-						<eur :amount="result.options.tk.total.personalContribution"></eur> <small>per month</small>
+						<eur :amount="publicOptionPrice('tk')"></eur> <small>per month</small>
 					</output>
 				</a>
 			</li>
@@ -461,7 +459,7 @@
 
 		<h3>Private health insurance</h3>
 		<p v-if="privateHealthInsuranceClarification" v-html="privateHealthInsuranceClarification"></p>
-		<ul class="buttons list" v-if="flag('private')">
+		<ul class="buttons list" v-if="results.private.eligible">
 			<li>
 				<button @click="desiredService = 'private'; goToStage('askABroker')">
 					{% endraw %}{% include "_css/icons/help.svg" %}{% raw %}

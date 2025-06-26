@@ -21,40 +21,54 @@ Vue.component('gkv-cost-explanation', {
 		}
 	},
 	computed: {
-		result() {
-			return calculateHealthInsuranceContributions({
-				age: this.age,
+		options() {
+			return gkvOptions({
 				occupation: this.occupation,
-				isMarried: this.isMarried,
-				childrenCount: this.childrenCount,
-				hoursWorked: this.hoursWorked,
 				monthlyIncome: this.monthlyIncome,
+				hoursWorkedPerWeek: this.worksOver20HoursPerWeek ? 40 : 20,
+				age: this.age,
+				childrenCount: this.childrenCount,
+				sortByPrice: true,
 			});
+		},
+		tariff(){
+			return this.options[0].tariff;
 		},
 		tariffName() {
 			return {
 				employee: 'employee',
 				midijob: 'midijob',
 				selfEmployed: 'self-employed',
-				selfPay: this.flag('minijob') ? 'minijob' : 'self-pay',
 				student: 'student',
 				azubi: 'apprentice',
-			}[this.result.tariff];
+			}[this.tariff];
 		},
 		baseContributionRate() {
-			return this.formatPercent(this.result.baseContribution.totalRate * 100);
+			return this.formatPercent(this.options[0].baseContribution.totalRate * 100);
 		},
-		minPublicPrice() {
-			return this.result.options.cheapest.total;
+		cheapestOption() {
+			return this.options[0];
 		},
-		maxPublicPrice() {
-			return this.result.options.mostExpensive.total;
+		mostExpensiveOption() {
+			return this.options.at(-1);
 		},
+		isMinijob(){
+			return isMinijob(this.occupation, this.monthlyIncome) && this.tariff !== 'student';
+		},
+		isStudentOver30(){
+			return occupations.isStudent(this.occupation) && this.age >= 30;
+		},
+		isMinContribution(){
+			return this.monthlyIncome <= healthInsurance.minMonthlyIncome;
+		},
+		isMaxContribution(){
+			return this.monthlyIncome >= healthInsurance.maxMonthlyIncome;
+		},
+		isNotWerkstudent(){
+			return occupations.isStudent(this.occupation) && !isWorkingStudent(this.occupation, this.monthlyIncome, this.hoursWorkedPerWeek);
+		}
 	},
 	methods: {
-		flag(flagName){
-			return this.result.flags.has(flagName);
-		},
 		eur(num) {
 			return formatCurrency(num, false, '€', false);
 		},
@@ -64,37 +78,37 @@ Vue.component('gkv-cost-explanation', {
 			<summary>Cost explanation</summary>
 			<p>
 				You pay the <strong>{{ tariffName }} tariff</strong>.
-				<template v-if="result.tariff === 'employee'">
+				<template v-if="tariff === 'employee'">
 					Your health insurance costs a percentage of your income. Your employer pays half of it.
 				</template>
-				<template v-if="result.tariff === 'selfEmployed' || (result.tariff === 'azubi' && !flag('azubi-free'))">
+				<template v-if="tariff === 'selfEmployed' || tariff === 'azubi'">
 					Your health insurance costs a percentage of your income.
 				</template>
-				<template v-if="result.tariff === 'student'">
+				<template v-if="tariff === 'azubiFree'">
+					You make less than <eur :amount="healthInsurance.azubiFreibetrag"></eur> per month, so you don't pay for health insurance. Your employer pays for it.
+				</template>
+				<template v-if="tariff === 'student'">
 					Your health insurance has a fixed price.
 				</template>
-				<template v-if="result.tariff === 'selfPay'">
-					<template v-if="flag('minijob')">
+				<template v-if="tariff === 'selfPay'">
+					<template v-if="isMinijob">
 						You pay the <glossary term="Mindestbeitrag">minimum price</glossary>.
 					</template>
 					<template v-else>
 						Your health insurance costs a percentage of your income.
 					</template>
 				</template>
-				<template v-if="result.tariff === 'midijob'">
+				<template v-if="tariff === 'midijob'">
 					It's a cheaper tariff for low-income jobs.
 				</template>
-				<template v-if="result.tariff === 'azubi' && flag('azubi-free')">
-					You make less than <eur :amount="healthInsurance.azubiFreibetrag"></eur> per month, so you don't pay for health insurance. Your employer pays for it.
-				</template>
 
-				<template v-if="flag('student-30plus')">
+				<template v-if="isStudentOver30">
 					You can't get the student tariff because you are over 30 years old.
 				</template>
-				<template v-else-if="flag('not-werkstudent') && worksOver20HoursPerWeek">
+				<template v-else-if="isNotWerkstudent && worksOver20HoursPerWeek">
 					You can't get the student tariff because you work more than 20 hours per week.
 				</template>
-				<template v-else-if="flag('not-werkstudent') && !worksOver20HoursPerWeek">
+				<template v-else-if="isNotWerkstudent && !worksOver20HoursPerWeek">
 					You can't get the student tariff because your income is too high.
 				</template>
 			</p>
@@ -103,23 +117,23 @@ Vue.component('gkv-cost-explanation', {
 				<summary class="price">
 					Base cost
 					<output>
-						<eur :amount="result.baseContribution.totalContribution"></eur><small class="no-mobile">/month</small>
+						<eur :amount="cheapestOption.baseContribution.totalContribution"></eur><small class="no-mobile">/month</small>
 					</output>
 				</summary>
 				<p>
-					<template v-if="flag('minijob')">
+					<template v-if="isMinijob">
 						You have a minijob, so you pay the <glossary term="Mindestbeitrag">minimum price</glossary>. It's {{ baseContributionRate }} of <eur :amount="healthInsurance.minMonthlyIncome"></eur> }}.
 					</template>
-					<template v-else-if="flag('min-contribution')">
+					<template v-else-if="isMinContribution">
 						You make less than <eur :amount="healthInsurance.minMonthlyIncome"></eur> per month, so you pay the <glossary term="Mindestbeitrag">minimum price</glossary>. It's {{ baseContributionRate }} of <eur :amount="healthInsurance.minMonthlyIncome"></eur>.
 					</template>
-					<template v-else-if="flag('max-contribution')">
+					<template v-else-if="isMaxContribution">
 						You make more than <eur :amount="healthInsurance.maxMonthlyIncome"></eur> per month, so you pay the <glossary term="Höchstbeitrag">maximum price</glossary>. It's {{ baseContributionRate }} of <eur :amount="healthInsurance.maxMonthlyIncome"></eur>.
 					</template>
-					<template v-else-if="flag('midijob')">
+					<template v-else-if="tariff === 'midijob'">
 						You make less than <eur :amount="healthInsurance.maxMidijobIncome"></eur> per month, so you pay the midijob tariff. It's cheaper than the normal tariff.
 					</template>
-					<template v-else-if="result.tariff === 'student'">
+					<template v-else-if="tariff === 'student'">
 						You pay the student tariff; the base cost is a fixed price.
 					</template>
 					<template v-else>
@@ -132,13 +146,13 @@ Vue.component('gkv-cost-explanation', {
 				<summary class="price">
 					Insurer surcharge
 					<output
-						v-if="eur(result.options.cheapest.zusatzbeitrag.totalContribution) === eur(result.options.mostExpensive.zusatzbeitrag.totalContribution)">
-						<eur :amount="result.options.mostExpensive.zusatzbeitrag.totalContribution"></eur>
+						v-if="eur(cheapestOption.zusatzbeitrag.totalContribution) === eur(mostExpensiveOption.zusatzbeitrag.totalContribution)">
+						<eur :amount="mostExpensiveOption.zusatzbeitrag.totalContribution"></eur>
 					</output>
 					<output v-else>
-						<eur :amount="result.options.cheapest.zusatzbeitrag.totalContribution"></eur>
+						<eur :amount="cheapestOption.zusatzbeitrag.totalContribution"></eur>
 						&nbsp;to&nbsp;
-						<eur :amount="result.options.mostExpensive.zusatzbeitrag.totalContribution"></eur><small class="no-mobile">/month</small>
+						<eur :amount="mostExpensiveOption.zusatzbeitrag.totalContribution"></eur><small class="no-mobile">/month</small>
 					</output>
 				</summary>
 				<p>
@@ -149,15 +163,15 @@ Vue.component('gkv-cost-explanation', {
 				<summary class="price">
 					Long-term care insurance
 					<output>
-						<eur :amount="result.pflegeversicherung.totalContribution"></eur><small class="no-mobile">/month</small>
+						<eur :amount="cheapestOption.pflegeversicherung.totalContribution"></eur><small class="no-mobile">/month</small>
 					</output>
 				</summary>
 				<p>
-					<template v-if="flag('max-contribution')">
+					<template v-if="isMaxContribution">
 						You pay the <glossary term="Höchstbeitrag">maximum price</glossary>, because you make more than <eur :amount="healthInsurance.maxMonthlyIncome"></eur> per month.
 					</template>
 					<template v-else>
-						You pay {{ formatPercent(result.pflegeversicherung.totalRate * 100) }} of your income.
+						You pay {{ formatPercent(cheapestOption.pflegeversicherung.totalRate * 100) }} of your income.
 						<template v-if="age > pflegeversicherung.defaultRateMaxAge && childrenCount === 0">
 							You pay more because you are over {{ pflegeversicherung.defaultRateMaxAge }} years old and you don't have children.
 						</template>
@@ -174,64 +188,64 @@ Vue.component('gkv-cost-explanation', {
 			<details>
 				<summary class="price">
 					Your employer pays
-					<output v-if="maxPublicPrice.employerContribution === 0">
+					<output v-if="mostExpensiveOption.total.employerContribution === 0">
 						<eur :amount="0"></eur>
 					</output>
 					<template v-else>
-						<output v-if="eur(minPublicPrice.employerContribution) === eur(maxPublicPrice.employerContribution)">
-							<eur :amount="maxPublicPrice.employerContribution"></eur><small class="no-mobile">/month</small>
+						<output v-if="eur(cheapestOption.total.employerContribution) === eur(mostExpensiveOption.total.employerContribution)">
+							<eur :amount="cheapestOption.total.employerContribution"></eur><small class="no-mobile">/month</small>
 						</output>
 						<output v-else>
-							<eur :amount="minPublicPrice.employerContribution"></eur>
+							<eur :amount="cheapestOption.total.employerContribution"></eur>
 							&nbsp;to&nbsp;
-							<eur :amount="maxPublicPrice.employerContribution"></eur><small class="no-mobile">/month</small>
+							<eur :amount="mostExpensiveOption.total.employerContribution"></eur><small class="no-mobile">/month</small>
 						</output>
 					</template>
 				</summary>
-				<p v-if="result.tariff === 'selfEmployed'">
+				<p v-if="tariff === 'selfEmployed'">
 					You are self-employed, so you don't get help from an employer.
 				</p>
-				<p v-if="flag('azubi-free')">
+				<p v-if="tariff === 'azubiFree'">
 					When you make less than <eur :amount="healthInsurance.azubiFreibetrag"></eur> per month, your employer pays for your health insurance.
 				</p>
-				<p v-if="result.tariff === 'selfPay' && !flag('minijob')">
+				<p v-if="tariff === 'selfPay' && !isMinijob">
 					You are unemployed, so you don't get help from an employer.
 				</p>
-				<p v-if="flag('minijob')">
+				<p v-if="isMinijob">
 					When you have a <glossary term="Minijob">minijob</glossary>, your employer does not pay for your health insurance.
 				</p>
-				<p v-if="result.tariff === 'employee'">
+				<p v-if="tariff === 'employee'">
 					Your employer pays half of your health insurance.
 				</p>
-				<p v-if="result.tariff === 'midijob'">
+				<p v-if="tariff === 'midijob'">
 					Your employer pays part of your health insurance.
 				</p>
 			</details>
 			<details>
 				<summary class="price highlighted">
 					You pay
-					<output v-if="maxPublicPrice.personalContribution === 0">
+					<output v-if="mostExpensiveOption.total.personalContribution === 0">
 						<eur :amount="0"></eur>
 					</output>
-					<output v-if="eur(minPublicPrice.personalContribution) === eur(maxPublicPrice.personalContribution) && maxPublicPrice.personalContribution > 0">
-						<eur :amount="maxPublicPrice.personalContribution"></eur>
+					<output v-if="eur(cheapestOption.total.personalContribution) === eur(mostExpensiveOption.total.personalContribution) && mostExpensiveOption.total.personalContribution > 0">
+						<eur :amount="mostExpensiveOption.total.personalContribution"></eur>
 					</output>
-					<output v-if="eur(minPublicPrice.personalContribution) != eur(maxPublicPrice.personalContribution) && maxPublicPrice.personalContribution > 0">
-						<eur :amount="minPublicPrice.personalContribution"></eur>
+					<output v-if="eur(cheapestOption.total.personalContribution) != eur(mostExpensiveOption.total.personalContribution) && mostExpensiveOption.total.personalContribution > 0">
+						<eur :amount="cheapestOption.total.personalContribution"></eur>
 						&nbsp;to&nbsp;
-						<eur :amount="maxPublicPrice.personalContribution"></eur>
+						<eur :amount="mostExpensiveOption.total.personalContribution"></eur>
 					</output>
 					<small class="no-mobile">/month</small>
 				</summary>
 				<p>
 					This is what you pay for public health insurance.
-					<template v-if="flag('max-contribution')">
+					<template v-if="isMaxContribution">
 						You make more than <eur :amount="healthInsurance.maxMonthlyIncome"></eur> per month, so you pay the <glossary term="Höchstbeitrag">maximum price</glossary>.
 					</template>
-					<template v-else-if="flag('min-contribution')">
+					<template v-else-if="isMinContribution">
 						You pay the <glossary term="Mindestbeitrag">minimum price</glossary>, because you make less than <eur :amount="healthInsurance.minMonthlyIncome"></eur> per month.
 					</template>
-					<template v-else-if="flag('azubi-free')">
+					<template v-else-if="tariff === 'azubiFree'">
 						You pay nothing, because you make less than <eur :amount="healthInsurance.azubiFreibetrag"></eur> per month. Your employer pays for your insurance.
 					</template>
 					This is a <glossary term="steuerlich absetzbar">tax-deductible</glossary> expense.

@@ -220,7 +220,7 @@ function gkvZusatzbeitrag(zusatzbeitragRate, tariff, monthlyIncome){
 	};
 }
 
-function gkvOptions({occupation, monthlyIncome, hoursWorkedPerWeek, age, childrenCount}){
+function gkvOptions({occupation, monthlyIncome, hoursWorkedPerWeek, age, childrenCount, customZusatzbeitrag}){
 	const tariff = gkvTariff(age, occupation, monthlyIncome, hoursWorkedPerWeek);
 
 	const baseContribution = gkvBaseContribution(tariff, monthlyIncome);
@@ -374,7 +374,7 @@ function needsGapInsurance(occupation, isEUResident){
 	// - Employees before they start working
 }
 
-function getInsuranceOptions({
+function getHealthInsuranceOptions({
 	age,
 	childrenCount,
 	hasGermanInsurance,
@@ -383,6 +383,8 @@ function getInsuranceOptions({
 	isMarried,
 	monthlyIncome,
 	occupation,
+	sortByPrice,
+	customZusatzbeitrag,
 }){
 	const output = {
 		flags: new Set(),
@@ -457,7 +459,7 @@ function getInsuranceOptions({
 		name: 'Public health insurance',
 		eligible: false,
 		description: '',
-		options: gkvOptions({occupation, monthlyIncome, hoursWorkedPerWeek, age, childrenCount}),
+		options: gkvOptions({occupation, monthlyIncome, hoursWorkedPerWeek, age, childrenCount, customZusatzbeitrag}),
 	}
 	if(canHavePublicHealthInsurance(occupation, age, isEUResident, hasGermanInsurance)){
 		output.public.eligible = true;
@@ -492,6 +494,11 @@ function getInsuranceOptions({
 			output.flags.add('public-pflegeversicherung-surcharge');
 		}
 	}
+
+	if(sortByPrice){
+		output.public.options.sort((a, b) => a.total.personalContribution - b.total.personalContribution);
+	}
+
 	output.asList.push(output.public);
 
 

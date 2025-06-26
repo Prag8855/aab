@@ -259,9 +259,9 @@ function paysMaximumEmployeeAmount(output) {
 	});
 }
 
-describe('getInsuranceOptions', () => {
+describe('getHealthInsuranceOptions', () => {
 	describe('married people with a low income', () => {
-		const output = getInsuranceOptions({
+		const output = getHealthInsuranceOptions({
 			age: 40,
 			childrenCount: 0,
 			isMarried: true,
@@ -272,7 +272,7 @@ describe('getInsuranceOptions', () => {
 	});
 
 	describe('unmarried people with a low income', () => {
-		const output = getInsuranceOptions({
+		const output = getHealthInsuranceOptions({
 			age: 40,
 			childrenCount: 0,
 			isMarried: false,
@@ -284,7 +284,7 @@ describe('getInsuranceOptions', () => {
 
 	describe('students', () => {
 		describe('a 22 year old student with a minijob', () => {
-			const output = getInsuranceOptions({
+			const output = getHealthInsuranceOptions({
 				age: 22,
 				childrenCount: 0,
 				isMarried: true,
@@ -304,7 +304,7 @@ describe('getInsuranceOptions', () => {
 		});
 
 		describe('a 23 year old student with a minijob (and a child)', () => {
-			const output = getInsuranceOptions({
+			const output = getHealthInsuranceOptions({
 				age: 23,
 				childrenCount: 1,
 				isMarried: true,
@@ -324,7 +324,7 @@ describe('getInsuranceOptions', () => {
 		});
 
 		describe('a 25 year old student with a minijob (and no children)', () => {
-			const output = getInsuranceOptions({
+			const output = getHealthInsuranceOptions({
 				age: 25,
 				childrenCount: 0,
 				isMarried: true,
@@ -344,7 +344,7 @@ describe('getInsuranceOptions', () => {
 		});
 
 		describe('a 29 year old student with a minijob (and not children)', () => {
-			const output = getInsuranceOptions({
+			const output = getHealthInsuranceOptions({
 				age: 29,
 				childrenCount: 0,
 				isMarried: true,
@@ -364,7 +364,7 @@ describe('getInsuranceOptions', () => {
 		});
 
 		describe('a 30 year old student with a minijob', () => {
-			const output = getInsuranceOptions({
+			const output = getHealthInsuranceOptions({
 				age: 30,
 				childrenCount: 0,
 				isMarried: true,
@@ -385,7 +385,7 @@ describe('getInsuranceOptions', () => {
 		});
 
 		describe(`a 22 year old student with a €${taxes.maxMinijobIncome + 1} job (and no children)`, () => {
-			const output = getInsuranceOptions({
+			const output = getHealthInsuranceOptions({
 				age: 22,
 				childrenCount: 0,
 				isMarried: true,
@@ -405,7 +405,7 @@ describe('getInsuranceOptions', () => {
 		});
 
 		describe(`a student with a 20 hr/week, ${Math.floor(0.75 * healthInsurance.maxNebenjobIncome - 1)}€/month job`, () => {
-			const output = getInsuranceOptions({
+			const output = getHealthInsuranceOptions({
 				age: 22,
 				childrenCount: 0,
 				isMarried: true,
@@ -425,7 +425,7 @@ describe('getInsuranceOptions', () => {
 		});
 
 		describe(`a student with a 20 hr/week, ${Math.ceil(0.75 * healthInsurance.maxNebenjobIncome + 1)}€/month job`, () => {
-			const output = getInsuranceOptions({
+			const output = getHealthInsuranceOptions({
 				age: 22,
 				childrenCount: 0,
 				isMarried: true,
@@ -445,7 +445,7 @@ describe('getInsuranceOptions', () => {
 		});
 
 		describe('a student with a 21 hr/week, €1500/month job', () => {
-			const output = getInsuranceOptions({
+			const output = getHealthInsuranceOptions({
 				age: 22,
 				childrenCount: 0,
 				isMarried: true,
@@ -464,7 +464,7 @@ describe('getInsuranceOptions', () => {
 		});
 
 		describe(`a student with a 20 hr/week, ${Math.ceil(0.75 * healthInsurance.maxNebenjobIncome + 1)}€/month job`, () => {
-			const output = getInsuranceOptions({
+			const output = getHealthInsuranceOptions({
 				age: 22,
 				childrenCount: 0,
 				isMarried: true,
@@ -486,7 +486,7 @@ describe('getInsuranceOptions', () => {
 
 	describe('unemployed people', () => {
 		describe('an 18 year old unemployed EU resident', () => {
-			const output = getInsuranceOptions({
+			const output = getHealthInsuranceOptions({
 				age: 18,
 				childrenCount: 0,
 				isMarried: true,
@@ -506,7 +506,7 @@ describe('getInsuranceOptions', () => {
 			doesNotPayPflegeversicherungSurcharge(output);
 		});
 		describe('an 18 year old unemployed EU resident', () => {
-			const output = getInsuranceOptions({
+			const output = getHealthInsuranceOptions({
 				age: 18,
 				childrenCount: 0,
 				isMarried: true,
@@ -518,7 +518,7 @@ describe('getInsuranceOptions', () => {
 		});
 
 		describe('a 22 year old unemployed EU resident', () => {
-			const output = getInsuranceOptions({
+			const output = getHealthInsuranceOptions({
 				age: 22,
 				childrenCount: 0,
 				isMarried: true,
@@ -537,7 +537,7 @@ describe('getInsuranceOptions', () => {
 		});
 
 		describe('a 23 year old unemployed person', () => {
-			const output = getInsuranceOptions({
+			const output = getHealthInsuranceOptions({
 				age: 23,
 				childrenCount: 0,
 				isMarried: true,
@@ -559,7 +559,7 @@ describe('getInsuranceOptions', () => {
 
 	describe('employees', () => {
 		describe('an 18 year old employee with a minijob', () => {
-			const output = getInsuranceOptions({
+			const output = getHealthInsuranceOptions({
 				age: 18,
 				childrenCount: 0,
 				isMarried: true,
@@ -576,14 +576,14 @@ describe('getInsuranceOptions', () => {
 		});
 
 		describe('a 22 year old employee with a minijob', () => {
-			const outputWithKids = getInsuranceOptions({
+			const outputWithKids = getHealthInsuranceOptions({
 				age: 22,
 				childrenCount: 1,
 				isMarried: true,
 				occupation: 'employee',
 				monthlyIncome: taxes.maxMinijobIncome,
 			});
-			const outputNoKids = getInsuranceOptions({
+			const outputNoKids = getHealthInsuranceOptions({
 				age: 22,
 				childrenCount: 0,
 				isMarried: true,
@@ -600,7 +600,7 @@ describe('getInsuranceOptions', () => {
 		});
 
 		describe('a 23 year old employee with a minijob', () => {
-			const output = getInsuranceOptions({
+			const output = getHealthInsuranceOptions({
 				age: 23,
 				childrenCount: 0,
 				isMarried: true,
@@ -617,7 +617,7 @@ describe('getInsuranceOptions', () => {
 		});
 
 		describe(`an 18 year old employee with a €${Math.ceil(0.75 * healthInsurance.maxNebenjobIncome + 1)} job`, () => {
-			const output = getInsuranceOptions({
+			const output = getHealthInsuranceOptions({
 				age: 19,
 				childrenCount: 0,
 				isMarried: true,
@@ -634,7 +634,7 @@ describe('getInsuranceOptions', () => {
 		});
 
 		describe(`a 23 year old employee with a €${taxes.maxMinijobIncome + 1} job (and a child)`, () => {
-			const output = getInsuranceOptions({
+			const output = getHealthInsuranceOptions({
 				age: 23,
 				childrenCount: 1,
 				isMarried: true,
@@ -651,7 +651,7 @@ describe('getInsuranceOptions', () => {
 		});
 
 		describe(`a 22 year old employee with a €${taxes.maxMinijobIncome + 1} job`, () => {
-			const output = getInsuranceOptions({
+			const output = getHealthInsuranceOptions({
 				age: 22,
 				childrenCount: 0,
 				isMarried: true,
@@ -667,7 +667,7 @@ describe('getInsuranceOptions', () => {
 		});
 
 		describe(`an employee with a €${taxes.maxMinijobIncome + 1} job`, () => {
-			const output = getInsuranceOptions({
+			const output = getHealthInsuranceOptions({
 				age: 22,
 				childrenCount: 0,
 				isMarried: true,
@@ -683,7 +683,7 @@ describe('getInsuranceOptions', () => {
 		});
 
 		describe(`an employee with a €${healthInsurance.maxMidijobIncome} job`, () => {
-			const output = getInsuranceOptions({
+			const output = getHealthInsuranceOptions({
 				age: 22,
 				childrenCount: 0,
 				isMarried: true,
@@ -699,7 +699,7 @@ describe('getInsuranceOptions', () => {
 		});
 
 		describe(`an employee with a €${healthInsurance.maxMidijobIncome + 1} job`, () => {
-			const output = getInsuranceOptions({
+			const output = getHealthInsuranceOptions({
 				age: 22,
 				childrenCount: 0,
 				isMarried: true,
@@ -713,7 +713,7 @@ describe('getInsuranceOptions', () => {
 		});
 
 		describe(`an employee with a €${Math.ceil(healthInsurance.maxMonthlyIncome + 100)} job`, () => {
-			const output = getInsuranceOptions({
+			const output = getHealthInsuranceOptions({
 				age: 22,
 				childrenCount: 0,
 				isMarried: true,
@@ -727,7 +727,7 @@ describe('getInsuranceOptions', () => {
 		});
 
 		describe(`an employee with a €${healthInsurance.minFreiwilligMonthlyIncome} job`, () => {
-			const output = getInsuranceOptions({
+			const output = getHealthInsuranceOptions({
 				age: 22,
 				childrenCount: 0,
 				isMarried: true,
@@ -741,7 +741,7 @@ describe('getInsuranceOptions', () => {
 		});
 
 		describe(`an employee with a €200,000 job`, () => {
-			const output = getInsuranceOptions({
+			const output = getHealthInsuranceOptions({
 				age: 22,
 				childrenCount: 0,
 				isMarried: false,
@@ -757,7 +757,7 @@ describe('getInsuranceOptions', () => {
 
 	describe('freelancers', () => {
 		describe(`a 22 year old freelancer with a €${healthInsurance.maxFamilienversicherungIncome} income`, () => {
-			const output = getInsuranceOptions({
+			const output = getHealthInsuranceOptions({
 				age: 22,
 				childrenCount: 1,
 				isMarried: true,
@@ -774,7 +774,7 @@ describe('getInsuranceOptions', () => {
 		});
 
 		describe(`a 22 year old freelancer with a €${taxes.maxMinijobIncome} income`, () => {
-			const output = getInsuranceOptions({
+			const output = getHealthInsuranceOptions({
 				age: 22,
 				childrenCount: 1,
 				isMarried: true,
@@ -790,7 +790,7 @@ describe('getInsuranceOptions', () => {
 		});
 
 		describe(`a 22 year old freelancer with a €${taxes.maxMinijobIncome + 1} income`, () => {
-			const output = getInsuranceOptions({
+			const output = getHealthInsuranceOptions({
 				age: 22,
 				childrenCount: 1,
 				isMarried: true,
@@ -808,7 +808,7 @@ describe('getInsuranceOptions', () => {
 		});
 
 		describe(`a 23 year old freelancer with a €${taxes.maxMinijobIncome + 1} income`, () => {
-			const output = getInsuranceOptions({
+			const output = getHealthInsuranceOptions({
 				age: 23,
 				childrenCount: 1,
 				isMarried: true,
@@ -826,7 +826,7 @@ describe('getInsuranceOptions', () => {
 		});
 
 		describe('a 23 year old freelancer with a €1000 income', () => {
-			const output = getInsuranceOptions({
+			const output = getHealthInsuranceOptions({
 				age: 23,
 				childrenCount: 0,
 				isMarried: true,
@@ -843,7 +843,7 @@ describe('getInsuranceOptions', () => {
 		});
 
 		describe(`a 23 year old freelancer with a €${Math.ceil(healthInsurance.maxMonthlyIncome + 100)} job`, () => {
-			const output = getInsuranceOptions({
+			const output = getHealthInsuranceOptions({
 				age: 23,
 				childrenCount: 0,
 				isMarried: true,
@@ -862,7 +862,7 @@ describe('getInsuranceOptions', () => {
 
 	describe('azubis', () => {
 		describe(`an Azubi with a €${healthInsurance.azubiFreibetrag} income`, () => {
-			const output = getInsuranceOptions({
+			const output = getHealthInsuranceOptions({
 				age: 23,
 				childrenCount: 0,
 				isMarried: true,
@@ -879,7 +879,7 @@ describe('getInsuranceOptions', () => {
 		});
 
 		describe(`an Azubi with a €${taxes.maxMinijobIncome + 1} income`, () => {
-			const output = getInsuranceOptions({
+			const output = getHealthInsuranceOptions({
 				age: 32,
 				childrenCount: 0,
 				isMarried: true,
@@ -895,7 +895,7 @@ describe('getInsuranceOptions', () => {
 		});
 
 		describe(`an Azubi with a €${Math.ceil(healthInsurance.maxMonthlyIncome + 100)} income`, () => {
-			const output = getInsuranceOptions({
+			const output = getHealthInsuranceOptions({
 				age: 22,
 				childrenCount: 0,
 				isMarried: true,
@@ -909,7 +909,7 @@ describe('getInsuranceOptions', () => {
 		});
 
 		describe(`an Azubi with a €${ healthInsurance.minFreiwilligMonthlyIncome } income`, () => {
-			const output = getInsuranceOptions({
+			const output = getHealthInsuranceOptions({
 				age: 22,
 				childrenCount: 0,
 				isMarried: true,
@@ -925,7 +925,7 @@ describe('getInsuranceOptions', () => {
 
 	describe('parents', () => {
 		describe(`a person with no children`, () => {
-			const output = getInsuranceOptions({
+			const output = getHealthInsuranceOptions({
 				age: 32,
 				childrenCount: 0,
 				isMarried: true,
@@ -935,7 +935,7 @@ describe('getInsuranceOptions', () => {
 			paysPflegeversicherungSurcharge(output);
 		});
 		describe(`a parent with 1 child`, () => {
-			const output = getInsuranceOptions({
+			const output = getHealthInsuranceOptions({
 				age: 32,
 				childrenCount: 1,
 				isMarried: true,
@@ -949,7 +949,7 @@ describe('getInsuranceOptions', () => {
 			});
 		});
 		describe(`a parent with 2 children`, () => {
-			const output = getInsuranceOptions({
+			const output = getHealthInsuranceOptions({
 				age: 32,
 				childrenCount: 2,
 				isMarried: true,
@@ -962,7 +962,7 @@ describe('getInsuranceOptions', () => {
 			});
 		});
 		describe(`a parent with 3 children`, () => {
-			const output = getInsuranceOptions({
+			const output = getHealthInsuranceOptions({
 				age: 32,
 				childrenCount: 3,
 				isMarried: true,
@@ -975,7 +975,7 @@ describe('getInsuranceOptions', () => {
 			});
 		});
 		describe(`a parent with 4 children`, () => {
-			const output = getInsuranceOptions({
+			const output = getHealthInsuranceOptions({
 				age: 32,
 				childrenCount: 4,
 				isMarried: true,
@@ -988,7 +988,7 @@ describe('getInsuranceOptions', () => {
 			});
 		});
 		describe(`a parent with 5 children`, () => {
-			const output = getInsuranceOptions({
+			const output = getHealthInsuranceOptions({
 				age: 32,
 				childrenCount: 5,
 				isMarried: true,
@@ -1001,7 +1001,7 @@ describe('getInsuranceOptions', () => {
 			});
 		});
 		describe(`a parent with 6 children`, () => {
-			const output = getInsuranceOptions({
+			const output = getHealthInsuranceOptions({
 				age: 32,
 				childrenCount: 6,
 				isMarried: true,
