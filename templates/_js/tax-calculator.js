@@ -3,9 +3,6 @@
 {% include '_js/health-insurance-calculator.js' %}
 {% include '_js/pension-refund-calculator.js' %}
 {% js %}
-function isEmployed(occupation) {
-	return ['employee', 'studentEmployee', 'azubi'].includes(occupation);
-}
 
 function hasSponsoredHealthInsurance(healthInsuranceType) {
 	return ['ehic', 'familienversicherung-spouse', 'familienversicherung-parents'].includes(healthInsuranceType);

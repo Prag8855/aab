@@ -1,8 +1,11 @@
+// TODO: Test custom zusatzbeitrag
+// TODO: Test insurance for student freelancers
+
 import { hasFlag, notHasFlag } from './test-utils.js';
 
 const round = roundCurrency;
 const equal = assert.equal;
-const defaultInsurer = healthInsurance.companies.average;
+const defaultInsurer = Object.values(healthInsurance.companies)[0];
 
 
 function hasAzubiTariff(output){

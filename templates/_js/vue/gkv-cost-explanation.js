@@ -52,8 +52,11 @@ Vue.component('gkv-cost-explanation', {
 		mostExpensiveOption() {
 			return this.options.at(-1);
 		},
-		isMinijob(){
-			return isMinijob(this.occupation, this.monthlyIncome) && this.tariff !== 'student';
+		isMinijobTariff(){
+			return (
+				occupations.isMinijob(this.occupation, this.monthlyIncome)
+				&& this.tariff === 'selfPay'  // You could have a minijob with the student tariff
+			);
 		},
 		isStudentOver30(){
 			return occupations.isStudent(this.occupation) && this.age >= 30;
@@ -65,7 +68,7 @@ Vue.component('gkv-cost-explanation', {
 			return this.monthlyIncome >= healthInsurance.maxMonthlyIncome;
 		},
 		isNotWerkstudent(){
-			return occupations.isStudent(this.occupation) && !isWorkingStudent(this.occupation, this.monthlyIncome, this.hoursWorkedPerWeek);
+			return occupations.isStudent(this.occupation) && !isWerkstudent(this.occupation, this.monthlyIncome, this.hoursWorkedPerWeek);
 		}
 	},
 	methods: {
@@ -91,7 +94,7 @@ Vue.component('gkv-cost-explanation', {
 					Your health insurance has a fixed price.
 				</template>
 				<template v-if="tariff === 'selfPay'">
-					<template v-if="isMinijob">
+					<template v-if="isMinijobTariff">
 						You pay the <glossary term="Mindestbeitrag">minimum price</glossary>.
 					</template>
 					<template v-else>
@@ -121,7 +124,7 @@ Vue.component('gkv-cost-explanation', {
 					</output>
 				</summary>
 				<p>
-					<template v-if="isMinijob">
+					<template v-if="isMinijobTariff">
 						You have a minijob, so you pay the <glossary term="Mindestbeitrag">minimum price</glossary>. It's {{ baseContributionRate }} of <eur :amount="healthInsurance.minMonthlyIncome"></eur> }}.
 					</template>
 					<template v-else-if="isMinContribution">
@@ -208,10 +211,10 @@ Vue.component('gkv-cost-explanation', {
 				<p v-if="tariff === 'azubiFree'">
 					When you make less than <eur :amount="healthInsurance.azubiFreibetrag"></eur> per month, your employer pays for your health insurance.
 				</p>
-				<p v-if="tariff === 'selfPay' && !isMinijob">
+				<p v-if="tariff === 'selfPay' && !isMinijobTariff">
 					You are unemployed, so you don't get help from an employer.
 				</p>
-				<p v-if="isMinijob">
+				<p v-if="isMinijobTariff">
 					When you have a <glossary term="Minijob">minijob</glossary>, your employer does not pay for your health insurance.
 				</p>
 				<p v-if="tariff === 'employee'">

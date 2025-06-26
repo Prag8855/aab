@@ -185,7 +185,15 @@ const occupations = {
 	isSelfEmployed: (occupation) => ['selfEmployed', 'studentSelfEmployed'].includes(occupation),
 	isUnemployed: (occupation) => ['unemployed', 'studentUnemployed'].includes(occupation),
 	isStudent: (occupation) => ['studentUnemployed', 'studentEmployee', 'studentSelfEmployed'].includes(occupation),
-	isMinijob: (occupation, monthlyIncome) => ['employee', 'studentEmployee'].includes(occupation) && monthlyIncome <= taxes.maxMinijobIncome,
 	isLowIncome: (monthlyIncome) => monthlyIncome <= taxes.maxMinijobIncome,
+	isMinijob: function(occupation, monthlyIncome){
+		// Note: A minijob does not guarantee the minijob (self-pay) tariff.
+		// A student with a minijob would still pay the student tariff.
+		return (
+			occupations.isEmployed(occupation)
+			&& occupation !== 'azubi' // No minijob tariff for an Ausbildung
+			&& monthlyIncome <= taxes.maxMinijobIncome
+		);
+	},
 };
 {% endjs %}

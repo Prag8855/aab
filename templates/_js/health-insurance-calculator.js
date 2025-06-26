@@ -80,7 +80,7 @@ function gkvTariff(age, occupation, monthlyIncome, hoursWorkedPerWeek){
 			}
 		}
 
-		if(!isWorkingStudent(occupation, monthlyIncome, hoursWorkedPerWeek)){
+		if(!isWerkstudent(occupation, monthlyIncome, hoursWorkedPerWeek)){
 			tariff = occupations.isSelfEmployed(occupation) ? 'selfEmployed' : 'employee';
 		}
 	}
@@ -99,7 +99,7 @@ function gkvTariff(age, occupation, monthlyIncome, hoursWorkedPerWeek){
 	}
 
 	if(tariff === 'employee'){
-		if(isMinijob(occupation, monthlyIncome)) {
+		if(occupations.isMinijob(occupation, monthlyIncome)) {
 			tariff = 'selfPay';
 		}
 		else if(isMidijob(occupation, monthlyIncome)) {
@@ -226,7 +226,17 @@ function gkvOptions({occupation, monthlyIncome, hoursWorkedPerWeek, age, childre
 	const baseContribution = gkvBaseContribution(tariff, monthlyIncome);
 	const pflegeversicherung = gkvPflegeversicherung(tariff, monthlyIncome, age, childrenCount);
 
-	return Object.entries(healthInsurance.companies).map(([krankenkasseKey, krankenkasse]) => {
+	const krankenkassen = Object.entries(healthInsurance.companies);
+
+	// Add a custom health insurer with a user-defined Zusatzbeitrag
+	if(customZusatzbeitrag){
+		krankenkassen.push(['custom', {
+			name: 'Other health insurer',
+			zusatzbeitrag: customZusatzbeitrag,
+		}]);
+	}
+
+	return krankenkassen.map(([krankenkasseKey, krankenkasse]) => {
 		const zusatzbeitrag = gkvZusatzbeitrag(krankenkasse.zusatzbeitrag, tariff, monthlyIncome);
 
 		return {
@@ -254,21 +264,13 @@ function canHaveEHIC(isEUResident, hasGermanInsurance, monthlyIncome){
 	return isEUResident && !hasGermanInsurance && monthlyIncome === 0;
 }
 
-function isMinijob(occupation, monthlyIncome){
-	return (
-		occupations.isEmployed(occupation)
-		&& occupation !== 'azubi' // No minijob tariff for an Ausbildung
-		&& monthlyIncome <= taxes.maxMinijobIncome
-	);
-}
-
 function isMidijob(occupation, monthlyIncome){
 	// No midijob tariff for Azubis
 	// https://www.haufe.de/sozialwesen/versicherungen-beitraege/auszubildende-besonderheiten-bei-den-neuen/besonderheiten-bei-der-beitragsberechnung_240_94670.html
 	return (
 		occupations.isEmployed(occupation)
 		&& occupation !== 'azubi'
-		&& !isMinijob(occupation, monthlyIncome)
+		&& !occupations.isMinijob(occupation, monthlyIncome)
 		&& monthlyIncome <= healthInsurance.maxMidijobIncome
 	);
 }
@@ -329,10 +331,10 @@ function canHavePublicHealthInsurance(occupation, age, isEUResident, hasGermanIn
 function canHavePrivateHealthInsurance(occupation, monthlyIncome, hoursWorkedPerWeek){
 	return (
 	 	(occupations.isEmployed(occupation) && monthlyIncome >= healthInsurance.minFreiwilligMonthlyIncome)
-		|| (occupations.isStudent(occupation) && isWorkingStudent(occupation, monthlyIncome, hoursWorkedPerWeek))
+		|| (occupations.isStudent(occupation) && isWerkstudent(occupation, monthlyIncome, hoursWorkedPerWeek))
 		|| occupations.isSelfEmployed(occupation)
 		|| occupations.isUnemployed(occupation)
-		|| isMinijob(occupation, monthlyIncome)
+		|| occupations.isMinijob(occupation, monthlyIncome)
 	);
 }
 
@@ -353,7 +355,7 @@ function canHaveKSK(occupation, monthlyIncome, hoursWorkedPerWeek){
 	);
 }
 
-function isWorkingStudent(occupation, monthlyIncome, hoursWorkedPerWeek){
+function isWerkstudent(occupation, monthlyIncome, hoursWorkedPerWeek){
 	// A Werkstudent keeps their student insurance even if their income is above the Familienversicherung threshold
 	return (
 		occupations.isStudent(occupation)
@@ -372,6 +374,8 @@ function needsGapInsurance(occupation, isEUResident){
 	// to the moment they get covered by public health insurance.
 	// - Students before the start of their semester
 	// - Employees before they start working
+
+	// TODO
 }
 
 function getHealthInsuranceOptions({
@@ -459,7 +463,14 @@ function getHealthInsuranceOptions({
 		name: 'Public health insurance',
 		eligible: false,
 		description: '',
-		options: gkvOptions({occupation, monthlyIncome, hoursWorkedPerWeek, age, childrenCount, customZusatzbeitrag}),
+		options: gkvOptions({
+			age,
+			childrenCount,
+			customZusatzbeitrag,
+			hoursWorkedPerWeek,
+			monthlyIncome,
+			occupation,
+		}),
 	}
 	if(canHavePublicHealthInsurance(occupation, age, isEUResident, hasGermanInsurance)){
 		output.public.eligible = true;
@@ -472,7 +483,7 @@ function getHealthInsuranceOptions({
 			if(age >= 30) {
 				output.flags.add('public-student-over-30');
 			}
-			if(!isWorkingStudent(occupation, monthlyIncome, hoursWorkedPerWeek)){
+			if(!isWerkstudent(occupation, monthlyIncome, hoursWorkedPerWeek)){
 				output.flags.add('public-not-werkstudent');
 			}
 		}
@@ -485,7 +496,7 @@ function getHealthInsuranceOptions({
 			output.flags.add('public-min-contribution');
 		}
 
-		if(tariff !== 'student' && isMinijob(occupation, monthlyIncome)) {
+		if(tariff !== 'student' && occupations.isMinijob(occupation, monthlyIncome)) {
 			output.flags.add('public-minijob');
 		}
 
