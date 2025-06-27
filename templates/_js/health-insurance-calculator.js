@@ -338,8 +338,10 @@ function canHavePrivateHealthInsurance(occupation, monthlyIncome, hoursWorkedPer
 	);
 }
 
-function canHaveExpatHealthInsurance(occupation, hasGermanInsurance){
-	return !hasGermanInsurance && occupation !== 'employee';
+function canHaveExpatHealthInsurance(occupation, hasGermanInsurance, isEUResident){
+	return !(
+		isEUResident || hasGermanInsurance || occupation === 'employee'
+	);
 }
 
 function canHaveKSK(occupation, monthlyIncome, hoursWorkedPerWeek){
@@ -444,18 +446,18 @@ function getHealthInsuranceOptions({
 	output.expat = {
 		id: 'expat',
 		name: 'Expat health insurance',
-		eligible: false,
+		eligible: true,
 		description: '',
-		options: [
+		options: [],
+	}
+	if(canHaveExpatHealthInsurance(occupation, hasGermanInsurance, isEUResident)){
+		output.flags.add('expat');
+		output.expat.options = [
 			{id: 'feather-expat'},
 			{id: 'ottonova-expat'},
-		],
+		];
+		output.asList.push(output.expat);
 	}
-	if(canHaveExpatHealthInsurance(occupation, hasGermanInsurance)){
-		output.expat.eligible = true;
-		output.flags.add('expat');
-	}
-	output.asList.push(output.expat);
 
 
 	/***************************************************
