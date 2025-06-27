@@ -29,9 +29,9 @@
 					yearlyIncome: userDefaults.yearlyIncome,
 					worksOver20HoursPerWeek: false,
 
-					isEUCitizen: false,
+					isEUResident: false,
 					isApplyingForResidencePermit: false,
-					isAlreadyInsured: false,
+					hasGermanInsurance: false,
 					isGettingSocialBenefits: false,
 
 					desiredService: null,
@@ -153,6 +153,9 @@
 						isMarried: this.isMarried,
 						childrenCount: this.childrenCount,
 						hoursWorked: this.worksOver20HoursPerWeek ? 30 : 20,
+
+						hasGermanInsurance: this.hasGermanInsurance,
+						isEUResident: this.isEUResident,
 
 						// Clear the income when the income input is not visible
 						monthlyIncome: this.isUnemployed ? 0 : +this.monthlyIncome,
@@ -324,15 +327,11 @@
 			</span>
 			<div class="input-group vertical">
 				<label class="checkbox">
-					<input type="checkbox" :name="uid('isEUCitizen')" v-model="isEUCitizen">
-					<span>I am a <glossary term="European Union">EU</glossary> citizen</span>
+					<input type="checkbox" :name="uid('isEUResident')" v-model="isEUResident">
+					<span>I am a <glossary term="European Union">EU</glossary> resident</span>
 				</label>
-				<label class="checkbox" v-if="!isEUCitizen">
-					<input type="checkbox" :name="uid('isApplyingForResidencePermit')" v-model="isApplyingForResidencePermit">
-					<span>I am applying for a student visa</span>
-				</label>
-				<label class="checkbox" v-if="!isEUCitizen">
-					<input type="checkbox" :name="uid('isAlreadyInsured')" v-model="isAlreadyInsured">
+				<label class="checkbox">
+					<input type="checkbox" :name="uid('hasGermanInsurance')" v-model="hasGermanInsurance">
 					I already have German health insurance
 				</label>
 			</div>
