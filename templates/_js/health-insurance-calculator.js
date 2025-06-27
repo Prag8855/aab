@@ -419,14 +419,15 @@ function getHealthInsuranceOptions({
 	}
 
 	if(canHaveFamilienversicherungFromSpouse(occupation, monthlyIncome, isMarried)){
-		output.free.options.push({ id: 'familienversicherung-spouse' });
 		output.flags.add('familienversicherung');
 		output.flags.add('familienversicherung-spouse');
 	}
 	if(canHaveFamilienversicherungFromParents(occupation, monthlyIncome, age)){
-		output.free.options.push({ id: 'familienversicherung-parents' });
 		output.flags.add('familienversicherung');
 		output.flags.add('familienversicherung-parents');
+	}
+	if(output.flags.has('familienversicherung')){  // Combined option for both Familienversicherung types
+		output.free.options.push({ id: 'familienversicherung' });
 	}
 
 	if(output.free.options.length){
@@ -445,7 +446,10 @@ function getHealthInsuranceOptions({
 		name: 'Expat health insurance',
 		eligible: false,
 		description: '',
-		options: [],
+		options: [
+			{id: 'feather-expat'},
+			{id: 'ottonova-expat'},
+		],
 	}
 	if(canHaveExpatHealthInsurance(occupation, hasGermanInsurance)){
 		output.expat.eligible = true;
@@ -522,7 +526,9 @@ function getHealthInsuranceOptions({
 		name: 'Private health insurance',
 		eligible: false,
 		description: '',
-		options: [],
+		options: [
+			{id: 'broker'},
+		],
 	}
 
 	if(canHavePrivateHealthInsurance(occupation, monthlyIncome, hoursWorkedPerWeek)){
