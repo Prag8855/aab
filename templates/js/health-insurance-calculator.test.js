@@ -8,6 +8,19 @@ const equal = assert.equal;
 const defaultInsurer = Object.values(healthInsurance.companies)[0];
 
 
+function canJoinKSK(output){
+	it('can join the Künstlersozialkasse', () => {
+		hasFlag(output, 'ksk')();
+		equal(output.other.options.find(o => o.id === 'ksk').id, 'ksk');
+	});
+}
+function cannotJoinKSK(output){
+	it('cannot join the Künstlersozialkasse', () => {
+		notHasFlag(output, 'ksk')();
+		equal(output.other.options.find(o => o.id === 'ksk'), undefined);
+	});
+}
+
 function hasAzubiTariff(output){
 	it('pays the Azubi tarif', () => {
 		hasFlag(output, 'public-tariff-azubi')();
@@ -300,6 +313,7 @@ describe('getHealthInsuranceOptions', () => {
 
 			canHavePrivate(output);
 			cannotUseEHIC(output)
+			cannotJoinKSK(output);
 			canUseSpouseInsurance(output)
 			canUseParentsInsurance(output);
 		});
@@ -319,7 +333,8 @@ describe('getHealthInsuranceOptions', () => {
 			doesNotPayPflegeversicherungSurcharge(output);
 
 			canHavePrivate(output);
-			cannotUseEHIC(output)
+			cannotUseEHIC(output);
+			cannotJoinKSK(output);
 			canUseSpouseInsurance(output);
 			canUseParentsInsurance(output);
 		});
@@ -340,6 +355,7 @@ describe('getHealthInsuranceOptions', () => {
 
 			canHavePrivate(output);
 			cannotUseEHIC(output);
+			cannotJoinKSK(output);
 			cannotUseParentsInsurance(output);
 			canUseSpouseInsurance(output);
 		});
@@ -358,8 +374,9 @@ describe('getHealthInsuranceOptions', () => {
 			paysPflegeversicherungSurcharge(output);
 			doesNotHaveMinijobTariff(output);
 
-			canHavePrivate(output)
-			cannotUseEHIC(output)
+			canHavePrivate(output);
+			cannotUseEHIC(output);
+			cannotJoinKSK(output);
 			canUseSpouseInsurance(output)
 			cannotUseParentsInsurance(output);
 		});
@@ -380,8 +397,9 @@ describe('getHealthInsuranceOptions', () => {
 			paysPflegeversicherungSurcharge(output);
 			canHavePrivate(output);
 
-			cannotUseEHIC(output)
-			canUseSpouseInsurance(output)
+			cannotUseEHIC(output);
+			cannotJoinKSK(output);
+			canUseSpouseInsurance(output);
 			cannotUseParentsInsurance(output);
 		});
 
@@ -400,8 +418,9 @@ describe('getHealthInsuranceOptions', () => {
 			doesNotHaveMinijobTariff(output);
 			canHavePrivate(output);
 
-			cannotUseEHIC(output)
-			cannotUseSpouseInsurance(output)
+			cannotUseEHIC(output);
+			cannotJoinKSK(output);
+			cannotUseSpouseInsurance(output);
 			cannotUseParentsInsurance(output);
 		});
 
@@ -420,9 +439,10 @@ describe('getHealthInsuranceOptions', () => {
 			doesNotHaveMinijobTariff(output);
 
 			canHavePrivate(output); // Because Werkstudent?
-			cannotUseEHIC(output)
-			cannotUseSpouseInsurance(output)
-			cannotUseParentsInsurance(output)
+			cannotUseEHIC(output);
+			cannotJoinKSK(output);
+			cannotUseSpouseInsurance(output);
+			cannotUseParentsInsurance(output);
 		});
 
 		describe(`a student with a 20 hr/week, ${Math.ceil(0.75 * healthInsurance.maxNebenjobIncome + 1)}€/month job`, () => {
@@ -440,9 +460,10 @@ describe('getHealthInsuranceOptions', () => {
 			doesNotHaveMinijobTariff(output);
 
 			cannotHavePrivate(output); // Treated as an employee
-			cannotUseEHIC(output)
-			cannotUseSpouseInsurance(output)
-			cannotUseParentsInsurance(output)
+			cannotUseEHIC(output);
+			cannotJoinKSK(output);
+			cannotUseSpouseInsurance(output);
+			cannotUseParentsInsurance(output);
 		});
 
 		describe('a student with a 21 hr/week, €1500/month job', () => {
@@ -459,9 +480,10 @@ describe('getHealthInsuranceOptions', () => {
 			doesNotPayPflegeversicherungSurcharge(output);
 			cannotHavePrivate(output);
 
-			cannotUseEHIC(output)
-			cannotUseSpouseInsurance(output)
-			cannotUseParentsInsurance(output)
+			cannotUseEHIC(output);
+			cannotJoinKSK(output);
+			cannotUseSpouseInsurance(output);
+			cannotUseParentsInsurance(output);
 		});
 
 		describe(`a student with a 20 hr/week, ${Math.ceil(0.75 * healthInsurance.maxNebenjobIncome + 1)}€/month job`, () => {
@@ -477,7 +499,8 @@ describe('getHealthInsuranceOptions', () => {
 			isNotWerkstudentDueToIncome(output);
 
 			cannotHavePrivate(output);
-			cannotUseEHIC(output)
+			cannotUseEHIC(output);
+			cannotJoinKSK(output);
 			cannotUseSpouseInsurance(output);
 			cannotUseParentsInsurance(output);
 		});
@@ -501,6 +524,7 @@ describe('getHealthInsuranceOptions', () => {
 			canHavePrivate(output);
 
 			canUseEHIC(output);
+			cannotJoinKSK(output);
 			canUseSpouseInsurance(output);
 			canUseParentsInsurance(output);
 
@@ -532,6 +556,7 @@ describe('getHealthInsuranceOptions', () => {
 			doesNotHaveMinijobTariff(output);
 			canHavePrivate(output);
 			canUseEHIC(output);
+			cannotJoinKSK(output);
 			canUseSpouseInsurance(output);
 			canUseParentsInsurance(output);
 			doesNotPayPflegeversicherungSurcharge(output);
@@ -552,6 +577,7 @@ describe('getHealthInsuranceOptions', () => {
 
 			canHavePrivate(output);
 			canUseEHIC(output);
+			cannotJoinKSK(output);
 			canUseSpouseInsurance(output)
 			cannotUseParentsInsurance(output)
 			paysPflegeversicherungSurcharge(output);
@@ -571,20 +597,14 @@ describe('getHealthInsuranceOptions', () => {
 			hasMinijobTariff(output);
 
 			canHavePrivate(output);
-			cannotUseEHIC(output)
-			canUseSpouseInsurance(output)
+			cannotUseEHIC(output);
+			cannotJoinKSK(output);
+			canUseSpouseInsurance(output);
 			canUseParentsInsurance(output);
 		});
 
 		describe('a 22 year old employee with a minijob', () => {
-			const outputWithKids = getHealthInsuranceOptions({
-				age: 22,
-				childrenCount: 1,
-				isMarried: true,
-				occupation: 'employee',
-				monthlyIncome: taxes.maxMinijobIncome,
-			});
-			const outputNoKids = getHealthInsuranceOptions({
+			const output = getHealthInsuranceOptions({
 				age: 22,
 				childrenCount: 0,
 				isMarried: true,
@@ -592,12 +612,13 @@ describe('getHealthInsuranceOptions', () => {
 				monthlyIncome: taxes.maxMinijobIncome,
 			});
 
-			paysMinimumSelfPayAmount(outputNoKids);
-			hasMinijobTariff(outputNoKids);
-			canHavePrivate(outputNoKids);
-			cannotUseEHIC(outputNoKids)
-			canUseSpouseInsurance(outputNoKids)
-			canUseParentsInsurance(outputNoKids);
+			paysMinimumSelfPayAmount(output);
+			hasMinijobTariff(output);
+			canHavePrivate(output);
+			cannotUseEHIC(output);
+			cannotJoinKSK(output);
+			canUseSpouseInsurance(output)
+			canUseParentsInsurance(output);
 		});
 
 		describe('a 23 year old employee with a minijob', () => {
@@ -613,6 +634,7 @@ describe('getHealthInsuranceOptions', () => {
 			paysPflegeversicherungSurcharge(output);
 			canHavePrivate(output);
 			cannotUseEHIC(output);
+			cannotJoinKSK(output);
 			canUseSpouseInsurance(output);
 			cannotUseParentsInsurance(output);
 		});
@@ -629,7 +651,8 @@ describe('getHealthInsuranceOptions', () => {
 			hasEmployeeTarif(output, false);
 
 			cannotHavePrivate(output);
-			cannotUseEHIC(output)
+			cannotUseEHIC(output);
+			cannotJoinKSK(output);
 			cannotUseSpouseInsurance(output);
 			cannotUseParentsInsurance(output);
 		});
@@ -647,8 +670,10 @@ describe('getHealthInsuranceOptions', () => {
 			doesNotPayPflegeversicherungSurcharge(output);
 
 			cannotHavePrivate(output);
-			cannotUseSpouseInsurance(output)
-			cannotUseParentsInsurance(output)
+			cannotUseEHIC(output);
+			cannotJoinKSK(output);
+			cannotUseSpouseInsurance(output);
+			cannotUseParentsInsurance(output);
 		});
 
 		describe(`a 22 year old employee with a €${taxes.maxMinijobIncome + 1} job`, () => {
@@ -661,10 +686,13 @@ describe('getHealthInsuranceOptions', () => {
 			});
 
 			hasMidijobTarif(output);
+			doesNotPayPflegeversicherungSurcharge(output);
 
 			cannotHavePrivate(output);
-			cannotUseSpouseInsurance(output)
-			cannotUseParentsInsurance(output)
+			cannotUseEHIC(output);
+			cannotJoinKSK(output);
+			cannotUseSpouseInsurance(output);
+			cannotUseParentsInsurance(output);
 		});
 
 		describe(`an employee with a €${taxes.maxMinijobIncome + 1} job`, () => {
@@ -677,10 +705,13 @@ describe('getHealthInsuranceOptions', () => {
 			});
 
 			hasMidijobTarif(output);
+			doesNotPayPflegeversicherungSurcharge(output);
 
 			cannotHavePrivate(output);
-			cannotUseSpouseInsurance(output)
-			cannotUseParentsInsurance(output)
+			cannotUseEHIC(output);
+			cannotJoinKSK(output);
+			cannotUseSpouseInsurance(output);
+			cannotUseParentsInsurance(output);
 		});
 
 		describe(`an employee with a €${healthInsurance.maxMidijobIncome} job`, () => {
@@ -693,10 +724,13 @@ describe('getHealthInsuranceOptions', () => {
 			});
 
 			hasMidijobTarif(output);
+			doesNotPayPflegeversicherungSurcharge(output);
 
 			cannotHavePrivate(output);
-			cannotUseSpouseInsurance(output)
-			cannotUseParentsInsurance(output)
+			cannotUseEHIC(output);
+			cannotJoinKSK(output);
+			cannotUseSpouseInsurance(output);
+			cannotUseParentsInsurance(output);
 		});
 
 		describe(`an employee with a €${healthInsurance.maxMidijobIncome + 1} job`, () => {
@@ -710,7 +744,12 @@ describe('getHealthInsuranceOptions', () => {
 
 			hasEmployeeTarif(output, false);
 			doesNotPayPflegeversicherungSurcharge(output);
+
 			cannotHavePrivate(output);
+			cannotUseEHIC(output);
+			cannotJoinKSK(output);
+			cannotUseSpouseInsurance(output);
+			cannotUseParentsInsurance(output);
 		});
 
 		describe(`an employee with a €${Math.ceil(healthInsurance.maxMonthlyIncome + 100)} job`, () => {
@@ -724,7 +763,13 @@ describe('getHealthInsuranceOptions', () => {
 
 			hasEmployeeTarif(output, false);
 			paysMaximumEmployeeAmount(output);
+			doesNotPayPflegeversicherungSurcharge(output);
+
 			cannotHavePrivate(output);
+			cannotUseEHIC(output);
+			cannotJoinKSK(output);
+			cannotUseSpouseInsurance(output);
+			cannotUseParentsInsurance(output);
 		});
 
 		describe(`an employee with a €${healthInsurance.minFreiwilligMonthlyIncome} job`, () => {
@@ -738,7 +783,13 @@ describe('getHealthInsuranceOptions', () => {
 
 			hasEmployeeTarif(output, false);
 			paysMaximumEmployeeAmount(output);
+			doesNotPayPflegeversicherungSurcharge(output);
+
 			canHavePrivate(output);
+			cannotUseEHIC(output);
+			cannotJoinKSK(output);
+			cannotUseSpouseInsurance(output);
+			cannotUseParentsInsurance(output);
 		});
 
 		describe(`an employee with a €200,000 job`, () => {
@@ -752,7 +803,13 @@ describe('getHealthInsuranceOptions', () => {
 
 			hasEmployeeTarif(output, false);
 			paysMaximumEmployeeAmount(output);
+			doesNotPayPflegeversicherungSurcharge(output);
+
 			canHavePrivate(output);
+			cannotUseEHIC(output);
+			cannotJoinKSK(output);
+			cannotUseSpouseInsurance(output);
+			cannotUseParentsInsurance(output);
 		});
 	});
 
@@ -768,10 +825,12 @@ describe('getHealthInsuranceOptions', () => {
 			});
 
 			doesNotHaveMinijobTariff(output);
+
 			canHavePrivate(output);
+			cannotUseEHIC(output);
+			canJoinKSK(output);
 			canUseSpouseInsurance(output);
 			canUseParentsInsurance(output);
-			cannotUseEHIC(output);
 		});
 
 		describe(`a 22 year old freelancer with a €${taxes.maxMinijobIncome} income`, () => {
@@ -784,10 +843,12 @@ describe('getHealthInsuranceOptions', () => {
 			});
 
 			doesNotHaveMinijobTariff(output);
+
 			canHavePrivate(output);
+			cannotUseEHIC(output);
+			canJoinKSK(output);
 			cannotUseSpouseInsurance(output);
 			cannotUseParentsInsurance(output);
-			cannotUseEHIC(output);
 		});
 
 		describe(`a 22 year old freelancer with a €${taxes.maxMinijobIncome + 1} income`, () => {
@@ -802,8 +863,10 @@ describe('getHealthInsuranceOptions', () => {
 
 			paysMinimumSelfEmployedAmount(output);
 			doesNotHaveMinijobTariff(output);
+
 			canHavePrivate(output);
-			cannotUseEHIC(output)
+			cannotUseEHIC(output);
+			canJoinKSK(output);
 			cannotUseSpouseInsurance(output);
 			cannotUseParentsInsurance(output);
 		});
@@ -821,9 +884,10 @@ describe('getHealthInsuranceOptions', () => {
 			paysMinimumSelfEmployedAmount(output);
 			doesNotHaveMinijobTariff(output);
 			canHavePrivate(output);
-			cannotUseEHIC(output)
-			cannotUseSpouseInsurance(output)
-			cannotUseParentsInsurance(output)
+			cannotUseEHIC(output);
+			canJoinKSK(output);
+			cannotUseSpouseInsurance(output);
+			cannotUseParentsInsurance(output);
 		});
 
 		describe('a 23 year old freelancer with a €1000 income', () => {
@@ -838,9 +902,10 @@ describe('getHealthInsuranceOptions', () => {
 
 			paysMinimumSelfEmployedAmount(output, true);
 			canHavePrivate(output);
-			cannotUseEHIC(output)
-			cannotUseSpouseInsurance(output)
-			cannotUseParentsInsurance(output)
+			cannotUseEHIC(output);
+			canJoinKSK(output);
+			cannotUseSpouseInsurance(output);
+			cannotUseParentsInsurance(output);
 		});
 
 		describe(`a 23 year old freelancer with a €${Math.ceil(healthInsurance.maxMonthlyIncome + 100)} job`, () => {
@@ -854,10 +919,12 @@ describe('getHealthInsuranceOptions', () => {
 			});
 
 			hasMaximumSelfEmployedTariff(output, true);
+
 			canHavePrivate(output);
-			cannotUseEHIC(output)
-			cannotUseSpouseInsurance(output)
-			cannotUseParentsInsurance(output)
+			cannotUseEHIC(output);
+			canJoinKSK(output);
+			cannotUseSpouseInsurance(output);
+			cannotUseParentsInsurance(output);
 		});
 	});
 
@@ -873,10 +940,12 @@ describe('getHealthInsuranceOptions', () => {
 
 			hasAzubiFreeTariff(output);
 			doesNotHaveMinijobTariff(output);
+
 			cannotHavePrivate(output);
-			cannotUseEHIC(output)
-			cannotUseSpouseInsurance(output)
-			cannotUseParentsInsurance(output)
+			cannotUseEHIC(output);
+			cannotJoinKSK(output);
+			cannotUseSpouseInsurance(output);
+			cannotUseParentsInsurance(output);
 		});
 
 		describe(`an Azubi with a €${taxes.maxMinijobIncome + 1} income`, () => {
@@ -891,6 +960,7 @@ describe('getHealthInsuranceOptions', () => {
 			hasAzubiTariff(output);
 			cannotHavePrivate(output);
 			cannotUseEHIC(output);
+			cannotJoinKSK(output);
 			cannotUseSpouseInsurance(output);
 			cannotUseParentsInsurance(output);
 		});
@@ -907,6 +977,9 @@ describe('getHealthInsuranceOptions', () => {
 			hasAzubiTariff(output);
 			paysMaximumEmployeeAmount(output);
 			cannotHavePrivate(output);
+			cannotJoinKSK(output);
+			cannotUseSpouseInsurance(output);
+			cannotUseParentsInsurance(output);
 		});
 
 		describe(`an Azubi with a €${ healthInsurance.minFreiwilligMonthlyIncome } income`, () => {
@@ -921,6 +994,9 @@ describe('getHealthInsuranceOptions', () => {
 			hasAzubiTariff(output);
 			paysMaximumEmployeeAmount(output);
 			canHavePrivate(output);
+			cannotJoinKSK(output);
+			cannotUseSpouseInsurance(output);
+			cannotUseParentsInsurance(output);
 		});
 	});
 

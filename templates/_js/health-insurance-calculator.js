@@ -436,7 +436,6 @@ function getHealthInsuranceOptions({
 		output.free.eligible = true;
 		output.flags.add('free');
 	}
-	output.asList.push(output.free);
 
 
 	/***************************************************
@@ -456,7 +455,6 @@ function getHealthInsuranceOptions({
 			{id: 'feather-expat'},
 			{id: 'ottonova-expat'},
 		];
-		output.asList.push(output.expat);
 	}
 
 
@@ -516,8 +514,6 @@ function getHealthInsuranceOptions({
 		output.public.options.sort((a, b) => a.total.personalContribution - b.total.personalContribution);
 	}
 
-	output.asList.push(output.public);
-
 
 	/***************************************************
 	* Private health insurance
@@ -537,7 +533,6 @@ function getHealthInsuranceOptions({
 		output.flags.add('private');
 		output.private.eligible = true;
 	}
-	output.asList.push(output.private);
 
 
 	/***************************************************
