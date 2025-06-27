@@ -117,7 +117,7 @@
 					}
 					else if(this.occupation === 'selfEmployed'){
 						if(this.yearlyIncome >= 30000){
-							return "Private health insurance is often the best option for freelancers. It might be your only option, because public health insurers can reject you.";
+							return "Private health insurance is often <strong>the best option for freelancers</strong>. It might be your only option, because public health insurers can reject you.";
 						}
 						else {
 							return "If you earn less than €30,000 per year, private health insurance is usually a bad idea. Insurers often reject freelancers with a low income."
@@ -347,40 +347,62 @@
 		</div>
 	</template>
 	<template v-if="stage === 'options'">
-		<template v-if="results.free.eligible">
-			<h3>Free health insurance</h3>
-			<p>You can get free <glossary term="gesetzliche Krankenversicherung">public health insurance</glossary> because you have a low income.</p>
-			<ul class="buttons list">
-				<li v-if="flag('familienversicherung')">
-					<a title="Learn more about family health insurance" href="/guides/german-health-insurance#free-health-insurance" target="_blank">
+		<template v-for="option in results.asList">
+			<h3 v-text="option.name"></h3>
+
+			<template v-if="option.id === 'public'">
+				<p v-if="flag('public-tariff-azubiFree')">
+					You make less than <eur :amount="healthInsurance.azubiFreibetrag"></eur> per month, so your employer pays for your health insurance.
+				</p>
+				<p v-else>
+					<template v-if="results.free.eligible">If you can't get free health insurance, it costs</template>
+					<template v-if="!results.free.eligible">
+						<glossary term="gesetzliche Krankenversicherung">Public health insurance</glossary>
+						<template v-if="!results.private.eligible && !results.free.eligible">is your only option. It </template>costs</template>
+					<strong>
+						<output v-if="maxPublicPrice === 0">
+							<eur :amount="0"></eur>
+						</output>
+						<output v-if="eur(minPublicPrice.personalContribution) === eur(maxPublicPrice.personalContribution) && maxPublicPrice.personalContribution > 0">
+							<eur :amount="maxPublicPrice.personalContribution"></eur>
+						</output>
+						<output v-if="eur(minPublicPrice.personalContribution) != eur(maxPublicPrice.personalContribution) && maxPublicPrice.personalContribution > 0">
+							<eur :amount="minPublicPrice.personalContribution"></eur>
+							to
+							<eur :amount="maxPublicPrice.personalContribution"></eur>
+						</output>
+						per month</strong>, depending on the insurer you choose. There are dozens of options. Their cost and coverage are almost the same.
+				</p>
+				<p v-if="publicHealthInsuranceClarification" v-html="publicHealthInsuranceClarification"></p>
+			</template>
+
+			<p v-if="option.id === 'private' && privateHealthInsuranceClarification" v-html="privateHealthInsuranceClarification"></p>
+
+			<p v-if="option.id === 'free'">You can get free <glossary term="gesetzliche Krankenversicherung">public health insurance</glossary> because you have a low income.</p>
+
+			<ul class="buttons list" v-if="option.options.length">
+				<li v-for="subOption in option.options">
+					<a v-if="subOption.id === 'familienversicherung'" title="Learn more about family health insurance" href="/guides/german-health-insurance#free-health-insurance" target="_blank">
 						{% endraw %}{% include "_css/icons/family.svg" %}{% raw %}
 						<div>
 							<h3><glossary term="Familienversicherung">Family insurance</glossary></h3>
-							<p>
-								If {{ yourSponsorsHave }} public health insurance, it covers you for free.
-							</p>
+							<p>If {{ yourSponsorsHave }} public health insurance, it covers you for free.</p>
 						</div>
 						<output>
 							<eur :amount="0"></eur> <small>per month</small>
 						</output>
 					</a>
-				</li>
-				<li v-if="flag('social-benefits')">
-					<a title="Learn more about state-sponsored health insurance" href="/guides/german-health-insurance#free-health-insurance" target="_blank">
+					<a v-else-if="subOption.id === 'social-benefits'" title="Learn more about state-sponsored health insurance" href="/guides/german-health-insurance#free-health-insurance" target="_blank">
 						{% endraw %}{% include "_css/icons/bank.svg" %}{% raw %}
 						<div>
 							<h3>Paid by social benefits</h3>
-							<p>
-								If you get <glossary term="ALG I">unemployment benefits</glossary>, <glossary>Bürgergeld</glossary> or <glossary>Elterngeld</glossary>, you get free health insurance.
-							</p>
+							<p>If you get <glossary term="ALG I">unemployment benefits</glossary>, <glossary>Bürgergeld</glossary> or <glossary>Elterngeld</glossary>, you get free health insurance.</p>
 						</div>
 						<output>
 							<eur :amount="0"></eur> <small>per month</small>
 						</output>
 					</a>
-				</li>
-				<li v-if="flag('ehic')">
-					<a title="Learn more about the EHIC" href="/guides/german-health-insurance#insurance-from-other-eu-countries" target="_blank">
+					<a v-else-if="subOption.id === 'ehic'" title="Learn more about the EHIC" href="/guides/german-health-insurance#insurance-from-other-eu-countries" target="_blank">
 						{% endraw %}{% include "_css/icons/passport.svg" %}{% raw %}
 						<div>
 							<h3>European Health Insurance Card</h3>
@@ -390,102 +412,64 @@
 							<eur :amount="0"></eur> <small>per month</small>
 						</output>
 					</a>
-				</li>
-			</ul>
-			<hr>
-		</template>
-		<h3>Public health insurance</h3>
-		<p v-if="flag('public-tariff-azubiFree')">
-			You make less than <eur :amount="healthInsurance.azubiFreibetrag"></eur> per month, so your employer pays for your health insurance.
-		</p>
-		<p v-else>
-			<template v-if="results.free.eligible">If you can't get free health insurance, it costs</template>
-			<template v-if="!results.free.eligible">
-				<glossary term="gesetzliche Krankenversicherung">Public health insurance</glossary>
-				<template v-if="!results.private.eligible && !results.free.eligible">is your only option. It </template>costs</template>
-			<strong>
-				<output v-if="maxPublicPrice === 0">
-					<eur :amount="0"></eur>
-				</output>
-				<output v-if="eur(minPublicPrice.personalContribution) === eur(maxPublicPrice.personalContribution) && maxPublicPrice.personalContribution > 0">
-					<eur :amount="maxPublicPrice.personalContribution"></eur>
-				</output>
-				<output v-if="eur(minPublicPrice.personalContribution) != eur(maxPublicPrice.personalContribution) && maxPublicPrice.personalContribution > 0">
-					<eur :amount="minPublicPrice.personalContribution"></eur>
-					to
-					<eur :amount="maxPublicPrice.personalContribution"></eur>
-				</output>
-				per month</strong>, depending on the insurer you choose. There are dozens of options. Their cost and coverage are almost the same.
-		</p>
-		<p v-if="publicHealthInsuranceClarification" v-html="publicHealthInsuranceClarification"></p>
-		<ul class="buttons list">
-			<li>
-				<a title="Sign up with BARMER" href="/out/barmer" target="_blank">
-					{% endraw %}{% include "_css/icons/health-insurance/logo-barmer.svg" %}{% raw %}
-					<div>
-						<h3>Barmer</h3>
-						<p>Easiest option for expats. Second biggest health insurer. They speak English.</p>
-					</div>
-					<output>
-						<eur :amount="publicOptionPrice('barmer')"></eur> <small>per month</small>
-					</output>
-				</a>
-			</li>
-			<li>
-				<a title="Sign up with Techniker Krankenkasse" href="/out/feather-tk" target="_blank">
-					{% endraw %}{% include "_css/icons/health-insurance/logo-tk.svg" %}{% raw %}
-					<div>
-						<h3>Techniker Krankenkasse</h3>
-						<p>Biggest German health insurer. They speak English.</p>
-					</div>
-					<output>
-						<eur :amount="publicOptionPrice('tk')"></eur> <small>per month</small>
-					</output>
-				</a>
-			</li>
-			<li>
-				<button @click="desiredService = 'public'; goToStage('askABroker')">
-					{% endraw %}{% include "_css/icons/help.svg" %}{% raw %}
-					<div>
-						<h3>Let our expert choose</h3>
-						<p>Ask our independent insurance broker to choose the best option. He speaks English.</p>
-					</div>
-				</button>
-			</li>
-		</ul>
-		<gkv-cost-explanation v-bind="calculatorParams"></gkv-cost-explanation>
-		<hr>
-
-		<h3>Private health insurance</h3>
-		<p v-if="privateHealthInsuranceClarification" v-html="privateHealthInsuranceClarification"></p>
-		<ul class="buttons list" v-if="results.private.eligible">
-			<li>
-				<button @click="desiredService = 'private'; goToStage('askABroker')">
-					{% endraw %}{% include "_css/icons/help.svg" %}{% raw %}
-					<div>
-						<h3>Get a quote</h3>
-						<p>Ask our independent expert to compare all options. It's the best way to get insured, and it's free. He speaks English.</p>
-					</div>
-				</button>
-			</li>
-		</ul>
-		<template v-if="flag('ksk')">
-			<hr>
-			<h3>Other options</h3>
-			<ul class="buttons list">
-				<li>
-					<a title="Learn more about the KSK" href="/guides/ksk-kuenstlersozialkasse" target="_blank">
+					<a v-else-if="subOption.id === 'barmer'" title="Sign up with BARMER" href="/out/barmer" target="_blank">
+						{% endraw %}{% include "_css/icons/health-insurance/logo-barmer.svg" %}{% raw %}
+						<div>
+							<h3>Barmer</h3>
+							<p>Easiest option for expats. Second biggest health insurer. They speak English.</p>
+						</div>
+						<output>
+							<eur :amount="publicOptionPrice('barmer')"></eur> <small>per month</small>
+						</output>
+					</a>
+					<a v-else-if="subOption.id === 'tk'" title="Sign up with Techniker Krankenkasse" href="/out/feather-tk" target="_blank">
+						{% endraw %}{% include "_css/icons/health-insurance/logo-tk.svg" %}{% raw %}
+						<div>
+							<h3>Techniker Krankenkasse</h3>
+							<p>Biggest German health insurer. They speak English.</p>
+						</div>
+						<output>
+							<eur :amount="publicOptionPrice('tk')"></eur> <small>per month</small>
+						</output>
+					</a>
+					<a v-else-if="subOption.id === 'ksk'" title="Learn more about the KSK" href="/guides/ksk-kuenstlersozialkasse" target="_blank">
 						{% endraw %}{% include "_css/icons/liability.svg" %}{% raw %}
 						<div>
 							<h3>Join the Künstlersozialkasse</h3>
 							<p>If you are a freelance artist or publicist, join the KSK. They pay half of your health insurance. It's always worth it.</p>
 						</div>
 					</a>
+					<a v-else-if="subOption.id === 'ottonova-expat'" title="Get expat health insurance from Ottonova" href="/out/ottonova-expats" target="_blank">
+						{% endraw %}{% include "_css/icons/health-insurance/logo-ottonova.svg" %}{% raw %}
+						<div>
+							<h3>Ottonova</h3>
+							<p>...</p>
+						</div>
+					</a>
+					<a v-else-if="subOption.id === 'feather-expat'" title="Get expat health insurance from Feather" href="/out/feather-expats" target="_blank">
+						{% endraw %}{% include "_css/icons/health-insurance/logo-feather.svg" %}{% raw %}
+						<div>
+							<h3>Feather Expat</h3>
+							<p>...</p>
+						</div>
+					</a>
+
+					<button v-else-if="subOption.id === 'broker'" @click="desiredService = 'private'; goToStage('askABroker')">
+						{% endraw %}{% include "_css/icons/help.svg" %}{% raw %}
+						<div>
+							<h3>Get a quote</h3>
+							<p>Ask our independent expert to compare all options. It's the best way to get insured, and it's free. He speaks English.</p>
+						</div>
+					</button>
+					<span v-else>Unknown option: {{ subOption.id }}</span>
 				</li>
 			</ul>
+
+			<gkv-cost-explanation v-if="option.id === 'public'" v-bind="calculatorParams"></gkv-cost-explanation>
+
+			<hr>
 		</template>
 
-		<hr>
 		<div class="buttons bar">
 			<button aria-label="Go back" class="button" @click="previousStage()">
 				<i class="icon left" aria-hidden="true"></i> <span class="no-mobile">Go back</span>
