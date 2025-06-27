@@ -1,12 +1,13 @@
 // TODO: Test custom zusatzbeitrag
 // TODO: Test insurance for student freelancers
+// TODO: Test for 'social-benefits' flag
+// TODO: Test GKV over 55
 
 import { hasFlag, notHasFlag } from './test-utils.js';
 
 const round = roundCurrency;
 const equal = assert.equal;
 const defaultInsurer = Object.values(healthInsurance.companies)[0];
-
 
 function canJoinKSK(output){
 	it('can join the Künstlersozialkasse', () => {
@@ -44,7 +45,7 @@ function hasEmployeeTarif(output){
 function hasMinijobTariff(output, paysPflegeversicherungSurcharge){
  	const o = output.public.options[0];
 
-	it('pays the minimum self-pay rate (minijob)', () => {
+	it('pays the minimum self-pay amount (minijob)', () => {
 		hasFlag(output, 'public-minijob')();
 		hasFlag(output, 'public-tariff-selfPay')();
 		hasFlag(output, 'public-min-contribution')();
@@ -72,11 +73,16 @@ function hasMidijobTarif(output, paysPflegeversicherungSurcharge){
 	});
 }
 
-function canHavePrivate(output){
-	it('can get private health insurance', hasFlag(output, 'private'));
+
+function isRecommended(output, allowedOptions){
+	const options = output.asList.filter(o => o.eligible).map(o => o.id);
+	it(`is recommended ${allowedOptions.join(', ')} (in this order)`, () => {
+		assert.deepEqual(options, allowedOptions);
+	});
 }
-function cannotHavePrivate(output){
-	it('cannot get private health insurance', notHasFlag(output, 'private'));
+
+function cannotHavePublic(output){
+	it('cannot get public health insurance', notHasFlag(output, 'public'));
 }
 
 function canUseSpouseInsurance(output){
@@ -211,7 +217,7 @@ function hasMaximumSelfEmployedTariff(output) {
 function isNotWerkstudentDueToIncome(output, paysPflegeversicherungSurcharge) {
  	const o = output.public.options[0];
 
-	it('is a Werkstudent because their income is too high', () => {
+	it('is not a Werkstudent because their income is too high', () => {
 		hasFlag(output, 'public-tariff-employee')();
 		hasFlag(output, 'public-not-werkstudent')();
 		notHasFlag(output, 'public-tariff-student')();
@@ -226,6 +232,15 @@ function isNotWerkstudentDueToIncome(output, paysPflegeversicherungSurcharge) {
 			equal(o.pflegeversicherung.totalContribution, round(income * pflegeversicherung.defaultRate));
 		}
 
+	});
+}
+
+function isNotWerkstudentDueToHoursWorked(output, paysPflegeversicherungSurcharge) {
+	it('is not a Werkstudent because they work over 20 hours per week', () => {
+		hasFlag(output, 'public-tariff-midijob')();
+		hasFlag(output, 'public-not-werkstudent')();
+		notHasFlag(output, 'public-tariff-student')();
+		notHasFlag(output, 'public-tariff-employee')();
 	});
 }
 
@@ -296,7 +311,7 @@ describe('getHealthInsuranceOptions', () => {
 		cannotUseSpouseInsurance(output);
 	});
 
-	describe('students', () => {
+	describe('non-EU students getting their first insurance', () => {
 		describe('a 22 year old student with a minijob', () => {
 			const output = getHealthInsuranceOptions({
 				age: 22,
@@ -305,16 +320,20 @@ describe('getHealthInsuranceOptions', () => {
 				occupation: 'studentEmployee',
 				monthlyIncome: taxes.maxMinijobIncome,
 				hoursWorkedPerWeek: 20,
+
+				isEUResident: false,
+				hasGermanInsurance: false,
 			});
 
 			hasStudentTariff(output, false);
 			doesNotPayPflegeversicherungSurcharge(output);
 			doesNotHaveMinijobTariff(output);
 
-			canHavePrivate(output);
-			cannotUseEHIC(output)
+			isRecommended(output, ['free', 'public', 'expat', 'private']);
+
+			cannotUseEHIC(output);
 			cannotJoinKSK(output);
-			canUseSpouseInsurance(output)
+			canUseSpouseInsurance(output);
 			canUseParentsInsurance(output);
 		});
 
@@ -326,13 +345,17 @@ describe('getHealthInsuranceOptions', () => {
 				occupation: 'studentEmployee',
 				monthlyIncome: taxes.maxMinijobIncome,
 				hoursWorkedPerWeek: 20,
+
+				isEUResident: false,
+				hasGermanInsurance: false,
 			});
+
+			isRecommended(output, ['free', 'public', 'expat', 'private']);
 
 			hasStudentTariff(output, false);
 			doesNotHaveMinijobTariff(output);
 			doesNotPayPflegeversicherungSurcharge(output);
 
-			canHavePrivate(output);
 			cannotUseEHIC(output);
 			cannotJoinKSK(output);
 			canUseSpouseInsurance(output);
@@ -347,20 +370,24 @@ describe('getHealthInsuranceOptions', () => {
 				occupation: 'studentEmployee',
 				monthlyIncome: taxes.maxMinijobIncome,
 				hoursWorkedPerWeek: 20,
+
+				isEUResident: false,
+				hasGermanInsurance: false,
 			});
+
+			isRecommended(output, ['free', 'public', 'expat', 'private']);
 
 			hasStudentTariff(output, true);
 			paysPflegeversicherungSurcharge(output);
 			doesNotHaveMinijobTariff(output);
 
-			canHavePrivate(output);
 			cannotUseEHIC(output);
 			cannotJoinKSK(output);
 			cannotUseParentsInsurance(output);
 			canUseSpouseInsurance(output);
 		});
 
-		describe('a 29 year old student with a minijob (and not children)', () => {
+		describe('a 29 year old student with a minijob (and no children)', () => {
 			const output = getHealthInsuranceOptions({
 				age: 29,
 				childrenCount: 0,
@@ -368,13 +395,17 @@ describe('getHealthInsuranceOptions', () => {
 				occupation: 'studentEmployee',
 				monthlyIncome: taxes.maxMinijobIncome,
 				hoursWorkedPerWeek: 20,
+
+				isEUResident: false,
+				hasGermanInsurance: false,
 			});
+
+			isRecommended(output, ['free', 'public', 'expat', 'private']);
 
 			hasStudentTariff(output, true);
 			paysPflegeversicherungSurcharge(output);
 			doesNotHaveMinijobTariff(output);
 
-			canHavePrivate(output);
 			cannotUseEHIC(output);
 			cannotJoinKSK(output);
 			canUseSpouseInsurance(output)
@@ -386,16 +417,18 @@ describe('getHealthInsuranceOptions', () => {
 				age: 30,
 				childrenCount: 0,
 				isMarried: true,
-				isEUResident: true,
+				isEUResident: false,
 				occupation: 'studentEmployee',
 				monthlyIncome: taxes.maxMinijobIncome,
 				hoursWorkedPerWeek: 20,
+
+				isEUResident: false,
+				hasGermanInsurance: false,
 			});
 
+			isRecommended(output, ['free', 'expat', 'private']);
+
 			it('cannot get the student tariff', hasFlag(output, 'public-student-over-30'));
-			hasMinijobTariff(output, true);
-			paysPflegeversicherungSurcharge(output);
-			canHavePrivate(output);
 
 			cannotUseEHIC(output);
 			cannotJoinKSK(output);
@@ -411,12 +444,16 @@ describe('getHealthInsuranceOptions', () => {
 				occupation: 'studentEmployee',
 				monthlyIncome: taxes.maxMinijobIncome + 1,
 				hoursWorkedPerWeek: 20,
+
+				isEUResident: false,
+				hasGermanInsurance: false,
 			});
+
+			isRecommended(output, ['public', 'expat', 'private']);  // Because Werkstudent
 
 			hasStudentTariff(output, false);
 			doesNotPayPflegeversicherungSurcharge(output);
 			doesNotHaveMinijobTariff(output);
-			canHavePrivate(output);
 
 			cannotUseEHIC(output);
 			cannotJoinKSK(output);
@@ -432,13 +469,17 @@ describe('getHealthInsuranceOptions', () => {
 				occupation: 'studentEmployee',
 				monthlyIncome: Math.floor(0.75 * healthInsurance.maxNebenjobIncome - 1),
 				hoursWorkedPerWeek: 20,
+
+				isEUResident: false,
+				hasGermanInsurance: false,
 			});
+
+			isRecommended(output, ['public', 'expat', 'private']);  // Because Werkstudent
 
 			hasStudentTariff(output, false);
 			doesNotPayPflegeversicherungSurcharge(output);
 			doesNotHaveMinijobTariff(output);
 
-			canHavePrivate(output); // Because Werkstudent?
 			cannotUseEHIC(output);
 			cannotJoinKSK(output);
 			cannotUseSpouseInsurance(output);
@@ -453,13 +494,17 @@ describe('getHealthInsuranceOptions', () => {
 				occupation: 'studentEmployee',
 				monthlyIncome: Math.ceil(0.75 * healthInsurance.maxNebenjobIncome + 1),
 				hoursWorkedPerWeek: 20,
+
+				isEUResident: false,
+				hasGermanInsurance: false,
 			});
+
+			isRecommended(output, ['public']);  // No longer Werkstudent, treated as an employee
 
 			isNotWerkstudentDueToIncome(output, false);
 			doesNotPayPflegeversicherungSurcharge(output);
 			doesNotHaveMinijobTariff(output);
 
-			cannotHavePrivate(output); // Treated as an employee
 			cannotUseEHIC(output);
 			cannotJoinKSK(output);
 			cannotUseSpouseInsurance(output);
@@ -473,12 +518,17 @@ describe('getHealthInsuranceOptions', () => {
 				isMarried: true,
 				occupation: 'studentEmployee',
 				monthlyIncome: 1500,
-				hoursWorkedPerWeek: 21,  // No longer Werkstudent
+				hoursWorkedPerWeek: 21,  // No longer Werkstudent, treated as an employee
+
+				isEUResident: false,
+				hasGermanInsurance: false,
 			});
 
+			isRecommended(output, ['public']);
+
+			isNotWerkstudentDueToHoursWorked(output, false);
 			hasMidijobTarif(output);
 			doesNotPayPflegeversicherungSurcharge(output);
-			cannotHavePrivate(output);
 
 			cannotUseEHIC(output);
 			cannotJoinKSK(output);
@@ -493,12 +543,266 @@ describe('getHealthInsuranceOptions', () => {
 				isMarried: true,
 				occupation: 'studentEmployee',
 				monthlyIncome: Math.ceil(0.75 * healthInsurance.maxNebenjobIncome + 1),
-				hoursWorked: 20
+				hoursWorked: 20,
+
+				isEUResident: false,
+				hasGermanInsurance: false,
 			});
 
+			isRecommended(output, ['public']);
 			isNotWerkstudentDueToIncome(output);
 
-			cannotHavePrivate(output);
+			cannotUseEHIC(output);
+			cannotJoinKSK(output);
+			cannotUseSpouseInsurance(output);
+			cannotUseParentsInsurance(output);
+		});
+
+		// TODO: Students with freelance income
+	});
+
+	describe('EU students getting their first insurance', () => {
+		describe('a 22 year old student with a minijob', () => {
+			const output = getHealthInsuranceOptions({
+				age: 22,
+				childrenCount: 0,
+				isMarried: true,
+				occupation: 'studentEmployee',
+				monthlyIncome: taxes.maxMinijobIncome,
+				hoursWorkedPerWeek: 20,
+
+				isEUResident: true,
+				hasGermanInsurance: false,
+			});
+
+			hasStudentTariff(output, false);
+			doesNotPayPflegeversicherungSurcharge(output);
+			doesNotHaveMinijobTariff(output);
+
+			isRecommended(output, ['free', 'public', 'private']);
+
+			cannotUseEHIC(output);
+			cannotJoinKSK(output);
+			canUseSpouseInsurance(output);
+			canUseParentsInsurance(output);
+		});
+
+		describe('a 23 year old student with a minijob (and a child)', () => {
+			const output = getHealthInsuranceOptions({
+				age: 23,
+				childrenCount: 1,
+				isMarried: true,
+				occupation: 'studentEmployee',
+				monthlyIncome: taxes.maxMinijobIncome,
+				hoursWorkedPerWeek: 20,
+
+				isEUResident: true,
+				hasGermanInsurance: false,
+			});
+
+			isRecommended(output, ['free', 'public', 'private']);
+
+			hasStudentTariff(output, false);
+			doesNotHaveMinijobTariff(output);
+			doesNotPayPflegeversicherungSurcharge(output);
+
+			cannotUseEHIC(output);
+			cannotJoinKSK(output);
+			canUseSpouseInsurance(output);
+			canUseParentsInsurance(output);
+		});
+
+		describe('a 25 year old student with a minijob (and no children)', () => {
+			const output = getHealthInsuranceOptions({
+				age: 25,
+				childrenCount: 0,
+				isMarried: true,
+				occupation: 'studentEmployee',
+				monthlyIncome: taxes.maxMinijobIncome,
+				hoursWorkedPerWeek: 20,
+
+				isEUResident: true,
+				hasGermanInsurance: false,
+			});
+
+			isRecommended(output, ['free', 'public', 'private']);
+
+			hasStudentTariff(output, true);
+			paysPflegeversicherungSurcharge(output);
+			doesNotHaveMinijobTariff(output);
+
+			cannotUseEHIC(output);
+			cannotJoinKSK(output);
+			cannotUseParentsInsurance(output);
+			canUseSpouseInsurance(output);
+		});
+
+		describe('a 29 year old student with a minijob (and no children)', () => {
+			const output = getHealthInsuranceOptions({
+				age: 29,
+				childrenCount: 0,
+				isMarried: true,
+				occupation: 'studentEmployee',
+				monthlyIncome: taxes.maxMinijobIncome,
+				hoursWorkedPerWeek: 20,
+
+				isEUResident: true,
+				hasGermanInsurance: false,
+			});
+
+			isRecommended(output, ['free', 'public', 'private']);
+
+			hasStudentTariff(output, true);
+			paysPflegeversicherungSurcharge(output);
+			doesNotHaveMinijobTariff(output);
+
+			cannotUseEHIC(output);
+			cannotJoinKSK(output);
+			canUseSpouseInsurance(output)
+			cannotUseParentsInsurance(output);
+		});
+
+		describe('a 30 year old student with a minijob', () => {
+			const output = getHealthInsuranceOptions({
+				age: 30,
+				childrenCount: 0,
+				isMarried: true,
+				isEUResident: false,
+				occupation: 'studentEmployee',
+				monthlyIncome: taxes.maxMinijobIncome,
+				hoursWorkedPerWeek: 20,
+
+				isEUResident: true,
+				hasGermanInsurance: false,
+			});
+
+			isRecommended(output, ['free', 'public', 'private']);
+
+			it('cannot get the student tariff', hasFlag(output, 'public-student-over-30'));
+			hasMinijobTariff(output, true);
+			paysPflegeversicherungSurcharge(output);
+
+			cannotUseEHIC(output);
+			cannotJoinKSK(output);
+			canUseSpouseInsurance(output);
+			cannotUseParentsInsurance(output);
+		});
+
+		describe(`a 22 year old student with a €${taxes.maxMinijobIncome + 1} job (and no children)`, () => {
+			const output = getHealthInsuranceOptions({
+				age: 22,
+				childrenCount: 0,
+				isMarried: true,
+				occupation: 'studentEmployee',
+				monthlyIncome: taxes.maxMinijobIncome + 1,
+				hoursWorkedPerWeek: 20,
+
+				isEUResident: true,
+				hasGermanInsurance: false,
+			});
+
+			isRecommended(output, ['public', 'private']);
+
+			hasStudentTariff(output, false);
+			doesNotPayPflegeversicherungSurcharge(output);
+			doesNotHaveMinijobTariff(output);
+
+			cannotUseEHIC(output);
+			cannotJoinKSK(output);
+			cannotUseSpouseInsurance(output);
+			cannotUseParentsInsurance(output);
+		});
+
+		describe(`a student with a 20 hr/week, ${Math.floor(0.75 * healthInsurance.maxNebenjobIncome - 1)}€/month job`, () => {
+			const output = getHealthInsuranceOptions({
+				age: 22,
+				childrenCount: 0,
+				isMarried: true,
+				occupation: 'studentEmployee',
+				monthlyIncome: Math.floor(0.75 * healthInsurance.maxNebenjobIncome - 1),
+				hoursWorkedPerWeek: 20,
+
+				isEUResident: true,
+				hasGermanInsurance: false,
+			});
+
+			isRecommended(output, ['public', 'private']);
+
+			hasStudentTariff(output, false);
+			doesNotPayPflegeversicherungSurcharge(output);
+			doesNotHaveMinijobTariff(output);
+
+			cannotUseEHIC(output);
+			cannotJoinKSK(output);
+			cannotUseSpouseInsurance(output);
+			cannotUseParentsInsurance(output);
+		});
+
+		describe(`a student with a 20 hr/week, ${Math.ceil(0.75 * healthInsurance.maxNebenjobIncome + 1)}€/month job`, () => {
+			const output = getHealthInsuranceOptions({
+				age: 22,
+				childrenCount: 0,
+				isMarried: true,
+				occupation: 'studentEmployee',
+				monthlyIncome: Math.ceil(0.75 * healthInsurance.maxNebenjobIncome + 1),
+				hoursWorkedPerWeek: 20,
+
+				isEUResident: true,
+				hasGermanInsurance: false,
+			});
+
+			isRecommended(output, ['public']);  // No longer Werkstudent, treated as an employee
+
+			isNotWerkstudentDueToIncome(output, false);
+			doesNotPayPflegeversicherungSurcharge(output);
+			doesNotHaveMinijobTariff(output);
+
+			cannotUseEHIC(output);
+			cannotJoinKSK(output);
+			cannotUseSpouseInsurance(output);
+			cannotUseParentsInsurance(output);
+		});
+
+		describe('a student with a 21 hr/week, €1500/month job', () => {
+			const output = getHealthInsuranceOptions({
+				age: 22,
+				childrenCount: 0,
+				isMarried: true,
+				occupation: 'studentEmployee',
+				monthlyIncome: 1500,
+				hoursWorkedPerWeek: 21,  // No longer Werkstudent, treated as an employee
+
+				isEUResident: true,
+				hasGermanInsurance: false,
+			});
+
+			isRecommended(output, ['public']);
+
+			hasMidijobTarif(output);
+			doesNotPayPflegeversicherungSurcharge(output);
+
+			cannotUseEHIC(output);
+			cannotJoinKSK(output);
+			cannotUseSpouseInsurance(output);
+			cannotUseParentsInsurance(output);
+		});
+
+		describe(`a student with a 20 hr/week, ${Math.ceil(0.75 * healthInsurance.maxNebenjobIncome + 1)}€/month job`, () => {
+			const output = getHealthInsuranceOptions({
+				age: 22,
+				childrenCount: 0,
+				isMarried: true,
+				occupation: 'studentEmployee',
+				monthlyIncome: Math.ceil(0.75 * healthInsurance.maxNebenjobIncome + 1),
+				hoursWorked: 20,
+
+				isEUResident: true,
+				hasGermanInsurance: false,
+			});
+
+			isRecommended(output, ['public']);
+			isNotWerkstudentDueToIncome(output);
+
 			cannotUseEHIC(output);
 			cannotJoinKSK(output);
 			cannotUseSpouseInsurance(output);
@@ -516,12 +820,14 @@ describe('getHealthInsuranceOptions', () => {
 				isMarried: true,
 				occupation: 'unemployed',
 				monthlyIncome: 0,
+
 				isEUResident: true,
+				hasGermanInsurance: false,
 			});
 
+			isRecommended(output, ['free', 'public', 'private']);
 			paysMinimumSelfPayAmount(output);
 			doesNotHaveMinijobTariff(output);
-			canHavePrivate(output);
 
 			canUseEHIC(output);
 			cannotJoinKSK(output);
@@ -530,53 +836,54 @@ describe('getHealthInsuranceOptions', () => {
 
 			doesNotPayPflegeversicherungSurcharge(output);
 		});
-		describe('an 18 year old unemployed EU resident', () => {
+		describe('an 18 year old, unemployed, uninsured non-EU immigrant', () => {
 			const output = getHealthInsuranceOptions({
 				age: 18,
 				childrenCount: 0,
 				isMarried: true,
 				occupation: 'unemployed',
 				monthlyIncome: 0,
+
 				isEUResident: false,
+				hasGermanInsurance: false,
 			});
+
+			isRecommended(output, ['free', 'expat', 'private']);
 			cannotUseEHIC(output);
 		});
-
-		describe('a 22 year old unemployed EU resident', () => {
+		describe('an 18 year old, unemployed, already insured non-EU immigrant', () => {
 			const output = getHealthInsuranceOptions({
-				age: 22,
+				age: 18,
 				childrenCount: 0,
 				isMarried: true,
 				occupation: 'unemployed',
 				monthlyIncome: 0,
-				isEUResident: true
+
+				isEUResident: false,
+				hasGermanInsurance: true,
 			});
 
-			paysMinimumSelfPayAmount(output);
-			doesNotHaveMinijobTariff(output);
-			canHavePrivate(output);
-			canUseEHIC(output);
-			cannotJoinKSK(output);
-			canUseSpouseInsurance(output);
-			canUseParentsInsurance(output);
-			doesNotPayPflegeversicherungSurcharge(output);
+			isRecommended(output, ['free', 'public', 'private']);
+			cannotUseEHIC(output);
 		});
 
-		describe('a 23 year old unemployed person', () => {
+		describe('a 23 year old unemployed, already insured person', () => {
 			const output = getHealthInsuranceOptions({
 				age: 23,
 				childrenCount: 0,
 				isMarried: true,
 				occupation: 'unemployed',
 				monthlyIncome: 0,
+
 				isEUResident: true,
+				hasGermanInsurance: true,
 			});
 
 			paysMinimumSelfPayAmount(output, true);
 			doesNotHaveMinijobTariff(output);
 
-			canHavePrivate(output);
-			canUseEHIC(output);
+			isRecommended(output, ['free', 'public', 'private']);
+			cannotUseEHIC(output);
 			cannotJoinKSK(output);
 			canUseSpouseInsurance(output)
 			cannotUseParentsInsurance(output)
@@ -592,11 +899,14 @@ describe('getHealthInsuranceOptions', () => {
 				isMarried: true,
 				occupation: 'employee',
 				monthlyIncome: taxes.maxMinijobIncome,
+
+				isEUResident: false,
+				hasGermanInsurance: false,
 			});
 
+			isRecommended(output, ['free', 'public', 'expat', 'private']);
 			hasMinijobTariff(output);
 
-			canHavePrivate(output);
 			cannotUseEHIC(output);
 			cannotJoinKSK(output);
 			canUseSpouseInsurance(output);
@@ -612,9 +922,9 @@ describe('getHealthInsuranceOptions', () => {
 				monthlyIncome: taxes.maxMinijobIncome,
 			});
 
-			paysMinimumSelfPayAmount(output);
+			isRecommended(output, ['free', 'public', 'expat', 'private']);
 			hasMinijobTariff(output);
-			canHavePrivate(output);
+
 			cannotUseEHIC(output);
 			cannotJoinKSK(output);
 			canUseSpouseInsurance(output)
@@ -630,9 +940,10 @@ describe('getHealthInsuranceOptions', () => {
 				monthlyIncome: taxes.maxMinijobIncome,
 			});
 
+			isRecommended(output, ['free', 'public', 'expat', 'private']);
 			hasMinijobTariff(output, true);
 			paysPflegeversicherungSurcharge(output);
-			canHavePrivate(output);
+
 			cannotUseEHIC(output);
 			cannotJoinKSK(output);
 			canUseSpouseInsurance(output);
@@ -648,9 +959,9 @@ describe('getHealthInsuranceOptions', () => {
 				monthlyIncome: Math.ceil(0.75 * healthInsurance.maxNebenjobIncome + 1),
 			});
 
+			isRecommended(output, ['public']);
 			hasEmployeeTarif(output, false);
 
-			cannotHavePrivate(output);
 			cannotUseEHIC(output);
 			cannotJoinKSK(output);
 			cannotUseSpouseInsurance(output);
@@ -666,10 +977,10 @@ describe('getHealthInsuranceOptions', () => {
 				monthlyIncome: taxes.maxMinijobIncome + 1,
 			});
 
+			isRecommended(output, ['public']);
 			hasMidijobTarif(output, false);
 			doesNotPayPflegeversicherungSurcharge(output);
 
-			cannotHavePrivate(output);
 			cannotUseEHIC(output);
 			cannotJoinKSK(output);
 			cannotUseSpouseInsurance(output);
@@ -685,10 +996,10 @@ describe('getHealthInsuranceOptions', () => {
 				monthlyIncome: taxes.maxMinijobIncome + 1,
 			});
 
+			isRecommended(output, ['public']);
 			hasMidijobTarif(output);
 			doesNotPayPflegeversicherungSurcharge(output);
 
-			cannotHavePrivate(output);
 			cannotUseEHIC(output);
 			cannotJoinKSK(output);
 			cannotUseSpouseInsurance(output);
@@ -704,10 +1015,10 @@ describe('getHealthInsuranceOptions', () => {
 				monthlyIncome: taxes.maxMinijobIncome + 1,
 			});
 
+			isRecommended(output, ['public']);
 			hasMidijobTarif(output);
 			doesNotPayPflegeversicherungSurcharge(output);
 
-			cannotHavePrivate(output);
 			cannotUseEHIC(output);
 			cannotJoinKSK(output);
 			cannotUseSpouseInsurance(output);
@@ -723,10 +1034,10 @@ describe('getHealthInsuranceOptions', () => {
 				monthlyIncome: healthInsurance.maxMidijobIncome,
 			});
 
+			isRecommended(output, ['public']);
 			hasMidijobTarif(output);
 			doesNotPayPflegeversicherungSurcharge(output);
 
-			cannotHavePrivate(output);
 			cannotUseEHIC(output);
 			cannotJoinKSK(output);
 			cannotUseSpouseInsurance(output);
@@ -742,10 +1053,10 @@ describe('getHealthInsuranceOptions', () => {
 				monthlyIncome: healthInsurance.maxMidijobIncome + 1,
 			});
 
+			isRecommended(output, ['public']);
 			hasEmployeeTarif(output, false);
 			doesNotPayPflegeversicherungSurcharge(output);
 
-			cannotHavePrivate(output);
 			cannotUseEHIC(output);
 			cannotJoinKSK(output);
 			cannotUseSpouseInsurance(output);
@@ -761,11 +1072,11 @@ describe('getHealthInsuranceOptions', () => {
 				monthlyIncome: Math.ceil(healthInsurance.maxMonthlyIncome + 100),
 			});
 
+			isRecommended(output, ['public']);
 			hasEmployeeTarif(output, false);
 			paysMaximumEmployeeAmount(output);
 			doesNotPayPflegeversicherungSurcharge(output);
 
-			cannotHavePrivate(output);
 			cannotUseEHIC(output);
 			cannotJoinKSK(output);
 			cannotUseSpouseInsurance(output);
@@ -781,11 +1092,11 @@ describe('getHealthInsuranceOptions', () => {
 				monthlyIncome: healthInsurance.minFreiwilligMonthlyIncome,
 			});
 
+			isRecommended(output, ['private', 'public']);
 			hasEmployeeTarif(output, false);
 			paysMaximumEmployeeAmount(output);
 			doesNotPayPflegeversicherungSurcharge(output);
 
-			canHavePrivate(output);
 			cannotUseEHIC(output);
 			cannotJoinKSK(output);
 			cannotUseSpouseInsurance(output);
@@ -801,11 +1112,11 @@ describe('getHealthInsuranceOptions', () => {
 				monthlyIncome: 200000/12,
 			});
 
+			isRecommended(output, ['private', 'public']);
 			hasEmployeeTarif(output, false);
 			paysMaximumEmployeeAmount(output);
 			doesNotPayPflegeversicherungSurcharge(output);
 
-			canHavePrivate(output);
 			cannotUseEHIC(output);
 			cannotJoinKSK(output);
 			cannotUseSpouseInsurance(output);
@@ -815,79 +1126,86 @@ describe('getHealthInsuranceOptions', () => {
 
 	describe('freelancers', () => {
 		describe(`a 22 year old freelancer with a €${healthInsurance.maxFamilienversicherungIncome} income`, () => {
-			const output = getHealthInsuranceOptions({
+			const person = {
 				age: 22,
 				childrenCount: 1,
 				isMarried: true,
 				occupation: 'selfEmployed',
 				monthlyIncome: healthInsurance.maxFamilienversicherungIncome,
-				hasGermanInsurance: true,
+			};
+
+			describe('who just moved from another EU country', () => {
+				const output = getHealthInsuranceOptions({
+					...person,
+					isEUResident: true,
+					hasGermanInsurance: false,
+				});
+				isRecommended(output, ['free', 'public', 'private', 'other']);
+
+				doesNotHaveMinijobTariff(output);
+				cannotUseEHIC(output);
+				canJoinKSK(output);
+				canUseSpouseInsurance(output);
+				canUseParentsInsurance(output);
 			});
-
-			doesNotHaveMinijobTariff(output);
-
-			canHavePrivate(output);
-			cannotUseEHIC(output);
-			canJoinKSK(output);
-			canUseSpouseInsurance(output);
-			canUseParentsInsurance(output);
+			describe('who just moved from a non-EU country', () => {
+				const output = getHealthInsuranceOptions({
+					...person,
+					isEUResident: false,
+					hasGermanInsurance: false,
+				});
+				isRecommended(output, ['free', 'expat', 'private', 'other']);
+			});
+			describe('who is already insured in Germany', () => {
+				const output = getHealthInsuranceOptions({
+					...person,
+					isEUResident: true,
+					hasGermanInsurance: true,
+				});
+				isRecommended(output, ['free', 'public', 'private', 'other']);
+			});
 		});
 
 		describe(`a 22 year old freelancer with a €${taxes.maxMinijobIncome} income`, () => {
-			const output = getHealthInsuranceOptions({
+			const person = {
 				age: 22,
 				childrenCount: 1,
 				isMarried: true,
 				occupation: 'selfEmployed',
 				monthlyIncome: taxes.maxMinijobIncome,
+			};
+
+			describe('who just moved from another EU country', () => {
+				const output = getHealthInsuranceOptions({
+					...person,
+					isEUResident: true,
+					hasGermanInsurance: false,
+				});
+
+				isRecommended(output, ['public', 'private', 'other']);
+
+				doesNotHaveMinijobTariff(output);
+				cannotUseEHIC(output);
+				canJoinKSK(output);
+				cannotUseSpouseInsurance(output);
+				cannotUseParentsInsurance(output);
 			});
-
-			doesNotHaveMinijobTariff(output);
-
-			canHavePrivate(output);
-			cannotUseEHIC(output);
-			canJoinKSK(output);
-			cannotUseSpouseInsurance(output);
-			cannotUseParentsInsurance(output);
-		});
-
-		describe(`a 22 year old freelancer with a €${taxes.maxMinijobIncome + 1} income`, () => {
-			const output = getHealthInsuranceOptions({
-				age: 22,
-				childrenCount: 1,
-				isMarried: true,
-				occupation: 'selfEmployed',
-				monthlyIncome: taxes.maxMinijobIncome + 1,
-				hasGermanInsurance: true,
+			describe('who just moved from a non-EU country', () => {
+				const output = getHealthInsuranceOptions({
+					...person,
+					isEUResident: false,
+					hasGermanInsurance: false,
+				});
+				isRecommended(output, ['expat', 'private', 'other']);
 			});
-
-			paysMinimumSelfEmployedAmount(output);
-			doesNotHaveMinijobTariff(output);
-
-			canHavePrivate(output);
-			cannotUseEHIC(output);
-			canJoinKSK(output);
-			cannotUseSpouseInsurance(output);
-			cannotUseParentsInsurance(output);
-		});
-
-		describe(`a 23 year old freelancer with a €${taxes.maxMinijobIncome + 1} income`, () => {
-			const output = getHealthInsuranceOptions({
-				age: 23,
-				childrenCount: 1,
-				isMarried: true,
-				occupation: 'selfEmployed',
-				monthlyIncome: taxes.maxMinijobIncome + 1,
-				hasGermanInsurance: true,
+			describe('who is already insured in Germany', () => {
+				const output = getHealthInsuranceOptions({
+					...person,
+					isEUResident: true,
+					hasGermanInsurance: true,
+				});
+				isRecommended(output, ['public', 'private', 'other']);
 			});
-
-			paysMinimumSelfEmployedAmount(output);
-			doesNotHaveMinijobTariff(output);
-			canHavePrivate(output);
-			cannotUseEHIC(output);
-			canJoinKSK(output);
-			cannotUseSpouseInsurance(output);
-			cannotUseParentsInsurance(output);
 		});
 
 		describe('a 23 year old freelancer with a €1000 income', () => {
@@ -901,7 +1219,7 @@ describe('getHealthInsuranceOptions', () => {
 			});
 
 			paysMinimumSelfEmployedAmount(output, true);
-			canHavePrivate(output);
+			isRecommended(output, ['public', 'private', 'other']);
 			cannotUseEHIC(output);
 			canJoinKSK(output);
 			cannotUseSpouseInsurance(output);
@@ -920,7 +1238,7 @@ describe('getHealthInsuranceOptions', () => {
 
 			hasMaximumSelfEmployedTariff(output, true);
 
-			canHavePrivate(output);
+			isRecommended(output, ['private', 'public', 'other']);
 			cannotUseEHIC(output);
 			canJoinKSK(output);
 			cannotUseSpouseInsurance(output);
@@ -941,7 +1259,7 @@ describe('getHealthInsuranceOptions', () => {
 			hasAzubiFreeTariff(output);
 			doesNotHaveMinijobTariff(output);
 
-			cannotHavePrivate(output);
+			isRecommended(output, ['public']);
 			cannotUseEHIC(output);
 			cannotJoinKSK(output);
 			cannotUseSpouseInsurance(output);
@@ -958,7 +1276,7 @@ describe('getHealthInsuranceOptions', () => {
 			});
 
 			hasAzubiTariff(output);
-			cannotHavePrivate(output);
+			isRecommended(output, ['public']);
 			cannotUseEHIC(output);
 			cannotJoinKSK(output);
 			cannotUseSpouseInsurance(output);
@@ -976,7 +1294,7 @@ describe('getHealthInsuranceOptions', () => {
 
 			hasAzubiTariff(output);
 			paysMaximumEmployeeAmount(output);
-			cannotHavePrivate(output);
+			isRecommended(output, ['public']);
 			cannotJoinKSK(output);
 			cannotUseSpouseInsurance(output);
 			cannotUseParentsInsurance(output);
@@ -993,7 +1311,7 @@ describe('getHealthInsuranceOptions', () => {
 
 			hasAzubiTariff(output);
 			paysMaximumEmployeeAmount(output);
-			canHavePrivate(output);
+			isRecommended(output, ['private', 'public']);
 			cannotJoinKSK(output);
 			cannotUseSpouseInsurance(output);
 			cannotUseParentsInsurance(output);

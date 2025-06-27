@@ -308,20 +308,25 @@ function isPaidBySocialBenefits(occupation, monthlyIncome){
 }
 
 function canHavePublicHealthInsurance(occupation, age, isEUResident, hasGermanInsurance){
-	if(!hasGermanInsurance){
+	if(!isEUResident && !hasGermanInsurance){
 		// Non-EU students over 30 are disqualified, unless they're already insured
-		if(occupations.isStudent(occupation) && age >= 30 && !isEUResident){
+		if(occupations.isStudent(occupation) && age >= 30){
 			return false;
 		}
 		
 		// Non-EU freelancers are disqualified, unless they're already insured
 		// TODO: What about self-employed students?
-		if(occupation === 'selfEmployed' && !isEUResident){
+		if(occupation === 'selfEmployed'){
+			return false;
+		}
+
+		// Non-EU unemployed are freiwillig versichert, and not eligible for public 
+		if(occupation === 'unemployed'){
 			return false;
 		}
 	}
 
-	if(age >= 55){  // A switch to public is impossible after that age
+	if(age >= 55 && !hasGermanInsurance){  // A switch to public is impossible after that age
 		return false; // TODO: A switch between Krankenkassen is possible (Seamus)
 	}
 
@@ -338,21 +343,29 @@ function canHavePrivateHealthInsurance(occupation, monthlyIncome, hoursWorkedPer
 	);
 }
 
-function canHaveExpatHealthInsurance(occupation, hasGermanInsurance, isEUResident){
-	return !(
-		isEUResident || hasGermanInsurance || occupation === 'employee'
+function canHaveExpatHealthInsurance(occupation, monthlyIncome, hoursWorkedPerWeek, hasGermanInsurance, isEUResident){
+	return (
+		canHavePrivateHealthInsurance(occupation, monthlyIncome, hoursWorkedPerWeek)
+		&& !isEUResident
+		&& !hasGermanInsurance
+
+		// You can keep your expat insurance if you have a minijob
+		// Or if you are a Werkstudent
+		&& (occupation !== 'employee' || occupations.isMinijob(occupation, monthlyIncome))
+		&& occupation !== 'azubi'
 	);
 }
 
 function canHaveKSK(occupation, monthlyIncome, hoursWorkedPerWeek){
 	// Künstlersozialkasse
-	// The KSK only covers a student's health insurance if they work under 20 hours per week
 	return (
 		occupations.isSelfEmployed(occupation)
 		&& (monthlyIncome * 12) >= healthInsurance.kskMinimumIncome
-		&& (
-			!occupations.isStudent(occupation)
-			|| hoursWorkedPerWeek <= 20
+
+		// The KSK only covers a student's health insurance if they work under 20 hours per week
+		&& !(
+			occupations.isStudent(occupation)
+			&& hoursWorkedPerWeek > 20
 		)
 	);
 }
@@ -445,12 +458,13 @@ function getHealthInsuranceOptions({
 	output.expat = {
 		id: 'expat',
 		name: 'Expat health insurance',
-		eligible: true,
+		eligible: false,
 		description: '',
 		options: [],
 	}
-	if(canHaveExpatHealthInsurance(occupation, hasGermanInsurance, isEUResident)){
+	if(canHaveExpatHealthInsurance(occupation, monthlyIncome, hoursWorkedPerWeek, hasGermanInsurance, isEUResident)){
 		output.flags.add('expat');
+		output.expat.eligible = true;
 		output.expat.options = [
 			{id: 'feather-expat'},
 			{id: 'ottonova-expat'},
@@ -476,6 +490,13 @@ function getHealthInsuranceOptions({
 			occupation,
 		}),
 	}
+
+	if(occupations.isStudent(occupation)){
+		if(age >= 30) {
+			output.flags.add('public-student-over-30');
+		}
+	}
+
 	if(canHavePublicHealthInsurance(occupation, age, isEUResident, hasGermanInsurance)){
 		output.public.eligible = true;
 		output.flags.add('public');
@@ -484,9 +505,6 @@ function getHealthInsuranceOptions({
 		output.flags.add(`public-tariff-${tariff}`);
 
 		if(occupations.isStudent(occupation)){
-			if(age >= 30) {
-				output.flags.add('public-student-over-30');
-			}
 			if(!isWerkstudent(occupation, monthlyIncome, hoursWorkedPerWeek)){
 				output.flags.add('public-not-werkstudent');
 			}
@@ -542,7 +560,7 @@ function getHealthInsuranceOptions({
 	output.other = {
 		id: 'other',
 		name: 'Other options',
-		eligible: true,
+		eligible: false,
 		description: '',
 		options: [],
 	};
@@ -552,7 +570,60 @@ function getHealthInsuranceOptions({
 		output.other.options.push({id: 'ksk'});
 		output.flags.add('ksk');
 	};
+
+
+	/***************************************************
+	* Recommendations
+	***************************************************/
+
+	if(occupations.isStudent(occupation)){
+		if(output.flags.has('public-student-over-30')){
+			// Public is more expensive for older students
+			// Expat makes more sense. They can switch to public once they start working.
+			output.asList = [output.expat, output.public, output.private];
+		}
+		else{
+			// Public is the best option for students under 30
+			output.asList = [output.public, output.expat, output.private];	
+		}
+
+		// TODO: What about self-employed students?
+	}
+	else if(occupations.isMinijob(occupation, monthlyIncome)){
+		// Minijobbers can still have expat
+		// Private usually refuses them
+		output.asList = [output.public, output.expat, output.private];
+	}
+	else if(occupations.isUnemployed(occupation)){
+		// Expat is cheaper for unemployed people
+		output.asList = [output.expat, output.public, output.private];
+	}
+	else if(occupations.isSelfEmployed(occupation)){
+		if(monthlyIncome * 12 > 60000){
+			// Private makes sense from about €60000 per year
+			output.asList = [output.private, output.public, output.expat];
+		}
+		else if(monthlyIncome * 12 > 30000){
+			// Public makes sense for unstable businesses
+			// Expat makes sense if non-EU
+			output.asList = [output.public, output.private, output.expat];
+		}
+		else{
+			// Expat makes sense for very low incomes
+			output.asList = [output.expat, output.public, output.private];
+		}
+	}
+	else if(output.flags.has('public-max-contribution') && age < 45 && childrenCount <= 2){
+		// Prefer private for high-earning employees, unless they are old
+		output.asList = [output.private, output.public, output.expat];
+	}
+	else{
+		output.asList = [output.public, output.private, output.expat];
+	}
+
+	output.asList.unshift(output.free);
 	output.asList.push(output.other);
+	output.asList = output.asList.filter(o => o.eligible);
 
 	return output;
 }
