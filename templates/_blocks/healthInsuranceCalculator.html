@@ -381,7 +381,7 @@
 			<p v-if="option.id === 'free'">You can get free <glossary term="gesetzliche Krankenversicherung">public health insurance</glossary> because you have a low income.</p>
 
 			<ul class="buttons list" v-if="option.options.length">
-				<li v-for="subOption in option.options">
+				<li v-for="subOption in option.options" v-if="!['aok', 'hkk', 'dak'].includes(subOption.id)">
 					<a v-if="subOption.id === 'familienversicherung'" title="Learn more about family health insurance" href="/guides/german-health-insurance#free-health-insurance" target="_blank">
 						{% endraw %}{% include "_css/icons/family.svg" %}{% raw %}
 						<div>
