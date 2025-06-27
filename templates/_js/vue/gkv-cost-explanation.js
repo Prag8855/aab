@@ -36,11 +36,13 @@ Vue.component('gkv-cost-explanation', {
 		},
 		tariffName() {
 			return {
+				azubi: 'apprentice',
+				azubiFree: 'apprentice',
 				employee: 'employee',
 				midijob: 'midijob',
 				selfEmployed: 'self-employed',
+				selfPay: 'self-pay',
 				student: 'student',
-				azubi: 'apprentice',
 			}[this.tariff];
 		},
 		baseContributionRate() {
