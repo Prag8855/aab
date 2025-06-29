@@ -258,10 +258,13 @@ function gkvOptions({occupation, monthlyIncome, hoursWorkedPerWeek, age, childre
 	});
 }
 
-function canHaveEHIC(isEUResident, hasGermanInsurance, monthlyIncome){
+function canHaveEHIC(currentInsurance, monthlyIncome){
 	// EHIC is available if you are insured in another EU country
 	// It's invalidated as soon as you have an income, even if it's below the minijob threshold
-	return isEUResident && !hasGermanInsurance && monthlyIncome === 0;
+	return (
+		currentInsurance === 'ehic'
+		&& monthlyIncome === 0
+	);
 }
 
 function isMidijob(occupation, monthlyIncome){
@@ -307,27 +310,31 @@ function isPaidBySocialBenefits(occupation, monthlyIncome){
 	);
 }
 
-function canHavePublicHealthInsurance(occupation, age, isEUResident, hasGermanInsurance){
-	if(!isEUResident && !hasGermanInsurance){
-		// Non-EU students over 30 are disqualified, unless they're already insured
+function canHavePublicHealthInsurance(occupation, age, currentInsurance){
+	if(currentInsurance === 'public' || currentInsurance === 'ehic'){
+		return true;
+	}
+	else{
+		// Non-EU students over 30 are disqualified, unless they're already on public
 		if(occupations.isStudent(occupation) && age >= 30){
 			return false;
 		}
 		
-		// Non-EU freelancers are disqualified, unless they're already insured
+		// Non-EU freelancers are disqualified, unless they're already on public
 		// TODO: What about self-employed students?
 		if(occupation === 'selfEmployed'){
 			return false;
 		}
 
-		// Non-EU unemployed are freiwillig versichert, and not eligible for public 
+		// Non-EU unemployed are eligible for public unless they already have it
 		if(occupation === 'unemployed'){
 			return false;
 		}
-	}
 
-	if(age >= 55 && !hasGermanInsurance){  // A switch to public is impossible after that age
-		return false; // TODO: A switch between Krankenkassen is possible (Seamus)
+		// After 55 you can't join public, but you can change between public options
+		if(age >= 55){ 
+			return false;
+		}
 	}
 
 	return true;
@@ -343,11 +350,12 @@ function canHavePrivateHealthInsurance(occupation, monthlyIncome, hoursWorkedPer
 	);
 }
 
-function canHaveExpatHealthInsurance(occupation, monthlyIncome, hoursWorkedPerWeek, hasGermanInsurance, isEUResident){
+function canHaveExpatHealthInsurance(occupation, monthlyIncome, hoursWorkedPerWeek, currentInsurance){
 	return (
 		canHavePrivateHealthInsurance(occupation, monthlyIncome, hoursWorkedPerWeek)
-		&& !isEUResident
-		&& !hasGermanInsurance
+		&& currentInsurance !== 'ehic'
+		&& currentInsurance !== 'public'
+		&& currentInsurance !== 'private'
 
 		// You can keep your expat insurance if you have a minijob
 		// Or if you are a Werkstudent
@@ -384,21 +392,20 @@ function isWerkstudent(occupation, monthlyIncome, hoursWorkedPerWeek){
 	)
 }
 
-function needsGapInsurance(occupation, isEUResident){
+function needsGapInsurance(occupation, currentInsurance){
 	// Immigrants might need expat insurance to cover them from the moment they arrive in Germany
 	// to the moment they get covered by public health insurance.
 	// - Students before the start of their semester
 	// - Employees before they start working
 
-	// TODO
+	return !currentInsurance
 }
 
 function getHealthInsuranceOptions({
 	age,
 	childrenCount,
-	hasGermanInsurance,
+	currentInsurance,
 	hoursWorkedPerWeek,
-	isEUResident,
 	isMarried,
 	monthlyIncome,
 	occupation,
@@ -423,16 +430,6 @@ function getHealthInsuranceOptions({
 		options: [],
 	};
 
-	if(canHaveEHIC(isEUResident, hasGermanInsurance, monthlyIncome)){
-		output.free.options.push({ id: 'ehic' });
-		output.flags.add('ehic');
-	}
-
-	if(isPaidBySocialBenefits(occupation)){
-		output.free.options.push({ id: 'social-benefits' });
-		output.flags.add('social-benefits');
-	}
-
 	if(canHaveFamilienversicherungFromSpouse(occupation, monthlyIncome, isMarried)){
 		output.flags.add('familienversicherung');
 		output.flags.add('familienversicherung-spouse');
@@ -443,6 +440,16 @@ function getHealthInsuranceOptions({
 	}
 	if(output.flags.has('familienversicherung')){  // Combined option for both Familienversicherung types
 		output.free.options.push({ id: 'familienversicherung' });
+	}
+
+	if(isPaidBySocialBenefits(occupation)){
+		output.free.options.push({ id: 'social-benefits' });
+		output.flags.add('social-benefits');
+	}
+
+	if(canHaveEHIC(currentInsurance, monthlyIncome)){
+		output.free.options.push({ id: 'ehic' });
+		output.flags.add('ehic');
 	}
 
 	if(output.free.options.length){
@@ -462,7 +469,7 @@ function getHealthInsuranceOptions({
 		description: '',
 		options: [],
 	}
-	if(canHaveExpatHealthInsurance(occupation, monthlyIncome, hoursWorkedPerWeek, hasGermanInsurance, isEUResident)){
+	if(canHaveExpatHealthInsurance(occupation, monthlyIncome, hoursWorkedPerWeek, currentInsurance)){
 		output.flags.add('expat');
 		output.expat.eligible = true;
 		output.expat.options = [
@@ -497,7 +504,7 @@ function getHealthInsuranceOptions({
 		}
 	}
 
-	if(canHavePublicHealthInsurance(occupation, age, isEUResident, hasGermanInsurance)){
+	if(canHavePublicHealthInsurance(occupation, age, currentInsurance)){
 		output.public.eligible = true;
 		output.flags.add('public');
 
