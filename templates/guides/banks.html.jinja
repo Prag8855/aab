@@ -23,9 +23,6 @@
 			{% with entry=entry, showRelatedEntriesLink=related_collections|length %}
 				<div class="article-body">
 				{% with static=True %}
-				   {% include "_blocks/taxCalculator.html" %}
-				{% endwith %}
-				{% with static=True %}
 				   {% include "_blocks/healthInsuranceCalculator.html" %}
 				{% endwith %}
 				</div>
@@ -35,11 +32,7 @@
 		{% with pageType='guide' %}
 			{% include "_blocks/donationPrompt.html" %}
 		{% endwith %}
-		<aside class="section no-print" aria-label="Affiliate links notice" data-nosnippet>
-			<p>
-				<strong>This guide might contain affiliate links.</strong> When you click those links and buy something, I make a little money. This allows me to work on this website full time.
-			</p>
-		</aside>
+
 		{% if related_collections %}
 			<aside id="related" class="section no-print" aria-label="Collections that include this guide">
 				<h2>Related guides</h2>
@@ -48,10 +41,15 @@
 				{% endwith %}
 			</aside>
 		{% endif %}
+		<aside class="section no-print" aria-label="Affiliate links notice" data-nosnippet>
+			<p>
+				<strong>This guide might contain affiliate links.</strong> When you click those links and buy something, I make a little money. This allows me to work on this website full time.
+			</p>
+		</aside>
 	</main>
 	
 	<div class="sidebar" aria-hidden="true">
-		{% with entry=entry, showScrollToTop=true, showRelatedEntriesLink=related_collections|length %}
+		{% with entry=entry, showRelatedEntriesLink=related_collections|length %}
 			{% include '_blocks/tableOfContents.html' %}
 		{% endwith %}
 		<button class="button open-close" title="Show/hide table of contents">
