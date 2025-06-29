@@ -4,6 +4,9 @@ Description: Use this bot to find an Anmeldung appointment at the Bügeramt in B
 Date_created: 2022-06-15
 Categories:
     buergeramt
+Related_guides:
+    guides/anmeldung-in-english-berlin.md
+    guides/berlin-burgeramt-appointment.md
 ---
 
 This bot helps you find an appointment to [register your address](/glossary/Anmeldung) at the Berlin *[[Bürgeramt]]*. You can also [do your *Anmeldung* online](/guides/anmeldung-in-english-berlin#how-to-register-your-address-online).

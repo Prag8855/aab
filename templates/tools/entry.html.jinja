@@ -1,6 +1,7 @@
 {% extends "_layout.html" %}
 {% set metatitle = entry.title %}
 {% set metadescription = entry.description %}
+{% set related_entries = entry.related_guides|default([]) %}
 
 {% block postHead %}
 	{{ super() }}
@@ -26,10 +27,19 @@
 				<strong>This page might contain affiliate links.</strong> When you click those links and buy something, I make a little money. This allows me to work on this website full time.
 			</p>
 		</aside>
+
+		{% if related_entries %}
+			<aside class="section no-print" id="related" aria-labelledby="h-using-this-term">
+				<h2 id="h-using-this-term">Related guides</h2>
+				{% with entries=related_entries, showDateUpdated=true %}
+					{% include "_blocks/entryPreviews.html" %}
+				{% endwith %}
+			</aside>
+		{% endif %}
 	</main>
 	
 	<div class="sidebar" aria-hidden="true">
-		{% with entry=entry, showScrollToTop=true %}
+		{% with entry=entry, showRelatedEntriesLink=related_entries|length %}
 			{% include '_blocks/tableOfContents.html' %}
 		{% endwith %}
 		<div class="donate">
@@ -40,17 +50,6 @@
 		</button>
 	</div>
 	{% include "_js/sidebar.js" %}
-{% endblock %}
-
-{% block postcontent %}
-	{% with pageType='tool' %}
-		{% include "_blocks/donationPrompt.html" %}
-	{% endwith %}
-	<aside class="section no-print" data-nosnippet>
-		<p>
-			<strong>This page might contain affiliate links.</strong> When you click those links and buy something, I make a little money. This allows me to work on this website full time.
-		</p>
-	</aside>
 {% endblock %}
 
 {% block postFooter %}

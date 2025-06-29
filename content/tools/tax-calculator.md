@@ -5,6 +5,10 @@ Description: Calculate your net income in Germany, after income tax, health insu
 Date_created: 2022-01-20
 Categories:
     calculator
+Related_guides:
+    guides/taxes.md
+    guides/salaries-in-germany.md
+    guides/german-health-insurance.md
 ---
 
 This tool calculates your German [net income](/glossary/Netto%20income) for {{ now.strftime('%Y') }}, after taxes and social contributions. It's your take-home salary. It's the money you keep every month.

@@ -5,6 +5,8 @@ Description: Check if you can get a pension refund after you leave Germany, and 
 Date_created: 2022-02-12
 Categories:
     calculator
+Related_guides:
+    guides/pension-payments-refund.md
 ---
 
 When you work in Germany, {{RV_EMPLOYEE_CONTRIBUTION}}% of your income goes into your [public pension](/glossary/gesetzliche%20Rentenversicherung). If you leave Germany, you can get those pension payments back. This tool helps you calculate your refund.
