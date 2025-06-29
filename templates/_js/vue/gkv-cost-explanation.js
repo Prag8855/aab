@@ -225,6 +225,9 @@ Vue.component('gkv-cost-explanation', {
 				<p v-if="tariff === 'midijob'">
 					Your employer pays part of your health insurance.
 				</p>
+				<p v-if="tariff === 'student'">
+					Your employer does not pay for your health insurance.
+				</p>
 			</details>
 			<details>
 				<summary class="price highlighted">
