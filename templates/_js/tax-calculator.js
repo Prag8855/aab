@@ -43,7 +43,6 @@ function calculateTax(yearlyIncome, {
 
 		// Sensible defaults
 		hoursWorkedPerWeek: 20,  // Ensures Werkstudent pricing for students
-		isEUResident: true,  // Ensures public for freelancers
 		currentInsurance: 'public',  // Ensures public is available in general
 		sortByPrice: true,
 	});
