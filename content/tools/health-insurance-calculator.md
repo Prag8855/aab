@@ -9,7 +9,11 @@ Categories:
 
 This tool helps you choose the best German health insurance. It tells you what options you have, and how much [health insurance](/glossary/Krankenversicherung) costs in {{ now.strftime('%Y') }}.
 
+## Health insurance picker
+
 {% include '_blocks/healthInsuranceCalculatorStatic.html' %}
+
+**[How to choose health insurance ➞](/guides/german-health-insurance)**
 
 ## Cost of German health insurance
 
@@ -25,7 +29,7 @@ If you are self-employed, you pay by [SEPA transfer](/glossary/SEPA-%C3%9Cberwei
 
 Read my [German health insurance guide](/guides/german-health-insurance), then talk to a health insurance broker. A broker will help you choose the best health insurance for your needs.
 
-**[How to choose German health insurance ➞](/guides/german-health-insurance)**
+**[How to choose health insurance ➞](/guides/german-health-insurance)**
 
 {% include '_blocks/healthInsuranceQuestion.html' %}
 

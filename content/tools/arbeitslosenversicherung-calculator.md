@@ -9,6 +9,8 @@ Categories:
 
 This calculator shows how much you pay for unemployment insurance (*[[Arbeitslosenversicherung]]*) every month.
 
+## Unemployment insurance calculator
+
 {% include '_blocks/unemploymentInsuranceCalculatorStatic.html' %}
 
 ## What is Arbeitslosenversicherung?

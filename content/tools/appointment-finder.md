@@ -8,15 +8,15 @@ Categories:
 
 This bot helps you find an appointment to [register your address](/glossary/Anmeldung) at the Berlin *[[Bürgeramt]]*. You can also [do your *Anmeldung* online](/guides/anmeldung-in-english-berlin#how-to-register-your-address-online).
 
-{% include "_blocks/appointmentFinderStatic.html" %}
-
-**[Other ways to get a Bürgeramt appointment ➞](/guides/berlin-burgeramt-appointment)**
-
 **[How to register your address ➞](/guides/anmeldung-in-english-berlin)**
+
+## Appointment finder
+
+{% include "_blocks/appointmentFinderStatic.html" %}
 
 ## Other appointment types
 
-This tool only finds *Anmeldung* appointments. To find other types of appointments, you can [run this tool on your computer](https://github.com/all-about-berlin/burgeramt-appointments).
+This tool only finds *[[Anmeldung]]* appointments. To find other types of appointments, you can [run this tool on your computer](https://github.com/all-about-berlin/burgeramt-appointments).
 
 **[Other ways to get a Bürgeramt appointment ➞](/guides/berlin-burgeramt-appointment)**
 

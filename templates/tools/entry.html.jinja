@@ -7,16 +7,40 @@
 	<link rel="index" href="{{ site_url }}/tools">
 {% endblock %}
 
-{% block content %}
-	<h1>{{ entry.title }}</h1>
-	{% include "_blocks/postMeta.html" %}
-	{% with entry=entry %}
-		<div class="article-body">
-			{{ entry.body|render|safe }}
-		</div>
-	{% endwith %}
-{% endblock %}
+{% block main %}
+	<main aria-label="Main page">
+		{% block precontent %}{% endblock %}
+		<article class="section">
+			<h1>{{ entry.title }}</h1>
+			{% include "_blocks/postMeta.html" %}
+			<div class="article-body">
+				{{ entry.body|render|safe }}
+			</div>
+		</article>
 
+		{% with pageType='document' %}
+			{% include "_blocks/donationPrompt.html" %}
+		{% endwith %}
+		<aside class="section no-print" aria-label="Affiliate links notice" data-nosnippet>
+			<p>
+				<strong>This page might contain affiliate links.</strong> When you click those links and buy something, I make a little money. This allows me to work on this website full time.
+			</p>
+		</aside>
+	</main>
+	
+	<div class="sidebar" aria-hidden="true">
+		{% with entry=entry, showScrollToTop=true %}
+			{% include '_blocks/tableOfContents.html' %}
+		{% endwith %}
+		<div class="donate">
+			Did this tool help you? Consider <a href="{{ site_url }}/donate" target="_blank" title="Donate to All About Berlin">donating €10</a> to support my work.
+		</div>
+		<button class="button open-close" title="Show/hide table of contents">
+			{% include "_css/icons/table-of-contents.svg" %}
+		</button>
+	</div>
+	{% include "_js/sidebar.js" %}
+{% endblock %}
 
 {% block postcontent %}
 	{% with pageType='tool' %}
