@@ -37,8 +37,8 @@ When you have a job, your employer pays half of your health insurance. If you ar
     If you have a low or unstable income, this is the safest option, because the price matches your income. You can switch to private later if it makes more sense.[^5]
 - **[Private health insurance](/glossary/private%20Krankenversicherung)**  
     If you earn more than €60,000 per year, private can be better and cheaper than public health insurance.[^8] It might be your only option.
-
-You can also get [public health insurance](/glossary/gesetzliche%20Krankenversicherung) [through your family](/guides/german-health-insurance#free-health-insurance), or by [joining the *Künstlersozialkasse*](/guides/ksk-kuenstlersozialkasse). Otherwise, public health insurers will reject you.[^11]
+- **[Public health insurance]**  
+    You can get free [public health insurance](/glossary/gesetzliche%20Krankenversicherung) [through your family](/guides/german-health-insurance#free-health-insurance). You can get cheaper public health insurance if you [join the *Künstlersozialkasse*](/guides/ksk-kuenstlersozialkasse). If you already have public health insurance, you can keep it. Otherwise, public health insurers will reject you.[^11]
 
 ### The Künstlersozialkasse
 

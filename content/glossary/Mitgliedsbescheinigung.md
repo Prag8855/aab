@@ -19,7 +19,9 @@ You need a *Mitgliedsbescheinigung* to...
 - [Apply for a residence permit](/guides/residence-permit)
 - [Join the Künstlersozialkasse](/guides/ksk-kuenstlersozialkasse)
 
-If you have [public health insurance](/glossary/gesetzliche%20Krankenversicherung), you get a *Mitgliedsbescheinigung nach 175 SGB V*. If you have [private health insurance](/glossary/private%20Krankenversicherung), you get a *Mitgliedsbescheinigung* or a *Nachweis der Krankenversicherung*.
+If you have [public health insurance](/glossary/gesetzliche%20Krankenversicherung), you get a *Mitgliedsbescheinigung nach § 175 SGB V*.
+
+If you have [private health insurance](/glossary/private%20Krankenversicherung), you get a *Mitgliedsbescheinigung nach § 257 SGB V* or a *Nachweis der Krankenversicherung*.
 
 [![Example Mitgliedsbescheinigung](/images/krankenkasse-mitgliedsbescheinigung-nach-175-sgb-v.png)](/images/krankenkasse-mitgliedsbescheinigung-nach-175-sgb-v.png "Example Mitgliedsbescheinigung")
 

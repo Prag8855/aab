@@ -206,10 +206,12 @@ There are two types of self-employed people. They get a different kind of freela
     If this is your first residence permit application, fill this form. Download the form [here](/docs/residence-permit-application-form) or [on Berlin.de](https://www.berlin.de/formularverzeichnis/?formular=/labo/zuwanderung/_assets/lea-agen1-antrag_engl_frz_ital-112021.pdf).[^42]
 - [ ] **Proof of health insurance**  
     You need valid [health insurance](/glossary/Krankenversicherung). Travel health insurance is not accepted. [Ask my insurance expert](/guides/german-health-insurance#insurance-brokers) to help you [choose health insurance for your work visa](/guides/german-health-insurance/for-employees#for-a-blue-card-or-work-visa).
-    - [ ] **Proof of [public health insurance](/glossary/gesetzliche%20Krankenversicherung)**  
-        Get a *[Mitgliedsbescheinigung nach 175 SGB V](/glossary/Mitgliedsbescheinigung)* from your health insurer or your [health insurance broker](/guides/german-health-insurance#insurance-brokers).
-    - [ ] or **proof of [private health insurance](/glossary/private%20Krankenversicherung)**  
-        Bring your insurance contract, a *[[Mitgliedsbescheinigung]]*, and bank statements that show health insurance payments. Get these documents from your health insurer or your [health insurance broker](/guides/german-health-insurance#insurance-brokers).[^6]
+    - [ ] **[Health insurance card](/glossary/Gesundheitskarte)**  
+        Show both sides of the card.
+    - [ ] **proof of [public health insurance](/glossary/gesetzliche%20Krankenversicherung)**  
+        Get a *[Mitgliedsbescheinigung nach § 175 SGB V](/glossary/Mitgliedsbescheinigung)* from your health insurer or your [health insurance broker](/guides/german-health-insurance#insurance-brokers).
+    - [ ] **proof of [private health insurance](/glossary/private%20Krankenversicherung)**  
+        Bring your insurance contract, a *[Mitgliedsbescheinigung nach § 257 SGB V](/glossary/Mitgliedsbescheinigung)*, and bank statements that show health insurance payments. Get these documents from your health insurer or your health insurance broker.[^6]
 - [ ] **Proof of housing**  
     You need a [place to live](/guides/find-a-flat-in-berlin) where you can [register your address](/glossary/Anmeldung). If you apply in Berlin, your home address must be in Berlin.
     - [ ] **Lease**  

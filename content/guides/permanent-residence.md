@@ -325,10 +325,12 @@ These are the required documents **in Berlin**. In other cities, you need differ
     - or **integration course** (*Integrationskurs*)
 - [ ] **Proof of health insurance**  
     You need valid [health insurance](/glossary/Krankenversicherung). Travel insurance is not accepted.
-    - [ ] **Proof of [public health insurance](/glossary/gesetzliche%20Krankenversicherung)**  
-        Get a *[Mitgliedsbescheinigung nach 175 SGB V](/glossary/Mitgliedsbescheinigung)* from your health insurer or your [health insurance broker](/guides/german-health-insurance#insurance-brokers).
-    - [ ] or **proof of [private health insurance](/glossary/private%20Krankenversicherung)**  
-        Bring your insurance contract, a *[[Mitgliedsbescheinigung]]*, and bank statements that show health insurance payments. Get these documents from your health insurer or your health insurance broker.[^6]
+    - [ ] **[Health insurance card](/glossary/Gesundheitskarte)**  
+        Show both sides of the card.
+    - [ ] **proof of [public health insurance](/glossary/gesetzliche%20Krankenversicherung)**  
+        Get a *[Mitgliedsbescheinigung nach § 175 SGB V](/glossary/Mitgliedsbescheinigung)* from your health insurer or your [health insurance broker](/guides/german-health-insurance#insurance-brokers).
+    - [ ] **proof of [private health insurance](/glossary/private%20Krankenversicherung)**  
+        Bring your insurance contract, a *[Mitgliedsbescheinigung nach § 257 SGB V](/glossary/Mitgliedsbescheinigung)*, and bank statements that show health insurance payments. Get these documents from your health insurer or your health insurance broker.[^6]
 - [ ] **Proof of health insurance payments**  
     Bring bank account statements that show recent health insurance payments.[^58]
 - [ ] **Proof of housing**  
