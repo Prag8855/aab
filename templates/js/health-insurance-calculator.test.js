@@ -1,7 +1,5 @@
 // TODO: Test custom zusatzbeitrag
 // TODO: Test insurance for student freelancers
-// TODO: Test for 'social-benefits' flag
-// TODO: Test GKV over 55
 
 import { hasFlag, notHasFlag } from './test-utils.js';
 
@@ -1145,6 +1143,59 @@ describe('getHealthInsuranceOptions', () => {
 			cannotJoinKSK(output);
 			cannotUseSpouseInsurance(output);
 			cannotUseParentsInsurance(output);
+		});
+
+		describe('a 55 year old employee with public health insurance in another EU country', () => {
+			const output = getHealthInsuranceOptions({
+				age: 55,
+				childrenCount: 0,
+				isMarried: false,
+				occupation: 'employee',
+				monthlyIncome: 100000/12,
+
+				currentInsurance: 'ehic',
+			});
+
+			isRecommended(output, ['public', 'private']);
+		});
+		describe('a 55 year old employee with public health insurance', () => {
+			const output = getHealthInsuranceOptions({
+				age: 55,
+				childrenCount: 0,
+				isMarried: false,
+				occupation: 'employee',
+				monthlyIncome: 100000/12,
+
+				currentInsurance: 'public',
+			});
+
+			isRecommended(output, ['public', 'private']);
+		});
+		describe('a 55 year old employee with private health insurance', () => {
+			const output = getHealthInsuranceOptions({
+				age: 55,
+				childrenCount: 0,
+				isMarried: false,
+				occupation: 'employee',
+				monthlyIncome: 100000/12,
+
+				currentInsurance: 'private',
+			});
+
+			isRecommended(output, ['private']);
+		});
+		describe('a 55 year old employee with expat health insurance', () => {
+			const output = getHealthInsuranceOptions({
+				age: 55,
+				childrenCount: 0,
+				isMarried: false,
+				occupation: 'employee',
+				monthlyIncome: 100000/12,
+
+				currentInsurance: 'expat',
+			});
+
+			isRecommended(output, ['private']);
 		});
 	});
 
