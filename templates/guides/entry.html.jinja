@@ -31,7 +31,7 @@
 		{% endwith %}
 
 		{% if related_collections %}
-			<aside id="related" class="section no-print" aria-label="Collections that include this guide">
+			<aside id="related" class="section no-print" aria-label="Collections that include this guide" data-nosnippet>
 				<h2>Related guides</h2>
 				{% with collections=related_collections, currentEntry=entry %}
 					{% include "_blocks/collections.html" %}
@@ -46,7 +46,7 @@
 		</aside>
 	</main>
 	
-	<div class="sidebar" aria-hidden="true">
+	<div class="sidebar" aria-hidden="true" data-nosnippet>
 		{% with entry=entry, showRelatedEntriesLink=related_collections|length %}
 			{% include '_blocks/tableOfContents.html' %}
 		{% endwith %}

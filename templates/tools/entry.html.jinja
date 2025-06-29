@@ -24,7 +24,7 @@
 		{% endwith %}
 
 		{% if related_entries %}
-			<aside class="section no-print" id="related" aria-labelledby="h-using-this-term">
+			<aside class="section no-print" id="related" aria-labelledby="h-using-this-term" data-nosnippet>
 				<h2 id="h-using-this-term">Related guides</h2>
 				{% with entries=related_entries, showDateUpdated=true %}
 					{% include "_blocks/entryPreviews.html" %}
@@ -39,7 +39,7 @@
 		</aside>
 	</main>
 	
-	<div class="sidebar" aria-hidden="true">
+	<div class="sidebar" aria-hidden="true" data-nosnippet>
 		{% with entry=entry, showRelatedEntriesLink=related_entries|length %}
 			{% include '_blocks/tableOfContents.html' %}
 		{% endwith %}
