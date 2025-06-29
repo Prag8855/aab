@@ -22,6 +22,19 @@ function cannotJoinKSK(output){
 	});
 }
 
+function isPaidBySocialBenefits(output){
+	it('can get free health insurance through social benefits', () => {
+		hasFlag(output, 'social-benefits')();
+		equal(output.free.options.find(o => o.id === 'social-benefits').id, 'social-benefits');
+	});
+}
+function isNotPaidBySocialBenefits(output){
+	it('cannot get free health insurance through social benefits', () => {
+		notHasFlag(output, 'social-benefits')();
+		equal(output.free.options.find(o => o.id === 'social-benefits'), undefined);
+	});
+}
+
 function hasAzubiTariff(output){
 	it('pays the Azubi tarif', () => {
 		hasFlag(output, 'public-tariff-azubi')();
@@ -73,16 +86,11 @@ function hasMidijobTarif(output, paysPflegeversicherungSurcharge){
 	});
 }
 
-
 function isRecommended(output, allowedOptions){
 	const options = output.asList.filter(o => o.eligible).map(o => o.id);
 	it(`is recommended ${allowedOptions.join(', ')} (in this order)`, () => {
 		assert.deepEqual(options, allowedOptions);
 	});
-}
-
-function cannotHavePublic(output){
-	it('cannot get public health insurance', notHasFlag(output, 'public'));
 }
 
 function canUseSpouseInsurance(output){
@@ -195,7 +203,7 @@ function paysMinimumSelfPayAmount(output, paysPflegeversicherungSurcharge){
 	});
 }
 
-function hasMaximumSelfEmployedTariff(output) {
+function paysMaximumSelfEmployedAmount(output) {
  	const o = output.public.options[0];
 
 	it('pays the maximum price for self-employed people', () => {
@@ -211,36 +219,6 @@ function hasMaximumSelfEmployedTariff(output) {
 			equal(o.pflegeversicherung.totalContribution, round(healthInsurance.maxMonthlyIncome * pflegeversicherung.defaultRate));
 		}
 		equal(o.total.employerContribution, 0);
-	});
-}
-
-function isNotWerkstudentDueToIncome(output, paysPflegeversicherungSurcharge) {
- 	const o = output.public.options[0];
-
-	it('is not a Werkstudent because their income is too high', () => {
-		hasFlag(output, 'public-tariff-employee')();
-		hasFlag(output, 'public-not-werkstudent')();
-		notHasFlag(output, 'public-tariff-student')();
-
-		const income = Math.ceil(0.75 * healthInsurance.maxNebenjobIncome + 1);
-		equal(o.baseContribution.totalContribution, round(income * healthInsurance.defaultRate));
-		equal(o.zusatzbeitrag.totalContribution, round(income * defaultInsurer.zusatzbeitrag));
-		if(paysPflegeversicherungSurcharge){
-			equal(o.pflegeversicherung.totalContribution, round(income * pflegeversicherung.surchargeRate));
-		}
-		else{
-			equal(o.pflegeversicherung.totalContribution, round(income * pflegeversicherung.defaultRate));
-		}
-
-	});
-}
-
-function isNotWerkstudentDueToHoursWorked(output, paysPflegeversicherungSurcharge) {
-	it('is not a Werkstudent because they work over 20 hours per week', () => {
-		hasFlag(output, 'public-tariff-midijob')();
-		hasFlag(output, 'public-not-werkstudent')();
-		notHasFlag(output, 'public-tariff-student')();
-		notHasFlag(output, 'public-tariff-employee')();
 	});
 }
 
@@ -285,6 +263,36 @@ function paysMaximumEmployeeAmount(output) {
 				+ round(healthInsurance.maxMonthlyIncome * pflegeversicherung.employerRate)
 			)
 		);
+	});
+}
+
+function isNotWerkstudentDueToIncome(output, paysPflegeversicherungSurcharge) {
+ 	const o = output.public.options[0];
+
+	it('is not a Werkstudent because their income is too high', () => {
+		hasFlag(output, 'public-tariff-employee')();
+		hasFlag(output, 'public-not-werkstudent')();
+		notHasFlag(output, 'public-tariff-student')();
+
+		const income = Math.ceil(0.75 * healthInsurance.maxNebenjobIncome + 1);
+		equal(o.baseContribution.totalContribution, round(income * healthInsurance.defaultRate));
+		equal(o.zusatzbeitrag.totalContribution, round(income * defaultInsurer.zusatzbeitrag));
+		if(paysPflegeversicherungSurcharge){
+			equal(o.pflegeversicherung.totalContribution, round(income * pflegeversicherung.surchargeRate));
+		}
+		else{
+			equal(o.pflegeversicherung.totalContribution, round(income * pflegeversicherung.defaultRate));
+		}
+
+	});
+}
+
+function isNotWerkstudentDueToHoursWorked(output, paysPflegeversicherungSurcharge) {
+	it('is not a Werkstudent because they work over 20 hours per week', () => {
+		hasFlag(output, 'public-tariff-midijob')();
+		hasFlag(output, 'public-not-werkstudent')();
+		notHasFlag(output, 'public-tariff-student')();
+		notHasFlag(output, 'public-tariff-employee')();
 	});
 }
 
@@ -829,6 +837,7 @@ describe('getHealthInsuranceOptions', () => {
 			paysMinimumSelfPayAmount(output);
 			doesNotHaveMinijobTariff(output);
 
+			isPaidBySocialBenefits(output);
 			canUseEHIC(output);
 			cannotJoinKSK(output);
 			canUseSpouseInsurance(output);
@@ -850,6 +859,7 @@ describe('getHealthInsuranceOptions', () => {
 
 			isRecommended(output, ['free', 'expat', 'private']);
 			cannotUseEHIC(output);
+			isPaidBySocialBenefits(output);
 		});
 		describe('an 18 year old, unemployed, already insured non-EU immigrant', () => {
 			const output = getHealthInsuranceOptions({
@@ -865,6 +875,7 @@ describe('getHealthInsuranceOptions', () => {
 
 			isRecommended(output, ['free', 'public', 'private']);
 			cannotUseEHIC(output);
+			isPaidBySocialBenefits(output);
 		});
 
 		describe('a 23 year old unemployed, already insured person', () => {
@@ -879,10 +890,11 @@ describe('getHealthInsuranceOptions', () => {
 				hasGermanInsurance: true,
 			});
 
+			isRecommended(output, ['free', 'public', 'private']);
 			paysMinimumSelfPayAmount(output, true);
 			doesNotHaveMinijobTariff(output);
 
-			isRecommended(output, ['free', 'public', 'private']);
+			isPaidBySocialBenefits(output);
 			cannotUseEHIC(output);
 			cannotJoinKSK(output);
 			canUseSpouseInsurance(output)
@@ -906,7 +918,8 @@ describe('getHealthInsuranceOptions', () => {
 
 			isRecommended(output, ['free', 'public', 'expat', 'private']);
 			hasMinijobTariff(output);
-
+			
+			isNotPaidBySocialBenefits(output);
 			cannotUseEHIC(output);
 			cannotJoinKSK(output);
 			canUseSpouseInsurance(output);
@@ -925,6 +938,7 @@ describe('getHealthInsuranceOptions', () => {
 			isRecommended(output, ['free', 'public', 'expat', 'private']);
 			hasMinijobTariff(output);
 
+			isNotPaidBySocialBenefits(output);
 			cannotUseEHIC(output);
 			cannotJoinKSK(output);
 			canUseSpouseInsurance(output)
@@ -944,6 +958,7 @@ describe('getHealthInsuranceOptions', () => {
 			hasMinijobTariff(output, true);
 			paysPflegeversicherungSurcharge(output);
 
+			isNotPaidBySocialBenefits(output);
 			cannotUseEHIC(output);
 			cannotJoinKSK(output);
 			canUseSpouseInsurance(output);
@@ -962,6 +977,7 @@ describe('getHealthInsuranceOptions', () => {
 			isRecommended(output, ['public']);
 			hasEmployeeTarif(output, false);
 
+			isNotPaidBySocialBenefits(output);
 			cannotUseEHIC(output);
 			cannotJoinKSK(output);
 			cannotUseSpouseInsurance(output);
@@ -981,6 +997,7 @@ describe('getHealthInsuranceOptions', () => {
 			hasMidijobTarif(output, false);
 			doesNotPayPflegeversicherungSurcharge(output);
 
+			isNotPaidBySocialBenefits(output);
 			cannotUseEHIC(output);
 			cannotJoinKSK(output);
 			cannotUseSpouseInsurance(output);
@@ -1000,6 +1017,7 @@ describe('getHealthInsuranceOptions', () => {
 			hasMidijobTarif(output);
 			doesNotPayPflegeversicherungSurcharge(output);
 
+			isNotPaidBySocialBenefits(output);
 			cannotUseEHIC(output);
 			cannotJoinKSK(output);
 			cannotUseSpouseInsurance(output);
@@ -1019,6 +1037,7 @@ describe('getHealthInsuranceOptions', () => {
 			hasMidijobTarif(output);
 			doesNotPayPflegeversicherungSurcharge(output);
 
+			isNotPaidBySocialBenefits(output);
 			cannotUseEHIC(output);
 			cannotJoinKSK(output);
 			cannotUseSpouseInsurance(output);
@@ -1038,6 +1057,7 @@ describe('getHealthInsuranceOptions', () => {
 			hasMidijobTarif(output);
 			doesNotPayPflegeversicherungSurcharge(output);
 
+			isNotPaidBySocialBenefits(output);
 			cannotUseEHIC(output);
 			cannotJoinKSK(output);
 			cannotUseSpouseInsurance(output);
@@ -1057,6 +1077,7 @@ describe('getHealthInsuranceOptions', () => {
 			hasEmployeeTarif(output, false);
 			doesNotPayPflegeversicherungSurcharge(output);
 
+			isNotPaidBySocialBenefits(output);
 			cannotUseEHIC(output);
 			cannotJoinKSK(output);
 			cannotUseSpouseInsurance(output);
@@ -1077,6 +1098,7 @@ describe('getHealthInsuranceOptions', () => {
 			paysMaximumEmployeeAmount(output);
 			doesNotPayPflegeversicherungSurcharge(output);
 
+			isNotPaidBySocialBenefits(output);
 			cannotUseEHIC(output);
 			cannotJoinKSK(output);
 			cannotUseSpouseInsurance(output);
@@ -1097,6 +1119,7 @@ describe('getHealthInsuranceOptions', () => {
 			paysMaximumEmployeeAmount(output);
 			doesNotPayPflegeversicherungSurcharge(output);
 
+			isNotPaidBySocialBenefits(output);
 			cannotUseEHIC(output);
 			cannotJoinKSK(output);
 			cannotUseSpouseInsurance(output);
@@ -1117,6 +1140,7 @@ describe('getHealthInsuranceOptions', () => {
 			paysMaximumEmployeeAmount(output);
 			doesNotPayPflegeversicherungSurcharge(output);
 
+			isNotPaidBySocialBenefits(output);
 			cannotUseEHIC(output);
 			cannotJoinKSK(output);
 			cannotUseSpouseInsurance(output);
@@ -1142,6 +1166,7 @@ describe('getHealthInsuranceOptions', () => {
 				});
 				isRecommended(output, ['free', 'public', 'private', 'other']);
 
+				isNotPaidBySocialBenefits(output);
 				doesNotHaveMinijobTariff(output);
 				cannotUseEHIC(output);
 				canJoinKSK(output);
@@ -1184,6 +1209,7 @@ describe('getHealthInsuranceOptions', () => {
 
 				isRecommended(output, ['public', 'private', 'other']);
 
+				isNotPaidBySocialBenefits(output);
 				doesNotHaveMinijobTariff(output);
 				cannotUseEHIC(output);
 				canJoinKSK(output);
@@ -1220,6 +1246,8 @@ describe('getHealthInsuranceOptions', () => {
 
 			paysMinimumSelfEmployedAmount(output, true);
 			isRecommended(output, ['public', 'private', 'other']);
+
+			isNotPaidBySocialBenefits(output);
 			cannotUseEHIC(output);
 			canJoinKSK(output);
 			cannotUseSpouseInsurance(output);
@@ -1236,9 +1264,10 @@ describe('getHealthInsuranceOptions', () => {
 				hasGermanInsurance: true,
 			});
 
-			hasMaximumSelfEmployedTariff(output, true);
-
+			paysMaximumSelfEmployedAmount(output, true);
 			isRecommended(output, ['private', 'public', 'other']);
+
+			isNotPaidBySocialBenefits(output);
 			cannotUseEHIC(output);
 			canJoinKSK(output);
 			cannotUseSpouseInsurance(output);
@@ -1256,10 +1285,11 @@ describe('getHealthInsuranceOptions', () => {
 				monthlyIncome: healthInsurance.azubiFreibetrag,
 			});
 
+			isRecommended(output, ['public']);
 			hasAzubiFreeTariff(output);
 			doesNotHaveMinijobTariff(output);
 
-			isRecommended(output, ['public']);
+			isNotPaidBySocialBenefits(output);
 			cannotUseEHIC(output);
 			cannotJoinKSK(output);
 			cannotUseSpouseInsurance(output);
@@ -1275,8 +1305,10 @@ describe('getHealthInsuranceOptions', () => {
 				monthlyIncome: taxes.maxMinijobIncome + 1,
 			});
 
-			hasAzubiTariff(output);
 			isRecommended(output, ['public']);
+			hasAzubiTariff(output);
+
+			isNotPaidBySocialBenefits(output);
 			cannotUseEHIC(output);
 			cannotJoinKSK(output);
 			cannotUseSpouseInsurance(output);
@@ -1292,9 +1324,11 @@ describe('getHealthInsuranceOptions', () => {
 				monthlyIncome: Math.ceil(healthInsurance.maxMonthlyIncome + 100),
 			});
 
+			isRecommended(output, ['public']);
 			hasAzubiTariff(output);
 			paysMaximumEmployeeAmount(output);
-			isRecommended(output, ['public']);
+
+			isNotPaidBySocialBenefits(output);
 			cannotJoinKSK(output);
 			cannotUseSpouseInsurance(output);
 			cannotUseParentsInsurance(output);
@@ -1309,9 +1343,11 @@ describe('getHealthInsuranceOptions', () => {
 				monthlyIncome: healthInsurance.minFreiwilligMonthlyIncome,
 			});
 
+			isRecommended(output, ['private', 'public']);
 			hasAzubiTariff(output);
 			paysMaximumEmployeeAmount(output);
-			isRecommended(output, ['private', 'public']);
+
+			isNotPaidBySocialBenefits(output);
 			cannotJoinKSK(output);
 			cannotUseSpouseInsurance(output);
 			cannotUseParentsInsurance(output);
