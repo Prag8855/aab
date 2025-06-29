@@ -442,7 +442,7 @@ function getHealthInsuranceOptions({
 		output.free.options.push({ id: 'familienversicherung' });
 	}
 
-	if(isPaidBySocialBenefits(occupation)){
+	if(isPaidBySocialBenefits(occupation, monthlyIncome)){
 		output.free.options.push({ id: 'social-benefits' });
 		output.flags.add('social-benefits');
 	}
