@@ -44,9 +44,11 @@
 		{% with entry=entry %}
 			{% include '_blocks/tableOfContents.html' %}
 		{% endwith %}
-		<div class="donate" data-nosnippet>
-			Did this website help you? Consider <a href="{{ site_url }}/donate" target="_blank" title="Donate to All About Berlin">donating €10</a> to support my work.
-		</div>
+		{% block postSidebar %}
+			<div class="donate" data-nosnippet>
+				Did this {{ pageType|default("website") }} help you? Consider <a href="{{ site_url }}/donate" target="_blank" title="Donate to All About Berlin">donating €10</a> to support my work.
+			</div>
+		{% endblock %}
 		<button class="button open-close" title="Show/hide table of contents">
 			{% include "_css/icons/table-of-contents.svg" %}
 		</button>
