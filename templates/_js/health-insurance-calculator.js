@@ -473,8 +473,8 @@ function getHealthInsuranceOptions({
 		output.flags.add('expat');
 		output.expat.eligible = true;
 		output.expat.options = [
-			{id: 'feather-expat'},
-			{id: 'ottonova-expat'},
+			{id: 'feather-expat', cost: 72}, // TODO
+			{id: 'ottonova-expat', cost: 111},
 		];
 	}
 
@@ -529,8 +529,7 @@ function getHealthInsuranceOptions({
 			output.flags.add('public-minijob');
 		}
 
-		if(age > pflegeversicherung.defaultRateMaxAge && childrenCount === 0) {
-			// TODO: Duplicate business logic
+		if(output.public.options[0].pflegeversicherung.totalRate === pflegeversicherung.surchargeRate) {
 			output.flags.add('public-pflegeversicherung-surcharge');
 		}
 	}
@@ -593,8 +592,6 @@ function getHealthInsuranceOptions({
 			// Public is the best option for students under 30
 			output.asList = [output.public, output.expat, output.private];	
 		}
-
-		// TODO: What about self-employed students?
 	}
 	else if(occupations.isMinijob(occupation, monthlyIncome)){
 		// Minijobbers can still have expat

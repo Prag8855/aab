@@ -29,9 +29,8 @@
 					yearlyIncome: userDefaults.yearlyIncome,
 					worksOver20HoursPerWeek: false,
 
-					isEUResident: false,
 					isApplyingForResidencePermit: false,
-					hasGermanInsurance: false,
+					currentInsurance: null,
 					isGettingSocialBenefits: false,
 
 					desiredService: null,
@@ -154,8 +153,7 @@
 						childrenCount: this.childrenCount,
 						hoursWorked: this.worksOver20HoursPerWeek ? 30 : 20,
 
-						hasGermanInsurance: this.hasGermanInsurance,
-						isEUResident: this.isEUResident,
+						currentInsurance: this.currentInsurance,
 
 						// Clear the income when the income input is not visible
 						monthlyIncome: this.isUnemployed ? 0 : +this.monthlyIncome,
@@ -166,7 +164,7 @@
 					return {
 						age: this.occupation ? this.age : undefined,
 						income: (
-							!occupations.isUnemployed(this.occupation)
+							!this.isUnemployed
 							&& this.yearlyIncome
 						) ? this.yearlyIncome : undefined,
 						occupation: this.occupation ? this.occupation : undefined,
@@ -182,6 +180,9 @@
 				},
 				eur(num) {
 					return formatCurrency(num, false, '€', false);
+				},
+				publicOptionPrice(id){
+					return this.results.public.options.find(o => o.id === id).total.personalContribution;
 				},
 				previousStage(){
 					if(!this.occupation){
@@ -342,7 +343,7 @@
 				<i class="icon left" aria-hidden="true"></i> <span class="no-mobile">Go back</span>
 			</button>
 			<button class="button primary" @click="nextStage('options')">
-				See options <i class="icon right" aria-hidden="true"></i>
+				Compare options <i class="icon right" aria-hidden="true"></i>
 			</button>
 		</div>
 	</template>
@@ -371,7 +372,7 @@
 							to
 							<eur :amount="maxPublicPrice.personalContribution"></eur>
 						</output>
-						per month</strong>, depending on the insurer you choose. There are dozens of options. Their cost and coverage are almost the same.
+						per month</strong>, depending on the insurer you choose. There are dozens of insurers. Their cost and coverage are almost the same.
 				</p>
 				<p v-if="publicHealthInsuranceClarification" v-html="publicHealthInsuranceClarification"></p>
 			</template>
@@ -406,7 +407,7 @@
 						{% endraw %}{% include "_css/icons/passport.svg" %}{% raw %}
 						<div>
 							<h3>European Health Insurance Card</h3>
-							<p>Your insurance from another EU country might cover you for free.</p>
+							<p>Your insurance from another EU country might cover you for free in Germany.</p>
 						</div>
 						<output>
 							<eur :amount="0"></eur> <small>per month</small>
