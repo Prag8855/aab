@@ -83,24 +83,26 @@ When you go to the doctor, you show your [insurance card](/glossary/Gesundheitsk
 ### Benefits of public health insurance
 
 - **The cost is proportional to your income**  
-    If you have a low income, you pay less. This is great if you have an unstable income, if you [lose your job](/guides/losing-your-job), or if you retire. If you just [started your business](/guides/start-a-business-in-germany) or if your income is not stable, choose public health insurance.[^27]
+    If you earn less money, your insurance is cheaper. If you have an unstable income, if you [lose your job](/guides/losing-your-job), or if you retire, your insurance stays affordable. If you just [started your business](/guides/start-a-business-in-germany), choose public health insurance.[^27]
 - **It's cheap for students**  
-    Students pay around €{{GKV_COST_STUDENT|cur}} per month until they are 30 years old. If you are under 30 years old, public is usually the best option.[^59]
+    Students under 30 years old pay around €{{GKV_COST_STUDENT|cur}} per month. If you are under 30 years old, public is usually the best option.[^59]
 - **It covers your family for free**  
     Your children and your unemployed spouse get [free health insurance](#free-health-insurance). Private health insurance charges for each person you cover. If you have more than 2 children, public is usually the cheapest option.[^12]
-- **It's easy to use**  
-    When you go to the doctor, you show your [insurance card](/glossary/Gesundheitskarte), and you get healthcare. You never need to think about coverage, [deductibles](/glossary/Selbstbeteiligung) or reimbursement. There is no paperwork; it just works.
-- **It's not tied to your health**  
-    You don't pay more if you have serious health conditions, or if you use your health insurance all the time.
+- **It's simple**  
+    When you go to the doctor, you show your [insurance card](/glossary/Gesundheitskarte), and you get healthcare. You don't need to worry about coverage, [deductibles](/glossary/Selbstbeteiligung) or reimbursement. There are no surprises; it just works.
+- **The cost is not tied to your health**  
+    If you are over 45 years old or you have pre-existing health conditions, public health insurance is usually the cheapest option. Private health insurers might reject you, or charge a lot more.
 
 ### Disadvantages of public health insurance
 
-- **It's expensive if you have a high income**  
-    If you have a high income, you pay more. If you are young and healthy when you join, private health insurance can be better *and* cheaper.[^58]
-- **It's harder to get doctor appointments**[^13]  
-    It's hard to find a psychotherapist, psychiatrist, gynaecologist, paediatrician or urologist. Those who accept public health insurance are booked for weeks or months. If you want to see a doctor quickly, private health insurance is much better.
-- **It does not cover special treatments**  
-    Public health insurance covers *necessary* care. You get the most cost-effective treatment.[^43] If you want fancier treatments, you must pay for the price difference. For example, it only covers amalgam tooth fillings, not fancy composite fillings. It only covers basic teeth cleanings, twice per year. Eyeglasses are rarely covered. If you want better coverage and better treatment, choose private health insurance.[^81]
+- **High earners pay more**  
+    If you have make a lot of money, you pay more. If you are young, healthy and well-paid, private health insurance can be better *and* cheaper.[^58]
+- **Doctor appointments are harder to get**[^13]  
+    It can take weeks or months to see a specialist. Psychotherapists, psychiatrists, gynaecologists, paediatricians and urologists that accept public health insurance are hard to find. If you want to see a doctor quickly, private health insurance is much better.
+- **Special treatments are not covered**  
+    Public health insurance covers the cheapest effective treatment.[^43] To get better treatments and better coverage, choose private health insurance.[^81]
+- **It's not available to everyone**  
+    If you come from outside the [EU](/glossary/European%20Union), and you are self-employed or a student over 30, you can't get public health insurance. You must get [private](/glossary/private%20Krankenversicherung) or [expat](/glossary/Expat%20health%20insurance) health insurance instead. There are [some exceptions](/guides/german-health-insurance/for-freelancers).
 
 ### Best public health insurance
 
