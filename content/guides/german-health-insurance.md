@@ -52,21 +52,33 @@ Public health insurance costs a percentage of your income. The cost is not affec
 
 The cost of public health insurance is [tax-deductible](/glossary/steuerlich%20absetzbar).
 
+Healthcare and medication are usually free. There is sometimes a €5 to €10 [deductible](/glossary/Selbstbeteiligung) for some treatments and prescriptions.[^70]
+
 ### What public insurance covers
 
-Public health insurance covers **all necessary healthcare**. All important treatments and medical prescriptions are covered. There is no limit on the cost of treatments.
+Public health insurance covers **all necessary healthcare**. All important treatments and medical prescriptions are covered. It covers all pre-existing conditions. There is no limit on the cost of treatments. You can get healthcare as often as you need. Your health insurance does not get more expensive if you use it often.
 
-Public health insurance covers "economic, sufficient, necessary and appropriate" healthcare. This means that it usually pays for the cheapest treatment that works. It also means that optional, aesthetic treatments are not covered. For example, it does not cover tooth whitening.
+Public health insurance covers "economic, sufficient, necessary and appropriate" healthcare. This means that **they pay for the cheapest treatment that works**.
 
-Public health insurance also covers your children and your unemployed spouse [for free](#free-health-insurance). This is called *[[Familienversicherung]]*.
+Your insurance covers...
 
-When you go to the doctor, you show your [insurance card](/glossary/Gesundheitskarte), and they charge your *[[Krankenkasse]]* directly. If a treatment is not covered, you know before you start. There are no surprise costs.
+- Your children and your unemployed spouse (*[[Familienversicherung]]*)
+- Long-term [sick leave](/guides/sick-leave)
+- Emergency healthcare in other [EU](/glossary/European%20Union) countries
+- Psychotherapy
+- Basic vaccinations[^7]
+- Cancer screenings
+- Necessary dental care (wisdom tooth removals, 2 dental check-ups per year)[^11]
 
-Public health insurance is almost completely free to use. There is sometimes a small [deductible](/glossary/Selbstbeteiligung): €5 to €10 per treatment or prescription.[^70]
+It does not cover...
 
-Essential dental care like wisdom teeth removal is covered. You also get 2 free dental check-ups every year. It does not cover tooth cleanings. You can get [dental insurance](/glossary/Zahnzusatzversicherung) to get better coverage.
+- Glasses and contact lenses (there are [some exceptions](/guides/eyeglasses#does-public-health-insurance-cover-glasses))
+- Travel vaccinations ([some insurers](https://www.krankenkassen.de/gesetzliche-krankenkassen/leistungen-gesetzliche-krankenkassen/reisemedizin/reiseimpfungen/) cover them)
+- Cosmetic treatments like tooth whitening, orthodontics and nicer tooth fillings[^1]
 
-Glasses and contact lenses [are rarely covered](/guides/eyeglasses). You must pay for them yourself.
+To get better coverage, get [dental insurance](/glossary/Zahnzusatzversicherung) or supplementary health insurance.
+
+When you go to the doctor, you show your [insurance card](/glossary/Gesundheitskarte), and they charge your *[[Krankenkasse]]* directly. There is no reimbursement process.[^4] If a treatment is not covered, you know before you start. There are no surprise costs.
 
 ### Benefits of public health insurance
 
@@ -402,13 +414,17 @@ If you have public health insurance, you pay out of your paycheck every month. I
 - [ ] **[Become an organ donor](/guides/organ-donor)**{{ RECOMMENDED }}  
     It's really easy. It can save another person's life.
 
+[^1]: [verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/krankenversicherung/alle-kassenleistungen-der-zahnmedizin-im-ueberblick-12921#:~:text=die%20gesetzlichen%20krankenkassen%20erstatten%20im%20frontzahnbereich) (March 2025)
 [^2]: [gesundheitsinformation.de](https://www.gesundheitsinformation.de/krankenversicherung-in-deutschland.html), [gkv-spitzenverband.de](https://www.gkv-spitzenverband.de/english/statutory_health_insurance/statutory_health_insurance.jsp), [verwaltung.bund.de](https://verwaltung.bund.de/leistungsverzeichnis/en/rechte-und-pflichten/102837937) (April 2025)
 [^3]: [versicherungspflichtgrenzen.de](https://www.versicherungspflichtgrenzen.de/html/pflichtversicherungsgrenzen.html)
+[^4]: [krankenkassen.de](https://www.krankenkassen.de/gesetzliche-krankenkassen/leistungen-gesetzliche-krankenkassen/gesetzlich-vorgeschriebene-leistungen/gesetzliche-leistungen/#:~:text=der%20patient%20muss%20nichts%20vorfinanzieren) (July 2025)
 [^5]: [Emily Archer](https://www.archer-relocation.com/) (April 2025), [Feather](https://feather-insurance.com/blog/germany-health-insurance-expats-guide/?utm_source=allaboutberlin#:~:text=this%20type%20of%20insurance%20is%20for%20visa%20applications%2C) (April 2025)
 [^6]: [Emily Archer](https://www.archer-relocation.com/) (April 2025)
+[^7]: [krankenkassen.de](https://www.krankenkassen.de/gesetzliche-krankenkassen/leistungen-gesetzliche-krankenkassen/gesetzlich-vorgeschriebene-leistungen/neue-leistungen/Impfschutz/) (June 2025)
 [^8]: [Seamus Wolf](/out/horizon65) (April 2025)
 [^9]: [FinanXpats](https://www.finanxpats.com/health-insurance/2025-health-insurance-guide-for-expats#:~:text=pre-existing%20conditions%20may%20lead%20to%20risk%20surcharges) (April 2025), [Feather Insurance](https://feather-insurance.com/blog/health-insurance-guide-private-health-insurance/?utm_source=allaboutberlin#:~:text=private%20health%20insurance%20companies%20reject%20these%20applications) (April 2025)
 [^10]: [krankenkassenzentrale.de](http://web.archive.org/web/20220926103421/https://www.krankenkassenzentrale.de/wiki/krankenkasse-arbeitslosigkeit), [tk.de](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-versicherte/veraenderung-berufliche-situation/wenn-sie-arbeitslos-sind-2000802)
+[^11]: [verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/krankenversicherung/alle-kassenleistungen-der-zahnmedizin-im-ueberblick-12921#:~:text=2%20zahnarztliche%20kontrolluntersuchungen%20im%20jahr) (March 2025)
 [^12]: [Seamus Wolf](/out/horizon65) (April 2025), [Mona Anbari](https://versicherungsbuero-weiss.com/) (April 2025), [Emily Archer](https://www.archer-relocation.com/) (April 2025), [finanztip.de](https://www.finanztip.de/pkv/pkv-wechsel/#:~:text=hast%20du%20aber%20familie%20oder%20planst) (January 2025), [FinanXpats](https://www.finanxpats.com/health-insurance/2025-health-insurance-guide-for-expats#:~:text=recommended%20for%20families) (April 2025)
 [^13]: [arzt-wirtschaft.de](https://www.arzt-wirtschaft.de/news/studie-zur-terminvergabe-und-erreichbarkeit-bei-fachaerzten) (2024), [sueddeutsche.de](https://www.sueddeutsche.de/wirtschaft/pkv-gkv-wartezeiten-krankenversicherung-private-krankenversicherung-li.3173323) (2024), [study](https://www.monitor-versorgungsforschung.de/abstract/einfluss-von-versichertenstatus-und-einkommen-auf-die-wartezeit-im-ambulanten-bereich/) (2013)
 [^14]: [Feather Insurance](https://feather-insurance.com/blog/health-insurance-germany-freelancer-guide/?utm_source=allaboutberlin#:~:text=you%20must%20sign%20up%20for%20public%20insurance%20within%203%20months%20of%20ending%20your%20home%20country%E2%80%99s%20insurance) (April 2025)
