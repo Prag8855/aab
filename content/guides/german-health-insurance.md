@@ -92,6 +92,8 @@ When you go to the doctor, you show your [insurance card](/glossary/Gesundheitsk
     When you go to the doctor, you show your [insurance card](/glossary/Gesundheitskarte), and you get healthcare. You don't need to worry about coverage, [deductibles](/glossary/Selbstbeteiligung) or reimbursement. There are no surprises; it just works.
 - **The cost is not tied to your health**  
     If you are over 45 years old or you have pre-existing health conditions, public health insurance is usually the cheapest option. Private health insurers might reject you, or charge a lot more.
+- **It's never a bad decision**  
+    Public health insurance is a safe option. Insurers have similar prices and coverage, so you can't choose wrong. If you change your mind, you can choose another public health insurer, or switch to private health insurance. If you choose private health insurance, it's much harder to change your mind.[^20]
 
 ### Disadvantages of public health insurance
 
