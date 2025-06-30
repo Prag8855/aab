@@ -118,12 +118,14 @@ When you go to the doctor, you show your [insurance card](/glossary/Gesundheitsk
 
 13% of Germans have [private health insurance](/glossary/private%20Krankenversicherung).[^2] You can get private health insurance if...
 
-- You are and employee and you earn over €{{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}} per year[^3]
+- You are an employee and earn more than €{{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}} per year[^3]
 - or you are self-employed
 - or you are a student
+- or you have a [minijob](/glossary/Minijob)
+- or you earn less than €{{GKV_FAMILIENVERSICHERUNG_MAX_INCOME|cur}} per month
 - or you are a civil servant (*Beamter*)[^31]
 
-Everyone else must get [public health insurance](#public-health-insurance).
+Everyone else must choose [public health insurance](#public-health-insurance).
 
 ### Cost of private health insurance
 
