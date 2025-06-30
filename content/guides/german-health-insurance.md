@@ -152,14 +152,16 @@ The cost of private health insurance is [tax-deductible](/glossary/steuerlich%20
 
 ### Benefits of private health insurance
 
-- **Cheaper than public for high earners**[^19]  
-    If you have a high income, private is usually cheaper than public. You can also pay a similar price, but get better coverage.
+- **It's better and cheaper for high earners**[^19]  
+    If you are young, healthy and well-paid, private is usually better *and* better than public. I have private, and I save around €600 per month.
 - **Faster doctor appointments**  
-    You can get an appointment in days instead of weeks. Try it yourself: go on [Doctolib](https://www.doctolib.de/), and look for the earliest doctor appointment. Try again with private health insurance. It's really hard to find a psychiatrist, a gynaecologist or a paediatrician with public health insurance. It's much easier with private health insurance.
+    It's much easier to see a specialist. You get an appointment in days instead of weeks. You can try it yourself. Go on [Doctolib](https://www.doctolib.de/), and find a doctor appointment with public, then private health insurance.
+- **Better treatment**  
+    Private clinics usually have better service. Doctors are more patient. They take the time to listen to you.[^25] You can prescribed expensive medication without trying every cheaper option first.
 - **You choose your coverage**  
-    Your insurance can cover dental care, travel health insurance, special medication and special treatments. You can pay more every month for the best coverage. If you choose lower coverage and a high [deductible](/glossary/Selbstbeteiligung), you pay less every month.[^17]
+    Your insurance can cover dental care, travel health insurance, special medication and special treatments. You can pay more to get the best coverage. If you want to pay less, you can get lower coverage and choose a high [deductible](/glossary/Selbstbeteiligung).[^17]
 - **You pay less when you don't use it**  
-    Many private health insurers have a no-claims bonus. If you don't use your health insurance, you get money back every year. If you never get sick, you can save a lot of money. In 2024, I got a €640 refund.
+    Many private health insurers have a no-claims bonus. If you don't use your health insurance, you get money back every year. If you never get sick, you can save a lot of money. In 2024, I got a €640 refund.{{ fail_on('2026-03-01')}}
 
 ### Disadvantages of private health insurance
 
@@ -442,6 +444,7 @@ If you have public health insurance, you pay out of your paycheck every month. I
 [^22]: [care-concept.de](https://www.care-concept.de/expatriates_eng.php?navilang=eng#:~:text=up%20to%20a%20maximum%20of%205%20years) (April 2025), [mawista.com](https://www.mawista.com/en/tariffs/health-insurance-expatcare/) (April 2025), [Feather Insurance](https://feather-insurance.com/health-insurance/expat?utm_source=allaboutberlin#:~:text=maximum%20length%20of%20policy) (April 2025)
 [^23]: [health-insurance.de](https://www.health-insurance.de/living/eu-citizen/#:~:text=ehic%20is%20limited%20to%20emergencies) (April 2025), [ec.europa.eu](https://employment-social-affairs.ec.europa.eu/policies-and-activities/moving-working-europe/eu-social-security-coordination/frequently-asked-questions/faq-social-security-european-health-insurance-card_en#:~:text=taking%20account%20of%20the%20duration%20of%20their%20stay) (April 2025)
 [^24]: [dvka.de](https://www.dvka.de/media/dokumente/merkblaetter/urlaub-in-deutschland/ehic_dt_englisch.pdf), [Seamus Wolf](/out/horizon65) (April 2025)
+[^25]: [Twitter](https://x.com/kaanuzdogan/status/1939635417025843655) (June 2025)
 [^26]: [Mona Anbari](https://versicherungsbuero-weiss.com/) (April 2025)
 [^27]: [finanztip.de](https://www.finanztip.de/pkv/pkv-wechsel/#:~:text=gerade%20zu%20beginn%20deiner%20selbststandigkeit%20empfehlen%20wir%20dir%2C%20in%20der%20gkv%20zu%20bleiben) (January 2025), [Feather Insurance](https://feather-insurance.com/blog/public-vs-private-health-insurance-germany/?utm_source=allaboutberlin#:~:text=%20if%20you%E2%80%99re%20a%20high-earner) (April 2025), [Emily Archer](https://www.archer-relocation.com/) says that the amount is not fixed, but that insurers need to see that you can cover your insurance bills (April 2025)
 [^28]: [finanztip.de](https://www.finanztip.de/pkv/pkv-wechsel/#:~:text=idealerweise%20solltest%20du%20nicht%20alter%20als%2035%20bis%2040%20jahre%20sein) (January 2025), [Mona Anbari](https://versicherungsbuero-weiss.com/) (April 2025)
