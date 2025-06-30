@@ -50,9 +50,9 @@ Public health insurance costs a percentage of your income. The cost is not affec
 - **[If you are unemployed](/guides/german-health-insurance/when-unemployed)**  
     You pay the [minimum amount](/glossary/Mindestbeitrag): around €{{GKV_MIN_COST_SELF_PAY|cur}} per month. When you [lose your job](/guides/losing-your-job), you sometimes get [one month of free health insurance](/guides/losing-your-job#what-happens-to-your-health-insurance).
 
-The cost of public health insurance is [tax-deductible](/glossary/steuerlich%20absetzbar).
-
 Healthcare and medication are usually free. There is sometimes a €5 to €10 [deductible](/glossary/Selbstbeteiligung) for some treatments and prescriptions.[^70]
+
+The cost of public health insurance is [tax-deductible](/glossary/steuerlich%20absetzbar).
 
 ### What public insurance covers
 
@@ -72,7 +72,7 @@ Your insurance covers...
 
 It does not cover...
 
-- Glasses and contact lenses (there are [some exceptions](/guides/eyeglasses#does-public-health-insurance-cover-glasses))
+- Glasses and contact lenses ([there are exceptions](/guides/eyeglasses#does-public-health-insurance-cover-glasses))
 - Travel vaccinations ([some insurers](https://www.krankenkassen.de/gesetzliche-krankenkassen/leistungen-gesetzliche-krankenkassen/reisemedizin/reiseimpfungen/) cover them)
 - Cosmetic treatments like tooth whitening, orthodontics and nicer tooth fillings[^1]
 
@@ -108,7 +108,7 @@ When you go to the doctor, you show your [insurance card](/glossary/Gesundheitsk
 
 ### Best public health insurance
 
-[Public health insurers](/glossary/Krankenkasse) have almost the same cost and coverage.[^85] The price difference is less than €20 per month after taxes. The biggest differences are customer service, and coverage of specific treatments.[^15] For example, one insurer can have better coverage for pregnancy, dental care or travel vaccinations.
+[Public health insurers](/glossary/Krankenkasse) have almost the same cost and coverage.[^85] The price difference is less than €20 per month after taxes. The biggest differences are customer service, and coverage of specific treatments.[^15] For example, one insurer can have better coverage for pregnancy, eyeglasses, dental care or travel vaccinations.
 
 **[Barmer](/out/barmer)** and **[Techniker Krankenkasse](/out/feather-tk)** are good English-speaking options. Barmer has the best English-language support and service for immigrants.[^57] Techniker Krankenkasse is also [very good](/guides/techniker-krankenkasse-review), and it's a little cheaper.{{ fail_on('2025-12-31') }}
 
@@ -260,7 +260,7 @@ Get expat health insurance from a [health insurance broker](#insurance-brokers).
 
 ### Travel health insurance
 
-Travel health insurance covers medical emergencies when you visit another country. It does not cover therapy, long-term treatments, health check-ups or pre-existing conditions.
+Travel health insurance covers medical emergencies in other countries. It does not cover therapy, long-term treatments, health check-ups or pre-existing conditions.
 
 - **[If you visit Germany](/guides/german-health-insurance/for-a-visa-application#for-a-schengen-visa)**, travel insurance covers you during your trip. You need travel health insurance to get a [[Schengen visa]]. It does not cover you after you [move to Germany](/guides/moving-to-berlin). It's rarely valid for a [residence permit](/glossary/Aufenthaltstitel) application.
 - **If you move to Germany**, travel health insurance is not valid. You must get public, private or expat health insurance.
@@ -437,6 +437,7 @@ If you have public health insurance, you pay out of your paycheck every month. I
 [^17]: [blog.feather-insurance.com](https://feather-insurance.com/blog/how-are-private-health-insurance-payments-different-from-public-health-insurance/?utm_source=allaboutberlin)
 [^18]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/c2j339/is_pkv_still_a_terrible_idea_if_i_likely_wont/ermsqt7/)
 [^19]: [Feather Insurance](https://feather-insurance.com/blog/public-vs-private-health-insurance-germany/?utm_source=allaboutberlin#:~:text=for%20high%20earners%2C%20private%20insurance%20can%20be%20cheaper) (April 2025)
+[^20]: [Seamus Wolf](/out/horizon65) (June 2025)
 [^21]: [Emily Archer](https://www.archer-relocation.com/) (April 2025), multiple relocation consultants (2025)
 [^22]: [care-concept.de](https://www.care-concept.de/expatriates_eng.php?navilang=eng#:~:text=up%20to%20a%20maximum%20of%205%20years) (April 2025), [mawista.com](https://www.mawista.com/en/tariffs/health-insurance-expatcare/) (April 2025), [Feather Insurance](https://feather-insurance.com/health-insurance/expat?utm_source=allaboutberlin#:~:text=maximum%20length%20of%20policy) (April 2025)
 [^23]: [health-insurance.de](https://www.health-insurance.de/living/eu-citizen/#:~:text=ehic%20is%20limited%20to%20emergencies) (April 2025), [ec.europa.eu](https://employment-social-affairs.ec.europa.eu/policies-and-activities/moving-working-europe/eu-social-security-coordination/frequently-asked-questions/faq-social-security-european-health-insurance-card_en#:~:text=taking%20account%20of%20the%20duration%20of%20their%20stay) (April 2025)
@@ -459,7 +460,6 @@ If you have public health insurance, you pay out of your paycheck every month. I
 [^44]: [Seamus Wolf](/out/horizon65) (April 2025), [Emily Archer](https://www.archer-relocation.com/) (April 2025)
 [^45]: [Techniker Krankenkasse](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-versicherte/veraenderung-berufliche-situation/versichert-als-arbeitnehmer/berufliche-auszeiten/elternzeit/beitragszahlung-waehrend-elternzeit---elterngeld-2005602) (May 2025), [familienportal.de](https://familienportal.de/familienportal/familienleistungen/elternzeit/arbeit-versicherung/wie-bin-ich-waehrend-der-elternzeit-versichert--124862) (May 2025)
 [^48]: [AOK](https://www.aok.de/pk/krankenkassenbeitraege/auszubildende/#:~:text=auszubildende%20mussen%20keine%20krankenkassenbeitrage%20zahlen%2C%20wenn%20ihr%20monatsverdienst%20nicht%20mehr%20als%20325%20euro%20betragt) (March 2025), [Check24](https://www.check24.de/gesetzliche-krankenversicherung/azubis/#:~:text=wer%20eine%20ausbildungsvergutung%20von%20weniger%20als%20325%20euro%20im%20monat%20erhalt%2C%20muss%20keine%20beitrage%20zur%20krankenversicherung%20zahlen.) (March 2025), [Techniker Krankenkasse](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-versicherte/veraenderung-berufliche-situation/versichert-als-schueler-und-auszubildende/beitraege-azubi-auszubildende-hoehe-beitragshoehe-2010362#:~:text=verdienen%20sie%20nicht%20mehr%20als%20325%20euro%20brutto%20monatlich%2C%20zahlt%20ihr%20arbeitgeber%20die%20gesamten%20beitrage.) (March 2025)
-[^51]: [Seamus Wolf](/out/horizon65) (April 2025)
 [^53]: [gesetzliche-krankenkassen.de](https://www.gesetzliche-krankenkassen.de/auszubildende-azubis/#:~:text=familienversicherung%20ist%20wahrend%20der%20ausbildung%20nicht%20moglich) (March 2025)
 [^57]: Carina Busch, [Seamus Wolf](/out/horizon65) (April 2025)
 [^58]: [Seamus Wolf](/out/horizon65) (April 2025), [finanztip](https://www.finanztip.de/pkv/pkv-kosten/#:~:text=fur%20junge%2C%20gesunde%20menschen%20ist%20die%20private%20krankenversicherung) (February 2025), [verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/krankenversicherung/private-krankenversicherung-nicht-fuer-jeden-sinnvoll-13884#:~:text=kann%20es%20unter%20finanziellen%20gesichtspunkten%20sinnvoll%20sein%2C%20in%20eine%20private%20krankenversicherung%20zu%20wechseln) (2024)
