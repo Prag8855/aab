@@ -74,7 +74,9 @@ It does not cover...
 
 - Glasses and contact lenses ([there are exceptions](/guides/eyeglasses#does-public-health-insurance-cover-glasses))
 - Travel vaccinations ([some insurers](https://www.krankenkassen.de/gesetzliche-krankenkassen/leistungen-gesetzliche-krankenkassen/reisemedizin/reiseimpfungen/) cover them)
-- Cosmetic treatments like tooth whitening, orthodontics and nicer tooth fillings[^1]
+- Cosmetic treatments like removing a mole, tooth whitening, orthodontics, nicer tooth fillings[^1]
+- Alternative medicine like acupuncture and osteopathy
+
 
 To get better coverage, get [dental insurance](/glossary/Zahnzusatzversicherung) or supplementary health insurance.
 
