@@ -20,9 +20,10 @@ You are *freiwillig versichert* if...
 - You are an employee, and you earn over €{{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}} per year
 - or you are self-employed
 - or you are a student
+- or you have a [minijob](/glossary/Minijob)
 - or you earn less than €{{GKV_FAMILIENVERSICHERUNG_MAX_INCOME|cur}} per month
-- or you have a [[Minijob]]
 - or you are a civil servant (*Beamter*)
-- or you are a doctor
+
+Everyone else is *[[Pflichtversichert]]* and must choose public health insurance.
 
 **[How to choose health insurance ➞](/guides/german-health-insurance)**
