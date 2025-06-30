@@ -108,11 +108,11 @@ When you go to the doctor, you show your [insurance card](/glossary/Gesundheitsk
 
 ### Best public health insurance
 
-[Public health insurers](/glossary/Krankenkasse) have almost the same cost and coverage.[^85] The price difference is less than €20 per month after taxes. The biggest difference is customer service.[^15]
+[Public health insurers](/glossary/Krankenkasse) have almost the same cost and coverage.[^85] The price difference is less than €20 per month after taxes. The biggest differences are customer service, and coverage of specific treatments.[^15] For example, one insurer can have better coverage for pregnancy, dental care or travel vaccinations.
 
-If you need an English-speaking public health insurer, choose [Barmer](/out/barmer) or [Techniker Krankenkasse](/out/feather-tk). Barmer has the best English-language support and service for immigrants.[^57] Techniker Krankenkasse is also [very good](/guides/techniker-krankenkasse-review), and a little cheaper.{{ fail_on('2025-12-31') }}
+**[Barmer](/out/barmer)** and **[Techniker Krankenkasse](/out/feather-tk)** are good English-speaking options. Barmer has the best English-language support and service for immigrants.[^57] Techniker Krankenkasse is also [very good](/guides/techniker-krankenkasse-review), and it's a little cheaper.{{ fail_on('2025-12-31') }}
 
-The most important question is public or private health insurance.[^51] [Ask an expert](#insurance-brokers) to help you decide. They can get you cheaper health insurance *and* better coverage.
+[Ask my insurance expert](#insurance-brokers) to help you choose the best public health insurance. It's a free service. He can also help you choose between public and private health insurance.
 
 ## Private health insurance
 
