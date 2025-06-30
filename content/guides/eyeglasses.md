@@ -26,30 +26,21 @@ In those cases, health insurance only pays for basic lenses.[^2] It does not pay
 
 When you buy glasses, the optician charges your health insurance directly. You don't need to ask for a reimbursement.[^3] You must buy eyeglasses less than 4 weeks after getting an eye test.[^3]
 
-**Useful links:**
-
-- [Information about eyeglasses](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-versicherte/leistungen/weitere-leistungen/hilfsmittel/brille-und-kontaktlinsen-2001122) (German) - [TK](/glossary/Techniker%20Krankenkasse)
-- [Information about eyeglasses](https://www.aok.de/pk/leistungen/sehschwaechen-hoerschwaechen/untersuchungen-sehhilfen-brillen/) (German) - AOK
-
 ### Are contact lenses covered?
 
-The rules for contact lenses are the same as for eyeglasses. Cleaning liquid is not covered by public health insurance.
+No. The rules for contact lenses are the same as for eyeglasses.
 
 ### Are eye tests covered?
 
-**Yes**. If you go to an ophthalmologist (*Augenarzt*), the eye test is free.[^4] Your health insurance pays for it. If you have a prescription, and you need glasses for your work, [your employer must pay for them](/guides/eyeglasses#do-employers-cover-glasses).
+**Yes**. If you go to an ophthalmologist (*[[Augenarzt]]*), the eye test is free.[^4] Your health insurance pays for it. If you have a prescription, and you need glasses for your work, [your employer must pay for them](/guides/eyeglasses#do-employers-cover-glasses).
 
 If you go to an optician (*[[Optiker]]*), the test is not covered by your insurance. You must pay for the test yourself. There is one exception: [TK](/glossary/Techniker%20Krankenkasse) pays for tests at the optician, but only for children under 14 years old.[^5]
-
-**Useful links:**
-
-- [Information about eye tests](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-versicherte/leistungen/weitere-leistungen/hilfsmittel/brille-und-kontaktlinsen/bestimmung-sehschaerfe-kassenleistung-2004628) (German) - [TK](/glossary/Techniker%20Krankenkasse)
 
 ## Does private health insurance cover glasses?
 
 **Sometimes.** Many private health insurers pay for eyeglasses. Usually, you can spend a fixed amount on eyeglasses every 2 or 3 years.
 
-[Private health insurance](/glossary/private%20Krankenversicherung) coverage varies a lot. You must check your insurance policy (under *Hilfsmittel*). If you are still [choosing health insurance](/guides/german-health-insurance), a [health insurance broker](/guides/german-health-insurance#insurance-brokers) can help you find health insurance that covers glasses.
+[Private health insurance](/glossary/private%20Krankenversicherung) coverage varies a lot. You must check your insurance policy (under *Hilfsmittel*). If you are still [choosing health insurance](/guides/german-health-insurance), [ask my insurance expert](/guides/german-health-insurance#insurance-brokers) to help you find health insurance that covers glasses.
 
 ## Do employers cover glasses?
 
