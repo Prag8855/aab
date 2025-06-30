@@ -129,26 +129,22 @@ Everyone else must choose [public health insurance](#public-health-insurance).
 
 ### Cost of private health insurance
 
-Your employer pays half of your health insurance. If you are self-employed, you pay the full price yourself.[^18] You pay for health insurance by [direct debit authorisation](/glossary/SEPA-Lastschriftmandat) every month.[^8]
+Use my [health insurance recommendation tool](#your-options) to get a price estimate.
 
-The cost depends on 4 things:
+If you are a young, healthy employee, private health insurance costs around €300 per month.[^62]{{ fail_on('2026-02-01')}} As a 32-year-old freelancer, I pay €600 per month. Some insurers have discounts for students.
+
+The cost depends on 4 factors:
 
 - **Your age when you join**  
-    Young people pay less. The insurer saves a part of your payments for old age. If you join when you are young, you pay less when you are old. If you plan to leave Germany after a few years, you can get health insurance without old age provisions. It's much cheaper. If you are over 45 years old, public health insurance usually makes more sense.[^28]
+    Younger people pay less. The insurer saves a part of your payments for old age. If you join when you are young, you pay less when you are old. If you plan to leave Germany after a few years, you can also get health insurance without old age provisions. It's around 50% cheaper.
 - **Your health condition when you join**  
-    If you have no health insurance history, you must get a health check at the doctor.[^44] If you have pre-existing health problems, insurers charge more or reject you.[^9] After you join, if you get really sick and use your insurance all the time, the price does not change, and they can't kick you out.
+    If you have no health insurance history, you must get a health check at the doctor.[^44] If you have pre-existing health problems, insurers reject you or charge more.[^9] After you join, your health does not affect the price, even if you get really sick.
 - **The coverage you choose**  
-    You can get the best coverage or the lowest price. To cover your spouse and children, you must pay more.
+    You can get the best coverage or the lowest price. You must pay more to cover your spouse and children.
 - **Your [deductible](/glossary/Selbstbeteiligung)**  
-    A high deductible means lower monthly payments, but it also means paying out of pocket for most of your healthcare.
+    If you choose a high [deductible](/glossary/Selbstbeteiligung) (around €1200), your health insurance is cheaper. When you get sick, you must pay out of pocket for most of your healthcare. You also get a yearly discount if you don't use your health insurance.[^17] I get around €600 back every year.{{ fail_on('2027-02-01')}}
 
-**[Quick price estimation ➞](/out/feather-private-estimate)**
-
-You can get really cheap private health insurance. You have low monthly payments, but you pay more when you get healthcare. Usually, there is a high [deductible](/glossary/Selbstbeteiligung), and you get a yearly discount if you don't use your health insurance.[^17]
-
-You can also pay more and get the best coverage. You have higher monthly payments, but there is no deductible.
-
-A young, healthy employee could pay just €250 per month for private insurance.[^62] Some insurers also have discounts for students.
+Your employer pays half of your health insurance. If you are self-employed or a student, you pay the full price yourself.[^18] You pay for your health insurance every month by [bank transfer](/glossary/SEPA-Überweisung).[^8]
 
 The cost of private health insurance is [tax-deductible](/glossary/steuerlich%20absetzbar).
 
