@@ -9,15 +9,15 @@ Related_reviews:
     reviews/german-health-insurance/mona-anbari.md
 ---
 
-When you [move to Germany](/guides/moving-to-berlin), you must choose health insurance. This guide explains how it works, and how to choose the best health insurance.
+If you live in Germany, you need health insurance. It pays for your healthcare when you are sick. You must get insured before you [start a new job](/guides/find-a-job-in-berlin#start-working), study at a German university, or [apply for a residence permit](/guides/residence-permit).
 
-All German residents need health insurance. It pays for your healthcare when you are sick. You also need it to [start a new job](/guides/find-a-job-in-berlin#start-working), study at a German university, or [apply for a residence permit](/guides/residence-permit).
+This guide explains how to choose the best health insurance for your needs.
 
 {% include "_blocks/tableOfContents.html" %}
 
 ## Your options
 
-Use my [health insurance picker](/tools/health-insurance-calculator) to see your options.
+Germany has [public](/glossary/gesetzliche%20Krankenversicherung), [private](/glossary/private%20Krankenversicherung) and [expat](/glossary/Expat%20health%20insurance) health insurance. The best option depends on your situation. I explain each option below.
 
 {% include '_blocks/healthInsuranceCalculatorStatic.html' %}
 
