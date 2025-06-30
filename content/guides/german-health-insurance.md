@@ -31,17 +31,24 @@ There is a guide for each occupation:
 
 ## Public health insurance
 
-Public health insurance is run by [non-profit insurance funds](/glossary/Krankenkasse), not by the state. The cost and coverage are almost the same for all public health insurers.[^85] 87% of Germans have [public health insurance](/glossary/gesetzliche%20Krankenversicherung).[^2] It's often your only option.
+87% of Germans have [public health insurance](/glossary/gesetzliche%20Krankenversicherung).[^2] It might be your only option.
+
+Public health insurance is run by [non-profit insurance funds](/glossary/Krankenkasse). It's not run by the state. There are dozens of insurers. Their cost and coverage are almost the same.[^85]
 
 ### Cost of public health insurance
 
-Public health insurance costs {{GKV_BASE_RATE_EMPLOYEE}}% of your income, plus around {{GKV_AVG_ZUSATZBEITRAG}}% for the [insurer surcharge](/glossary/Zusatzbeitrag), and {{PFLEGEVERSICHERUNG_MIN_RATE}}% to {{PFLEGEVERSICHERUNG_MAX_RATE}}% for [long-term care insurance](/glossary/Pflegeversicherung). If you are an employee, your employer pays half of it.
+Public health insurance costs a percentage of your income. The cost is not affected by your age, your health condition, or how often you get sick.
 
-- **[If you are an employee](/guides/german-health-insurance/for-employees)**, you pay {{GKV_MIN_RATE_EMPLOYEE}}% to {{GKV_MAX_RATE_EMPLOYEE}}% of your income (including *[[Pflegeversicherung]]*). The [minimum cost](/glossary/Mindestbeitrag) is around €{{GKV_MIN_COST_EMPLOYEE|cur}} per month. The [maximum cost](/glossary/Höchstbeitrag) is around €{{GKV_MAX_COST_EMPLOYEE|cur}} per month. Health insurance payments are taken from your paycheck each month.
-- **[If you are a student](/guides/german-health-insurance/for-students)**, you usually pay the student tariff: €{{GKV_COST_STUDENT|cur}} per month. If you are over 30 years old, you can't get the student tariff, so you pay the same price as everyone else.
-- **[If you are self-employed](/guides/german-health-insurance/for-freelancers)**, you pay {{GKV_MIN_RATE_SELF_PAY}}% to {{GKV_MAX_RATE_SELF_PAY}}% of your income. The [minimum cost](/glossary/Mindestbeitrag) is around €{{GKV_MIN_COST_SELF_PAY|cur}} per month. The [maximum cost](/glossary/Höchstbeitrag) is around €{{GKV_MAX_COST_SELF_PAY|cur}} per month. You pay for health insurance by [direct debit authorisation](/glossary/SEPA-Lastschriftmandat) every month.[^8]
-- **[If you are an apprentice](/guides/german-health-insurance/for-apprentices)** (*[[Azubi]]*) and you earn €{{GKV_AZUBI_FREIBETRAG|cur}} per month or less, you get free public health insurance. Your employer pays for it.[^48]
-- **[If you are unemployed](/guides/german-health-insurance/when-unemployed)**, you pay the [minimum amount](/glossary/Mindestbeitrag): around €{{GKV_MIN_COST_SELF_PAY|cur}} per month. When you [lose your job](/guides/losing-your-job), you sometimes get [one month of free health insurance](/guides/losing-your-job#what-happens-to-your-health-insurance).
+- **[If you are an employee](/guides/german-health-insurance/for-employees)**  
+    You pay {{GKV_MIN_RATE_EMPLOYEE}}% to {{GKV_MAX_RATE_EMPLOYEE}}% of your income (including [long-term care insurance](/glossary/Pflegeversicherung)). The [minimum cost](/glossary/Mindestbeitrag) is around €{{GKV_MIN_COST_EMPLOYEE|cur}} per month. The [maximum cost](/glossary/Höchstbeitrag) is around €{{GKV_MAX_COST_EMPLOYEE|cur}} per month. It comes out of your paycheck every month.
+- **[If you are a student](/guides/german-health-insurance/for-students)**  
+    You usually pay the student tariff: €{{GKV_COST_STUDENT|cur}} per month. If you are over 30 years old, you can't get the student tariff, so you pay around €{{GKV_MIN_COST_SELF_PAY|cur}} per month.
+- **[If you are self-employed](/guides/german-health-insurance/for-freelancers)**  
+    You pay {{GKV_MIN_RATE_SELF_PAY}}% to {{GKV_MAX_RATE_SELF_PAY}}% of your income (including [long-term care insurance](/glossary/Pflegeversicherung)). The [minimum cost](/glossary/Mindestbeitrag) is around €{{GKV_MIN_COST_SELF_PAY|cur}} per month. The [maximum cost](/glossary/Höchstbeitrag) is around €{{GKV_MAX_COST_SELF_PAY|cur}} per month. You pay for health insurance by [bank transfer](/glossary/SEPA-Überweisung) every month.[^8]
+- **[If you are an apprentice](/guides/german-health-insurance/for-apprentices)** (*[[Azubi]]*)  
+    If you earn €{{GKV_AZUBI_FREIBETRAG|cur}} per month or less, you get free insurance. Your employer pays for it.[^48] If you earn more, you pay the same amount as employees.
+- **[If you are unemployed](/guides/german-health-insurance/when-unemployed)**  
+    You pay the [minimum amount](/glossary/Mindestbeitrag): around €{{GKV_MIN_COST_SELF_PAY|cur}} per month. When you [lose your job](/guides/losing-your-job), you sometimes get [one month of free health insurance](/guides/losing-your-job#what-happens-to-your-health-insurance).
 
 The cost of public health insurance is [tax-deductible](/glossary/steuerlich%20absetzbar).
 
