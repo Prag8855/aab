@@ -1,10 +1,10 @@
 ---
-Name: ExpatEase
+Name: ExpatEaze
 Description: 
-Website: http://horbachexpats.com/
-Email: hello@expateaze.com
-Address: Balanstr. 73 Haus 12, 2.OG, 81541 München
-Latitude: 48.119409
-Longitude: 11.602924
+Website: https://www.expateaze.de/
+Email: khaled@expateaze.com
+Address: Erich Weinert Str 46, 10439
+Latitude: 52.550203
+Longitude: 13.421093
 Google_Place_ID: ChIJ3_2d92PfnUcRrImINywVelM
 ---
