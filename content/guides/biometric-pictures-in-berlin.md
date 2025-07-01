@@ -22,7 +22,7 @@ They do not accept...
 - Photos that you have taken yourself
 - Photos from random photo kiosks
 
-This applies to photos for [residence permits](/glossary/Aufenthaltstitel), passports and [personal IDs](/glossary/Personalausweis). So far, it does not apply to driving licence pictures.{{ fail_on('2025-07-01') }}
+This applies to photos for [residence permits](/glossary/Aufenthaltstitel), passports and [personal IDs](/glossary/Personalausweis). So far, it does not apply to driving licence pictures.{{ fail_on('2025-12-01') }}
 
 Digital biometric pictures are valid for 6 months. You can use the same photo multiple times.[^3]
 

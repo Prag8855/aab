@@ -16,14 +16,14 @@ ctx = {}
 # TAXES
 # ==============================================================================
 
-# German minimum wage (€/h)
-ctx['MINIMUM_WAGE'] = fail_on('2025-07-01', Decimal('12.82'))
+# German minimum wage (€/h) - https://www.bmas.de/DE/Arbeit/Arbeitsrecht/Mindestlohn/mindestlohn.html
+ctx['MINIMUM_WAGE'] = fail_on('2025-12-01', Decimal('12.82'))
 
 ctx["MEDIAN_INCOME_BERLIN"] = fail_on('2025-12-31', 47784)  # 2023
 ctx["MEDIAN_INCOME_GERMANY"] = fail_on('2025-12-31', 45552)  # 2023
 
 # Minimum allowance for au pairs (€/mth)
-ctx["AU_PAIR_MIN_ALLOWANCE"] = fail_on('2025-07-01', 280)
+ctx["AU_PAIR_MIN_ALLOWANCE"] = fail_on('2025-12-01', 280)
 
 # Maximum income used to calculate pension contributions (€/y)
 ctx['BEITRAGSBEMESSUNGSGRENZE'] = fail_on('2025-12-31', 8050 * 12)  # § SGB 6 Anlage 2 [BBGRV]
@@ -167,7 +167,7 @@ ctx["OTTONOVA_SELFEMPLOYED_COST"] = fail_on('2025-12-01', 552)  # Premium econom
 ctx['GKV_KRANKENGELD_DAILY_LIMIT'] = (ctx['GKV_MAX_INCOME'] * Decimal('0.7') / 360).normalize()  # § 47 SGB V
 
 # BAFöG Bedarfssatz (€/y)
-ctx['BAFOG_BEDARFSSATZ'] = fail_on('2025-07-01', 380 + 475)  # §13 BAföG Abs 1.2 + 2.2
+ctx['BAFOG_BEDARFSSATZ'] = fail_on('2025-12-01', 380 + 475)  # §13 BAföG Abs 1.2 + 2.2
 
 # Pflegeversicherung (%) - §55 Abs. 1 SGB XI
 ctx['PFLEGEVERSICHERUNG_BASE_RATE'] = fail_on('2025-12-31', Decimal('3.6'))
@@ -367,7 +367,7 @@ ctx["HUNDESTEUER_MORE_DOGS"] = 180  # §4 HuStG BE, (€/y)
 ctx["KSK_MIN_INCOME"] = fail_on('2025-12-31', 3900)  # (€/y) - §3 Abs. 1 KSVG
 ctx["ORDNUNGSAMT_DANGEROUS_DOG_FEE"] = 30  # service.berlin.de/dienstleistung/326263
 ctx["RUNDFUNKBEITRAG_FEE"] = Decimal('18.36')
-ctx["SCHUFA_REPORT_FEE"] = fail_on('2025-07-01', Decimal('29.95'))  # TODO: Not watched
+ctx["SCHUFA_REPORT_FEE"] = fail_on('2025-12-01', Decimal('29.95'))  # TODO: Not watched
 ctx["VEHICLE_UMMELDUNG_FEE"] = Decimal('10.80')  # service.berlin.de/dienstleistung/120658
 
 
