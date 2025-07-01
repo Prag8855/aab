@@ -165,16 +165,16 @@ The cost of private health insurance is [tax-deductible](/glossary/steuerlich%20
 
 ### Disadvantages of private health insurance
 
-- **It discourages getting healthcare**  
-    You usually have a yearly [deductible](/glossary/Selbstbeteiligung). You pay for healthcare yourself until you reach that deductible. After that, the insurer pays for your healthcare. If you are below the deductible, you might ignore small health problems instead of paying €50 to €150 to see a doctor.
-- **You pay, then you get reimbursed**  
-    When you go to the doctor, you pay for it, and your health insurance reimburses you later. This is more effort and more paperwork. You also need enough money to pay for medical emergencies, even if you get reimbursed later.
-- **It does not adjust to your income**  
-    If your income changes, your health insurance costs the same. For example, if you [lose your job](/guides/losing-your-job), your business fails or you retire, your health insurance does not get cheaper. Public health insurance is a much safer option, because the cost is proportional to your income.
-- **They can reject you**  
-    If you have serious health problems, they can reject you. If you had psychotherapy, they usually reject you. If you have problems like HIV, severe asthma, diabetes or obesity, they usually reject you, or sometimes charge a lot more. They can also refuse to cover healthcare related to a pre-existing health problem.[^75] If you have pre-existing health problems, public health insurance might be your only option.[^6]
+- **If your income changes, the cost stays the same**  
+    If you [lose your job](/guides/losing-your-job), if you go on parental leave, if your business fails or if you retire, your health insurance does not get cheaper. Public health insurance is safer, because the cost is proportional to your income.
+- **You don't want to use it**  
+    If you have a [deductible](/glossary/Selbstbeteiligung), you pay for most healthcare yourself. You might ignore a small problem, because it costs €70 to see a doctor. You also get a yearly bonus if you don't use your insurance. It makes you avoid healthcare to save money.
+- **You pay, then get reimbursed**  
+    When you see a doctor, you pay for the treatment, and your insurance pays you back later. You need enough money to pay the doctor. You must check if your insurance covers your treatment, or you will not get reimbursed.
 - **You can be stuck with private**  
-    It's hard to switch from private to public health insurance. If you are over 55 years old, it's almost impossible. You can be stuck with a private insurance that you can't afford. You can sometimes switch to a cheaper private health insurance.[^72]
+    If you choose private, it's hard to switch to public later. It's also hard to switch to another private insurance. You can be stuck with an expensive insurance. Always [ask an expert](#insurance-brokers) before choosing private health insurance; it's a very serious decision.
+- **They reject people**  
+    If you have health problems, insurers will reject you or charge more. They often reject people because of psychotherapy, HIV, severe asthma, diabetes or obesity. They can refuse to cover healthcare related to a pre-existing health problem.[^75] If you are over 45 years old or you have pre-existing health conditions, public health insurance is usually cheaper.[^28]
 
 ### What private insurance covers
 
@@ -474,7 +474,6 @@ If you have public health insurance, you pay out of your paycheck every month. I
 [^63]: [Seamus Wolf](/out/horizon65) (May 2025)
 [^66]: [Seamus Wolf](/out/horizon65) (April 2025)
 [^70]: [online-pkv.de](https://www.online-pkv.de/pkv-bu-blog/gibt-es-eine-selbstbeteiligung-in-der-gkv/) (January 2025), [gesetzlichekrankenkassen.de](https://www.gesetzlichekrankenkassen.de/leistungen/leistungen.html#:~:text=%20mindestens%20aber%20eur%205%2C-%20und%20hochstens%20eur%2010%2C-%20pro%20packung%20zu%20zahlen) (June 2025)
-[^72]: [Mona Anbari](https://versicherungsbuero-weiss.com/) (April 2025)
 [^73]: [Mona Anbari](https://versicherungsbuero-weiss.com/) (April 2025)
 [^74]: [Seamus Wolf](/out/horizon65) (April 2025)
 [^75]: [Seamus Wolf](/out/horizon65) (April 2025)
