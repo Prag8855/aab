@@ -78,6 +78,10 @@
 				maxPublicPrice() {
 					return this.results.public.options.at(-1).total;
 				},
+
+				recommendedOption(){
+					return this.results.asList[0].id;
+				},
 				publicHealthInsuranceClarification(){
 					if(this.results.private.eligible){
 						if(this.isStudent){
@@ -194,9 +198,6 @@
 					else{
 						this.stageIndex -= 1;
 					}
-				},
-				publicOptionPrice(id){
-					return this.results.public.options.find(o => o.id === id).total.personalContribution;
 				},
 			},
 			watch: {
@@ -417,7 +418,7 @@
 
 			<ul class="buttons list" v-if="option.options.length">
 				<li v-for="subOption in option.options" v-if="!['aok', 'hkk', 'dak'].includes(subOption.id)">
-					<a v-if="subOption.id === 'familienversicherung'" title="Learn more about family health insurance" href="/guides/german-health-insurance#free-health-insurance" target="_blank">
+					<a v-if="subOption.id === 'familienversicherung'" class="recommended" title="Learn more about family health insurance" href="/guides/german-health-insurance#free-health-insurance" target="_blank">
 						{% endraw %}{% include "_css/icons/family.svg" %}{% raw %}
 						<div>
 							<h3><glossary term="Familienversicherung">Family insurance</glossary></h3>
@@ -451,13 +452,13 @@
 						{% endraw %}{% include "_css/icons/health-insurance/logo-barmer.svg" %}{% raw %}
 						<div>
 							<h3>Barmer</h3>
-							<p>Easiest option for expats. Second biggest health insurer. They speak English.</p>
+							<p>Second biggest health insurer. They speak English.</p>
 						</div>
 						<output>
 							<eur :amount="publicOptionPrice('barmer')"></eur> <small>per month</small>
 						</output>
 					</a>
-					<a v-else-if="subOption.id === 'tk'" title="Sign up with Techniker Krankenkasse" href="/out/feather-tk" target="_blank">
+					<a v-else-if="subOption.id === 'tk'" title="Sign up with Techniker Krankenkasse" href="/out/feather-tk" target="_blank" :class="{recommended: recommendedOption === 'public'}">
 						{% endraw %}{% include "_css/icons/health-insurance/logo-tk.svg" %}{% raw %}
 						<div>
 							<h3>Techniker Krankenkasse</h3>
@@ -474,22 +475,28 @@
 							<p>If you are a freelance artist or publicist, join the KSK. They pay half of your health insurance. It's always worth it.</p>
 						</div>
 					</a>
+					<a v-else-if="subOption.id === 'feather-expat'" title="Get expat health insurance from Feather" href="/out/feather-expats" target="_blank" :class="{recommended: recommendedOption === 'expat'}">
+						{% endraw %}{% include "_css/icons/health-insurance/logo-feather.svg" %}{% raw %}
+						<div>
+							<h3>Feather</h3>
+							<p>A reliable insurance for a student visa application. It's valid until you graduate and start working.</p>
+						</div>
+						<output>
+							<eur :amount="subOption.cost"></eur> <small>per month</small>
+						</output>
+					</a>
 					<a v-else-if="subOption.id === 'ottonova-expat'" title="Get expat health insurance from Ottonova" href="/out/ottonova-expats" target="_blank">
 						{% endraw %}{% include "_css/icons/health-insurance/logo-ottonova.svg" %}{% raw %}
 						<div>
 							<h3>Ottonova</h3>
 							<p>...</p>
 						</div>
-					</a>
-					<a v-else-if="subOption.id === 'feather-expat'" title="Get expat health insurance from Feather" href="/out/feather-expats" target="_blank">
-						{% endraw %}{% include "_css/icons/health-insurance/logo-feather.svg" %}{% raw %}
-						<div>
-							<h3>Feather Expat</h3>
-							<p>...</p>
-						</div>
+						<output>
+							<eur :amount="subOption.cost"></eur> <small>per month</small>
+						</output>
 					</a>
 
-					<button v-else-if="subOption.id === 'broker'" @click="desiredService = 'private'; goToStage('askABroker')">
+					<button v-else-if="subOption.id === 'broker'" @click="desiredService = 'private'; goToStage('askABroker')" :class="{recommended: recommendedOption === 'private'}">
 						{% endraw %}{% include "_css/icons/help.svg" %}{% raw %}
 						<div>
 							<h3>Get a quote</h3>
