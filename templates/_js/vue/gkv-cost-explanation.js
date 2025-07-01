@@ -13,7 +13,7 @@ Vue.component('gkv-cost-explanation', {
 		isMarried: Boolean,
 		monthlyIncome: Number,
 		occupation: String,
-		worksOver20HoursPerWeek: Boolean,
+		hoursWorkedPerWeek: Number,
 	},
 	data(){
 		return {
@@ -25,7 +25,7 @@ Vue.component('gkv-cost-explanation', {
 			return gkvOptions({
 				occupation: this.occupation,
 				monthlyIncome: this.monthlyIncome,
-				hoursWorkedPerWeek: this.worksOver20HoursPerWeek ? 40 : 20,
+				hoursWorkedPerWeek: this.hoursWorkedPerWeek,
 				age: this.age,
 				childrenCount: this.childrenCount,
 				sortByPrice: true,
@@ -110,10 +110,10 @@ Vue.component('gkv-cost-explanation', {
 				<template v-if="isStudentOver30">
 					You can't get the student tariff because you are over 30 years old.
 				</template>
-				<template v-else-if="isNotWerkstudent && worksOver20HoursPerWeek">
+				<template v-else-if="isNotWerkstudent && hoursWorkedPerWeek > 20">
 					You can't get the student tariff because you work more than 20 hours per week.
 				</template>
-				<template v-else-if="isNotWerkstudent && !worksOver20HoursPerWeek">
+				<template v-else-if="isNotWerkstudent && hoursWorkedPerWeek <= 20">
 					You can't get the student tariff because your income is too high.
 				</template>
 			</p>
