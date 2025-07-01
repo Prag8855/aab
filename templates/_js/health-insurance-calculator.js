@@ -640,6 +640,13 @@ function getHealthInsuranceOptions({
 		output.asList = [output.public, output.private, output.expat];
 	}
 
+	if(sortByPrice){
+		output.public.options.sort((a, b) => a.total.personalContribution - b.total.personalContribution);
+		output.private.options.sort((a, b) => a.total.personalContribution - b.total.personalContribution);
+		output.expat.options.sort((a, b) => a.cost - b.cost);
+		output.other.options.sort((a, b) => a.cost - b.cost);
+	}
+
 	output.asList.unshift(output.free);
 	output.asList.push(output.other);
 	output.asList = output.asList.filter(o => o.eligible);
