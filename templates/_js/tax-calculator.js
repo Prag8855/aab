@@ -43,7 +43,8 @@ function calculateTax(yearlyIncome, {
 
 		// Sensible defaults
 		hoursWorkedPerWeek: 20,  // Ensures Werkstudent pricing for students
-		currentInsurance: 'public',  // Ensures public is available in general
+		isEUCitizen: true,  // Ensures public is available, and expat is unavailable
+		currentInsurance: 'public',  // Ensures public is available, and expat is unavailable
 		sortByPrice: true,
 	});
 	healthInsuranceResult.flags.forEach(f => result.flags.add(`kv-${f}`));
