@@ -19,6 +19,7 @@ Vue.component('health-insurance-question', {
 		childrenCount: Number,
 		desiredService: String,
 		isMarried: Boolean,
+		contactMethod: String,
 	},
 	data: function() {
 		return {
@@ -30,7 +31,6 @@ Vue.component('health-insurance-question', {
 			fullName: userDefaults.fullName,
 			email: userDefaults.email,
 			phone: userDefaults.phone,
-			contactMethod: null,
 
 			showDetailsField: false,
 
