@@ -29,7 +29,7 @@ If your earn more than €{{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}} per year,
 
 Don't choose private health insurance yourself. There are too many options. [Ask my insurance expert](/guides/german-health-insurance#insurance-brokers) to help you choose. It's a free service.
 
-**[Public or private health insurance? ➞](/guides/german-health-insurance#public-or-private-insurance)**
+**[Public or private health insurance? ➞](/guides/german-health-insurance#what-is-the-best-option)**
 
 ## For a visa or residence permit
 

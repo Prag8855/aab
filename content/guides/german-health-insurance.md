@@ -17,7 +17,7 @@ This guide explains how to choose the best health insurance for your needs.
 
 ## Your options
 
-Germany has [public](/glossary/gesetzliche%20Krankenversicherung), [private](/glossary/private%20Krankenversicherung) and [expat](/glossary/Expat%20health%20insurance) health insurance. The best option depends on your situation. I explain each option below.
+There is [public](/glossary/gesetzliche%20Krankenversicherung), [private](/glossary/private%20Krankenversicherung) and [expat](/glossary/Expat%20health%20insurance) health insurance. The best option depends on your situation.
 
 {% include '_blocks/healthInsuranceCalculatorStatic.html' %}
 
@@ -286,7 +286,7 @@ If you start working in Germany, your EHIC stops working, and you must get Germa
 
 **[More information about EHIC ➞](https://www.health-insurance.de/student/eu-eea/)**
 
-## Which option is best?
+## What is the best option?
 
 - Public health insurance is the safest option, because you can choose private health insurance later.[^82] Public health insurers have very similar prices and coverage, so you can't choose wrong.
 - Private health insurance is a risky decision, but it can be better and cheaper than public. If you are not happy, it's really hard to switch to public health insurance. Never choose private health insurance yourself.
