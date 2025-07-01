@@ -286,11 +286,15 @@ If you start working in Germany, your EHIC stops working, and you must get Germa
 
 **[More information about EHIC ➞](https://www.health-insurance.de/student/eu-eea/)**
 
-## Public or private insurance?
+## Which option is best?
 
-Do not choose your insurance yourself. There is no benefit. [Ask an expert](#insurance-brokers) to help you choose.
+- Public health insurance is the safest option, because you can choose private health insurance later.[^82] Public health insurers have very similar prices and coverage, so you can't choose wrong.
+- Private health insurance is a risky decision, but it can be better and cheaper than public. If you are not happy, it's really hard to switch to public health insurance. Never choose private health insurance yourself.
+- Expat health insurance is rarely the best option. It's supposed to be a temporary insurance. The coverage is bad, and they can kick you out after a few years.
 
-### Choose public health insurance if...
+Do not choose your insurance yourself. You can make expensive mistakes. [Ask an expert](#insurance-brokers) to help you choose. Their help is free.
+
+Choose public health insurance if...
 
 - **You don't have a stable income**  
     If you are not sure you will always have a high income, public health insurance is safer. It costs a percentage of your income, so if you make less, your pay less. If you just [started your business](/guides/start-a-business-in-germany) or your make less than €30,000 per year, choose public health insurance.[^27]
@@ -303,9 +307,7 @@ Do not choose your insurance yourself. There is no benefit. [Ask an expert](#ins
 - **You have pre-existing health problems**  
     Private health insurers might charge more or refuse to cover you. Even getting psychotherapy can disqualify you. Public health insurance is usually forced to accept you.
 
-Public health insurance is **the safest option**, because you can choose private health insurance later.[^82]
-
-### Choose private health insurance if...
+Choose private health insurance if...
 
 - **You have stable income**  
     Private health insurance makes sense if you know you will always have a high income.
@@ -320,9 +322,7 @@ Public health insurance is **the safest option**, because you can choose private
 - **You can't choose public health insurance**  
     If you are a freelancer or a student from a non-[EU](/glossary/European%20Union) country, public health insurers might reject you. Private health insurance might be your only option.
 
-Private health insurance is **a risky decision**. If you are not happy, it's really hard to switch to public health insurance. Never choose private health insurance yourself. Always [ask a broker](#insurance-brokers) to help you choose.
-
-### Choose expat health insurance if...
+Choose expat health insurance if...
 
 - **You are a foreign student over 30 years old**  
     If you come from a non-[EU](/glossary/European%20Union) country, it's often the only option.
@@ -333,22 +333,12 @@ Private health insurance is **a risky decision**. If you are not happy, it's rea
 - **You apply for an [opportunity card](/glossary/Chancenkarte)**  
     Expat health insurance is perfect for this. When you [find a job](/guides/find-a-job-in-berlin), switch to public or private health insurance.
 
-Expat health insurance is **rarely the best option**. Always [ask an expert](#insurance-brokers) if it makes sense for you.
-
-German embassies and consulates sometimes accept expat health insurance when you apply for a visa.[^33] Get public or private health insurance if you can.
-
-The *[[Ausländerbehörde]]* sometimes accepts expat health insurance when you apply for your first [residence permit](/glossary/Aufenthaltstitel). It does not work when you change or renew your residence permit.[^21]
-
-**[Health insurance for a visa application ➞](/guides/german-health-insurance/for-a-visa-application)**
-
-### Choose travel health insurance if...
+Choose travel health insurance if...
 
 - **You are a tourist**  
     Travel insurance covers medical emergencies while you travel. It's cheap.
 - **You apply for a [[Schengen visa]]**  
     You need valid health insurance to apply for the Schengen visa. [HanseMerkur Visa Plus](/out/hansemerkur-travel) works well for this.
-
-**[Health insurance for a Schengen visa ➞](/guides/german-health-insurance/for-a-visa-application#for-a-schengen-visa)**
 
 ### Insurance brokers
 
