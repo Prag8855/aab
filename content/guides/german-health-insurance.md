@@ -94,8 +94,8 @@ When you go to the doctor, you show your [insurance card](/glossary/Gesundheitsk
     When you go to the doctor, you show your [insurance card](/glossary/Gesundheitskarte), and you get healthcare. You don't need to worry about coverage, [deductibles](/glossary/Selbstbeteiligung) or reimbursement. There are no surprises; it just works.
 - **The cost is not tied to your health**  
     If you are over 45 years old or you have health problems, public health insurance is usually the cheapest option.[^28] Private health insurers might reject you, or charge a lot more.
-- **It's never a bad decision**  
-    Public health insurance is a safe option. Insurers have similar prices and coverage, so you can't choose wrong. If you change your mind, you can choose another public health insurer, or switch to private health insurance. If you choose private health insurance, it's much harder to change your mind.[^20]
+- **It's the safest option**  
+    Public health insurance is never a *bad* decision. Insurers have similar prices and coverage, so you can't choose wrong. If you change your mind, you can choose another public health insurer, or switch to private health insurance later.[^82] If you choose private health insurance, it's much harder to change your mind.[^20]
 
 ### Disadvantages of public health insurance
 
@@ -166,13 +166,13 @@ The cost of private health insurance is [tax-deductible](/glossary/steuerlich%20
 ### Disadvantages of private health insurance
 
 - **If your income changes, the cost stays the same**  
-    If you [lose your job](/guides/losing-your-job), if you go on parental leave, if your business fails or if you retire, your health insurance does not get cheaper. Public health insurance is safer, because the cost is proportional to your income.
-- **You don't want to use it**  
-    If you have a [deductible](/glossary/Selbstbeteiligung), you pay for most healthcare yourself. You might ignore a small problem, because it costs €70 to see a doctor. You also get a yearly bonus if you don't use your insurance. It makes you avoid healthcare to save money.
+    If you [lose your job](/guides/losing-your-job), if you go on parental leave, if your business fails or if you retire, your health insurance does not get cheaper. You can be stuck with expensive health insurance. Public health insurance is safer, because the cost is proportional to your income.
+- **It makes you avoid seeing a doctor**  
+    If you have a [deductible](/glossary/Selbstbeteiligung), you pay for most healthcare yourself. You might ignore a small problem because it costs €70 to see a doctor. You also get a yearly bonus if you don't use your insurance. It makes you avoid healthcare to save money.
 - **You pay, then get reimbursed**  
-    When you see a doctor, you pay for the treatment, and your insurance pays you back later. You need enough money to pay the doctor. You must check if your insurance covers your treatment, or you will not get reimbursed.
+    When you go to the doctor, you pay for the treatment, and your insurance pays you back later. You need enough money to pay the doctor. It's also more effort and more paperwork. You must also check if your insurance covers your treatment, or you will not get reimbursed.
 - **You can be stuck with private**  
-    If you choose private, it's hard to switch to public later. It's also hard to switch to another private insurance. You can be stuck with an expensive insurance. Always [ask an expert](#insurance-brokers) before choosing private health insurance; it's a very serious decision.
+    If you choose private, it's hard to change your mind.[^20] It's really hard to switch to public health insurance, or to another private insurance. You can be stuck with expensive private health insurance. Always [ask an expert](#insurance-brokers) before you choosing private; it's a very serious decision.
 - **They reject people**  
     If you have health problems, insurers will reject you or charge more. They often reject people because of psychotherapy, HIV, severe asthma, diabetes or obesity. They can refuse to cover healthcare related to a pre-existing health problem.[^75] If you are over 45 years old or you have pre-existing health conditions, public health insurance is usually cheaper.[^28]
 
