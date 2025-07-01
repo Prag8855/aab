@@ -68,6 +68,16 @@ The exact requirements depend on your occupation:
 - [Health insurance for a **freelancer**](/guides/german-health-insurance/for-freelancers)
 - [Health insurance for an **apprentice**](/guides/german-health-insurance/for-apprentices)
 
+## For permanent residence
+
+To apply for permanent residence, you need [public](/glossary/gesetzliche%20Krankenversicherung) or [private](/glossary/private%20Krankenversicherung) health insurance. [[Expat health insurance]] and travel insurance are not accepted.
+
+**[How to apply for permanent residence ➞](/guides/permanent-residence)**
+
+## For citizenship
+
+To apply for German citizenship, you need [public](/glossary/gesetzliche%20Krankenversicherung) or [private](/glossary/private%20Krankenversicherung) health insurance. [[Expat health insurance]] and travel insurance are not accepted.
+
 ## How to choose
 
 Don't choose health insurance yourself. You can make expensive mistakes. Choosing the wrong insurance can delay your visa application.
