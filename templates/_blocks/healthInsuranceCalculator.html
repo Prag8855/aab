@@ -289,22 +289,27 @@
 			</div>
 		</div>
 		<div class="form-group">
-			<label :for="uid('children-count')">
-				Family situation
+			<label :for="uid('isMarried')">
+				Family
 			</label>
 			<div class="input-group vertical">
-				<div class="input-group">
-					<button class="toggle" @click="isMarried = !isMarried">{{ isMarried ? 'Married' : 'Not married' }}</button>
-					<select v-model="childrenCount">
-						<option :value="0">No children</option>
-						<option :value="1">1 child</option>
-						<option :value="2">2 children</option>
-						<option :value="3">3 children</option>
-						<option :value="4">4 children</option>
-						<option :value="5">5 children</option>
-						<option :value="6">6+ children</option>
-					</select>
-				</div>
+				<label class="checkbox">
+					<input type="checkbox" :id="uid('isMarried')" v-model="isMarried">
+					I am married
+				</label>
+			</div>
+		</div>
+		<div class="form-group">
+			<div class="input-group">
+				I have <select v-model="childrenCount" :for="uid('childrenCount')">
+					<option :value="0">0</option>
+					<option :value="1">1</option>
+					<option :value="2">2</option>
+					<option :value="3">3</option>
+					<option :value="4">4</option>
+					<option :value="5">5</option>
+					<option :value="6">6</option>
+				</select> {{ childrenCount === 1 ? 'child' : 'children'}}
 			</div>
 		</div>
 		<div class="form-group" v-if="isStudent">
@@ -313,16 +318,16 @@
 			</label>
 			<div class="input-group vertical">
 				<label class="checkbox">
+					<input type="radio" :name="uid('studentOccupation')" v-model="occupation" value="studentUnemployed" required>
+					I am unemployed
+				</label>
+				<label class="checkbox">
 					<input type="radio" :name="uid('studentOccupation')" v-model="occupation" value="studentEmployee" required>
 					I have a job
 				</label>
 				<label class="checkbox">
 					<input type="radio" :name="uid('studentOccupation')" v-model="occupation" value="studentSelfEmployed" required>
 					I am self-employed
-				</label>
-				<label class="checkbox">
-					<input type="radio" :name="uid('studentOccupation')" v-model="occupation" value="studentUnemployed" required>
-					I am unemployed
 				</label>
 			</div>
 		</div>
@@ -335,10 +340,12 @@
 				<button class="toggle" @click="useMonthlyIncome = !useMonthlyIncome">per {{ useMonthlyIncome ? 'month' : 'year' }}</button>
 				<span class="no-mobile">before taxes</span>
 			</div>
-			<label class="input-group" v-if="isStudent">
-				<input type="checkbox" v-model="worksOver20HoursPerWeek">
-				I work more than 20 hours per week
-			</label>
+			<div class="input-group">
+				<label class="checkbox" v-if="occupation === 'studentEmployee'">
+					<input type="checkbox" v-model="worksOver20HoursPerWeek">
+					I work more than 20 hours per week
+				</label>
+			</div>
 		</div>
 		<hr>
 		<div class="form-group">
