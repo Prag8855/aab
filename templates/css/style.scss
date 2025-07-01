@@ -1432,7 +1432,7 @@ sup:target a{
     box-shadow: 0 0 0 1px transparent;
 
     &:not([disabled]){
-        background: var(--c-bg-input);
+        background-color: var(--c-bg-input);
         &:focus, &:focus-within, &:active{
             @include form-input-hover;
         }
@@ -1481,10 +1481,16 @@ textarea{
 }
 
 select{
-    background: var(--c-bg-input) var(--i-expand) no-repeat center right var(--xs);
+    background-image: var(--i-expand);
+    background-repeat: no-repeat;
+    background-position: center right var(--xs);
     background-size: 1rem;
-    padding-right: var(--xl);
+    padding-right: calc(1rem + var(--xs) * 2);
     text-overflow:ellipsis;
+    &:disabled{
+        color: var(--c-text-light);
+        background-color: transparent!important;
+    }
     &.placeholder{
         color: var(--c-text-placeholder);
     }
@@ -2000,7 +2006,7 @@ input[type=range] {
         border: 2px solid var(--c-border-input-focused);
         border-top: none;
         border-radius: 0 0 var(--b-radius) var(--b-radius);
-        background: var(--c-bg-input);
+        background-color: var(--c-bg-input);
         overflow: hidden;
         box-shadow: var(--shadow-l);
         z-index:1000;
