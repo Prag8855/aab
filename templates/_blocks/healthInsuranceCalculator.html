@@ -30,6 +30,7 @@
 					worksOver20HoursPerWeek: false,
 
 					isApplyingForResidencePermit: false,
+					isEUCitizen: undefined,
 					currentInsurance: null,
 					isGettingSocialBenefits: false,
 
@@ -86,9 +87,11 @@
 							else{
 								return "Public health insurance is usually <strong>the best option</strong> for students under 30 years old."
 							}
+
+							// TODO: Werkstudent
 						}
 						else if(this.occupation === 'selfEmployed' && this.yearlyIncome <= 30000){
-							return "If you earn less than €30,000 per year, public health insurance is <strong>the safest option</strong>."
+							return "If you earn less than €30,000 per year, this is <strong>the safest option</strong>."
 						}
 						else if(this.age > 45){
 							return "Public health insurance is usually the best option for people over 45 years old."
@@ -148,12 +151,12 @@
 				calculatorParams() {
 					return {
 						age: +this.age,
-						occupation: this.occupation,
-						isMarried: this.isMarried,
 						childrenCount: this.childrenCount,
-						hoursWorked: this.worksOver20HoursPerWeek ? 30 : 20,
-
 						currentInsurance: this.currentInsurance,
+						hoursWorked: this.worksOver20HoursPerWeek ? 30 : 20,
+						isEUCitizen: this.isEUCitizen,
+						isMarried: this.isMarried,
+						occupation: this.occupation,
 
 						// Clear the income when the income input is not visible
 						monthlyIncome: this.isUnemployed ? 0 : +this.monthlyIncome,
@@ -203,6 +206,11 @@
 				useMonthlyIncome(monthly){
 					this.yearlyIncome = monthly ? this.inputIncome * 12 : this.inputIncome;
 				},
+				isEUCitizen(isCitizen){
+					if(isCitizen && this.currentInsurance === 'expat'){
+						this.currentInsurance = null;
+					}
+				}
 			}
 		})
 	);
@@ -261,6 +269,17 @@
 		<p>It helps us calculate prices and recommend the right health insurance.</p>
 		<hr>
 		<div class="form-group">
+			<label :for="uid('isEUCitizen')">
+				Nationality
+			</label>
+			<div class="input-group vertical">
+				<label class="checkbox">
+					<input type="checkbox" :name="uid('isEUCitizen')" v-model="isEUCitizen">
+					<div>I am a citizen of the <glossary>European Union</glossary></div>
+				</label>
+			</div>
+		</div>
+		<div class="form-group">
 			<label :for="uid('age')">
 				Age
 			</label>
@@ -294,16 +313,16 @@
 			</label>
 			<div class="input-group vertical">
 				<label class="checkbox">
-					<input type="radio" :name="uid('studentOccupation')" v-model="occupation" value="studentUnemployed" required>
-					I am unemployed
-				</label>
-				<label class="checkbox">
 					<input type="radio" :name="uid('studentOccupation')" v-model="occupation" value="studentEmployee" required>
 					I have a job
 				</label>
 				<label class="checkbox">
 					<input type="radio" :name="uid('studentOccupation')" v-model="occupation" value="studentSelfEmployed" required>
 					I am self-employed
+				</label>
+				<label class="checkbox">
+					<input type="radio" :name="uid('studentOccupation')" v-model="occupation" value="studentUnemployed" required>
+					I am unemployed
 				</label>
 			</div>
 		</div>
@@ -324,16 +343,24 @@
 		<hr>
 		<div class="form-group">
 			<span class="label">
-				Visa situation
+				Current insurance
 			</span>
 			<div class="input-group vertical">
 				<label class="checkbox">
-					<input type="checkbox" :name="uid('isEUResident')" v-model="isEUResident">
-					<span>I am a <glossary term="European Union">EU</glossary> resident</span>
+					<input type="radio" :name="uid('currentInsurance')" v-model="currentInsurance" :value="null" required>
+					No health insurance
 				</label>
 				<label class="checkbox">
-					<input type="checkbox" :name="uid('hasGermanInsurance')" v-model="hasGermanInsurance">
-					I already have German health insurance
+					<input type="radio" :name="uid('currentInsurance')" v-model="currentInsurance" value="public" required>
+					<div><glossary term="gesetzliche Krankenversicherung">Public health insurance</glossary></div>
+				</label>
+				<label class="checkbox">
+					<input type="radio" :name="uid('currentInsurance')" v-model="currentInsurance" value="private" required>
+					<div><glossary term="private Krankenversicherung">Private health insurance</glossary></div>
+				</label>
+				<label class="checkbox" :class="{disabled: isEUCitizen}">
+					<input type="radio" :name="uid('currentInsurance')" v-model="currentInsurance" value="expat" required :disabled="isEUCitizen">
+					<div>Travel or <glossary term="Expat health insurance">expat health insurance</glossary></div>
 				</label>
 			</div>
 		</div>

@@ -1543,6 +1543,9 @@ label.checkbox{
     cursor: pointer;
     gap: var(--s);
     align-items: first baseline;
+    &.disabled{
+        color: var(--c-text-light);
+    }
 }
 
 .month-input, select.year-input{
