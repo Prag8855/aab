@@ -258,11 +258,11 @@ function gkvOptions({occupation, monthlyIncome, hoursWorkedPerWeek, age, childre
 	});
 }
 
-function canHaveEHIC(currentInsurance, monthlyIncome){
+function canHaveEHIC(isEUCitizen, monthlyIncome){
 	// EHIC is available if you are insured in another EU country
 	// It's invalidated as soon as you have an income, even if it's below the minijob threshold
 	return (
-		currentInsurance === 'ehic'
+		isEUCitizen
 		&& monthlyIncome === 0
 	);
 }
@@ -310,8 +310,8 @@ function isPaidBySocialBenefits(occupation, monthlyIncome){
 	);
 }
 
-function canHavePublicHealthInsurance(occupation, age, currentInsurance){
-	if(currentInsurance === 'public' || currentInsurance === 'ehic'){
+function canHavePublicHealthInsurance(occupation, age, isEUCitizen, currentInsurance){
+	if(currentInsurance === 'public' || (isEUCitizen && !currentInsurance)){
 		return true;
 	}
 	else{
@@ -350,18 +350,28 @@ function canHavePrivateHealthInsurance(occupation, monthlyIncome, hoursWorkedPer
 	);
 }
 
-function canHaveExpatHealthInsurance(occupation, monthlyIncome, hoursWorkedPerWeek, currentInsurance){
+function canHaveExpatHealthInsurance(occupation, monthlyIncome, hoursWorkedPerWeek, currentInsurance, isEUCitizen){
+	// These people CAN have expat health insurance
 	return (
 		canHavePrivateHealthInsurance(occupation, monthlyIncome, hoursWorkedPerWeek)
-		&& currentInsurance !== 'ehic'
+		&& !isEUCitizen
 		&& currentInsurance !== 'public'
 		&& currentInsurance !== 'private'
 
 		// You can keep your expat insurance if you have a minijob
 		// Or if you are a Werkstudent
+		// Or if you are a student over 30
 		&& (occupation !== 'employee' || occupations.isMinijob(occupation, monthlyIncome))
 		&& occupation !== 'azubi'
 	);
+}
+
+function needsGapInsurance(isEUCitizen, currentInsurance){
+	// These people need travel/expat insurance to cover them from the day they arrive in Germany to the day their
+	// public health insurance kicks in.
+
+	// EU citizens don't need this because of EHIC, but EU residents do
+	return !isEUCitizen && !currentInsurance;
 }
 
 function canHaveKSK(occupation, monthlyIncome, hoursWorkedPerWeek){
@@ -406,6 +416,7 @@ function getHealthInsuranceOptions({
 	childrenCount,
 	currentInsurance,
 	hoursWorkedPerWeek,
+	isEUCitizen,
 	isMarried,
 	monthlyIncome,
 	occupation,
@@ -447,7 +458,7 @@ function getHealthInsuranceOptions({
 		output.flags.add('social-benefits');
 	}
 
-	if(canHaveEHIC(currentInsurance, monthlyIncome)){
+	if(canHaveEHIC(isEUCitizen, monthlyIncome)){
 		output.free.options.push({ id: 'ehic' });
 		output.flags.add('ehic');
 	}
@@ -469,13 +480,17 @@ function getHealthInsuranceOptions({
 		description: '',
 		options: [],
 	}
-	if(canHaveExpatHealthInsurance(occupation, monthlyIncome, hoursWorkedPerWeek, currentInsurance)){
+	if(canHaveExpatHealthInsurance(occupation, monthlyIncome, hoursWorkedPerWeek, currentInsurance, isEUCitizen)){
 		output.flags.add('expat');
 		output.expat.eligible = true;
 		output.expat.options = [
 			{id: 'feather-expat', cost: 72}, // TODO
 			{id: 'ottonova-expat', cost: 111},
 		];
+	}
+
+	if(needsGapInsurance(isEUCitizen, currentInsurance)){
+
 	}
 
 
@@ -504,7 +519,7 @@ function getHealthInsuranceOptions({
 		}
 	}
 
-	if(canHavePublicHealthInsurance(occupation, age, currentInsurance)){
+	if(canHavePublicHealthInsurance(occupation, age, isEUCitizen, currentInsurance)){
 		output.public.eligible = true;
 		output.flags.add('public');
 
