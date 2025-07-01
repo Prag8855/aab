@@ -3,6 +3,7 @@ Title: German health insurance for employees
 Short_title: Health insurance for employees
 Description: This guide explains how to choose the best health insurance to work in Germany.
 Date_created: 2025-06-02
+Call_to_action: askOurInsuranceExpert
 ---
 
 This guide helps you choose the best health insurance to work in Germany. All German residents need health insurance. You need it to apply for a [work visa](/glossary/Work%20Visa) or a [[Blue Card]].

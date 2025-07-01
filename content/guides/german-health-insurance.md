@@ -3,6 +3,7 @@ Title: How to choose German health insurance
 Short_title: How to choose health insurance
 Description: This guide explains how public and private health insurance work in Germany. It helps you choose the best health insurance for your needs.
 Date_created: 2018-11-29
+Call_to_action: askOurInsuranceExpert
 Related_reviews:
     reviews/german-health-insurance/emily-archer.md
     reviews/german-health-insurance/seamus-wolf.md

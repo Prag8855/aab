@@ -3,6 +3,7 @@ Title: Health insurance for a German visa or residence permit
 Short_title: Health insurance for a German visa
 Description: This guide helps you find the best health insurance to apply for a German visa or residence permit.
 Date_created: 2020-02-21
+Call_to_action: askOurInsuranceExpert
 Related_reviews:
     reviews/german-health-insurance/for-a-visa-application/dr-rob-schumacher.md
 ---

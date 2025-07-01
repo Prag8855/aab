@@ -47,16 +47,10 @@
 			</p>
 		</aside>
 	</main>
-	
-	<div class="sidebar" aria-hidden="true" data-nosnippet>
-		{% with entry=entry, showRelatedEntriesLink=related_collections|length %}
-			{% include '_blocks/tableOfContents.html' %}
-		{% endwith %}
-		<button class="button open-close" title="Show/hide table of contents">
-			{% include "_css/icons/table-of-contents.svg" %}
-		</button>
-	</div>
-	{% include "_js/sidebar.js" %}
+
+	{% with entry=entry, showRelatedEntriesLink=related_collections|length %}
+		{% include "_blocks/sidebar.html" %}
+	{% endwith %}
 {% endblock %}
 
 {% block postFooter %}

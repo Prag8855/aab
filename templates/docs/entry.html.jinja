@@ -39,19 +39,8 @@
 			</p>
 		</aside>
 	</main>
-	
-	<div class="sidebar" aria-hidden="true" data-nosnippet>
-		{% with entry=entry %}
-			{% include '_blocks/tableOfContents.html' %}
-		{% endwith %}
-		{% block postSidebar %}
-			<div class="donate" data-nosnippet>
-				Did this {{ pageType|default("website") }} help you? Consider <a href="{{ site_url }}/donate" target="_blank" title="Donate to All About Berlin">donating €10</a> to support my work.
-			</div>
-		{% endblock %}
-		<button class="button open-close" title="Show/hide table of contents">
-			{% include "_css/icons/table-of-contents.svg" %}
-		</button>
-	</div>
-	{% include "_js/sidebar.js" %}
+
+	{% with entry=entry, showRelatedEntriesLink=related_entries|length %}
+		{% include "_blocks/sidebar.html" %}
+	{% endwith %}
 {% endblock %}

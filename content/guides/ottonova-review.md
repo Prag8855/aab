@@ -2,6 +2,7 @@
 Title: Should you trust Ottonova? An objective review
 Short_title: Review of Ottonova
 Description: Before you choose Ottonova as your German health insurer, you should consider these points.
+Call_to_action: askOurInsuranceExpert
 Date_created: 2019-06-29
 ---
 

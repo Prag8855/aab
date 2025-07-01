@@ -3,6 +3,7 @@ Title: German health insurance for students
 Short_title: Health insurance for students
 Description: This guide explains how to choose the best health insurance to study in Germany.
 Date_created: 2025-06-02
+Call_to_action: askOurInsuranceExpert
 ---
 
 This guide helps you choose the best health insurance to study in Germany. All German residents need health insurance. You need it to apply for a [student visa](/glossary/Student%20visa).
