@@ -30,6 +30,8 @@ When you have a job, your employer pays half of your health insurance. If you ar
     If your income is over €60,000 per year, this is the best long-term solution.
 - **[[Expat health insurance]]**  
     If your income is below €30,000 per year, it might be your only option.[^2] It's the cheapest health insurance, but it's a temporary solution and the coverage is not great. Switch to private as soon as you can.[^6]
+- **[Public health insurance](/glossary/gesetzliche%20Krankenversicherung)**  
+    Usually, you can't get public health insurance. Insurers will reject you. You can get public health insurance by joining the *[[Künstlersozialkasse]]* or a [freelancer cooperative](/out/smart-coop).
 
 **If you already live in Germany**, you have 2 options:
 
@@ -44,7 +46,7 @@ When you have a job, your employer pays half of your health insurance. If you ar
 
 If you are an artist, journalist, publicist or art teacher, join the *[[Künstlersozialkasse]]* (KSK). They pay half of your health insurance, and half of your [public pension insurance](/glossary/gesetzliche%20Krankenversicherung). It's always worth it.
 
-If you earn less than €{{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}} per year, you must switch to [public health insurance](/glossary/gesetzliche%20Krankenversicherung) after you join the KSK. It's a good way to switch from private to public.
+If you earn less than €{{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}} per year, you must switch to [public health insurance](/glossary/gesetzliche%20Krankenversicherung) after you join the KSK. It's a good way to switch from private to public health insurance.
 
 Joining the KSK takes a few months. While you wait, you need public, private or expat health insurance.
 
