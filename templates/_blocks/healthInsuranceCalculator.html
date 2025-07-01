@@ -216,7 +216,7 @@
 	);
 {% endjs %}
 
-<collapsible class="health-insurance-calculator" {% if static|default %}static{% endif %}>
+<collapsible class="health-insurance-calculator" {% if static|default %}static{% endif %} aria-label="Health insurance recommendation tool">
 {% raw %}
 	<template v-slot:header>Health insurance picker</template>
 
