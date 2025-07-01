@@ -49,9 +49,11 @@ If you are over 30 years old, your options change.
 
 ### Self-employment
 
-If you are self-employed, and your income is over €{{GKV_FAMILIENVERSICHERUNG_MAX_INCOME|cur}} per month, you are treated [like a self-employed person](/guides/german-health-insurance/for-freelancers). You can't get the student tariff and you can't get [free health insurance](/guides/german-health-insurance#free-health-insurance).
+If you are self-employed during your studies, you can keep your student health insurance. The price does not change; you still pay the student tariff.[^8]
 
-If you are young and healthy, [private](/glossary/private%20Krankenversicherung) or [expat health insurance](/glossary/Expat%20health%20insurance) usually make more sense.[^5]
+**If you work more than 20 hours per week**, you are treated [like other self-employed people](/guides/german-health-insurance/for-freelancers), and your public health insurance costs a percentage of your income. If you are young and healthy, [private](/glossary/private%20Krankenversicherung) or [expat health insurance](/glossary/Expat%20health%20insurance) usually make more sense.[^5]
+
+**If your income is over €{{GKV_FAMILIENVERSICHERUNG_MAX_INCOME|cur}}** per month, you can't get [free health insurance](/guides/german-health-insurance#free-health-insurance).
 
 ## Insurance for a student visa
 
@@ -110,6 +112,7 @@ After you get insured, your insurer tells your university (the *M10 Meldung*). T
 [^5]: [Seamus Wolf](/out/horizon65) (April 2025), [finanztip](https://www.finanztip.de/pkv/pkv-kosten/#:~:text=fur%20junge%2C%20gesunde%20menschen%20ist%20die%20private%20krankenversicherung) (February 2025), [verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/krankenversicherung/private-krankenversicherung-nicht-fuer-jeden-sinnvoll-13884#:~:text=kann%20es%20unter%20finanziellen%20gesichtspunkten%20sinnvoll%20sein%2C%20in%20eine%20private%20krankenversicherung%20zu%20wechseln) (2024)
 [^6]: [krankenkassen.de](https://www.krankenkassen.de/incoming/student/ausland/#:~:text=zwischen%20einreise%20und%20studienbeginn)
 [^7]: [tk.de](https://www.tk.de/firmenkunden/versicherung/versicherung-faq/haeufige-fragen-zu-studenten-und-praktikanten/was-besagt-die-werkstudenten-regel-2036662#:~:text=fuhren%20sie%20als%20arbeitgeber%20fur%20diese%20beschaftigungen%20keine%20beitrage%20zur%20kranken-%2C%20pflege-%20und%20arbeitslosenversicherung%20ab) (June 2025)
+[^8]: [Techniker Krankenkasse](https://www.tk.de/techniker/versicherung/gut-versichert-in-jeder-lebenslage/versichert-als-studierende/geld-verdienen-im-studium/selbststaendig-neben-studium-2007660) (July 2025)
 [^25]: [tk.de](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-nicht-tk-versicherte/wie-hoch-sind-die-beitraege/freiwillige-mitglieder/haeufige-fragen-zu-beitraegen-fuer-freiwillig-versicherte/beitragshoehe-absolvent-freiwilliger-student-2006956#:~:text=nach%20dem%2030.%20geburtstag), [krankenkassen.de](https://www.krankenkassen.de/meine-krankenkasse/student/freiwillig/#:~:text=mit%20dem%20ende%20des%20semesters%2C%20in%20das%20der%2030.%20geburtstag%20fallt)
 [^39]: [Feather Insurance](https://faq.feather-insurance.com/en/articles/29608-what-is-ehic-european-health-insurance-card#:~:text=coverage%20throughout%20the%20whole%20duration%20of%20studies) (2023), [Feather Insurance](https://faq.feather-insurance.com/en/articles/28609-i-am-about-to-enrol-into-a-german-university-what-insurance-options-do-i-have#:~:text=if%20you%20are%20statutorily%20insured%20in%20one%20of%20the%20aforementioned%20countries%2C%20you%20can%20stay%20on%20your%20home%20insurance%20for%20the%20whole%20duration%20of%20your%20studies%20regardless%20of%20your%20age.) (May 2025), [krankenkassen.de](https://www.krankenkassen.de/incoming/student/ehic/) (May 2025)
 [^46]: [Techniker Krankenkasse](https://www.tk.de/resource/blob/2033352/0a9809b0d119ad48bdd717ccf37391b2/beratungsblatt-beschaeftigung-von-studierenden-und-praktikanten-data.pdf) (January 2025), [Techniker Krankenkasse](https://www.tk.de/firmenkunden/versicherung/versicherung-faq/haeufige-fragen-zu-studenten-und-praktikanten/wer-kann-werkstudent-sein-2036666) (March 2025), [meinpraktikum.de](https://www.meinpraktikum.de/ratgeber/werkstudent/allgemeines) (March 2025)
