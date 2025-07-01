@@ -489,10 +489,6 @@ function getHealthInsuranceOptions({
 		];
 	}
 
-	if(needsGapInsurance(isEUCitizen, currentInsurance)){
-
-	}
-
 
 	/***************************************************
 	* Public health insurance
@@ -546,6 +542,10 @@ function getHealthInsuranceOptions({
 
 		if(output.public.options[0].pflegeversicherung.totalRate === pflegeversicherung.surchargeRate) {
 			output.flags.add('public-pflegeversicherung-surcharge');
+		}
+
+		if(needsGapInsurance(isEUCitizen, currentInsurance)){
+			output.flags.add('public-gap-insurance');
 		}
 	}
 
