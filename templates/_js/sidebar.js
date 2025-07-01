@@ -1,6 +1,5 @@
 {% js %}
 window.addEventListener("DOMContentLoaded", function() {
-	/* Sidebar */
 	const main = document.querySelector('main');
 	const articleBody = main.querySelector('.article-body');
 	const bodyTableOfContents = articleBody && articleBody.querySelector('.table-of-contents');
@@ -79,14 +78,15 @@ window.addEventListener("DOMContentLoaded", function() {
 			}
 		}
 
-		// Only show mobile sidebar open/close button if the content is in view
-		const tableOfContentsIsInView = (
-			bodyTableOfContents
-			&& bodyTableOfContents.getBoundingClientRect().bottom <= 0
+		const showMobileSidebarButton = (
+			// The table of contents is in view
+			(!bodyTableOfContents || bodyTableOfContents.getBoundingClientRect().bottom <= 0)
+
+			// The content is in view
 			&& articleBody.getBoundingClientRect().bottom >= window.innerHeight
 		);
 		if(sidebarOpenCloseButton) {
-			sidebarOpenCloseButton.classList.toggle('visible', tableOfContentsIsInView);
+			sidebarOpenCloseButton.classList.toggle('visible', showMobileSidebarButton);
 		}
 	};
 	onScroll();
