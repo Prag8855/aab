@@ -275,7 +275,7 @@
 			</label>
 			<div class="input-group vertical">
 				<label class="checkbox">
-					<input type="checkbox" :name="uid('isEUCitizen')" v-model="isEUCitizen">
+					<input type="checkbox" :id="uid('isEUCitizen')" v-model="isEUCitizen">
 					<div>I am a citizen of the <glossary>European Union</glossary></div>
 				</label>
 			</div>
@@ -290,19 +290,11 @@
 			</div>
 		</div>
 		<div class="form-group">
-			<label :for="uid('isMarried')">
+			<label :for="uid('childrenCount')">
 				Family
 			</label>
-			<div class="input-group vertical">
-				<label class="checkbox">
-					<input type="checkbox" :id="uid('isMarried')" v-model="isMarried">
-					I am married
-				</label>
-			</div>
-		</div>
-		<div class="form-group">
 			<div class="input-group">
-				I have <select v-model="childrenCount" :for="uid('childrenCount')">
+				<select v-model="childrenCount" :id="uid('childrenCount')">
 					<option :value="0">0</option>
 					<option :value="1">1</option>
 					<option :value="2">2</option>
@@ -311,6 +303,14 @@
 					<option :value="5">5</option>
 					<option :value="6">6</option>
 				</select> {{ childrenCount === 1 ? 'child' : 'children'}}
+			</div>
+		</div>
+		<div class="form-group">
+			<div class="input-group vertical">
+				<label class="checkbox">
+					<input type="checkbox" :id="uid('isMarried')" v-model="isMarried">
+					I am married
+				</label>
 			</div>
 		</div>
 		<div class="form-group" v-if="isStudent">
@@ -386,35 +386,7 @@
 		<template v-for="option in results.asList">
 			<h3 v-text="option.name"></h3>
 
-			<template v-if="option.id === 'public'">
-				<p v-if="flag('public-tariff-azubiFree')">
-					You make less than <eur :amount="healthInsurance.azubiFreibetrag"></eur> per month, so your employer pays for your health insurance.
-				</p>
-				<p v-else>
-					<template v-if="results.free.eligible">If you can't get free health insurance, it costs</template>
-					<template v-if="!results.free.eligible">
-						<glossary term="gesetzliche Krankenversicherung">Public health insurance</glossary>
-						<template v-if="!results.private.eligible && !results.free.eligible">is your only option. It </template>costs</template>
-					<strong>
-						<output v-if="maxPublicPrice === 0">
-							<eur :amount="0"></eur>
-						</output>
-						<output v-if="eur(minPublicPrice.personalContribution) === eur(maxPublicPrice.personalContribution) && maxPublicPrice.personalContribution > 0">
-							<eur :amount="maxPublicPrice.personalContribution"></eur>
-						</output>
-						<output v-if="eur(minPublicPrice.personalContribution) != eur(maxPublicPrice.personalContribution) && maxPublicPrice.personalContribution > 0">
-							<eur :amount="minPublicPrice.personalContribution"></eur>
-							to
-							<eur :amount="maxPublicPrice.personalContribution"></eur>
-						</output>
-						per month</strong>, depending on the insurer you choose. There are dozens of insurers. Their cost and coverage are almost the same.
-				</p>
-				<p v-if="publicHealthInsuranceClarification" v-html="publicHealthInsuranceClarification"></p>
-			</template>
-
-			<p v-if="option.id === 'private' && privateHealthInsuranceClarification" v-html="privateHealthInsuranceClarification"></p>
-
-			<p v-if="option.id === 'free'">You can get free <glossary term="gesetzliche Krankenversicherung">public health insurance</glossary> because you have a low income.</p>
+			<p v-if="clarification[option.id]" v-html="clarification[option.id]"></p>
 
 			<ul class="buttons list" v-if="option.options.length">
 				<li v-for="subOption in option.options" v-if="!['aok', 'hkk', 'dak'].includes(subOption.id)">
