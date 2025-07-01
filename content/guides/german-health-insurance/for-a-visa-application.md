@@ -18,8 +18,8 @@ To apply for a [[Schengen visa]] (tourist visa), you need **travel health insura
 Your travel health insurance must...[^1]
 
 - [ ] Cover you for at least €30,000
-- [ ] Be valid in *all* Schengen area countries, not just Germany
-- [ ] Be valid during your whole trip in the [[Schengen area]]
+- [ ] Be valid in *all* [[Schengen area]] countries, not just Germany
+- [ ] Be valid during your whole trip in the Schengen area
 
 **[HanseMerkur Visa Plus](/out/hansemerkur-travel)** works well for a Schengen visa application.
 
@@ -28,12 +28,6 @@ Your travel health insurance must...[^1]
 ## For a National Visa
 
 **To apply for a [[National Visa]]** at the German embassy or consulate, you need [expat health insurance](/glossary/Expat%20health%20insurance). This temporary insurance covers you during your first few months in Germany. [Feather's expat insurance](/out/feather-expats) works well for a National Visa.
-
-**When you arrive in Germany**, you must usually switch to [public](/glossary/gesetzliche%20Krankenversicherung) or [private](/glossary/private%20Krankenversicherung) health insurance. You must switch before you convert your National Visa to a [residence permit](/glossary/Aufenthaltstitel). The best option depends on your situation.
-
-Use my [health insurance picker](/tools/health-insurance-calculator), or [ask an expert](/guides/german-health-insurance#insurance-brokers) to help you choose.
-
-{% include '_blocks/healthInsuranceCalculatorStatic.html' %}
 
 The requirements depend on the visa you apply for:
 
@@ -46,15 +40,28 @@ The requirements depend on the visa you apply for:
 - [Health insurance for an **opportunity card**](/guides/german-health-insurance/for-employees#for-an-opportunity-card)
 - [Health insurance for a **job seeker visa**](/guides/german-health-insurance/for-employees#for-a-job-seeker-visa)
 
+If you are a citizen of {{AUFENTHV_41_COUNTRIES}}, you do not need a National Visa. You can come to Germany without a visa, and apply for a [residence permit](/glossary/Aufenthaltstitel) at the *[[Ausländerbehörde]]*. You do not need health insurance to come to Germany, but you need health insurance [to apply for your residence permit](#for-a-residence-permit).
+
+**When you arrive in Germany**, you must usually switch to [public](/glossary/gesetzliche%20Krankenversicherung) or [private](/glossary/private%20Krankenversicherung) health insurance. You must switch before you convert your National Visa to a [residence permit](/glossary/Aufenthaltstitel). The best option depends on your situation.
+
+Use my [health insurance picker](/tools/health-insurance-calculator), or [ask an expert](/guides/german-health-insurance#insurance-brokers) to help you choose.
+
+{% include '_blocks/healthInsuranceCalculatorStatic.html' %}
+
 ## For a residence permit
 
-After you arrive in Germany, you must convert your [[National Visa]] to a [residence permit](/glossary/Aufenthaltstitel) at the *[[Ausländerbehörde]]*. Some people can also enter Germany without a visa, and apply directly for a residence permit.
+When you arrive in Germany, you must convert your [[National Visa]] to a [residence permit](/glossary/Aufenthaltstitel) at the *[[Ausländerbehörde]]*.
 
-To apply for a residence permit, you need [public](/glossary/gesetzliche%20Krankenversicherung) or [private](/glossary/private%20Krankenversicherung) health insurance. [Expat health insurance](/glossary/Expat%20health%20insurance) is *sometimes* accepted. It depends on the residence permit you apply for.
+To apply for a residence permit, you need...
 
-To change or renew an existing residence permit, expat health insurance is rarely accepted.
+- **[Public health insurance](/glossary/gesetzliche%20Krankenversicherung)**  
+    It's always accepted. If you are unemployed, you can use [your family's health insurance](/glossary/Familienversicherung) for free.
+- or **[private health insurance](/glossary/private%20Krankenversicherung)**  
+    Full private health insurance is always accepted. It must fulfil the requirements of § 257 SGB V.
+- or **[expat health insurance](/glossary/Expat%20health%20insurance)**  
+    [Expat health insurance](/glossary/Expat%20health%20insurance) is *sometimes* accepted when you apply for your first residence permit. It depends on which residence permit you apply for. Expat health insurance is rarely accepted when you change or renew your residence permit.
 
-The requirements depend on your occupation:
+The exact requirements depend on your occupation:
 
 - [Health insurance for an **employee**](/guides/german-health-insurance/for-employees#for-a-visa-or-residence-permit)
 - [Health insurance for a **student**](/guides/german-health-insurance/for-students)
