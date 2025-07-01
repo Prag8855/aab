@@ -82,6 +82,89 @@
 				recommendedOption(){
 					return this.results.asList[0].id;
 				},
+
+				clarification(){
+					const output = {};
+
+					if(this.occupation === 'azubi'){
+						if(this.flag('public-tariff-azubiFree')){
+							output.public = `You make less than ${this.eur(healthInsurance.azubiFreibetrag)} per month, so your employer pays for your health insurance. You can choose any public health insurer.`;
+						}
+						else if(!this.flag('private')){
+							output.public = 'Public health insurance is <strong>your only option</strong>. You can choose any public health insurer.'
+						}
+						// You could have private if your Azubi income is really high, but it's unlikely to happen and not worth explaining
+					}
+					else if(this.isStudent){
+						if(this.flag('public-tariff-student')){
+							if(this.results.free.eligible){
+								output.public = "If you can't get free health insurance, public is the <strong>best option</strong> for you.";
+							}
+							else{
+								output.public = "Public is the <strong>best option</strong> for students under 30 years old.";
+							}
+							output.expat = "Expat health insurance is cheaper, but <strong>the coverage is much worse</strong>. Public health insurance is better.";
+							// TODO: Private explanation for students?
+						}
+						else if(this.flag('public-student-over-30')){
+							output.public = "You are over 30 years old, so you can't get the student tariff. Public health insurance is more expensive for you.";
+							if(this.results.free.eligible){
+								output.expat = "If you can't get free health insurance, expat health insurance is the <strong>cheapest option</strong> for you. The coverage is not great."
+							}
+							else{
+								output.expat = "This is the <strong>cheapest option</strong> for foreign students over 30 years old. The coverage is not great."
+							}
+							output.private = 'Private health insurance is more expensive, but you get <strong>much better coverage</strong>.';
+						}
+						else if(this.flag('public-tariff-employee')){
+							output.public = "You do not get the student tariff because your income is too high. Public is more expensive for you.";
+						}
+					}
+					else if(occupations.isSelfEmployed(this.occupation)){
+						if(this.isEUCitizen){ /* Is EU */
+							if(this.yearlyIncome >= 60000){
+
+							}
+							else if(this.yearlyIncome >= 30000){
+
+							}
+							else{
+
+							}
+						}
+						else {
+							if(this.yearlyIncome >= 60000){
+
+							}
+							else if(this.yearlyIncome >= 30000){
+
+							}
+							else{
+								
+							}
+						}
+					}
+					else if (occupations.isEmployed(this.occupation)){
+						if(this.flag('public-minijob')){
+							// Expat
+							// Public
+						}
+						else if(this.flag('private')){
+							// Many kids, public
+							// Private
+						}
+						else{
+							// Medium income, public only
+						}
+					}
+					else if(this.isUnemployed){
+						// Public
+						// No public
+					}
+
+					return output;
+				},
+
 				publicHealthInsuranceClarification(){
 					if(this.results.private.eligible){
 						if(this.isStudent){
