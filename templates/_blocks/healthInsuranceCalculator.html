@@ -30,7 +30,7 @@
 					worksOver20HoursPerWeek: false,
 
 					isApplyingForResidencePermit: false,
-					isEUCitizen: undefined,
+					isEUCitizen: false,
 					currentInsurance: null,
 					isGettingSocialBenefits: false,
 
@@ -261,6 +261,7 @@
 						childrenCount: this.childrenCount,
 						isMarried: this.isMarried,
 						desiredService: this.desiredService ? this.desiredService : undefined,
+						contactMethod: 'whatsapp',
 					}
 				}
 			},
@@ -461,7 +462,7 @@
 				<i class="icon left" aria-hidden="true"></i> <span class="no-mobile">Go back</span>
 			</button>
 			<button class="button primary" @click="nextStage('options')">
-				Compare options <i class="icon right" aria-hidden="true"></i>
+				See options <i class="icon right" aria-hidden="true"></i>
 			</button>
 		</div>
 	</template>
@@ -497,7 +498,7 @@
 						{% endraw %}{% include "_css/icons/passport.svg" %}{% raw %}
 						<div>
 							<h3>European Health Insurance Card</h3>
-							<p>Your insurance from another EU country might cover you for free in Germany.</p>
+							<p>Your insurance from another EU country might cover you in Germany.</p>
 						</div>
 						<output>
 							<eur :amount="0"></eur> <small>per month</small>
