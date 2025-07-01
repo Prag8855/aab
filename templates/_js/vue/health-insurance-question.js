@@ -30,7 +30,6 @@ Vue.component('health-insurance-question', {
 			question: '',
 			fullName: userDefaults.fullName,
 			email: userDefaults.email,
-			phone: userDefaults.phone,
 
 			showDetailsField: false,
 
@@ -70,7 +69,6 @@ Vue.component('health-insurance-question', {
 						body: JSON.stringify({
 							name: this.fullName,
 							email: this.email,
-							phone: this.phone || '',
 							income: this.income,
 							occupation: this.occupation,
 							age: this.age,
@@ -177,9 +175,6 @@ Vue.component('health-insurance-question', {
 					<button @click="contactMethod = 'email'" tabindex="0" :disabled="contactMethod === 'email'">
 						Email
 					</button>
-					<button @click="contactMethod = 'phone'" tabindex="0" :disabled="contactMethod === 'phone'">
-						Phone
-					</button>
 				</div>
 				<template v-if="contactMethod && contactMethod !== 'whatsapp'">
 					<hr>
@@ -198,15 +193,6 @@ Vue.component('health-insurance-question', {
 						</label>
 						<textarea :id="uid('question')" v-model="question" placeholder="Tell us more about your situation"></textarea>
 						<div v-if="personSummary(false)" class="input-instructions" v-text="personSummary(false)"></div>
-					</div>
-					<div class="form-group required" v-if="contactMethod === 'phone'">
-						<label :for="uid('phone')">
-							Phone number
-						</label>
-						<input v-model="phone" type="tel" :id="uid('phone')" placeholder="+49..." autocomplete="tel" :aria-describedby="uid('instructions-phone')" required>
-						<div class="input-instructions">
-							Seamus' phone number is <a href="tel:+491626969454">+49&nbsp;162&nbsp;6969454</a>.
-						</div>
 					</div>
 					<div class="form-group required" v-if="contactMethod === 'email'">
 						<label :for="uid('email')">
