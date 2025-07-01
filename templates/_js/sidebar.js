@@ -83,6 +83,7 @@ window.addEventListener("DOMContentLoaded", function() {
 		const tableOfContentsIsInView = (
 			bodyTableOfContents
 			&& bodyTableOfContents.getBoundingClientRect().bottom <= 0
+			&& articleBody.getBoundingClientRect().bottom >= window.innerHeight
 		);
 		if(sidebarOpenCloseButton) {
 			sidebarOpenCloseButton.classList.toggle('visible', tableOfContentsIsInView);
