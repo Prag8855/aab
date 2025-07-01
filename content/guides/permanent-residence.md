@@ -43,7 +43,7 @@ To become a permanent resident, you must...
 - [ ] **Have a place to live**  
     Your apartment must be big enough for you and your family. You need 9 m^2^ per adult, and 6 m^2^ per child.[^51]
 - [ ] **Have [health insurance](/glossary/Krankenversicherung)**  
-    You need public or private health insurance. [[Expat health insurance]] and travel insurance are not accepted. If you need health insurance, [ask my broker](/guides/german-health-insurance#insurance-brokers).
+    You need [public](/glossary/gesetzliche%20Krankenversicherung) or [private](/glossary/private%20Krankenversicherung) health insurance. [[Expat health insurance]] and travel insurance are not accepted. [Ask my insurance expert](/guides/german-health-insurance#insurance-brokers) to help you [choose health insurance](/guides/german-health-insurance).
 
 There are more requirements, depending on your situation.
 
