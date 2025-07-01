@@ -1,5 +1,6 @@
 // TODO: Test custom zusatzbeitrag
-// TODO: Test insurance for student freelancers
+// TODO: Test insurance for self-employed students
+// TODO: Test insurance for unemployed students
 // TODO: Test 'public-gap-insurance'
 
 import { hasFlag, notHasFlag } from './test-utils.js';
@@ -319,6 +320,31 @@ describe('getHealthInsuranceOptions', () => {
 	});
 
 	describe('non-EU students getting their first insurance', () => {
+		describe('a 22 year old unemployed non-EU student', () => {
+			const output = getHealthInsuranceOptions({
+				age: 22,
+				childrenCount: 0,
+				isMarried: true,
+				occupation: 'studentUnemployed',
+				monthlyIncome: 0,
+				hoursWorkedPerWeek: 20,
+
+				currentInsurance: null,
+				isEUCitizen: false,
+			});
+
+			hasStudentTariff(output, false);
+			doesNotPayPflegeversicherungSurcharge(output);
+			doesNotHaveMinijobTariff(output);
+
+			isRecommended(output, ['free', 'public', 'expat', 'private']);
+
+			cannotUseEHIC(output);
+			cannotJoinKSK(output);
+			canUseSpouseInsurance(output);
+			canUseParentsInsurance(output);
+		});
+
 		describe('a 22 year old non-EU student with a minijob', () => {
 			const output = getHealthInsuranceOptions({
 				age: 22,
