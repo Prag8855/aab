@@ -549,11 +549,6 @@ function getHealthInsuranceOptions({
 		}
 	}
 
-	if(sortByPrice){
-		output.public.options.sort((a, b) => a.total.personalContribution - b.total.personalContribution);
-	}
-
-
 	/***************************************************
 	* Private health insurance
 	***************************************************/
