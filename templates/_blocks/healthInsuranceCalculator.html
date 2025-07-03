@@ -99,28 +99,38 @@
 						// You could have private if your Azubi income is really high, but it's unlikely to happen and not worth explaining
 					}
 					else if(this.isStudent){
+						output.public = `Public health insurance costs ${publicPriceRange}, depending on the insurer you choose.`;
 						if(this.flag('public-tariff-student')){
 							if(this.results.free.eligible){
-								output.public = `If you can't get free health insurance, public is the <strong>best option</strong> for you. It costs ${publicPriceRange}, depending on the insurer you choose.`;
+								output.public += " If you can't get free health insurance, this is the <strong>best option</strong> for you.";
 							}
 							else{
-								output.public = "Public is the <strong>best option</strong> for students under 30 years old.";
+								output.public += " This is the <strong>best option</strong> for students under 30 years old.";
 							}
 							output.expat = "Expat health insurance is cheaper, but <strong>the coverage is much worse</strong>. Public health insurance is better.";
-							// TODO: Private explanation for students?
+							// TODO: Private explanation for students under 30?
 						}
 						else if(this.flag('public-student-over-30')){
-							output.public = `Public health insurance costs ${publicPriceRange}, depending on the insurer you choose. You are over 30 years old, so you can't get the cheaper student tariff.`;
-							if(this.results.free.eligible){
-								output.expat = "If you can't get free health insurance, expat health insurance is the <strong>cheapest option</strong> for you. The coverage is not great."
+							if(this.isEUCitizen){
+								// TODO: Private explanation for EU students over 30?
 							}
 							else{
-								output.expat = "This is the <strong>cheapest option</strong> for foreign students over 30 years old. The coverage is not great."
+								if(this.results.free.eligible){
+									output.expat = "If you can't get free health insurance, this is the <strong>cheapest option</strong> for you. The coverage is not great."
+								}
+								else{
+									output.expat = "This is the <strong>cheapest option</strong> for foreign students over 30 years old. The coverage is not great."
+									output.private = 'Private health insurance is more expensive, but you get <strong>much better coverage</strong>.';
+								}
 							}
-							output.private = 'Private health insurance is more expensive, but you get <strong>much better coverage</strong>.';
 						}
-						else if(this.flag('public-tariff-employee')){
-							output.public = `You do not get the student tariff because your income is too high. Public is more expensive for you. It costs ${publicPriceRange}.`;
+						else if(this.flag('public-not-werkstudent')){
+							if(this.hoursWorkedPerWeek > 20){
+								output.public += " You work more than 20 hours per week, so you can't get the cheaper student tariff.";
+							}
+							else{
+								output.public += " Your income is too high, so you can't get the cheaper student tariff.";
+							}
 						}
 					}
 					else if(occupations.isSelfEmployed(this.occupation)){
