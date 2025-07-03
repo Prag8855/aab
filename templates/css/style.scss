@@ -1019,7 +1019,7 @@ main{
             @include list-marker-light;
         }
 
-        @include only-phone{
+        @include not-desktop{
             width: 100%;
         }
     }
