@@ -1,6 +1,6 @@
 ---
 Title: How the German Fiktionsbescheinigung works
-Short_title: How the Fiktionsbescheinigung works
+Short_title: How to get a Fiktionsbescheinigung
 Description: This guide explains what a Fiktionsbescheinigung is, how it works, and how to get one. It explains how to travel with a Fiktionsbescheinigung.
 Date_created: 2023-03-02
 ---
