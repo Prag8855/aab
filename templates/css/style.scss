@@ -980,12 +980,18 @@ main{
         }
     }
 
+    #related .collection{
+        padding: var(--m) 0;
+    }
+
     .collection{
-        width: calc(50% - 34px / 2);
+        width: calc(50% - 19px / 2);
         box-sizing: border-box;
         text-align: left;
-
-        margin: 0 0 var(--xxl);
+        background: var(--c-bg-page);
+        padding: var(--m) var(--w-page-border);
+        border-radius: var(--b-radius);
+        margin: 0 0 var(--m);
 
         &:last-child{
             margin-bottom: 0;
