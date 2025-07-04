@@ -29,10 +29,8 @@
 					yearlyIncome: userDefaults.yearlyIncome,
 					worksOver20HoursPerWeek: false,
 
-					isApplyingForResidencePermit: false,
 					isEUCitizen: false,
 					currentInsurance: null,
-					isGettingSocialBenefits: false,
 
 					desiredService: null,
 
@@ -116,7 +114,7 @@
 						age: +this.age,
 						childrenCount: this.childrenCount,
 						currentInsurance: this.currentInsurance,
-						hoursWorkedPerWeek: this.worksOver20HoursPerWeek ? 30 : 20,
+						hoursWorkedPerWeek: this.worksOver20HoursPerWeek ? 40 : 20,
 						isEUCitizen: this.isEUCitizen,
 						isMarried: this.isMarried,
 						occupation: this.occupation,
@@ -282,7 +280,7 @@
 						}
 					}
 					else if(this.flag('public-not-werkstudent')){
-						if(this.hoursWorkedPerWeek > 20){
+						if(this.worksOver20HoursPerWeek > 20){
 							output.public += " You work more than 20 hours per week, so you can't get the cheaper student tariff.";
 						}
 						else{
