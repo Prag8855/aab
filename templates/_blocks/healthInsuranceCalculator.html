@@ -99,136 +99,7 @@
 						return `You need <strong>${options} health insurance</strong>. Our expert will help you choose one.`;
 					}
 				},
-				clarification(){
-					const output = {};
 
-					const minPrice = this.eur(this.minPublicPrice.personalContribution);
-					const maxPrice = this.eur(this.maxPublicPrice.personalContribution);
-					const priceRange = minPrice === maxPrice ? minPrice : `${minPrice} to ${maxPrice}`;
-					const publicCost = `It costs ${priceRange} per month, depending on the insurer you choose.`;
-
-					const familienversicherung = `It covers your ${this.childrenCount === 1 ? 'child' : 'children'} for free.`;
-
-					if(this.occupation === 'azubi'){
-						if(this.flag('public-tariff-azubiFree')){
-							output.public = `You get free health insurance, because you earn less than ${this.eur(healthInsurance.azubiFreibetrag)} per month. ${publicCost}`;
-						}
-						else if(!this.flag('private')){
-							output.public = `Public health insurance is <strong>your only option</strong>. ${publicCost}`
-						}
-
-						if(this.childrenCount > 0){
-							output.public += ' ' + familienversicherung;
-						}
-						// You could have private if your Azubi income is really high, but it's unlikely to happen and not worth explaining
-					}
-					else if(this.isStudent){
-						output.public = publicCost;
-						if(this.flag('public-tariff-student')){
-							if(this.results.free.eligible){
-								output.public += " If you can't get free health insurance, this is the <strong>best option</strong> for you.";
-							}
-							else{
-								output.public += " This is the <strong>best option</strong> for students under 30 years old.";
-							}
-
-							if(this.childrenCount > 0){
-								output.public += ' ' + familienversicherung;
-							}
-
-							output.expat = "It's cheaper, but <strong>the coverage is much worse</strong>. Public health insurance is better.";
-							output.private = "It's more expensive, but you can get <strong>better coverage</strong> and faster doctor appointments.";
-						}
-						else if(this.flag('public-student-over-30')){
-							if(this.isEUCitizen){
-								// TODO: Private explanation for EU students over 30?
-							}
-							else{
-								if(this.results.free.eligible){
-									output.expat = "If you can't get free health insurance, this is the <strong>cheapest option</strong>, but the coverage is not great."
-								}
-								else{
-									output.expat = "This is the <strong>cheapest option</strong> for students over 30 years old, but the coverage is not great."
-									output.private = 'Private health insurance is more expensive, but you get <strong>much better coverage</strong>.';
-								}
-							}
-						}
-						else if(this.flag('public-not-werkstudent')){
-							if(this.hoursWorkedPerWeek > 20){
-								output.public += " You work more than 20 hours per week, so you can't get the cheaper student tariff.";
-							}
-							else{
-								output.public += " Your income is too high, so you can't get the cheaper student tariff.";
-							}
-						}
-					}
-					else if(occupations.isSelfEmployed(this.occupation)){
-						if(this.isEUCitizen){ /* Is EU */
-							if(this.yearlyIncome >= 60000){
-
-							}
-							else if(this.yearlyIncome >= 30000){
-
-							}
-							else{
-
-							}
-						}
-						else {
-							if(this.yearlyIncome >= 60000){
-
-							}
-							else if(this.yearlyIncome >= 30000){
-								output.public = `If you earn less than €30,000 per year, this is <strong>the safest option</strong>, because the cost is proportional to your income. ${publicCost}`;
-								output.private = "Insurers might reject you because <strong>your income is too low</strong>. Public health insurance is a safer option."
-								// TODO: Justify private, expat
-							}
-							else{
-								
-							}
-						}
-					}
-					else if (occupations.isEmployed(this.occupation)){
-						if(this.flag('public-minijob')){
-							output.public = publicCost;
-							if(this.results.expat.eligible){
-								output.public += `It's more expensive, but you get <strong></strong>.`;
-								if(this.childrenCount){
-									output.public += ' ' + familienversicherung;
-								}
-								output.expat = "Expat health insurance is cheaper, but <strong>the coverage is not great</strong>. Public health insurance is better.";
-							}
-						}
-						else if(this.flag('private')){
-							if(this.childrenCount > 2){
-								output.public = `Public health insurance is <strong>cheaper</strong>. ${familienversicherung} ${publicCost}`;
-								output.private = 'Choose private health insurance to get <strong>better coverage</strong> and faster doctor appointments for your family.'
-							}
-							else if(this.age <= 35){
-								output.private = "Private health insurance might be <strong>better and cheaper</strong> than public, because you are young and well-paid.";
-								output.public = `Public health insurance is a <strong>safer choice</strong>, because the price is proportional to your income.`;
-								if(this.childrenCount > 0){
-									output.public += ' ' + familienversicherung;
-								}
-							}
-							else if(this.age >= 45){
-								output.public = "You are over 45 years old. Public health insurance is usually the <strong>cheapest option</strong>."
-								output.private = "Choose private health insurance to get <strong>better coverage</strong> and faster doctor appointments."
-							}
-						}
-						else{
-							output.public = `Public health insurance is <strong>your only option</strong>. ${publicCost}`;
-						}
-					}
-					else if(this.isUnemployed){
-						// Public
-						// No public
-
-						output.private = "You can get private health insurance, but most insurers reject unemployed people.";
-					}
-
-					return output;
-				},
 				yourSponsorsHave() {
 					if(this.flag('familienversicherung-parents') && this.flag('familienversicherung-spouse')){
 						return 'your parents or your spouse have';
@@ -258,17 +129,179 @@
 				contactFormParams() {
 					return {
 						age: this.occupation ? this.age : undefined,
-						income: (
-							!this.isUnemployed
-							&& this.yearlyIncome
-						) ? this.yearlyIncome : undefined,
+						income: (this.yearlyIncome && !this.isUnemployed) ? this.yearlyIncome : undefined,
 						occupation: this.occupation ? this.occupation : undefined,
 						childrenCount: this.childrenCount,
 						isMarried: this.isMarried,
 						desiredService: this.desiredService ? this.desiredService : undefined,
 						contactMethod: 'whatsapp',
 					}
-				}
+				},
+
+				/***************************************************
+				* Clarification for each option
+				***************************************************/
+
+				clarification(){
+					if(this.occupation === 'azubi'){
+						return this.azubiClarification;
+					}
+					else if(this.isStudent){
+						return this.studentClarification;
+					}
+					else if(occupations.isSelfEmployed(this.occupation)){
+						return this.selfEmployedClarification;
+					}
+					else if (occupations.isEmployed(this.occupation)){
+						return this.employeeClarification;
+					}
+					else if(this.isUnemployed){
+						return this.unemployedClarification;
+					}
+					return {};
+				},
+
+				azubiClarification(){
+					const output = {};
+
+					if(this.flag('public-tariff-azubiFree')){
+						output.public = `You get free health insurance, because you earn less than ${this.eur(healthInsurance.azubiFreibetrag)} per month. ${this.publicCost}`;
+					}
+					else if(!this.flag('private')){
+						output.public = `Public health insurance is <strong>your only option</strong>. ${this.publicCost}`
+					}
+
+					if(this.childrenCount > 0){
+						output.public += ' ' + this.familienversicherung;
+					}
+
+					// You could have private if your Azubi income is really high, but it's unlikely to happen and not worth explaining
+					return output;
+				},
+				employeeClarification(){
+					const output = {};
+					if(this.flag('public-minijob')){
+						output.public = this.publicCost;
+						if(this.results.expat.eligible){
+							output.public += `It's more expensive, but you get <strong></strong>.`;
+							if(this.childrenCount){
+								output.public += ' ' + this.familienversicherung;
+							}
+							output.expat = "Expat health insurance is cheaper, but <strong>the coverage is not great</strong>. Public health insurance is better.";
+						}
+					}
+					else if(this.flag('private')){
+						if(this.childrenCount > 2){
+							output.public = `Public health insurance is <strong>cheaper</strong>. ${this.familienversicherung} ${this.publicCost}`;
+							output.private = 'Choose private health insurance to get <strong>better coverage</strong> and faster doctor appointments for your family.'
+						}
+						else if(this.age <= 35){
+							output.private = "Private health insurance might be <strong>better and cheaper</strong> than public, because you are young and well-paid.";
+							output.public = `Public health insurance is a <strong>safer choice</strong>, because the price is proportional to your income.`;
+							if(this.childrenCount > 0){
+								output.public += ' ' + this.familienversicherung;
+							}
+						}
+						else if(this.age >= 45){
+							output.public = "You are over 45 years old. Public health insurance is usually the <strong>cheapest option</strong>."
+							output.private = "Choose private health insurance to get <strong>better coverage</strong> and faster doctor appointments."
+						}
+					}
+					else{
+						output.public = `Public health insurance is <strong>your only option</strong>. ${this.publicCost}`;
+					}
+					return output;
+				},
+				selfEmployedClarification(){
+					const output = {};
+
+					if(this.isEUCitizen){ /* Is EU */
+						if(this.yearlyIncome >= 60000){
+
+						}
+						else if(this.yearlyIncome >= 30000){
+
+						}
+						else{
+
+						}
+					}
+					else {
+						if(this.yearlyIncome >= 60000){
+
+						}
+						else if(this.yearlyIncome >= 30000){
+							output.public = `If you earn less than €30,000 per year, this is <strong>the safest option</strong>, because the cost is proportional to your income. ${this.publicCost}`;
+							output.private = "Insurers might reject you because <strong>your income is too low</strong>. Public health insurance is a safer option."
+							// TODO: Justify private, expat
+						}
+						else{
+							
+						}
+					}
+
+					return output;
+				},
+				studentClarification(){
+					const output = {
+						public: this.publicCost,
+					};
+
+					if(this.flag('public-tariff-student')){
+						if(this.results.free.eligible){
+							output.public += " If you can't get free health insurance, this is the <strong>best option</strong> for you.";
+						}
+						else{
+							output.public += " This is the <strong>best option</strong> for students under 30 years old.";
+						}
+
+						if(this.childrenCount > 0){
+							output.public += ' ' + this.familienversicherung;
+						}
+
+						output.expat = "It's cheaper, but <strong>the coverage is much worse</strong>. Public health insurance is better.";
+						output.private = "It's more expensive, but you can get <strong>better coverage</strong> and faster doctor appointments.";
+					}
+					else if(this.flag('public-student-over-30')){
+						if(this.isEUCitizen){
+							// TODO: Private explanation for EU students over 30?
+						}
+						else{
+							if(this.results.free.eligible){
+								output.expat = "If you can't get free health insurance, this is the <strong>cheapest option</strong>, but the coverage is not great."
+							}
+							else{
+								output.expat = "This is the <strong>cheapest option</strong> for students over 30 years old, but the coverage is not great."
+								output.private = 'Private health insurance is more expensive, but you get <strong>much better coverage</strong>.';
+							}
+						}
+					}
+					else if(this.flag('public-not-werkstudent')){
+						if(this.hoursWorkedPerWeek > 20){
+							output.public += " You work more than 20 hours per week, so you can't get the cheaper student tariff.";
+						}
+						else{
+							output.public += " Your income is too high, so you can't get the cheaper student tariff.";
+						}
+					}
+
+					return output;
+				},
+				unemployedClarification(){
+					return {
+						private: "You can get private health insurance, but most insurers reject unemployed people."
+					};
+				},
+
+				familienversicherung(){
+					return `It covers your ${this.childrenCount === 1 ? 'child' : 'children'} for free.`;
+				},
+				publicCost(){
+					const minPrice = this.eur(this.minPublicPrice.personalContribution);
+					const maxPrice = this.eur(this.maxPublicPrice.personalContribution);
+					const priceRange = minPrice === maxPrice ? minPrice : `${minPrice} to ${maxPrice}`;
+					return `It costs ${priceRange} per month, depending on the insurer you choose.`;
+				},
 			},
 			methods: {
 				flag(flagName){
