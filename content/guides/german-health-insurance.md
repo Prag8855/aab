@@ -370,17 +370,15 @@ I work with Seamus Wolf. He is honest and knowledgeable, and he speaks English.
 
 ### 1. Understand your options
 
-Use my [recommendation tool](#your-options) to know your options. There are two insurance systems and hundreds of options. The best option depends on your situation.
+Use my [recommendation tool](#your-options) to know your options. There are 3 types of health insurance and hundreds of options. The best option depends on your situation.
 
 ### 2. Ask an expert to choose
 
-Don't choose health insurance yourself. Always [ask a broker](#insurance-brokers) to help you. They ask you the right questions, look at all the options, and help you find the best one. You can get better, cheaper health insurance. Their help is free.
+Don't choose health insurance yourself. The cheapest option now can be an expensive mistake later. Your visa application can get rejected because you chose the wrong insurance.
 
-If you choose the wrong health insurance, your [residence permit](/glossary/Aufenthaltstitel) application can be rejected. If you choose the cheapest insurance, you might save money now but lose a lot of money later.
+Always [ask a broker](#insurance-brokers) to help you. They ask you the right questions, look at all the options, and help you find the best health insurance. You can get better coverage for a lower price. Their help is free.
 
 {% include '_blocks/healthInsuranceQuestion.html' %}
-
-If you are self-employed, never choose health insurance yourself. It's a complicated decision, and you can make expensive mistakes.
 
 ### 3. Apply for health insurance
 
@@ -408,6 +406,8 @@ If you are a student, your health insurer will tell your school that you are ins
 ### 5. Pay every month
 
 If you have public health insurance, you pay out of your paycheck every month. If you have private health insurance or you are self-employed, you pay by [bank transfer](/glossary/SEPA-Überweisung) or [direct debit authorisation](/glossary/SEPA-Lastschriftmandat).[^35]
+
+When you are self-employed, the cost of public health insurance is based on your *estimated* income. It's adjusted every year. If you paid too much, you get money back. If you did not pay enough, you must make an extra payment.[^21]
 
 ## What to do next
 
@@ -439,6 +439,7 @@ If you have public health insurance, you pay out of your paycheck every month. I
 [^18]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/c2j339/is_pkv_still_a_terrible_idea_if_i_likely_wont/ermsqt7/)
 [^19]: [Feather Insurance](https://feather-insurance.com/blog/public-vs-private-health-insurance-germany/?utm_source=allaboutberlin#:~:text=for%20high%20earners%2C%20private%20insurance%20can%20be%20cheaper) (April 2025)
 [^20]: [Seamus Wolf](/out/horizon65) (June 2025)
+[^21]: Personal experience (2020)
 [^22]: [care-concept.de](https://www.care-concept.de/expatriates_eng.php?navilang=eng#:~:text=up%20to%20a%20maximum%20of%205%20years) (April 2025), [mawista.com](https://www.mawista.com/en/tariffs/health-insurance-expatcare/) (April 2025), [Feather Insurance](https://feather-insurance.com/health-insurance/expat?utm_source=allaboutberlin#:~:text=maximum%20length%20of%20policy) (April 2025)
 [^23]: [health-insurance.de](https://www.health-insurance.de/living/eu-citizen/#:~:text=ehic%20is%20limited%20to%20emergencies) (April 2025), [ec.europa.eu](https://employment-social-affairs.ec.europa.eu/policies-and-activities/moving-working-europe/eu-social-security-coordination/frequently-asked-questions/faq-social-security-european-health-insurance-card_en#:~:text=taking%20account%20of%20the%20duration%20of%20their%20stay) (April 2025)
 [^24]: [dvka.de](https://www.dvka.de/media/dokumente/merkblaetter/urlaub-in-deutschland/ehic_dt_englisch.pdf), [Seamus Wolf](/out/horizon65) (April 2025)
