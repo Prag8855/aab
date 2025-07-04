@@ -523,8 +523,10 @@
 		</div>
 	</template>
 	<template v-if="stage === 'options'">
-		<p v-if="intro" v-html="intro"></p>
-		<hr v-if="intro">
+		<template v-if="intro">
+			<p v-html="intro"></p>
+			<hr>
+		</template>
 		<template v-for="option in results.asList">
 			<h3 v-if="results.asList.length > 1" v-text="option.name"></h3>
 
@@ -542,7 +544,7 @@
 							<eur :amount="0"></eur> <small>per month</small>
 						</output>
 					</a>
-					<a v-else-if="subOption.id === 'social-benefits'" title="Learn more about state-sponsored health insurance" href="/guides/german-health-insurance#free-health-insurance" target="_blank">
+					<a v-else-if="subOption.id === 'social-benefits'" :class="{recommended: !flag('familienversicherung')}" title="Learn more about state-sponsored health insurance" href="/guides/german-health-insurance#free-health-insurance" target="_blank">
 						{% endraw %}{% include "_css/icons/bank.svg" %}{% raw %}
 						<div>
 							<h3>Paid by social benefits</h3>
@@ -614,10 +616,9 @@
 						{% endraw %}{% include "_css/icons/help.svg" %}{% raw %}
 						<div>
 							<h3>Get a quote</h3>
-							<p>Ask our insurance expert to compare all options. It's the best way to get insured, and it's free. He speaks English.</p>
+							<p>Let us compare all private health insurers and find the best one for you.</p>
 						</div>
 					</button>
-					<span v-else>Unknown option: {{ subOption.id }}</span>
 				</li>
 			</ul>
 
@@ -625,6 +626,21 @@
 
 			<hr>
 		</template>
+
+		<h2>Need help choosing?</h2>
+		<ul class="buttons list">
+			<li>
+				<button @click="desiredService = null; goToStage('askABroker')">
+					{% endraw %}{% include "_css/icons/help.svg" %}{% raw %}
+					<div>
+						<h3>Ask an expert to choose</h3>
+						<p>Let us find the right insurance for you. It's the best way to get insured, and it's 100% free.</p>
+					</div>
+				</button>
+			</li>
+		</ul>
+
+		<hr>
 
 		<div class="buttons bar">
 			<button aria-label="Go back" class="button" @click="previousStage()">
