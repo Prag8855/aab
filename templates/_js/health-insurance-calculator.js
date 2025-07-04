@@ -220,6 +220,28 @@ function gkvZusatzbeitrag(zusatzbeitragRate, tariff, monthlyIncome){
 	};
 }
 
+function kskOption(monthlyIncome, age, childrenCount){
+	const baseContribution = gkvBaseContribution('employee', monthlyIncome);
+	const pflegeversicherung = gkvPflegeversicherung('employee', monthlyIncome, age, childrenCount);
+	const zusatzbeitrag = gkvZusatzbeitrag(healthInsurance.averageZusatzbeitrag, 'employee', monthlyIncome);
+	return {
+		id: 'ksk', 
+		name: 'Künstlersozialkasse',
+		tariff: 'employee',
+		baseContribution,
+		pflegeversicherung,
+		zusatzbeitrag,
+		total: {
+			totalRate: baseContribution.totalRate + pflegeversicherung.totalRate + zusatzbeitrag.totalRate,
+			employerRate: baseContribution.employerRate + pflegeversicherung.employerRate + zusatzbeitrag.employerRate,
+			personalRate: baseContribution.personalRate + pflegeversicherung.personalRate + zusatzbeitrag.personalRate,
+			totalContribution: roundCurrency(baseContribution.totalContribution + pflegeversicherung.totalContribution + zusatzbeitrag.totalContribution),
+			employerContribution: roundCurrency(baseContribution.employerContribution + pflegeversicherung.employerContribution + zusatzbeitrag.employerContribution),
+			personalContribution: roundCurrency(baseContribution.personalContribution + pflegeversicherung.personalContribution + zusatzbeitrag.personalContribution),
+		}
+	};
+}
+
 function gkvOptions({occupation, monthlyIncome, hoursWorkedPerWeek, age, childrenCount, customZusatzbeitrag}){
 	const tariff = gkvTariff(age, occupation, monthlyIncome, hoursWorkedPerWeek);
 
@@ -583,7 +605,7 @@ function getHealthInsuranceOptions({
 
 	if(canHaveKSK(occupation, monthlyIncome, hoursWorkedPerWeek)){
 		output.other.eligible = true;
-		output.other.options.push({id: 'ksk'});
+		output.other.options.push(kskOption(monthlyIncome, age, childrenCount));
 		output.flags.add('ksk');
 	};
 
