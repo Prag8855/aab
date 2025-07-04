@@ -82,6 +82,13 @@
 				recommendedOption(){
 					return this.results.asList[0].id;
 				},
+				intro(){
+					const optionsList = this.results.asList.map(r => r.id).filter(id => ['public', 'private', 'expat'].includes(id));
+					if(optionsList.length > 1){
+						const options = new Intl.ListFormat('en-US', {style: 'long', type: 'disjunction'}).format(optionsList);
+						return `You need <strong>${options} health insurance</strong>. Our expert will help you choose one.`;
+					}
+				},
 				clarification(){
 					const minPrice = this.eur(this.minPublicPrice.personalContribution);
 					const maxPrice = this.eur(this.maxPublicPrice.personalContribution);
@@ -481,8 +488,10 @@
 		</div>
 	</template>
 	<template v-if="stage === 'options'">
+		<p v-if="intro" v-html="intro"></p>
+		<hr v-if="intro">
 		<template v-for="option in results.asList">
-			<h3 v-text="option.name"></h3>
+			<h3 v-if="results.asList.length > 1" v-text="option.name"></h3>
 
 			<p v-if="clarification[option.id]" v-html="clarification[option.id]"></p>
 
