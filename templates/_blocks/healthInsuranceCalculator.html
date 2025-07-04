@@ -95,6 +95,8 @@
 					let publicPriceRange = (minPrice === maxPrice ? minPrice : `${minPrice} to ${maxPrice}`) + ' per month';
 					const publicCostString = `It costs ${publicPriceRange}, depending on the insurer you choose.`;
 
+					const familienversicherungString = `It covers your ${this.childrenCount === 1 ? 'child' : 'children'} for free.`;
+
 					const output = {};
 
 					if(this.occupation === 'azubi'){
@@ -158,7 +160,9 @@
 
 							}
 							else if(this.yearlyIncome >= 30000){
-
+								output.public = `If you earn less than €30,000 per year, this is <strong>the safest option</strong>, because the cost is proportional to your income. ${publicCostString}`;
+								output.private = "Insurers might reject you because <strong>your income is too low</strong>. Public health insurance is a safer option."
+								// TODO: Justify private, expat
 							}
 							else{
 								
@@ -175,14 +179,14 @@
 						}
 						else if(this.flag('private')){
 							if(this.childrenCount > 2){
-								output.public = `Public health insurance is <strong>cheaper</strong>, because it covers your ${this.childrenCount} children for free. ${publicCostString}`;
+								output.public = `Public health insurance is <strong>cheaper</strong>. ${familienversicherungString} ${publicCostString}`;
 								output.private = 'Choose private health insurance to get <strong>better coverage</strong> and faster doctor appointments for your family.'
 							}
 							else if(this.age <= 35){
 								output.private = "Private health insurance might be <strong>better and cheaper</strong> than public, because you are young and well-paid.";
 								output.public = `Public health insurance is a <strong>safer choice</strong>, because the price is proportional to your income.`;
 								if(this.childrenCount > 0){
-									output.public += ` It covers your ${this.childrenCount === 1 ? 'child' : 'children'} for free.`;
+									output.public += ' ' + familienversicherungString;
 								}
 							}
 							else if(this.age >= 45){
@@ -197,53 +201,11 @@
 					else if(this.isUnemployed){
 						// Public
 						// No public
+
+						output.private = "You can get private health insurance, but most insurers reject unemployed people.";
 					}
 
 					return output;
-				},
-
-				publicHealthInsuranceClarification(){
-					if(this.results.private.eligible){
-						if(this.occupation === 'selfEmployed' && this.yearlyIncome <= 30000){
-							return "If you earn less than €30,000 per year, this is <strong>the safest option</strong>."
-						}
-						else if(this.age > 45){
-							return "Public health insurance is usually the best option for people over 45 years old."
-						}
-						else if(this.childrenCount > 2){
-							return `Public health insurance is usually <strong>the cheapest option</strong>, because it covers your ${this.childrenCount} children for free.`
-						}
-					}
-
-					if(this.isStudent && this.flag('public-not-werkstudent') && !this.flag('public-student-over-30') && this.worksOver20HoursPerWeek){
-						return "You work more than 20 hours per week, so you can't get the student tariff."
-					}
-				},
-				privateHealthInsuranceClarification(){
-					if(!this.results.private.eligible){
-						return "You can't choose private health insurance because your income is too low."
-					}
-					else if(this.occupation === 'employee'){
-					}
-					else if(this.occupation === 'selfEmployed'){
-						if(this.yearlyIncome >= 30000){
-							return "Private health insurance is often <strong>the best option for freelancers</strong>. It might be your only option, because public health insurers can reject you.";
-						}
-						else {
-							return "If you earn less than €30,000 per year, private health insurance is usually a bad idea. Insurers often reject freelancers with a low income."
-						}
-					}
-					else if(this.occupation === 'unemployed'){
-						return "You can get private health insurance, but most insurers reject unemployed people."
-					}
-					else if(this.isStudent){
-						if(this.age >= 30){
-							return "Private health insurance is can be better and cheaper for students over 30 years old."
-						}
-						else{
-							return "Private health insurance is more expensive, but you get <strong>better coverage</strong> and faster doctor appointments."
-						}
-					}
 				},
 				yourSponsorsHave() {
 					if(this.flag('familienversicherung-parents') && this.flag('familienversicherung-spouse')){
@@ -297,12 +259,7 @@
 					return this.results.public.options.find(o => o.id === id).total.personalContribution;
 				},
 				previousStage(){
-					if(!this.occupation){
-						this.stageIndex = 0;
-					}
-					else{
-						this.stageIndex -= 1;
-					}
+					this.stageIndex = this.occupation ? this.stageIndex - 1 : 0;
 				},
 			},
 			watch: {
