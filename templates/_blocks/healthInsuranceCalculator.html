@@ -215,6 +215,9 @@
 							output.public = "You are over 45 years old. Public health insurance is usually the <strong>cheapest option</strong>."
 							output.private = "Choose private health insurance to get <strong>better coverage</strong> and faster doctor appointments."
 						}
+						else{
+							output.private = "With private health insurance, you can get <strong>better coverage</strong> and faster doctor appointments."
+						}
 					}
 					else{
 						output.public = `Public health insurance is <strong>your only option</strong>. ${this.publicCost}`;
@@ -646,8 +649,8 @@
 				<button @click="desiredService = null; goToStage('askABroker')">
 					{% endraw %}{% include "_css/icons/help.svg" %}{% raw %}
 					<div>
-						<h3>Ask an expert to choose</h3>
-						<p>Let us find the right insurance for you. It's the best way to get insured, and it's 100% free.</p>
+						<h3>Ask an expert</h3>
+						<p>Let us find the best health insurance for you. It's the fastest way to get insured, and it's 100% free.</p>
 					</div>
 				</button>
 			</li>
