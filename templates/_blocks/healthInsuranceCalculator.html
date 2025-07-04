@@ -92,9 +92,12 @@
 
 				intro(){
 					const optionsList = this.results.asList.map(r => r.id).filter(id => ['public', 'private', 'expat'].includes(id));
+					if(this.results.free.eligible && !this.results.public.eligible){
+						optionsList.unshift('public');
+					}
 					if(optionsList.length > 1){
 						const options = new Intl.ListFormat('en-US', {style: 'long', type: 'disjunction'}).format(optionsList);
-						return `You need <strong>${options} health insurance</strong>. Our expert will help you choose one.`;
+						return `You need <strong>${options} health insurance</strong>. Our expert can help you choose.`;
 					}
 				},
 
