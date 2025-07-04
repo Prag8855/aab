@@ -222,31 +222,41 @@
 					return output;
 				},
 				selfEmployedClarification(){
-					const output = {};
+					const output = {
+						expat: "This is the <strong>cheapest option</strong>, but the coverage is not great. It can be a really bad choice. Ask our expert before you choose this option."
+					};
 
-					if(this.isEUCitizen){ /* Is EU */
+					if(this.age >= 45){
+						output.public = "You are over 45 years old. Public health insurance is usually the <strong>best option</strong>."
+						output.private = "Choose private health insurance to get <strong>better coverage</strong> and faster doctor appointments."
+					}
+					else if(this.childrenCount > 2){
+						output.public = `Public health insurance is <strong>cheaper for families</strong>. ${this.publicCost}`;
+						output.private = 'Choose private health insurance to get <strong>better coverage</strong> and faster doctor appointments for your family.'
+					}
+					else{
+						output.public = `This is the <strong>safest choice</strong>, because the price is proportional to your income.`;
+
 						if(this.yearlyIncome >= 60000){
-
+							output.private = "Private health insurance might be <strong>better and cheaper</strong> than public, because you have a high income.";
+							output.public = "If your income is unstable, this is the <strong>safest option</strong>, because the price is proportional to your income."
 						}
-						else if(this.yearlyIncome >= 30000){
-
+						else if(this.yearlyIncome >= 30000){							
+							output.private = "Choose private health insurance to get <strong>better coverage</strong> and faster doctor appointments."
 						}
 						else{
-
+							output.private = "Insurers might reject you because <strong>your income is too low</strong>."
+							if(this.results.expat.eligible){
+								output.private += " Expat health insurance might be your only option."
+							}
+							else if(this.results.public.eligible){
+								output.private += " Public health insurance is a safer option."
+							}
 						}
 					}
-					else {
-						if(this.yearlyIncome >= 60000){
 
-						}
-						else if(this.yearlyIncome >= 30000){
-							output.public = `If you earn less than €30,000 per year, this is <strong>the safest option</strong>, because the cost is proportional to your income. ${this.publicCost}`;
-							output.private = "Insurers might reject you because <strong>your income is too low</strong>. Public health insurance is a safer option."
-							// TODO: Justify private, expat
-						}
-						else{
-							
-						}
+					if(this.childrenCount > 0){
+						output.public += ' ' + this.familienversicherung;
 					}
 
 					return output;
