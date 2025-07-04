@@ -129,10 +129,15 @@
 				contactFormParams() {
 					return {
 						age: this.occupation ? this.age : undefined,
-						income: (this.yearlyIncome && !this.isUnemployed) ? this.yearlyIncome : undefined,
-						occupation: this.occupation ? this.occupation : undefined,
 						childrenCount: this.childrenCount,
+						currentInsurance: String,
+						desiredService: String,
+						yearlyIncome: (this.yearlyIncome && !this.isUnemployed) ? this.yearlyIncome : undefined,
+						isEUCitizen: Boolean,
 						isMarried: this.isMarried,
+						occupation: this.occupation ? this.occupation : undefined,
+						worksOver20HoursPerWeek: this.worksOver20HoursPerWeek,
+
 						desiredService: this.desiredService ? this.desiredService : undefined,
 						contactMethod: 'whatsapp',
 					}

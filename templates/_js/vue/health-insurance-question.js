@@ -13,12 +13,16 @@
 Vue.component('health-insurance-question', {
 	mixins: [userDefaultsMixin, uniqueIdsMixin, trackedStagesMixin],
 	props: {
-		occupation: String,
 		age: Number,
-		income: Number,
 		childrenCount: Number,
+		currentInsurance: String,
 		desiredService: String,
+		yearlyIncome: Number,
+		isEUCitizen: Boolean,
 		isMarried: Boolean,
+		occupation: String,
+		worksOver20HoursPerWeek: Boolean,
+
 		contactMethod: String,
 	},
 	data: function() {
@@ -69,7 +73,7 @@ Vue.component('health-insurance-question', {
 						body: JSON.stringify({
 							name: this.fullName,
 							email: this.email,
-							income: this.income,
+							income: this.yearlyIncome,
 							occupation: this.occupation,
 							age: this.age,
 							question: this.question,
@@ -114,15 +118,21 @@ Vue.component('health-insurance-question', {
 				studentSelfEmployed: 'a self-employed student',
 				studentUnemployed: 'an unemployed student',
 				unemployed: 'unemployed',
-			}[this.inputOccupation];
+			}[this.occupation];
 			if(cleanOccupation){
 				facts.push(`${iAm} ${cleanOccupation}`);
 			}
-			if(this.income !== undefined){
-				facts.push(`${youOrI} earn ${formatCurrency(this.income)} per year`);
+			if(occupations.isStudent(this.occupation) && this.worksOver20HoursPerWeek){
+				facts.push(`${youOrI} work more than 20 hours per week`);
+			}
+			if(this.yearlyIncome !== undefined){
+				facts.push(`${youOrI} earn ${formatCurrency(this.yearlyIncome)} per year`);
+			}
+			if(this.isEUCitizen !== undefined){
+				facts.push(`${iAm} ${this.isEUCitizen ? '' : 'not '}a EU citizen`);
 			}
 			if(this.isMarried !== undefined){
-				facts.push(`${iAm} ${this.isMarried ? '' : 'not '}married`)
+				facts.push(`${iAm} ${this.isMarried ? '' : 'not '}married`);
 			}
 
 			if(this.childrenCount !== undefined){
@@ -135,6 +145,10 @@ Vue.component('health-insurance-question', {
 				else {
 					facts.push(`${youOrI} have ${this.childrenCount} children`);
 				}
+			}
+
+			if(this.currentInsurance){
+				facts.push(`${youOrI} have ${currentInsurance} health insurance`);
 			}
 
 			if(facts.length === 0){
