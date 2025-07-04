@@ -79,6 +79,15 @@
 					return this.results.public.options.at(-1).total;
 				},
 
+				askForCurrentInsurance(){
+					// Current insurance has no effect; public is the only option
+					return !(
+						this.occupation === 'employee'
+						&& this.monthlyIncome > taxes.maxMinijobIncome
+						&& this.monthlyIncome < healthInsurance.minFreiwilligMonthlyIncome
+					);
+				},
+
 				recommendedOption(){
 					return this.results.asList[0].id;
 				},
@@ -410,8 +419,8 @@
 				</label>
 			</div>
 		</div>
-		<hr>
-		<div class="form-group">
+		<hr v-if="askForCurrentInsurance">
+		<div class="form-group" v-if="askForCurrentInsurance">
 			<span class="label">
 				Current insurance
 			</span>
