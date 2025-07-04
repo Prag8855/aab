@@ -85,7 +85,7 @@ There are hundreds of health insurance options. The best option depends on your 
 
 You should...
 
-1. Understand [how to choose health insurance](/guides/german-health-insurance), and [which health insurance you need for your residence permit](/guides/german-health-insurance/for-a-visa-application). Use my [health insurance picker](/tools/health-insurance-calculator) to know your options.
+1. Understand [how to choose health insurance](/guides/german-health-insurance), and [which health insurance you need for your residence permit](/guides/german-health-insurance/for-a-visa-application). Use my [health insurance calculator](/tools/health-insurance-calculator) to know your options.
 2. [Talk to a health insurance broker](/guides/german-health-insurance#insurance-brokers), who will help you choose the best option for *your* situation. Their help is free. If Ottonova is the best insurance for you, they will tell you.
 3. If it still makes sense, [get a quote from Ottonova](/out/ottonova), and decide if it works for you.
 

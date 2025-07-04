@@ -14,7 +14,7 @@ This guide helps you choose the best health insurance to work in Germany. All Ge
 
 Your options depend on your income. Your health insurance is not tied to your job. Your employer does not decide which health insurance you can have. If you [lose your job](/guides/losing-your-job), you keep your health insurance.
 
-Use my [health insurance picker](/tools/health-insurance-calculator) to see your options.
+Use my [health insurance calculator](/tools/health-insurance-calculator) to see your options.
 
 {% include '_blocks/healthInsuranceCalculatorStatic.html' %}
 

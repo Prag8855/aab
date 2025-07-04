@@ -12,7 +12,7 @@ This guide helps you choose the best health insurance for an apprenticeship (*Au
 
 ## Your options
 
-Use my [health insurance picker](/tools/health-insurance-calculator) to see your options.
+Use my [health insurance calculator](/tools/health-insurance-calculator) to see your options.
 
 {% include '_blocks/healthInsuranceCalculatorStatic.html' %}
 

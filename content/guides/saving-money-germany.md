@@ -24,7 +24,7 @@ Most employees pay 35% to 50% of their income in taxes, health insurance and pen
 
 ### How to pay less for [health insurance](/glossary/Krankenversicherung)
 
-Use my [health insurance picker](/tools/health-insurance-calculator) to see your options. [Ask my insurance broker](/guides/german-health-insurance#insurance-brokers) to help you find cheaper health insurance. This is a free service.
+Use my [health insurance recommendation tool](/tools/health-insurance-calculator) to see your options. [Ask my insurance expert](/guides/german-health-insurance#insurance-brokers) to help you find cheaper health insurance. This is a free service.
 
 {% include '_blocks/healthInsuranceCalculatorStatic.html' %}
 

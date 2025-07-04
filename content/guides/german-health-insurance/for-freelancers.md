@@ -12,7 +12,7 @@ This guide helps you choose the best health insurance for self-employment. All G
 
 ## Your options
 
-If you are self-employed, you can choose public, private or expat health insurance. Use my [health insurance picker](/tools/health-insurance-calculator) to see your options.
+If you are self-employed, you can choose public, private or expat health insurance. Use my [health insurance calculator](/tools/health-insurance-calculator) to see your options.
 
 {% include '_blocks/healthInsuranceCalculatorStatic.html' %}
 
