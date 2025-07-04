@@ -161,7 +161,7 @@ Vue.component('gkv-cost-explanation', {
 					</output>
 				</summary>
 				<p>
-					Insurers can charge more for better services. Each insurer has a different surcharge. The average surcharge is {{ formatPercent(healthInsurance.avgZusatzbeitrag * 100) }} of your income.
+					Insurers can charge more for better services. Each insurer has a different surcharge. The average surcharge is {{ formatPercent(healthInsurance.averageZusatzbeitrag * 100) }} of your income.
 				</p>
 			</details>
 			<details>

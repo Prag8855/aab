@@ -10,7 +10,6 @@ const healthInsurance = {
 	minFreiwilligMonthlyIncome: {{ GKV_FREIWILLIG_VERSICHERT_MIN_INCOME }}/12,
 	maxFamilienversicherungIncome: {{ GKV_FAMILIENVERSICHERUNG_MAX_INCOME }},
 	maxMidijobIncome: {{ MIDIJOB_MAX_INCOME }},
-	avgZusatzbeitrag: {{ GKV_ZUSATZBEITRAG_AVERAGE }}/100,
 	azubiFreibetrag: {{ GKV_AZUBI_FREIBETRAG }},
 	maxNebenjobIncome: {{ GKV_NEBENJOB_MAX_INCOME }},
 	factorF: {{ GKV_FACTOR_F }},
