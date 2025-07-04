@@ -90,7 +90,7 @@ Vue.component('gkv-cost-explanation', {
 					Your health insurance costs a percentage of your income.
 				</template>
 				<template v-if="tariff === 'azubiFree'">
-					You make less than <eur :amount="healthInsurance.azubiFreibetrag"></eur> per month, so you don't pay for health insurance. Your employer pays for it.
+					You make less than <eur :amount="healthInsurance.azubiFreibetrag"></eur> per month, so you get free health insurance. Your employer pays for it.
 				</template>
 				<template v-if="tariff === 'student'">
 					Your health insurance has a fixed price.

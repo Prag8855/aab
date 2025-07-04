@@ -92,7 +92,7 @@
 
 					if(this.occupation === 'azubi'){
 						if(this.flag('public-tariff-azubiFree')){
-							output.public = `You make less than ${this.eur(healthInsurance.azubiFreibetrag)} per month, so your employer pays for your health insurance. You can choose any public health insurer.`;
+							output.public = `You get free health insurance, because you earn less than ${this.eur(healthInsurance.azubiFreibetrag)} per month. You can choose any public health insurer.`;
 						}
 						else if(!this.flag('private')){
 							output.public = `Public health insurance is <strong>your only option</strong>. ${publicCostString}`
@@ -117,10 +117,10 @@
 							}
 							else{
 								if(this.results.free.eligible){
-									output.expat = "If you can't get free health insurance, this is the <strong>cheapest option</strong> for you. The coverage is not great."
+									output.expat = "If you can't get free health insurance, this is the <strong>cheapest option</strong>, but the coverage is not great."
 								}
 								else{
-									output.expat = "This is the <strong>cheapest option</strong> for foreign students over 30 years old. The coverage is not great."
+									output.expat = "This is the <strong>cheapest option</strong> for students over 30 years old, but the coverage is not great."
 									output.private = 'Private health insurance is more expensive, but you get <strong>much better coverage</strong>.';
 								}
 							}
@@ -160,17 +160,23 @@
 					}
 					else if (occupations.isEmployed(this.occupation)){
 						if(this.flag('public-minijob')){
-							// Expat
-							// Public
+							output.public = publicCostString;
+							if(this.results.expat.eligible){
+								output.public = "Public health insurance is more expensive, but you get great coverage.";
+								output.expat = "Expat health insurance is cheaper, but <strong>the coverage is not great</strong>. Public health insurance is better.";
+							}
 						}
 						else if(this.flag('private')){
 							if(this.childrenCount > 2){
-								output.public = `Public health insurance is <strong>cheaper</strong>, because it covers your ${this.childrenCount} for free. ${publicCostString}`;
-								output.private = 'Choose private health insurance to get <strong>better coverage</strong> and faster doctor appointments for you and your family.'
+								output.public = `Public health insurance is <strong>cheaper</strong>, because it covers your ${this.childrenCount} children for free. ${publicCostString}`;
+								output.private = 'Choose private health insurance to get <strong>better coverage</strong> and faster doctor appointments for your family.'
 							}
 							else if(this.age <= 35){
 								output.private = "Private health insurance might be <strong>better and cheaper</strong> than public, because you are young and well-paid.";
-								output.public "Public health insurance is a <strong>safer choice</strong>"
+								output.public = `Public health insurance is a <strong>safer choice</strong>, because the price is proportional to your income.`;
+								if(this.childrenCount > 0){
+									output.public += ` It covers your ${this.childrenCount === 1 ? 'child' : 'children'} for free.`;
+								}
 							}
 							else if(this.age >= 45){
 								output.public = "You are over 45 years old. Public health insurance is usually the <strong>cheapest option</strong>."
@@ -191,17 +197,7 @@
 
 				publicHealthInsuranceClarification(){
 					if(this.results.private.eligible){
-						if(this.isStudent){
-							if(this.flag('public-student-over-30')){
-								return "You are over 30 years old, so you can't get the student tariff. Private health insurance might be cheaper for you."
-							}
-							else{
-								return "Public health insurance is usually <strong>the best option</strong> for students under 30 years old."
-							}
-
-							// TODO: Werkstudent
-						}
-						else if(this.occupation === 'selfEmployed' && this.yearlyIncome <= 30000){
+						if(this.occupation === 'selfEmployed' && this.yearlyIncome <= 30000){
 							return "If you earn less than €30,000 per year, this is <strong>the safest option</strong>."
 						}
 						else if(this.age > 45){
@@ -221,12 +217,6 @@
 						return "You can't choose private health insurance because your income is too low."
 					}
 					else if(this.occupation === 'employee'){
-						if(this.age <= 35){
-							return "You are young and well-paid. Private health insurance could be cheaper and have better coverage.";
-						}
-						else if(this.age >= 45){
-							return "At your age, private health insurance is usually more expensive, but you can choose better coverage and get doctor appointments faster."
-						}
 					}
 					else if(this.occupation === 'selfEmployed'){
 						if(this.yearlyIncome >= 30000){
@@ -241,10 +231,10 @@
 					}
 					else if(this.isStudent){
 						if(this.age >= 30){
-							return "Private health insurance is can be better and cheaper for older students."
+							return "Private health insurance is can be better and cheaper for students over 30 years old."
 						}
 						else{
-							return "Private health insurance is usually more expensive, but you can choose better coverage and get doctor appointments faster."
+							return "Private health insurance is more expensive, but you get <strong>better coverage</strong> and faster doctor appointments."
 						}
 					}
 				},
