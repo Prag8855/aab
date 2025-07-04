@@ -86,6 +86,7 @@
 					const minPrice = this.eur(this.minPublicPrice.personalContribution);
 					const maxPrice = this.eur(this.maxPublicPrice.personalContribution);
 					let publicPriceRange = (minPrice === maxPrice ? minPrice : `${minPrice} to ${maxPrice}`) + ' per month';
+					const publicCostString = `It costs ${publicPriceRange}, depending on the insurer you choose.`;
 
 					const output = {};
 
@@ -94,12 +95,12 @@
 							output.public = `You make less than ${this.eur(healthInsurance.azubiFreibetrag)} per month, so your employer pays for your health insurance. You can choose any public health insurer.`;
 						}
 						else if(!this.flag('private')){
-							output.public = `Public health insurance is <strong>your only option</strong>. It costs ${publicPriceRange}, depending on the insurer you choose.`
+							output.public = `Public health insurance is <strong>your only option</strong>. ${publicCostString}`
 						}
 						// You could have private if your Azubi income is really high, but it's unlikely to happen and not worth explaining
 					}
 					else if(this.isStudent){
-						output.public = `Public health insurance costs ${publicPriceRange}, depending on the insurer you choose.`;
+						output.public = publicCostString;
 						if(this.flag('public-tariff-student')){
 							if(this.results.free.eligible){
 								output.public += " If you can't get free health insurance, this is the <strong>best option</strong> for you.";
@@ -163,11 +164,21 @@
 							// Public
 						}
 						else if(this.flag('private')){
-							// Many kids, public
-							// Private
+							if(this.childrenCount > 2){
+								output.public = `Public health insurance is <strong>cheaper</strong>, because it covers your ${this.childrenCount} for free. ${publicCostString}`;
+								output.private = 'Choose private health insurance to get <strong>better coverage</strong> and faster doctor appointments for you and your family.'
+							}
+							else if(this.age <= 35){
+								output.private = "Private health insurance might be <strong>better and cheaper</strong> than public, because you are young and well-paid.";
+								output.public "Public health insurance is a <strong>safer choice</strong>"
+							}
+							else if(this.age >= 45){
+								output.public = "You are over 45 years old. Public health insurance is usually the <strong>cheapest option</strong>."
+								output.private = "Choose private health insurance to get <strong>better coverage</strong> and faster doctor appointments."
+							}
 						}
 						else{
-							// Medium income, public only
+							output.public = `Public health insurance is <strong>your only option</strong>. ${publicCostString}`;
 						}
 					}
 					else if(this.isUnemployed){
