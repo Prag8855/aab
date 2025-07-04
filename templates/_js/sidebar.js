@@ -5,7 +5,8 @@ window.addEventListener("DOMContentLoaded", function() {
 	const bodyTableOfContents = articleBody && articleBody.querySelector('.table-of-contents');
 	const sidebar = document.querySelector('.sidebar');
 	const sidebarTableOfContents = sidebar.querySelector('.table-of-contents');
-	const sidebarOpenCloseButton = sidebar.querySelector('.open-close')
+	const floatingNav = sidebar.querySelector('#floating-nav')
+	const sidebarOpenCloseButton = floatingNav.querySelector('.open-close')
 	const sidebarLinks = Array.from(sidebarTableOfContents.querySelectorAll('li a:not(.expand)'));
 
 	function toggleSidebar(shouldBeOpen){
@@ -85,8 +86,8 @@ window.addEventListener("DOMContentLoaded", function() {
 			// The content is in view
 			&& articleBody.getBoundingClientRect().bottom >= window.innerHeight
 		);
-		if(sidebarOpenCloseButton) {
-			sidebarOpenCloseButton.classList.toggle('visible', showMobileSidebarButton);
+		if(floatingNav) {
+			floatingNav.classList.toggle('visible', showMobileSidebarButton);
 		}
 	};
 	onScroll();

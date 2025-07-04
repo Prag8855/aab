@@ -727,7 +727,7 @@ body > header {
 
     @include page-borders;
 
-    .open-close{
+    #floating-nav{
         display: none;
     }
 
@@ -790,17 +790,23 @@ body > header {
         width: fit-content;
         z-index: 999;
 
-        .open-close.visible{
+        #floating-nav.visible{
             position: fixed;
             inset: auto var(--w-page-border) var(--w-page-border) auto;
-            display: block;
-            background: var(--c-bg-widget-opaque);
-            padding: var(--s);
-            line-height: 1;
+            display: flex;
+            gap: var(--s);
             animation: 0.2s fade-in;
+
+            .button{
+                background: var(--c-bg-widget-opaque);
+            }
+
+            .open-close{
+                line-height: 1;
+            }
         }
 
-        > :not(.button.open-close){
+        > :not(#floating-nav){
             display:none;
         }
 
@@ -816,16 +822,17 @@ body > header {
                 > ol{
                     margin: 0;
                 }
-                display: block;
+                display: block!important;
             }
 
-            .open-close{
-                border-radius: var(--b-radius) 0 var(--b-radius) 0;
+            #floating-nav{
+                display: none;
             }
         }
     }
+
     body.sidebar-open{
-        overflow: hidden;
+        overflow: hidden!important;
         &:after{
             content: '';
             width: 100%;
@@ -1754,6 +1761,16 @@ input[type=range] {
         transition: left 0.2s;
     }
 
+    svg{
+        vertical-align: text-top;
+        width: var(--l);
+        height: var(--l);
+    }
+
+    svg:not(:last-child){
+        margin-right: var(--xs);
+    }
+
     &:not([disabled]):hover .icon.left{
         left: calc(var(--xs) * -1);
     }
@@ -1776,13 +1793,6 @@ input[type=range] {
         background-color: #4ab969;
         border-color: #4ab969;
         color: #fff!important;
-
-        svg{
-            vertical-align: text-top;
-            width: var(--l);
-            height: var(--l);
-            margin-right: var(--xs);
-        }
 
         &:hover, &:focus-visible{
             background-color: var(--c-bg-input);

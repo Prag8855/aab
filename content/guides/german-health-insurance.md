@@ -352,7 +352,7 @@ Choose travel health insurance if...
 
 ### Insurance brokers
 
-Don't choose health insurance yourself. Ask a broker to help you. They help you avoid mistakes. They can get you better, cheaper health insurance. Their help is free.
+Don't choose health insurance yourself. Ask our broker to help you. He helps you get better and cheaper health insurance. His help is 100% free.
 
 {% include '_blocks/healthInsuranceQuestionStatic.html' %}
 

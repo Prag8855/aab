@@ -113,9 +113,11 @@
 				<li><a href="#landlord">For your landlord</a></li>
 			</ol>
 		</nav>
-		<button class="button open-close" title="Show/hide table of contents">
-			{% include "_css/icons/table-of-contents.svg" %}
-		</button>
+		<div id="floating-nav">
+			<button class="button open-close" title="Show/hide table of contents">
+				{% include "_css/icons/table-of-contents.svg" %}
+			</button>
+		</div>
 	</div>
 	{% include "_js/sidebar.js" %}
 {% endblock %}
