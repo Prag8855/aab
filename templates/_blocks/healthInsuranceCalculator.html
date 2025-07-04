@@ -309,14 +309,14 @@
 				unemployedClarification(){
 					const output = {};
 
-					if(!this.results.free.eligible){
-						output.expat = "This is the <strong>cheapest option</strong>, but the coverage is not great. You can switch to public health insurance when you find a job.";
-						output.public = `If you can't get free health insurance, this is the <strong>safest option</strong>.`;
-					}
-					else{
+					if(this.results.free.eligible){
 						output.public = `This is the <strong>safest option</strong>.`;
 						output.expat = "This is the <strong>cheapest option</strong> for students over 30 years old, but the coverage is not great."
 						output.private = 'Insurers usually reject unemployed people, but you can keep your current private health insurance.'
+					}
+					else{
+						output.expat = "This is the <strong>cheapest option</strong>, but the coverage is not great. You can switch to public health insurance when you find a job.";
+						output.public = `If you can't get free health insurance, this is the <strong>safest option</strong>.`;
 					}
 
 					if(this.childrenCount > 0){
@@ -598,7 +598,7 @@
 						{% endraw %}{% include "_css/icons/liability.svg" %}{% raw %}
 						<div>
 							<h3>Join the Künstlersozialkasse</h3>
-							<p>For artists, publicists and content creators. They pay half of your public health insurance.</p>
+							<p>If you are an artist or a content creator, they they pay half of your public health insurance.</p>
 						</div>
 						<output>
 							<eur :amount="optionPrice('other', 'ksk')"></eur> <small>per month</small>
