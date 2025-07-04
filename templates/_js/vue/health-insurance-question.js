@@ -50,7 +50,7 @@ Vue.component('health-insurance-question', {
 			}[this.desiredService] || 'Send question') + ' <i class="icon right"></i>'
 		},
 		whatsappMessage(){
-			return `Hi Seamus, can you ${this.whatSeamusWillDo(true)}? ${this.personSummary(true) || ''}.`;
+			return `Hi Seamus, can you ${this.whatSeamusWillDo(true)}? ${this.personSummary(true) || ''}`;
 		},
 		whatsappUrl(){
 			let url = 'https://wa.me/+491626969454';
@@ -157,7 +157,7 @@ Vue.component('health-insurance-question', {
 
 			if(firstPerson){
 				// I am ..., I am ... and I am ...
-				return new Intl.ListFormat('en-US', {style: 'long', type: 'conjunction'}).format(facts);
+				return new Intl.ListFormat('en-US', {style: 'long', type: 'conjunction'}).format(facts) + '.';
 			}
 
 			// We know that ..., that ... and that ...
