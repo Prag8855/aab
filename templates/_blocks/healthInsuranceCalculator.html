@@ -79,11 +79,15 @@
 
 				askForCurrentInsurance(){
 					// Current insurance has no effect; public is the only option
-					return !(
-						this.occupation === 'employee'
-						&& this.monthlyIncome > taxes.maxMinijobIncome
-						&& this.monthlyIncome < healthInsurance.minFreiwilligMonthlyIncome
-					);
+					return !( // Azubi
+							this.occupation === 'azubi'
+							&& this.monthlyIncome < healthInsurance.minFreiwilligMonthlyIncome
+						)
+						&& !( // Employee with medium income
+							this.occupation === 'employee'
+							&& this.monthlyIncome > taxes.maxMinijobIncome
+							&& this.monthlyIncome < healthInsurance.minFreiwilligMonthlyIncome
+						);
 				},
 
 				recommendedOption(){
