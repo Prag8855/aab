@@ -91,6 +91,7 @@
 				recommendedOption(){
 					return this.results.asList[0].id;
 				},
+
 				intro(){
 					const optionsList = this.results.asList.map(r => r.id).filter(id => ['public', 'private', 'expat'].includes(id));
 					if(optionsList.length > 1){
@@ -99,26 +100,30 @@
 					}
 				},
 				clarification(){
+					const output = {};
+
 					const minPrice = this.eur(this.minPublicPrice.personalContribution);
 					const maxPrice = this.eur(this.maxPublicPrice.personalContribution);
-					let publicPriceRange = (minPrice === maxPrice ? minPrice : `${minPrice} to ${maxPrice}`) + ' per month';
-					const publicCostString = `It costs ${publicPriceRange}, depending on the insurer you choose.`;
+					const priceRange = minPrice === maxPrice ? minPrice : `${minPrice} to ${maxPrice}`;
+					const publicCost = `It costs ${priceRange} per month, depending on the insurer you choose.`;
 
-					const familienversicherungString = `It covers your ${this.childrenCount === 1 ? 'child' : 'children'} for free.`;
-
-					const output = {};
+					const familienversicherung = `It covers your ${this.childrenCount === 1 ? 'child' : 'children'} for free.`;
 
 					if(this.occupation === 'azubi'){
 						if(this.flag('public-tariff-azubiFree')){
-							output.public = `You get free health insurance, because you earn less than ${this.eur(healthInsurance.azubiFreibetrag)} per month. You can choose any public health insurer.`;
+							output.public = `You get free health insurance, because you earn less than ${this.eur(healthInsurance.azubiFreibetrag)} per month. ${publicCost}`;
 						}
 						else if(!this.flag('private')){
-							output.public = `Public health insurance is <strong>your only option</strong>. ${publicCostString}`
+							output.public = `Public health insurance is <strong>your only option</strong>. ${publicCost}`
+						}
+
+						if(this.childrenCount > 0){
+							output.public += ' ' + familienversicherung;
 						}
 						// You could have private if your Azubi income is really high, but it's unlikely to happen and not worth explaining
 					}
 					else if(this.isStudent){
-						output.public = publicCostString;
+						output.public = publicCost;
 						if(this.flag('public-tariff-student')){
 							if(this.results.free.eligible){
 								output.public += " If you can't get free health insurance, this is the <strong>best option</strong> for you.";
@@ -126,8 +131,13 @@
 							else{
 								output.public += " This is the <strong>best option</strong> for students under 30 years old.";
 							}
-							output.expat = "Expat health insurance is cheaper, but <strong>the coverage is much worse</strong>. Public health insurance is better.";
-							// TODO: Private explanation for students under 30?
+
+							if(this.childrenCount > 0){
+								output.public += ' ' + familienversicherung;
+							}
+
+							output.expat = "It's cheaper, but <strong>the coverage is much worse</strong>. Public health insurance is better.";
+							output.private = "It's more expensive, but you can get <strong>better coverage</strong> and faster doctor appointments.";
 						}
 						else if(this.flag('public-student-over-30')){
 							if(this.isEUCitizen){
@@ -169,7 +179,7 @@
 
 							}
 							else if(this.yearlyIncome >= 30000){
-								output.public = `If you earn less than €30,000 per year, this is <strong>the safest option</strong>, because the cost is proportional to your income. ${publicCostString}`;
+								output.public = `If you earn less than €30,000 per year, this is <strong>the safest option</strong>, because the cost is proportional to your income. ${publicCost}`;
 								output.private = "Insurers might reject you because <strong>your income is too low</strong>. Public health insurance is a safer option."
 								// TODO: Justify private, expat
 							}
@@ -180,22 +190,25 @@
 					}
 					else if (occupations.isEmployed(this.occupation)){
 						if(this.flag('public-minijob')){
-							output.public = publicCostString;
+							output.public = publicCost;
 							if(this.results.expat.eligible){
-								output.public = "Public health insurance is more expensive, but you get great coverage.";
+								output.public += `It's more expensive, but you get <strong></strong>.`;
+								if(this.childrenCount){
+									output.public += ' ' + familienversicherung;
+								}
 								output.expat = "Expat health insurance is cheaper, but <strong>the coverage is not great</strong>. Public health insurance is better.";
 							}
 						}
 						else if(this.flag('private')){
 							if(this.childrenCount > 2){
-								output.public = `Public health insurance is <strong>cheaper</strong>. ${familienversicherungString} ${publicCostString}`;
+								output.public = `Public health insurance is <strong>cheaper</strong>. ${familienversicherung} ${publicCost}`;
 								output.private = 'Choose private health insurance to get <strong>better coverage</strong> and faster doctor appointments for your family.'
 							}
 							else if(this.age <= 35){
 								output.private = "Private health insurance might be <strong>better and cheaper</strong> than public, because you are young and well-paid.";
 								output.public = `Public health insurance is a <strong>safer choice</strong>, because the price is proportional to your income.`;
 								if(this.childrenCount > 0){
-									output.public += ' ' + familienversicherungString;
+									output.public += ' ' + familienversicherung;
 								}
 							}
 							else if(this.age >= 45){
@@ -204,7 +217,7 @@
 							}
 						}
 						else{
-							output.public = `Public health insurance is <strong>your only option</strong>. ${publicCostString}`;
+							output.public = `Public health insurance is <strong>your only option</strong>. ${publicCost}`;
 						}
 					}
 					else if(this.isUnemployed){
