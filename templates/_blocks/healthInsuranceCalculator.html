@@ -343,8 +343,8 @@
 				eur(num) {
 					return formatCurrency(num, false, '€', false);
 				},
-				publicOptionPrice(id){
-					return this.results.public.options.find(o => o.id === id).total.personalContribution;
+				optionPrice(type, id){
+					return this.results[type].options.find(o => o.id === id).total.personalContribution;
 				},
 				previousStage(){
 					this.stageIndex = this.occupation ? this.stageIndex - 1 : 0;
@@ -581,7 +581,7 @@
 							<p>Second biggest health insurer. They speak English.</p>
 						</div>
 						<output>
-							<eur :amount="publicOptionPrice('barmer')"></eur> <small>per month</small>
+							<eur :amount="optionPrice('public', 'barmer')"></eur> <small>per month</small>
 						</output>
 					</a>
 					<a v-else-if="subOption.id === 'tk'" title="Sign up with Techniker Krankenkasse" href="/out/feather-tk" target="_blank" :class="{recommended: recommendedOption === 'public'}">
@@ -591,15 +591,18 @@
 							<p>Biggest German health insurer. Great customer service. They speak English.</p>
 						</div>
 						<output>
-							<eur :amount="publicOptionPrice('tk')"></eur> <small>per month</small>
+							<eur :amount="optionPrice('public', 'tk')"></eur> <small>per month</small>
 						</output>
 					</a>
 					<a v-else-if="subOption.id === 'ksk'" title="Learn more about the KSK" href="/guides/ksk-kuenstlersozialkasse" target="_blank">
 						{% endraw %}{% include "_css/icons/liability.svg" %}{% raw %}
 						<div>
 							<h3>Join the Künstlersozialkasse</h3>
-							<p>If you are a freelance artist or publicist, join the KSK. They pay half of your health insurance. It's always worth it.</p>
+							<p>For artists, publicists and content creators. They pay half of your public health insurance.</p>
 						</div>
+						<output>
+							<eur :amount="optionPrice('other', 'ksk')"></eur> <small>per month</small>
+						</output>
 					</a>
 					<a v-else-if="subOption.id === 'feather-expat'" title="Get expat health insurance from Feather" href="/out/feather-expats" target="_blank" :class="{recommended: recommendedOption === 'expat'}">
 						{% endraw %}{% include "_css/icons/health-insurance/logo-feather.svg" %}{% raw %}
@@ -637,7 +640,7 @@
 			<hr>
 		</template>
 
-		<h2>Need help choosing?</h2>
+		<h3>Need help choosing?</h3>
 		<ul class="buttons list">
 			<li>
 				<button @click="desiredService = null; goToStage('askABroker')">
