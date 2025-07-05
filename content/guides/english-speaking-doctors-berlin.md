@@ -54,7 +54,7 @@ These databases have more English-speaking doctors:
 - [Ärzte Berlin](http://www.aerzte-berlin.de/_php/therapie30/fach.php)
 - [116117.de](https://www.116117.de/de/englisch.php#content1292)
 
-The information on these website can be inaccurate. Some doctors don't speak the language that they list.[^1]
+The information on these websites can be inaccurate. Some doctors don't speak the language that they list.[^1]
 
 Ask your health insurance too. [TK](/glossary/Techniker%20Krankenkasse) has a list of English-speaking doctors. They can even [book an appointment for you](https://www.tk.de/service/form/2028156/terminservice.form).
 
