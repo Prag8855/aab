@@ -300,31 +300,31 @@ If you start working in Germany, your EHIC stops working, and you must get Germa
 
 ## What is the best option?
 
-- Public health insurance is the safest option, because you can choose private health insurance later.[^82] Public health insurers have very similar prices and coverage, so you can't choose wrong.
-- Private health insurance is a risky decision, but it can be better and cheaper than public. If you are not happy, it's really hard to switch to public health insurance. Never choose private health insurance yourself.
-- Expat health insurance is rarely the best option. It's supposed to be a temporary insurance. The coverage is bad, and they can kick you out after a few years.
+- [Public health insurance](/glossary/gesetzliche%20Krankenversicherung) is the safest option, because you can choose private health insurance later.[^82] Public health insurers have very similar prices and coverage, so you can't choose wrong.
+- [Private health insurance](/glossary/private%20Krankenversicherung) is a risky decision, but it can be better and cheaper than public. If you are not happy, it's really hard to switch to public health insurance. Never choose private health insurance yourself.
+- [[Expat health insurance]] is a temporary option. It's cheap, but the coverage is bad. Use it when you have no other choice.
 
 Do not choose your insurance yourself. You can make expensive mistakes. [Ask an expert](#insurance-brokers) to help you choose. Their help is free.
 
-Choose public health insurance if...
+Choose [public health insurance](/glossary/gesetzliche%20Krankenversicherung) if...
 
-- **You don't have a stable income**  
+- **You have a low or unstable income**  
     If you are not sure you will always have a high income, public health insurance is safer. It costs a percentage of your income, so if you make less, your pay less. If you just [started your business](/guides/start-a-business-in-germany) or your make less than €30,000 per year, choose public health insurance.[^27]
-- **You want something that just works**  
-    Just show your card and get healthcare. It takes longer to get an appointment, but you don't have to deal with any paperwork.
+- **You want something simple**  
+    Just show your card and get healthcare. It takes longer to get an appointment, but you don't have to deal with paperwork, deductibles or the reimbursement process.
 - **You want more than 2 children**  
-    Public health insurance covers your children [for free](/glossary/Familienversicherung). Private health insurance charges extra for each child. If you have 1 or 2 children, private health insurance can be cheaper anyway.[^12]
-- **You are a student under 30 years old**  
-    The student tariff is a really good deal.[^59] There is sometimes cheaper private health insurance, but the coverage is much worse.
+    Public health insurance covers your children [for free](/glossary/Familienversicherung). If you have 1 or 2 children, private health insurance could still be cheaper.[^12]
+- **You are a [student under 30 years old](/guides/german-health-insurance/for-students#under-30-years-old)**  
+    The student tariff is a really good deal.[^59] There is cheaper private or expat health insurance, but the coverage is usually worse.
 - **You have pre-existing health problems**  
     Private health insurers might charge more or refuse to cover you. Even getting psychotherapy can disqualify you. Public health insurance is usually forced to accept you.
 
-Choose private health insurance if...
+Choose [private health insurance](/glossary/private%20Krankenversicherung) if...
 
 - **You have stable income**  
     Private health insurance makes sense if you know you will always have a high income.
 - **You want faster doctor appointments**  
-    It's much easier to find a doctor, a psychotherapist, a paediatrician or a gynaecologist.
+    It's much easier to find a doctor, a psychotherapist, a paediatrician or a gynaecologist. It takes a few days instead of a few weeks.
 - **You want the best coverage**  
     Private health insurance lets you pay more and get the best coverage for you and your family.
 - **You want better treatment**  
@@ -334,10 +334,10 @@ Choose private health insurance if...
 - **You can't choose public health insurance**  
     If you are a freelancer or a student from a non-[EU](/glossary/European%20Union) country, public health insurers might reject you. Private health insurance might be your only option.
 
-Choose expat health insurance if...
+Choose [expat health insurance](/glossary/Expat%20health%20insurance) if...
 
-- **You are a foreign student over 30 years old**  
-    If you come from a non-[EU](/glossary/European%20Union) country, it's often the only option.
+- **You are a [foreign student over 30 years old](/guides/german-health-insurance/for-students#over-30-years-old)**  
+    If you come from a non-[EU](/glossary/European%20Union) country, it's often the only option. Public health insurance will reject you.
 - **You need temporary insurance coverage**  
     Expat health insurance covers you until your public health insurance starts working. You might need it to apply for a German visa.
 - **You have no other choice**  
@@ -354,19 +354,17 @@ Choose travel health insurance if...
 
 ### Insurance brokers
 
-Don't choose health insurance yourself. Our broker can help you find better and cheaper health insurance. This is a free service.
+Do not choose health insurance yourself. Our broker can help you find better and cheaper health insurance. This is a free service.
 
 {% include '_blocks/healthInsuranceQuestionStatic.html' %}
 
 Talk to a broker (*Makler*), not an agent (*Vertreter*). Brokers are independent. They recommend health insurance from different companies. Agents only sell insurance from specific companies.
 
-Choose a broker who works with expats. Your situation is different, and your broker must know how to help you.
+Choose a broker who works with immigrants. Your needs are different, and your broker must know how to help you.
 
 **[Feather](/out/feather)** is an agent, not a broker. They have an excellent service, but they only sell insurance from a few companies.[^61] They might not sell the best insurance for your needs.
 
 **[Ottonova](/out/ottonova)** sells their own insurance. It's rarely the best option.[^83] Even if you get Ottonova, it's better to get it through a broker. See my [review of Ottonova](/guides/ottonova-review).
-
-I work with Seamus Wolf. He is honest and knowledgeable, and he speaks English.
 
 ## How to get insured
 
@@ -376,7 +374,7 @@ Use my [recommendation tool](#your-options) to know your options. There are 3 ty
 
 ### 2. Ask an expert to choose
 
-Don't choose health insurance yourself. The cheapest option now can be an expensive mistake later. Your visa application can get rejected because you chose the wrong insurance.
+Do not choose health insurance yourself. The cheapest option now can be an expensive mistake later. Your visa application can get rejected because you chose the wrong insurance.
 
 Always [ask a broker](#insurance-brokers) to help you. They ask you the right questions, look at all the options, and help you find the best health insurance. You can get better coverage for a lower price. Their help is free.
 
