@@ -16,7 +16,7 @@ This guide explains when you can get a pension refund, and how to apply for it.
 
 ## Who can get a refund?
 
-{% include '_blocks/pensionRefundCalculator.html' %}
+{% include '_blocks/pensionRefundCalculatorStatic.html' %}
 
 It depends on your nationality, and the country you live in. The rules are different for every country. Use the [pension refund calculator](/tools/pension-refund-calculator) to see if you can get a refund.
 
@@ -341,10 +341,10 @@ Tax advisors rarely have experience with German pension refunds. German embassie
 [^29]: [fundsback.org](https://fundsback.org/pension-refund-germany/#:~:text=minimum%20fee%20of%20899%E2%82%AC%2C%20maximum%20of%202899%E2%82%AC)
 [^30]: [de.germanypensionrefund.com](https://de.germanypensionrefund.com/pricing)
 [^31]: [pension-refund.com](https://pension-refund.com/process-and-pricing.html?utm_source=blog&utm_medium=banner&utm_campaign=Prpart145&utm_id=os3bkuy36e)
+[^32]: Georg from [Pension Refund Germany](/out/pension-refund-germany) (October 2024)
 [^35]: [toytowngermany.com](https://web.archive.org/web/20240808111111/https://www.toytowngermany.com/wiki/Pension_refunds_on_leaving_Germany), [Settle in Berlin](https://www.settle-in-berlin.com/pension-refund-when-leaving-germany/), [toytowngermany.com](https://web.archive.org/web/20240808111111/https://www.toytowngermany.com/forum/topic/1055-pension-insurance-refunds-on-leaving-germany/?page=6#comment-3317004), [toytowngermany.com](https://web.archive.org/web/20240808111111/https://www.toytowngermany.com/forum/topic/371985-pension-refund-experience-after-moving-to-the-us/)
 [^36]: [Screenshot](/images/pension-refund-bank-account-2022-04-09.png)
 [^37]: [§210 SGB VI](https://www.gesetze-im-internet.de/sgb_6/BJNR122610989.html#BJNR122610989BJNG006801308)
 [^38]: [Wikipedia](https://de.wikipedia.org/wiki/Rentenbeitragserstattung#Auswirkungen_der_Beitragserstattung)
 [^39]: [toytowngermany.com](https://web.archive.org/web/20240808111111/https://www.toytowngermany.com/forum/topic/371985-pension-refund-experience-after-moving-to-the-us/?page=1)
 [^40]: [toytowngermany.com](https://web.archive.org/web/20240808111111/https://www.toytowngermany.com/wiki/Pension_refunds_on_leaving_Germany), [toytowngermany.com](https://web.archive.org/web/20240808111111/https://www.toytowngermany.com/forum/topic/1055-pension-insurance-refunds-on-leaving-germany/?page=7#comment-3803084), [rentenfuchs.info](https://www.rentenfuchs.info/beitragserstattung-rentenversicherung/), [Regulation (EEC) No 1408/71, §10 para. 2](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R1408)
-[^32]: Georg from [Pension Refund Germany](/out/pension-refund-germany) (October 2024)
