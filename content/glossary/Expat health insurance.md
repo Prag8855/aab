@@ -16,6 +16,10 @@ Expat health insurance or incoming health insurance is a temporary health insura
 
 **[How to choose German health insurance ➞](/guides/german-health-insurance#expat-health-insurance)**
 
-You can get expat health insurance from a [health insurance broker](/guides/german-health-insurance#insurance-brokers), or directly from [Feather](/out/feather-expats) and [Ottonova](/out/ottonova-expats).
+You can get expat health insurance from...
+
+- A [health insurance broker](/guides/german-health-insurance#insurance-brokers) {{RECOMMENDED}}
+- [Feather](/out/feather-expats)
+- [Ottonova](/out/ottonova-expats).
 
 **[List of expat insurance options ➞](/guides/german-health-insurance/for-a-visa-application#expat-health-insurance-options)**
