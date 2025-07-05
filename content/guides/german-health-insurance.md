@@ -191,11 +191,13 @@ With private health insurance, you usually pay for healthcare yourself, and get 
 
 ### Best private health insurance
 
-There are thousands of private health insurance options. There are huge differences between options. **The best option depends on your situation.**
+There is no best private health insurance. There are thousands of very different options. **The best option depends on your situation.**
 
-Do not choose private health insurance yourself. It's a really bad idea. The best way to choose is to [ask a health insurance broker](#insurance-brokers). Their help is free.
+Do not choose private health insurance yourself. It's a really bad idea. [Ask a health insurance broker](#insurance-brokers) to compare all options and help you choose. Their help is free.
 
-[Feather](/out/feather-private) sells private health insurance. They are excellent, but they only sell insurance from a few companies. To compare all insurance options, [talk to a broker](#insurance-brokers).
+{% include '_blocks/healthInsuranceQuestion.html' %}
+
+[Feather](/out/feather-private) sells private health insurance, but they only offer one or two options. If you [ask a broker](#insurance-brokers), they compare all options to find the best one.
 
 [Ottonova](/out/ottonova) sells their own private health insurance. It's rarely the best option.[^77] Don't choose Ottonova directly; [ask a broker](#insurance-brokers) to help you. If Ottonova is a good option for you, they will tell you.[^76]
 
