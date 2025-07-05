@@ -276,8 +276,8 @@ Get expat health insurance from a [health insurance broker](#insurance-brokers).
 
 Travel health insurance covers medical emergencies in other countries. It does not cover therapy, long-term treatments, health check-ups or pre-existing health problems.
 
-- **[If you visit Germany](/guides/german-health-insurance/for-a-visa-application#for-a-schengen-visa)**, travel insurance covers you during your trip. You need travel health insurance to get a [[Schengen visa]]. It does not cover you after you [move to Germany](/guides/moving-to-berlin). It's rarely valid for a [residence permit](/glossary/Aufenthaltstitel) application.
-- **If you move to Germany**, travel health insurance is not valid. You must get public, private or expat health insurance.
+- **If you [visit Germany](/guides/german-health-insurance/for-a-visa-application#for-a-schengen-visa)**, travel insurance covers you during your trip. You need travel health insurance to get a [[Schengen visa]]. It does not cover you after you [move to Germany](/guides/moving-to-berlin). It's rarely valid for a [residence permit](/glossary/Aufenthaltstitel) application.
+- **If you [move to Germany](/guides/moving-to-berlin)**, travel health insurance is not valid. You must get public, private or expat health insurance.
 - **If you live in Germany**, travel health insurance covers medical emergencies when you when you travel to other countries. It costs around €40 per year.[^78] If you have [private health insurance](/glossary/private%20Krankenversicherung), it usually includes travel insurance.
 
 You can get travel health insurance from [Feather](/out/feather-travel), [Envivas](https://www.envivas.de/en/insurance/travelling-abroad) or [Allianz](https://www.allianzdirect.de/reiseversicherung/). Your [private health insurance](/glossary/private%20Krankenversicherung) might include travel insurance. Some banks accounts like [N26 Metal](/out/n26-metal) include travel insurance.
@@ -286,9 +286,10 @@ You can get travel health insurance from [Feather](/out/feather-travel), [Enviva
 
 If you come from another EU country, your health insurance might cover you in Germany. You can use your [European Health Insurance Card](/glossary/EHIC) to get healthcare.
 
-**If you visit Germany**, your EU health insurance covers medical emergencies.[^23] It only covers treatments that can't wait until you go home. For example, if you break your ankle on a hike, it covers the hospital visit. If you stay longer than 3 months, you must get German health insurance.[^38]
-
-**If you study in Germany**, your EU health insurance covers you until you graduate, and during your job search after graduation.[^39] It covers all treatments that can't wait until after your studies.
+- **If you visit Germany**  
+    Your EU health insurance covers medical emergencies.[^23] It only covers treatments that can't wait until you go home. For example, if you break your ankle on a hike, it covers the hospital visit. If you stay longer than 3 months, you must get German health insurance.[^38]
+- **If you study in Germany**  
+    Your EU health insurance covers you until you graduate, and during your job search after graduation.[^39] It covers all treatments that can't wait until after your studies.
 
 If health insurance is cheaper in your home country, [[EHIC]] is a good way to save money, because you don't need German health insurance. Apply for EHIC with your health insurance in your home country.[^16]
 
