@@ -192,7 +192,7 @@
 					if(this.flag('public-minijob')){
 						output.public = this.publicCost;
 						if(this.results.expat.eligible){
-							output.public += ` It's more expensive, but you get <strong>better coverage</strong>.`;
+							output.public = "It's more expensive, but you get <strong>better coverage</strong>. " + output.public;
 							output.expat = "It's cheaper, but <strong>the coverage is not great</strong>.";
 						}
 						output.private = "Your income is too low for private health insurance. Most insurers will reject you.";
@@ -203,12 +203,12 @@
 							output.private = 'Choose private health insurance to get <strong>better coverage</strong> and faster doctor appointments for your family.'
 						}
 						else if(this.age <= 35){
-							output.private = "Private health insurance might be <strong>better and cheaper</strong> than public, because you are young and well-paid.";
-							output.public = `Public health insurance is a <strong>safer choice</strong>, because the price is proportional to your income.`;
+							output.private = "It can be <strong>better and cheaper</strong> than public, because you are young and well-paid.";
+							output.public = "This is a <strong>safer choice</strong>, because the cost is proportional to your income.";
 						}
 						else if(this.age >= 45){
-							output.public = "You are over 45 years old. Public health insurance is usually the <strong>cheapest option</strong>."
-							output.private = "Choose private health insurance to get <strong>better coverage</strong> and faster doctor appointments."
+							output.public = "This is usually the <strong>cheapest option</strong>, because you are over 45 years old."
+							output.private = "It's usually more expensive, but you can get <strong>better coverage</strong> and faster doctor appointments."
 						}
 						else{
 							output.private = "With private health insurance, you can get <strong>better coverage</strong> and faster doctor appointments."
@@ -230,19 +230,19 @@
 					};
 
 					if(this.age >= 45){
-						output.public = "You are over 45 years old. Public health insurance is usually the <strong>best option</strong>."
-						output.private = "Choose private health insurance to get <strong>better coverage</strong> and faster doctor appointments."
+						output.public = "This is usually the <strong>best option</strong> for people over 45 years old."
+						output.private = "It's usually more expensive, but you can get <strong>better coverage</strong> and faster doctor appointments."
 					}
 					else if(this.childrenCount > 2){
-						output.public = `Public health insurance is <strong>cheaper for families</strong>. ${this.publicCost}`;
-						output.private = 'Choose private health insurance to get <strong>better coverage</strong> and faster doctor appointments for your family.'
+						output.public = `This is the <strong>cheapest option</strong> for families. ${this.publicCost}`;
+						output.private = "It's usually more expensive, but you can get <strong>better coverage</strong> and faster doctor appointments for your family."
 					}
 					else{
-						output.public = `This is the <strong>safest choice</strong>, because the price is proportional to your income.`;
+						output.public = "This is the <strong>safest choice</strong>, because the cost is proportional to your income.";
 
 						if(this.yearlyIncome >= 60000){
-							output.private = "Private health insurance might be <strong>better and cheaper</strong> than public, because you have a high income.";
-							output.public = "If your income is unstable, this is the <strong>safest option</strong>, because the price is proportional to your income."
+							output.private = "It might be <strong>better and cheaper</strong> than public health insurance, because you have a high income.";
+							output.public = "If your income is unstable, it's the <strong>safest option</strong>, because the cost is proportional to your income."
 						}
 						else if(this.yearlyIncome >= 30000){							
 							output.private = "Choose private health insurance to get <strong>better coverage</strong> and faster doctor appointments."
@@ -272,10 +272,10 @@
 					// Students under 30 years old
 					if(this.flag('public-tariff-student')){
 						if(this.results.free.eligible){
-							output.public += " If you can't get free health insurance, this is the <strong>best option</strong>.";
+							output.public = "If you can't get free health insurance, it's the <strong>best option</strong>. " + output.public;
 						}
 						else{
-							output.public += " This is the <strong>best option</strong> for students under 30 years old.";
+							output.public = "This is the <strong>best option</strong> for students under 30 years old. " + output.public;
 						}
 
 						if(this.childrenCount > 0){
@@ -296,7 +296,7 @@
 							}
 							else{
 								output.expat = "This is the <strong>cheapest option</strong> for students over 30 years old, but the coverage is not great."
-								output.private = 'Private health insurance is more expensive, but you get <strong>much better coverage</strong>.';
+								output.private = "It's more expensive, but you get <strong>much better coverage</strong>.";
 							}
 						}
 					}
