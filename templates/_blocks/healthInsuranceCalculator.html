@@ -94,6 +94,11 @@
 					return this.results.asList[0].id;
 				},
 
+				showGuideLink(){
+					// If you're on this page, you're already reading about health insurance
+					return window.location.pathname !== '/guides/german-health-insurance';
+				},
+
 				intro(){
 					const optionsList = this.results.asList.map(r => r.id).filter(id => ['public', 'private', 'expat'].includes(id));
 					if(this.results.free.eligible && !this.results.public.eligible){
@@ -653,6 +658,15 @@
 					<div>
 						<h3>Ask our expert</h3>
 						<p>Let us find the best health insurance for you. It's the fastest way to get insured, and it's 100% free.</p>
+					</div>
+				</button>
+			</li>
+			<li v-if="showGuideLink">
+				<a href="/guides/german-health-insurance" target="_blank">
+					{% endraw %}{% include "_css/icons/student.svg" %}{% raw %}
+					<div>
+						<h3>Learn how to choose</h3>
+						<p>My health insurance guide explains the benefits and disadvantages of each option.</p>
 					</div>
 				</button>
 			</li>
