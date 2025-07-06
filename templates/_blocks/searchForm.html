@@ -105,8 +105,13 @@ window.addEventListener("DOMContentLoaded", function() {
 {% endjs %}
 <div class="search-form no-print">
 	<label title="Search this website">
-		<input type="search" placeholder="Search this website" tabindex="0" {% if autofocus|default %}class="autofocus"{% endif %}>
+		<input type="search"
+			placeholder="Search this website"
+			tabindex="0"
+			aria-autocomplete="list"
+			aria-controls="search-results-{{ random_id() }}"
+			{% if autofocus|default %}class="autofocus"{% endif %}>
 		{% include "_css/icons/search.svg" %}
 	</label>
-	<div class="search-results"></div>
+	<div id="search-results-{{ random_id() }}" role="listbox" class="search-results"></div>
 </div>
