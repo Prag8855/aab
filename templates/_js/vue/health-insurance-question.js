@@ -162,8 +162,7 @@ Vue.component('health-insurance-question', {
 				return new Intl.ListFormat('en-US', {style: 'long', type: 'conjunction'}).format(facts) + '.';
 			}
 
-			// We know that ..., that ... and that ...
-			return 'We already know ' + new Intl.ListFormat('en-US', {style: 'long', type: 'conjunction'}).format(facts.map(f => `that ${f}`)) + '.';
+			return facts;
 		},
 		trackWhatsapp() {
 			plausible(this.trackAs, { props: { stage: 'whatsapp' }});
@@ -203,18 +202,23 @@ Vue.component('health-insurance-question', {
 							{% endraw %}{% include "_blocks/formHoneypot.html" %}{% raw %}
 						</div>
 					</div>
-					<div class="form-group">
-						<label :for="uid('question')">
-							How can we help?
-						</label>
-						<textarea :id="uid('question')" v-model="question" placeholder="Tell us more about your situation"></textarea>
-						<div v-if="personSummary(false)" class="input-instructions" v-text="personSummary(false)"></div>
-					</div>
 					<div class="form-group required" v-if="contactMethod === 'email'">
 						<label :for="uid('email')">
 							Email address
 						</label>
 						<input v-model="email" type="email" :id="uid('email')" required autocomplete="email">
+					</div>
+					<div class="form-group">
+						<label :for="uid('question')">
+							How can we help?
+						</label>
+						<textarea :id="uid('question')" v-model="question" placeholder="Tell us about your situation"></textarea>
+						<div class="input-instructions">
+							We already know that...
+							<ul v-if="personSummary(false)">
+								<li v-for="fact in personSummary(false)" v-text="fact"></li>
+							</ul>
+						</div>
 					</div>
 				</template>
 				<hr v-if="contactMethod || $slots['form-buttons']">
