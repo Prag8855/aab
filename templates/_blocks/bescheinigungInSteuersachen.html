@@ -25,7 +25,7 @@
 	);
 {% endjs %}
 
-<letter-generator :printable="false" class="bescheinigung-in-steueresachen-letter" track-as="Bescheinigung in Steuersachen letter" {% if static|default %}static{% endif %}>
+<letter-generator aria-label="Bescheinigung in Steuersachen letter generator" :printable="false" class="bescheinigung-in-steueresachen-letter" track-as="Bescheinigung in Steuersachen letter" {% if static|default %}static{% endif %}>
 {% raw %}
 	<template v-slot:header>Request for a Bescheinigung in Steuersachen</template>
 

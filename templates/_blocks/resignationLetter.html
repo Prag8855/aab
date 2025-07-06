@@ -41,7 +41,7 @@
 	);
 {% endjs %}
 
-<letter-generator class="job-resignation-letter" track-as="Job resignation letter" {% if static|default %}static{% endif %}>
+<letter-generator aria-label="Job resignation letter generator" class="job-resignation-letter" track-as="Job resignation letter" {% if static|default %}static{% endif %}>
 {% raw %}
 	<template v-slot:header>Job resignation letter</template>
 

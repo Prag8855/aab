@@ -5,7 +5,7 @@
 	document.querySelectorAll("collapsible.health-insurance-question").forEach(el => new Vue({el}));
 {% endjs %}
 
-<collapsible class="health-insurance-question" {% if static|default %}static{% endif %}>
+<collapsible aria-label="Health insurance question form" class="health-insurance-question" {% if static|default %}static{% endif %}>
 	<template v-slot:header>Ask my<span class="no-mobile"> health</span> insurance expert</template>
 	<health-insurance-question></health-insurance-question>
 </collapsible>

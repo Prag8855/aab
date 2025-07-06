@@ -69,7 +69,7 @@
 	);
 {% endjs %}
 
-<collapsible class="pension-refund-question" aria-label="Ask a question about pension refunds" ref="collapsible" {% if static|default %}static{% endif %}>
+<collapsible class="pension-refund-question" aria-label="Pension refund question form" ref="collapsible" {% if static|default %}static{% endif %}>
 	<template v-slot:header>Ask a pension refund expert</template>
 	{% include "_blocks/formHoneypot.html" %}
 	<template v-if="stage === 'contactInfo'">
