@@ -1930,6 +1930,14 @@ input[type=range] {
     summary:after{
         float: none;
     }
+
+    ul{
+        margin: var(--s-relative) 0 0;
+    }
+
+    li{
+        @include list-marker-ul-compact;
+    }
 }
 .input-instructions:not(a){
     color: var(--c-text-light);
@@ -2411,11 +2419,6 @@ collapsible, letter-generator, feedback-residence-permit{  // Vue element before
                 color: #fff;
                 background: var(--c-highlight);
             }
-        }
-
-        @include only-phone{
-            padding: var(--xs) var(--s);
-            font-size: var(--f-s);
         }
     }
 
