@@ -161,7 +161,7 @@
 					else if(occupations.isSelfEmployed(this.occupation)){
 						return this.selfEmployedClarification;
 					}
-					else if (occupations.isEmployed(this.occupation)){
+					else if(occupations.isEmployed(this.occupation)){
 						return this.employeeClarification;
 					}
 					else if(this.isUnemployed){
@@ -193,24 +193,18 @@
 						output.public = this.publicCost;
 						if(this.results.expat.eligible){
 							output.public += ` It's more expensive, but you get <strong>better coverage</strong>.`;
-							if(this.childrenCount){
-								output.public += ' ' + this.familienversicherung;
-							}
-							output.expat = "It's cheaper, but <strong>the coverage is not great</strong>. Public health insurance is better.";
+							output.expat = "It's cheaper, but <strong>the coverage is not great</strong>.";
 						}
 						output.private = "Your income is too low for private health insurance. Most insurers will reject you.";
 					}
 					else if(this.flag('private')){
 						if(this.childrenCount > 2){
-							output.public = `Public health insurance is <strong>cheaper</strong>. ${this.familienversicherung} ${this.publicCost}`;
+							output.public = `Public health insurance is <strong>cheaper</strong>. ${this.publicCost}`;
 							output.private = 'Choose private health insurance to get <strong>better coverage</strong> and faster doctor appointments for your family.'
 						}
 						else if(this.age <= 35){
 							output.private = "Private health insurance might be <strong>better and cheaper</strong> than public, because you are young and well-paid.";
 							output.public = `Public health insurance is a <strong>safer choice</strong>, because the price is proportional to your income.`;
-							if(this.childrenCount > 0){
-								output.public += ' ' + this.familienversicherung;
-							}
 						}
 						else if(this.age >= 45){
 							output.public = "You are over 45 years old. Public health insurance is usually the <strong>cheapest option</strong>."
@@ -223,6 +217,11 @@
 					else{
 						output.public = `Public health insurance is <strong>your only option</strong>. ${this.publicCost}`;
 					}
+
+					if(this.childrenCount > 0){
+						output.public += ' ' + this.familienversicherung;
+					}
+
 					return output;
 				},
 				selfEmployedClarification(){
@@ -270,6 +269,7 @@
 						public: this.publicCost,
 					};
 
+					// Students under 30 years old
 					if(this.flag('public-tariff-student')){
 						if(this.results.free.eligible){
 							output.public += " If you can't get free health insurance, this is the <strong>best option</strong>.";
@@ -285,6 +285,7 @@
 						output.expat = "It's cheaper, but <strong>the coverage is much worse</strong>. Public health insurance is better.";
 						output.private = "It's more expensive, but you can get <strong>better coverage</strong> and faster doctor appointments.";
 					}
+					// Students over 30 years old
 					else if(this.flag('public-student-over-30')){
 						if(this.isEUCitizen){
 							// TODO: Private explanation for EU students over 30?
