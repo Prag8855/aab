@@ -210,15 +210,14 @@
 		</div>
 		<hr>
 		<div class="form-group no-print">
-			<label :for="uid('auslaenderbehoerde')">Ausländerbehörde</label>
+			<span class="label">Ausländerbehörde</span>
 			<div class="input-group">
-				<div class="tabs">
-					<button @click="auslaenderbehoerde = 'berlin'" tabindex="0" :disabled="auslaenderbehoerde === 'berlin'">
-						Berlin
-					</button>
-					<button @click="auslaenderbehoerde = 'other'" tabindex="0" :disabled="auslaenderbehoerde === 'other'">
-						Other
-					</button>
+				<div class="tabs" aria-label="Select your Ausländerbehörde">
+					<input v-model="auslaenderbehoerde" type="radio" :id="uid('auslaenderbehoerdeBerlin')" value="berlin">
+					<label :for="uid('auslaenderbehoerdeBerlin')">Berlin</label>
+
+					<input v-model="auslaenderbehoerde" type="radio" :id="uid('auslaenderbehoerdeOther')" value="other">
+					<label :for="uid('auslaenderbehoerdeOther')">Other</label>
 				</div>
 				<br v-if="auslaenderbehoerde === 'other'">
 				<textarea

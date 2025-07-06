@@ -183,13 +183,12 @@ Vue.component('health-insurance-question', {
 				</div>
 				<hr>
 				<h3 class="no-print">How should we talk?</h3>
-				<div class="tabs">
-					<button @click="contactMethod = 'whatsapp'" tabindex="0" :disabled="contactMethod === 'whatsapp'">
-						WhatsApp
-					</button>
-					<button @click="contactMethod = 'email'" tabindex="0" :disabled="contactMethod === 'email'">
-						Email
-					</button>
+				<div class="tabs" aria-label="Preferred contact method">
+					<input v-model="contactMethod" type="radio" :id="uid('contactMethodWhatsapp')" value="whatsapp">
+					<label :for="uid('contactMethodWhatsapp')">WhatsApp</label>
+
+					<input v-model="contactMethod" type="radio" :id="uid('contactMethodEmail')" value="email">
+					<label :for="uid('contactMethodEmail')">Email</label>
 				</div>
 				<template v-if="contactMethod && contactMethod !== 'whatsapp'">
 					<hr>

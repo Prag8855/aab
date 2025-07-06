@@ -1,8 +1,9 @@
 {% include '_js/vue.js' %}
 {% include '_js/vue/mixins/trackedStagesMixin.js' %}
+{% include '_js/vue/mixins/uniqueIdsMixin.js' %}
 {% js %}{% raw %}
 Vue.component('letter-generator', {
-	mixins: [trackedStagesMixin],
+	mixins: [trackedStagesMixin, uniqueIdsMixin],
 	props: {
 		static: Boolean,
 		trackAs: String,
@@ -55,25 +56,23 @@ Vue.component('letter-generator', {
 				<button class="button" @click="stage = 'edit'">
 					<i class="icon left" aria-hidden="true"></i> Customize
 				</button>
-				<div class="tabs">
-					<button @click="language = 'en'" tabindex="0" :disabled="language === 'en'">
-						English
-					</button>
-					<button @click="language = 'de'" tabindex="0" :disabled="language === 'de'">
-						German
-					</button>
+				<div class="tabs" aria-label="Letter language">
+					<input v-model="language" type="radio" :id="uid('languageEn')" value="en">
+					<label :for="uid('languageEn')">English</label>
+
+					<input v-model="language" type="radio" :id="uid('languageDe')" value="de">
+					<label :for="uid('languageDe')">German</label>
 				</div>
 				<button class="button primary" @click="print">
 					Print
 				</button>
 			</div>
-			<div class="tabs language-picker no-print" v-if="stage === 'start'">
-				<button @click="language = 'en'" tabindex="0" :disabled="language === 'en'">
-					English
-				</button>
-				<button @click="language = 'de'" tabindex="0" :disabled="language === 'de'">
-					German
-				</button>
+			<div class="tabs language-picker no-print" aria-label="Letter language" v-if="stage === 'start'">
+				<input v-model="language" type="radio" :id="uid('languageEn')" value="en">
+				<label :for="uid('languageEn')">English</label>
+
+				<input v-model="language" type="radio" :id="uid('languageDe')" value="de">
+				<label :for="uid('languageDe')">German</label>
 			</div>
 			<div v-if="stage === 'start' || stage === 'printPreview'" :class="{'letter-template': stage === 'printPreview'}" ref="template">
 				<div class="letter-recipient-address only-print">

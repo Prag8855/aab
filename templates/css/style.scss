@@ -2399,27 +2399,44 @@ collapsible, letter-generator, feedback-residence-permit{  // Vue element before
         }
     }
 
-    button{
+    input{
+        clip-path: polygon(0 0); // Hidden but not for screen readers
+        position: absolute;
+
+        &:checked + label{
+            color: var(--c-text-light);
+            background: transparent;
+            z-index: 0;
+        }
+    }
+
+    input:first-child + label{
+        border-radius: var(--b-radius) 0 0 var(--b-radius);
+    }
+    label:last-child{
+        border-radius: 0 var(--b-radius) var(--b-radius) 0;
+    }
+
+    label{
         padding: var(--xs) var(--m);
         color: var(--c-text);
         background: transparent;
         text-align: center;
 
-        &:not(:disabled){
-            cursor: pointer;
-            background: var(--c-bg-widget-opaque);
-            box-shadow: inset 0 -4px 5px -5px var(--c-border-clickable),0 0 0 1px var(--c-border-clickable);
-            position: relative;
-            z-index: 1;
-        }
-        &:disabled{
-            color: var(--c-text-light);
-            background: transparent;
-            &:focus-visible{
-                color: #fff;
-                background: var(--c-highlight);
-            }
-        }
+        cursor: pointer;
+        background: var(--c-bg-widget-opaque);
+        box-shadow: inset 0 -4px 5px -5px var(--c-border-clickable), 0 0 0 1px var(--c-border-clickable);
+        position: relative;
+        z-index: 1;
+    }
+
+    input:checked + label{
+        cursor: default;
+    }
+
+    label:focus-visible, input:focus-visible + label{
+        box-shadow: inset 0 -4px 5px -5px var(--c-border-clickable), 0 0 0 1px var(--c-border-clickable), inset 0 0 0 2px var(--c-border-input-focused);
+        cursor: pointer;
     }
 
     &.language-picker{
