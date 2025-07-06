@@ -124,6 +124,15 @@
 						return 'your parents have';
 					}
 				},
+				visaType(){
+					if(this.isStudent){
+						return 'student visa';
+					}
+					else if(occupations.isSelfEmployed(this.occupation)){
+						return 'freelance visa';
+					}
+					return 'visa';
+				},
 				calculatorParams() {
 					return {
 						age: +this.age,
@@ -621,7 +630,7 @@
 						{% endraw %}{% include "_css/icons/health-insurance/logo-feather.svg" %}{% raw %}
 						<div>
 							<h3>Feather</h3>
-							<p>Great for a visa application. It's valid until you graduate. They speak English.</p>
+							<p>Great for a {{ visaType }} application. It's valid until you graduate. They speak English.</p>
 						</div>
 						<output>
 							<eur :amount="subOption.cost"></eur> <small>per month</small>
@@ -631,7 +640,7 @@
 						{% endraw %}{% include "_css/icons/health-insurance/logo-ottonova.svg" %}{% raw %}
 						<div>
 							<h3>Ottonova</h3>
-							<p>Valid for a visa application. They speak English.</p>
+							<p>Valid for a {{ visaType }} application. They speak English.</p>
 						</div>
 						<output>
 							<eur :amount="subOption.cost"></eur> <small>per month</small>
