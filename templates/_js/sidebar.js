@@ -6,35 +6,52 @@ window.addEventListener("DOMContentLoaded", function() {
 	const sidebar = document.querySelector('.sidebar');
 	const sidebarTableOfContents = sidebar.querySelector('.table-of-contents');
 	const floatingNav = sidebar.querySelector('#floating-nav')
-	const sidebarOpenCloseButton = floatingNav.querySelector('.open-close')
-	const sidebarLinks = Array.from(sidebarTableOfContents.querySelectorAll('li a:not(.expand)'));
+	const sidebarOpenCloseButton = floatingNav.querySelector('.open-close');
+	const sidebarSectionLinks = Array.from(sidebarTableOfContents.querySelectorAll('li a:not(.expand)'));
+	const sidebarCallsToAction = Array.from(sidebar.querySelectorAll('a.cta'));
 
+	let toggleSidebarTracked = false;
 	function toggleSidebar(shouldBeOpen){
 		sidebar.classList.toggle('open', shouldBeOpen);
-		document.body.classList.toggle('sidebar-open', shouldBeOpen);
+		const isOpen = document.body.classList.toggle('sidebar-open', shouldBeOpen);
+
+		if(isOpen && !toggleSidebarTracked){
+			plausible('Sidebar', { props: { action: 'Open' }});
+			toggleSidebarTracked = true;
+		}
 	}
 
 	// Hide mobile sidebar when clicking outside of it
-	document.body.addEventListener('click', (e) => {
+	document.body.addEventListener('click', e => {
 		if(!sidebar.contains(e.target)){
 			toggleSidebar(false);
 		}
-	})
+	});
 	
 	// Hide mobile sidebar when a table of contents link is clicked
-	sidebarLinks.forEach((link, index) => {
+	// Track sidebar section link clicks
+	sidebarSectionLinks.forEach((link, index) => {
+		link.addEventListener('click', e => {
+			toggleSidebar(false);
+
+			const url = new URL(link.href);
+			plausible('Sidebar', { props: { action: 'Link click', url: url.hash }});
+		});
+	});
+
+	// Track sidebar CTA clicks
+	sidebarCallsToAction.forEach((link, index) => {
 		link.addEventListener('click', (e) => {
 			toggleSidebar(false);
+			plausible('Sidebar', { props: { action: 'Link click', url: link.href }});
 		});
 	});
 
 	// Show/hide mobile sidebar
-	sidebarOpenCloseButton.addEventListener('click', (e) => {
-		toggleSidebar();
-	});
+	sidebarOpenCloseButton.addEventListener('click', e => toggleSidebar());
 
 	const sectionHeaders = document.querySelectorAll('.article-body h2, .article-body h3');
-	const headerMap = sidebarLinks.reduce((map, link) => {
+	const headerMap = sidebarSectionLinks.reduce((map, link) => {
 		if(link.hash) {
 			map[link.hash] = document.querySelector(link.hash);
 		}
@@ -48,7 +65,7 @@ window.addEventListener("DOMContentLoaded", function() {
 		if(mainSectionIsInFocus) {
 			highlightedLink = (
 				// First visible header
-				sidebarLinks.find(link => {
+				sidebarSectionLinks.find(link => {
 					const header = headerMap[link.hash];
 					if(!header) { return false }
 					const headerBoundingRect = header.getBoundingClientRect();
@@ -57,7 +74,7 @@ window.addEventListener("DOMContentLoaded", function() {
 				})
 				||
 				// Nearest invisible header (for long sections)
-				sidebarLinks
+				sidebarSectionLinks
 					.filter(link => {
 						const header = headerMap[link.hash];
 						if(!header) { return false }
@@ -71,7 +88,7 @@ window.addEventListener("DOMContentLoaded", function() {
 		}
 
 		if(highlightedLink) {
-			sidebarLinks.forEach(l => l.parentElement.classList.toggle('current', l === highlightedLink));
+			sidebarSectionLinks.forEach(l => l.parentElement.classList.toggle('current', l === highlightedLink));
 
 			const parentSection = highlightedLink.parentElement.parentElement.parentElement;
 			if (parentSection && !parentSection.classList.contains('expanded')) {
@@ -83,7 +100,7 @@ window.addEventListener("DOMContentLoaded", function() {
 			// The table of contents is in view
 			(!bodyTableOfContents || bodyTableOfContents.getBoundingClientRect().bottom <= 0)
 
-			// The content is in view
+			// The main content is in view (so the button does not overlap the footer)
 			&& articleBody.getBoundingClientRect().bottom >= window.innerHeight
 		);
 		if(floatingNav) {
@@ -91,6 +108,6 @@ window.addEventListener("DOMContentLoaded", function() {
 		}
 	};
 	onScroll();
-	window.addEventListener("scroll", function(e) { window.requestAnimationFrame(onScroll); });
+	window.addEventListener("scroll", e => window.requestAnimationFrame(onScroll));
 });
 {% endjs %}
