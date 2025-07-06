@@ -47,7 +47,7 @@ It's easier to meet people around a shared hobby like chess or bouldering. Meeti
 
 If you are a student, go to orientation week, and join your school's Erasmus community. They organise many activities for international students.
 
-There are Facebook groups and organisations for every nationality in Berlin. Here are a few:
+There are groups and organisations for every nationality in Berlin. Here are a few:
 
 - [Americans in Berlin](https://www.facebook.com/groups/35803918997/)
 - [Brazilians in Berlin](https://www.facebook.com/groups/brasileiros.brasileiras.berlim/)
@@ -56,6 +56,7 @@ There are Facebook groups and organisations for every nationality in Berlin. Her
 - [French speakers in Berlin](https://www.facebook.com/groups/les.francais.de.berlin/)
 - [Indians in Berlin](https://www.facebook.com/groups/2606668189644850)
 - [Koreans in Berlin](http://berlinreport.com/)
+- [Nigerians in Berlin](https://www.thencib.org/)
 - [Poles in Berlin](https://www.facebook.com/groups/1427056394268433/)
 - [Russians in Berlin](https://www.facebook.com/groups/russenberlin/)
 - [Turks in Berlin](https://www.facebook.com/groups/turklerberlinde/)
