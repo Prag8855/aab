@@ -183,7 +183,7 @@ Vue.component('health-insurance-question', {
 				</div>
 				<hr>
 				<h3 class="no-print">How should we talk?</h3>
-				<div class="tabs no-print">
+				<div class="tabs">
 					<button @click="contactMethod = 'whatsapp'" tabindex="0" :disabled="contactMethod === 'whatsapp'">
 						WhatsApp
 					</button>
