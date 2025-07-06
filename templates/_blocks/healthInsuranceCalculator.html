@@ -160,7 +160,6 @@
 						worksOver20HoursPerWeek: this.worksOver20HoursPerWeek,
 
 						desiredService: this.desiredService ? this.desiredService : undefined,
-						contactMethod: 'whatsapp',
 					}
 				},
 
@@ -695,7 +694,7 @@
 			</button>
 		</div>
 	</template>
-	<health-insurance-question v-if="stage === 'askABroker'" v-bind="contactFormParams">
+	<health-insurance-question :track-as="trackAs" v-if="stage === 'askABroker'" v-bind="contactFormParams">
 		<template v-slot:form-buttons>
 			<button aria-label="Go back" class="button" @click="previousStage()">
 				<i class="icon left" aria-hidden="true"></i> <span class="no-mobile">Go back</span>

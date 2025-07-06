@@ -23,14 +23,16 @@ Vue.component('health-insurance-question', {
 		occupation: String,
 		worksOver20HoursPerWeek: Boolean,
 
-		contactMethod: String,
+		trackAs: {
+			type: String,
+			default: 'Health insurance question',
+		},
 	},
 	data: function() {
 		return {
-			trackAs: 'Health insurance question',
-
 			stage: 'contactInfo',
 
+			contactMethod: null,
 			question: '',
 			fullName: userDefaults.fullName,
 			email: userDefaults.email,
