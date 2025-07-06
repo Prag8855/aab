@@ -16,9 +16,11 @@ Related_guides:
     guides/german-health-insurance/when-unemployed.md
 ---
 
-This tool helps you choose the best German health insurance. It tells you what options you have, and how much [health insurance](/glossary/Krankenversicherung) costs in {{ now.strftime('%Y') }}.
+This tool helps you choose the best German health insurance. It explains your options, and shows how much [health insurance](/glossary/Krankenversicherung) costs in {{ now.strftime('%Y') }}.
 
 ## Health insurance picker
+
+The cost of health insurance depends on your situation. This tool tells you how much you should pay.
 
 {% include '_blocks/healthInsuranceCalculatorStatic.html' %}
 
@@ -26,17 +28,17 @@ This tool helps you choose the best German health insurance. It tells you what o
 
 ## Cost of German health insurance
 
-The cost of public health insurance is a percentage of your income. The cost of private health insurance depends on your age and health condition when you sign up.
+[Public health insurance](/glossary/gesetzliche%20Krankenversicherung) costs {{GKV_MIN_RATE_SELF_PAY}}% to {{GKV_MAX_RATE_SELF_PAY}}% of your income (including [long-term care insurance](/glossary/Pflegeversicherung)). Your employer pays half of it. The cost is not affected by your age, your health condition, or how often you get sick.
 
-## How to pay for your health insurance
+**[Cost of public health insurance ➞](/guides/german-health-insurance#cost-of-public-health-insurance)**
 
-If you are an employee, health insurance is automatically deducted from your paychecks.
+The cost of [private health insurance](/glossary/private%20Krankenversicherung) depends on your age, your health condition, and the coverage you choose. If you have a high income, it might be cheaper than public health insurance.
 
-If you are self-employed, you pay by [SEPA transfer](/glossary/SEPA-%C3%9Cberweisung) every month. If you give your health insurer a [direct debit authorisation](/glossary/SEPA-Lastschriftmandat), the payments are automatic.
+**[Cost of private health insurance ➞](/guides/german-health-insurance#cost-of-private-health-insurance)**
 
 ## How to choose health insurance
 
-Read my [German health insurance guide](/guides/german-health-insurance), then talk to a health insurance broker. A broker will help you choose the best health insurance for your needs.
+Read my [health insurance guide](/guides/german-health-insurance), and [ask my insurance expert](/guides/german-health-insurance#insurance-brokers) to help you choose.
 
 **[How to choose health insurance ➞](/guides/german-health-insurance)**
 
