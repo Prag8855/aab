@@ -13,7 +13,6 @@ Related_places:
     places/nomaden-berlin.md
     places/glogauer-str-25.md
     places/start-relocation.md
-    places/myhelpbuddy.md
     places/prime-relocation.md
     places/impats.md
     places/von-wrede-relocation.md
