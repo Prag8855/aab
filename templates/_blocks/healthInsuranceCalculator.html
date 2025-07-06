@@ -196,8 +196,9 @@
 							if(this.childrenCount){
 								output.public += ' ' + this.familienversicherung;
 							}
-							output.expat = "Expat health insurance is cheaper, but <strong>the coverage is not great</strong>. Public health insurance is better.";
+							output.expat = "It's cheaper, but <strong>the coverage is not great</strong>. Public health insurance is better.";
 						}
+						output.private = "Your income is too low for private health insurance. Most insurers will reject you.";
 					}
 					else if(this.flag('private')){
 						if(this.childrenCount > 2){
