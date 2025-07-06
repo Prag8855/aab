@@ -506,8 +506,8 @@ function getHealthInsuranceOptions({
 		output.flags.add('expat');
 		output.expat.eligible = true;
 		output.expat.options = [
-			{id: 'feather-expat', cost: 72}, // TODO
-			{id: 'ottonova-expat', cost: 111},
+			{id: 'feather-expat', cost: {{ FEATHER_STUDENT_COST }}}, // TODO
+			{id: 'ottonova-expat', cost: {{ OTTONOVA_STUDENT_COST }}},
 		];
 	}
 

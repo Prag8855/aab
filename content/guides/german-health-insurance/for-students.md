@@ -35,7 +35,7 @@ If you are under 30 years old, you have 3 options:
 
 If you are over 30 years old, your options change.
 
-**If you just moved from a non-[EU](/glossary/European%20Union) country**, you can't get public health insurance.[^2] [[Expat health insurance]] might be your only option.[^91] It costs around €{{OTTONOVA_STUDENT_COST|cur}} per month. [Feather](/out/feather-students) and [Ottonova](/out/ottonova-students) sell expat health insurance. You can also [ask my insurance expert](/guides/german-health-insurance#insurance-brokers) to help you choose.
+**If you just moved from a non-[EU](/glossary/European%20Union) country**, you can't get public health insurance.[^2] [[Expat health insurance]] might be your only option.[^91] It costs €{{FEATHER_STUDENT_COST|cur}} to €{{OTTONOVA_STUDENT_COST|cur}} per month. [Feather](/out/feather-students) and [Ottonova](/out/ottonova-students) sell expat health insurance. You can also [ask my insurance expert](/guides/german-health-insurance#insurance-brokers) to help you choose.
 
 **If you just moved from another EU country**, you have more options:
 
