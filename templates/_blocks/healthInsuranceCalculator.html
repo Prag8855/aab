@@ -98,6 +98,9 @@
 					// If you're on this page, you're already reading about health insurance
 					return window.location.pathname !== '/guides/german-health-insurance';
 				},
+				ottonovaLink(){
+					return this.isStudent ? "/out/ottonova-students" : "/out/ottonova-expats";
+				},
 
 				intro(){
 					const optionsList = this.results.asList.map(r => r.id).filter(id => ['public', 'private', 'expat'].includes(id));
@@ -624,7 +627,7 @@
 							<eur :amount="subOption.cost"></eur> <small>per month</small>
 						</output>
 					</a>
-					<a v-else-if="subOption.id === 'ottonova-expat'" title="Get expat health insurance from Ottonova" href="/out/ottonova-expats" target="_blank">
+					<a v-else-if="subOption.id === 'ottonova-expat'" title="Get expat health insurance from Ottonova" :href="ottonovaLink" target="_blank">
 						{% endraw %}{% include "_css/icons/health-insurance/logo-ottonova.svg" %}{% raw %}
 						<div>
 							<h3>Ottonova</h3>
