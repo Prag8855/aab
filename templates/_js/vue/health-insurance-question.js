@@ -148,7 +148,7 @@ Vue.component('health-insurance-question', {
 			}
 
 			if(this.currentInsurance){
-				facts.push(`${youOrI} have ${currentInsurance} health insurance`);
+				facts.push(`${youOrI} have ${this.currentInsurance} health insurance`);
 			}
 
 			if(facts.length === 0){
