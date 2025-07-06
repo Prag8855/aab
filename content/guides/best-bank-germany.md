@@ -55,7 +55,7 @@ Wise speaks English, Chinese, French, German, Hungarian, Indonesian, Italian, Ja
 These banks are **not expat-friendly**:
 
 - **[C24](/out/c24)**  
-    It's an excellent bank, but they [accept fewer passports](https://hilfe.c24.de/hc/de/articles/360011531579-Wer-kann-ein-Konto-beantragen) and might require a residence permit.[^1] They only speak German. They don't accept US citizens.[^5]
+    It's an excellent bank, but they [accept fewer passports](https://hilfe.c24.de/hc/de/articles/360011531579-Wer-kann-ein-Konto-beantragen), they required a [registered address](/glossary/Anmeldung), and they might require a residence permit.[^1] They only speak German. They don't accept US citizens.[^5]
 - **[Revolut](/out/revolut)**  
     You need a [tax ID](/glossary/Steueridentifikationsnummer) to open an account.[^11] You only get it after you [register your address](/glossary/Anmeldung) for the first time.
 - **[Sparkasse](/out/sparkasse)**  
@@ -222,7 +222,7 @@ None of these banks give you a [[Girocard]]. If you need one, [C24](/out/c24) is
 
 **The best German-speaking bank** is [C24](/out/c24). [DKB](/out/dkb) and [ING](/out/ing) are also great, but they don't accept recent immigrants.
 
-[^1]: [C24](https://hilfe.c24.de/hc/de/articles/360012128719-Welche-Ausweisdokumente-kann-ich-zur-Identifizierung-verwenden) (May 2024)
+[^1]: [C24](https://hilfe.c24.de/hc/de/articles/360012128719-Welche-Ausweisdokumente-kann-ich-zur-Identifizierung-verwenden) (May 2024), reader feedback (July 2025)
 [^2]: [Reddit](https://old.reddit.com/r/germany/comments/yshoer/open_a_bank_account_in_germany_with_blue_card/), [Twitter](https://twitter.com/_zigi/status/1775839424389030161) (2024), Tobias Arnold from bunq (February 2025)
 [^3]: Multiple relocation consultants (2024), [Twitter](https://twitter.com/de1m0s242/status/1775881757872607234), [1](https://twitter.com/sync2nirvana/status/1775812020794765493), [2](https://twitter.com/OkiPeter_/status/1775852351456190917), [3](https://twitter.com/nikolaev_dd/status/1775808127541158206), [4](https://twitter.com/baridaniela28/status/1775848326455255146), [5](https://twitter.com/murirokcs/status/1775831955885449399), [6](https://twitter.com/DeusFoxy/status/1752302987295269173)
 [^4]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/93e7oe/did_you_open_a_bank_account_before_your_anmeldung/e3eihwj/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/q3m3js/bank_with_anmeldung/)
