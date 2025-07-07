@@ -139,7 +139,6 @@ class HealthInsuranceQuestion(NameMixin, ReplyToSenderMixin, EmailMixin, Schedul
     age = models.PositiveSmallIntegerField(null=True)
     income = models.PositiveIntegerField(null=True)
     occupation = models.CharField(max_length=50, blank=True)  # "selfEmployed"
-    phone = models.CharField(max_length=30, blank=True)
     question = models.TextField(blank=True)
     is_married = models.BooleanField(null=True)
     children_count = models.PositiveSmallIntegerField(null=True)
@@ -153,10 +152,6 @@ class HealthInsuranceQuestion(NameMixin, ReplyToSenderMixin, EmailMixin, Schedul
             HealthInsuranceQuestionConfirmation.objects.create(email=self.email, name=self.name)
             HealthInsuranceQuestionFeedback.objects.create(email=self.email, name=self.name)
         super().save(*args, **kwargs)
-
-    def remove_personal_data(self):
-        super().remove_personal_data()
-        self.phone = filler_string
 
     @property
     def subject(self) -> str:

@@ -154,7 +154,6 @@ class HealthInsuranceQuestionTestCase(ScheduledMessageEndpointMixin, APITestCase
     example_request = {
         'name': 'John Test',
         'email': 'contact@nicolasbouliane.com',
-        'phone': '',
         'income_over_limit': False,
         'occupation': 'employee',
         'age': 23,
