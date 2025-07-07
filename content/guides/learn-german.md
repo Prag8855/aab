@@ -39,11 +39,11 @@ Some German universities have programmes in English, but most are only in German
 
 ### To get your permanent residence
 
-If you apply for a permanent residence, you must speak German at a B1 level.[^1]
+To [apply for a permanent residence](/guides/permanent-residence), you need a B1 language test certificate.[^1] If you have a [[Blue Card]], you only need an A1 certificate.
 
 ### To get the German citizenship
 
-If you speak German, you can get the German citizenship 2 years earlier.[^2]
+To apply for German citizenship, you need a B1 language test certificate. If you speak German at a C1 level, you can get German citizenship 2 years earlier.[^2]
 
 ## How long does it take to learn German?
 
@@ -117,6 +117,8 @@ Most private schools also offer online classes.
     Regular and intensive courses in Kreuzberg. Groups of 6 to 12 people. Private lessons are available. They also host [events](https://www.sprachsalon-berlin.de/en/about-us/).
 - **[Sprachinstitut Berlin](https://sprachinstitut-berlin.de/en/learn-german-berlin/)**  
     Regular and intensive German classes in Mitte. Groups 4 to 8 people. Private lessons are available. They offer pronunciation training and other special classes.
+- **[Zeitgeist Zentrum](https://www.zeitgeist-zentrum.de/)**  
+    Regular and intensive German classes in Wedding. Groups of 6 to 12 people. They also have cultural events and a co-working space.
 
 ### Private teachers
 
