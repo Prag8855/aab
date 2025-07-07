@@ -26,7 +26,6 @@ class HealthInsuranceQuestionSerializer(HyperlinkedModelSerializer):
             'is_married',
             'name',
             'occupation',
-            'phone',
             'question',
         ]
 
