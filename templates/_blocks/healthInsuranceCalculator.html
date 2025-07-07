@@ -213,7 +213,7 @@
 						}
 						output.private = "Your income is too low for private health insurance. Most insurers will reject you.";
 					}
-					else if(this.flag('private')){
+					else if(this.results.private.eligible){
 						if(this.childrenCount > 2){
 							output.public = `Public health insurance is <strong>cheaper</strong>. ${this.publicCost}`;
 							output.private = 'Choose private health insurance to get <strong>better coverage</strong> and faster doctor appointments for your family.'
@@ -258,7 +258,7 @@
 
 						if(this.yearlyIncome >= 60000){
 							output.private = "It might be <strong>better and cheaper</strong> than public health insurance, because you have a high income.";
-							output.public = "If your income is unstable, it's the <strong>safest option</strong>, because the cost is proportional to your income."
+							output.public = "If your income is unstable, this is the <strong>safest option</strong>, because the cost is proportional to your income."
 						}
 						else if(this.yearlyIncome >= 30000){							
 							output.private = "Choose private health insurance to get <strong>better coverage</strong> and faster doctor appointments."
@@ -288,7 +288,7 @@
 					// Students under 30 years old
 					if(this.flag('public-tariff-student')){
 						if(this.results.free.eligible){
-							output.public = "If you can't get free health insurance, it's the <strong>best option</strong>. " + output.public;
+							output.public = "If you can't get free health insurance, this is the <strong>best option</strong>. " + output.public;
 						}
 						else{
 							output.public = "This is the <strong>best option</strong> for students under 30 years old. " + output.public;
@@ -298,7 +298,7 @@
 							output.public += ' ' + this.familienversicherung;
 						}
 
-						output.expat = "It's cheaper, but <strong>the coverage is much worse</strong>. Public health insurance is better.";
+						output.expat = "It's cheaper, but <strong>the coverage is bad</strong>. Public health insurance is better.";
 						output.private = "It's more expensive, but you can get <strong>better coverage</strong> and faster doctor appointments.";
 					}
 					// Students over 30 years old
@@ -318,10 +318,10 @@
 					}
 					else if(this.flag('public-not-werkstudent')){
 						if(this.worksOver20HoursPerWeek > 20){
-							output.public += " You work more than 20 hours per week, so you can't get the cheaper student tariff.";
+							output.public += " You work more than 20 hours per week, so you don't pay the cheaper student tariff.";
 						}
 						else{
-							output.public += " Your income is too high, so you can't get the cheaper student tariff.";
+							output.public += " Your income is too high, so you don't pay the cheaper student tariff.";
 						}
 					}
 
@@ -618,8 +618,8 @@
 					<a v-else-if="subOption.id === 'ksk'" title="Learn more about the KSK" href="/guides/ksk-kuenstlersozialkasse" target="_blank">
 						{% endraw %}{% include "_css/icons/liability.svg" %}{% raw %}
 						<div>
-							<h3>Join the Künstlersozialkasse</h3>
-							<p>If you are an artist or a content creator, they they pay half of your public health insurance.</p>
+							<h3>Join the <glossary>Künstlersozialkasse</glossary></h3>
+							<p>If you are an artist or a content creator, the KSK can pay half of your public health insurance.</p>
 						</div>
 						<output>
 							<eur :amount="optionPrice('other', 'ksk')"></eur> <small>per month</small>
