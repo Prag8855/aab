@@ -212,9 +212,9 @@ Vue.component('health-insurance-question', {
 							How can we help?
 						</label>
 						<textarea :id="uid('question')" v-model="question" placeholder="Tell us about your situation"></textarea>
-						<div class="input-instructions">
-							We already know that...
-							<ul v-if="personSummary(false)">
+						<div class="input-instructions" v-if="personSummary(false)">
+							We already know that…
+							<ul>
 								<li v-for="fact in personSummary(false)" v-text="fact"></li>
 							</ul>
 						</div>
