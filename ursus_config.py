@@ -447,6 +447,7 @@ config.linters = [
     'extensions.linters.wikilinks.WikilinksLinter',
     # 'extensions.linters.titles.DuplicateTitlesLinter',
     'extensions.linters.titles.SequentialTitlesLinter',
+    'extensions.linters.titles.TitleCountLinter',
     'ursus.linters.footnotes.OrphanFootnotesLinter',
     'ursus.linters.images.UnusedImagesLinter',
     'ursus.linters.markdown.MarkdownLinkTextsLinter',
