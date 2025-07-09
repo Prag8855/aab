@@ -62,6 +62,8 @@ To apply for a residence permit, you need...
 - or **[expat health insurance](/glossary/Expat%20health%20insurance)**  
     [Expat health insurance](/glossary/Expat%20health%20insurance) is *sometimes* accepted when you apply for your first residence permit. It depends on which residence permit you apply for. Expat health insurance is rarely accepted when you change or renew your residence permit.
 
+**[What is the best option? ➞](/guides/german-health-insurance#what-is-the-best-option)**
+
 The exact requirements depend on your occupation:
 
 - [Health insurance for an **employee**](/guides/german-health-insurance/for-employees#for-a-visa-or-residence-permit)

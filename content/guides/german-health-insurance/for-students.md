@@ -12,7 +12,7 @@ This guide helps you choose the best health insurance to study in Germany. All G
 
 ## Your options
 
-Use my [health insurance calculator](/tools/health-insurance-calculator) to see your options.
+Use my [health insurance picker](/tools/health-insurance-calculator) to compare options.
 
 {% include '_blocks/healthInsuranceCalculatorStatic.html' %}
 
@@ -26,6 +26,8 @@ If you are under 30 years old, you have 3 options:
     If you can't get free health insurance, public is usually the best option.[^59] You pay the student tariff: around €{{GKV_COST_STUDENT|cur}} per month. If you move from a non-[EU](/glossary/European%20Union), you might also need travel health insurance between the day you arrive and the day you start studying.
 - **[Expat health insurance](/glossary/Expat%20health%20insurance)**  
     If you are under 30 years old, it's rarely worth it.[^88] It can be cheaper, but the coverage is much worse. Public health insurance is a better option. Switch to public health insurance *maximum* 3 months after you start university.[^9] If you choose expat health insurance, you are stuck with it until you graduate.[^3]
+
+**[What is the best option? ➞](/guides/german-health-insurance#what-is-the-best-option)**
 
 **If you work less than 20 hours per week**, you keep the cheaper student tariff. Your employer does not pay half of your health insurance.[^7]
 
@@ -54,7 +56,7 @@ If you are self-employed during your studies, you can keep your student health i
 
 **If you work more than 20 hours per week**, you are treated [like other self-employed people](/guides/german-health-insurance/for-freelancers), and your public health insurance costs a percentage of your income. If you are young and healthy, [private](/glossary/private%20Krankenversicherung) or [expat health insurance](/glossary/Expat%20health%20insurance) usually make more sense.[^5]
 
-**If your income is over €{{GKV_FAMILIENVERSICHERUNG_MAX_INCOME|cur}}** per month, you can't get [free health insurance](/guides/german-health-insurance#free-health-insurance).
+**If your earn more than €{{GKV_FAMILIENVERSICHERUNG_MAX_INCOME|cur}} per month**, you can't get [free health insurance](/guides/german-health-insurance#free-health-insurance).
 
 ## Insurance for a student visa
 

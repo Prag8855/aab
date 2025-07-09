@@ -12,7 +12,7 @@ This guide helps you choose the best health insurance for self-employment. All G
 
 ## Your options
 
-If you are self-employed, you can choose public, private or expat health insurance. Use my [health insurance calculator](/tools/health-insurance-calculator) to see your options.
+If you are self-employed, you can choose public, private or expat health insurance. Use my [health insurance picker](/tools/health-insurance-calculator) to compare options.
 
 {% include '_blocks/healthInsuranceCalculatorStatic.html' %}
 
@@ -42,6 +42,8 @@ When you have a job, your employer pays half of your health insurance. If you ar
     If you earn more than €60,000 per year, private can be better and cheaper than public health insurance.[^8] It might be your only option.
 - **[Public health insurance]**  
     You can get free [public health insurance](/glossary/gesetzliche%20Krankenversicherung) [through your family](/guides/german-health-insurance#free-health-insurance). You can get cheaper public health insurance if you [join the *Künstlersozialkasse*](/guides/ksk-kuenstlersozialkasse). If you already have public health insurance, you can keep it. Otherwise, public health insurers will reject you.[^11]
+
+**[What is the best option? ➞](/guides/german-health-insurance#what-is-the-best-option)**
 
 ### The Künstlersozialkasse
 
