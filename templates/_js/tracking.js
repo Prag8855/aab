@@ -10,6 +10,14 @@ function getLinkEl(l) {
 	return l;
 }
 
+function getNearestHeading(el){
+	const articleBody = document.querySelector('.article-body');
+	if(articleBody && articleBody.contains(el)){
+		return Array.from(articleBody.querySelectorAll(':scope > :is(h2,h3,h4)'))
+			.findLast(h => el.compareDocumentPosition(h) === Node.DOCUMENT_POSITION_PRECEDING);
+	}
+}
+
 function openLinkAfterTracking(e, link) {
 	// If default has been prevented by an external script, Plausible should not intercept navigation.
 	if (e.defaultPrevented) { return false }
@@ -34,7 +42,8 @@ function handleLinkClick(e) {
 	if (e.type === 'auxclick' && e.button !== middleMouse) { return }
 	const link = getLinkEl(e.target);
 	if (link && shouldTrackUrl(link.href)) {
-		return sendLinkClickEvent(e, link, 'Outbound Link: Click', { url: link.href });
+		const nearestHeading = getNearestHeading(link);
+		return sendLinkClickEvent(e, link, 'Outbound Link: Click', { url: link.href, pageSection: nearestHeading ? `#${nearestHeading.id}` : null });
 	}
 }
 
