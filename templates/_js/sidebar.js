@@ -8,7 +8,7 @@ window.addEventListener("DOMContentLoaded", function() {
 	const floatingNav = sidebar.querySelector('#floating-nav')
 	const sidebarOpenCloseButton = floatingNav.querySelector('.open-close');
 	const sidebarSectionLinks = Array.from(sidebarTableOfContents.querySelectorAll('li a:not(.expand)'));
-	const sidebarCallsToAction = Array.from(sidebar.querySelectorAll('a.cta'));
+	const sidebarCallsToAction = Array.from(sidebar.querySelectorAll('.cta'));
 
 	let toggleSidebarTracked = false;
 	function toggleSidebar(shouldBeOpen){
@@ -35,7 +35,7 @@ window.addEventListener("DOMContentLoaded", function() {
 			toggleSidebar(false);
 
 			const url = new URL(link.href);
-			plausible('Sidebar', { props: { action: 'Link click', url: url.hash }});
+			plausible('Sidebar', { props: { action: 'Section click', url: url.hash }});
 		});
 	});
 
