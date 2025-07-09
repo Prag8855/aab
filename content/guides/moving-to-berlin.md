@@ -25,6 +25,8 @@ You need enough money for...
     You must pay it by [bank transfer](/glossary/SEPA-Überweisung) before you [move in](/guides/moving-in).
 - **Your [living expenses](/guides/cost-of-living)**  
     You must buy food and things for your apartment. You might also need to buy furniture and appliances. If you find a furnished apartment or a [[WG]]; it comes with everything you need.
+- **Your [health insurance](/glossary/Krankenversicherung)**  
+    All German residents must have health insurance. Use my [health insurance calculator](/tools/health-insurance-calculator) to estimate the cost.
 - **Your relocation expenses**  
     If you come from another country, you might need to buy plane tickets, or stay in a hotel for a few days. Relocation and moving expenses are [tax-deductible](/glossary/steuerlich%20absetzbar).[^4] Save the receipts for your [tax declaration](/glossary/Steuererklärung).
 - **Winter clothes**  
@@ -56,7 +58,7 @@ Be careful while looking for apartments. There are a lot of [housing scams](/gui
 
 ### Get health insurance
 
-If you live in Germany, you need [health insurance](/glossary/Krankenversicherung). You need it to apply for a [[National Visa]] or a [residence permit](/glossary/Aufenthaltstitel). You need it before you [start working](/guides/find-a-job-in-berlin#start-working).
+If you live in Germany, you need [health insurance](/glossary/Krankenversicherung). You need it to apply for a [[National Visa]] or a [residence permit](/glossary/Aufenthaltstitel). You need it before you [start working](/guides/find-a-job-in-berlin#start-working) or studying.
 
 Use my [health insurance calculator](/guides/german-health-insurance) to know your options. [Ask my insurance expert](/guides/german-health-insurance#insurance-brokers) to help you choose. It's the best way to get insured.
 
