@@ -6,31 +6,26 @@ Date_created: 2025-06-02
 Call_to_action: askOurInsuranceExpert
 ---
 
-This guide helps you choose the best health insurance to work in Germany. All German residents need health insurance. You need it to apply for a [work visa](/glossary/Work%20Visa) or a [[Blue Card]].
+If you [work in Germany](/guides/find-a-job-in-berlin), you must have health insurance. This guide helps you choose the best health insurance for employees.
 
 {% include "_blocks/tableOfContents.html" %}
 
 ## Your options
 
-Your options depend on your income. Your health insurance is not tied to your job. Your employer does not decide which health insurance you can have. If you [lose your job](/guides/losing-your-job), you keep your health insurance.
-
-Use my [health insurance calculator](/tools/health-insurance-calculator) to see your options.
+Employees must get [public](/glossary/gesetzliche%20Krankenversicherung) or [private health insurance](/glossary/private%20Krankenversicherung). [[Expat health insurance]] is not accepted. Use my [health insurance picker](/tools/health-insurance-calculator) to compare options.
 
 {% include '_blocks/healthInsuranceCalculatorStatic.html' %}
 
-### Public health insurance
+Your options depend on your income:
 
-If your earn less than €{{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}} per year, you can only get [public health insurance](/glossary/gesetzliche%20Krankenversicherung).
-
-You must choose an [insurer](/glossary/Krankenkasse). There are dozens of insurers, but their price and coverage are almost the same. [Barmer](/out/barmer) and [Techniker Krankenkasse](/out/feather-tk) are English-speaking options.
-
-### Private health insurance
-
-If your earn more than €{{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}} per year, you can choose [private health insurance](/glossary/private%20Krankenversicherung). It's sometimes better and cheaper than public health insurance.[^5]
-
-Don't choose private health insurance yourself. There are too many options. [Ask my insurance expert](/guides/german-health-insurance#insurance-brokers) to help you choose. It's a free service.
+- **If your earn less than €{{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}} per year**  
+    You can only get [public health insurance](/glossary/gesetzliche%20Krankenversicherung). There are dozens of [insurers](/glossary/Krankenkasse), but their price and coverage are almost the same. [Barmer](/out/barmer) and [Techniker Krankenkasse](/out/feather-tk) are good English-speaking options.
+- **If your earn more than €{{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}} per year**  
+    You can also choose [private health insurance](/glossary/private%20Krankenversicherung). It's sometimes better and cheaper than public health insurance.[^5] Don't choose private health insurance yourself. There are too many options. [Ask my insurance expert](/guides/german-health-insurance#insurance-brokers) to help you choose. It's a free service.
 
 **[Public or private health insurance? ➞](/guides/german-health-insurance#what-is-the-best-option)**
+
+Your health insurance is not tied to your job. Your employer does not decide which health insurance you can have. If you [lose your job](/guides/losing-your-job), you keep your health insurance.
 
 ## For a visa or residence permit
 
