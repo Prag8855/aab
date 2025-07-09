@@ -69,18 +69,7 @@ To apply for a [student visa](/glossary/Student%20visa), you have 2 options:
 
 ## For an internship
 
-If it's a **mandatory internship during your studies**, you keep your student insurance. Your employer does not pay half of it.[^50]
-
-If it's a **mandatory internship before or after your studies**:[^65]
-
-- **If it's unpaid**  
-    You have [the same options as other students](/guides/german-health-insurance/for-students).[^64]
-- **It it pays up to €{{GKV_AZUBI_FREIBETRAG|cur}} per month**  
-    Your health insurance is free. Your employer pays for it.[^49]
-- **If it pays more than €{{GKV_AZUBI_FREIBETRAG|cur}} per month**  
-    You have [the same options as other employees](/guides/german-health-insurance/for-employees).
-
-If it's a **voluntary internship**, it's treated like a normal job. You have the [same options as an employee](/guides/german-health-insurance/for-employees).[^67] If you don't get paid, you have the [same options as an unemployed student](/guides/german-health-insurance/for-students), and you don't get help from your employer.[^68]
+**[Health insurance for an internship ➞](/guides/german-health-insurance/for-employees#for-an-internship)**
 
 ## For an apprenticeship
 
@@ -118,13 +107,7 @@ After you get insured, your insurer tells your university (the *M10 Meldung*). T
 [^25]: [tk.de](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-nicht-tk-versicherte/wie-hoch-sind-die-beitraege/freiwillige-mitglieder/haeufige-fragen-zu-beitraegen-fuer-freiwillig-versicherte/beitragshoehe-absolvent-freiwilliger-student-2006956#:~:text=nach%20dem%2030.%20geburtstag), [krankenkassen.de](https://www.krankenkassen.de/meine-krankenkasse/student/freiwillig/#:~:text=mit%20dem%20ende%20des%20semesters%2C%20in%20das%20der%2030.%20geburtstag%20fallt)
 [^39]: [Feather Insurance](https://faq.feather-insurance.com/en/articles/29608-what-is-ehic-european-health-insurance-card#:~:text=coverage%20throughout%20the%20whole%20duration%20of%20studies) (2023), [Feather Insurance](https://faq.feather-insurance.com/en/articles/28609-i-am-about-to-enrol-into-a-german-university-what-insurance-options-do-i-have#:~:text=if%20you%20are%20statutorily%20insured%20in%20one%20of%20the%20aforementioned%20countries%2C%20you%20can%20stay%20on%20your%20home%20insurance%20for%20the%20whole%20duration%20of%20your%20studies%20regardless%20of%20your%20age.) (May 2025), [krankenkassen.de](https://www.krankenkassen.de/incoming/student/ehic/) (May 2025)
 [^46]: [Techniker Krankenkasse](https://www.tk.de/resource/blob/2033352/0a9809b0d119ad48bdd717ccf37391b2/beratungsblatt-beschaeftigung-von-studierenden-und-praktikanten-data.pdf) (January 2025), [Techniker Krankenkasse](https://www.tk.de/firmenkunden/versicherung/versicherung-faq/haeufige-fragen-zu-studenten-und-praktikanten/wer-kann-werkstudent-sein-2036666) (March 2025), [meinpraktikum.de](https://www.meinpraktikum.de/ratgeber/werkstudent/allgemeines) (March 2025)
-[^49]: [Techniker Krankenkasse](https://www.tk-lex.tk.de/web/guest/externalcontent?_leongshared_serviceId=2010&_leongshared_externalcontentid=HI521237) (March 2025), [§20 Abs. 3 SGB IV](https://www.gesetze-im-internet.de/sgb_4/__20.html), [praktikum-guide.com](https://praktikum-guide.com/krankenversicherung-im-praktikum/#:~:text=bis%20325%20%E2%82%AC%20im-,monat,-Die%20Beitr%C3%A4ge%20zur) (April 2025), [haufe.de](https://www.haufe.de/id/beitrag/praktikanten-beurteilung-in-der-entgeltabrechnung-HI1565146.html#:~:text=sofern%20das%20entgelt%20die%20geringverdienergrenze%20von%20325%20eur%20monatlich%20nicht%20ubersteigt) (April 2025)
-[^50]: [student-kv.de](https://www.student-kv.de/krankenkasse_versicherung_im_praktikum/#:~:text=Vorgeschriebenes%20Zwischenpraktikum%20mit-,entgelt,-Absolvierst%20du%20ein) (April 2023)
 [^59]: [finanztip.de](https://www.finanztip.de/pkv/pkv-wechsel/#:~:text=bleib%20fur%20die%20dauer%20des%20studiums%20besser%20in%20der%20gesetzlichen%20krankenversicherung) (January 2025), [Feather Insurance](https://faq.feather-insurance.com/en/articles/28609-i-am-about-to-enrol-into-a-german-university-what-insurance-options-do-i-have?utm_source=allaboutberlin#:~:text=we%20strongly%20recommend%20this%20option%20to%20any%20student%20under%2030%20years%20of%20age) (May 2025)
-[^64]: [praktikum-guide.com](https://praktikum-guide.com/krankenversicherung-im-praktikum/#:~:text=Pflichtpraktikum%20ohne-,vergutung,-Du%20bleibst%20beitragsfrei) (April 2025)
-[^65]: [DAK](https://www.dak.de/dak/leistungen/krankenversicherung-waehrend-eines-praktikums_63456#rtf-anchor-praktikum-vor-oder-nach-dem-studium) (April 2025), [check24.de](https://www.check24.de/krankenversicherung/praktikum/#:~:text=fur%20ein%20pflichtpraktikum%2C%20das%20vor%20oder%20nach%20dem%20studium%20absolviert%20wird) (April 2025)
-[^67]: [meinpraktikum.de](https://www.meinpraktikum.de/ratgeber/krankenversicherung#freiwilliges-praktikum) (April 2025), [student-kv.de](https://www.student-kv.de/krankenkasse_versicherung_im_praktikum/#:~:text=4.%20nicht%20vorgeschriebenes%20vorpraktikum%2Fnachpraktikum) (April 2025)
-[^68]: [check24.de](https://www.check24.de/krankenversicherung/praktikum/#:~:text=fur%20die%20der%20praktikant%20kein%20entgelt%20erhalt) (April 2025)
 [^87]: [krankenkassen.de](https://www.krankenkassen.de/meine-krankenkasse/student/freiwillig/#:~:text=es%20kann%20etwas%20gunstiger%20sein%2C%20eine%20private%20krankenversicherung%20fur%20studenten%20abzuschlie%C3%9Fen) (May 2025), [krankenkassen.de](https://www.krankenkassen.de/meine-krankenkasse/student/private-kv/#:~:text=einem%20speziellen%20tarif%20fur%20studenten) (May 2025)
 [^88]: [studierendenwerke.de](https://www.studierendenwerke.de/themen/studieren-mit-behinderung/finanzierung/krankenversicherung/private-krankenversicherung-sinnvolle-alternative-fuer-studierende-mit-beeintraechtigungen#:~:text=zu%20studienbeginn%20oder%20nach%20ende%20der%20familienversicherung%20befreien%20lassen) (May 2025)
 [^90]: [Feather Insurance](https://feather-insurance.com/blog/health-insurance-students-germany-guide/#:~:text=typically%2C%20students%20must%20earn%20at%20least%20%E2%82%AC30%2C000%20annually) (May 2025)
