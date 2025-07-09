@@ -46,9 +46,9 @@ You should also tell...
 
 - [ ] **Your bank**  
     You can change your address on your bank's online portal, or by asking your financial advisor.
-- [ ] **Your car/home insurance**  
-    If you have vehicle or home insurance, tell your insurer about your address change. You can usually do it on their website. You can also contact your [insurance broker](/glossary/Makler).
-- [ ] **Your health insurance**  
+- [ ] **Your [car](/glossary/Kfz-Versicherung)/[home](/glossary/Hausratversicherung)/[liability insurance](/glossary/Haftpflichtversicherung)**  
+    Tell your insurer about your address change. You can usually do it on their website. Your [insurance broker](/glossary/Makler) can do it for you.
+- [ ] **Your [health insurance](/glossary/Krankenversicherung)**  
     You can change your address on your health insurer's online portal, or by asking your insurance broker.
 - [ ] **The [[Agentur für Arbeit]]**  
     If you get *[[ALG I]]*, tell the *[[Agentur für Arbeit]]* your new address.
@@ -59,7 +59,7 @@ You should also tell...
         If you use your home address as your business address, tell the *[[Finanzamt]]* about your address change.[^1] Fill the *[Änderung der Adresse](https://www.elster.de/eportal/formulare-leistungen/alleformulare/aenderungadresse)* form in [ELSTER](/glossary/ELSTER), or ask your [tax advisor](/glossary/Steuerberater) to do it. If your new address is served by a different *Finanzamt*, you will get a new *[[Steuernummer]]*.[^0]
 - [ ] **The TV tax** (*[[Rundfunkbeitrag]]*)  
     The *[[ARD ZDF Deutschlandradio Beitragsservice]]* collects the [TV tax](/glossary/Rundfunkbeitrag). You can [update your address online](https://www.rundfunkbeitrag.de/buergerinnen_und_buerger/formulare/aendern/index_ger.html).
-- [ ] **The Kfz-Zulassungsstelle**  
+- [ ] **The [[Kfz-Zulassungsstelle]]**  
     If you did not bring your vehicle papers to your *Anmeldung* appointment, you must update your registration papers. You can do this [online](https://service.berlin.de/dienstleistung/120918/), or at the local *[[Kfz-Zulassungsstelle]]*. You will get a new *[Zulassungsbescheinigung Teil 1](/glossary/Zulassungsbescheinigung)*, or a sticker with your new address.[^2]
 - [ ] **The Kita-Gutscheinstelle**  
     If you send your children to a [[Kita]], [request a Kitagutschein](/guides/how-to-get-a-kitagutschein) for your new address.
