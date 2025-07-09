@@ -101,7 +101,7 @@ Insurance from these companies usually works for a [[National Visa]] application
     It's usually accepted, but it's a bad insurance.[^11]
 - **[Dr Walter Educare24](/out/dr-walter)**  
     Usually accepted for an opportunity card.
-- **[April International](https://de.april-international.com/de)**[^7]
+- **[April International](/out/april)**[^7]
 - **[Allianz Worldwide Care](https://www.allianzcare.com/en.html)**[^13]
 - **[Ottonova](/out/ottonova-expats)**  
     It works well too.[^4] They sell their own private and expat health insurance. They speak English. They are [not the best long-term option](/guides/ottonova-review).
