@@ -10,12 +10,15 @@ function getLinkEl(l) {
 	return l;
 }
 
-function getNearestHeading(el){
+function getNearestHeadingId(el){
 	const articleBody = document.querySelector('.article-body');
-	if(articleBody && articleBody.contains(el)){
-		return Array.from(articleBody.querySelectorAll(':scope > :is(h2,h3,h4)'))
+	if(articleBody && el && articleBody.contains(el)){
+		const nearestHeading = Array.from(articleBody.querySelectorAll(':scope > :is(h2,h3,h4)'))
 			.findLast(h => el.compareDocumentPosition(h) === Node.DOCUMENT_POSITION_PRECEDING);
+
+		return (nearestHeading && nearestHeading.id) ? `#${nearestHeading.id}` : null;
 	}
+	return null;
 }
 
 function openLinkAfterTracking(e, link) {
@@ -42,8 +45,7 @@ function handleLinkClick(e) {
 	if (e.type === 'auxclick' && e.button !== middleMouse) { return }
 	const link = getLinkEl(e.target);
 	if (link && shouldTrackUrl(link.href)) {
-		const nearestHeading = getNearestHeading(link);
-		return sendLinkClickEvent(e, link, 'Outbound Link: Click', { url: link.href, pageSection: nearestHeading ? `#${nearestHeading.id}` : null });
+		return sendLinkClickEvent(e, link, 'Outbound Link: Click', { url: link.href, pageSection: getNearestHeadingId(link) });
 	}
 }
 

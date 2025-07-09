@@ -41,7 +41,7 @@ Vue.component('letter-generator', {
 				printWindow.print();
 				printWindow.close();
 				if(this.trackAs){
-					plausible(this.trackAs, { props: { stage: 'print' }});
+					plausible(this.trackAs, { props: { stage: 'print', pageSection: getNearestHeadingId(this.$el) }});
 				}
 			}
 		},

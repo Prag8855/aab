@@ -44,7 +44,10 @@
 			}
 			setTooltipLinks(tooltipBody);
 
-			plausible('Glossary tooltip', { props: { url: anchor.getAttribute('href') }});
+			plausible('Glossary tooltip', { props: {
+				url: anchor.getAttribute('href'),
+				pageSection: getNearestHeadingId(anchor)
+			}});
 		});
 	}
 

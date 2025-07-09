@@ -16,7 +16,7 @@ window.addEventListener("DOMContentLoaded", function() {
 		const isOpen = document.body.classList.toggle('sidebar-open', shouldBeOpen);
 
 		if(isOpen && !toggleSidebarTracked){
-			plausible('Sidebar', { props: { action: 'Open' }});
+			plausible('Sidebar', { props: { action: 'Open', pageSection: null }});
 			toggleSidebarTracked = true;
 		}
 	}
@@ -35,7 +35,7 @@ window.addEventListener("DOMContentLoaded", function() {
 			toggleSidebar(false);
 
 			const url = new URL(link.href);
-			plausible('Sidebar', { props: { action: 'Section click', url: url.hash }});
+			plausible('Sidebar', { props: { action: 'Section click', url: url.hash, pageSection: null }});
 		});
 	});
 
@@ -43,7 +43,7 @@ window.addEventListener("DOMContentLoaded", function() {
 	sidebarCallsToAction.forEach((link, index) => {
 		link.addEventListener('click', (e) => {
 			toggleSidebar(false);
-			plausible('Sidebar', { props: { action: 'Link click', url: link.href }});
+			plausible('Sidebar', { props: { action: 'Link click', url: link.href, pageSection: null }});
 		});
 	});
 

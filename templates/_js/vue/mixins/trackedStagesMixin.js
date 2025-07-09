@@ -13,7 +13,7 @@ const trackedStagesMixin = {
 				this.$el.scrollIntoView({ block: 'start', behavior: 'auto' });
 				if(!this.trackedStages.has(newStage)) {
 					if(this.trackAs){
-						plausible(this.trackAs, { props: { stage: newStage }});
+						plausible(this.trackAs, { props: { stage: newStage, pageSection: getNearestHeadingId(this.$el) }});
 					}
 					this.trackedStages.add(newStage);
 				}

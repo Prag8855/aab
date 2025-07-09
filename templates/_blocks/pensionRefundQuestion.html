@@ -43,7 +43,10 @@
 						this.stage = response.ok ? 'thank-you' : 'error';
 						Vue.nextTick(() => {
 							this.$refs.collapsible.$el.scrollIntoView({ block: 'start', behavior: 'auto' });
-							plausible('Pension refund question', { props: { stage: this.stage }});
+							plausible('Pension refund question', { props: {
+								stage: this.stage,
+								pageSection: getNearestHeadingId(this.$el)
+							}});
 						});
 					}
 				},

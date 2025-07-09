@@ -120,7 +120,10 @@
 						);
 						this.isLoading = false;
 						if(response.ok){
-							plausible('Pension refund request', { props: { partner: this.selectedPartner.name }});
+							plausible('Pension refund request', { props: {
+								partner: this.selectedPartner.name,
+								pageSection: getNearestHeadingId(this.$el)
+							}});
 							this.stage = 'requestConfirmation';
 						}
 						else{

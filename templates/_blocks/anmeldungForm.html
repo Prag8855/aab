@@ -546,7 +546,7 @@
 						]);
 					}
 
-					await pdf.fillAndSavePDF(this.pdfUrl, textFields, checkboxFields, null, 'anmeldung-form-filled.pdf', this.trackAs);
+					await pdf.fillAndSavePDF(this.pdfUrl, textFields, checkboxFields, null, 'anmeldung-form-filled.pdf', this.trackAs, getNearestHeadingId(this.$el));
 					this.downloadInProgress = false;
 				}
 			},

@@ -2,7 +2,7 @@
 const _pdfPromises = {};
 
 const pdf = {
-	async fillAndSavePDF(pdfUrl, textFields, checkboxFields, radioFields, outputFileName, trackAs) {
+	async fillAndSavePDF(pdfUrl, textFields, checkboxFields, radioFields, outputFileName, trackAs, pageSection) {
 		await pdf.loadPDFLib();
 		const pdfDoc = await PDFLib.PDFDocument.load(await pdf.loadPDF(pdfUrl));
 		const pdfForm = pdfDoc.getForm();
@@ -44,7 +44,10 @@ const pdf = {
 		link.download = outputFileName;
 		link.click();
 
-		plausible(trackAs, { props: { stage: 'download' }});
+		plausible(trackAs, { props: {
+			stage: 'download',
+			pageSection,
+		}});
 	},
 	async loadFont() {
 		// The default font only supports ANSI characters, so we supply a unicode one.
