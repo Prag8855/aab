@@ -217,12 +217,6 @@ Your landlord can refuse to give you a *Mietschuldenfreiheitsbescheinigung*. Som
 
 **[Mietschuldenfreiheitsbescheinigung template ➞](/documents/Mietschuldenfreiheitsbescheinigung-muster.pdf)**
 
-## Deduct your moving expenses
-
-If you move for work, your relocation costs are [tax-deductible](/glossary/steuerlich%20absetzbar). Include them in your next [tax declaration](/glossary/Steuererklärung) to get some money back.
-
-**[How to deduct moving expenses ➞](/guides/moving-in#deduct-your-moving-costs)**
-
 ## Checklist
 
 - [ ] Give a [cancellation letter](/glossary/Kündigungsschreiben) to your landlord
@@ -244,13 +238,12 @@ If you move for work, your relocation costs are [tax-deductible](/glossary/steue
 
 ## What to do next
 
-**[How to find an apartment ➞](/guides/find-a-flat-in-berlin)**
-
-**[How to move into an apartment ➞](/guides/moving-in)**
-
-**If you leave Germany**, you can [get a refund for your pension payments](/guides/pension-payments-refund).[^28] You can get thousands of euros back.[^36]
-
-{% include '_blocks/pensionRefundCalculator.html' %}
+- [ ] **[Find another apartment](/guides/find-a-flat-in-berlin)**
+- [ ] **[Move into your next apartment](/guides/moving-in)**
+- [ ] **[Deduct your moving expenses](/guides/moving-in#deduct-your-moving-costs)**  
+    If you move for work, your relocation costs are [tax-deductible](/glossary/steuerlich%20absetzbar). Include them in your next [tax declaration](/glossary/Steuererklärung) to get some money back.
+- [ ] **Get your public pension payments back**  
+    If you leave Germany, you can [get a refund for your pension payments](/guides/pension-payments-refund).[^28] You can get thousands of euros back.[^36]
 
 ## Need help?
 
