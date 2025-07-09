@@ -21,7 +21,7 @@ English-speaking options:
 - [Taxfix](/out/taxfix)
 - [SteuerGo](/out/steuergo)
 
-You can also file your taxes yourself in [[ELSTER]]. It's free, but it's only in German.
+You can also file your taxes yourself in [[ELSTER]]. It's mostly in German, but many questions are now AI-translated.
 
 ## Tax software for freelancers
 

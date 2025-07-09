@@ -79,6 +79,8 @@ To add a lawyer, [fill this form](/suggest-business).
     Your [legal insurance](/guides/legal-insurance) might have a legal hotline.
 - **Business and immigration hotline**  
     Call [09008 529 366 11](tel:0900852936611) to talk to Alexander von Engelhardt, a business and immigration lawyer. It costs €3 per minute.{{ fail_on('2025-12-31') }}
+- **Your university**  
+    Universities often cheap legal advice for students.[^1]
 
 **[Where to get legal help ➞](/guides/questions-about-berlin#legal-questions)**
 
@@ -94,3 +96,4 @@ There are many ways to get free legal help for housing. You should join a *[[Mie
 - [Red Tape Translation's list](https://redtapetranslation.com/a-2019-directory-of-english-speaking-lawyers-in-berlin/) (2022){{ fail_on('2027-01-01')}}
 
 [^0]: [Finanztip](https://www.finanztip.de/anwaltskosten/)
+[^1]: [TU Berlin](https://asta.tu-berlin.de/beratung-intern-studierende/)

@@ -60,7 +60,7 @@ You get a Schufa record when you...[^2]
 - Pay for something in instalments
 - Don't pay your debts
 
-When you open a bank account, you let your bank to check your score. If you don't have a score, a new Schufa record is created.
+When you open a bank account, you let your bank to check your score. If you don't have a score, a new Schufa record is created. It takes around 7 days.[^13]
 
 Not all companies check your score. Foreign companies rarely care about Schufa. A foreign bank probably won't create a Schufa record when you open an account.
 
@@ -83,3 +83,4 @@ Get a [free report](https://www.meineschufa.de/de/datenkopie) every year, and ch
 [^10]: [Schufa](https://www.schufa.de/newsroom/schufa/bonify-app-schufa-basisscore-einsehen/#:~:text=nein%2C%20bei%20bonify%20wird%20nur%20der%20schufa-basisscore%20angezeigt%2C%20den%20man%20auch%20auf%20der%20kostenlosen%20datenkopie%20findet.%20) (January 2025)
 [^11]: [Graham Pugh](https://www.berlinrelo.de/) (February 2025)
 [^12]: [idnow.com](https://www.idnow.io/wp-content/uploads/IDCheck.io-Document-Coverage-Release-25.03.0-PUBLIC.pdf?utm_source=chatgpt.com) (March 2025), [idnow.com](https://www.idnow.io/wp-content/uploads/Allowed-Docs-AI-Signing.pdf) (May 2025)
+[^13]: [Graham Pugh](https://www.berlinrelo.de/) (February 2025)
