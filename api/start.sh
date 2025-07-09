@@ -8,6 +8,9 @@ if [ "${DEBUG:-0}" -eq 1 ]; then
 fi
 python3 manage.py migrate --noinput
 
+# Prepare static files for Django admin
+python3 manage.py collectstatic --noinput
+
 # Capture cron logs
 rm -f /tmp/stdout /tmp/stderr
 mkfifo /tmp/stdout /tmp/stderr

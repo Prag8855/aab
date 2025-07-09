@@ -3,6 +3,7 @@ services:
     build: ./api
     volumes:
       - "api_db:/var/db"
+      - "api_staticfiles:/var/www/api/staticfiles"
   proxy:
     build:
       context: ./proxy
@@ -14,7 +15,9 @@ services:
     volumes:
       - "ssl_certs:/etc/ssl-certs"
       - "acme_sh:/root/.acme.sh"
+      - "api_staticfiles:/var/www/api/staticfiles"
 volumes:
   acme_sh:
   api_db:
+  api_staticfiles:
   ssl_certs:

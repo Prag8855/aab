@@ -4,34 +4,39 @@ import os
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
-
-# Quick-start development settings - unsuitable for production
-# See https://docs.djangoproject.com/en/5.1/howto/deployment/checklist/
-
-# SECURITY WARNING: keep the secret key used in production secret!
 SECRET_KEY = 'django-insecure-rm#p9c7f!%q1&=-l+m6lx^9=cl2f301=+d3eu0n3x^yfy1yg51'
 
-# SECURITY WARNING: don't run with debug turned on in production!
 MAILGUN_API_KEY = os.environ.get('MAILGUN_API_KEY')
 DEBUG = bool(int(os.environ.get('DEBUG', '0')))
 DEBUG_EMAILS = bool(int(os.environ.get('DEBUG_EMAILS', '0')))  # Print emails instead of sending them
 
 ALLOWED_HOSTS = ['allaboutberlin.com', 'localhost']
+CSRF_TRUSTED_ORIGINS = ['https://localhost', 'https://allaboutberlin.com']
 
 INSTALLED_APPS = [
-    'django.contrib.auth',
-    'django.contrib.contenttypes',
     'django.contrib.humanize',
     'forms.apps.FormsConfig',
+
+    'django.contrib.admin',
+    'django.contrib.auth',
+    'django.contrib.contenttypes',
+    'django.contrib.messages',
+    'django.contrib.sessions',
+    'django.contrib.staticfiles',
 ]
 
 MIDDLEWARE = [
-    'django.middleware.security.SecurityMiddleware',
+    'django.contrib.sessions.middleware.SessionMiddleware',
+    'django.contrib.auth.middleware.AuthenticationMiddleware',
+    'django.contrib.messages.middleware.MessageMiddleware',
+    'django.middleware.clickjacking.XFrameOptionsMiddleware',
     'django.middleware.common.CommonMiddleware',
+    'django.middleware.csrf.CsrfViewMiddleware',
+    'django.middleware.security.SecurityMiddleware',
 ]
 
 ROOT_URLCONF = 'api.urls'
-APPEND_SLASH = False
+APPEND_SLASH = True
 
 
 WSGI_APPLICATION = 'api.wsgi.application'
@@ -47,10 +52,22 @@ DATABASES = {
 
 TEMPLATES = [
     {
-        "BACKEND": "django.template.backends.django.DjangoTemplates",
-        "APP_DIRS": True,
-    }
+        'BACKEND': 'django.template.backends.django.DjangoTemplates',
+        'DIRS': [],
+        'APP_DIRS': True,
+        'OPTIONS': {
+            'context_processors': [
+                'django.template.context_processors.debug',
+                'django.template.context_processors.request',
+                'django.contrib.auth.context_processors.auth',
+                'django.contrib.messages.context_processors.messages',
+            ],
+        },
+    },
 ]
+
+STATIC_ROOT = Path('/var/www/api/staticfiles')
+STATIC_URL = '/admin/static/'
 
 LOGGING = {
     'version': 1,
