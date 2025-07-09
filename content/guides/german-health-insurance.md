@@ -10,7 +10,7 @@ Related_reviews:
     reviews/german-health-insurance/mona-anbari.md
 ---
 
-If you live in Germany, you need health insurance. It pays for your healthcare when you are sick. You must get insured before you [start a new job](/guides/find-a-job-in-berlin#start-working), study at a German university, or [apply for a residence permit](/guides/residence-permit).
+If you live in Germany, you must have health insurance. It pays for your healthcare when you are sick. You must get insured before you [start a new job](/guides/find-a-job-in-berlin#start-working), study at a German university, or [apply for a residence permit](/guides/residence-permit).
 
 This guide explains how to choose the best health insurance for your needs.
 
@@ -139,7 +139,7 @@ A healthy 30-year-old employee pays around €250 per month.[^62] I am self-empl
 The cost depends on 4 factors:
 
 - **Your age when you join**  
-    Younger people pay less. Your insurer saves a part of your payments for old age. If you join when you are young, you pay less when you are old. If you plan to leave Germany after a few years, you can get insurance without old age provisions. It's around 50% cheaper.
+    Younger people pay less. Your insurer saves a part of your payments for old age. If you join when you are young, you pay less when you are old. If you plan to leave Germany after a few years, you can get insurance without old-age provisions. It's around 50% cheaper.
 - **Your health condition when you join**  
     If you have no health insurance history, you must get a health check at the doctor.[^44] If you have pre-existing health problems, insurers reject you or charge more.[^9] After you join, your health does not affect the price, even if you get really sick.
 - **The coverage you choose**  
@@ -331,7 +331,7 @@ Choose [private health insurance](/glossary/private%20Krankenversicherung) if...
 - **You want better treatment**  
     You can choose a specific doctor, or a specific kind of treatment. For example, you can get innovative therapy or medication that is not yet covered by public health insurance.[^73] It can cover better dental implants, a better wheelchair, or a better hospital room.
 - **You plan to leave Germany in a few years**  
-    You can get short-term private health insurance. It's up to 50% cheaper, because there is no old age provision.[^74]
+    You can get short-term private health insurance. It's up to 50% cheaper, because there is no old-age provision.[^74]
 - **You can't choose public health insurance**  
     If you are a freelancer or a student from a non-[EU](/glossary/European%20Union) country, public health insurers might reject you. Private health insurance might be your only option.
 
