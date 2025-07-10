@@ -16,7 +16,7 @@ function calculateTax(yearlyIncome, {
 	taxClass,  // Number
 	zusatzbeitrag,
 }) {
-	zusatzbeitrag = Number.isNaN(zusatzbeitrag) ? healthInsurance.averageZusatzbeitrag : zusatzbeitrag;
+	zusatzbeitrag = Number.isNaN(+zusatzbeitrag) ? healthInsurance.averageZusatzbeitrag : +zusatzbeitrag;
 
 	const monthlyIncome = yearlyIncome / 12;
 
