@@ -3,6 +3,26 @@
 const plausibleFallback = function() { (window.plausible.q = window.plausible.q || []).push(arguments) };
 window.plausible = window.plausible || plausibleFallback;
 
+// Save referals for 30 days
+const urlParams = new URLSearchParams(window.location.search);
+const ref = urlParams.get('ref') || urlParams.get('utm_source')
+if(ref){
+	try {
+		localStorage.setItem('referralSource', value);
+		localStorage.setItem('referralDate', Math.round(Date.now() / 1000));
+	} catch (e) {}
+}
+
+function getReferrer(){
+	const source = localStorage.getItem('referralSource');
+	const timeStamp = localStorage.getItem('referralDate');
+
+	if(!source || !timeStamp) return null;
+
+	const daysAgo = (Date.now() - Number(timestamp) * 1000) / (1000 * 60 * 60 * 24);
+	return daysAgo <= 30 ? referralSource : null;
+}
+
 function getLinkEl(l) {
 	while (l && (typeof l.tagName === 'undefined' || l.tagName.toLowerCase() !== 'a' || !l.href)) {
 		l = l.parentNode
@@ -10,6 +30,7 @@ function getLinkEl(l) {
 	return l;
 }
 
+// Find the nearest parent H2, H3 or H4 heading in .article-body, return its ID for tracking purposes
 function getNearestHeadingId(el){
 	const articleBody = document.querySelector('.article-body');
 	if(articleBody && el && articleBody.contains(el)){
