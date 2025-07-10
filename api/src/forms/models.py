@@ -158,7 +158,7 @@ class HealthInsuranceQuestion(NameMixin, ReplyToSenderMixin, EmailMixin, Schedul
         return f"Health insurance question from {self.name} (All About Berlin)"
 
     class Meta(ScheduledMessage.Meta):
-        pass
+        verbose_name = "Health insurance question"
 
 
 class HealthInsuranceQuestionConfirmation(NameMixin, RecipientIsSenderMixin, EmailMixin, ScheduledMessage):

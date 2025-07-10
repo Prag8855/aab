@@ -15,14 +15,14 @@ CSRF_TRUSTED_ORIGINS = ['https://localhost', 'https://allaboutberlin.com']
 
 INSTALLED_APPS = [
     'django.contrib.humanize',
-    'forms.apps.FormsConfig',
-
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
     'django.contrib.messages',
     'django.contrib.sessions',
     'django.contrib.staticfiles',
+
+    'forms.apps.FormsConfig',
 ]
 
 MIDDLEWARE = [
