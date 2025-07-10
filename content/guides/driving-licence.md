@@ -14,7 +14,7 @@ This guide shows you how to get a car or motorcycle driving licence in Berlin.
 In total, it costs **around €4,000** to get your driving licence.[^0]{{fail_on('2026-06-01')}} The costs include:
 
 - [ ] Eyesight test: [€0](https://www.fielmann.de/service/fuehrerschein-sehtest/) to €25
-- [ ] Driving licence fees: €{{DRIVING_LICENCE_FEE|cur}}
+- [ ] [[Bürgeramt]] fee: €{{DRIVING_LICENCE_FEE|cur}}
 - [ ] Theory lessons: around €150
 - [ ] Theoretical exam: €25[^1]
 - [ ] Practical lessons: around €90 for 45 minutes[^2]
@@ -22,7 +22,9 @@ In total, it costs **around €4,000** to get your driving licence.[^0]{{fail_on
     - Highway driving: minimum 4 × 45 minutes
     - Driving at night: minimum 3 × 45 minutes
     - Extra practice if you need it. Most people take more lessons.
-- [ ] Practical exam: around €150 for the driving school + €121.38 for the TÜV/Dekra
+- [ ] Practical exam: €280
+    - Around €350 for the driving school
+    - €130 for TÜV/Dekra[^20]
 
 **For motorcyclists:** You also need around €1,000 to €2,000 for your motorcycle equipment: helmet, jacket, gloves, trousers and boots. Some driving schools will give you protective gear for your classes, but it's old and it doesn't fit well.
 
@@ -190,3 +192,5 @@ You can also [rent a car when you need it](/guides/public-transit#rent-a-car). C
 [^16]: [rbb24.de](https://www.rbb24.de/panorama/beitrag/2024/01/berlin-senat-fuehrerschein-praktische-fahrpruefung.html#:~:text=etwa%20vier%20monate%20warten) (2024)
 [^17]: [§12 Abs. 7 FeV](https://www.gesetze-im-internet.de/fev_2010/__12.html), [brille24.de](https://www.brille24.de/ratgeber/augenoptik/fuehrerschein-sehtest#:~:text=Pkw%20leider%20verzichten.-,fuhrerschein%20mit%20brille%3A%20was%20musst%20du%20wissen%3F%20,-Grunds%C3%A4tzlich%20musst%20du), [Apollo.de](https://www.apollo.de/service/fuehrerschein-sehtest) (2024)
 [^18]: [§12 Abs. 2 FeV](https://www.gesetze-im-internet.de/fev_2010/__12.html)
+[^19]: [Reddit](https://old.reddit.com/r/germany/comments/1lvfean/my_noneu_to_german_driving_license_conversion/) (2025), [ersthelfer.tv](https://www.ersthelfer.tv/preise/) (2025)
+[^20]: [dekra.de](https://dekraprod-media.e-spirit.cloud/578b2cd5-7629-485e-a4b6-6c4e73f71231/media/1gebuehrenliste-alle-bl-ab-05-02-2024-extern-1.pdf) (July 2025)
