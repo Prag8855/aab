@@ -11,6 +11,12 @@ This guide shows you what you must do when you move out of your apartment in Ger
 
 ## End your lease
 
+You must end your lease in writing. Send a cancellation letter (*[[Kündigungsschreiben]]*) to your landlord. All the tenants who signed the lease must sign the cancellation letter. Send the letter by [registered mail](/glossary/Einschreibebrief). An email is not enough.[^3]
+
+**[Cancellation letter generator](https://www.immobilienscout24.de/umzugsexpose/musterbrief-kuendigung.html)** (in German) - ImmobilenScout24
+
+**[How to mail a letter](/guides/mail-a-letter)** - from your computer, without a printer
+
 ### When to end your lease
 
 You must end your lease **3 months in advance**, before the 3rd [work day](/glossary/Werktag) of the month.[^0] Some leases have a shorter [notice period](/glossary/Kündigungsfrist), but the maximum is 3 month.[^29] Fixed-term leases can't be cancelled early.[^45]
@@ -26,14 +32,6 @@ The notice period starts when your landlord receives your [cancellation letter](
 **Ask your landlord.**[^31] They can allow you to end your lease sooner. They can ask you to pay a fee. It's usually 1 month of [warm rent](/glossary/Warmmiete).
 
 If your landlord refuses to end your lease sooner, you must pay rent until the end of your [notice period](/glossary/Kündigungsfrist).[^32]
-
-### How to end your lease
-
-Send a cancellation letter (*[[Kündigungsschreiben]]*). All the tenants who signed the lease must sign the cancellation letter. Send the letter by [registered mail](/glossary/Einschreibebrief). An email is not enough.[^3]
-
-**[Cancellation letter generator](https://www.immobilienscout24.de/umzugsexpose/musterbrief-kuendigung.html)** (in German) - ImmobilenScout24
-
-**[How to mail a letter](/guides/mail-a-letter)** - from your computer, without a printer
 
 ## Let people visit your apartment
 
