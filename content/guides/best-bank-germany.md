@@ -102,10 +102,10 @@ These banks offer a **free bank account** with no monthly fees:
 - **[Wise](/out/wise)**
 - **[Revolut](/out/revolut)**
 
-These banks have no monthly fee **if you deposit at least €700 per month**:
+These banks have no monthly fee if you deposit money every month:
 
 - **[DKB](/out/dkb)**
-- **[ING](/out/ing)**[^22]
+- **[ING](/out/ing)**: Free if you deposit €1000 per month[^28]
 - **[1822direkt](/out/1822direkt)**[^18]
 - **[comdirect](/out/comdirect)**[^20]
 
@@ -119,7 +119,7 @@ These banks have no monthly fee **for students**:
 - **[Deutsche Bank](/out/deutsche-bank)** - No monthly fee for EU students.[^25]
 - **[comdirect](/out/comdirect)** - No fee for students under 28 years old.[^20]
 - **[Commerzbank](/out/commerzbank-students)** - No fee for students under 27 years old.[^21]
-- **[ING](/out/ing)** - Just €1 per month for the debit card.[^22]
+- **[ING](/out/ing)** - No fee for students under 28 years old.[^26]
 - **[Volksbank](/out/volksbank)** - No monthly fee for students.[^27]
 
 These banks might still charge for a credit card, or to withdraw money from an ATM. Choose a bank with no ATM fees.
@@ -243,11 +243,12 @@ None of these banks give you a [[Girocard]]. If you need one, [C24](/out/c24) is
 [^19]: Tobias Arnold from bunq (February 2025){{ fail_on('2025-10-01') }}
 [^20]: [comdirect.de](https://www.comdirect.de/cms/ueberuns/de/presse/neues-mobiles-girokonto-von-comdirect.html)
 [^21]: [commerzbank.de](https://www.commerzbank.de/portal/media/efw-dokumente/preis_leistungsverzeichnis.pdf)
-[^22]: [ing.de](https://www.ing.de/girokonto/konditionen/)
 [^23]: [allaboutberlin.com](/out/1822direkt), [1822direkt.de](https://www.1822direkt.de/fileadmin/Home/Dokumente/PDF/pv_aktuelle_Produkte_1822direkt.pdf)
 [^24]: [berliner-sparkasse.de](https://www.berliner-sparkasse.de/content/dam/myif/berliner-sk/work/dokumente/pdf/preise-leistungen/preisaushang.pdf?n=true)
 [^25]: [deutsche-bank.de](/out/deutsche-bank-young)
+[^26]: [ING](https://www.ing.de/girokonto/student/) (2025)
 [^27]: [berliner-volksbank.de](https://www.berliner-volksbank.de/privatkunden/junge-leute/kostenloses-girokonto.html)
+[^28]: [ING](https://www.ing.de/girokonto/konditionen/#:~:text=von%20mindestens%201.000%20%E2%82%AC%20im%20kalendermonat) (2025)
 [^33]: [bunq.com](https://www.bunq.com/documents/pricing)
 [^34]: [together.bunq.com](https://together.bunq.com/d/6635-what-are-my-daily-limits)
 [^36]: [ing.de](https://www.ing.de/girokonto/konditionen/#:~:text=bargeldauszahlung%20mit%20der%20visa%20card)

@@ -16,8 +16,8 @@ In total, it costs **around €4,000** to get your driving licence.[^0]{{fail_on
 - [ ] Eyesight test: [€0](https://www.fielmann.de/service/fuehrerschein-sehtest/) to €25
 - [ ] Driving licence fees: €{{DRIVING_LICENCE_FEE|cur}}
 - [ ] Theory lessons: around €150
-- [ ] Theoretical exam: €22.49[^1]
-- [ ] Practical lessons: around €70 for 45 minutes[^2]
+- [ ] Theoretical exam: €25[^1]
+- [ ] Practical lessons: around €90 for 45 minutes[^2]
     - Interurban driving: minimum 5 × 45 minutes
     - Highway driving: minimum 4 × 45 minutes
     - Driving at night: minimum 3 × 45 minutes
@@ -28,7 +28,7 @@ In total, it costs **around €4,000** to get your driving licence.[^0]{{fail_on
 
 ## 1. Convert your foreign driving licence
 
-If you have a driving licence from another country, you can sometimes trade it for a German one. It's faster to convert a foreign driving licence than to get a new one.
+If you have a driving licence from another country, you can sometimes trade it for a German one. It's cheaper and faster to convert a foreign driving licence than to get a new one.
 
 **[How to convert a foreign driving licence ➞](/guides/convert-to-german-driving-licence)**
 
@@ -52,7 +52,7 @@ You must take a first aid course and an eyesight test. Then you must go to the *
 
 ### First aid course
 
-[Fahrschule Oscar](https://www.fahrschule-oscar.de/) and [Ersthelfer.tv](https://www.ersthelfer.tv/standorte/berlin-erste-hilfe-kurse/) give first aid classes in English.[^3] The course takes a full day, around 8 hours.[^4] There is no exam at the end.[^5] The exam certificate is valid for 2 years.
+[Fahrschule Oscar](https://www.fahrschule-oscar.de/) and [Ersthelfer.tv](https://www.ersthelfer.tv/standorte/berlin-erste-hilfe-kurse/) give first aid classes in English.[^3] The course takes a full day (8 hours).[^4] There is no exam at the end.[^5] The exam certificate is valid for 2 years. It costs around €65.[^19]{{ fail_on('2026-01-31') }}
 
 You will get a certificate. Bring it to your *[[Bürgeramt]]* appointment.
 
@@ -171,8 +171,8 @@ Your German driving licence is valid in all [[European Union]] countries. Outsid
 
 You can also [rent a car when you need it](/guides/public-transit#rent-a-car). Car sharing services are useful if you don't drive often.
 
-[^0]: [Reddit](https://old.reddit.com/r/germany/comments/1jqaysg/driving_school_in_germany_my_running_bill_is_at/) (April 2025), [Reddit](https://old.reddit.com/r/de/comments/1bewalm/f%C3%BChrerscheinkosten_summieren_sich_oft_auf_3500/) (2024), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/8kgizw/is_anyone_into_bikes_especially_cafe_racer_type/dz8bvqd/)
-[^1]: [dekra.de](https://www.dekra.de/media/end-gebuehrenliste-alle-bl-ab-01-04-2021.pdf)
+[^0]: [Reddit](https://old.reddit.com/r/germany/comments/1jqaysg/driving_school_in_germany_my_running_bill_is_at/) (April 2025), [Reddit](https://old.reddit.com/r/de/comments/1bewalm/f%C3%BChrerscheinkosten_summieren_sich_oft_auf_3500/) (2024), [Reddit](https://old.reddit.com/r/berlin/comments/8kgizw/is_anyone_into_bikes_especially_cafe_racer_type/dz8bvqd/), [Reddit](https://old.reddit.com/r/germany/comments/1lvfean/my_noneu_to_german_driving_license_conversion/) (2025)
+[^1]: [dekra.de](https://dekraprod-media.e-spirit.cloud/578b2cd5-7629-485e-a4b6-6c4e73f71231/media/1gebuehrenliste-alle-bl-ab-05-02-2024-extern-1.pdf) (July 2025)
 [^2]: [as-fahrschule.de](https://www.as-fahrschule.de/preise/driving-lessons-in-english/)
 [^3]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/80h3vm/first_aid_course_for_german_driving_license_in/duw9u9r/), [first-aid-courses-berlin.myshopify.com](https://first-aid-courses-berlin.myshopify.com/collections/fahrschule-oscar)
 [^4]: [ersthelfer.tv](https://www.ersthelfer.tv/standorte/berlin-erste-hilfe-kurse/)
