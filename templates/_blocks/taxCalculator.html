@@ -356,6 +356,7 @@
 					<option value="unknown">I don't know</option>
 				</select>
 				<span v-if="healthInsuranceType === 'unknown'" class="input-instructions">We will use an average option.</span>
+				<a class="input-instructions internal-link" v-if="healthInsuranceType !== 'unknown'" href="/guides/german-health-insurance" target="_blank">How to choose health insurance</a>
 			</div>
 		</div>
 		<div class="form-group show-errors" v-if="healthInsuranceType === 'private'">
