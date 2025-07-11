@@ -11,10 +11,13 @@ This guide shows you how to get biometric pictures or passport photos in Berlin.
 
 ## Biometric picture requirements
 
-Since May 1 2025, the *[[Bürgeramt]]*, the *[[Ausländerbehörde]]* only accept...[^2]{{fail_on('2025-10-01')}}
+Biometric photos must meet the [official requirements](https://www.personalausweisportal.de/SharedDocs/downloads/Webs/PA/EN/informationsmaterial/flyer-broschueren/Fotomustertafel.pdf?__blob=publicationFile&v=4).{{fail_on('2026-07-01')}}
 
-- Photos from registered photographers, sent digitally
-- Photos from their own self-service photo kiosks
+Since May 1 2025, the *[[Bürgeramt]]* and the *[[Ausländerbehörde]]* only accept...[^2]{{fail_on('2025-10-01')}}
+
+- Photos from [registered photographers](#from-a-photographer), sent digitally
+- Photos from [registered photo kiosks](#at-a-dm-store), sent digitally
+- Photos from the photo kiosks at the *[[Bürgeramt]]* or *[[Ausländerbehörde]]*
 
 They do not accept...
 
@@ -37,9 +40,11 @@ You can get biometric pictures...
 
 ### At a dm store
 
-[dm](https://en.wikipedia.org/wiki/Dm-drogerie_markt) stores have self-service photo kiosks. Biometric pictures cost €6.[^7] You get a QR code. Bring it to your *[[Bürgeramt]]* or *[[Ausländerbehörde]]* appointment.
+[dm](https://en.wikipedia.org/wiki/Dm-drogerie_markt) stores have photo kiosks. Biometric pictures cost €6.[^7] You must ask an employee to help you. You get a QR code *and* printed photos.[^9] Bring them to your *[[Bürgeramt]]* or *[[Ausländerbehörde]]* appointment.
 
 This is the **best way to get biometric pictures** because you can do it in advance.[^6] If there is a problem, you have time to find another solution.
+
+Check if your photos meet the [official requirements](https://www.personalausweisportal.de/SharedDocs/downloads/Webs/PA/EN/informationsmaterial/flyer-broschueren/Fotomustertafel.pdf?__blob=publicationFile&v=4).{{fail_on('2026-07-01')}} The *[[Bürgeramt]]* and *[[Ausländerbehörde]]* sometimes rejects photos from dm because of small mistakes.[^8]
 
 **[Find a dm store ➞](https://www.google.com/maps?q=dm)**
 
@@ -49,13 +54,13 @@ In Berlin, each *[[Bürgeramt]]* has self-service photo kiosks. Photos cost €6
 
 If you need photos, arrive early to your appointment. The photo kiosks are new. They can be busy or unreliable. The photos are valid for 6 months, so you can use the kiosks a few days in advance.
 
-You can also get photos [from a photographer](#from-a-photographer), but it's more expensive.
+**You must also bring printed photos**, because the new photo kiosks are unreliable.[^5] You can get printed photos [from dm](#) or [from a photo booth](#from-a-photo-booth).
 
 ## At the Ausländerbehörde
 
-In Berlin, the *[[Ausländerbehörde]]* has the same self-service photo kiosks as the *Bürgeramt*. Photos cost €6. As of July 2025, they don't work.{{fail_on('2025-07-15')}} Bring a QR code from elsewhere instead.
+The Berlin *[[Ausländerbehörde]]* uses the same photo kiosks as the *Bürgeramt*. Photos cost €6.
 
-**You must also bring printed photos**, because the new photo kiosks might not work.[^5] You can get printed photos [from dm](#) or [from a photo booth](#from-a-photo-booth).
+**You must also bring printed photos**, because the new photo kiosks are unreliable.[^5] You can get printed photos [from dm](#) or [from a photo booth](#from-a-photo-booth).
 
 ## From a photographer
 
@@ -90,3 +95,5 @@ Photography studios can take pictures and cut them to the correct size.
 [^5]: [Berlin Ausländerbehörde](https://www.berlin.de/einwanderung/ueber-uns/aktuelles/artikel.1541531.php) (April 2025)
 [^6]: [Elliot Herman](https://www.sorted.berlin/) (April 2025)
 [^7]: [dm.de](https://newsroom.dm.de/pressreleases/ab-1-mai-bietet-dm-guenstige-digitale-passbilder-und-sicheren-transfer-fuer-buergerbueros-vorteile-595-euro-fuer-digitale-fotos-plus-papierbilder-mehrfachverwendung-ueber-6-monate-3374913) (March 2025)
+[^8]: [Elliot Herman](https://www.sorted.berlin/) (July 2025)
+[^9]: [Elliot Herman](https://www.sorted.berlin/) (July 2025)
