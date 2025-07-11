@@ -7,6 +7,8 @@ Date_created: 2024-11-27
 
 ## Residence permit wait times
 
+**Note:** The [immigration office](/glossary/Ausländerbehörde) [departments](/guides/immigration-office#departments) will change in October.{{[^1] fail_on('2025-07-30') }}
+
 {% include "_blocks/feedbackResidencePermit/summary.html"%}
 
 ## Share your experience
@@ -22,3 +24,5 @@ Date_created: 2024-11-27
 **[Where to ask immigration questions ➞](/guides/questions-about-berlin#immigration-questions)**
 
 **[If your visa or residence permit expires ➞](/guides/residence-permit#if-your-visa-or-residence-permit-expires)**
+
+[^1]: [Oliver Redsch](https://icb-relocation.de/dr-oliver-redsch) (July 2025), reader feedback (July 2025)
