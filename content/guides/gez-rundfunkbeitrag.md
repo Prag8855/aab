@@ -57,8 +57,8 @@ How to pay by bank transfer:
 2. Make a [SEPA transfer](/glossary/SEPA-%C3%9Cberweisung). Each state has different payment details,[^4] but you can use the central *Beitragsservice* bank account:
 
 > **Recipient:** Rundfunk ARD, ZD, DRadio  
-**IBAN:** DE85 3701 0050 0123 4565 03  
-**BIC:** PBNKDEFFXXX  
+**IBAN:** DE07 5005 0000 0000 3456 78  
+**BIC:** HELADEFFXXX  
 **Kunden-Referenznummer / message:** RF30X_________ (the last 9 digits are your *Beitragsnummer*)
 
 ### If you live with other people
