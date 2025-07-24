@@ -173,7 +173,7 @@ Bring these documents to your visa interview. [The official list of documents](h
             Bring contracts that prove that you will have more work in the future. Contracts are not officially required, but they might ask for them.[^10] If possible, the contracts must describe the kind of work you will do. You can also bring letters of intent (*[[Absichtserklärung]]*) from future clients.
 - [ ] **Proof of housing costs**  
     You must show how much you pay every month for your apartment or home. It must also prove that you live in Berlin.
-    - **Lease** (*Mietvertrag*), if you rent a room or an apartment. Bring the original lease, not a copy. The lease must show how much rent you pay.
+    - **Lease** (*Mietvertrag*), if you rent a room or an apartment. Bring the original, not a copy. The lease must show how much rent you pay.
     - or **a proof of ownership**, if you own a house. It must show how much you pay per month.
 - [ ] **Proof of health insurance coverage** (*[[Mitgliedsbescheinigung]]* or *Nachweis der Krankenversicherung*)
     - [ ] **Proof of health insurance coverage**  

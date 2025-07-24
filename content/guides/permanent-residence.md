@@ -336,7 +336,7 @@ These are the required documents **in Berlin**. In other cities, you need differ
 - [ ] **Proof of housing**  
     You need a [place to live](/guides/find-a-flat-in-berlin) where you can [register your address](/glossary/Anmeldung). If you apply in Berlin, your home address must be in Berlin.
     - [ ] **Lease**  
-        It must show the size of your apartment. Your apartment must be big enough (9 m^2^ per adult, 6 m^2^ per child).[^51] You must make enough money to pay your rent. It can be a temporary lease, a [[WG]], a sublet or a student residence.
+        Bring the original, not a copy. It must show the size of your apartment. Your apartment must be big enough (9 m^2^ per adult, 6 m^2^ per child).[^51] You must make enough money to pay your rent. It can be a temporary lease, a [[WG]], a sublet or a student residence.
     - [ ] and **tenancy confirmation** (*[[Wohnungsgeberbestätigung]]*)  
         Some temporary apartments and sublets don't give you this document. You might not get a [PR](/glossary/Niederlassungserlaubnis) without it. Bring it even if you registered your address.
     - [ ] and **registration certificate** (*[[Anmeldebestätigung]]*)

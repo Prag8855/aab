@@ -215,7 +215,7 @@ There are two types of self-employed people. They get a different kind of freela
 - [ ] **Proof of housing**  
     You need a [place to live](/guides/find-a-flat-in-berlin) where you can [register your address](/glossary/Anmeldung). If you apply in Berlin, your home address must be in Berlin.
     - [ ] **Lease**  
-        It must show the size of your apartment. Your apartment must be big enough (9 m^2^ per adult, 6 m^2^ per child).[^80] You must make enough money to pay your rent. It can be a temporary lease, a [[WG]], a sublet or a student residence.[^41]
+        Bring the original, not a copy. It must show the size of your apartment. Your apartment must be big enough (9 m^2^ per adult, 6 m^2^ per child).[^80] You must make enough money to pay your rent. It can be a temporary lease, a [[WG]], a sublet or a student residence.[^41]
     - [ ] and **tenancy confirmation** (*[[Wohnungsgeberbestätigung]]*)  
         Some temporary apartments and sublets don't give you this document. You might not get a freelance visa without it.[^1] Bring it even if you registered your address.[^43]
     - [ ] and **registration certificate** (*[[Anmeldebestätigung]]*)  
