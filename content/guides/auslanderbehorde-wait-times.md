@@ -7,7 +7,7 @@ Date_created: 2024-11-27
 
 ## Residence permit wait times
 
-**Note:** The [immigration office](/glossary/Ausländerbehörde) [departments](/guides/immigration-office#departments) will change in October.{{[^1] fail_on('2025-07-30') }}
+**Note:** The [immigration office](/glossary/Ausländerbehörde) [departments](/guides/immigration-office#departments) will change in October.[^1]{{ fail_on('2025-07-30') }}
 
 {% include "_blocks/feedbackResidencePermit/summary.html"%}
 
