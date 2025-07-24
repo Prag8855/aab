@@ -245,7 +245,7 @@ Tell me how long it took to get your Blue Card. Your feedback helps thousands of
 
 ### Renew your Blue Card
 
-Your Blue Card is valid for up to 4 years. In Berlin, you must renew it around 8 weeks before it expires, not sooner.[^16] To renew your Blue Card, you must use [the same form](/out/auslanderbehorde-blue-card) that you used to apply for your Blue Card, or [use the contact form](/guides/immigration-office#how-to-contact-the-auslanderbehorde).
+Your Blue Card is valid for up to 4 years. In Berlin, you must renew it around 6 weeks before it expires, not sooner.[^16] To renew your Blue Card, you must use [the same form](/out/auslanderbehorde-blue-card) that you used to apply for your Blue Card, or [use the contact form](/guides/immigration-office#how-to-contact-the-auslanderbehorde).
 
 You can also apply for [permanent residence](/glossary/Niederlassungserlaubnis) after 27 months. If you speak B1 German, you can get it after 21 months.[^10]
 

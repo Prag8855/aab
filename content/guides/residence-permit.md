@@ -178,7 +178,7 @@ There are 3 ways to apply:
 
 If are a citizen of {{AUFENTHV_41_COUNTRIES}}, you have 90 days to apply after you arrive in Germany.[^2]
 
-If you already live in Germany, apply before your current visa or residence permit expires.[^44] Apply 8 weeks before it expires, not sooner.[^26]
+If you already live in Germany, apply before your current visa or residence permit expires.[^44] Apply 6 weeks before it expires, not sooner.[^26]
 
 ### 3. Wait
 
@@ -399,7 +399,7 @@ Your immigration expenses are [tax-deductible](/glossary/steuerlich%20absetzbar)
 
 Your residence permit is valid for 6 months to 4 years. The expiration date is written on the card.
 
-When it's about to expire, you must renew it at the *[[Ausländerbehörde]]*. In Berlin, you must renew your residence permit 8 weeks before it expires, not sooner.[^11] It takes [a few months](/guides/auslanderbehorde-wait-times) to renew a residence permit.{{ fail_on('2025-12-01') }}
+When it's about to expire, you must renew it at the *[[Ausländerbehörde]]*. In Berlin, you must renew your residence permit 6 weeks before it expires, not sooner.[^11] It takes [a few months](/guides/auslanderbehorde-wait-times) to renew a residence permit.{{ fail_on('2025-12-01') }}
 
 The *[[Ausländerbehörde]]* will check if you still meet all the requirements of your residence permit. You need a few documents to prove this. Start preparing them in advance.
 

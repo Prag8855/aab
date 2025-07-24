@@ -324,7 +324,7 @@ Your freelance visa lets you live anywhere in Germany, not just in the city wher
 
 ### Renew your freelance visa
 
-Your freelance visa is valid for up to 3 years.[^16] In Berlin, you must renew it around 8 weeks before it expires, not sooner.
+Your freelance visa is valid for up to 3 years.[^16] In Berlin, you must renew it around 6 weeks before it expires, not sooner.
 
 **[How to renew a freelance visa ➞](/guides/renew-german-freelance-visa)**
 
