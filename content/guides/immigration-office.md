@@ -22,6 +22,7 @@ Some [residence permits](/glossary/Aufenthaltstitel) have their own online appli
 - [Work visa for people with professional training](https://service.berlin.de/dienstleistung/305304/en/)
 - [Citizenship](https://service.berlin.de/dienstleistung/318998/)
 - [Student visa](https://service.berlin.de/dienstleistung/305244/en/)
+- [Opportunity card](https://service.berlin.de/dienstleistung/354301/en/)
 - [Permanent residence](https://service.berlin.de/dienstleistung/121864/en/)
     - [For Blue Card holders](https://service.berlin.de/dienstleistung/326556/en/)
     - [For the family of German citizens](https://service.berlin.de/dienstleistung/327012/en/)
