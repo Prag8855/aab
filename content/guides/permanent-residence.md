@@ -238,7 +238,7 @@ The requirements and the application process are the same. If you qualify for th
 
 ## How to apply in Berlin
 
-In Berlin, you must apply online. **It takes [2 to 9 months](/guides/auslanderbehorde-wait-times)** to get permanent residence.[^5]{{ fail_on('2025-07-15') }}.
+In Berlin, you must apply online. **It takes [4 to 9 months](/guides/auslanderbehorde-wait-times)** to get permanent residence.[^5]{{ fail_on('2026-01-01') }}.
 
 If you don't live in Berlin, you must [find your local *Ausländerbehörde*](https://bamf-navi.bamf.de/de/Themen/Behoerden/) and apply there. The application process can be different.
 
