@@ -37,6 +37,8 @@ Before you [look for apartments](#look-for-apartments), you must...
 
 ## 1. Look for apartments
 
+Start looking 3 to 5 months before your move. If you start too early or too late, you will not find anything.
+
 ### Apartment search websites
 
 - **[ImmoScout24](https://www.immobilienscout24.de/)**{{ RECOMMENDED }}  
