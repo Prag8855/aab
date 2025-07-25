@@ -8,4 +8,5 @@ Address: Mindener Str. 21
 Latitude: 52.524771
 Longitude: 13.300558
 Google_Place_ID: ChIJJ5UgV5BRqEcRwnGl5Fwhhe0
+Accepts_public_insurance: No
 ---

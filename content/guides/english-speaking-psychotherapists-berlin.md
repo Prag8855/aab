@@ -73,6 +73,18 @@ Related_places:
     places/privatpraxis-fur-psychotherapie-coaching-dr-viola-kappel-kollegen.md
     places/bertine-de-jongh.md
     places/psychotherapie-vivian-birchall.md
+    places/mathias-funke.md
+    places/kaleidoscope-coaching-counseling.md
+    places/international-psychotherapy-berlin.md
+    places/angel-candeaux.md
+    places/vibes-praxis.md
+    places/boje-beratung-ole-jaeckel-engler.md
+    places/m-sc-antonia-windsheimer.md
+    places/ovid-clinic-berlin.md
+    places/the-primrose-practice.md
+    places/dr-dafni-milioni.md
+    places/ifs-therapie.md
+    places/dipl-psych-dr-katharina-will.md
 Related_reviews:
     reviews/english-speaking-psychotherapists-berlin/agata-slezak.md
 ---
