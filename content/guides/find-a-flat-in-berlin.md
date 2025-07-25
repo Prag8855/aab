@@ -146,7 +146,7 @@ An agent (*[[Makler]]*) can help you find an apartment. Some are really good, an
 To get an apartment, you must be fast. Use tools to find apartments and message landlords first.
 
 - **Apartment bots**  
-    Use [@berlinflatsbot](https://t.me/berlinflatsbot), [Flathunters](https://flathunter.codders.de), [immonotify](https://immonotify.com/), [Homeboy](https://www.homeboy.immo/en) or [wohnungsbot](https://wohnungsbot.de/en/). You get a notification when there are new apartments.
+    Use [@berlinflatsbot](https://t.me/berlinflatsbot), [Flathunters](https://flathunter.codders.de), [immonotify](https://immonotify.com/), [Homeboy](https://www.homeboy.immo/en), [wohnungsbot](https://wohnungsbot.de/en/) or [Stekkies](https://www.stekkies.com/en-de/). You get a notification when there are new apartments.
 - **Alerts and push notifications**  
     Install the [Kleinanzeigen](https://themen.ebay-kleinanzeigen.de/mobile-apps/) and [ImmoScout24](https://www.immobilienscout24.de/mobile-services/) apps, and create alerts for new apartment listings.[^44] Turn on push notifications for the [Facebook groups](#facebook-groups) that you follow.
 
