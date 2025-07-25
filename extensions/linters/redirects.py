@@ -32,9 +32,9 @@ class RedirectsLinter(LineLinter):
                 yield position, f"URL {type(exc).__name__}: {dest}", logging.ERROR
             else:
                 if status_code in (404, 410):
-                    yield position, f"URL returns HTTP {status_code}", logging.ERROR
+                    yield position, f"URL returns HTTP {status_code}: {dest}", logging.ERROR
                 elif status_code >= 400:
                     level = logging.WARNING if status_code in (403, 503) else logging.ERROR
-                    yield position, f"URL returns HTTP {status_code}", level
+                    yield position, f"URL returns HTTP {status_code}: {dest}", level
                 elif response.history and response.history[-1].status_code == 301:
-                    yield position, f"URL redirects to {response.url}", logging.INFO
+                    yield position, f"URL redirects to {response.url}: {dest}", logging.INFO
