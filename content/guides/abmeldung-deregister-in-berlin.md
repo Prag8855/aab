@@ -145,7 +145,20 @@ It's expensive, but it lets you focus on other problems.
 
 ## What happens when you deregister
 
-When you deregister, you don't live in Germany anymore. This has consequences.
+When you deregister, you lose your official address in Germany. This has consequences.
+
+### Residence permit
+
+You do not lose your [residence permit](/glossary/Aufenthaltstitel) when you deregister.
+
+Your residence permit can expire if...
+
+- **You leave Germany for "non-temporary reasons"**[^28]  
+    For example, you deregister and move back to your home country.
+- or **you leave Germany for more than 6 months**[^19]  
+    For example, you travel for more than 6 months. [Some residence permits](https://www.berlin.de/einwanderung/en/residence/expiry/) let you leave Germany for 12 or 24 months. You can [get permission from the *Ausländerbehörde*](https://www.berlin.de/einwanderung/aufenthalt/erloeschen-von-aufenthaltstiteln/) to leave longer.[^26]
+
+You still need a registered address to [renew your residence permit](/guides/residence-permit#how-to-renew-a-residence-permit).
 
 ### Health insurance
 
@@ -160,20 +173,6 @@ When you deregister, you could lose access to [[ALG I]], [[Bürgergeld]], [[Kind
 ### Bank account
 
 You can keep your German bank account. If the bank sends you a letter, and it can't be delivered, they might freeze your bank account.[^17] If they freeze your bank account, you can't withdraw money, use your credit card, or make [bank transfers](/glossary/SEPA-%C3%9Cberweisung).
-
-### Residence permit
-
-There is no simple answer.[^18]
-
-You do not automatically lose your residence permit when you deregister your address.[^25] You only lose your residence permit if you leave Germany "not temporarily". This is decided case by case.
-
-Your residence permit can also expire. If you leave Germany for more than 6 months (12 months [in some cases](https://www.berlin.de/einwanderung/aufenthalt/erloeschen-von-aufenthaltstiteln/)), your residence permit expires.[^19] You can ask the *[[Ausländerbehörde]]* to leave for a longer period.[^26]
-
-Without an address in Germany, you can't renew your residence permit.[^20] You must have a lease and a *[[Wohnungsgeberbestätigung]]* to renew your German residence permit. If you lose your health insurance, it can also be a problem.[^21] You need valid health insurance to renew a residence permit.
-
-**Useful links:**
-
-- [Expiration of a residence permit during a stay abroad](https://www.berlin.de/einwanderung/aufenthalt/erloeschen-von-aufenthaltstiteln/) (in German) - Berlin.de
 
 ### Vehicles
 
@@ -216,18 +215,15 @@ If you already left Germany, you can do your *Abmeldung* by email or by post.[^2
 [^12]: [Screenshot](/images/Screenshot-2022-01-17-at-09.08.56.png)
 [^13]: [Screenshot](/images/ba-steglitz-abmeldung-email-requirements.png)
 [^14]: [wirelesslife.de](https://icwb.com/de/wohnsitz-abmelden-umzug-ins-ausland#umzug5)
-[^15]: [Finanztip](https://www.finanztip.de/pkv/pkv-anwartschaftsversicherung/)
+[^15]: [Finanztip](https://www.finanztip.de/pkv/pkv-anwartschaftsversicherung/), [Seamus Wolf](/guides/german-health-insurance#insurance-brokers) (2025)
 [^16]: [wirelesslife.de](https://icwb.com/de/wohnsitz-aus-deutschland-abmelden-pros-und-cons/)
 [^17]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/m14kvt/what_happens_after_the_abmeldung/gqboqey/?context=3)
-[^18]: [Facebook](https://www.facebook.com/groups/226825394858771/permalink/825051525036152)
 [^19]: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p1050), [berlin.de](https://www.berlin.de/einwanderung/aufenthalt/erloeschen-von-aufenthaltstiteln/)
-[^20]: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0120)
-[^21]: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0120), [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p0029)
 [^22]: Oliver at [SympatMe](https://sympat.me) (April 2023)
 [^23]: [Reddit](https://old.reddit.com/r/berlin/comments/14xi6r4/ambeldung_after_moving_to_another_eu_country/)
 [^24]: Multiple complaints (September 2023)
-[^25]: [frag-einen-anwalt.de](https://www.frag-einen-anwalt.de/Aufenthaltstitel-nach-Abmeldung--f336776.html), [Bundesministerium des Innern, section 51.1.6.6](http://www.verwaltungsvorschriften-im-internet.de/pdf/BMI-MI3-20091026-SF-A001.pdf)
-[^26]: [vulkaneifel.de](https://www.vulkaneifel.de/integration/erloeschen-des-aufenthaltstitels-51-aufenthg.html), [Bundesministerium des Innern, section 51.1.5](http://www.verwaltungsvorschriften-im-internet.de/pdf/BMI-MI3-20091026-SF-A001.pdf)
+[^26]: [Berlin.de](https://www.berlin.de/einwanderung/en/residence/expiry/) (July 2025)
 [^27]: [Twitter](https://x.com/DinamoBabel/status/1828852594141474829) (August 2024)
+[^28]: [§51 Abs. 1 S. 6 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__51.html), [frag-einen-anwalt.de](https://www.frag-einen-anwalt.de/Aufenthaltstitel-nach-Abmeldung--f336776.html) (January 2020), [Fiona Macdonald](https://www.fmr-legal.de/) (October 2024), [VAB A.51.1.6](/out/vab) (July 2025)
 [^29]: [berlin.de](https://service.berlin.de/dienstleistung/120335/#:~:text=eine%20kopie%20von%20ihrem%20personalausweis%20oder%20reisepass) (September 2024)
 [^30]: [Twitter](https://x.com/DinamoBabel/status/1828852594141474829) (August 2024)
