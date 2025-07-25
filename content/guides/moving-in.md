@@ -137,7 +137,9 @@ To move heavy furniture, use a [Möbel Taxi](https://www.moebel-taxi.de/english/
 
 ### Install light fixtures
 
-Most apartments come without light fixtures. You must buy your own and install them. A *Handwerker* can install them for you for €40 to €120.[^14] You can find cheaper ones on [Kleinanzeigen](https://www.kleinanzeigen.de/s-berlin/handwerker/k0l3331), [TaskRabbit](https://www.taskrabbit.com/) or [Driller Queens](https://www.drillerqueens.com/).
+Most apartments come without light fixtures. You must buy your own lights and install them.
+
+A handyman (*Handwerker*) can install your lights. It costs €50 to €150.[^14] Find a *Handwerker* on [Kleinanzeigen](https://www.kleinanzeigen.de/s-berlin/handwerker/k0l3331) or [TaskRabbit](https://www.taskrabbit.com/). [Little Big Project](https://littlebigproject.de/) and [Driller Queens](https://www.drillerqueens.com/) are English-speaking options.
 
 ### Change your address
 
@@ -287,4 +289,4 @@ Sometimes, your landlord will remove air in your radiators with an *[Entlüftung
 [^11]: [Senate Department for the Interior, Digitalization and Sport](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12858.pdf) (August 2022)
 [^12]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/h0dlrk/lowering_rent_with_mietervereinwenigermiete/)
 [^13]: [Finanztip](https://www.finanztip.de/umzugskosten/), [smartsteuer.de](https://www.smartsteuer.de/online/lexikon/u/umzugskosten/), [Smoover moving company](https://smoover-moving.de/tax-rebate-moving-germany/)
-[^14]: [Twitter](https://x.com/aboutberlin/status/1795019070380585176) (May 2024)
+[^14]: [Twitter](https://x.com/aboutberlin/status/1795019070380585176) (May 2024), [Little Big Project](https://littlebigproject.de/pricing/) (July 2025)

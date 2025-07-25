@@ -109,7 +109,7 @@ Your can't be forced to make unnecessary repairs.[^21] You can't be forced to "r
 
 Your lease can ask you to paint the walls in light or neutral colours. It can't force you to use a specific colour (white) or paint type.[^23] For example, you don't need to repaint your apartment from light grey to pure white.
 
-You can do the repairs yourself. You can't be forced to use a contractor.[^33]
+You can do the repairs yourself. You can't be forced to use a contractor.[^33] If you need help, find a *Handwerker* on [Kleinanzeigen](https://www.kleinanzeigen.de/s-berlin/handwerker/k0l3331) or [TaskRabbit](https://www.taskrabbit.com/). [Little Big Project](https://littlebigproject.de/) and [Driller Queens](https://www.drillerqueens.com/) are English-speaking options.
 
 Renovation expenses are [tax-deductible](/glossary/steuerlich%20absetzbar).
 
