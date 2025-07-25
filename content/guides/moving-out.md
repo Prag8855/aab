@@ -163,13 +163,13 @@ You can find cardboard boxes...
 
 ### Hire a moving company
 
-A moving company helps you pack boxes, disassemble furniture, save a parking space (*Halteverbot*), hire movers, and [change your address](/guides/address-change). It costs €600 to €1,200, but it's worth it.[^24] The price depend on how much furniture you have, and how hard it is to move the furniture.[^40]
+A moving company helps you pack boxes, disassemble furniture, save a parking space (*Halteverbot*), hire movers, and [change your address](/guides/address-change). It costs €600 to €2,000, but it's worth it.[^24] The price depend on how much furniture you have, and how hard it is to move the furniture.[^40]
 
 If you don't have many things to move, hire a "man with a van". They are usually cheaper than a moving company. You can find them on [Kleinanzeigen](https://www.kleinanzeigen.de/s-mitte/umzug/k0l3518). [Möbel Taxi](https://www.moebel-taxi.de/english/) is a popular option.
 
 International moves are more expensive. Shipping and customs can be complicated. If you move to America or Asia, it's often cheaper to sell everything and buy it again.
 
-[Zapf](https://www.zapf.de/) is often recommended.[^25] [Smoovers](https://smoover-moving.de/) can also book movers for you and they speak English.
+[Zapf](https://www.zapf.de/) is often recommended.[^25] [Smoovers](https://smoover-moving.de/) can also book movers for you and they speak English. [Check24](https://umzug.check24.de/umzug/umzugsunternehmen) helps you find a mover.
 
 Your contract should say who pays for the damages the movers cause.[^39] For example, what happens if they scratch the walls while they move your couch? Most moving companies have insurance for this. The movers on [Kleinanzeigen](https://www.kleinanzeigen.de/s-mitte/umzug/k0l3518) are might not have insurance.
 
@@ -271,7 +271,7 @@ Your landlord can refuse to give you a *Mietschuldenfreiheitsbescheinigung*. Som
 [^21]: [berliner-mieterverein.de](https://www.berliner-mieterverein.de/recht/infoblaetter/info-180-probleme-beim-auszug-aus-der-mietwohnung-kuendigung-rueckgabe-schoenheitsreparaturen-kaution-mieterinvestitionen.htm#5-Schoenheitsreparaturen), [mieterschutzbund-berlin.de](https://www.mieterschutzbund-berlin.de/Sch%C3%B6nheitsreparaturen.html), [mieterschutzbund-berlin.de](https://www.mieterschutzbund-berlin.de/Fristenplan.html)
 [^22]: [mieterschutzbund-berlin.de](https://www.mieterschutzbund-berlin.de/Sch%C3%B6nheitsreparaturen.html#:~:text=so%20sind%20zum%20beispiel%20klauseln%20mit%20einem%20starren%20fristenplan)
 [^23]: [mieterschutzbund-berlin.de](https://www.mieterschutzbund-berlin.de/Sch%C3%B6nheitsreparaturen.html#:~:text=die%20sog.%20Tapetenklausel.-,farbdiktat,-Im%20Rahmen%20der)
-[^24]: Jonathan Wooddin from [Smoovers](https://smoover-moving.de/) (January 2023)
+[^24]: Jonathan Wooddin from [Smoovers](https://smoover-moving.de/) (January 2023), [Twitter](https://x.com/marionette_maia/status/1948683053578047529) (July 2025)
 [^25]: [zapf.de](https://www.zapf.de/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/8jc3ps/moving_companies_umzugsunternehmen_in_berlin/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/71i6sl/moving_company/)
 [^26]: [berliner-woche.de](https://www.berliner-woche.de/neukoelln/c-verkehr/parkverbot-berlin-einrichten_a187219), [bussgeldkatalog.org](https://www.bussgeldkatalog.org/halteverbot-umzug/#nicht_nur_fuer_einen_umzug_nuetzlich_das_halteverbot)
 [^27]: [berlin.de](https://service.berlin.de/dienstleistung/325649/), [berlin.de](https://www.berlin.de/special/neu-in-berlin/745345-744080-halteverbote-fuer-umzug-beantragen.html), [halteverbot-berlin24.de](https://www.halteverbot-berlin24.de/)
