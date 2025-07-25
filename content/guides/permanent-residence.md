@@ -311,7 +311,7 @@ These are the required documents **in Berlin**. In other cities, you need differ
 
 **[When you apply online](#apply-for-permanent-residence-online)**, use PDF files or photos. Don't use word documents or other formats. If you have too many documents, [merge them](https://www.adobe.com/acrobat/online/merge-pdf.html) or [make them smaller](https://www.adobe.com/acrobat/online/compress-pdf.html). You can also [mail your documents](/guides/mail-a-letter), but it's not better or faster.
 
-**[When you go to your appointment](#go-to-your-appointment)**, bring the documents that they ask for in your appointment confirmation.[^24] Print everything on A4 paper. Do not staple the pages together. Some case workers also ask for documents that you already sent. It's safer if you bring everything you have, including documents that you already sent.[^53]
+**[When you go to your appointment](#go-to-your-appointment)**, bring the documents that they ask for in your appointment confirmation.[^24] Put dates on all your documents. Print everything on A4 paper. Do not staple the pages together. Some case workers also ask for documents that you already sent. It's safer if you bring everything you have, including documents that you already sent.[^53]
 
 ### Required documents for everyone
 

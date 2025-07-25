@@ -121,7 +121,7 @@ Many *Ausländerbehörde* employees only speak German.[^4] They will ask you man
 
 ### 4. Go to your Ausländerbehörde appointment
 
-The *Ausländerbehörde* might ask you to bring new or updated documents to your appointment. Bring all the documents that you did not already send. Print them on A4 paper. Do not staple the pages together.
+The *Ausländerbehörde* might ask you to bring new or updated documents to your appointment. Bring all the documents that you did not already send. Put dates on all your documents. Print them on A4 paper. Do not staple the pages together.
 
 **If you have all the [required documents](#required-documents)**, you will get a new freelance visa. It will be valid for 1 to 3 years.[^15]
 
@@ -139,7 +139,9 @@ The *Ausländerbehörde* might ask you to bring new or updated documents to your
 
 ## Required documents
 
-Bring these documents to your visa interview. [The official list of documents](https://service.berlin.de/dienstleistung/324288/en/) is not complete. *Ausländerbehörde* employees often ask for things that are not in this list.
+Include these documents in your application. [The official list of documents](https://service.berlin.de/dienstleistung/324288/en/) is not complete. *Ausländerbehörde* employees often ask for things that are not in this list.
+
+Use PDF files or photos. Don't use Word documents or other file formats. Put dates on all your documents. Print everything on A4 paper. Do not staple the pages together.
 
 - [ ] **Appointment confirmation**  
     This document shows you where to go for your appointment. It also shows your waiting number (*Vorgangsnummer*). You must have this document to enter the *Ausländerbehörde*.

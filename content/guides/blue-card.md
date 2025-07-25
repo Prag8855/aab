@@ -229,7 +229,7 @@ These are the required documents **in Berlin**.[^2] If you apply elsewhere, they
 - [ ] **Translations**  
     If your documents are not in German, bring translations. For certificates and official documents, bring [certified translations](/glossary/beglaubigte%20Übersetzung). They *sometimes* accept untranslated documents, but don't take the risk. Get translations from [Red Tape Translation](/out/red-tape-translation-certified) or [Lingoking](/out/lingoking).
 
-**Use PDF files or photos.** Don't use word documents or other file formats.[^37]
+**Use PDF files or photos.** Don't use Word documents or other file formats.[^37] Put dates on all your documents.
 
 ## After you get your Blue Card
 

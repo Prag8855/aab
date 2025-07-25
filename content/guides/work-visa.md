@@ -237,7 +237,7 @@ If you are **not** a citizen of {{ BESCHV_26_COUNTRIES }}, you also need...
 - [ ] **Certificate of equivalence**  
     Proof that your professional training is recognised in Germany. If you got professional training in Germany, you don't need this.[^50]
 
-When you [send your application](#apply-for-the-work-visa-online), **use PDF files or photos.** Don't use word documents or other file formats.[^37] If you have too many documents, [merge them](https://www.adobe.com/acrobat/online/merge-pdf.html) or [make them smaller](https://www.adobe.com/acrobat/online/compress-pdf.html). You can also [mail your documents](/guides/mail-a-letter), but it's not better or faster.
+When you [send your application](#apply-for-the-work-visa-online), **use PDF files or photos.** Don't use word documents or other file formats.[^37] Put dates on all your documents. If you have too many documents, [merge them](https://www.adobe.com/acrobat/online/merge-pdf.html) or [make them smaller](https://www.adobe.com/acrobat/online/compress-pdf.html). You can also [mail your documents](/guides/mail-a-letter), but it's not better or faster.
 
 When you [go to to your appointment](#go-to-your-appointment), print everything. Use A4 paper. Do not staple the pages together. Some case workers also ask for documents that you already sent. It's safer if you bring everything you have, including documents that you already sent.
 
