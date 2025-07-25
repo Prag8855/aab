@@ -287,16 +287,16 @@ If you can, you should also bring...
 
 These documents are not required, but some *Ausländerbehörde* employees ask for them. They make your application more convincing.
 
+- [ ] **Letters of recommendation**{{ RECOMMENDED }}  
+    These are letters from your previous employers, clients or professors that recommend you for your work. If you are a scientist or researcher, this is very important.[^46] The letters must be related to the work you do. Get 3 or 4 letters if you can.[^30]
+- [ ] **Contracts**{{ RECOMMENDED }}  
+    It proves that you have guaranteed work. Contracts are even better than [letters of intent](/glossary/Absichtserklärung). The contract should explain what you will do, how long you will work and how much you will get paid.
 - [ ] **Resume** or **CV**  
     Work experience is not required, but it helps.[^49] Your resume should prove that you have experience in your field. Don't include irrelevant experience.
 - [ ] **[Cover letter](/docs/freelance-visa-cover-letter)**  
     It explains what you do, and how your business works. It helps the *Ausländerbehörde* understand what you do. It helps you during your appointment, especially if you don't speak German.
 - [ ] **Portfolio** or **examples of your work**  
     It explains what you do, and that you will find clients. If you are an artist, this is very important.[^65] For example, you can bring photos of your work, posters of your events, screenshots of your website or apps or newspaper articles about you. You need printed examples; a website address does not work.[^50]
-- [ ] **Contracts**  
-    It proves that you have guaranteed work. Contracts are even better than [letters of intent](/glossary/Absichtserklärung). The contract should explain what you will do, how long you will work and how much you will get paid.
-- [ ] **Letters of recommendation**  
-    These are letters from your previous employers, clients or professors that recommend you for your work. If you are a scientist or researcher, this is very important.[^46] The letters must be related to the work you do.
 - [ ] **Proof or education**  
     If your education is relevant to your business, prove it. Bring the original diplomas if you can. Copies also work.[^38] If you have no relevant education, it's not a problem.[^78]
 
@@ -377,6 +377,7 @@ An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocatio
 [^27]: [make-it-in-germany.com](https://www.make-it-in-germany.com/fileadmin/1_Rebrush_2022/a_Fachkraefte/PDF-Dateien/3_Visum_u_Aufenthalt/Visagrafik_EN/2023_Jan_Erforderliche_Deutschkenntnisse_EN.pdf)
 [^28]: [Facebook](https://www.facebook.com/groups/germanfreelancevisa/posts/1442308979571134/) (2022)
 [^29]: [Graham Pugh](https://www.berlinrelo.de/) (January 2025)
+[^30]: [Oliver Redsch](https://icb-relocation.de/dr-oliver-redsch) (July 2025)
 [^31]: [§21 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html), [§18 EStG](https://www.gesetze-im-internet.de/estg/__18.html), [2 K 7356/18](https://www.landesrecht-bw.de/jportal/?quelle=jlink&docid=MWRE190002951&psml=bsbawueprod.psml&max=true&doc.part=L&doc.norm=all#:~:text=der%20begriff%20%E2%80%9Efreiberufliche%20tatigkeit%E2%80%9C%20bestimmt%20sich%20nach%20den%20katalogberufen%20des)
 [^32]: [Red Tape Translation](/out/red-tape-translation) (May 2023), [Touring Artists](https://www.touring-artists.info/en/visa-residence/to-germany-as-non-eu-citizen/appointment-at-the-immigration-office#:~:text=present%20your%20documents%20in%20german)
 [^34]: [Berlin.de](https://www.berlin.de/einwanderung/service/faq/artikel.1021739.php#:~:text=wenn%20sie%20mit%20einem%20visum%20zu%20diesem%20aufenthaltszweck%20eingereist%20sind), Multiple relocation consultants (October 2023)

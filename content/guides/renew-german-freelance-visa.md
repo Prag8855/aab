@@ -22,7 +22,7 @@ To renew a German freelance visa, you must...
 5. Wait for your new residence permit
 6. Pick up your new residence permit
 
-**Start to prepare 3 to 6 months before your [residence permit](/glossary/Aufenthaltstitel) expires**. You need time to prepare the [required documents](#required-documents). Some documents must be verified by a [tax advisor](/glossary/Steuerberater). If you don't have a tax advisor, or if your finances are not organised, you need more time.
+**Start preparing 3 to 6 months before your [residence permit](/glossary/Aufenthaltstitel) expires**. You need time to prepare the [required documents](#required-documents). Some documents must be verified by a [tax advisor](/glossary/Steuerberater). If you don't have a tax advisor, or if your finances are not organised, you need more time.
 
 A [relocation consultant](/guides/relocation-agency-in-berlin) can help you renew your freelance visa. They can help you prepare your documents, find an *[[Ausländerbehörde]]* appointment, and go to the appointment with you.
 
@@ -64,7 +64,7 @@ Note: Immigration law uses the term "*Selbständiger*" and business law uses "*G
 
 ### 3. Get valid health insurance
 
-When you renew a [residence permit](/glossary/Aufenthaltstitel), [expat health insurance](/glossary/Expat%20health%20insurance) like Mawista or Care Concept is rarely accepted.[^2] You need a real [public](/glossary/gesetzliche%20Krankenversicherung) or [private health insurance](/glossary/private%20Krankenversicherung).
+When you renew a [residence permit](/glossary/Aufenthaltstitel), [expat health insurance](/glossary/Expat%20health%20insurance) like HanseMerkur, Mawista or Care Concept is rarely accepted.[^2] You need a real [public](/glossary/gesetzliche%20Krankenversicherung) or [private health insurance](/glossary/private%20Krankenversicherung).
 
 **[Health insurance for a freelance visa ➞](/guides/german-health-insurance/for-freelancers#insurance-for-a-freelance-visa)**
 
@@ -190,6 +190,8 @@ Bring these documents to your visa interview. [The official list of documents](h
         This is the document you receive when you do you register your address (*[[Anmeldung]]*).
     - **or a lease + a landlord confirmation letter** (*Mietvertrag* + *[[Wohnungsgeberbestätigung]]*)  
         If you don't have a registration certificate, bring your original lease - not a copy - and the landlord confirmation letter instead.
+- [ ] **Letters of recommendation**  
+    Get these letters from your previous employers, clients or professors that worked with you. The *Ausländerbehörde* sometimes requires them. Get 3 or 4 letters if you can.[^6]
 - [ ] **Short description of your business** (optional)  
     Prepare a short document that describes your business, and how you make money. You can use this to explain other documents. [For example](/images/auslaenderbehoerde-explanation.pdf), I described my website and its business model. I included screenshots of the website and graphs of the monthly traffic. I used it to show that my business is growing, and to explain why I do not need contracts for a stable income.
 
@@ -240,6 +242,7 @@ If you plan to become a permanent resident, you should make voluntary [public pe
 [^3]: [accountable.de](https://www.accountable.de/en/blog/gewinnermittlung-or-net-determination-letter-for-freelance-visa-renewals-in-germany/), [Facebook](https://www.facebook.com/groups/germanfreelancevisa/posts/1095767750891927/) (2021, 2023)
 [^4]: [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/989234614878575/)
 [^5]: Kathleen Parker at [Red Tape Translation](/out/red-tape-translation) (2024)
+[^6]: [Reddit](https://old.reddit.com/r/askberliners/comments/1lmt2vw/letter_of_recommendation_empfehlungsschreiben/) (June 2025), [Oliver Redsch](https://icb-relocation.de/dr-oliver-redsch) (July 2025)
 [^7]: [berlin.de](https://service.berlin.de/dienstleistung/327144/standort/326311/)
 [^8]: [berlin.de](https://service.berlin.de/dienstleistung/324713/)
 [^9]: [berlin.de](https://service.berlin.de/dienstleistung/324288/), [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/952250981910272/), [VAB 21.5](/out/vab) (July 2024)
