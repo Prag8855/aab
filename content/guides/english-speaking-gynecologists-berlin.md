@@ -19,13 +19,14 @@ Related_places:
     places/frauenarzt-zentrum-neukolln.md
     places/frauenarztinnen-am-schulenburgpark.md
     places/gynecologist-dr-caroline-labin.md
+    places/matthies.md
 ---
 
 This is a list of gynaecologists and obstetricians who speak English. They were recommended by other immigrants.
 
 ## Gynaecologists are hard to find
 
-In Berlin, most gynaecologists are booked for months. Male gynaecologists are sometimes easier to find.[^0]
+In Berlin, most gynaecologists are booked for months. Male gynaecologists are sometimes easier to find.[^0] If you have [private health insurance](/glossary/private%20Krankenversicherung), it's easier to get an appointment.
 
 ## List of gynaecologists and obstetricians
 
