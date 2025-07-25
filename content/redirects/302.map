@@ -105,7 +105,6 @@
 /out/hope-apartments                          "https://www.hope-apartments.de/en/rent-your-home/?mtm_campaign=allaboutberlin&mtm_kwd=ref";
 /out/horizon65                                "https://vergleich.horizon65.com/altersvorsorge-2022-en?utm_source=allaboutberlin&utm_medium=blog&utm_campaign=partnership";
 /out/holvi                                    "https://www.htrnb8trk.com/8LJN3/2CTPL/?uid=7";
-/out/homelike                                 "https://www.thehomelike.com/search/DE/Berlin?country=DE?utm_source=allaboutberlin&utm_medium=guides&utm_campaign=berlin&om_src=allaboutberlin&om_cmpgn=berlin";
 /out/housinganywhere                          "https://housinganywhere.com/s/Berlin--Germany?utm_source=allaboutberlin&utm_medium=affiliate&affiliate_partner_id=67034";
 /out/ing                                      "https://financeads.net/tc.php?t=28713C12410609T";
 /out/ing-students                             "https://www.financeads.net/tc.php?t=28713C12414696T";
@@ -121,7 +120,7 @@
 /out/mawista-expats                           "https://www.mawista.com/en/";
 /out/meineschufa                              "https://www.awin1.com/awclick.php?gid=325475&mid=9350&awinaffid=559395&linkid=2065496&clickref=";
 /out/mister-spex                              "https://www.awin1.com/awclick.php?gid=333001&mid=10118&awinaffid=559395&linkid=2126738&clickref=";
-/out/monese                                   "https://monese.com/de/en";
+/out/monese                                   "https://monese.com/";
 /out/n26                                      "https://n26-eu.c2nwa3.net/c/1377567/670551/10375";
 /out/n26-business                             "https://n26-eu.c2nwa3.net/kj1rM0";
 /out/n26-cash26                               "https://n26-eu.c2nwa3.net/dov0V3";
@@ -169,7 +168,7 @@
 /out/tarifcheck-kfz                           "https://a.partner-versicherung.de/click.php?partner_id=126814&ad_id=15&deep=kfz-versicherung";
 /out/tarifcheck-pethealth                     "https://a.partner-versicherung.de/click.php?partner_id=126814&ad_id=15&deep=hundekrankenversicherung";
 /out/tarifcheck-rechtsschutz                  "https://a.partner-versicherung.de/click.php?partner_id=126814&ad_id=15&deep=rechtsschutzversicherung";
-/out/taxback                                  "https://www.taxback.com/en/germany/?utm_ref=allaboutberlin";
+/out/taxback                                  "https://www.taxback.com/";
 /out/taxfix                                   "https://imp.i313392.net/KjBXWx";
 /out/taxgermany                               "https://taxgermany.de?referrer=allaboutberlin&source=website";
 /out/tomorrow                                 "https://www.financeads.net/tc.php?t=28713C313862738T";
@@ -214,7 +213,7 @@
 /out/debitoor                                 "https://debitoor.com/?utm_source=allaboutberlin";
 /out/deutsche-bank-sperrkonto                 "https://www.deutsche-bank.de/pk/konto-und-karte/konten-im-ueberblick/internationale-studenten.html";
 /out/expath                                   "https://allaboutberlin.com/guides/relocation-agency-in-berlin";
-/out/fromatob                                 "https://www.fromatob.com/en-GB";
+/out/fromatob                                 "https://www.fromatob.com/";
 /out/income-tax-calculator                    "/tools/tax-calculator";
 /out/luko-dogs                                "/out/feather-dogs";
 /out/luko-haftpflicht                         "/out/feather-haftpflicht";
@@ -223,6 +222,7 @@
 /out/gehalt-salaries                          "https://www.gehalt.de/";
 /out/getsafe-kfz                              "/out/tarifcheck-kfz";
 /out/hkk-calc                                 "https://www.hkk.de/english-information";
+/out/homelike                                 "https://spacest.com";
 /out/img-expats                               "https://www.imglobal.com/";
 /out/joonko                                   "/out/verivox-kfz";
 /out/lemonade                                 "/out/feather";

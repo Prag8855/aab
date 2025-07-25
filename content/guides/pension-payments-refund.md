@@ -270,7 +270,7 @@ You can let someone take care of everything. There are good reasons to get help:
 - **Your case is processed faster**  
     The [[Deutsche Rentenversicherung]] communicates by post.[^28] If you live far from Germany, this can delay your refund by a few weeks. They do not use [registered mail](/glossary/Einschreibebrief), so if a letter gets lost, you will wait much longer.
 - **You get your money faster**  
-    If you want to receive your refund in a non-German bank account, you must wait an extra 2 months. Germany Pension Refund, FundsBack and TaxBack can receive the money in a German bank account, and transfer it directly to you. This saves you two months of waiting. They also offer more payment options than the [[Deutsche Rentenversicherung]].
+    If you want to receive your refund in a non-German bank account, you must wait an extra 2 months. Germany Pension Refund and FundsBack can receive the money in a German bank account, and transfer it directly to you. This saves you two months of waiting. They also offer more payment options than the [[Deutsche Rentenversicherung]].
 - **You pay lower transaction fees**  
     These companies offer more payment options than the [[Deutsche Rentenversicherung]]. They can use services like [Wise](/out/wise) to pay you in another currency with lower conversion fees.
 
@@ -285,7 +285,7 @@ These businesses can help you request a refund. They will fill the forms and req
 
 The *[[Deutsche Rentenversicherung]]* can also help you fill the forms. Their email is <meinefrage@drv-bund.de>. They only answer in German. You can also [book an appointment](https://www.deutsche-rentenversicherung.de/DRV/DE/Beratung-und-Kontakt/Beratung-suchen-und-buchen/beratung-suchen-und-buchen_node.html) and visit them in person.
 
-[TaxBack](/out/taxback), [Germany Mantra](/out/germany-mantra) and [Pension Redemption](https://www.pension-redemption.com/) also handle pension refunds. Their fee is higher, and it's not their speciality. There is no reason to choose them.
+[Germany Mantra](/out/germany-mantra) and [Pension Redemption](https://www.pension-redemption.com/) also handle pension refunds. Their fee is higher, and it's not their speciality. There is no reason to choose them.
 
 ## How long it takes
 
