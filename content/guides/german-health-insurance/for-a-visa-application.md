@@ -40,6 +40,7 @@ The requirements depend on the visa you apply for:
 - [Health insurance for a **Youth Mobility Visa**](/guides/german-health-insurance/for-employees#for-a-youth-mobility-visa)
 - [Health insurance for an **opportunity card**](/guides/german-health-insurance/for-employees#for-an-opportunity-card)
 - [Health insurance for a **job seeker visa**](/guides/german-health-insurance/for-employees#for-a-job-seeker-visa)
+- [Health insurance for a **family reunion visa**](#for-a-family-reunion-visa)
 
 If you are a citizen of {{AUFENTHV_41_COUNTRIES}}, you do not need a National Visa. You can come to Germany without a visa, and apply for a [residence permit](/glossary/Aufenthaltstitel) at the *[[Ausländerbehörde]]*. You do not need health insurance to come to Germany, but you need health insurance [to apply for your residence permit](#for-a-residence-permit).
 
@@ -48,6 +49,10 @@ If you are a citizen of {{AUFENTHV_41_COUNTRIES}}, you do not need a National Vi
 Use my [health insurance picker](/tools/health-insurance-calculator), or [ask an expert](/guides/german-health-insurance#insurance-brokers) to help you choose.
 
 {% include '_blocks/healthInsuranceCalculatorStatic.html' %}
+
+### For a family reunion visa
+
+If your spouse has [public health insurance](/glossary/gesetzliche%20Krankenversicherung), it might [cover you for free](/guides/german-health-insurance#free-health-insurance).[^2] Otherwise, you can get [expat health insurance](/glossary/Expat%20health%20insurance) or [private health insurance](/glossary/private%20Krankenversicherung).
 
 ## For a residence permit
 
@@ -112,6 +117,7 @@ Some [blocked accounts](/glossary/Sperrkonto) include health insurance. It's rar
 
 [^0]: [Feather Insurance](https://feather-insurance.com/blog/how-can-i-use-expat-health-insurance-for-my-visa/#:~:text=expat%20insurance%20is%20almost%20always%20denied) (2025)
 [^1]: [schengenvisainfo.com](https://www.schengenvisainfo.com/schengen-visa-insurance/), [germany.info](https://www.germany.info/us-en/service/visa/medical-health-insurance/953982), [visaguide.world](https://visaguide.world/travel-insurance/europe/germany-travel-insurance/)
+[^2]: [German embassy in Portugal](https://lissabon.diplo.de/pt-de/service/2423766-2423766#:~:text=in%20the%20case%20of%20family%20reunification) (July 2025)
 [^4]: [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/659867781148595/?comment_id=663168410818532), [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/675361512932555/), [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/697100177425355/), [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/515940132208028/), [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/489761834825858/?comment_id=489789594823082)
 [^5]: [Reddit](https://old.reddit.com/r/chancenkarte/comments/1jxedo2/reapplying_for_chancenkarte_visa_after_a_rejection/mnizh1q/) (May 2025), [Reddit](https://old.reddit.com/r/chancenkarte/comments/1k7i4ww/health_insurance_for_chancenkarte/) (May 2025), [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/789315664870472/?comment_id=792026081266097), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/3tkxvi/mawista_health_insurance_could_be_not_sufficient/cx810dd/), [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/754116128390426/?comment_id=754173935051312), [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/489761834825858/)
 [^7]: [Facebook](https://www.facebook.com/groups/berlinfreelancers/posts/4261939800553038/?__cft__[0]=AZV7zZrPivBoZDL0rqrnsaIM5z30t4Qa-eMFG7snPBMSv-0a8iDRS7ZuaBf6OBQb6EnLsMHZ5xMqbqEkJtg-mKCwqY8iUgAalwBIKyrQP6EwoXkmNvOdFyJ2N3a6_4JtSvc&__tn__=%2CO%2CP-R)
