@@ -42,7 +42,7 @@ The requirements depend on the visa you apply for:
 - [Health insurance for a **job seeker visa**](/guides/german-health-insurance/for-employees#for-a-job-seeker-visa)
 - [Health insurance for a **family reunion visa**](#for-a-family-reunion-visa)
 
-If you are a citizen of {{AUFENTHV_41_COUNTRIES}}, you do not need a National Visa. You can come to Germany without a visa, and apply for a [residence permit](/glossary/Aufenthaltstitel) at the *[[Ausländerbehörde]]*. You do not need health insurance to come to Germany, but you need health insurance [to apply for your residence permit](#for-a-residence-permit).
+If you are a citizen of {{AUFENTHV_41_COUNTRIES}}, you do not need a [[National Visa]]. You can come to Germany without a visa, and apply for a [residence permit](/glossary/Aufenthaltstitel) at the *[[Ausländerbehörde]]*. You do not need health insurance to come to Germany, but you need health insurance [to apply for your residence permit](#for-a-residence-permit).
 
 **When you arrive in Germany**, you must usually switch to [public](/glossary/gesetzliche%20Krankenversicherung) or [private](/glossary/private%20Krankenversicherung) health insurance. You must switch before you convert your National Visa to a [residence permit](/glossary/Aufenthaltstitel). The best option depends on your situation.
 
