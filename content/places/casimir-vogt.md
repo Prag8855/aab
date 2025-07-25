@@ -1,6 +1,6 @@
 ---
 Name: Casimir Vogt & Weinreich Rechtsanwälte + Notare
-Description: Specialised in legal issues for small to mid-sized businesses including bi-lingual contracts.
+Description: Legal issues for small to mid-sized businesses including bi-lingual contracts.
 Website: http://www.cvw.legal/
 Email: alto@cvw.legal
 Address: Kurfürstendamm 66

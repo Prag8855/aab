@@ -1,6 +1,6 @@
 ---
 Name: Zeller & Seyfert
-Description: Specializes in IT and employment law.
+Description: IT and employment law.
 Website: http://zellerseyfert.com/en/law-firm.html
 Email: 
 Address: Scharfe Lanke 113a

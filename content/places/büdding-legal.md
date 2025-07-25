@@ -1,6 +1,6 @@
 ---
 Name: Büdding Legal
-Description: Specializes in business law.
+Description: Business law.
 Website: http://www.budding-legal.net/impressum
 Email: 
 Address: Dircksenstraße 52

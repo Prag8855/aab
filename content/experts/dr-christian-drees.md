@@ -1,6 +1,6 @@
 ---
 Name: Dr. Christian Drees
-Job_title: Labour lawyer
+Job_title: Employment lawyer
 Email: info@rechtpraesent.de
 Website: https://www.dr-drees.com/
 Picture: experts/photos/dr-christian-drees.jpg

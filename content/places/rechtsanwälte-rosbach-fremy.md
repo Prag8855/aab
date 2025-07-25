@@ -1,6 +1,6 @@
 ---
 Name: Rechtsanwälte Rosbach & Fremy
-Description: Specialized in commercial law, business law, civil law and estates
+Description: Commercial law, business law, civil law and estates
 Website: http://www.ra-rff.de/
 Email: 
 Address: Dietrich-Bonhoeffer-Straße 4

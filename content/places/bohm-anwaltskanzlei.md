@@ -1,6 +1,6 @@
 ---
 Name: böhm anwaltskanzlei.
-Description: Specialises in tax law and tax evasion.
+Description: Tax law and tax evasion.
 Website: https://boehmanwaltskanzlei.de/
 Email: boehm@steuerdelikt.de
 Address: Am Borsigturm 11

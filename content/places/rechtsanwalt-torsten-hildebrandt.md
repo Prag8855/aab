@@ -1,6 +1,6 @@
 ---
 Name: Rechtsanwalt Torsten Hildebrandt
-Description: Specialized in customs law and customs criminal law.
+Description: Customs law and customs criminal law.
 Website: https://steuerstrafrecht-rechtsanwalt.de/
 Email: mail@steuerstrafrecht-rechtsanwalt.de
 Address: Meinekestraße 4

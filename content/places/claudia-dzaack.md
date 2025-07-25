@@ -1,6 +1,6 @@
 ---
 Name: Claudia Dzaack
-Description: Specialises in couples and sex therapy.
+Description: Couples and sex therapy.
 Website: https://praxisdzaack.de/
 Email: info@praxisdzaack.de
 Address: Kastanienallee 26

@@ -1,6 +1,6 @@
 ---
 Name: Siewer Weizsäcker
-Description: Specialized in citizenship law and immigration law.
+Description: Citizenship and immigration law.
 Website: http://www.siewer.net/
 Email: ew@siewer.net
 Address: Potsdamer Str. 86

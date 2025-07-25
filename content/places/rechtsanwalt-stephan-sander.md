@@ -1,6 +1,6 @@
 ---
 Name: Rechtsanwalt Stephan Sander
-Description: Specialises in family law
+Description: Family law
 Website: https://www.berlin-rechtsanwalt.com/
 Email: ra.sander@berlin-rechtsanwalt.com
 Address: Pacelliallee 8

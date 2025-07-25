@@ -1,6 +1,6 @@
 ---
 Name: Dr. Viola Kappel & Kollegen
-Description: Specialises in eating disorders, OCD, anxiety and depression. 
+Description: Eating disorders, OCD, anxiety and depression. 
 Accepts_public_insurance: Yes
 Website: https://psychotherapie-kappel.de/
 Email: kontakt@psychotherapie-kappel.de

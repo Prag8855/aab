@@ -1,6 +1,6 @@
 ---
 Name: Streiff Law
-Description: Specializes in international business law.
+Description: International business law.
 Website: http://streifflaw.de/en/
 Email: 
 Address: Sarrazinstraße 11-15

@@ -1,6 +1,6 @@
 ---
 Name: Leonie Thum
-Description: Specialized in labor law.
+Description: Employment law.
 Website: https://www.rechtsanwaltskanzlei-thum.de/en/home
 Email: mail@rechtsanwaltskanzlei-thum.de
 Address: Friedelstraße 56

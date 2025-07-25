@@ -1,6 +1,6 @@
 ---
 Name: Rotwang Law (Rechtsanwälte)
-Description: Specialised in labour law. They helped me write about work and unemployment.
+Description: Employment law. They helped me write about work and unemployment.
 Website: https://www.rotwang-law.de/
 Email: kanzlei@rotwang-law.de
 Address: Reichenberger Str. 120

@@ -1,6 +1,6 @@
 ---
 Name: Daniel Friedrich
-Description: Specialised in anxiety, depression and addiction.
+Description: Anxiety, depression and addiction.
 Accepts_public_insurance: No
 Website: https://therapie-friedrich.de/
 Email: kontakt@therapie-friedrich.de

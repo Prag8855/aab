@@ -20,6 +20,7 @@ Related_places:
     places/frauenarztinnen-am-schulenburgpark.md
     places/gynecologist-dr-caroline-labin.md
     places/matthies.md
+    places/sonnenallee-praxis.md
 ---
 
 This is a list of gynaecologists and obstetricians who speak English. They were recommended by other immigrants.

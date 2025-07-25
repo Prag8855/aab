@@ -1,6 +1,6 @@
 ---
 Name: Kanzlei Rechtsanwalt Grueneberg
-Description: Specialises in immigration law.
+Description: Immigration law.
 Website: http://www.kanzlei-grueneberg.de/
 Email: 
 Address: Kurfürstendamm 167-168

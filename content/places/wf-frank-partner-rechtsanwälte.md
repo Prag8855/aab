@@ -1,6 +1,6 @@
 ---
-Name: WF Frank & Partner Probate and Estate Planning Lawyers
-Description: Specializes in probate, wills, trusts and estates and international estate planning
+Name: WF Frank & Partner
+Description: Inheritance law. Probate, wills, trusts and estates and international estate planning
 Website: https://www.wf-frank.com/
 Email: 
 Address: Leipziger Pl. 9

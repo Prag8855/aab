@@ -48,6 +48,7 @@ Related_places:
     places/insight-tax-gmbh.md
     places/cick.md
     places/summa-consult-gmbh.md
+    places/taxes-matter.md
 ---
 
 Tax advisors (*Steuerberater*) help you with your personal and business taxes. A tax advisor can:

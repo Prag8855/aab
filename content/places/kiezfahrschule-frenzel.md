@@ -1,6 +1,6 @@
 ---
 Name: Kiez-Fahrschule Frenzel
-Description: Franky is an English-speaking instructor
+Description: Some instructors speak English
 Website: http://www.kiezfahrschule.de/
 Email: 
 Address: Esmarchstraße 4

@@ -57,6 +57,13 @@ Related_places:
     places/kanzlei-rechtsanwalt-grueneberg.md
     places/rechtsanwalt-torsten-hildebrandt.md
     places/siewer-weizsacker.md
+    places/rechtsanwalt-yeelen-bihn.md
+    places/visaguard-berlin.md
+    places/kanzlei-rechtsanwaltin-eva-witt.md
+    places/fn-legal.md
+    places/vs-legal.md
+    places/andreas-martin.md
+    places/dr-goddeke.md
 ---
 
 Use [the list below](#list-of-lawyers) to find an English-speaking lawyer in Berlin.
