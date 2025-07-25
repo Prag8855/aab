@@ -18,6 +18,7 @@ Related_places:
     places/gemeinschaftspraxis-fera.md
     places/frauenarzt-zentrum-neukolln.md
     places/frauenarztinnen-am-schulenburgpark.md
+    places/gynecologist-dr-caroline-labin.md
 ---
 
 This is a list of gynaecologists and obstetricians who speak English. They were recommended by other immigrants.
