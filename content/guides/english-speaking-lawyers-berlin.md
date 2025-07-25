@@ -7,6 +7,7 @@ Related_places:
     places/fiona-macdonald.md
     places/alexander-von-engelhardt.md
     places/rotwang-law.md
+    places/rechtsanwalt-jean-baptiste-abel.md
     places/schönfeld-benedicter-rechtsanwälte.md
     places/kanzlei-stöbe.md
     places/vpmk-rechtsanwälte.md
@@ -41,7 +42,6 @@ Related_places:
     places/dr-dirk-böhler-llm.md
     places/the-startup-lawyers.md
     places/zellert-seyfert-attorneys-at-law-partnership-mbb.md
-    places/rechtsanwalt-jean-baptiste-abel.md
     places/rechtsanwalt-stephan-sander.md
     places/rechtsanwaltskanzlei-dr-bianca-müller.md
     places/rose-partner.md
