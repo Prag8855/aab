@@ -25,12 +25,14 @@ Everyone feels lonely at first, but it gets better. You will slowly rebuild your
 
 ### Meetups
 
-- **[Meetup.com](https://www.meetup.com/)** (free)  
+- **[Meetup.com](https://www.meetup.com/)**  
     There are meetup groups for all kinds of hobbies, and just for meeting people. Many meetups are in English.
 - **[Eventbrite](https://www.eventbrite.de/)
 - **[Facebook events](https://www.facebook.com/events/)**
-- **[InterNations](https://www.internations.org/berlin-expats)** (free)  
+- **[InterNations](https://www.internations.org/berlin-expats)**  
     They organise free events for immigrants.
+- **[Timeleft](https://timeleft.com/)**  
+    Have dinner with strangers.
 - **Board games**  
     There are a few [board game meetups](/guides/board-games-in-berlin). English speakers are welcome.
 
