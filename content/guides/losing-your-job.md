@@ -231,7 +231,7 @@ Your family reunion visa is not tied to your job. You can change jobs without pe
 
 Your spouse and children's family reunion visas are tied to your residence permit. If you can stay in Germany, they can stay in Germany. If you lose your residence permit, they usually lose their family reunion visa too.[^43]
 
-If your spouse has a family reunion visa and you lose your job, you can switch roles. They can get a residence permit and sponsor your family reunion visa.[^35]
+If your spouse has a family reunion visa and you lose your job, you can switch residence permits. You get a family reunion visa, and your spouse gets another residence permit.
 
 ### Other residence permits
 
@@ -320,7 +320,6 @@ If you need help, get legal help. In Germany, it's normal to hire a lawyer. It's
 [^32]: [Alexander von Engelhardt](https://www.vonengelhardt.com/en/) (July 2023)
 [^33]: [§6 Abs. 2 BUrlG](https://www.gesetze-im-internet.de/burlg/__6.html), [karrierebibel.de](https://karrierebibel.de/urlaubsbescheinigung/#:~:text=als%20arbeitnehmer%20besteht%20eine%20sogenannte%20holschuld)
 [^34]: [vangard.de](https://vangard.de/aktuelles/blog/urlaubsbescheinigung-arbeitgeberwechsel)
-[^35]: [Red Tape Translation](https://redtapetranslation.com/dealing-with-burnout-in-germany/) (July 2023)
 [^36]: [§18g Abs. 4 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18g.html)
 [^37]: Experience of a friend (January 2025), [VAB 18.2.2.2](/out/vab) (January 2025)
 [^38]: [§18g Abs. 4 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18g.html)
