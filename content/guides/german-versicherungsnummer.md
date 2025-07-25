@@ -9,13 +9,13 @@ Related_reviews:
 
 The *[[Deutsche Rentenversicherung]]* uses your *Sozialversicherungsnummer* to identify you. It looks like this: **12 123456 A 123**. It's a unique number, and it never changes.
 
-In German, it has many names:
+In German, it's called...
 
 - *Sozialversicherungsnummer*, *SV-Nummer* or *SVNR*
 - *Rentenversicherungsnummer* or *RNVR*
 - *Versicherungsnummer* (this can also mean your health insurance number)
 
-In English, it also has many names:
+In English, it's called...
 
 - Pension insurance number
 - Social insurance number
@@ -49,7 +49,7 @@ If you just moved to Germany, you don't have a *Sozialversicherungsnummer* yet. 
 - **If you get [public health insurance](/glossary/gesetzliche%20Krankenversicherung)**  
     You get a *Sozialversicherungsnummer* automatically after you apply for public health insurance. You will get it by post.
 - **If you get [private health insurance](/glossary/private%20Krankenversicherung) or [expat health insurance](/glossary/Expat%20health%20insurance)**  
-    You do not get a *Sozialversicherungsnummer* automatically. You must [contact the *Deutsche Rentenversicherung*](https://www.deutsche-rentenversicherung.de/DRV/DE/Beratung-und-Kontakt/Kontakt/Anschriften-Uebersicht/anschriften_uebersicht_detail.html) and ask for it. You can do it in person at [a local branch](https://www.deutsche-rentenversicherung.de/DRV/DE/Beratung-und-Kontakt/Beratung-suchen-und-buchen/beratung-suchen-und-buchen_node.html). Your [health insurance broker](/glossary/Makler) can do it for you.[^3] Your employer can sometimes do it for you.[^4]
+    You do not get a *Sozialversicherungsnummer* automatically. Your employer must request it for you.[^4] You can also [contact the *Deutsche Rentenversicherung*](https://www.deutsche-rentenversicherung.de/DRV/DE/Beratung-und-Kontakt/Kontakt/Anschriften-Uebersicht/anschriften_uebersicht_detail.html) and ask for it. You can do it in person at [a local branch](https://www.deutsche-rentenversicherung.de/DRV/DE/Beratung-und-Kontakt/Beratung-suchen-und-buchen/beratung-suchen-und-buchen_node.html). Your [health insurance broker](/glossary/Makler) can do it for you.[^3]
 
 You get your *Sozialversicherungsnummer* by post to your German address. It takes 1 to 6 weeks. Most of the time, it takes less than 2 weeks. If you need it now, go to [your local *Deutsche Rentenversicherung* branch](https://www.deutsche-rentenversicherung.de/DRV/DE/Beratung-und-Kontakt/Beratung-suchen-und-buchen/beratung-suchen-und-buchen_node.html).
 
@@ -117,7 +117,7 @@ If you don't know those numbers, enter your *Versicherungsnummer* and leave thos
 [^1]: [handelsblatt.com](https://www.handelsblatt.com/politik/deutschland/sozialversicherungsnummer-beantragen-was-sie-zur-versicherungsnummer-wissen-muessen-/25232204.html#:~:text=das%20sind%20die%20bereichsnummern)
 [^2]: [Wikipedia](https://de.wikipedia.org/wiki/Sozialversicherungsnummer#Deutschland), [handelsblatt.com](https://www.handelsblatt.com/politik/deutschland/sozialversicherungsnummer-beantragen-was-sie-zur-versicherungsnummer-wissen-muessen-/25232204.html)
 [^3]: [faq.feather-insurance.com](https://faq.feather-insurance.com/en/articles/28682-can-i-get-a-social-security-number-with-private-health-insurance)
-[^4]: [forum.tour-magazin.de](https://www.tour-magazin.de#post1537332)
+[^4]: [Emily Archer](https://www.archer-relocation.com/) (July 2025), [forum.tour-magazin.de](https://www.tour-magazin.de#post1537332)
 [^5]: [deutsche-rentenversicherung.de](https://www.deutsche-rentenversicherung.de/DRV/DE/Experten/Arbeitgeber-und-Steuerberater/Meldeverfahren_nach_DEUEV/Meldung-nach-DEUV.html)
 [^6]: [helpster.de](https://www.helpster.de/sozialversicherungsausweis-fuer-auslaender-hinweise_204795), [handelsblatt.com](https://www.handelsblatt.com/politik/deutschland/rentenversicherungsnummer-wo-die-versicherungsnummer-steht-und-was-sie-dazu-wissen-muessen-/24479984.html)
 [^7]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/ber350/tourists_visitors_international_students_people/eptkgav/)
