@@ -146,7 +146,7 @@ These directories help you find English-speaking therapists:
 - **[KV Berlin](https://www.kvberlin.de/fuer-patienten/arzt-und-psychotherapeutensuche)** - Find therapists who accept [public health insurance](/glossary/gesetzliche%20Krankenversicherung), with language filters
 - [Therapie.de directory](https://www.therapie.de/therapeutensuche/ergebnisse/?ort=Berlin) - Therapist search by language
 - [It's Complicated](https://www.complicated.life/en/find-a-therapist) - Find therapists by language and insurance type
-- [Berlin therapist directory](https://www.therapistinberlin.com/therapist-directory.html) - List of therapists with language information
+- [Berlin therapist directory](https://www.therapistinberlin.com/therapist-directory) - List of therapists with language information
 - [Doctolib](https://www.doctolib.de/) - Find doctors and therapists by language
 - [Jameda](https://www.jameda.de/suchen?loc=Berlin) - Find doctors and therapists by language
 - [AngloInfo's English-speaking therapist directory](https://www.angloinfo.com/berlin/directory/berlin-counselling-therapists-477)
