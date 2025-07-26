@@ -31,8 +31,8 @@
 /out/bunq                                     "https://www.getbunq.app/cmp/81M3WH/GNS64/";
 /out/bunq-business                            "https://www.getbunq.app/FRGB1C/2X5FNN/";
 /out/bunq-supported-passports                 "https://together.bunq.com/d/3355-what-id-documents-are-accepted-for-my-identity-verification";
-/out/business-anmeldung                       "https://www.berlin.de/ea/emeldung/emeldung/?op=emeldung-grunddaten-anmeldung";
-/out/business-ummeldung                       "https://www.berlin.de/ea/emeldung/emeldung/?op=emeldung-grunddaten-anmeldung";
+/out/business-anmeldung                       "https://gewerbemeldung.berlin.de/emeldung/emeldung/?op=emeldung-start-meldeart";
+/out/business-ummeldung                       "https://gewerbemeldung.berlin.de/emeldung/emeldung/?op=emeldung-start-meldeart";
 /out/c24                                      "https://a.check24.net/misc/click.php?pid=193190&aid=18&deep=c24bank&cat=14";
 /out/care-concept                             "https://www.care-concept.de/krankenversicherung/auslandskrankenversicherung/auslandskrankenversicherung_care_expatriate_antrag_eng.php?navilang=eng&vmnr=9004660060&mail=contact@nicolasbouliane.com";
 /out/chatterbug                               "https://app.chatterbug.com/r/nicbou-80";
@@ -92,7 +92,7 @@
 /out/fundsback                                "https://fundsback.org/id/106/";
 /out/fyrst                                    "https://www.fyrst.de/";
 /out/germany-mantra                           "http://ssr.germanymantra.com/?utm_source=allaboutberlin";
-/out/germany-pension-refund                   "https://germanypensionrefund.com/?utm_source=allaboutberlin";
+/out/germany-pension-refund                   "https://www.germanypensionrefund.com/?utm_source=allaboutberlin";
 /out/getsafe-berufunfahigkeit                 "https://www.financeads.net/tc.php?t=28713C2323120000T";
 /out/getsafe-bicycle                          "/out/feather-bicycle";
 /out/getsafe-dogs                             "https://www.financeads.net/tc.php?t=28713C232358958T";
