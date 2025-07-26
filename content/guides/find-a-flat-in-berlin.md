@@ -135,8 +135,6 @@ An agent (*[[Makler]]*) can help you find an apartment. Some are really good, an
     Long-term apartments only. Graham is really good at his job. He only takes a few clients at a time, but he guarantees results. He might not reply to you.
 - **[Get The Flat](https://gettheflat.com/)**  
     Nerea helps you prepare your documents and apply for apartments. She uses bots to find apartments and automatically write to landlords.
-- **[Move to Berlin Relocation](https://www.moveto-berlin.com/en/home-search-2/)**  
-    Short-term and long-term apartments. They help you prepare your documents and apply for apartments.
 - [Nest Finder Berlin](https://nestfinderberlin.com/)
 - [Nerea Lopez](https://www.linkedin.com/in/nerea-lopez-berlin/)
 - [HomeSK](https://www.homesk.de/Search) - Only furnished apartments. Very expensive.
@@ -524,10 +522,10 @@ A [real estate agent](#real-estate-agents) can help you find an apartment. A *[[
 **[Where to ask apartment questions ➞](/guides/questions-about-berlin#apartment-questions)**
 
 [^0]: [arbeitnow.com](https://www.arbeitnow.com/blog/finding-an-apartment-in-berlin/#applying-for-apartments) (2021), [Berliner Zeitung](https://www.berliner-zeitung.de/politik-gesellschaft/wohnungssuche-in-berlin-so-schwer-war-es-seit-jahrzehnten-nicht-li.229421) (2022), [Reddit 1](https://old.reddit.com/r/berlin/comments/11rd07l/results_of_my_apartment_search_in_berlin/), [2](https://old.reddit.com/r/berlin/comments/13xmrod/found_an_apartment_but_at_what_cost/jmjecah/), [3](https://old.reddit.com/r/berlin/comments/x7azrj/giving_up_on_wggesucht/), [4](https://old.reddit.com/r/berlin/comments/xe1yj2/the_berlin_flat_hunt_a_case_study_more_info_in/), [5](https://old.reddit.com/r/berlin/comments/13dn8ow/its_done/), [Get The Flat](https://gettheflat.com/) (March 2024)
-[^1]: Kevin at [GetTheFlat](https://gettheflat.com/) (March 2024), [Christine Gerkrath](https://www.moveto-berlin.com/en/) (March 2024), [Merkur](https://www.merkur.de/politik/miete-wohnen-wohnung-kaufen-indexmiete-vermieter-mieterbund-mieter-zr-92034058.html#:~:text=wenn%20du%20kein%20premium-abo%20hast%2C%20kannst%20du%20es%20dir%20direkt%20vergessen), [Reddit 1](https://old.reddit.com/r/germany/comments/sb4afp/immoscout_plus_worth_it/), [2](https://old.reddit.com/r/berlin/comments/127s2wb/is_immobilienscout24_safe/), [3](https://old.reddit.com/r/AskAGerman/comments/wwks53/is_it_worth_to_pay_immoscout_24/), [4](https://old.reddit.com/r/Munich/comments/122su9o/tips_for_immoscout24/), [5](https://old.reddit.com/r/germany/comments/11pd4db/in_terms_of_immo_scout24_have_you_ever_gotten_a/jbzxnoe/), [6](https://old.reddit.com/r/germany/comments/14e80yc/immoscout24_mieter_plus/jotqvk6/), [7](https://old.reddit.com/r/Munich/comments/d6e08s/has_anybody_tried_immobilienscout24s/)
-[^2]: [Fiona Macdonald, immigration lawyer](https://twitter.com/aboutberlin/status/1768255234068169213) (March 2024), [Christine Gerkrath, relocation consultant](https://www.moveto-berlin.com/en/) (March 2024)
+[^1]: Kevin at [GetTheFlat](https://gettheflat.com/) (March 2024), Christine Gerkrath (March 2024), [Merkur](https://www.merkur.de/politik/miete-wohnen-wohnung-kaufen-indexmiete-vermieter-mieterbund-mieter-zr-92034058.html#:~:text=wenn%20du%20kein%20premium-abo%20hast%2C%20kannst%20du%20es%20dir%20direkt%20vergessen), [Reddit 1](https://old.reddit.com/r/germany/comments/sb4afp/immoscout_plus_worth_it/), [2](https://old.reddit.com/r/berlin/comments/127s2wb/is_immobilienscout24_safe/), [3](https://old.reddit.com/r/AskAGerman/comments/wwks53/is_it_worth_to_pay_immoscout_24/), [4](https://old.reddit.com/r/Munich/comments/122su9o/tips_for_immoscout24/), [5](https://old.reddit.com/r/germany/comments/11pd4db/in_terms_of_immo_scout24_have_you_ever_gotten_a/jbzxnoe/), [6](https://old.reddit.com/r/germany/comments/14e80yc/immoscout24_mieter_plus/jotqvk6/), [7](https://old.reddit.com/r/Munich/comments/d6e08s/has_anybody_tried_immobilienscout24s/)
+[^2]: [Fiona Macdonald, immigration lawyer](https://twitter.com/aboutberlin/status/1768255234068169213) (March 2024), Christine Gerkrath (March 2024)
 [^3]: [immonet.de](https://www.immonet.de/umzug/wissenswertes-rechtliches-mietrecht-kuechenausstattung.html)
-[^4]: [Graham Pugh](https://www.berlinrelo.de/) (February 2024), [Christine Gerkrath](https://www.moveto-berlin.com/en/) (March 2024)
+[^4]: [Graham Pugh](https://www.berlinrelo.de/) (February 2024), Christine Gerkrath (March 2024)
 [^5]: [Suat Göydeniz](https://stb-goeydeniz.de/), tax advisor and landlord (March 2024)
 [^6]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/x7azrj/giving_up_on_wggesucht/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/pljlpm/finding_wg_room_has_become_a_tinder_game/)
 [^7]: [reddit.com/r/berlin](https://www.reddit.com/r/berlin/comments/o6bfba/room_for_incoming_student/)
@@ -561,11 +559,11 @@ A [real estate agent](#real-estate-agents) can help you find an apartment. A *[[
 [^35]: [ImmoScout24](https://www.immobilienscout24.de/wissen/vermieten/so-vermietet-deutschland.html#:~:text=kurz%20vor%20Vertragsschluss.-,kontaktaufnahme%20am%20liebsten%20per%20mail,-Ziemlich%20einig%20sind)
 [^36]: [Graham Pugh](https://www.berlinrelo.de/) (March 2024)
 [^37]: [Berliner Mieterverein](https://www.berliner-mieterverein.de/recht/infoblaetter/info-98-moeblierungszuschlag-und-moeblierte-vermietung.htm#:~:text=liegen%20mittlerweile%20um-,60%20%25%20hoher,-als%20die%20Mieten) (2023)
-[^38]: [Christine Gerkrath](https://www.moveto-berlin.com/en/) (March 2024), [reddit.com/r/berlin](https://www.reddit.com/r/berlin/comments/8gu51h/freelancer_renting_an_apartment/), [Facebook](https://www.facebook.com/groups/berlinfreelancers/permalink/1433526380061075/)
+[^38]: Christine Gerkrath (March 2024), [reddit.com/r/berlin](https://www.reddit.com/r/berlin/comments/8gu51h/freelancer_renting_an_apartment/), [Facebook](https://www.facebook.com/groups/berlinfreelancers/permalink/1433526380061075/)
 [^39]: [HousingAnywhere](https://answers.housinganywhere.com/en/articles/2498908-how-can-i-be-sure-a-listing-is-real-and-protect-myself-from-scammers), [HousingAnywhere](https://housinganywhere.com/pricing/tenants)
 [^40]: [mieterbund.de](https://www.mieterbund.de/service/hausordnung.html), [justlanded.com](https://www.justlanded.com/english/Germany/Germany-Guide/Housing-Rentals/Contracts)
 [^41]: [reddit.com/r/de](https://old.reddit.com/r/de/comments/93edik/wie_stellt_man_sich_bei_einer_wg_besichtigung_vor/), [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/v8cvvd/what_is_your_experience_with_wg_interviews/ibpp63p/?context=3)
-[^42]: [Christine Gerkrath](https://www.moveto-berlin.com/en/) (March 2024), Nerea Lopez (March 2024), [Reddit](https://old.reddit.com/r/berlin/comments/11c7ypi/foreigners_how_long_did_it_take_you_to_find_an/ja2ahd2/) (2023)
+[^42]: Christine Gerkrath (March 2024), Nerea Lopez (March 2024), [Reddit](https://old.reddit.com/r/berlin/comments/11c7ypi/foreigners_how_long_did_it_take_you_to_find_an/ja2ahd2/) (2023)
 [^43]: [rbb24](https://www.rbb24.de/panorama/beitrag/2023/10/semesterstart-berlin-studierende-ohne-wohnung-universitaet.html) (2023), [Reddit](https://old.reddit.com/r/rwth/comments/15mw8d7/warteliste_studierendenwerk/)
 [^44]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/x94o8z/28_tips_for_flathunt_my_flathunt_journey/)
 [^45]: [Spotahome](https://help.spotahome.com/hc/en-us/articles/360019389160-What-is-virtual-verification) (2024)
@@ -574,9 +572,9 @@ A [real estate agent](#real-estate-agents) can help you find an apartment. A *[[
 [^48]: [erste-hausverwaltung.de](https://erste-hausverwaltung.de/mietschuldenfreiheitsbescheinigung/#:~:text=dabei%3A%20Die%20Mitschuldenfreiheitsbescheinigung.-,vermieter%3Ainnen%20sind%20gesetzlich%20nicht%20dazu%20verpflichtet,-%2C%20eine%20Mietschuldenfreiheitsbescheinigung%20auszustellen) (May 2025)
 [^49]: [Trustpilot](https://ie.trustpilot.com/review/housinganywhere.com?search=schufa&sort=recency) (2021), [HousingAnywhere](https://housinganywhere.com/Berlin--Germany/rent-in-berlin#:~:text=you%20can%20rent%20via%20platforms%20like%20housinganywhere)
 [^50]: [Reddit](https://old.reddit.com/r/berlin/comments/1bs7hxc/this_is_the_berlin_housing_market_in_2024/kxdydoa/) (April 2024)
-[^52]: [Christine Gerkrath](https://www.moveto-berlin.com/en/) (March 2024)
-[^53]: Kevin at [GetTheFlat](https://gettheflat.com/) (March 2024), [Christine Gerkrath](https://www.moveto-berlin.com/en/) (March 2024), [Emily Archer](https://www.archer-relocation.com/) (March 2024)
-[^54]: [Christine Gerkrath](https://www.moveto-berlin.com/en/) (March 2024)
-[^55]: [Christine Gerkrath](https://www.moveto-berlin.com/en/) (March 2024)
+[^52]: Christine Gerkrath (March 2024)
+[^53]: Kevin at [GetTheFlat](https://gettheflat.com/) (March 2024), Christine Gerkrath (March 2024), [Emily Archer](https://www.archer-relocation.com/) (March 2024)
+[^54]: Christine Gerkrath (March 2024)
+[^55]: Christine Gerkrath (March 2024)
 [^56]: Padcha, Thai Embassy in Berlin (March 2024)
 [^57]: [Graham Pugh](https://www.berlinrelo.de/) (April 2024)

@@ -2,8 +2,8 @@
 Name: Christine Gerkrath
 Job_title: Relocation consultant
 Email: gerkrath@moveto-berlin.com
-Website: https://www.moveto-berlin.com/en/
+Website: 
 Picture: experts/photos/christine-gerkrath.jpg
 ---
 
-Christine founded [Move to Berlin](https://www.moveto-berlin.com/en/), a relocation agency in Berlin. They also help their clients find an apartment.
+Christine founded Move to Berlin, a relocation agency in Berlin. They also did apartment searches. It closed in 2025.
