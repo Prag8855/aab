@@ -9,7 +9,6 @@ Related_places:
     places/steuerberater-thomas-langer.md
     places/börsing-pohl-partner.md
     places/merla-ganschow-partner.md
-    places/steuerberaterin-helga-vellmann.md
     places/steuerberaterin-carola-schumacher.md
     places/barnbrook-steuerberatung.md
     places/dr-georgi-steuerberatung.md
@@ -43,7 +42,6 @@ Related_places:
     places/millennium-park-taxes.md
     places/kb-küpper-kollegen-steuerberatungsgesellschaft.md
     places/steuerberater-jakub-czaplewski.md
-    places/blüming-partner-mbb-steuerberater-rechtsanwälte.md
     places/guhr-steuerberatungsgesellschaft.md
     places/insight-tax-gmbh.md
     places/cick.md

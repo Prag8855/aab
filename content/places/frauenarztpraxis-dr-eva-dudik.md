@@ -1,7 +1,7 @@
 ---
 Name: Dr. Eva Dudik
 Description: 
-Website: http://www.dr-dudik.de/
+Website: https://www.doctolib.de/einzelpraxis/berlin/dr-med-eva-dudik
 Email: 
 Address: Kaiserdamm 17
 Latitude: 52.510644

@@ -6,11 +6,9 @@ Date_created: 2017-09-28
 Related_places:
     places/b-ware-ladenkino.md
     places/babylon.md
-    places/il-kino.md
     places/hackesche-höfe-kino.md
     places/kino-central.md
     places/sommerkino-kulturforum-yorck.md
-    places/sommerkino-schloss-charlottenburg-yorck.md
     places/rollberg-yorck.md
     places/passage-yorck.md
     places/odeon-yorck.md

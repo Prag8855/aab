@@ -23,7 +23,6 @@ Related_places:
     places/rechtsanwälte-rosbach-fremy.md
     places/wf-frank-partner-rechtsanwälte.md
     places/von-boetticher-rechtsanwälte-partnerschaftsgesellschaft-mbh.md
-    places/zeller-seyfert.md
     places/kanzlei-meinecke-helling.md
     places/streiff-law.md
     places/losemann-legal-tax-gmbh-rechtsanwaltsgesellschaft.md
@@ -37,11 +36,9 @@ Related_places:
     places/fürstenow-law-office.md
     places/anwaltskanzlei-johann-trülzsch.md
     places/dr-jonathan-burmeister-defense-lawyer-attorney.md
-    places/blüming-partner-mbb-steuerberater-rechtsanwälte.md
     places/rechtsanwalt-sebastian-dramburg.md
     places/dr-dirk-böhler-llm.md
     places/the-startup-lawyers.md
-    places/zellert-seyfert-attorneys-at-law-partnership-mbb.md
     places/rechtsanwalt-stephan-sander.md
     places/rechtsanwaltskanzlei-dr-bianca-müller.md
     places/rose-partner.md

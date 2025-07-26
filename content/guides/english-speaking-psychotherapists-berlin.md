@@ -26,7 +26,6 @@ Related_places:
     places/alastair-roberts-counselling.md
     places/anne-piotrowski.md
     places/360-psychotherapie.md
-    places/psychotherapy-rachel-karsen-hafermaas.md
     places/ariane-fuechtner.md
     places/dr-grace-omalley.md
     places/dr-birgit-hansen.md

@@ -1,7 +1,7 @@
 ---
 Name: Dr. med. Katharina Schieke
 Description: 
-Website: http://www.allgemeinaerztin-berlin.de/
+Website: https://hausaerzte.org/berlin/dr-med-katharina-schieke/
 Email: 
 Address: Schiffbauerdamm 6/7
 Latitude: 52.521541

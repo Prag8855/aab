@@ -9,7 +9,6 @@ Related_places:
     places/sabine-liesegang.md
     places/dr-köller.md
     places/annette-kreutz-fachärztin-f-psychosomat-med-und-kinderheilkunde.md
-    places/elke-hillemann.md
     places/dr-med-gerhard-perchalla.md
     places/dr-nicolaus-rigas.md
     places/ole-georg-munkvold.md

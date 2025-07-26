@@ -12,7 +12,6 @@ Related_places:
     places/aqui-españa.md
     places/mehlstübchen.md
     places/kasatschok.md
-    places/americanfood4u.md
     places/pyza.md
     places/u-zosi-polnische-lebensmittel.md
 ---

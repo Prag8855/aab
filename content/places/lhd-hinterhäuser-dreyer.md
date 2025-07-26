@@ -1,7 +1,7 @@
 ---
 Name: LHD Hinterhäuser Dreyer
 Description: They speak German, English and Italian.
-Website: https://www.lhd-berlin.eu/?lang=en
+Website: https://www.lhd-berlin.de/
 Email: 
 Address: Katharinenstraße 12
 Latitude: 52.500368

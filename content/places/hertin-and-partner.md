@@ -1,10 +1,10 @@
 ---
-Name: Hertin & Partner Rechts- und Patentanwälte
+Name: Hertin & Partner
 Description: Patent, copyright and intellectual property law
 Website: http://www.hertin.de/
 Email: creutz@hertin.de
-Address: Kurfürstendamm
-Latitude: 52.50134
-Longitude: 13.3154
+Address: Kurfürstendamm 63
+Latitude: 52.500795
+Longitude: 13.311403
 Google_Place_ID: ChIJAQq6ruVQqEcRzzTMP6ygEgQ
 ---

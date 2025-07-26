@@ -10,7 +10,6 @@ Related_places:
     places/gibbesch-consulting.md
     places/irc-berlin.md
     places/relokate.md
-    places/nomaden-berlin.md
     places/glogauer-str-25.md
     places/start-relocation.md
     places/prime-relocation.md
