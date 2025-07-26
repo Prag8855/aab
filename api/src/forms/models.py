@@ -143,6 +143,7 @@ class HealthInsuranceQuestion(NameMixin, ReplyToSenderMixin, EmailMixin, Schedul
     is_married = models.BooleanField(null=True)
     children_count = models.PositiveSmallIntegerField(null=True)
     desired_service = models.CharField(max_length=50, blank=True)  # "barmer"
+    referrer = models.CharField(max_length=50, blank=True)
 
     recipients = ['Seamus.Wolf@horizon65.com', ]
     template = 'health-insurance-question.html'
