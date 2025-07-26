@@ -85,6 +85,9 @@ Related_places:
     places/dr-dafni-milioni.md
     places/ifs-therapie.md
     places/dipl-psych-dr-katharina-will.md
+    places/maxim-makhanov.md
+    places/fiona-walsh.md
+    places/agnieszka-kieres.md
 Related_reviews:
     reviews/english-speaking-psychotherapists-berlin/agata-slezak.md
 ---
