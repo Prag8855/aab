@@ -2131,22 +2131,6 @@ input[name="username"], // Honeypot
                 font-size: var(--f-s);
             }
         }
-        p{
-            margin:0;
-            word-wrap: break-word; // Fixes breakout with long words
-            word-break: break-word;
-        }
-
-        + .preview{
-            margin-top: var(--m);
-            padding-top: var(--m);
-            border-top: var(--b-box);
-        }
-
-        &.guide{
-            grid-template-columns: 1fr;
-            gap: var(--s);
-        }
 
         @include only-phone{
             grid-template-columns: 1fr;

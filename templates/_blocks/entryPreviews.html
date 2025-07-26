@@ -17,17 +17,14 @@
 			</a>
 			{% if showDateUpdated|default or showDatePosted|default %}
 				{% if showDateUpdated|default %}
-					{% set dateToUse = entry.date_updated %}
+					<time title="Last updated on {{ entry.date_updated.strftime('%B %-d, %Y') }}" datetime="{{ entry.date_updated.isoformat(timespec='seconds') }}">{{ entry.date_updated.strftime('%B %-d, %Y') }}</time>
 				{% else %}
-					{% set dateToUse = entry.date_created %}
+					<time title="Published on {{ entry.date_created.strftime('%B %-d, %Y') }}" datetime="{{ entry.date_created.isoformat(timespec='seconds') }}">{{ entry.date_created.strftime('%B %-d, %Y') }}</time>
 				{% endif %}
-				<time datetime="{{ dateToUse.isoformat(timespec='seconds') }}">{{ dateToUse.strftime('%B %-d, %Y') }}</time>
 			{% endif %}
 		</h3>
 		{% if entryType == 'guides' %}
 			<script type="application/ld+json">{% include "_blocks/guideJsonld.json" %}</script>
-		{% else %}
-			<p>{{ entry.description }}</p>
 		{% endif %}
 	</li>
 {% endfor %}
