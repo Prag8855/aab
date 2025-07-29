@@ -47,6 +47,7 @@ const pdf = {
 		plausible(trackAs, { props: {
 			stage: 'download',
 			pageSection,
+			referrer: getReferrer(),
 		}});
 	},
 	async loadFont() {

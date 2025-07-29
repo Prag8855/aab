@@ -45,7 +45,8 @@
 							this.$refs.collapsible.$el.scrollIntoView({ block: 'start', behavior: 'auto' });
 							plausible('Pension refund question', { props: {
 								stage: this.stage,
-								pageSection: getNearestHeadingId(this.$el)
+								pageSection: getNearestHeadingId(this.$el),
+								referrer: getReferrer(),
 							}});
 						});
 					}

@@ -122,7 +122,8 @@
 						if(response.ok){
 							plausible('Pension refund request', { props: {
 								partner: this.selectedPartner.name,
-								pageSection: getNearestHeadingId(this.$el)
+								pageSection: getNearestHeadingId(this.$el),
+								referrer: getReferrer(),
 							}});
 							this.stage = 'requestConfirmation';
 						}

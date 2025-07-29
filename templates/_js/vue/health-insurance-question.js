@@ -165,7 +165,11 @@ Vue.component('health-insurance-question', {
 			return facts;
 		},
 		trackWhatsapp() {
-			plausible(this.trackAs, { props: { stage: 'whatsapp', pageSection: getNearestHeadingId(this.$el) }});
+			plausible(this.trackAs, { props: {
+				stage: 'whatsapp',
+				pageSection: getNearestHeadingId(this.$el),
+				referrer: getReferrer(),
+			}});
 		}
 	},
 	template: `
