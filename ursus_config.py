@@ -16,11 +16,11 @@ ctx = {}
 # TAXES
 # ==============================================================================
 
-# German minimum wage (€/h) - https://www.bmas.de/DE/Arbeit/Arbeitsrecht/Mindestlohn/mindestlohn.html
+# German minimum wage (€/h) - https://www.bmas.de/DE/Arbeit/Arbeitsrecht/Mindestlohn/mindestlohn.html - https://www.destatis.de/DE/Themen/Arbeit/Verdienste/Mindestloehne/_inhalt.html
 ctx['MINIMUM_WAGE'] = fail_on('2025-12-01', Decimal('12.82'))
 
-ctx["MEDIAN_INCOME_BERLIN"] = fail_on('2025-12-31', 47784)  # 2023
-ctx["MEDIAN_INCOME_GERMANY"] = fail_on('2025-12-31', 45552)  # 2023
+ctx["MEDIAN_INCOME_BERLIN"] = fail_on('2025-12-31', 48250)  # 2025 - https://www.sparkasse.de/aktuelles/einkommen-wohlhabend-im-vergleich.html
+ctx["MEDIAN_INCOME_GERMANY"] = fail_on('2025-12-31', 52159)  # Early 2025
 
 # Minimum allowance for au pairs (€/mth)
 ctx["AU_PAIR_MIN_ALLOWANCE"] = fail_on('2025-12-01', 280)

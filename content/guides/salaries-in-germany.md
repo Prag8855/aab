@@ -12,7 +12,7 @@ When you [look for a job in Germany](/guides/find-a-job-in-berlin), you must kno
 
 These tools help you find how much you should earn.
 
-- **[Office of Statistics salary calculator](https://service.destatis.de/DE/gehaltsvergleich/beruf.html)** (in German) - Find salaries by job title.
+- **[Office of Statistics salary calculator](https://service.destatis.de/DE/gehaltsvergleich/)** (in German) - Find salaries by job title.
 - [Glassdoor](https://www.glassdoor.de/Geh%C3%A4lter/index.htm) and [Kununu](https://www.kununu.com/) - Find salaries by job title. You need an account.
 - [Gehalt.de](https://www.gehalt.de/) (in German) - find salaries by job title
 - [Levels.fyi](https://www.levels.fyi/Salaries/Software-Engineer/Berlin-Germany/) - IT salaries
@@ -39,11 +39,17 @@ In Germany, you pay [around 35% of your salary](/tools/tax-calculator) in taxes 
 
 ## Minimum wage and median income
 
+### Minimum wage
+
+The minimum wage (*[[Mindestlohn]]*) in Germany is **€{{MINIMUM_WAGE|cur}} per hour**.[^3] [Some professions](https://www.destatis.de/DE/Themen/Arbeit/Verdienste/Mindestloehne/Tabellen/mindestlohn-deutschland.html) have a higher minimum wage (*Branchenmindestlohn*).
+
+Around 4% of jobs pay the minimum wage.[^4]
+
 ### Median income
 
-The median income **in Germany** was €{{MEDIAN_INCOME_GERMANY|cur}} per year before taxes.
+The median income **in Germany** is €{{MEDIAN_INCOME_GERMANY|cur}} per year before taxes.
 
-The median income **in Berlin** was €{{MEDIAN_INCOME_BERLIN|cur}} per year before taxes.[^1]
+The median income **in Berlin** is €{{MEDIAN_INCOME_BERLIN|cur}} per year before taxes.[^1]
 
 This is only for full-time employees. The median income for all German residents is much lower: in 2019, it was €2109 per month.[^6] The median income for immigrants is lower.
 
@@ -52,12 +58,6 @@ This is only for full-time employees. The median income for all German residents
 [Median income by profession](https://web.arbeitsagentur.de/entgeltatlas/) (German) - Federal Employment Office
 
 [Median income by location](https://arbeitsagentur.maps.arcgis.com/apps/View/index.html?appid=4c75eaa971ec4d3e951ae5c99d7367ec) (German) - Federal Employment Office
-
-### Minimum wage
-
-The minimum wage (*[[Mindestlohn]]*) in Germany is **€{{MINIMUM_WAGE|cur}} per hour**.[^3] [Some professions](https://www.destatis.de/DE/Themen/Arbeit/Verdienste/Mindestloehne/Tabellen/mindestlohn-deutschland.html) have a higher minimum wage (*Branchenmindestlohn*).
-
-Around 4% of jobs pay the minimum wage.[^4]
 
 ### Cost of living
 
@@ -88,8 +88,8 @@ In Germany, most people are paid **once per month, usually on the 1st or 15th** 
 Almost everyone is paid by [bank transfer](/glossary/SEPA-%C3%9Cberweisung). If you start working in Germany, [open a bank account](/guides/best-bank-germany) that supports [SEPA transfers](/glossary/SEPA-%C3%9Cberweisung). Your bank can be in another European country.
 
 [^0]: [destatis.de](https://www.destatis.de/DE/Themen/Arbeit/Verdienste/Realloehne-Nettoverdienste/Tabellen/liste-entwicklung-nettoverdienste.html)
-[^1]: [finanz.de](https://www.finanz.de/gehalt/#geh%C3%A4lter_nach_st%C3%A4dten) (2024), [Arbeitsagentur](https://statistik.arbeitsagentur.de/SiteGlobals/Forms/Suche/Einzelheftsuche_Formular.html?nn=21424&topic_f=beschaeftigung-entgelt-entgelt), [focus.de](https://www.focus.de/finanzen/interaktive-karte-mit-3426-euro-gehoeren-sie-in-deutschland-zur-oberen-haelfte-jedoch-nicht-in-allen-regionen_id_13522236.html) (2020), [bz-berlin.de](https://www.bz-berlin.de/berlin/tabuthema-gehalt-das-verdienen-die-berliner) (2020)
-[^3]: [zoll.de](https://www.zoll.de/EN/Businesses/Work/Foreign-domiciled-employers-posting/Minimum-conditions-of-employment/Minimum-pay-pursuant-Minimum-Wage-Act/minimum-pay-pursuant-minimum-wage-act_node.html)
+[^1]: [finanz.de](https://www.finanz.de/gehalt/#geh%C3%A4lter_nach_st%C3%A4dten) (2024), [Arbeitsagentur](https://statistik.arbeitsagentur.de/SiteGlobals/Forms/Suche/Einzelheftsuche_Formular.html?nn=21424&topic_f=beschaeftigung-entgelt-entgelt), [focus.de](https://www.focus.de/finanzen/interaktive-karte-mit-3426-euro-gehoeren-sie-in-deutschland-zur-oberen-haelfte-jedoch-nicht-in-allen-regionen_id_13522236.html) (2020), [bz-berlin.de](https://www.bz-berlin.de/berlin/tabuthema-gehalt-das-verdienen-die-berliner) (2020), [sparkasse.de](https://www.sparkasse.de/aktuelles/einkommen-wohlhabend-im-vergleich.html) (2025)
+[^3]: [destatis.de](https://www.destatis.de/DE/Themen/Arbeit/Verdienste/Mindestloehne/_inhalt.html), [zoll.de](https://www.zoll.de/EN/Businesses/Work/Foreign-domiciled-employers-posting/Minimum-conditions-of-employment/Minimum-pay-pursuant-Minimum-Wage-Act/minimum-pay-pursuant-minimum-wage-act_node.html)
 [^4]: [destatis.de](https://www.destatis.de/DE/Themen/Arbeit/Verdienste/_Grafik/_Interaktiv/beschaeftigungsverhaeltnisse-anteil-ml.html)
 [^5]: [wirtschaftsforum.de](https://www.wirtschaftsforum.de/tipps/13-monatsgehalt-das-muessen-sie-darueber-wissen)
 [^6]: [iwkoeln.de](https://www.iwkoeln.de/presse/pressemitteilungen/judith-niehues-maximilian-stockhausen-viele-deutsche-schaetzen-ihre-einkommensposition-falsch-ein.html)
