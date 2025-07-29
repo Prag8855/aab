@@ -44,6 +44,8 @@ Use **[umziehen.de](https://umziehen.de/formular/umzugsmitteilung)** to tell ove
 
 You should also tell...
 
+- [ ] **Your electricity provider**  
+    Read your electricity metre, and tell the electric company that you are moving. Do this before you move.[^9]
 - [ ] **Your bank**  
     You can change your address on your bank's online portal, or by asking your financial advisor.
 - [ ] **Your [car](/glossary/Kfz-Versicherung)/[home](/glossary/Hausratversicherung)/[liability insurance](/glossary/Haftpflichtversicherung)**  
@@ -89,3 +91,4 @@ Mail forwarding is **unreliable**. Official mail from the [[Bürgeramt]], [[Fina
 [^6]: Kathleen Parker at [Red Tape Translation](https://redtapetranslation.com/) (October 2023)
 [^7]: [vermietet.de](https://www.vermietet.de/magazin/kuddelmuddel-am-klingelschild-wer-ist-fuer-das-anbringen-von-namensschildern-verantwortlich/#:~:text=vermieter%20hat%20recht%20auf%20entfernung%20) (2022)
 [^8]: [Berlin.de](https://www.berlin.de/einwanderung/aufenthalt/elektronischer-aufenthaltstitel/#Adresse) (January 2025), [Reddit](https://old.reddit.com/r/germany/comments/yqviwt/aufenthaltstitel_and_new_address/) (2022)
+[^9]: [verbraucherzentrale-berlin.de](https://www.verbraucherzentrale-berlin.de/pressemeldungen/umwelt-haushalt/wohnen/strom-aerger-beim-wohnungswechsel-vermeiden-107292) (June 2025)

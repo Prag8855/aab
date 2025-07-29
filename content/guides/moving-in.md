@@ -75,6 +75,20 @@ You must pay the rent by **before your lease starts**. You don't have to pay imm
 
 You only need to pay rent if you can actually live there. For example, if your leases starts on January 1, but you only get the keys on January 15, you don't pay rent from January 1 to January 15.[^9]
 
+### Get an electricity contract
+
+Your warm rent (*[[Warmmiete]]*) usually includes central heating and hot water. It does not include the electricity inside your apartment (lights, appliances, ...). You must get your own electricity contract. Do this before you move in.[^4]
+
+**[How electric bills work in Germany ➞](/guides/electric-bill-berlin)**
+
+You must choose an electricity provider and sign an electricity contract. Compare options with [Verivox](/out/verivox-electricity) or [Check24](/out/check24-electricity). If you don't speak German, [Ostrom](/out/ostrom) speaks English.
+
+Most providers offer a lower price for 1 or 2 years, then the price goes up. If you switch providers every year or two, you always get the lowest price, and you [save money](/guides/saving-money-germany).
+
+If you already have an electricity contract, you can transfer it to your new address, usually for free. Inform your provider before you move in. If you can cancel your contract, try to get a lower price from another provider.
+
+The electricity contract is activated automatically. They don't need to visit your apartment. You just need to tell the electricity company your meter number (*[[Zählernummer]]*) and reading (*[[Zählerstand]]*). The electricity meter is usually in the basement. You should check it when you sign the *[[Übergabeprotokoll]]*.
+
 ### Get an internet contract
 
 Sign an internet contract as soon as possible. It can take a few weeks for the company to connect the internet. Sometimes it only takes a day.
@@ -110,20 +124,6 @@ You must must [register your new address](/glossary/Anmeldung) at the *[[Bürger
 {% include "_blocks/appointmentFinder.html" %}
 
 If you move from another place in Germany, you don't need to [deregister your old address](/guides/abmeldung-deregister-in-berlin).
-
-### Get an electricity contract
-
-Your warm rent (*[[Warmmiete]]*) usually includes central heating and hot water. It does not include the electricity inside your apartment (lights, appliances, ...). You must get your own electricity contract.
-
-**[How electric bills work in Germany ➞](/guides/electric-bill-berlin)**
-
-You must choose an electricity provider and sign an electricity contract. Compare options with [Verivox](/out/verivox-electricity) or [Check24](/out/check24-electricity). If you don't speak German, [Ostrom](/out/ostrom) speaks English.
-
-Most providers offer a lower price for 1 or 2 years, then the price goes up. If you switch providers every year or two, you always get the lowest price, and you save money.
-
-If you already have an electricity contract, you can transfer it to your new address, usually for free. If you can cancel your contract, try to get a lower price from another provider.
-
-The electricity contract is activated automatically. They don't need to visit your apartment. You just need to tell the electricity company your meter number (*[[Zählernummer]]*) and reading (*[[Zählerstand]]*). The electricity meter is usually in the basement. You should check it when you sign the *[[Übergabeprotokoll]]*.
 
 ### Buy furniture and appliances
 
@@ -280,6 +280,7 @@ Sometimes, your landlord will remove air in your radiators with an *[Entlüftung
 [^1]: [jurarat.de](https://jurarat.de/muendlicher-mietvertrag#:~:text=In%20K%C3%BCrze%3A-,ein%20mundlicher%20mietvertrag%20ist%20bindend,-und%20entsteht%20durch) (2022), [dahag.de](https://www.dahag.de/c/ebs/zivilrecht/begruendet-die-muendliche-zusage-einen-mietvertrag-4292) (2012), [movinga.com](https://web.archive.org/web/20240521140817/https://www.movinga.com/de/de/hub/muendlicher-mietvertrag/)
 [^2]: [sueddeutsche.de](https://www.sueddeutsche.de/wirtschaft/immobilien-meinen-schluessel-darf-ich-geben-wem-ich-will-dpa.urn-newsml-dpa-com-20090101-220623-99-771523) (2022)
 [^3]: [Finanztip](https://www.finanztip.de/haftpflichtversicherung/privathaftpflicht/)
+[^4]: [verbraucherzentrale-berlin.de](https://www.verbraucherzentrale-berlin.de/pressemeldungen/umwelt-haushalt/wohnen/strom-aerger-beim-wohnungswechsel-vermeiden-107292) (June 2025)
 [^5]: [Settle in Berlin](https://www.settle-in-berlin.com/insurance-in-germany/)
 [^6]: [Screenshot](/images/how-appmelder-works-2022-12-21.png)
 [^7]: [bwb.de](http://web.archive.org/web/20220626225848/https://www.bwb.de/en/1619.php)

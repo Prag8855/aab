@@ -65,7 +65,7 @@ Your **landline phone** contract moves with you. If you stay in the same area, y
 
 Your **mobile phone** contract moves with you. You can keep the same phone number for free.[^14]
 
-Your **electricity and gas** contracts move with you. They must offer the same service at the same price at your new address.[^15] They can't extend your contract.[^15] If they can't provide the same service, you can cancel your contract. If you can't use their service at your new address (different heating system, no gas connection), you can cancel your contract.[^16] If you move with someone who already has an electricity/gas contract, you can cancel your contract.[^17]
+Your **electricity and gas** contracts move with you. They must offer the same service at the same price at your new address.[^15] They can't extend your contract.[^15] If they can't provide the same service, you can cancel your contract. If you can't use their service at your new address (different heating system, no gas connection), you can cancel your contract.[^16] If you move with someone who already has an electricity/gas contract, you can cancel your contract.[^17] Do this before you move into your new apartment.
 
 ### If you leave Germany
 
@@ -130,11 +130,13 @@ You must give your apartment keys back to your landlord. There should be as many
 
 ### Read the electricity meter
 
-You must read the electricity meter when you move in and when you move out. Give these numbers to your electricity company. They will know exactly how much electricity you have used. If you paid too much, you will get a refund. If you didn't pay enough, you will get an invoice.
+You must read the electricity meter when you move in and when you move out. Your electricity company needs this information when you cancel or move your electricity contract. They will know exactly how much electricity you have used. If you paid too much, you will get a refund. If you didn't pay enough, you will get an invoice.
 
 ![Meter reading on a German electricity meter](/images/zahlernummer-zahlerstand.jpg)
 
 Write down the meter number (*[[Zählernummer]]*) and meter reading (*[[Zählerstand]]*) in the handover document (*[[Übergabeprotokoll]]*).
+
+Tell your electricity company about your moving date. Do this before you move. You can usually do this on their website.
 
 ### Sign the Übergabeprotokoll
 
