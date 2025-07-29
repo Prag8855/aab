@@ -97,8 +97,6 @@ Your liability insurance must cover you well. This is the minimum it should cove
 
 I recommend liability insurance that covers lost keys. [Replacing a lost key](/guides/lost-keys) can be very expensive. The landlord could make you pay to [replace all the locks in the building](/guides/lost-keys#do-i-need-to-pay-to-replace-the-locks). Most insurers cover lost keys, including [Feather](/out/feather-haftpflicht) and [Getsafe](/out/getsafe-haftpflicht).
 
-If you often rent vehicles, you can pay around €1/month more to cover rented vehicles. This covers the car rental company's deductible if you damage the car.
-
 ### Don't wait
 
 Get liability insurance before you need it. You can't get it *after* you have a problem. For example, if you get liability insurance just before you [move out](/guides/moving-out), it might not cover the things you already broke in the apartment.
@@ -216,8 +214,8 @@ Read about the other [types of insurance in Germany](/guides/insurance). The nex
 [^25]: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_vvg/englisch_vvg.html#p0376)
 [^26]: [Wikipedia](https://de.wikipedia.org/wiki/Betriebshaftpflichtversicherung)
 [^27]: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/stberg/__67.html)
+[^28]: [mieterbund.de](https://www.mieterbund.de/mietrecht/bgh-urteile-mietrecht/bgh-urteil-detailansicht/article/23920-mieter-muss-bei-schluesselverlust-unter-umstaenden-neue-schliessanlage-bezahlen.html)
 [^29]: [check24.de](https://www.check24.de/rechtsschutzversicherung/fragen/wie-teuer-ist-eine-rechtsschutzversicherung/)
 [^30]: [mietrecht.org](https://www.mietrecht.org/mietvertrag/haftpflichtversicherung-mieter-voraussetzung-mietvertrag/), [gevestor.de](https://www.gevestor.de/finanzwissen/immobilien/vermieten-abrechnen/das-koennen-vermieter-von-ihren-mietern-verlangen-737578.html), [de.luko.eu](https://de.luko.eu/en/advice/guide/landlord-liability-insurance/)
 [^31]: [mietrecht.org](https://www.mietrecht.org/mietvertrag/haftpflichtversicherung-mieter-voraussetzung-mietvertrag/)
 [^32]: [check24.de](https://www.check24.de/privathaftpflicht/fragen/schluesseldienst/)
-[^28]: [mieterbund.de](https://www.mieterbund.de/mietrecht/bgh-urteile-mietrecht/bgh-urteil-detailansicht/article/23920-mieter-muss-bei-schluesselverlust-unter-umstaenden-neue-schliessanlage-bezahlen.html)
