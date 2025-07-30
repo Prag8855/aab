@@ -4,6 +4,7 @@ Short_title: Changing or losing your job
 Description: What happens when you change jobs, resign or get laid off in Germany. What happens to your health insurance, residence permit, unemployment benefits etc.
 Date_created: 2023-07-17
 Related_reviews:
+    reviews/losing-your-job/andreas-martin.md
     reviews/losing-your-job/dr-christian-drees.md
     reviews/losing-your-job/alexander-baron-von-engelhardt.md
     reviews/losing-your-job/sebastian-hoffmann.md
@@ -288,7 +289,9 @@ During your notice period, you can still go on [sick leave](/guides/sick-leave).
 
 ## Need help?
 
-If you need help, get legal help. In Germany, it's normal to hire a lawyer. It's not an aggressive move.
+If you need help, get legal help. Hire an employment lawyer (*Anwalt für Arbeitsrecht*). In Germany, it's normal to hire a lawyer. It's not an aggressive move.
+
+**[English-speaking lawyers in Berlin ➞](/guides/english-speaking-lawyers-berlin)**
 
 **[Where to get legal help ➞](/guides/questions-about-berlin#work-questions)**
 
