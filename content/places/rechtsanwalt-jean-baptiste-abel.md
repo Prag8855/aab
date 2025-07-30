@@ -1,6 +1,6 @@
 ---
 Name: Jean-Baptiste Abel
-Description: For all contract-related matters, especially employment law. Focused on the employee side. Speaks German, French and English
+Description: Employment law, mostly for employees. Speaks German, French and English.
 Website: http://jba.legal/
 Email: jean@jean-abel.de
 Address: Schönleinstraße 4
