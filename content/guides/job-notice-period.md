@@ -21,6 +21,8 @@ The default notice period is 4 weeks, rounded up to the 15th or last day of the 
 
 > **Example 3:** Your work contract has a 3 month notice period. You give your resignation letter on July 10. Your notice period starts on July 11. You must work until October 11. That's 3 months later.
 
+If your company has a collective agreement (*Tarifvertrag*), you might have a different notice period. It might replace the notice period in your work contract.[^14]
+
 **During your [probation period](/glossary/Probezeit)**, your notice period is only 2 weeks.[^1]
 
 > **Example:** You started a job 2 months ago, and you are still in your probation period. You resign on July 11. You must work until July 25. That's 2 weeks later.
@@ -32,7 +34,9 @@ The default notice period is 4 weeks, rounded up to the 15th or last day of the 
 If you get laid off, the default notice period depends on how long you have worked for this employer:[^3]
 
 | Time with this employer | Notice period |
-|---|---|
+|---|Related_reviews:
+    reviews/job-notice-period/andreas-martin.md
+---|
 | Still in [probation](/glossary/Probezeit) | 2 weeks |
 | Under 2 years | 4 weeks, on the 15th or last day of the month |
 | Over 2 years | 1 month, on the last day of the month |
@@ -48,6 +52,8 @@ If you get laid off, the default notice period depends on how long you have work
 > **Example 2:** You started a job 2 months ago, and you are still in your probation period. You get laid off on July 11. You must work until July 25. That's 2 weeks later.
 
 **Check your work contract**. Many jobs have a longer notice period. A 3 month notice period is common.[^13] Some jobs have 6 month or 1 year notice periods. The notice period for your employer (if laid off) can't be shorter than your notice period (if you quit).[^12]
+
+If your company has a collective agreement (*Tarifvertrag*), you might have a different notice period. It might replace the notice period in your work contract.[^14]
 
 > **Example 3:** Your work contract has a 3 month notice period. You get laid off on July 10. Your notice period starts on July 11. Your employer must pay you until October 11. That's 3 months later.
 
@@ -75,7 +81,7 @@ During your notice period, your employer still pays your salary, health insuranc
 
 During your notice period, your employer can make you work, or send you on [garden leave](https://en.wikipedia.org/wiki/Garden_leave) (*bezahlte Freistellung*). Garden leave means that you don't go to work work, but you still get paid.[^6] When you are on garden leave, your employer can still call you back to work.[^7]
 
-If you want to leave sooner, you can negotiate a shorter notice period with your employer.
+**If you want to leave sooner**, you can negotiate a shorter notice period with your employer. Your employer can refuse to shorten your notice period.[^15] To shorten your notice period, you must sign an *Aufhebungsvertrag*. If you choose a shorter notice period, you usually lose 3 months of [unemployment benefits](/glossary/ALG%20I).[^16]
 
 ### Unused vacation days
 
@@ -92,7 +98,10 @@ If you have unused vacation days, your employer can force you to use them. You c
 [^7]: [Finanztip](https://www.finanztip.de/freistellung-arbeitnehmer/)
 [^8]: [Finanztip](https://www.finanztip.de/freistellung-arbeitnehmer/#:~:text=das%20hat%20aber%20keine%20sozialversicherungsrechtlichen%20konsequenzen)
 [^9]: [kanzlei-hasselbach.de](https://www.kanzlei-hasselbach.de/blog/fristlose-kuendigung/#beispiel))
-[^13]: [wiwi-treff.de](https://www.wiwi-treff.de/Kuendigung/Kuendigungsfrist-3-Monate/Diskussion-22909)
 [^10]: [Rotwang Law](https://rotwang-law.de/en/) (July 2023)
 [^11]: [ergo.de](https://www.ergo.de/de/rechtsportal/arbeitsrecht/arbeitssuche/kuendigung-vor-arbeitsantritt), [jobteaser.com](https://www.jobteaser.com/de/advices/vor-arbeitsbeginn-kuendigen-das-musst-du-beachten) [Rotwang Law](https://rotwang-law.de/en/) (July 2023)
 [^12]: [arbeitsrechte.de](https://www.arbeitsrechte.de/maximale-kuendigungsfrist/#:~:text=darf%20jedoch%20nie%20langer%20sein%20als%20die%20des%20arbeitgebers)
+[^13]: [wiwi-treff.de](https://www.wiwi-treff.de/Kuendigung/Kuendigungsfrist-3-Monate/Diskussion-22909)
+[^14]: [Andreas Martin](https://rechtsanwalt-arbeitsrecht-in-berlin.de/) (July 2025)
+[^15]: [Andreas Martin](https://rechtsanwalt-arbeitsrecht-in-berlin.de/) (July 2025)
+[^16]: [Finanztip](https://www.finanztip.de/sperrzeit-arbeitslosengeld/#:~:text=Sollst%20Du%20laut,Du%20eine%20Sperrzeit.) (November 2024), [Andreas Martin](https://rechtsanwalt-arbeitsrecht-in-berlin.de/) (July 2025)

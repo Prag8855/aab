@@ -51,13 +51,13 @@ If you quit without a reason, you lose 3 months of [unemployment benefits](/glos
 
 If your employer does not need you, you can get **laid off**. If your employer has financial problems, they can also put you on *Kurzarbeit*.
 
-If your employer is not happy with your work, you can get **fired**. You can't get fired without a good reason, except during [probation period](/glossary/Probezeit). You get written warnings before you get fired, except for very serious reasons.
+If your employer is not happy with your work, you can get **fired**. You can't get fired without a good reason, except during [probation period](/glossary/Probezeit). You get written warnings before you get fired, except for very serious reasons.[^2]
 
 ### Resist
 
 During your [probation period](/glossary/Probezeit), you can be fired without a reason.
 
-After your probation period ends, your employer needs a valid reason to fire you. If you don't agree with the reason, you have 3 weeks to resist with a *Kündigungsschutzklage*.[^30] [Get legal help](#need-help) for this.
+After your probation period ends, your employer needs a valid reason to fire you. If you don't agree with the reason, you have 3 weeks to resist with a *Kündigungsschutzklage*.[^30] These are often successful.[^1] [Get legal help](#need-help) for this.
 
 ### Finish your notice period
 
@@ -71,7 +71,7 @@ If you get fired for misconduct, there might be no notice period.[^10]
 
 If you get laid off, ask for severance pay (*Abfindung*). Usually, you must sign a termination agreement (*Abwicklungsvertrag*) to get severance pay. In other words, your employer pays you to leave without suing them.
 
-You can negotiate how much severance pay you get.[^26] Severance pay in Germany is lower than in North America. You usually get 0.5× your [gross](/glossary/Brutto%20income) monthly income for each year of employment.[^21] For example, if you work 5 years for an employer, your severance pay is 2.5 months of income.
+There is no guaranteed severance pay. You must negotiate how much severance pay you get.[^26] You usually get 0.5× your [gross](/glossary/Brutto%20income) monthly income for each year of employment.[^21] For example, if you work 5 years for an employer, your severance pay could be 2.5 months of income.
 
 A labour lawyer can help you negotiate better severance pay, because they know how much money you can get.
 
@@ -85,7 +85,7 @@ If you are over 50 years old and plan to retire soon, you can ask for [pension p
 
 ### Do not sign an Aufhebungsvertrag
 
-Your employer can suggest a termination agreement (*Aufhebungsvertrag*). **If you sign it, you don't get fired; you agree to leave.** This is not always a good idea.
+Your employer can *suggest* a termination agreement (*Aufhebungsvertrag*). **If you sign it, you don't get fired; you agree to leave.** This is not always a good idea.
 
 If you sign a termination agreement...[^19]
 
@@ -96,7 +96,7 @@ If you sign a termination agreement...[^19]
 - **There is no minimum [notice period](/glossary/Kündigungsfrist)**  
     You can agree to leave sooner. This is good if you already found another job. If you leave early, you sometimes get less [unemployment benefits](/glossary/ALG%20I).[^45]
 - **You can lose 3 months of [unemployment benefits](/glossary/ALG%20I)**  
-    If you *choose* to leave, you can lose 3 months of unemployment benefits.[^24] It depends on what's in your *Aufhebungsvertrag*. - [How unemployment benefits work](/guides/unemployment-benefits)
+    If you *choose* to leave, you usually lose 3 months of unemployment benefits.[^24] It depends on what's in your *Aufhebungsvertrag*. - [How unemployment benefits work](/guides/unemployment-benefits)
 
 When you sign an *Aufhebungsvertrag*, you make a deal with your employer. You get more money, they get less problems. You can accept, refuse or negotiate this deal. Your employer can't force you to sign an *Aufhebungsvertrag*.[^20] If you are not sure, [get legal help](#need-help).
 
@@ -292,6 +292,8 @@ If you need help, get legal help. In Germany, it's normal to hire a lawyer. It's
 
 **[Where to get legal help ➞](/guides/questions-about-berlin#work-questions)**
 
+[^1]: [Andreas Martin](https://rechtsanwalt-arbeitsrecht-in-berlin.de/) (July 2025)
+[^2]: [§626 BGB](https://www.gesetze-im-internet.de/bgb/__626.html)
 [^4]: [VAB A.18g.4](/out/vab) (December 2024), [§82 Abs. 6 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__82.html)
 [^5]: [§7 Abs. 2 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__7.html), [7.2.2 VAB](/out/vab), [David Kremers](https://www.linkedin.com/pulse/mutual-obligations-case-early-termination-employment-non-eu-kremers/?utm_source=share&utm_medium=member_ios&utm_campaign=share_via#:~:text=usually%2C%20nothing%20happens%20at%20first), [anwalt.de](https://www.anwalt.de/rechtstipps/blaue-karte-eu-was-tun-bei-arbeitgeberwechsel-oder-kuendigung-211321.html), [make-it-in-germany.com](https://www.make-it-in-germany.com/de/blaue-karte-eu#:~:text=danach%20kann%20nach%20%C2%A7%2018c%20aufenthg%20fur%20maximal%20ein%20halbes%20jahr), [Facebook](https://www.facebook.com/groups/226825394858771/?multi_permalinks=1328506994690600), Charlott Posch of the [Willkommenszentrum](https://www.berlin.de/willkommenszentrum/) (June 2023), Beratungsservice of the Ausländerbehörde (June 2023), [Red Tape Translation](/out/red-tape-translation) (July 2023), Carina Senf at [Rotwang Law](https://rotwang-law.de/en/) (July 2023), [BAMF](https://www.bamf.de/EN/Themen/MigrationAufenthalt/ZuwandererDrittstaaten/Arbeit/Fachkraft/fachkraft-node.html#:~:text=you%20have%20the%20option%20of%20applying%20for%20a%20residence%20permit%20for%20up%20to%20six%20months%20to%20look%20for%20a%20job)
 [^6]: [Techniker Krankenkasse](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-versicherte/veraenderung-berufliche-situation/wenn-sie-arbeitslos-sind/werde-arbeitslos-wie-bin-ich-versichert-2005726)
@@ -305,11 +307,11 @@ If you need help, get legal help. In Germany, it's normal to hire a lawyer. It's
 [^15]: [verdi.de](https://www.verdi.de/themen/arbeit/++co++6c32cc08-6d54-11ec-b675-001a4a16012a), [§109 GewO](https://www.gesetze-im-internet.de/gewo/__109.html)
 [^16]: [karrierebibel.de](https://karrierebibel.de/arbeitszeugnis/)
 [^19]: [arbeitnow.com](https://www.arbeitnow.com/blog/fired-in-germany#what-you-should-not-do-when-you-are-fired), [Finanztip](https://www.finanztip.de/aufhebungsvertrag/#c15632)
-[^20]: [Finanztip](https://www.finanztip.de/aufhebungsvertrag/#:~:text=dein%20arbeitgeber%20kann%20dich%20nicht%20zwingen)
-[^21]: [§1a KSchG](https://www.gesetze-im-internet.de/kschg/__1a.html)
+[^20]: [Finanztip](https://www.finanztip.de/aufhebungsvertrag/#:~:text=dein%20arbeitgeber%20kann%20dich%20nicht%20zwingen), [Andreas Martin](https://rechtsanwalt-arbeitsrecht-in-berlin.de/) (July 2025)
+[^21]: [§1a KSchG](https://www.gesetze-im-internet.de/kschg/__1a.html), "It's a guideline, not a legal entitlement" ([Andreas Martin](https://rechtsanwalt-arbeitsrecht-in-berlin.de/), July 2025)
 [^22]: [roedl.de](https://www.roedl.de/themen/mandantenbrief/2014-02/wirksamkeit-stichtagsklauseln-arbeitsvertraege), [fachanwaltfürarbeitsrecht.net](https://fachanwaltfürarbeitsrecht.net/kuendigung/bonus-nach-kuendigung/)
 [^23]: [anwalt-martin.de](https://www.anwalt-martin.de/lohn-nach-kuendigung/), [dr-drees.com](https://www.dr-drees.com/bonus-nach-kuendigung/)
-[^24]: [Finanztip](https://www.finanztip.de/sperrzeit-arbeitslosengeld/#:~:text=3-,bedeutet%20ein%20auf%C2%ADhe%C2%ADbungs%C2%ADver%C2%ADtrag%20immer%20sperrzeit%3F,-Wenn%20Du%20mit)
+[^24]: [Finanztip](https://www.finanztip.de/sperrzeit-arbeitslosengeld/#:~:text=3-,bedeutet%20ein%20auf%C2%ADhe%C2%ADbungs%C2%ADver%C2%ADtrag%20immer%20sperrzeit%3F,-Wenn%20Du%20mit), [Andreas Martin](https://rechtsanwalt-arbeitsrecht-in-berlin.de/) (July 2025)
 [^25]: [Finanztip](https://www.finanztip.de/sperrzeit-arbeitslosengeld/)
 [^26]: [kanzlei-chevalier.de](https://www.kanzlei-chevalier.de/blog/abfindungszahlungen-im-ueberblick-ostdeutschland-weiterhin-benachteiligt)
 [^27]: [§41b EStG](https://www.gesetze-im-internet.de/estg/__41b.html), [prokontex.de](https://www.prokontex.de/blog/arbeitsverhaeltnis-beendet-welche-unterlagen-koennen-sie-erwarten/), [bewerbungen.de](https://www.bewerbungen.de/berufsleben/arbeitsrecht/arbeitspapiere-was-bei-beendigung-des-arbeitsverhaeltnisses-zu-beachten-ist/), [Red Tape Translation](https://redtapetranslation.com/dealing-with-burnout-in-germany/) (July 2023), [Rotwang Law](https://rotwang-law.de/en/) (July 2023)
