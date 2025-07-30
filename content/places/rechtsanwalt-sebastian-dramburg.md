@@ -1,6 +1,6 @@
 ---
-Name: Rechtsanwalt Sebastian Dramburg
-Description: Copyright lawyer. Certified for copyright, media law and information technology law. Speaks English and German.
+Name: Sebastian Dramburg
+Description: Copyright lawyer. Certified for copyright, media law and information technology law.
 Website: https://www.medienrechtberlin.de/copyright-lawyer-germany/
 Email: webmaster@medienrechtberlin.de
 Address: Schlüterstraße 29

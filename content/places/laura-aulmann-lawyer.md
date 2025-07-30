@@ -1,6 +1,6 @@
 ---
 Name: Laura Aulmann
-Description: Immigration lawyer. Has experience with visas and immigration.
+Description: Immigration lawyer.
 Website: http://www.aulmann-anwaeltin.de/en/index.html
 Email: 
 Address: Hochstraße 21

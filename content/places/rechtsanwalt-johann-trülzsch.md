@@ -1,5 +1,5 @@
 ---
-Name: Rechtsanwalt Johann Trülzsch
+Name: Johann Trülzsch
 Description: English and German-speaking lawyer
 Website: https://ra-truelzsch.de/german-lawyer-berlin/
 Email: jtruelzsch@yahoo.de

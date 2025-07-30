@@ -1,6 +1,6 @@
 ---
 Name: Dr. Henrik Göddeke
-Description: Employment law and terminations.
+Description: Employment law and wrongful terminations.
 Website: https://anwalt-arbeitsrecht-kuendigung-berlin.de/
 Email: anwalt@aakb.de
 Address: Leipziger Pl. 15

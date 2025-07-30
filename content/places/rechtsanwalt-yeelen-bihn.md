@@ -1,5 +1,5 @@
 ---
-Name: Rechtsanwalt Yeelen Bihn
+Name: Yeelen Bihn
 Description: Criminal and immigration law.
 Website: http://anwalt-bihn.de/
 Email: mail@anwalt-bihn.de

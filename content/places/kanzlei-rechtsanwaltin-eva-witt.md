@@ -1,5 +1,5 @@
 ---
-Name: Kanzlei Rechtsanwältin Eva Witt
+Name: Eva Witt
 Description: Immigration law
 Website: 
 Email: info@kanzlei-witt.eu

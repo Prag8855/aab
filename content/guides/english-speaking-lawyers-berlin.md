@@ -8,6 +8,7 @@ Related_places:
     places/alexander-von-engelhardt.md
     places/rotwang-law.md
     places/rechtsanwalt-jean-baptiste-abel.md
+    places/goddeke-aakb.md
     places/schönfeld-benedicter-rechtsanwälte.md
     places/kanzlei-stöbe.md
     places/vpmk-rechtsanwälte.md
@@ -25,7 +26,7 @@ Related_places:
     places/von-boetticher-rechtsanwälte-partnerschaftsgesellschaft-mbh.md
     places/kanzlei-meinecke-helling.md
     places/streiff-law.md
-    places/losemann-legal-tax-gmbh-rechtsanwaltsgesellschaft.md
+    places/losemann-tax-gmbh-steuerberatungsgesellschaft.md
     places/piegeler-fachanwaltsbüro-für-familie-und-arbeit.md
     places/duske-becker-sozien.md
     places/steltzer-rechtsanwälte-mediatoren.md
@@ -34,7 +35,6 @@ Related_places:
     places/rechtsanwalt-philipp-schläger.md
     places/christoph-tometten-ll-m.md
     places/fürstenow-law-office.md
-    places/anwaltskanzlei-johann-trülzsch.md
     places/dr-jonathan-burmeister-defense-lawyer-attorney.md
     places/rechtsanwalt-sebastian-dramburg.md
     places/dr-dirk-böhler-llm.md
@@ -46,7 +46,6 @@ Related_places:
     places/hertin-and-partner.md
     places/christoph-mueller.md
     places/bohm-anwaltskanzlei.md
-    places/goddeke-aakb.md
     places/hogertz.md
     places/koudous-international.md
     places/casimir-vogt.md
@@ -60,7 +59,6 @@ Related_places:
     places/fn-legal.md
     places/vs-legal.md
     places/andreas-martin.md
-    places/dr-goddeke.md
 ---
 
 Use [the list below](#list-of-lawyers) to find an English-speaking lawyer in Berlin.

@@ -1,5 +1,5 @@
 ---
-Name: Rotwang Law (Rechtsanwälte)
+Name: Rotwang Law
 Description: Employment law. They helped me write about work and unemployment.
 Website: https://www.rotwang-law.de/
 Email: kanzlei@rotwang-law.de

@@ -1,5 +1,5 @@
 ---
-Name: von Boetticher Rechtsanwälte Partnerschaftsgesellschaft mbH
+Name: von Boetticher
 Description: 
 Website: https://www.boetticher.com/?lang=en
 Email: 

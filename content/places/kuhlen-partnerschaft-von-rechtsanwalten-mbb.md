@@ -1,5 +1,5 @@
 ---
-Name: KUHLEN Partnerschaft von Rechtsanwälten mbB
+Name: KUHLEN
 Description: They speak English, French and German
 Website: https://kuhlen-berlin.de/
 Email: l@kuhlen-berlin.de

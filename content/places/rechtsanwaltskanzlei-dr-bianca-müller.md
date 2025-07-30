@@ -1,6 +1,6 @@
 ---
-Name: Rechtsanwaltskanzlei Dr. Bianca Müller
-Description: Certified specialist in copyright and media law.
+Name: Dr. Bianca Müller
+Description: Copyright and media law.
 Website: https://www.entertainmentlaw-berlin.com/
 Email: info@entertainmentlaw-berlin.com
 Address: Fuggerstraße 22

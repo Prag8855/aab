@@ -1,5 +1,5 @@
 ---
-Name: Rechtsanwalt Stephan Sander
+Name: Stephan Sander
 Description: Family law
 Website: https://www.berlin-rechtsanwalt.com/
 Email: ra.sander@berlin-rechtsanwalt.com

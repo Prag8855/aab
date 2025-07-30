@@ -1,6 +1,6 @@
 ---
-Name: Losemann Tax GmbH Steuerberatungsgesellschaft
-Description: Tax, legal and accounting services offered in German, English and Spanish.
+Name: Losemann Tax
+Description: Tax, legal and accounting services in German, English and Spanish.
 Website: https://www.losemann-legal-tax.com/
 Email: 
 Address: Friedrichstraße 95

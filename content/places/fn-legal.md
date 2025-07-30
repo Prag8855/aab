@@ -1,5 +1,5 @@
 ---
-Name: Franßen & Nusser Rechtsanwälte PartGmbB
+Name: Franßen & Nusser
 Description: Environmental law
 Website: https://fn.legal/
 Email: klusmeyer@fn.legal

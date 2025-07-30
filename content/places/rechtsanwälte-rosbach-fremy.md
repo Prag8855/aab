@@ -1,5 +1,5 @@
 ---
-Name: Rechtsanwälte Rosbach & Fremy
+Name: Rosbach & Fremy
 Description: Commercial law, business law, civil law and estates
 Website: http://www.ra-rff.de/
 Email: 

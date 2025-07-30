@@ -1,5 +1,5 @@
 ---
-Name: Schönfeld Benedicter Rechtsanwälte
+Name: Schönfeld Benedicter
 Description: Dr. Gregory Benedicter speaks English fluently.
 Website: http://www.schoenfeld-benedicter.de/
 Email: 

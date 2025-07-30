@@ -1,6 +1,6 @@
 ---
-Name: Christoph Tometten, LL.M.
-Description: Immigration lawyer, speaks English and German.
+Name: Christoph Tometten
+Description: Immigration lawyer.
 Website: http://www.kanzlei-moeckernkiez.de
 Email: 
 Address: Yorckstraße 26

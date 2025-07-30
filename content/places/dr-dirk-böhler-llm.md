@@ -1,5 +1,5 @@
 ---
-Name: Dr. Dirk Böhler LLM
+Name: Dr. Dirk Böhler
 Description: Environmental law, administrative law, litigation, due diligence and zoning law.
 Website: http://www.boehlaw.de/
 Email: kontakt@boehlaw.de

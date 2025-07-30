@@ -1,5 +1,5 @@
 ---
-Name: Rechtsanwalt Andreas Martin | Fachanwalt für Arbeitsrecht
+Name: Andreas Martin
 Description: Employment law. He speaks English and Polish.
 Website: https://rechtsanwalt-arbeitsrecht-in-berlin.de/
 Email: info@rechtsanwalt-arbeitsrecht-in-berlin.de

@@ -1,5 +1,5 @@
 ---
-Name: Vassiliki Siochou - Rechtsanwältin | Mediatorin
+Name: Vassiliki Siochou
 Description: Tenant law and property law. She speaks English and Greek.
 Website: http://www.siochou-legal.de/
 Email: mail@siochou-legal.de
