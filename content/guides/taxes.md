@@ -63,9 +63,9 @@ If you are an employee, your employer pays half of it. If you earn less than €
 
 ### Long-term care insurance
 
-Long-term care insurance (*[[Pflegeversicherung]]*) pays for your healthcare when you are old. It costs {{PFLEGEVERSICHERUNG_BASE_RATE}}% of your income. If you are over {{PFLEGEVERSICHERUNG_BASE_RATE_MAX_AGE}} years old, and you don't have children, it costs {{PFLEGEVERSICHERUNG_MAX_RATE}}% of your income.
+Long-term care insurance (*[[Pflegeversicherung]]*) pays for your healthcare when you are old. It costs {{PFLEGEVERSICHERUNG_MIN_RATE}}% to {{PFLEGEVERSICHERUNG_MAX_RATE}}% of your income. If you have a job, your employer pays {{ PFLEGEVERSICHERUNG_EMPLOYER_RATE }}% and you pay the rest.
 
-If you are an employee, your employer pays half of it.
+Use my [health insurance calculator](/tools/health-insurance-calculator) to calculate your *Pflegeversicherung*.
 
 ### Public pension insurance
 
