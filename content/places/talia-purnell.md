@@ -1,5 +1,5 @@
 ---
-Name: Fiona Walsh
+Name: Talia Purnell
 Description: Psychodynamic therapy
 Website: https://purnellcounseling.com/
 Email: purnellcounseling@gmail.com
