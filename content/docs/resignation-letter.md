@@ -25,3 +25,9 @@ To [quit your job](/guides/losing-your-job), you must give your employer a resig
 Your resignation letter must be **printed and signed**. An email, a fax, an instant message or a conversation is not enough.
 
 **[How to send your resignation letter ➞](/guides/german-resignation-letter#how-to-give-your-resignation-letter)**
+
+## Need help?
+
+**[English-speaking lawyers in Berlin ➞](/guides/english-speaking-lawyers-berlin)**
+
+**[Other ways to get help ➞](/guides/questions-about-berlin#work-questions)**

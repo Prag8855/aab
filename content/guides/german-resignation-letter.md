@@ -69,13 +69,19 @@ Keep a copy of your resignation letter. The *[[Agentur für Arbeit]]* asks for i
 
 **[How to quit your job in Germany ➞](/guides/losing-your-job)**
 
+## Need help?
+
+**[English-speaking lawyers in Berlin ➞](/guides/english-speaking-lawyers-berlin)**
+
+**[Other ways to get help ➞](/guides/questions-about-berlin#work-questions)**
+
 [^1]: [§623 BGB](https://www.gesetze-im-internet.de/bgb/__623.html), [roberthalf.de](https://www.roberthalf.de/unsere-zusammenarbeit/news-info-center/karriere-tipps/arbeitsrecht/kuendigung)
-[^10]: [ArbeitNow](https://www.arbeitnow.com/blog/job-resignation-in-germany), [roberthalf.com](https://www.roberthalf.de/unsere-zusammenarbeit/news-info-center/karriere-tipps/arbeitsrecht/kuendigung#:~:text=das%20gehort%20ins%20kundigungsschreiben), [karrierebibel.de](https://karrierebibel.de/kundigungsschreiben-muster/#:~:text=begrundung%20(optional)), [peopleatventure.de](https://www.peopleatventure.de/kuendigungsschreiben#:~:text=geben%20sie%20dem%20leser%20keinerlei%20spielraum%2C%20ihre%20kundigung%20falsch%20zu%20interpretieren.)
-[^11]: [§126 Abs. 1 BGB](http://www.gesetze-im-internet.de/bgb/__126.html), [kanzlei-hasselbach.de](https://www.kanzlei-hasselbach.de/blog/zugang-einer-kuendigung-arbeitsrecht/#2), [roberthalf.de](https://www.roberthalf.de/unsere-zusammenarbeit/news-info-center/karriere-tipps/arbeitsrecht/kuendigung)
-[^12]: [kanzlei-hasselbach.de](https://www.kanzlei-hasselbach.de/blog/zugang-einer-kuendigung-arbeitsrecht/#2)
+[^2]: Interview with an unemployed person (July 2023)
 [^5]: [karrierebibel.de](https://karrierebibel.de/kundigungsschreiben-muster/)
 [^6]: [spiegel.de](https://www.spiegel.de/karriere/leitfaden-ich-kuendige-aber-richtig-a-858159.html#:~:text=die%20frage%20nach%20dem%20kundigungsgrund)
 [^7]: [karrierebibel.de](https://karrierebibel.de/kundigungsschreiben-muster/#:~:text=Personalnummer%3A%20MM987654-123-,anrede%20(pflicht),-Die%20K%C3%BCndigung%20muss)
 [^8]: [roberthalf.de](https://www.roberthalf.de/unsere-zusammenarbeit/news-info-center/karriere-tipps/arbeitsrecht/kuendigung#:~:text=zustellung%20der%20kundigung%3A%20am%20besten%20personlich)
 [^9]: [Rotwang Law](https://rotwang-law.de/en/) (June 2023)
-[^2]: Interview with an unemployed person (July 2023)
+[^10]: [ArbeitNow](https://www.arbeitnow.com/blog/job-resignation-in-germany), [roberthalf.com](https://www.roberthalf.de/unsere-zusammenarbeit/news-info-center/karriere-tipps/arbeitsrecht/kuendigung#:~:text=das%20gehort%20ins%20kundigungsschreiben), [karrierebibel.de](https://karrierebibel.de/kundigungsschreiben-muster/#:~:text=begrundung%20(optional)), [peopleatventure.de](https://www.peopleatventure.de/kuendigungsschreiben#:~:text=geben%20sie%20dem%20leser%20keinerlei%20spielraum%2C%20ihre%20kundigung%20falsch%20zu%20interpretieren.)
+[^11]: [§126 Abs. 1 BGB](http://www.gesetze-im-internet.de/bgb/__126.html), [kanzlei-hasselbach.de](https://www.kanzlei-hasselbach.de/blog/zugang-einer-kuendigung-arbeitsrecht/#2), [roberthalf.de](https://www.roberthalf.de/unsere-zusammenarbeit/news-info-center/karriere-tipps/arbeitsrecht/kuendigung)
+[^12]: [kanzlei-hasselbach.de](https://www.kanzlei-hasselbach.de/blog/zugang-einer-kuendigung-arbeitsrecht/#2)

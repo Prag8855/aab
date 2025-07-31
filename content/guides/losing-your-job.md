@@ -291,11 +291,11 @@ During your notice period, you can still go on [sick leave](/guides/sick-leave).
 
 ## Need help?
 
-If you need help, get legal help. Hire an employment lawyer (*Anwalt für Arbeitsrecht*). In Germany, it's normal to hire a lawyer. It's not an aggressive move.
+If you need help, hire an employment lawyer (*Anwalt für Arbeitsrecht*). In Germany, it's normal to hire a lawyer. It's not an aggressive move.
 
 **[English-speaking lawyers in Berlin ➞](/guides/english-speaking-lawyers-berlin)**
 
-**[Where to get legal help ➞](/guides/questions-about-berlin#work-questions)**
+**[Other ways to get help ➞](/guides/questions-about-berlin#work-questions)**
 
 [^1]: [Andreas Martin](https://rechtsanwalt-arbeitsrecht-in-berlin.de/) (July 2025)
 [^2]: [§626 BGB](https://www.gesetze-im-internet.de/bgb/__626.html)
