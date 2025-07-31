@@ -11,11 +11,11 @@ This guide shows you how ADHD treatment usually works in Germany. It's based on 
 
 ## Health insurance coverage
 
-The ADHD diagnosis, therapy and medication are fully covered by your health insurance. There is only a €5 deductible on each prescription.[^0]
+**If you have [public health insurance](/glossary/gesetzliche%20Krankenversicherung)**, it covers the ADHD diagnosis, therapy and medication. There is only a €5 [deductible](/glossary/Selbstbeteiligung) for each prescription.[^0] You must find a psychiatrist that accepts public health insurance. They are harder to find.
 
-If you have [public health insurance](/glossary/gesetzliche%20Krankenversicherung), you must find a psychiatrist that accepts public health insurance. They are harder to find.
+Public health insurance covers the cheapest solution that works. Doctors will only try medication if it's necessary. They will start with the cheapest medication: Medikinet (Ritalin).
 
-If you have [private health insurance](/glossary/private%20Krankenversicherung), it's easier to find a psychiatrist and get an appointment.
+**If you have [private health insurance](/glossary/private%20Krankenversicherung)**, ask your insurer what is covered. Private health insurance usually covers the ADHD diagnosis, therapy and medication. It usually covers more expensive ADHD medication like Elvanse (Vyvanse).
 
 **[English-speaking psychiatrists in Berlin ➞](/guides/english-speaking-psychiatrists-berlin)**
 
@@ -23,14 +23,14 @@ If you have [private health insurance](/glossary/private%20Krankenversicherung),
 
 To get diagnosed for ADHD, you must:
 
-1. **Find a psychiatrist**  
-    If you can, choose a psychiatrist that specialises in ADHD. They are harder to find. - [English-speaking psychiatrists in Berlin](/guides/english-speaking-psychiatrists-berlin)
+1. **[Find a psychiatrist](/guides/english-speaking-psychiatrists-berlin)**  
+    If you can, choose a psychiatrist that specialises in ADHD. See a psychiatrist, not a psychotherapist. Only psychiatrists can prescribe medication. Ask your health insurer to recommend a psychiatrist.
 2. **Book an appointment**  
-    This can be hard. Many psychiatrists don't accept new patients. Your appointment might be in a few weeks.
+    This can be hard. Many psychiatrists don't accept new patients. If you have public health insurance, it's harder to find a psychiatrist.
 3. **Take an ADHD diagnosis test**  
     In most cases, the test is a simple interview. They just ask you a few questions about your life. Some psychiatrists will ask for more tests.
 
-The hardest part is to find a psychiatrist and book an appointment. This is not easy for people with ADHD.
+The hardest part is to find a psychiatrist and book an appointment. This is harder for people with ADHD.
 
 ### Finding a psychiatrist
 
@@ -42,9 +42,9 @@ These Berlin psychiatrists speak English and diagnose people with ADHD:
 - [Dr. Susanne Finke](https://privatpraxis-psychiatrie-berlin.de/) - no public health insurance
 - [Dr. Arne Kuhlmei](https://www.praxis-kuhlmei.de/)[^6]
 
-Try [this list of ADHD doctors](https://docs.google.com/spreadsheets/d/1E52j1v6zl-NwkY2PQlYzx2yUve09UySyfG00fxGHa5U/edit#gid=0). This is an unofficial list. It might not get updated.
+**[English-speaking psychiatrists in Berlin ➞](/guides/english-speaking-psychiatrists-berlin)**
 
-**[More English-speaking psychiatrists in Berlin ➞](/guides/english-speaking-psychiatrists-berlin)**
+Also try [this list of ADHD doctors](https://docs.google.com/spreadsheets/d/1E52j1v6zl-NwkY2PQlYzx2yUve09UySyfG00fxGHa5U/edit#gid=0). This is an unofficial list. It might not get updated.
 
 ## The ADHD treatment process
 
@@ -54,7 +54,7 @@ This is the process that I followed. Your experience could be different.
 
 During your first appointment, your psychiatrist will see if you have ADHD, and how it affects your life. They will decide if you need therapy or medication for it.
 
-**Your psychiatrist will only prescribe ADHD medication if it's necessary.** German doctors are very careful about prescribing medication. They might want to try therapy and other methods first. Medication has side effects, so they try softer approaches first. You might find this frustrating, but you must be patient.
+**Your psychiatrist will only prescribe ADHD medication if it's necessary.** German doctors are very careful about prescribing medication. They might want to try therapy and other cheaper methods first. Medication has side effects, so they try softer approaches first. You might find this frustrating, but you must be patient.
 
 They might measure your brain activity with an [Electroencephalogram](https://www.nhs.uk/conditions/electroencephalogram/) (EEG). Not all psychiatrists do it.
 
@@ -82,15 +82,20 @@ If Medikinet does not work for you, tell your psychiatrist. You are not alone. T
 
 ### Long term treatment
 
-After you adjust your medication dosage, you can get prescriptions from your family doctor (*Hausarzt*).[^4] It's easier to see a family doctor than a psychiatrist, because they have more free appointments.
+After you adjust your medication dosage, you can get prescriptions from your family doctor (*[[Hausarzt]]*).[^4] It's easier to see a family doctor than a psychiatrist, because they have more free appointments.
 
 ## ADHD medication used in Germany
 
-**Medikinet** (Ritalin) is the most commonly prescribed ADHD medication. You can also get Elvanse (Vyvanse), Atomoxetine (Strattera) and other similar drugs, but you must usually start with Medikinet.[^5]
+**Medikinet** (Ritalin) is the most commonly prescribed ADHD medication. You can also get Elvanse (Vyvanse), Atomoxetine (Strattera) and other similar drugs, but you must usually start with Medikinet.[^5] Attentin is sometimes prescribed to children.[^1]
+
+## Other resources
+
+[ADxS.org](https://www.adxs.org) is the best resource for people with ADHD in Germany. [Mental State Berlin](https://www.facebook.com/groups/1501180583530755) is a Facebook group about mental health in Berlin.
 
 [^0]: [bundesgesundheitsministerium.de](https://www.bundesgesundheitsministerium.de/zuzahlung-und-erstattung-arzneimittel.html)
+[^1]: [bfarm.de](https://www.bfarm.de/SharedDocs/Downloads/DE/Arzneimittel/Pharmakovigilanz/Risikoinformationen/EducationMaterial/Anlagen/a-f/dexamfetamin-attentin-aerzte.pdf?__blob=publicationFile) (2017)
 [^2]: [Facebook](https://www.facebook.com/groups/1501180583530755/posts/2775481096100691/?comment_id=2818316808483786)
 [^3]: [Facebook](https://www.facebook.com/groups/1501180583530755/posts/2507204306261706/?comment_id=2659109251071210)
 [^4]: [reddit.com](https://old.reddit.com/r/ADHD/comments/vpd8vt/moving_to_germany_how_is_germany_with_managing/ieikpii/)
-[^5]: [reddit.com](https://old.reddit.com/r/askberliners/comments/124jitd/tk_insuranceprescribing_elvansevyvanse_adhd/)
+[^5]: [reddit.com](https://old.reddit.com/r/askberliners/comments/124jitd/tk_insuranceprescribing_elvansevyvanse_adhd/), [ADxS](https://www.adxs.org/en/page/231/choice-of-medication-for-adhd-or-adhd-with-comorbidity#content-21-order-of-priority-of-the-choice-of-medication) (July 2025)
 [^6]: [Google Sheet, unknown author](https://docs.google.com/spreadsheets/d/1E52j1v6zl-NwkY2PQlYzx2yUve09UySyfG00fxGHa5U/edit#gid=0)
