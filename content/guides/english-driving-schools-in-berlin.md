@@ -20,11 +20,17 @@ Related_places:
     places/fahrschule-prima.md
 ---
 
-To [get a German driving licence](/guides/driving-licence), you must take driving lessons. This guide lists places where you can take driving classes in English.
+To [get a German driving licence](/guides/driving-licence), you must take driving lessons. This guide lists schools where you can take driving classes in English.
 
 {% include "_blocks/tableOfContents.html" %}
 
-## How the driving exams work
+## List of English-speaking driving schools
+
+{% include '_blocks/relatedPlaces.html' %}
+
+To suggest a driving school, [fill this form](/suggest-business).
+
+## How to get a driving licence
 
 You take the theoretical exam on a computer. The exam is available in 13 different languages: Arabic, English, French, German, Greek, Italian, Croatian, Polish, Portuguese, Romanian, Russian, Spanish and Turkish.[^0]
 
@@ -32,22 +38,12 @@ You take the practical exam in a car. You must drive around the city, and prove 
 
 The German driving exam is not easy. People often have to take the exam multiple times.
 
+**[How to get a driving licence ➞](/guides/driving-licence)**
+
 ## Trade your foreign driving licence
 
-Your foreign driving licence [might be valid in Germany](/guides/convert-to-german-driving-licence#can-you-already-drive-in-germany). You can sometimes convert it to a German driving licence. You might not need driving lessons.
+Your foreign driving licence [might be valid in Germany](/guides/convert-to-german-driving-licence#can-you-already-drive-in-germany). You can sometimes convert it to a German driving licence. It's cheaper and faster. You might not need driving lessons.
 
 **[How to convert your foreign driving licence ➞](/guides/convert-to-german-driving-licence)**
-
-## List of English-speaking driving schools
-
-A few driving schools offer driving lessons in English.
-
-You don't need English theory, because most schools let you practice with an app, and the app is available in English. However, you *must* have an English-speaking instructor if you want to prepare for your practical exam.
-
-Many schools say they offer driving lessons in English, but only offer the online material in English. Always ask if the instructors really speak English.
-
-If a driving school is missing from this list, [let me know](/suggest-business).
-
-{% include '_blocks/relatedPlaces.html' %}
 
 [^0]: [gut-lernen.de](https://www.gut-lernen.de/fremdsprachen-pruefung.html), [berlin.de](https://www.berlin.de/labo/mobilitaet/fahrerlaubnisse-personen-und-gueterbefoerderung/fahrerlaubnis-fuehrerschein/artikel.283188.php)

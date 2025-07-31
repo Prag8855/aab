@@ -44,17 +44,15 @@ Related_places:
     places/dental-practice-pushpam-sreekumar.md
 ---
 
-This is a list of English-speaking dentists in Berlin. If this list is incomplete, you can [suggest a dentist](/suggest-business).
-
-You can also find a dentist on...
+This is a list of English-speaking dentists in Berlin. You can also find a dentist on...
 
 - [Doctolib](https://www.doctolib.de/)
 - [Doctena](https://www.doctena.de/en/)
-
-These websites let you filter by language.
 
 **[How to find English-speaking medical professionals ➞](/guides/how-to-find-english-speaking-medical-professionals-in-berlin)**
 
 ## List of dentists
 
 {% include '_blocks/relatedPlaces.html' %}
+
+To suggest a dentist, [fill this form](/suggest-business).

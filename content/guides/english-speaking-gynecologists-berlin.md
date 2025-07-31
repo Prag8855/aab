@@ -25,14 +25,12 @@ Related_places:
 
 This is a list of gynaecologists and obstetricians who speak English. They were recommended by other immigrants.
 
-## Gynaecologists are hard to find
-
 In Berlin, most gynaecologists are booked for months. Male gynaecologists are sometimes easier to find.[^0] If you have [private health insurance](/glossary/private%20Krankenversicherung), it's easier to get an appointment.
 
 ## List of gynaecologists and obstetricians
 
-If a doctor is missing from this list, [contact me](/suggest-business).
-
 {% include '_blocks/relatedPlaces.html' %}
+
+To suggest a gynaecologist, [fill this form](/suggest-business).
 
 [^0]: [thaispicy.co](https://thaispicy.co/moving-to-germany-while-pregnant/)

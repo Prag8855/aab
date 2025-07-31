@@ -61,6 +61,16 @@ Tax advisors are legally liable for the advice they give. If they make a mistake
 
 {% include "_blocks/tableOfContents.html" %}
 
+## List of English-speaking tax advisors
+
+{% include '_blocks/relatedPlaces.html' %}
+
+To suggest a tax advisor, [fill this form](/suggest-business).
+
+### Other lists
+
+- [DATEV Kammersuchservice](http://www.datev.de/kasus/Start?KammerId=5&Suffix1=Berlin&Suffix2=Berlin) - search tax advisors by language
+
 ## When to hire a tax advisor
 
 Hire a tax advisor when...
@@ -125,14 +135,6 @@ The membership costs €30 to €300 per year, depending on your income.[^4] Onl
 **[Smart](/out/smart-coop)** is a cooperative for freelancers. If you are a member, they take care of invoicing, taxes, and many other things for you. They also give you an employment contract and a steady income. 
 
 If you want the flexibility of a freelancer and the stability of a job, it's a good option.
-
-## List of English-speaking tax advisors
-
-{% include '_blocks/relatedPlaces.html' %}
-
-### Other lists
-
-- [DATEV Kammersuchservice](http://www.datev.de/kasus/Start?KammerId=5&Suffix1=Berlin&Suffix2=Berlin) - search tax advisors by language
 
 [^0]: [Finanztip](https://www.finanztip.de/steuerberatungskosten/)
 [^1]: [Suat Göydeniz](https://stb-goeydeniz.de/) (2022)

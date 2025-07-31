@@ -40,9 +40,9 @@ This is how you can find an English-speaking doctor or GP.
 
 ## List of doctors and GPs
 
-If a doctor is missing from this list, [fill this form](/suggest-business).
-
 {% include '_blocks/relatedPlaces.html' %}
+
+To suggest a doctor, [fill this form](/suggest-business).
 
 ## Other doctor databases
 

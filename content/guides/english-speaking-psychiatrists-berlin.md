@@ -27,23 +27,12 @@ This guide explains:
 
 {% include "_blocks/tableOfContents.html" %}
 
-## Psychiatrist or psychotherapist?
-
-**Psychiatrists** solve mental health problems with medical treatments. They are doctors who studied medicine. They can diagnose mental health problems and prescribe medication. They can also give therapy if they took therapy training.
-
-**Psychotherapists** solve mental health problems with therapy. They studied psychotherapy. They can diagnose mental health problems. They can't prescribe medication.[^2]
-
-**[More information ➞](/guides/english-speaking-psychotherapists-berlin#psychiatrist-psychotherapist-or-counsellor)**
-
-**[English-speaking psychotherapists in Berlin ➞](/guides/english-speaking-psychotherapists-berlin)**
-
-## How hard is it to find a psychiatrist?
-
-It's hard. It's much harder if you have [public health insurance](/glossary/gesetzliche%20Krankenversicherung), because many psychiatrists prefer clients with [private health insurance](/glossary/private%20Krankenversicherung).
 
 ## List of English-speaking psychiatrists
 
 {% include '_blocks/relatedPlaces.html' %}
+
+To suggest a psychiatrist, [fill this form](/suggest-therapist).
 
 ### Other lists of psychiatrists
 
@@ -61,5 +50,19 @@ These directories help you find English-speaking psychiatrists:
 **Your employer and your university** might give you access to psychotherapy. It could be easier than finding a therapist yourself.
 
 **[List of mental health resources ➞](/guides/english-speaking-psychotherapists-berlin#other-resources)**
+
+## Psychiatrist or psychotherapist?
+
+**Psychiatrists** solve mental health problems with medical treatments. They are doctors who studied medicine. They can diagnose mental health problems and prescribe medication. They can also give therapy if they took therapy training.
+
+**Psychotherapists** solve mental health problems with therapy. They studied psychotherapy. They can diagnose mental health problems. They can't prescribe medication.[^2]
+
+**[More information ➞](/guides/english-speaking-psychotherapists-berlin#psychiatrist-psychotherapist-or-counsellor)**
+
+**[English-speaking psychotherapists in Berlin ➞](/guides/english-speaking-psychotherapists-berlin)**
+
+## How hard is it to find a psychiatrist?
+
+It's hard. It's much harder if you have [public health insurance](/glossary/gesetzliche%20Krankenversicherung), because many psychiatrists prefer clients with [private health insurance](/glossary/private%20Krankenversicherung).
 
 [^2]: [psychologie-studieren.de](https://www.psychologie-studieren.de/berufe/unterschied-psychologe-psychotherapeut-psychiater/#psychotherapeut), [karriere.de](https://www.karriere.de/studium/unterschied-psychologe-psychotherapeut-psychiater/)

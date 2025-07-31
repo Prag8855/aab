@@ -5,7 +5,9 @@ Description: This list helps you find a Tierarzt who speak English in Berlin.
 Date_created: 2023-05-02
 ---
 
-If you don't speak German, these veterinarians speak English:
+If you don't speak German, these veterinarians speak English.
+
+## List of English-speaking vets
 
 - [Anne Gamalski](https://www.berlin-english-vet.com/)
 - [Ellen Laskawy](https://laskawy.jimdofree.com/)
@@ -26,8 +28,9 @@ If you don't speak German, these veterinarians speak English:
 - [Tierarztpraxis Chung und Wahle](https://tierarztpraxis-chung-wahle.com/en/home/) - English website, online appointments
 - [Tierarztpraxis Watson](https://www.tierarzt-watson.de/)
 
-This list is not complete. To suggest another English-speaking veterinarian, [contact me](/contact).
+To suggest a veterinarian, [fill this form](/suggest-business).
 
-**[More English-speaking vets](https://perpetual.care/english-speaking-services-in-berlin/)** - PerPETual
+## Other resources
 
-[Vets for emergencies](https://www.perpetual.care/be-bb-emergency-vets/) - PerPETual
+- **[More English-speaking vets](https://perpetual.care/english-speaking-services-in-berlin/)** - PerPETual
+- [Vets for emergencies](https://www.perpetual.care/be-bb-emergency-vets/) - PerPETual
