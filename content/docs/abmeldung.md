@@ -43,6 +43,8 @@ Use my [Abmeldung form filler](#fill-the-abmeldung-form-online), it's easier.
 - **Weitere Wohnungen**: Information about your other addresses in Germany. If you only had one address, leave this section empty.
     - **Anschrift**: Your other addresses in Germany.
     - **Diese Wohnung war**: Choose this if this address was your main residence (*Hauptwohnung*) or secondary residence (*Nebenwohnung*).
+- **People to deregister**  
+    Do not use Cyrillic or non-Latin characters. Write your name the same way as in your passport.
 - **Ort, Datum, Unterschrift**: The date, the city, and your signature. Use the DD.MM.YYYY date format. Your signature should be the same as on your passport or national ID.
 
 If you deregister more than 3 people, use multiple forms.[^1]

@@ -67,9 +67,9 @@ If you fill the form yourself, use these instructions:
     - Choose **Ja** if you have other residences than the ones listed above. If you check this box, you must also fill [this extra form](https://www.berlin.de/formularverzeichnis/?formular=/labo/zentrale-einwohnerangelegenheiten/_assets/mdb-f402610-beiblatt_zur_anmeldung_blanko.pdf).
 - **Section 1 and section 2**: These sections contain information about the people who are registering their address. If you register more than two people, you must fill [this extra form](https://www.berlin.de/formularverzeichnis/?formular=/labo/zentrale-einwohnerangelegenheiten/_assets/mdb-f402610-beiblatt_zur_anmeldung_blanko.pdf).
     - **Familienmitglied ist**: leave this space empty
-    - **Familienname, ggf. Doktorgrad, Passname**: Your last name, doctoral degrees (e.g. "PhD")
-    - **Vornamen**: Your first name. If you have multiple first names, underline the name you want to be called.
-    - **Geburtsname**: Your name at birth, if you changed your name.
+    - **Familienname, ggf. Doktorgrad, Passname**: Your last name, doctoral degrees (e.g. "PhD"). Use the same spelling as in your passport. Do not use Cyrillic or non-Latin characters.[^2]
+    - **Vornamen**: Your first name. Use the same spelling as in your passport. If you have multiple first names, underline the name you want to be called. Do not use Cyrillic or non-Latin characters.[^2]
+    - **Geburtsname**: Your name at birth, if you changed your name. Do not use Cyrillic or non-Latin characters.
     - **Geschlecht**: Your gender. Enter "männlich" for male, "weiblich" for female, or "divers" for other.
     - **Tag, Ort, Land der Geburt**: Your date, place and country of birth. For example, "23.10.1955, Montreal, Canada". Use the DD.MM.YYYY date format.
     - **Religionsgesellschaft**: Enter the religious community you are part of. This information is used to collect the [church tax](/glossary/Kirchensteuer).
@@ -99,3 +99,4 @@ You must get a *[[Bürgeramt]]* appointment and bring the form in person.
 
 [^0]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/dm65o5/adding_co_to_the_anmeldung/), [gutefrage.net](https://www.gutefrage.net/frage/was-ist-ein-adresszusatz-)
 [^1]: [Red Tape Translation](/out/red-tape-translation) (September 2023)
+[^2]: [Elliot Herman](https://www.sorted.berlin/) (July 2025)
