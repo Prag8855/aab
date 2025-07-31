@@ -90,6 +90,8 @@ function loadGoogleMaps(){
 	t.parentElement.insertBefore(script, t);
 	placesMap.querySelector('.load-map-button').disabled = true;
 	placesMap.querySelector('.load-map-button').innerHTML = "Loading…";
+
+	plausible('Map loaded');
 }
 
 window.addEventListener("DOMContentLoaded", function() {
