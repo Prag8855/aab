@@ -8,7 +8,7 @@ Related_places:
     places/alexander-von-engelhardt.md
     places/rotwang-law.md
     places/rechtsanwalt-jean-baptiste-abel.md
-    places/goddeke-aakb.md
+    places/andreas-martin.md
     places/schönfeld-benedicter-rechtsanwälte.md
     places/kanzlei-stöbe.md
     places/vpmk-rechtsanwälte.md
@@ -58,7 +58,7 @@ Related_places:
     places/kanzlei-rechtsanwaltin-eva-witt.md
     places/fn-legal.md
     places/vs-legal.md
-    places/andreas-martin.md
+    places/goddeke-aakb.md
 ---
 
 Use [the list below](#list-of-lawyers) to find an English-speaking lawyer in Berlin.
