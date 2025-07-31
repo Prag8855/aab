@@ -97,9 +97,27 @@ This guide explains:
 - The difference between psychotherapists, [psychiatrists](/guides/english-speaking-psychiatrists-berlin) and others
 - The costs of getting therapy in Berlin
 
-**[Go to the list of therapists ➞](#list-of-therapists)**
-
 {% include "_blocks/tableOfContents.html" %}
+
+## List of therapists
+
+{% include '_blocks/relatedPlaces.html' %}
+
+To add a therapist, [fill this form](/suggest-therapist).
+
+### Other lists of therapists
+
+These directories help you find English-speaking therapists:
+
+- **[KV Berlin](https://www.kvberlin.de/fuer-patienten/arzt-und-psychotherapeutensuche)** - Find therapists who accept [public health insurance](/glossary/gesetzliche%20Krankenversicherung), with language filters
+- [Therapie.de directory](https://www.therapie.de/therapeutensuche/ergebnisse/?ort=Berlin) - Therapist search by language
+- [It's Complicated](https://www.complicated.life/en/find-a-therapist) - Find therapists by language and insurance type
+- [Berlin therapist directory](https://www.therapistinberlin.com/therapist-directory) - List of therapists with language information
+- [Doctolib](https://www.doctolib.de/) - Find doctors and therapists by language
+- [Jameda](https://www.jameda.de/suchen?loc=Berlin) - Find doctors and therapists by language
+- [AngloInfo's English-speaking therapist directory](https://www.angloinfo.com/berlin/directory/berlin-counselling-therapists-477)
+
+**[More resources and directories ➞](/guides/how-to-find-english-speaking-medical-professionals-in-berlin)**
 
 ## Psychiatrist, psychotherapist or counsellor?
 
@@ -149,24 +167,6 @@ In Berlin, it costs around €100 per hour.[^0] Group therapy is cheaper.
 
 **If you are a student**, you can also get free therapy [from your *Studentenwerk*](https://www.stw.berlin/en/counselling/psychologic-counselling/).
 
-## List of therapists
-
-{% include '_blocks/relatedPlaces.html' %}
-
-### Other lists of therapists
-
-These directories help you find English-speaking therapists:
-
-- **[KV Berlin](https://www.kvberlin.de/fuer-patienten/arzt-und-psychotherapeutensuche)** - Find therapists who accept [public health insurance](/glossary/gesetzliche%20Krankenversicherung), with language filters
-- [Therapie.de directory](https://www.therapie.de/therapeutensuche/ergebnisse/?ort=Berlin) - Therapist search by language
-- [It's Complicated](https://www.complicated.life/en/find-a-therapist) - Find therapists by language and insurance type
-- [Berlin therapist directory](https://www.therapistinberlin.com/therapist-directory) - List of therapists with language information
-- [Doctolib](https://www.doctolib.de/) - Find doctors and therapists by language
-- [Jameda](https://www.jameda.de/suchen?loc=Berlin) - Find doctors and therapists by language
-- [AngloInfo's English-speaking therapist directory](https://www.angloinfo.com/berlin/directory/berlin-counselling-therapists-477)
-
-**[More resources and directories ➞](/guides/how-to-find-english-speaking-medical-professionals-in-berlin)**
-
 ## Other resources
 
 **Your employer** and **your university** might give you access to psychotherapy. It could be easier than finding a therapist yourself.
@@ -182,6 +182,10 @@ These resources can also help:
 - [Frauentreffpunkt](https://skf-berlin.de/offene-sozialarbeit/anti-gewalt-bereich/frauentreffpunkt-gegen-haeusliche-gewalt/) - For female victims of domestic violence
 - [Vista Berlin](https://vistaberlin.de/sprachen/english/) - For alcohol or drug addiction
 
+### Emergency help
+
+If you need psychological help *right now*, **call the [Berliner Krisendienst](https://www.berliner-krisendienst.de/en/)**. They speak English, and they are available 24/7.
+
 ### For LGBTQ+ people
 
 - [GLADT](https://gladt.de/en/counseling/) - For people of colour and LGBTQ people
@@ -192,10 +196,6 @@ These resources can also help:
 ### Communities and self-help
 
 - [Mental State Berlin](https://www.facebook.com/groups/1501180583530755) - Facebook group about mental health
-
-## Emergency help
-
-If you need psychological help *right now*, **call the [Berliner Krisendienst](https://www.berliner-krisendienst.de/en/)**. They speak English, and they are available 24/7.
 
 [^0]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/kvqk1f/a_few_questions_about_getting_therapy_in_berlin/)
 [^1]: [psychologie-studieren.de](https://www.psychologie-studieren.de/berufe/unterschied-psychologe-psychotherapeut-psychiater/#psychotherapeut), [therapie.de](https://www.therapie.de/psyche/info/fragen/wichtigste-fragen/unterschied-psychotherapeut-psychologe-psychiater/#c2610)
