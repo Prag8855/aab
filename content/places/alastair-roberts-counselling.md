@@ -1,5 +1,5 @@
 ---
-Name: Alastair Roberts Counselling
+Name: Alastair Roberts
 Description: UK-accredited counsellor
 Accepts_public_insurance: No
 Website: http://www.alastairroberts.com/
