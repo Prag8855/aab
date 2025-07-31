@@ -118,7 +118,7 @@ Most private schools also offer online classes.
 - **[Sprachinstitut Berlin](https://sprachinstitut-berlin.de/en/learn-german-berlin/)**  
     Regular and intensive German classes in Mitte. Groups 4 to 8 people. Private lessons are available. They offer pronunciation training and other special classes.
 - **[Zeitgeist Zentrum](https://www.zeitgeist-zentrum.de/)**  
-    Regular and intensive German classes in Wedding. Groups of 6 to 12 people. They also have cultural events and a co-working space.
+    Regular and intensive German classes in Wedding. Private lessons, and groups of 6 to 12 people. They also have cultural events and a co-working space.
 
 ### Private teachers
 
