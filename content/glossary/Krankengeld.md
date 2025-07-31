@@ -13,11 +13,13 @@ If you are an employee, you get sick pay (*Krankengeld*) when you are too sick t
 
 **[Krankengeld calculator ➞](https://www.tk.de/service/app/2002892/krankengeldrechner/rechner.app)**
 
+**[How sick leave works in Germany ➞](/guides/sick-leave)**
+
 If you are self-employed, you do not get *Krankengeld* unless you pay for it.[^1] By default, most freelancers do not pay for it. You can also get disability insurance (*[[Berufsunfähigkeitsversicherung]]*). It pays your salary if you are too sick or injured to work.
 
-If you have a [minijob](/glossary/Minijob), *[[Familienversicherung]]* or student health insurance, you do not get *Krankengeld* because you don't pay for it.[^2]
+**[Sick leave options for freelancers ➞](/guides/sick-leave#sick-leave-for-freelancers)**
 
-**[How sick leave works in Germany ➞](/guides/sick-leave)**
+If you have a [minijob](/glossary/Minijob), *[[Familienversicherung]]* or student health insurance, you do not get *Krankengeld* because you don't pay for it.[^2]
 
 [^0]: [§48 SGB V](https://www.gesetze-im-internet.de/sgb_5/__48.html)
 [^1]: [tk.de](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-versicherte/leistungen/weitere-leistungen/krankengeld/selbststaendige/beitragshoehe-versicherung-krankengeld-selbststaendige-2006330)

@@ -69,6 +69,12 @@ If you renew a freelance visa, you usually need [public](/glossary/gesetzliche%2
 
 If you applied for the *[[Künstlersozialkasse]]*, you can have expat health insurance plus a proof of your KSK application.[^3]
 
+## Sick leave
+
+If you are self-employed, you do not get paid sick leave. If you are too sick to work, you have no income. You must prepare for this.
+
+**[Sick leave options for freelancers ➞](/guides/sick-leave#sick-leave-for-freelancers)**
+
 ## How to choose
 
 If you are self-employed, **never choose health insurance yourself**. It's a complicated decision, and you can make big mistakes. The cheapest option today can be an expensive mistake later. The best option depends on your citizenship, your income, your health, and your plans for the future.

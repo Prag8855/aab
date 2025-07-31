@@ -14,4 +14,6 @@ Job disability insurance (*Berufsunfähigkeitsversicherung*) pays you a salary i
 
 This insurance is useful if you have people who depend on you, or if you have a mortgage to pay. The price varies by profession. It's usually cheap, because accidents that prevent you from doing your job are rare. It can be more expensive if burnout is common in your industry.
 
+**[Sick leave options for freelancers ➞](/guides/sick-leave#sick-leave-for-freelancers)**
+
 **[Types of insurance in Germany ➞](/guides/insurance)**

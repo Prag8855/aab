@@ -281,17 +281,11 @@ You must get professional legal insurance. Private legal insurance rarely covers
 
 ### Get disability insurance
 
-If you are an employee, you get sickness pay while you are sick. Your employer pays your full salary for the first 6 weeks. After 6 weeks, your health insurance pays you 70% of your salary (up to €{{GKV_KRANKENGELD_DAILY_LIMIT|cur}} per day) for 78 weeks.
+Employees get sickness pay while they are sick. The employer pays their full salary for the first 6 weeks, then public health insurance pays 70% of their salary (up to €{{GKV_KRANKENGELD_DAILY_LIMIT|cur}} per day) for up to 78 weeks.
 
-By default, freelancers don't get sickness pay. If you don't work, you don't get paid.
+Freelancers don't get sickness pay. If you are too sick to work, you have no income. You must prepare for this. You should get *[[Krankengeld]]*, *[[Krankentagegeld]]* or [job disability insurance](/glossary/Berufsunfähigkeitsversicherung).
 
-If you pay a little more for health insurance, you get sickness pay for 78 weeks.
-
-You can also get disability insurance (*[[Berufsunfähigkeitsversicherung]]*). It gives you a regular income if you are too sick to work. Disability insurance is optional, but it's useful if you have dependents or a mortgage. Around 26% of Germans have disability insurance.[^6] It costs around €40 per month.[^13]
-
-If you don't speak German, [Feather](/out/feather-disability) and [Getsafe](/out/getsafe-berufunfahigkeit) sell disability insurance, and they speak English. [Tarifcheck](/out/tarifcheck-berufunfahigkeit) helps you compare options, but it's only in German.
-
-**[Types of insurance in Germany ➞](/guides/insurance)**
+**[Sick leave options for freelancers ➞](/guides/sick-leave#sick-leave-for-freelancers)**
 
 ### Join the [[Künstlersozialkasse]]
 
@@ -334,13 +328,11 @@ There are tools that make it easier:
 [^3]: [together.bunq.com](https://web.archive.org/web/20231129105449/https://together.bunq.com/d/5116-deutsche-pf-ndbarkeit-auf-niederl-ndisches-konto) (2018)
 [^4]: [juraforum.de](https://www.juraforum.de/lexikon/kontosperrung)
 [^5]: Personal experience (2017)
-[^6]: [gdv.de](https://www.gdv.de/gdv/themen/gesellschaft/versicherungsschutz-versicherungsdichte-ueberversicherung-49418) (2019)
 [^7]: Personal experience as a software developer (2020)
-[^8]: [/r/berlin](https://old.reddit.com/r/berlin/comments/4szbve/freelancing_in_germany_help_and_questions/d5dggy0/) (2016), [/r/berlin](https://old.reddit.com/r/berlin/comments/9b8tm8/a_few_questions_for_berlinbased_freelancers/e51c3tk/) (2018)
+[^8]: [Reddit](https://old.reddit.com/r/berlin/comments/4szbve/freelancing_in_germany_help_and_questions/d5dggy0/) (2016), [Reddit](https://old.reddit.com/r/berlin/comments/9b8tm8/a_few_questions_for_berlinbased_freelancers/e51c3tk/) (2018)
 [^9]: [medium.com](https://tiahardyrobinson.medium.com/in-berlin-depending-on-which-finanzamt-is-responsible-for-you-it-can-take-4-6-weeks-to-get-the-3e8e30ce5ea2)
 [^10]: [existenzgruender.de](https://www.existenzgruender.de/DE/Gruendung-vorbereiten/Entscheidung/Ihre-Startposition/Gruendung-aus-Arbeitslosigkeit/Einstiegsgeld/inhalt.html), [deutschland-startet.de](https://www.deutschland-startet.de/einstiegsgeld-investitionszuschuss/)
 [^11]: [deutschland-startet.de](https://www.deutschland-startet.de/einstiegsgeld-investitionszuschuss/)
 [^12]: [hartz4widerspruch.de](https://hartz4widerspruch.de/ratgeber/basic/wann-erhalten-eu-buerger-und-andere-auslaender-hartz-4/#alg_i_und_alg_ii_-_wann_haben_eu-auslander_anspruch), Carina Senf at [Rotwang Law](https://rotwang-law.de/en/) (July 2023)
-[^13]: Quote from [Feather](/out/feather-disability) (January 2025)
 [^14]: [anny.co](https://docs.anny.co/de/articles/1451-preise-in-netto-oder-in-brutto-anzeigen) (2024), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/9mdenm/how_much_should_a_freelance_developer_earn_in/) (2018)
 [^15]: Suat Göydeniz, tax advisor (2022)

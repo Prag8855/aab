@@ -99,18 +99,24 @@ If you can't work because you are sick, you can still travel if it helps your re
 
 ## Sick leave for freelancers
 
-If you are self-employed, you don't get paid while you are sick.
-
-You do not have an employer who pays your salary while you are sick. For the first 6 weeks, you get nothing.
-
-After 6 weeks, you get *[[Krankengeld]]* or *[[Krankentagegeld]]*, but only if you pay for it.[^24] Most freelancers don't, so they get nothing.
+If you are self-employed, you do not get paid sick leave.[^24] If you are too sick to work, you have no income. You must prepare for this.
 
 ### How to protect yourself
 
-- If you have [public health insurance](/glossary/gesetzliche%20Krankenversicherung), pay a little more to get *[[Krankengeld]]* when you are sick. You will pay {{GKV_BASE_RATE_EMPLOYEE}}% of your income instead of {{GKV_BASE_RATE_SELF_PAY}}%. You get *Krankengeld* after 6 weeks of sick leave, but you can pay more to get it faster (*Krankengeld Wahltarif*).[^17]
-- If you have [private health insurance](/glossary/private%20Krankenversicherung), get *[[Krankentagegeld]]* insurance.
-- Get disability insurance (*[[Berufsunfähigkeitsversicherung]]*). It pays your salary if you are permanently unable to do your job. If you have a family or a mortgage, this is important.
-- In your contracts, define what happens if you are too sick to finish a project in time.
+- **If you have [public health insurance](/glossary/gesetzliche%20Krankenversicherung)**  
+    You can pay more for *[[Krankengeld]]*. It costs 0.6% of your income. You get *Krankengeld* after 6 weeks of sick leave, but you can pay more to get it faster (*Krankengeld Wahltarif*).[^17]
+- **If you have [private health insurance](/glossary/private%20Krankenversicherung)**  
+    You can pay for *[[Krankentagegeld]]*. It pays you while you are too sick to work.
+
+You can also **get job disability insurance** (*[[Berufsunfähigkeitsversicherung]]*). It pays you if you are permanently unable to do your job. If you have a family or a mortgage, this is important. Around 26% of Germans have disability insurance.[^28] It costs around €40 per month.[^29]
+
+If you don't speak German, [Feather](/out/feather-disability) and [Getsafe](/out/getsafe-berufunfahigkeit) sell disability insurance, and they speak English. [Tarifcheck](/out/tarifcheck-berufunfahigkeit) helps you compare options, but it's only in German.
+
+In your contracts, define what happens if you are too sick to finish a project in time.
+
+## Sick leave for students
+
+If you have [public health insurance](/glossary/gesetzliche%20Krankenversicherung), and you pay the cheaper student tariff, you do not get *[[Krankengeld]]*.
 
 ## Sick leave for the unemployed
 
@@ -160,3 +166,5 @@ Missing work because of a hangover looks really bad. If it happens often, you ca
 [^25]: [arbeitgeber.de](https://arbeitgeber.de/elektronische-arbeitsunfaehigkeitsbescheinigung/)
 [^26]: [verdi.de](https://www.verdi.de/themen/arbeit/++co++710ce828-5da8-11ec-be48-001a4a160129#:~:text=aus%20dem%20minijob%20selbst%20entsteht%20aber%20(daruber%20hinaus)%20kein%20anspruch%20auf%20krankengeld) (January 2025)
 [^27]: [tk.de](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-versicherte/leistungen/weitere-leistungen/krankengeld/selbststaendige/beitragshoehe-versicherung-krankengeld-selbststaendige-2006330)
+[^28]: [gdv.de](https://www.gdv.de/gdv/themen/gesellschaft/versicherungsschutz-versicherungsdichte-ueberversicherung-49418) (2019)
+[^29]: Quote from [Feather](/out/feather-disability) (January 2025)
