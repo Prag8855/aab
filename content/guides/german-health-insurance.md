@@ -134,7 +134,7 @@ Everyone else must choose [public health insurance](#public-health-insurance). O
 
 Use my [health insurance recommendation tool](#your-options) to get a price estimate.
 
-A healthy 30-year-old employee pays around €250 per month.[^62] I am self-employed, I have a pre-existing health condition, and I pay €600 per month. Students pay around €130 per month.[^36]{{ fail_on('2026-02-01')}}
+Private health insurance is sometimes cheaper than public health insurance. A healthy 30-year-old employee pays around €250 per month.[^62] I am self-employed, I have a pre-existing health condition, and I pay €600 per month. Students pay around €130 per month.[^36]{{ fail_on('2026-02-01')}}
 
 The cost depends on 4 factors:
 
