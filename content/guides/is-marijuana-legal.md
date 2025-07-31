@@ -75,7 +75,7 @@ You can find CBD flowers in some *[Spätis](/glossary/Sp%C3%A4ti)* and head shop
 
 ### Are HHC and THCP legal?
 
-The sale of Hexahydrocannabinol (HHC) and Tetrahydrocannabiphorol (THCP) is banned since June 2024.[^16] Possession is still legal. You might still find HHC edibles, cartridges and flowers online, in some [Spätis](/glossary/Späti) and in some head shops.[^28]{{ fail_on('2025-07-31')}}
+The sale of Hexahydrocannabinol (HHC) and Tetrahydrocannabiphorol (THCP) is banned since June 2024.[^16] Possession is still legal. You might still find HHC edibles, cartridges and flowers online, in some [Spätis](/glossary/Späti) and in some head shops.[^28]{{ fail_on('2025-12-31')}}
 
 ## Can I bring weed from another country?
 
