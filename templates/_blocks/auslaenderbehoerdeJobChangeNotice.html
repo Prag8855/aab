@@ -37,10 +37,20 @@
 					}
 					return this.customRecipientAddress;
 				},
+				showJobChangeWarning(){
+					return this.letterType === 'jobChange' && this.auslaenderbehoerde === 'berlin'
+				}
 			},
 			methods: {
 				dateFromString,
 				formatDate,
+			},
+			watch: {
+				showJobChangeWarning() {
+					[this.$refs.letterTypeTermination, this.$refs.letterTypeResignation, this.$refs.letterTypeJobChange].forEach(
+						e => e.setCustomValidity(this.showJobChangeWarning ? 'Use the official form to report a job change.' : '')
+					);
+				},
 			}
 		})
 	);
@@ -145,19 +155,20 @@
 	</template>
 
 	<template v-slot:form>
-		<div class="form-group">
+		<div class="form-group show-errors">
 			<span class="label">What happened?</span>
 			<div class="input-group vertical">
 				<label class="checkbox">
-					<input type="radio" v-model="letterType" value="termination" :name="uid('letterType')"> I was fired or laid off
+					<input ref="letterTypeTermination" type="radio" v-model="letterType" value="termination" :name="uid('letterType')"> I was fired or laid off
 				</label>
 				<label class="checkbox">
-					<input type="radio" v-model="letterType" value="resignation" :name="uid('letterType')"> I quit my job
+					<input ref="letterTypeResignation" type="radio" v-model="letterType" value="resignation" :name="uid('letterType')"> I quit my job
 				</label>
 				<label class="checkbox">
-					<input type="radio" v-model="letterType" value="jobChange" :name="uid('letterType')"> I am changing jobs
+					<input ref="letterTypeJobChange" type="radio" v-model="letterType" value="jobChange" :name="uid('letterType')"> I am changing jobs
 				</label>
 			</div>
+			<span v-if="showJobChangeWarning" class="input-instructions">In Berlin, use the <a href="/out/auslanderbehorde-job-change" target="_blank">official form</a> to report a job change.</span>
 		</div>
 		<div class="form-group">
 			<label :for="uid('last-workday') + '-day'">Last day of work</label>
@@ -230,6 +241,9 @@
 				<a class="input-instructions external-link" v-if="auslaenderbehoerde === 'other'" href="https://bamf-navi.bamf.de/en/Themen/Behoerden/" target="_blank">
 					Find your Ausländerbehörde
 				</a>
+				<span v-if="showJobChangeWarning" class="input-instructions error">
+					Use the <a href="/out/auslanderbehorde-job-change" target="_blank">official form</a> to report a job change.
+				</span>
 			</div>
 		</div>
 	</template>
