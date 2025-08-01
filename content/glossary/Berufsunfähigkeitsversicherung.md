@@ -2,18 +2,27 @@
 Title: What is Berufsunfähigkeitsversicherung?
 German_term: Berufsunfähigkeitsversicherung
 English_term: Job disability insurance
-Description: Insurance that gives you an income if you are unable to work.
+Description: Insurance that gives you an income if you are too sick or injured to work.
 Date_created: 2018-12-11
 Related_guides:
-    guides/freelance-visa.md
-    guides/insurance.md
     guides/sick-leave.md
+    guides/insurance.md
+    guides/freelance-visa.md
 ---
 
-Job disability insurance (*Berufsunfähigkeitsversicherung*) pays you a salary if you are permanently unable to do your job. For example, if you are a surgeon and you lose your fingers, or you suffer from a burnout. It's sometimes called income protection insurance.
+Job disability insurance (*Berufsunfähigkeitsversicherung*) gives you an income if you are too sick or injured to work. It covers you after you stop getting [paid sick leave](/glossary/Krankengeld). It's also called income protection insurance.
 
-This insurance is useful if you have people who depend on you, or if you have a mortgage to pay. The price varies by profession. It's usually cheap, because accidents that prevent you from doing your job are rare. It can be more expensive if burnout is common in your industry.
+Disability insurance replaces your income if...
+
+- You have cancer
+- You suffer from burn out
+- You can't work after an accident
+- You can't do your normal job because of a disability
+
+Disability insurance makes sense if your family depends on your income, or if you have a mortgage. It costs €50 to €150 per month.[^1]{{ fail_on('2026-12-31') }}
+
+**[Types of insurance in Germany ➞](/guides/insurance)**
 
 **[Sick leave options for freelancers ➞](/guides/sick-leave#sick-leave-for-freelancers)**
 
-**[Types of insurance in Germany ➞](/guides/insurance)**
+[^1]: [Seamus Wolf](/guides/german-health-insurance#insurance-brokers) (July 2025), [Check24](https://www.check24.de/berufsunfaehigkeitsversicherung/kosten/#kosten) (July 2025)
