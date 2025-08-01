@@ -23,6 +23,7 @@
 /out/auslanderbehorde-blue-card               "https://liste-antraege-bc01.bda.service.berlin.de/intelliform/forms/default/bda/LEA/Befristeter_Aufenthaltstitel_zur_Beschaeftigung/index?parameter=324659&lang=en";
 /out/auslanderbehorde-permanent-residence     "https://liste-antraege-bc01.bda.service.berlin.de/intelliform/forms/default/bda/LEA/Niederlassungserlaubnis_Fachkraefte_Quick-Check/index";
 /out/auslanderbehorde-work-visa               "https://liste-antraege-bc01.bda.service.berlin.de/intelliform/forms/default/bda/LEA/Befristeter_Aufenthaltstitel_zur_Beschaeftigung/index?parameter=329328&lang=en";
+/out/auslanderbehorde-job-change              "https://service.berlin.de/dienstleistung/326856/";
 /out/babbel                                   "https://babbel.pxf.io/c/1377567/1518255/15639";
 /out/bahn                                     "https://www.awin1.com/awclick.php?gid=372442&mid=14964&awinaffid=559395&linkid=2938280&clickref=";
 /out/barmer                                   "https://signupbarmer.de/?utm_source=allaboutberlin";

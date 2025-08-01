@@ -15,7 +15,7 @@ Categories:
 
 If you have a [residence permit](/glossary/Aufenthaltstitel), and you [lose your job](/guides/losing-your-job), you must [tell the *Ausländerbehörde*](/guides/losing-your-job#tell-the-auslanderbehorde).[^2] Use this letter template to do it.{{ fail_on('2025-09-01') }}
 
-If you change jobs, use the [official form](https://service.berlin.de/dienstleistung/326856/) instead.
+If you change jobs, use the [official form](/out/auslanderbehorde-job-change) to report a job change.
 
 ## Letter template
 
