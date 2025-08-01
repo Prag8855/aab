@@ -2415,6 +2415,9 @@ collapsible, letter-generator, feedback-residence-permit{  // Vue element before
         box-shadow: inset 0 -4px 5px -5px var(--c-border-clickable), 0 0 0 1px var(--c-border-clickable);
         position: relative;
         z-index: 1;
+
+        display: grid;
+        align-items: center;
     }
 
     input:checked + label{
