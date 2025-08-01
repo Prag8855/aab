@@ -89,7 +89,7 @@ The Berlin immigration office has multiple departments. Send your application to
 - **S1, S2, S3, S4, S5, S6**  
     For citizenship applications. Choose the department that is responsible for your country.
 
-**Note:** The [immigration office](/glossary/Ausländerbehörde) [departments](/guides/immigration-office#departments) will change in October.{{ fail_on('2025-08-01') }} The immigration office might ask you to send additional documents to another department.[^15]
+**Note:** The [immigration office](/glossary/Ausländerbehörde) [departments](/guides/immigration-office#departments) will change in October.{{ fail_on('2025-10-01') }} The immigration office might ask you to send additional documents to another department.[^15]
 
 **[List of departments ➞](https://www.berlin.de/einwanderung/ueber-uns/kontakt/artikel.1394180.php)**
 
