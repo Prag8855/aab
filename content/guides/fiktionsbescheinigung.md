@@ -85,7 +85,7 @@ Bring proof of your residence permit application. It can help you if you have pr
 There are 4 variants of the *Fiktionsbescheinigung*:[^2]
 
 - **§81 Abs. 4 AufenthG**  
-    If you have a [residence permit](/glossary/Aufenthaltstitel), and you want to renew it or get another residence permit. It allows you to travel outside of Germany.
+    If you have a [residence permit](/glossary/Aufenthaltstitel) or a [[National Visa]], and you want to renew it or get another residence permit. It allows you to travel outside of Germany.
 - **§81 Abs. 3 Satz 1 AufenthG**  
     If have no residence permit, and you applied for a residence permit on time. It does not allow you to travel outside of Germany.[^14]
 - **§81 Abs. 3 Satz 2 AufenthG**  
