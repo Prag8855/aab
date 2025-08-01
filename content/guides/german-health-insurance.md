@@ -415,7 +415,9 @@ When you are self-employed, the cost of public health insurance is based on your
 - [ ] **Tell your employer**  
     When you change your health insurance, tell your employer.[^84] Tell the human resources department.
 - [ ] **Get [liability insurance](/guides/haftpflichtversicherung)**{{ RECOMMENDED }}  
-    [Liability insurance](/glossary/Haftpflichtversicherung) is the second most important insurance. Most Germans have it. I got mine from [Feather](/out/feather-haftpflicht).
+    It's the second most important insurance. Most Germans have it. I got mine from [Feather](/out/feather-haftpflicht).
+- [ ] **Get [job disability insurance](/glossary/Berufsunfähigkeitsversicherung)**  
+    It gives you an income if you are disabled and you can't work anymore. This is recommended if you have a family or a mortgage. It costs €50 to €150 per month.{{ fail_on('2026-12-31') }}
 - [ ] **Get travel health insurance**  
     It covers you when you travel outside of Germany. It costs €25 to €40 per year.[^78]{{ fail_on('2026-03-01') }} You can get travel insurance from [Feather](/out/feather-travel), [Envivas](https://www.envivas.de/en/insurance/travelling-abroad) or [Allianz](https://www.allianzdirect.de/reiseversicherung/). Your [private health insurance](/glossary/private%20Krankenversicherung) might include travel insurance. Some banks accounts like [N26 Metal](/out/n26-metal) include travel insurance.
 - [ ] **[Become an organ donor](/guides/organ-donor)**{{ RECOMMENDED }}  

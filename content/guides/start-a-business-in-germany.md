@@ -281,9 +281,11 @@ You must get professional legal insurance. Private legal insurance rarely covers
 
 ### Get disability insurance
 
-Employees get sickness pay while they are sick. The employer pays their full salary for the first 6 weeks, then public health insurance pays 70% of their salary (up to €{{GKV_KRANKENGELD_DAILY_LIMIT|cur}} per day) for up to 78 weeks.
+When employees are too sick to work, they get [paid sick leave](/guides/sick-leave). If you are self-employed and you are too sick to work, you get nothing. You must prepare for this.
 
-Freelancers don't get sickness pay. If you are too sick to work, you have no income. You must prepare for this. You should get *[[Krankengeld]]*, *[[Krankentagegeld]]* or [job disability insurance](/glossary/Berufsunfähigkeitsversicherung).
+Get [job disability insurance](/glossary/Berufsunfähigkeitsversicherung). It gives you an income if you are too sick or disabled to work. If your family depends on you, this is very important.
+
+You can also get *[[Krankengeld]]* or *[[Krankentagegeld]]*. It gives you an income when you are sick for a few weeks.
 
 **[Sick leave options for freelancers ➞](/guides/sick-leave#sick-leave-for-freelancers)**
 

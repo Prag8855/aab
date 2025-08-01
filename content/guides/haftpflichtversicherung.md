@@ -185,7 +185,7 @@ There is private legal insurance (for you), and professional legal insurance (fo
 
 ## What to do next
 
-Read about the other [types of insurance in Germany](/guides/insurance). The next most important insurances to have are [legal insurance](/glossary/Rechtsschutzversicherung) and [disability insurance](/glossary/Berufsunfähigkeitsversicherung).
+Read about the other [types of insurance in Germany](/guides/insurance). After liability insurance, [legal insurance](/glossary/Rechtsschutzversicherung) and [disability insurance](/glossary/Berufsunfähigkeitsversicherung) are the most important.
 
 **[Types of insurance in Germany ➞](/guides/insurance)**
 
