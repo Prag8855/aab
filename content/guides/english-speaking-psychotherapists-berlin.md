@@ -188,7 +188,7 @@ If you need psychological help *right now*, **call the [Berliner Krisendienst](h
 
 ### For LGBTQ+ people
 
-- [GLADT](https://gladt.de/en/counseling/) - For people of colour and LGBTQ people
+- [GLADT](https://gladt.de/en/our-program/advice) - For people of colour and LGBTQ people
 - [Lesbian Counselling Center](https://lesbenberatung-berlin.de/en/about-us)
 - [MANEO](https://www.maneo.de/en/home/) - For victims of violence against gays
 - [Schwulenberatung Berlin](https://schwulenberatungberlin.de/about-us/)
