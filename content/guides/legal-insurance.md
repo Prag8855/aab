@@ -132,7 +132,7 @@ To choose legal insurance:
 2. **Use a comparison website**  
     [Tarifcheck](/out/tarifcheck-rechtsschutz) helps you compare insurances. It's only in German.
 3. **Read your insurance policy**  
-    Every insurance is different. You must understand what your insurance covers. If you don't speak German, choose an English-speaking insurer. [Feather](/out/feather-rechtsschutz) and [Getsafe](/out/getsafe-rechtsschutz) speak English. They both sell the same legal insurance from Roland.[^41]
+    Every insurance is different. You must understand what your insurance covers. If you don't speak German, choose an English-speaking insurer. [Feather](/out/feather-rechtsschutz) and [Getsafe](/out/getsafe-rechtsschutz) speak English. They both sell the same legal insurance from Roland.[^41] Roland's contract is in German, and they might not speak English.[^43]
 
 ### What to cover
 
@@ -243,3 +243,4 @@ For quick business or immigration questions, try Alexander von Engelhardt's lega
 [^40]: [Rotwang Law](https://rotwang-law.de/en/) (July 2023)
 [^41]: Last checked in November 2023
 [^42]: [Not Feather and Getsafe](https://faq.feather-insurance.com/en/articles/45291-does-my-legal-insurance-policy-cover-the-review-of-legal-contracts)
+[^43]: Reader feedback (August 2025)
