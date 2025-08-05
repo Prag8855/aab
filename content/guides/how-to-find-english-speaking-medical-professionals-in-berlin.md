@@ -36,6 +36,7 @@ These websites let you to find doctors by language.
 - [Doctena](https://www.doctena.de/en/) - Filter by profession, area and language. You can book appointments online.
 - [aerzte-berlin.de](http://www.aerzte-berlin.de/_php/therapie30/fach.php) - Filter by profession, area and language
 - [Kassenärztliche Vereinigung Berlin](https://www.kvberlin.de/fuer-patienten/arzt-und-psychotherapeutensuche) - Filter by profession, area and keyword. You can also find a doctor by phone; call [116117](tel:+49116117)
+- [Queermed](https://queermed-deutschland.de/en/look-for-recommendations/) - Queer-friendly doctors and therapists
 
 Ask your health insurance too. [TK](/glossary/Techniker%20Krankenkasse) has a list of English-speaking doctors. They can even [book an appointment for you](https://www.tk.de/service/form/2028156/terminservice.form).
 

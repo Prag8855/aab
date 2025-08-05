@@ -42,6 +42,7 @@ These directories help you find English-speaking psychiatrists:
 - **[Doctolib](https://www.doctolib.de/)** - Find psychiatrists by language
 - **[Jameda](https://www.jameda.de/suchen?loc=Berlin)** - Find psychiatrists by language
 - [Doctena](https://www.doctena.de/en/) - Find psychiatrists by language
+- [Queermed](https://queermed-deutschland.de/en/look-for-recommendations/) - Queer-friendly psychiatrists and therapists
 
 **[More resources and directories ➞](/guides/how-to-find-english-speaking-medical-professionals-in-berlin)**
 

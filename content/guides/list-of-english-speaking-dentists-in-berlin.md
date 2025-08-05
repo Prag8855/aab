@@ -48,6 +48,7 @@ This is a list of English-speaking dentists in Berlin. You can also find a denti
 
 - [Doctolib](https://www.doctolib.de/)
 - [Doctena](https://www.doctena.de/en/)
+- [Queermed](https://queermed-deutschland.de/en/look-for-recommendations/) - Queer-friendly dentists
 
 **[How to find English-speaking medical professionals ➞](/guides/how-to-find-english-speaking-medical-professionals-in-berlin)**
 
