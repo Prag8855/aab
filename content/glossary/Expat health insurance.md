@@ -16,8 +16,8 @@ Expat health insurance or incoming health insurance is a temporary health insura
 
 After you arrive in Germany, you must usually switch to [public](/glossary/gesetzliche%20Krankenversicherung) or [private health insurance](/glossary/private%20Krankenversicherung).
 
-You can get expat health insurance from a [health insurance broker](/guides/german-health-insurance#insurance-brokers), [Feather](/out/feather-expats), [Ottonova](/out/ottonova-expats) and [many other companies](/guides/german-health-insurance/for-a-visa-application#expat-health-insurance-options).
+You can get expat health insurance from a [health insurance broker](/guides/german-health-insurance#insurance-brokers), [Feather](/out/feather-expats), [Ottonova](/out/ottonova-expats) and [many other companies](/guides/german-health-insurance#best-expat-health-insurance).
 
 **[How to choose German health insurance ➞](/guides/german-health-insurance#expat-health-insurance)**
 
-**[List of expat health insurance options ➞](/guides/german-health-insurance/for-a-visa-application#expat-health-insurance-options)**
+**[List of expat health insurance options ➞](/guides/german-health-insurance#best-expat-health-insurance)**

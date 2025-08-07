@@ -158,8 +158,8 @@ The cost of private health insurance is [tax-deductible](/glossary/steuerlich%20
     If you are young, healthy and well-paid, private is usually better *and* better than public. I save around €600 per month.
 - **Faster doctor appointments**  
     It's much easier to see a specialist. You get an appointment in days instead of weeks. You can try it yourself. Go on [Doctolib](https://www.doctolib.de/), and find a doctor appointment with public, then private health insurance.
-- **Better treatment**  
-    Private clinics usually have better service. Doctors are more patient. They take the time to listen to you.[^25] They also prescribe the best treatment instead of trying cheaper options first.
+- **Better treatments**  
+    Private clinics usually have better service. Doctors take the time to listen to you.[^25] They also prescribe the best treatment instead of trying cheaper options first.
 - **You choose your coverage**  
     Your insurance can cover dental care, travel health insurance, special medication and special treatments. You can pay more to get the best coverage. If you want to pay less, you can get lower coverage and choose a high [deductible](/glossary/Selbstbeteiligung).[^17]
 - **You pay less when you don't use it**  
@@ -172,7 +172,7 @@ The cost of private health insurance is [tax-deductible](/glossary/steuerlich%20
 - **It makes you avoid seeing a doctor**  
     If you have a [deductible](/glossary/Selbstbeteiligung), you pay for most healthcare yourself. You might ignore a small problem because it costs €70 to see a doctor. You also get a yearly bonus if you don't use your insurance. It makes you avoid healthcare to save money.
 - **You pay, then get reimbursed**  
-    When you go to the doctor, you pay for the treatment, and your insurance pays you back later. You need enough money to pay the doctor. It's also more effort and more paperwork. You must also check if your insurance covers your treatment, or you will not get reimbursed.[^40]
+    When you go to the doctor, you pay for the treatment, and your insurance pays you back later. You need enough money to pay the doctor. It's also more effort and more paperwork. You must also check if your insurance covers your treatment, or you will not get reimbursed.[^40] Doctors often prescribe unnecessary treatments to private patients.
 - **You can be stuck with private**  
     If you choose private, it's hard to change your mind.[^20] It's really hard to switch to public health insurance, or to another private insurance. You can be stuck with expensive private health insurance. Always [ask an expert](#insurance-brokers) before you choosing private; it's a very serious decision.
 - **They reject people**  
@@ -200,9 +200,60 @@ Do not choose private health insurance yourself. It's a really bad idea. [Ask a 
 
 [Feather](/out/feather-private) sells private health insurance, but they only offer one or two options. If you [ask a broker](#insurance-brokers), they compare all options to find the best one.
 
-[Ottonova](/out/ottonova) sells their own private health insurance. It's rarely the best option.[^77] Don't choose Ottonova directly; [ask a broker](#insurance-brokers) to help you. If Ottonova is a good option for you, they will tell you.[^76]
+[Ottonova](/out/ottonova) sells their own private health insurance. It's rarely the best option.[^77] Don't choose Ottonova directly; [ask a broker](#insurance-brokers) to help you. If Ottonova is the best option for you, the broker will tell you.[^76]
 
-## Free health insurance
+## Expat health insurance
+
+[[Expat health insurance]] is a temporary private health insurance. It's bad, but it's cheap. You can use it to apply for a [[National Visa]], an [opportunity card](/glossary/Chancenkarte), a [student visa](/glossary/Student%20visa) or a [freelance visa](/glossary/Freelance%20visa).
+
+Only choose expat health insurance if...
+
+- **You need temporary coverage**  
+    It's perfect to apply for a [[National Visa]], to stay in Germany for a few months, or to get temporary health insurance before your [public health insurance](/glossary/gesetzliche%20Krankenversicherung) coverage starts. It's a bad long-term option.
+- or **you are a [student over 30 years old](/guides/german-health-insurance/for-students#over-30-years-old)**  
+    It's much cheaper than public health insurance. You can switch to public or private after you graduate and start working. If you are under 30 years old, public health insurance is usually the best option.
+- or **you are a [freelancer with a low income](/guides/german-health-insurance/for-freelancers)**  
+    You can use it to [apply for a freelance visa](/guides/freelance-visa).[^6] It could be the only health insurance you can afford, or the only one that accepts you. [Ask our expert](#insurance-brokers) if it's the correct choice.
+- or **you are retired**  
+    If you move from a non-[EU](/glossary/European%20Union) country, it might be your only option. Public and private insurers might reject you. [Ask our expert](#insurance-brokers) if it's the correct choice.
+
+**Do not stay on expat health insurance.** If you develop a health condition while you have expat insurance, it can be really hard to find long-term health insurance, because all insurers will refuse to cover you.
+
+### Disadvantages of expat health insurance
+
+- **The coverage is limited**  
+    It does not cover pre-existing health problems. It rarely covers therapy, dentist visits, health check-ups and preventative treatments.[^26] There are high [deductibles](/glossary/Selbstbeteiligung) for some treatments. There are limits on the cost of some treatments.
+- **It's temporary**  
+    You can rarely use it for more than 5 years.[^22] When it expires, you must get public or private health insurance. If you have developed health problems during that time, it can be really hard to find another insurance. You can end up with a really expensive insurance.
+- **It gets very expensive**  
+    The price increases every year. There is no limit on the price increases. In the long term, public and private health insurance are cheaper.[^10]
+- **You can get kicked out**  
+    Insurers can end your contract, and refuse to keep covering you. It can be hard to find another health insurance.[^66]
+- **It's not always valid**  
+    You can use expat health insurance to apply for a [[Schengen visa]] or a [[National Visa]].[^5] You can't use it to change or renew an existing [residence permit](/glossary/Aufenthaltstitel).[^29]
+
+### Best expat health insurance
+
+These options are valid for a [[National Visa]] application. They are accepted by German embassies, consulates and [immigration offices](/glossary/Ausländerbehörde).
+
+- **[Feather](/out/feather-expats)**{{ RECOMMENDED }}  
+    They have excellent English-speaking customer service. I work with them since 2018.
+- **[HanseMerkur](/out/hansemerkur-expats)**{{ RECOMMENDED }}  
+    It's what [our insurance expert](/guides/german-health-insurance#insurance-brokers) usually recommends.[^33]
+- [Allianz Worldwide Care](https://www.allianzcare.com/en.html)
+- [April International](/out/april)
+- [Care Concept](/out/care-concept)
+- [Dr Walter](/out/dr-walter)
+- [Mawista](/out/mawista-expats)
+- [Ottonova](/out/ottonova-expats)
+
+If you are not sure, [ask my insurance expert](#insurance-brokers) to help you choose. He can also help you find a long-term health insurance after your expat insurance expires.
+
+[Expatrio](/out/expatrio) and [Fintiba](/out/fintiba) can sell you expat health insurance with their blocked account. That insurance usually works for a [[National Visa]] application.
+
+## Other options
+
+### Free health insurance
 
 Your parents' insurance covers you for free if...
 
@@ -236,42 +287,6 @@ The state pays for your public health insurance if...[^45]
 - or you get *[[Elterngeld]]* (in some cases)
 
 [When you lose your job](/guides/german-health-insurance/when-unemployed), your public health insurance is sometimes free for 1 month (*nachgehender Leistungsanspruch*). This happens automatically; you don't need to apply for it.
-
-## Other options
-
-### Expat health insurance
-
-[[Expat health insurance]] is a temporary private health insurance. It's bad, but it's cheap. You can use it to apply for a [[National Visa]], an [opportunity card](/glossary/Chancenkarte), a [student visa](/glossary/Student%20visa) or a [freelance visa](/glossary/Freelance%20visa).
-
-Only choose expat health insurance if...
-
-- **You need temporary coverage**  
-    It's perfect if you stay in Germany for a few months, or you need temporary health insurance before your [public health insurance](/glossary/gesetzliche%20Krankenversicherung) coverage starts.
-- or **you are a [student over 30 years old](/guides/german-health-insurance/for-students#over-30-years-old)**  
-    It's much cheaper than public health insurance. You can switch to public or private after you graduate and start working. If you are under 30 years old, public health insurance is usually the best option.
-- or **you are a [freelancer with a low income](/guides/german-health-insurance/for-freelancers)**  
-    You can use it to [apply for a freelance visa](/guides/freelance-visa).[^6] It could be the only health insurance you can afford, or the only one that accepts you. [Ask our expert](#insurance-brokers) if it's the correct choice.
-- or **you are retired**  
-    If you move from a non-[EU](/glossary/European%20Union) country, it might be your only option. Public and private insurers might reject you. [Ask our expert](#insurance-brokers) if it's the correct choice.
-
-Expat health insurance is bad because...
-
-- **The coverage is limited**  
-    It does not cover pre-existing health problems. It rarely covers therapy, dentist visits, health check-ups and preventative treatments.[^26] There are high [deductibles](/glossary/Selbstbeteiligung) for some treatments. There are limits on the cost of some treatments.
-- **It's temporary**  
-    You can rarely use it for more than 5 years.[^22] When it expires, you must get public or private health insurance. If you have developed health problems during that time, it can be really hard to find another insurance. You can end up with a really expensive insurance.
-- **It gets very expensive**  
-    The price increases every year. There is no limit on the price increases. In the long term, public and private health insurance are cheaper.[^10]
-- **You can get kicked out**  
-    Insurers can end your contract, and refuse to keep covering you. It can be hard to find another health insurance.[^66]
-- **It's not always valid**  
-    You can use expat health insurance to apply for a [[Schengen visa]] or a [[National Visa]].[^5] You can't use it to change or renew an existing [residence permit](/glossary/Aufenthaltstitel).[^29]
-
-**Do not stay on expat health insurance.** If you develop a health condition while you have expat insurance, it can be really hard to find long-term health insurance, because all insurers will refuse to cover you.
-
-Get expat health insurance from a [health insurance broker](#insurance-brokers). [Feather](/out/feather-expats) and [Ottonova](/out/ottonova-expats) sell expat insurance, but brokers are more neutral, and compare all options from all insurers.
-
-**[List of expat insurance options ➞](/guides/german-health-insurance/for-a-visa-application#expat-health-insurance-options)**
 
 ### Travel health insurance
 
@@ -455,6 +470,7 @@ When you are self-employed, the cost of public health insurance is based on your
 [^30]: [Seamus Wolf](/guides/german-health-insurance#insurance-brokers) (April 2025), [Emily Archer](https://www.archer-relocation.com/) (April 2025)
 [^31]: [pkv.de](https://www.pkv.de/positionen/krankenversicherung-fuer-beamtinnen-und-beamte/) (April 2025)
 [^32]: [verwaltung.bund.de](https://verwaltung.bund.de/leistungsverzeichnis/en/rechte-und-pflichten/102837937#:~:text=the%20ehic%20can%20only%20be%20used%20for%20treatments%20that%20are%20covered%20by%20statutory%20health%20insurance) (April 2025)
+[^33]: [Seamus Wolf](/guides/german-health-insurance#insurance-brokers) (August 2025)
 [^34]: [verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/krankenversicherung/familienversicherung-in-der-krankenkasse-wer-kostenlos-mit-rein-kommt-28982) (January 2025) [minijob-zentrale.de](https://www.minijob-zentrale.de/DE/meta/faq-bereich/urlaub-krankheit-und-arbeitsrechte/96_warum_kein_geld_f%C3%BCr_minijobber_aus_kv/faq_96_warum_kein_geld_f%C3%BCr_minijobber_aus_kv.html#:~:text=oft%20besteht%20eine%20beitragsfreie%20familienversicherung%20uber%20den%20ehepartner%20oder%20die%20eltern) (February 2025)
 [^35]: Personal experience (2025), [Seamus Wolf](/guides/german-health-insurance#insurance-brokers) (April 2025)
 [^36]: [check24.de](https://www.check24.de/private-krankenversicherung/studenten/) (July 2025), [Ottonova](/out/ottonova-students) (July 2025)

@@ -16,6 +16,8 @@ Use my [health insurance calculator](/tools/health-insurance-calculator) to see 
 
 {% include '_blocks/healthInsuranceCalculatorStatic.html' %}
 
+**[What is the best option? ➞](/guides/german-health-insurance#what-is-the-best-option)**
+
 ### Free health insurance
 
 **If you earn less than €{{GKV_AZUBI_FREIBETRAG|cur}} per month**, you get free [public health insurance](/glossary/gesetzliche%20Krankenversicherung). Your employer pays for it.[^1]

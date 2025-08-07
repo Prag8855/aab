@@ -63,7 +63,7 @@ To apply for a [[Chancenkarte]], you have 3 options:[^14]
 
 Some [blocked accounts](/glossary/Sperrkonto) include health insurance. It's rarely the best option. Choose health insurance separately.
 
-**[List of expat insurance options ➞](/guides/german-health-insurance/for-a-visa-application#expat-health-insurance-options)**
+**[List of expat insurance options ➞](/guides/german-health-insurance#best-expat-health-insurance)**
 
 ### For a job seeker visa
 
@@ -75,7 +75,7 @@ Some [blocked accounts](/glossary/Sperrkonto) include health insurance. It's rar
 
 To apply for a [[Working Holiday Visa]], you need [expat health insurance](/glossary/Expat%20health%20insurance). It must cover you for the entire time you are in Germany.[^7]
 
-**[Expat health insurance options ➞](/guides/german-health-insurance/for-a-visa-application#expat-health-insurance-options)**
+**[Expat health insurance options ➞](/guides/german-health-insurance#best-expat-health-insurance)**
 
 **When you [start working](/guides/find-a-job-in-berlin#start-working)**, you must switch to public health insurance.[^8] If you make more than €{{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}} per year, you can choose [private health insurance](/glossary/private%20Krankenversicherung) instead. If you have a [minijob](/glossary/Minijob), you can stay on expat health insurance.[^9]
 

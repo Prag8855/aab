@@ -8,7 +8,7 @@ Related_reviews:
     reviews/german-health-insurance/for-a-visa-application/dr-rob-schumacher.md
 ---
 
-This guide explains which health insurance you need for a visa or [residence permit](/glossary/Aufenthaltstitel) application.
+This guide explains which health insurance you need for a [[National Visa]] or [residence permit](/glossary/Aufenthaltstitel) application.
 
 {% include "_blocks/tableOfContents.html" %}
 
@@ -28,27 +28,22 @@ Your travel health insurance must...[^1]
 
 ## For a National Visa
 
-**To apply for a [[National Visa]]** at the German embassy or consulate, you need [expat health insurance](/glossary/Expat%20health%20insurance). This temporary insurance covers you during your first few months in Germany. [Feather's expat insurance](/out/feather-expats) works well for a National Visa.
+To apply for a [[National Visa]], you need **[expat health insurance](/glossary/Expat%20health%20insurance)**. It covers you during your first few months in Germany.
 
-The requirements depend on the visa you apply for:
+**[List of expat health insurance options ➞](/guides/german-health-insurance#best-expat-health-insurance)**
 
-- [Health insurance for a **Blue Card**](/guides/german-health-insurance/for-employees#for-a-blue-card-or-work-visa)
-- [Health insurance for a **work visa**](/guides/german-health-insurance/for-employees#for-a-blue-card-or-work-visa)
-- [Health insurance for a **student visa**](/guides/german-health-insurance/for-students#insurance-for-a-student-visa)
-- [Health insurance for a **freelance visa**](/guides/german-health-insurance/for-freelancers#insurance-for-a-freelance-visa)
-- [Health insurance for a **Working Holiday Visa**](/guides/german-health-insurance/for-employees#for-a-working-holiday-visa)
-- [Health insurance for a **Youth Mobility Visa**](/guides/german-health-insurance/for-employees#for-a-youth-mobility-visa)
-- [Health insurance for an **opportunity card**](/guides/german-health-insurance/for-employees#for-an-opportunity-card)
-- [Health insurance for a **job seeker visa**](/guides/german-health-insurance/for-employees#for-a-job-seeker-visa)
-- [Health insurance for a **family reunion visa**](#for-a-family-reunion-visa)
+Expat health insurance is a *temporary* health insurance. When you arrive in Germany, you must usually switch to [public](/glossary/gesetzliche%20Krankenversicherung) or [private](/glossary/private%20Krankenversicherung) health insurance. It depends on your visa:
 
-If you are a citizen of {{AUFENTHV_41_COUNTRIES}}, you do not need a [[National Visa]]. You can come to Germany without a visa, and apply for a [residence permit](/glossary/Aufenthaltstitel) at the *[[Ausländerbehörde]]*. You do not need health insurance to come to Germany, but you need health insurance [to apply for your residence permit](#for-a-residence-permit).
+- [Insurance for a **Blue Card**](/guides/german-health-insurance/for-employees#for-a-blue-card-or-work-visa)
+- [Insurance for a **work visa**](/guides/german-health-insurance/for-employees#for-a-blue-card-or-work-visa)
+- [Insurance for a **student visa**](/guides/german-health-insurance/for-students#insurance-for-a-student-visa)
+- [Insurance for a **freelance visa**](/guides/german-health-insurance/for-freelancers#insurance-for-a-freelance-visa)
+- [Insurance for a **Working Holiday Visa**](/guides/german-health-insurance/for-employees#for-a-working-holiday-visa)
+- [Insurance for an **opportunity card**](/guides/german-health-insurance/for-employees#for-an-opportunity-card)
+- [Insurance for a **job seeker visa**](/guides/german-health-insurance/for-employees#for-a-job-seeker-visa)
+- [Insurance for a **family reunion visa**](#for-a-family-reunion-visa)
 
-**When you arrive in Germany**, you must usually switch to [public](/glossary/gesetzliche%20Krankenversicherung) or [private](/glossary/private%20Krankenversicherung) health insurance. You must switch before you convert your National Visa to a [residence permit](/glossary/Aufenthaltstitel). The best option depends on your situation.
-
-Use my [health insurance picker](/tools/health-insurance-calculator), or [ask an expert](/guides/german-health-insurance#insurance-brokers) to help you choose.
-
-{% include '_blocks/healthInsuranceCalculatorStatic.html' %}
+If you are a citizen of {{AUFENTHV_41_COUNTRIES}}, you do not need a National Visa. You do not need health insurance to come to Germany, but you need it to apply for a [residence permit](/glossary/Aufenthaltstitel).
 
 ### For a family reunion visa
 
@@ -88,7 +83,7 @@ To apply for German citizenship, you need [public](/glossary/gesetzliche%20Krank
 
 ## How to choose
 
-Don't choose health insurance yourself. You can make expensive mistakes. Choosing the wrong insurance can delay your visa application.
+Do not choose health insurance yourself. You can make expensive mistakes. Choosing the wrong insurance can delay your visa application.
 
 [Ask my health insurance expert](/guides/german-health-insurance#insurance-brokers) to help you choose. His help is free. It's the best way to choose health insurance.
 
@@ -96,31 +91,6 @@ Don't choose health insurance yourself. You can make expensive mistakes. Choosin
 
 **[How to choose health insurance ➞](/guides/german-health-insurance)**
 
-### Expat health insurance options
-
-Insurance from these companies usually works for a [[National Visa]] application:
-
-- **[Feather](/out/feather-expats)**{{ RECOMMENDED }}  
-    It works really well.[^12] It's a German company. They speak English, and they have excellent customer service. I work with them since 2018, and I trust them the most.
-- **[April International](/out/april)**[^7]  
-- **[Care Concept](/out/care-concept)**  
-    It's usually accepted.[^5] It's not the best insurance, but it works.
-- **[Dr Walter Educare24](/out/dr-walter)**  
-    Usually accepted for an [opportunity card](/glossary/Chancenkarte).
-- **[Mawista](/out/mawista-expats)**  
-    It's usually accepted, but it's a bad insurance. People often have problems getting reimbursed.[^11]
-- **[Allianz Worldwide Care](https://www.allianzcare.com/en.html)**[^13]
-- **[Ottonova](/out/ottonova-expats)**  
-    It works well too.[^4] They sell their own private and expat health insurance. They speak English. They are [not the best long-term option](/guides/ottonova-review).
-
-Some [blocked accounts](/glossary/Sperrkonto) include health insurance. It's rarely the best option. Choose health insurance separately.
-
 [^0]: [Feather Insurance](https://feather-insurance.com/blog/how-can-i-use-expat-health-insurance-for-my-visa/#:~:text=expat%20insurance%20is%20almost%20always%20denied) (2025)
 [^1]: [schengenvisainfo.com](https://www.schengenvisainfo.com/schengen-visa-insurance/), [germany.info](https://www.germany.info/us-en/service/visa/medical-health-insurance/953982), [visaguide.world](https://visaguide.world/travel-insurance/europe/germany-travel-insurance/)
 [^2]: [German embassy in Portugal](https://lissabon.diplo.de/pt-de/service/2423766-2423766#:~:text=in%20the%20case%20of%20family%20reunification) (July 2025)
-[^4]: [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/659867781148595/?comment_id=663168410818532), [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/675361512932555/), [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/697100177425355/), [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/515940132208028/), [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/489761834825858/?comment_id=489789594823082)
-[^5]: [Reddit](https://old.reddit.com/r/chancenkarte/comments/1jxedo2/reapplying_for_chancenkarte_visa_after_a_rejection/mnizh1q/) (May 2025), [Reddit](https://old.reddit.com/r/chancenkarte/comments/1k7i4ww/health_insurance_for_chancenkarte/) (May 2025), [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/789315664870472/?comment_id=792026081266097), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/3tkxvi/mawista_health_insurance_could_be_not_sufficient/cx810dd/), [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/754116128390426/?comment_id=754173935051312), [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/489761834825858/)
-[^7]: [Seamus Wolf](/guides/german-health-insurance#insurance-brokers) (June 2025)
-[^11]: Thai Embassy employee (June 2025), [Oliver Redsch](https://icb-relocation.de/dr-oliver-redsch) (June 2025), [Reddit](https://old.reddit.com/r/germany/comments/1ico8k6/need_advice_mawista_insurance_refusing_to_cover/) (January 2025), [Reddit](https://old.reddit.com/r/germany/comments/ueu39a/dispute_with_mawista_caused_by_their_consultation/) (August 2023), [Reddit](https://old.reddit.com/r/germany/comments/12fp3fd/versicherung_doesnt_want_to_cover_hospital_fees/) (April 2023)
-[^12]: [Reddit](https://old.reddit.com/r/chancenkarte/comments/1ixplhc/health_insurance/meou5jr/) (February 2025), [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/659867781148595/?comment_id=663022727499767)
-[^13]: [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/659867781148595/)
