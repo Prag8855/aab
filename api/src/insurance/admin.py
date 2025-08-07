@@ -38,9 +38,9 @@ class OutcomeInline(NestedStackedInline):
 class CaseAdmin(NestedModelAdmin):
     fields = ('customer', 'title', 'description', 'referrer')
     inlines = [CommentInline, OutcomeInline]
-    readonly_fields = ['status', ]
+    readonly_fields = ['get_status_display', ]
     exclude = ["insured_persons"]
-    list_display = ['title', 'customer__name', 'date_created', 'referrer', 'status']
+    list_display = ['title', 'customer__name', 'date_created', 'referrer', 'get_status_display']
 
 
 class CustomerAdmin(admin.ModelAdmin):

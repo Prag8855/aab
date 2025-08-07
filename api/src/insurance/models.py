@@ -2,24 +2,29 @@ from django.contrib.contenttypes.fields import GenericForeignKey, GenericRelatio
 from django.contrib.contenttypes.models import ContentType
 from django.core.exceptions import ValidationError
 from django.db import models
-from django.db.models import OuterRef, Subquery, QuerySet
+from django.db.models.functions import Coalesce
+from django.db.models import OuterRef, Subquery, Value
 from phonenumber_field.modelfields import PhoneNumberField
+
+
+STATUS_CHOICES = [
+    ("new", "New"),
+    ("in_progress", "In consultation"),
+    ("waiting_client", "Waiting for client"),
+    ("waiting_insurer", "Waiting for insurer"),
+    ("accepted", "Accepted by insurer"),
+    ("rejected", "Rejected"),
+    ("resolved", "Generic solution offered"),
+    ("stale", "Abandoned"),
+]
+
+STATUS_CHOICES_DICT = dict(STATUS_CHOICES)
 
 
 class Comment(models.Model):
     """
     A generic note/comment added to a person or case
     """
-    STATUS_CHOICES = [
-        ("new", "New"),
-        ("in_progress", "In consultation"),
-        ("waiting_client", "Waiting for client"),
-        ("waiting_insurer", "Waiting for insurer"),
-        ("accepted", "Accepted by insurer"),
-        ("rejected", "Rejected"),
-        ("resolved", "Generic solution offered"),
-        ("stale", "Abandoned"),
-    ]
 
     customer = models.ForeignKey(to='Customer', on_delete=models.SET_NULL, null=True, related_name='comments')
 
@@ -111,7 +116,10 @@ class CaseManager(models.Manager):
         ).order_by('-date_created')
 
         return super().get_queryset().annotate(
-            latest_status=Subquery(latest_update.values('status')[:1])
+            latest_status=Coalesce(
+                Subquery(latest_update.values('status')[:1]),
+                Value('new')
+            )
         )
 
 
@@ -133,7 +141,10 @@ class Case(models.Model):
 
     @property
     def status(self):
-        return self.latest_status
+        return self.latest_status or 'new'
+
+    def get_status_display(self):
+        return STATUS_CHOICES_DICT[self.status]
 
     def __str__(self):
         return f"{self.title} ({self.customer})"
