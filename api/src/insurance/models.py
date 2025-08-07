@@ -1,6 +1,8 @@
 from django.contrib.contenttypes.fields import GenericForeignKey, GenericRelation
 from django.contrib.contenttypes.models import ContentType
+from django.core.exceptions import ValidationError
 from django.db import models
+from django.db.models import OuterRef, Subquery, QuerySet
 from phonenumber_field.modelfields import PhoneNumberField
 
 
@@ -8,11 +10,23 @@ class Comment(models.Model):
     """
     A generic note/comment added to a person or case
     """
+    STATUS_CHOICES = [
+        ("new", "New"),
+        ("in_progress", "In consultation"),
+        ("waiting_client", "Waiting for client"),
+        ("waiting_insurer", "Waiting for insurer"),
+        ("accepted", "Accepted by insurer"),
+        ("rejected", "Rejected"),
+        ("resolved", "Generic solution offered"),
+        ("stale", "Abandoned"),
+    ]
+
     customer = models.ForeignKey(to='Customer', on_delete=models.SET_NULL, null=True, related_name='comments')
 
     date_created = models.DateTimeField(auto_now_add=True)
-    comment = models.TextField()
+    comment = models.TextField(blank=True)
     file = models.FileField("Attachment", upload_to='attachments/', blank=True)
+    status = models.CharField(max_length=20, choices=STATUS_CHOICES, blank=True)
 
     content_type = models.ForeignKey(ContentType, on_delete=models.CASCADE)
     object_id = models.PositiveIntegerField()
@@ -21,6 +35,24 @@ class Comment(models.Model):
     class Meta:
         verbose_name = "Update"
         ordering = ['-date_created']
+
+    def clean(self):
+        super().clean()
+        if not self.comment and not self.file and not self.status:
+            raise ValidationError("An update needs a file, a comment or a status change")
+
+    def __str__(self):
+        value = ""
+        if self.file:
+            value = f"Attachment {self.file.filename}"
+        elif self.comment:
+            value = "Comment"
+
+        if value:
+            value = f"{value} (Status → {self.get_status_display()})"
+        else:
+            value = f"Status → {self.get_status_display()}"
+        return f"{self.date_created.strftime('%Y-%m-%d at %H:%M')} — {value}"
 
 
 class Customer(models.Model):
@@ -64,10 +96,30 @@ class InsuredPerson(models.Model):
         return f"{self.first_name} {self.last_name} ({self.customer})"
 
 
+class CaseManager(models.Manager):
+    """
+    Annotate each Case with its status, taken from the latest .
+    """
+
+    def get_queryset(self):
+        content_type = ContentType.objects.get_for_model(Case)
+
+        latest_update = Comment.objects.filter(
+            content_type=content_type,
+            object_id=OuterRef('pk'),
+            status__gt=''  # Non-empty status updates
+        ).order_by('-date_created')
+
+        return super().get_queryset().annotate(
+            latest_status=Subquery(latest_update.values('status')[:1])
+        )
+
+
 class Case(models.Model):
     """
     A need that usually results in an insurance policy being signed.
     """
+
     date_created = models.DateTimeField(auto_now_add=True)
     title = models.CharField(max_length=150, help_text="For example, \"health insurance for a Blue Card\"")
     description = models.TextField(blank=True)
@@ -76,6 +128,12 @@ class Case(models.Model):
     referrer = models.CharField(blank=True, help_text="Part of the commissions will be paid out to that referrer")
 
     comments = GenericRelation(Comment)
+
+    objects = CaseManager()
+
+    @property
+    def status(self):
+        return self.latest_status
 
     def __str__(self):
         return f"{self.title} ({self.customer})"
