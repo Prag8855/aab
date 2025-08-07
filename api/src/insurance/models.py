@@ -178,7 +178,7 @@ class Outcome(models.Model):
     policy = models.CharField(max_length=100, help_text="For example, \"Expat Student Plus\"")
 
     date_start = models.DateField(help_text="When the policy begins")
-    date_end = models.DateField(null=True, help_text="When the policy ends, if applicable")
+    date_end = models.DateField(blank=True, null=True, help_text="When the policy ends, if applicable")
 
 
 class Commission(models.Model):
@@ -197,7 +197,7 @@ class Commission(models.Model):
     amount = models.DecimalField(max_digits=10, decimal_places=2)
     frequency = models.CharField(max_length=10, choices=FREQUENCY_CHOICES)
     date_start = models.DateField()
-    date_end = models.DateField(null=True)
+    date_end = models.DateField(blank=True, null=True)
 
     class Meta:
         verbose_name = "Commission payment"
