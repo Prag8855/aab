@@ -146,6 +146,9 @@ class Case(models.Model):
     def get_status_display(self):
         return STATUS_CHOICES_DICT[self.status]
 
+    get_status_display.short_description = "Status"
+    get_status_display.admin_order_field = 'latest_status'
+
     def __str__(self):
         return f"{self.title} ({self.customer})"
 
