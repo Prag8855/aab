@@ -24,6 +24,7 @@ There is [public](/glossary/gesetzliche%20Krankenversicherung), [private](/gloss
 
 There is a guide for each occupation:
 
+- [Health insurance for a **visa application**](/guides/german-health-insurance/for-a-visa-application)
 - [Health insurance for **employees**](/guides/german-health-insurance/for-employees)
 - [Health insurance for **students**](/guides/german-health-insurance/for-students)
 - [Health insurance for **freelancers**](/guides/german-health-insurance/for-freelancers)
