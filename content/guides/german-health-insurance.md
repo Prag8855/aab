@@ -405,6 +405,8 @@ You only need an ID document and a photo for your insurance card. You do not nee
 
 If you choose private health insurance, you usually need a health check from a doctor.[^44] It costs around €250.[^30]{{ fail_on('2027-01-01') }}
 
+**[Find an English-speaking doctor ➞](/guides/english-speaking-doctors-berlin)**
+
 If you are self-employed and new in Germany, it can be hard to get health insurance. Public and private health insurers can reject you.
 
 ### 4. Get your documents
