@@ -186,10 +186,10 @@ class Commission(models.Model):
     A payment or payment schedule tied to an insurance outcome
     """
     FREQUENCY_CHOICES = [
-        ("Once", "once"),
-        ("Monthly", "monthly"),
-        ("Quarterly", "quarterly"),
-        ("Yearly", "yearly"),
+        ("once", "Once"),
+        ("monthly", "Monthly"),
+        ("quarterly", "Quarterly"),
+        ("yearly", "Yearly"),
     ]
 
     outcome = models.ForeignKey(Outcome, on_delete=models.CASCADE, related_name='commissions')
