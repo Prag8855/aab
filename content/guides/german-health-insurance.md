@@ -428,6 +428,8 @@ When you are self-employed, the cost of public health insurance is based on your
 
 ## What to do next
 
+- [ ] **[Open a bank account](/guides/best-bank-germany)**  
+    You must pay your public or private health insurance by [bank transfer](/glossary/SEPA-Überweisung). If you are an employee, you pay directly out of your paycheck, but you still need a bank account to receive your paycheck.
 - [ ] **Tell your employer**  
     When you change your health insurance, tell your employer.[^84] Tell the human resources department.
 - [ ] **Get [liability insurance](/guides/haftpflichtversicherung)**{{ RECOMMENDED }}  
