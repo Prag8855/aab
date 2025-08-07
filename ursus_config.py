@@ -523,6 +523,11 @@ config.lunr_indexes = {
             'boost': 2,
         },
         {
+            'uri_pattern': 'guides/*/*.md',
+            'returned_fields': ('title', 'short_title', 'url', ),
+            'boost': 2,
+        },
+        {
             'uri_pattern': 'glossary/*.md',
             'returned_fields': ('title', 'english_term', 'german_term', 'url', ),
             'boost': 1,
