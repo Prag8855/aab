@@ -198,7 +198,7 @@ Do not choose private health insurance yourself. It's a really bad idea. [Ask a 
 
 {% include '_blocks/healthInsuranceQuestion.html' %}
 
-[Feather](/out/feather-private) sells private health insurance, but they only offer one or two options. If you [ask a broker](#insurance-brokers), they compare all options to find the best one.
+[Feather](/out/feather-private) only sells private health insurance from Hallesche. It might not be the best option for you. [Ask a broker](#insurance-brokers) to compare all options from all insurers.
 
 [Ottonova](/out/ottonova) sells their own private health insurance. It's rarely the best option.[^77] Don't choose Ottonova directly; [ask a broker](#insurance-brokers) to help you. If Ottonova is the best option for you, the broker will tell you.[^76]
 
@@ -221,16 +221,14 @@ Only choose expat health insurance if...
 
 ### Disadvantages of expat health insurance
 
+- **It's not always accepted**  
+    It's valid for a [[Schengen visa]] or a [[National Visa]] application.[^5] It's rarely valid when you change or renew an existing [residence permit](/glossary/Aufenthaltstitel).[^29]
 - **The coverage is limited**  
     It does not cover pre-existing health problems. It rarely covers therapy, dentist visits, health check-ups and preventative treatments.[^26] There are high [deductibles](/glossary/Selbstbeteiligung) for some treatments. There are limits on the cost of some treatments.
 - **It's temporary**  
     You can rarely use it for more than 5 years.[^22] When it expires, you must get public or private health insurance. If you have developed health problems during that time, it can be really hard to find another insurance. You can end up with a really expensive insurance.
 - **It gets very expensive**  
     The price increases every year. There is no limit on the price increases. In the long term, public and private health insurance are cheaper.[^10]
-- **You can get kicked out**  
-    Insurers can end your contract, and refuse to keep covering you. It can be hard to find another health insurance.[^66]
-- **It's not always valid**  
-    You can use expat health insurance to apply for a [[Schengen visa]] or a [[National Visa]].[^5] You can't use it to change or renew an existing [residence permit](/glossary/Aufenthaltstitel).[^29]
 
 ### Best expat health insurance
 
@@ -387,7 +385,7 @@ Choose a broker who works with immigrants. Your needs are different, and your br
 
 ### 1. Understand your options
 
-Use my [recommendation tool](#your-options) to know your options. There are 3 types of health insurance and hundreds of options. The best option depends on your situation.
+Use my [recommendation tool](#your-options) to know your options. There are 3 types of health insurance and hundreds of options. The best option depends on your situation. If you apply for a [[National Visa]], you might need a combination of insurances.
 
 ### 2. Ask an expert to choose
 
@@ -403,20 +401,20 @@ The process is different with each insurer. Your health insurance broker can tak
 
 You only need an ID document and a photo for your insurance card. You do not need a German address or an *[[Anmeldung]]*.[^63]
 
-If you choose private health insurance, you usually need a health check from a doctor.[^44] It costs around €250.[^30]{{ fail_on('2027-01-01') }}
+- If you choose [public health insurance](/glossary/gesetzliche%20Krankenversicherung), you can get insured on the same day. You get your [insurance card](/glossary/Gesundheitskarte) 2 to 4 weeks later.
+- If you choose [private health insurance](/glossary/private%20Krankenversicherung), it takes around 2 weeks. You usually need a health check from a doctor.[^44] It costs around €250.[^30]{{ fail_on('2027-01-01') }}
+- If you choose [expat health insurance](/glossary/Expat%20health%20insurance), you get insured in a few minutes.
 
-**[Find an English-speaking doctor ➞](/guides/english-speaking-doctors-berlin)**
-
-If you are self-employed and new in Germany, it can be hard to get health insurance. Public and private health insurers can reject you.
+If you are self-employed and new in Germany, it can be hard to get health insurance. Public and private health insurers can reject you. You might need to try multiple insurers. I strongly recommend [asking an expert to help you](#insurance-brokers).
 
 ### 4. Get your documents
 
 Once you are insured, you get...
 
 - **A [health insurance card](/glossary/Gesundheitskarte)**  
-    When you go to the doctor, bring it with you. It's also a proof of health insurance when you travel to other [EU](/glossary/European%20Union) countries.
+    When you go to the doctor, bring it with you. It's also a proof of health insurance when you travel to other [EU](/glossary/European%20Union) countries. It arrives in 2 to 4 weeks, but you can get healthcare without it.[^14]
 - **A [[Mitgliedsbescheinigung]]**  
-    It's a proof of health insurance. Use it to apply for a visa or [residence permit](/glossary/Aufenthaltstitel).
+    It's a proof of health insurance. Use it to apply for a [[National Visa]] or a [residence permit](/glossary/Aufenthaltstitel).
 - **A [[Sozialversicherungsnummer]]**  
     Give it to your employer. If you get private health insurance, you do not get a *Sozialversicherungsnummer* automatically. Your employer can also request it for you.[^80] You can also [contact the *Deutsche Rentenversicherung*](https://www.deutsche-rentenversicherung.de/DRV/DE/Beratung-und-Kontakt/Kontakt/Anschriften-Uebersicht/anschriften_uebersicht_detail.html) and ask for it.
 
@@ -424,7 +422,7 @@ If you are a student, your health insurer will tell your school that you are ins
 
 ### 5. Pay every month
 
-If you have public health insurance, you pay out of your paycheck every month. If you have private health insurance or you are self-employed, you pay by [bank transfer](/glossary/SEPA-Überweisung) or [direct debit authorisation](/glossary/SEPA-Lastschriftmandat).[^35]
+If you have public health insurance, you pay out of your paycheck every month. If you have private health insurance or you are self-employed, you pay by [bank transfer](/glossary/SEPA-Überweisung) or [direct debit authorisation](/glossary/SEPA-Lastschriftmandat).[^35] You might need to [open a bank account](/guides/best-bank-germany) for this.
 
 When you are self-employed, the cost of public health insurance is based on your *estimated* income. It's adjusted every year. If you paid too much, you get money back. If you did not pay enough, you must make an extra payment.[^21]
 
@@ -456,6 +454,7 @@ When you are self-employed, the cost of public health insurance is based on your
 [^11]: [verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/krankenversicherung/alle-kassenleistungen-der-zahnmedizin-im-ueberblick-12921#:~:text=2%20zahnarztliche%20kontrolluntersuchungen%20im%20jahr) (March 2025)
 [^12]: [Seamus Wolf](/guides/german-health-insurance#insurance-brokers) (April 2025), [Mona Anbari](https://versicherungsbuero-weiss.com/) (April 2025), [Emily Archer](https://www.archer-relocation.com/) (April 2025), [finanztip.de](https://www.finanztip.de/pkv/pkv-wechsel/#:~:text=hast%20du%20aber%20familie%20oder%20planst) (January 2025), [FinanXpats](https://www.finanxpats.com/health-insurance/2025-health-insurance-guide-for-expats#:~:text=recommended%20for%20families) (April 2025)
 [^13]: [arzt-wirtschaft.de](https://www.arzt-wirtschaft.de/news/studie-zur-terminvergabe-und-erreichbarkeit-bei-fachaerzten) (2024), [sueddeutsche.de](https://www.sueddeutsche.de/wirtschaft/pkv-gkv-wartezeiten-krankenversicherung-private-krankenversicherung-li.3173323) (2024), [study](https://www.monitor-versorgungsforschung.de/abstract/einfluss-von-versichertenstatus-und-einkommen-auf-die-wartezeit-im-ambulanten-bereich/) (2013)
+[^14]: [Seamus Wolf](/guides/german-health-insurance#insurance-brokers) (August 2025)
 [^15]: [Seamus Wolf](/guides/german-health-insurance#insurance-brokers) (April 2025)
 [^16]: [verwaltung.bund.de](https://verwaltung.bund.de/leistungsverzeichnis/en/rechte-und-pflichten/102837937)
 [^17]: [blog.feather-insurance.com](https://feather-insurance.com/blog/how-are-private-health-insurance-payments-different-from-public-health-insurance/?utm_source=allaboutberlin)
@@ -495,7 +494,6 @@ When you are self-employed, the cost of public health insurance is based on your
 [^61]: [Emily Archer](https://www.archer-relocation.com/) (April 2025), [Seamus Wolf](/guides/german-health-insurance#insurance-brokers) (April 2025), multiple insurance brokers (2024, 2025)
 [^62]: [€250 to €350 (FinanXpats)](https://www.finanxpats.com/health-insurance/2025-health-insurance-guide-for-expats#:~:text=pays%20around%20%E2%82%AC250%E2%80%93350%20per%20month) (April 2025), [€250 to €390 (Feather)](/out/feather-private) (April 2025), [€260 to €350 (Ottonova)](/out/ottonova) (April 2025)
 [^63]: [Seamus Wolf](/guides/german-health-insurance#insurance-brokers) (May 2025)
-[^66]: [Seamus Wolf](/guides/german-health-insurance#insurance-brokers) (April 2025)
 [^70]: [online-pkv.de](https://www.online-pkv.de/pkv-bu-blog/gibt-es-eine-selbstbeteiligung-in-der-gkv/) (January 2025), [gesetzlichekrankenkassen.de](https://www.gesetzlichekrankenkassen.de/leistungen/leistungen.html#:~:text=%20mindestens%20aber%20eur%205%2C-%20und%20hochstens%20eur%2010%2C-%20pro%20packung%20zu%20zahlen) (June 2025)
 [^73]: [Mona Anbari](https://versicherungsbuero-weiss.com/) (April 2025)
 [^74]: [Seamus Wolf](/guides/german-health-insurance#insurance-brokers) (April 2025)
