@@ -58,7 +58,7 @@ To register online, you must...[^13]
 - Have a BundID account
 - Move from one German address to another German address
 
-If this is your first *Anmeldung*, or if you are not a EU citizen, you must [do your *Anmeldung* in person](#how-to-register-your-address-in-person).
+If this is your first *Anmeldung*, or if you are not a EU citizen, you must [do your *Anmeldung* in person](#how-to-register-your-address-in-person) or [pay someone to do it](#pay-someone-to-do-it).
 
 ## How to register your address in person
 
@@ -117,9 +117,9 @@ When you register an underage child's address, you might need a letter of consen
 
 **[Hire a translator ➞](/out/red-tape-translation-interpreter)**
 
-You can also **[pay someone else to do it](/out/red-tape-translation-anmeldung)**. They will book your appointment, collect your documents, and go to the *Bürgeramt* for you. It costs €250. The *Anmeldung* is easy. You probably don't need this service.
+You can also **[pay someone else to do it](/out/red-tape-translation-anmeldung)**. They will book your appointment, collect your documents, and go to the *Bürgeramt* for you. The *Anmeldung* is easy. You probably don't need this service.
 
-When you send someone else to do your *Anmeldung*, they must bring:
+When you [send someone else](#pay-someone-to-do-it) to do your *Anmeldung*, they must bring:
 
 - [ ] **A signed [[Vollmacht]]**  
     Use [this template](/documents/Anmeldung-Vollmacht-template.pdf). The signatures on your passport, on the [*Anmeldung* form](/docs/anmeldung) and on the *[[Vollmacht]]* must look the same. If this is your first *Anmeldung*, a *Vollmacht* might not work.
@@ -149,6 +149,14 @@ If this is your first *Anmeldung*, you will get a [tax ID](/glossary/Steuerident
 **If you did not get your tax ID** after 6 weeks, [ask for it again](/guides/german-tax-id-steuernummer#where-to-find-your-tax-id). It happens to a lot of people.
 
 ![German tax ID letter](/images/tax-id-document-bzst.jpg "You will get your tax ID by post. The letter looks like this.")
+
+## Pay someone to do it
+
+You can pay someone to register you address for you. They book the *Bürgeramt* appointment, register your address, and send you the [registration certificate](/glossary/Anmeldebestätigung). It's expensive, but convenient.
+
+- **[Red Tape Translation](/out/red-tape-translation-anmeldung)**{{ RECOMMENDED }}  
+    Many of my friends used them. I work with them since many years.
+- [EasyAssist](/out/easyassist-anmeldung)
 
 ## If you can't register your address
 

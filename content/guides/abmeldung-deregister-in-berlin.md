@@ -41,27 +41,30 @@ You can use this certificate to:
 
 You can deregister your address **in person, by post or by email**. It's free.
 
-You can deregister 7 days before you [move out](/guides/moving-out). You must deregister maximum 14 days after you move out.[^0]
+You can deregister 7 days before you [move out](/guides/moving-out). You must deregister maximum 14 days after you move out.[^0] In Berlin, this is not enforced; people sometimes wait weeks or months to deregister, and there are no problems.[^18]
 
-After you deregister, you get an *[[Abmeldebescheinigung]]*. This document confirms that your address is deregistered. If you deregister by email or by post, they *sometimes* send it to your new address.[^1]
+After you deregister, you get an *[[Abmeldebescheinigung]]*. This document confirms that your address is deregistered. If you deregister by email or by post, they *sometimes* send it to your new address. You must ask for it.[^1]
 
 ### In person at the Bürgeramt
 
 Here is how you can do your *Abmeldung* in person:
 
 1. [Book an appointment](/out/appointment-abmeldung) for *Abmeldung einer Wohnung*. You can choose any *[[Bürgeramt]]* in Berlin. Sometimes, there are no appointments available. Check again every few minutes, and you will find one.
-2. Fill the [*Abmeldung* form](/docs/abmeldung)
+2. [Fill the *Abmeldung* form](/docs/abmeldung)
 3. Go to your appointment. Bring:
     - [ ] The filled *Abmeldung* form
     - [ ] Your passport or *[[Personalausweis]]*, not a copy[^27]
-    - [ ] If you deregister late, a proof of your move-out date[^22]
+    - [ ] A proof of your move-out date, if you deregister late (optional)[^22]
 
-If you deregister multiple people, you must also bring:
+If you deregister multiple people, you must also bring...
 
 - [ ] Their passport or *[[Personalausweis]]*, not a copy[^30]
-- [ ] If they can't come to the appointment, a signed *[[Vollmacht]]* that allows you to deregister them.
 
-You can do it alone, even if you don't speak German. The appointment takes around 10 minutes.
+If you send someone else to deregister you, they must also bring...
+
+- [ ] A signed *[[Vollmacht]]* for each person you deregister
+
+The appointment is short and easy. It takes around 10 minutes. If you don't speak German, you probably won't need help, but you can still bring a translator.
 
 During your appointment, you will get an *[[Abmeldebescheinigung]]*.
 
@@ -71,7 +74,7 @@ Send these documents by [registered mail](/glossary/Einschreibebrief) to [any *B
 
 - [ ] The filled and signed [*Abmeldung* form](/docs/abmeldung). You can [fill it online](/docs/abmeldung#fill-the-abmeldung-form-online).
 - [ ] A copy of your passport or *[[Personalausweis]]*[^29]
-- [ ] If you deregister late, a proof of your move-out date[^22]
+- [ ] A proof of your move-out date, if you deregister late (optional)[^22]
 
 If you deregister multiple people, you must also include:
 
@@ -81,7 +84,7 @@ Write your new address on the form. If you use a German address, and [your name 
 
 **[How to mail a letter](/guides/mail-a-letter)** — from your computer, without a printer
 
-You will get an *[[Abmeldebescheinigung]]* at this address around 4 to 12 weeks later.[^2] It will be sent by regular post, not registered mail. Some *Bürgeramt* locations don't send an *[[Abmeldebescheinigung]]* to addresses in other countries. If you need this document, it's better if you deregister in person. It's better if you deregister in person. If you already left Germany, you can [pay someone to deregister you](#pay-someone-to-do-it).
+You will get an *[[Abmeldebescheinigung]]* at this address around 2 to 4 weeks later.[^2] It will be sent by regular post, not registered mail. Some *Bürgeramt* locations don't send an *[[Abmeldebescheinigung]]* to addresses in other countries. If you need this document, it's better if you deregister in person. If you already left Germany, you can [pay someone to deregister you](#pay-someone-to-do-it).
 
 ### By email
 
@@ -114,35 +117,36 @@ You can deregister by email at any *Bürgeramt*, but they all have different rul
 
 To deregister by email, send this message to the Bürgeramt:
 
-> Title: Abmeldung einer Wohnung  
+> Title: Abmeldung einer Wohnung
 >   
-> Sehr geehrte Damen und Herren,  
+> Sehr geehrte Damen und Herren,
+> hiermit möchte ich nach einem Auszug meine Wohnung abmelden. Beigefügt sind das ausgefüllte Formular „Abmeldung bei der Meldebehörde“ sowie eine Kopie meines Personalausweises.  
 >   
-> Hiermit möchte ich nach einem Auszug meine Wohnung abmelden. Beigefügt sind das ausgefüllte Formular "Abmeldung bei der Meldebehörde", sowie eine Kopie meines Personalausweises.  
+> Bitte senden Sie mir die Abmeldebestätigung per E-Mail. Falls das nicht möglich ist, bitte an meine neue Adresse. Falls ein Versand ins Ausland nicht möglich ist, senden Sie die Abmeldebestätigung bitte an folgende Person in Deutschland, die sie in meinem Namen empfangen kann:  
+>   
+> [Name and full address of a friend in Germany]
 >   
 > Mit freundlichen Grüßen  
-> [**an image of your signature**, and your name]
+> [Your name]
 
 Attach this to your email:
 
-- [ ] The filled and signed [*Abmeldung* form](/docs/abmeldung)
+- [ ] The [*Abmeldung* form](/docs/abmeldung), filled and signed
 - [ ] A copy of your passport or *[[Personalausweis]]*
-- [ ] An image of your signature, in the email message. It must look like the signature on the *Abmeldung* form.[^13]
-- [ ] A proof of your move-out date, if you deregister late[^22]
+- [ ] A proof of your move-out date, if you deregister late (optional)[^22]
 
 Write your new address in the form. If you use a German address, and [your name is not on the mailbox](/guides/addressing-a-letter-in-germany#if-the-name-is-not-on-the-mailbox), use "c/o" or "bei" on the address form.
 
-You will get an *[[Abmeldebescheinigung]]* at this address around 4 weeks later.[^2] It will be sent by regular post, not [registered mail](/glossary/Einschreibebrief). Some *Bürgeramt* locations only send the *Abmeldebescheinigung* to German addresses.
-
-If you really need the *Abmeldebescheinigung* need this document, deregister in person.
+You will get an *[[Abmeldebescheinigung]]* at this address 2 to 4 weeks later.[^2] It will be sent by regular post, not [registered mail](/glossary/Einschreibebrief). Some *Bürgeramt* locations only send the *Abmeldebescheinigung* to German addresses.
 
 ### Pay someone to do it
 
-[Deregistration.de](/out/deregistrationde-abmeldung) can do your *Abmeldung* for you. They will receive your *[[Abmeldebescheinigung]]* and forward it to you. This is a good option if you already left Germany.
+You can pay someone to deregister you address for you. They book the *Bürgeramt* appointment, register your address, and send you the [deregistration certificate](/glossary/Abmeldebescheinigung) by email. It's expensive, but it lets you focus on other problems.
 
-They also help you cancel your [TV tax](/glossary/Rundfunkbeitrag), your health insurance, and your other contracts.
+- [Deregistration.de](/out/deregistrationde-abmeldung)
+- [EasyAssist](/out/easyassist-abmeldung)
 
-It's expensive, but it lets you focus on other problems.
+They can also cancel your [TV tax](/glossary/Rundfunkbeitrag), your [health insurance](/glossary/Krankenversicherung), and your other contracts.
 
 ## What happens when you deregister
 
@@ -181,9 +185,9 @@ You can't own a vehicle registered in Germany if you don't live in Germany.[^14]
 
 ### Other services
 
-When you deregister, you get an *[[Abmeldebescheinigung]]*. You can use this certificate to [end your cellphone, internet and electricity contracts](/guides/moving-out#cancel-or-move-your-contracts) without fees.[^16]
+When you deregister, you get an *[[Abmeldebescheinigung]]*. Use this certificate to [cancel your phone, internet and electricity contracts](/guides/moving-out#cancel-or-move-your-contracts) without fees.[^16]
 
-If you own a business in Germany, you might also need to deregister your business,[^16] or transfer it to another person.
+If you own a business in Germany, you might also need to deregister your business, or transfer it to another person.
 
 ## If you already moved out
 
@@ -202,8 +206,8 @@ If you already left Germany, you can do your *Abmeldung* by email or by post.[^2
 **[How to get a pension refund ➞](/guides/pension-payments-refund)**
 
 [^0]: [buergeramt-termine.de](https://buergeramt-termine.de/guide/abmeldung-deregister-germany/)
-[^1]: Oliver at [SympatMe](https://sympat.me) (April 2023), [Facebook](https://www.facebook.com/groups/berlinfreelancers/posts/3107197082693988/?comment_id=3107888739291489), [reddit.com](https://old.reddit.com/r/berlin/comments/o7vjdy/abmeldung_no_confirnation/)
-[^2]: [reddit.com](https://old.reddit.com/r/berlin/comments/o7vjdy/abmeldung_no_confirnation/)
+[^1]: [Robert Hantzsch](/out/easyassist-abmeldung) (August 2025), [Oliver Frankfurth](https://sympat.me) (April 2023), [Facebook](https://www.facebook.com/groups/berlinfreelancers/posts/3107197082693988/?comment_id=3107888739291489), [reddit.com](https://old.reddit.com/r/berlin/comments/o7vjdy/abmeldung_no_confirnation/)
+[^2]: [Robert Hantzsch](/out/easyassist-abmeldung) (August 2025), [reddit.com](https://old.reddit.com/r/berlin/comments/o7vjdy/abmeldung_no_confirnation/)
 [^3]: [reddit.com](https://old.reddit.com/r/berlinsocialclub/comments/psnrmh/deregistration_wohnung_abmeldung/), [reddit.com](https://old.reddit.com/r/berlin/comments/f3uq8r/psa_b%C3%BCrgeramt_steglitz_lets_you_do_your_abmeldung/), [reddit.com](https://old.reddit.com/r/berlin/comments/eztva8/abmeldung/), [Twitter](https://x.com/hollowlegs/status/1688115017013514240) (2023)
 [^4]: [Screenshot](/images/ba-charlottenburg-abmeldung.png)
 [^5]: [Screenshot](/images/ba-friedrichshain-kreuzberg-abmeldung-by-email-2022-01-13.png)
@@ -214,13 +218,13 @@ If you already left Germany, you can do your *Abmeldung* by email or by post.[^2
 [^10]: [Screenshot](/images/ba-spandau-abmeldung-part-2.png)
 [^11]: [reddit.com](https://old.reddit.com/r/berlin/comments/f3uq8r/psa_b%C3%BCrgeramt_steglitz_lets_you_do_your_abmeldung/), [buergeramt-termine.de](https://buergeramt-termine.de/guide/abmeldung-deregistration-berlin/#:~:text=currently%20only%20possible%20at), [Screenshot](/images/abmeldung-by-email-steglitz.png), [Screenshot](/images/abmeldung-by-email-steglitz-2.png), [Screenshot](/images/ba-steglitz-anmeldebestatigung-email.png), [Screenshot](/images/burgeramt-steglitz-abmeldung-email-5.png)
 [^12]: [Screenshot](/images/Screenshot-2022-01-17-at-09.08.56.png)
-[^13]: [Screenshot](/images/ba-steglitz-abmeldung-email-requirements.png)
 [^14]: [wirelesslife.de](https://icwb.com/de/wohnsitz-abmelden-umzug-ins-ausland#umzug5)
 [^15]: [Finanztip](https://www.finanztip.de/pkv/pkv-anwartschaftsversicherung/), [Seamus Wolf](/guides/german-health-insurance#insurance-brokers) (2025)
 [^16]: [wirelesslife.de](https://icwb.com/de/wohnsitz-aus-deutschland-abmelden-pros-und-cons/)
 [^17]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/m14kvt/what_happens_after_the_abmeldung/gqboqey/?context=3)
+[^18]: [Robert Hantzsch](/out/easyassist-abmeldung) (August 2025)
 [^19]: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p1050), [berlin.de](https://www.berlin.de/einwanderung/aufenthalt/erloeschen-von-aufenthaltstiteln/)
-[^22]: Oliver at [SympatMe](https://sympat.me) (April 2023)
+[^22]: [Robert Hantzsch](/out/easyassist-abmeldung) (August 2025), [Oliver Frankfurth](https://sympat.me) (April 2023)
 [^23]: [Reddit](https://old.reddit.com/r/berlin/comments/14xi6r4/ambeldung_after_moving_to_another_eu_country/)
 [^24]: Multiple complaints (September 2023)
 [^26]: [Berlin.de](https://www.berlin.de/einwanderung/en/residence/expiry/) (July 2025)
