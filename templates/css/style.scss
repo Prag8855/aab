@@ -2325,6 +2325,9 @@ collapsible, letter-generator, feedback-residence-permit{  // Vue element before
             height: 17.7 / $pageScaleHeight;
             display: table-cell;
             vertical-align: bottom;
+            * {
+                font-size: 8 * $fontSizeScale;
+            }
         }
         position: absolute;
         top: 27 / $pageScaleHeight;
