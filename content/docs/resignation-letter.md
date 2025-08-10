@@ -10,6 +10,8 @@ Related_guides:
     docs/auslanderbehorde-job-change.md
 Categories:
     employer
+Related_reviews:
+    reviews/resignation-letter/andreas-martin.md
 ---
 
 To [quit your job](/guides/losing-your-job), you must give a resignation letter (*[[Kündigungsschreiben]]* or *Kündigungserklärung*) to your employer. Your [notice period](/glossary/Kündigungsfrist) starts when your employer receives your resignation letter.

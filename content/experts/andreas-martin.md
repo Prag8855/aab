@@ -6,4 +6,4 @@ Website: https://www.anwalt-martin.de/
 Picture: experts/photos/andreas-martin.jpg
 ---
 
-Andreas Martin is an employment lawyer in Berlin.
+Andreas Martin is an [employment lawyer](https://www.anwalt-martin.de/) in Berlin.
