@@ -24,9 +24,7 @@ To [quit your job](/guides/losing-your-job), you must give a resignation letter 
 
 ## How to write a resignation letter
 
-Use my [German resignation letter generator](/docs/resignation-letter):
-
-{% include "_blocks/resignationLetterStatic.html" %}
+Use my German resignation letter generator.
 
 Your resignation letter must be short and precise. Don't add unnecessary information; it could be used against you.[^10]
 
@@ -55,18 +53,18 @@ Your resignation letter should **not** include:
 
 ### Language of your resignation letter
 
-If you work in an English-speaking office, you can write your resignation letter in English. It's safer to write it in German.[^9]
+Write your resignation letter in German. If you work in an English-speaking office, you can write your resignation letter in English, but German is safer.[^9]
 
 ## How to give your resignation letter
 
-Your resignation letter must be **printed and signed**. An email, a fax, an instant message or a conversation is not enough.[^1] Your resignation is only official when your employer receives your resignation letter.
+Your resignation letter must be **printed and signed**. An email, a fax, an instant message or a conversation is not enough.[^1] Your resignation is only official when your employer receives your resignation letter.[^12]
 
 There are 2 ways to give your resignation letter.
 
 - **In person** (recommended)[^8]{{ RECOMMENDED }}  
-    Give your resignation letter to your employer in person. Bring a witness that can confirm that it happened.[^5] This is the best option, because you can guarantee that your employer received your resignation. It's also more polite.
+    Give your resignation letter to your employer in person. Bring a witness that saw the letter and can confirm that it was delivered.[^5] If you have a witness, you can guarantee that your employer received your resignation. If the witness has a copy, they can confirm what was in your resignation letter.
 - **By post**  
-    Send your resignation letter by [registered mail](/glossary/Einschreibebrief). Your notice period begins when your employer receives your resignation, not when you send it.[^12] This can delay your resignation.
+    If you live far away, send your resignation letter by [registered mail](/glossary/Einschreibebrief) with proof of delivery (*Einwurf-Einschreiben*). Never use registered mail with receipt (*Einschreiben mit Rückschein*) because your employer can refuse the letter.[^3] This can delay your resignation.
 
 Your employer does not need to confirm or accept your resignation. 
 
@@ -90,11 +88,12 @@ Keep a copy of your resignation letter. The *[[Agentur für Arbeit]]* asks for i
 
 [^1]: [§623 BGB](https://www.gesetze-im-internet.de/bgb/__623.html), [roberthalf.de](https://www.roberthalf.de/unsere-zusammenarbeit/news-info-center/karriere-tipps/arbeitsrecht/kuendigung)
 [^2]: Interview with an unemployed person (July 2023)
-[^5]: [karrierebibel.de](https://karrierebibel.de/kundigungsschreiben-muster/)
+[^3]: [Andreas Martin](https://rechtsanwalt-arbeitsrecht-in-berlin.de/) (August 2025)
+[^5]: [Andreas Martin](https://rechtsanwalt-arbeitsrecht-in-berlin.de/) (August 2025), [karrierebibel.de](https://karrierebibel.de/kundigungsschreiben-muster/)
 [^6]: [spiegel.de](https://www.spiegel.de/karriere/leitfaden-ich-kuendige-aber-richtig-a-858159.html#:~:text=die%20frage%20nach%20dem%20kundigungsgrund)
 [^7]: [karrierebibel.de](https://karrierebibel.de/kundigungsschreiben-muster/#:~:text=Personalnummer%3A%20MM987654-123-,anrede%20(pflicht),-Die%20K%C3%BCndigung%20muss)
 [^8]: [roberthalf.de](https://www.roberthalf.de/unsere-zusammenarbeit/news-info-center/karriere-tipps/arbeitsrecht/kuendigung#:~:text=zustellung%20der%20kundigung%3A%20am%20besten%20personlich)
-[^9]: [Rotwang Law](https://rotwang-law.de/en/) (June 2023)
+[^9]: [Andreas Martin](https://rechtsanwalt-arbeitsrecht-in-berlin.de/) (August 2025), [Rotwang Law](https://rotwang-law.de/en/) (June 2023)
 [^10]: [ArbeitNow](https://www.arbeitnow.com/blog/job-resignation-in-germany), [roberthalf.com](https://www.roberthalf.de/unsere-zusammenarbeit/news-info-center/karriere-tipps/arbeitsrecht/kuendigung#:~:text=das%20gehort%20ins%20kundigungsschreiben), [karrierebibel.de](https://karrierebibel.de/kundigungsschreiben-muster/#:~:text=begrundung%20(optional)), [peopleatventure.de](https://www.peopleatventure.de/kuendigungsschreiben#:~:text=geben%20sie%20dem%20leser%20keinerlei%20spielraum%2C%20ihre%20kundigung%20falsch%20zu%20interpretieren.)
 [^11]: [§126 Abs. 1 BGB](http://www.gesetze-im-internet.de/bgb/__126.html), [kanzlei-hasselbach.de](https://www.kanzlei-hasselbach.de/blog/zugang-einer-kuendigung-arbeitsrecht/#2), [roberthalf.de](https://www.roberthalf.de/unsere-zusammenarbeit/news-info-center/karriere-tipps/arbeitsrecht/kuendigung)
 [^12]: [kanzlei-hasselbach.de](https://www.kanzlei-hasselbach.de/blog/zugang-einer-kuendigung-arbeitsrecht/#2)
