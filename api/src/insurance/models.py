@@ -1,6 +1,7 @@
 from django.contrib.contenttypes.fields import GenericForeignKey, GenericRelation
 from django.contrib.contenttypes.models import ContentType
 from django.core.exceptions import ValidationError
+from django_countries.fields import CountryField
 from django.db import models
 from django.db.models.functions import Coalesce
 from django.db.models import OuterRef, Subquery, Value
@@ -86,11 +87,12 @@ class InsuredPerson(models.Model):
 
     first_name = models.CharField(max_length=100)
     last_name = models.CharField(max_length=100)
-    description = models.TextField(blank=True)
+    description = models.CharField(max_length=250, help_text="For example \"Spouse\"")
 
-    date_of_birth = models.DateField()
-    nationality = models.CharField(max_length=100)
-    country_of_residence = models.CharField(max_length=100)
+    occupation = models.CharField(max_length=50, blank=True)  # "selfEmployed"
+    date_of_birth = models.DateField(blank=True, null=True)
+    nationality = CountryField(blank=True)
+    country_of_residence = CountryField(blank=True)
 
     comments = GenericRelation(Comment)
 
