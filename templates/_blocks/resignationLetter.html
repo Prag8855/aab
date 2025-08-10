@@ -88,18 +88,25 @@
 
 		<p>{{ formatSalutations(recipientGender, recipientFirstName, recipientLastName, language) }},</p>
 
-		<p v-if="language === 'en'">
-			I hereby terminate my employment contract with due notice with effect from {{ lastDayOfWork ? formatDate(lastDayOfWork, 'en-US') : 'the earliest possible date' }}.
+		<p v-if="language === 'en' && lastDayOfWork">
+			I hereby give notice of my resignation in accordance with the applicable notice period on {{ formatDate(lastDayOfWork, 'en-US') }}. Alternatively, I hereby resign at the earliest possible date.
 		</p>
-		<p v-if="language === 'de'">
-			hiermit kündige ich mein Arbeitsverhältnis fristgerecht zum {{ lastDayOfWork ? formatDate(lastDayOfWork, 'de-DE') : 'nächstmöglichen Termin' }}.
+		<p v-if="language === 'en' && !lastDayOfWork">
+			I hereby give notice of my resignation of my employment in accordance with the applicable notice period, effective at the earliest possible date.
+		</p>
+
+		<p v-if="language === 'de' && lastDayOfWork">
+			Hiermit kündige ich mein Arbeitsverhältnis unter Einhaltung der maßgeblichen Kündigungsfrist ordentlich zum {{ formatDate(lastDayOfWork, 'de-DE') }}. Hilfsweise kündige ich zum nächstmöglichen Termin.
+		</p>
+		<p v-if="language === 'de' && !lastDayOfWork">
+			Hiermit kündige ich mein Arbeitsverhältnis unter Einhaltung der maßgeblichen Kündigungsfrist ordentlich zum nächstmöglichen Termin.
 		</p>
 
 		<p v-if="language === 'en'">
-			Please confirm in writing the receipt of this termination letter and the termination date of my employment contract.
+			Please confirm receipt of this resignation notice and the termination date of my employment in writing.
 		</p>
 		<p v-if="language === 'de'">
-			Bitte bestätigen Sie mir den Erhalt dieser Kündigung und das Kündigungsdatum meines Arbeitsverhältnisses schriftlich.
+			Bitte bestätigen Sie mir den Erhalt dieser Kündigung und das Beendigungsdatum meines Arbeitsverhältnisses schriftlich.
 		</p>
 
 		<p v-if="language === 'en'&& hasRequestedAnyDocuments">
