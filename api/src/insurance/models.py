@@ -87,12 +87,15 @@ class InsuredPerson(models.Model):
 
     first_name = models.CharField(max_length=100)
     last_name = models.CharField(max_length=100)
-    description = models.CharField(max_length=250, help_text="For example \"Spouse\"")
+    description = models.CharField(blank=True, max_length=250, help_text="For example \"Spouse\"")
 
-    occupation = models.CharField(max_length=50, blank=True)  # "selfEmployed"
-    date_of_birth = models.DateField(blank=True, null=True)
+    occupation = models.CharField(blank=True, max_length=50)  # "selfEmployed"
     nationality = CountryField(blank=True)
     country_of_residence = CountryField(blank=True)
+
+    # Age is easier to collect. Date of birth is necessary at later stages.
+    age = models.PositiveSmallIntegerField(null=True)
+    date_of_birth = models.DateField(blank=True, null=True)
 
     comments = GenericRelation(Comment)
 
