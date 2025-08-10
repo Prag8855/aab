@@ -74,6 +74,10 @@
 		</template>
 	</template>
 
+	<template v-slot:before-print-preview="{ language }">
+		<p class="input-instructions" v-if="language == 'en'">Send the German version to your employer.</p>
+	</template>
+
 	<template v-slot:letter-body="{ language, stage }">
 		<p v-if="language === 'en'">
 			<strong>Subject: Termination of my employment contract</strong>

@@ -74,6 +74,7 @@ Vue.component('letter-generator', {
 				<input v-model="language" type="radio" :id="uid('languageDe')" value="de">
 				<label :for="uid('languageDe')">German</label>
 			</div>
+			<slot v-if="stage === 'printPreview'" name="before-print-preview" :language="language"></slot>
 			<div v-if="stage === 'start' || stage === 'printPreview'" :class="{'letter-template': stage === 'printPreview'}" ref="template">
 				<div class="letter-recipient-address only-print">
 					<slot name="letter-recipient" :language="language" :stage="stage"></slot>
