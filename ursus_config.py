@@ -384,7 +384,7 @@ ctx["fail_on"] = fail_on
 ctx["google_maps_api_key"] = 'AIzaSyBtGlbcvFspb9habWlXiFcptF8wdFjCb-E'  # Frontend use
 ctx["glossary_groups"] = glossary_groups
 
-ctx["RECOMMENDED"] = Markup('&nbsp; <a class="recommended" aria-label="Recommended option" href="/glossary/Recommended">Recommended</a>')
+ctx["RECOMMENDED"] = Markup('&nbsp; <a target="_blank" class="recommended" aria-label="Recommended option" href="/glossary/Recommended">Recommended</a>')
 
 # ==============================================================================
 # URSUS
