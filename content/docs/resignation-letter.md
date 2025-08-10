@@ -12,7 +12,7 @@ Categories:
     employer
 ---
 
-To [quit your job](/guides/losing-your-job), you must give your employer a resignation letter. Your [notice period](/glossary/Kündigungsfrist) starts when your employer receives your resignation letter.
+To [quit your job](/guides/losing-your-job), you must give your employer a resignation letter (*[[Kündigungsschreiben]]*). Your [notice period](/glossary/Kündigungsfrist) starts when your employer receives your resignation letter.
 
 **[How to quit your job ➞](/guides/losing-your-job)**
 

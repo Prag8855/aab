@@ -20,7 +20,6 @@ Your resignation letter must be short and precise. Don't add unnecessary informa
 Your resignation letter must include:
 
 - [ ] Your full name and address
-- [ ] Your employee number (if you have one)
 - [ ] Your employer's full name and address
 - [ ] The date of your resignation
 - [ ] The word *Kündigung* in the subject line
@@ -29,7 +28,8 @@ Your resignation letter must include:
 
 Your resignation letter can include:
 
-- [ ] Your contact information - in case your employer needs to contact you later
+- [ ] Your contact information, if your employer needs to contact you later
+- [ ] Your employee number, if you have one
 - [ ] A request for a reference letter (*[[Arbeitszeugnis]]*)
 - [ ] A request for an *[[Urlaubsbescheinigung]]*
 - [ ] A note to thank your employer and your team
