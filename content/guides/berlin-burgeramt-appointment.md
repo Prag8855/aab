@@ -47,7 +47,9 @@ If your situation is not urgent, ask for an appointment by email. It's faster.[^
 
 ## Pay someone to go for you
 
-Relocation consultants can book the appointment for you, and go to the *Bürgeramt* with you. If you don't speak German, this is a good idea. I recommend [Red Tape Translation](/out/red-tape-translation-interpreter).
+If you don't speak German, you can bring a translator with you. I recommend [Red Tape Translation](/out/red-tape-translation-interpreter).
+
+If you sign a *[[Vollmacht]]*, someone else can go to the *[[Bürgeramt]]* for you. [Red Tape Translation](/out/red-tape-translation-interpreter) can also do it.
 
 ## More tips
 
@@ -57,7 +59,7 @@ You can go to any *Bürgeramt* in Berlin, not just the one near you. The ones in
 
 ### Use online services
 
-You can do some things online, and avoid a Bürgeramt visit. For example, you can [deregister your address](/guides/abmeldung-deregister-in-berlin) ([*A<u>b</u>meldung*](/glossary/Abmeldung)) by email or by post.
+You can do some things online, and avoid a Bürgeramt visit. You can [register](/glossary/Anmeldung) and [deregister](/glossary/Abmeldung) your address online.
 
 ### Multiple services in one appointment
 

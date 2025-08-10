@@ -61,7 +61,7 @@ Your resignation letter must be **printed and signed**. An email, a fax, an inst
 
 There are 2 ways to give your resignation letter.
 
-- **In person** (recommended)[^8]{{ RECOMMENDED }}  
+- **In person**{{ RECOMMENDED }}[^8]  
     Give your resignation letter to your employer in person. Bring a witness that saw the letter and can confirm that it was delivered.[^5] If you have a witness, you can guarantee that your employer received your resignation. If the witness has a copy, they can confirm what was in your resignation letter.
 - **By post**  
     If you live far away, send your resignation letter by [registered mail](/glossary/Einschreibebrief) with proof of delivery (*Einwurf-Einschreiben*). Never use registered mail with receipt (*Einschreiben mit Rückschein*) because your employer can refuse the letter.[^3] This can delay your resignation.
