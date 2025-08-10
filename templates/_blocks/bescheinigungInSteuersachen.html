@@ -57,22 +57,22 @@
 		<ul>
 			<li>
 				Name:
-				<blank placeholder="Full name">{{ fullName }}</blank>
+				<blank required placeholder="Full name">{{ fullName }}</blank>
 			</li>
 			<li>
 				<template v-if="language === 'en'">Address:</template>
 				<template v-if="language === 'de'">Anschrift:</template>
-				<blank placeholder="Address">{{ address.replaceAll('\n', ', ') }}</blank>
+				<blank required placeholder="Address">{{ address.replaceAll('\n', ', ') }}</blank>
 			</li>
 			<li>
 				<template v-if="language === 'en'">Date of birth:</template>
 				<template v-if="language === 'de'">Geburtsdatum:</template>
-				<blank placeholder="Date of birth">{{ dateOfBirth }}</blank>
+				<blank required placeholder="Date of birth">{{ dateOfBirth }}</blank>
 			</li>
 			<li>
 				<template v-if="language === 'en'">Tax ID:</template>
 				<template v-if="language === 'de'">Steuer-ID:</template>
-				<blank placeholder="Tax ID">{{ taxID }}</blank>
+				<blank required placeholder="Tax ID">{{ taxID }}</blank>
 			</li>
 		</ul>
 
@@ -87,11 +87,11 @@
 
 		<p v-if="language === 'en'">
 			Best regards,<br>
-			<blank placeholder="Full name">{{ fullName }}</blank>
+			<blank required placeholder="Full name">{{ fullName }}</blank>
 		</p>
 		<p v-if="language === 'de'">
 			Mit freundlichen Grüßen,<br>
-			<blank placeholder="Full name">{{ fullName }}</blank>
+			<blank required placeholder="Full name">{{ fullName }}</blank>
 		</p>
 	</template>
 
@@ -111,7 +111,7 @@
 					placeholder="Wohnungstraße 123&#10;12345 Berlin"></textarea>
 			</div>
 		</div>
-		<div class="form-group">
+		<div class="form-group required">
 			<label :for="uid('date-of-birth') + '-day'">Date of birth</label>
 			<div class="input-group">
 				<date-picker
