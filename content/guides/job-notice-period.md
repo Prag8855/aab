@@ -87,6 +87,8 @@ During your notice period, your employer can make you work, or send you on [gard
 
 If you have unused vacation days, your employer can force you to use them. You can also transfer unused vacation days to your next employer with an *[[Urlaubsbescheinigung]]*.
 
+If you still have unused vacation day when your employment ends, your employer must pay you for them.[^17]
+
 **[Vacation days when you change jobs ➞](/guides/vacation-days#if-you-change-jobs)**
 
 [^1]: [§622 Abs. 3 BGB](https://www.gesetze-im-internet.de/bgb/__622.html)
@@ -105,3 +107,4 @@ If you have unused vacation days, your employer can force you to use them. You c
 [^14]: [Andreas Martin](https://rechtsanwalt-arbeitsrecht-in-berlin.de/) (July 2025)
 [^15]: [Andreas Martin](https://rechtsanwalt-arbeitsrecht-in-berlin.de/) (July 2025)
 [^16]: [Finanztip](https://www.finanztip.de/sperrzeit-arbeitslosengeld/#:~:text=Sollst%20Du%20laut,Du%20eine%20Sperrzeit.) (November 2024), [Andreas Martin](https://rechtsanwalt-arbeitsrecht-in-berlin.de/) (July 2025)
+[^17]: [§7 Abs. 4 BUrlG](https://www.gesetze-im-internet.de/burlg/__7.html)
