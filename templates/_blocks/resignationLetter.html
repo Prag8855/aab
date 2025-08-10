@@ -1,5 +1,6 @@
 {% include '_js/letterUtils.js' %}
 {% include '_js/vue.js' %}
+{% include '_js/vue/blank.js' %}
 {% include '_js/vue/date-picker.js' %}
 {% include '_js/vue/glossary.js' %}
 {% include '_js/vue/recommended.js' %}
@@ -48,19 +49,16 @@
 	<template v-slot:header>Job resignation letter</template>
 
 	<template v-slot:letter-recipient="{ language, stage }">
-		<span class="letter-return-address" v-if="address">
-			{{ fullName }}<template v-if="fullName && address">, </template>
-			{{ address.replaceAll('\n', ', ') }}
+		<span class="letter-return-address">
+			<blank required placeholder="Your full name">{{ fullName }}</blank>,
+			<blank placeholder="your address">{{ address.replaceAll('\n', ', ') }}</blank>
 		</span>
-		<span class="letter-return-address" v-else></span>
-
-		<template v-if="employerCompanyName">
-			{{ employerCompanyName }}<br>
-		</template>
+		<blank required placeholder="Employer name">{{ employerCompanyName }}</blank><br>
 		<template v-if="formatName(recipientGender, recipientFirstName, recipientLastName, language)">
 			{{ formatName(recipientGender, recipientFirstName, recipientLastName, language) }}<br>
 		</template>
-		<span v-html="employerAddress.replaceAll('\n', '<br>')"></span>
+		<blank required v-if="!employerAddress.trim()" placeholder="Employer address"></blank>
+		<span v-if="employerAddress.trim()" v-html="employerAddress.replaceAll('\n', '<br>')"></span>
 	</template>
 
 	<template v-slot:letter-details="{ language, stage }">
@@ -70,7 +68,7 @@
 			<template v-if="employeeNumber"><br><strong>Employee number: </strong> {{ employeeNumber }}</template>
 		</template>
 		<template v-if="language === 'de'">
-			<template v-if="fullName"><strong>Name:</strong> {{ fullName }}<br></template>
+			<strong>Name:</strong> <blank required placeholder="Your full name">{{ fullName }}</blank><br>
 			<strong>Datum:</strong> {{ currentDate.toLocaleDateString("de-DE") }}
 			<template v-if="employeeNumber"><br><strong>Personalnummer: </strong> {{ employeeNumber }}</template>
 		</template>
@@ -130,12 +128,12 @@
 		</ul>
 
 		<p v-if="language === 'en'">
-			Best regards<template v-if="fullName">,<br></template>
-			{{ fullName }}
+			Best regards,<br>
+			<blank required placeholder="Your full name">{{ fullName }}</blank>
 		</p>
 		<p v-if="language === 'de'">
-			Mit freundlichen Grüßen<template v-if="fullName">,<br></template>
-			{{ fullName }}
+			Mit freundlichen Grüßen,<br>
+			<blank required placeholder="Your full name">{{ fullName }}</blank>
 		</p>
 
 		<p class="signature" v-if="stage === 'printPreview'">
