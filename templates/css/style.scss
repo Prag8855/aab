@@ -2071,6 +2071,10 @@ output.placeholder, .recommended{
     font-weight: 400;
     color: var(--c-text-light)!important;
     white-space: nowrap;
+    &.error{
+        background: var(--c-bg-error);
+        color: var(--c-text-error)!important;
+    }
 }
 .recommended{
     font-size: var(--f-s);
