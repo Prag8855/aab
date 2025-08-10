@@ -2,6 +2,7 @@
 {% include '_js/vue.js' %}
 {% include '_js/vue/date-picker.js' %}
 {% include '_js/vue/glossary.js' %}
+{% include '_js/vue/recommended.js' %}
 {% include '_js/vue/letter-generator.js' %}
 {% include '_js/vue/mixins/uniqueIdsMixin.js' %}
 {% include '_js/vue/mixins/userDefaultsMixin.js' %}
@@ -24,13 +25,14 @@
 					lastDayOfWork: null,
 
 					requestLetterOfReference: true,
-					requestQualifiedLetterOfReference: false,
 					requestVacationCertificate: true,
+					requestQualifiedLetterOfReference: false,
+					requestProvisionalLetterOfReference: false,
 				};
 			},
 			computed: {
 				hasRequestedAnyDocuments() {
-					return this.requestLetterOfReference || this.requestQualifiedLetterOfReference || this.requestVacationCertificate;
+					return this.requestLetterOfReference || this.requestProvisionalLetterOfReference || this.requestQualifiedLetterOfReference || this.requestVacationCertificate;
 				}
 			},
 			methods: {
@@ -109,11 +111,13 @@
 
 		<ul v-if="language === 'en' && hasRequestedAnyDocuments">
 			<li v-if="requestLetterOfReference">a letter of reference (<em>Arbeitszeugnis</em>)</li>
+			<li v-if="requestProvisionalLetterOfReference">a provisional letter of reference (<em>vorläufiges Arbeitszeugnis</em>)</li>
 			<li v-if="requestQualifiedLetterOfReference">a qualified letter of reference (<em>qualifiziertes Arbeitszeugnis</em>)</li>
 			<li v-if="requestVacationCertificate">a vacation certificate (<em>Urlaubsbescheinigung</em>)</li>
 		</ul>
 		<ul v-if="language === 'de' && hasRequestedAnyDocuments">
 			<li v-if="requestLetterOfReference">Arbeitszeugnis</li>
+			<li v-if="requestProvisionalLetterOfReference">vorläufiges Arbeitszeugnis</li>
 			<li v-if="requestQualifiedLetterOfReference">qualifiziertes Arbeitszeugnis</li>
 			<li v-if="requestVacationCertificate">Urlaubsbescheinigung</li>
 		</ul>
@@ -214,22 +218,29 @@
 				<label class="checkbox">
 					<input type="checkbox" v-model="requestVacationCertificate">
 					<div>
-						<glossary term="Urlaubsbescheinigung">Vacation certificate</glossary><br>
-						<small>Recommended. Your next employer might ask for it.</small>
+						<glossary term="Urlaubsbescheinigung">Vacation certificate</glossary>&nbsp; <recommended></recommended><br>
+						<small>Your next employer might ask for it.</small>
 					</div>
 				</label>
 				<label class="checkbox">
 					<input type="checkbox" v-model="requestLetterOfReference">
 					<div>
-						<glossary term="Arbeitszeugnis">Letter of reference</glossary><br>
-						<small>Recommended. It proves what you did for this employer.</small>
+						<glossary term="Arbeitszeugnis">Letter of reference</glossary>&nbsp; <recommended></recommended><br>
+						<small>It proves what you did for this employer. Your employer can't refuse to give you this letter.</small>
+					</div>
+				</label>
+				<label class="checkbox">
+					<input type="checkbox" v-model="requestProvisionalLetterOfReference">
+					<div>
+						Provisional <glossary term="Arbeitszeugnis">letter of reference</glossary><br>
+						<small>Ask for a letter of reference before your last day of work. It can be useful for your job search. Your employer can't refuse to give you this letter.</small>
 					</div>
 				</label>
 				<label class="checkbox">
 					<input type="checkbox" v-model="requestQualifiedLetterOfReference">
 					<div>
-						<glossary term="Arbeitszeugnis">Qualified letter of reference</glossary><br>
-						<small>Includes an evaluation of your performance.</small>
+						Qualified <glossary term="Arbeitszeugnis">letter of reference</glossary><br>
+						<small>It includes an evaluation of your performance. Your employer can refuse to give you this letter.</small>
 					</div>
 				</label>
 			</div>
