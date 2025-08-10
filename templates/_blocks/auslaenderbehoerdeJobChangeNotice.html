@@ -90,16 +90,16 @@
 				Dear Sir or Madam,
 			</p>
 			<p>
-				My name is <blank placeholder="Name">{{ fullName }}</blank>. I am a citizen of <blank placeholder="Country">{{ countries.all[nationality] }}</blank>. I was born on <blank placeholder="Date of birth">{{ formatDate(dateOfBirth, 'en-US') }}</blank> in <blank placeholder="Birthplace">{{ placeOfBirth }}</blank>.
+				My name is <blank required placeholder="Name">{{ fullName }}</blank>. I am a citizen of <blank required placeholder="Country">{{ countries.all[nationality] }}</blank>. I was born on <blank required placeholder="Date of birth">{{ formatDate(dateOfBirth, 'en-US') }}</blank> in <blank required placeholder="Birthplace">{{ placeOfBirth }}</blank>.
 			</p>
 			<p v-if="letterType === 'resignation'">
 				I am writing to inform the Ausländerbehörde that I have quit my job.
-				My last day of work {{ dateFromString(lastDayOfWork) >= currentDate ? 'is' : 'was' }} on <blank placeholder="Last day of work">{{ formatDate(lastDayOfWork, 'en-US') }}</blank>.
+				My last day of work {{ dateFromString(lastDayOfWork) >= currentDate ? 'is' : 'was' }} on <blank required placeholder="Last day of work">{{ formatDate(lastDayOfWork, 'en-US') }}</blank>.
 				I have attached a copy of my resignation letter.
 			</p>
 			<p v-if="letterType === 'termination'">
 				I am writing to inform the Ausländerbehörde that my employer has terminated my employment.
-				My last day of work {{ dateFromString(lastDayOfWork) >= currentDate ? 'is' : 'was' }} on <blank placeholder="Last day of work">{{ formatDate(lastDayOfWork, 'en-US') }}</blank>.
+				My last day of work {{ dateFromString(lastDayOfWork) >= currentDate ? 'is' : 'was' }} on <blank required placeholder="Last day of work">{{ formatDate(lastDayOfWork, 'en-US') }}</blank>.
 				I have attached a copy of the termination notice.
 			</p>
 			<p v-if="letterType === 'jobChange'">
@@ -124,16 +124,16 @@
 				Sehr geehrte Damen und Herren,
 			</p>
 			<p>
-				Mein Name ist <blank placeholder="Name">{{ fullName }}</blank>. Ich bin Staatsangehöriger von <blank placeholder="Land">{{ countriesInGerman.all[nationality] }}</blank>. Ich wurde am <blank placeholder="Geburtsdatum">{{ formatDate(dateOfBirth, 'de-DE') }}</blank> in <blank placeholder="Geburtsort">{{ placeOfBirth }}</blank> geboren.
+				Mein Name ist <blank required placeholder="Name">{{ fullName }}</blank>. Ich bin Staatsangehöriger von <blank required placeholder="Land">{{ countriesInGerman.all[nationality] }}</blank>. Ich wurde am <blank required placeholder="Geburtsdatum">{{ formatDate(dateOfBirth, 'de-DE') }}</blank> in <blank required placeholder="Geburtsort">{{ placeOfBirth }}</blank> geboren.
 			</p>
 			<p v-if="letterType === 'resignation'">
 				Ich schreibe, um die Ausländerbehörde darüber zu informieren, dass ich meinen Job gekündigt habe.
-				Mein letzter Arbeitstag {{ dateFromString(lastDayOfWork) >= currentDate ? 'ist' : 'war' }} am <blank placeholder="Letzte Arbeitstag">{{ formatDate(lastDayOfWork, 'de-DE') }}</blank>.
+				Mein letzter Arbeitstag {{ dateFromString(lastDayOfWork) >= currentDate ? 'ist' : 'war' }} am <blank required placeholder="Letzte Arbeitstag">{{ formatDate(lastDayOfWork, 'de-DE') }}</blank>.
 				Beigefügt ist eine Kopie meines Kündigungsschreibens.
 			</p>
 			<p v-if="letterType === 'termination'">
 				Ich schreibe, um die Ausländerbehörde darüber zu informieren, dass mein Arbeitgeber mein Arbeitsverhältnis beendet hat.
-				Mein letzter Arbeitstag {{ dateFromString(lastDayOfWork) >= currentDate ? 'ist' : 'war' }} am <blank placeholder="Letzte Arbeitstag">{{ formatDate(lastDayOfWork, 'de-DE') }}</blank>.
+				Mein letzter Arbeitstag {{ dateFromString(lastDayOfWork) >= currentDate ? 'ist' : 'war' }} am <blank required placeholder="Letzte Arbeitstag">{{ formatDate(lastDayOfWork, 'de-DE') }}</blank>.
 				Beigefügt ist eine Kopie der Kündigungserklärung.
 			</p>
 			<p v-if="letterType === 'jobChange'">
@@ -155,7 +155,7 @@
 	</template>
 
 	<template v-slot:form>
-		<div class="form-group show-errors">
+		<div class="form-group required show-errors">
 			<span class="label">What happened?</span>
 			<div class="input-group vertical">
 				<label class="checkbox">
@@ -170,7 +170,7 @@
 			</div>
 			<span v-if="showJobChangeWarning" class="input-instructions">In Berlin, use the <a href="/out/auslanderbehorde-job-change" target="_blank">official form</a> to report a job change.</span>
 		</div>
-		<div class="form-group">
+		<div class="form-group required">
 			<label :for="uid('last-workday') + '-day'">Last day of work</label>
 			<div class="input-group">
 				<date-picker
@@ -179,11 +179,11 @@
 			</div>
 		</div>
 		<hr>
-		<div class="form-group no-print">
+		<div class="form-group required no-print">
 			<label :for="uid('fullName')">Your full name</label>
 			<input :id="uid('fullName')" type="text" v-model="fullName">
 		</div>
-		<div class="form-group no-print">
+		<div class="form-group required no-print">
 			<label :for="uid('address')">Your address</label>
 			<div class="input-group">
 				<textarea
@@ -193,7 +193,7 @@
 					placeholder="Wohnungstraße 123&#10;12345 Berlin"></textarea>
 			</div>
 		</div>
-		<div class="form-group">
+		<div class="form-group required">
 			<label :for="uid('date-of-birth') + '-day'">Date of birth</label>
 			<div class="input-group">
 				<date-picker
@@ -202,7 +202,7 @@
 					autocomplete="bday"></date-picker>
 			</div>
 		</div>
-		<div class="form-group">
+		<div class="form-group required">
 			<label :for="uid('place-of-birth')">Place of birth</label>
 			<div class="input-group">
 				<input type="text"
@@ -211,7 +211,7 @@
 					:id="uid('place-of-birth')">
 			</div>
 		</div>
-		<div class="form-group">
+		<div class="form-group required">
 			<label :for="uid('nationality')">Nationality</label>
 			<country-input
 				country-code
@@ -220,7 +220,7 @@
 				required></country-input>
 		</div>
 		<hr>
-		<div class="form-group no-print">
+		<div class="form-group required no-print">
 			<span class="label">Ausländerbehörde</span>
 			<div class="input-group">
 				<div class="tabs" aria-label="Select your Ausländerbehörde">
