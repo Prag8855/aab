@@ -34,13 +34,13 @@ Date_reviewed: {date}
 
 def get_user_input(title: str, autocompleter=None):
     print(f"\033[1m{title}:\033[0m")
-    readline.set_completer_delims('/')
+    readline.set_completer_delims('')
     readline.set_completer(autocompleter)
     return input("> \033[0m")
 
 
-def autocomplete_guides(query, state):
-    options = [p.stem for p in (config.content_path / 'guides').rglob(f'{query}*.md')]
+def autocomplete_entries(query, state):
+    options = [str(p.relative_to(config.content_path)) for p in (config.content_path).rglob(f'{query}*.md')]
     return options[state] if state < len(options) else None
 
 
@@ -69,7 +69,8 @@ def add_expert(expert_slug: str):
 
 
 def add_review():
-    guide_slug = get_user_input("Guide slug", autocomplete_guides)
+    entry_uri = get_user_input("Entry URI", autocomplete_entries)
+    entry_slug = Path(entry_uri).stem
     expert_slug = get_user_input("Expert slug", autocomplete_experts)
 
     if not (config.content_path / f'experts/{expert_slug}.md').exists():
@@ -80,17 +81,17 @@ def add_review():
         date=datetime.now().strftime("%Y-%m-%d"),
     )
 
-    review_path = config.content_path / f'reviews/{guide_slug}/{expert_slug}.md'
-    print(f"Saving review to {str(review_path)}")
+    review_path = config.content_path / f'reviews/{entry_slug}/{expert_slug}.md'
+    print(f"Saving review to {str(review_path.relative_to(config.content_path))}")
     review_path.parent.mkdir(parents=True, exist_ok=True)
     with review_path.open('w') as file:
         file.writelines(file_content)
     print("\n---\n")
 
-    print(f"Adding review to guides/{guide_slug}.md")
+    print(f"Adding review to {entry_uri}")
 
     reviewers_regex = re.compile(r"Related_reviews:(\s*\n)(\s+)(.*)$", re.MULTILINE | re.DOTALL)
-    guide_path = config.content_path / f'guides/{guide_slug}.md'
+    guide_path = config.content_path / entry_uri
     with guide_path.open() as file:
         guide_content = file.read()
 
