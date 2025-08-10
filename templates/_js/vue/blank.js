@@ -10,6 +10,6 @@ Vue.component('blank', {
 			return this.$slots && this.$slots.default && this.$slots.default[0].text.trim();
 		}
 	},
-	template: `<output :class="{placeholder: !content, error: required && !content}" v-html="content || placeholder"></output>`,
+	template: `<output :class="{placeholder: !content, error: required && !content}" :title="required && !content ? 'This information is required' : ''" v-html="content || placeholder"></output>`,
 });
 {% endraw %}{% endjs %}
