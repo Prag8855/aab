@@ -2074,6 +2074,9 @@ output.placeholder, .recommended{
     &.error{
         background: var(--c-bg-error);
         color: var(--c-text-error)!important;
+        &:after{
+            content:'*';
+        }
     }
 }
 .recommended{
