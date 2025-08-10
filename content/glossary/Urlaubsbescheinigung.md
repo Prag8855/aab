@@ -7,7 +7,7 @@ Date_created: 2023-08-06
 Related_guides:
     guides/losing-your-job.md
     guides/vacation-days.md
-    guides/german-resignation-letter.md
+    docs/resignation-letter.md
 ---
 
 A vacation certificate (*Urlaubsbescheinigung*) is a document you get from your employer when you [leave your job](/guides/losing-your-job). It tells your next employer how many vacation days you have used this year, and how many vacation days you have left.[^1]

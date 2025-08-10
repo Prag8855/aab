@@ -6,9 +6,9 @@ Description: Letter to inform the Ausländerbehörde when you change jobs or los
 Date_created: 2023-07-17
 Related_guides:
     guides/losing-your-job.md
-    guides/german-resignation-letter.md
     guides/residence-permit.md
     guides/immigration-office.md
+    docs/resignation-letter.md
 Categories:
     auslaenderbehoerde
 ---

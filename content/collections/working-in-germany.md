@@ -14,7 +14,6 @@ Related_guides:
     guides/sabbatical-leave.md
     guides/bildungsurlaub.md
     guides/losing-your-job.md
-    guides/german-resignation-letter.md
     guides/job-notice-period.md
     guides/unemployment-benefits.md
 Order: 020

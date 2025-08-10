@@ -36,9 +36,7 @@ Your notice period can be very long: 3 months is normal for some jobs.[^9] Some 
 
 To quit your job, you must give a resignation letter (*[[Kündigungsschreiben]]*). Your resignation is only valid when your employer receives your resignation letter. That's when your [notice period](/glossary/Kündigungsfrist) starts.
 
-**[How to write and send a resignation letter ➞](/guides/german-resignation-letter)**
-
-**[Resignation letter generator ➞](/docs/resignation-letter)**
+**[How to write and send your resignation letter ➞](/docs/resignation-letter)**
 
 Your employer can't force you to resign. Never give a resignation letter if you did not resign.
 

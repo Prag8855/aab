@@ -5,7 +5,6 @@ English_term: Job reference letter
 Description: A letter you get from your employer that confirms that you worked there.
 Date_created: 2023-03-28
 Related_guides:
-    guides/german-resignation-letter.md
     docs/resignation-letter.md
     guides/losing-your-job.md
 ---
