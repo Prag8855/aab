@@ -52,12 +52,12 @@ There are different kinds of registered letters:[^0]
 - **Einschreiben Einwurf**  
     They just put the letter in the mailbox. No signature is needed. You can't tell exactly when they received your letter, because it could stay in the mailbox. Use it to cancel an insurance or a subscription or a membership. They can arrive faster than standard registered letters, because no one needs to open the door and accept the letter.
 - **Einschreiben Standard**  
-    They need someone's signature to deliver the letter. Anyone can sign, not just the recipient: a family member, a roommate, the office front desk - anyone who opens the door. Use it to end a contract, or an [apartment lease](/guides/moving-out#end-your-lease).[^1]  
+    They need someone's signature to deliver the letter. The recipient can refuse the letter. Anyone can sign, not just the recipient: a family member, a roommate, the office front desk - anyone who opens the door. Use it to end a contract, or an [apartment lease](/guides/moving-out#end-your-lease).[^1]  
     You can pay for extra options:
     - **Eigenhändig**  
         They need the signature *of the recipient* to deliver the letter. No one else can accept the letter. Use it to send [written warnings](/glossary/Abmahnung) and important legal documents.
     - **mit Rückschein**  
-        They need someone's signature to deliver the letter. You get a copy of the signature. Use it to send a job resignation.
+        They need someone's signature to deliver the letter. You get a copy of the signature. The recipient can refuse the letter.
 
 Registered letters are not faster than normal letters.[^2] The recipient can be on vacation, refuse to open the door, or pretend that you sent them an empty page.[^3] It's not a perfect solution. The safest way to send a letter is to hire a messenger (*Bote*), or to deliver the letter yourself with a witness.
 
