@@ -2066,8 +2066,6 @@ input[type=range] {
 output.placeholder, .recommended{
     background: var(--c-bg-widget);
     box-decoration-break: clone;
-    border-radius: var(--b-radius);
-    padding: 2px var(--xs);
     font-weight: 400;
     color: var(--c-text-light)!important;
     white-space: nowrap;
@@ -2077,6 +2075,11 @@ output.placeholder, .recommended{
         &:after{
             content:'*';
         }
+    }
+
+    @include not-print{
+        border-radius: var(--b-radius);
+        padding: 2px var(--xs);
     }
 }
 .recommended{
