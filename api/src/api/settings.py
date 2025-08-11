@@ -123,6 +123,7 @@ REST_FRAMEWORK = {
 
 # Internationalization
 LANGUAGE_CODE = 'en-us'
-TIME_ZONE = 'UTC'
+TIME_ZONE = 'Europe/Berlin'
 USE_TZ = True
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+PHONENUMBER_DEFAULT_REGION = 'DE'
