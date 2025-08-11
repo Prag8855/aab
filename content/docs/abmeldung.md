@@ -51,14 +51,12 @@ If you deregister more than 3 people, use multiple forms.[^1]
 
 ## How to send this form
 
-There are two ways to do this:
+There are 4 ways to send your *Abmeldung* form:
 
-- Get a *[[Bürgeramt]]* appointment, and [go in person](/guides/abmeldung-deregister-in-berlin#in-person-at-the-burgeramt). Bring your passport or *[[Personalausweis]]*.
-- Mail the form to [any *Bürgeramt* in Berlin](https://service.berlin.de/dienstleistung/120335/#service_locationlist_checkboxgroup). Include a copy of your passport.
-
-**[How to do your Abmeldung in Berlin ➞](/guides/abmeldung-deregister-in-berlin)**
-
-**[How to mail a letter ➞](/guides/mail-a-letter)**
+- [By email](/guides/abmeldung-deregister-in-berlin#by-email){{ RECOMMENDED }}
+- [In person at the *Bürgeramt*](/guides/abmeldung-deregister-in-berlin#in-person-at-the-burgeramt)
+- [By post](/guides/abmeldung-deregister-in-berlin#by-post)
+- [Pay someone to do it](/guides/abmeldung-deregister-in-berlin#pay-someone-to-do-it)
 
 [^0]: [buergeramt-termine.de](https://buergeramt-termine.de/guide/abmeldung-deregister-germany/)
 [^1]: [berlin.de](https://service.berlin.de/dienstleistung/120335/#:~:text=benutzen%20sie%20bitte%20weitere%20meldescheine) (September 2024)
