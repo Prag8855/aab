@@ -9,16 +9,6 @@ This guide shows you how to write a German address and send letters to Germany.
 
 {% include "_blocks/tableOfContents.html" %}
 
-## Where to put the address on the envelope
-
-It's the same as in most countries:
-
-- The address of the person you write to goes **in the middle**.
-- Your address goes in the top left. It's optional. If the letter can't be delivered, they send it back to this address.
-- The postage stamp goes in the top right.
-
-![Address a letter in Germany](/illustrations/address-a-letter-in-germany.png)
-
 ## How to write German addresses
 
 ### The parts of a German address
@@ -130,6 +120,16 @@ If no one else should read this letter, add *Persönlich* (personal) or *Vertrau
 ## How to mail a letter in Germany
 
 **[How to mail a letter](/guides/mail-a-letter)** — from your computer, without a printer
+
+### Where to put the address on the envelope
+
+It's the same as in most countries:
+
+- The address of the person you write to goes **in the middle**.
+- Your address goes in the top left. It's optional. If the letter can't be delivered, they send it back to this address.
+- The postage stamp goes in the top right.
+
+![Address a letter in Germany](/illustrations/address-a-letter-in-germany.png)
 
 [^0]: [Wikipedia](https://de.wikipedia.org/wiki/Zustellanweisung)
 [^2]: [gutefrage.net](https://www.gutefrage.net/frage/was-ist-ein-adresszusatz-)
