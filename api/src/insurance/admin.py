@@ -1,7 +1,6 @@
 from django.contrib import admin
 from nested_admin import NestedModelAdmin, NestedStackedInline, NestedGenericStackedInline
-from insurance.models import Customer, Case, Comment, Commission, Outcome
-from django.db.models import OuterRef, Subquery, QuerySet
+from insurance.models import Case, Comment, InsuredPerson, Outcome
 
 
 class CommentInline(NestedGenericStackedInline):
@@ -17,16 +16,29 @@ class CommentInline(NestedGenericStackedInline):
         return False  # Prevent editing comments
 
 
-class CommissionInline(NestedStackedInline):
-    model = Commission
-    extra = 0
-
-
 class OutcomeInline(NestedStackedInline):
     model = Outcome
     extra = 0
 
-    inlines = [CommissionInline, ]
+    fieldsets = (
+        ('Selected insurance', {
+            'fields': ('insurance_type', 'provider', 'policy', 'notes', 'date_start', 'date_end', )
+        }),
+        ('Commission', {
+            'fields': ('commission_amount', 'commission_received_date',),
+        }),
+    )
+
+    def has_change_permission(self, *args):
+        return False  # Prevent editing comments
+
+    def has_delete_permission(self, *args):
+        return False  # Prevent editing comments
+
+
+class InsuredPersonInline(NestedStackedInline):
+    model = InsuredPerson
+    extra = 0
 
     def has_change_permission(self, *args):
         return False  # Prevent editing comments
@@ -36,16 +48,21 @@ class OutcomeInline(NestedStackedInline):
 
 
 class CaseAdmin(NestedModelAdmin):
-    fields = ('customer', 'title', 'description', 'referrer')
-    inlines = [CommentInline, OutcomeInline]
-    readonly_fields = ['get_status_display', ]
-    exclude = ["insured_persons"]
-    list_display = ['title', 'customer__name', 'date_created', 'referrer', 'get_status_display']
+    fieldsets = (
+        (None, {
+            'fields': ('date_created', )
+        }),
+        ('Contact information', {
+            'fields': ('name', 'email', 'phone', 'whatsapp')
+        }),
+        ('Case information', {
+            'fields': ('title', 'notes', 'referrer'),
+        }),
+    )
+    inlines = [InsuredPersonInline, CommentInline, OutcomeInline]
 
-
-class CustomerAdmin(admin.ModelAdmin):
-    pass
+    list_display = ['title', 'name', 'date_created', 'referrer', 'get_status_display']
+    readonly_fields = ['date_created', 'get_status_display', ]
 
 
 admin.site.register(Case, CaseAdmin)
-admin.site.register(Customer, CustomerAdmin)

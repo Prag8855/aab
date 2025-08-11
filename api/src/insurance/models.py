@@ -26,9 +26,6 @@ class Comment(models.Model):
     """
     A generic note/comment added to a person or case
     """
-
-    customer = models.ForeignKey(to='Customer', on_delete=models.SET_NULL, null=True, related_name='comments')
-
     date_created = models.DateTimeField(auto_now_add=True)
     comment = models.TextField(blank=True)
     file = models.FileField("Attachment", upload_to='attachments/', blank=True)
@@ -61,54 +58,9 @@ class Comment(models.Model):
         return f"{self.date_created.strftime('%Y-%m-%d at %H:%M')} — {value}"
 
 
-class Customer(models.Model):
-    """
-    The point of contact for an Case
-    """
-    name = models.CharField(max_length=150)
-    email = models.EmailField(unique=True)
-    phone = PhoneNumberField(blank=True)
-    whatsapp = PhoneNumberField(blank=True)
-
-    comments = GenericRelation(Comment)
-
-    class Meta:
-        ordering = ['name']
-
-    def __str__(self):
-        return self.name
-
-
-class InsuredPerson(models.Model):
-    """
-    A person that is added to an insurance policy.
-    """
-    customer = models.ForeignKey(Customer, on_delete=models.CASCADE)
-
-    first_name = models.CharField(max_length=100)
-    last_name = models.CharField(max_length=100)
-    description = models.CharField(blank=True, max_length=250, help_text="For example \"Spouse\"")
-
-    occupation = models.CharField(blank=True, max_length=50)  # "selfEmployed"
-    nationality = CountryField(blank=True)
-    country_of_residence = CountryField(blank=True)
-
-    # Age is easier to collect. Date of birth is necessary at later stages.
-    age = models.PositiveSmallIntegerField(null=True)
-    date_of_birth = models.DateField(blank=True, null=True)
-
-    comments = GenericRelation(Comment)
-
-    class Meta:
-        ordering = ['first_name', 'last_name']
-
-    def __str__(self):
-        return f"{self.first_name} {self.last_name} ({self.customer})"
-
-
 class CaseManager(models.Manager):
     """
-    Annotate each Case with its status, taken from the latest .
+    Annotate each Case with its status, taken from the latest status update.
     """
 
     def get_queryset(self):
@@ -132,12 +84,14 @@ class Case(models.Model):
     """
     A need that usually results in an insurance policy being signed.
     """
+    name = models.CharField(max_length=150)
+    email = models.EmailField(unique=True)
+    phone = PhoneNumberField(blank=True)
+    whatsapp = PhoneNumberField(blank=True)
 
     date_created = models.DateTimeField(auto_now_add=True)
-    title = models.CharField(max_length=150, help_text="For example, \"health insurance for a Blue Card\"")
-    description = models.TextField(blank=True)
-    customer = models.ForeignKey(Customer, on_delete=models.CASCADE, related_name='cases')
-    insured_persons = models.ManyToManyField('InsuredPerson', related_name='cases', through='CaseInsuredPersons')
+    title = models.CharField(blank=True, max_length=150, help_text="For example, \"health insurance for a Blue Card\"")
+    notes = models.TextField("Initial notes", blank=True, help_text="For future notes, add Updates to the Case.")
     referrer = models.CharField(blank=True, help_text="Part of the commissions will be paid out to that referrer")
 
     comments = GenericRelation(Comment)
@@ -155,12 +109,35 @@ class Case(models.Model):
     get_status_display.admin_order_field = 'latest_status'
 
     def __str__(self):
-        return f"{self.title} ({self.customer})"
+        return f"{self.title} ({self.name})"
 
 
-class CaseInsuredPersons(models.Model):
+class InsuredPerson(models.Model):
+    """
+    A person that is added to an insurance policy.
+    """
     case = models.ForeignKey(Case, on_delete=models.CASCADE)
-    insured_person = models.ForeignKey(InsuredPerson, on_delete=models.CASCADE)
+
+    first_name = models.CharField(max_length=100)
+    last_name = models.CharField(max_length=100)
+    description = models.CharField(blank=True, max_length=250, help_text="For example \"Spouse\"")
+
+    occupation = models.CharField(blank=True, max_length=50)  # "selfEmployed"
+    nationality = CountryField(blank=True)
+    country_of_residence = CountryField(blank=True)
+
+    # Age is easier to collect. Date of birth is necessary at later stages.
+    age = models.PositiveSmallIntegerField(blank=True, null=True)
+    date_of_birth = models.DateField(blank=True, null=True)
+
+    comments = GenericRelation(Comment)
+
+    class Meta:
+        ordering = ['first_name', 'last_name']
+        verbose_name = "Insured person"
+
+    def __str__(self):
+        return f"{self.first_name} {self.last_name}"
 
 
 class Outcome(models.Model):
@@ -184,28 +161,13 @@ class Outcome(models.Model):
     insurance_type = models.CharField(max_length=20, choices=INSURANCE_TYPES)
     provider = models.CharField(max_length=100, help_text="For example, \"Ottonova\"")
     policy = models.CharField(max_length=100, help_text="For example, \"Expat Student Plus\"")
+    notes = models.TextField(blank=True)
 
     date_start = models.DateField(help_text="When the policy begins")
     date_end = models.DateField(blank=True, null=True, help_text="When the policy ends, if applicable")
 
-
-class Commission(models.Model):
-    """
-    A payment or payment schedule tied to an insurance outcome
-    """
-    FREQUENCY_CHOICES = [
-        ("once", "Once"),
-        ("monthly", "Monthly"),
-        ("quarterly", "Quarterly"),
-        ("yearly", "Yearly"),
-    ]
-
-    outcome = models.ForeignKey(Outcome, on_delete=models.CASCADE, related_name='commissions')
-
-    amount = models.DecimalField(max_digits=10, decimal_places=2)
-    frequency = models.CharField(max_length=10, choices=FREQUENCY_CHOICES)
-    date_start = models.DateField()
-    date_end = models.DateField(blank=True, null=True)
+    commission_amount = models.DecimalField('Total commission amount', max_digits=10, decimal_places=2)
+    commission_received_date = models.DateField('Insurer commission paid on', blank=True, null=True)
 
     class Meta:
-        verbose_name = "Commission payment"
+        verbose_name = "Outcome"
