@@ -1,82 +1,21 @@
 from datetime import timedelta
-from django.contrib.contenttypes.fields import GenericForeignKey, GenericRelation
-from django.contrib.contenttypes.models import ContentType
 from django.core.exceptions import ValidationError
 from django_countries.fields import CountryField
 from django.db import models
-from django.db.models.functions import Coalesce
-from django.db.models import OuterRef, Subquery, Value
 from django.utils import timezone
 from forms.models import RecipientIsSenderMixin, ScheduledMessage
 from phonenumber_field.modelfields import PhoneNumberField
 
 
-STATUS_CHOICES = [
-    ("new", "New"),
-    ("in_progress", "In consultation"),
-    ("waiting_client", "Waiting for client"),
-    ("waiting_insurer", "Waiting for insurer"),
-    ("accepted", "Accepted by insurer"),
-    ("rejected", "Rejected"),
-    ("resolved", "Generic solution offered"),
-    ("stale", "Abandoned"),
-]
-
-STATUS_CHOICES_DICT = dict(STATUS_CHOICES)
-
-
-class Comment(models.Model):
-    """
-    A generic note/comment added to a person or case
-    """
-    creation_date = models.DateTimeField(auto_now_add=True)
-    notes = models.TextField(blank=True)
-    file = models.FileField("Attachment", upload_to='attachments/', blank=True)
-    status = models.CharField(max_length=20, choices=STATUS_CHOICES, blank=True)
-
-    content_type = models.ForeignKey(ContentType, on_delete=models.CASCADE)
-    object_id = models.PositiveIntegerField()
-    content_object = GenericForeignKey('content_type', 'object_id')
-
-    class Meta:
-        verbose_name = "Update"
-        ordering = ['-creation_date']
-
-    def clean(self):
-        super().clean()
-        if not self.notes and not self.file and not self.status:
-            raise ValidationError("An update needs notes, a file, or a status change")
-
-    def __str__(self):
-        date = self.creation_date.strftime('%Y-%m-%d at %H:%M')
-        if self.status:
-            return f"{date} — Status → {self.get_status_display()}"
-        if self.notes:
-            return f"{date} — Added notes"
-        if self.file:
-            return f"{date} — Attached {self.file.filename}"
-
-
-class CaseManager(models.Manager):
-    """
-    Annotate each Case with its status, taken from the latest status update.
-    """
-
-    def get_queryset(self):
-        content_type = ContentType.objects.get_for_model(Case)
-
-        latest_status_update = Comment.objects.filter(
-            content_type=content_type,
-            object_id=OuterRef('pk'),
-            status__gt=''  # Non-empty status updates
-        ).order_by('-creation_date')
-
-        return super().get_queryset().annotate(
-            latest_status=Coalesce(
-                Subquery(latest_status_update.values('status')[:1]),
-                Value('new')
-            ),
-        )
+class Status(models.TextChoices):
+    NEW = "NEW", "New"
+    IN_PROGRESS = "IN_PROGRESS", "In consultation"
+    WAITING_CLIENT = "WAITING_CLIENT", "Waiting for client"
+    WAITING_INSURER = "WAITING_INSURER", "Waiting for insurer"
+    ACCEPTED = "ACCEPTED", "Accepted by insurer"
+    REJECTED = "REJECTED", "Rejected"
+    RESOLVED = "RESOLVED", "Other solution found"
+    STALE = "STALE", "Stale"
 
 
 class Case(models.Model):
@@ -92,24 +31,21 @@ class Case(models.Model):
     notes = models.TextField("Initial notes", blank=True, help_text="For future notes, add Updates to the Case.")
     referrer = models.CharField(blank=True, help_text="Part of the commissions will be paid out to that referrer")
 
-    comments = GenericRelation(Comment, related_query_name="comment")
-
-    objects = CaseManager()
-
-    @property
-    def status(self):
-        return self.latest_status or 'new'
+    # Denormalized field to speed up filtering
+    status = models.CharField(blank=False, default=Status.NEW, max_length=20, choices=Status, editable=False)
 
     @property
     def name(self):
         first_person = self.insured_persons.first()
-        return first_person.name
+        return first_person.name if first_person else "(no name)"
 
-    def get_status_display(self):
-        return STATUS_CHOICES_DICT[self.status]
-
-    get_status_display.short_description = "Status"
-    get_status_display.admin_order_field = 'latest_status'
+    def save(self, *args, **kwargs):
+        # Schedule email notifications
+        self.status = self.comments.order_by('-creation_date').first().status
+        CustomerNotification.objects.get_or_create(case=self)
+        BrokerNotification.objects.get_or_create(case=self)
+        FeedbackNotification.objects.get_or_create(case=self)
+        super().save(*args, **kwargs)
 
     class Meta:
         ordering = ['-creation_date']
@@ -119,6 +55,40 @@ class Case(models.Model):
             return f"{self.name} — {self.title}"
         return self.name
 
+
+class Comment(models.Model):
+    """
+    A generic note/comment added to a person or case
+    """
+    case = models.ForeignKey(Case, on_delete=models.CASCADE, related_name="comments", related_query_name="comment")
+
+    creation_date = models.DateTimeField(auto_now_add=True)
+    notes = models.TextField(blank=True)
+    file = models.FileField("Attachment", upload_to='attachments/', blank=True)
+    status = models.CharField(max_length=20, choices=Status, blank=True)
+
+    class Meta:
+        verbose_name = "Update"
+        ordering = ['-creation_date']
+
+    def save(self, *args, **kwargs):
+        super().save(*args, **kwargs)
+        self.case.status = self.case.comments.order_by('-creation_date').first().status
+        self.case.save()
+
+    def clean(self):
+        super().clean()
+        if not self.notes and not self.file and not self.status:
+            raise ValidationError("An update needs notes, a file, or a status change")
+
+    def __str__(self):
+        date = self.creation_date.strftime('%Y-%m-%d at %H:%M')
+        if self.status:
+            return f"{date} — Status → {self.get_status_display()}"
+        if self.notes:
+            return f"{date} — Added notes"
+        if self.file:
+            return f"{date} — Attached {self.file.filename}"
 
 class InsuredPerson(models.Model):
     """
@@ -139,8 +109,6 @@ class InsuredPerson(models.Model):
     # Age is easier to collect. Date of birth is necessary at later stages.
     age = models.PositiveSmallIntegerField(blank=True, null=True)
     date_of_birth = models.DateField(blank=True, null=True)
-
-    comments = GenericRelation(Comment, related_query_name="insured_person")
 
     @property
     def name(self):

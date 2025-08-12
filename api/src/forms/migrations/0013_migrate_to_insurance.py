@@ -40,8 +40,11 @@ def migrate_models_to_insurance(apps, schema_editor):
             f"DESIRED SERVICE: {q.desired_service or 'not specified'}"
         ])
 
+        is_done = q.status == OldMessageStatus.SENT or q.status == OldMessageStatus.REDACTED
+
         c = Case.objects.create(
             creation_date=q.creation_date,
+            status='RESOLVED' if is_done else 'NEW',
             email='redacted@redacted.com' if q.email == 'AAAAA@AAAAA.COM' else q.email,
             phone='',
             whatsapp='',
@@ -73,13 +76,10 @@ def migrate_models_to_insurance(apps, schema_editor):
             date_of_birth=None,
         )
 
-        if q.status == OldMessageStatus.SENT or q.status == OldMessageStatus.REDACTED:
-            Comment.objects.create(
-                content_type=ContentType.objects.get_for_model(Case),
-                object_id=c.id,
-                status='resolved',
-                notes='This case was migrated from the old system.'
-            )
+        c.comments.create(
+            status='RESOLVED' if is_done else 'NEW',
+            notes='Case migrated from the old system.'
+        )
 
         # The Feedback objects are not unique by name+email, so we find the closest one
         fbs = HealthInsuranceQuestionFeedback.objects.annotate(
