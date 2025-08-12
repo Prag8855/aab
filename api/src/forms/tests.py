@@ -5,9 +5,8 @@ from dateutil.relativedelta import relativedelta
 from django.contrib.auth.models import User
 from django.core.cache import cache
 from django.utils import timezone
-from forms.models import HealthInsuranceQuestion, HealthInsuranceQuestionConfirmation, PensionRefundQuestion, \
-    PensionRefundReminder, PensionRefundRequest, ResidencePermitFeedback, TaxIdRequestFeedbackReminder, \
-    HealthInsuranceQuestionFeedback
+from forms.models import PensionRefundQuestion, \
+    PensionRefundReminder, PensionRefundRequest, ResidencePermitFeedback, TaxIdRequestFeedbackReminder
 from forms.utils import readable_date_range
 from rest_framework.test import APITestCase
 import unittest
@@ -146,33 +145,6 @@ class FeedbackEndpointMixin:
         )
         self.assertEqual(response.status_code, 401)
         self.assertEqual(self.model.objects.count(), 1)
-
-
-class HealthInsuranceQuestionTestCase(ScheduledMessageEndpointMixin, APITestCase):
-    model = HealthInsuranceQuestion
-    endpoint = '/forms/health-insurance-question'
-    example_request = {
-        'name': 'John Test',
-        'email': 'contact@nicolasbouliane.com',
-        'income_over_limit': False,
-        'occupation': 'employee',
-        'age': 23,
-        'question': 'I am John and I have questions',
-    }
-
-    def test_create_confirmation_message(self):
-        self.client.post(self.endpoint, self.example_request, format='json')
-        HealthInsuranceQuestionConfirmation.objects.get(email='contact@nicolasbouliane.com', name='John Test')
-
-        feedback_email = HealthInsuranceQuestionFeedback.objects.get(email='contact@nicolasbouliane.com', name='John Test')
-        self.assertEqual(
-            timezone.now().replace(second=0, microsecond=0),
-            feedback_email.creation_date.replace(second=0, microsecond=0)
-        )
-        self.assertEqual(
-            feedback_email.delivery_date.replace(microsecond=0),
-            (feedback_email.creation_date + timedelta(weeks=1)).replace(microsecond=0)
-        )
 
 
 class PensionRefundQuestionTestCase(ScheduledMessageEndpointMixin, APITestCase):

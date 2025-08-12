@@ -5,8 +5,8 @@ from insurance.models import Case, Comment, InsuredPerson, Outcome
 
 class CommentInline(NestedGenericStackedInline):
     model = Comment
-    fields = ('status', 'comment', 'file')
-    readonly_fields = ('date_created', )
+    fields = ('status', 'notes', 'file')
+    readonly_fields = ('creation_date', )
     extra = 0
 
     def has_change_permission(self, *args):
@@ -49,20 +49,17 @@ class InsuredPersonInline(NestedStackedInline):
 
 class CaseAdmin(NestedModelAdmin):
     fieldsets = (
-        (None, {
-            'fields': ('date_created', )
+        ('Case information', {
+            'fields': ('creation_date', 'title', 'notes', 'referrer'),
         }),
         ('Contact information', {
-            'fields': ('name', 'email', 'phone', 'whatsapp')
-        }),
-        ('Case information', {
-            'fields': ('title', 'notes', 'referrer'),
+            'fields': ('email', 'phone', 'whatsapp')
         }),
     )
     inlines = [InsuredPersonInline, CommentInline, OutcomeInline]
 
-    list_display = ['title', 'name', 'date_created', 'referrer', 'get_status_display']
-    readonly_fields = ['date_created', 'get_status_display', ]
+    list_display = ['name', 'creation_date', 'referrer', 'get_status_display']
+    readonly_fields = ['creation_date', 'get_status_display', ]
 
 
 admin.site.register(Case, CaseAdmin)

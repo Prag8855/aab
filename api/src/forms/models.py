@@ -135,54 +135,6 @@ class Feedback(EmailMixin, models.Model):
         ordering = ['-modification_date']
 
 
-class HealthInsuranceQuestion(NameMixin, ReplyToSenderMixin, EmailMixin, ScheduledMessage):
-    age = models.PositiveSmallIntegerField(null=True)
-    income = models.PositiveIntegerField(null=True)
-    occupation = models.CharField(max_length=50, blank=True)  # "selfEmployed"
-    question = models.TextField(blank=True)
-    is_married = models.BooleanField(null=True)
-    children_count = models.PositiveSmallIntegerField(null=True)
-    desired_service = models.CharField(max_length=50, blank=True)  # "barmer"
-    referrer = models.CharField(max_length=50, blank=True)
-
-    recipients = ['Seamus.Wolf@horizon65.com', ]
-    template = 'health-insurance-question.html'
-
-    def save(self, *args, **kwargs):
-        if not self.pk:
-            HealthInsuranceQuestionConfirmation.objects.create(email=self.email, name=self.name)
-            HealthInsuranceQuestionFeedback.objects.create(email=self.email, name=self.name)
-        super().save(*args, **kwargs)
-
-    @property
-    def subject(self) -> str:
-        return f"Health insurance question from {self.name} (All About Berlin)"
-
-    class Meta(ScheduledMessage.Meta):
-        verbose_name = "Health insurance question"
-
-
-class HealthInsuranceQuestionConfirmation(NameMixin, RecipientIsSenderMixin, EmailMixin, ScheduledMessage):
-    subject = 'Seamus will contact you soon'
-    template = 'health-insurance-question-confirmation.html'
-
-    class Meta(ScheduledMessage.Meta):
-        pass
-
-
-def in_1_week():
-    return timezone.now() + timedelta(weeks=1)
-
-
-class HealthInsuranceQuestionFeedback(NameMixin, RecipientIsSenderMixin, EmailMixin, ScheduledMessage):
-    subject = 'Did Seamus help you get insured?'
-    template = 'health-insurance-question-feedback.html'
-    delivery_date = models.DateTimeField(default=in_1_week)
-
-    class Meta(ScheduledMessage.Meta):
-        pass
-
-
 class PensionRefundQuestion(NameMixin, ReplyToSenderMixin, EmailMixin, ScheduledMessage):
     nationality = CountryField()
     country_of_residence = CountryField()
@@ -382,9 +334,6 @@ class TaxIdRequestFeedbackReminder(NameMixin, RecipientIsSenderMixin, EmailMixin
 
 
 scheduled_message_models = [
-    HealthInsuranceQuestion,
-    HealthInsuranceQuestionConfirmation,
-    HealthInsuranceQuestionFeedback,
     PensionRefundQuestion,
     PensionRefundRequest,
     PensionRefundReminder,

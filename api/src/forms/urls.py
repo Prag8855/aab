@@ -1,11 +1,10 @@
 from django.urls import include, path
-from forms.views import HealthInsuranceQuestionViewSet, \
-    PensionRefundQuestionViewSet, PensionRefundReminderViewSet, PensionRefundRequestViewSet, \
+from forms.views import PensionRefundQuestionViewSet, \
+    PensionRefundReminderViewSet, PensionRefundRequestViewSet, \
     ResidencePermitFeedbackViewSet, TaxIdRequestFeedbackReminderViewSet
 from rest_framework import routers
 
 router = routers.DefaultRouter(trailing_slash=False)
-router.register('health-insurance-question', HealthInsuranceQuestionViewSet)
 router.register('pension-refund-question', PensionRefundQuestionViewSet)
 router.register('pension-refund-reminder', PensionRefundReminderViewSet)
 router.register('pension-refund-request', PensionRefundRequestViewSet)

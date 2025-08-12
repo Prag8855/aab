@@ -1,6 +1,6 @@
 from django_countries.serializers import CountryFieldMixin
-from forms.models import HealthInsuranceQuestion, PensionRefundQuestion, \
-    PensionRefundReminder, PensionRefundRequest, ResidencePermitFeedback, TaxIdRequestFeedbackReminder
+from forms.models import \
+    PensionRefundQuestion, PensionRefundReminder, PensionRefundRequest, ResidencePermitFeedback, TaxIdRequestFeedbackReminder
 from rest_framework.serializers import HyperlinkedModelSerializer, IntegerField, CharField, DateTimeField
 
 
@@ -9,26 +9,6 @@ message_fields = [
     'delivery_date',
     'status',
 ]
-
-
-class HealthInsuranceQuestionSerializer(HyperlinkedModelSerializer):
-    status = IntegerField(read_only=True)
-
-    class Meta:
-        model = HealthInsuranceQuestion
-        fields = [
-            *message_fields,
-            'age',
-            'children_count',
-            'desired_service',
-            'email',
-            'income',
-            'is_married',
-            'name',
-            'occupation',
-            'question',
-            'referrer',
-        ]
 
 
 class PensionRefundQuestionSerializer(CountryFieldMixin, HyperlinkedModelSerializer):

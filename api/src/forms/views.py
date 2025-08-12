@@ -1,7 +1,7 @@
 from django.core.exceptions import ValidationError as DjangoValidationError
-from forms.models import HealthInsuranceQuestion, PensionRefundQuestion, PensionRefundReminder, PensionRefundRequest, \
+from forms.models import PensionRefundQuestion, PensionRefundReminder, PensionRefundRequest, \
     ResidencePermitFeedback, TaxIdRequestFeedbackReminder
-from forms.serializers import HealthInsuranceQuestionSerializer, \
+from forms.serializers import \
     PensionRefundQuestionSerializer, PensionRefundReminderSerializer, PensionRefundRequestSerializer, \
     PublicResidencePermitFeedbackSerializer, ResidencePermitFeedbackSerializer, TaxIdRequestFeedbackReminderSerializer
 from forms.utils import readable_date_range, readable_duration
@@ -39,11 +39,6 @@ class FeedbackPermission(permissions.BasePermission):
 class FeedbackViewSet(viewsets.ModelViewSet):
     http_method_names = ['get', 'post', 'put', 'delete']
     permission_classes = [FeedbackPermission]
-
-
-class HealthInsuranceQuestionViewSet(MessageViewSet):
-    queryset = HealthInsuranceQuestion.objects.all()
-    serializer_class = HealthInsuranceQuestionSerializer
 
 
 class PensionRefundQuestionViewSet(MessageViewSet):
