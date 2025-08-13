@@ -2,13 +2,15 @@
 {% include '_js/currency.js' %}
 {% include '_js/vue.js' %}
 {% include '_js/vue/age-input.js' %}
-{% include '_js/vue/income-input.js' %}
-{% include '_js/vue/occupation-input.js' %}
 {% include '_js/vue/eur.js' %}
+{% include '_js/vue/first-name-input.js' %}
 {% include '_js/vue/glossary.js' %}
+{% include '_js/vue/income-input.js' %}
+{% include '_js/vue/last-name-input.js' %}
 {% include '_js/vue/mixins/trackedStagesMixin.js' %}
 {% include '_js/vue/mixins/uniqueIdsMixin.js' %}
 {% include '_js/vue/mixins/userDefaultsMixin.js' %}
+{% include '_js/vue/occupation-input.js' %}
 {% js %}{% raw %}
 Vue.component('health-insurance-question', {
 	mixins: [userDefaultsMixin, uniqueIdsMixin, trackedStagesMixin],
@@ -34,7 +36,8 @@ Vue.component('health-insurance-question', {
 
 			contactMethod: null,
 			question: '',
-			fullName: userDefaults.fullName,
+			firstName: null,
+			lastName: null,
 			email: userDefaults.email,
 
 			showDetailsField: false,
@@ -67,21 +70,27 @@ Vue.component('health-insurance-question', {
 			if(validateForm(this.$refs.collapsible)) {
 				this.isLoading = true;
 				const response = await fetch(
-					'/api/forms/health-insurance-question',
+					'/api/insurance/case',
 					{
 						method: 'POST',
 						keepalive: true,
 						headers: {'Content-Type': 'application/json; charset=utf-8',},
 						body: JSON.stringify({
-							name: this.fullName,
 							email: this.email,
-							income: this.yearlyIncome,
-							occupation: this.occupation,
-							age: this.age,
-							question: this.question,
-							is_married: !!this.isMarried,
+							title: this.desiredService,
+							notes: this.question,
+							referrer: getReferrer(),
+							insured_persons: [
+								{
+									first_name: this.firstName,
+									last_name: this.lastName,
+									income: this.yearlyIncome,
+									occupation: this.occupation,
+									age: this.age,
+									is_married: !!this.isMarried,
+								}
+							],
 							children_count: this.childrenCount,
-							desired_service: this.desiredService
 						}),
 					}
 				);
@@ -165,11 +174,7 @@ Vue.component('health-insurance-question', {
 			return facts;
 		},
 		trackWhatsapp() {
-			plausible(this.trackAs, { props: {
-				stage: 'whatsapp',
-				pageSection: getNearestHeadingId(this.$el),
-				referrer: getReferrer(),
-			}});
+			plausible(this.trackAs, { props: { stage: 'whatsapp', pageSection: getNearestHeadingId(this.$el) }});
 		}
 	},
 	template: `
@@ -196,12 +201,13 @@ Vue.component('health-insurance-question', {
 				</div>
 				<template v-if="contactMethod && contactMethod !== 'whatsapp'">
 					<hr>
-					<div class="form-group">
-						<label :for="uid('name')">
-							Name
+					<div class="form-group required">
+						<label :for="uid('firstName')">
+							First and last name
 						</label>
 						<div class="input-group">
-							<input v-model="fullName" type="text" :id="uid('name')" autocomplete="name">
+							<first-name-input :id="uid('firstName')" v-model="firstName" required></first-name-input>
+							<last-name-input :id="uid('lastName')" v-model="lastName"></last-name-input>
 							{% endraw %}{% include "_blocks/formHoneypot.html" %}{% raw %}
 						</div>
 					</div>
