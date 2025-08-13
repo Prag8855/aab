@@ -1857,6 +1857,10 @@ input[type=range] {
         &:not(.vertical) .checkbox + .checkbox{margin-left:var(--l)}
     }
 
+    .tabs{
+        display: flex!important;
+    }
+
     textarea{
         flex: 1 1 auto;
     }
@@ -3085,7 +3089,7 @@ collapsible, letter-generator, feedback-residence-permit{  // Vue element before
         text-align: center;
     }
 
-    .tabs{
+    > .tabs{
         margin: var(--l-relative) auto;
     }
 }
