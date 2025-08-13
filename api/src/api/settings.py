@@ -23,7 +23,6 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
 
     'nested_admin',
-    'phonenumber_field',
     'forms.apps.FormsConfig',
     'insurance.apps.InsuranceConfig',
 ]

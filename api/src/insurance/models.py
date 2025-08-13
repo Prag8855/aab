@@ -4,7 +4,6 @@ from django_countries.fields import CountryField
 from django.db import models
 from django.utils import timezone
 from forms.models import RecipientIsSenderMixin, ScheduledMessage
-from phonenumber_field.modelfields import PhoneNumberField
 
 
 class Status(models.TextChoices):
@@ -23,8 +22,8 @@ class Case(models.Model):
     A need that usually results in an insurance policy being signed.
     """
     email = models.EmailField()
-    phone = PhoneNumberField(blank=True)
-    whatsapp = PhoneNumberField(blank=True)
+    phone = models.CharField(blank=True, max_length=50)
+    whatsapp = models.CharField(blank=True, max_length=50)
 
     creation_date = models.DateTimeField(auto_now_add=True)
     title = models.CharField(blank=True, max_length=150, help_text="For example, \"health insurance for a Blue Card\"")
