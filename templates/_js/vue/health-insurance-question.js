@@ -36,8 +36,8 @@ Vue.component('health-insurance-question', {
 
 			contactMethod: null,
 			question: '',
-			firstName: null,
-			lastName: null,
+			firstName: '',
+			lastName: '',
 			email: userDefaults.email,
 
 			showDetailsField: false,
@@ -79,7 +79,7 @@ Vue.component('health-insurance-question', {
 							email: this.email,
 							title: this.desiredService,
 							notes: this.question,
-							referrer: getReferrer(),
+							referrer: getReferrer() || '',
 							insured_persons: [
 								{
 									first_name: this.firstName,
