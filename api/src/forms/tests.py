@@ -149,7 +149,7 @@ class FeedbackEndpointMixin:
 
 class PensionRefundQuestionTestCase(ScheduledMessageEndpointMixin, APITestCase):
     model = PensionRefundQuestion
-    endpoint = '/forms/pension-refund-question'
+    endpoint = '/api/forms/pension-refund-question'
     example_request = {
         'name': 'John Test',
         'email': 'contact@nicolasbouliane.com',
@@ -161,7 +161,7 @@ class PensionRefundQuestionTestCase(ScheduledMessageEndpointMixin, APITestCase):
 
 class PensionRefundRequestTestCase(ScheduledMessageEndpointMixin, APITestCase):
     model = PensionRefundRequest
-    endpoint = '/forms/pension-refund-request'
+    endpoint = '/api/forms/pension-refund-request'
     example_request = {
         'arrival_date': '2017-07-01',
         'departure_date': '2020-01-01',
@@ -194,7 +194,7 @@ class PensionRefundRequestTestCase(ScheduledMessageEndpointMixin, APITestCase):
 
 class PensionRefundReminderTestCase(ScheduledMessageEndpointMixin, APITestCase):
     model = PensionRefundReminder
-    endpoint = '/forms/pension-refund-reminder'
+    endpoint = '/api/forms/pension-refund-reminder'
     example_request = {
         'email': 'contact@nicolasbouliane.com',
         'refund_amount': 9000,
@@ -204,7 +204,7 @@ class PensionRefundReminderTestCase(ScheduledMessageEndpointMixin, APITestCase):
 
 class TaxIdRequestFeedbackReminderTestCase(ScheduledMessageEndpointMixin, APITestCase):
     model = TaxIdRequestFeedbackReminder
-    endpoint = '/forms/tax-id-request-feedback-reminder'
+    endpoint = '/api/forms/tax-id-request-feedback-reminder'
     example_request = {
         'email': 'contact@nicolasbouliane.com',
         'name': 'John Test',
@@ -225,7 +225,7 @@ class TaxIdRequestFeedbackReminderTestCase(ScheduledMessageEndpointMixin, APITes
 
 class ResidencePermitFeedbackTestCase(FeedbackEndpointMixin, APITestCase):
     model = ResidencePermitFeedback
-    endpoint = '/forms/residence-permit-feedback'
+    endpoint = '/api/forms/residence-permit-feedback'
     example_request = {
         'email': 'contact@nicolasbouliane.com',
         'application_date': '2023-01-01',
