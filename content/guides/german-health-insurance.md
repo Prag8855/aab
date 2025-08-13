@@ -39,7 +39,9 @@ Public health insurance is run by [non-profit insurance funds](/glossary/Kranken
 
 ### Cost of public health insurance
 
-Public health insurance costs a percentage of your income. The cost is not affected by your age, your health condition, or how often you get sick.
+Public health insurance costs a percentage of your income. The cost does not depend on your age, your health condition, or how often you get sick.
+
+Use my [health insurance recommendation tool](#your-options) to calculate the cost.
 
 - **[If you are an employee](/guides/german-health-insurance/for-employees)**  
     You pay {{GKV_MIN_RATE_EMPLOYEE}}% to {{GKV_MAX_RATE_EMPLOYEE}}% of your income (including [long-term care insurance](/glossary/Pflegeversicherung)). The [minimum cost](/glossary/Mindestbeitrag) is around €{{GKV_MIN_COST_EMPLOYEE|cur}} per month. The [maximum cost](/glossary/Höchstbeitrag) is around €{{GKV_MAX_COST_EMPLOYEE|cur}} per month. It comes out of your paycheck every month.
