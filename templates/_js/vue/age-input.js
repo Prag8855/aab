@@ -13,7 +13,7 @@ Vue.component('age-input', {
 			type="number"
 			inputmode="numeric"
 			pattern="[0-9]*"
-			placeholder="18"
+			placeholder="25"
 			min="1"
 			step="1"
 			:value.number="value"
