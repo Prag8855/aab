@@ -40,12 +40,15 @@ class Case(models.Model):
         return first_person.name if first_person else "(no name)"
 
     def save(self, *args, **kwargs):
+        # Get status from child comments
+        if self.id:
+            self.status = self.comments.order_by('-creation_date').first().status
+        super().save(*args, **kwargs)
+
         # Schedule email notifications
-        self.status = self.comments.order_by('-creation_date').first().status
         CustomerNotification.objects.get_or_create(case=self)
         BrokerNotification.objects.get_or_create(case=self)
         FeedbackNotification.objects.get_or_create(case=self)
-        super().save(*args, **kwargs)
 
     class Meta:
         ordering = ['-creation_date']
