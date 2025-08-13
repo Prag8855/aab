@@ -90,6 +90,7 @@ class Comment(models.Model):
         if self.file:
             return f"{date} — Attached {self.file.filename}"
 
+
 class InsuredPerson(models.Model):
     """
     A person that is added to an insurance policy.
