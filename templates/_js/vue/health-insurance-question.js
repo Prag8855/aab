@@ -40,7 +40,6 @@ Vue.component('health-insurance-question', {
 			lastName: '',
 			email: userDefaults.email,
 
-			showDetailsField: false,
 
 			isLoading: false,
 		};
