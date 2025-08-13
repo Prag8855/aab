@@ -40,7 +40,7 @@
 		<template v-if="purpose === 'noAnmeldung'">
 			<hr>
 			<p>
-				This tool helps you fill <a href="/documents/010250-Antrag-auf-Vergabe-einer-steuerlichen-Identifikationsnummer-für-nicht-meldepflichtige-Personen-durch-das-Finanzamt-Deutsch.pdf" target="_blank">form 010250</a>. That form is not designed for your situation, but it might work anyway. It's the only way to get a tax ID without <glossary term="Anmeldung">registering your address</glossary>.
+				This tool helps you fill <a href="/documents/010250-Antrag-auf-Vergabe-einer-steuerlichen-Identifikationsnummer-für-nicht-meldepflichtige-Personen-durch-das-Finanzamt-Deutsch.pdf" target="_blank">form 010250</a>. That form is not designed for your situation, but it usually works anyway. It's the only way to get a tax ID without <glossary term="Anmeldung">registering your address</glossary>.
 			</p>
 		</template>
 		<template v-if="purpose === 'business'">
@@ -121,22 +121,14 @@
 			<div class="form-group required">
 				<label :for="uid('firstName-' + person.id)">First and last name</label>
 				<div class="input-group">
-					<input type="text"
+					<first-name-input
 						:id="uid('firstName-' + person.id)"
 						v-model="person.firstName"
 						ref="firstNameInput"
-						placeholder="Alex"
-						autocomplete="given-name"
-						title="First name"
-						class="first-name-input"
-						required>
-					<input type="text"
+						required></first-name-input>
+					<last-name-input
 						v-model="person.lastName"
-						placeholder="Smith"
-						autocomplete="family-name"
-						title="Last name"
-						class="last-name-input"
-						required>
+						required></last-name-input>
 					<a class="input-instructions" href="#" v-if="!person.showExtraFields" @click.prevent="person.showExtraFields = true">Add a title or birth name</a>
 				</div>
 			</div>
@@ -147,7 +139,7 @@
 					v-model="person.birthName"
 					:id="uid('birthName-' + person.id)"
 					:aria-describedby="uid('birthName-instructions-' + person.id)"
-					placeholder="Alex Gagnon">
+					placeholder="Alex Brown">
 				<span class="input-instructions" :id="uid('birthName-instructions-' + person.id)">If you changed your name, enter your full name at birth.</span>
 			</div>
 			<div class="form-group required">
@@ -313,6 +305,8 @@
 {% include '_js/vue/glossary.js' %}
 {% include '_js/vue/mixins/multiStageMixin.js' %}
 {% include '_js/vue/postalcode-input.js' %}
+{% include '_js/vue/first-name-input.js' %}
+{% include '_js/vue/last-name-input.js' %}
 {% include '_js/vue/mixins/preloadPDFMixin.js' %}
 {% include '_js/vue/state-input.js' %}
 {% include '_js/vue/mixins/trackedStagesMixin.js' %}
@@ -359,7 +353,7 @@
 					inputsToFocus: {
 						start: () => this.$refs.startButton,
 						address: () => this.country === 'DE' ? this.$refs.addressInput : this.$refs.countryInput.$el,
-						addPeople: () => this.$refs.firstNameInput[0],
+						addPeople: () => this.$refs.firstNameInput[0].$el,
 						beiAddress: () => this.$refs.namesAreOnMailboxCheckbox,
 						employer: () => this.$refs.sendToEmployerCheckbox,
 						feedback: () => this.$refs.emailInput,

@@ -107,22 +107,14 @@
 			<div class="form-group required">
 				<label :for="uid('firstName-' + person.id)">First and last name</label>
 				<div class="input-group">
-					<input type="text"
+					<first-name-input
 						:id="uid('firstName-' + person.id)"
 						v-model="person.firstName"
 						ref="firstNameInput"
-						placeholder="Alex"
-						autocomplete="given-name"
-						class="first-name-input"
-						title="First name"
-						required>
-					<input type="text"
+						required></first-name-input>
+					<last-name-input
 						v-model="person.lastName"
-						placeholder="Smith"
-						autocomplete="family-name"
-						class="last-name-input"
-						title="Last name"
-						required>
+						required></last-name-input>
 					<a class="input-instructions" href="#" v-if="!person.showExtraFields" @click.prevent="person.showExtraFields = true">Add a title or birth name</a>
 				</div>
 			</div>
@@ -133,7 +125,7 @@
 					v-model="person.birthName"
 					:id="uid('birthName-' + person.id)"
 					:aria-describedby="uid('birthName-instructions-' + person.id)"
-					placeholder="Alex Gagnon">
+					placeholder="Alex Brown">
 				<span class="input-instructions" :id="uid('birthName-instructions-' + person.id)">If you changed your name, enter your full name at birth.</span>
 			</div>
 			<div class="form-group">
@@ -288,6 +280,8 @@
 {% include '_js/vue/glossary.js' %}
 {% include '_js/vue/mixins/multiStageMixin.js' %}
 {% include '_js/vue/postalcode-input.js' %}
+{% include '_js/vue/first-name-input.js' %}
+{% include '_js/vue/last-name-input.js' %}
 {% include '_js/vue/mixins/preloadPDFMixin.js' %}
 {% include '_js/vue/mixins/trackedStagesMixin.js' %}
 {% include '_js/vue/mixins/uniqueIdsMixin.js' %}
@@ -321,7 +315,7 @@
 						start: () => this.$refs.startButton,
 						oldAddress: () => this.$refs.oldAddressInput,
 						newAddress: () => this.$refs.newAddressInput,
-						addPeople: () => this.$refs.firstNameInput[0],
+						addPeople: () => this.$refs.firstNameInput[0].$el,
 					},
 					downloadInProgress: false,
 					pdfUrl: '/documents/abmeldung-original.pdf',

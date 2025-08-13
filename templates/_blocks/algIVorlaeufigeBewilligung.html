@@ -4,6 +4,8 @@
 {% include '_js/vue/glossary.js' %}
 {% include '_js/vue/mixins/uniqueIdsMixin.js' %}
 {% include '_js/vue/mixins/userDefaultsMixin.js' %}
+{% include '_js/vue/first-name-input.js' %}
+{% include '_js/vue/last-name-input.js' %}
 {% js %}
 	document.querySelectorAll('.alg-i-vorlaeufige-bewilligung').forEach(
 		el => new Vue({
@@ -132,18 +134,14 @@
 					<option value="woman">Madam</option>
 					<option value="other">Other</option>
 				</select>
-				<input type="text"
-					:name="uid('employer-first-name')"
+				<first-name-input
 					v-model="recipientFirstName"
-					placeholder="First name"
 					autocomplete="off"
-					class="first-name-input">
-				<input type="text"
-					:name="uid('employer-last-name')"
+					required></first-name-input>
+				<last-name-input
 					v-model="recipientLastName"
-					placeholder="Last name"
 					autocomplete="off"
-					class="last-name-input">
+					required></last-name-input>
 				<span class="input-instructions">
 					This is the employee who helps you at the <glossary>Agentur für Arbeit</glossary>.
 				</span>
