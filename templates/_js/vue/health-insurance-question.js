@@ -16,13 +16,22 @@ Vue.component('health-insurance-question', {
 	mixins: [userDefaultsMixin, uniqueIdsMixin, trackedStagesMixin],
 	props: {
 		age: Number,
-		childrenCount: Number,
+		childrenCount: {
+			type: Number,
+			default: userDefaults.childrenCount,
+		},
 		currentInsurance: String,
 		desiredService: String,
 		yearlyIncome: Number,
 		isEUCitizen: Boolean,
-		isMarried: Boolean,
-		occupation: String,
+		isMarried: {
+			type: Boolean,
+			default: userDefaults.isMarried,
+		},
+		occupation: {
+			type: String,
+			default: null,
+		},
 		worksOver20HoursPerWeek: Boolean,
 
 		trackAs: {
