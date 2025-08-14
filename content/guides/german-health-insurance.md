@@ -206,7 +206,9 @@ Do not choose private health insurance yourself. It's a really bad idea. [Ask a 
 
 ## Expat health insurance
 
-[[Expat health insurance]] is a temporary private health insurance. It's bad, but it's cheap. You can use it to apply for a [[National Visa]], an [opportunity card](/glossary/Chancenkarte), a [student visa](/glossary/Student%20visa) or a [freelance visa](/glossary/Freelance%20visa).
+[[Expat health insurance]] is a temporary private health insurance. It's cheap, but the coverage is not great. It's also called **incoming health insurance**.
+
+You can use expat health insurance to apply for a [[National Visa]], an [opportunity card](/glossary/Chancenkarte), a [student visa](/glossary/Student%20visa) or a [freelance visa](/glossary/Freelance%20visa). You can also use it for a temporary stay in Germany.
 
 Only choose expat health insurance if...
 
@@ -219,7 +221,7 @@ Only choose expat health insurance if...
 - or **you are retired**  
     If you move from a non-[EU](/glossary/European%20Union) country, it might be your only option. Public and private insurers might reject you. [Ask our expert](#insurance-brokers) if it's the correct choice.
 
-**Do not stay on expat health insurance.** If you develop a health condition while you have expat insurance, it can be really hard to find long-term health insurance, because all insurers will refuse to cover you.
+**Do not stay on expat health insurance.** If you develop a health condition while you have expat insurance, it can be really hard to switch to long-term health insurance, because all insurers will refuse to cover you.
 
 ### Disadvantages of expat health insurance
 
