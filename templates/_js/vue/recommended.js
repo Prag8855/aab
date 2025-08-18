@@ -5,7 +5,7 @@ Vue.component('recommended', {
 		return { showTooltip };
 	},
 	template: `
-		<a target="_blank" class="recommended" aria-label="Recommended option" href="/glossary/Recommended" @click.prevent="showTooltip">Recommended</a>
+		<a target="_blank" class="recommended" aria-label="Recommended option" href="/glossary/Recommended" @click.prevent="showTooltip"></a>
 	`,
 });
 {% endraw %}{% endjs %}

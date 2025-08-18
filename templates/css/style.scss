@@ -2063,7 +2063,7 @@ input[type=range] {
 
 }
 
-output.placeholder, .recommended{
+output.placeholder, .recommended:before{
     background: var(--c-bg-widget);
     box-decoration-break: clone;
     font-weight: 400;
@@ -2082,12 +2082,9 @@ output.placeholder, .recommended{
         padding: 2px var(--xs);
     }
 }
-.recommended{
+.recommended:before{
     font-size: var(--f-s);
-
-    &:before{
-        content: '✦ ';
-    }
+    content: '✦ Recommended';
 
     &:hover{
         cursor: help;
@@ -2970,11 +2967,16 @@ collapsible, letter-generator, feedback-residence-permit{  // Vue element before
 
             &.recommended{
                 @include box-clickable-hover;
-                position: absolute;
-                right: var(--m);
-                top: calc(var(--m) * var(--line-height-text) * -1/2);
-                color: #fff!important;
-                background: var(--c-highlight);
+
+                &:before{
+                    position: absolute;
+                    right: var(--m);
+                    top: calc(var(--m) * var(--line-height-text) * -1/2);
+                    color: #fff!important;
+                    background: var(--c-highlight);
+
+                    @include box-clickable-hover;
+                }
             }
 
             svg{
