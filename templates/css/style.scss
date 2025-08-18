@@ -2177,16 +2177,19 @@ details{
         &[hidden] + * {margin-top: 0}
     }
 
-    details:not(.collapsible) {
+    details:not(.collapsible, .input-instructions){
         @include text-block-compact;
-
-        summary{
-            font-size: var(--f-s);
-        }
 
         &[open]{
             margin-bottom:var(--l-relative);
         }
+    }
+
+    details:not(.collapsible) {
+        summary{
+            font-size: var(--f-s);
+        }
+
         :is(p, ul) {
             @include text-block-compact;
             font-size: var(--f-s);
