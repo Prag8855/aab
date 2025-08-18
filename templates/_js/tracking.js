@@ -8,19 +8,19 @@ const urlParams = new URLSearchParams(window.location.search);
 const ref = urlParams.get('ref') || urlParams.get('utm_source')
 if(ref){
 	try {
-		localStorage.setItem('referralSource', value);
+		localStorage.setItem('referralSource', ref);
 		localStorage.setItem('referralDate', Math.round(Date.now() / 1000));
 	} catch (e) {}
 }
 
 function getReferrer(){
 	const source = localStorage.getItem('referralSource');
-	const timeStamp = localStorage.getItem('referralDate');
+	const timestamp = localStorage.getItem('referralDate');
 
-	if(!source || !timeStamp) return null;
+	if(!source || !timestamp) return null;
 
 	const daysAgo = (Date.now() - Number(timestamp) * 1000) / (1000 * 60 * 60 * 24);
-	return daysAgo <= 30 ? referralSource : null;
+	return daysAgo <= 30 ? source : null;
 }
 
 function getLinkEl(l) {
