@@ -341,10 +341,8 @@
 					<label :for="uid('germanState')">
 						Where did you work?
 					</label>
-					<div class="input-group">
-						<state-input east-west-berlin :id="uid('germanState')" v-model="germanState" :aria-describedby="uid('instructions-east-west')"></state-input>
-						<span class="input-instructions" :id="uid('instructions-east-west')">You lived in a former East German state. You made smaller pension payments, so your refund is smaller.</span>
-					</div>
+					<state-input east-west-berlin :id="uid('germanState')" v-model="germanState" :aria-describedby="uid('instructions-east-west')"></state-input>
+					<span class="input-instructions" :id="uid('instructions-east-west')">You lived in a former East German state. You made smaller pension payments, so your refund is smaller.</span>
 				</div>
 				<template v-if="results && results.refundAmount">
 					<hr>
@@ -450,10 +448,8 @@
 			</div>
 			<div class="form-group required">
 				<label :for="uid('date-of-birth') + '-day'">Date of birth</label>
-				<div class="input-group">
-					<date-picker v-model="dateOfBirth" :id="uid('date-of-birth')" required autocomplete="bday" :aria-describedby="uid('instructions-date-of-birth')"></date-picker>
-					<span class="input-instructions" :id="uid('instructions-date-of-birth')">Required by the Deutsche Rentenversicherung</span>
-				</div>
+				<date-picker v-model="dateOfBirth" :id="uid('date-of-birth')" required autocomplete="bday" :aria-describedby="uid('instructions-date-of-birth')"></date-picker>
+				<span class="input-instructions" :id="uid('instructions-date-of-birth')">Required by the Deutsche Rentenversicherung</span>
 			</div>
 		</div>
 		<div class="buttons bar">
