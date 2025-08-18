@@ -54,6 +54,8 @@ Vue.component('health-insurance-calculator', {
 				'questions',
 				'options',
 				'ask-a-broker',
+				'thank-you',
+				'error',
 			],
 			inputsToFocus: {}, // TODO
 
@@ -109,10 +111,10 @@ Vue.component('health-insurance-calculator', {
 		},
 
 		// Contact form
-		whatsappMessage(){
+		personSummary(){
 			const facts = [];
 
-			facts.push(`I am ${this.firstName}${this.lastName ? this.lastName + ' ' : ''}`);
+			facts.push(`I am ${this.fullName}`);
 
 			if(this.age !== undefined){
 				facts.push(`I am ${this.age} years old`);
@@ -137,7 +139,7 @@ Vue.component('health-insurance-calculator', {
 				facts.push(`I earn ${formatCurrency(this.yearlyIncome)} per year`);
 			}
 			if(this.isEUCitizen !== undefined){
-				facts.push(`I am ${this.isEUCitizen ? '' : 'not '}a EU citizen`);
+				facts.push(`I am ${this.isEUCitizen ? '' : 'not '}an EU citizen`);
 			}
 			if(this.isMarried !== undefined){
 				facts.push(`I am ${this.isMarried ? '' : 'not '}married`);
@@ -147,28 +149,25 @@ Vue.component('health-insurance-calculator', {
 				if(this.childrenCount === 0){
 					facts.push(`I don't have children`);
 				}
-				else if(this.childrenCount === 1){
-					facts.push(`I have a child`);
-				}
-				else {
-					facts.push(`I have ${this.childrenCount} children`);
+				else{
+					facts.push(`I have ${this.childrenCount} ${this.childOrChildren}`);
 				}
 			}
 
 			if(this.currentInsurance){
-				facts.push(`I have ${this.currentInsurance} health insurance`);
+				facts.push(`I currently have ${this.currentInsurance} health insurance`);
 			}
 
-			let summary = '';
-			if(facts.length > 0){
-				summary = (new Intl.ListFormat('en-US', {style: 'long', type: 'conjunction'}).format(facts)) + '.';
-			}
-
+			return (new Intl.ListFormat('en-US', {style: 'long', type: 'conjunction'}).format(facts)) + '.';
+		},
+		whatsappMessage(){
 			return `Hi Seamus, can you help me choose health insurance? ${this.personSummary}`;
 		},
 		whatsappUrl(){
-			let url = 'https://wa.me/{% endraw %}{{ BROKER_PHONE_NUMBER }}{% raw %}';
-			return this.whatsappMessage ? `${url}?text=${encodeURIComponent(this.whatsappMessage)}` : url;
+			return `https://wa.me/{% endraw %}{{ BROKER_PHONE_NUMBER }}{% raw %}?text=${encodeURIComponent(this.whatsappMessage)}`;
+		},
+		caseNotes(){
+			return `QUESTION:\n${this.question || 'not specified'}\n\nSUMMARY: ${this.personSummary}\n\nCONTACT METHOD: ${this.contactMethod}`
 		},
 
 		// Printed values
@@ -190,18 +189,53 @@ Vue.component('health-insurance-calculator', {
 		// Insurance options
 		selectInsuranceOption(option){
 			if(option === 'broker'){
-				this.goToStage('ask-a-broker')
+				this.goToStage('ask-a-broker');
 			}
 		},
 
 		// Contact form
-		async createCase(){
+		async createCase(event){
 			if(validateForm(this.$el)){
-				if(this.contactMethod === 'whatsapp'){
-					plausible(this.trackAs, { props: { stage: 'whatsapp', pageSection: getNearestHeadingId(this.$el) }});
-				}
+				this.isLoading = true;
+				const response = await fetch(
+					'/api/insurance/case',
+					{
+						method: 'POST',
+						keepalive: true,
+						headers: {'Content-Type': 'application/json; charset=utf-8'},
+						body: JSON.stringify({
+							email: this.email,
+							notes: this.caseNotes,
+							referrer: getReferrer() || '',
+							insured_persons: [
+								{
+									first_name: this.fullName,
+									income: this.yearlyIncome || null,
+									occupation: this.occupation || '',
+									age: this.age || null,
+									is_married: this.isMarried,
+								}
+							],
 
-				this.goToStage('thank-you');
+						}),
+					},
+				);
+				this.isLoading = false;
+
+				if(response.ok){
+					this.goToStage('thank-you');
+					if(this.contactMethod === 'whatsapp'){
+						plausible(this.trackAs, { props: { stage: 'whatsapp', pageSection: getNearestHeadingId(this.$el) }});
+					}
+				}
+				else{
+					this.goToStage('error');
+				}
+			}
+			else{
+				// Don't open Whatsapp
+				event.preventDefault();
+				return;
 			}
 		},
 	},
