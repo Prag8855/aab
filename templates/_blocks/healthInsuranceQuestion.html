@@ -1,11 +1,2 @@
-{% include '_js/vue.js' %}
-{% include '_js/vue/collapsible.js' %}
-{% include '_js/vue/health-insurance-question.js' %}
-{% js %}
-	document.querySelectorAll("collapsible.health-insurance-question").forEach(el => new Vue({el}));
-{% endjs %}
-
-<collapsible aria-label="Health insurance question form" class="health-insurance-question" {% if static|default %}static{% endif %}>
-	<template v-slot:header>Ask my<span class="no-mobile"> health</span> insurance expert</template>
-	<health-insurance-question></health-insurance-question>
-</collapsible>
+{% include '_js/vue/health-insurance-calculator.js' %}
+<health-insurance-calculator mode="question" {% if static|default %}static{% endif %}></health-insurance-calculator>

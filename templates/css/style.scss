@@ -1715,7 +1715,7 @@ input[type=range] {
         @include collapsible;
     }
 
-.loading, collapsible, letter-generator, feedback-residence-permit{
+.loading, collapsible, letter-generator, feedback-residence-permit, health-insurance-calculator{
     min-height: var(--w-icon-s);
     color: var(--c-text-light);
     position: relative;
@@ -1735,15 +1735,6 @@ input[type=range] {
         mask-repeat: no-repeat;
         mask-size: var(--w-icon-s);
         background-color:currentColor;
-    }
-
-    // With content: add spinner as an icon
-    &:not(:empty):before{
-        position: relative;
-        width: 1em;
-        height: 1em;
-        mask-size: 1em;
-        margin-right: var(--s);
     }
 }
 
@@ -2210,7 +2201,7 @@ details{
     }
 }
 
-collapsible, letter-generator, feedback-residence-permit{  // Vue element before it loads
+collapsible, letter-generator, feedback-residence-permit, health-insurance-calculator{  // Vue element before it loads
     @include widget;
     background: transparent!important;
     box-shadow: none;
@@ -2220,6 +2211,15 @@ collapsible, letter-generator, feedback-residence-permit{  // Vue element before
     &:after{
         content: 'Loading…';
     }
+
+    &:before{
+        position: relative;
+        width: 1em;
+        height: 1em;
+        mask-size: 1em;
+        margin-right: var(--s);
+    }
+
     > *{
         display: none!important;
     }
