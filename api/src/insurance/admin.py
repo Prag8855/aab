@@ -76,7 +76,7 @@ class CaseAdmin(NestedModelAdmin):
     )
     inlines = [InsuredPersonInline, CommentInline, OutcomeInline]
 
-    list_display = ['name', 'title', 'creation_date', 'referrer', 'status']
+    list_display = ['name', 'auto_title', 'creation_date', 'referrer', 'status']
     list_filter = [StatusFilter]
     readonly_fields = ['creation_date', 'status', ]
 

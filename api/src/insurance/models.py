@@ -49,13 +49,32 @@ class Case(models.Model):
         BrokerNotification.objects.get_or_create(case=self)
         FeedbackNotification.objects.get_or_create(case=self)
 
+    @property
+    def auto_title(self):
+        if self.title:
+            return self.title
+        else:
+            first_person = self.insured_persons.first()
+            facts = []
+
+            if (person_count := self.insured_persons.count()) > 1:
+                facts.append("👤" * person_count)
+            if(first_person.age):
+                facts.append(f"{first_person.age}yo")
+            if(first_person.occupation):
+                facts.append(first_person.occupation)
+            if(first_person.income):
+                facts.append(f"€{first_person.income:,.0f}")
+            if(first_person.is_married):
+                facts.append("Married")
+
+            return " · ".join(facts)
+
     class Meta:
         ordering = ['-creation_date']
 
     def __str__(self):
-        if self.title:
-            return f"{self.name} — {self.title}"
-        return self.name
+        return f"{self.name} — {self.auto_title}"
 
 
 class Comment(models.Model):
