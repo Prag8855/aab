@@ -111,7 +111,7 @@ There is no reason to do your *Abmeldung* by post. It's slower, but not more rel
 
 ### Pay someone to do it
 
-You can pay someone to deregister you address for you. They book the *Bürgeramt* appointment, register your address, and send you the [deregistration certificate](/glossary/Abmeldebescheinigung) by email. It's expensive, but it guarantees that you will get an *[[Abmeldebescheinigung]]*, and it lets you focus on other problems.
+You can pay someone to deregister you address for you. They deregister your address and send you the [deregistration certificate](/glossary/Abmeldebescheinigung) by email. It's expensive, but it guarantees that you will get an *[[Abmeldebescheinigung]]*, and it lets you focus on other problems.
 
 These companies can help you:
 
