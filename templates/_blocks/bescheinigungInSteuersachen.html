@@ -2,6 +2,7 @@
 {% include '_js/vue/blank.js' %}
 {% include '_js/vue/date-picker.js' %}
 {% include '_js/vue/glossary.js' %}
+{% include '_js/vue/full-name-input.js' %}
 {% include '_js/vue/letter-generator.js' %}
 {% include '_js/vue/mixins/uniqueIdsMixin.js' %}
 {% include '_js/vue/mixins/userDefaultsMixin.js' %}
@@ -98,7 +99,7 @@
 	<template v-slot:form="{ language }">
 		<div class="form-group no-print required">
 			<label :for="uid('fullName')">Your full name</label>
-			<input type="text" :id="uid('fullName')" v-model="fullName" autocomplete="name">
+			<full-name-input :id="uid('fullName')" v-model="fullName"></full-name-input>
 		</div>
 		<div class="form-group no-print required">
 			<label :for="uid('address')">Your address</label>
