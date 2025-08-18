@@ -179,7 +179,7 @@ Vue.component('health-insurance-calculator', {
 			return `https://wa.me/{% endraw %}{{ BROKER_PHONE_NUMBER }}{% raw %}?text=${encodeURIComponent(this.whatsappMessage)}`;
 		},
 		caseNotes(){
-			return `QUESTION:\n${this.question || 'not specified'}\n\nSUMMARY: ${this.personSummary || 'not specified'}`;
+			return `QUESTION:\n${this.question || 'not specified'}\n\nSUMMARY:\n${this.personSummary || 'not specified'}`;
 		},
 
 		// Printed values
@@ -230,7 +230,7 @@ Vue.component('health-insurance-calculator', {
 									// If occupation is not set, we are in "It's complicated" mode and the input values must be ignored
 									first_name: this.fullName,
 									income: (this.occupation && this.yearlyIncome != null) ? this.yearlyIncome : null,
-									occupation: this.occupation || '',
+									occupation: this.occupation || 'other',
 									age: (this.occupation && this.age) ? this.age : null,
 									is_married: this.occupation ? this.isMarried : null,
 								}
