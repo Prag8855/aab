@@ -92,16 +92,16 @@
 				Dear Sir or Madam,
 			</p>
 			<p>
-				My name is <blank placeholder="Name">{{ fullName }}</blank>. I am a citizen of <blank placeholder="Country">{{ countries.all[nationality] }}</blank>. I was born on <blank placeholder="Date of birth">{{ formatDate(dateOfBirth, 'en-US') }}</blank> in <blank placeholder="Birthplace">{{ placeOfBirth }}</blank>.
+				My name is <blank :key="uid('fullNameBlankEn')" placeholder="Name">{{ fullName }}</blank>. I am a citizen of <blank :key="uid('nationalityBlankEn')" placeholder="Country">{{ countries.all[nationality] }}</blank>. I was born on <blank :key="uid('dateOfBirthBlankEn')" placeholder="Date of birth">{{ formatDate(dateOfBirth, 'en-US') }}</blank> in <blank :key="uid('placeOfBirthBlankEn')" placeholder="Birthplace">{{ placeOfBirth }}</blank>.
 			</p>
 			<p v-if="letterType === 'resignation'">
 				I am writing to inform the Ausländerbehörde that I have quit my job.
-				My last day of work {{ dateFromString(lastDayOfWork) >= currentDate ? 'is' : 'was' }} on <blank placeholder="Last day of work">{{ formatDate(lastDayOfWork, 'en-US') }}</blank>.
+				My last day of work {{ dateFromString(lastDayOfWork) >= currentDate ? 'is' : 'was' }} on <blank :key="uid('lastDayOfWorkBlankEn')" placeholder="Last day of work">{{ formatDate(lastDayOfWork, 'en-US') }}</blank>.
 				I have attached a copy of my resignation letter.
 			</p>
 			<p v-if="letterType === 'termination'">
 				I am writing to inform the Ausländerbehörde that my employer has terminated my employment.
-				My last day of work {{ dateFromString(lastDayOfWork) >= currentDate ? 'is' : 'was' }} on <blank placeholder="Last day of work">{{ formatDate(lastDayOfWork, 'en-US') }}</blank>.
+				My last day of work {{ dateFromString(lastDayOfWork) >= currentDate ? 'is' : 'was' }} on <blank :key="uid('lastDayOfWorkBlankEn')" placeholder="Last day of work">{{ formatDate(lastDayOfWork, 'en-US') }}</blank>.
 				I have attached a copy of the termination notice.
 			</p>
 			<p v-if="letterType === 'jobChange'">
@@ -126,16 +126,16 @@
 				Sehr geehrte Damen und Herren,
 			</p>
 			<p>
-				Mein Name ist <blank placeholder="Name">{{ fullName }}</blank>. Ich bin Staatsangehöriger von <blank placeholder="Land">{{ countriesInGerman.all[nationality] }}</blank>. Ich wurde am <blank placeholder="Geburtsdatum">{{ formatDate(dateOfBirth, 'de-DE') }}</blank> in <blank placeholder="Geburtsort">{{ placeOfBirth }}</blank> geboren.
+				Mein Name ist <blank :key="uid('fullNameBlankDe')" placeholder="Name">{{ fullName }}</blank>. Ich bin Staatsangehöriger von <blank :key="uid('nationalityBlankDe')" placeholder="Land">{{ countriesInGerman.all[nationality] }}</blank>. Ich wurde am <blank :key="uid('dateOfBirthBlankDe')" placeholder="Geburtsdatum">{{ formatDate(dateOfBirth, 'de-DE') }}</blank> in <blank :key="uid('placeOfBirthBlankDe')" placeholder="Geburtsort">{{ placeOfBirth }}</blank> geboren.
 			</p>
 			<p v-if="letterType === 'resignation'">
 				Ich schreibe, um die Ausländerbehörde darüber zu informieren, dass ich meinen Job gekündigt habe.
-				Mein letzter Arbeitstag {{ dateFromString(lastDayOfWork) >= currentDate ? 'ist' : 'war' }} am <blank placeholder="Letzte Arbeitstag">{{ formatDate(lastDayOfWork, 'de-DE') }}</blank>.
+				Mein letzter Arbeitstag {{ dateFromString(lastDayOfWork) >= currentDate ? 'ist' : 'war' }} am <blank :key="uid('lastDayOfWorkBlankDe')" placeholder="Letzte Arbeitstag">{{ formatDate(lastDayOfWork, 'de-DE') }}</blank>.
 				Beigefügt ist eine Kopie meines Kündigungsschreibens.
 			</p>
 			<p v-if="letterType === 'termination'">
 				Ich schreibe, um die Ausländerbehörde darüber zu informieren, dass mein Arbeitgeber mein Arbeitsverhältnis beendet hat.
-				Mein letzter Arbeitstag {{ dateFromString(lastDayOfWork) >= currentDate ? 'ist' : 'war' }} am <blank placeholder="Letzte Arbeitstag">{{ formatDate(lastDayOfWork, 'de-DE') }}</blank>.
+				Mein letzter Arbeitstag {{ dateFromString(lastDayOfWork) >= currentDate ? 'ist' : 'war' }} am <blank :key="uid('lastDayOfWorkBlankDe')" placeholder="Letzte Arbeitstag">{{ formatDate(lastDayOfWork, 'de-DE') }}</blank>.
 				Beigefügt ist eine Kopie der Kündigungserklärung.
 			</p>
 			<p v-if="letterType === 'jobChange'">
