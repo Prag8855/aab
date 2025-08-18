@@ -80,12 +80,12 @@
 		<template v-else-if="formatName(recipientGender, recipientFirstName, recipientLastName, language)">
 			{{ formatName(recipientGender, recipientFirstName, recipientLastName, language) }}
 		</template>
-		<blank placeholder="Landlord's name" v-else></blank>
+		<blank v-else :key="uid('landlordNameBlank')" placeholder="Landlord's name"></blank>
 
 		<br>
 
 		<span v-if="recipientAddress.trim()" v-html="recipientAddress.replaceAll('\n', '<br>')"></span>
-		<blank v-else placeholder="Landlord's address"></blank>
+		<blank v-else :key="uid('landlordAddressBlank')" placeholder="Landlord's address"></blank>
 	</template>
 
 	<template v-slot:letter-details="{ language, stage }">
@@ -121,14 +121,14 @@
 		</p>
 
 		<p v-if="language === 'en'">
-			Address: <blank placeholder="Apartment address" key="oldAddress">{{ oldAddress.replaceAll('\n', ', ') }}</blank>
+			Address: <blank :key="uid('oldAddressBlankEn')" placeholder="Apartment address" key="oldAddress">{{ oldAddress.replaceAll('\n', ', ') }}</blank>
 			<br>
-			Tenant name: <blank placeholder="Full name" key="fullName">{{ fullName }}</blank>
+			Tenant name: <blank :key="uid('tenantNameBlankEn')" placeholder="Full name" key="fullName">{{ fullName }}</blank>
 		</p>
 		<p v-if="language === 'de'">
-			Anschrift: <blank placeholder="Apartment address" key="oldAddress">{{ oldAddress.replaceAll('\n', ', ') }}</blank>
+			Anschrift: <blank :key="uid('oldAddressBlankDe')" placeholder="Apartment address" key="oldAddress">{{ oldAddress.replaceAll('\n', ', ') }}</blank>
 			<br>
-			Name des Mieters/der Mieterin: <blank placeholder="Full name" key="fullName">{{ fullName }}</blank>
+			Name des Mieters/der Mieterin: <blank :key="uid('tenantNameBlankDe')" placeholder="Full name" key="fullName">{{ fullName }}</blank>
 		</p>
 
 		<p v-if="language === 'en' && !hasReceivedNebenkostenabrechnung && !hasReceivedPartOfKaution">
@@ -142,14 +142,14 @@
 			I politely request that you transfer
 			<template v-if="hasReceivedPartOfKaution">
 				the remaining
-				<blank placeholder="Remaining deposit" v-if="!remainingKautionAmount"></blank><eur cents :amount="remainingKautionAmount" v-if="remainingKautionAmount"></eur>
+				<blank :key="uid('remainingDepositBlankEn')" placeholder="Remaining deposit" v-if="!remainingKautionAmount"></blank><eur cents :amount="remainingKautionAmount" v-if="remainingKautionAmount"></eur>
 				of the
-				<blank placeholder="Total deposit" v-if="!kautionAmount"></blank><eur cents :amount="kautionAmount" v-if="kautionAmount"></eur>
+				<blank :key="uid('totalDepositBlankEn')" placeholder="Total deposit" v-if="!kautionAmount"></blank><eur cents :amount="kautionAmount" v-if="kautionAmount"></eur>
 				deposit
 			</template>
 			<template v-if="!hasReceivedPartOfKaution">
 				the deposit of
-				<blank placeholder="Deposit amount" v-if="!kautionAmount"></blank><eur cents :amount="kautionAmount" v-if="kautionAmount"></eur>
+				<blank :key="uid('totalDepositBlankEn')" placeholder="Deposit amount" v-if="!kautionAmount"></blank><eur cents :amount="kautionAmount" v-if="kautionAmount"></eur>
 			</template>
 			plus interest to my account by {{ deadline(language) }} at the latest.
 		</p>
@@ -157,26 +157,26 @@
 			Ich fordere Sie höflich auf,
 			<template v-if="hasReceivedPartOfKaution">
 				die restlichen
-				<blank placeholder="Remaining deposit" v-if="!remainingKautionAmount"></blank><eur cents :amount="remainingKautionAmount" locale="de-DE" v-if="remainingKautionAmount"></eur>
+				<blank :key="uid('remainingDepositBlankDe')" placeholder="Remaining deposit" v-if="!remainingKautionAmount"></blank><eur cents :amount="remainingKautionAmount" locale="de-DE" v-if="remainingKautionAmount"></eur>
 				der
-				<blank placeholder="Total deposit" v-if="!kautionAmount"></blank><eur cents :amount="kautionAmount" locale="de-DE" v-if="kautionAmount"></eur> Kaution
+				<blank :key="uid('totalDepositBlankDe')" placeholder="Total deposit" v-if="!kautionAmount"></blank><eur cents :amount="kautionAmount" locale="de-DE" v-if="kautionAmount"></eur> Kaution
 			</template>
 			<template v-if="!hasReceivedPartOfKaution">
 				die Kaution in Höhe von
-				<blank placeholder="Deposit amount" v-if="!kautionAmount"></blank><eur cents :amount="kautionAmount" locale="de-DE" v-if="kautionAmount"></eur>
+				<blank :key="uid('totalDepositBlankDe')" placeholder="Deposit amount" v-if="!kautionAmount"></blank><eur cents :amount="kautionAmount" locale="de-DE" v-if="kautionAmount"></eur>
 			</template>
 			zuzüglich Zinsen bis spätestens {{ deadline(language) }} auf mein Konto zu überweisen.
 		</p>
 
 		<p v-if="language === 'en'">
-			Account holder: <blank placeholder="Full name" key="bankAccountName">{{ bankAccountName || fullName }}</blank>
+			Account holder: <blank  :key="uid('bankAccountNameBlankEn')" placeholder="Full name" key="bankAccountName">{{ bankAccountName || fullName }}</blank>
 			<br>
-			IBAN: <blank placeholder="Account IBAN" key="bankAccountIBAN">{{ bankAccountIBAN }}</blank>
+			IBAN: <blank :key="uid('ibanBlankEn')" placeholder="Account IBAN" key="bankAccountIBAN">{{ bankAccountIBAN }}</blank>
 		</p>
 		<p v-if="language === 'de'">
-			Kontoinhaber:</strong> <blank placeholder="Full name" key="bankAccountName">{{ bankAccountName || fullName }}</blank>
+			Kontoinhaber:</strong> <blank  :key="uid('bankAccountNameBlankDe')" placeholder="Full name" key="bankAccountName">{{ bankAccountName || fullName }}</blank>
 			<br>
-			IBAN: <blank placeholder="Account IBAN" key="bankAccountIBAN">{{ bankAccountIBAN }}</blank>
+			IBAN: <blank :key="uid('ibanBlankDe')" placeholder="Account IBAN" key="bankAccountIBAN">{{ bankAccountIBAN }}</blank>
 		</p>
 
 		<p v-if="language === 'en'">
