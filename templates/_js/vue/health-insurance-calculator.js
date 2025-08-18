@@ -227,11 +227,12 @@ Vue.component('health-insurance-calculator', {
 							contact_method: this.contactMethod || 'EMAIL',
 							insured_persons: [
 								{
+									// If occupation is not set, we are in "It's complicated" mode and the input values must be ignored
 									first_name: this.fullName,
-									income: this.yearlyIncome || null,
+									income: (this.occupation && this.yearlyIncome != null) ? this.yearlyIncome : null,
 									occupation: this.occupation || '',
-									age: this.age || null,
-									is_married: this.isMarried,
+									age: (this.occupation && this.age) ? this.age : null,
+									is_married: this.occupation ? this.isMarried : null,
 								}
 							],
 
@@ -407,7 +408,7 @@ Vue.component('health-insurance-calculator', {
 					</label>
 					<div class="input-group vertical">
 						<label class="checkbox">
-							<input type="checkbox" :name="uid('hasPublicHealthInsurance')" v-model="hasPublicHealthInsurance">
+							<input type="checkbox" :id="uid('hasPublicHealthInsurance')" v-model="hasPublicHealthInsurance">
 							<div>
 								I have public health insurance
 							</div>
