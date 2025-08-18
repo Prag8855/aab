@@ -251,7 +251,7 @@ Vue.component('health-insurance-calculator', {
 	template: `
 		<collapsible class="health-insurance-calculator" :static="static" :aria-label="trackAs">
 			<template v-slot:header v-text="trackAs">
-				<template v-if="mode === 'question'">Ask my<span class="no-mobile"> health</span> insurance expert</template>
+				<template v-if="mode === 'question'">Ask our<span class="no-mobile"> health</span> insurance expert</template>
 				<template v-else>Health insurance calculator</template>
 			</template>
 
@@ -457,7 +457,7 @@ Vue.component('health-insurance-calculator', {
 					<hr>
 					<div class="form-group required">
 						<label :for="uid('fullName')">
-							Your full name
+							Name
 						</label>
 						<full-name-input :for="uid('fullName')" v-model="fullName" required></full-name-input>
 					</div>
@@ -469,7 +469,7 @@ Vue.component('health-insurance-calculator', {
 						<details class="input-instructions" v-if="contactMethod === 'WHATSAPP'">
 							<summary>Why we ask for your email</summary>
 							<p>
-								Seamus might email you documents and extra information. I will email you once to ask for feedback. We do not send marketing emails.
+								Seamus might need to send you documents and extra information. I will also email you once to ask for feedback.
 							</p>
 						</details>
 					</div>
