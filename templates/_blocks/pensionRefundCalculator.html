@@ -5,6 +5,7 @@
 {% include '_js/vue/country-input.js' %}
 {% include '_js/vue/date-picker.js' %}
 {% include '_js/vue/eur.js' %}
+{% include '_js/vue/email-input.js' %}
 {% include '_js/vue/full-name-input.js' %}
 {% include '_js/vue/glossary.js' %}
 {% include '_js/vue/income-input.js' %}
@@ -363,7 +364,7 @@
 						<p>You can apply for a refund in <strong>{{ monthsUntilEligible }}</strong>. That's 2 years after your last pension contribution.</p>
 						<p class="no-print">Enter your email to get a reminder in {{ eligibilityDateString }}.</p>
 						<div class="input-group email-reminder no-print" ref="reminderForm">
-							<input type="email" placeholder="Your email address" v-model="email" autocomplete="email" required>
+							<email-input v-model="email" required></email-input>
 							<button class="button primary" @click="setReminder" :disabled="isLoading" :class="{loading: isLoading}">
 								Remind me in {{ monthsUntilEligible }}
 							</button>
@@ -445,9 +446,7 @@
 			</div>
 			<div class="form-group required">
 				<label :for="uid('email')">Email address</label>
-				<div class="input-group">
-					<input v-model="email" type="email" :id="uid('email')" required autocomplete="email">
-				</div>
+				<email-input v-model="email" :id="uid('email')" required></email-input>
 			</div>
 			<div class="form-group required">
 				<label :for="uid('date-of-birth') + '-day'">Date of birth</label>
