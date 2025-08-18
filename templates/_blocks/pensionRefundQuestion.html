@@ -2,6 +2,7 @@
 {% include '_js/vue.js' %}
 {% include '_js/vue/collapsible.js' %}
 {% include '_js/vue/date-picker.js' %}
+{% include '_js/vue/full-name-input.js' %}
 {% include '_js/vue/mixins/uniqueIdsMixin.js' %}
 {% include '_js/vue/mixins/userDefaultsMixin.js' %}
 {% js %}
@@ -86,12 +87,10 @@
 			</div>
 		</div>
 		<div class="form-group required">
-			<label :for="uid('name')">
+			<label :for="uid('fullName')">
 				Name
 			</label>
-			<div class="input-group">
-				<input v-model="fullName" type="text" :id="uid('name')" required autocomplete="name">
-			</div>
+			<full-name-input :id="uid('fullName')" v-model="fullName" required></full-name-input>
 		</div>
 		<div class="form-group required">
 			<label :for="uid('email')">
