@@ -284,7 +284,7 @@ Vue.component('feedback-residence-permit', {
 			</template>
 			<template v-if="stage === 'finish'">
 				<p><strong>Thank you for your feedback!</strong> This information will help a lot of people.</p>
-				<p>If this tool helped you, consider <a href="{{ site_url }}/donate" target="_blank" title="Donate to All About Berlin">donating €10</a> to support my work.</p>
+				<p>If this tool helped you, consider <a href="/donate" target="_blank" title="Donate to All About Berlin">donating €10</a> to support my work.</p>
 			</template>
 			<template v-if="stage === 'error'">
 				<p><strong>An error occured.</strong> If this keeps happening, <a target="_blank" href="/contact">contact me</a>.</p>
