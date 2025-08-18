@@ -17,6 +17,11 @@ class Status(models.TextChoices):
     STALE = "STALE", "Stale"
 
 
+class ContactMethod(models.TextChoices):
+    EMAIL = "EMAIL", "Email"
+    WHATSAPP = "WHATSAPP", "WhatsApp"
+
+
 class Case(models.Model):
     """
     A need that usually results in an insurance policy being signed.
@@ -24,6 +29,7 @@ class Case(models.Model):
     email = models.EmailField()
     phone = models.CharField(blank=True, max_length=50)
     whatsapp = models.CharField(blank=True, max_length=50)
+    contact_method = models.CharField("Contact method", max_length=15, choices=ContactMethod, default=ContactMethod.EMAIL)
 
     creation_date = models.DateTimeField(auto_now_add=True)
     title = models.CharField(blank=True, max_length=150, help_text="For example, \"health insurance for a Blue Card\"")
@@ -53,22 +59,23 @@ class Case(models.Model):
     def auto_title(self):
         if self.title:
             return self.title
-        else:
-            first_person = self.insured_persons.first()
-            facts = []
 
-            if (person_count := self.insured_persons.count()) > 1:
-                facts.append("👤" * person_count)
-            if(first_person.age):
-                facts.append(f"{first_person.age}yo")
-            if(first_person.occupation):
-                facts.append(first_person.occupation)
-            if(first_person.income):
-                facts.append(f"€{first_person.income:,.0f}")
-            if(first_person.is_married):
-                facts.append("Married")
+        first_person = self.insured_persons.first()
+        facts = []
 
-            return " · ".join(facts)
+        facts.append(self.get_contact_method_display())
+        if (person_count := self.insured_persons.count()) > 1:
+            facts.append("👤" * person_count)
+        if(first_person.age):
+            facts.append(f"{first_person.age}yo")
+        if(first_person.occupation):
+            facts.append(first_person.occupation)
+        if(first_person.income):
+            facts.append(f"€{first_person.income:,.0f}")
+        if(first_person.is_married):
+            facts.append("Married")
+
+        return " · ".join(facts)
 
     class Meta:
         ordering = ['-creation_date']

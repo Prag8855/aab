@@ -71,14 +71,14 @@ class CaseAdmin(NestedModelAdmin):
             'fields': ('status', 'creation_date', 'title', 'notes', 'referrer'),
         }),
         ('Contact information', {
-            'fields': ('email', 'phone', 'whatsapp')
+            'fields': ('contact_method', 'name', 'email', 'phone', 'whatsapp')
         }),
     )
     inlines = [InsuredPersonInline, CommentInline, OutcomeInline]
 
     list_display = ['name', 'auto_title', 'creation_date', 'referrer', 'status']
     list_filter = [StatusFilter]
-    readonly_fields = ['creation_date', 'status', ]
+    readonly_fields = ['creation_date', 'status', 'name']
 
 
 admin.site.register(Case, CaseAdmin)
