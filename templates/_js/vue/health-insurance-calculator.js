@@ -179,7 +179,7 @@ Vue.component('health-insurance-calculator', {
 			return `https://wa.me/{% endraw %}{{ BROKER_PHONE_NUMBER }}{% raw %}?text=${encodeURIComponent(this.whatsappMessage)}`;
 		},
 		caseNotes(){
-			return `QUESTION:\n${this.question || 'not specified'}\n\nSUMMARY: ${this.personSummary}`
+			return `QUESTION:\n${this.question || 'not specified'}\n\nSUMMARY: ${this.personSummary || 'not specified'}`;
 		},
 
 		// Printed values
