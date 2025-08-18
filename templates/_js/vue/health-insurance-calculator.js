@@ -167,7 +167,7 @@ Vue.component('health-insurance-calculator', {
 			return `https://wa.me/{% endraw %}{{ BROKER_PHONE_NUMBER }}{% raw %}?text=${encodeURIComponent(this.whatsappMessage)}`;
 		},
 		caseNotes(){
-			return `QUESTION:\n${this.question || 'not specified'}\n\nSUMMARY: ${this.personSummary}\n\nCONTACT METHOD: ${this.contactMethod}`
+			return `QUESTION:\n${this.question || 'not specified'}\n\nSUMMARY: ${this.personSummary}`
 		},
 
 		// Printed values
@@ -207,6 +207,7 @@ Vue.component('health-insurance-calculator', {
 							email: this.email,
 							notes: this.caseNotes,
 							referrer: getReferrer() || '',
+							contact_method: this.contactMethod || 'EMAIL',
 							insured_persons: [
 								{
 									first_name: this.fullName,
@@ -224,7 +225,7 @@ Vue.component('health-insurance-calculator', {
 
 				if(response.ok){
 					this.goToStage('thank-you');
-					if(this.contactMethod === 'whatsapp'){
+					if(this.contactMethod === 'WHATSAPP'){
 						plausible(this.trackAs, { props: { stage: 'whatsapp', pageSection: getNearestHeadingId(this.$el) }});
 					}
 				}
@@ -445,10 +446,10 @@ Vue.component('health-insurance-calculator', {
 				<div class="contact-method">
 					<h3>How should we talk?</h3>
 					<div class="tabs" aria-label="Preferred contact method">
-						<input v-model="contactMethod" type="radio" :id="uid('contactMethodWhatsapp')" value="whatsapp">
+						<input v-model="contactMethod" type="radio" :id="uid('contactMethodWhatsapp')" value="WHATSAPP">
 						<label :for="uid('contactMethodWhatsapp')">WhatsApp</label>
 
-						<input v-model="contactMethod" type="radio" :id="uid('contactMethodEmail')" value="email">
+						<input v-model="contactMethod" type="radio" :id="uid('contactMethodEmail')" value="EMAIL">
 						<label :for="uid('contactMethodEmail')">Email</label>
 					</div>
 				</div>
@@ -465,14 +466,14 @@ Vue.component('health-insurance-calculator', {
 							Email address
 						</label>
 						<email-input v-model="email" :id="uid('email')" required></email-input>
-						<details class="input-instructions" v-if="contactMethod === 'whatsapp'">
+						<details class="input-instructions" v-if="contactMethod === 'WHATSAPP'">
 							<summary>Why we ask for your email</summary>
 							<p>
 								Seamus might email you documents and extra information. I will email you once to ask for feedback. We do not send marketing emails.
 							</p>
 						</details>
 					</div>
-					<div class="form-group" v-if="contactMethod !== 'whatsapp'">
+					<div class="form-group" v-if="contactMethod !== 'WHATSAPP'">
 						<label :for="uid('question')">
 							Question
 						</label>
@@ -484,10 +485,10 @@ Vue.component('health-insurance-calculator', {
 					<button aria-label="Go back" class="button" @click="previousStage()">
 						<i class="icon left" aria-hidden="true"></i> <span class="no-mobile">Go back</span>
 					</button>
-					<button v-if="contactMethod === 'email'" class="button primary" @click="createCase" :disabled="isLoading" :class="{loading: isLoading}">
+					<button v-if="contactMethod === 'EMAIL'" class="button primary" @click="createCase" :disabled="isLoading" :class="{loading: isLoading}">
 						Ask Seamus
 					</button>
-					<a v-if="contactMethod === 'whatsapp'" :href="whatsappUrl" @click="createCase" class="button whatsapp" target="_blank">
+					<a v-if="contactMethod === 'WHATSAPP'" :href="whatsappUrl" @click="createCase" class="button whatsapp" target="_blank">
 						{% endraw %}{% include "_css/icons/whatsapp.svg" %}{% raw %}
 						<span class="only-mobile">Start chat</span>
 						<span class="no-mobile">Chat with Seamus</span>						
