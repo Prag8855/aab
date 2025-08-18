@@ -5,6 +5,7 @@
 {% include '_js/vue/country-input.js' %}
 {% include '_js/vue/date-picker.js' %}
 {% include '_js/vue/eur.js' %}
+{% include '_js/vue/full-name-input.js' %}
 {% include '_js/vue/glossary.js' %}
 {% include '_js/vue/income-input.js' %}
 {% include '_js/vue/mixins/userDefaultsMixin.js' %}
@@ -440,9 +441,7 @@
 		<div ref="contactForm">
 			<div class="form-group required">
 				<label :for="uid('name')">Full name</label>
-				<div class="input-group">
-					<input v-model="fullName" type="text" :id="uid('name')" required autocomplete="name">
-				</div>
+				<full-name-input v-model="fullName" :id="uid('name')" required></full-name-input>
 			</div>
 			<div class="form-group required">
 				<label :for="uid('email')">Email address</label>
