@@ -496,17 +496,10 @@ Vue.component('health-insurance-calculator', {
 				</div>
 			</template>
 
-			<template v-if="stage === 'thank-you'">
-				<p><strong>Message sent!</strong> Seamus will contact you today or during the next business day.</p>
-				<div class="buttons bar">
-					<button aria-label="Go back" class="button" @click="goToStage('start')">
-						<i class="icon left" aria-hidden="true"></i> Go back
-					</button>
-				</div>
-			</template>
-
-			<template v-if="stage === 'error'">
-				<p><strong>An error occured</strong> while sending your question. If this keeps happening, <a target="_blank" href="/contact">contact me</a>.</p>
+			<template v-if="stage === 'thank-you' || stage === 'error'">
+				<p v-if="stage === 'thank-you'"><strong>Message sent!</strong> Seamus will contact you today or during the next business day.</p>
+				<p v-if="stage === 'error'"><strong>An error occured</strong> while sending your question. If this keeps happening, <a target="_blank" href="/contact">contact me</a>.</p>
+				<hr>
 				<div class="buttons bar">
 					<button aria-label="Go back" class="button" @click="goToStage('start')">
 						<i class="icon left" aria-hidden="true"></i> Go back
