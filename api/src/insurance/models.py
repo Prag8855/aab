@@ -83,8 +83,10 @@ class Case(models.Model):
             facts.append(f"€{first_person.income:,.0f}")
         if(first_person.age):
             facts.append(f"{first_person.age}yo")
-        if(first_person.is_married):
+        if(first_person.is_married is True):
             facts.append("Married")
+        elif(first_person.is_married is False):
+            facts.append("Not married")
 
         return " · ".join(facts)
 
