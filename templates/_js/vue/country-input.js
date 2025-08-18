@@ -43,7 +43,7 @@ Vue.component('country-input', {
 			<option
 				:value="countryCode ? code : name"
 				v-for="[code, name] in recommendedCountries"
-				:key="code">{{ name }}</option>
+				:key="code + '-recommended'">{{ name }}</option>
 			<option disabled v-if="recommendedCountries">──────────</option>
 			<option
 				:value="countryCode ? code : name"
