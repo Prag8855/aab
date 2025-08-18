@@ -38,7 +38,7 @@ Vue.component('health-insurance-calculator', {
 			yearlyIncome: userDefaults.yearlyIncome,
 			worksOver20HoursPerWeek: false,
 			isEUCitizen: false,
-			currentInsurance: null,
+			hasPublicHealthInsurance: false,
 
 			// Contact form
 			contactMethod: null,
@@ -49,14 +49,19 @@ Vue.component('health-insurance-calculator', {
 
 			// Component settings
 			trackAs: `Health insurance ${this.mode}`,
-			stages: [
-				'start',
-				'questions',
-				'options',
-				'ask-a-broker',
-				'thank-you',
-				'error',
-			],
+			stages: this.mode === 'question' ? [
+					'ask-a-broker',
+					'questions',
+					'thank-you',
+					'error',
+				] : [
+					'occupation',
+					'questions',
+					'options',
+					'ask-a-broker',
+					'thank-you',
+					'error',
+				],
 			inputsToFocus: {}, // TODO
 
 			pflegeversicherung,
@@ -65,13 +70,15 @@ Vue.component('health-insurance-calculator', {
 			// TODO: "We already know that..." replacement
 			// TODO: Move occupations from constants.js to another file
 			// TODO: Set inputsToFocus
-			// TODO: Rename 'start' stage to 'occupation'
 			// TODO: Test collapsible header text
 			// TODO: Length of progress bar changes depending on mode
 			// TODO: askForCurrentInsurance: run two calculations and see if they differ. No business logic there.
 			// TODO: Set submit button text based on purpose ("Ask Seamus")
 			// TODO: .health-insurance-question is gone. Fix the CSS.
 			// TODO: Use email-input and full-name-input everywhere
+			// TODO: Add childrenCount to API
+			// TODO: Add hasPublicHealthInsurance to API
+			// TODO: Replace currentInsurance with hasPublicHealthInsurance
 		};
 	},
 	mounted(){
@@ -100,11 +107,11 @@ Vue.component('health-insurance-calculator', {
 			return {
 				age: this.age,
 				childrenCount: this.childrenCount,
-				currentInsurance: this.currentInsurance,
+				currentInsurance: this.hasPublicHealthInsurance ? 'public' : null,
 				hoursWorkedPerWeek: this.worksOver20HoursPerWeek ? 40 : 20,
 				isEUCitizen: this.isEUCitizen,
 				isMarried: this.isMarried,
-				monthlyIncome: this.monthlyIncome,
+				monthlyIncome: this.isUnemployed ? 0 : this.monthlyIncome,
 				occupation: this.occupation,
 				customZusatzbeitrag: null,
 			};
@@ -112,6 +119,11 @@ Vue.component('health-insurance-calculator', {
 
 		// Contact form
 		personSummary(){
+			if(!this.occupation){
+				// "It's complicated"
+				return '';
+			}
+
 			const facts = [];
 
 			facts.push(`I am ${this.fullName}`);
@@ -135,7 +147,7 @@ Vue.component('health-insurance-calculator', {
 			if(this.isStudent){
 				facts.push(`I work ${this.worksOver20HoursPerWeek ? 'more' : 'less'} than 20 hours per week`);
 			}
-			if(this.yearlyIncome !== undefined){
+			if(this.yearlyIncome !== undefined && !this.isUnemployed){
 				facts.push(`I earn ${formatCurrency(this.yearlyIncome)} per year`);
 			}
 			if(this.isEUCitizen !== undefined){
@@ -154,8 +166,8 @@ Vue.component('health-insurance-calculator', {
 				}
 			}
 
-			if(this.currentInsurance){
-				facts.push(`I currently have ${this.currentInsurance} health insurance`);
+			if(this.hasPublicHealthInsurance){
+				facts.push(`I currently have public health insurance`);
 			}
 
 			return (new Intl.ListFormat('en-US', {style: 'long', type: 'conjunction'}).format(facts)) + '.';
@@ -177,7 +189,12 @@ Vue.component('health-insurance-calculator', {
 	methods: {
 		previousStage(){
 			// If "it's complicated" is chosen, skip the questions stage on the way back
-			this.stageIndex = this.occupation ? this.stageIndex - 1 : 0;
+			if(this.mode === 'calculator' && !this.occupation){
+				this.goToStart();
+			}
+			else{
+				this.stageIndex -= 1;
+			}
 		},
 
 		// Insurance questions
@@ -255,9 +272,9 @@ Vue.component('health-insurance-calculator', {
 				<template v-else>Health insurance calculator</template>
 			</template>
 
-			<progress v-if="stage !== 'start'" aria-label="Form progress" :max="stages.length - 1" :value="stageIndex"></progress>
+			<progress v-if="stageIndex !== 0" aria-label="Form progress" :max="stages.length - 1" :value="stageIndex"></progress>
 
-			<template v-if="stage === 'start'">
+			<template v-if="stage === 'occupation'">
 				<p><strong>Let's find the right health insurance.</strong> What is your occupation?</p>
 				<ul class="buttons grid" aria-label="Occupations">
 					<li>
@@ -385,36 +402,55 @@ Vue.component('health-insurance-calculator', {
 				</div>
 				<hr v-if="askForCurrentInsurance">
 				<div class="form-group" v-if="askForCurrentInsurance">
-					<span class="label">
+					<label :for="uid('hasPublicHealthInsurance')">
 						Current insurance
-					</span>
+					</label>
 					<div class="input-group vertical">
 						<label class="checkbox">
-							<input type="radio" :name="uid('currentInsurance')" v-model="currentInsurance" :value="null" required>
-							No health insurance
+							<input type="checkbox" :name="uid('hasPublicHealthInsurance')" v-model="hasPublicHealthInsurance">
+							<div>
+								I have <glossary term="gesetzliche Krankenversicherung">public health insurance</glossary>
+							</div>
 						</label>
-						<label class="checkbox">
-							<input type="radio" :name="uid('currentInsurance')" v-model="currentInsurance" value="public" required>
-							<div><glossary term="gesetzliche Krankenversicherung">Public health insurance</glossary></div>
-						</label>
-						<label class="checkbox">
-							<input type="radio" :name="uid('currentInsurance')" v-model="currentInsurance" value="private" required>
-							<div><glossary term="private Krankenversicherung">Private health insurance</glossary></div>
-						</label>
-						<label class="checkbox">
-							<input type="radio" :name="uid('currentInsurance')" v-model="currentInsurance" value="expat" required :disabled="isEUCitizen">
-							<div>Travel or <glossary term="Expat health insurance">expat health insurance</glossary></div>
-						</label>
+						<span class="input-instructions">
+							Check this box if you had public health insurance in any <glossary term="European Union">EU</glossary> country for at least 2 of the past 5 years.
+							Otherwise, you might need <glossary term="private Krankenversicherung">private health insurance</glossary>.
+						</span>
 					</div>
 				</div>
+				<template v-if="mode === 'question' && contactMethod !== 'WHATSAPP'">
+					<hr>
+					<div class="form-group">
+						<label :for="uid('question')">
+							Your question
+						</label>
+						<textarea :id="uid('question')" v-model="question" placeholder="How can Seamus help you?"></textarea>
+					</div>
+				</template>
 				<hr>
 				<div class="buttons bar">
-					<button aria-label="Go back" class="button" @click="goToStage('start')">
-						<i class="icon left" aria-hidden="true"></i> <span class="no-mobile">Go back</span>
-					</button>
-					<button class="button primary" @click="nextStage()">
-						See options <i class="icon right" aria-hidden="true"></i>
-					</button>
+					<template v-if="mode === 'calculator'">
+						<button aria-label="Go back" class="button" @click="goToStart()">
+							<i class="icon left" aria-hidden="true"></i> <span class="no-mobile">Go back</span>
+						</button>
+						<button class="button primary" @click="nextStage()">
+							See options <i class="icon right" aria-hidden="true"></i>
+						</button>
+					</template>
+
+					<template v-if="mode === 'question'">
+						<button aria-label="Go back" class="button" @click="goToStart()">
+							<i class="icon left" aria-hidden="true"></i> <span class="no-mobile">Go back</span>
+						</button>
+						<button v-if="mode === 'calculator' && contactMethod === 'EMAIL'" class="button primary" @click="createCase" :disabled="isLoading" :class="{loading: isLoading}">
+							Ask Seamus
+						</button>
+						<a v-if="mode === 'calculator' && contactMethod === 'WHATSAPP'" :href="whatsappUrl" @click="createCase" class="button whatsapp" target="_blank">
+							{% endraw %}{% include "_css/icons/whatsapp.svg" %}{% raw %}
+							<span class="only-mobile">Start chat</span>
+							<span class="no-mobile">Chat with Seamus</span>
+						</a>
+					</template>
 				</div>
 			</template>
 
@@ -473,27 +509,35 @@ Vue.component('health-insurance-calculator', {
 							</p>
 						</details>
 					</div>
-					<div class="form-group" v-if="contactMethod !== 'WHATSAPP'">
-						<label :for="uid('question')">
-							Question
-						</label>
-						<textarea :id="uid('question')" v-model="question" placeholder="Tell us about your situation"></textarea>
+					<template v-if="mode === 'calculator' && contactMethod !== 'WHATSAPP'">
+						<hr>
+						<div class="form-group">
+							<label :for="uid('question')">
+								Your question
+							</label>
+							<textarea :id="uid('question')" v-model="question" placeholder="How can Seamus help you?"></textarea>
+						</div>
+					</template>
+				</template>
+				<template v-if="contactMethod">
+					<hr>
+					<div class="buttons bar">
+						<button v-if="stageIndex > 0" aria-label="Go back" class="button" @click="previousStage()">
+							<i class="icon left" aria-hidden="true"></i> <span class="no-mobile">Go back</span>
+						</button>
+						<button v-if="mode === 'question'" class="button primary" @click="nextStage()">
+							Continue <i class="icon right" aria-hidden="true"></i>
+						</button>
+						<button v-if="mode === 'calculator' && contactMethod === 'EMAIL'" class="button primary" @click="createCase" :disabled="isLoading" :class="{loading: isLoading}">
+							Ask Seamus
+						</button>
+						<a v-if="mode === 'calculator' && contactMethod === 'WHATSAPP'" :href="whatsappUrl" @click="createCase" class="button whatsapp" target="_blank">
+							{% endraw %}{% include "_css/icons/whatsapp.svg" %}{% raw %}
+							<span class="only-mobile">Start chat</span>
+							<span class="no-mobile">Chat with Seamus</span>
+						</a>
 					</div>
 				</template>
-				<hr>
-				<div class="buttons bar">
-					<button aria-label="Go back" class="button" @click="previousStage()">
-						<i class="icon left" aria-hidden="true"></i> <span class="no-mobile">Go back</span>
-					</button>
-					<button v-if="contactMethod === 'EMAIL'" class="button primary" @click="createCase" :disabled="isLoading" :class="{loading: isLoading}">
-						Ask Seamus
-					</button>
-					<a v-if="contactMethod === 'WHATSAPP'" :href="whatsappUrl" @click="createCase" class="button whatsapp" target="_blank">
-						{% endraw %}{% include "_css/icons/whatsapp.svg" %}{% raw %}
-						<span class="only-mobile">Start chat</span>
-						<span class="no-mobile">Chat with Seamus</span>						
-					</a>
-				</div>
 			</template>
 
 			<template v-if="stage === 'thank-you' || stage === 'error'">
@@ -501,7 +545,7 @@ Vue.component('health-insurance-calculator', {
 				<p v-if="stage === 'error'"><strong>An error occured</strong> while sending your question. If this keeps happening, <a target="_blank" href="/contact">contact me</a>.</p>
 				<hr>
 				<div class="buttons bar">
-					<button aria-label="Go back" class="button" @click="goToStage('start')">
+					<button aria-label="Go back" class="button" @click="goToStart()">
 						<i class="icon left" aria-hidden="true"></i> Go back
 					</button>
 				</div>

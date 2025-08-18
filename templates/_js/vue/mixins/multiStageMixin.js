@@ -13,6 +13,9 @@ const multiStageMixin = {
 		},
 	},
 	methods: {
+		goToStart(){
+			this.stageIndex = 0;
+		},
 		nextStage(){
 			if(validateForm(this.$el)){
 				this.stageIndex += 1;
