@@ -33,7 +33,6 @@ class Case(models.Model):
     contact_method = models.CharField("Contact method", max_length=15, choices=ContactMethod, default=ContactMethod.EMAIL)
 
     creation_date = models.DateTimeField(auto_now_add=True)
-    title = models.CharField(blank=True, max_length=150, help_text="For example, \"health insurance for a Blue Card\"")
     notes = models.TextField("Initial notes", blank=True, help_text="For future notes, add Updates to the Case.")
     referrer = models.CharField(blank=True, help_text="Part of the commissions will be paid out to that referrer")
 
@@ -57,10 +56,7 @@ class Case(models.Model):
         FeedbackNotification.objects.get_or_create(case=self)
 
     @property
-    def auto_title(self):
-        if self.title:
-            return self.title
-
+    def title(self):
         first_person = self.insured_persons.first()
         facts = []
 
@@ -85,7 +81,7 @@ class Case(models.Model):
         ordering = ['-creation_date']
 
     def __str__(self):
-        return f"{self.name} — {self.auto_title}"
+        return f"{self.name} — {self.title}"
 
 
 class Comment(models.Model):

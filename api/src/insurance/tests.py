@@ -14,7 +14,6 @@ class CaseTestCase(ScheduledMessageEndpointMixin, APITestCase):
             'email': 'contact@nicolasbouliane.com',
             'phone': '011111111111',
             'whatsapp': '022222222222',
-            'title': 'barmer',
             'notes': 'Did you ever think that maybe there’s more to life than being really, really... really ridiculously well insured?',
             'referrer': 'partner123',
             'insured_persons': [

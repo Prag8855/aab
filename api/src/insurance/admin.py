@@ -71,7 +71,7 @@ class StatusFilter(admin.SimpleListFilter):
 class CaseAdmin(NestedModelAdmin):
     fieldsets = (
         ('Case information', {
-            'fields': ('status', 'creation_date', 'title', 'notes', 'referrer'),
+            'fields': ('status', 'creation_date', 'notes', 'referrer'),
         }),
         ('Contact information', {
             'fields': ('contact_method', 'name', 'email', 'phone', 'whatsapp')
@@ -79,7 +79,7 @@ class CaseAdmin(NestedModelAdmin):
     )
     inlines = [InsuredPersonInline, CommentInline, OutcomeInline]
 
-    list_display = ['name', 'auto_title', 'creation_date', 'referrer', 'status']
+    list_display = ['name', 'title', 'creation_date', 'referrer', 'status']
     list_filter = [StatusFilter]
     readonly_fields = ['creation_date', 'status', 'name']
 
