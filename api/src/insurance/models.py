@@ -64,6 +64,9 @@ class Case(models.Model):
         first_person = self.insured_persons.first()
         facts = []
 
+        if not first_person:
+            return ''
+
         facts.append(self.get_contact_method_display())
         if (person_count := self.insured_persons.count()) > 1:
             facts.append("👤" * person_count)
