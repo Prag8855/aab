@@ -442,10 +442,10 @@ Vue.component('health-insurance-calculator', {
 						<button aria-label="Go back" class="button" @click="goToStart()">
 							<i class="icon left" aria-hidden="true"></i> <span class="no-mobile">Go back</span>
 						</button>
-						<button v-if="mode === 'calculator' && contactMethod === 'EMAIL'" class="button primary" @click="createCase" :disabled="isLoading" :class="{loading: isLoading}">
+						<button v-if="contactMethod === 'EMAIL'" class="button primary" @click="createCase" :disabled="isLoading" :class="{loading: isLoading}">
 							Ask Seamus
 						</button>
-						<a v-if="mode === 'calculator' && contactMethod === 'WHATSAPP'" :href="whatsappUrl" @click="createCase" class="button whatsapp" target="_blank">
+						<a v-if="contactMethod === 'WHATSAPP'" :href="whatsappUrl" @click="createCase" class="button whatsapp" :disabled="isLoading" target="_blank">
 							{% endraw %}{% include "_css/icons/whatsapp.svg" %}{% raw %}
 							<span class="only-mobile">Start chat</span>
 							<span class="no-mobile">Chat with Seamus</span>
@@ -531,7 +531,7 @@ Vue.component('health-insurance-calculator', {
 						<button v-if="mode === 'calculator' && contactMethod === 'EMAIL'" class="button primary" @click="createCase" :disabled="isLoading" :class="{loading: isLoading}">
 							Ask Seamus
 						</button>
-						<a v-if="mode === 'calculator' && contactMethod === 'WHATSAPP'" :href="whatsappUrl" @click="createCase" class="button whatsapp" target="_blank">
+						<a v-if="mode === 'calculator' && contactMethod === 'WHATSAPP'" :href="whatsappUrl" @click="createCase" class="button whatsapp" :disabled="isLoading" target="_blank">
 							{% endraw %}{% include "_css/icons/whatsapp.svg" %}{% raw %}
 							<span class="only-mobile">Start chat</span>
 							<span class="no-mobile">Chat with Seamus</span>
