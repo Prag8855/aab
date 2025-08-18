@@ -409,12 +409,11 @@ Vue.component('health-insurance-calculator', {
 						<label class="checkbox">
 							<input type="checkbox" :name="uid('hasPublicHealthInsurance')" v-model="hasPublicHealthInsurance">
 							<div>
-								I have <glossary term="gesetzliche Krankenversicherung">public health insurance</glossary>
+								I have public health insurance
 							</div>
 						</label>
 						<span class="input-instructions">
-							Check this box if you had public health insurance in any <glossary term="European Union">EU</glossary> country for at least 2 of the past 5 years.
-							Otherwise, you might need <glossary term="private Krankenversicherung">private health insurance</glossary>.
+							Select this if you had <glossary term="gesetzliche Krankenversicherung">public health insurance</glossary> in any <glossary term="European Union">EU</glossary> country for at least 2 of the past 5 years.
 						</span>
 					</div>
 				</div>
@@ -505,7 +504,7 @@ Vue.component('health-insurance-calculator', {
 						<details class="input-instructions" v-if="contactMethod === 'WHATSAPP'">
 							<summary>Why we ask for your email</summary>
 							<p>
-								Seamus might need to send you documents and extra information. I will also email you once to ask for feedback.
+								Seamus might send you documents and extra information. I will email you once to ask for your feedback. We do not send marketing emails.
 							</p>
 						</details>
 					</div>
