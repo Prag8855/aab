@@ -40,11 +40,14 @@ class InsuredPersonInline(NestedStackedInline):
     model = InsuredPerson
     extra = 0
 
-    def has_change_permission(self, *args):
-        return False  # Prevent editing comments
-
-    def has_delete_permission(self, *args):
-        return False  # Prevent editing comments
+    fields = (
+        ('first_name', 'last_name'),
+        'description',
+        ('occupation', 'income'),
+        ('nationality', 'country_of_residence'),
+        'is_married',
+        ('age', 'date_of_birth'),
+    )
 
 
 class StatusFilter(admin.SimpleListFilter):
