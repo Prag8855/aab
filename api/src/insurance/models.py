@@ -20,6 +20,7 @@ class Status(models.TextChoices):
 class ContactMethod(models.TextChoices):
     EMAIL = "EMAIL", "Email"
     WHATSAPP = "WHATSAPP", "WhatsApp"
+    PHONE = "PHONE", "Phone"
 
 
 class Case(models.Model):
