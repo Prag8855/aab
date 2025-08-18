@@ -2,6 +2,7 @@
 {% include '_js/vue.js' %}
 {% include '_js/vue/collapsible.js' %}
 {% include '_js/vue/date-picker.js' %}
+{% include '_js/vue/email-input.js' %}
 {% include '_js/vue/full-name-input.js' %}
 {% include '_js/vue/mixins/uniqueIdsMixin.js' %}
 {% include '_js/vue/mixins/userDefaultsMixin.js' %}
@@ -96,9 +97,7 @@
 			<label :for="uid('email')">
 				Email address
 			</label>
-			<div class="input-group">
-				<input v-model="email" type="email" :id="uid('email')" required autocomplete="email">
-			</div>
+			<email-input v-model="email" :id="uid('email')" required></email-input>
 		</div>
 		<hr>
 		<div class="form-group required">
