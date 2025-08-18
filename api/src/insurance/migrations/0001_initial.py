@@ -5,7 +5,6 @@ import django.utils.timezone
 import django_countries.fields
 import forms.utils
 import insurance.models
-import phonenumber_field.modelfields
 from django.db import migrations, models
 
 
@@ -22,8 +21,8 @@ class Migration(migrations.Migration):
             fields=[
                 ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),
                 ('email', models.EmailField(max_length=254)),
-                ('phone', phonenumber_field.modelfields.PhoneNumberField(blank=True, max_length=128, region=None)),
-                ('whatsapp', phonenumber_field.modelfields.PhoneNumberField(blank=True, max_length=128, region=None)),
+                ('phone', models.CharField(blank=True, max_length=128)),
+                ('whatsapp', models.CharField(blank=True, max_length=128)),
                 ('creation_date', models.DateTimeField(auto_now_add=True)),
                 ('title', models.CharField(blank=True, help_text='For example, "health insurance for a Blue Card"', max_length=150)),
                 ('notes', models.TextField(blank=True, help_text='For future notes, add Updates to the Case.', verbose_name='Initial notes')),
