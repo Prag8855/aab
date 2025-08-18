@@ -18,6 +18,8 @@ Vue.component('gkv-cost-explanation', {
 	data(){
 		return {
 			formatPercent,
+			healthInsurance,
+			pflegeversicherung,
 		}
 	},
 	computed: {
