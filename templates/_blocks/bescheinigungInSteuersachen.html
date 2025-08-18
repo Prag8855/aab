@@ -58,22 +58,22 @@
 		<ul>
 			<li>
 				Name:
-				<blank required placeholder="Full name">{{ fullName }}</blank>
+				<blank placeholder="Full name">{{ fullName }}</blank>
 			</li>
 			<li>
 				<template v-if="language === 'en'">Address:</template>
 				<template v-if="language === 'de'">Anschrift:</template>
-				<blank required placeholder="Address">{{ address.replaceAll('\n', ', ') }}</blank>
+				<blank placeholder="Address">{{ address.replaceAll('\n', ', ') }}</blank>
 			</li>
 			<li>
 				<template v-if="language === 'en'">Date of birth:</template>
 				<template v-if="language === 'de'">Geburtsdatum:</template>
-				<blank required placeholder="Date of birth">{{ dateOfBirth }}</blank>
+				<blank placeholder="Date of birth">{{ dateOfBirth }}</blank>
 			</li>
 			<li>
 				<template v-if="language === 'en'">Tax ID:</template>
 				<template v-if="language === 'de'">Steuer-ID:</template>
-				<blank required placeholder="Tax ID">{{ taxID }}</blank>
+				<blank placeholder="Tax ID">{{ taxID }}</blank>
 			</li>
 		</ul>
 
@@ -88,11 +88,11 @@
 
 		<p v-if="language === 'en'">
 			Best regards,<br>
-			<blank required placeholder="Full name">{{ fullName }}</blank>
+			<blank placeholder="Full name">{{ fullName }}</blank>
 		</p>
 		<p v-if="language === 'de'">
 			Mit freundlichen Grüßen,<br>
-			<blank required placeholder="Full name">{{ fullName }}</blank>
+			<blank placeholder="Full name">{{ fullName }}</blank>
 		</p>
 	</template>
 

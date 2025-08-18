@@ -70,20 +70,20 @@
 
 	<template v-slot:letter-recipient="{ language, stage }">
 		<span class="letter-return-address">
-			<blank required placeholder="Your full name">{{ fullName }}</blank>,
+			<blank placeholder="Your full name">{{ fullName }}</blank>,
 			<blank placeholder="your address">{{ address.replaceAll('\n', ', ') }}</blank>
 		</span>
-		<blank required placeholder="Employer name">{{ employerCompanyName }}</blank><br>
+		<blank placeholder="Employer name">{{ employerCompanyName }}</blank><br>
 		<template v-if="formatName(recipientGender, recipientFirstName, recipientLastName, language)">
 			{{ formatName(recipientGender, recipientFirstName, recipientLastName, language) }}<br>
 		</template>
-		<blank required v-if="!employerAddress.trim()" placeholder="Employer address"></blank>
+		<blank v-if="!employerAddress.trim()" placeholder="Employer address"></blank>
 		<span v-if="employerAddress.trim()" v-html="employerAddress.replaceAll('\n', '<br>')"></span>
 	</template>
 
 	<template v-slot:letter-recipient="{ language, stage }">
 		<span class="letter-return-address">
-			<blank required placeholder="Your full name">{{ fullName }}</blank>,
+			<blank placeholder="Your full name">{{ fullName }}</blank>,
 			<blank placeholder="your address">{{ newAddress.replaceAll('\n', ', ') }}</blank>
 		</span>
 
@@ -93,12 +93,12 @@
 		<template v-else-if="formatName(recipientGender, recipientFirstName, recipientLastName, language)">
 			{{ formatName(recipientGender, recipientFirstName, recipientLastName, language) }}
 		</template>
-		<blank required placeholder="Landlord's name" v-else></blank>
+		<blank placeholder="Landlord's name" v-else></blank>
 
 		<br>
 
 		<span v-if="recipientAddress.trim()" v-html="recipientAddress.replaceAll('\n', '<br>')"></span>
-		<blank required v-else placeholder="Landlord's address"></blank>
+		<blank v-else placeholder="Landlord's address"></blank>
 	</template>
 
 	<template v-slot:letter-details="{ language, stage }">
@@ -127,21 +127,21 @@
 		<p>{{ formatSalutations(recipientGender, recipientFirstName, recipientLastName, language) }},</p>
 
 		<p v-if="language === 'en'">
-			Our tenancy for the apartment mentioned below has been terminated since <blank required placeholder="Move-out date" key="moveOutDate">{{ formatDate(moveOutDate, 'en-US') }}</blank>. The apartment has been vacated and properly handed over to you<template v-if="hasReceivedNebenkostenabrechnung">, and there is no outstanding utility bill</template>.
+			Our tenancy for the apartment mentioned below has been terminated since <blank placeholder="Move-out date" key="moveOutDate">{{ formatDate(moveOutDate, 'en-US') }}</blank>. The apartment has been vacated and properly handed over to you<template v-if="hasReceivedNebenkostenabrechnung">, and there is no outstanding utility bill</template>.
 		</p>
 		<p v-if="language === 'de'">
-			Unser Mietverhältnis über die unten genannte Wohnung ist seit dem <blank required placeholder="Move-out date" key="moveOutDate">{{ formatDate(moveOutDate, 'de-DE') }}</blank> beendet und die Wohnung wurde geräumt und ordnungsgemäß an Sie übergeben<template v-if="hasReceivedNebenkostenabrechnung">, und es gibt keine offenen Nebenkostenabrechnungen</template>.
+			Unser Mietverhältnis über die unten genannte Wohnung ist seit dem <blank placeholder="Move-out date" key="moveOutDate">{{ formatDate(moveOutDate, 'de-DE') }}</blank> beendet und die Wohnung wurde geräumt und ordnungsgemäß an Sie übergeben<template v-if="hasReceivedNebenkostenabrechnung">, und es gibt keine offenen Nebenkostenabrechnungen</template>.
 		</p>
 
 		<p v-if="language === 'en'">
-			Address: <blank required placeholder="Apartment address" key="oldAddress">{{ oldAddress.replaceAll('\n', ', ') }}</blank>
+			Address: <blank placeholder="Apartment address" key="oldAddress">{{ oldAddress.replaceAll('\n', ', ') }}</blank>
 			<br>
-			Tenant name: <blank required placeholder="Full name" key="fullName">{{ fullName }}</blank>
+			Tenant name: <blank placeholder="Full name" key="fullName">{{ fullName }}</blank>
 		</p>
 		<p v-if="language === 'de'">
-			Anschrift: <blank required placeholder="Apartment address" key="oldAddress">{{ oldAddress.replaceAll('\n', ', ') }}</blank>
+			Anschrift: <blank placeholder="Apartment address" key="oldAddress">{{ oldAddress.replaceAll('\n', ', ') }}</blank>
 			<br>
-			Name des Mieters/der Mieterin: <blank required placeholder="Full name" key="fullName">{{ fullName }}</blank>
+			Name des Mieters/der Mieterin: <blank placeholder="Full name" key="fullName">{{ fullName }}</blank>
 		</p>
 
 		<p v-if="language === 'en' && !hasReceivedNebenkostenabrechnung && !hasReceivedPartOfKaution">
@@ -155,14 +155,14 @@
 			I politely request that you transfer
 			<template v-if="hasReceivedPartOfKaution">
 				the remaining
-				<blank required placeholder="Remaining deposit" v-if="!remainingKautionAmount"></blank><eur cents :amount="remainingKautionAmount" v-if="remainingKautionAmount"></eur>
+				<blank placeholder="Remaining deposit" v-if="!remainingKautionAmount"></blank><eur cents :amount="remainingKautionAmount" v-if="remainingKautionAmount"></eur>
 				of the
-				<blank required placeholder="Total deposit" v-if="!kautionAmount"></blank><eur cents :amount="kautionAmount" v-if="kautionAmount"></eur>
+				<blank placeholder="Total deposit" v-if="!kautionAmount"></blank><eur cents :amount="kautionAmount" v-if="kautionAmount"></eur>
 				deposit
 			</template>
 			<template v-if="!hasReceivedPartOfKaution">
 				the deposit of
-				<blank required placeholder="Deposit amount" v-if="!kautionAmount"></blank><eur cents :amount="kautionAmount" v-if="kautionAmount"></eur>
+				<blank placeholder="Deposit amount" v-if="!kautionAmount"></blank><eur cents :amount="kautionAmount" v-if="kautionAmount"></eur>
 			</template>
 			plus interest to my account by {{ deadline(language) }} at the latest.
 		</p>
@@ -170,26 +170,26 @@
 			Ich fordere Sie höflich auf,
 			<template v-if="hasReceivedPartOfKaution">
 				die restlichen
-				<blank required placeholder="Remaining deposit" v-if="!remainingKautionAmount"></blank><eur cents :amount="remainingKautionAmount" locale="de-DE" v-if="remainingKautionAmount"></eur>
+				<blank placeholder="Remaining deposit" v-if="!remainingKautionAmount"></blank><eur cents :amount="remainingKautionAmount" locale="de-DE" v-if="remainingKautionAmount"></eur>
 				der
-				<blank required placeholder="Total deposit" v-if="!kautionAmount"></blank><eur cents :amount="kautionAmount" locale="de-DE" v-if="kautionAmount"></eur> Kaution
+				<blank placeholder="Total deposit" v-if="!kautionAmount"></blank><eur cents :amount="kautionAmount" locale="de-DE" v-if="kautionAmount"></eur> Kaution
 			</template>
 			<template v-if="!hasReceivedPartOfKaution">
 				die Kaution in Höhe von
-				<blank required placeholder="Deposit amount" v-if="!kautionAmount"></blank><eur cents :amount="kautionAmount" locale="de-DE" v-if="kautionAmount"></eur>
+				<blank placeholder="Deposit amount" v-if="!kautionAmount"></blank><eur cents :amount="kautionAmount" locale="de-DE" v-if="kautionAmount"></eur>
 			</template>
 			zuzüglich Zinsen bis spätestens {{ deadline(language) }} auf mein Konto zu überweisen.
 		</p>
 
 		<p v-if="language === 'en'">
-			Account holder: <blank required placeholder="Full name" key="bankAccountName">{{ bankAccountName || fullName }}</blank>
+			Account holder: <blank placeholder="Full name" key="bankAccountName">{{ bankAccountName || fullName }}</blank>
 			<br>
-			IBAN: <blank required placeholder="Account IBAN" key="bankAccountIBAN">{{ bankAccountIBAN }}</blank>
+			IBAN: <blank placeholder="Account IBAN" key="bankAccountIBAN">{{ bankAccountIBAN }}</blank>
 		</p>
 		<p v-if="language === 'de'">
-			Kontoinhaber:</strong> <blank required placeholder="Full name" key="bankAccountName">{{ bankAccountName || fullName }}</blank>
+			Kontoinhaber:</strong> <blank placeholder="Full name" key="bankAccountName">{{ bankAccountName || fullName }}</blank>
 			<br>
-			IBAN: <blank required placeholder="Account IBAN" key="bankAccountIBAN">{{ bankAccountIBAN }}</blank>
+			IBAN: <blank placeholder="Account IBAN" key="bankAccountIBAN">{{ bankAccountIBAN }}</blank>
 		</p>
 
 		<p v-if="language === 'en'">

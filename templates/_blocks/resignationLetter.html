@@ -53,14 +53,14 @@
 
 	<template v-slot:letter-recipient="{ language, stage }">
 		<span class="letter-return-address">
-			<blank required placeholder="Your full name">{{ fullName }}</blank>,
+			<blank placeholder="Your full name">{{ fullName }}</blank>,
 			<blank placeholder="your address">{{ address.replaceAll('\n', ', ') }}</blank>
 		</span>
-		<blank required placeholder="Employer name">{{ employerCompanyName }}</blank><br>
+		<blank placeholder="Employer name">{{ employerCompanyName }}</blank><br>
 		<template v-if="formatName(recipientGender, recipientFirstName, recipientLastName, language)">
 			{{ formatName(recipientGender, recipientFirstName, recipientLastName, language) }}<br>
 		</template>
-		<blank required v-if="!employerAddress.trim()" placeholder="Employer address"></blank>
+		<blank v-if="!employerAddress.trim()" placeholder="Employer address"></blank>
 		<span v-if="employerAddress.trim()" v-html="employerAddress.replaceAll('\n', '<br>')"></span>
 	</template>
 
@@ -71,7 +71,7 @@
 			<template v-if="employeeNumber"><br><strong>Employee number: </strong> {{ employeeNumber }}</template>
 		</template>
 		<template v-if="language === 'de'">
-			<strong>Name:</strong> <blank required placeholder="Your full name">{{ fullName }}</blank><br>
+			<strong>Name:</strong> <blank placeholder="Your full name">{{ fullName }}</blank><br>
 			<strong>Datum:</strong> {{ currentDate.toLocaleDateString("de-DE") }}
 			<template v-if="employeeNumber"><br><strong>Personalnummer: </strong> {{ employeeNumber }}</template>
 		</template>
@@ -136,11 +136,11 @@
 
 		<p v-if="language === 'en'">
 			Best regards,<br>
-			<blank required placeholder="Your full name">{{ fullName }}</blank>
+			<blank placeholder="Your full name">{{ fullName }}</blank>
 		</p>
 		<p v-if="language === 'de'">
 			Mit freundlichen Grüßen,<br>
-			<blank required placeholder="Your full name">{{ fullName }}</blank>
+			<blank placeholder="Your full name">{{ fullName }}</blank>
 		</p>
 
 		<p class="signature" v-if="stage === 'printPreview'">
