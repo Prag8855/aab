@@ -2225,6 +2225,18 @@ collapsible, letter-generator, feedback-residence-permit, health-insurance-calcu
     }
 }
 
+.health-insurance-calculator{
+    .contact-method{
+        h3{
+            text-align: center;
+        }
+
+        > .tabs{
+            margin: var(--l-relative) auto;
+        }
+    }
+}
+
 .collapsible{
     @include widget;
     > summary {
@@ -3077,20 +3089,6 @@ collapsible, letter-generator, feedback-residence-permit, health-insurance-calcu
                 margin: 0 auto;
             }
         }
-    }
-}
-
-.health-insurance-question{
-    > :last-child{
-        margin-bottom: 0;
-    }
-
-    h3{
-        text-align: center;
-    }
-
-    > .tabs{
-        margin: var(--l-relative) auto;
     }
 }
 

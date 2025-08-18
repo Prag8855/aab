@@ -185,6 +185,8 @@ ctx['PFLEGEVERSICHERUNG_DISCOUNT_MAX_CHILDREN'] = 5
 ctx['PFLEGEVERSICHERUNG_MIN_RATE'] = (ctx['PFLEGEVERSICHERUNG_BASE_RATE'] - ctx['PFLEGEVERSICHERUNG_DISCOUNT_PER_CHILD'] * (ctx['PFLEGEVERSICHERUNG_DISCOUNT_MAX_CHILDREN'] - 1)).normalize()
 ctx['PFLEGEVERSICHERUNG_MAX_RATE'] = (ctx['PFLEGEVERSICHERUNG_BASE_RATE'] + ctx['PFLEGEVERSICHERUNGS_SURCHARGE']).normalize()
 
+ctx['BROKER_PHONE_NUMBER'] = '+491626969454'
+
 # ==============================================================================
 # PENSIONS
 # ==============================================================================

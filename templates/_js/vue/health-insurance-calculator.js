@@ -4,10 +4,10 @@
 {% include '_js/vue/collapsible.js' %}
 {% include '_js/vue/glossary.js' %}
 {% include '_js/vue/age-input.js' %}
-{% include '_js/vue/first-name-input.js' %}
+{% include '_js/vue/email-input.js' %}
+{% include '_js/vue/full-name-input.js' %}
 {% include '_js/vue/income-input.js' %}
 {% include '_js/vue/health-insurance-options.js' %}
-{% include '_js/vue/last-name-input.js' %}
 {% include '_js/vue/mixins/multiStageMixin.js' %}
 {% include '_js/vue/mixins/trackedStagesMixin.js' %}
 {% include '_js/vue/mixins/uniqueIdsMixin.js' %}
@@ -42,8 +42,7 @@ Vue.component('health-insurance-calculator', {
 
 			// Contact form
 			contactMethod: null,
-			firstName: '',
-			lastName: '',
+			fullName: userDefaults.fullName,
 			email: userDefaults.email,
 			question: '',
 			isLoading: false,
@@ -54,7 +53,7 @@ Vue.component('health-insurance-calculator', {
 				'start',
 				'questions',
 				'options',
-				'askABroker',
+				'ask-a-broker',
 			],
 			inputsToFocus: {}, // TODO
 
@@ -70,6 +69,7 @@ Vue.component('health-insurance-calculator', {
 			// TODO: askForCurrentInsurance: run two calculations and see if they differ. No business logic there.
 			// TODO: Set submit button text based on purpose ("Ask Seamus")
 			// TODO: .health-insurance-question is gone. Fix the CSS.
+			// TODO: Use email-input and full-name-input everywhere
 		};
 	},
 	mounted(){
@@ -109,13 +109,66 @@ Vue.component('health-insurance-calculator', {
 		},
 
 		// Contact form
-		whatsappMessage(){ return `Hi Seamus, can you ${this.whatSeamusWillDo(true)}? ${this.personSummary(true) || ''}` },
-		whatsappUrl(){
-			let url = 'https://wa.me/+491626969454';
-			if(this.whatsappMessage){
-				url += '?text=' + encodeURIComponent(this.whatsappMessage)
+		whatsappMessage(){
+			const facts = [];
+
+			facts.push(`I am ${this.firstName}${this.lastName ? this.lastName + ' ' : ''}`);
+
+			if(this.age !== undefined){
+				facts.push(`I am ${this.age} years old`);
 			}
-			return url;
+
+			const cleanOccupation = {
+				azubi: 'an apprentice',
+				employee: 'employed',
+				selfEmployed: 'self-employed',
+				studentEmployee: 'a student',
+				studentSelfEmployed: 'a self-employed student',
+				studentUnemployed: 'an unemployed student',
+				unemployed: 'unemployed',
+			}[this.occupation];
+			if(cleanOccupation){
+				facts.push(`I am ${cleanOccupation}`);
+			}
+			if(this.isStudent){
+				facts.push(`I work ${this.worksOver20HoursPerWeek ? 'more' : 'less'} than 20 hours per week`);
+			}
+			if(this.yearlyIncome !== undefined){
+				facts.push(`I earn ${formatCurrency(this.yearlyIncome)} per year`);
+			}
+			if(this.isEUCitizen !== undefined){
+				facts.push(`I am ${this.isEUCitizen ? '' : 'not '}a EU citizen`);
+			}
+			if(this.isMarried !== undefined){
+				facts.push(`I am ${this.isMarried ? '' : 'not '}married`);
+			}
+
+			if(this.childrenCount !== undefined){
+				if(this.childrenCount === 0){
+					facts.push(`I don't have children`);
+				}
+				else if(this.childrenCount === 1){
+					facts.push(`I have a child`);
+				}
+				else {
+					facts.push(`I have ${this.childrenCount} children`);
+				}
+			}
+
+			if(this.currentInsurance){
+				facts.push(`I have ${this.currentInsurance} health insurance`);
+			}
+
+			let summary = '';
+			if(facts.length > 0){
+				summary = (new Intl.ListFormat('en-US', {style: 'long', type: 'conjunction'}).format(facts)) + '.';
+			}
+
+			return `Hi Seamus, can you help me choose health insurance? ${this.personSummary}`;
+		},
+		whatsappUrl(){
+			let url = 'https://wa.me/{% endraw %}{{ BROKER_PHONE_NUMBER }}{% raw %}';
+			return this.whatsappMessage ? `${url}?text=${encodeURIComponent(this.whatsappMessage)}` : url;
 		},
 
 		// Printed values
@@ -131,19 +184,25 @@ Vue.component('health-insurance-calculator', {
 		// Insurance questions
 		selectOccupation(occupation){
 			this.occupation = occupation;
-			occupation ? this.nextStage() : this.goToStage('askABroker');
+			occupation ? this.nextStage() : this.goToStage('ask-a-broker');
 		},
 
 		// Insurance options
 		selectInsuranceOption(option){
 			if(option === 'broker'){
-				this.goToStage('askABroker')
+				this.goToStage('ask-a-broker')
 			}
 		},
 
 		// Contact form
-		trackWhatsapp(){
-			plausible(this.trackAs, { props: { stage: 'whatsapp', pageSection: getNearestHeadingId(this.$el) }});
+		async createCase(){
+			if(validateForm(this.$el)){
+				if(this.contactMethod === 'whatsapp'){
+					plausible(this.trackAs, { props: { stage: 'whatsapp', pageSection: getNearestHeadingId(this.$el) }});
+				}
+
+				this.goToStage('thank-you');
+			}
 		},
 	},
 	watch: {
@@ -337,7 +396,7 @@ Vue.component('health-insurance-calculator', {
 				</div>
 			</template>
 
-			<template v-if="stage === 'contactInfo'">
+			<template v-if="stage === 'ask-a-broker'">
 				<div class="form-recipient">
 					<div>
 						<p>Seamus will help you <strong>choose the right health insurance</strong>. I trust him because he is honest and knowledgeable.</p>
@@ -349,48 +408,52 @@ Vue.component('health-insurance-calculator', {
 						sizes="125px">
 				</div>
 				<hr>
-				<h3 class="no-print">How should we talk?</h3>
-				<div class="tabs" aria-label="Preferred contact method">
-					<input v-model="contactMethod" type="radio" :id="uid('contactMethodWhatsapp')" value="whatsapp">
-					<label :for="uid('contactMethodWhatsapp')">WhatsApp</label>
+				<div class="contact-method">
+					<h3>How should we talk?</h3>
+					<div class="tabs" aria-label="Preferred contact method">
+						<input v-model="contactMethod" type="radio" :id="uid('contactMethodWhatsapp')" value="whatsapp">
+						<label :for="uid('contactMethodWhatsapp')">WhatsApp</label>
 
-					<input v-model="contactMethod" type="radio" :id="uid('contactMethodEmail')" value="email">
-					<label :for="uid('contactMethodEmail')">Email</label>
+						<input v-model="contactMethod" type="radio" :id="uid('contactMethodEmail')" value="email">
+						<label :for="uid('contactMethodEmail')">Email</label>
+					</div>
 				</div>
-				<template v-if="contactMethod && contactMethod !== 'whatsapp'">
+				<template v-if="contactMethod">
 					<hr>
 					<div class="form-group required">
-						<label :for="uid('firstName')">
-							First and last name
+						<label :for="uid('fullName')">
+							Your full name
 						</label>
-						<div class="input-group">
-							<first-name-input :id="uid('firstName')" v-model="firstName" required></first-name-input>
-							<last-name-input :id="uid('lastName')" v-model="lastName"></last-name-input>
-							{% endraw %}{% include "_blocks/formHoneypot.html" %}{% raw %}
-						</div>
+						<full-name-input :for="uid('fullName')" v-model="fullName" required></full-name-input>
 					</div>
-					<div class="form-group required" v-if="contactMethod === 'email'">
+					<div class="form-group required">
 						<label :for="uid('email')">
 							Email address
 						</label>
-						<input v-model="email" type="email" :id="uid('email')" required autocomplete="email">
+						<email-input v-model="email" :id="uid('email')" required></email-input>
+						<details class="input-instructions" v-if="contactMethod === 'whatsapp'">
+							<summary>Why we ask for your email</summary>
+							<p>
+								Seamus might email you documents and extra information. I will email you once to ask for feedback. We do not send marketing emails.
+							</p>
+						</details>
 					</div>
-					<div class="form-group">
+					<div class="form-group" v-if="contactMethod !== 'whatsapp'">
 						<label :for="uid('question')">
-							How can we help?
+							Question
 						</label>
 						<textarea :id="uid('question')" v-model="question" placeholder="Tell us about your situation"></textarea>
 					</div>
 				</template>
-				<hr v-if="contactMethod || $slots['form-buttons']">
-				<div class="buttons bar" v-if="contactMethod || $slots['form-buttons']">
+				<hr>
+				<div class="buttons bar">
 					<button aria-label="Go back" class="button" @click="previousStage()">
 						<i class="icon left" aria-hidden="true"></i> <span class="no-mobile">Go back</span>
 					</button>
-					<button v-if="contactMethod === 'email'" class="button primary no-print" @click="createCase" :disabled="isLoading" :class="{loading: isLoading}">
+					<button v-if="contactMethod === 'email'" class="button primary" @click="createCase" :disabled="isLoading" :class="{loading: isLoading}">
 						Ask Seamus
 					</button>
-					<a @click="trackWhatsapp" v-if="contactMethod === 'whatsapp'" class="button whatsapp no-print" :href="whatsappUrl" target="_blank">
+					<a v-if="contactMethod === 'whatsapp'" :href="whatsappUrl" @click="createCase" class="button whatsapp" target="_blank">
 						{% endraw %}{% include "_css/icons/whatsapp.svg" %}{% raw %}
 						<span class="only-mobile">Start chat</span>
 						<span class="no-mobile">Chat with Seamus</span>						
