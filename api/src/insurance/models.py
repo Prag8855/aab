@@ -23,6 +23,17 @@ class ContactMethod(models.TextChoices):
     PHONE = "PHONE", "Phone"
 
 
+class Occupation(models.TextChoices):
+    EMPLOYEE = "employee", "Employee"
+    AZUBI = "azubi", "Azubi"
+    STUDENT_EMPLOYEE = "studentEmployee", "Student (working)"
+    STUDENT_SELFEMPLOYED = "studentSelfEmployed", "Student (self-employed)"
+    STUDENT_UNEMPLOYED = "studentUnemployed", "Student (unemployed)"
+    SELF_EMPLOYED = "selfEmployed", "Self-employed"
+    UNEMPLOYED = "unemployed", "Unemployed"
+    OTHER = "other", "Other/unknown"
+
+
 class Case(models.Model):
     """
     A need that usually results in an insurance policy being signed.
@@ -66,12 +77,12 @@ class Case(models.Model):
         facts.append(self.get_contact_method_display())
         if (person_count := self.insured_persons.count()) > 1:
             facts.append("👤" * person_count)
-        if(first_person.age):
-            facts.append(f"{first_person.age}yo")
         if(first_person.occupation):
-            facts.append(first_person.occupation)
+            facts.append(first_person.get_occupation_display())
         if(first_person.income):
             facts.append(f"€{first_person.income:,.0f}")
+        if(first_person.age):
+            facts.append(f"{first_person.age}yo")
         if(first_person.is_married):
             facts.append("Married")
 
@@ -129,7 +140,7 @@ class InsuredPerson(models.Model):
     last_name = models.CharField(blank=True, max_length=100)
     description = models.CharField(blank=True, max_length=250, help_text="For example \"Spouse\"")
 
-    occupation = models.CharField(blank=True, max_length=50)  # "selfEmployed"
+    occupation = models.CharField(max_length=50, choices=Occupation, default=Occupation.OTHER)  # "selfEmployed"
     income = models.PositiveIntegerField("Yearly income", blank=True, null=True)
     nationality = CountryField(blank=True)
     country_of_residence = CountryField(blank=True)
