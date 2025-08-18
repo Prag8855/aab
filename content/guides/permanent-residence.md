@@ -232,7 +232,7 @@ EU permanent residence is a little better because...
 - **It's easier to move to another EU country**  
     With the EU PR, you can move to another country, then apply for a residence permit there. With the German PR, you might need to apply for a residence permit at the embassy in Germany, then move to that country.[^71]
 
-You can only get a EU [PR](/glossary/Niederlassungserlaubnis) after 5 years in Germany. You can sometimes get a German PR faster.
+You can only get an EU [PR](/glossary/Niederlassungserlaubnis) after 5 years in Germany. You can sometimes get a German PR faster.
 
 The requirements and the application process are the same. If you qualify for the EU PR, you get the EU PR. Usually, if you lived in Germany for 5 years, you get the EU PR.
 

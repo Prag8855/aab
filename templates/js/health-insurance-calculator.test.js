@@ -1279,7 +1279,7 @@ describe('getHealthInsuranceOptions', () => {
 				isEUCitizen: false,
 			};
 
-			describe('who is a EU citizen', () => {
+			describe('who is an EU citizen', () => {
 				const output = getHealthInsuranceOptions({
 					...person,
 					currentInsurance: null,
@@ -1321,7 +1321,7 @@ describe('getHealthInsuranceOptions', () => {
 				monthlyIncome: taxes.maxMinijobIncome,
 			};
 
-			describe('who is a EU citizen', () => {
+			describe('who is an EU citizen', () => {
 				const output = getHealthInsuranceOptions({
 					...person,
 					currentInsurance: null,

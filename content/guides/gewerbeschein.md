@@ -102,7 +102,7 @@ Enter information about *you*, not your business. Enter your home address, not y
 
 ### Angaben zum Aufenthaltstitel
 
-If you have a [residence permit](/glossary/Aufenthaltstitel), fill this section. If you are a EU citizen or a German [permanent resident](/glossary/Niederlassungserlaubnis), skip this step. Your residence permit must [allow self-employment](/guides/residence-permit#for-self-employment).
+If you have a [residence permit](/glossary/Aufenthaltstitel), fill this section. If you are an EU citizen or a German [permanent resident](/glossary/Niederlassungserlaubnis), skip this step. Your residence permit must [allow self-employment](/guides/residence-permit#for-self-employment).
 
 [![Step 8 of the Gewerbeanmeldung form](/images/gewerbeanmeldung-berlin-step8.png)](/images/gewerbeanmeldung-berlin-step8.png)
 

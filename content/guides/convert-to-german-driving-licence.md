@@ -34,7 +34,7 @@ You **don't** need a driving licence translation if...[^0]
 
 ### If you live in Germany
 
-After you move to Germany, your foreign driving licence is valid for 6 months.[^18] If you have a EU or [[EEA]] driving licence, it's valid until it expires.[^17]
+After you move to Germany, your foreign driving licence is valid for 6 months.[^18] If you have an EU or [[EEA]] driving licence, it's valid until it expires.[^17]
 
 When your driving licence becomes invalid, you can...
 
@@ -118,7 +118,7 @@ Book a *[[Bürgeramt]]* appointment. In Berlin, appointments are hard to find. T
 Go to your *Bürgeramt* appointment, and bring all the [required documents](https://service.berlin.de/dienstleistung/327537/):
 
 - [ ] **Foreign driving licence**  
-    Bring the original licence, not a copy. If it's not a EU or [[EEA]] licence, it must still be valid.[^6]
+    Bring the original licence, not a copy. If it's not an EU or [[EEA]] licence, it must still be valid.[^6]
 - [ ] **Photocopy of your driving licence**
 - [ ] **Passport or [[Personalausweis]]**
 - [ ] **Passport photo**  
@@ -128,7 +128,7 @@ Go to your *Bürgeramt* appointment, and bring all the [required documents](http
 - [ ] **A [[Girocard]] or cash**  
     You must pay the fee of €{{ DRIVING_LICENCE_CONVERSION_FEE|cur }}. Visa and Mastercard are sometimes accepted.[^9]
 
-If your licence is not from a EU or EEA country, you must also bring...
+If your licence is not from an EU or EEA country, you must also bring...
 
 - [ ] **Certified translation of your driving licence**  
     If your driving licence is not in German, you need a [certified translation](/glossary/beglaubigte%20Übersetzung) or an [International Driving Permit](/glossary/Internationaler%20Führerschein). In Berlin, they also accept driving licences in English.[^19] Get a certified from [Red Tape Translation](/out/red-tape-translation-certified), [Lingoking](/out/lingoking-drivers-licence) or [ADAC](https://www.adac.de/). It costs around €60. In some cities, they only accept certified translations, not [International Driving Permits](/glossary/Internationaler%20Führerschein).[^14]

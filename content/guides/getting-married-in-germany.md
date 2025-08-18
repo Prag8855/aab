@@ -33,7 +33,7 @@ For each person, you need...
 
 - [ ] **Passport**
 - [ ] **Official copy of your birth certificate**  
-    It must be less than 6 months old.[^4] If it's not a EU birth certificate, it needs an *Apostille* and [certified translation](/glossary/beglaubigte%20Übersetzung).
+    It must be less than 6 months old.[^4] If it's not an EU birth certificate, it needs an *Apostille* and [certified translation](/glossary/beglaubigte%20Übersetzung).
 - [ ] **Registration certificate** (*[[Anmeldebestätigung]]*)  
     You might need a [recent copy](/guides/replacement-meldebescheinigung) of it (*[[Meldebescheinigung]]*) that is less than 3 weeks old.
 - [ ] **Income certificate** (*Einkommensbescheinigung*)  
@@ -41,7 +41,7 @@ For each person, you need...
 - [ ] **Certificate of no impediment to marriage** (*Ehefähigkeitszeugnis*)  
     You can usually get it from your embassy. To get this document, you might need to send more documents. It can take a few weeks. Some countries don't to give a valid *Ehefähigkeitszeugnis*. Your certificate might need to be approved by a *Kammergericht* for around €75.
 - [ ] **Divorce certificate**  
-    If you were married before, you need it to prove your divorce. If it's not a EU birth certificate, it needs an *Apostille* and [certified translation](/glossary/beglaubigte%20Übersetzung).
+    If you were married before, you need it to prove your divorce. If it's not an EU birth certificate, it needs an *Apostille* and [certified translation](/glossary/beglaubigte%20Übersetzung).
 
 If your name, gender or nationality changed, you might need certificates to prove it:
 

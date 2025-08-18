@@ -105,7 +105,7 @@ When I have visitors, this is my favourite way to show Berlin. I take my visitor
 
 ### How to rent a car
 
-You don't need to rent a car in Berlin. It's easier to use public transit. If you have an International Driving Permit or a EU driver's licence, you can drive in Germany.
+You don't need to rent a car in Berlin. It's easier to use public transit. If you have an International Driving Permit or an EU driver's licence, you can drive in Germany.
 
 **[Where to rent a car ➞](/guides/public-transit#rent-a-car)**
 

@@ -28,7 +28,7 @@ describe('calculatePensionRefund', () => {
 		});
 	});
 
-	describe('a EU national', () => {
+	describe('an EU national', () => {
 		describe('who lives in the EU', () => {
 			const output = calculatePensionRefund('FR', 'FR', yearsAgo(12), yearsAgo(10), 30000, false);
 			it('is not eligible for a refund, because he is an EU national', () => {

@@ -58,7 +58,7 @@ To register online, you must...[^13]
 - Have a BundID account
 - Move from one German address to another German address
 
-If this is your first *Anmeldung*, or if you are not a EU citizen, you must [do your *Anmeldung* in person](#how-to-register-your-address-in-person) or [pay someone to do it](#pay-someone-to-do-it).
+If this is your first *Anmeldung*, or if you are not an EU citizen, you must [do your *Anmeldung* in person](#how-to-register-your-address-in-person) or [pay someone to do it](#pay-someone-to-do-it).
 
 ## How to register your address in person
 
