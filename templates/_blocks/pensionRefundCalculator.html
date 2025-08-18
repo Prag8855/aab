@@ -332,10 +332,10 @@
 					<label :for="uid('income')">
 						Your salary in Germany
 					</label>
-					<label class="input-group">
+					<div class="input-group">
 						<income-input :id="uid('income')" v-model="yearlyIncome"></income-input>
 						€&nbsp;per&nbsp;year
-					</label>
+					</div>
 				</div>
 				<div class="form-group" v-if="showStatePicker">
 					<label :for="uid('germanState')">
@@ -449,7 +449,7 @@
 			<div class="form-group required">
 				<label :for="uid('date-of-birth') + '-day'">Date of birth</label>
 				<date-picker v-model="dateOfBirth" :id="uid('date-of-birth')" required autocomplete="bday" :aria-describedby="uid('instructions-date-of-birth')"></date-picker>
-				<span class="input-instructions" :id="uid('instructions-date-of-birth')">Required by the Deutsche Rentenversicherung</span>
+				<span class="input-instructions" :id="uid('instructions-date-of-birth')">Required by the <glossary>Deutsche Rentenversicherung</glossary></span>
 			</div>
 		</div>
 		<div class="buttons bar">

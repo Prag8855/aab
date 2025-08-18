@@ -207,16 +207,14 @@
 		</div>
 		<div class="form-group required">
 			<label :for="uid('oldAddress')">Old address</label>
-			<div class="input-group">
-				<textarea
-					:id="uid('oldAddress')"
-					v-model="oldAddress"
-					class="address-input"
-					autocomplete="street-address"
-					placeholder="Alte Wohnungstraße 123&#10;12345 Berlin"></textarea>
-				<span class="input-instructions">This is the apartment for which you want the deposit back.</span>
+			<textarea
+				:id="uid('oldAddress')"
+				v-model="oldAddress"
+				class="address-input"
+				autocomplete="street-address"
+				placeholder="Alte Wohnungstraße 123&#10;12345 Berlin"></textarea>
+			<span class="input-instructions">This is the apartment for which you want the deposit back.</span>
 			<a class="input-instructions internal-link" href="/guides/addressing-a-letter-in-germany#how-to-write-german-addresses" target="_blank">How to write your address</a>
-			</div>
 		</div>
 		<div class="form-group required">
 			<label :for="uid('moveOutDate') + '-day'">Move-out date</label>
@@ -224,14 +222,12 @@
 		</div>
 		<div class="form-group">
 			<label :for="uid('newAddress')">Current address</label>
-			<div class="input-group">
-				<textarea
-					:id="uid('newAddress')"
-					v-model="newAddress"
-					class="address-input"
-					autocomplete="street-address"
-					placeholder="Neue Wohnungstraße 123&#10;12345 Berlin"></textarea>
-			</div>
+			<textarea
+				:id="uid('newAddress')"
+				v-model="newAddress"
+				class="address-input"
+				autocomplete="street-address"
+				placeholder="Neue Wohnungstraße 123&#10;12345 Berlin"></textarea>
 		</div>
 		<hr>
 		<div class="form-group required">
@@ -304,14 +300,12 @@
 		</div>
 		<div class="form-group required">
 			<label :for="uid('recipientAddress')">Address</label>
-			<div class="input-group">
-				<textarea
-					:id="uid('recipientAddress')"
-					v-model="recipientAddress"
-					class="address-input"
-					autocomplete="off"
-					placeholder="Vermieterstraße 123&#10;12345 Berlin"></textarea>
-			</div>
+			<textarea
+				:id="uid('recipientAddress')"
+				v-model="recipientAddress"
+				class="address-input"
+				autocomplete="off"
+				placeholder="Vermieterstraße 123&#10;12345 Berlin"></textarea>
 		</div>
 		<div class="form-group">
 			<label>Time to respond</label>

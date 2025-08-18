@@ -155,22 +155,18 @@
 		</div>
 		<div class="form-group no-print required">
 			<label :for="uid('address')">Your address</label>
-			<div class="input-group">
-				<textarea
-					:id="uid('address')"
-					v-model="address"
-					class="address-input"
-					autocomplete="street-address"
-					placeholder="Wohnungstraße 123&#10;12345 Berlin"></textarea>
-			</div>
+			<textarea
+				:id="uid('address')"
+				v-model="address"
+				class="address-input"
+				autocomplete="street-address"
+				placeholder="Wohnungstraße 123&#10;12345 Berlin"></textarea>
 			<a class="input-instructions internal-link" href="/guides/addressing-a-letter-in-germany#how-to-write-german-addresses" target="_blank">How to write your address</a>
 		</div>
 		<div class="form-group no-print">
 			<label :for="uid('employeeNumber')">Employee number</label>
-			<div class="input-group">
-				<input type="text" :id="uid('employeeNumber')" v-model="employeeNumber">
-				<span class="input-instructions">You might not have an employee number.</span>
-			</div>
+			<input type="text" :id="uid('employeeNumber')" v-model="employeeNumber">
+			<span class="input-instructions">You might not have an employee number.</span>
 		</div>
 		<hr>
 		<div class="form-group no-print required">
@@ -184,14 +180,12 @@
 		</div>
 		<div class="form-group no-print required">
 			<label :for="uid('employerAddress')">Employer address</label>
-			<div class="input-group">
-				<textarea
-					:id="uid('employerAddress')"
-					v-model="employerAddress"
-					class="address-input"
-					autocomplete="off"
-					placeholder="Arbeitstraße 123&#10;12345 Berlin"></textarea>
-			</div>
+			<textarea
+				:id="uid('employerAddress')"
+				v-model="employerAddress"
+				class="address-input"
+				autocomplete="off"
+				placeholder="Arbeitstraße 123&#10;12345 Berlin"></textarea>
 		</div>
 		<div class="form-group no-print required">
 			<span class="label">Letter recipient</span>
@@ -215,12 +209,10 @@
 		<hr>
 		<div class="form-group">
 			<label :for="uid('last-workday') + '-day'">Last day of work</label>
-			<div class="input-group">
-				<date-picker
-					v-model="lastDayOfWork"
-					:id="uid('last-workday')"></date-picker>
-				<span class="input-instructions">To resign at the earliest possible date, leave this field empty.</span>
-			</div>
+			<date-picker
+				v-model="lastDayOfWork"
+				:id="uid('last-workday')"></date-picker>
+			<span class="input-instructions">To resign at the earliest possible date, leave this field empty.</span>
 		</div>
 		<div class="form-group no-print">
 			<span class="label">Ask for documents</span>

@@ -105,27 +105,22 @@
 		</div>
 		<div class="form-group no-print">
 			<label :for="uid('address')">Your address</label>
-			<div class="input-group">
-				<textarea
-					:id="uid('address')"
-					v-model="address"
-					class="address-input"
-					placeholder="Wohnungstraße 123&#10;12345 Berlin"></textarea>
-			</div>
+			<textarea
+				:id="uid('address')"
+				v-model="address"
+				class="address-input"
+				placeholder="Wohnungstraße 123&#10;12345 Berlin"></textarea>
 		</div>
 		<div class="form-group no-print">
 			<label :for="uid('agenturFurArbeitAddress')">Agentur für Arbeit address</label>
-			<div class="input-group">
-				<textarea
-					:id="uid('agenturFurArbeitAddress')"
-					v-model="agenturFurArbeitAddress"
-					class="address-input"
-					placeholder="Agentur für Arbeit Mitte&#10;Example Straße 123&#10;12345 Berlin"></textarea>
-				<br>
-				<a class="input-instructions external-link" href="https://web.arbeitsagentur.de/portal/metasuche/suche/dienststellen" target="_blank">
-					Find your Agentur für Arbeit
-				</a>
-			</div>
+			<textarea
+				:id="uid('agenturFurArbeitAddress')"
+				v-model="agenturFurArbeitAddress"
+				class="address-input"
+				placeholder="Agentur für Arbeit Mitte&#10;Example Straße 123&#10;12345 Berlin"></textarea>
+			<a class="input-instructions external-link" href="https://web.arbeitsagentur.de/portal/metasuche/suche/dienststellen" target="_blank">
+				Find your Agentur für Arbeit
+			</a>
 		</div>
 		<div class="form-group no-print required">
 			<span class="label">Case worker</span>
@@ -150,12 +145,10 @@
 		</div>
 		<div class="form-group no-print">
 			<label :for="uid('caseNumber')">Case number</label>
-			<div class="input-group">
-				<input type="text" v-model="caseNumber">
-				<span class="input-instructions">
-					This helps the <glossary>Agentur für Arbeit</glossary> find your information.
-				</span>
-			</div>
+			<input type="text" :id="uid('caseNumber')" v-model="caseNumber">
+			<span class="input-instructions">
+				This helps the <glossary>Agentur für Arbeit</glossary> find your information.
+			</span>
 		</div>
 	</template>
 {% endraw %}

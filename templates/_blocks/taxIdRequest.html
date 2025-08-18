@@ -227,7 +227,7 @@
 		<hr>
 		<div class="form-group optional">
 			<label :for="uid('email')">Email</label>
-			<input ref="emailInput" v-model="email" type="email" :id="uid('email')" autocomplete="email">
+			<email-input ref="emailInput" v-model="email" :id="uid('email')"></email-input>
 			<span class="input-instructions" v-if="!email">You will get a single email in 8 weeks. Nothing else.</span>
 			<span class="input-instructions" v-if="email">Thank you! Your feedback will be really helpful.</span>
 		</div>
@@ -294,24 +294,25 @@
 	</div>
 {% endraw %}
 </collapsible>
-{% include '_js/letterUtils.js' %}
 {% include '_js/countriesInGerman.js' %}
+{% include '_js/letterUtils.js' %}
 {% include '_js/pdf.js' %}
 {% include '_js/vue.js' %}
-{% include '_js/vue/collapsible.js' %}
 {% include '_js/vue/city-input.js' %}
+{% include '_js/vue/collapsible.js' %}
 {% include '_js/vue/country-input.js' %}
 {% include '_js/vue/date-picker.js' %}
-{% include '_js/vue/glossary.js' %}
-{% include '_js/vue/mixins/multiStageMixin.js' %}
-{% include '_js/vue/postalcode-input.js' %}
+{% include '_js/vue/email-input.js' %}
 {% include '_js/vue/first-name-input.js' %}
+{% include '_js/vue/glossary.js' %}
 {% include '_js/vue/last-name-input.js' %}
+{% include '_js/vue/mixins/multiStageMixin.js' %}
 {% include '_js/vue/mixins/preloadPDFMixin.js' %}
-{% include '_js/vue/state-input.js' %}
 {% include '_js/vue/mixins/trackedStagesMixin.js' %}
 {% include '_js/vue/mixins/uniqueIdsMixin.js' %}
 {% include '_js/vue/mixins/userDefaultsMixin.js' %}
+{% include '_js/vue/postalcode-input.js' %}
+{% include '_js/vue/state-input.js' %}
 {% js %}
 	document.querySelectorAll('.tax-id-form').forEach(
 		el => new Vue({
@@ -356,7 +357,7 @@
 						addPeople: () => this.$refs.firstNameInput[0].$el,
 						beiAddress: () => this.$refs.namesAreOnMailboxCheckbox,
 						employer: () => this.$refs.sendToEmployerCheckbox,
-						feedback: () => this.$refs.emailInput,
+						feedback: () => this.$refs.emailInput.$el,
 					},
 					downloadInProgress: false,
 					feedbackReminderSent: false,

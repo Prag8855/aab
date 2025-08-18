@@ -2,6 +2,7 @@
 {% include '_js/vue/collapsible.js' %}
 {% include '_js/vue/country-input.js' %}
 {% include '_js/vue/date-picker.js' %}
+{% include '_js/vue/email-input.js' %}
 {% include '_js/vue/mixins/multiStageMixin.js' %}
 {% include '_js/vue/mixins/residencePermitFeedbackMixin.js' %}
 {% include '_js/vue/mixins/trackedStagesMixin.js' %}
@@ -57,7 +58,7 @@ Vue.component('feedback-residence-permit', {
 				'error',
 			],
 			inputsToFocus: {
-				email: () => this.$refs.emailInput,
+				email: () => this.$refs.emailInput.$el,
 			},
 		};
 	},
@@ -277,7 +278,7 @@ Vue.component('feedback-residence-permit', {
 				<p>Can you complete your feedback when you get your {{ residencePermitName }}? I can remind you by email.</p>
 				<div class="form-group">
 					<label :for="uid('email')">Email address</label>
-					<input ref="emailInput" v-model="email" type="email" :id="uid('email')" autocomplete="email" required>
+					<email-input ref="emailInput" v-model="email" :id="uid('email')" required></email-input>
 					<span class="input-instructions">You will get a reminder in 2 months and in 6 months. Nothing else.</span>
 				</div>
 			</template>

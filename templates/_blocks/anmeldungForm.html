@@ -170,19 +170,17 @@
 			</div>
 			<div class="form-group required">
 				<label :for="uid('religion-' + person.id)">Religion</label>
-				<div class="input-group">
-					<select :id="uid('religion-' + person.id)" v-model="person.religion" :aria-describedby="uid('religion-instructions-' + person.id)"  :class="{placeholder: !person.religion}" required>
-						<option disabled hidden default :value="null">Choose a church</option>
-						<option value="Evangelische Kirche">Evangelical Church</option>
-						<option value="Römisch-katholische Kirche">Roman Catholic Church</option>
-						<option value="Jüdische Gemeinde">Jewish Community</option>
-						<option value="Altkatholische Kirche">Old Catholic Church</option>
-						<option value="Freireligiöse Gemeinden">Free Religious communities</option>
-						<option disabled>──────────</option>
-						<option value="Sonstiges, nicht kirchensteuerpflichtig">Other / No religion</option>
-					</select>
-					<span :id="uid('religion-instructions-' + person.id)" class="input-instructions">Members of some churches must pay the <glossary term="Kirchensteuer">church tax</glossary>.</span>
-				</div>
+				<select :id="uid('religion-' + person.id)" v-model="person.religion" :aria-describedby="uid('religion-instructions-' + person.id)"  :class="{placeholder: !person.religion}" required>
+					<option disabled hidden default :value="null">Choose a church</option>
+					<option value="Evangelische Kirche">Evangelical Church</option>
+					<option value="Römisch-katholische Kirche">Roman Catholic Church</option>
+					<option value="Jüdische Gemeinde">Jewish Community</option>
+					<option value="Altkatholische Kirche">Old Catholic Church</option>
+					<option value="Freireligiöse Gemeinden">Free Religious communities</option>
+					<option disabled>──────────</option>
+					<option value="Sonstiges, nicht kirchensteuerpflichtig">Other / No religion</option>
+				</select>
+				<span :id="uid('religion-instructions-' + person.id)" class="input-instructions">Members of some churches must pay the <glossary term="Kirchensteuer">church tax</glossary>.</span>
 			</div>
 			<div class="form-group required">
 				<label :for="uid('dateOfBirth-' + person.id) + '-day'">Date of birth</label>

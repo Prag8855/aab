@@ -310,64 +310,60 @@
 			<label :for="uid('age')">
 				Age
 			</label>
-			<label class="input-group">
+			<div class="input-group">
 				<age-input :id="uid('age')" v-model="age"></age-input>
 				years old
-			</label>
+			</div>
 		</div>
 		<div class="form-group">
 			<label :for="uid('church')">
 				Religion
 			</label>
-			<div class="input-group">
-				<select :id="uid('church')" v-model="church">
-					<option value="ev">Evangelical Church</option>
-					<option value="rk">Roman Catholic Church</option>
-					<option value="jg">Jewish Community</option>
-					<option value="ak">Old Catholic Church</option>
-					<option value="fg">Free Religious communities</option>
-					<option disabled>──────────</option>
-					<option value="other">Other</option>
-				</select>
-				<span v-if="isPayingChurchTax" class="input-instructions">You must pay <glossary term="Kirchensteuer">church tax</glossary>.</span>
-			</div>
+			<select :id="uid('church')" v-model="church">
+				<option value="ev">Evangelical Church</option>
+				<option value="rk">Roman Catholic Church</option>
+				<option value="jg">Jewish Community</option>
+				<option value="ak">Old Catholic Church</option>
+				<option value="fg">Free Religious communities</option>
+				<option disabled>──────────</option>
+				<option value="other">Other</option>
+			</select>
+			<span v-if="isPayingChurchTax" class="input-instructions">You must pay <glossary term="Kirchensteuer">church tax</glossary>.</span>
 		</div>
 		<hr>
 		<div class="form-group">
 			<label :for="uid('health-insurance-type')">
 				Health insurance
 			</label>
-			<div class="input-group">
-				<select :id="uid('health-insurance-type')" v-model="healthInsuranceType">
-					<optgroup label="Public health insurance">
-						<option value="public-tk">Most popular option - TK</option>
-						<option value="public-hkk">Cheapest option - hkk</option>
-						<option value="public-aok">Most expensive option - AOK Nordost</option>
-						<option value="public-custom">Other public health insurance</option>
-					</optgroup>
-					<optgroup label="Private health insurance">
-						<option value="private" :disabled="!availableHealthInsuranceTypes.private">Private health insurance</option>
-					</optgroup>
-					<optgroup label="Other">
-						<option value="familienversicherung-parents" :disabled="!availableHealthInsuranceTypes['familienversicherung-parents']">Insured by parents</option>
-						<option value="familienversicherung-spouse" :disabled="!availableHealthInsuranceTypes['familienversicherung-spouse']">Insured by spouse</option>
-						<option value="ehic" :disabled="!availableHealthInsuranceTypes.ehic">Insured by another EU country</option>
-					</optgroup>
-					<option value="unknown">I don't know</option>
-				</select>
-				<span v-if="healthInsuranceType === 'unknown'" class="input-instructions">We will use an average option.</span>
-				<a class="input-instructions internal-link" v-if="healthInsuranceType !== 'unknown'" href="/guides/german-health-insurance" target="_blank">How to choose health insurance</a>
-			</div>
+			<select :id="uid('health-insurance-type')" v-model="healthInsuranceType">
+				<optgroup label="Public health insurance">
+					<option value="public-tk">Most popular option - TK</option>
+					<option value="public-hkk">Cheapest option - hkk</option>
+					<option value="public-aok">Most expensive option - AOK Nordost</option>
+					<option value="public-custom">Other public health insurance</option>
+				</optgroup>
+				<optgroup label="Private health insurance">
+					<option value="private" :disabled="!availableHealthInsuranceTypes.private">Private health insurance</option>
+				</optgroup>
+				<optgroup label="Other">
+					<option value="familienversicherung-parents" :disabled="!availableHealthInsuranceTypes['familienversicherung-parents']">Insured by parents</option>
+					<option value="familienversicherung-spouse" :disabled="!availableHealthInsuranceTypes['familienversicherung-spouse']">Insured by spouse</option>
+					<option value="ehic" :disabled="!availableHealthInsuranceTypes.ehic">Insured by another EU country</option>
+				</optgroup>
+				<option value="unknown">I don't know</option>
+			</select>
+			<span v-if="healthInsuranceType === 'unknown'" class="input-instructions">We will use an average option.</span>
+			<a class="input-instructions internal-link" v-if="healthInsuranceType !== 'unknown'" href="/guides/german-health-insurance" target="_blank">How to choose health insurance</a>
 		</div>
 		<div class="form-group show-errors" v-if="healthInsuranceType === 'private'">
 			<label :for="uid('health-insurance-cost')">
 				Health insurance cost
 			</label>
-			<label class="input-group">
+			<div class="input-group">
 				<income-input :id="uid('health-insurance-cost')" v-model="privateHealthInsuranceCost"></income-input>
 				€&nbsp;per month
-				<span class="input-instructions" v-if="occupations.isEmployed(occupation)">Enter the total cost, even if your employer pays half of it.</span>
-			</label>
+			</div>
+			<span class="input-instructions" v-if="occupations.isEmployed(occupation)">Enter the total cost, even if your employer pays half of it.</span>
 		</div>
 		<div class="form-group show-errors" v-if="healthInsuranceType === 'public-custom'">
 			<label :for="uid('zusatzbeitrag')">

@@ -130,13 +130,11 @@
 			</div>
 			<div class="form-group no-print">
 				<label :for="uid('backupAddress')">Backup address</label>
-				<div class="input-group">
-					<textarea
-						:id="uid('backupAddress')"
-						v-model="backupAddress"
-						class="address-input"
-						placeholder="Wohnungstraße 123&#10;12345 Berlin"></textarea>
-				</div>
+				<textarea
+					:id="uid('backupAddress')"
+					v-model="backupAddress"
+					class="address-input"
+					placeholder="Wohnungstraße 123&#10;12345 Berlin"></textarea>
 				<span class="input-instructions">This must be an address in Germany.</span>
 				<a class="input-instructions internal-link" href="/guides/addressing-a-letter-in-germany#how-to-write-german-addresses" target="_blank">How to write your address</a>
 			</div>

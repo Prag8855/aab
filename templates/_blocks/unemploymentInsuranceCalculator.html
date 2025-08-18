@@ -60,19 +60,17 @@
 			<label :for="uid('income')">
 				Income
 			</label>
-			<label class="input-group">
+			<div class="input-group">
 				<income-input :id="uid('income')" v-model="monthlyIncome"></income-input>
 				€&nbsp;per&nbsp;month
-			</label>
+			</div>
 		</div>
 		<div class="form-group" v-if="showStatePicker">
 			<label :for="uid('germanState')">
 				Where do you work?
 			</label>
-			<div class="input-group">
-				<state-input east-west-berlin :id="uid('germanState')" v-model="germanState"></state-input>
-				<span class="input-instructions">The maximum contribution is different in East and West Germany.</span>
-			</div>
+			<state-input east-west-berlin :id="uid('germanState')" v-model="germanState"></state-input>
+			<span class="input-instructions">The maximum contribution is different in East and West Germany.</span>
 		</div>
 		<hr>
 		<output class="large">

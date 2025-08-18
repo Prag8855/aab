@@ -103,23 +103,19 @@
 		</div>
 		<div class="form-group no-print required">
 			<label :for="uid('address')">Your address</label>
-			<div class="input-group">
-				<textarea
-					:id="uid('address')"
-					v-model="address"
-					class="address-input"
-					autocomplete="street-address"
-					placeholder="Wohnungstraße 123&#10;12345 Berlin"></textarea>
-			</div>
+			<textarea
+				:id="uid('address')"
+				v-model="address"
+				class="address-input"
+				autocomplete="street-address"
+				placeholder="Wohnungstraße 123&#10;12345 Berlin"></textarea>
 		</div>
 		<div class="form-group required">
 			<label :for="uid('date-of-birth') + '-day'">Date of birth</label>
-			<div class="input-group">
-				<date-picker
-					v-model="dateOfBirth"
-					:id="uid('date-of-birth')"
-					autocomplete="bday"></date-picker>
-			</div>
+			<date-picker
+				v-model="dateOfBirth"
+				:id="uid('date-of-birth')"
+				autocomplete="bday"></date-picker>
 		</div>
 		<div class="form-group no-print required">
 			<label :for="uid('taxID')">Tax ID</label>
@@ -128,7 +124,7 @@
 		</div>
 		<hr>
 		<div class="form-group no-label no-print">
-			<div class="input-group">
+			<div class="input-group vertical">
 				<label class="checkbox">
 					<input type="checkbox" v-model="hasPaidFee">
 					<div>
