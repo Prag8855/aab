@@ -78,7 +78,7 @@
 			<strong v-if="language === 'en'">New address:</strong>
 			<strong v-if="language === 'de'">Neue Adresse:</strong>
 			<br>
-			<blank key="newAddress" required placeholder="Your new address" v-if="!newAddress"></blank>
+			<blank :key="uid('newAddressBlank')" placeholder="Your new address" v-if="!newAddress"></blank>
 			<span v-else v-html="fullNewAddress"></span>
 		</p>
 
@@ -86,7 +86,7 @@
 			<strong v-if="language === 'en'">Alternative address in Germany:</strong>
 			<strong v-if="language === 'de'">Alternative Lieferadresse in Deutschland:</strong>
 			<br>
-			<blank key="backupAddress" required placeholder="Backup address in Germany" v-if="!fullBackupAddress"></blank>
+			<blank :key="uid('backupAddressBlank')" placeholder="Backup address in Germany" v-if="!fullBackupAddress"></blank>
 			<span v-else v-html="fullBackupAddress"></span>
 		</p>
 
@@ -94,7 +94,7 @@
 			<template v-if="language === 'en'">Best regards,</template>
 			<template v-if="language === 'de'">Mit freundlichen Grüßen,</template>
 			<br>
-			<blank key="fullName" required placeholder="Your name">{{ fullName }}</blank>
+			<blank :key="uid('fullNameBlank')" placeholder="Your name">{{ fullName }}</blank>
 		</p>
 	</template>
 
