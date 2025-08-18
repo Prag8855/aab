@@ -58,22 +58,22 @@
 		<ul>
 			<li>
 				Name:
-				<blank placeholder="Full name">{{ fullName }}</blank>
+				<blank :key="uid('fullNameBlank')" placeholder="Full name">{{ fullName }}</blank>
 			</li>
 			<li>
 				<template v-if="language === 'en'">Address:</template>
 				<template v-if="language === 'de'">Anschrift:</template>
-				<blank placeholder="Address">{{ address.replaceAll('\n', ', ') }}</blank>
+				<blank :key="uid('addressBlank')" placeholder="Address">{{ address.replaceAll('\n', ', ') }}</blank>
 			</li>
 			<li>
 				<template v-if="language === 'en'">Date of birth:</template>
 				<template v-if="language === 'de'">Geburtsdatum:</template>
-				<blank placeholder="Date of birth">{{ dateOfBirth }}</blank>
+				<blank :key="uid('dateOfBirthBlank')" placeholder="Date of birth">{{ dateOfBirth }}</blank>
 			</li>
 			<li>
 				<template v-if="language === 'en'">Tax ID:</template>
 				<template v-if="language === 'de'">Steuer-ID:</template>
-				<blank placeholder="Tax ID">{{ taxID }}</blank>
+				<blank :key="uid('taxIdBlank')" placeholder="Tax ID">{{ taxID }}</blank>
 			</li>
 		</ul>
 
@@ -88,11 +88,11 @@
 
 		<p v-if="language === 'en'">
 			Best regards,<br>
-			<blank placeholder="Full name">{{ fullName }}</blank>
+			<blank :key="uid('fullNameSignatureBlank')" placeholder="Full name">{{ fullName }}</blank>
 		</p>
 		<p v-if="language === 'de'">
 			Mit freundlichen Grüßen,<br>
-			<blank placeholder="Full name">{{ fullName }}</blank>
+			<blank :key="uid('fullNameSignatureBlank')" placeholder="Full name">{{ fullName }}</blank>
 		</p>
 	</template>
 
