@@ -17,6 +17,11 @@ class Status(models.TextChoices):
     STALE = "STALE", "Stale"
 
 
+class ContactMethod(models.TextChoices):
+    EMAIL = "EMAIL", "Email"
+    WHATSAPP = "WHATSAPP", "WhatsApp"
+
+
 class Case(models.Model):
     """
     A need that usually results in an insurance policy being signed.
@@ -24,6 +29,7 @@ class Case(models.Model):
     email = models.EmailField()
     phone = models.CharField(blank=True, max_length=50)
     whatsapp = models.CharField(blank=True, max_length=50)
+    contact_method = models.CharField("Preferred contact method", max_length=15, choices=ContactMethod, default=ContactMethod.EMAIL)
 
     creation_date = models.DateTimeField(auto_now_add=True)
     title = models.CharField(blank=True, max_length=150, help_text="For example, \"health insurance for a Blue Card\"")
