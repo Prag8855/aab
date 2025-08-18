@@ -331,12 +331,3 @@ class TaxIdRequestFeedbackReminder(NameMixin, RecipientIsSenderMixin, EmailMixin
 
     class Meta(ScheduledMessage.Meta):
         pass
-
-
-scheduled_message_models = [
-    PensionRefundQuestion,
-    PensionRefundRequest,
-    PensionRefundReminder,
-    ResidencePermitFeedbackReminder,
-    TaxIdRequestFeedbackReminder,
-]

@@ -1,6 +1,7 @@
+from django.apps import apps
 from django.conf import settings
 from django.core.management.base import BaseCommand
-from forms.models import MessageStatus, scheduled_message_models
+from forms.models import MessageStatus, ScheduledMessage
 from django.utils import timezone
 from forms.utils import send_email
 from requests.exceptions import HTTPError
@@ -25,6 +26,8 @@ class Command(BaseCommand):
 
         successes = 0
         failures = 0
+
+        scheduled_message_models = [model for model in apps.get_models() if issubclass(model, ScheduledMessage)]
 
         for model in scheduled_message_models:
             scheduled_messages = model.objects.filter(status=MessageStatus.SCHEDULED, delivery_date__lte=timezone.now())
