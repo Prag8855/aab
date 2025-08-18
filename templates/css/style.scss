@@ -2266,6 +2266,10 @@ collapsible, letter-generator, feedback-residence-permit, health-insurance-calcu
             + progress{
                 margin: calc(var(--xl) * -1) 0 var(--xl) calc(var(--w-page-border) * -1);
                 width: calc(100% + 2 * var(--w-page-border));
+                
+            }
+
+            &[hidden] + progress{
                 border-radius: var(--b-radius) var(--b-radius) 0 0;
             }
         }
