@@ -95,14 +95,7 @@ Vue.component('health-insurance-calculator', {
 		progressBarLength(){ return this.mode === 'question' ? null : 3 },
 		progressBarValue(){ return Math.min(this.stageIndex, this.progressBarLength) },
 		sortedOccupations(){
-			const sortedOccupations = [
-				'employee',
-				'studentUnemployed',
-				'selfEmployed',
-				'azubi',
-				'unemployed',
-				null
-			];
+			const sortedOccupations = ['employee', 'studentUnemployed', 'selfEmployed', 'azubi', 'unemployed', null];
 			if(this.selectedOccupation){
 				return [this.selectedOccupation, ...sortedOccupations.filter(o => o !== this.selectedOccupation)];
 			}
@@ -329,7 +322,8 @@ Vue.component('health-insurance-calculator', {
 
 			<template v-if="stage === 'questions'">
 				<h3>Tell us a bit more about you&hellip;</h3>
-				<p>It helps us calculate prices and recommend the right health insurance.</p>
+				<p v-if="mode === 'question'">It's optional, but it helps Seamus recommend the right health insurance.</p>
+				<p v-else>It helps us calculate prices and recommend the right health insurance.</p>
 				<hr>
 				<div class="form-group">
 					<label :for="uid('isEUCitizen')">
@@ -426,15 +420,6 @@ Vue.component('health-insurance-calculator', {
 						</span>
 					</div>
 				</div>
-				<template v-if="mode === 'question' && contactMethod !== 'WHATSAPP'">
-					<hr>
-					<div class="form-group">
-						<label :for="uid('question')">
-							Your question
-						</label>
-						<textarea :id="uid('question')" v-model="question" placeholder="How can Seamus help you?"></textarea>
-					</div>
-				</template>
 				<hr>
 				<div class="buttons bar">
 					<template v-if="mode === 'calculator'">
@@ -478,7 +463,7 @@ Vue.component('health-insurance-calculator', {
 			<template v-if="stage === 'askABroker'">
 				<div class="form-recipient">
 					<div>
-						<p>Seamus will help you <strong>choose the right health insurance</strong>. I trust him because he is honest and knowledgeable.</p>
+						<p>Seamus will help you <strong>choose the best health insurance</strong>. I work with him because he is honest and knowledgeable.</p>
 						<p>This service is <strong>100% free</strong>.</p>
 					</div>
 					<img
@@ -505,17 +490,11 @@ Vue.component('health-insurance-calculator', {
 						</label>
 						<full-name-input :for="uid('fullName')" v-model="fullName" required></full-name-input>
 					</div>
-					<div class="form-group required">
+					<div class="form-group required" v-if="contactMethod === 'EMAIL'">
 						<label :for="uid('email')">
 							Email address
 						</label>
 						<email-input v-model="email" :id="uid('email')" required></email-input>
-						<details class="input-instructions" v-if="contactMethod === 'WHATSAPP'">
-							<summary>Why we ask for your email</summary>
-							<p>
-								Seamus might send you documents and extra information. I will email you once to ask for your feedback. We do not send marketing emails.
-							</p>
-						</details>
 					</div>
 					<template v-if="contactMethod !== 'WHATSAPP'">
 						<hr>
