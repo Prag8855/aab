@@ -3,7 +3,7 @@ from insurance.models import Case, Comment, InsuredPerson, Outcome, Status
 from nested_admin import NestedModelAdmin, NestedStackedInline
 
 
-class CommentInline(NestedStackedInline):
+class CommentInline(admin.StackedInline):
     model = Comment
     fields = ('status', 'notes', 'file')
     readonly_fields = ('creation_date', )
@@ -16,7 +16,7 @@ class CommentInline(NestedStackedInline):
         return False  # Prevent editing comments
 
 
-class OutcomeInline(NestedStackedInline):
+class OutcomeInline(admin.StackedInline):
     model = Outcome
     extra = 0
 
@@ -36,7 +36,7 @@ class OutcomeInline(NestedStackedInline):
         return False  # Prevent editing comments
 
 
-class InsuredPersonInline(NestedStackedInline):
+class InsuredPersonInline(admin.StackedInline):
     model = InsuredPerson
     extra = 0
 
@@ -68,7 +68,7 @@ class StatusFilter(admin.SimpleListFilter):
         return queryset
 
 
-class CaseAdmin(NestedModelAdmin):
+class CaseAdmin(admin.ModelAdmin):
     fieldsets = (
         ('Case information', {
             'fields': ('status', 'creation_date', 'notes', 'referrer'),

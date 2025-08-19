@@ -22,7 +22,6 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.staticfiles',
 
-    'nested_admin',
     'forms.apps.FormsConfig',
     'insurance.apps.InsuranceConfig',
 ]
