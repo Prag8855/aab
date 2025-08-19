@@ -31,6 +31,9 @@ def migrate_models_to_insurance(apps, schema_editor):
     Case.creation_date.field.auto_now_add = False
 
     for q in HealthInsuranceQuestion.objects.all():
+        if q.question == 'AAAAA':
+            continue  # Redacted question
+
         notes = '\n\n'.join([
             "This case was migrated from the old system.",
             f"QUESTION:\n{'(redacted)' if q.question == 'AAAAA' else q.question}",
