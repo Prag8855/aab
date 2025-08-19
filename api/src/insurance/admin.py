@@ -45,7 +45,8 @@ class InsuredPersonInline(admin.StackedInline):
         'occupation', 'income',
         'nationality', 'country_of_residence',
         'is_married',
-        'age', 'date_of_birth',
+        'age',
+        'date_of_birth',
     )
 
 

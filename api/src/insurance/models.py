@@ -1,4 +1,4 @@
-from datetime import timedelta
+from datetime import date, timedelta
 from dateutil.relativedelta import relativedelta
 from django.core.exceptions import ValidationError
 from django.db import models
@@ -59,7 +59,10 @@ class Case(models.Model):
     def save(self, *args, **kwargs):
         # Get status from child comments
         if self.id:
-            self.status = self.comments.order_by('-creation_date').first().status
+            if first_comment := self.comments.order_by('-creation_date').first():
+                self.status = first_comment.status
+            else:
+                self.status = Status.NEW
         super().save(*args, **kwargs)
 
         # Schedule email notifications
@@ -155,7 +158,7 @@ class InsuredPerson(models.Model):
 
     def save(self, *args, **kwargs):
         if self.date_of_birth:
-            self.age = relativedelta(timezone.now(), self.date_of_birth)
+            self.age = relativedelta(date.today(), self.date_of_birth).years
         super().save(*args, **kwargs)
 
     @property
