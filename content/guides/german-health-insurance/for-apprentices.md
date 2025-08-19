@@ -14,7 +14,7 @@ This guide helps you choose the best health insurance for an apprenticeship (*Au
 
 Use my [health insurance calculator](/tools/health-insurance-calculator) to see your options.
 
-{% include '_blocks/healthInsuranceCalculatorStatic.html' %}
+{% with occupation = 'azubi' %}{% include '_blocks/healthInsuranceCalculatorStatic.html' %}{% endwith %}
 
 **[What is the best option? ➞](/guides/german-health-insurance#what-is-the-best-option)**
 

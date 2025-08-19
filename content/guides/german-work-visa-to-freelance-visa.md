@@ -46,7 +46,7 @@ Next, you must [apply for the freelance visa](/guides/freelance-visa). This can 
 
 When you are an employee, your employer pays half of your health insurance. When you are self-employed, you pay the full amount yourself. This means that **your health insurance will be twice as expensive**.
 
-{% include '_blocks/healthInsuranceCalculator.html' %}
+{% with occupation = 'selfEmployed' %}{% include '_blocks/healthInsuranceCalculator.html' %}{% endwith %}
 
 You can switch to [private health insurance](/glossary/private%20Krankenversicherung). It can be better and cheaper than [public health insurance](/glossary/gesetzliche%20Krankenversicherung). I switched, and I save around €600 per month. It's a complex decision. [Ask my insurance expert](/guides/german-health-insurance#insurance-brokers) if it makes sense for you.
 

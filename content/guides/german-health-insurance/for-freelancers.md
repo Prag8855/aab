@@ -14,7 +14,7 @@ This guide helps you choose the best health insurance for self-employment. All G
 
 If you are self-employed, you can choose public, private or expat health insurance. Use my [health insurance picker](/tools/health-insurance-calculator) to compare options.
 
-{% include '_blocks/healthInsuranceCalculatorStatic.html' %}
+{% with occupation = 'selfEmployed' %}{% include '_blocks/healthInsuranceCalculatorStatic.html' %}{% endwith %}
 
 When you have a job, your employer pays half of your health insurance. If you are self-employed, you pay the full price yourself. If your health insurance cost €250 as an employee, it will cost €500 as a freelancer.
 

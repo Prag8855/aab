@@ -14,7 +14,7 @@ If you [work in Germany](/guides/find-a-job-in-berlin), you must have health ins
 
 Employees must get [public](/glossary/gesetzliche%20Krankenversicherung) or [private health insurance](/glossary/private%20Krankenversicherung). [[Expat health insurance]] is not accepted. Use my [health insurance picker](/tools/health-insurance-calculator) to compare options.
 
-{% include '_blocks/healthInsuranceCalculatorStatic.html' %}
+{% with occupation = 'employee' %}{% include '_blocks/healthInsuranceCalculatorStatic.html' %}{% endwith %}
 
 Your options depend on your income:
 

@@ -16,7 +16,7 @@ This guide helps you choose the best health insurance to study in Germany.
 
 Use my [health insurance picker](/tools/health-insurance-calculator) to see your options.
 
-{% include '_blocks/healthInsuranceCalculatorStatic.html' %}
+{% with occupation = 'studentUnemployed' %}{% include '_blocks/healthInsuranceCalculatorStatic.html' %}{% endwith %}
 
 ### Under 30 years old
 

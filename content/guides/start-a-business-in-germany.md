@@ -144,7 +144,7 @@ Sometimes, they freeze your account by mistake. It happened to me, and to other 
 
 In Germany, you *must* have [health insurance](/glossary/Krankenversicherung). It's a big part of your [cost of living](/guides/cost-of-living).
 
-{% include '_blocks/healthInsuranceCalculator.html' %}
+{% with occupation = 'selfEmployed' %}{% include '_blocks/healthInsuranceCalculator.html' %}{% endwith %}
 
 As a freelancer, **never choose health insurance yourself**. It's a terrible idea. Freelancers often get stuck with bad or expensive health insurance. [Freelance visa](/glossary/Freelance%20visa) applications are often rejected because of invalid health insurance.
 
@@ -249,7 +249,7 @@ If you already have [health insurance](/glossary/Krankenversicherung), tell your
 
 If you have [public health insurance](/glossary/gesetzliche%20Krankenversicherung), the cost of your insurance depends on your income. Health insurance for freelancers is twice as expensive, because your employer does not pay half of it.
 
-{% include '_blocks/healthInsuranceCalculator.html' %}
+{% with occupation = 'selfEmployed' %}{% include '_blocks/healthInsuranceCalculator.html' %}{% endwith %}
 
 Since you don't know your future income, they use your *estimated* income. If you pay too much for insurance, you will get a refund later. If you don't pay enough, you will get an invoice later.
 
