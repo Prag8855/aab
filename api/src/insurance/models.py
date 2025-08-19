@@ -3,7 +3,7 @@ from django.core.exceptions import ValidationError
 from django_countries.fields import CountryField
 from django.db import models
 from django.utils import timezone
-from forms.models import RecipientIsSenderMixin, ScheduledMessage
+from forms.models import ScheduledMessage
 
 
 class Status(models.TextChoices):
@@ -207,7 +207,7 @@ class CaseNotificationMixin(ScheduledMessage):
         abstract = True
 
 
-class CustomerNotification(CaseNotificationMixin, RecipientIsSenderMixin, ScheduledMessage):
+class CustomerNotification(CaseNotificationMixin, ScheduledMessage):
     subject = 'Seamus will contact you soon'
     template = 'customer-notification.html'
 
