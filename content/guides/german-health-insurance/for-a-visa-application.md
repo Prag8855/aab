@@ -49,6 +49,8 @@ If you are a citizen of {{AUFENTHV_41_COUNTRIES}}, you do not need a National Vi
 
 If your spouse has [public health insurance](/glossary/gesetzliche%20Krankenversicherung), it might [cover you for free](/guides/german-health-insurance#free-health-insurance).[^2] Otherwise, you can get [expat health insurance](/glossary/Expat%20health%20insurance) or [private health insurance](/glossary/private%20Krankenversicherung).
 
+**[List of expat health insurance options ➞](/guides/german-health-insurance#best-expat-health-insurance)**
+
 ## For a residence permit
 
 When you arrive in Germany, you must convert your [[National Visa]] to a [residence permit](/glossary/Aufenthaltstitel) at the *[[Ausländerbehörde]]*.

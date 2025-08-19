@@ -29,3 +29,5 @@ Public health insurance is managed by non-profit *[Krankenkassen](/glossary/Kran
 **[Health insurance calculator ➞](/tools/health-insurance-calculator)**
 
 **[How to choose health insurance ➞](/guides/german-health-insurance)**
+
+**[Best public health insurance ➞](/guides/german-health-insurance#best-public-health-insurance)**

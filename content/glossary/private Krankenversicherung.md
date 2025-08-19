@@ -25,4 +25,8 @@ Germany has two types of health insurance: [public](/glossary/gesetzliche%20Kran
 
 Around 11% of Germans have private health insurance. Most people have public health insurance.
 
+**[Health insurance calculator ➞](/tools/health-insurance-calculator)**
+
 **[How to choose health insurance ➞](/guides/german-health-insurance)**
+
+**[Best private health insurance ➞](/guides/german-health-insurance#best-private-health-insurance)**
