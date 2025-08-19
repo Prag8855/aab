@@ -385,7 +385,11 @@ Vue.component('health-insurance-options', {
 							{% endraw %}{% include "_css/icons/health-insurance/logo-feather.svg" %}{% raw %}
 							<div>
 								<h3>Feather</h3>
-								<p>Great for a {{ visaType }} application. It's valid until you graduate. They speak English.</p>
+								<p>
+									Great for a {{ visaType }} application.
+									<template v-if="isStudent">It's valid until you graduate.</template>
+									They speak English.
+								</p>
 							</div>
 							<output>
 								<eur :amount="subOption.cost"></eur> <small>per month</small>
