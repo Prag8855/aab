@@ -8,7 +8,7 @@ Related_reviews:
     reviews/german-health-insurance/for-a-visa-application/dr-rob-schumacher.md
 ---
 
-This guide explains which health insurance you need for a [[National Visa]] or [residence permit](/glossary/Aufenthaltstitel) application.
+This guide explains which health insurance you need to apply for a [[National Visa]] or [residence permit](/glossary/Aufenthaltstitel).
 
 {% include "_blocks/tableOfContents.html" %}
 

@@ -239,10 +239,9 @@ Only choose expat health insurance if...
 These options are valid for a [[National Visa]] application. You can use them to apply for your first [student visa](/glossary/Student%20visa), [freelance visa](/glossary/Freelance%20visa), [opportunity card](/glossary/Chancenkarte), and other [Category D visas](/glossary/National%20Visa). They are accepted by German embassies, consulates and [immigration offices](/glossary/Ausländerbehörde).
 
 - **[HanseMerkur](/out/hansemerkur-expats)**{{ RECOMMENDED }}  
-    It's what [our insurance expert](/guides/german-health-insurance#insurance-brokers) usually recommends.[^33]
+    It's what [our insurance expert](/guides/german-health-insurance#insurance-brokers) usually recommends.[^33] It's also what [Feather](/out/feather-expats) sells.
 - **[Feather](/out/feather-expats)**{{ RECOMMENDED }}  
     They have excellent English-speaking customer service. I work with them since 2018. They usually resell HanseMerkur insurance.
-- [Allianz Worldwide Care](https://www.allianzcare.com/en.html)
 - [April International](/out/april)
 - [Care Concept](/out/care-concept)
 - [Dr Walter](/out/dr-walter)
