@@ -1,6 +1,5 @@
 from django.contrib import admin
 from insurance.models import Case, Comment, InsuredPerson, Outcome, Status
-from nested_admin import NestedModelAdmin, NestedStackedInline
 
 
 class CommentInline(admin.StackedInline):
