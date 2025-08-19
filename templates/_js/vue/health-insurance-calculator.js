@@ -92,6 +92,8 @@ Vue.component('health-insurance-calculator', {
 		isStudent(){ return occupations.isStudent(this.occupation) },
 		isUnemployed(){ return occupations.isUnemployed(this.occupation) },
 		monthlyIncome(){ return this.yearlyIncome / 12 },
+		progressBarLength(){ return this.mode === 'question' ? null : 3 },
+		progressBarValue(){ return Math.min(this.stageIndex, this.progressBarLength) },
 		sortedOccupations(){
 			const sortedOccupations = [
 				'employee',
@@ -291,7 +293,7 @@ Vue.component('health-insurance-calculator', {
 				<template v-else>Health insurance calculator</template>
 			</template>
 
-			<progress v-if="stageIndex !== 0" aria-label="Form progress" :max="stages.length - 1" :value="stageIndex"></progress>
+			<progress v-if="progressBarLength && stageIndex !== 0" aria-label="Form progress" :value="progressBarValue" :max="progressBarLength"></progress>
 
 			<template v-if="stage === 'occupation'">
 				<p><strong>Let's find the right health insurance.</strong> What is your occupation?</p>
