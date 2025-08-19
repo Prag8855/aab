@@ -409,9 +409,7 @@ Vue.component('health-insurance-calculator', {
 					<div class="input-group vertical">
 						<label class="checkbox">
 							<input type="checkbox" :id="uid('hasPublicHealthInsurance')" v-model="hasPublicHealthInsurance">
-							<div>
-								I have public health insurance
-							</div>
+							I have public health insurance
 						</label>
 						<span class="input-instructions">
 							Select this if you had <glossary term="gesetzliche Krankenversicherung">public health insurance</glossary> in any <glossary term="European Union">EU</glossary> country for at least 2 of the past 5 years.
