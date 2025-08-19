@@ -65,10 +65,11 @@ class Case(models.Model):
                 self.status = Status.NEW
         super().save(*args, **kwargs)
 
-        # Schedule email notifications
-        CustomerNotification.objects.get_or_create(case=self)
-        BrokerNotification.objects.get_or_create(case=self)
-        FeedbackNotification.objects.get_or_create(case=self)
+        # Schedule email notifications if missing
+        if self.status not in [Status.RESOLVED, Status.ACCEPTED, Status.REJECTED]:
+            CustomerNotification.objects.get_or_create(case=self)
+            BrokerNotification.objects.get_or_create(case=self)
+            FeedbackNotification.objects.get_or_create(case=self)
 
     @property
     def title(self):
