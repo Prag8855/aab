@@ -54,7 +54,7 @@ Vue.component('health-insurance-calculator', {
 			// Component settings
 			trackAs: `Health insurance ${this.mode}`,
 			stages: this.mode === 'question' ? [
-					'ask-a-broker',
+					'askABroker',
 					'questions',
 					'thank-you',
 					'error',
@@ -62,7 +62,7 @@ Vue.component('health-insurance-calculator', {
 					'occupation',
 					'questions',
 					'options',
-					'ask-a-broker',
+					'askABroker',
 					'thank-you',
 					'error',
 				],
@@ -218,13 +218,13 @@ Vue.component('health-insurance-calculator', {
 		// Insurance questions
 		selectOccupation(occupation){
 			this.occupation = occupation;
-			occupation ? this.nextStage() : this.goToStage('ask-a-broker');
+			occupation ? this.nextStage() : this.goToStage('askABroker');
 		},
 
 		// Insurance options
 		selectInsuranceOption(option){
 			if(option === 'broker'){
-				this.goToStage('ask-a-broker');
+				this.goToStage('askABroker');
 			}
 		},
 
@@ -473,7 +473,7 @@ Vue.component('health-insurance-calculator', {
 				</div>
 			</template>
 
-			<template v-if="stage === 'ask-a-broker'">
+			<template v-if="stage === 'askABroker'">
 				<div class="form-recipient">
 					<div>
 						<p>Seamus will help you <strong>choose the right health insurance</strong>. I trust him because he is honest and knowledgeable.</p>
@@ -515,7 +515,7 @@ Vue.component('health-insurance-calculator', {
 							</p>
 						</details>
 					</div>
-					<template v-if="mode === 'calculator' && contactMethod !== 'WHATSAPP'">
+					<template v-if="contactMethod !== 'WHATSAPP'">
 						<hr>
 						<div class="form-group">
 							<label :for="uid('question')">
