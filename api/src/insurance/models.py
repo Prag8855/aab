@@ -1,8 +1,9 @@
 from datetime import timedelta
+from dateutil.relativedelta import relativedelta
 from django.core.exceptions import ValidationError
-from django_countries.fields import CountryField
 from django.db import models
 from django.utils import timezone
+from django_countries.fields import CountryField
 from forms.models import ScheduledMessage
 
 
@@ -149,8 +150,13 @@ class InsuredPerson(models.Model):
     is_married = models.BooleanField(null=True)
 
     # Age is easier to collect. Date of birth is necessary at later stages.
-    age = models.PositiveSmallIntegerField(blank=True, null=True)
+    age = models.PositiveSmallIntegerField(blank=True, null=True, help_text="When the date of birth is set, the age is calculated automatically.")
     date_of_birth = models.DateField(blank=True, null=True)
+
+    def save(self, *args, **kwargs):
+        if self.date_of_birth:
+            self.age = relativedelta(timezone.now(), self.date_of_birth)
+        super().save(*args, **kwargs)
 
     @property
     def name(self):
@@ -222,9 +228,6 @@ class CustomerNotification(CaseNotificationMixin, ScheduledMessage):
 class BrokerNotification(CaseNotificationMixin, ScheduledMessage):
     recipients = ['Seamus.Wolf@horizon65.com', ]
     template = 'broker-notification.html'
-
-    def save(self, *args, **kwargs):
-        super().save(*args, **kwargs)
 
     @property
     def subject(self) -> str:
