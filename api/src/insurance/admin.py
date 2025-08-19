@@ -43,10 +43,10 @@ class InsuredPersonInline(NestedStackedInline):
     fields = (
         ('first_name', 'last_name'),
         'description',
-        ('occupation', 'income'),
-        ('nationality', 'country_of_residence'),
+        'occupation', 'income',
+        'nationality', 'country_of_residence',
         'is_married',
-        ('age', 'date_of_birth'),
+        'age', 'date_of_birth',
     )
 
 
