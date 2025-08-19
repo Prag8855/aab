@@ -72,6 +72,7 @@ Vue.component('health-insurance-calculator', {
 			healthInsurance,
 
 			// TODO: "We already know that..." replacement
+			// TODO: Email is passed even when field is not visible
 			// TODO: Move occupations from constants.js to another file
 			// TODO: Set inputsToFocus
 			// TODO: Test collapsible header text
@@ -234,7 +235,7 @@ Vue.component('health-insurance-calculator', {
 						keepalive: true,
 						headers: {'Content-Type': 'application/json; charset=utf-8'},
 						body: JSON.stringify({
-							email: this.email,
+							email: this.email || '',
 							notes: this.caseNotes,
 							referrer: getReferrer() || '',
 							contact_method: this.contactMethod || 'EMAIL',
