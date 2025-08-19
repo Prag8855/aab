@@ -24,11 +24,9 @@ def migrate_models_to_insurance(apps, schema_editor):
     HealthInsuranceQuestion = apps.get_model('forms', 'HealthInsuranceQuestion')
     HealthInsuranceQuestionFeedback = apps.get_model('forms', 'HealthInsuranceQuestionFeedback')
     Case = apps.get_model('insurance', 'Case')
-    Comment = apps.get_model('insurance', 'Comment')
     BrokerNotification = apps.get_model('insurance', 'BrokerNotification')
     CustomerNotification = apps.get_model('insurance', 'CustomerNotification')
     FeedbackNotification = apps.get_model('insurance', 'FeedbackNotification')
-    ContentType = apps.get_model('contenttypes', 'ContentType')
 
     Case.creation_date.field.auto_now_add = False
 
@@ -48,7 +46,6 @@ def migrate_models_to_insurance(apps, schema_editor):
             email='redacted@redacted.com' if q.email == 'AAAAA@AAAAA.COM' else q.email,
             phone='',
             whatsapp='',
-            title='',
             notes=notes,
             referrer=q.referrer,
         )
