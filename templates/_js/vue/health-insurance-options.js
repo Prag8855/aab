@@ -30,6 +30,8 @@ Vue.component('health-insurance-options', {
 			}
 		},
 
+		isStudent(){ return occupations.isStudent(this.occupation) },
+
 		results() {
 			return getHealthInsuranceOptions({...this.$props, sortByPrice: true});
 		},
