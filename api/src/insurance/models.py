@@ -39,7 +39,7 @@ class Case(models.Model):
     """
     A need that usually results in an insurance policy being signed.
     """
-    email = models.EmailField()
+    email = models.EmailField(blank=True)
     phone = models.CharField(blank=True, max_length=50)
     whatsapp = models.CharField(blank=True, max_length=50)
     contact_method = models.CharField("Contact method", max_length=15, choices=ContactMethod, default=ContactMethod.EMAIL)
@@ -55,6 +55,11 @@ class Case(models.Model):
     def name(self):
         first_person = self.insured_persons.first()
         return first_person.name if first_person else "(no name)"
+
+    def clean(self):
+        super().clean()
+        if self.contact_method == ContactMethod.EMAIL and not self.email:
+            raise ValidationError({'email': 'Email is required when contact_method is EMAIL.'})
 
     def save(self, *args, **kwargs):
         # Get status from child comments
