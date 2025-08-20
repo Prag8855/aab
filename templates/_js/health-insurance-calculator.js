@@ -332,34 +332,24 @@ function isPaidBySocialBenefits(occupation, monthlyIncome){
 	);
 }
 
-function canHavePublicHealthInsurance(occupation, age, isEUCitizen, currentInsurance){
-	if(currentInsurance === 'public' || (isEUCitizen && !currentInsurance)){
-		return true;
-	}
-	else{
-		// Non-EU students over 30 are disqualified, unless they're already on public
-		if(occupations.isStudent(occupation) && age >= 30){
-			return false;
-		}
-		
-		// Non-EU freelancers are disqualified, unless they're already on public
-		// TODO: What about self-employed students?
-		if(occupation === 'selfEmployed'){
-			return false;
-		}
-
-		// Non-EU unemployed are eligible for public unless they already have it
-		if(occupation === 'unemployed'){
-			return false;
-		}
-
-		// After 55 you can't join public, but you can change between public options
-		if(age >= 55){ 
-			return false;
-		}
-	}
-
-	return true;
+function canHavePublicHealthInsurance(occupation, monthlyIncome, hoursWorkedPerWeek, age, isEUCitizen, currentInsurance){
+	return (
+		// If you had public health insurance in 2 of the last 5 years in the EU
+		currentInsurance === 'public'
+		|| (
+			// Students under 30
+			occupations.isStudent(occupation)
+			&& age < 30
+			&& !isWerkstudent(occupation, monthlyIncome, hoursWorkedPerWeek)
+		)
+		|| (
+			// Employees, except minijobs and high incomes
+			occupations.isEmployed(occupation)
+			&& !occupations.isMinijob(occupation, monthlyIncome)
+			&& monthlyIncome < healthInsurance.minFreiwilligMonthlyIncome
+			&& age <= 55  // TODO: Only if they didn't have public in the last 5 years
+		)
+	);
 }
 
 function canHavePrivateHealthInsurance(occupation, monthlyIncome, hoursWorkedPerWeek){
@@ -537,7 +527,7 @@ function getHealthInsuranceOptions({
 		}
 	}
 
-	if(canHavePublicHealthInsurance(occupation, age, isEUCitizen, currentInsurance)){
+	if(canHavePublicHealthInsurance((occupation, monthlyIncome, hoursWorkedPerWeek, age, isEUCitizen, currentInsurance))){
 		output.public.eligible = true;
 		output.flags.add('public');
 
