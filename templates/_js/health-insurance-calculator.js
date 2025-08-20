@@ -362,11 +362,10 @@ function canHavePrivateHealthInsurance(occupation, monthlyIncome, hoursWorkedPer
 	);
 }
 
-function canHaveExpatHealthInsurance(occupation, monthlyIncome, hoursWorkedPerWeek, currentInsurance, isEUCitizen){
+function canHaveExpatHealthInsurance(occupation, monthlyIncome, hoursWorkedPerWeek, currentInsurance){
 	// These people CAN have expat health insurance
 	return (
 		canHavePrivateHealthInsurance(occupation, monthlyIncome, hoursWorkedPerWeek)
-		&& !isEUCitizen
 		&& currentInsurance !== 'public'
 		&& currentInsurance !== 'private'
 
@@ -492,7 +491,7 @@ function getHealthInsuranceOptions({
 		description: '',
 		options: [],
 	}
-	if(canHaveExpatHealthInsurance(occupation, monthlyIncome, hoursWorkedPerWeek, currentInsurance, isEUCitizen)){
+	if(canHaveExpatHealthInsurance(occupation, monthlyIncome, hoursWorkedPerWeek, currentInsurance)){
 		output.flags.add('expat');
 		output.expat.eligible = true;
 		output.expat.options = [
