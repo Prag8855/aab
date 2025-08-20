@@ -327,17 +327,6 @@ Vue.component('health-insurance-calculator', {
 				<p v-else>It helps us calculate prices and recommend the right health insurance.</p>
 				<hr>
 				<div class="form-group">
-					<label :for="uid('isEUCitizen')">
-						Nationality
-					</label>
-					<div class="input-group vertical">
-						<label class="checkbox">
-							<input type="checkbox" :id="uid('isEUCitizen')" v-model="isEUCitizen">
-							<div>I am an <glossary term="European Union">EU</glossary> citizen</div>
-						</label>
-					</div>
-				</div>
-				<div class="form-group">
 					<label :for="uid('age')">
 						Age
 					</label>
@@ -407,6 +396,17 @@ Vue.component('health-insurance-calculator', {
 					</div>
 				</div>
 				<hr v-if="askForCurrentInsurance">
+				<div class="form-group">
+					<label :for="uid('isEUCitizen')">
+						Nationality
+					</label>
+					<div class="input-group vertical">
+						<label class="checkbox">
+							<input type="checkbox" :id="uid('isEUCitizen')" v-model="isEUCitizen">
+							<div>I am an <glossary term="European Union">EU</glossary> citizen</div>
+						</label>
+					</div>
+				</div>
 				<div class="form-group" v-if="askForCurrentInsurance">
 					<label :for="uid('hasPublicHealthInsurance')">
 						Current insurance
