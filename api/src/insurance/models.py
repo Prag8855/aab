@@ -244,6 +244,10 @@ class BrokerNotification(CaseNotificationMixin, ScheduledMessage):
     def subject(self) -> str:
         return f"Insurance question from {self.case.name} (All About Berlin)"
 
+    @property
+    def reply_to(self) -> str:
+        return self.case.email
+
     class Meta(ScheduledMessage.Meta):
         pass
 
