@@ -66,19 +66,8 @@ function gkvTariff(age, occupation, monthlyIncome, hoursWorkedPerWeek){
 	// Choose the tariff used to calculate the cost of public health insurance
 	let tariff = null;
 
-	if(occupations.isStudent(occupation)) {
+	if(occupations.isStudent(occupation) && age < 30) {
 		tariff = 'student';
-		if(age >= 30) {
-			if(occupations.isEmployed(occupation)) {
-				tariff = 'employee';
-			}
-			else if(occupations.isSelfEmployed(occupation)) {
-				tariff = 'selfEmployed';
-			}
-			else {
-				tariff = 'selfPay';
-			}
-		}
 
 		if(!isWerkstudent(occupation, monthlyIncome, hoursWorkedPerWeek)){
 			tariff = occupations.isSelfEmployed(occupation) ? 'selfEmployed' : 'employee';
@@ -95,7 +84,7 @@ function gkvTariff(age, occupation, monthlyIncome, hoursWorkedPerWeek){
 	}
 	else if(occupation === 'azubi') {
 		// When the Azubi's pay is too low, the employer pays for everything - §20 Abs. 3 SGB IV
-		tariff = monthlyIncome <= healthInsurance.azubiFreibetrag ? 'azubiFree' : 'azubi';
+		tariff = isPflichtversichertAzubi(occupation, monthlyIncome) ? 'azubi' : 'azubiFree';
 	}
 
 	if(tariff === 'employee'){
@@ -280,11 +269,12 @@ function gkvOptions({occupation, monthlyIncome, hoursWorkedPerWeek, age, childre
 	});
 }
 
-function canHaveEHIC(isEUCitizen, monthlyIncome){
-	// EHIC is available if you are insured in another EU country
+function canHaveEHIC(currentInsurance, isEUCitizen, monthlyIncome){
+	// EHIC is available if you are publicly insured in another EU country
 	// It's invalidated as soon as you have an income, even if it's below the minijob threshold
 	return (
-		isEUCitizen
+		currentInsurance === 'public'
+		&& isEUCitizen
 		&& monthlyIncome === 0
 	);
 }
@@ -306,12 +296,18 @@ function _canHaveFamilienversicherung(occupation, monthlyIncome){
 	const maxIncome = occupations.isEmployed(occupation) ? taxes.maxMinijobIncome : healthInsurance.maxFamilienversicherungIncome;
 
 	// Azubis can't use Familienversicherung - krankenkasse-vergleich-direkt.de/ratgeber/krankenversicherung-fuer-auszubildende.html
-	return occupation !== 'azubi' && monthlyIncome <= maxIncome;
+	return (
+		occupation !== 'azubi'
+		&& monthlyIncome <= maxIncome
+	);
 }
 
 function canHaveFamilienversicherungFromSpouse(occupation, monthlyIncome, isMarried){
 	// There is no age limit if getting FV from your spouse
-	return isMarried && _canHaveFamilienversicherung(occupation, monthlyIncome);
+	return (
+		isMarried
+		&& _canHaveFamilienversicherung(occupation, monthlyIncome)
+	);
 }
 
 function canHaveFamilienversicherungFromParents(occupation, monthlyIncome, age){
@@ -324,65 +320,81 @@ function canHaveFamilienversicherungFromParents(occupation, monthlyIncome, age){
 	);
 }
 
-function isPaidBySocialBenefits(occupation, monthlyIncome){
-	// If income below limit, and receiving social benefits
+function canBePaidBySocialBenefits(occupation, monthlyIncome){
 	return (
 		occupations.isUnemployed(occupation)
 		&& monthlyIncome <= healthInsurance.maxFamilienversicherungIncome
 	);
 }
 
+function isPflichtversichertAzubi(occupation, monthlyIncome){
+	return (
+		occupation === 'azubi'
+		&& monthlyIncome > healthInsurance.azubiFreibetrag
+	);
+}
+
+function isPflichtversichertEmployee(occupation, monthlyIncome, age){
+	return (
+		occupations.isEmployed(occupation)
+		&& !occupations.isMinijob(occupation, monthlyIncome)
+		&& monthlyIncome < healthInsurance.minFreiwilligMonthlyIncome
+	);
+}
+
+function isPflichtversichert(occupation, monthlyIncome, age){
+	return isPflichtversichertEmployee(occupation, monthlyIncome, age)
+		|| isPflichtversichertAzubi(occupation, monthlyIncome);
+}
+
+function canHaveStudentTarif(occupation, monthlyIncome, hoursWorkedPerWeek, age){
+	return (
+		occupations.isStudent(occupation)
+		&& age < 30
+		&& isWerkstudent(occupation, monthlyIncome, hoursWorkedPerWeek)
+	)
+}
+
 function canHavePublicHealthInsurance(occupation, monthlyIncome, hoursWorkedPerWeek, age, isEUCitizen, currentInsurance){
 	return (
 		// If you had public health insurance in 2 of the last 5 years in the EU
 		currentInsurance === 'public'
-		|| (
-			// Students under 30
-			occupations.isStudent(occupation)
-			&& age < 30
-			&& !isWerkstudent(occupation, monthlyIncome, hoursWorkedPerWeek)
-		)
-		|| (
-			// Employees, except minijobs and high incomes
-			occupations.isEmployed(occupation)
-			&& !occupations.isMinijob(occupation, monthlyIncome)
-			&& monthlyIncome < healthInsurance.minFreiwilligMonthlyIncome
-			&& age <= 55  // TODO: Only if they didn't have public in the last 5 years
-		)
+		|| isPflichtversichert(occupation, monthlyIncome, age)
+		|| canHaveStudentTarif(occupation, monthlyIncome, hoursWorkedPerWeek, age)
 	);
 }
 
-function canHavePrivateHealthInsurance(occupation, monthlyIncome, hoursWorkedPerWeek){
+function canHavePrivateHealthInsurance(occupation, monthlyIncome, hoursWorkedPerWeek, age){
 	return (
-	 	(occupations.isEmployed(occupation) && monthlyIncome >= healthInsurance.minFreiwilligMonthlyIncome)
-		|| (occupations.isStudent(occupation) && isWerkstudent(occupation, monthlyIncome, hoursWorkedPerWeek))
+	 	!isPflichtversichert(occupation, monthlyIncome, age)
+		|| isWerkstudent(occupation, monthlyIncome, hoursWorkedPerWeek)
 		|| occupations.isSelfEmployed(occupation)
-		|| occupations.isUnemployed(occupation)
-		|| occupations.isMinijob(occupation, monthlyIncome)
-	);
+		|| occupations.isUnemployed(occupation) // TODO: Not if getting ALG I, right?
+	)
 }
 
-function canHaveExpatHealthInsurance(occupation, monthlyIncome, hoursWorkedPerWeek, currentInsurance){
-	// These people CAN have expat health insurance
+function canHaveExpatHealthInsurance(occupation, monthlyIncome, hoursWorkedPerWeek, age, currentInsurance){
+	// These people can, but don't have to get expat insurance
+
+	// Anyone who is temporarily in Germany can use expat insurance.
+	// But the insurer and the immigration office must also agree that you are temporarily here.
+	// This is only checked when you make a claim or apply for a residence permit,
+
+	// TODO: It does not work for people who have been in Germany for more than 5 years
 	return (
-		canHavePrivateHealthInsurance(occupation, monthlyIncome, hoursWorkedPerWeek)
-		&& currentInsurance !== 'public'
-		&& currentInsurance !== 'private'
-
-		// You can keep your expat insurance if you have a minijob
-		// Or if you are a Werkstudent
-		// Or if you are a student over 30
-		&& (occupation !== 'employee' || occupations.isMinijob(occupation, monthlyIncome))
-		&& occupation !== 'azubi'
+		currentInsurance !== 'public'
+		&& !isPflichtversichert(occupation, monthlyIncome, age)
 	);
 }
 
-function needsGapInsurance(isEUCitizen, currentInsurance){
-	// These people need travel/expat insurance to cover them from the day they arrive in Germany to the day their
-	// public health insurance kicks in.
+function mustHaveExpatHealthInsurance(isEUCitizen, currentInsurance){
+	// Expat health insurance is often needed as a gap insurance before public health insurance kicks in
 
 	// EU citizens don't need this because of EHIC, but EU residents do
-	return !isEUCitizen && !currentInsurance;
+	return (
+		!isEUCitizen
+		&& !currentInsurance
+	);
 }
 
 function canHaveKSK(occupation, monthlyIncome, hoursWorkedPerWeek){
@@ -410,16 +422,7 @@ function isWerkstudent(occupation, monthlyIncome, hoursWorkedPerWeek){
 		// You can earn too much to be considered a student
 		// https://www.haufe.de/personal/haufe-personal-office-platin/student-versicherungsrechtliche-bewertung-einer-selbsts-5-student-oder-selbststaendiger_idesk_PI42323_HI9693887.html
 		&& monthlyIncome <= 0.75 * healthInsurance.maxNebenjobIncome
-	)
-}
-
-function needsGapInsurance(occupation, currentInsurance){
-	// Immigrants might need expat insurance to cover them from the moment they arrive in Germany
-	// to the moment they get covered by public health insurance.
-	// - Students before the start of their semester
-	// - Employees before they start working
-
-	return !currentInsurance
+	);
 }
 
 function getHealthInsuranceOptions({
@@ -438,7 +441,6 @@ function getHealthInsuranceOptions({
 		flags: new Set(),
 		asList: [],  // The order here matters
 	};
-
 
 	/***************************************************
 	* Free options
@@ -464,21 +466,20 @@ function getHealthInsuranceOptions({
 		output.free.options.push({ id: 'familienversicherung' });
 	}
 
-	if(isPaidBySocialBenefits(occupation, monthlyIncome)){
-		output.free.options.push({ id: 'social-benefits' });
+	if(canBePaidBySocialBenefits(occupation, monthlyIncome)){
 		output.flags.add('social-benefits');
+		output.free.options.push({ id: 'social-benefits' });
 	}
 
-	if(canHaveEHIC(isEUCitizen, monthlyIncome)){
-		output.free.options.push({ id: 'ehic' });
+	if(canHaveEHIC(currentInsurance, isEUCitizen, monthlyIncome)){
 		output.flags.add('ehic');
+		output.free.options.push({ id: 'ehic' });
 	}
 
 	if(output.free.options.length){
-		output.free.eligible = true;
 		output.flags.add('free');
+		output.free.eligible = true;
 	}
-
 
 	/***************************************************
 	* Expat health insurance
@@ -491,7 +492,7 @@ function getHealthInsuranceOptions({
 		description: '',
 		options: [],
 	}
-	if(canHaveExpatHealthInsurance(occupation, monthlyIncome, hoursWorkedPerWeek, currentInsurance)){
+	if(canHaveExpatHealthInsurance(occupation, monthlyIncome, hoursWorkedPerWeek, age, currentInsurance)){
 		output.flags.add('expat');
 		output.expat.eligible = true;
 		output.expat.options = [
@@ -526,7 +527,7 @@ function getHealthInsuranceOptions({
 		}
 	}
 
-	if(canHavePublicHealthInsurance((occupation, monthlyIncome, hoursWorkedPerWeek, age, isEUCitizen, currentInsurance))){
+	if(canHavePublicHealthInsurance(occupation, monthlyIncome, hoursWorkedPerWeek, age, isEUCitizen, currentInsurance)){
 		output.public.eligible = true;
 		output.flags.add('public');
 
@@ -555,7 +556,7 @@ function getHealthInsuranceOptions({
 			output.flags.add('public-pflegeversicherung-surcharge');
 		}
 
-		if(needsGapInsurance(isEUCitizen, currentInsurance)){
+		if(mustHaveExpatHealthInsurance(isEUCitizen, currentInsurance)){
 			output.flags.add('public-gap-insurance');
 		}
 	}
@@ -574,7 +575,7 @@ function getHealthInsuranceOptions({
 		],
 	}
 
-	if(canHavePrivateHealthInsurance(occupation, monthlyIncome, hoursWorkedPerWeek)){
+	if(canHavePrivateHealthInsurance(occupation, monthlyIncome, hoursWorkedPerWeek, age)){
 		output.flags.add('private');
 		output.private.eligible = true;
 	}

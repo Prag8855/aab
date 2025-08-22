@@ -22,7 +22,7 @@ function cannotJoinKSK(output){
 	});
 }
 
-function isPaidBySocialBenefits(output){
+function canBePaidBySocialBenefits(output){
 	it('can get free health insurance through social benefits', () => {
 		hasFlag(output, 'social-benefits')();
 		equal(output.free.options.find(o => o.id === 'social-benefits').id, 'social-benefits');
@@ -866,7 +866,7 @@ describe('getHealthInsuranceOptions', () => {
 			doesNotPayPflegeversicherungSurcharge(output);
 			doesNotHaveMinijobTariff(output);
 
-			isPaidBySocialBenefits(output);
+			canBePaidBySocialBenefits(output);
 			canUseEHIC(output);
 			cannotJoinKSK(output);
 			canUseSpouseInsurance(output);
@@ -887,7 +887,7 @@ describe('getHealthInsuranceOptions', () => {
 
 			isRecommended(output, ['free', 'expat', 'private']);
 			cannotUseEHIC(output);
-			isPaidBySocialBenefits(output);
+			canBePaidBySocialBenefits(output);
 		});
 		describe('an 18 year old, unemployed, already insured non-EU immigrant', () => {
 			const output = getHealthInsuranceOptions({
@@ -903,7 +903,7 @@ describe('getHealthInsuranceOptions', () => {
 
 			isRecommended(output, ['free', 'public', 'private']);
 			cannotUseEHIC(output);
-			isPaidBySocialBenefits(output);
+			canBePaidBySocialBenefits(output);
 		});
 
 		describe('a 23 year old unemployed, already insured person', () => {
@@ -923,7 +923,7 @@ describe('getHealthInsuranceOptions', () => {
 			paysPflegeversicherungSurcharge(output);
 			doesNotHaveMinijobTariff(output);
 
-			isPaidBySocialBenefits(output);
+			canBePaidBySocialBenefits(output);
 			cannotUseEHIC(output);
 			cannotJoinKSK(output);
 			canUseSpouseInsurance(output)

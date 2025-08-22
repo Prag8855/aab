@@ -84,6 +84,8 @@ Vue.component('health-insurance-calculator', {
 			// TODO: Add childrenCount to API
 			// TODO: Add hasPublicHealthInsurance to API
 			// TODO: Replace currentInsurance with hasPublicHealthInsurance
+			// TODO: Set expat insurance prices correctly
+			// TODO: Add HanseMerkur
 		};
 	},
 	mounted(){
