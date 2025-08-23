@@ -334,17 +334,20 @@ function isPflichtversichertAzubi(occupation, monthlyIncome){
 	);
 }
 
-function isPflichtversichertEmployee(occupation, monthlyIncome, age){
+function isPflichtversichertEmployee(occupation, monthlyIncome, hoursWorkedPerWeek, age){
 	return (
 		occupations.isEmployed(occupation)
 		&& !occupations.isMinijob(occupation, monthlyIncome)
 		&& monthlyIncome < healthInsurance.minFreiwilligMonthlyIncome
+		&& !isWerkstudent(occupation, monthlyIncome, hoursWorkedPerWeek)
 	);
 }
 
-function isPflichtversichert(occupation, monthlyIncome, age){
-	return isPflichtversichertEmployee(occupation, monthlyIncome, age)
-		|| isPflichtversichertAzubi(occupation, monthlyIncome);
+function isPflichtversichert(occupation, monthlyIncome, hoursWorkedPerWeek, age){
+	return (
+		isPflichtversichertEmployee(occupation, monthlyIncome, hoursWorkedPerWeek, age)
+		|| isPflichtversichertAzubi(occupation, monthlyIncome)
+	);
 }
 
 function canHaveStudentTarif(occupation, monthlyIncome, hoursWorkedPerWeek, age){
@@ -355,18 +358,18 @@ function canHaveStudentTarif(occupation, monthlyIncome, hoursWorkedPerWeek, age)
 	)
 }
 
-function canHavePublicHealthInsurance(occupation, monthlyIncome, hoursWorkedPerWeek, age, isEUCitizen, currentInsurance){
+function canHavePublicHealthInsurance(occupation, monthlyIncome, hoursWorkedPerWeek, age, currentInsurance){
 	return (
 		// If you had public health insurance in 2 of the last 5 years in the EU
 		currentInsurance === 'public'
-		|| isPflichtversichert(occupation, monthlyIncome, age)
+		|| isPflichtversichert(occupation, monthlyIncome, hoursWorkedPerWeek, age)
 		|| canHaveStudentTarif(occupation, monthlyIncome, hoursWorkedPerWeek, age)
 	);
 }
 
 function canHavePrivateHealthInsurance(occupation, monthlyIncome, hoursWorkedPerWeek, age){
 	return (
-	 	!isPflichtversichert(occupation, monthlyIncome, age)
+	 	!isPflichtversichert(occupation, monthlyIncome, hoursWorkedPerWeek, age)
 		|| isWerkstudent(occupation, monthlyIncome, hoursWorkedPerWeek)
 		|| occupations.isSelfEmployed(occupation)
 		|| occupations.isUnemployed(occupation) // TODO: Not if getting ALG I, right?
@@ -383,7 +386,7 @@ function canHaveExpatHealthInsurance(occupation, monthlyIncome, hoursWorkedPerWe
 	// TODO: It does not work for people who have been in Germany for more than 5 years
 	return (
 		currentInsurance !== 'public'
-		&& !isPflichtversichert(occupation, monthlyIncome, age)
+		&& !isPflichtversichert(occupation, monthlyIncome, hoursWorkedPerWeek, age)
 	);
 }
 
@@ -527,7 +530,7 @@ function getHealthInsuranceOptions({
 		}
 	}
 
-	if(canHavePublicHealthInsurance(occupation, monthlyIncome, hoursWorkedPerWeek, age, isEUCitizen, currentInsurance)){
+	if(canHavePublicHealthInsurance(occupation, monthlyIncome, hoursWorkedPerWeek, age, currentInsurance)){
 		output.public.eligible = true;
 		output.flags.add('public');
 
