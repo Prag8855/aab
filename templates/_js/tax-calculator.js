@@ -42,9 +42,9 @@ function calculateTax(yearlyIncome, {
 		occupation,
 
 		// Sensible defaults
+		isApplyingForFirstVisa: false,  // Expat insurance not required
 		hoursWorkedPerWeek: 20,  // Ensures Werkstudent pricing for students
-		isEUCitizen: true,  // Ensures public is available, and expat is unavailable
-		currentInsurance: 'public',  // Ensures public is available, and expat is unavailable
+		hasGermanPublicHealthInsurance: true,  // Ensures that public is available
 		sortByPrice: true,
 	});
 	healthInsuranceResult.flags.forEach(f => result.flags.add(`kv-${f}`));

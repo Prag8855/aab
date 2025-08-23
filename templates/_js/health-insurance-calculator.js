@@ -269,13 +269,13 @@ function gkvOptions({occupation, monthlyIncome, hoursWorkedPerWeek, age, childre
 	});
 }
 
-function canHaveEHIC(currentInsurance, isEUCitizen, monthlyIncome){
+function canHaveEHIC(hasEUPublicHealthInsurance, hasGermanPublicHealthInsurance, monthlyIncome){
 	// EHIC is available if you are publicly insured in another EU country
 	// It's invalidated as soon as you have an income, even if it's below the minijob threshold
 	return (
-		currentInsurance === 'public'
-		&& isEUCitizen
-		&& monthlyIncome === 0
+		hasEUPublicHealthInsurance
+		&& !hasGermanPublicHealthInsurance
+		&& !monthlyIncome
 	);
 }
 
@@ -358,10 +358,10 @@ function canHaveStudentTarif(occupation, monthlyIncome, hoursWorkedPerWeek, age)
 	)
 }
 
-function canHavePublicHealthInsurance(occupation, monthlyIncome, hoursWorkedPerWeek, age, currentInsurance){
+function canHavePublicHealthInsurance(occupation, monthlyIncome, hoursWorkedPerWeek, age, hasEUPublicHealthInsurance){
 	return (
 		// If you had public health insurance in 2 of the last 5 years in the EU
-		currentInsurance === 'public'
+		hasEUPublicHealthInsurance
 		|| isPflichtversichert(occupation, monthlyIncome, hoursWorkedPerWeek, age)
 		|| canHaveStudentTarif(occupation, monthlyIncome, hoursWorkedPerWeek, age)
 	);
@@ -376,7 +376,7 @@ function canHavePrivateHealthInsurance(occupation, monthlyIncome, hoursWorkedPer
 	)
 }
 
-function canHaveExpatHealthInsurance(occupation, monthlyIncome, hoursWorkedPerWeek, age, currentInsurance){
+function canHaveExpatHealthInsurance(occupation, monthlyIncome, hoursWorkedPerWeek, age, hasGermanPublicHealthInsurance){
 	// These people can, but don't have to get expat insurance
 
 	// Anyone who is temporarily in Germany can use expat insurance.
@@ -385,18 +385,8 @@ function canHaveExpatHealthInsurance(occupation, monthlyIncome, hoursWorkedPerWe
 
 	// TODO: It does not work for people who have been in Germany for more than 5 years
 	return (
-		currentInsurance !== 'public'
+		!hasGermanPublicHealthInsurance
 		&& !isPflichtversichert(occupation, monthlyIncome, hoursWorkedPerWeek, age)
-	);
-}
-
-function mustHaveExpatHealthInsurance(isEUCitizen, currentInsurance){
-	// Expat health insurance is often needed as a gap insurance before public health insurance kicks in
-
-	// EU citizens don't need this because of EHIC, but EU residents do
-	return (
-		!isEUCitizen
-		&& !currentInsurance
 	);
 }
 
@@ -431,19 +421,25 @@ function isWerkstudent(occupation, monthlyIncome, hoursWorkedPerWeek){
 function getHealthInsuranceOptions({
 	age,
 	childrenCount,
-	currentInsurance,
+	hasEUPublicHealthInsurance,
+	hasGermanPublicHealthInsurance,
 	hoursWorkedPerWeek,
-	isEUCitizen,
+	isApplyingForFirstVisa,
 	isMarried,
 	monthlyIncome,
 	occupation,
-	sortByPrice,
+
 	customZusatzbeitrag,
+	sortByPrice,
 }){
 	const output = {
 		flags: new Set(),
 		asList: [],  // The order here matters
 	};
+
+	if(hasGermanPublicHealthInsurance){
+		hasEUPublicHealthInsurance = true;
+	}
 
 	/***************************************************
 	* Free options
@@ -474,7 +470,7 @@ function getHealthInsuranceOptions({
 		output.free.options.push({ id: 'social-benefits' });
 	}
 
-	if(canHaveEHIC(currentInsurance, isEUCitizen, monthlyIncome)){
+	if(canHaveEHIC(hasEUPublicHealthInsurance, hasGermanPublicHealthInsurance, monthlyIncome)){
 		output.flags.add('ehic');
 		output.free.options.push({ id: 'ehic' });
 	}
@@ -495,7 +491,7 @@ function getHealthInsuranceOptions({
 		description: '',
 		options: [],
 	}
-	if(canHaveExpatHealthInsurance(occupation, monthlyIncome, hoursWorkedPerWeek, age, currentInsurance)){
+	if(canHaveExpatHealthInsurance(occupation, monthlyIncome, hoursWorkedPerWeek, age, hasGermanPublicHealthInsurance)){
 		output.flags.add('expat');
 		output.expat.eligible = true;
 		output.expat.options = [
@@ -530,7 +526,7 @@ function getHealthInsuranceOptions({
 		}
 	}
 
-	if(canHavePublicHealthInsurance(occupation, monthlyIncome, hoursWorkedPerWeek, age, currentInsurance)){
+	if(canHavePublicHealthInsurance(occupation, monthlyIncome, hoursWorkedPerWeek, age, hasEUPublicHealthInsurance)){
 		output.public.eligible = true;
 		output.flags.add('public');
 
@@ -559,7 +555,9 @@ function getHealthInsuranceOptions({
 			output.flags.add('public-pflegeversicherung-surcharge');
 		}
 
-		if(mustHaveExpatHealthInsurance(isEUCitizen, currentInsurance)){
+		if(isApplyingForFirstVisa){
+			// Expat health insurance is often needed as a gap insurance before public health insurance kicks in
+			// EU citizens don't need this because of EHIC, but EU residents do
 			output.flags.add('public-gap-insurance');
 		}
 	}

@@ -41,8 +41,9 @@ Vue.component('health-insurance-calculator', {
 			useMonthlyIncome: userDefaults.useMonthlyIncome,
 			yearlyIncome: userDefaults.yearlyIncome,
 			worksOver20HoursPerWeek: false,
-			isEUCitizen: false,
-			hasPublicHealthInsurance: false,
+			isApplyingForFirstVisa: false,
+			hasGermanPublicHealthInsurance: false,
+			hasEUPublicHealthInsurance: false,
 
 			// Contact form
 			contactMethod: null,
@@ -83,7 +84,6 @@ Vue.component('health-insurance-calculator', {
 			// TODO: Use email-input and full-name-input everywhere
 			// TODO: Add childrenCount to API
 			// TODO: Add hasPublicHealthInsurance to API
-			// TODO: Replace currentInsurance with hasPublicHealthInsurance
 			// TODO: Set expat insurance prices correctly
 			// TODO: Add HanseMerkur
 		};
@@ -123,9 +123,10 @@ Vue.component('health-insurance-calculator', {
 			return {
 				age: this.age,
 				childrenCount: this.childrenCount,
-				currentInsurance: this.hasPublicHealthInsurance ? 'public' : null,
+				hasGermanPublicHealthInsurance: this.hasGermanPublicHealthInsurance,
+				hasEUPublicHealthInsurance: this.hasEUPublicHealthInsurance,
 				hoursWorkedPerWeek: this.worksOver20HoursPerWeek ? 40 : 20,
-				isEUCitizen: this.isEUCitizen,
+				isApplyingForFirstVisa: this.isApplyingForFirstVisa,
 				isMarried: this.isMarried,
 				monthlyIncome: this.isUnemployed ? 0 : this.monthlyIncome,
 				occupation: this.occupation,
@@ -166,8 +167,8 @@ Vue.component('health-insurance-calculator', {
 			if(this.yearlyIncome !== undefined && !this.isUnemployed){
 				facts.push(`I earn ${formatCurrency(this.yearlyIncome)} per year`);
 			}
-			if(this.isEUCitizen !== undefined){
-				facts.push(`I am ${this.isEUCitizen ? '' : 'not '}an EU citizen`);
+			if(this.isApplyingForFirstVisa){
+				facts.push('I am applying for a visa');
 			}
 			if(this.isMarried !== undefined){
 				facts.push(`I am ${this.isMarried ? '' : 'not '}married`);
@@ -399,27 +400,31 @@ Vue.component('health-insurance-calculator', {
 				</div>
 				<hr v-if="askForCurrentInsurance">
 				<div class="form-group">
-					<label :for="uid('isEUCitizen')">
-						Nationality
+					<label :for="uid('isApplyingForFirstVisa')">
+						Immigration
 					</label>
 					<div class="input-group vertical">
 						<label class="checkbox">
-							<input type="checkbox" :id="uid('isEUCitizen')" v-model="isEUCitizen">
-							<div>I am an <glossary term="European Union">EU</glossary> citizen</div>
+							<input type="checkbox" :id="uid('isApplyingForFirstVisa')" v-model="isApplyingForFirstVisa">
+							<div>I am applying for my first <glossary>National Visa</glossary></div>
 						</label>
 					</div>
 				</div>
 				<div class="form-group" v-if="askForCurrentInsurance">
-					<label :for="uid('hasPublicHealthInsurance')">
+					<label :for="uid('hasGermanPublicHealthInsurance')">
 						Current insurance
 					</label>
 					<div class="input-group vertical">
 						<label class="checkbox">
-							<input type="checkbox" :id="uid('hasPublicHealthInsurance')" v-model="hasPublicHealthInsurance">
-							I have public health insurance
+							<input type="checkbox" :id="uid('hasGermanPublicHealthInsurance')" v-model="hasGermanPublicHealthInsurance">
+							I have public health insurance in Germany
+						</label>
+						<label class="checkbox">
+							<input type="checkbox" :id="uid('hasEUPublicHealthInsurance')" v-model="hasEUPublicHealthInsurance">
+							I have public health insurance in another EU country
 						</label>
 						<span class="input-instructions">
-							Select this if you had <glossary term="gesetzliche Krankenversicherung">public health insurance</glossary> in any <glossary term="European Union">EU</glossary> country for at least 2 of the past 5 years.
+							Select this if you had <glossary term="gesetzliche Krankenversicherung">public health insurance</glossary> in at least 2 of the past 5 years.
 						</span>
 					</div>
 				</div>

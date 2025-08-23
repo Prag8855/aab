@@ -10,9 +10,10 @@ Vue.component('health-insurance-options', {
 	props: {
 		age: Number,
 		childrenCount: Number,
-		currentInsurance: String,
+		hasGermanPublicHealthInsurance: Boolean,
+		hasEUPublicHealthInsurance: Boolean,
 		hoursWorkedPerWeek: Number,
-		isEUCitizen: Boolean,
+		isApplyingForFirstVisa: Boolean,
 		isMarried: Boolean,
 		monthlyIncome: Number,
 		occupation: String,
@@ -79,27 +80,16 @@ Vue.component('health-insurance-options', {
 			return {
 				age: +this.age,
 				childrenCount: this.childrenCount,
-				currentInsurance: this.currentInsurance,
-				hoursWorkedPerWeek: this.worksOver20HoursPerWeek ? 40 : 20,
-				isEUCitizen: this.isEUCitizen,
+				hasGermanPublicHealthInsurance: this.hasGermanPublicHealthInsurance,
+				hasEUPublicHealthInsurance: this.hasEUPublicHealthInsurance,
+				hoursWorkedPerWeek: this.hoursWorkedPerWeek,
+				isApplyingForFirstVisa: this.isApplyingForFirstVisa,
 				isMarried: this.isMarried,
 				occupation: this.occupation,
 
 				// Clear the income when the income input is not visible
 				monthlyIncome: this.isUnemployed ? 0 : +this.monthlyIncome,
 				sortByPrice: true,
-			}
-		},
-		contactFormParams() {
-			return {
-				age: this.occupation ? this.age : undefined,
-				childrenCount: this.childrenCount,
-				currentInsurance: this.currentInsurance,
-				yearlyIncome: (this.yearlyIncome && !this.isUnemployed) ? this.yearlyIncome : undefined,
-				isEUCitizen: Boolean,
-				isMarried: this.isMarried,
-				occupation: this.occupation ? this.occupation : undefined,
-				worksOver20HoursPerWeek: this.worksOver20HoursPerWeek,
 			}
 		},
 
@@ -243,7 +233,7 @@ Vue.component('health-insurance-options', {
 			}
 			// Students over 30 years old
 			else if(this.flag('public-student-over-30')){
-				if(this.isEUCitizen){
+				if(this.isApplyingForFirstVisa){
 					// TODO: Private explanation for EU students over 30?
 				}
 				else{
@@ -257,7 +247,7 @@ Vue.component('health-insurance-options', {
 				}
 			}
 			else if(this.flag('public-not-werkstudent')){
-				if(this.worksOver20HoursPerWeek > 20){
+				if(this.hoursWorkedPerWeek > 20){
 					output.public += " You work more than 20 hours per week, so you don't pay the cheaper student tariff.";
 				}
 				else{
