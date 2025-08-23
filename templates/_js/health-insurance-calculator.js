@@ -66,7 +66,11 @@ function gkvTariff(age, occupation, monthlyIncome, hoursWorkedPerWeek){
 	// Choose the tariff used to calculate the cost of public health insurance
 	let tariff = null;
 
-	if(occupations.isStudent(occupation) && age < 30) {
+	if(occupation === 'azubi') {
+		// When the Azubi's pay is too low, the employer pays for everything - §20 Abs. 3 SGB IV
+		tariff = isPflichtversichertAzubi(occupation, monthlyIncome) ? 'azubi' : 'azubiFree';
+	}
+	else if(occupations.isStudent(occupation) && age < 30) {
 		tariff = 'student';
 
 		if(!isWerkstudent(occupation, monthlyIncome, hoursWorkedPerWeek)){
@@ -79,12 +83,8 @@ function gkvTariff(age, occupation, monthlyIncome, hoursWorkedPerWeek){
 	else if(occupations.isUnemployed(occupation)) {
 		tariff = 'selfPay';
 	}
-	else if(occupation === 'employee') {
+	else if(occupations.isEmployed('employee')) {
 		tariff = 'employee';
-	}
-	else if(occupation === 'azubi') {
-		// When the Azubi's pay is too low, the employer pays for everything - §20 Abs. 3 SGB IV
-		tariff = isPflichtversichertAzubi(occupation, monthlyIncome) ? 'azubi' : 'azubiFree';
 	}
 
 	if(tariff === 'employee'){
