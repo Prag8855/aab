@@ -16,22 +16,15 @@
 		</article>
 	</main>
 
-	<script src="https://unpkg.com/chai@4.3.7/chai.js"></script>
-	<script src="https://unpkg.com/mocha/mocha.js"></script>
-	<script class="mocha-init">
-		mocha.setup('bdd');
-		let assert = chai.assert;
-		chai.config.truncateThreshold = 0;
-		{% js %}
-			{% include '_js/constants.js' %}
-			{% include '_js/currency.js' %}
-			{% include '_js/tracking.js' %}
-			{% include '_js/health-insurance-calculator.js' %}
-			{% include '_js/pension-refund-calculator.js' %}
-			{% include '_js/tax-calculator.js' %}
-			{% include '_js/utils.js' %}
-		{% endjs %}
-	</script>
+	{% include '_js/chai.js' %}	
+	{% include '_js/mocha.js' %}
+	{% include '_js/constants.js' %}
+	{% include '_js/currency.js' %}
+	{% include '_js/tracking.js' %}
+	{% include '_js/health-insurance-calculator.js' %}
+	{% include '_js/pension-refund-calculator.js' %}
+	{% include '_js/tax-calculator.js' %}
+	{% include '_js/utils.js' %}
 {% endblock %}
 
 {% block postFooter %}
@@ -77,4 +70,9 @@
 
 		#mocha-report .test.fail h2{color:red;font-weight: bold;}
 	</style>
+	<script class="mocha-init">
+		mocha.setup('bdd');
+		let assert = chai.assert;
+		chai.config.truncateThreshold = 0;
+	</script>
 {% endblock %}
