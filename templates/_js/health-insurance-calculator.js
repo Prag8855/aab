@@ -68,7 +68,7 @@ function gkvTariff(age, occupation, monthlyIncome, hoursWorkedPerWeek){
 
 	if(occupation === 'azubi') {
 		// When the Azubi's pay is too low, the employer pays for everything - §20 Abs. 3 SGB IV
-		tariff = isPflichtversichertAzubi(occupation, monthlyIncome) ? 'azubi' : 'azubiFree';
+		tariff = monthlyIncome <= healthInsurance.azubiFreibetrag ? 'azubiFree' : 'azubi';
 	}
 	else if(occupations.isStudent(occupation) && age < 30) {
 		tariff = 'student';
@@ -320,10 +320,11 @@ function canHaveFamilienversicherungFromParents(occupation, monthlyIncome, age){
 	);
 }
 
-function canBePaidBySocialBenefits(occupation, monthlyIncome){
+function canBePaidBySocialBenefits(occupation, monthlyIncome, isApplyingForFirstVisa){
 	return (
 		occupations.isUnemployed(occupation)
 		&& monthlyIncome <= healthInsurance.maxFamilienversicherungIncome
+		&& !isApplyingForFirstVisa
 	);
 }
 
@@ -331,6 +332,15 @@ function isPflichtversichertAzubi(occupation, monthlyIncome){
 	return (
 		occupation === 'azubi'
 		&& monthlyIncome > healthInsurance.azubiFreibetrag
+		&& monthlyIncome < healthInsurance.minFreiwilligMonthlyIncome
+	);
+}
+
+function isHighPaidEmployee(occupation, monthlyIncome){
+	// Those can choose private health insurance, but public is still forced to accept them at first
+	return (
+		occupations.isEmployed(occupation)
+		&& monthlyIncome >= healthInsurance.minFreiwilligMonthlyIncome
 	);
 }
 
@@ -338,7 +348,7 @@ function isPflichtversichertEmployee(occupation, monthlyIncome, hoursWorkedPerWe
 	return (
 		occupations.isEmployed(occupation)
 		&& !occupations.isMinijob(occupation, monthlyIncome)
-		&& monthlyIncome < healthInsurance.minFreiwilligMonthlyIncome
+		&& !isHighPaidEmployee(occupation, monthlyIncome)
 		&& !isWerkstudent(occupation, monthlyIncome, hoursWorkedPerWeek)
 	);
 }
@@ -364,6 +374,7 @@ function canHavePublicHealthInsurance(occupation, monthlyIncome, hoursWorkedPerW
 		hasEUPublicHealthInsurance
 		|| isPflichtversichert(occupation, monthlyIncome, hoursWorkedPerWeek, age)
 		|| canHaveStudentTarif(occupation, monthlyIncome, hoursWorkedPerWeek, age)
+		|| isHighPaidEmployee(occupation, monthlyIncome)
 	);
 }
 
@@ -387,6 +398,7 @@ function canHaveExpatHealthInsurance(occupation, monthlyIncome, hoursWorkedPerWe
 	return (
 		!hasGermanPublicHealthInsurance
 		&& !isPflichtversichert(occupation, monthlyIncome, hoursWorkedPerWeek, age)
+		&& !isHighPaidEmployee(occupation, monthlyIncome)
 	);
 }
 
@@ -465,7 +477,7 @@ function getHealthInsuranceOptions({
 		output.free.options.push({ id: 'familienversicherung' });
 	}
 
-	if(canBePaidBySocialBenefits(occupation, monthlyIncome)){
+	if(canBePaidBySocialBenefits(occupation, monthlyIncome, isApplyingForFirstVisa)){
 		output.flags.add('social-benefits');
 		output.free.options.push({ id: 'social-benefits' });
 	}
