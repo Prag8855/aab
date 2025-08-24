@@ -6,15 +6,11 @@
 	<meta name="robots" content="noindex">
 {% endblock %}
 
-{% block main %}
-	<main aria-label="Main page">
-		<header class="intro">
-			<h1>Tests</h1>
-		</header>
-		<article class="section article-body" aria-label="Main content">
-			<div id="mocha"></div>
-		</article>
-	</main>
+{% block content %}
+	<h1>{{ metatitle }}</h1>
+	<div class="article-body">
+		<div id="mocha"></div>
+	</div>
 
 	{% include '_js/chai.js' %}	
 	{% include '_js/mocha.js' %}
@@ -35,7 +31,18 @@
 	<script src="/js/utils.test.js" type="module"></script>
 	<script src="/js/tracking.test.js" type="module"></script>
 	<script class="mocha-exec">
-		mocha.run();
+		const runner = mocha.run();
+		const results = [];
+
+		runner.on("pass", test =>
+			results.push({ name: test.fullTitle(), status: "passed" })
+		);
+		runner.on("fail", (test, err) =>
+			results.push({ name: test.fullTitle(), status: "failed", error: err.message })
+		);
+		runner.on("end", () => {
+			window.testResults = results;
+		});
 	</script>
 	<style type="text/css">
 		#mocha-stats{margin:0;padding:var(--m);background:var(--c-bg-widget);border-radius:var(--b-radius)}
