@@ -617,7 +617,10 @@ function getHealthInsuranceOptions({
 	* Recommendations
 	***************************************************/
 
-	if(occupations.isStudent(occupation)){
+	if(age >= 55){
+		output.asList = [output.public, output.expat, output.private];
+	}
+	else if(occupations.isStudent(occupation)){
 		if(output.flags.has('public-student-over-30')){
 			// Public is more expensive for older students
 			// Expat makes more sense. They can switch to public once they start working.
