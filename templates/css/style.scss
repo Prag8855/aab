@@ -235,7 +235,7 @@ $width-main-column: 860px;
     --c-text-selection: #fd6;
     --c-bg-input: var(--c-bg-page);
     --c-bg-error: #da513d22;
-    --c-bg-input-error: #da513d11;
+    --c-bg-input-error: #da513d09;
     --c-bg-website: #f9f9f9;
     --c-bg-page: #fff;
     --c-bg-widget: #00000009;
@@ -1975,8 +1975,12 @@ input[type=range] {
 .pension-refund-calculator .error
 {
     border-color: var(--c-highlight)!important;
-    background-color: var(--c-bg-input-error);
+    background-color: var(--c-bg-input-error)!important;
     box-shadow: var(--shadow-s), 0 0 0 1px var(--c-highlight)!important;
+}
+
+.show-errors .tabs :invalid + label{
+    background-color: var(--c-bg-input-error);
 }
 
 .search-form{
