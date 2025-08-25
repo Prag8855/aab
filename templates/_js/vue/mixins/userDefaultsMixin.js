@@ -20,6 +20,8 @@ const userDefaults = {  // Percentages are stored as full amounts, unlike elsewh
 	publicHealthInsuranceZusatzbeitrag: {{ GKV_ZUSATZBEITRAG_AVERAGE }}, // %
 	religion: null,
 	taxClass: 1,
+
+	empty: null, // Just to highlight that this field saves/loads user input, but is null by default
 };
 
 const userDefaultsMixin = {
@@ -50,45 +52,66 @@ const userDefaultsMixin = {
 		]);
 
 		const desiredBooleanKeys = new Set([
+			'hasEUPublicHealthInsurance',
+			'hasGermanPublicHealthInsurance',
+			'isApplyingForFirstVisa',
 			'isMarried',
 			'useMonthlyIncome',
+			'worksOver20HoursPerWeek',
 		]);
 
 		availableKeys.intersection(desiredStringKeys).forEach(key => {
-			this[key] = this.getDefault(key, this.key);
+			this[key] = this.getDefault(key);
 			this.$watch(key, function (newVal) {
 				this.setDefault(key, newVal);
 			})
 		});
 
 		availableKeys.intersection(desiredNumberKeys).forEach(key => {
-			this[key] = this.getDefaultNumber(key, this.key);
+			this[key] = this.getDefaultNumber(key);
 			this.$watch(key, function (newVal) {
 				this.setDefaultNumber(key, newVal);
 			})
 		});
 
 		availableKeys.intersection(desiredBooleanKeys).forEach(key => {
-			this[key] = this.getDefaultBoolean(key, this.key);
+			this[key] = this.getDefaultBoolean(key);
 			this.$watch(key, function (newVal) {
 				this.setDefaultBoolean(key, newVal);
 			})
 		});
 	},
 	methods: {
-		getDefault(key, fallback){
+		// Try:
+		// - The 'xxx' in localStorage
+		// - The this.xxx
+		// - The userDefaults.xxx
+		getDefault(key){
+			let value = null;
 			try {
-				const value = localStorage.getItem(key)
-				return value === null ? userDefaults[key] : value;
+				value = localStorage.getItem(key)
 			} catch (e) {}
-			return fallback;
+
+			console.log(key, value, this[key], userDefaults[key])
+
+			if(value != null){ // Also matches undefined
+				return value;
+			}
+			else if(this[key] !== undefined){  // null is an accepted value
+				return this[key];
+			}
+			return userDefaults[key];
 		},
-		getDefaultNumber(key, fallback){
-			return +this.getDefault(key, fallback)
+		getDefaultNumber(key){ // Returns null or a number
+			const defaultValue = this.getDefault(key);
+			return defaultValue === null ? defaultValue : +defaultValue;
 		},
-		getDefaultBoolean(key, fallback){
-			const storedValue = this.getDefault(key); // localStorage stores strings, so "true" or "false"
-			return storedValue ? storedValue === 'true' : !!fallback;
+		getDefaultBoolean(key){ // Returns true, false or null
+			const defaultValue = this.getDefault(key);
+			if(defaultValue === null){
+				return defaultValue;
+			}
+			return defaultValue === 'false' ? false : !!defaultValue; // localStorage stores strings, so "true" or "false"
 		},
 		setDefault(key, value) {
 			if(value === null || value === undefined){
