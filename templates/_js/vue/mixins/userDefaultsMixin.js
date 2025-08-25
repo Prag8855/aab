@@ -92,8 +92,6 @@ const userDefaultsMixin = {
 				value = localStorage.getItem(key)
 			} catch (e) {}
 
-			console.log(key, value, this[key], userDefaults[key])
-
 			if(value != null){ // Also matches undefined
 				return value;
 			}

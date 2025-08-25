@@ -8,6 +8,7 @@
 {% include '_js/vue/full-name-input.js' %}
 {% include '_js/vue/income-input.js' %}
 {% include '_js/vue/health-insurance-options.js' %}
+{% include '_js/vue/tabs.js' %}
 {% include '_js/vue/mixins/multiStageMixin.js' %}
 {% include '_js/vue/mixins/trackedStagesMixin.js' %}
 {% include '_js/vue/mixins/uniqueIdsMixin.js' %}
@@ -32,18 +33,22 @@ Vue.component('health-insurance-calculator', {
 	},
 	data() {
 		return {
+			// Some of these fields default to null, instead of userDefaults values.
+			// This is to make sure that we send user input to the API, and not
+			// default values.
+
 			// Insurance questions
-			age: userDefaults.age,
+			age: userDefaults.empty,
 			childrenCount: userDefaults.childrenCount,
-			inputIncome: userDefaults.useMonthlyIncome ? Math.round(userDefaults.yearlyIncome / 12) : userDefaults.yearlyIncome,
-			occupation: userDefaults.occupation,
-			isMarried: userDefaults.isMarried,
+			inputIncome: userDefaults.empty,
+			occupation: userDefaults.empty,
+			isMarried: userDefaults.empty,
 			useMonthlyIncome: userDefaults.useMonthlyIncome,
-			yearlyIncome: userDefaults.yearlyIncome,
-			worksOver20HoursPerWeek: false,
-			isApplyingForFirstVisa: false,
-			hasGermanPublicHealthInsurance: false,
-			hasEUPublicHealthInsurance: false,
+			yearlyIncome: userDefaults.empty,
+			worksOver20HoursPerWeek: userDefaults.empty,
+			isApplyingForFirstVisa: userDefaults.empty,
+			hasGermanPublicHealthInsurance: userDefaults.empty,
+			hasEUPublicHealthInsurance: userDefaults.empty,
 
 			// Contact form
 			contactMethod: null,
@@ -206,6 +211,12 @@ Vue.component('health-insurance-calculator', {
 		childOrChildren(){ return this.childrenCount === 1 ? 'child' : 'children' },
 	},
 	methods: {
+		nextStage(){
+			// The questions are optional for a contact form, but required for a calculation
+			if(this.mode === 'question' || validateForm(this.$el)){
+				this.stageIndex += 1;
+			}
+		},
 		previousStage(){
 			// If "it's complicated" is chosen, skip the questions stage on the way back
 			if(this.mode === 'calculator' && !this.occupation){
@@ -341,20 +352,15 @@ Vue.component('health-insurance-calculator', {
 					</div>
 				</div>
 				<div class="form-group">
-					<label :for="uid('isMarried')">
-						Spouse
-					</label>
-					<div class="input-group vertical">
-						<label class="checkbox">
-							<input type="checkbox" :id="uid('isMarried')" v-model="isMarried">
-							I am married
-						</label>
-					</div>
-				</div>
-				<div class="form-group">
-					<label :for="uid('childrenCount')">
-						Children
-					</label>
+					<span class="label">
+						Family
+					</span>
+					<tabs
+						aria-label="Are you married?"
+						v-model="isMarried"
+						:id="uid('isMarried')"
+						:options="[{label: 'Married', value: true}, {label: 'Not married', value: false}]"
+						required></tabs>
 					<div class="input-group">
 						<select v-model="childrenCount" :id="uid('childrenCount')">
 							<option :value="0">0</option>
@@ -389,7 +395,7 @@ Vue.component('health-insurance-calculator', {
 				<div class="form-group" v-if="!isUnemployed">
 					<label :for="uid('income')" v-text="salaryOrIncome"></label>
 					<div class="input-group">
-						<income-input :id="uid('income')" v-model="inputIncome"></income-input>&nbsp;€
+						<income-input :id="uid('income')" v-model="inputIncome" required></income-input>&nbsp;€
 						<button class="toggle" @click="useMonthlyIncome = !useMonthlyIncome">per {{ useMonthlyIncome ? 'month' : 'year' }}</button>
 						<span class="no-mobile">before taxes</span>
 					</div>
@@ -484,13 +490,11 @@ Vue.component('health-insurance-calculator', {
 				<hr>
 				<div class="contact-method">
 					<h3>How should we talk?</h3>
-					<div class="tabs" aria-label="Preferred contact method">
-						<input v-model="contactMethod" type="radio" :id="uid('contactMethodWhatsapp')" value="WHATSAPP">
-						<label :for="uid('contactMethodWhatsapp')">WhatsApp</label>
-
-						<input v-model="contactMethod" type="radio" :id="uid('contactMethodEmail')" value="EMAIL">
-						<label :for="uid('contactMethodEmail')">Email</label>
-					</div>
+					<tabs
+						aria-label="Preferred contact method"
+						v-model="contactMethod"
+						:id="uid('contactMethod')"
+						:options="[{label: 'WhatsApp', value: 'WHATSAPP'}, {label: 'Email', value: 'EMAIL'}]"></tabs>
 				</div>
 				<template v-if="contactMethod">
 					<hr>

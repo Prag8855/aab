@@ -17,8 +17,8 @@ Vue.component('postalcode-input', {
 			autocomplete="postal-code"
 			title="Postal code (Postleitzahl)"
 			:value="value"
-			v-on:input="$emit('input', $event.target.value)"
 			:required="required"
+			@input="$emit('input', $event.target.value)"
 			>
 	`,
 });

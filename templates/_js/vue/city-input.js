@@ -9,7 +9,7 @@ Vue.component('city-input', {
 			type="text"
 			autocomplete="address-level2"
 			:value="value"
-			v-on:input="$emit('input', $event.target.value)">
+			@input="$emit('input', $event.target.value)">
 	`,
 });
 {% endraw %}{% endjs %}

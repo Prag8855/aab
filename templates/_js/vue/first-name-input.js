@@ -5,11 +5,11 @@ Vue.component('first-name-input', {
 	template: `
 		<input type="text"
 			class="first-name-input"
-			:value="value"
-			v-on:input="$emit('input', $event.target.value)"
 			placeholder="Alex"
 			autocomplete="given-name"
-			title="First name">
+			title="First name"
+			:value="value"
+			@input="$emit('input', $event.target.value)">
 	`,
 });
 {% endraw %}{% endjs %}

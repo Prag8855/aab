@@ -17,7 +17,7 @@ Vue.component('income-input', {
 			min="0"
 			step="1"
 			:value="value"
-			v-on:input="$emit('input', parsedValue($event.target.value))">
+			@input="$emit('input', parsedValue($event.target.value))">
 	`,
 });
 {% endraw %}{% endjs %}

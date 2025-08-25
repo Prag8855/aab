@@ -17,7 +17,7 @@ Vue.component('age-input', {
 			min="1"
 			step="1"
 			:value.number="value"
-			v-on:input="$emit('input', parsedValue($event.target.value))"
+			@input="$emit('input', parsedValue($event.target.value))"
 			@focus="$event.target.select()">
 	`,
 });

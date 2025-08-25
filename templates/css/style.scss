@@ -1966,7 +1966,11 @@ input[type=range] {
     }
 }
 
-.show-errors :invalid, .show-errors:invalid, .pension-refund-calculator .error{
+.show-errors :invalid,
+.show-errors:invalid,
+.show-errors .tabs:has(:invalid),
+.pension-refund-calculator .error
+{
     border-color: var(--c-highlight)!important;
     background-color: var(--c-bg-input-error);
     box-shadow: var(--shadow-s), 0 0 0 1px var(--c-highlight)!important;

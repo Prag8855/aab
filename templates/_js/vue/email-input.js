@@ -5,11 +5,11 @@ Vue.component('email-input', {
 	template: `
 		<input type="email"
 			class="email-input"
-			:value="value"
-			v-on:input="$emit('input', $event.target.value)"
 			placeholder="contact@example.com"
 			autocomplete="email"
-			title="Email address">
+			title="Email address"
+			:value="value"
+			@input="$emit('input', $event.target.value)">
 	`,
 });
 {% endraw %}{% endjs %}
