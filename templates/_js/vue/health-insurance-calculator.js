@@ -336,7 +336,7 @@ Vue.component('health-insurance-calculator', {
 						Age
 					</label>
 					<div class="input-group">
-						<age-input :id="uid('age')" v-model="age"></age-input>
+						<age-input ref="ageInput" :id="uid('age')" v-model="age" required></age-input>
 						years old
 					</div>
 				</div>
