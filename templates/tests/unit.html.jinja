@@ -25,25 +25,6 @@
 
 {% block postFooter %}
 	{{ super() }}
-	<script src="/js/health-insurance-calculator.test.js" type="module"></script>
-	<script src="/js/pension-refund-calculator.test.js" type="module"></script>
-	<script src="/js/tax-calculator.test.js" type="module"></script>
-	<script src="/js/utils.test.js" type="module"></script>
-	<script src="/js/tracking.test.js" type="module"></script>
-	<script class="mocha-exec">
-		const runner = mocha.run();
-		const results = [];
-
-		runner.on("pass", test =>
-			results.push({ name: test.fullTitle(), status: "passed" })
-		);
-		runner.on("fail", (test, err) =>
-			results.push({ name: test.fullTitle(), status: "failed", error: err.message })
-		);
-		runner.on("end", () => {
-			window.testResults = results;
-		});
-	</script>
 	<style type="text/css">
 		#mocha-stats{margin:0;padding:var(--m);background:var(--c-bg-widget);border-radius:var(--b-radius)}
 			.progress-contain, .duration, .replay, .result{display:none}
@@ -81,5 +62,24 @@
 		mocha.setup('bdd');
 		let assert = chai.assert;
 		chai.config.truncateThreshold = 0;
+	</script>
+	<script src="/js/health-insurance-calculator.test.js" type="module"></script>
+	<script src="/js/pension-refund-calculator.test.js" type="module"></script>
+	<script src="/js/tax-calculator.test.js" type="module"></script>
+	<script src="/js/utils.test.js" type="module"></script>
+	<script src="/js/tracking.test.js" type="module"></script>
+	<script class="mocha-exec" type="module">
+		const runner = mocha.run();
+		const results = [];
+
+		runner.on("pass", test =>
+			results.push({ name: test.fullTitle(), status: "passed" })
+		);
+		runner.on("fail", (test, err) =>
+			results.push({ name: test.fullTitle(), status: "failed", error: err.message })
+		);
+		runner.on("end", () => {
+			window.testResults = results;
+		});
 	</script>
 {% endblock %}
