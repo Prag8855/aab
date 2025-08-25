@@ -17,9 +17,14 @@ This guide explains how to get tested for sexually transmitted diseases in Berli
 
 - **At any medical clinic**  
     Medical clinics can test for HIV and other STIs. You can ask your general practitioner (*[[Hausarzt]]*), but they might not know how to do STI testing. Urologists and gynaecologists usually offer HIV and STI tests.
-    - **[Dr. Cordes](https://www.drcordes.de/en__es__fr/)** - (English, Spanish, German)
-    - **[Praxis Schöneberg](http://praxisschöneberg.de/services.html)** - (English, German)
-    - **[Viropraxis](https://www.viropraxis.de/)** (English, Spanish, German)
+    - **[Praxis Goldstein](https://www.doctor-goldstein.com/)**  
+        Online appointments, online results. Very fast.
+    - **[Dr. Cordes](https://www.drcordes.de/en__es__fr/)**  
+        They speak English, Spanish and German.
+    - **[Viropraxis](https://www.viropraxis.de/)**  
+        They speak English, Spanish and German.
+    - **[Praxis Schöneberg](http://praxisschöneberg.de/services.html)**  
+        They speak English and German
 - **At home**  
     [s.a.m. health](https://www.samhealth.de/en/) sells home tests for HIV, Syphilis, Gonorrhoea and Chlamydia. It costs €75 the first time, then €59.[^0]{{ fail_on('2026-01-01') }}
 - **[Zentrum für sexuelle Gesundheit](https://www.berlin.de/ba-mitte/politik-und-verwaltung/aemter/gesundheitsamt/zentren/artikel.248356.en.php)** of the Gesundheitsamt (English, German, other languages)  
