@@ -1866,7 +1866,7 @@ input[type=range] {
         line-height: var(--line-height-label);
     }
 
-    &.required {
+    &.required, &:has(:required) {
         > :is(label, .label):first-child{
             &:after{
                 content: ' *';

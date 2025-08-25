@@ -112,6 +112,11 @@ Vue.component('health-insurance-calculator', {
 			return sortedOccupations;
 		},
 
+		requireCompleteForm(){
+			// When asking a question, the fields are only a suggestion
+			return this.mode === 'calculator';
+		},
+
 		askForCurrentInsurance(){
 			// Current insurance has no effect; public is the only option
 			return !( // Azubi
@@ -215,8 +220,7 @@ Vue.component('health-insurance-calculator', {
 	},
 	methods: {
 		nextStage(){
-			// The questions are optional for a contact form, but required for a calculation
-			if(this.mode === 'question' || validateForm(this.$el)){
+			if(validateForm(this.$el)){
 				this.stageIndex += 1;
 			}
 		},
@@ -350,7 +354,11 @@ Vue.component('health-insurance-calculator', {
 						Age
 					</label>
 					<div class="input-group">
-						<age-input ref="ageInput" :id="uid('age')" v-model="age" required></age-input>
+						<age-input
+							ref="ageInput"
+							:id="uid('age')"
+							v-model="age"
+							:required="requireCompleteForm"></age-input>
 						years old
 					</div>
 				</div>
@@ -363,13 +371,16 @@ Vue.component('health-insurance-calculator', {
 						v-model="isMarried"
 						:id="uid('isMarried')"
 						:options="[{label: 'Married', value: true}, {label: 'Not married', value: false}]"
-						required></tabs>
+						:required="requireCompleteForm"></tabs>
 				</div>
 				<div class="form-group">
 					<label :id="uid('childrenCount')">
 						Children
 					</label>
-					<children-input v-model="childrenCount" :id="uid('childrenCount')" required></children-input>
+					<children-input
+						v-model="childrenCount"
+						:id="uid('childrenCount')"
+						:required="requireCompleteForm"></children-input>
 				</div>
 				<div class="form-group" v-if="isStudent">
 					<label :for="uid('studentOccupation')">
@@ -377,15 +388,24 @@ Vue.component('health-insurance-calculator', {
 					</label>
 					<div class="input-group vertical">
 						<label class="checkbox">
-							<input type="radio" :name="uid('studentOccupation')" v-model="occupation" value="studentUnemployed" required>
+							<input type="radio"
+								:name="uid('studentOccupation')"
+								v-model="occupation" value="studentUnemployed"
+								:required="requireCompleteForm">
 							I am unemployed
 						</label>
 						<label class="checkbox">
-							<input type="radio" :name="uid('studentOccupation')" v-model="occupation" value="studentEmployee" required>
+							<input type="radio"
+								:name="uid('studentOccupation')"
+								v-model="occupation" value="studentEmployee"
+								:required="requireCompleteForm">
 							I have a job
 						</label>
 						<label class="checkbox">
-							<input type="radio" :name="uid('studentOccupation')" v-model="occupation" value="studentSelfEmployed" required>
+							<input type="radio"
+								:name="uid('studentOccupation')"
+								v-model="occupation" value="studentSelfEmployed"
+								:required="requireCompleteForm">
 							I am self-employed
 						</label>
 					</div>
@@ -393,7 +413,10 @@ Vue.component('health-insurance-calculator', {
 				<div class="form-group" v-if="!isUnemployed">
 					<label :for="uid('income')" v-text="salaryOrIncome"></label>
 					<div class="input-group">
-						<income-input :id="uid('income')" v-model="inputIncome" required></income-input>&nbsp;€
+						<income-input
+							:id="uid('income')"
+							v-model="inputIncome"
+							:required="requireCompleteForm"></income-input>&nbsp;€
 						<button class="toggle" @click="useMonthlyIncome = !useMonthlyIncome">per {{ useMonthlyIncome ? 'month' : 'year' }}</button>
 						<span class="no-mobile">before taxes</span>
 					</div>
@@ -496,17 +519,23 @@ Vue.component('health-insurance-calculator', {
 				</div>
 				<template v-if="contactMethod">
 					<hr>
-					<div class="form-group required">
+					<div class="form-group">
 						<label :for="uid('fullName')">
 							Name
 						</label>
-						<full-name-input :for="uid('fullName')" v-model="fullName" required></full-name-input>
+						<full-name-input
+							:for="uid('fullName')"
+							v-model="fullName"
+							required></full-name-input>
 					</div>
-					<div class="form-group required" v-if="contactMethod === 'EMAIL'">
+					<div class="form-group" v-if="contactMethod === 'EMAIL'">
 						<label :for="uid('email')">
 							Email address
 						</label>
-						<email-input v-model="email" :id="uid('email')" required></email-input>
+						<email-input
+							v-model="email"
+							:id="uid('email')"
+							required></email-input>
 					</div>
 					<template v-if="contactMethod !== 'WHATSAPP'">
 						<hr>
