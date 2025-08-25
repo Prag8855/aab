@@ -1,18 +1,19 @@
 {% include '_js/constants.js' %}
 {% include '_js/currency.js' %}
 {% include '_js/vue.js' %}
-{% include '_js/vue/collapsible.js' %}
-{% include '_js/vue/glossary.js' %}
 {% include '_js/vue/age-input.js' %}
+{% include '_js/vue/children-input.js' %}
+{% include '_js/vue/collapsible.js' %}
 {% include '_js/vue/email-input.js' %}
 {% include '_js/vue/full-name-input.js' %}
-{% include '_js/vue/income-input.js' %}
+{% include '_js/vue/glossary.js' %}
 {% include '_js/vue/health-insurance-options.js' %}
-{% include '_js/vue/tabs.js' %}
+{% include '_js/vue/income-input.js' %}
 {% include '_js/vue/mixins/multiStageMixin.js' %}
 {% include '_js/vue/mixins/trackedStagesMixin.js' %}
 {% include '_js/vue/mixins/uniqueIdsMixin.js' %}
 {% include '_js/vue/mixins/userDefaultsMixin.js' %}
+{% include '_js/vue/tabs.js' %}
 
 {% js %}{% raw %}
 Vue.component('health-insurance-calculator', {
@@ -39,7 +40,7 @@ Vue.component('health-insurance-calculator', {
 
 			// Insurance questions
 			age: userDefaults.empty,
-			childrenCount: userDefaults.childrenCount,
+			childrenCount: userDefaults.empty,
 			inputIncome: userDefaults.empty,
 			occupation: userDefaults.empty,
 			isMarried: userDefaults.empty,
@@ -82,7 +83,6 @@ Vue.component('health-insurance-calculator', {
 			// TODO: "We already know that..." replacement
 			// TODO: Email is passed even when field is not visible
 			// TODO: Move occupations from constants.js to another file
-			// TODO: Set inputsToFocus
 			// TODO: Test collapsible header text
 			// TODO: Length of progress bar changes depending on mode
 			// TODO: askForCurrentInsurance: run two calculations and see if they differ. No business logic there.
@@ -174,14 +174,14 @@ Vue.component('health-insurance-calculator', {
 			if(this.yearlyIncome !== undefined && !this.isUnemployed){
 				facts.push(`I earn ${formatCurrency(this.yearlyIncome)} per year`);
 			}
-			if(this.isApplyingForFirstVisa){
+			if(this.isApplyingForFirstVisa != null){
 				facts.push('I am applying for a visa');
 			}
-			if(this.isMarried !== undefined){
+			if(this.isMarried != null){
 				facts.push(`I am ${this.isMarried ? '' : 'not '}married`);
 			}
 
-			if(this.childrenCount !== undefined){
+			if(this.childrenCount != null){
 				if(this.childrenCount === 0){
 					facts.push(`I don't have children`);
 				}
@@ -190,8 +190,11 @@ Vue.component('health-insurance-calculator', {
 				}
 			}
 
-			if(this.hasPublicHealthInsurance){
-				facts.push(`I currently have public health insurance`);
+			if(this.hasGermanPublicHealthInsurance != null){
+				facts.push(`I have German public health insurance`);
+			}
+			else if(this.hasEUPublicHealthInsurance != null){
+				facts.push(`I have public health insurance in another EU country`);
 			}
 
 			return (new Intl.ListFormat('en-US', {style: 'long', type: 'conjunction'}).format(facts)) + '.';
@@ -353,7 +356,7 @@ Vue.component('health-insurance-calculator', {
 				</div>
 				<div class="form-group">
 					<span class="label">
-						Family
+						Spouse
 					</span>
 					<tabs
 						aria-label="Are you married?"
@@ -361,17 +364,12 @@ Vue.component('health-insurance-calculator', {
 						:id="uid('isMarried')"
 						:options="[{label: 'Married', value: true}, {label: 'Not married', value: false}]"
 						required></tabs>
-					<div class="input-group">
-						<select v-model="childrenCount" :id="uid('childrenCount')">
-							<option :value="0">0</option>
-							<option :value="1">1</option>
-							<option :value="2">2</option>
-							<option :value="3">3</option>
-							<option :value="4">4</option>
-							<option :value="5">5</option>
-							<option :value="6">6</option>
-						</select> {{ childOrChildren }}
-					</div>
+				</div>
+				<div class="form-group">
+					<label :id="uid('childrenCount')">
+						Children
+					</label>
+					<children-input v-model="childrenCount" :id="uid('childrenCount')" required></children-input>
 				</div>
 				<div class="form-group" v-if="isStudent">
 					<label :for="uid('studentOccupation')">

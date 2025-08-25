@@ -16,7 +16,7 @@ This guide explains when you can get a pension refund, and how to apply for it.
 
 ## Who can get a refund?
 
-{% include '_blocks/pensionRefundCalculatorStatic.html' %}
+{% include "_blocks/pensionRefundCalculatorStatic.html" %}
 
 It depends on your nationality, and the country you live in. The rules are different for every country. Use the [pension refund calculator](/tools/pension-refund-calculator) to see if you can get a refund.
 
@@ -203,7 +203,7 @@ You can get a pension refund if:[^8]
 
 You will get a refund for all your pension payments.[^37] That's **around {{RV_EMPLOYEE_CONTRIBUTION}}% of your [gross income](/glossary/Brutto%20income)**. That means you usually get a few thousand euros back.[^14] Use this refund calculator to get an exact answer.
 
-{% include '_blocks/pensionRefundCalculator.html' %}
+{% include "_blocks/pensionRefundCalculator.html" %}
 
 You will not get a refund for your employer's contributions.[^15] If you already got benefits from the Deutsche Rentenversicherung, your refund will be smaller.[^38] You get no refund for the time you received *[[Elterngeld]]* or *[[ALG I]]*.[^32] You can't receive a refund for contributions made in East Germany before June 30 1990.[^16]
 

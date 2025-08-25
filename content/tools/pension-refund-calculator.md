@@ -13,7 +13,7 @@ When you work in Germany, {{RV_EMPLOYEE_CONTRIBUTION}}% of your income goes into
 
 ## Pension refund calculator
 
-{% include '_blocks/pensionRefundCalculatorStatic.html' %}
+{% include "_blocks/pensionRefundCalculatorStatic.html" %}
 
 ## How to get a pension refund
 

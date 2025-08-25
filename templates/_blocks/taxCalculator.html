@@ -4,6 +4,7 @@
 {% include '_js/utils.js' %}
 {% include '_js/vue.js' %}
 {% include '_js/vue/age-input.js' %}
+{% include '_js/vue/children-input.js' %}
 {% include '_js/vue/collapsible.js' %}
 {% include '_js/vue/eur.js' %}
 {% include '_js/vue/glossary.js' %}
@@ -400,15 +401,7 @@
 			<label :for="uid('children-count')">
 				Children
 			</label>
-			<select :id="uid('children-count')" v-model="childrenCount">
-				<option :value="0">No children</option>
-				<option :value="1">1 child</option>
-				<option :value="2">2 children</option>
-				<option :value="3">3 children</option>
-				<option :value="4">4 children</option>
-				<option :value="5">5 children</option>
-				<option :value="6">6+ children</option>
-			</select>
+			<children-input :id="uid('children-count')" v-model="childrenCount"></children-input>
 		</div>
 		<hr v-if="occupations.isEmployed(occupation)">
 		<div class="form-group" v-if="occupations.isEmployed(occupation)">

@@ -1603,6 +1603,9 @@ input[type=tel]{
 .documentnumber-input{
     width: calc(2em + 10ch)!important;
 }
+.children-input{
+    width: fit-content;
+}
 
 .anrede-input{flex: 0 0 auto;max-width:5em!important;}
 .address-input{height: calc(1rem * var(--line-height-text) * 3 + var(--xs) * 2)!important;}

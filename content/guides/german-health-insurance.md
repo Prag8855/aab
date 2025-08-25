@@ -20,7 +20,7 @@ This guide explains how to choose the best health insurance for your needs.
 
 There is [public](/glossary/gesetzliche%20Krankenversicherung), [private](/glossary/private%20Krankenversicherung) and [expat](/glossary/Expat%20health%20insurance) health insurance. The best option depends on your situation.
 
-{% include '_blocks/healthInsuranceCalculatorStatic.html' %}
+{% include "_blocks/healthInsuranceCalculatorStatic.html" %}
 
 There is a guide for each occupation:
 
@@ -198,7 +198,7 @@ There is no best private health insurance. There are thousands of very different
 
 Do not choose private health insurance yourself. It's a really bad idea. [Ask a health insurance broker](#insurance-brokers) to compare all options and help you choose. Their help is free.
 
-{% include '_blocks/healthInsuranceQuestion.html' %}
+{% include "_blocks/healthInsuranceQuestion.html" %}
 
 [Feather](/out/feather-private) only sells private health insurance from Hallesche. It might not be the best option for you. [Ask a broker](#insurance-brokers) to compare all options from all insurers.
 
@@ -374,7 +374,7 @@ Choose travel health insurance if...
 
 Do not choose health insurance yourself. Our broker can help you find better and cheaper health insurance. This is a free service.
 
-{% include '_blocks/healthInsuranceQuestionStatic.html' %}
+{% include "_blocks/healthInsuranceQuestionStatic.html" %}
 
 Talk to a broker (*Makler*), not an agent (*Vertreter*). Brokers are independent. They recommend health insurance from different companies. Agents only sell insurance from specific companies.
 
@@ -396,7 +396,7 @@ Do not choose health insurance yourself. The cheapest option now can be an expen
 
 Always [ask a broker](#insurance-brokers) to help you. They ask you the right questions, look at all the options, and help you find the best health insurance. You can get better coverage for a lower price. Their help is free.
 
-{% include '_blocks/healthInsuranceQuestion.html' %}
+{% include "_blocks/healthInsuranceQuestion.html" %}
 
 ### 3. Apply for health insurance
 
