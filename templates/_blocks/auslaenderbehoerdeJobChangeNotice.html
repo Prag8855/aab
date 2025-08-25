@@ -7,6 +7,7 @@
 {% include '_js/vue/date-picker.js' %}
 {% include '_js/vue/full-name-input.js' %}
 {% include '_js/vue/letter-generator.js' %}
+{% include '_js/vue/tabs.js' %}
 {% include '_js/vue/mixins/uniqueIdsMixin.js' %}
 {% include '_js/vue/mixins/userDefaultsMixin.js' %}
 {% js %}
@@ -218,13 +219,12 @@
 		<div class="form-group required no-print">
 			<span class="label">Ausländerbehörde</span>
 			<div class="input-group">
-				<div class="tabs" aria-label="Select your Ausländerbehörde">
-					<input v-model="auslaenderbehoerde" type="radio" :id="uid('auslaenderbehoerdeBerlin')" value="berlin">
-					<label :for="uid('auslaenderbehoerdeBerlin')">Berlin</label>
-
-					<input v-model="auslaenderbehoerde" type="radio" :id="uid('auslaenderbehoerdeOther')" value="other">
-					<label :for="uid('auslaenderbehoerdeOther')">Other</label>
-				</div>
+				<tabs
+					aria-label="Ausländerbehörde"
+					v-model="auslaenderbehoerde"
+					:id="uid('auslaenderbehoerde')"
+					:options="[{label: 'Berlin', value: 'berlin'}, {label: 'Other', value: 'other'}]"
+					required></tabs>
 				<br v-if="auslaenderbehoerde === 'other'">
 				<textarea
 					:id="uid('customRecipientAddress')"

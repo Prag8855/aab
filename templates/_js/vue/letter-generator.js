@@ -1,4 +1,5 @@
 {% include '_js/vue.js' %}
+{% include '_js/vue/tabs.js' %}
 {% include '_js/vue/mixins/trackedStagesMixin.js' %}
 {% include '_js/vue/mixins/uniqueIdsMixin.js' %}
 {% js %}{% raw %}
@@ -56,24 +57,22 @@ Vue.component('letter-generator', {
 				<button class="button" @click="stage = 'edit'">
 					<i class="icon left" aria-hidden="true"></i> Customize
 				</button>
-				<div class="tabs" aria-label="Letter language">
-					<input v-model="language" type="radio" :id="uid('languageEn')" value="en">
-					<label :for="uid('languageEn')">English</label>
-
-					<input v-model="language" type="radio" :id="uid('languageDe')" value="de">
-					<label :for="uid('languageDe')">German</label>
-				</div>
+				<tabs
+					aria-label="Letter language"
+					v-model="language"
+					:id="uid('language-print')"
+					:options="[{label: 'English', value: 'en'}, {label: 'German', value: 'de'}]"></tabs>
 				<button class="button primary" @click="print">
 					Print
 				</button>
 			</div>
-			<div class="tabs language-picker no-print" aria-label="Letter language" v-if="stage === 'start'">
-				<input v-model="language" type="radio" :id="uid('languageEn')" value="en">
-				<label :for="uid('languageEn')">English</label>
-
-				<input v-model="language" type="radio" :id="uid('languageDe')" value="de">
-				<label :for="uid('languageDe')">German</label>
-			</div>
+			<tabs
+				aria-label="Letter language"
+				v-model="language"
+				v-if="stage === 'start'"
+				class="language-picker no-print"
+				:id="uid('language-preview')"
+				:options="[{label: 'English', value: 'en'}, {label: 'German', value: 'de'}]"></tabs>
 			<slot v-if="stage === 'printPreview'" name="before-print-preview" :language="language"></slot>
 			<div v-if="stage === 'start' || stage === 'printPreview'" :class="{'letter-template': stage === 'printPreview'}" ref="template">
 				<div class="letter-recipient-address only-print">
