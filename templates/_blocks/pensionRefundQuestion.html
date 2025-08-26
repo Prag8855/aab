@@ -77,7 +77,7 @@
 
 <collapsible class="pension-refund-question" aria-label="Pension refund question form" ref="collapsible" {% if static|default %}static{% endif %}>
 	<template v-slot:header>Ask a pension refund expert</template>
-	{% include "_blocks/formHoneypot.html" %}
+	<input type="text" name="username" value="" autocomplete="off" hidden role="presentation" required/>
 	<template v-if="stage === 'contactInfo'">
 		<p>Pension Refund Germany helps people get their pension refund. You can ask them questions. They will answer in 1 to 3 business days. This is a free service.</p>
 		<hr>
