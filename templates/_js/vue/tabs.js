@@ -8,7 +8,7 @@ Vue.component('tabs', {
 		id: String,
 	},
 	template: `
-		<div class="tabs">
+		<fieldset class="tabs" :required="required">
 			<template v-for="option in options">
 				<input
 					type="radio"
@@ -24,7 +24,7 @@ Vue.component('tabs', {
 					:key="id + option.value + '-label'"
 					v-text="option.label"></label>
 			</template>
-		</div>
+		</fieldset>
 	`,
 });
 {% endraw %}{% endjs %}
