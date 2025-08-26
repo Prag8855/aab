@@ -4,30 +4,17 @@
 {% set metadescription = entry.description %}
 
 {% block postHead %}
-	{{ super() }}
-	<link rel="index" href="{{ site_url }}/guides">
+	<meta name="robots" content="noindex">
 {% endblock %}
 
-{% block main %}
-	<main aria-label="Main page">
-		{% block precontent %}{% endblock %}
-		<article class="section">
-			<h1>{{ entry.title }}</h1>
-			{% include "_blocks/postMeta.html" %}
-			{% with entry=entry, showRelatedEntriesLink=false %}
-				<div class="article-body">
-				{% with static=True %}
-				   {% include "_blocks/healthInsuranceCalculator.html" %}
-				{% endwith %}
-				{% with static=False %}
-				   {% include "_blocks/healthInsuranceQuestion.html" %}
-				{% endwith %}
-				</div>
-			{% endwith %}
-		</article>
-	</main>
-
-	{% with entry=entry, showRelatedEntriesLink=false %}
-		{% include "_blocks/sidebar.html" %}
-	{% endwith %}
+{% block content %}
+	<h1>Component test</h1>
+	<div class="article-body">
+		{% with static=True %}
+			{% include "_blocks/healthInsuranceCalculator.html" %}
+		{% endwith %}
+		{% with static=False %}
+			{% include "_blocks/healthInsuranceQuestion.html" %}
+		{% endwith %}
+	</div>
 {% endblock %}
