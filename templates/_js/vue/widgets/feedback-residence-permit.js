@@ -1,8 +1,8 @@
 {% include '_js/vue.js' %}
-{% include '_js/vue/collapsible.js' %}
-{% include '_js/vue/country-input.js' %}
-{% include '_js/vue/date-picker.js' %}
-{% include '_js/vue/email-input.js' %}
+{% include '_js/vue/components/collapsible.js' %}
+{% include '_js/vue/components/country-input.js' %}
+{% include '_js/vue/components/date-input.js' %}
+{% include '_js/vue/components/email-input.js' %}
 {% include '_js/vue/mixins/multiStageMixin.js' %}
 {% include '_js/vue/mixins/residencePermitFeedbackMixin.js' %}
 {% include '_js/vue/mixins/trackedStagesMixin.js' %}
@@ -226,7 +226,7 @@ Vue.component('feedback-residence-permit', {
 						<label :for="uid('checkbox' + key)" class="description" v-text="stepName(key)"></label>
 						<div class="duration form-group" v-if="step.completed">
 							<label :for="uid(key) + '-date-day'" v-text="step.dateFieldTitle"></label>
-							<date-picker :min="minimumStepDate(step)" v-model="step.date" :id="uid(key) + '-date'" required></date-picker>
+							<date-input :min="minimumStepDate(step)" v-model="step.date" :id="uid(key) + '-date'" required></date-input>
 						</div>
 					</div>
 				</div>

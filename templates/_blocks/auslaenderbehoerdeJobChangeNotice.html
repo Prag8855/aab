@@ -1,13 +1,13 @@
-{% include '_js/countries.js' %}
-{% include '_js/countriesInGerman.js' %}
-{% include '_js/letterUtils.js' %}
+{% include '_js/utils/countries.js' %}
+{% include '_js/utils/countriesInGerman.js' %}
+{% include '_js/utils/letter.js' %}
 {% include '_js/vue.js' %}
-{% include '_js/vue/blank.js' %}
-{% include '_js/vue/country-input.js' %}
-{% include '_js/vue/date-picker.js' %}
-{% include '_js/vue/full-name-input.js' %}
-{% include '_js/vue/letter-generator.js' %}
-{% include '_js/vue/tabs.js' %}
+{% include '_js/vue/components/blank.js' %}
+{% include '_js/vue/components/country-input.js' %}
+{% include '_js/vue/components/date-input.js' %}
+{% include '_js/vue/components/full-name-input.js' %}
+{% include '_js/vue/components/letter-generator.js' %}
+{% include '_js/vue/components/tabs.js' %}
 {% include '_js/vue/mixins/uniqueIdsMixin.js' %}
 {% include '_js/vue/mixins/userDefaultsMixin.js' %}
 {% js %}
@@ -175,9 +175,9 @@
 		</div>
 		<div class="form-group">
 			<label :for="uid('last-workday') + '-day'">Last day of work</label>
-			<date-picker
+			<date-input
 				v-model="lastDayOfWork"
-				:id="uid('last-workday')" required></date-picker>
+				:id="uid('last-workday')" required></date-input>
 		</div>
 		<hr>
 		<div class="form-group">
@@ -196,11 +196,11 @@
 		</div>
 		<div class="form-group">
 			<label :for="uid('date-of-birth') + '-day'">Date of birth</label>
-			<date-picker
+			<date-input
 				v-model="dateOfBirth"
 				:id="uid('date-of-birth')"
 				autocomplete="bday"
-				required></date-picker>
+				required></date-input>
 		</div>
 		<div class="form-group">
 			<label :for="uid('place-of-birth')">Place of birth</label>

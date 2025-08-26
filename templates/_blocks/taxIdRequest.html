@@ -144,12 +144,12 @@
 			</div>
 			<div class="form-group">
 				<label :for="uid('dateOfBirth-' + person.id) + '-day'">Date of birth</label>
-				<date-picker
+				<date-input
 					:key="person.id"
 					:id="uid('dateOfBirth-' + person.id)"
 					v-model="person.dateOfBirth"
 					autocomplete="bday"
-					required></date-picker>
+					required></date-input>
 			</div>
 			<div class="form-group">
 				<label :for="uid('birthPlace-' + person.id)">Place of birth</label>
@@ -294,25 +294,25 @@
 	</div>
 {% endraw %}
 </collapsible>
-{% include '_js/countriesInGerman.js' %}
-{% include '_js/letterUtils.js' %}
-{% include '_js/pdf.js' %}
+{% include '_js/utils/countriesInGerman.js' %}
+{% include '_js/utils/letter.js' %}
+{% include '_js/libs/pdf.js' %}
 {% include '_js/vue.js' %}
-{% include '_js/vue/city-input.js' %}
-{% include '_js/vue/collapsible.js' %}
-{% include '_js/vue/country-input.js' %}
-{% include '_js/vue/date-picker.js' %}
-{% include '_js/vue/email-input.js' %}
-{% include '_js/vue/first-name-input.js' %}
-{% include '_js/vue/glossary.js' %}
-{% include '_js/vue/last-name-input.js' %}
+{% include '_js/vue/components/city-input.js' %}
+{% include '_js/vue/components/collapsible.js' %}
+{% include '_js/vue/components/country-input.js' %}
+{% include '_js/vue/components/date-input.js' %}
+{% include '_js/vue/components/email-input.js' %}
+{% include '_js/vue/components/first-name-input.js' %}
+{% include '_js/vue/components/glossary.js' %}
+{% include '_js/vue/components/last-name-input.js' %}
 {% include '_js/vue/mixins/multiStageMixin.js' %}
 {% include '_js/vue/mixins/preloadPDFMixin.js' %}
 {% include '_js/vue/mixins/trackedStagesMixin.js' %}
 {% include '_js/vue/mixins/uniqueIdsMixin.js' %}
 {% include '_js/vue/mixins/userDefaultsMixin.js' %}
-{% include '_js/vue/postalcode-input.js' %}
-{% include '_js/vue/state-input.js' %}
+{% include '_js/vue/components/postalcode-input.js' %}
+{% include '_js/vue/components/state-input.js' %}
 {% js %}
 	document.querySelectorAll('.tax-id-form').forEach(
 		el => new Vue({

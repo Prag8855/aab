@@ -1,19 +1,19 @@
-{% include '_js/constants.js' %}
-{% include '_js/currency.js' %}
+{% include '_js/utils/constants.js' %}
+{% include '_js/utils/currency.js' %}
 {% include '_js/vue.js' %}
-{% include '_js/vue/age-input.js' %}
-{% include '_js/vue/children-input.js' %}
-{% include '_js/vue/collapsible.js' %}
-{% include '_js/vue/email-input.js' %}
-{% include '_js/vue/full-name-input.js' %}
-{% include '_js/vue/glossary.js' %}
-{% include '_js/vue/health-insurance-options.js' %}
-{% include '_js/vue/income-input.js' %}
+{% include '_js/vue/components/age-input.js' %}
+{% include '_js/vue/components/children-input.js' %}
+{% include '_js/vue/components/collapsible.js' %}
+{% include '_js/vue/components/email-input.js' %}
+{% include '_js/vue/components/full-name-input.js' %}
+{% include '_js/vue/components/glossary.js' %}
+{% include '_js/vue/components/health-insurance-options.js' %}
+{% include '_js/vue/components/income-input.js' %}
 {% include '_js/vue/mixins/multiStageMixin.js' %}
 {% include '_js/vue/mixins/trackedStagesMixin.js' %}
 {% include '_js/vue/mixins/uniqueIdsMixin.js' %}
 {% include '_js/vue/mixins/userDefaultsMixin.js' %}
-{% include '_js/vue/tabs.js' %}
+{% include '_js/vue/components/tabs.js' %}
 
 {% js %}{% raw %}
 Vue.component('health-insurance-calculator', {

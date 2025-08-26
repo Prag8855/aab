@@ -1,7 +1,7 @@
-{% include '_js/constants.js' %}
-{% include '_js/germanStates.js' %}
-{% include '_js/health-insurance-calculator.js' %}
-{% include '_js/pension-refund-calculator.js' %}
+{% include '_js/utils/constants.js' %}
+{% include '_js/utils/germanStates.js' %}
+{% include '_js/utils/health-insurance.js' %}
+{% include '_js/utils/pension-refund.js' %}
 {% js %}
 
 function calculateTax(yearlyIncome, {

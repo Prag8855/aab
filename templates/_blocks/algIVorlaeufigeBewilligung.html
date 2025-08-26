@@ -1,12 +1,12 @@
-{% include '_js/letterUtils.js' %}
+{% include '_js/utils/letter.js' %}
 {% include '_js/vue.js' %}
-{% include '_js/vue/letter-generator.js' %}
-{% include '_js/vue/glossary.js' %}
+{% include '_js/vue/components/letter-generator.js' %}
+{% include '_js/vue/components/glossary.js' %}
 {% include '_js/vue/mixins/uniqueIdsMixin.js' %}
 {% include '_js/vue/mixins/userDefaultsMixin.js' %}
-{% include '_js/vue/first-name-input.js' %}
-{% include '_js/vue/last-name-input.js' %}
-{% include '_js/vue/full-name-input.js' %}
+{% include '_js/vue/components/first-name-input.js' %}
+{% include '_js/vue/components/last-name-input.js' %}
+{% include '_js/vue/components/full-name-input.js' %}
 {% js %}
 	document.querySelectorAll('.alg-i-vorlaeufige-bewilligung').forEach(
 		el => new Vue({

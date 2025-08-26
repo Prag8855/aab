@@ -1,10 +1,10 @@
-{% include "_js/constants.js" %}
-{% include "_js/currency.js" %}
-{% include '_js/health-insurance-calculator.js' %}
-{% include '_js/utils.js' %}
+{% include "_js/utils/constants.js" %}
+{% include "_js/utils/currency.js" %}
+{% include '_js/utils/health-insurance.js' %}
+{% include '_js/utils/percent.js' %}
 {% include '_js/vue.js' %}
-{% include '_js/vue/eur.js' %}
-{% include '_js/vue/glossary.js' %}
+{% include '_js/vue/components/eur.js' %}
+{% include '_js/vue/components/glossary.js' %}
 {% js %}{% raw %}
 Vue.component('gkv-cost-explanation', {
 	props: {

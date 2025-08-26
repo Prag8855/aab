@@ -1,4 +1,4 @@
-{% include '_js/germanStates.js' %}
+{% include '_js/utils/germanStates.js' %}
 {% include '_js/vue.js' %}
 {% js %}{% raw %}
 Vue.component('state-input', {

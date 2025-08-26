@@ -1,5 +1,5 @@
 {% include '_js/vue.js' %}
-{% include '_js/countries.js' %}
+{% include '_js/utils/countries.js' %}
 {% js %}{% raw %}
 Vue.component('country-input', {
 	props: {

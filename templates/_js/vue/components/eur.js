@@ -1,5 +1,5 @@
 {% include '_js/vue.js' %}
-{% include '_js/currency.js' %}
+{% include '_js/utils/currency.js' %}
 {% js %}{% raw %}
 Vue.component('eur', {
 	props: {

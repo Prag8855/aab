@@ -1,5 +1,5 @@
 {% js %}{% raw %}
-Vue.component('date-picker', {
+Vue.component('date-input', {
 	props: {
 		id: String,
 		value: String,
@@ -145,7 +145,7 @@ Vue.component('date-picker', {
 		max() { this.onChange() },
 	},
 	template: `
-		<fieldset class="date-picker" :required="required" ref="fieldset">
+		<fieldset class="date-input" :required="required" ref="fieldset">
 			<input
 				:autocomplete="autocomplete == 'bday' ? 'bday-day' : 'on'"
 				:class="{required: required}"

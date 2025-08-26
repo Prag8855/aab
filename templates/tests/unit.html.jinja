@@ -12,15 +12,15 @@
 		<div id="mocha"></div>
 	</div>
 
-	{% include '_js/chai.js' %}	
-	{% include '_js/mocha.js' %}
-	{% include '_js/constants.js' %}
-	{% include '_js/currency.js' %}
-	{% include '_js/tracking.js' %}
-	{% include '_js/health-insurance-calculator.js' %}
-	{% include '_js/pension-refund-calculator.js' %}
+	{% include '_js/libs/chai.js' %}	
+	{% include '_js/utils/constants.js' %}
+	{% include '_js/utils/currency.js' %}
+	{% include '_js/utils/health-insurance.js' %}
+	{% include '_js/libs/mocha.js' %}
+	{% include '_js/utils/pension-refund.js' %}
+	{% include '_js/utils/percent.js' %}
 	{% include '_js/tax-calculator.js' %}
-	{% include '_js/utils.js' %}
+	{% include '_js/tracking.js' %}
 {% endblock %}
 
 {% block postFooter %}
