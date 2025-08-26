@@ -1,3 +1,7 @@
+{% include '_js/libs/chai.js' %}
+{% include '_js/libs/mocha.js' %}
+{% include '_js/tracking.js' %}
+{% js %}
 describe('shouldTrackUrl', () => {
 	it('Should track /out links', function() {
 		assert.equal(shouldTrackUrl('/out/hello-world'), true);
@@ -16,3 +20,4 @@ describe('shouldTrackUrl', () => {
 		assert.equal(shouldTrackUrl('https://allaboutberlin.com/'), false);
 	});
 });
+{% endjs %}

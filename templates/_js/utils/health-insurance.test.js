@@ -1,6 +1,10 @@
-// TODO: Test custom zusatzbeitrag
+{% include '_js/libs/chai.js' %}
+{% include '_js/libs/mocha.js' %}
+{% include '_js/utils/health-insurance.js' %}
+{% include '_js/utils/test.js' %}
+{% js %}
 
-import { hasFlag, notHasFlag } from './test-utils.js';
+// TODO: Test custom zusatzbeitrag
 
 const round = roundCurrency;
 const equal = assert.equal;
@@ -347,7 +351,7 @@ describe('An apprentice', () => {
 	const apprenticeTests = [
 		cannotUseEHIC,
 		cannotJoinKSK,
-		cannotBePaidBySocialBenefits,
+		cannotGetFreeInsuranceThroughSocialBenefits,
 		cannotUseSpouseInsurance,
 		cannotUseParentsInsurance,
 	];
@@ -413,7 +417,7 @@ describe('An employee', () => {
 	const employeeTests = [
 		cannotUseEHIC,
 		cannotJoinKSK,
-		cannotBePaidBySocialBenefits,
+		cannotGetFreeInsuranceThroughSocialBenefits,
 	];
 
 	describe(`with a minijob income (€${taxes.maxMinijobIncome}/m)`, () => {
@@ -548,7 +552,7 @@ describe('A freelancer', () => {
 		canJoinKSK,
 		hasSelfEmployedTariff,
 		cannotUseEHIC,
-		cannotBePaidBySocialBenefits,
+		cannotGetFreeInsuranceThroughSocialBenefits,
 	];
 
 	describe('with EU public insurance', () => {
@@ -660,7 +664,7 @@ describe('An unemployed person', () => {
 	}
 
 	const unemployedTests = [
-		canBePaidBySocialBenefits,
+		canGetFreeInsuranceThroughSocialBenefits,
 		canUseSpouseInsurance,
 		canUseParentsInsurance,
 		cannotJoinKSK,
@@ -703,7 +707,7 @@ describe('An unemployed person', () => {
 			...unemployed,
 			isApplyingForFirstVisa: true,
 		}, [
-			cannotBePaidBySocialBenefits,
+			cannotGetFreeInsuranceThroughSocialBenefits,
 			getsRecommended(['free', 'expat', 'private']),
 		]);
 	});
@@ -935,6 +939,7 @@ function testInsuranceOptions(params, tests){
 		sortByPrice: false,
 		...params,
 	});
+	console.log(output);
 	tests.forEach(t => t(output));
 }
 
@@ -1228,13 +1233,14 @@ function cannotJoinKSK(output){
 	});
 }
 
-function canBePaidBySocialBenefits(output){
+function canGetFreeInsuranceThroughSocialBenefits(output){
+	console.trace(output)
 	it('can get free health insurance through social benefits', () => {
 		hasFlag(output, 'social-benefits')();
 		equal(output.free.options.find(o => o.id === 'social-benefits').id, 'social-benefits');
 	});
 }
-function cannotBePaidBySocialBenefits(output){
+function cannotGetFreeInsuranceThroughSocialBenefits(output){
 	it('cannot get free health insurance through social benefits', () => {
 		notHasFlag(output, 'social-benefits')();
 		equal(output.free.options.find(o => o.id === 'social-benefits'), undefined);
@@ -1247,3 +1253,5 @@ function canUseEHIC(output){
 function cannotUseEHIC(output){
 	it('cannot use their EHIC card', notHasFlag(output, 'ehic'));
 }
+
+{% endjs %}

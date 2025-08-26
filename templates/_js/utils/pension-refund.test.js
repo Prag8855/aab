@@ -1,4 +1,8 @@
-import { hasFlags, yearsAgo } from './test-utils.js';
+{% include '_js/libs/chai.js' %}
+{% include '_js/libs/mocha.js' %}
+{% include '_js/utils/pension-refund.js' %}
+{% include '_js/utils/test.js' %}
+{% js %}
 
 describe('calculatePensionRefund', () => {
 	describe('a 30,000€ income for 12 months in 2005', () => {
@@ -719,3 +723,4 @@ describe('calculatePensionRefund', () => {
 		});
 	});
 });
+{% endjs %}

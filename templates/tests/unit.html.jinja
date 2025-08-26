@@ -11,16 +11,13 @@
 	<div class="article-body">
 		<div id="mocha"></div>
 	</div>
-
-	{% include '_js/libs/chai.js' %}	
-	{% include '_js/utils/constants.js' %}
-	{% include '_js/utils/currency.js' %}
-	{% include '_js/utils/health-insurance.js' %}
+	{% include '_js/libs/chai.js' %}
 	{% include '_js/libs/mocha.js' %}
-	{% include '_js/utils/pension-refund.js' %}
-	{% include '_js/utils/percent.js' %}
-	{% include '_js/utils/tax.js' %}
-	{% include '_js/tracking.js' %}
+	{% include '_js/utils/health-insurance.test.js' %}
+	{% include '_js/utils/pension-refund.test.js' %}
+	{% include '_js/utils/tax.test.js' %}
+	{% include '_js/utils/tracking.test.js' %}
+	{% include '_js/utils/utils.test.js' %}
 {% endblock %}
 
 {% block postFooter %}
@@ -58,16 +55,6 @@
 
 		#mocha-report .test.fail h2{color:red;font-weight: bold;}
 	</style>
-	<script class="mocha-init">
-		mocha.setup('bdd');
-		let assert = chai.assert;
-		chai.config.truncateThreshold = 0;
-	</script>
-	<script src="/js/health-insurance-calculator.test.js" type="module"></script>
-	<script src="/js/pension-refund-calculator.test.js" type="module"></script>
-	<script src="/js/tax-calculator.test.js" type="module"></script>
-	<script src="/js/utils.test.js" type="module"></script>
-	<script src="/js/tracking.test.js" type="module"></script>
 	<script class="mocha-exec" type="module">
 		const runner = mocha.run();
 		const results = [];

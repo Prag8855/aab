@@ -1,5 +1,8 @@
-import { hasFlags } from './test-utils.js';
-
+{% include '_js/libs/chai.js' %}
+{% include '_js/libs/mocha.js' %}
+{% include '_js/utils/tax.js' %}
+{% include '_js/utils/test.js' %}
+{% js %}
 describe('calculateUnemploymentInsurance', () => {
 	const testCases = [
 		{
@@ -268,3 +271,4 @@ describe('calculateSolidarityTax', () => {
 		});
 	});
 });
+{% endjs %}

@@ -1,3 +1,7 @@
+{% include '_js/libs/chai.js' %}
+{% include '_js/libs/mocha.js' %}
+{% include '_js/utils/currency.js' %}
+{% js %}
 describe('formatCurrency', () => {
 	const testCases = [
 		{
@@ -65,3 +69,4 @@ describe('formatCurrency', () => {
 		});
 	});
 });
+{% endjs %}
