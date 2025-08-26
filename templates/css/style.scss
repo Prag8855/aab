@@ -2150,6 +2150,10 @@ input[name="username"], // Honeypot
             }
         }
 
+        p{
+            margin: 0;
+        }
+
         @include only-phone{
             grid-template-columns: 1fr;
             gap: var(--s);
