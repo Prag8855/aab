@@ -31,7 +31,7 @@ When you have a job, your employer pays half of your health insurance. If you ar
 - **[[Expat health insurance]]**  
     If your income is below €30,000 per year, it might be your only option.[^2] It's the cheapest health insurance, but it's a temporary solution and the coverage is not great. Switch to private as soon as you can.[^6]
 
-**If you already live in Germany**, you have 2 options:
+**If you already live in Germany**, you have 3 options:
 
 - **Keep your [public health insurance](/glossary/gesetzliche%20Krankenversicherung)**{{RECOMMENDED}}  
     If you have a low or unstable income, this is the safest option, because the price matches your income. You can switch to private later if it makes more sense.[^5]
