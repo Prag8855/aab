@@ -14,7 +14,7 @@
 		<h2>Your old address</h2>
 		<p>Where did you live? Enter the address that you want to deregister.</p>
 		<hr>
-		<div class="form-group required">
+		<div class="form-group">
 			<label :for="uid('oldAddress')">Street address</label>
 			<input
 				:id="uid('oldAddress')"
@@ -25,7 +25,7 @@
 				autocomplete="address-line1"
 				required>
 		</div>
-		<div class="form-group required">
+		<div class="form-group">
 			<label :for="uid('oldPostCode')">
 				<glossary term="Postleitzahl">Post code</glossary>
 			</label>
@@ -45,7 +45,7 @@
 			<a class="input-instructions internal-link" href="/guides/addressing-a-letter-in-germany#extra-information" target="_blank">How to write your building details</a>
 		</div>
 		<hr>
-		<div class="form-group required">
+		<div class="form-group">
 			<label :for="uid('moveOutDate') + '-day'">Move-out date</label>
 			<date-picker v-model="moveOutDate" :id="uid('moveOutDate')" required></date-picker>
 		</div>
@@ -54,7 +54,7 @@
 		<h2>Your next address</h2>
 		<p>Where will you live after you leave Germany?</p>
 		<hr>
-		<div class="form-group required">
+		<div class="form-group">
 			<label :for="uid('newAddress')">Street address</label>
 			<input
 				:id="uid('newAddress')"
@@ -65,7 +65,7 @@
 				autocomplete="address-line1"
 				required>
 		</div>
-		<div class="form-group required">
+		<div class="form-group">
 			<label :for="uid('newCityAndPostCode')">
 				City and post code
 			</label>
@@ -76,7 +76,7 @@
 				v-model="newCityAndPostCode"
 				autocomplete="address-level2" required>
 		</div>
-		<div class="form-group required">
+		<div class="form-group">
 			<label :for="uid('newCountry')">Country</label>
 			<country-input
 				country-code
@@ -104,7 +104,7 @@
 					placeholder="Dr." 
 					class="anrede-input">
 			</div>
-			<div class="form-group required">
+			<div class="form-group">
 				<label :for="uid('firstName-' + person.id)">First and last name</label>
 				<div class="input-group">
 					<first-name-input
@@ -128,7 +128,7 @@
 					placeholder="Alex Brown">
 				<span class="input-instructions" :id="uid('birthName-instructions-' + person.id)">If you changed your name, enter your full name at birth.</span>
 			</div>
-			<div class="form-group required">
+			<div class="form-group">
 				<span class="label">Gender</span>
 				<div class="input-group">
 					<label class="checkbox">
@@ -145,7 +145,7 @@
 					</label>
 				</div>
 			</div>
-			<div class="form-group required">
+			<div class="form-group">
 				<label :for="uid('nationality-' + person.id)">Nationality</label>
 				<country-input
 					country-code
@@ -153,7 +153,7 @@
 					:id="uid('nationality-' + person.id)"
 					required></country-input>
 			</div>
-			<div class="form-group required">
+			<div class="form-group">
 				<label :for="uid('religion-' + person.id)">Religion</label>
 				<select required :id="uid('religion-' + person.id)" v-model="person.religion" :class="{placeholder: !person.religion}">
 					<option disabled hidden default :value="null">Choose a church</option>
@@ -166,7 +166,7 @@
 					<option value="Sonstiges, nicht kirchensteuerpflichtig">Other / No religion</option>
 				</select>
 			</div>
-			<div class="form-group required">
+			<div class="form-group">
 				<label :for="uid('dateOfBirth-' + person.id) + '-day'">Date of birth</label>
 				<date-picker
 					:key="person.id"
@@ -175,7 +175,7 @@
 					autocomplete="bday"
 					required></date-picker>
 			</div>
-			<div class="form-group required">
+			<div class="form-group">
 				<label :for="uid('birthPlace-' + person.id)">Place of birth</label>
 				<input
 					type="text"

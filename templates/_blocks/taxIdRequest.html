@@ -77,11 +77,11 @@
 	<template v-if="stage === 'address'">
 		<h2>Your address in Germany</h2>
 		<hr>
-		<div class="form-group required" v-if="purpose !== 'noAnmeldung'">
+		<div class="form-group" v-if="purpose !== 'noAnmeldung'">
 			<label :for="uid('country')">Country</label>
 			<country-input ref="countryInput" country-code v-model="country" :id="uid('country')" exclude-germany required></country-input>
 		</div>
-		<div class="form-group required">
+		<div class="form-group">
 			<label :for="uid('address')">Street address</label>
 			<input
 				:id="uid('address')"
@@ -92,14 +92,14 @@
 				autocomplete="address-line1"
 				required>
 		</div>
-		<div v-if="country === 'DE'" class="form-group required">
+		<div v-if="country === 'DE'" class="form-group">
 			<label :for="uid('postCode')"><glossary term="Postleitzahl">Post code</glossary> and city</label>
 			<div class="input-group">
 				<postalcode-input :id="uid('postCode')" v-model="germanPostCode" required></postalcode-input>
 				<city-input v-model="germanCity" required></city-input>
 			</div>
 		</div>
-		<div v-if="country !== 'DE'" class="form-group required">
+		<div v-if="country !== 'DE'" class="form-group">
 			<label :for="uid('foreignCityAndPostCode')">City and post code</label>
 			<input
 				:id="uid('foreignCityAndPostCode')"
@@ -109,7 +109,7 @@
 				autocomplete="address-level2"
 				required>
 		</div>
-		<div class="form-group required" v-if="country === 'DE'">
+		<div class="form-group" v-if="country === 'DE'">
 			<label :for="uid('germanState')">State</label>
 			<state-input :id="uid('germanState')" v-model="germanState" output="germanName" required></state-input>
 		</div>
@@ -118,7 +118,7 @@
 		<h2>Who needs a tax ID?</h2>
 		<template v-for="(person, index) in people">
 			<hr>
-			<div class="form-group required">
+			<div class="form-group">
 				<label :for="uid('firstName-' + person.id)">First and last name</label>
 				<div class="input-group">
 					<first-name-input
@@ -142,7 +142,7 @@
 					placeholder="Alex Brown">
 				<span class="input-instructions" :id="uid('birthName-instructions-' + person.id)">If you changed your name, enter your full name at birth.</span>
 			</div>
-			<div class="form-group required">
+			<div class="form-group">
 				<label :for="uid('dateOfBirth-' + person.id) + '-day'">Date of birth</label>
 				<date-picker
 					:key="person.id"
@@ -151,7 +151,7 @@
 					autocomplete="bday"
 					required></date-picker>
 			</div>
-			<div class="form-group required">
+			<div class="form-group">
 				<label :for="uid('birthPlace-' + person.id)">Place of birth</label>
 				<input
 					type="text"
@@ -174,7 +174,7 @@
 			</label>
 		</div>
 		<p v-if="!namesAreOnMailbox">If your name is not on your mailbox, you must <a href="/guides/anmeldung-in-english-berlin#if-your-name-is-not-on-your-mailbox" target="_blank">add “c/o” or “bei” to your address</a>. This tells postal workers to put your mail in another person's mailbox.</p>
-		<div class="form-group required" v-if="!namesAreOnMailbox">
+		<div class="form-group" v-if="!namesAreOnMailbox">
 			<label :for="uid('nameOnMailbox')">Name on mailbox</label>
 			<input :id="uid('nameOnMailbox')" type="text" v-model="nameOnMailbox" placeholder="Max Mustermann" required>
 		</div>
@@ -189,7 +189,7 @@
 			</label>
 		</div>
 		<template v-if="sendToEmployer">
-			<div class="form-group required">
+			<div class="form-group">
 				<label :for="uid('employerName')">Employer name</label>
 				<input
 					:id="uid('employerName')"
@@ -198,7 +198,7 @@
 					placeholder="Musterfirma GmbH"
 					required>
 			</div>
-			<div class="form-group required">
+			<div class="form-group">
 				<label :for="uid('employerAddress')">Address</label>
 				<input
 					:id="uid('employerAddress')"
@@ -208,14 +208,14 @@
 					autocomplete="address-line1"
 					required>
 			</div>
-			<div class="form-group required">
+			<div class="form-group">
 				<label :for="uid('employerPostCode')"><glossary term="Postleitzahl">Post code</glossary> and city</label>
 				<div class="input-group">
 					<postalcode-input :id="uid('employerPostCode')" v-model="employerPostCode" required></postalcode-input>
 					<city-input v-model="employerCity" required></city-input>
 				</div>
 			</div>
-			<div class="form-group required">
+			<div class="form-group">
 				<label :for="uid('employerState')">State</label>
 				<state-input :id="uid('employerState')" v-model="employerState" output="germanName" required></state-input>
 			</div>

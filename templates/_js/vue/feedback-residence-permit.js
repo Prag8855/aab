@@ -224,7 +224,7 @@ Vue.component('feedback-residence-permit', {
 					<div class="step" v-for="(step, key, index) in steps" :key="key">
 						<input :id="uid('checkbox' + key)" type="checkbox" v-model="step.completed" @change="onStepCompletionChange(key)">
 						<label :for="uid('checkbox' + key)" class="description" v-text="stepName(key)"></label>
-						<div class="duration form-group required" v-if="step.completed">
+						<div class="duration form-group" v-if="step.completed">
 							<label :for="uid(key) + '-date-day'" v-text="step.dateFieldTitle"></label>
 							<date-picker :min="minimumStepDate(step)" v-model="step.date" :id="uid(key) + '-date'" required></date-picker>
 						</div>
@@ -246,7 +246,7 @@ Vue.component('feedback-residence-permit', {
 				</template>
 				<template v-if="showRestOfForm">
 					<hr>
-					<div class="form-group required" v-if="showResidencePermitField">
+					<div class="form-group" v-if="showResidencePermitField">
 						<label :for="uid('residencePermitType')">Residence permit</label>
 						<select :id="uid('residencePermitType')" v-model="residencePermitType" :class="{placeholder: !residencePermitType}" required>
 							<option disabled hidden default :value="null">Choose a residence permit</option>
@@ -256,7 +256,7 @@ Vue.component('feedback-residence-permit', {
 							Which residence permit did you apply for?
 						</span>
 					</div>
-					<div class="form-group required">
+					<div class="form-group">
 						<label :for="uid('department')">Department</label>
 						<select :id="uid('department')" v-model="department" :class="{placeholder: !department}" required>
 							<option disabled hidden default :value="null">Choose a department</option>

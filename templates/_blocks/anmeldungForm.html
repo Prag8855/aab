@@ -14,7 +14,7 @@
 		<h2>Your new address</h2>
 		<p>Where are you moving? Enter the address that you want to register.</p>
 		<hr>
-		<div class="form-group required">
+		<div class="form-group">
 			<label :for="uid('newAddress')">Street address</label>
 			<input
 				:id="uid('newAddress')"
@@ -25,7 +25,7 @@
 				autocomplete="address-line1"
 				required>
 		</div>
-		<div class="form-group required">
+		<div class="form-group">
 			<label :for="uid('newPostCode')">
 				<glossary term="Postleitzahl">Post code</glossary> and city
 			</label>
@@ -45,7 +45,7 @@
 			<a class="input-instructions internal-link" href="/guides/addressing-a-letter-in-germany#extra-information" target="_blank">How to write your building details</a>
 		</div>
 		<hr>
-		<div class="form-group required">
+		<div class="form-group">
 			<label :for="uid('moveInDate') + '-day'">Move-in date</label>
 			<date-picker v-model="moveInDate" :id="uid('moveInDate')" required></date-picker>
 			<span class="input-instructions">Use the same date as on your <em><glossary>Wohnungsgeberbestätigung</glossary></em>.</span>
@@ -55,7 +55,7 @@
 		<h2>Your previous address</h2>
 		<p>Where did you live before? Your old address be deregistered automatically.</p>
 		<hr>
-		<div class="form-group required">
+		<div class="form-group">
 			<label :for="uid('oldCountry')">Country</label>
 			<country-input
 				country-code
@@ -68,7 +68,7 @@
 			<span v-if="oldCountry && oldCountry !== 'DE'" :id="uid('oldCountry-instructions')" class="input-instructions">You don't need to share your foreign address.</span>
 		</div>
 		<template v-if="oldCountry === 'DE'">
-			<div class="form-group required">
+			<div class="form-group">
 				<label :for="uid('oldAddress')">Street address</label>
 				<input
 					:id="uid('oldAddress')"
@@ -78,7 +78,7 @@
 					autocomplete="address-line1"
 					required>
 			</div>
-			<div class="form-group required">
+			<div class="form-group">
 				<label :for="uid('oldPostCode')">
 					<glossary term="Postleitzahl">Post code</glossary> and city
 				</label>
@@ -96,7 +96,7 @@
 					placeholder="Haus B, 2. Etage rechts"
 					autocomplete="address-line2">
 			</div>
-			<div class="form-group required">
+			<div class="form-group">
 				<label :for="uid('germanState')">
 					State
 				</label>
@@ -118,7 +118,7 @@
 					placeholder="Dr." 
 					class="anrede-input">
 			</div>
-			<div class="form-group required">
+			<div class="form-group">
 				<label :for="uid('firstName-' + person.id)">First and last name</label>
 				<div class="input-group">
 					<first-name-input
@@ -142,7 +142,7 @@
 					placeholder="Alex Brown">
 				<span class="input-instructions" :id="uid('birthName-instructions-' + person.id)">If you changed your name, enter your full name at birth.</span>
 			</div>
-			<div class="form-group required">
+			<div class="form-group">
 				<span class="label">Gender</span>
 				<div class="input-group">
 					<label class="checkbox">
@@ -159,7 +159,7 @@
 					</label>
 				</div>
 			</div>
-			<div class="form-group required">
+			<div class="form-group">
 				<label :for="uid('nationality-' + person.id)">Nationality</label>
 				<country-input
 					country-code
@@ -168,7 +168,7 @@
 					:id="uid('nationality-' + person.id)"
 					required></country-input>
 			</div>
-			<div class="form-group required">
+			<div class="form-group">
 				<label :for="uid('religion-' + person.id)">Religion</label>
 				<select :id="uid('religion-' + person.id)" v-model="person.religion" :aria-describedby="uid('religion-instructions-' + person.id)"  :class="{placeholder: !person.religion}" required>
 					<option disabled hidden default :value="null">Choose a church</option>
@@ -182,7 +182,7 @@
 				</select>
 				<span :id="uid('religion-instructions-' + person.id)" class="input-instructions">Members of some churches must pay the <glossary term="Kirchensteuer">church tax</glossary>.</span>
 			</div>
-			<div class="form-group required">
+			<div class="form-group">
 				<label :for="uid('dateOfBirth-' + person.id) + '-day'">Date of birth</label>
 				<date-picker
 					:key="person.id"
@@ -191,7 +191,7 @@
 					autocomplete="bday"
 					required></date-picker>
 			</div>
-			<div class="form-group required">
+			<div class="form-group">
 				<label :for="uid('birthPlace-' + person.id)">Place of birth</label>
 				<input
 					type="text"
@@ -214,7 +214,7 @@
 			</label>
 		</div>
 		<p v-if="!namesAreOnMailbox">If your name is not on your mailbox, you must <a href="/guides/anmeldung-in-english-berlin#if-your-name-is-not-on-your-mailbox" target="_blank">add “c/o” or “bei” to your address</a>. This tells postal workers to put your mail in another person's mailbox.</p>
-		<div class="form-group required" v-if="!namesAreOnMailbox">
+		<div class="form-group" v-if="!namesAreOnMailbox">
 			<label :for="uid('nameOnMailbox')">Name on mailbox</label>
 			<input :id="uid('nameOnMailbox')" type="text" v-model="nameOnMailbox" placeholder="Max Mustermann" required>
 		</div>
@@ -225,7 +225,7 @@
 		<template v-for="(person, index) in people">
 			<hr>
 			<h3 v-if="people.length > 1">ID document for {{ personName(person, index + 1) }}</h3>
-			<div class="form-group required">
+			<div class="form-group">
 				<span class="label">
 					Document type
 				</span>
@@ -240,7 +240,7 @@
 					</label>
 				</div>
 			</div>
-			<div class="form-group required">
+			<div class="form-group">
 				<label :for="uid('documentType-' + person.id)">
 					{{ person.documentType === 'RP' ? 'Passport' : 'ID card' }} number
 				</label>
@@ -252,21 +252,21 @@
 					:placeholder="person.documentType === 'RP' ? 'AB12345678' : 'A12B34C56'"
 					required>
 			</div>
-			<div class="form-group required">
+			<div class="form-group">
 				<label :for="uid('documentIssueDate-' + person.id) + '-day'">Date issued</label>
 				<date-picker :key="person.id" :id="uid('documentIssueDate-' + person.id)" v-model="person.documentIssueDate" required></date-picker>
 			</div>
-			<div class="form-group required" v-if="person.documentType === 'PA'">
+			<div class="form-group" v-if="person.documentType === 'PA'">
 				<label :for="uid('documentIssuingAuthority-' + person.id)">Issuing authority</label>
 				<input type="text" placeholder="Berlin" :id="uid('documentIssuingAuthority-' + person.id)" v-model="person.documentIssuingAuthority" required>
 				<span class="input-instructions" >It's written on the back of your ID card.</span>
 			</div>
-			<div class="form-group required" v-if="person.documentType !== 'PA'">
+			<div class="form-group" v-if="person.documentType !== 'PA'">
 				<label :for="uid('documentIssuingAuthority-' + person.id)">Issuing authority</label>
 				<input type="text" placeholder="Ottawa" :id="uid('documentIssuingAuthority-' + person.id)" v-model="person.documentIssuingAuthority" required>
 				<span class="input-instructions" v-if="person.documentType !== 'PA'">It's written in your passport, on the photo page.</span>
 			</div>
-			<div class="form-group required">
+			<div class="form-group">
 				<label :for="uid('documentExpirationDate-' + person.id) + '-day'">Expiration date</label>
 				<date-picker :key="person.id" :id="uid('documentExpirationDate-' + person.id)" v-model="person.documentExpirationDate" required></date-picker>
 			</div>

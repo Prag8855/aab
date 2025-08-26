@@ -438,15 +438,15 @@
 	</template>
 	<template v-if="stage === 'contactInfo'">
 		<div ref="contactForm">
-			<div class="form-group required">
+			<div class="form-group">
 				<label :for="uid('name')">Full name</label>
 				<full-name-input v-model="fullName" :id="uid('name')" required></full-name-input>
 			</div>
-			<div class="form-group required">
+			<div class="form-group">
 				<label :for="uid('email')">Email address</label>
 				<email-input v-model="email" :id="uid('email')" required></email-input>
 			</div>
-			<div class="form-group required">
+			<div class="form-group">
 				<label :for="uid('date-of-birth') + '-day'">Date of birth</label>
 				<date-picker v-model="dateOfBirth" :id="uid('date-of-birth')" required autocomplete="bday" :aria-describedby="uid('instructions-date-of-birth')"></date-picker>
 				<span class="input-instructions" :id="uid('instructions-date-of-birth')">Required by the <glossary>Deutsche Rentenversicherung</glossary></span>
