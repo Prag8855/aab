@@ -1,0 +1,258 @@
+{% extends "_layout.html" %}
+{% set entry = entries['guides/best-bank-germany.md'] %}
+{% set metatitle = entry.title %}
+{% set metadescription = entry.description %}
+
+{% include '_js/vue/components/age-input.js' %}
+{% include '_js/vue/components/blank.js' %}
+{% include '_js/vue/components/children-input.js' %}
+{% include '_js/vue/components/city-input.js' %}
+{% include '_js/vue/components/collapsible.js' %}
+{% include '_js/vue/components/country-input.js' %}
+{% include '_js/vue/components/date-input.js' %}
+{% include '_js/vue/components/email-input.js' %}
+{% include '_js/vue/components/eur.js' %}
+{% include '_js/vue/components/first-name-input.js' %}
+{% include '_js/vue/components/full-name-input.js' %}
+{% include '_js/vue/components/glossary.js' %}
+{% include '_js/vue/components/last-name-input.js' %}
+{% include '_js/vue/components/occupation-input.js' %}
+{% include '_js/vue/components/postalcode-input.js' %}
+{% include '_js/vue/components/recommended.js' %}
+{% include '_js/vue/components/state-input.js' %}
+{% include '_js/vue/components/tabs.js' %}
+
+{% js %}
+	new Vue({
+		el: document.querySelector('main .article-body'),
+	})
+{% endjs %}
+
+
+{% block postHead %}
+	<meta name="robots" content="noindex">
+{% endblock %}
+
+{% block content %}
+	<h1>Component test</h1>
+	<div class="article-body show-errors">
+		<h2>Collapsibles</h2>
+		<collapsible>
+			<template v-slot:header>
+				Closed collapsible
+			</template>
+			<p>This part is not visible</p>
+		</collapsible>
+
+		<collapsible static>
+			<template v-slot:header>
+				Static collapsible
+			</template>
+			<progress min="0" max="5" value="3"></progress>
+			<p>This collapsible is static</p>
+		</collapsible>
+
+		<collapsible open>
+			<template v-slot:header>
+				<small>Collapsible test</small>
+				Open collapsible
+			</template>
+			<progress min="0" max="5" value="3"></progress>
+			<p>A collapsible that is open.</p>
+			<hr>
+			<div class="buttons bar">
+				<button class="button primary"><i class="icon left" aria-hidden="true"></i> Primary</button>
+				<button class="button">Secondary <i class="icon right" aria-hidden="true"></i></button>
+				<button class="button whatsapp">{% include "_css/icons/whatsapp.svg" %} WhatsApp</button>
+			</div>
+		</collapsible>
+
+		<h2>Currency</h2>
+		<p>
+			<eur cents amount="12345.67123"></eur> (with cents)
+			<br><eur amount="12345.67123"></eur> (no cents)
+			<br><eur locale="de-DE" cents amount="12345.67123"></eur> (German, with cents)
+			<br><eur locale="de-DE" amount="12345.67123"></eur> (German, no cents)
+		</p>
+
+		<h2>Glossary</h2>
+		<p>
+			<glossary>Anmeldung</glossary> (implied term)
+			<br><glossary term="Anmeldung">Address registration</glossary> (specified term)
+		</p>
+
+		<h2>Recommended tag</h2>
+		<p>Recommended option <recommended></recommended></p>
+
+		<h2>Form controls</h2>
+
+		<div class="form-group">
+			<label>Age</label>
+			<age-input></age-input>
+			<age-input value="25"></age-input>
+			<age-input required></age-input>
+			<age-input disabled value="0"></age-input>
+		</div>
+
+		<div class="form-group">
+			<label>Children</label>
+			<children-input></children-input>
+			<children-input value="5"></children-input>
+			<children-input required></children-input>
+			<children-input disabled value="0"></children-input>
+		</div>
+
+		<div class="form-group">
+			<label>City</label>
+			<city-input></city-input>
+			<city-input value="Montreal"></city-input>
+			<city-input required></city-input>
+			<city-input disabled value="Disabled"></city-input>
+		</div>
+
+		<div class="form-group">
+			<label>Country</label>
+			<country-input></country-input>
+			<country-input value="Germany"></country-input>
+			<country-input country-code value="CA"></country-input>
+			<country-input required></country-input>
+			<country-input disabled value="Germany"></country-input>
+		</div>
+
+		<div class="form-group">
+			<label>Date</label>
+			<date-input></date-input>
+			<date-input value="2025-01-02"></date-input>
+			<date-input required></date-input>
+			<date-input disabled value="2025-01-02"></date-input>
+		</div>
+
+		<div class="form-group">
+			<label>Email</label>
+			<email-input></email-input>
+			<email-input value="email@email.com"></email-input>
+			<email-input required></email-input>
+			<email-input disabled value="disabled@email.com"></email-input>
+		</div>
+
+		<div class="form-group">
+			<label>First/last name</label>
+			<div class="input-group">
+				<first-name-input></first-name-input>
+				<last-name-input></last-name-input>
+			</div>
+			<div class="input-group">
+				<first-name-input value="John"></first-name-input>
+				<last-name-input value="Smith"></last-name-input>
+			</div>
+			<div class="input-group">
+				<first-name-input required></first-name-input>
+				<last-name-input required></last-name-input>
+			</div>
+			<div class="input-group">
+				<first-name-input disabled value="Disabled"></first-name-input>
+				<last-name-input disabled value="Disabled"></last-name-input>
+			</div>
+		</div>
+
+		<div class="form-group">
+			<label>Full name</label>
+			<full-name-input></full-name-input>
+			<full-name-input value="John Smith"></full-name-input>
+			<full-name-input required></full-name-input>
+			<full-name-input disabled value="Disabled"></full-name-input>
+		</div>
+
+		<div class="form-group">
+			<label>Occupation</label>
+			<occupation-input></occupation-input>
+			<occupation-input value="employee"></occupation-input>
+			<occupation-input required></occupation-input>
+			<occupation-input disabled value="employee"></occupation-input>
+		</div>
+
+		<div class="form-group">
+			<label>Postal code</label>
+			<postalcode-input></postalcode-input>
+			<postalcode-input value="12345"></postalcode-input>
+			<postalcode-input required></postalcode-input>
+			<postalcode-input disabled value="00000"></postalcode-input>
+		</div>
+
+		<div class="form-group">
+			<label>State</label>
+			<state-input></state-input>
+			<state-input value="by"></state-input>
+			<state-input required></state-input>
+			<state-input disabled value="by"></state-input>
+		</div>
+
+		<hr>
+
+		<div class="form-group">
+			<label>Text</label>
+			<input type="text" placeholder="Placeholder text">
+			<input type="text" value="Input text">
+			<input type="text" required placeholder="Placeholder text">
+			<input type="text" disabled placeholder="Disabled">
+		</div>
+
+		<div class="form-group">
+			<label>Textarea</label>
+			<textarea placeholder="Placeholder text"></textarea>
+			<textarea>Input text</textarea>
+			<textarea placeholder="Placeholder text" required></textarea>
+			<textarea disabled>Disabled</textarea>
+		</div>
+
+		<div class="form-group">
+			<label>Tabs</label>
+			<tabs
+				id="tabs1"
+				value="null"
+				:options="[{label: 'True', value: true}, {label: 'False', value: false}]"></tabs>
+			<tabs
+				:value="false"
+				id="tabs2"
+				:options="[{label: 'True', value: true}, {label: 'False', value: false}]"></tabs>
+			<tabs
+				id="tabs3"
+				value="null"
+				required
+				:options="[{label: 'True', value: true}, {label: 'False', value: false}]"></tabs>
+		</div>
+
+
+
+		<hr>
+
+		<div class="form-group">
+			<span class="label">Optional</span>
+			<input type="text">
+		</div>
+		<div class="form-group optional">
+			<span class="label">Explicitly optional</span>
+			<input type="text">
+		</div>
+		<div class="form-group optional">
+			<span class="label">Very long label name, Mietschuldenfreiheitsbescheinigung</span>
+			<textarea>Input text</textarea>
+		</div>
+
+		<hr>
+
+		<div class="form-group">
+			<label>Instructions</label>
+			<input type="text">
+			<span class="input-instructions">A set of instructions intended to provide extra information or context about a form control.</span>
+			<a class="input-instructions internal-link" href="/guides/german-health-insurance">Internal link</a>
+			<input type="text">
+			<a class="input-instructions external-link" href="https://google.com">External link</a>
+			<input type="text">
+			<details class="input-instructions">
+				<summary>Collapsible instructions</summary>
+				<strong>This</strong> is how you do instructions!
+			</details>
+		</div>
+	</div>
+{% endblock %}
