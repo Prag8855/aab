@@ -36,7 +36,7 @@ This guide helps you find cinemas that play movies in English in Berlin.
 
 ## English movie playtimes
 
-Berlin.de has a [list of movies in their original language](https://www.berlin.de/kino/_bin/azfilm.php/ov), but it's hard to use. I prefer [OV-Berlin](https://ov-berlin.info/movies/).
+Berlin.de has a [list of movies in their original language](https://www.berlin.de/kino/_bin/azfilm.php/ov), but it's hard to use. I prefer [OV-Berlin](https://ov-berlin.info/movies/) and [englishcinemaberlin.com].
 
 **[Find movies in English ➞](https://ov-berlin.info/movies/)**{{ fail_on('2026-06-01') }}
 
