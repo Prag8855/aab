@@ -245,6 +245,7 @@ $width-main-column: 860px;
     --c-border-box-opaque: #ddd;
     --c-border-input: #0005;
     --c-border-input-focused: #0008;
+    --c-border-input-disabled: var(--c-border-box);
 
     --c-border-clickable: var(--c-border-box);
     --c-border-clickable-hover: var(--c-highlight);
@@ -1442,6 +1443,13 @@ sup:target a{
     outline: none;
     box-shadow: 0 0 0 1px transparent;
 
+    &:disabled{
+        border-color: var(--c-border-input-disabled);
+        color: var(--c-text-placeholder);
+        cursor: not-allowed;
+        background-color: transparent;
+    }
+
     &:not([disabled]){
         background-color: var(--c-bg-input);
         &:focus, &:focus-within, &:active{
@@ -1498,10 +1506,6 @@ select{
     background-size: 1rem;
     padding-right: calc(1rem + var(--xs) * 2);
     text-overflow:ellipsis;
-    &:disabled{
-        color: var(--c-text-light);
-        background-color: transparent!important;
-    }
     &.placeholder{
         color: var(--c-text-placeholder);
     }
