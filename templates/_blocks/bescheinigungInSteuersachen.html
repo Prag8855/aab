@@ -118,13 +118,13 @@
 				:id="uid('date-of-birth')"
 				autocomplete="bday" required></date-input>
 		</div>
-		<div class="form-group no-print">
+		<div class="form-group">
 			<label :for="uid('taxID')">Tax ID</label>
 			<input type="text" :id="uid('taxID')" v-model="taxID" placeholder="12 345 678 901" required>
 			<a class="input-instructions internal-link" href="/guides/german-tax-id-steuernummer#where-to-find-your-tax-id" target="_blank">Find your tax ID</a>
 		</div>
 		<hr>
-		<div class="form-group no-label no-print">
+		<div class="form-group no-label">
 			<div class="input-group vertical">
 				<label class="checkbox">
 					<input type="checkbox" v-model="hasPaidFee">
