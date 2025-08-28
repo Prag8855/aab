@@ -20,7 +20,8 @@ def test_data_remembered(page, assert_snapshot):
     expect(page.get_by_title("Month", exact=True)).to_have_value(month)
     expect(page.get_by_title("Year")).to_have_value(year)
 
-    assert_snapshot(page)
+    form = page.get_by_role("group", name="Tool to fill the Anmeldung form")
+    assert_snapshot(form.screenshot())
 
 
 def test_data_validity_check(page, assert_snapshot):
@@ -37,4 +38,5 @@ def test_data_validity_check(page, assert_snapshot):
     expect(page.get_by_label("Street address")).to_have_js_property('validity.valid', False)
     expect(page.get_by_label("Post code")).to_have_js_property('validity.valid', False)
 
-    assert_snapshot(page)
+    form = page.get_by_role("group", name="Tool to fill the Anmeldung form")
+    assert_snapshot(form.screenshot())

@@ -15,7 +15,8 @@ def test_data_remembered(page, assert_snapshot):
     expect(page.get_by_label("City and post code")).to_have_value(address['city'])
     expect(page.get_by_label("Country")).to_have_value(address['country_code'])
 
-    assert_snapshot(page)
+    form = page.get_by_role("group", name="Tool to fill the Abmeldung form")
+    assert_snapshot(form.screenshot())
 
 
 def test_data_validity_check(page, assert_snapshot):
@@ -33,7 +34,8 @@ def test_data_validity_check(page, assert_snapshot):
     expect(page.get_by_label("City and post code")).to_have_js_property('validity.valid', False)
     expect(page.get_by_label("Country")).to_have_js_property('validity.valid', False)
 
-    assert_snapshot(page)
+    form = page.get_by_role("group", name="Tool to fill the Abmeldung form")
+    assert_snapshot(form.screenshot())
 
 
 def test_data_germany(page, assert_snapshot):
@@ -51,4 +53,5 @@ def test_data_germany(page, assert_snapshot):
 
     expect(page.locator('.abmeldung-form')).to_have_class(re.compile(r'.*show-errors.*'))
 
-    assert_snapshot(page)
+    form = page.get_by_role("group", name="Tool to fill the Abmeldung form")
+    assert_snapshot(form.screenshot())

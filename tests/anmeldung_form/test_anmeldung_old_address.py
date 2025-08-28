@@ -18,7 +18,8 @@ def test_data_remembered(page, assert_snapshot):
     expect(page.get_by_label("Building details")).to_have_value(address['zusatz'])
     expect(page.get_by_label("State")).to_have_value(address['state'][1])
 
-    assert_snapshot(page)
+    form = page.get_by_role("group", name="Tool to fill the Anmeldung form")
+    assert_snapshot(form.screenshot())
 
 
 def test_data_validity_check(page, assert_snapshot):
@@ -41,7 +42,8 @@ def test_data_validity_check(page, assert_snapshot):
     expect(page.get_by_title("Postal code (Postleitzahl)")).to_have_js_property('validity.valid', False)
     expect(page.get_by_label("State")).to_have_js_property('validity.valid', False)
 
-    assert_snapshot(page)
+    form = page.get_by_role("group", name="Tool to fill the Anmeldung form")
+    assert_snapshot(form.screenshot())
 
 
 def test_data_not_germany(page, assert_snapshot):
@@ -54,4 +56,5 @@ def test_data_not_germany(page, assert_snapshot):
 
     expect(page.locator('.anmeldung-form')).not_to_have_class(re.compile(r'.*show-errors.*'))
 
-    assert_snapshot(page)
+    form = page.get_by_role("group", name="Tool to fill the Anmeldung form")
+    assert_snapshot(form.screenshot())

@@ -15,7 +15,8 @@ def test_data_remembered(page, assert_snapshot):
     expect(page.get_by_label('My name is on my mailbox')).not_to_be_checked()
     expect(page.get_by_label('Name on mailbox')).to_have_value("Müller")
 
-    assert_snapshot(page)
+    form = page.get_by_role("group", name="Tool to fill the Anmeldung form")
+    assert_snapshot(form.screenshot())
 
 
 def test_pluralisation(page):

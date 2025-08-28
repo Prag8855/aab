@@ -3,7 +3,8 @@ from . import fill_calculator
 
 def test_snapshot(page, assert_snapshot):
     page.goto("/tools/tax-calculator")
-    assert_snapshot(page)
+    calculator = page.get_by_role("group", name="German tax calculator")
+    assert_snapshot(calculator.screenshot())
     page.get_by_role("link", name="Show options").click()
     fill_calculator(page)
-    assert_snapshot(page)
+    assert_snapshot(calculator.screenshot())

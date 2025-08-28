@@ -42,4 +42,5 @@ def test_download_buttons(page, assert_snapshot):
     expect(download_2).not_to_be_disabled()
     expect(download_3).not_to_be_disabled()
 
-    assert_snapshot(page)
+    form = page.get_by_role("group", name="Tool to fill the Anmeldung form")
+    assert_snapshot(form.screenshot())

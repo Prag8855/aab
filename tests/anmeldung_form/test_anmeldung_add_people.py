@@ -29,4 +29,5 @@ def test_data_remembered(page, assert_snapshot):
         expect(page.get_by_title("Month", exact=True).nth(index)).to_have_value(month)
         expect(page.get_by_title("Year").nth(index)).to_have_value(year)
 
-    assert_snapshot(page)
+    form = page.get_by_role("group", name="Tool to fill the Anmeldung form")
+    assert_snapshot(form.screenshot())
