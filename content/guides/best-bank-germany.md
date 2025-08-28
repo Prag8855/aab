@@ -67,7 +67,7 @@ These banks are **not expat-friendly**:
 - **[ING](/out/ing)**  
     It's a good bank, but you need EU citizenship or German [permanent residence](/glossary/Niederlassungserlaubnis) to open an account.[^15] They only speak German.
 - **[DKB](/out/dkb)**  
-    It's a good bank, but they require [permanent residence](/glossary/Niederlassungserlaubnis) to open an account.[^14] They only speak German.
+    It's a good bank, but you need EU citizenship or German [permanent residence](/glossary/Niederlassungserlaubnis) to open an account.[^14] They only speak German.
 - **[comdirect](/out/comdirect)**  
     You need an *[[Anmeldung]]*, or you must follow [extra steps](https://banks-germany.com/open-comdirect-bank-account-for-non-residents/). They only speak German.
 
