@@ -4,7 +4,7 @@ from ..abmeldung_form import fill_abmeldung_form_until, fill_old_address, next_s
 import re
 
 
-def test_data_remembered(page):
+def test_data_remembered(page, assert_snapshot):
     fill_abmeldung_form_until(page, 'oldAddress')
     fill_old_address(page)
     next_step(page)
@@ -20,8 +20,10 @@ def test_data_remembered(page):
     expect(page.get_by_title("Month", exact=True)).to_have_value(month)
     expect(page.get_by_title("Year")).to_have_value(year)
 
+    assert_snapshot(page)
 
-def test_data_validity_check(page):
+
+def test_data_validity_check(page, assert_snapshot):
     fill_abmeldung_form_until(page, 'oldAddress')
 
     expect(page.locator('.abmeldung-form')).not_to_have_class(re.compile(r'.*show-errors.*'))
@@ -42,3 +44,5 @@ def test_data_validity_check(page):
     expect(page.get_by_title("Day of the month")).to_have_js_property('validity.valid', False)
     expect(page.get_by_title("Month", exact=True)).to_have_js_property('validity.valid', False)
     expect(page.get_by_title("Year")).to_have_js_property('validity.valid', False)
+
+    assert_snapshot(page)

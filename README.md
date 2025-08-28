@@ -15,6 +15,12 @@ This repository contains a file called `ursus_config.py`. This tells Ursus how t
 
 Ursus can rebuild the website when you change the content (`ursus -w` or `--watch`) and rebuild only the parts that change (`ursus -f` or `--fast`). When I work on the website, I usually call `cd path/to/this/repo && ursus -wfs`.
 
+## How to test
+
+Run `pytest tests` from the project root. The server must run at `http://localhost` for the tests to pass.
+
+To update the snapshots used for snapshot testing, run `pytest tests --update-snapshots`.
+
 ## Notes for contributors
 
 Before you contribute to this website, please note that...

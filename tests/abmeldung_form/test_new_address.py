@@ -4,7 +4,7 @@ from ..abmeldung_form import fill_abmeldung_form_until, fill_new_address, next_s
 import re
 
 
-def test_data_remembered(page):
+def test_data_remembered(page, assert_snapshot):
     fill_abmeldung_form_until(page, 'newAddress')
     fill_new_address(page)
     next_step(page)
@@ -15,8 +15,10 @@ def test_data_remembered(page):
     expect(page.get_by_label("City and post code")).to_have_value(address['city'])
     expect(page.get_by_label("Country")).to_have_value(address['country_code'])
 
+    assert_snapshot(page)
 
-def test_data_validity_check(page):
+
+def test_data_validity_check(page, assert_snapshot):
     fill_abmeldung_form_until(page, 'newAddress')
 
     expect(page.locator('.abmeldung-form')).not_to_have_class(re.compile(r'.*show-errors.*'))
@@ -31,8 +33,10 @@ def test_data_validity_check(page):
     expect(page.get_by_label("City and post code")).to_have_js_property('validity.valid', False)
     expect(page.get_by_label("Country")).to_have_js_property('validity.valid', False)
 
+    assert_snapshot(page)
 
-def test_data_germany(page):
+
+def test_data_germany(page, assert_snapshot):
     fill_abmeldung_form_until(page, 'newAddress')
 
     address = people[0]['foreign_address']
@@ -46,3 +50,5 @@ def test_data_germany(page):
     next_step(page)
 
     expect(page.locator('.abmeldung-form')).to_have_class(re.compile(r'.*show-errors.*'))
+
+    assert_snapshot(page)

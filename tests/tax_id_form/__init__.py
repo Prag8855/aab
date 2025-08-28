@@ -11,7 +11,7 @@ def previous_step(page):
 
 
 def load_tax_id_form(page):
-    page.goto("/guides/banks")
+    page.goto("/docs/010250-antrag-auf-vergabe-einer-steuerlichen-id")
 
 
 def start_form(page):
