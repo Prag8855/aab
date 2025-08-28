@@ -2,7 +2,7 @@ from playwright.sync_api import expect
 from ..anmeldung_form import fill_anmeldung_form_until, fill_bei_address, next_step, previous_step, fill_people
 
 
-def test_data_remembered(page):
+def test_data_remembered(page, assert_snapshot):
     fill_anmeldung_form_until(page, 'beiAddress')
     fill_bei_address(page)
 
@@ -14,6 +14,8 @@ def test_data_remembered(page):
 
     expect(page.get_by_label('My name is on my mailbox')).not_to_be_checked()
     expect(page.get_by_label('Name on mailbox')).to_have_value("Müller")
+
+    assert_snapshot(page)
 
 
 def test_pluralisation(page):

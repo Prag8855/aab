@@ -4,7 +4,7 @@ from ..anmeldung_form import fill_anmeldung_form_until, fill_old_address, next_s
 import re
 
 
-def test_data_remembered(page):
+def test_data_remembered(page, assert_snapshot):
     fill_anmeldung_form_until(page, 'oldAddress')
     fill_old_address(page)
     next_step(page)
@@ -18,8 +18,10 @@ def test_data_remembered(page):
     expect(page.get_by_label("Building details")).to_have_value(address['zusatz'])
     expect(page.get_by_label("State")).to_have_value(address['state'][1])
 
+    assert_snapshot(page)
 
-def test_data_validity_check(page):
+
+def test_data_validity_check(page, assert_snapshot):
     fill_anmeldung_form_until(page, 'oldAddress')
 
     page.get_by_label("Country").select_option("Germany")
@@ -39,8 +41,10 @@ def test_data_validity_check(page):
     expect(page.get_by_title("Postal code (Postleitzahl)")).to_have_js_property('validity.valid', False)
     expect(page.get_by_label("State")).to_have_js_property('validity.valid', False)
 
+    assert_snapshot(page)
 
-def test_data_not_germany(page):
+
+def test_data_not_germany(page, assert_snapshot):
     fill_anmeldung_form_until(page, 'oldAddress')
 
     page.get_by_label("Country").select_option("Canada")
@@ -49,3 +53,5 @@ def test_data_not_germany(page):
     next_step(page)
 
     expect(page.locator('.anmeldung-form')).not_to_have_class(re.compile(r'.*show-errors.*'))
+
+    assert_snapshot(page)

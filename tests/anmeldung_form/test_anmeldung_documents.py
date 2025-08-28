@@ -4,7 +4,7 @@ from ..anmeldung_form import fill_anmeldung_form_until, fill_people, fill_bei_ad
 from ..test_data import people
 
 
-def test_data_remembered(page):
+def test_data_remembered(page, assert_snapshot):
     fill_anmeldung_form_until(page, 'addPeople')
 
     fill_people(page, multiple_people=True)
@@ -34,3 +34,5 @@ def test_data_remembered(page):
         expect(page.get_by_title("Day of the month").nth(index * 2 + 1)).to_have_value(day)
         expect(page.get_by_title("Month", exact=True).nth(index * 2 + 1)).to_have_value(month)
         expect(page.get_by_title("Year").nth(index * 2 + 1)).to_have_value(year)
+
+    assert_snapshot(page)
