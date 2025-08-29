@@ -386,7 +386,7 @@ Vue.component('health-insurance-calculator', {
 					<label :for="uid('studentOccupation')">
 						Other occupation
 					</label>
-					<div class="input-group vertical">
+					<div class="input-group">
 						<label class="checkbox">
 							<input type="radio"
 								:name="uid('studentOccupation')"
@@ -432,7 +432,7 @@ Vue.component('health-insurance-calculator', {
 					<label :for="uid('isApplyingForFirstVisa')">
 						Immigration
 					</label>
-					<div class="input-group vertical">
+					<div class="input-group">
 						<label class="checkbox">
 							<input type="checkbox" :id="uid('isApplyingForFirstVisa')" v-model="isApplyingForFirstVisa">
 							<div>I am applying for my first <glossary>National Visa</glossary></div>
@@ -443,7 +443,7 @@ Vue.component('health-insurance-calculator', {
 					<label :for="uid('hasGermanPublicHealthInsurance')">
 						Current insurance
 					</label>
-					<div class="input-group vertical">
+					<div class="input-group">
 						<label class="checkbox">
 							<input type="checkbox" :id="uid('hasGermanPublicHealthInsurance')" v-model="hasGermanPublicHealthInsurance">
 							I have public health insurance in Germany

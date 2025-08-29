@@ -392,12 +392,9 @@
 			<span class="label">Choose a helper</span>
 			<label class="checkbox" v-for="partner in partners" :key="partner.name">
 				<input type="radio" :name="uid('partner')" :value="partner" v-model="selectedPartner"/>
-				<div>
-					{{ partner.name }}
-					<br>
-					<small v-if="partner.name != 'Do it yourself'"><eur :amount="partner.fee(results.refundAmount)"></eur> fee if you get a refund.</small>
-					<small v-if="partner.name === 'Do it yourself'">Apply without help. No fee.</small>
-				</div>
+				<div>{{ partner.name }}</div>
+				<span class="input-instructions" v-if="partner.name === 'Do it yourself'">Apply without help. No fee.</span>
+				<span class="input-instructions" v-else><eur :amount="partner.fee(results.refundAmount)"></eur> fee if you get a refund.</span>
 			</label>
 		</div>
 		<hr>

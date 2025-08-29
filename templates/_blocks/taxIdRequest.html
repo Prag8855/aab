@@ -14,7 +14,7 @@
 		<h2>What is your situation?</h2>
 		<hr>
 		<div class="form-group no-label">
-			<div class="input-group vertical">
+			<div class="input-group">
 				<label class="checkbox">
 					<input type="radio" v-model="purpose" :name="uid('purpose')" value="noAnmeldung" required>
 					I can't register my address, but I need a tax ID
@@ -168,7 +168,7 @@
 		<h2>{{ people.length > 1 ? 'Are your names' : 'Is your name' }} on your mailbox?</h2>
 		<p>German apartments don't have door numbers. If your name is not on your mailbox, you will not receive your mail.</p>
 		<hr>
-		<div class="input-group vertical">
+		<div class="input-group">
 			<label class="checkbox">
 				<input ref="namesAreOnMailboxCheckbox" v-model="namesAreOnMailbox" type="checkbox"> {{ people.length > 1 ? 'Our names are on our mailbox' : 'My name is on my mailbox' }}
 			</label>
@@ -183,7 +183,7 @@
 		<h2>Send your tax ID to your employer</h2>
 		<p>The <glossary>Finanzamt</glossary> can send your tax ID directly to your employer. It's more reliable than sending it to your {{ country === 'DE' ? 'home' : 'foreign'}} address.</p>
 		<hr>
-		<div class="input-group vertical">
+		<div class="input-group">
 			<label class="checkbox">
 				<input ref="sendToEmployerCheckbox" v-model="sendToEmployer" type="checkbox"> Send the tax ID to my employer (recommended)
 			</label>

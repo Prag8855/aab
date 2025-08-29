@@ -410,45 +410,33 @@
 			</span>
 			<label class="checkbox" v-if="availableTaxClasses.includes(1)">
 				<input type="radio" :name="uid('tax-class')" v-model="taxClass" :value="1">
-				<div>
-					Tax class 1
-					<br><small>If you are not married</small>
-				</div>
+				<div>Tax class 1</div>
+				<span class="input-instructions">If you are not married</span>
 			</label>
 			<label class="checkbox" v-if="availableTaxClasses.includes(2)">
 				<input type="radio" :name="uid('tax-class')" v-model="taxClass" :value="2">
-				<div>
-					Tax class 2
-					<br><small>If you raise children alone</small>
-				</div>
+				<div>Tax class 2</div>
+				<span class="input-instructions">If you raise children alone</span>
 			</label>
 			<label class="checkbox" v-if="availableTaxClasses.includes(3)">
 				<input type="radio" :name="uid('tax-class')" v-model="taxClass" :value="3">
-				<div>
-					Tax class 3
-					<br><small>If you earn more than your spouse</small>
-				</div>
+				<div>Tax class 3</div>
+				<span class="input-instructions">If you earn more than your spouse</span>
 			</label>
 			<label class="checkbox" v-if="availableTaxClasses.includes(4)">
 				<input type="radio" :name="uid('tax-class')" v-model="taxClass" :value="4">
-				<div>
-					Tax class 4
-					<br><small>If you earn around the same as your spouse</small>
-				</div>
+				<div>Tax class 4</div>
+				<span class="input-instructions">If you earn around the same as your spouse</span>
 			</label>
 			<label class="checkbox" v-if="availableTaxClasses.includes(5)">
 				<input type="radio" :name="uid('tax-class')" v-model="taxClass" :value="5">
-				<div>
-					Tax class 5
-					<br><small>If you earn less than your spouse</small>
-				</div>
+				<div>Tax class 5</div>
+				<span class="input-instructions">If you earn less than your spouse</span>
 			</label>
 			<label class="checkbox" v-if="availableTaxClasses.includes(6)">
 				<input type="radio" :name="uid('tax-class')" v-model="taxClass" :value="6">
-				<div>
-					Tax class 6
-					<br><small>If you calculate taxes for a second job</small>
-				</div>
+				<div>Tax class 6</div>
+				<span class="input-instructions">If you calculate taxes for a second job</span>
 			</label>
 		</div>
 		<hr>
