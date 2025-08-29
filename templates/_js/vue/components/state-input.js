@@ -3,7 +3,10 @@
 {% js %}{% raw %}
 Vue.component('state-input', {
 	props: {
-		value: String,
+		value: {
+			type: String,
+			default: null,
+		},
 		placeholder: {
 			type: String,
 			default: 'Choose a state',
@@ -41,7 +44,7 @@ Vue.component('state-input', {
 	},
 	template: `
 	<select :value="value" @input="onInput" :class="{placeholder: !value}">
-		<option disabled hidden default value="">{{ placeholder }}</option>
+		<option disabled hidden default :value="null" v-text="placeholder"></option>
 		<option v-for="[abbr, state] in states" :key="abbr" :value="optionValue(abbr)">{{ state.en }}</option>
 	</select>
 	`,
