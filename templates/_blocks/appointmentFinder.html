@@ -1,4 +1,5 @@
 {% include '_js/vue.js' %}
+{% include '_js/vue/components/checkbox.js' %}
 {% include '_js/vue/components/collapsible.js' %}
 {% js %}
 	const ding = new Audio('/js/ding.wav');
@@ -235,8 +236,8 @@
 	<p class="timer" v-if="isConnected && !hasError && secondsToNextMessage <= 0">
 		Looking for appointments...
 	</p>
-	<label v-if="isConnected" class="checkbox">
-		<input type="checkbox" v-model="playSoundOnNewAppointments"> Play a sound on {{ appointments.length > 0 ? '' : 'new' }} appointments
-	</label>
+	<checkbox v-if="isConnected" v-model="playSoundOnNewAppointments">
+		Play a sound on {{ appointments.length > 0 ? '' : 'new' }} appointments		
+	</checkbox>
 {% endraw %}
 </collapsible>

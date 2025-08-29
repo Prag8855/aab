@@ -1,14 +1,16 @@
 {% include '_js/utils/letter.js' %}
 {% include '_js/vue.js' %}
 {% include '_js/vue/components/blank.js' %}
+{% include '_js/vue/components/checkbox.js' %}
 {% include '_js/vue/components/date-input.js' %}
 {% include '_js/vue/components/eur.js' %}
+{% include '_js/vue/components/first-name-input.js' %}
 {% include '_js/vue/components/full-name-input.js' %}
 {% include '_js/vue/components/glossary.js' %}
 {% include '_js/vue/components/income-input.js' %}
-{% include '_js/vue/components/letter-generator.js' %}
-{% include '_js/vue/components/first-name-input.js' %}
 {% include '_js/vue/components/last-name-input.js' %}
+{% include '_js/vue/components/letter-generator.js' %}
+{% include '_js/vue/components/radio.js' %}
 {% include '_js/vue/mixins/uniqueIdsMixin.js' %}
 {% include '_js/vue/mixins/userDefaultsMixin.js' %}
 {% js %}
@@ -236,24 +238,20 @@
 			<div class="input-group">
 				<income-input :id="uid('kautionAmount')" v-model="kautionAmount" required></income-input>&nbsp;€
 			</div>
-			<label class="checkbox">
-				<input type="checkbox" v-model="hasReceivedPartOfKaution">
-				<div>
-					I received part of my deposit back
-				</div>
-			</label>
+			<checkbox v-model="hasReceivedPartOfKaution">
+				I received part of my deposit back
+			</checkbox>
 			<div class="input-group" v-if="hasReceivedPartOfKaution">
-				<income-input v-model="remainingKautionAmount" required></income-input>€&nbsp;left&nbsp;to&nbsp;pay
+				<income-input v-model="remainingKautionAmount" required></income-input>€ left&nbsp;to&nbsp;pay
 			</div>
 		</div>
 		<div class="form-group">
 			<span class="label">Utilities bill</span>
-			<label class="checkbox">
-				<input type="checkbox" v-model="hasReceivedNebenkostenabrechnung">
+			<checkbox v-model="hasReceivedNebenkostenabrechnung">
 				<div>
 					I received the last <glossary>Nebenkostenabrechnung</glossary>
 				</div>
-			</label>
+			</checkbox>
 			<span class="input-instructions">
 				Landlords wait for the Nebenkostenabrechnung to return your deposit. This can take up to 12 months. They can only keep a part of your deposit for this.
 			</span>
@@ -262,16 +260,12 @@
 		<hr>
 		<div class="form-group">
 			<span class="label">Landlord type</span>
-			<div class="input-group">
-				<label class="checkbox">
-					<input type="radio" :name="uid('recipientType')" v-model="recipientType" value="company">
-					Housing company
-				</label>
-				<label class="checkbox">
-					<input type="radio" :name="uid('recipientType')" v-model="recipientType" value="private">
-					Private landlord
-				</label>
-			</div>
+			<radio v-model="recipientType" value="company">
+				Housing company
+			</radio>
+			<radio v-model="recipientType" value="private">
+				Private landlord
+			</radio>
 		</div>
 		<div class="form-group" v-if="recipientType == 'company'">
 			<label :for="uid('recipientCompanyName')">Company name</label>

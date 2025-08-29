@@ -1,7 +1,7 @@
 {% include '_js/utils/constants.js' %}
 {% include '_js/utils/germanStates.js' %}
-{% include '_js/utils/tax.js' %}
 {% include '_js/utils/percent.js' %}
+{% include '_js/utils/tax.js' %}
 {% include '_js/vue.js' %}
 {% include '_js/vue/components/age-input.js' %}
 {% include '_js/vue/components/children-input.js' %}
@@ -9,11 +9,12 @@
 {% include '_js/vue/components/eur.js' %}
 {% include '_js/vue/components/glossary.js' %}
 {% include '_js/vue/components/income-input.js' %}
-{% include '_js/vue/components/tabs.js' %}
-{% include '_js/vue/mixins/userDefaultsMixin.js' %}
 {% include '_js/vue/components/occupation-input.js' %}
+{% include '_js/vue/components/radio.js' %}
 {% include '_js/vue/components/state-input.js' %}
+{% include '_js/vue/components/tabs.js' %}
 {% include '_js/vue/mixins/uniqueIdsMixin.js' %}
+{% include '_js/vue/mixins/userDefaultsMixin.js' %}
 {% js %}
 	document.querySelectorAll('collapsible.income-tax-calculator').forEach(
 		el => new Vue({
@@ -408,36 +409,48 @@
 			<span class="label">
 				<glossary term="Steuerklasse">Tax class</glossary>
 			</span>
-			<label class="checkbox" v-if="availableTaxClasses.includes(1)">
-				<input type="radio" :name="uid('tax-class')" v-model="taxClass" :value="1">
+			<radio
+				v-if="availableTaxClasses.includes(1)"
+				v-model="taxClass"
+				:value="1">
 				<div>Tax class 1</div>
 				<span class="input-instructions">If you are not married</span>
-			</label>
-			<label class="checkbox" v-if="availableTaxClasses.includes(2)">
-				<input type="radio" :name="uid('tax-class')" v-model="taxClass" :value="2">
+			</radio>
+			<radio
+				v-if="availableTaxClasses.includes(2)"
+				v-model="taxClass"
+				:value="2">
 				<div>Tax class 2</div>
 				<span class="input-instructions">If you raise children alone</span>
-			</label>
-			<label class="checkbox" v-if="availableTaxClasses.includes(3)">
-				<input type="radio" :name="uid('tax-class')" v-model="taxClass" :value="3">
+			</radio>
+			<radio
+				v-if="availableTaxClasses.includes(3)"
+				v-model="taxClass"
+				:value="3">
 				<div>Tax class 3</div>
 				<span class="input-instructions">If you earn more than your spouse</span>
-			</label>
-			<label class="checkbox" v-if="availableTaxClasses.includes(4)">
-				<input type="radio" :name="uid('tax-class')" v-model="taxClass" :value="4">
+			</radio>
+			<radio
+				v-if="availableTaxClasses.includes(4)"
+				v-model="taxClass"
+				:value="4">
 				<div>Tax class 4</div>
 				<span class="input-instructions">If you earn around the same as your spouse</span>
-			</label>
-			<label class="checkbox" v-if="availableTaxClasses.includes(5)">
-				<input type="radio" :name="uid('tax-class')" v-model="taxClass" :value="5">
+			</radio>
+			<radio
+				v-if="availableTaxClasses.includes(5)"
+				v-model="taxClass"
+				:value="5">
 				<div>Tax class 5</div>
 				<span class="input-instructions">If you earn less than your spouse</span>
-			</label>
-			<label class="checkbox" v-if="availableTaxClasses.includes(6)">
-				<input type="radio" :name="uid('tax-class')" v-model="taxClass" :value="6">
+			</radio>
+			<radio
+				v-if="availableTaxClasses.includes(6)"
+				v-model="taxClass"
+				:value="6">
 				<div>Tax class 6</div>
 				<span class="input-instructions">If you calculate taxes for a second job</span>
-			</label>
+			</radio>
 		</div>
 		<hr>
 	</template>

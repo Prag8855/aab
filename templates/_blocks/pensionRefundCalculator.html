@@ -4,15 +4,16 @@
 {% include '_js/vue/components/collapsible.js' %}
 {% include '_js/vue/components/country-input.js' %}
 {% include '_js/vue/components/date-input.js' %}
-{% include '_js/vue/components/eur.js' %}
 {% include '_js/vue/components/email-input.js' %}
+{% include '_js/vue/components/eur.js' %}
 {% include '_js/vue/components/full-name-input.js' %}
 {% include '_js/vue/components/glossary.js' %}
 {% include '_js/vue/components/income-input.js' %}
-{% include '_js/vue/mixins/userDefaultsMixin.js' %}
+{% include '_js/vue/components/radio.js' %}
 {% include '_js/vue/components/state-input.js' %}
 {% include '_js/vue/mixins/trackedStagesMixin.js' %}
 {% include '_js/vue/mixins/uniqueIdsMixin.js' %}
+{% include '_js/vue/mixins/userDefaultsMixin.js' %}
 {% js %}
 	document.querySelectorAll('collapsible.pension-refund-calculator').forEach(
 		el => new Vue({
@@ -277,49 +278,49 @@
 			<hr>
 			<div class="form-group">
 				<span class="label">First day of work</span>
-				<div class="input-group date-input">
-					  <select
+				<div class="input-group">
+					<select
 						class="month-input"
 						:class="{error: isDateRangeSelected && !isDateRangeEligible, placeholder: !firstMonthOfWork}"
 						aria-label="First month of work in Germany"
 						:aria-describedby="uid('instructions-time-in-germany')"
 						title="First month of work in Germany"
 						v-model="firstMonthOfWork">
-						  <option value="" disabled selected hidden>Month</option>
-						  <option v-for="month in monthOptions" :key="month.number" :value="month.number">{{ month.name }}</option>
-					  </select>
-					  <select
+						<option value="" disabled selected hidden>Month</option>
+						<option v-for="month in monthOptions" :key="month.number" :value="month.number">{{ month.name }}</option>
+					</select>
+					<select
 						class="year-input"
 						:class="{error: isDateRangeSelected && !isDateRangeEligible, placeholder: !firstYearOfWork}"
 						aria-label="Last year of work in Germany"
 						:aria-describedby="uid('instructions-time-in-germany')"
 						title="Last year of work in Germany"
 						v-model="firstYearOfWork">
-						  <option value="" disabled selected hidden>Year</option>
-						  <option v-for="year in yearOptions" :key="year" :value="year">{{ year }}</option>
-					  </select>
+						<option value="" disabled selected hidden>Year</option>
+						<option v-for="year in yearOptions" :key="year" :value="year">{{ year }}</option>
+					</select>
 				</div>
 			</div>
 			<div class="form-group">
 				<span class="label">Last day of work</span>
-				<div class="input-group date-input">
+				<div class="input-group">
 					<select
-					  class="month-input"
-					  :class="{error: isDateRangeSelected && !isDateRangeEligible, placeholder: !lastMonthOfWork}"
-					  aria-label="Last month of work in Germany"
-					  :aria-describedby="uid('instructions-time-in-germany')"
-					  title="Last month of work in Germany"
-					  v-model="lastMonthOfWork">
+						class="month-input"
+						:class="{error: isDateRangeSelected && !isDateRangeEligible, placeholder: !lastMonthOfWork}"
+						aria-label="Last month of work in Germany"
+						:aria-describedby="uid('instructions-time-in-germany')"
+						title="Last month of work in Germany"
+						v-model="lastMonthOfWork">
 						<option value="" disabled selected hidden>Month</option>
 						<option v-for="month in monthOptions" :key="month.number" :value="month.number">{{ month.name }}</option>
 					</select>
 					<select
-					  class="year-input"
-					  :class="{error: isDateRangeSelected && !isDateRangeEligible, placeholder: !lastYearOfWork}"
-					  aria-label="Last year of work in Germany"
-					  :aria-describedby="uid('instructions-time-in-germany')"
-					  title="Last year of work in Germany"
-					  v-model="lastYearOfWork">
+						class="year-input"
+						:class="{error: isDateRangeSelected && !isDateRangeEligible, placeholder: !lastYearOfWork}"
+						aria-label="Last year of work in Germany"
+						:aria-describedby="uid('instructions-time-in-germany')"
+						title="Last year of work in Germany"
+						v-model="lastYearOfWork">
 						<option value="" disabled selected hidden>Year</option>
 						<option v-for="year in yearOptions" :key="year" :value="year">{{ year }}</option>
 					</select>
@@ -390,12 +391,11 @@
 		<p>You can pay someone to request your pension refund. They do all the work for you, and transfer the refund to your bank account.&thinsp;—&thinsp;<a href="/guides/pension-payments-refund#get-help-from-someone">More information</a></p>
 		<div class="form-group">
 			<span class="label">Choose a helper</span>
-			<label class="checkbox" v-for="partner in partners" :key="partner.name">
-				<input type="radio" :name="uid('partner')" :value="partner" v-model="selectedPartner"/>
-				<div>{{ partner.name }}</div>
+			<radio v-for="partner in partners" v-model="selectedPartner" :value="partner" :key="partner.name">
+				<div v-text="partner.name"></div>
 				<span class="input-instructions" v-if="partner.name === 'Do it yourself'">Apply without help. No fee.</span>
 				<span class="input-instructions" v-else><eur :amount="partner.fee(results.refundAmount)"></eur> fee if you get a refund.</span>
-			</label>
+			</radio>
 		</div>
 		<hr>
 		<template v-if="selectedPartner.name === 'Do it yourself'">

@@ -2,6 +2,7 @@
 {% include '_js/utils/currency.js' %}
 {% include '_js/vue.js' %}
 {% include '_js/vue/components/age-input.js' %}
+{% include '_js/vue/components/checkbox.js' %}
 {% include '_js/vue/components/children-input.js' %}
 {% include '_js/vue/components/collapsible.js' %}
 {% include '_js/vue/components/email-input.js' %}
@@ -9,11 +10,12 @@
 {% include '_js/vue/components/glossary.js' %}
 {% include '_js/vue/components/health-insurance-options.js' %}
 {% include '_js/vue/components/income-input.js' %}
+{% include '_js/vue/components/radio.js' %}
+{% include '_js/vue/components/tabs.js' %}
 {% include '_js/vue/mixins/multiStageMixin.js' %}
 {% include '_js/vue/mixins/trackedStagesMixin.js' %}
 {% include '_js/vue/mixins/uniqueIdsMixin.js' %}
 {% include '_js/vue/mixins/userDefaultsMixin.js' %}
-{% include '_js/vue/components/tabs.js' %}
 
 {% js %}{% raw %}
 Vue.component('health-insurance-calculator', {
@@ -383,32 +385,27 @@ Vue.component('health-insurance-calculator', {
 						:required="requireCompleteForm"></children-input>
 				</div>
 				<div class="form-group" v-if="isStudent">
-					<label :for="uid('studentOccupation')">
+					<span class="label">
 						Other occupation
-					</label>
-					<div class="input-group">
-						<label class="checkbox">
-							<input type="radio"
-								:name="uid('studentOccupation')"
-								v-model="occupation" value="studentUnemployed"
-								:required="requireCompleteForm">
-							I am unemployed
-						</label>
-						<label class="checkbox">
-							<input type="radio"
-								:name="uid('studentOccupation')"
-								v-model="occupation" value="studentEmployee"
-								:required="requireCompleteForm">
-							I have a job
-						</label>
-						<label class="checkbox">
-							<input type="radio"
-								:name="uid('studentOccupation')"
-								v-model="occupation" value="studentSelfEmployed"
-								:required="requireCompleteForm">
-							I am self-employed
-						</label>
-					</div>
+					</span>
+					<radio
+						v-model="occupation"
+						value="studentUnemployed"
+						:required="requireCompleteForm">
+						I am unemployed
+					</radio>
+					<radio
+						v-model="occupation"
+						value="studentEmployee"
+						:required="requireCompleteForm">
+						I have a job
+					</radio>
+					<radio
+						v-model="occupation"
+						value="studentSelfEmployed"
+						:required="requireCompleteForm">
+						I am self-employed
+					</radio>
 				</div>
 				<div class="form-group" v-if="!isUnemployed">
 					<label :for="uid('income')" v-text="salaryOrIncome"></label>
@@ -420,42 +417,32 @@ Vue.component('health-insurance-calculator', {
 						<button class="toggle" @click="useMonthlyIncome = !useMonthlyIncome">per {{ useMonthlyIncome ? 'month' : 'year' }}</button>
 						<span class="no-mobile">before taxes</span>
 					</div>
-					<div class="input-group">
-						<label class="checkbox" v-if="occupation === 'studentEmployee'">
-							<input type="checkbox" v-model="worksOver20HoursPerWeek">
-							I work more than 20 hours per week
-						</label>
-					</div>
+					<checkbox v-model="worksOver20HoursPerWeek" v-if="occupation === 'studentEmployee'">
+						I work more than 20 hours per week
+					</checkbox>
 				</div>
 				<hr v-if="askForCurrentInsurance">
 				<div class="form-group">
 					<label :for="uid('isApplyingForFirstVisa')">
 						Immigration
 					</label>
-					<div class="input-group">
-						<label class="checkbox">
-							<input type="checkbox" :id="uid('isApplyingForFirstVisa')" v-model="isApplyingForFirstVisa">
-							<div>I am applying for my first <glossary>National Visa</glossary></div>
-						</label>
-					</div>
+					<checkbox :id="uid('isApplyingForFirstVisa')" v-model="isApplyingForFirstVisa">
+						<div>I am applying for my first <glossary>National Visa</glossary></div>
+					</checkbox>
 				</div>
 				<div class="form-group" v-if="askForCurrentInsurance">
-					<label :for="uid('hasGermanPublicHealthInsurance')">
+					<span class="label">
 						Current insurance
-					</label>
-					<div class="input-group">
-						<label class="checkbox">
-							<input type="checkbox" :id="uid('hasGermanPublicHealthInsurance')" v-model="hasGermanPublicHealthInsurance">
-							I have public health insurance in Germany
-						</label>
-						<label class="checkbox">
-							<input type="checkbox" :id="uid('hasEUPublicHealthInsurance')" v-model="hasEUPublicHealthInsurance">
-							I have public health insurance in another EU country
-						</label>
-						<span class="input-instructions">
-							Select this if you had <glossary term="gesetzliche Krankenversicherung">public health insurance</glossary> in at least 2 of the past 5 years.
-						</span>
-					</div>
+					</span>
+					<checkbox v-model="hasGermanPublicHealthInsurance">
+						I have public health insurance in Germany
+					</checkbox>
+					<checkbox v-model="hasEUPublicHealthInsurance">
+						I have public health insurance in another EU country
+					</checkbox>
+					<span class="input-instructions">
+						Select this if you had <glossary term="gesetzliche Krankenversicherung">public health insurance</glossary> in at least 2 of the past 5 years.
+					</span>
 				</div>
 				<hr>
 				<div class="buttons bar">

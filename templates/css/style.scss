@@ -1564,7 +1564,7 @@ label.checkbox{
     cursor: pointer;
     gap: var(--xs) var(--s);
     align-items: first baseline;
-    &.disabled{
+    &:has(input[disabled]){
         color: var(--c-text-light);
     }
     :not(input){
@@ -1864,7 +1864,7 @@ input[type=range] {
         flex: 1 1 auto;
     }
 
-    > :is(label, .label):first-child{
+    &:not(.no-label) > :is(label, .label):first-child{
         @include text-bold;
         grid-column-start: 1;
         padding-top: calc(var(--xs) + ((1.6 - 1.3) / 2 * var(--m))); // Align with form fields

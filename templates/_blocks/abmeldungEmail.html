@@ -1,6 +1,7 @@
 {% include '_js/utils/letter.js' %}
 {% include '_js/vue.js' %}
 {% include '_js/vue/components/blank.js' %}
+{% include '_js/vue/components/checkbox.js' %}
 {% include '_js/vue/components/full-name-input.js' %}
 {% include '_js/vue/components/letter-generator.js' %}
 {% include '_js/vue/components/glossary.js' %}
@@ -105,24 +106,19 @@
 		</div>
 		<div class="form-group">
 			<label :for="uid('newAddress')">Your new address</label>
-			<div class="input-group">
-				<textarea
-					:id="uid('newAddress')"
-					v-model="newAddress"
-					class="address-input"
-					placeholder="123 Maple Street, Apt. 102&#10;Montreal, Quebec, H3E 1J4&#10;Canada"
-					required></textarea>
-				<label class="checkbox">
-					<input type="checkbox" v-model="isNewAddressAbroad">
-					This address is in another country
-				</label>
-			</div>
+			<textarea
+				:id="uid('newAddress')"
+				v-model="newAddress"
+				class="address-input"
+				placeholder="123 Maple Street, Apt. 102&#10;Montreal, Quebec, H3E 1J4&#10;Canada"
+				required></textarea>
+			<checkbox v-model="isNewAddressAbroad">This address is in another country</checkbox>
 		</div>
 		<template v-if="isNewAddressAbroad">
 			<hr>
 			<p>
-				The <glossary>Bürgeramt</glossary> might refuse to send your <glossary>Abmeldebescheinigung</glossary> to another country.
-				Give them a backup German address where they can send it.
+				The <glossary>Bürgeramt</glossary> might refuse to mail your <glossary>Abmeldebescheinigung</glossary> to another country.
+				Give them a backup German address where they can mail it.
 			</p>
 			<div class="form-group">
 				<label :for="uid('backupRecipient')">Backup recipient</label>

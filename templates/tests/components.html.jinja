@@ -5,6 +5,7 @@
 
 {% include '_js/vue/components/age-input.js' %}
 {% include '_js/vue/components/blank.js' %}
+{% include '_js/vue/components/checkbox.js' %}
 {% include '_js/vue/components/children-input.js' %}
 {% include '_js/vue/components/city-input.js' %}
 {% include '_js/vue/components/collapsible.js' %}
@@ -18,6 +19,7 @@
 {% include '_js/vue/components/last-name-input.js' %}
 {% include '_js/vue/components/occupation-input.js' %}
 {% include '_js/vue/components/postalcode-input.js' %}
+{% include '_js/vue/components/radio.js' %}
 {% include '_js/vue/components/recommended.js' %}
 {% include '_js/vue/components/state-input.js' %}
 {% include '_js/vue/components/tabs.js' %}
@@ -25,6 +27,12 @@
 {% js %}
 	new Vue({
 		el: document.querySelector('main .article-body'),
+		data() {
+			return {
+				radioValue: 'one',
+				checkboxValue: false,
+			}
+		}
 	})
 {% endjs %}
 
@@ -111,43 +119,30 @@
 		</div>
 
 		<div class="form-group" id="checkboxes">
-			<label>Checkboxes</label>
-			<div class="input-group">
-				<label class="checkbox">
-					<input type="checkbox" checked>
-					A simple checkbox
-				</label>
-				<label class="checkbox">
-					<input type="checkbox" checked disabled>
-					A disabled checkbox
-				</label>
-				<label class="checkbox">
-					<input type="checkbox">
-					<div>
-						A <em>richer</em> checkbox with content that might stretch multiple lines.
-					</div>
-					<span class="input-instructions">Instructions at the end of a group</span>
-				</label>
-				<span class="input-instructions">Instructions for the .input-group</span>
-			</div>
-			<div class="input-group">
-				<label class="checkbox">
-					<input type="radio" checked>
-					A radio button in a separate input-group
-				</label>
-				<label class="checkbox">
-					<input type="radio" checked disabled>
-					A disabled radio button
-				</label>
-				<label class="checkbox">
-					<input type="radio">
-					<div>
-						A <em>richer</em> radio button with content that might stretch multiple lines.
-					</div>
-					<span class="input-instructions">Instructions at the end of a group</span>
-				</label>
-				<span class="input-instructions">Instructions for the .input-group</span>
-			</div>
+			<label>Checkbox</label>
+			<checkbox :value="true">A simple checkbox</checkbox>
+			<checkbox :value="true" disabled>A disabled checkbox</checkbox>
+			<checkbox v-model="checkboxValue">
+				<div>A <em>richer</em> checkbox with content that might stretch multiple lines.</div>
+				<span class="input-instructions">Instructions at the end of a group</span>
+			</checkbox>
+			<span class="input-instructions">Current value for last checkbox: {% raw %}{{ checkboxValue }}{% endraw %}</span>
+		</div>
+		<div class="form-group" id="checkboxes">
+			<label>Radio</label>
+			<radio v-model="radioValue" value="one">
+				A radio button in a separate input-group
+			</radio>
+			<radio v-model="radioValue" value="two" disabled>
+				A disabled radio button
+			</radio>
+			<radio v-model="radioValue" value="three">
+				<div>
+					A <em>richer</em> radio button with content that might stretch multiple lines.
+				</div>
+				<span class="input-instructions">Instructions at the end of a group</span>
+			</radio>
+			<span class="input-instructions">Current value: {% raw %}{{ radioValue }}{% endraw %}</span>
 		</div>
 
 		<div class="form-group">

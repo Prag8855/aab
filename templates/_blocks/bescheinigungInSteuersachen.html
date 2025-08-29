@@ -1,5 +1,6 @@
 {% include '_js/vue.js' %}
 {% include '_js/vue/components/blank.js' %}
+{% include '_js/vue/components/checkbox.js' %}
 {% include '_js/vue/components/date-input.js' %}
 {% include '_js/vue/components/glossary.js' %}
 {% include '_js/vue/components/full-name-input.js' %}
@@ -124,16 +125,9 @@
 			<a class="input-instructions internal-link" href="/guides/german-tax-id-steuernummer#where-to-find-your-tax-id" target="_blank">Find your tax ID</a>
 		</div>
 		<hr>
-		<div class="form-group no-label">
-			<div class="input-group">
-				<label class="checkbox">
-					<input type="checkbox" v-model="hasPaidFee">
-					<div>
-						I already transferred {% endraw %}€{{ BESCHEINIGUNG_IN_STEUERSACHEN_FEE|cur }}{% raw %} to the <em>Finanzamt</em>(optional)
-					</div>
-				</label>
-			</div>
-		</div>
+		<checkbox v-model="hasPaidFee">
+			<div>I already transferred {% endraw %}€{{ BESCHEINIGUNG_IN_STEUERSACHEN_FEE|cur }}{% raw %} to the <em>Finanzamt</em> (optional)</div>
+		</checkbox>
 	</template>
 {% endraw %}
 </letter-generator>
