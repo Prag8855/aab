@@ -14,9 +14,9 @@
 			mixins: [userDefaultsMixin, uniqueIdsMixin],
 			data() {
 				return {
-					fullName: userDefaults.fullName,
+					fullName: userDefaults.empty,
 					address: '',
-					dateOfBirth: userDefaults.dateOfBirth,
+					dateOfBirth: userDefaults.empty,
 					taxID: '',
 					finanzamt: '',
 					currentDate: new Date(),

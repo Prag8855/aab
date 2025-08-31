@@ -23,10 +23,10 @@ Vue.component('feedback-residence-permit', {
 			isLoading: false,
 
 			// The primary key of the Feedback item, plus a two-letter prefix denoting the residencePermitType
-			modificationKey: userDefaults.modificationKey,
+			modificationKey: userDefaults.empty,
 
 			notes: '',
-			email: userDefaults.email,
+			email: userDefaults.empty,
 
 			steps: {
 				application: {

@@ -5,20 +5,14 @@ const userDefaults = {  // Percentages are stored as full amounts, unlike elsewh
 	childrenCount: 0,
 	church: 'other',
 	customZusatzbeitrag: 1.5,
-	dateOfBirth: null,
-	email: null,
-	fullName: null,
 	isMarried: false,
-	modificationKey: null,
 	occupation: 'employee',
-	phone: null,
 	germanState: 'be-east',
 	useMonthlyIncome: false,
 	yearlyIncome: Math.round({{ MEDIAN_INCOME_GERMANY }}/100) * 100,
 	healthInsuranceType: 'unknown',
 	privateHealthInsuranceCost: 550, // € per month
 	publicHealthInsuranceZusatzbeitrag: {{ GKV_ZUSATZBEITRAG_AVERAGE }}, // %
-	religion: null,
 	taxClass: 1,
 
 	empty: null, // Just to highlight that this field saves/loads user input, but is null by default
@@ -98,7 +92,7 @@ const userDefaultsMixin = {
 			else if(this[key] !== undefined){  // null is an accepted value
 				return this[key];
 			}
-			return userDefaults[key];
+			return userDefaults[key] || null;
 		},
 		getDefaultNumber(key){ // Returns null or a number
 			const defaultValue = this.getDefault(key);

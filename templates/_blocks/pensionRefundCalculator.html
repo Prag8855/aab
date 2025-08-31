@@ -25,17 +25,17 @@
 
 					stage: 'start',
 					isLoading: false,
-					nationality: userDefaults.nationality,
-					countryOfResidence: userDefaults.countryOfResidence,
-					yearlyIncome: userDefaults.yearlyIncome,
+					nationality: userDefaults.empty,
+					countryOfResidence: userDefaults.empty,
+					yearlyIncome: userDefaults.empty,
 					firstMonthOfWork: '',
 					firstYearOfWork: '',
 					lastMonthOfWork: '',
 					lastYearOfWork: '',
-					germanState: userDefaults.germanState,
-					fullName: userDefaults.fullName,
-					email: userDefaults.email,
-					dateOfBirth: userDefaults.dateOfBirth,
+					germanState: userDefaults.empty,
+					fullName: userDefaults.empty,
+					email: userDefaults.empty,
+					dateOfBirth: userDefaults.empty,
 					showRefundRequestForm: false,
 					yearOptions: Array.from({ length: ((new Date()).getFullYear() + 2 - 2000) + 1}, (_, i) => 2000 + i), // From 2000 to currentYear + 2
 					monthOptions: [
@@ -78,7 +78,7 @@
 			},
 			methods: {
 				hasFlag(flag) {
-					return this.results.flags.has(flag);
+					return this.results && this.results.flags.has(flag);
 				},
 				async setReminder() {
 					if(validateForm(this.$refs.reminderForm)) {
@@ -265,7 +265,7 @@
 				v-model="countryOfResidence"
 				required></country-input>
 		</div>
-		<template v-if="!isCountriesEligible">
+		<template v-if="results && !isCountriesEligible">
 			<hr>
 			<h3>You can't get a pension refund</h3>
 			<p v-if="hasFlag('eu-national')">You can't get a German pension refund because you are a European Union citizen.</p>

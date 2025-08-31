@@ -295,7 +295,7 @@
 					oldPostCode: '',
 					newAddress: '',
 					newCityAndPostCode: '',
-					newCountry: userDefaults.countryOfResidence,
+					newCountry: userDefaults.empty,
 					people: [],
 
 					stages: [
@@ -333,9 +333,9 @@
 						firstName: '',
 						lastName: '',
 						birthName: '',
-						nationality: this.people.length === 0 ? userDefaults.nationality : '',
-						religion: this.people.length === 0 ? userDefaults.religion : null,
-						dateOfBirth: this.people.length === 0 ? userDefaults.dateOfBirth : '',
+						nationality: null,
+						religion: null,
+						dateOfBirth: '',
 						gender: '',
 						birthPlace: '',
 						showExtraFields: false,

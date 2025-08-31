@@ -55,8 +55,8 @@ Vue.component('health-insurance-calculator', {
 
 			// Contact form
 			contactMethod: null,
-			fullName: userDefaults.fullName,
-			email: userDefaults.email,
+			fullName: userDefaults.empty,
+			email: userDefaults.empty,
 			question: '',
 			isLoading: false,
 

@@ -332,7 +332,7 @@
 					employerCity: '',
 					employerPostCode: '',
 					employerState: '',
-					email: userDefaults.email,
+					email: userDefaults.empty,
 
 					stages: [
 						'start',
@@ -374,7 +374,7 @@
 						firstName: '',
 						lastName: '',
 						birthName: '',
-						dateOfBirth: this.people.length === 0 ? userDefaults.dateOfBirth : '',
+						dateOfBirth: '',
 						birthPlace: '',
 						showExtraFields: false,
 					})
