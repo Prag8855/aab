@@ -1,5 +1,9 @@
 from django.contrib import admin
-from forms.models import PensionRefundRequest
+from forms.models import PensionRefundRequest, PensionRefundQuestion
+
+
+class PensionRefundQuestionAdmin(admin.ModelAdmin):
+    list_display = ['name', 'nationality', 'country_of_residence', 'question', 'creation_date']
 
 
 class PensionRefundRequestAdmin(admin.ModelAdmin):
@@ -7,3 +11,4 @@ class PensionRefundRequestAdmin(admin.ModelAdmin):
 
 
 admin.site.register(PensionRefundRequest, PensionRefundRequestAdmin)
+admin.site.register(PensionRefundQuestion, PensionRefundQuestionAdmin)
