@@ -429,7 +429,7 @@ Vue.component('health-insurance-options', {
 						{% endraw %}{% include "_css/icons/student.svg" %}{% raw %}
 						<div>
 							<h3>Learn how to choose</h3>
-							<p>My health insurance guide explains the benefits and disadvantages of each option.</p>
+							<p>Read my health insurance guide and find the right insurance for your situation.</p>
 						</div>
 					</a>
 				</li>
