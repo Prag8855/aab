@@ -147,8 +147,8 @@ class PensionRefundQuestion(NameMixin, ReplyToSenderMixin, EmailMixin, Scheduled
     def subject(self) -> str:
         return f"Pension refund question from {self.name} (All About Berlin)"
 
-    class Meta(ScheduledMessage.Meta):
-        pass
+    def __str__(self):
+        return self.name
 
 
 pension_refund_partners = {
@@ -182,6 +182,9 @@ class PensionRefundRequest(NameMixin, ReplyToSenderMixin, EmailMixin, ScheduledM
 
     class Meta(ScheduledMessage.Meta):
         pass
+
+    def __str__(self):
+        return self.name
 
 
 class PensionRefundReminder(RecipientIsSenderMixin, EmailMixin, ScheduledMessage):
