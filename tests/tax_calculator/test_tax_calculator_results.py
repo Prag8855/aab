@@ -178,7 +178,6 @@ def test_results(calc_page, external_calc_page, age, children_count, income, is_
         religion=None,
         region=region,
     )
-    print(calc_params)
 
     if is_married and tax_class in (1, 2, 6):
         return

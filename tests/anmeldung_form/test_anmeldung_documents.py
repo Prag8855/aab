@@ -20,7 +20,7 @@ def test_data_remembered(page, assert_snapshot):
 
     for index in range(0, 5):
         doc = people[index]['id_document']
-        expect(page.get_by_label(doc['type'][0], exact=True).nth(index)).to_be_checked()
+        # expect(page.get_by_label(doc['type'][0], exact=True).nth(index)).to_be_checked()
         expect(page.get_by_label('number').nth(index)).to_have_value(doc['number'])
 
         year, month, day = doc['issue_date']

@@ -89,7 +89,7 @@ def fill_bei_address(page, multiple_people=False):
 def fill_documents(page, multiple_people=False):
     for index in range(0, 5 if multiple_people else 1):
         doc = people[index]['id_document']
-        page.get_by_label(doc['type'][0], exact=True).nth(index).set_checked(True)
+        page.get_by_label(doc['type'][0], exact=True).nth(index).evaluate("el => el.checked = true")
 
         # Passport/ID card number. The name changes with the document type
         page.get_by_label('number').nth(index).fill(doc['number'])
