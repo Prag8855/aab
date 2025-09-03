@@ -450,13 +450,13 @@ Vue.component('health-insurance-calculator', {
 					<checkbox v-model="hasGermanPublicHealthInsurance">
 						I have public health insurance in Germany
 						<span class="input-instructions">
-							Or had <glossary term="gesetzliche Krankenversicherung">public health insurance</glossary> for at least 2 of the past 5 years.
+							Or had <glossary term="gesetzliche Krankenversicherung">public health insurance</glossary> in Germany for at least 2 of the past 5 years.
 						</span>
 					</checkbox>
 					<checkbox v-model="hasEUPublicHealthInsurance">
 						I have public health insurance in another EU country
 						<span class="input-instructions">
-							Or had <glossary term="gesetzliche Krankenversicherung">public health insurance</glossary> for at least 2 of the past 5 years.
+							Or had <glossary term="gesetzliche Krankenversicherung">public health insurance</glossary> in the EU for at least 2 of the past 5 years.
 						</span>
 					</checkbox>
 				</div>
