@@ -102,6 +102,7 @@ Vue.component('health-insurance-calculator', {
 	},
 	computed: {
 		isStudent(){ return occupations.isStudent(this.occupation) },
+		isSelfEmployed(){ return occupations.isSelfEmployed(this.occupation) },
 		isUnemployed(){ return occupations.isUnemployed(this.occupation) },
 		monthlyIncome(){ return this.yearlyIncome / 12 },
 		progressBarLength(){ return this.mode === 'question' ? null : 3 },
@@ -352,6 +353,26 @@ Vue.component('health-insurance-calculator', {
 				<p v-else>It helps us calculate prices and recommend the right health insurance.</p>
 				<hr>
 				<div class="form-group">
+					<label :for="uid('isApplyingForFirstVisa')">
+						Immigration
+					</label>
+					<checkbox :id="uid('isApplyingForFirstVisa')" v-model="isApplyingForFirstVisa">
+						<div v-if="occupation === 'employee'">
+							I am applying for my first <glossary term="Work Visa">work visa</glossary>, <glossary>Blue Card</glossary> or <glossary term="Chancenkarte">Opportunity Card</glossary>
+						</div>
+						<div v-else-if="isSelfEmployed">
+							I am applying for my first <glossary term="Freelance visa">freelance visa</glossary>
+						</div>
+						<div v-else-if="isStudent">
+							I am applying for a <glossary term="Student visa">student visa</glossary>
+						</div>
+						<div v-else>
+							I am applying for a <glossary>National Visa</glossary> to move to Germany
+						</div>
+					</checkbox>
+				</div>
+				<hr>
+				<div class="form-group">
 					<label :for="uid('age')">
 						Age
 					</label>
@@ -422,27 +443,22 @@ Vue.component('health-insurance-calculator', {
 					</checkbox>
 				</div>
 				<hr v-if="askForCurrentInsurance">
-				<div class="form-group">
-					<label :for="uid('isApplyingForFirstVisa')">
-						Immigration
-					</label>
-					<checkbox :id="uid('isApplyingForFirstVisa')" v-model="isApplyingForFirstVisa">
-						<div>I am applying for my first <glossary>National Visa</glossary></div>
-					</checkbox>
-				</div>
 				<div class="form-group" v-if="askForCurrentInsurance">
 					<span class="label">
 						Current insurance
 					</span>
 					<checkbox v-model="hasGermanPublicHealthInsurance">
 						I have public health insurance in Germany
+						<span class="input-instructions">
+							Or had <glossary term="gesetzliche Krankenversicherung">public health insurance</glossary> for at least 2 of the past 5 years.
+						</span>
 					</checkbox>
 					<checkbox v-model="hasEUPublicHealthInsurance">
 						I have public health insurance in another EU country
+						<span class="input-instructions">
+							Or had <glossary term="gesetzliche Krankenversicherung">public health insurance</glossary> for at least 2 of the past 5 years.
+						</span>
 					</checkbox>
-					<span class="input-instructions">
-						Select this if you had <glossary term="gesetzliche Krankenversicherung">public health insurance</glossary> in at least 2 of the past 5 years.
-					</span>
 				</div>
 				<hr>
 				<div class="buttons bar">
