@@ -134,9 +134,9 @@ An agent (*[[Makler]]*) can help you find an apartment. Some are really good, an
 - **[BerlinRelo](https://www.berlinrelo.de/)**{{ RECOMMENDED }}  
     Long-term apartments only. Graham is really good at his job. He only takes a few clients at a time, but he guarantees results. He might not reply to you.
 - **[Get The Flat](https://gettheflat.com/)**  
-    Nerea helps you prepare your documents and apply for apartments. She uses bots to find apartments and automatically write to landlords.
-- [Nest Finder Berlin](https://nestfinderberlin.com/)
+    They use bots to find apartments and automatically write to landlords.
 - [Nerea Lopez](https://www.linkedin.com/in/nerea-lopez-berlin/)
+- [Nest Finder Berlin](https://nestfinderberlin.com/)
 - [HomeSK](https://www.homesk.de/Search) - Only furnished apartments. Very expensive.
 
 ### Bots and automation
