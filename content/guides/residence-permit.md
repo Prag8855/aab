@@ -196,7 +196,9 @@ Your current National Visa or residence permit might allow you to work, study or
 
 ### 4. Go to your appointment
 
-The *[[Ausländerbehörde]]* will email you an appointment date. If you get an appointment, you are almost guaranteed to get your residence permit.[^56] Follow the instructions in the email. You might need to send extra documents, or bring them to your appointment.
+The *[[Ausländerbehörde]]* will mail or email you an appointment date. Check in your spam folder.
+
+If you get an appointment, you are almost guaranteed to get a residence permit.[^56] Follow the instructions in the message. You might need to send extra documents, or bring them to your appointment.
 
 When you go to your appointment, bring...
 
