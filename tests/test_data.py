@@ -95,7 +95,7 @@ people = [
             "post_code": "23023",
         },
         "id_document": {
-            "type": ["EU national ID", "PA"],
+            "type": ["Personal ID", "PA"],
             "number": "D123456789",
             "authority": "Brandenburg",
             "issue_date": ["2025", "01", "01"],

@@ -14,7 +14,7 @@ def test_data_remembered_no_anmeldung(page):
     expect(page.get_by_label("Street address")).to_have_value(address['street'])
     expect(page.get_by_title("Postal code")).to_have_value(address['post_code'])
     expect(page.get_by_placeholder("Berlin", exact=True)).to_have_value(address['city'])
-    expect(page.get_by_label("State")).to_have_value(address['state'][0])
+    expect(page.get_by_label("State")).to_have_value(address['state'][1])
 
 
 def test_data_remembered_living_abroad(page):

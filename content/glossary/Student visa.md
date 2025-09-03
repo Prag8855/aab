@@ -17,7 +17,7 @@ Related_guides:
 
 The German student visa (*Studentenvisum*) is a [residence permit](/glossary/Aufenthaltstitel) to study in Germany.
 
-With a work visa, you can...
+With a student visa, you can...
 
 - Live and work anywhere in Germany
 - Study in Germany
