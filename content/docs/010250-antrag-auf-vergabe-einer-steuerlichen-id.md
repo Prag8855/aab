@@ -69,7 +69,9 @@ If you fill this form because you can't [register your current address](/glossar
 
 ## How to send this form
 
-If you are an employee, mail the form to the *[[Finanzamt]]* of your employer. If you are not an employee, mail it to your *[[Finanzamt]]*.[^0] Include a copy of your passport or *[[Personalausweis]]*.
+If you are an employee, mail the form to the *[[Finanzamt]]* of where your employer is registered.[^5] You can find this on their *[[Impressum]]*.
+
+If you are not an employee, mail it to your *[[Finanzamt]]*.[^0] Include a copy of your passport or *[[Personalausweis]]*.
 
 **[Find your Finanzamt ➞](/out/finanzamt-finder)**
 
@@ -88,3 +90,4 @@ They might create your tax ID, even if they don't send it to you. If you did not
 [^2]: Finanzamt (July 2024)
 [^3]: Reader feedback (October 2023)
 [^4]: Reader feedback
+[^5]: [Reddit](https://old.reddit.com/r/germany/comments/1fclmpc/has_anyone_used_form_010250_to_request_a_tax_id/n9rpmd6/?context=3) (August 2025)
