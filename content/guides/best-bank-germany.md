@@ -208,7 +208,7 @@ You can open a blocked account with...
 - [Sparkasse](/out/sparkasse), but only at some branches[^41]
 - [Kotak Mahindra Bank](https://www.kotak.com/en/digital-banking/insta-services/send-money-abroad/kotak-german-blocked-account-sperrkonto.html) in India[^43]{{ fail_on('2025-12-15') }}
 
-Some [blocked accounts](/glossary/Sperrkonto) include health insurance. It's rarely the best option. [Choose health insurance](/guides/german-health-insurance) separately.
+Some [blocked accounts](/glossary/Sperrkonto) include [health insurance for your visa application](/guides/german-health-insurance/for-a-visa-application).
 
 Deutsche Bank stopped offering blocked accounts.[^42]
 

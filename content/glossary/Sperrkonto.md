@@ -9,8 +9,8 @@ Related_guides:
     guides/best-bank-germany.md
 ---
 
-A blocked account (*Sperrkonto*) is a special type of bank account. You need a *Sperrkonto* to apply for certain German visas.
+A blocked account (*Sperrkonto*) is a special type of bank account. It only lets you withdraw a fixed amount every month.
 
-Unlike a normal bank account, a blocked account only lets you withdraw a fixed amount every month.
+A *Sperrkonto* is a [proof of financial resources](/glossary/Finanzierungsnachweis) to apply for a [[National Visa]].
 
 **[Banks that offer blocked accounts ➞](/guides/best-bank-germany#blocked-account-for-students)**

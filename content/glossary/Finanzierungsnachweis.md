@@ -11,10 +11,14 @@ Related_guides:
     guides/german-health-insurance/for-students.md
 ---
 
-A proof of financial resources (*Finanzierungsnachweis*) is required to apply for student, au-pair, language student and job-seeker visas.
+A proof of financing (*Finanzierungsnachweis*) is required to apply for a [[National Visa]]. It shows that you can cover your cost of living during your first year in Germany.
 
-Usually, this means you must open a blocked account (*[[Sperrkonto]]*). You put money in this bank account, and you get it back in monthly payments.
+There are many ways to prove your financial resources:[^1]
+
+- A [blocked account](/guides/best-bank-germany#blocked-account-for-students) (*[[Sperrkonto]]*)
+- A letter from a guarantor (*Verpflichtungserklärung*)
+- A grant or a scholarship
 
 **[More information](https://www.study-in-germany.de/en/plan-your-studies/requirements/proof-of-financing/)** - Study in Germany
 
-**[Banks that offer blocked accounts ➞](/guides/best-bank-germany#blocked-account-for-students)**
+[^1]: [Berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-procedure/longer-stays/artikel.1047861.en.php#:~:text=proof%20of%20sufficient%20means%20of%20subsistence) (September 2025)
