@@ -6,21 +6,44 @@ Date_created: 2025-06-02
 Call_to_action: askOurInsuranceExpert
 ---
 
-If you study in Germany, you must have health insurance. You also need health insurance to apply for a [student visa](/glossary/Student%20visa).
-
-This guide helps you choose the best health insurance to study in Germany.
+This guide helps you choose the best health insurance to apply for a [student visa](/glossary/Student%20visa) and study at a German university.
 
 {% include "_blocks/tableOfContents.html" %}
-
-## Your options
 
 Use my [health insurance picker](/tools/health-insurance-calculator) to see your options.
 
 {% with occupation = 'studentUnemployed' %}{% include '_blocks/healthInsuranceCalculatorStatic.html' %}{% endwith %}
 
-### Under 30 years old
+## Health insurance for a student visa
 
-If you are under 30 years old, you have 3 options:
+To apply for a [student visa](/glossary/Student%20visa), you need two health insurances:[^10]
+
+- **Incoming health insurance**  
+    [Expat health insurance](/glossary/Expat%20health%20insurance) covers you from the day you arrive in Germany until you start studying.[^6] I recommend [Feather](/out/feather-expats) or [HanseMerkur](/out/hansemerkur-expats), but there are [many other options](/guides/german-health-insurance#best-expat-health-insurance).
+- and **long-term health insurance**  
+    When you start studying, you must usually switch to [public health insurance](/glossary/gesetzliche%20Krankenversicherung). I recommend [Barmer](/out/barmer) or [TK](/out/feather-tk). If you apply for a language course visa or a study preparation visa, you don't need long-term health insurance.[^11]
+
+There are many ways to get insured:
+
+- **[Feather](/out/feather-students)** {{ RECOMMENDED }}  
+    They sell incoming and long-term health insurance. I work with them since 2018. They have great customer service, and their insurance is valid for a visa application.
+- **[Ask our expert](/guides/german-health-insurance#insurance-brokers)**  
+    This is the best option if you are over 30 years old, or if you have a special situation.
+- [Expatrio](/out/expatrio), [Fintiba](/out/fintiba) and [Coracle](/out/coracle) sell packages that include a [blocked account](/glossary/Sperrkonto), incoming health insurance and long-term health insurance.
+
+After you buy insurance, you get two documents: a proof of incoming health insurance and a [proof of long-term health insurance](/glossary/Mitgliedsbescheinigung). [Merge them together](https://www.adobe.com/acrobat/online/merge-pdf.html), and upload them on the [Consulate Service Portal](/glossary/Consular%20Services%20Portal).
+
+![Proof of health insurance in the Consular Services Portal](/images/csp-proof-of-health-insurance.png "Upload your health insurance certificates here")
+
+Your incoming health insurance must cover you from the day you plan to arrive in Germany. It must match the dates you entered in the *Travel data* form in the [[Consular Services Portal]].
+
+![Planned date of entry in the Consular Services Portal](/images/csp-length-of-stay.png "Your health insurance must cover you from this date.")
+
+Your public health insurer will tell your university that you are insured (the *M10 Meldung*). This is done digitally; you don't need to do anything. It takes around 3 days.[^1]
+
+## For students under 30 years old
+
+If you are under 30 years old, you have 3 options for long-term health insurance:
 
 - **[Free health insurance](/glossary/Familienversicherung)**{{RECOMMENDED}}  
     Your spouse's public health insurance can [cover you for free](/guides/german-health-insurance#free-health-insurance). If you are under 25 years old, your parents' insurance can also cover you.
@@ -35,9 +58,9 @@ If you are under 30 years old, you have 3 options:
 
 **If you work more than 20 hours per week**, you are treated [like a normal employee](/guides/german-health-insurance/for-employees).[^46] You must switch to [public health insurance](/glossary/gesetzliche%20Krankenversicherung). It costs a percentage of your income. Your employer pays half of your health insurance. You can't get the student tariff, and you can't get [free health insurance](/guides/german-health-insurance#free-health-insurance).
 
-### Over 30 years old
+## For students over 30 years old
 
-If you are over 30 years old, your options change.
+If you are over 30 years old, your long-term health insurance options are different.
 
 **If you just moved from a non-[EU](/glossary/European%20Union) country**, you can't get [public health insurance](/glossary/gesetzliche%20Krankenversicherung).[^2] [[Expat health insurance]] might be your only option.[^91] It costs €{{FEATHER_STUDENT_COST|cur}} to €{{OTTONOVA_STUDENT_COST|cur}} per month. [Feather](/out/feather-students) and [Ottonova](/out/ottonova-students) sell expat health insurance. You can also [ask my insurance expert](/guides/german-health-insurance#insurance-brokers) to help you choose.
 
@@ -60,17 +83,6 @@ If you are self-employed during your studies, you can keep your student health i
 
 **If your earn more than €{{GKV_FAMILIENVERSICHERUNG_MAX_INCOME|cur}} per month**, you can't get [free health insurance](/guides/german-health-insurance#free-health-insurance).
 
-## Insurance for a student visa
-
-To apply for a [student visa](/glossary/Student%20visa), you have 2 options:
-
-- **Travel insurance + [public health insurance](/glossary/gesetzliche%20Krankenversicherung)**{{ RECOMMENDED }}  
-    The travel insurance covers you before school starts.[^6] Public health insurance covers you until you graduate. If you are under 30 years old, this is the best option. You get great coverage for a low price. [Barmer](/out/barmer) and [Techniker Krankenkasse](/out/feather-tk) are English-speaking options.
-- **[Expat health insurance](/glossary/Expat%20health%20insurance)**  
-    If you are over 30 years old, public health insurance is more expensive. Expat health insurance is cheaper, but the coverage is worse. It covers you until you graduate. [Feather](/out/feather-students) and [Ottonova](/out/ottonova-students) sell expat health insurance. You can also [ask an expert](/guides/german-health-insurance#insurance-brokers) to help you choose. It's a free service.
-
-**[Feather](/out/feather-students)** sells valid insurance for a student visa. They offer both options, so you will get the best option for your situation. I work with them since 2018; you can trust them.
-
 ## For an internship
 
 **[Health insurance for an internship ➞](/guides/german-health-insurance/for-employees#for-an-internship)**
@@ -87,16 +99,6 @@ If you start working, you must usually get [public health insurance](/glossary/g
 
 If you are unemployed or self-employed, you might be stuck with your current private health insurance until you find a job.[^4]
 
-## How to get insured
-
-For students, [Feather](/out/feather-students) is one of the easiest way to get insured. They sell public and expat health insurance. They speak English, they have excellent customer service, and they have a lot of experience with foreign students.
-
-If you want personalised advice, [ask my health insurance expert](/guides/german-health-insurance#insurance-brokers). He will help you find the cheapest health insurance. He also gives you a proof of insurance for your visa application. This is a free service.
-
-After you get insured, your insurer tells your university (the *M10 Meldung*). This is done digitally; you don't need to do anything. It takes around 3 days.[^1] You also get a *[[Mitgliedsbescheinigung]]* for your student visa application.
-
-**[How to get insured ➞](/guides/german-health-insurance#how-to-get-insured)**
-
 [^1]: [Feather Insurance](https://faq.feather-insurance.com/en/articles/70045-public-health-insurance-signup-for-students?utm_source=allaboutberlin#:~:text=above%2C%20allow%20for%20university%20enrolment%20(your%20chosen%20insurance%20provider%20will%20send%20an%20M10%20Meldung%20to%20your%20uni-,within%203%20working%20days,-%2C%20confirming%20your%20insurance%20status).%20So%20there%20is%20no%20need%20for%20insurance%20number%20at%20this%20point%2C%20and%20your) (May 2025), [Uni Frankfurt](https://www.uni-frankfurt.de/120841082/Krankenversicherung_f%C3%BCr_internationale_Studierende#:~:text=NEU%3A%20Die%20digitale-,versicherungsmeldung,-Keine%20Einschreibung%20ohne) (May 2025)
 [^2]: [Seamus Wolf](/guides/german-health-insurance#insurance-brokers) (June 2025)
 [^3]: [Seamus Wolf](/guides/german-health-insurance#insurance-brokers) (June 2025)
@@ -106,6 +108,8 @@ After you get insured, your insurer tells your university (the *M10 Meldung*). T
 [^7]: [tk.de](https://www.tk.de/firmenkunden/versicherung/versicherung-faq/haeufige-fragen-zu-studenten-und-praktikanten/was-besagt-die-werkstudenten-regel-2036662#:~:text=fuhren%20sie%20als%20arbeitgeber%20fur%20diese%20beschaftigungen%20keine%20beitrage%20zur%20kranken-%2C%20pflege-%20und%20arbeitslosenversicherung%20ab) (June 2025)
 [^8]: [Techniker Krankenkasse](https://www.tk.de/techniker/versicherung/gut-versichert-in-jeder-lebenslage/versichert-als-studierende/geld-verdienen-im-studium/selbststaendig-neben-studium-2007660) (July 2025)
 [^9]: [Feather Insurance](https://feather-insurance.com/blog/health-insurance-germany-freelancer-guide/?utm_source=allaboutberlin#:~:text=you%20must%20sign%20up%20for%20public%20insurance%20within%203%20months%20of%20ending%20your%20home%20country%E2%80%99s%20insurance) (April 2025)
+[^10]: [Facebook](https://www.facebook.com/groups/studyandlifeingermanyforpakistanis/posts/9364246840348972/) (March 2025), [Reddit](https://old.reddit.com/r/studying_in_germany/comments/1mwzpx2/mumbai_vfs_timeline/#:~:text=10.%20health%20insurance%20%2B%20travel%20insurance%20proof) (August 2025), [Reddit](https://old.reddit.com/r/studying_in_germany/comments/1m2vebk/documents_required_for_the_appointment_at_kolkata/) (August 2025)
+[^11]: [uni-frankfurt.de](https://www.uni-frankfurt.de/120841082/Krankenversicherung_f%C3%BCr_internationale_Studierende#:~:text=krankenversicherung%20wahrend%20der%20studienvorbereitung%20bzw.%20dem%20studienkolleg) (2025), [berlin.de](https://service.berlin.de/dienstleistung/324289/en/#:~:text=%20travellers%E2%80%99%20health%20insurance%20will%20also%20suffice%20for%20the%20duration%20of%20the%20language%20course.%20) (September 2025)
 [^25]: [tk.de](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-nicht-tk-versicherte/wie-hoch-sind-die-beitraege/freiwillige-mitglieder/haeufige-fragen-zu-beitraegen-fuer-freiwillig-versicherte/beitragshoehe-absolvent-freiwilliger-student-2006956#:~:text=nach%20dem%2030.%20geburtstag), [krankenkassen.de](https://www.krankenkassen.de/meine-krankenkasse/student/freiwillig/#:~:text=mit%20dem%20ende%20des%20semesters%2C%20in%20das%20der%2030.%20geburtstag%20fallt)
 [^39]: [Feather Insurance](https://faq.feather-insurance.com/en/articles/29608-what-is-ehic-european-health-insurance-card#:~:text=coverage%20throughout%20the%20whole%20duration%20of%20studies) (2023), [Feather Insurance](https://faq.feather-insurance.com/en/articles/28609-i-am-about-to-enrol-into-a-german-university-what-insurance-options-do-i-have#:~:text=if%20you%20are%20statutorily%20insured%20in%20one%20of%20the%20aforementioned%20countries%2C%20you%20can%20stay%20on%20your%20home%20insurance%20for%20the%20whole%20duration%20of%20your%20studies%20regardless%20of%20your%20age.) (May 2025), [krankenkassen.de](https://www.krankenkassen.de/incoming/student/ehic/) (May 2025)
 [^46]: [Techniker Krankenkasse](https://www.tk.de/resource/blob/2033352/0a9809b0d119ad48bdd717ccf37391b2/beratungsblatt-beschaeftigung-von-studierenden-und-praktikanten-data.pdf) (January 2025), [Techniker Krankenkasse](https://www.tk.de/firmenkunden/versicherung/versicherung-faq/haeufige-fragen-zu-studenten-und-praktikanten/wer-kann-werkstudent-sein-2036666) (March 2025), [meinpraktikum.de](https://www.meinpraktikum.de/ratgeber/werkstudent/allgemeines) (March 2025)
