@@ -14,17 +14,15 @@ This guide explains which health insurance you need to apply for a [[National Vi
 
 ## For a Schengen visa
 
-To apply for a [[Schengen visa]] (tourist visa), you need **travel health insurance**.[^0]
+To apply for a [[Schengen visa]] (tourist visa), you need **travel health insurance**.[^0] [If you can visit Germany without a visa](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/-/231148), you don't need travel insurance, but it's still a good idea.
 
 Your travel health insurance must...[^1]
 
 - [ ] Cover you for at least €30,000
-- [ ] Be valid in *all* [[Schengen area]] countries, not just Germany
-- [ ] Be valid during your whole trip in the Schengen area
+- [ ] Cover you in *all* [[Schengen area]] countries, not just Germany
+- [ ] Cover you during your whole trip in the Schengen area
 
 **[HanseMerkur Visa Plus](/out/hansemerkur-travel)** works well for a Schengen visa application.
-
-[If you can visit Germany without a visa](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/-/231148), you don't need travel insurance, but it's still a good idea.
 
 ## For a National Visa
 
