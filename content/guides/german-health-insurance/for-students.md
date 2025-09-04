@@ -83,6 +83,16 @@ If you are self-employed during your studies, you can keep your student health i
 
 **If your earn more than €{{GKV_FAMILIENVERSICHERUNG_MAX_INCOME|cur}} per month**, you can't get [free health insurance](/guides/german-health-insurance#free-health-insurance).
 
+## For a language course
+
+To apply for a language course visa, you need [expat health insurance](/glossary/Expat%20health%20insurance). It must cover you from the day you arrive in Germany. I recommend [Feather](/out/feather-expats) or [HanseMerkur](/out/hansemerkur-expats), but there are [many other options](/guides/german-health-insurance#best-expat-health-insurance).
+
+## For study preparation
+
+To apply for a study preparation visa, you need [expat health insurance](/glossary/Expat%20health%20insurance).[^11] It must cover you from the day you arrive in Germany. I recommend [Feather](/out/feather-expats) or [HanseMerkur](/out/hansemerkur-expats), but there are [many other options](/guides/german-health-insurance#best-expat-health-insurance).
+
+When you start university, you can switch to [public health insurance](/glossary/gesetzliche%20Krankenversicherung).
+
 ## For an internship
 
 **[Health insurance for an internship ➞](/guides/german-health-insurance/for-employees#for-an-internship)**
@@ -109,7 +119,7 @@ If you are unemployed or self-employed, you might be stuck with your current pri
 [^8]: [Techniker Krankenkasse](https://www.tk.de/techniker/versicherung/gut-versichert-in-jeder-lebenslage/versichert-als-studierende/geld-verdienen-im-studium/selbststaendig-neben-studium-2007660) (July 2025)
 [^9]: [Feather Insurance](https://feather-insurance.com/blog/health-insurance-germany-freelancer-guide/?utm_source=allaboutberlin#:~:text=you%20must%20sign%20up%20for%20public%20insurance%20within%203%20months%20of%20ending%20your%20home%20country%E2%80%99s%20insurance) (April 2025)
 [^10]: [Facebook](https://www.facebook.com/groups/studyandlifeingermanyforpakistanis/posts/9364246840348972/) (March 2025), [Reddit](https://old.reddit.com/r/studying_in_germany/comments/1mwzpx2/mumbai_vfs_timeline/#:~:text=10.%20health%20insurance%20%2B%20travel%20insurance%20proof) (August 2025), [Reddit](https://old.reddit.com/r/studying_in_germany/comments/1m2vebk/documents_required_for_the_appointment_at_kolkata/) (August 2025)
-[^11]: [uni-frankfurt.de](https://www.uni-frankfurt.de/120841082/Krankenversicherung_f%C3%BCr_internationale_Studierende#:~:text=krankenversicherung%20wahrend%20der%20studienvorbereitung%20bzw.%20dem%20studienkolleg) (2025), [berlin.de](https://service.berlin.de/dienstleistung/324289/en/#:~:text=%20travellers%E2%80%99%20health%20insurance%20will%20also%20suffice%20for%20the%20duration%20of%20the%20language%20course.%20) (September 2025)
+[^11]: [uni-frankfurt.de](https://www.uni-frankfurt.de/120841082/Krankenversicherung_f%C3%BCr_internationale_Studierende#:~:text=krankenversicherung%20wahrend%20der%20studienvorbereitung%20bzw.%20dem%20studienkolleg) (2025), [Berlin.de](https://service.berlin.de/dienstleistung/324289/en/#:~:text=%20travellers%E2%80%99%20health%20insurance%20will%20also%20suffice%20for%20the%20duration%20of%20the%20language%20course.%20) (September 2025), [Berlin.de](https://www.berlin.de/einwanderung/_assets/krankenversicherung_fur_studierende.pdf?ts=1681814137) (September 2025)
 [^25]: [tk.de](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-nicht-tk-versicherte/wie-hoch-sind-die-beitraege/freiwillige-mitglieder/haeufige-fragen-zu-beitraegen-fuer-freiwillig-versicherte/beitragshoehe-absolvent-freiwilliger-student-2006956#:~:text=nach%20dem%2030.%20geburtstag), [krankenkassen.de](https://www.krankenkassen.de/meine-krankenkasse/student/freiwillig/#:~:text=mit%20dem%20ende%20des%20semesters%2C%20in%20das%20der%2030.%20geburtstag%20fallt)
 [^39]: [Feather Insurance](https://faq.feather-insurance.com/en/articles/29608-what-is-ehic-european-health-insurance-card#:~:text=coverage%20throughout%20the%20whole%20duration%20of%20studies) (2023), [Feather Insurance](https://faq.feather-insurance.com/en/articles/28609-i-am-about-to-enrol-into-a-german-university-what-insurance-options-do-i-have#:~:text=if%20you%20are%20statutorily%20insured%20in%20one%20of%20the%20aforementioned%20countries%2C%20you%20can%20stay%20on%20your%20home%20insurance%20for%20the%20whole%20duration%20of%20your%20studies%20regardless%20of%20your%20age.) (May 2025), [krankenkassen.de](https://www.krankenkassen.de/incoming/student/ehic/) (May 2025)
 [^46]: [Techniker Krankenkasse](https://www.tk.de/resource/blob/2033352/0a9809b0d119ad48bdd717ccf37391b2/beratungsblatt-beschaeftigung-von-studierenden-und-praktikanten-data.pdf) (January 2025), [Techniker Krankenkasse](https://www.tk.de/firmenkunden/versicherung/versicherung-faq/haeufige-fragen-zu-studenten-und-praktikanten/wer-kann-werkstudent-sein-2036666) (March 2025), [meinpraktikum.de](https://www.meinpraktikum.de/ratgeber/werkstudent/allgemeines) (March 2025)

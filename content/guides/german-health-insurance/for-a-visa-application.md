@@ -14,14 +14,25 @@ This guide explains which health insurance you need to apply for a [[National Vi
 
 ## For a specific visa
 
+For employees:
+
 - [Insurance for a **Blue Card**](/guides/german-health-insurance/for-employees#for-a-blue-card-or-work-visa)
 - [Insurance for a **work visa**](/guides/german-health-insurance/for-employees#for-a-blue-card-or-work-visa)
-- [Insurance for a **student visa**](/guides/german-health-insurance/for-students#health-insurance-for-a-student-visa)
-- [Insurance for a **freelance visa**](/guides/german-health-insurance/for-freelancers#insurance-for-a-freelance-visa)
-- [Insurance for a **Working Holiday Visa**](/guides/german-health-insurance/for-employees#for-a-working-holiday-visa)
-- [Insurance for an **opportunity card**](/guides/german-health-insurance/for-employees#for-an-opportunity-card)
 - [Insurance for a **job seeker visa**](/guides/german-health-insurance/for-employees#for-a-job-seeker-visa)
+- [Insurance for a **Working Holiday Visa**](/guides/german-health-insurance/for-employees#for-a-working-holiday-visa)
+- [Insurance for a **Youth Mobility Visa**](/guides/german-health-insurance/for-employees#for-a-youth-mobility-visa)
+
+For students:
+
+- [Insurance for a **student visa**](/guides/german-health-insurance/for-students#health-insurance-for-a-student-visa)
+- [Insurance for a **study preparation visa**](/guides/german-health-insurance/for-students#for-study-preparation)
+- [Insurance for a **language course visa**](/guides/german-health-insurance/for-students#for-a-language-course)
+
+For everyone else:
+
+- [Insurance for an **opportunity card**](/guides/german-health-insurance/for-employees#for-an-opportunity-card)
 - [Insurance for a **family reunion visa**](#for-a-family-reunion-visa)
+- [Insurance for a **freelance visa**](/guides/german-health-insurance/for-freelancers#insurance-for-a-freelance-visa)
 
 ## For a Schengen visa
 
@@ -42,7 +53,7 @@ To apply for a [[National Visa]], you need two health insurances:
 - **Incoming health insurance**  
     This is [expat health insurance](/glossary/Expat%20health%20insurance). It covers you from the day you arrive in Germany until you start working or studying. There are [many valid options](/guides/german-health-insurance#best-expat-health-insurance). I recommend [Feather](/out/feather-expats) or [HanseMerkur](/out/hansemerkur-expats).
 - and **long-term health insurance**  
-    When you start working or studying, you must usually switch to [public](/glossary/gesetzliche%20Krankenversicherung) or [private](/glossary/private%20Krankenversicherung) health insurance. For public health insurance, choose [Barmer](/out/barmer) or [TK](/out/feather-tk). For private health insurance, always [ask an expert](/guides/german-health-insurance#insurance-brokers). If you get long-term health insurance from [Feather](/out/feather-health), you get free incoming health insurance.
+    When you start working or studying, you must usually switch to [public](/glossary/gesetzliche%20Krankenversicherung) or [private](/glossary/private%20Krankenversicherung) health insurance. For public health insurance, choose [Barmer](/out/barmer) or [TK](/out/feather-tk). For private health insurance, always [ask an expert](/guides/german-health-insurance#insurance-brokers).
 
 **[How to choose health insurance ➞](/guides/german-health-insurance)**
 
