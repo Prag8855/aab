@@ -293,7 +293,7 @@ The state pays for your public health insurance if...[^45]
 
 Travel health insurance covers medical emergencies in other countries. It does not cover therapy, long-term treatments, health check-ups or pre-existing health problems.
 
-- **If you [visit Germany](/guides/german-health-insurance/for-a-visa-application#for-a-schengen-visa)**, travel insurance covers you during your trip. You need travel health insurance to get a [[Schengen visa]]. It does not cover you after you [move to Germany](/guides/moving-to-berlin). It's rarely valid for a [residence permit](/glossary/Aufenthaltstitel) application.
+- **If you [visit Germany](/guides/german-health-insurance/for-a-visa-application#for-a-schengen-visa)**, travel insurance covers you during your trip. You need travel health insurance to get a [[Schengen visa]]. [HanseMerkur Visa Plus](/out/hansemerkur-travel) is a good option. Travel insurance does not cover you after you [move to Germany](/guides/moving-to-berlin). It's not valid for a [residence permit](/glossary/Aufenthaltstitel) application.
 - **If you [move to Germany](/guides/moving-to-berlin)**, travel health insurance is not valid. You must get public, private or expat health insurance.
 - **If you live in Germany**, travel health insurance covers medical emergencies when you when you travel to other countries. It costs around €40 per year.[^78] If you have [private health insurance](/glossary/private%20Krankenversicherung), it usually includes travel insurance.
 
