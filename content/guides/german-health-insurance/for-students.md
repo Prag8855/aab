@@ -122,6 +122,8 @@ There are many ways to get insured:
     This is the best option if you are over 30 years old, if you have a special situation, or if you have questions.
 - [Expatrio](/out/expatrio), [Fintiba](/out/fintiba) and [Coracle](/out/coracle) sell packages that include a [blocked account](/glossary/Sperrkonto), incoming health insurance and long-term health insurance.
 
+You can also buy health insurance directly from the insurer. The prices are the same. For [expat health insurance](/glossary/Expat%20health%20insurance), use [this list of options](/guides/german-health-insurance#best-expat-health-insurance). For [public health insurance](/glossary/gesetzliche%20Krankenversicherung), I recommend [Barmer](/out/barmer) or [TK](/out/feather-tk). They are the biggest insurers in Germany.
+
 [^1]: [Feather Insurance](https://faq.feather-insurance.com/en/articles/70045-public-health-insurance-signup-for-students?utm_source=allaboutberlin#:~:text=above%2C%20allow%20for%20university%20enrolment%20(your%20chosen%20insurance%20provider%20will%20send%20an%20M10%20Meldung%20to%20your%20uni-,within%203%20working%20days,-%2C%20confirming%20your%20insurance%20status).%20So%20there%20is%20no%20need%20for%20insurance%20number%20at%20this%20point%2C%20and%20your) (May 2025), [Uni Frankfurt](https://www.uni-frankfurt.de/120841082/Krankenversicherung_f%C3%BCr_internationale_Studierende#:~:text=NEU%3A%20Die%20digitale-,versicherungsmeldung,-Keine%20Einschreibung%20ohne) (May 2025)
 [^2]: [Seamus Wolf](/guides/german-health-insurance#insurance-brokers) (June 2025)
 [^3]: [Seamus Wolf](/guides/german-health-insurance#insurance-brokers) (June 2025)
