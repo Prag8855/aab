@@ -9,9 +9,11 @@ This guide explains how to get tested for sexually transmitted diseases in Berli
 
 {% include "_blocks/tableOfContents.html" %}
 
-## How hard is it to get tested
+## Is it hard to get tested?
 
-**It's easy** if you know where to go. There are many ways to get tested. You might need an appointment.
+If you have symptoms, you can get tested quickly, for free, without an appointment.
+
+Routine tests are harder. It's hard to get an appointment quickly. You might have to wait a few weeks. If you have no symptoms, you must pay for the test.[^3]
 
 ## Where to get tested in Berlin
 
@@ -20,11 +22,13 @@ This guide explains how to get tested for sexually transmitted diseases in Berli
     - **[Praxis Goldstein](https://www.doctor-goldstein.com/)**  
         Online appointments, online results. Very fast.
     - **[Dr. Cordes](https://www.drcordes.de/en__es__fr/)**  
-        They speak English, Spanish and German.
+        They speak English, Spanish and German. Long wait times, even with an appointment.
     - **[Viropraxis](https://www.viropraxis.de/)**  
         They speak English, Spanish and German.
     - **[Praxis Schöneberg](http://praxisschöneberg.de/services.html)**  
         They speak English and German
+    - **[Doctolib](https://www.doctolib.de/search?location=berlin&speciality=sti-test)** or **[dagnä](https://www.dagnae.de/schwerpunktarztsuche)**  
+        Find more doctors that offer STI tests.
 - **At home**  
     [s.a.m. health](https://www.samhealth.de/en/) sells home tests for HIV, Syphilis, Gonorrhoea and Chlamydia. It costs €75 the first time, then €59.[^0]{{ fail_on('2026-01-01') }}
 - **[Zentrum für sexuelle Gesundheit](https://www.berlin.de/ba-mitte/politik-und-verwaltung/aemter/gesundheitsamt/zentren/artikel.248356.en.php)** of the Gesundheitsamt (English, German, other languages)  
@@ -63,7 +67,7 @@ If the test is not covered by your health insurance, it costs **between €10 an
 [^0]: [samhealth.de](https://samhealth.de/en/about/pricing-hiv-sti-test)
 [^1]: [spiegel.de](https://www.spiegel.de/gesundheit/sex/geschlechtskrankheiten-tests-muessen-endlich-von-der-krankenkasse-uebernommen-werden-a-a2a415dc-b5d5-42bf-a0b1-12f944ee1758), [berlin.de](https://www.berlin.de/ba-friedrichshain-kreuzberg/politik-und-verwaltung/aemter/gesundheitsamt/zentrum-fuer-sexuelle-gesundheit-und-familienplanung/artikel.833280.php)
 [^2]: [berlin.de](https://www.berlin.de/ba-mitte/politik-und-verwaltung/aemter/gesundheitsamt/zentren/artikel.248356.en.php)
-[^3]: [spiegel.de](https://www.spiegel.de/gesundheit/sex/geschlechtskrankheiten-tests-muessen-endlich-von-der-krankenkasse-uebernommen-werden-a-a2a415dc-b5d5-42bf-a0b1-12f944ee1758), [praxis-prenzlauer-berg.de](https://praxis-prenzlauer-berg.de/DE/arzt-geschlechtskrankheiten-berlin.htm)
+[^3]: [spiegel.de](https://www.spiegel.de/gesundheit/sex/geschlechtskrankheiten-tests-muessen-endlich-von-der-krankenkasse-uebernommen-werden-a-a2a415dc-b5d5-42bf-a0b1-12f944ee1758), [praxis-prenzlauer-berg.de](https://praxis-prenzlauer-berg.de/DE/arzt-geschlechtskrankheiten-berlin.htm), [International Women in Berlin](https://www.internationalwomeninberlin.com/how-to-get-sti-tests-in-berlin) (2025)
 [^4]: [limbachgruppe.com](https://www.limbachgruppe.com/fileadmin/downloads/Patientenflyer/EinfachGesund/Geschlechtskrankheiten.pdf)
 [^5]: Doctor at a sexual health clinic (2021)
 [^6]: [Praxis Prenzlauer Berg](https://praxis-prenzlauer-berg.de/DE/)
