@@ -6,7 +6,7 @@ Date_created: 2025-06-02
 Call_to_action: askOurInsuranceExpert
 ---
 
-This guide helps you choose the best health insurance to apply for a [student visa](/glossary/Student%20visa) and study at a German university.
+This guide helps you choose the best health insurance for students. You need health insurance to apply for a [student visa](/glossary/Student%20visa), and to study at a German university.
 
 {% include "_blocks/tableOfContents.html" %}
 
@@ -37,22 +37,21 @@ Your public health insurer will tell your university that you are insured (the *
 
 ## For students under 30 years old
 
-If you are under 30 years old, there are 4 long-term health insurance options:
+If you are under 30 years old, there are 3 long-term health insurance options:
 
-- **[Family health insurance](/glossary/Familienversicherung)**  
-    If your spouse has public health insurance, it [covers you for free](/guides/german-health-insurance#free-health-insurance). If you are under 25 years old, your parents' insurance can also cover you. This is the best option.
-- or **[insurance from your home country](/glossary/EHIC)**  
-    Your [[EHIC]] covers you until you graduate or [get a job](/guides/find-a-job-in-berlin). You might not need German health insurance.[^39]
-- or **[public health insurance](/glossary/gesetzliche%20Krankenversicherung)**  
+- **Free health insurance**{{ RECOMMENDED }}  
+    - **[Family health insurance](/glossary/Familienversicherung)**  
+        If your spouse has public health insurance, it [covers you for free](/guides/german-health-insurance#free-health-insurance). If you are under 25 years old, your parents' insurance can also cover you.
+    - **[Insurance from your home country](/glossary/EHIC)**  
+        Your [[EHIC]] covers you until you graduate or [get a job](/guides/find-a-job-in-berlin). You might not need German health insurance.[^39]
+- **[Public health insurance](/glossary/gesetzliche%20Krankenversicherung)**{{ RECOMMENDED }}  
     If you can't get free health insurance, this is the best option.[^59] It costs around €{{GKV_COST_STUDENT|cur}} per month. I recommend [Barmer](/out/barmer) or [TK](/out/feather-tk). Switch to public health insurance *maximum* 3 months after you start university.[^9]
-- or **[expat health insurance](/glossary/Expat%20health%20insurance)**  
-    You can stay on expat health insurance until the end of your studies. It costs around €{{EXPAT_STUDENT_COST|cur}} per month. It's cheaper, but the coverage is much worse. If you stay on expat health insurance, you are stuck with it until you graduate.[^3]
+- **[Expat health insurance](/glossary/Expat%20health%20insurance)**  
+    You can stay on expat health insurance until the end of your studies. It costs around €{{EXPAT_STUDENT_COST|cur}} per month. This is the cheapest option, but the coverage is much worse. If you stay on expat health insurance, you are stuck with it until you graduate.[^3]
 
 **[What is the best option? ➞](/guides/german-health-insurance#what-is-the-best-option)**
 
-**[Get insured ➞](#how-to-get-insured)**
-
-[If you apply for a visa](#health-insurance-for-a-student-visa), you also need [incoming health insurance](/glossary/Expat%20health%20insurance). It covers you from when you arrive in Germany until you start university. You can buy both insurances at the same time.
+**[Get student health insurance ➞](#how-to-get-insured)**
 
 **If you work less than 20 hours per week**, you keep the cheaper student tariff. Your employer does not pay half of your health insurance.[^7]
 
@@ -109,11 +108,15 @@ If you start working, you must usually get [public health insurance](/glossary/g
 
 If you are unemployed or self-employed, you might be stuck with your current private health insurance until you find a job.[^4]
 
+**[Health insurance when unemployed ➞](/guides/german-health-insurance/when-unemployed)**
+
+**[Health insurance for freelancers ➞](/guides/german-health-insurance/for-freelancers)**
+
 ## How to get insured
 
 There are many ways to get insured:
 
-- **[Feather](/out/feather-students)** {{ RECOMMENDED }}  
+- **[Feather](/out/feather-students)**{{ RECOMMENDED }}  
     They sell incoming and long-term health insurance. I work with them since 2018. They have great customer service, and their insurance is valid for a visa application.
 - **[Ask our expert](/guides/german-health-insurance#insurance-brokers)**  
     This is the best option if you are over 30 years old, if you have a special situation, or if you have questions.
