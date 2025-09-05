@@ -165,6 +165,8 @@ ctx["OTTONOVA_SELFEMPLOYED_COST"] = fail_on('2025-12-01', 552)  # Premium econom
 
 ctx["FEATHER_STUDENT_COST"] = fail_on('2025-12-01', 72)
 
+ctx["EXPAT_STUDENT_COST"] = round(ctx["FEATHER_STUDENT_COST"])
+
 # Maximum daily Krankengeld
 ctx['GKV_KRANKENGELD_DAILY_LIMIT'] = (ctx['GKV_MAX_INCOME'] * Decimal('0.7') / 360).normalize()  # § 47 SGB V
 
