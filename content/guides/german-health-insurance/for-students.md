@@ -102,7 +102,7 @@ When you start university, you can switch to [public health insurance](/glossary
 
 ## After you graduate
 
-If you start working, you must usually get [public health insurance](/glossary/gesetzliche%20Krankenversicherung). [Finding a job](/guides/find-a-job-in-berlin) is the best way to switch to public health insurance. If you make more than €{{GKV_MAX_INCOME|cur}} per year, you can also get [private health insurance](/glossary/private%20Krankenversicherung).
+When you [start working](/guides/find-a-job-in-berlin#start-working), you must usually get [public health insurance](/glossary/gesetzliche%20Krankenversicherung). If you make more than €{{GKV_MAX_INCOME|cur}} per year, you can also get [private health insurance](/glossary/private%20Krankenversicherung).
 
 **[Health insurance for employees ➞](/guides/german-health-insurance/for-employees)**
 
