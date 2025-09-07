@@ -25,8 +25,8 @@ For employees:
 For students:
 
 - [Insurance for a **student visa**](/guides/german-health-insurance/for-students#health-insurance-for-a-student-visa)
-- [Insurance for a **study preparation visa**](/guides/german-health-insurance/for-students#for-study-preparation)
-- [Insurance for a **language course visa**](/guides/german-health-insurance/for-students#for-a-language-course)
+- [Insurance for a **study preparation visa**](/guides/german-health-insurance/for-students#for-a-study-preparation-visa)
+- [Insurance for a **language course visa**](/guides/german-health-insurance/for-students#for-a-language-course-visa)
 
 For everyone else:
 
