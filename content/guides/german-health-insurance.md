@@ -333,13 +333,13 @@ Choose [public health insurance](/glossary/gesetzliche%20Krankenversicherung) if
 - **You want more than 2 children**  
     Public health insurance covers your children [for free](/glossary/Familienversicherung). If you have 1 or 2 children, private health insurance could still be cheaper.[^12]
 - **You are a [student under 30 years old](/guides/german-health-insurance/for-students#for-students-under-30-years-old)**  
-    The student tariff is a really good deal.[^59] There is cheaper private or expat health insurance, but the coverage is usually worse.
+    The student tariff is a really good deal.[^59] Expat health insurance can be cheaper, but the coverage is usually worse.
 - **You have pre-existing health problems**  
     Private health insurers might charge more or refuse to cover you. Even getting psychotherapy can disqualify you. Public health insurance is usually forced to accept you.
 
 Choose [private health insurance](/glossary/private%20Krankenversicherung) if...
 
-- **You have stable income**  
+- **You have high, stable income**  
     Private health insurance makes sense if you know you will always have a high income.
 - **You want faster doctor appointments**  
     It's much easier to find a doctor, a psychotherapist, a paediatrician or a gynaecologist. It takes a few days instead of a few weeks.
@@ -354,10 +354,10 @@ Choose [private health insurance](/glossary/private%20Krankenversicherung) if...
 
 Choose [expat health insurance](/glossary/Expat%20health%20insurance) if...
 
-- **You are a [foreign student over 30 years old](/guides/german-health-insurance/for-students#for-students-over-30-years-old)**  
-    If you come from a non-[EU](/glossary/European%20Union) country, it's often the only option. Public health insurance will reject you.
 - **You need temporary insurance coverage**  
-    Expat health insurance covers you until your public health insurance starts working. You might need it to apply for a German visa.
+    Expat health insurance covers from the day you arrive in Germany until the day you start working or studying. You usually need it to apply for a [[National Visa]].
+- **You are a [student over 30 years old](/guides/german-health-insurance/for-students#for-students-over-30-years-old)**  
+    For some foreign students, it's the only option. Public health insurance might reject you.
 - **You have no other choice**  
     If you are self-employed and you have pre-existing health problems, it might be your only option. Expat health insurance is usually the cheapest option. It's a bad long-term solution, but it might be the only insurance you can afford.
 - **You apply for an [opportunity card](/glossary/Chancenkarte)**  
