@@ -121,7 +121,7 @@ Before you apply for the Blue Card...
     - [ ] You must be allowed to [register your address](/glossary/Anmeldung). Your landlord must give you a [tenancy confirmation](/glossary/Wohnungsgeberbestätigung). If you can't get a tenancy confirmation, you might not get a Blue Card.[^1]
     - [ ] Your rent must be affordable. Your total cost of living must be less than your income.
     - [ ] Your apartment must be big enough. You need 9 m^2^ per adult, and 6 m^2^ per child.[^49]
-- [ ] **[Get health insurance](/guides/german-health-insurance/for-employees#for-a-blue-card-or-work-visa)**  
+- [ ] **[Get health insurance](/guides/german-health-insurance/for-employees#for-a-blue-card-or-a-work-visa)**  
     You need valid [health insurance](/glossary/Krankenversicherung). [Ask my insurance expert](/guides/german-health-insurance#insurance-brokers) to help you choose the correct health insurance.
 - [ ] **Prepare the [required documents ➞](#required-documents)**
 
@@ -205,7 +205,7 @@ These are the required documents **in Berlin**.[^2] If you apply elsewhere, they
 - [ ] **[Job description form](/documents/erklaerung-zum-beschaeftigungsverhaeltnis-2024.pdf)** (*Erklärung zum Beschäftigungsverhältnis*)  
     Your employer should fill this form and sign it. Download the form [here](/documents/erklaerung-zum-beschaeftigungsverhaeltnis-2024.pdf) or [on Berlin.de](https://www.berlin.de/einwanderung/_assets/stellenbeschreibung.pdf).
 - [ ] **Proof of health insurance**  
-    You need valid [health insurance](/glossary/Krankenversicherung). Travel health insurance is not accepted. [Ask my insurance expert](/guides/german-health-insurance#insurance-brokers) to help you [choose health insurance for your Blue Card](/guides/german-health-insurance/for-employees#for-a-blue-card-or-work-visa).
+    You need valid [health insurance](/glossary/Krankenversicherung). Travel health insurance is not accepted. [Ask my insurance expert](/guides/german-health-insurance#insurance-brokers) to help you [choose health insurance for your Blue Card](/guides/german-health-insurance/for-employees#for-a-blue-card-or-a-work-visa).
     - [ ] **[Health insurance card](/glossary/Gesundheitskarte)**  
         Show both sides of the card.
     - [ ] **proof of [public health insurance](/glossary/gesetzliche%20Krankenversicherung)**  

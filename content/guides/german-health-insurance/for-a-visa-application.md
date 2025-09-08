@@ -16,8 +16,8 @@ This guide explains which health insurance you need to apply for a [[National Vi
 
 For employees:
 
-- [Insurance for a **Blue Card**](/guides/german-health-insurance/for-employees#for-a-blue-card-or-work-visa)
-- [Insurance for a **work visa**](/guides/german-health-insurance/for-employees#for-a-blue-card-or-work-visa)
+- [Insurance for a **Blue Card**](/guides/german-health-insurance/for-employees#for-a-blue-card-or-a-work-visa)
+- [Insurance for a **work visa**](/guides/german-health-insurance/for-employees#for-a-blue-card-or-a-work-visa)
 - [Insurance for a **job seeker visa**](/guides/german-health-insurance/for-employees#for-a-job-seeker-visa)
 - [Insurance for a **Working Holiday Visa**](/guides/german-health-insurance/for-employees#for-a-working-holiday-visa)
 - [Insurance for a **Youth Mobility Visa**](/guides/german-health-insurance/for-employees#for-a-youth-mobility-visa)

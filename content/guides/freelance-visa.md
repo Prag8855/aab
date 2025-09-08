@@ -205,7 +205,7 @@ There are two types of self-employed people. They get a different kind of freela
 - [ ] **[Application form](/docs/residence-permit-application-form)** (*Antrag auf Erteilung eines Aufenthaltstitels*)  
     If this is your first residence permit application, fill this form. Download the form [here](/docs/residence-permit-application-form) or [on Berlin.de](https://www.berlin.de/formularverzeichnis/?formular=/labo/zuwanderung/_assets/lea-agen1-antrag_engl_frz_ital-112021.pdf).[^42]
 - [ ] **Proof of health insurance**  
-    You need valid [health insurance](/glossary/Krankenversicherung). Travel health insurance is not accepted. [Ask my insurance expert](/guides/german-health-insurance#insurance-brokers) to help you [choose health insurance for your work visa](/guides/german-health-insurance/for-employees#for-a-blue-card-or-work-visa).
+    You need valid [health insurance](/glossary/Krankenversicherung). Travel health insurance is not accepted. [Ask my insurance expert](/guides/german-health-insurance#insurance-brokers) to help you [choose health insurance for your work visa](/guides/german-health-insurance/for-employees#for-a-blue-card-or-a-work-visa).
     - [ ] **[Health insurance card](/glossary/Gesundheitskarte)**  
         Show both sides of the card.
     - [ ] **proof of [public health insurance](/glossary/gesetzliche%20Krankenversicherung)**  
