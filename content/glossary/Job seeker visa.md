@@ -20,7 +20,7 @@ The job seeker visa is a type of [[National Visa]]. It allows you to stay in Ger
 
 You can get a job seeker visa when...
 
-- You want to come to Germany to find a job
+- You want to come to Germany to [find a job](/guides/find-a-job-in-berlin)
 - You graduated from a German school and need to find a job
 
 To start working, you must apply for a [work visa](/glossary/Work%20Visa), a [[Blue Card]] or a [freelance visa](/glossary/Freelance%20visa).
