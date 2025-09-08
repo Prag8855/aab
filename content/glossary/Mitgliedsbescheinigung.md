@@ -21,6 +21,6 @@ You need a *Mitgliedsbescheinigung* to...
 
 If you have [public health insurance](/glossary/gesetzliche%20Krankenversicherung), you get a *[[Mitgliedsbescheinigung]] nach § 175 SGB V*. If you have [private health insurance](/glossary/private%20Krankenversicherung), you get a *[[Mitgliedsbescheinigung]] nach § 257 SGB V*.
 
-If you don't have health insurance, get a *vorläufige Mitgliedsbescheinigung*. It's a provisional proof of health insurance. It proves that you will have health insurance in the future, for example after you start working or studying. [Ask my insurance expert](/guides/german-health-insurance#insurance-brokers) to help you.
+You can also get a provisional proof of health insurance (*vorläufige Mitgliedsbescheinigung*). It proves that you will have health insurance in the future. For example, insurance might only cover you after you start working or studying.
 
 [![Example Mitgliedsbescheinigung](/images/krankenkasse-mitgliedsbescheinigung-nach-175-sgb-v.png)](/images/krankenkasse-mitgliedsbescheinigung-nach-175-sgb-v.png "Example Mitgliedsbescheinigung")

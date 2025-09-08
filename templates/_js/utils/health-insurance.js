@@ -370,7 +370,7 @@ function canHaveStudentTarif(occupation, monthlyIncome, hoursWorkedPerWeek, age)
 
 function canHavePublicHealthInsurance(occupation, monthlyIncome, hoursWorkedPerWeek, age, hasEUPublicHealthInsurance){
 	return (
-		// If you had public health insurance in 2 of the last 5 years in the EU
+		// If you had public health insurance in 2 of the last 5 years in the EU - §9 Abs. 1 S. 1 SGB V
 		hasEUPublicHealthInsurance
 		|| isPflichtversichert(occupation, monthlyIncome, hoursWorkedPerWeek, age)
 		|| canHaveStudentTarif(occupation, monthlyIncome, hoursWorkedPerWeek, age)

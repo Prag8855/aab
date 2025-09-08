@@ -12,38 +12,58 @@ This guide explains which health insurance you need to apply for a [[National Vi
 
 {% include "_blocks/tableOfContents.html" %}
 
+## For a specific visa
+
+For employees:
+
+- [Insurance for a **Blue Card**](/guides/german-health-insurance/for-employees#for-a-blue-card-or-work-visa)
+- [Insurance for a **work visa**](/guides/german-health-insurance/for-employees#for-a-blue-card-or-work-visa)
+- [Insurance for a **job seeker visa**](/guides/german-health-insurance/for-employees#for-a-job-seeker-visa)
+- [Insurance for a **Working Holiday Visa**](/guides/german-health-insurance/for-employees#for-a-working-holiday-visa)
+- [Insurance for a **Youth Mobility Visa**](/guides/german-health-insurance/for-employees#for-a-youth-mobility-visa)
+
+For students:
+
+- [Insurance for a **student visa**](/guides/german-health-insurance/for-students#health-insurance-for-a-student-visa)
+- [Insurance for a **study preparation visa**](/guides/german-health-insurance/for-students#for-a-study-preparation-visa)
+- [Insurance for a **language course visa**](/guides/german-health-insurance/for-students#for-a-language-course-visa)
+
+For everyone else:
+
+- [Insurance for an **opportunity card**](/guides/german-health-insurance/for-employees#for-an-opportunity-card)
+- [Insurance for a **family reunion visa**](#for-a-family-reunion-visa)
+- [Insurance for a **freelance visa**](/guides/german-health-insurance/for-freelancers#insurance-for-a-freelance-visa)
+
 ## For a Schengen visa
 
-To apply for a [[Schengen visa]] (tourist visa), you need **travel health insurance**.[^0]
+To apply for a [[Schengen visa]] (tourist visa), you need **travel health insurance**.[^0] [If you can visit Germany without a visa](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/-/231148), you don't need travel insurance, but it's still a good idea.
 
 Your travel health insurance must...[^1]
 
 - [ ] Cover you for at least €30,000
-- [ ] Be valid in *all* [[Schengen area]] countries, not just Germany
-- [ ] Be valid during your whole trip in the Schengen area
+- [ ] Cover you in *all* [[Schengen area]] countries, not just Germany
+- [ ] Cover you during your whole trip in the Schengen area
 
 **[HanseMerkur Visa Plus](/out/hansemerkur-travel)** works well for a Schengen visa application.
 
-[If you can visit Germany without a visa](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/-/231148), you don't need travel insurance, but it's still a good idea.
-
 ## For a National Visa
 
-To apply for a [[National Visa]], you need **[expat health insurance](/glossary/Expat%20health%20insurance)**. It covers you during your first few months in Germany.
+To apply for a [[National Visa]], you need two health insurances:
 
-**[List of expat health insurance options ➞](/guides/german-health-insurance#best-expat-health-insurance)**
+- **Incoming health insurance**  
+    This is [expat health insurance](/glossary/Expat%20health%20insurance). It covers you from the day you arrive in Germany until you start working or studying. There are [many valid options](/guides/german-health-insurance#best-expat-health-insurance). I recommend [Feather](/out/feather-expats) or [HanseMerkur](/out/hansemerkur-expats).
+- and **long-term health insurance**  
+    When you start working or studying, you must usually switch to [public](/glossary/gesetzliche%20Krankenversicherung) or [private](/glossary/private%20Krankenversicherung) health insurance. For public health insurance, choose [Barmer](/out/barmer) or [TK](/out/feather-tk). For private health insurance, always [ask an expert](/guides/german-health-insurance#insurance-brokers).
 
-Expat health insurance is a *temporary* health insurance. When you arrive in Germany, you must usually switch to [public](/glossary/gesetzliche%20Krankenversicherung) or [private](/glossary/private%20Krankenversicherung) health insurance. It depends on your visa:
+**[How to choose health insurance ➞](/guides/german-health-insurance)**
 
-- [Insurance for a **Blue Card**](/guides/german-health-insurance/for-employees#for-a-blue-card-or-work-visa)
-- [Insurance for a **work visa**](/guides/german-health-insurance/for-employees#for-a-blue-card-or-work-visa)
-- [Insurance for a **student visa**](/guides/german-health-insurance/for-students#insurance-for-a-student-visa)
-- [Insurance for a **freelance visa**](/guides/german-health-insurance/for-freelancers#insurance-for-a-freelance-visa)
-- [Insurance for a **Working Holiday Visa**](/guides/german-health-insurance/for-employees#for-a-working-holiday-visa)
-- [Insurance for an **opportunity card**](/guides/german-health-insurance/for-employees#for-an-opportunity-card)
-- [Insurance for a **job seeker visa**](/guides/german-health-insurance/for-employees#for-a-job-seeker-visa)
-- [Insurance for a **family reunion visa**](#for-a-family-reunion-visa)
+In the [[Consular Services Portal]], you must upload a proof of incoming health insurance *and* a proof of long-term health insurance. [Merge them together](https://www.adobe.com/acrobat/online/merge-pdf.html), and upload them under *Proof of health insurance*.
 
-If you are a citizen of {{AUFENTHV_41_COUNTRIES}}, you do not need a National Visa. You do not need health insurance to come to Germany, but you need it to apply for a [residence permit](/glossary/Aufenthaltstitel).
+![Proof of health insurance in the Consular Services Portal](/images/csp-proof-of-health-insurance.png)
+
+Your incoming health insurance must cover you from the day you plan to arrive in Germany. It must match the dates you entered in the *Travel data* form in the [[Consular Services Portal]].
+
+![Planned date of entry in the Consular Services Portal](/images/csp-length-of-stay.png "Your health insurance must cover you from this date.")
 
 ### For a family reunion visa
 

@@ -10,7 +10,7 @@ Related_guides:
     tools/health-insurance-calculator.md
 ---
 
-Your European Health Insurance Card (EHIC) lets you get healthcare in other [EU](/glossary/European%20Union) countries. Your health insurance from your home country pays for your healthcare.
+Your European Health Insurance Card (EHIC) lets you get healthcare in other [EU](/glossary/European%20Union) countries. Your health insurance from your home country pays for it.
 
 You can use your EHIC to...
 
