@@ -239,16 +239,16 @@ Only choose expat health insurance if...
 These options are valid for a [[National Visa]] application. You can use them to apply for your first [student visa](/glossary/Student%20visa), [freelance visa](/glossary/Freelance%20visa), [opportunity card](/glossary/Chancenkarte), and other [Category D visas](/glossary/National%20Visa). They are accepted by German embassies, consulates and [immigration offices](/glossary/Ausländerbehörde).
 
 - **[Feather](/out/feather-expats)**{{ RECOMMENDED }}  
-    Their insurance is valid for a [[National Visa]] application. They have excellent English-speaking customer service. I work with them since 2018. They usually resell HanseMerkur insurance.
-- **[HanseMerkur](/out/hansemerkur-expats)**{{ RECOMMENDED }}  
-    It's what [our insurance expert](/guides/german-health-insurance#insurance-brokers) usually recommends, and the same insurance that [Feather](/out/feather-expats) sells.[^33]
+    Their insurance is valid for a [[National Visa]] application. They have excellent English-speaking customer service. I work with them since 2018.
+- **[HanseMerkur](/out/hansemerkur-expats)**  
+    It's the same insurance that [Feather](/out/feather-expats) sells. It's a reliable health insurance for a [[National Visa]] application.
 - [April International](/out/april)
 - [Care Concept](/out/care-concept)
 - [Dr Walter](/out/dr-walter)
 - [Mawista](/out/mawista-expats)
 - [Ottonova](/out/ottonova-expats)
 
-If you are not sure, [ask my insurance expert](#insurance-brokers) to help you choose. He can also help you find a long-term health insurance after your expat insurance expires.
+If you are not sure, [ask my insurance expert](#insurance-brokers) to help you choose. He can also help you find a long-term health insurance when you start working or start university.
 
 [Expatrio](/out/expatrio), [Fintiba](/out/fintiba) and [Coracle](/out/coracle) sell packages that include a [blocked account](/glossary/Sperrkonto), expat health insurance and public health insurance. Their expat health insurance is valid for a [[National Visa]] application.
 
@@ -492,7 +492,6 @@ When you are self-employed, the cost of public health insurance is based on your
 [^30]: [Seamus Wolf](/guides/german-health-insurance#insurance-brokers) (April 2025), [Emily Archer](https://www.archer-relocation.com/) (April 2025)
 [^31]: [pkv.de](https://www.pkv.de/positionen/krankenversicherung-fuer-beamtinnen-und-beamte/) (April 2025)
 [^32]: [verwaltung.bund.de](https://verwaltung.bund.de/leistungsverzeichnis/en/rechte-und-pflichten/102837937#:~:text=the%20ehic%20can%20only%20be%20used%20for%20treatments%20that%20are%20covered%20by%20statutory%20health%20insurance) (April 2025)
-[^33]: [Seamus Wolf](/guides/german-health-insurance#insurance-brokers) (August 2025)
 [^34]: [verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/krankenversicherung/familienversicherung-in-der-krankenkasse-wer-kostenlos-mit-rein-kommt-28982) (January 2025) [minijob-zentrale.de](https://www.minijob-zentrale.de/DE/meta/faq-bereich/urlaub-krankheit-und-arbeitsrechte/96_warum_kein_geld_f%C3%BCr_minijobber_aus_kv/faq_96_warum_kein_geld_f%C3%BCr_minijobber_aus_kv.html#:~:text=oft%20besteht%20eine%20beitragsfreie%20familienversicherung%20uber%20den%20ehepartner%20oder%20die%20eltern) (February 2025)
 [^35]: Personal experience (2025), [Seamus Wolf](/guides/german-health-insurance#insurance-brokers) (April 2025)
 [^36]: [check24.de](https://www.check24.de/private-krankenversicherung/studenten/) (July 2025), [Ottonova](/out/ottonova-students) (July 2025)

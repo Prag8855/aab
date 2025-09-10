@@ -80,7 +80,7 @@ When you [start working](/guides/find-a-job-in-berlin#start-working), you must s
 
 **[Get health insurance for your Youth Mobility Visa ➞](#how-to-get-insured)**
 
-### For an internship
+## For an internship
 
 If it's a **mandatory internship during your studies**, you keep your [student health insurance](/guides/german-health-insurance/for-students). Your employer does not pay half of it.[^12]
 
