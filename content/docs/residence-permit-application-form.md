@@ -45,4 +45,4 @@ You can download this form in 11 languages:
 
 ## How to fill this form
 
-**[How to fill this form](https://www.essentialpackingchecklists.com/german-freelance-visa-application-form/)** (2017 version) - Essential Packing Checklists
+**[How to fill this form ➞](https://web.archive.org/web/20220212125126/http://www.essentialpackingchecklists.com/german-freelance-visa-application-form/)** (2017 version, archived)
