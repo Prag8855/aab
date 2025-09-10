@@ -390,11 +390,19 @@ Choose a broker who works with immigrants. Your needs are different, and your br
 
 Use my [recommendation tool](#your-options) to know your options. There are 3 types of health insurance and hundreds of options. The best option depends on your situation. If you apply for a [[National Visa]], you might need a combination of insurances.
 
+{% include "_blocks/healthInsuranceCalculatorStatic.html" %}
+
 ### 2. Ask an expert to choose
 
-Do not choose health insurance yourself. The cheapest option now can be an expensive mistake later. Your visa application can get rejected because you chose the wrong insurance.
+**If you choose [public health insurance](/glossary/gesetzliche%20Krankenversicherung)**, you can't go wrong. All options are similar. Their cost and coverage are almost the same. [Barmer](/out/barmer) and [TK](/out/feather-tk) are safe options. You can change your mind and switch to private health insurance later.
 
-Always [ask a broker](#insurance-brokers) to help you. They ask you the right questions, look at all the options, and help you find the best health insurance. You can get better coverage for a lower price. Their help is free.
+**If you choose [expat health insurance](/glossary/Expat%20health%20insurance)** for a [[National Visa]] application, get one of the [recommended options](#best-expat-health-insurance). If you choose long-term expat health insurance, ask an expert first. It's cheap now, but it can be an expensive mistake later. Many freelancers make that mistake.
+
+**If you choose [private health insurance](/glossary/private%20Krankenversicherung)**, always ask an expert. Never choose private health insurance yourself. Don't trust comparison portals like Check24. An expert will ask you the right questions, look at all the options, and help you find the best health insurance.
+
+**If you are self-employed**, always ask an expert. [[Freelance visa]] applications are often rejected because of invalid insurance. Freelancers often choose the cheapest health insurance and regret it later.
+
+**If you are not sure**, ask an expert to help you decide. Their help is free.
 
 {% include "_blocks/healthInsuranceQuestion.html" %}
 
@@ -404,9 +412,9 @@ The process is different with each insurer. Your health insurance broker can tak
 
 You only need an ID document and a photo for your insurance card. You do not need a German address or an *[[Anmeldung]]*.[^63]
 
-- If you choose [public health insurance](/glossary/gesetzliche%20Krankenversicherung), you can get insured on the same day. You get your [insurance card](/glossary/Gesundheitskarte) 2 to 4 weeks later.
-- If you choose [private health insurance](/glossary/private%20Krankenversicherung), it takes around 2 weeks. You usually need a health check from a doctor.[^44] It costs around €250.[^30]{{ fail_on('2027-01-01') }}
 - If you choose [expat health insurance](/glossary/Expat%20health%20insurance), you get insured in a few minutes.
+- If you choose [public health insurance](/glossary/gesetzliche%20Krankenversicherung), you can get your [proof of health insurance](/glossary/Mitgliedsbescheinigung) on the same day, and your [insurance card](/glossary/Gesundheitskarte) in 2 to 4 weeks. You can get healthcare before your insurance card arrives.
+- If you choose [private health insurance](/glossary/private%20Krankenversicherung), it takes around 2 weeks. You usually need a health check from a doctor.[^44] It costs around €250.[^30]{{ fail_on('2027-01-01') }}
 
 If you are self-employed and new in Germany, it can be hard to get health insurance. Public and private health insurers can reject you. You might need to try multiple insurers. I strongly recommend [asking an expert to help you](#insurance-brokers).
 
@@ -421,13 +429,21 @@ Once you are insured, you get...
 - **A [[Sozialversicherungsnummer]]**  
     Give it to your employer. If you get private health insurance, you do not get a *Sozialversicherungsnummer* automatically. Your employer can also request it for you.[^80] You can also [contact the *Deutsche Rentenversicherung*](https://www.deutsche-rentenversicherung.de/DRV/DE/Beratung-und-Kontakt/Kontakt/Anschriften-Uebersicht/anschriften_uebersicht_detail.html) and ask for it.
 
-If you are a student, your health insurer will tell your school that you are insured (the *M10 Meldung*). It's done digitally; you don't need to do anything. It takes around 3 days.[^86]
+**If you are a student**, your health insurer will tell your school that you are insured (the *M10 Meldung*). It's done digitally; you don't need to do anything. It takes around 3 days.[^86]
+
+**If you apply for a [[National Visa]]**, you must upload two documents to the [Consulate Service Portal](/glossary/Consular%20Services%20Portal): a proof of [incoming health insurance](/glossary/Expat%20health%20insurance), and a [proof of long-term health insurance](/glossary/Mitgliedsbescheinigung). [Merge them together](https://www.adobe.com/acrobat/online/merge-pdf.html), and upload them under "Proof of health insurance".
+
+![Proof of health insurance in the Consular Services Portal](/images/csp-proof-of-health-insurance.png "Upload your health insurance certificates here")
+
+Your incoming health insurance must cover you from the day you arrive in Germany. It must match the arrival date in the [[Consular Services Portal]].
+
+![Planned date of entry in the Consular Services Portal](/images/csp-length-of-stay.png "Your health insurance must cover you from this date.")
 
 ### 5. Pay every month
 
 If you have public health insurance, you pay out of your paycheck every month. If you have private health insurance or you are self-employed, you pay by [bank transfer](/glossary/SEPA-Überweisung) or [direct debit authorisation](/glossary/SEPA-Lastschriftmandat).[^35] You might need to [open a bank account](/guides/best-bank-germany) for this.
 
-When you are self-employed, the cost of public health insurance is based on your *estimated* income. It's adjusted every year. If you paid too much, you get money back. If you did not pay enough, you must make an extra payment.[^21]
+When you are self-employed, the cost of public health insurance is based on your *estimated* income. Every year, you must prove your real income, and your insurer adjusts the cost of your health insurance. If you paid too much, you get money back. If you did not pay enough, you must make an extra payment.[^21]
 
 ## What to do next
 
