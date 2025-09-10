@@ -21,15 +21,13 @@ Your options depend on your income:
 - **If your earn less than €{{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}} per year**  
     You can only choose [public health insurance](/glossary/gesetzliche%20Krankenversicherung). I recommend [Barmer](/out/barmer) or [TK](/out/feather-tk). It costs {{GKV_MIN_RATE_EMPLOYEE}}% to {{GKV_MAX_RATE_EMPLOYEE}}% of your income. The [maximum cost](/glossary/Höchstbeitrag) is around €{{GKV_MAX_COST_EMPLOYEE|cur}} per month.
 - **If your earn more than €{{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}} per year**  
-    You can choose [public](/glossary/gesetzliche%20Krankenversicherung) or [private health insurance](/glossary/private%20Krankenversicherung). Private might be better and cheaper.[^5] Don't choose private health insurance yourself. [Ask my insurance expert](/guides/german-health-insurance#insurance-brokers) to help you.
-
-**If you apply for a [[National Visa]]**, you also need [expat health insurance](/glossary/Expat%20health%20insurance). It covers you from the day you arrive in Germany to the day you [start working](/guides/find-a-job-in-berlin#start-working). I recommend [Feather](/out/feather-expats), but there are [many other options](/guides/german-health-insurance#best-expat-health-insurance). When you start working, you must switch to public or private health insurance.
+    You can choose [public](/glossary/gesetzliche%20Krankenversicherung) or [private health insurance](/glossary/private%20Krankenversicherung). Private can be better and cheaper.[^5] Don't choose private health insurance yourself. [Ask my insurance expert](/guides/german-health-insurance#insurance-brokers) to help you.
 
 **[What is the best option? ➞](/guides/german-health-insurance#what-is-the-best-option)**
 
-**[Get health insurance ➞](#how-to-get-insured)**
+**If you apply for a [[National Visa]]**, you also need [expat health insurance](/glossary/Expat%20health%20insurance). It covers you from the day you arrive in Germany to the day you [start working](/guides/find-a-job-in-berlin#start-working). I recommend [Feather](/out/feather-expats), but there are [many other options](/guides/german-health-insurance#best-expat-health-insurance). When you start working, you must switch to public or private health insurance.
 
-Your health insurance is not tied to your job. Your employer does not decide which health insurance you can have. If you [lose your job](/guides/losing-your-job), you keep your health insurance.
+**[Get health insurance ➞](#how-to-get-insured)**
 
 ## For a visa or residence permit
 
@@ -64,7 +62,7 @@ To apply for a [job seeker visa](/glossary/Job%20seeker%20visa), you only need [
 
 When you [start working](/guides/find-a-job-in-berlin#start-working), you must switch to [public](/glossary/gesetzliche%20Krankenversicherung) or [private](/glossary/private%20Krankenversicherung) health insurance.
 
-**[Get health insurance for a job seeker visa ➞](#how-to-get-insured)**
+**[Get health insurance for your job seeker visa ➞](#how-to-get-insured)**
 
 ### For a Working Holiday Visa
 
@@ -72,7 +70,7 @@ To apply for a [[Working Holiday Visa]], you only need [expat health insurance](
 
 When you [start working](/guides/find-a-job-in-berlin#start-working), you must switch to [public](/glossary/gesetzliche%20Krankenversicherung) or [private](/glossary/private%20Krankenversicherung) health insurance. If you have a [minijob](/glossary/Minijob), you can stay on expat health insurance.[^9]
 
-**[Get health insurance for an Working Holiday Visa ➞](#how-to-get-insured)**
+**[Get health insurance for your Working Holiday Visa ➞](#how-to-get-insured)**
 
 ### For a Youth Mobility Visa
 
@@ -80,7 +78,7 @@ To apply for a [[Youth Mobility Visa]], you only need [expat health insurance](/
 
 When you [start working](/guides/find-a-job-in-berlin#start-working), you must switch to [public](/glossary/gesetzliche%20Krankenversicherung) or [private](/glossary/private%20Krankenversicherung) health insurance. If you have a [minijob](/glossary/Minijob), you can stay on expat health insurance.[^9]
 
-**[Get health insurance for a Youth Mobility Visa ➞](#how-to-get-insured)**
+**[Get health insurance for your Youth Mobility Visa ➞](#how-to-get-insured)**
 
 ### For an internship
 
@@ -109,19 +107,20 @@ If you [lose your job](/guides/losing-your-job), you keep your health insurance.
 
 ## How to get insured
 
-There are many ways to get insured:
+- **For [public health insurance](/glossary/gesetzliche%20Krankenversicherung)**  
+    I recommend [Barmer](/out/barmer) or [TK](/out/feather-tk). They are reliable, English-speaking health insurers.
+- **For [private health insurance](/glossary/private%20Krankenversicherung)**  
+    Always [ask an expert](/guides/german-health-insurance#insurance-brokers). Never choose private health insurance yourself. You can make expensive mistakes, and it's really hard to fix them.
+- **For [expat health insurance](/glossary/Expat%20health%20insurance)**  
+    I recommend [Feather](/out/feather-health), but there are [many other options](/guides/german-health-insurance#best-expat-health-insurance). Feather is a reliable, English-speaking insurer in Berlin. We work together since 2018. Their expat health insurance works for a [[National Visa]] application.
+- **If you are not sure**  
+    [Read my health insurance guide](/guides/german-health-insurance), and [ask my insurance expert](/guides/german-health-insurance#insurance-brokers) to help you choose. Their help is free.
 
-- **For [public health insurance](/glossary/gesetzliche%20Krankenversicherung)**, I recommend Barmer or TK. They are reliable, English-speaking insurers.
-- **For [private health insurance](/glossary/private%20Krankenversicherung)**, always [ask an expert](/guides/german-health-insurance#insurance-brokers). Never choose private health insurance yourself. You can make expensive mistakes, and it's really hard to fix them.
-- **For [expat health insurance](/glossary/Expat%20health%20insurance)**, I recommend [Feather](/out/feather-health). It works well for a visa application. They are a reliable, English-speaking, Berlin-based company. I work with them since 2018.
+Your employer can choose health insurance for you, but it's a bad idea. They choose what is easy for them, not what is best for you.[^4]
 
-**If you are not sure**, [ask our expert](/guides/german-health-insurance#insurance-brokers) to help you choose. It's a free service.
+**After you get insured**, you get a [proof of health insurance](/glossary/Mitgliedsbescheinigung) for your visa application. You must tell your employer which health insurance you have. You must pay for health insurance every month. The payments are taken directly from your paycheck.
 
-{% include '_blocks/healthInsuranceQuestionStatic.html' %}
-
-[Expatrio](/out/expatrio), [Fintiba](/out/fintiba) and [Coracle](/out/coracle) also sell packages that include a [blocked account](/glossary/Sperrkonto), expat health insurance and public health insurance. This is also a good option.
-
-Your employer can help you get insured, but it's a bad idea. They choose what is easy for them, not what is best for you.[^4]
+**[What happens after you get insured ➞](/guides/german-health-insurance#how-to-get-insured)**
 
 [^1]: [DAK](https://www.dak.de/dak/leistungen/krankenversicherung-waehrend-eines-praktikums_63456#rtf-anchor-praktikum-vor-oder-nach-dem-studium) (April 2025), [check24.de](https://www.check24.de/krankenversicherung/praktikum/#:~:text=fur%20ein%20pflichtpraktikum%2C%20das%20vor%20oder%20nach%20dem%20studium%20absolviert%20wird) (April 2025)
 [^2]: [praktikum-guide.com](https://praktikum-guide.com/krankenversicherung-im-praktikum/#:~:text=Pflichtpraktikum%20ohne-,vergutung,-Du%20bleibst%20beitragsfrei) (April 2025)
