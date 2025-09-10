@@ -101,7 +101,7 @@ If you [lose your job](/guides/losing-your-job), you keep your health insurance.
 
 **If you have [public health insurance](/glossary/gesetzliche%20Krankenversicherung)**, it becomes cheaper, because the cost is proportional to your income. Otherwise, you pay the [minimum amount](/glossary/Mindestbeitrag): around €{{GKV_MIN_COST_SELF_PAY|cur}} per month.
 
-**If you have [private health insurance](/glossary/private%20Krankenversicherung)**, your employer stops paying half of it, so it's twice as expensive for you. For example, if you paid €250 per month as an employee, you must now pay €500 per month. If you get [unemployment benefits](/glossary/ALG%20I), you must usually switch to public health insurance. Otherwise, you can't switch to public health insurance.
+**If you have [private health insurance](/glossary/private%20Krankenversicherung)**, your employer stops paying half of it, so it's twice as expensive for you. For example, if you paid €250 per month as an employee, you must now pay €500 per month. If you get [unemployment benefits](/glossary/ALG%20I), you must usually switch to public health insurance, then your unemployment benefits pay for it. Otherwise, you can't switch to public health insurance.
 
 **[Health insurance when unemployed ➞](/guides/german-health-insurance/when-unemployed)**
 
