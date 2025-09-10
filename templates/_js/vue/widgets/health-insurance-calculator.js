@@ -504,7 +504,7 @@ Vue.component('health-insurance-calculator', {
 				<div class="form-recipient">
 					<div>
 						<p>Seamus will help you <strong>choose the best health insurance</strong>. I work with him because he is honest and knowledgeable.</p>
-						<p>This service is <strong>100% free</strong>. Seamus replies on the same day.</p>
+						<p>Seamus replies on the same day. His help is <strong>100% free</strong>.</p>
 					</div>
 					<img
 						srcset="/experts/photos/bioLarge1x/seamus-wolf.jpg, /experts/photos/bioLarge2x/seamus-wolf.jpg 2x"
