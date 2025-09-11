@@ -19,8 +19,10 @@ Routine tests are harder. It's hard to get an appointment quickly. You might hav
 
 - **At any medical clinic**  
     Medical clinics can test for HIV and other STIs. You can ask your general practitioner (*[[Hausarzt]]*), but they might not know how to do STI testing. Urologists and gynaecologists usually offer HIV and STI tests.
+    - **[Praxis Prenzlauer Berg](https://praxis-prenzlauer-berg.de)**  
+        English-speaking staff, online appointments, and online results in 1 day.
     - **[Praxis Goldstein](https://www.doctor-goldstein.com/)**  
-        Online appointments, online results. Very fast.
+        English-speaking staff, online appointments, and online results in 1 day.
     - **[Dr. Cordes](https://www.drcordes.de/en__es__fr/)**  
         They speak English, Spanish and German. Long wait times, even with an appointment.
     - **[Viropraxis](https://www.viropraxis.de/)**  
