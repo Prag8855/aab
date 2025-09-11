@@ -36,8 +36,8 @@ When you renew your freelance visa, they verify that...
     They will check your invoices and your *[[Steuerbescheid]]* to verify your income. You must make enough money to support yourself.[^0]
 - [ ] **You have clients in Germany**  
     You must have some invoices from clients in Germany.[^0] If all your income comes from other countries, you can't renew your freelance visa.
-- [ ] **You have valid health insurance**  
-    This time, you can't have cheap [expat health insurance](/glossary/Expat%20health%20insurance). You must have valid public or private health insurance. - [More information ➞](#get-valid-health-insurance).
+- [ ] **You have [valid health insurance](#get-valid-health-insurance)**  
+    This time, you can't have cheap [expat health insurance](/glossary/Expat%20health%20insurance). You must have valid public or private health insurance.
 - [ ] **You have a retirement plan**  
     If you are over 45 years old, you must prove that you will get a pension of at least €{{FREELANCE_VISA_MIN_MONTHLY_PENSION|cur}} per month for at least 12 years, or that you have €{{FREELANCE_VISA_MIN_PENSION|cur}} in assets.[^0] This is not required for citizens of the Dominican Republic, Indonesia, Japan, Philippines, Sri Lanka, Turkey and the United States.[^1]
 
@@ -64,7 +64,7 @@ Note: Immigration law uses the term "*Selbständiger*" and business law uses "*G
 
 ### 3. Get valid health insurance
 
-When you renew a [residence permit](/glossary/Aufenthaltstitel), [expat health insurance](/glossary/Expat%20health%20insurance) like HanseMerkur, Mawista or Care Concept is rarely accepted.[^2] You need a real [public](/glossary/gesetzliche%20Krankenversicherung) or [private health insurance](/glossary/private%20Krankenversicherung).
+When you renew a [residence permit](/glossary/Aufenthaltstitel), [expat health insurance](/glossary/Expat%20health%20insurance) is rarely accepted.[^2] You usually need [public](/glossary/gesetzliche%20Krankenversicherung) or [private health insurance](/glossary/private%20Krankenversicherung).
 
 **[Health insurance for a freelance visa ➞](/guides/german-health-insurance/for-freelancers#insurance-for-a-freelance-visa)**
 
@@ -76,7 +76,7 @@ It takes 1 or 2 weeks to switch, but **it can take up to 3 months**.[^17] [Ask m
 
 ### 4. Find a tax advisor
 
-Your tax advisor must prepare documents for you:
+Your [tax advisor](/glossary/Steuerberater) must prepare documents for you:
 
 - If you are a *[[Freiberufler]]*, you need a *[[Netto-Gewinnermittlung]]*. You can prepare it yourself, but it must be verified and stamped by a tax advisor.[^3]
 - If you are a *[[Gewerbetreibender]]*, you need a *[[Prüfungsbericht]]*. It must be verified and stamped by a tax advisor.
