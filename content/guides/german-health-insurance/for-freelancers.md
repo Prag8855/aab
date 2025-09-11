@@ -86,11 +86,11 @@ If you are self-employed, **never choose health insurance yourself**. Always [as
 
 {% include '_blocks/healthInsuranceQuestionStatic.html' %}
 
-You can switch to private later if it makes more sense.[^5] It's the cheapest long-term option.[^12]
-
 ## What to do next
 
 After you get insured, you can [apply for a freelance visa](/guides/freelance-visa) and [start your business](/guides/start-a-business-in-germany).
+
+You must pay for health insurance by [bank transfer](/glossary/SEPA-Überweisung) every month. You can sign a [direct debit authorization](/glossary/SEPA-Lastschriftmandat) to allow automatic payments.
 
 When you are self-employed, you do not get paid [sick leave](/glossary/Krankengeld). If you are too sick to work, you have no income. You must prepare for this.
 
@@ -99,9 +99,7 @@ When you are self-employed, you do not get paid [sick leave](/glossary/Krankenge
 [^2]: [Emily Archer](https://www.archer-relocation.com/) says that the amount is not fixed, but that insurers need to see that you can cover your insurance bills (April 2025), [Seamus Wolf](/guides/german-health-insurance#insurance-brokers) (April 2025)
 [^3]: Reader feedback (February 2025)
 [^4]: [Red Tape Translation](https://redtapetranslation.com/7-common-mistakes-at-the-auslanderbehorde/#:~:text=not%20having%20the%20right%20type%20of%20health%20insurance)
-[^5]: [Seamus Wolf](/guides/german-health-insurance#insurance-brokers) (June 2025)
 [^6]: [Seamus Wolf](/guides/german-health-insurance#insurance-brokers) (June 2025)
 [^7]: [VAB A2.3.1.12](/out/vab) (September 2025), [Feather Insurance](https://feather-insurance.com/blog/how-can-i-use-expat-health-insurance-for-my-visa/#:~:text=expat%20insurance%20is%20almost%20always%20denied) (2025)
 [^8]: [Seamus Wolf](/guides/german-health-insurance#insurance-brokers) (June 2025)
 [^9]: [§9 Abs. 1 S. 1 SGB V](https://www.gesetze-im-internet.de/sgb_5/__9.html)
-[^12]: [finanztip.de](https://www.finanztip.de/pkv/pkv-wechsel/#:~:text=gerade%20zu%20beginn%20deiner%20selbststandigkeit%20empfehlen%20wir%20dir%2C%20in%20der%20gkv%20zu%20bleiben) (January 2025), [Feather Insurance](https://feather-insurance.com/blog/public-vs-private-health-insurance-germany/?utm_source=allaboutberlin#:~:text=%20if%20you%E2%80%99re%20a%20high-earner) (April 2025), [Emily Archer](https://www.archer-relocation.com/) (April 2025), [Feather Insurance](https://feather-insurance.com/blog/how-can-i-use-expat-health-insurance-for-my-visa/?utm_source=allaboutberlin#:~:text=then%20we%20recommend%20you%20get%20public%20health%20insurance) (June 2025)
