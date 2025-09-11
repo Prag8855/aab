@@ -45,9 +45,9 @@ When you start a new job, you must switch to public health insurance. If you mak
 ## If you just moved to Germany
 
 - **If you move from another [EU](/glossary/European%20Union) country**  
-    Your [health insurance from your home country](/guides/german-health-insurance#insurance-from-other-eu-countries) usually covers you until you start making money. You can get [free health insurance](/guides/german-health-insurance#free-health-insurance) from your parents or your spouse. Otherwise, you can get [public](/glossary/gesetzliche%20Krankenversicherung) or [private](/glossary/private%20Krankenversicherung) health insurance.
+    Your [health insurance from your home country](/guides/german-health-insurance#insurance-from-other-eu-countries) usually covers you until you start making money. You can get [free health insurance](/guides/german-health-insurance#free-health-insurance) from your parents or your spouse. Otherwise, you can get [public](/glossary/gesetzliche%20Krankenversicherung), [private](/glossary/private%20Krankenversicherung) or [expat](/glossary/Expat%20health%20insurance) health insurance.
 - **If you move from a non-[EU](/glossary/European%20Union) country**  
-    You can use your [expat health insurance](/glossary/Expat%20health%20insurance) until you start working or studying. You usually need [public](/glossary/gesetzliche%20Krankenversicherung) or [private](/glossary/private%20Krankenversicherung) for your [resident permit](/glossary/Aufenthaltstitel) application. You can get [free health insurance](/guides/german-health-insurance#free-health-insurance) from your parents or your spouse.
+    You can use your [expat health insurance](/glossary/Expat%20health%20insurance) until you start working or studying. You can get [free health insurance](/guides/german-health-insurance#free-health-insurance) from your parents or your spouse.
 
 **[Health insurance for a residence permit application ➞](/guides/german-health-insurance/for-a-visa-application#for-a-residence-permit)**
 
