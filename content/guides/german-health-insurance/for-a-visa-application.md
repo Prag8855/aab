@@ -51,7 +51,7 @@ Your travel health insurance must...[^1]
 To apply for a [[National Visa]], you need two health insurances:
 
 - **Incoming health insurance**  
-    This is [expat health insurance](/glossary/Expat%20health%20insurance). It covers you from the day you arrive in Germany until you start working or studying. There are [many valid options](/guides/german-health-insurance#best-expat-health-insurance). I recommend [Feather](/out/feather-expats) or [HanseMerkur](/out/hansemerkur-expats).
+    This is [expat health insurance](/glossary/Expat%20health%20insurance). It covers you from the day you arrive in Germany until you start working or studying. There are [many valid options](/guides/german-health-insurance#best-expat-health-insurance). I recommend [Feather](/out/feather-expats), but there are [many other options](/guides/german-health-insurance#best-expat-health-insurance).
 - and **long-term health insurance**  
     When you start working or studying, you must usually switch to [public](/glossary/gesetzliche%20Krankenversicherung) or [private](/glossary/private%20Krankenversicherung) health insurance. For public health insurance, choose [Barmer](/out/barmer) or [TK](/out/feather-tk). For private health insurance, always [ask an expert](/guides/german-health-insurance#insurance-brokers).
 
