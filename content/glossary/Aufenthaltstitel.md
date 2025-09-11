@@ -22,6 +22,6 @@ There are different residence permits for different purposes: working, studying,
 
 **[Types of residence permits ➞](/guides/residence-permit#types-of-residence-permits)**
 
-You must apply for a residence permit at the *[[Ausländerbehörde]]*, or at the German embassy or consulate in your home country. The residence permit is a [plastic card](/images/aufenthaltstitel-german-residence-permit.jpg).
+You must apply for a residence permit at the *[[Ausländerbehörde]]*. The residence permit is a [plastic card](/images/aufenthaltstitel-german-residence-permit.jpg).
 
 **[How to apply for a residence permit ➞](/guides/residence-permit#how-to-get-a-residence-permit)**

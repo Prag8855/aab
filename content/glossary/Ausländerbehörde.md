@@ -14,9 +14,9 @@ Related_guides:
     guides/german-health-insurance/for-a-visa-application.md
 ---
 
-The immigration office (*Ausländerbehörde*, *Landesamt für Einwanderung*, *LEA*, *Einwanderungsamt* or *Ausländeramt*) is where foreigners apply for a German [residence permit](/glossary/Aufenthaltstitel) or [permanent residence](/glossary/Niederlassungserlaubnis).
+The immigration office (*Ausländerbehörde*, *Landesamt für Einwanderung*, *LEA*, *Einwanderungsamt* or *Ausländeramt*) is where immigrants apply for a German [residence permit](/glossary/Aufenthaltstitel) or [permanent residence](/glossary/Niederlassungserlaubnis).
 
-In Berlin, the official name is *Landesamt für Einwanderung*, but most people call it the *Ausländerbehörde*.
+In Berlin, the immigration office is called *Landesamt für Einwanderung*, but most people call it the *Ausländerbehörde*.
 
 **[Berlin Ausländerbehörde guide ➞](/guides/immigration-office)**
 
