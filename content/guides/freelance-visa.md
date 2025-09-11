@@ -205,13 +205,15 @@ There are two types of self-employed people. They get a different kind of freela
 - [ ] **[Application form](/docs/residence-permit-application-form)** (*Antrag auf Erteilung eines Aufenthaltstitels*)  
     If this is your first residence permit application, fill this form. Download the form [here](/docs/residence-permit-application-form) or [on Berlin.de](https://www.berlin.de/formularverzeichnis/?formular=/labo/zuwanderung/_assets/lea-agen1-antrag_engl_frz_ital-112021.pdf).[^42]
 - [ ] **Proof of health insurance**  
-    You need valid [health insurance](/glossary/Krankenversicherung). Travel health insurance is not accepted. [Ask my insurance expert](/guides/german-health-insurance#insurance-brokers) to help you [choose health insurance for your work visa](/guides/german-health-insurance/for-employees#for-a-blue-card-or-a-work-visa).
+    You need [valid health insurance](/guides/german-health-insurance/for-freelancers#insurance-for-a-freelance-visa). [Ask my insurance expert](/guides/german-health-insurance#insurance-brokers) to help you [choose health insurance for your work visa](/guides/german-health-insurance/for-employees#for-a-blue-card-or-a-work-visa).
     - [ ] **[Health insurance card](/glossary/Gesundheitskarte)**  
         Show both sides of the card.
-    - [ ] **proof of [public health insurance](/glossary/gesetzliche%20Krankenversicherung)**  
+    - [ ] or **proof of [public health insurance](/glossary/gesetzliche%20Krankenversicherung)**  
         Get a *[Mitgliedsbescheinigung nach § 175 SGB V](/glossary/Mitgliedsbescheinigung)* from your health insurer or your [health insurance broker](/guides/german-health-insurance#insurance-brokers).
-    - [ ] **proof of [private health insurance](/glossary/private%20Krankenversicherung)**  
+    - [ ] or **proof of [private health insurance](/glossary/private%20Krankenversicherung)**  
         Bring your insurance contract, a *[Mitgliedsbescheinigung nach § 257 SGB V](/glossary/Mitgliedsbescheinigung)*, and bank statements that show health insurance payments. Get these documents from your health insurer or your health insurance broker.[^6]
+    - [ ] or **proof of [expat health insurance](/glossary/Expat%20health%20insurance)**  
+        If this is your first [residence permit](/glossary/Aufenthaltstitel), expat health insurance is usually accepted. If you renew your freelance visa, or change an existing residence permit, you usually need [public](/glossary/gesetzliche%20Krankenversicherung) or [private](/glossary/private%20Krankenversicherung) health insurance.
 - [ ] **Proof of housing**  
     You need a [place to live](/guides/find-a-flat-in-berlin) where you can [register your address](/glossary/Anmeldung). If you apply in Berlin, your home address must be in Berlin.
     - [ ] **Lease**  
@@ -355,7 +357,7 @@ An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocatio
 [^5]: [Red Tape Translation](/out/red-tape-translation) (December 2023), [Berlin.de](https://service.berlin.de/dienstleistung/324659/en/#:~:text=Proof%20of%20your,for%20example%20by)
 [^6]: [Berlin.de](https://service.berlin.de/dienstleistung/324659/en/#:~:text=for%20private%20health%20insurance)
 [^7]: Kathleen Parker, [relocation consultant](/out/red-tape-translation) (December 2024)
-[^8]: [c/o Germany](https://co-germany.de/the-artist-visa/), [bbk Berlin](https://www.bbk-kulturwerk.de/buero-fuer-kuenstler_innen-beratung/ratgeber/visa)
+[^8]: [Touring Artists](https://www.touring-artists.info/en/visa-residence/to-germany-as-non-eu-citizen/translate-to-englisch-aufenthalt-nach-21-absatz-5-aufenthg) (August 2025), [c/o Germany](https://co-germany.de/the-artist-visa/), [bbk Berlin](https://www.bbk-kulturwerk.de/buero-fuer-kuenstler_innen-beratung/ratgeber/visa)
 [^9]: [§41 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__41.html), [Berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1049092.en.php#:~:text=Ireland%20and%20Romania-,exceptions%20for%20certain%20countries,-Special%20privileges%20apply)
 [^10]: [§21 Abs. 4 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html)
 [^11]: [Red Tape Translation](/out/red-tape-translation) (December 2024), [Frankfurt am Main](https://frankfurt.de/auslaenderangelegenheiten/ich-moechte-einen-antrag-stellen/arbeitnehmer/chancenkarte#:~:text=beschaftigungserlaubnis) (December 2024)
