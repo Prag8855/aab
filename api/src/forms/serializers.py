@@ -1,75 +1,35 @@
 from django_countries.serializers import CountryFieldMixin
 from forms.models import \
-    PensionRefundQuestion, PensionRefundReminder, PensionRefundRequest, ResidencePermitFeedback, TaxIdRequestFeedbackReminder
-from rest_framework.serializers import HyperlinkedModelSerializer, IntegerField, CharField, DateTimeField
+    CitizenshipFeedback, PensionRefundQuestion, PensionRefundReminder, PensionRefundRequest, ResidencePermitFeedback, \
+    TaxIdRequestFeedbackReminder
+from rest_framework.serializers import ModelSerializer, IntegerField, CharField, DateTimeField
 
 
-message_fields = [
-    'creation_date',
-    'delivery_date',
-    'status',
-]
-
-
-class PensionRefundQuestionSerializer(CountryFieldMixin, HyperlinkedModelSerializer):
+class PensionRefundQuestionSerializer(CountryFieldMixin, ModelSerializer):
     status = IntegerField(read_only=True)
 
     class Meta:
         model = PensionRefundQuestion
-        fields = [
-            *message_fields,
-            'country_of_residence',
-            'email',
-            'name',
-            'nationality',
-            'question',
-        ]
+        fields = '__all__'
 
 
-class PensionRefundReminderSerializer(CountryFieldMixin, HyperlinkedModelSerializer):
+class PensionRefundReminderSerializer(CountryFieldMixin, ModelSerializer):
     status = IntegerField(read_only=True)
 
     class Meta:
         model = PensionRefundReminder
-        fields = [
-            *message_fields,
-            'email',
-            'refund_amount',
-        ]
+        fields = '__all__'
 
 
-class PensionRefundRequestSerializer(CountryFieldMixin, HyperlinkedModelSerializer):
+class PensionRefundRequestSerializer(CountryFieldMixin, ModelSerializer):
     status = IntegerField(read_only=True)
 
     class Meta:
         model = PensionRefundRequest
-        fields = [
-            *message_fields,
-            'arrival_date',
-            'birth_date',
-            'country_of_residence',
-            'departure_date',
-            'email',
-            'name',
-            'nationality',
-            'partner',
-        ]
+        fields = '__all__'
 
 
-residence_permit_feedback_fields = [
-    'application_date',
-    'appointment_date',
-    'creation_date',
-    'department',
-    'first_response_date',
-    'modification_date',
-    'notes',
-    'pick_up_date',
-    'residence_permit_type',
-]
-
-
-class ResidencePermitFeedbackSerializer(HyperlinkedModelSerializer):
+class ResidencePermitFeedbackSerializer(ModelSerializer):
     modification_key = CharField(read_only=True)
     modification_date = DateTimeField(read_only=True)
 
@@ -80,26 +40,38 @@ class ResidencePermitFeedbackSerializer(HyperlinkedModelSerializer):
 
     class Meta:
         model = ResidencePermitFeedback
-        fields = [
-            *residence_permit_feedback_fields,
-            'email',
-            'modification_key',
-        ]
+        fields = '__all__'
 
 
-class PublicResidencePermitFeedbackSerializer(HyperlinkedModelSerializer):
+class PublicResidencePermitFeedbackSerializer(ModelSerializer):
     class Meta:
         model = ResidencePermitFeedback
-        fields = residence_permit_feedback_fields
+        exclude = ('email', 'modification_key')
 
 
-class TaxIdRequestFeedbackReminderSerializer(HyperlinkedModelSerializer):
+class CitizenshipFeedbackSerializer(ModelSerializer):
+    modification_key = CharField(read_only=True)
+    modification_date = DateTimeField(read_only=True)
+
+    def validate(self, attrs):
+        instance = CitizenshipFeedback(**attrs)
+        instance.clean()
+        return attrs
+
+    class Meta:
+        model = CitizenshipFeedback
+        fields = '__all__'
+
+
+class PublicCitizenshipFeedbackSerializer(ModelSerializer):
+    class Meta:
+        model = CitizenshipFeedback
+        exclude = ('email', 'modification_key')
+
+
+class TaxIdRequestFeedbackReminderSerializer(ModelSerializer):
     status = IntegerField(read_only=True)
 
     class Meta:
         model = TaxIdRequestFeedbackReminder
-        fields = [
-            *message_fields,
-            'email',
-            'name',
-        ]
+        fields = '__all__'

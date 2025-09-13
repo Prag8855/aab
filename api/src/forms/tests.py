@@ -5,14 +5,14 @@ from dateutil.relativedelta import relativedelta
 from django.contrib.auth.models import User
 from django.core.cache import cache
 from django.utils import timezone
-from forms.models import PensionRefundQuestion, \
+from forms.models import CitizenshipFeedback, PensionRefundQuestion, \
     PensionRefundReminder, PensionRefundRequest, ResidencePermitFeedback, TaxIdRequestFeedbackReminder
 from forms.utils import readable_date_range
 from rest_framework.test import APITestCase
 import unittest
 
 
-def basic_auth_headers(username: str, password: str) -> dict:
+def basic_auth_headers(username: str, password: str) -> dict[str, str]:
     return {
         "Authorization": "Basic {}".format(b64encode(bytes(f'{username}:{password}', 'utf-8')).decode('ascii'))
     }
@@ -434,7 +434,7 @@ class ResidencePermitFeedbackTestCase(FeedbackEndpointMixin, APITestCase):
             )
         response = self.client.get(self.endpoint, format='json').json()
 
-        # 5 objects. Percentiles are 10th and 40th objects.
+        # 50 objects. Percentiles are 10th and 40th objects.
         self.assertEqual(response['stats']['total']['count'], 50)
         self.assertEqual(response['stats']['total']['percentile_20'], (10 - 1) * 3)
         self.assertEqual(response['stats']['total']['percentile_80'], 40 * 3)
@@ -473,6 +473,108 @@ class ResidencePermitFeedbackTestCase(FeedbackEndpointMixin, APITestCase):
         self.assertEqual(response['stats']['total']['count'], 50)
         self.assertEqual(response['stats']['total']['percentile_20'], (10 - 1) * 3)
         self.assertEqual(response['stats']['total']['percentile_80'], 40 * 3)
+
+
+class CitizenshipFeedbackTestCase(FeedbackEndpointMixin, APITestCase):
+    model = CitizenshipFeedback
+    endpoint = '/api/forms/citizenship-feedback'
+    example_request = {
+        'email': 'contact@nicolasbouliane.com',
+        'application_date': '2023-01-01',
+        'first_response_date': '2023-02-02',
+        'appointment_date': None,
+        'notes': 'Just some notes',
+    }
+
+    def test_date_order_400(self):
+        request = {
+            'application_date': '2023-02-02',
+            'first_response_date': '2023-01-01',  # Smaller than application_date
+        }
+        response = self.client.post(self.endpoint, request, format='json')
+        self.assertEqual(response.status_code, 400, response.json())
+
+        request = {
+            'application_date': '2023-02-02',
+            'first_response_date': '2023-03-03',
+            'appointment_date': '2023-02-02',  # Smaller than first_response_date
+        }
+        response = self.client.post(self.endpoint, request, format='json')
+        self.assertEqual(response.status_code, 400, response.json())
+
+    def test_schedule_feedback_email(self):
+        response = self.client.post(self.endpoint, self.example_request, format='json')
+        new_object = self.model.objects.get(modification_key=response.json()['modification_key'])
+        reminders = list(new_object.feedback_reminders.all().order_by('delivery_date'))
+        self.assertEqual(len(reminders), 1)
+        self.assertEqual(
+            reminders[0].delivery_date.replace(microsecond=0),
+            (reminders[0].creation_date + relativedelta(months=3)).replace(microsecond=0)
+        )
+
+    def test_no_feedback_email_if_feedback_complete(self):
+        request = copy(self.example_request)
+        request['appointment_date'] = '2023-03-03'
+        response = self.client.post(self.endpoint, request, format='json')
+        new_object = self.model.objects.get(modification_key=response.json()['modification_key'])
+        self.assertEqual(new_object.feedback_reminders.count(), 0)
+
+    def test_no_feedback_email_if_email_missing(self):
+        request = copy(self.example_request)
+        request['email'] = ''
+        response = self.client.post(self.endpoint, request, format='json')
+        new_object = self.model.objects.get(modification_key=response.json()['modification_key'])
+        self.assertEqual(new_object.feedback_reminders.count(), 0)
+
+    def test_stats_fewer_rows(self):
+        date_start = date.today()
+
+        self.model.objects.create(
+            application_date=date_start,
+            first_response_date=date_start + timedelta(days=3),
+            appointment_date=date_start + timedelta(days=6),
+        )
+        self.model.objects.create(
+            application_date=date_start,
+            first_response_date=date_start + timedelta(days=4),
+            appointment_date=date_start + timedelta(days=8),
+        )
+        self.model.objects.create(
+            application_date=date_start,
+            first_response_date=date_start + timedelta(days=5),
+            appointment_date=date_start + timedelta(days=10),
+        )
+        self.model.objects.create(
+            application_date=date_start,
+            first_response_date=date_start + timedelta(days=6),
+            appointment_date=None,
+        )
+        self.model.objects.create(
+            application_date=date_start,
+            first_response_date=date_start + timedelta(days=7),
+            appointment_date=None,
+        )
+        response = self.client.get(self.endpoint, format='json').json()
+
+        # 3 out of 5 objects. Percentiles are 1st and 3rd objects.
+        self.assertEqual(response['stats']['total']['count'], 3)
+        self.assertEqual(response['stats']['total']['percentile_20'], 6)
+        self.assertEqual(response['stats']['total']['percentile_80'], 10)
+
+    def test_stats_more_rows(self):
+        date_start = date.today()
+        for i in range(0, 50):
+            self.model.objects.create(
+                application_date=date_start,
+                first_response_date=date_start + timedelta(days=i),
+                appointment_date=date_start + timedelta(days=i * 2),
+            )
+        response = self.client.get(self.endpoint, format='json').json()
+
+        # 50 objects. Percentiles are 10th and 40th objects.
+        self.assertEqual(response['stats']['total']['count'], 50)
+        self.assertEqual(response['stats']['total']['percentile_20'], (10 - 1) * 2)
+        self.assertEqual(response['stats']['total']['percentile_80'], 40 * 2)
 
 
 class ReadableDateRangeTestCase(unittest.TestCase):

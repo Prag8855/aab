@@ -1,14 +1,16 @@
 from django.core.exceptions import ValidationError as DjangoValidationError
-from forms.models import PensionRefundQuestion, PensionRefundReminder, PensionRefundRequest, \
+from forms.models import CitizenshipFeedback, PensionRefundQuestion, PensionRefundReminder, PensionRefundRequest, \
     ResidencePermitFeedback, TaxIdRequestFeedbackReminder
 from forms.serializers import \
-    PensionRefundQuestionSerializer, PensionRefundReminderSerializer, PensionRefundRequestSerializer, \
-    PublicResidencePermitFeedbackSerializer, ResidencePermitFeedbackSerializer, TaxIdRequestFeedbackReminderSerializer
+    CitizenshipFeedbackSerializer, PensionRefundQuestionSerializer, PensionRefundReminderSerializer, \
+    PensionRefundRequestSerializer, PublicCitizenshipFeedbackSerializer, PublicResidencePermitFeedbackSerializer, \
+    ResidencePermitFeedbackSerializer, TaxIdRequestFeedbackReminderSerializer
 from forms.utils import readable_date_range, readable_duration
 from rest_framework import mixins, permissions, viewsets
 from rest_framework.exceptions import ValidationError as DRFValidationError
 from rest_framework.serializers import as_serializer_error
 from rest_framework.views import exception_handler as drf_exception_handler
+from typing import Any
 
 
 class MessagePermission(permissions.BasePermission):
@@ -58,21 +60,19 @@ class PensionRefundRequestViewSet(MessageViewSet):
 
 class ResidencePermitFeedbackViewSet(FeedbackViewSet):
     queryset = ResidencePermitFeedback.objects.all()
+    admin_serializer_class = ResidencePermitFeedbackSerializer
+    public_serializer_class = PublicResidencePermitFeedbackSerializer
+    filter_params = ['residence_permit_type', 'department']
 
     def get_serializer_class(self):
         if self.request.method == 'GET' and not self.request.user.is_authenticated:
-            return PublicResidencePermitFeedbackSerializer
-        return ResidencePermitFeedbackSerializer
+            return self.public_serializer_class
+        return self.admin_serializer_class
 
     def get_queryset(self):
-        """
-        Optionally restricts the returned purchases to a given user,
-        by filtering against a `username` query parameter in the URL.
-        """
-        params = ['residence_permit_type', 'department']
         filters = {
             param: self.request.query_params[param]
-            for param in params
+            for param in self.filter_params
             if param in self.request.query_params
         }
         if self.action == 'list':
@@ -80,16 +80,21 @@ class ResidencePermitFeedbackViewSet(FeedbackViewSet):
             filters['first_response_date__isnull'] = False
         return self.queryset.filter(**filters)
 
+    def get_stats(self, request) -> dict[str, Any]:
+        extra_filters = {
+            param: request.query_params.get(param)
+            for param in self.filter_params
+        }
+        return {
+            'first_response_date': ResidencePermitFeedback.objects.wait_time('application_date', 'first_response_date', extra_filters),
+            'appointment_date': ResidencePermitFeedback.objects.wait_time('first_response_date', 'appointment_date', extra_filters),
+            'pick_up_date': ResidencePermitFeedback.objects.wait_time('appointment_date', 'pick_up_date', extra_filters),
+            'total': ResidencePermitFeedback.objects.wait_time('application_date', 'pick_up_date', extra_filters),
+        }
+
     def list(self, request, *args, **kwargs):
         response = super().list(request, *args, **kwargs)
-        rpt = request.query_params.get('residence_permit_type')
-        d = request.query_params.get('department')
-        response.data['stats'] = {
-            'first_response_date': ResidencePermitFeedback.objects.wait_time('application_date', 'first_response_date', rpt, d),
-            'appointment_date': ResidencePermitFeedback.objects.wait_time('first_response_date', 'appointment_date', rpt, d),
-            'pick_up_date': ResidencePermitFeedback.objects.wait_time('appointment_date', 'pick_up_date', rpt, d),
-            'total': ResidencePermitFeedback.objects.wait_time('application_date', 'pick_up_date', rpt, d),
-        }
+        response.data['stats'] = self.get_stats(request)
 
         # Add human-readable range string like "1 week to 6 months"
         for stats_dict in response.data['stats'].values():
@@ -101,6 +106,20 @@ class ResidencePermitFeedbackViewSet(FeedbackViewSet):
                 stats_dict['readable_average'] = None
 
         return response
+
+
+class CitizenshipFeedbackViewSet(ResidencePermitFeedbackViewSet):
+    queryset = CitizenshipFeedback.objects.all()
+    admin_serializer_class = CitizenshipFeedbackSerializer
+    public_serializer_class = PublicCitizenshipFeedbackSerializer
+    filter_params = []
+
+    def get_stats(self, request):
+        return {
+            'first_response_date': CitizenshipFeedback.objects.wait_time('application_date', 'first_response_date', {}),
+            'appointment_date': CitizenshipFeedback.objects.wait_time('first_response_date', 'appointment_date', {}),
+            'total': CitizenshipFeedback.objects.wait_time('application_date', 'appointment_date', {}),
+        }
 
 
 class TaxIdRequestFeedbackReminderViewSet(MessageViewSet):

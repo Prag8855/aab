@@ -7,7 +7,7 @@ from django.template.loader import render_to_string
 from django.utils import timezone
 from django_countries.fields import CountryField
 from forms.utils import random_key, validate_email
-from typing import List
+from typing import Any, List
 import logging
 
 
@@ -74,6 +74,14 @@ class ResidencePermitTypes(models.TextChoices):
     PERMANENT_RESIDENCE = 'PERMANENT_RESIDENCE', "Permanent residence"
     STUDENT_VISA = 'STUDENT_VISA', "Student visa"
     WORK_VISA = 'WORK_VISA', "Work visa"
+
+
+class HealthInsuranceTypes(models.TextChoices):
+    PUBLIC = 'PUBLIC', "Public health insurance"
+    PRIVATE = 'PRIVATE', "Private health insurance"
+    EXPAT = 'EXPAT', "Expat health insurance"
+    OTHER = 'OTHER', "Other"
+    UNKNOWN = '', "Unknown"
 
 
 class Departments(models.TextChoices):
@@ -201,20 +209,25 @@ def in_8_weeks():
     return timezone.now() + timedelta(weeks=8)
 
 
-class ResidencePermitFeedbackManager(models.Manager):
-    def wait_time(self, date_column_start, date_column_end, residence_permit_type, department):
-        residence_permit_type_filter = "AND residence_permit_type=%(residence_permit_type)s" if residence_permit_type else ''
-        department_filter = "AND department=%(department)s" if department else ''
+class FeedbackManager(models.Manager):
+    def wait_time(self, date_column_start: str, date_column_end: str, extra_filters: dict[str, str]) -> dict[str, Any]:
+        where_extras = ""
+        for column_name, value in extra_filters.items():
+            where_extras += f" AND {column_name}=%({column_name})s" if value else ''
+
+        db_table = connection.ops.quote_name(self.model._meta.db_table)
+        column_start = connection.ops.quote_name(date_column_start)
+        column_end = connection.ops.quote_name(date_column_end)
+
         percentiles_query = f"""
             WITH time_diffs AS (
                 SELECT
-                    CAST( (julianday({date_column_end}) - julianday({date_column_start})) AS INT) AS time_diff
-                FROM {self.model._meta.db_table}
+                    CAST( (julianday({column_end}) - julianday({column_start})) AS INT) AS time_diff
+                FROM {db_table}
                 WHERE
-                    {date_column_end} IS NOT NULL
-                    AND {date_column_start} IS NOT NULL
-                    {residence_permit_type_filter}
-                    {department_filter}
+                    {column_end} IS NOT NULL
+                    AND {column_start} IS NOT NULL
+                    {where_extras}
                 ORDER BY time_diff ASC
             ),
             row_count AS (
@@ -243,10 +256,12 @@ class ResidencePermitFeedbackManager(models.Manager):
                 rownum >= row_20
                 AND rownum <= row_80
         """
+
         with connection.cursor() as cursor:
             cursor.execute(percentiles_query, {
-                'residence_permit_type': residence_permit_type,
-                'department': department,
+                'date_column_start': date_column_start,
+                'date_column_end': date_column_end,
+                **extra_filters,
             })
             results = list(zip(*cursor.fetchall()))
         if results and len(results[0]) >= 2:
@@ -279,7 +294,10 @@ class ResidencePermitFeedback(Feedback):
     department = models.CharField(max_length=30, choices=Departments)
     notes = models.TextField(blank=True)
 
-    objects = ResidencePermitFeedbackManager()
+    health_insurance_type = models.CharField(max_length=20, blank=True, choices=HealthInsuranceTypes, default=HealthInsuranceTypes.UNKNOWN)
+    health_insurance_notes = models.TextField(blank=True)
+
+    objects = FeedbackManager()
 
     def clean(self):
         if self.first_response_date and self.application_date > self.first_response_date:
@@ -321,6 +339,53 @@ class ResidencePermitFeedbackReminder(RecipientIsSenderMixin, EmailMixin, Schedu
 
     subject = "Did you get your residence permit?"
     template = 'residence-permit-feedback-reminder.html'
+
+    class Meta(ScheduledMessage.Meta):
+        pass
+
+
+class CitizenshipFeedback(Feedback):
+    application_date = models.DateField()
+    first_response_date = models.DateField(null=True, blank=True)
+    appointment_date = models.DateField(null=True, blank=True)
+
+    notes = models.TextField(blank=True)
+
+    objects = FeedbackManager()
+
+    def clean(self):
+        if self.first_response_date and self.application_date > self.first_response_date:
+            raise ValidationError("application_date can't be after first_response_date")
+        if self.appointment_date and self.first_response_date > self.appointment_date:
+            raise ValidationError("first_response_date can't be after appointment_date")
+
+    def save(self, *args, **kwargs):
+        """
+        Schedule feedback reminders in the future
+        """
+        self.feedback_reminders.all().delete()
+
+        if self.email and self.appointment_date:
+            self.email = filler_email
+
+        super().save(*args, **kwargs)
+
+        # No feedback email needed if the feedback is complete
+        if self.email and not self.appointment_date:
+            self.feedback_reminders.create(
+                email=self.email,
+                delivery_date=timezone.now() + relativedelta(months=3)
+            )
+
+    class Meta(Feedback.Meta):
+        pass
+
+
+class CitizenshipFeedbackReminder(RecipientIsSenderMixin, EmailMixin, ScheduledMessage):
+    feedback = models.ForeignKey(CitizenshipFeedback, related_name='feedback_reminders', on_delete=models.CASCADE)
+
+    subject = "Did you get your German citizenship?"
+    template = 'citizenship-feedback-reminder.html'
 
     class Meta(ScheduledMessage.Meta):
         pass
