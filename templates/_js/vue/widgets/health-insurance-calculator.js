@@ -75,9 +75,7 @@ Vue.component('health-insurance-calculator', {
 					'thank-you',
 					'error',
 				],
-			inputsToFocus: {
-				questions: () => this.$refs.ageInput.$el,
-			},
+			inputsToFocus: {},
 
 			pflegeversicherung,
 			healthInsurance,
