@@ -189,7 +189,7 @@ Vue.component('feedback-citizenship', {
 								Your feedback helps others plan their citizenship application.
 							</p>
 							<p>
-								<strong><a class="internal-link" target="_blank" href="/guides/auslanderbehorde-wait-times">See other people's feedback</a></strong>
+								<strong><a class="internal-link" target="_blank" href="/guides/citizenship-wait-times">See other people's feedback</a></strong>
 							</p>
 						</div>
 					</div>
