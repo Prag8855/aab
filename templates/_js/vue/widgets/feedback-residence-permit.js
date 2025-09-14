@@ -1,6 +1,5 @@
 {% include '_js/vue.js' %}
 {% include '_js/vue/components/collapsible.js' %}
-{% include '_js/vue/components/country-input.js' %}
 {% include '_js/vue/components/date-input.js' %}
 {% include '_js/vue/components/email-input.js' %}
 {% include '_js/vue/mixins/multiStageMixin.js' %}
