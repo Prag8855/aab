@@ -11,7 +11,6 @@ Vue.component('feedback-citizenship', {
 	mixins: [userDefaultsMixin, uniqueIdsMixin, multiStageMixin, trackedStagesMixin],
 	data() {
 		return {
-			apiEndpoint: '/api/forms/citizenship-feedback',
 			isLoading: false,
 
 			citizenshipModificationKey: userDefaults.empty,
@@ -37,6 +36,7 @@ Vue.component('feedback-citizenship', {
 				},
 			},
 
+			trackAs: 'Feedback (citizenship)',
 			stages: [
 				'start',
 				'email',
@@ -78,8 +78,11 @@ Vue.component('feedback-citizenship', {
 		}
 	},
 	computed: {
-		trackAs(){
-			return `Feedback (citizenship)`;
+		apiEndpoint(){
+			if(this.citizenshipModificationKey){
+				return `/api/forms/citizenship-feedback/${this.citizenshipModificationKey}`
+			}
+			return '/api/forms/citizenship-feedback';
 		},
 		ariaLabel(){
 			return `Feedback form: Citizenship processing time`;
@@ -144,7 +147,7 @@ Vue.component('feedback-citizenship', {
 					const responseJson = await response.json();
 					
 					// No need to modify complete feedback, so the key gets cleared
-					this.citizenshipModificationKey = this.feedbackComplete ? null : `${responseJson.modification_key}~citizenship`;
+					this.citizenshipModificationKey = this.feedbackComplete ? null : responseJson.modification_key;
 				}
 				else{
 					this.goToStage('error');
