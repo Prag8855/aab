@@ -3180,6 +3180,9 @@ collapsible, letter-generator, feedback-residence-permit, health-insurance-calcu
                 position: relative;
                 left: calc(var(--w-checkbox) / -2);
                 border-radius: 50%;
+                background-color: var(--c-bg-input);  // Undo the disabled input styles
+                border-color: var(--c-border-input);
+
                 @include not-print{
                     &:checked{
                         border-color: transparent;
