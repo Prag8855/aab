@@ -8,6 +8,7 @@ Date_created: 2021-06-08
 Related_guides:
     guides/immigration-office.md
     guides/auslanderbehorde-wait-times.md
+    guides/citizenship-wait-times.md
     guides/residence-permit.md
 ---
 
