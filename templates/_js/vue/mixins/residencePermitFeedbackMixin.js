@@ -96,19 +96,6 @@ const residencePermitFeedbackMixin = {
 			};
 		}
 	},
-	methods: {
-		formatLongDate(date){
-			if(date) {
-				const dateObj = (date instanceof Date) ? date : dateFromString(date);
-				return dateObj.toLocaleDateString("en-US", {
-					year: 'numeric',
-					month: 'long',
-					day: 'numeric',
-				});
-			}
-			return '';
-		}
-	},
 	watch: {
 		residencePermitType(newType){
 			// Auto select department if it's the only available option
