@@ -352,14 +352,14 @@ After you arrive in Germany, [register your address](/guides/anmeldung-in-englis
 
 Your National Visa is only valid for up to 12 months.[^36] Before it expires, you must convert it into a residence permit at the *[[Ausländerbehörde]]*.
 
-In Berlin, you must convert your National Visa **8 weeks before it expires**, not sooner.[^26]
+In Berlin, you must convert your National Visa **6 weeks before it expires**, not sooner.[^26]
 
 If you will leave Germany before your National Visa expires, you don't need to convert it.[^31] For example, if you have a 12 month [[National Visa]] for a 9 month internship, you don't need to convert it into a residence permit.
 
 To convert your National Visa into a residence permit:
 
 1. **[Contact the Ausländerbehörde](/guides/immigration-office#how-to-contact-the-auslanderbehorde)**  
-    Write to the *Ausländerbehörde* around 8 weeks before your National Visa expires. They take a really long time to reply. When they reply, they will give you an appointment. [If your National Visa expires](#if-your-visa-or-residence-permit-expires), you can stay in Germany and keep working or studying.
+    Write to the *Ausländerbehörde* around 6 weeks before your National Visa expires. They take a really long time to reply. When they reply, they will give you an appointment. [If your National Visa expires](#if-your-visa-or-residence-permit-expires), you can stay in Germany and keep working or studying.
 2. **Go to your appointment**  
     During the appointment, they take your fingerprints for your freelance visa. It takes around 15 minutes. You get a second appointment [around 8 weeks later](/guides/auslanderbehorde-wait-times) to pick up your residence permit.
 3. **Pick up your residence permit**  
@@ -477,7 +477,7 @@ If you leave Germany with an expired residence permit, they might not let you re
 
 ## Need help?
 
-An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocation consultant](/guides/relocation-agency-in-berlin) can take care of everything. It costs €500 to €2,000.[^14] Your employer might pay for it, or hire someone to help you. Some organisations can also help you for free.
+An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocation consultant](/guides/relocation-agency-in-berlin) can take care of your residence permit application. It costs €500 to €2,000.[^14] Your employer might pay for it, or hire someone to help you. Some organisations can also help you for free.
 
 **[Where to ask immigration questions ➞](/guides/questions-about-berlin#immigration-questions)**
 
