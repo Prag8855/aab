@@ -103,7 +103,7 @@ If you are self-employed during your studies, you can keep your student health i
 
 ## For a language course visa
 
-To apply for a language course visa, you only need [expat health insurance](/glossary/Expat%20health%20insurance). It must cover you from the day you arrive in Germany. I recommend [Feather](/out/feather-expats), but there are [many other options](/guides/german-health-insurance#best-expat-health-insurance).
+To apply for a language course visa, you only need [expat health insurance](/glossary/Expat%20health%20insurance). It must cover you from the day you arrive in Germany. I recommend [Feather](/out/feather-students), but there are [many other options](/guides/german-health-insurance#best-expat-health-insurance).
 
 You don't need long-term health insurance.[^11] Usually, you can't get [public health insurance](/glossary/gesetzliche%20Krankenversicherung).
 
@@ -111,7 +111,7 @@ You don't need long-term health insurance.[^11] Usually, you can't get [public h
 
 ## For a study preparation visa
 
-To apply for a study preparation visa, you only need [expat health insurance](/glossary/Expat%20health%20insurance). It must cover you from the day you arrive in Germany. I recommend [Feather](/out/feather-expats), but there are [many other options](/guides/german-health-insurance#best-expat-health-insurance).
+To apply for a study preparation visa, you only need [expat health insurance](/glossary/Expat%20health%20insurance). It must cover you from the day you arrive in Germany. I recommend [Feather](/out/feather-students), but there are [many other options](/guides/german-health-insurance#best-expat-health-insurance).
 
 You don't need long-term health insurance.[^11] You can switch to [public health insurance](/glossary/gesetzliche%20Krankenversicherung) when you start university.
 
