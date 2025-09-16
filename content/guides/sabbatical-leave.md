@@ -33,7 +33,7 @@ Disadvantages:
 
 ### How to start a working time account
 
-Talk to your HR department. They will tell you if they have such a program at your company. Each company has different rules. Most companies do not offer working time accounts.
+Talk to your human resources department. They will tell you if they have such a program at your company. Each company has different rules. Most companies do not offer working time accounts.
 
 ## Option 2: Unpaid leave
 
@@ -66,7 +66,7 @@ Disadvantages:
 
 1. Read your work contract. You might have the *right* to unpaid leave.
 2. Look if other employees have taken unpaid leave. You have the right to the same treatment as your coworkers. If they took unpaid leave, you can do it too.[^4]
-3. Talk to your manager and your HR department. You must plan this together.
+3. Talk to your manager and your human resources department. You must plan this together.
 
 ## Option 3: Quit your job
 

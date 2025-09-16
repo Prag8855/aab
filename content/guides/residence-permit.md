@@ -45,9 +45,9 @@ If you have a job offer:
 - **[Work visa](/glossary/Work%20Visa)** - [How to apply](/guides/work-visa)  
     For working in Germany. You need a job offer. You might need previous professional training.
 - **[[Blue Card]]** - [How to apply](/guides/blue-card)  
-    For working in Germany. You need a job offer. You need a university degree or IT specialist training. There is a minimum salary requirement.
+    For working in Germany. You need a job offer. You need a university degree, or professional training for one of the [shortage occupations](https://www.make-it-in-germany.com/pdf-engpassberufe-en).[^49] There is a minimum salary requirement.
 - **[[Family reunion visa]]**  
-    For spouses and children of German residents. You can work for any employer. There is no income or education requirement.[^19]
+    For parents, spouses and children of German residents.[^57] You can work for any employer. There is no income or education requirement.[^19]
 - **[[Working Holiday Visa]]**  
     For citizens of Argentina, Australia, Brazil, Chile, Hong Kong, Israel, Japan, South Korea, New Zealand, Taiwan and Uruguay. You must be between 18 and 30 years old. The Working Holiday Visa allows you to work in Germany. It's valid for up to 1 year. It's easier to get than the work visa or Blue Card.
 - **[[Youth Mobility Visa]]**  
@@ -111,7 +111,7 @@ Other residence permits sometimes allow self-employment:
 There are two ways to get a residence permit:[^12]
 
 - **[Apply in Germany](#how-to-apply-in-germany)**  
-    Come to Germany, and apply for a residence permit at your local *[[Ausländerbehörde]]*. You must wait for your residence permit before you work or study.
+    Come to Germany, and apply for a residence permit at your local *[[Ausländerbehörde]]*. You must wait for your residence permit before you work. You can start university before you get your residence permit.[^46]
 - or **[apply in your home country](#how-to-apply-in-your-country)**  
     Apply for a [[National Visa]] at the German embassy or consulate in your country, come to Germany, and convert your National Visa to a residence permit at the *[[Ausländerbehörde]]*. You can start working or studying as soon as you get your National Visa.
 
@@ -527,8 +527,10 @@ An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocatio
 [^43]: [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/artikel.1144334.en.php#:~:text=your%20request%20will%20be%20classified%20as%20an%20application), [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/#:~:text=My%20residence%20title%20will%20expire), [§81 Abs. 3 AufenthG](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p1732), [Reddit.com](https://old.reddit.com/r/berlin/comments/py3wyx/another_ausl%C3%A4nderbeh%C3%B6rde_question/herspj6/)
 [^44]: [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/artikel.1144334.en.php#:~:text=The%20prerequisite%20is%20that%20you%20have%20sent%20your%20request) (December 2024)
 [^45]: [VAB A81.5a.2](/out/vab) (December 2024)
+[^46]: [Mirko Vorreuter](https://www.linkedin.com/in/mirko-vorreuter-39b6a322a/) (September 2025)
 [^47]: Multiple relocation consultants (December 2024)
 [^48]: [Berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1049069.en.php#:~:text=of%20Schengen%20visa-,can%20it%20be%20converted%20into%20a%20residence%20permit%3F,-A%20Schengen%20visa) (December 2024), [se-legal.de](https://se-legal.de/immigration-lawyer-germany/schengen-visa-germany-lawyers/?lang=en#Extending-a-Schengen-Visa) (December 2024), [se-legal.de](https://se-legal.de/extending-stay-in-germany-schengen-visa-to-long-term-residence-permit/?lang=en#:~:text=Blue%20Card%20in-,germany,-A%20short-term) (December 2024), [Auswärtiges Amt](https://www.auswaertiges-amt.de/en/visa-service/buergerservice/faq/23-verlaengerung/606734) (December 2024), [Fem.os](/images/fiktionsbescheinigung-travel-2021-09-17.png) (September 2019), [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/#:~:text=I%20have%20a%20Schengen%20visa) (December 2024)
+[^49]: [Mirko Vorreuter](https://www.linkedin.com/in/mirko-vorreuter-39b6a322a/) (September 2025)
 [^50]: [§41 Abs. 1 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__41.html)
 [^51]: [§41 Abs. 3 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__41.html)
 [^52]: [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/artikel.1144334.en.php#:~:text=The%20prerequisite%20is%20that%20you%20have%20sent%20your%20request) (December 2024)
@@ -536,3 +538,4 @@ An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocatio
 [^54]: [Facebook](https://www.facebook.com/groups/226825394858771/posts/1661970501344246/) (November 2024)
 [^55]: Kathleen Parker at [Red Tape Translation](https://redtapetranslation.com) (December 2023)
 [^56]: Kathleen Parker at [Red Tape Translation](https://redtapetranslation.com) (July 2023), Sebastian Hoffmann at [Touring Artists](https://www.touring-artists.info/) (July 2023), Emily Archer at [Archer Relocation](https://archer-relocation.com/) (November 2023)
+[^57]: [§30 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__30.html), [§32 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__32.html) (children), [§36 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__36.html) (parents)

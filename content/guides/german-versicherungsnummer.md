@@ -79,7 +79,7 @@ There are many ways to do this:
 - **Ask your health insurance broker**  
     If you get your health insurance from a [broker](/glossary/Makler), they can also help you apply for the *Sozialversicherungsnummer*.
 - **Ask your employer**  
-    Your employer can help you apply for a *Sozialversicherungsnummer*.[^9] Ask your HR department.
+    Your employer can help you apply for a *Sozialversicherungsnummer*.[^9] Ask your human resources department.
 
 1 to 6 weeks later, you will get a letter with your *Sozialversicherungsnummer*.[^10] Most of the time, it takes less than 2 weeks. If you go in person, you will get it instantly.
 
@@ -107,7 +107,7 @@ Some *[[Deutsche Rentenversicherung]]* forms ask for other numbers:
 - **Kennzeichen** (also called *Arbeitsgruppe* or *Team*)  
     4 digits. The department or team that is currently in charge of your pension account. If your case goes to another department, this number will change.
 
-Those numbers help the *Deutsche Rentenversicherung* deliver your messages to the right department. You can find those numbers on the letters they send you.
+Those numbers help the *Deutsche Rentenversicherung* deliver your messages to the correct department. You can find those numbers on the letters they send you.
 
 If you don't know those numbers, enter your *Versicherungsnummer* and leave those fields empty. For example, if you [apply for a pension refund](/guides/pension-payments-refund), you only need the *Kennzeichen* (if you have them).
 
