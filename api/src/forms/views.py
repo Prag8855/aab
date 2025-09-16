@@ -112,7 +112,7 @@ class CitizenshipFeedbackViewSet(ResidencePermitFeedbackViewSet):
     queryset = CitizenshipFeedback.objects.all()
     admin_serializer_class = CitizenshipFeedbackSerializer
     public_serializer_class = PublicCitizenshipFeedbackSerializer
-    filter_params = []
+    filter_params = ['department']
 
     def get_stats(self, request):
         return {

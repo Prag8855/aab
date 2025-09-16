@@ -483,13 +483,54 @@ class CitizenshipFeedbackTestCase(FeedbackEndpointMixin, APITestCase):
         'application_date': '2023-01-01',
         'first_response_date': '2023-02-02',
         'appointment_date': None,
+        'department': 'S2',
         'notes': 'Just some notes',
     }
+
+    def test_list_filter(self):
+        # Filter the list with querystring params
+        s1_citizenship = {
+            'email': 'contact@nicolasbouliane.com',
+            'application_date': '2023-01-01',
+            'first_response_date': '2023-02-02',
+            'appointment_date': None,
+            'department': 'S1',
+            'notes': 'Just some notes',
+        }
+        s1_citizenship_2 = {
+            'email': 'contact@nicolasbouliane.com',
+            'application_date': '2023-01-01',
+            'first_response_date': '2023-02-02',
+            'appointment_date': None,
+            'department': 'S1',
+            'notes': 'Just some notes',
+        }
+        s3_citizenship = {
+            'email': 'contact@nicolasbouliane.com',
+            'application_date': '2023-01-01',
+            'first_response_date': '2023-02-02',
+            'appointment_date': None,
+            'department': 'S3',
+            'notes': 'Just some notes',
+        }
+        self.model.objects.create(**s1_citizenship)
+        self.model.objects.create(**s1_citizenship_2)
+        self.model.objects.create(**s3_citizenship)
+
+        response = self.client.get(f'{self.endpoint}?department=S1')
+        self.assertEqual(response.json()['count'], 2)
+        self.assertEqual(response.json()['results'][0]['department'], 'S1')
+        self.assertEqual(response.json()['results'][1]['department'], 'S1')
+
+        response = self.client.get(f'{self.endpoint}?department=S3')
+        self.assertEqual(response.json()['count'], 1)
+        self.assertEqual(response.json()['results'][0]['department'], 'S3')
 
     def test_date_order_400(self):
         request = {
             'application_date': '2023-02-02',
             'first_response_date': '2023-01-01',  # Smaller than application_date
+            'department': 'S2',
         }
         response = self.client.post(self.endpoint, request, format='json')
         self.assertEqual(response.status_code, 400, response.json())
@@ -498,6 +539,7 @@ class CitizenshipFeedbackTestCase(FeedbackEndpointMixin, APITestCase):
             'application_date': '2023-02-02',
             'first_response_date': '2023-03-03',
             'appointment_date': '2023-02-02',  # Smaller than first_response_date
+            'department': 'S2',
         }
         response = self.client.post(self.endpoint, request, format='json')
         self.assertEqual(response.status_code, 400, response.json())
@@ -533,26 +575,31 @@ class CitizenshipFeedbackTestCase(FeedbackEndpointMixin, APITestCase):
             application_date=date_start,
             first_response_date=date_start + timedelta(days=3),
             appointment_date=date_start + timedelta(days=6),
+            department='S2',
         )
         self.model.objects.create(
             application_date=date_start,
             first_response_date=date_start + timedelta(days=4),
             appointment_date=date_start + timedelta(days=8),
+            department='S2',
         )
         self.model.objects.create(
             application_date=date_start,
             first_response_date=date_start + timedelta(days=5),
             appointment_date=date_start + timedelta(days=10),
+            department='S2',
         )
         self.model.objects.create(
             application_date=date_start,
             first_response_date=date_start + timedelta(days=6),
             appointment_date=None,
+            department='S2',
         )
         self.model.objects.create(
             application_date=date_start,
             first_response_date=date_start + timedelta(days=7),
             appointment_date=None,
+            department='S2',
         )
         response = self.client.get(self.endpoint, format='json').json()
 
@@ -568,6 +615,7 @@ class CitizenshipFeedbackTestCase(FeedbackEndpointMixin, APITestCase):
                 application_date=date_start,
                 first_response_date=date_start + timedelta(days=i),
                 appointment_date=date_start + timedelta(days=i * 2),
+                department='S2',
             )
         response = self.client.get(self.endpoint, format='json').json()
 

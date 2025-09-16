@@ -84,7 +84,7 @@ class HealthInsuranceTypes(models.TextChoices):
     UNKNOWN = '', "Unknown"
 
 
-class Departments(models.TextChoices):
+class ResidencePermitDepartments(models.TextChoices):
     A1_A5 = 'A1_A5', "A1, A5"
     A2_A3_A4 = 'A2_A3_A4', "A2, A3, A4"
     B1_B2_B3_B4 = 'B1_B2_B3_B4', "B1, B2, B3, B4"
@@ -95,6 +95,15 @@ class Departments(models.TextChoices):
     E4 = 'E4', "E4"
     E5 = 'E5', "E5"
     E6 = 'E6', "E6"
+
+
+class CitizenshipDepartments(models.TextChoices):
+    S1 = 'S1', "S1"
+    S2 = 'S2', "S2"
+    S3 = 'S3', "S3"
+    S4 = 'S4', "S4"
+    S5 = 'S5', "S5"
+    S6 = 'S6', "S6"
 
 
 class ScheduledMessage(models.Model):
@@ -291,7 +300,7 @@ class ResidencePermitFeedback(Feedback):
     appointment_date = models.DateField(null=True, blank=True)
     pick_up_date = models.DateField(null=True, blank=True)
 
-    department = models.CharField(max_length=30, choices=Departments)
+    department = models.CharField(max_length=30, choices=ResidencePermitDepartments)
     notes = models.TextField(blank=True)
 
     health_insurance_type = models.CharField(max_length=20, blank=True, choices=HealthInsuranceTypes, default=HealthInsuranceTypes.UNKNOWN)
@@ -331,7 +340,7 @@ class ResidencePermitFeedback(Feedback):
                 )
 
     class Meta(Feedback.Meta):
-        pass
+        verbose_name_plural = "Residence permit feedback"
 
 
 class ResidencePermitFeedbackReminder(RecipientIsSenderMixin, EmailMixin, ScheduledMessage):
@@ -349,6 +358,7 @@ class CitizenshipFeedback(Feedback):
     first_response_date = models.DateField(null=True, blank=True)
     appointment_date = models.DateField(null=True, blank=True)
 
+    department = models.CharField(max_length=30, choices=CitizenshipDepartments)
     notes = models.TextField(blank=True)
 
     objects = FeedbackManager()
@@ -378,7 +388,7 @@ class CitizenshipFeedback(Feedback):
             )
 
     class Meta(Feedback.Meta):
-        pass
+        verbose_name_plural = "Citizenship feedback"
 
 
 class CitizenshipFeedbackReminder(RecipientIsSenderMixin, EmailMixin, ScheduledMessage):
