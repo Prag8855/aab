@@ -13,19 +13,34 @@
 			el: el,
 			data() {
 				return {
-					apiEndpoint: '/api/forms/citizenship-feedback.json',
+					department: null,
 					isLoading: true,
 					resultPages: [], // An array of arrays. First a list of pages, then items on that page
 					page: null,
 					resultCount: 0,
 					itemsPerPage: 10,
-					stats: {}
+					stats: {},
+					departments: {
+						S1: 'S1 — Iran, Syria (last names from A to E)',
+						S2: 'S2 — Irak, Syria (last names from F to Z)',
+						S3: 'S3 — Asia',
+						S4: 'S4 — Africa, America, Australia, Oceania',
+						S5: 'S5 — Poland, Turkey, Ukraine',
+						S6: 'S6 — Europe',
+					},
 				};
 			},
 			async mounted(){
 				this.loadPage(1, false);
 			},
 			computed: {
+				apiEndpoint(){
+					const querystring = new URLSearchParams({ page: this.page });
+					if(this.department){
+						querystring.append('department', this.department);
+					}
+					return '/api/forms/citizenship-feedback.json?' + querystring.toString();
+				},
 				pageCount(){
 					return Math.ceil(this.resultCount / this.itemsPerPage);
 				},
@@ -125,6 +140,12 @@
 				isInTheFuture(date){
 					return date > (new Date());
 				}
+			},
+			watch: {
+				department(){
+					this.resultPages = [];
+					this.loadPage(1, false);
+				},
 			},
 		})
 	);

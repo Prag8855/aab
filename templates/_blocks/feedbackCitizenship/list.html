@@ -1,13 +1,16 @@
 {% raw %}
 <p>These are reports from people who applied for German citizenship in Berlin. <a href="#share-your-experience">Share your experience</a>; it's really helpful.</p>
 
+{% endraw %}{% include "_blocks/feedbackCitizenship/filters.html"%}{% raw %}
+
 <div class="loading" v-if="isLoading">Loading feedback...</div>
 <ul class="feedback-list" v-show="!isLoading">
 	<li v-cloak v-for="result in resultsPage" v-if="!isLoading" :key="result.modification_date">
 		<button class="button" v-if="result.modification_key" @click="deleteResult(result.modification_key)">Delete</button>
 		<h3>
 			Citizenship
-			<template v-if="result.pick_up_date">in {{ formatTimeDelta(result.application_date, result.pick_up_date) }}</template>
+			<template v-if="result.appointment_date">in {{ formatTimeDelta(result.application_date, result.appointment_date) }}</template>
+			<span class="department" v-text="(departments[result.department] || '').split(' — ')[0]"></span>
 		</h3>
 		<div class="steps">
 			<div class="step completed">

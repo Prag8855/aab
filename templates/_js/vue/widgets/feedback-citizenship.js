@@ -36,6 +36,15 @@ Vue.component('feedback-citizenship', {
 				},
 			},
 
+			departments: {
+				S1: 'S1 — Iran, Syria (last names from A to E)',
+				S2: 'S2 — Irak, Syria (last names from F to Z)',
+				S3: 'S3 — Asia',
+				S4: 'S4 — Africa, America, Australia, Oceania',
+				S5: 'S5 — Poland, Turkey, Ukraine',
+				S6: 'S6 — Europe',
+			},
+
 			trackAs: 'Feedback (citizenship)',
 			stages: [
 				'start',
@@ -199,6 +208,16 @@ Vue.component('feedback-citizenship', {
 				</template>
 				<template v-if="showRestOfForm">
 					<hr>
+					<div class="form-group">
+						<label :for="uid('department')">Department</label>
+						<select :id="uid('department')" v-model="department" :class="{placeholder: !department}" required>
+							<option disabled hidden default :value="null">Choose a department</option>
+							<option v-for="(name, key) in departments" :value="key" :key="key" v-text="name"></option>
+						</select>
+						<span class="input-instructions">
+							<a target="_blank" href="/guides/immigration-office#departments">Find the correct department.</a> Don't choose a random department.
+						</span>
+					</div>
 					<div class="form-group optional">
 						<label :for="uid('notes')">Notes and advice</label>
 						<textarea placeholder=" " v-model="notes" :id="uid('notes')"></textarea>

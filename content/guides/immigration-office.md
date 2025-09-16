@@ -86,8 +86,8 @@ The Berlin immigration office has multiple departments. Send your application to
     For skilled workers and their family. They handle Blue Cards and work visas. They work faster than other departments.
 - **E1, E2, E3, E4, E5, E6**  
     For everyone else. They handle permanent residence, freelance visas, and everything else. Choose the department that is responsible for your country.
-- **S1, S2, S3, S4, S5, S6**  
-    For citizenship applications. Choose the department that is responsible for your country.
+- **[S1, S2, S3, S4, S5, S6](/out/auslanderbehorde-departments-citizenship)**  
+    For citizenship applications. [Choose the department](/out/auslanderbehorde-departments-citizenship) that is responsible for your country.
 
 **Note:** The [immigration office](/glossary/Ausländerbehörde) [departments](/guides/immigration-office#departments) will change in October.{{ fail_on('2025-10-01') }} The immigration office might ask you to send additional documents to another department.[^15]
 
