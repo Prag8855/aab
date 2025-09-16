@@ -15,6 +15,7 @@ Vue.component('feedback-citizenship', {
 
 			citizenshipModificationKey: userDefaults.empty,
 
+			department: null,
 			notes: '',
 			email: userDefaults.empty,
 
@@ -147,6 +148,7 @@ Vue.component('feedback-citizenship', {
 							email: emailAddress,
 							first_response_date: (this.steps.response.completed ? this.steps.response.date : null),
 							notes: this.notes,
+							department: this.department,
 						}),
 					}
 				);
