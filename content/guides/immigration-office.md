@@ -50,7 +50,7 @@ To contact the *Ausländerbehörde*, or to apply for a residence permit that is 
 4. **Send your message**  
     If you get an error (*Anti-Spam-Schutz*), it's because you took too long to send your message. Click the back button, and send it again. After you send the message, click *Zusammenfassung ausdrucken* to print the confirmation message. This is a proof of your residence permit application. You might not get a confirmation email.[^8]
 5. **Wait for a response**  
-    They reply [very slowly](/guides/auslanderbehorde-wait-times). If you wait more than 3 months, you can [sue the *Ausländerbehörde*](#sue-the-auslanderbehorde). [If your visa or resident permit expires](/guides/residence-permit#if-your-visa-or-residence-permit-expires), it's usually extended until the *Ausländerbehörde* processes your application. Sometimes, you can't reply to their emails directly, so you must use the contact form again.
+    They reply [very slowly](/guides/auslanderbehorde-wait-times). If you wait more than 3 months, you can [sue the *Ausländerbehörde*](#sue-the-auslanderbehorde).[^17] [If your visa or resident permit expires](/guides/residence-permit#if-your-visa-or-residence-permit-expires), it's usually extended until the *Ausländerbehörde* processes your application. Sometimes, you can't reply to their emails directly, so you must use the contact form again.
 
 **[What happens next? ➞](/guides/residence-permit#wait)**
 
@@ -105,7 +105,9 @@ It usually takes a few months to get a residence permit in Berlin. The wait time
 
 **[Ausländerbehörde wait times ➞](/guides/auslanderbehorde-wait-times)**
 
-Usually, you can't work or study before you get your residence permit. It might be cheaper to apply in your home country. You can move to Berlin after you get permission to work or study. You don't need to wait in Berlin without an income.
+Usually, you can't work before you get your residence permit. It might be cheaper to apply in your home country. You can move to Berlin after you get permission to work. You don't need to wait in Berlin without an income.
+
+You don't need a residence permit to start studying. You can start studying as soon as you arrive in Germany.[^18]
 
 **[How to apply in your country ➞](/guides/residence-permit#how-to-apply-in-your-country)**
 
@@ -129,7 +131,7 @@ After you paid, you can go home. You don't need to go back to your case worker. 
 
 ## Sue the Ausländerbehörde
 
-The *Ausländerbehörde* has 3 months to process your [residence permit](/glossary/Aufenthaltstitel) application. If it takes longer, you can sue them.[^11] This costs a few hundred euros.
+The *Ausländerbehörde* has 3 months to process your [residence permit](/glossary/Aufenthaltstitel) application. If it takes longer, you can sue them.[^11] This costs between €700 and €3000.[^16]
 
 First, your lawyer sends a scary letter to the *Ausländerbehörde*. The *Ausländerbehörde* wants to avoid a lawsuit, so they process your application faster.
 
@@ -164,3 +166,6 @@ The immigration office does not give immigration advice. An [immigration lawyer]
 [^13]: [Fiona Macdonald, immigration lawyer](https://en.fmr-legal.de/general-8-1) (December 2024)
 [^14]: [Fiona Macdonald, immigration lawyer](https://en.fmr-legal.de/general-8-1) (December 2023)
 [^15]: [Oliver Redsch](https://icb-relocation.de/dr-oliver-redsch) (July 2025), reader feedback (July 2025)
+[^16]: [Fiona Macdonald](https://en.fmr-legal.de/general-8-1) (December 2023), [Mirko Vorreuter](https://visaguard.berlin) (September 2025)
+[^17]: [§81 Abs. 5 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__81.html)
+[^18]: [Mirko Vorreuter](https://visaguard.berlin) (September 2025)

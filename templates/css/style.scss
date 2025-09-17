@@ -2255,6 +2255,22 @@ collapsible, letter-generator, feedback-residence-permit, health-insurance-calcu
             margin: var(--l-relative) auto;
         }
     }
+
+    .benefits{
+        display: grid;
+        gap: var(--l-relative);
+
+        svg{
+            color: var(--c-text-heading);
+            margin-top: var(--xs); // Align with the top of the text
+        }
+
+        li{
+            display: grid;
+            grid-template-columns: auto 1fr;
+            gap: var(--l-relative);
+        }
+    }
 }
 
 .collapsible{

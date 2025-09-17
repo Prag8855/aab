@@ -11,7 +11,7 @@
 	<h1>Component test</h1>
 	<div class="article-body">
 		{% with static=True %}
-			{% include "_blocks/pensionRefundCalculator.html" %}
+			{% with occupation = 'employee' %}{% include '_blocks/healthInsuranceCalculatorStatic.html' %}{% endwith %}
 		{% endwith %}
 	</div>
 {% endblock %}

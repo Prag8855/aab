@@ -29,7 +29,7 @@ Vue.component('health-insurance-calculator', {
 			type: String,
 			default: 'calculator',
 		},
-		selectedOccupation: {
+		initialOccupation: {
 			type: String,
 			default: null,
 		},
@@ -107,8 +107,8 @@ Vue.component('health-insurance-calculator', {
 		progressBarValue(){ return Math.min(this.stageIndex, this.progressBarLength) },
 		sortedOccupations(){
 			const sortedOccupations = ['employee', 'studentUnemployed', 'selfEmployed', 'azubi', 'unemployed', null];
-			if(this.selectedOccupation){
-				return [this.selectedOccupation, ...sortedOccupations.filter(o => o !== this.selectedOccupation)];
+			if(this.initialOccupation){
+				return [this.initialOccupation, ...sortedOccupations.filter(o => o !== this.initialOccupation)];
 			}
 			return sortedOccupations;
 		},
@@ -313,7 +313,96 @@ Vue.component('health-insurance-calculator', {
 
 			<progress v-if="progressBarLength && stageIndex !== 0" aria-label="Form progress" :value="progressBarValue" :max="progressBarLength"></progress>
 
-			<template v-if="stage === 'occupation'">
+			<template v-if="stage === 'occupation' && initialOccupation === 'studentUnemployed'">
+				<p>This tool helps you <strong>find student health insurance</strong> in a few seconds.</p>
+				<hr>
+				<ul class="benefits">
+					<li>
+						{% endraw %}{% include "_css/icons/liability.svg" %}{% raw %}
+						<div>
+							<strong>Low price, great coverage</strong>
+							<br>Find affordable health insurance that works when you need it.
+						</div>
+					</li>
+					<li>
+						{% endraw %}{% include "_css/icons/moving.svg" %}{% raw %}
+						<div>
+							<strong>Perfect for a student visa</strong>
+							<br>Get the right insurance for your National Visa application.
+						</div>
+					</li>
+				</ul>
+				<hr>
+				<div class="buttons bar">
+					<button class="button primary" @click="selectOccupation('studentUnemployed')">Find health insurance <i class="icon right"></i></button>
+				</div>
+			</template>
+
+			<template v-if="stage === 'occupation' && initialOccupation === 'selfEmployed'">
+				<p>This tool helps you <strong>find the best health insurance</strong> for freelancers in a few seconds.</p>
+				<hr>
+				<ul class="benefits">
+					<li>
+						{% endraw %}{% include "_css/icons/liability.svg" %}{% raw %}
+						<div>
+							<strong>Low price, great coverage</strong>
+							<br>Find affordable health insurance that works when you need it.
+						</div>
+					</li>
+					<li>
+						{% endraw %}{% include "_css/icons/moving.svg" %}{% raw %}
+						<div>
+							<strong>Perfect for your <span class="no-mobile">freelance</span> visa</strong>
+							<br>Get insurance that's accepted by the immigration office.
+						</div>
+					</li>
+					<li>
+						{% endraw %}{% include "_css/icons/helper.svg" %}{% raw %}
+						<div>
+							<strong>Free expert advice</strong>
+							<br>Ask us anything on WhatsApp, get answers from our insurance expert.
+						</div>
+					</li>
+				</ul>
+				<hr>
+				<div class="buttons bar">
+					<button class="button primary" @click="selectOccupation('selfEmployed')">Find health insurance <i class="icon right"></i></button>
+				</div>
+			</template>
+
+			<template v-if="stage === 'occupation' && initialOccupation === 'employee'">
+				<p>This tool helps you <strong>find the best health insurance</strong> in a few seconds.</p>
+				<hr>
+				<ul class="benefits">
+					<li>
+						{% endraw %}{% include "_css/icons/family.svg" %}{% raw %}
+						<div>
+							<strong>Insurance for you and your family</strong>
+							<br>Find health insurance that covers your spouse and your children.
+						</div>
+					</li>
+					<li>
+						{% endraw %}{% include "_css/icons/job.svg" %}{% raw %}
+						<div>
+							<strong>Perfect for your visa <span class="no-mobile">application</span></strong>
+							<br>Get the right insurance for your work visa, Blue Card or Chancenkarte.
+						</div>
+					</li>
+					<li>
+						{% endraw %}{% include "_css/icons/helper.svg" %}{% raw %}
+						<div>
+							<strong>Free expert advice</strong>
+							<br>Ask our insurance expert anything on WhatsApp.
+						</div>
+					</li>
+				</ul>
+				<hr>
+				<div class="buttons bar">
+					<button class="button primary" @click="selectOccupation('employee')">Find health insurance <i class="icon right"></i></button>
+				</div>
+			</template>
+
+			<template v-if="stage === 'occupation' && !['employee', 'studentUnemployed', 'selfEmployed'].includes(initialOccupation)">
 				<p><strong>Let's find the right health insurance.</strong> What is your occupation?</p>
 				<ul class="buttons grid" aria-label="Occupations">
 					<li v-for="occ in sortedOccupations" :key="occ">

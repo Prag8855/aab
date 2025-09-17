@@ -281,7 +281,7 @@ After you pay and send your application, you can download a PDF. This is your pr
 
 The *Ausländerbehörde* will process your application. There is no way to track your application. You must wait for their response. It takes [a few months](/guides/auslanderbehorde-wait-times).
 
-While you wait, your current [[National Visa]] or residence permit might expire. It's extended until the *Ausländerbehörde* processes your application.
+While you wait, your current [[National Visa]] or residence permit might expire. It's extended until the *Ausländerbehörde* processes your application.[^34]
 
 **[What happens while you wait ➞](/guides/residence-permit#wait)**
 
@@ -479,6 +479,7 @@ An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocatio
 [^31]: [Elliot Herman](https://www.sorted.berlin/) (January 2025), [Reddit](https://old.reddit.com/r/askberliners/comments/1hy5bwd/question_about_vhs_deutsch_integrationskurs/) (January 2025), Fiona Macdonald, [immigration lawyer](https://www.fmr-legal.de/) (February 2025)
 [^32]: [VAB 9a.2.1.2](/out/vab) (July 2024)
 [^33]: [BAMF](https://www.bamf.de/DE/Themen/MigrationAufenthalt/ZuwandererDrittstaaten/Migrathek/Niederlassen/niederlassen-node.html#:~:text=deutschen%20Sprache%20verf%C3%BCgen.-,familienangehorige%20von%20auslandischen%20personen,-Bei%20Ehegatten%2C%20die), [§35 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__35.html), [Berlin.de](https://service.berlin.de/dienstleistung/324863/) (July 2024), [anwalt-diedrich.de](https://www.anwalt-diedrich.de/home/anwalt-auslaenderrecht/niederlassungserlaubnis/kinder/) (July 2024)
+[^34]: [§81 Abs. 5 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__81.html)
 [^35]: [ArbeitNow](https://www.arbeitnow.com/blog/blue-card-to-permanent-residence-in-germany#getting-pension-contributions-faster-rentenversicherung) (April 2021), Reader feedback (June 2024), Oliver at [SympatMe](https://sympat.me) (June 2024)
 [^36]: A lot of reader feedback (May 2025), [VAB 2.3.1.10](/out/vab) (July 2024), [Reddit](https://old.reddit.com/r/germany/comments/10pxr3u/blue_card_to_permanent_residence_my_experience/#:~:text=i%20switched%20jobs%20at%20some%20point) (2023), [Reddit](https://old.reddit.com/r/askberliners/comments/1abthxy/permanent_residence_application/kjz3laq/) (2023), [Reddit](https://old.reddit.com/r/askberliners/comments/uvygv2/denied_niederlassungserlaubnis_because_i_start_a/) (2022), [Reddit](https://old.reddit.com/r/germany/comments/1b9ly48/niederlassungserlaubnis_and_befristet_contracts/) (2024), Victoria Messer (January 2024), [jurati.eu](https://www.jurati.eu/immigration_law/settlement_permit/), [Facebook](https://www.facebook.com/groups/226825394858771/posts/1174074926800475/) (2022)
 [^37]: [For Blue Card holders](https://service.berlin.de/dienstleistung/326556/#:~:text=aktuelle%20arbeitgeber-bescheinigung), [for work visa holders](https://service.berlin.de/dienstleistung/326558/#:~:text=aktuelle%20arbeitgeber-bescheinigung), [for refugees](https://service.berlin.de/dienstleistung/326554/#:~:text=aktuelle%20bescheinigung%20des%20arbeitgebers) and [for everyone else](https://service.berlin.de/dienstleistung/121864/#:~:text=aktuelle%20bescheinigung%20des%20arbeitgebers)

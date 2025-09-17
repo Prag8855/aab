@@ -3,6 +3,8 @@ Title: How to apply for a German residence permit
 Short_title: How to get a residence permit
 Description: This guide shows you if you need a residence permit (Aufenthaltstitel) to live, work or study in Germany.
 Date_created: 2022-06-23
+Related_reviews:
+    reviews/residence-permit/mirko-vorreuter.md
 ---
 
 You might need a residence permit (*[[Aufenthaltstitel]]*) to live, work and study in Germany.
@@ -31,6 +33,7 @@ These people don't need a residence permit:
     You can already live, work, study or start a business in Germany.
 - **Visitors**  
     If you visit Germany (and other [Schengen countries](/glossary/Schengen%20area)) for less than 90 days in a 180 day period, you don't need a residence permit.[^13] You might still need a [[Schengen visa]]. - [Who needs a Schengen visa?](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/-/231148)
+- Diplomats, employees of international organisations, and NATO military members[^58]
 
 **[Do I need a residence permit? ➞](https://digital.diplo.de/navigator/en/visa)**
 
@@ -66,7 +69,7 @@ If you don't have a job offer:
 - **[Opportunity card](/glossary/Chancenkarte)**  
     For looking for work in Germany. It gives you 1 year to [find a job](/guides/find-a-job-in-berlin). You can work 20 hours per week. To work full time, you must [apply for a work visa](/guides/work-visa) or a [Blue Card](/guides/blue-card).
 - **[[Job seeker visa]]**  
-    For looking for work in Germany. It gives you 6 to 18 months to [find a job](/guides/find-a-job-in-berlin). To start working, you must [apply for a work visa](/guides/work-visa) or a [Blue Card](/guides/blue-card). The [opportunity card](/glossary/Chancenkarte) is a better option, because you can work 20 hours per week.
+    For finding work after studying in Germany.[^59] It gives you 6 to 18 months to [find a job](/guides/find-a-job-in-berlin). You can start working as soon as you find a job.
 - **[[Family reunion visa]]**  
     For spouses and children of German residents. You can work for any employer. There is no income or education requirement.[^19]
 
@@ -182,15 +185,15 @@ If you already live in Germany, apply before your current visa or residence perm
 
 ### 3. Wait
 
-The *Ausländerbehörde* will process your application. There is no way to track your application. You must wait for their response. It takes [a few months](/guides/auslanderbehorde-wait-times), but they approve 99% of applications.[^41] If you wait more than 3 months, you can [sue the *Ausländerbehörde*](/guides/immigration-office#sue-the-auslanderbehorde), but it might not help.
+The *Ausländerbehörde* will process your application. There is no way to track your application. You must wait for their response. It takes [a few months](/guides/auslanderbehorde-wait-times), but they approve 99% of applications.[^41] If you wait more than 3 months, you can [sue the *Ausländerbehörde*](/guides/immigration-office#sue-the-auslanderbehorde).
 
 They might ask for more documents. If you can't reply to their email, [use the contact form](/guides/immigration-office#use-the-contact-form) again.
 
 When they have everything, they will email you an appointment date. The appointment might be months later. If they can't reach you, they will post the information [here](https://www.berlin.de/einwanderung/service/oeffentliche-zustellungen/).
 
-While you wait, your current [[National Visa]] or residence permit might expire. It's extended until the *Ausländerbehörde* processes your application.
+While you wait, your current [[National Visa]] or residence permit might expire. It's extended until the *Ausländerbehörde* processes your application.[^60]
 
-Your current National Visa or residence permit might allow you to work, study or start your business already. [Check your *Zusatzblatt*](/guides/zusatzblatt). If not, you must wait for your new residence permit.
+Your current National Visa or residence permit might allow you to work or start your business already. [Check your *Zusatzblatt*](/guides/zusatzblatt). If not, you must wait for your new residence permit. You can already start studying.[^61]
 
 **[If your visa or residence permit expires ➞](#if-your-visa-or-residence-permit-expires)**
 
@@ -233,7 +236,7 @@ If they approve your residence permit, you must [pay the application fee](/guide
 
 They must print your plastic residence card. This takes [around 8 weeks](/guides/auslanderbehorde-wait-times). They will give you another appointment to pick up the card. They do not mail the card to you.
 
-You will get a document that confirms that your residence permit was approved. With that document, **you can start working or studying**.[^45] It's not a valid travel document, so you can't use it to leave and re-enter Germany.
+You will get a document that confirms that your residence permit was approved. With that document, **you can start working**.[^45] It's not a valid travel document, so you can't use it to leave and re-enter Germany.
 
 Ask for a *[[Fiktionsbescheinigung]]*. It allows you to [travel with an expired residence permit](#travel-with-an-expired-residence-permit). If you already have a *Fiktionsbescheinigung*, they might extend it until your second appointment date.
 
@@ -253,7 +256,7 @@ You will also get a letter in the mail. It's the activation code for your [[eID]
 
 ## How to apply in your country
 
-You can apply in your country before you move to Germany.[^42] This is **cheaper and safer**, because you can start working or studying as soon as you arrive in Germany. You don't need to wait in Germany without an income.[^29]
+You can apply in your country before you move to Germany.[^42] This is **cheaper and safer**, because you can start working as soon as you arrive in Germany. You don't need to wait in Germany without an income.[^29]
 
 For most people, this is the only option.
 
@@ -261,11 +264,11 @@ To apply in your country:[^27]
 
 1. If your residence permit requires a job offer, find a job first. If you don't have a job offer, get an [opportunity card](/glossary/Chancenkarte).
 2. Prepare your [[National Visa]] application.
-3. Get an appointment at the German embassy or consulate in your country. At some embassies, you can apply online, so you don't need an appointment.
+3. Get an appointment at the German embassy or consulate in your country. At some embassies, you can apply online, so you don't need an appointment. If you can't apply online or get an appointment, you can mail or email your application.[^62]
 4. Go to your appointment.
 5. Receive your National Visa.
-6. Come to Germany and start working or studying.
-7. Convert your National Visa into a residence permit.
+6. [Move to Germany](/guides/moving-to-berlin) and start working or studying.
+8. Convert your National Visa into a residence permit.
 
 **To get a residence permit faster**, use the [fast-track procedure](https://www.make-it-in-germany.com/en/looking-for-foreign-professionals/entering/the-fast-track-procedure-for-skilled-workers) (*Beschleunigtes Verfahren*). It costs €{{FAST_TRACK_FEE|cur}}.[^39] In India, Pakistan, Bangladesh and many African countries, it takes months to get an embassy appointment. The fast-track procedure really helps, especially if you bring your family with you.[^40]
 
@@ -425,15 +428,15 @@ Your address is written on your residence permit. If you move, bring your reside
 
 ## If you change or lose your job
 
-When you change jobs, [tell the *Ausländerbehörde*](/guides/losing-your-job#tell-the-auslanderbehorde). You might need their permission to work for a different employer.
+When you change jobs, [tell the *Ausländerbehörde*](/guides/losing-your-job#tell-the-auslanderbehorde) within 2 weeks.[^63] You might need their permission to work for a different employer.
 
-If you [lose your job](/guides/losing-your-job), your residence permit stays valid. [Tell the *Ausländerbehörde*](/guides/losing-your-job#tell-the-auslanderbehorde) as soon as you can. In Berlin, they give you 6 months to find another job. While you are unemployed, you can usually get [unemployment benefits](/glossary/ALG%20I).
+If you [lose your job](/guides/losing-your-job), your residence permit stays valid. [Tell the *Ausländerbehörde*](/guides/losing-your-job#tell-the-auslanderbehorde) as soon as you can. In Berlin, they give you 6 to 12 months to find another job.[^64] While you are unemployed, you can usually get [unemployment benefits](/glossary/ALG%20I).
 
 **[What happens to your residence permit ➞](/guides/losing-your-job#what-happens-to-your-residence-permit)**
 
 ## If you travel
 
-Your residence permit allows you to travel in the [[Schengen area]] without a visa.
+Your residence permit allows you to travel in the [[Schengen area]] without a visa for up to 90 days.[^65]
 
 If you travel outside Germany for more than 6 months, your residence permit expires.[^22] The [[Blue Card]] lets you travel for 12 months.
 
@@ -463,9 +466,9 @@ You can stay in Germany after it expires if...
 
 ### Everyone else
 
-**If you are a citizen of {{AUFENTHV_41_COUNTRIES}}**, you can stay 90 days in Germany without a visa.[^50] If you apply for a residence permit, you can stay in Germany until the *Ausländerbehörde* processes your application. You must apply within 90 days of entering Germany.[^51]
+**If you are a citizen of {{AUFENTHV_41_COUNTRIES}}**, you can stay 90 days in Germany without a visa.[^50] If you apply for a residence permit, you can stay in Germany until the *Ausländerbehörde* processes your application.[^60] You must apply within 90 days of entering Germany.[^51]
 
-While you wait for your first residence permit, you can't work or study.
+While you wait for your first residence permit, you can't work, but you can start studying.
 
 **If you have a [[Schengen visa]]**, you must leave Germany before it expires. Schengen visas are for tourism, not immigration. You can rarely extend it. You can rarely convert it into a residence permit.[^48] You can't get a *[[Fiktionsbescheinigung]]*.
 
@@ -527,10 +530,10 @@ An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocatio
 [^43]: [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/artikel.1144334.en.php#:~:text=your%20request%20will%20be%20classified%20as%20an%20application), [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/#:~:text=My%20residence%20title%20will%20expire), [§81 Abs. 3 AufenthG](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p1732), [Reddit.com](https://old.reddit.com/r/berlin/comments/py3wyx/another_ausl%C3%A4nderbeh%C3%B6rde_question/herspj6/)
 [^44]: [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/artikel.1144334.en.php#:~:text=The%20prerequisite%20is%20that%20you%20have%20sent%20your%20request) (December 2024)
 [^45]: [VAB A81.5a.2](/out/vab) (December 2024)
-[^46]: [Mirko Vorreuter](https://www.linkedin.com/in/mirko-vorreuter-39b6a322a/) (September 2025)
+[^46]: [Mirko Vorreuter](https://visaguard.berlin) (September 2025)
 [^47]: Multiple relocation consultants (December 2024)
 [^48]: [Berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1049069.en.php#:~:text=of%20Schengen%20visa-,can%20it%20be%20converted%20into%20a%20residence%20permit%3F,-A%20Schengen%20visa) (December 2024), [se-legal.de](https://se-legal.de/immigration-lawyer-germany/schengen-visa-germany-lawyers/?lang=en#Extending-a-Schengen-Visa) (December 2024), [se-legal.de](https://se-legal.de/extending-stay-in-germany-schengen-visa-to-long-term-residence-permit/?lang=en#:~:text=Blue%20Card%20in-,germany,-A%20short-term) (December 2024), [Auswärtiges Amt](https://www.auswaertiges-amt.de/en/visa-service/buergerservice/faq/23-verlaengerung/606734) (December 2024), [Fem.os](/images/fiktionsbescheinigung-travel-2021-09-17.png) (September 2019), [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/#:~:text=I%20have%20a%20Schengen%20visa) (December 2024)
-[^49]: [Mirko Vorreuter](https://www.linkedin.com/in/mirko-vorreuter-39b6a322a/) (September 2025)
+[^49]: [Mirko Vorreuter](https://visaguard.berlin) (September 2025)
 [^50]: [§41 Abs. 1 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__41.html)
 [^51]: [§41 Abs. 3 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__41.html)
 [^52]: [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/artikel.1144334.en.php#:~:text=The%20prerequisite%20is%20that%20you%20have%20sent%20your%20request) (December 2024)
@@ -539,3 +542,11 @@ An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocatio
 [^55]: Kathleen Parker at [Red Tape Translation](https://redtapetranslation.com) (December 2023)
 [^56]: Kathleen Parker at [Red Tape Translation](https://redtapetranslation.com) (July 2023), Sebastian Hoffmann at [Touring Artists](https://www.touring-artists.info/) (July 2023), Emily Archer at [Archer Relocation](https://archer-relocation.com/) (November 2023)
 [^57]: [§30 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__30.html), [§32 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__32.html) (children), [§36 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__36.html) (parents)
+[^58]: [§1 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__1.html), [Mirko Vorreuter](https://visaguard.berlin) (September 2025)
+[^59]: [§20 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__20.html)
+[^60]: [§81 Abs. 5 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__81.html)
+[^61]: [Mirko Vorreuter](https://visaguard.berlin) (September 2025)
+[^62]: [Mirko Vorreuter](https://visaguard.berlin) (September 2025)
+[^63]: [§82 Abs. 6 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__82.html)
+[^64]: [Mirko Vorreuter](https://visaguard.berlin) (September 2025)
+[^65]: [Art. 21 Schengen Agreement](https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:42000A0922(02):en:HTML)
