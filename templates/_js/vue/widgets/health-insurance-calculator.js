@@ -377,7 +377,7 @@ Vue.component('health-insurance-calculator', {
 					<li>
 						{% endraw %}{% include "_css/icons/family.svg" %}{% raw %}
 						<div>
-							<strong>Insurance for you and your family</strong>
+							<strong>For you and your family</strong>
 							<br>Find health insurance that covers your spouse and your children.
 						</div>
 					</li>
