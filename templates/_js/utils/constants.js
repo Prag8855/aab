@@ -100,7 +100,7 @@ const taxes = {
 	minVorsorgepauschal: {{ VORSORGEPAUSCHAL_MIN }},
 	minVorsorgepauschalTaxClass3: {{ VORSORGEPAUSCHAL_MIN_TAX_CLASS_3 }},
 	{{ fail_on('2025-12-31') }}
-	incomeTaxBrackets: {  // §32a EStG - https://www.lohn-info.de/lohnsteuerzahlen.html
+	incomeTaxBrackets: {  // § 32a EStG - https://www.lohn-info.de/lohnsteuerzahlen.html
 		1: {
 			formula: (x, y, z) => 0,
 			minIncome: -Infinity,

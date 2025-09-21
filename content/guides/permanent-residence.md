@@ -63,7 +63,7 @@ To become a permanent resident, you must also...
 
 To become a permanent resident, you must also...
 
-- [ ] **Have a §18a, §18b or §18d work visa**[^38]  
+- [ ] **Have a § 18a, § 18b or § 18d work visa**[^38]  
     The type of work visa is [written on your residence permit](/illustrations/freelance-visa-type.png). If you have a different residence permit, follow the [requirements for everybody else](#everyone-else). 
 - [ ] **Work for 2 to 3 years**[^11]  
     2 years if you graduated from a German university, 3 years otherwise. This includes the time when you met the [work visa requirements](/guides/work-visa#work-visa-requirements), even if you had a different [residence permit](/glossary/Aufenthaltstitel).[^41]
@@ -77,14 +77,14 @@ If you have a work visa, but you qualify for a Blue Card, you can become a perma
 
 To become a permanent resident, you must also...
 
-- [ ] **Have a §21 Abs. 1 or 2a freelance visa for 3 years**[^6]  
-    The type of freelance visa is [written on your residence permit](/illustrations/freelance-visa-type.png). If you have a *§21 Abs. 5* freelance visa, follow the [requirements for ev](#everyone-else).
+- [ ] **Have a § 21 Abs. 1 or 2a freelance visa for 3 years**[^6]  
+    The type of freelance visa is [written on your residence permit](/illustrations/freelance-visa-type.png). If you have a *§ 21 Abs. 5* freelance visa, follow the [requirements for ev](#everyone-else).
 - [ ] **Have a profitable business**  
     You can only get the [PR](/glossary/Niederlassungserlaubnis) after 3 years if the *[[Ausländerbehörde]]* thinks that your business is successful, profitable and sustainable. Your *[[Ausländerbehörde]]* case worker will decide this.
 - [ ] **Support yourself**  
     In Berlin, they only consider your self-employment income. They ignore income from your spouse and income from investments.[^22]
 
-In Berlin, if you have a *§21 Abs. 1* or *2a* freelance visa, there should be no pension or language requirement.[^39]
+In Berlin, if you have a *§ 21 Abs. 1* or *2a* freelance visa, there should be no pension or language requirement.[^39]
 
 If you don't meet those requirements, follow the [requirements for everybody else](#everyone-else). Then you will need a pension. It might be easier to [apply for citizenship](#citizenship), because citizenship does not require a pension.
 
@@ -113,7 +113,7 @@ Your spouse must...
 
 - [ ] **Be a permanent resident**
 - [ ] **Be a skilled worker**  
-    Their last residence permit must have been a [[Blue Card]], or a §18a, §18b or §18d [work visa](/glossary/Work%20Visa).[^68] If they had a different residence permit, follow the [requirements for everybody else](#everyone-else).
+    Their last residence permit must have been a [[Blue Card]], or a § 18a, § 18b or § 18d [work visa](/glossary/Work%20Visa).[^68] If they had a different residence permit, follow the [requirements for everybody else](#everyone-else).
 - [ ] **Have a job**  
     They must have a stable, long-term income. If they are unemployed, if they are in their [probation period](/glossary/Probezeit), or if their work contract ends in the next 6 months, your application will be rejected.[^36]
 

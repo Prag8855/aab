@@ -67,7 +67,7 @@ function gkvTariff(age, occupation, monthlyIncome, hoursWorkedPerWeek){
 	let tariff = null;
 
 	if(occupation === 'azubi') {
-		// When the Azubi's pay is too low, the employer pays for everything - §20 Abs. 3 SGB IV
+		// When the Azubi's pay is too low, the employer pays for everything - § 20 Abs. 3 SGB IV
 		tariff = monthlyIncome <= healthInsurance.azubiFreibetrag ? 'azubiFree' : 'azubi';
 	}
 	else if(occupations.isStudent(occupation) && age < 30) {

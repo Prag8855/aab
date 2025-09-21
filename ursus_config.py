@@ -47,10 +47,10 @@ ctx["SOLIDARITY_TAX_MILDERUNGSZONE_MIN_INCOME_TAX"] = fail_on('2025-12-31', 1995
 ctx["SOLIDARITY_TAX_MILDERUNGSZONE_RATE"] = fail_on('2025-12-31', Decimal('0.119'))  # §3 SolzG 3
 ctx["SOLIDARITY_TAX_MAX_RATE"] = fail_on('2025-12-31', Decimal('0.055'))  # §3 SolzG 3
 
-ctx["VORSORGEPAUSCHAL_MIN"] = fail_on('2025-12-31', 1900)  # §39b Abs. 2.3.e EStG
+ctx["VORSORGEPAUSCHAL_MIN"] = fail_on('2025-12-31', 1900)  # § 39b Abs. 2.3.e EStG
 ctx["VORSORGEPAUSCHAL_MIN_TAX_CLASS_3"] = 3000  # ??
-ctx["ARBEITNEHMERPAUSCHALE"] = 1230  # (€/y) - §9a EStG
-ctx["SONDERAUSGABEN_PAUSCHBETRAG"] = 36  # (€/y) §10c EStG [SAP]
+ctx["ARBEITNEHMERPAUSCHALE"] = 1230  # (€/y) - § 9a EStG
+ctx["SONDERAUSGABEN_PAUSCHBETRAG"] = 36  # (€/y) § 10c EStG [SAP]
 
 ctx["ARBEITSLOSENVERSICHERUNG_EMPLOYEE_RATE"] = Decimal('1.3')  # § 341 SGB 3, BeiSaV 2019
 
@@ -108,11 +108,11 @@ ctx["VAT_MIN_MONTHLY_AMOUNT"] = 7500
 # Below this income (€/mth), you have a minijob
 ctx['MINIJOB_MAX_INCOME'] = round(ctx['MINIMUM_WAGE'] * 130 / 3)  # § 8 SGB IV
 
-# Below this income (€/mth), you have a midijob - §20 SGB IV
+# Below this income (€/mth), you have a midijob - § 20 SGB IV
 ctx["MIDIJOB_MAX_INCOME"] = fail_on('2025-12-31', 2000)
 
 # Used to calculate health insurance for a midijob
-ctx["GKV_FACTOR_F"] = fail_on('2025-12-31', Decimal('0.6683'))  # §20 SGB IV
+ctx["GKV_FACTOR_F"] = fail_on('2025-12-31', Decimal('0.6683'))  # § 20 SGB IV
 
 # Median income (€/m) of all people who pay social contribs
 ctx['BEZUGSGROESSE'] = fail_on('2025-12-31', Decimal('3745'))  # SGB VI Anlage 1
@@ -125,13 +125,13 @@ ctx['GKV_BASE_RATE_STUDENT'] = ctx['GKV_BASE_RATE_EMPLOYEE'] * Decimal('0.7')  #
 ctx["GKV_BASE_RATE_SELF_PAY"] = Decimal('14')  # § 243 SGB V
 
 # Mindestbemessungsgrundlage (€/mth) - Below this income, GKV does not get cheaper
-ctx['GKV_MIN_INCOME'] = ctx['BEZUGSGROESSE'] / 90 * 30  # §240 Abs. 4 SGV IV
+ctx['GKV_MIN_INCOME'] = ctx['BEZUGSGROESSE'] / 90 * 30  # § 240 Abs. 4 SGV IV
 
 # Above this income (€/y), you pay the Höchstbeitrag - https://www.bmas.de/DE/Arbeit/Arbeitsrecht/Mindestlohn/mindestlohn.html
 ctx['GKV_MAX_INCOME'] = fail_on('2025-12-31', Decimal('5512.50') * 12)  # SVBezGrV 2021 [BBGKVPV]
 
 # Above this income (€/mth), your employer pays for health insurance
-ctx["GKV_AZUBI_FREIBETRAG"] = fail_on('2025-12-31', 325)  # §20 Abs. 3 SGB IV
+ctx["GKV_AZUBI_FREIBETRAG"] = fail_on('2025-12-31', 325)  # § 20 Abs. 3 SGB IV
 
 # Above this income, it's no longer a Nebenjob
 ctx["GKV_NEBENJOB_MAX_INCOME"] = ctx['BEZUGSGROESSE'] * Decimal('0.75')
@@ -140,7 +140,7 @@ ctx["GKV_NEBENJOB_MAX_INCOME"] = ctx['BEZUGSGROESSE'] * Decimal('0.75')
 ctx["GKV_FREIWILLIG_VERSICHERT_MIN_INCOME"] = fail_on('2025-12-31', 6150 * 12)
 
 # Above this income (€/m), you can't have Familienversicherung
-ctx['GKV_FAMILIENVERSICHERUNG_MAX_INCOME'] = (Decimal(1 / 7) * ctx['BEZUGSGROESSE']).normalize()  # §10 SGB V
+ctx['GKV_FAMILIENVERSICHERUNG_MAX_INCOME'] = (Decimal(1 / 7) * ctx['BEZUGSGROESSE']).normalize()  # § 10 SGB V
 
 # Zusatzbeiträge - https://www.check24.de/gesetzliche-krankenversicherung/erhoehung-zusatzbeitraege/
 ctx['GKV_MIN_ZUSATZBEITRAG'] = fail_on('2025-12-31', Decimal('2.19'))  # HKK
@@ -171,16 +171,16 @@ ctx["EXPAT_STUDENT_COST"] = round(ctx["FEATHER_STUDENT_COST"])
 ctx['GKV_KRANKENGELD_DAILY_LIMIT'] = (ctx['GKV_MAX_INCOME'] * Decimal('0.7') / 360).normalize()  # § 47 SGB V
 
 # BAFöG Bedarfssatz (€/y)
-ctx['BAFOG_BEDARFSSATZ'] = fail_on('2025-12-01', 380 + 475)  # §13 BAföG Abs 1.2 + 2.2
+ctx['BAFOG_BEDARFSSATZ'] = fail_on('2025-12-01', 380 + 475)  # § 13 BAföG Abs 1.2 + 2.2
 
-# Pflegeversicherung (%) - §55 Abs. 1 SGB XI
+# Pflegeversicherung (%) - § 55 Abs. 1 SGB XI
 ctx['PFLEGEVERSICHERUNG_BASE_RATE'] = fail_on('2025-12-31', Decimal('3.6'))
 ctx["PFLEGEVERSICHERUNG_BASE_RATE_MAX_AGE"] = 22  # § 55 Abs. 1 SGB XI
 ctx["PFLEGEVERSICHERUNG_EMPLOYER_RATE"] = ctx['PFLEGEVERSICHERUNG_BASE_RATE'] / 2
 
 # Surcharge for people over 23 with no kids
-ctx['PFLEGEVERSICHERUNGS_SURCHARGE'] = Decimal('0.6')  # §55 Abs. 3 SGB XI
-ctx['PFLEGEVERSICHERUNG_DISCOUNT_PER_CHILD'] = Decimal('0.25')  # §55 Abs. 3 SGB XI
+ctx['PFLEGEVERSICHERUNGS_SURCHARGE'] = Decimal('0.6')  # § 55 Abs. 3 SGB XI
+ctx['PFLEGEVERSICHERUNG_DISCOUNT_PER_CHILD'] = Decimal('0.25')  # § 55 Abs. 3 SGB XI
 ctx['PFLEGEVERSICHERUNG_DISCOUNT_MIN_CHILDREN'] = 2
 ctx['PFLEGEVERSICHERUNG_DISCOUNT_MAX_CHILDREN'] = 5
 
@@ -296,20 +296,20 @@ ctx["DEUTSCHLAND_TICKET_PRICE"] = fail_on('2025-12-31', 58)
 # IMMIGRATION
 # ==============================================================================
 
-# Minimum income (€/y) to get a Blue Card - §18g AufenthG
+# Minimum income (€/y) to get a Blue Card - § 18g AufenthG
 ctx["BLUE_CARD_MIN_INCOME"] = Decimal('0.5') * ctx['BEITRAGSBEMESSUNGSGRENZE']
 
-# Minimum income (€/y) to get a Blue Card in shortage fields - §18g AufenthG
+# Minimum income (€/y) to get a Blue Card in shortage fields - § 18g AufenthG
 ctx["BLUE_CARD_SHORTAGE_MIN_INCOME"] = Decimal('0.453') * ctx['BEITRAGSBEMESSUNGSGRENZE']
 
-# Visa fees (€) - §44, §45, §45c and §47 AufenthV
+# Visa fees (€) - § 44, § 45, § 45c and § 47 AufenthV
 ctx["SCHENGEN_VISA_FEE"] = 75
 ctx["NATIONAL_VISA_FEE"] = 100
 ctx["NATIONAL_VISA_RENEWAL_FEE"] = 96
-ctx["RESIDENCE_PERMIT_REPLACEMENT_FEE"] = 67  # After a passport change (€) - §45c AufenthG
+ctx["RESIDENCE_PERMIT_REPLACEMENT_FEE"] = 67  # After a passport change (€) - § 45c AufenthG
 ctx["MIN_PERMANENT_RESIDENCE_FEE"] = 37  # For Turkish citizens
-ctx["MAX_PERMANENT_RESIDENCE_FEE"] = 147  # §44 AufenthG
-ctx["FAST_TRACK_FEE"] = 411  # §47 AufenthG
+ctx["MAX_PERMANENT_RESIDENCE_FEE"] = 147  # § 44 AufenthG
+ctx["FAST_TRACK_FEE"] = 411  # § 47 AufenthG
 
 # Minimum guaranteed pension payment (€/m) to get a freelance visa above age 45
 # VAB, https://www.bmas.de/DE/Soziales/Rente-und-Altersvorsorge/rentenversicherungsbericht-art.html
@@ -325,7 +325,7 @@ ctx["WORK_VISA_MIN_INCOME"] = ctx['BEITRAGSBEMESSUNGSGRENZE'] * Decimal('0.55')
 # Not watched - https://www.berlin.de/vhs-tempelhof-schoeneberg/kurse/deutsch-als-zweitsprache/pruefungen-und-abschluesse/einbuergerung/
 ctx["CITIZENSHIP_TEST_FEE"] = fail_on('2025-12-31', 25)
 
-# Nationalities that can apply for a residence permit directly in Germany - §41 AufenthV
+# Nationalities that can apply for a residence permit directly in Germany - § 41 AufenthV
 beschv_26_1_countries = ["Australia", "Canada", "Israel", "Japan", "Monaco", "New Zealand", "San Marino", "South Korea", "the United Kingdom", "the United States"]
 beschv_26_2_countries = ["Albania", "Bosnia-Herzegovina", "Kosovo", "North Macedonia", "Montenegro", "Serbia"]
 ctx["BESCHV_26_COUNTRIES"] = or_join(sorted(beschv_26_1_countries + beschv_26_2_countries))
@@ -447,6 +447,7 @@ config.linters = [
     'extensions.linters.metadata.DateUpdatedLinter',
     'extensions.linters.metadata.ShortTitleLinter',
     'extensions.linters.places.UnusedPlacesLinter',
+    'extensions.linters.section.SectionSignLinter',
     'extensions.linters.table_of_contents.TableOfContentsLinter',
     'extensions.linters.wikilinks.WikilinksLinter',
     # 'extensions.linters.titles.DuplicateTitlesLinter',

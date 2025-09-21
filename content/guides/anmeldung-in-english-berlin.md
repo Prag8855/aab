@@ -292,7 +292,7 @@ When you move into an apartment, you must do a few things: lower your rent, get 
 [^24]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/dm65o5/adding_co_to_the_anmeldung/), [frag-einen-anwalt.de](https://www.frag-einen-anwalt.de/Meldeadresse-mit-co-Zeichnung--f212142.html), [Screenshot](/images/anmeldung-mit-bei-erlaubt-2022-12-23.png)
 [^25]: [Screenshot](/images/Anmeldung-mit-co-2022-12-09.png), [Screenshot](/images/Anmeldung-mit-c-o-2022-10-05.png), [Reddit](https://old.reddit.com/r/askberliners/comments/180e5ye/does_it_require_a_stamp/)
 [^26]: [steuerberater.com](https://www.steuerberater.com/en/church-tax-calculator)
-[^27]: [§7 WoAufG Bln](https://gesetze.berlin.de/bsbe/document/jlr-WoAufGBEV5P7)
+[^27]: [§ 7 WoAufG Bln](https://gesetze.berlin.de/bsbe/document/jlr-WoAufGBEV5P7)
 [^28]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/d8o9vu/finding_my_anmeldung_appointment_confirmation/)
 [^32]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/dm65o5/adding_co_to_the_anmeldung/)
 [^33]: [§ 17 BMG](https://www.buzer.de/17_BMG.htm)

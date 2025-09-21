@@ -576,7 +576,7 @@ Many organisations offer **free** consultations, support and workshops for artis
 [^46]: [reddit.com](https://old.reddit.com/r/berlin/comments/2d2edj/anybody_have_any_tips_on_getting_into_ksk/#:~:text=deduct%20this%20as-,werbungskosten,-from%20your%20tax)
 [^47]: [Red Tape Translation](https://redtapetranslation.com/introduction-to-the-kunstlersozialkasse-ksk/#:~:text=i%20am%20a%20member%20of%20the%20ksk%2C%20too)
 [^48]: [Red Tape Translation](https://redtapetranslation.com/introduction-to-the-kunstlersozialkasse-ksk/#:~:text=%20talk%20to%20a%20guru%20like%20andri%20jurgensen)
-[^49]: [§3.2 KSVG](https://www.gesetze-im-internet.de/ksvg/__3.html), [§ 6 KSVG](https://www.buzer.de/gesetz/1471/a20799.htm)
+[^49]: [§ 3 Abs. 2 KSVG](https://www.gesetze-im-internet.de/ksvg/__3.html), [§ 6 KSVG](https://www.buzer.de/gesetz/1471/a20799.htm)
 [^50]: [vgsd.de](https://www.vgsd.de/als-ksk-mitglied-dazu-verdienen-ohne-status-zu-gefaehrden-dr-maria-kraeuter-antwortet/)
 [^51]: [§ 7 KSVG](https://www.buzer.de/gesetz/1471/a20800.htm)
 [^52]: Sebastian Hoffmann at [Smart Coop](https://smart-eg.de/en/) (2022)

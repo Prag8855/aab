@@ -120,7 +120,7 @@ function calculateTax(yearlyIncome, {
 
 		// Minimum deduction for social contributions
 		const mindestvorsorgepauschale = taxClass === 3 ? taxes.minVorsorgepauschalTaxClass3 : taxes.minVorsorgepauschal; // [VHB]
-		const vorsorgepauschbetrag = Math.max(pensionLohnsteuerDeduction + healthInsuranceLohnsteuerDeduction, mindestvorsorgepauschale); // §39b Abs. 3 EStG
+		const vorsorgepauschbetrag = Math.max(pensionLohnsteuerDeduction + healthInsuranceLohnsteuerDeduction, mindestvorsorgepauschale); // § 39b Abs. 3 EStG
 		result.taxableIncome -= vorsorgepauschbetrag; // [UPEVP]
 	}
 	else {
@@ -220,7 +220,7 @@ function calculateIncomeTax(taxableIncome, isSplittingTarif=false) {  // Einkomm
 	else{
 		const incomeTaxFlags = new Set();
 
-		// These values are defined by §32a EStG - https://www.gesetze-im-internet.de/estg/__32a.html
+		// These values are defined by § 32a EStG - https://www.gesetze-im-internet.de/estg/__32a.html
 		const x = taxableIncome;
 		const y = (taxableIncome - taxes.grundfreibetrag)/10000;
 		const z = (taxableIncome - taxes.incomeTaxBrackets[2].maxIncome)/10000;
@@ -376,7 +376,7 @@ function calculateMonthlyKindergeld(childrenCount) {
 
 /*
 
-MARRIED COUPLES nach §26, §26b - https://www.gesetze-im-internet.de/estg/__32a.html
+MARRIED COUPLES nach § 26, § 26b - https://www.gesetze-im-internet.de/estg/__32a.html
 
 - Combine income, divide by two, calculate income tax, double it (Splitting-Verfahren)
 

@@ -43,7 +43,7 @@ When you renew your freelance visa, they verify that...
 
 If you don't meet those requirements, you can't renew your freelance visa.
 
-**You might also qualify for [permanent residence](/glossary/Niederlassungserlaubnis).** It's better than a freelance visa. You qualify after 5 years in Germany, or 3 years if you have a *§21 Abs. 1* or *§21 Abs. 2a* freelance visa.[^18]
+**You might also qualify for [permanent residence](/glossary/Niederlassungserlaubnis).** It's better than a freelance visa. You qualify after 5 years in Germany, or 3 years if you have a *§ 21 Abs. 1* or *§ 21 Abs. 2a* freelance visa.[^18]
 
 **[How to apply for permanent residence ➞](/guides/permanent-residence)**
 
