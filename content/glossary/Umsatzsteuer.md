@@ -21,4 +21,4 @@ VAT is almost always included in the price. It's not added at checkout.
 
 **[How VAT works in Germany ➞](/guides/value-added-tax)**
 
-[^0]: [§12 UStG](https://www.gesetze-im-internet.de/ustg_1980/__12.html)
+[^0]: [§ 12 UStG](https://www.buzer.de/12_UStG.htm)

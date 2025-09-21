@@ -21,4 +21,4 @@ The income tax is not the same as the salary tax (*[[Lohnsteuer]]*).
 
 **[How German taxes work ➞](/guides/taxes)**
 
-[^0]: [§32a EStG](https://www.gesetze-im-internet.de/estg/__32a.html)
+[^0]: [§ 32a EStG](https://www.buzer.de/32a_EStG.htm)

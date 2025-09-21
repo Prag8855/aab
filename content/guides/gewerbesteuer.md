@@ -70,9 +70,9 @@ When you [start a business in Germany](/guides/start-a-business-in-germany), you
 
 [^1]: [Berlin.de](https://service.berlin.de/dienstleistung/325333/)
 [^3]: [blog.consultinghouse.eu](https://blog.consultinghouse.eu/compliance/a-guide-to-the-german-trade-tax)
-[^4]: [§11 GewStG](https://www.gesetze-im-internet.de/gewstg/__11.html)
+[^4]: [§ 11 GewStG](https://www.buzer.de/11_GewStG.htm)
 [^5]: [fuer-gruender.de](https://www.fuer-gruender.de/wissen/unternehmen-gruenden/finanzen/steuern/gewerbesteuer/), [IHK Berlin](https://www.ihk.de/berlin/service-und-beratung/recht-und-steuern/steuern-und-finanzen/ertragssteuern-lohnsteuer/gewerbe-und-grundsteuer-index-2253124)
 [^6]: [wwkn.de](https://wwkn.de/en/local-business-tax-gewerbesteuer/), [IHK Berlin](https://www.ihk.de/berlin/service-und-beratung/recht-und-steuern/steuern-und-finanzen/ertragssteuern-lohnsteuer/gewerbe-und-grundsteuer-index-2253124)
 [^10]: [ttc.tax](https://ttc.tax/ihk-berlin-bietet-mitgliedern-keine-teilnahme-am-lastschriftverfahren-an/)
-[^11]: [§11 Abs. 3 GewStG](https://www.gesetze-im-internet.de/gewstg/__11.html)
+[^11]: [§ 11 Abs. 3 GewStG](https://www.buzer.de/11_GewStG.htm)
 [^12]: [Haufe.de](https://www.haufe.de/finance/haufe-finance-office-premium/gewerbesteueranrechnung-steuerermaessigung-bei-gewerblich-31-grundfall_idesk_PI20354_HI2179474.html)

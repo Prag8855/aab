@@ -238,7 +238,7 @@ If you plan to become a permanent resident, you should make voluntary [public pe
 
 **[Where to ask immigration questions ➞](/guides/questions-about-berlin#immigration-questions)**
 
-[^0]: [§21 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html)
+[^0]: [§ 21 AufenthG](https://www.buzer.de/21_AufenthG.htm)
 [^1]: [berlin.de](https://service.berlin.de/dienstleistung/324288/en/)
 [^2]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/3tkxvi/mawista_health_insurance_could_be_not_sufficient/), [medium.com](https://medium.com/betahaus/renewing-the-german-freelance-visa-february-2019-a4a899eabe52)
 [^3]: [accountable.de](https://www.accountable.de/en/blog/gewinnermittlung-or-net-determination-letter-for-freelance-visa-renewals-in-germany/), [Facebook](https://www.facebook.com/groups/germanfreelancevisa/posts/1095767750891927/) (2021, 2023)
@@ -253,7 +253,7 @@ If you plan to become a permanent resident, you should make voluntary [public pe
 [^12]: [berlin.de](https://service.berlin.de/dienstleistung/324288/)
 [^13]: [berlin.de](https://service.berlin.de/dienstleistung/326233/en/)
 [^14]: [firma.de](https://www.firma.de/firmengruendung/gewerbeanmeldung-berlin-infos-und-kosten-in-der-hauptstadt/), [berlin.de](https://service.berlin.de/dienstleistung/121921/en/)
-[^15]: [§21 Abs. 4 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html)
-[^16]: [§21 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html), [§18 EStG](https://www.gesetze-im-internet.de/estg/__18.html), [2 K 7356/18](https://www.landesrecht-bw.de/jportal/?quelle=jlink&docid=MWRE190002951&psml=bsbawueprod.psml&max=true&doc.part=L&doc.norm=all#:~:text=der%20begriff%20%E2%80%9Efreiberufliche%20tatigkeit%E2%80%9C%20bestimmt%20sich%20nach%20den%20katalogberufen%20des)
+[^15]: [§ 21 Abs. 4 AufenthG](https://www.buzer.de/21_AufenthG.htm)
+[^16]: [§ 21 AufenthG](https://www.buzer.de/21_AufenthG.htm), [§ 18 EStG](https://www.buzer.de/18_EStG.htm), [2 K 7356/18](https://www.landesrecht-bw.de/jportal/?quelle=jlink&docid=MWRE190002951&psml=bsbawueprod.psml&max=true&doc.part=L&doc.norm=all#:~:text=der%20begriff%20%E2%80%9Efreiberufliche%20tatigkeit%E2%80%9C%20bestimmt%20sich%20nach%20den%20katalogberufen%20des)
 [^17]: Health insurance broker Daniel Derosa
-[^18]: [§21 Abs. 4 and 5 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html), [Berlin.de](https://service.berlin.de/dienstleistung/326564/#:~:text=keine%20freiberufliche), [sachsen.de](https://www.zuwanderung.sachsen.de/SMI_Zuwanderung_Infoblatt_Selbststaendige.pdf) (page 9)
+[^18]: [§ 21 Abs. 4 and 5 AufenthG](https://www.buzer.de/21_AufenthG.htm), [Berlin.de](https://service.berlin.de/dienstleistung/326564/#:~:text=keine%20freiberufliche), [sachsen.de](https://www.zuwanderung.sachsen.de/SMI_Zuwanderung_Infoblatt_Selbststaendige.pdf) (page 9)

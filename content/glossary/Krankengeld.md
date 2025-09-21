@@ -21,6 +21,6 @@ If you are self-employed, you only get *Krankengeld* if you pay for it.[^1] By d
 
 If you have a [minijob](/glossary/Minijob), *[[Familienversicherung]]* or student health insurance, you do not get *Krankengeld* because you don't pay for it.[^2]
 
-[^0]: [§48 SGB V](https://www.gesetze-im-internet.de/sgb_5/__48.html)
+[^0]: [§ 48 SGB V](https://www.buzer.de/48_SGB_V.htm)
 [^1]: [tk.de](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-versicherte/leistungen/weitere-leistungen/krankengeld/selbststaendige/beitragshoehe-versicherung-krankengeld-selbststaendige-2006330)
-[^2]: [verdi.de](https://www.verdi.de/themen/arbeit/++co++710ce828-5da8-11ec-be48-001a4a160129#:~:text=aus%20dem%20minijob%20selbst%20entsteht%20aber%20(daruber%20hinaus)%20kein%20anspruch%20auf%20krankengeld) (January 2025), [§44 Abs. 2 SGB V](https://www.gesetze-im-internet.de/sgb_5/__44.html)
+[^2]: [verdi.de](https://www.verdi.de/themen/arbeit/++co++710ce828-5da8-11ec-be48-001a4a160129#:~:text=aus%20dem%20minijob%20selbst%20entsteht%20aber%20(daruber%20hinaus)%20kein%20anspruch%20auf%20krankengeld) (January 2025), [§ 44 Abs. 2 SGB V](https://www.buzer.de/44_SGB_V.htm)

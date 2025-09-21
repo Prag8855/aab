@@ -109,17 +109,17 @@ If you can't use all your vacations before you leave, your employer must pay the
 
 Get an *[[Urlaubsbescheinigung]]* from your employer. If you [find a new job](/guides/find-a-job-in-berlin), your new employer might ask for it. This is how they know how much vacation days you should have this year.
 
-[^0]: [§1 BUrlG](https://www.gesetze-im-internet.de/burlg/__1.html)
+[^0]: [§ 1 BUrlG](https://www.buzer.de/1_BUrlG.htm)
 [^1]: [Wikipedia](https://de.wikipedia.org/wiki/Bundesurlaubsgesetz#:~:text=im%20fall%20einer%205-tage-woche%20betragt%20der%20gesetzliche%20urlaubsanspruch%20daher%20umgerechnet%2020%20arbeitstage)
 [^2]: [de.statista.com](https://de.statista.com/statistik/daten/studie/886135/umfrage/urlaubstage-und-feiertage-in-deutschland-nach-bundeslaendern/)
-[^3]: [§5 BUrlG](https://www.gesetze-im-internet.de/burlg/__5.html)
-[^4]: [§4 BUrlG](https://www.gesetze-im-internet.de/burlg/__4.html)
-[^5]: [§7 BUrlG](https://www.gesetze-im-internet.de/burlg/__7.html)
+[^3]: [§ 5 BUrlG](https://www.buzer.de/5_BUrlG.htm)
+[^4]: [§ 4 BUrlG](https://www.buzer.de/4_BUrlG.htm)
+[^5]: [§ 7 BUrlG](https://www.buzer.de/7_BUrlG.htm)
 [^6]: [arbeitsrechte.de](https://www.arbeitsrechte.de/urlaub/#Die_Urlaubsgenehmigung_erfolgt_durch_den_Arbeitgeber)
-[^7]: [§7 BUrlG](https://www.gesetze-im-internet.de/burlg/__7.html), [arbeitsrechte.de](https://www.arbeitsrechte.de/urlaub/#:~:text=dringende%20betriebliche%20grunde)
+[^7]: [§ 7 BUrlG](https://www.buzer.de/7_BUrlG.htm), [arbeitsrechte.de](https://www.arbeitsrechte.de/urlaub/#:~:text=dringende%20betriebliche%20grunde)
 [^8]: [simplegermany.com](https://www.simplegermany.com/vacation-days-in-germany/#:~:text=if%20you%20work%20in%20a%20team%20with%20parents%20of%20kids%20who%20go%20to%20school), [arbeitsrechte.de](https://www.arbeitsrechte.de/urlaub/#:~:text=arbeitnehmer%20mit%20schulpflichtigen%20kindern)
 [^9]: [Wikipedia](https://de.wikipedia.org/wiki/Gesetzliche_Feiertage_in_Deutschland#:~:text=bei%20beschaftigten%2C%20die%20in%20einem%20anderen%20bundesland%20arbeiten)
 [^10]: [spiegel.de](https://www.spiegel.de/karriere/leitfaden-ich-kuendige-aber-richtig-a-858159.html#:~:text=%20was%20ist%20mit%20resturlaub%3F%20), [arbeitsrechte.de](https://www.arbeitsrechte.de/resturlaub/#:~:text=den%20resturlaub%20in%20der%20verbleibenden%20zeit%20zu%20nehmen)
-[^11]: [§7 Abs. 4 BUrlG](https://www.gesetze-im-internet.de/burlg/__7.html), [arbeitsrechte.de](https://www.arbeitsrechte.de/resturlaub/#:~:text=den%20resturlaub%20in%20der%20verbleibenden%20zeit%20zu%20nehmen)
+[^11]: [§ 7 Abs. 4 BUrlG](https://www.buzer.de/7_BUrlG.htm), [arbeitsrechte.de](https://www.arbeitsrechte.de/resturlaub/#:~:text=den%20resturlaub%20in%20der%20verbleibenden%20zeit%20zu%20nehmen)
 [^12]: [karrierebibel.de](https://karrierebibel.de/urlaubsbescheinigung/#:~:text=wie%20berechnet%20sich%20urlaubsanspruch%20nach%20der%20kundigung%3F), [arbeitsrechte.de](https://www.arbeitsrechte.de/resturlaub/#Was_geschieht_mit_dem_Resturlaub_nach_einer_Kuendigung)
 [^13]: [urlaubspiraten.de](https://www.urlaubspiraten.de/reisethemen/reisekalender/brueckentage)

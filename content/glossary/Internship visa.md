@@ -23,5 +23,5 @@ You must apply for an internship visa at the *[[Ausländerbehörde]]*, or at the
 
 **[How to apply for an internship visa ➞](/guides/residence-permit#how-to-get-a-residence-permit)**
 
-[^1]: [Make it in Germany](https://www.make-it-in-germany.com/en/visa-residence/types/other/internship), [§16e AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__16e.html)
-[^2]: [§16e AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__16e.html)
+[^1]: [Make it in Germany](https://www.make-it-in-germany.com/en/visa-residence/types/other/internship), [§ 16e AufenthG](https://www.buzer.de/16e_AufenthG.htm)
+[^2]: [§ 16e AufenthG](https://www.buzer.de/16e_AufenthG.htm)

@@ -17,4 +17,4 @@ Your employer is required to give you an *[[Urlaubsbescheinigung]]* if you ask f
 **[Vacation days when you change jobs ➞](/guides/vacation-days#if-you-change-jobs)**
 
 [^1]: [t-online.de](https://www.t-online.de/finanzen/beruf-karriere/beruf/id_68654332/urlaubsbescheinigung-wozu-brauche-ich-sie-mit-muster.html#was-ist-eine-urlaubsbescheinigung)
-[^2]: [§6 Abs. 2 BUrlG](https://www.gesetze-im-internet.de/burlg/__6.html)
+[^2]: [§ 6 Abs. 2 BUrlG](https://www.buzer.de/6_BUrlG.htm)

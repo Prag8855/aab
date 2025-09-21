@@ -190,5 +190,5 @@ If you already left Germany, you can do your *Abmeldung* by email or by post.[^2
 [^23]: [Reddit](https://old.reddit.com/r/berlin/comments/14xi6r4/ambeldung_after_moving_to_another_eu_country/)
 [^26]: [Berlin.de](https://www.berlin.de/einwanderung/en/residence/expiry/) (July 2025)
 [^27]: [Twitter](https://x.com/DinamoBabel/status/1828852594141474829) (August 2024)
-[^28]: [§51 Abs. 1 S. 6 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__51.html), [frag-einen-anwalt.de](https://www.frag-einen-anwalt.de/Aufenthaltstitel-nach-Abmeldung--f336776.html) (January 2020), [Fiona Macdonald](https://www.fmr-legal.de/) (October 2024), [VAB A.51.1.6](/out/vab) (July 2025)
+[^28]: [§ 51 Abs. 1 S. 6 AufenthG](https://www.buzer.de/51_AufenthG.htm), [frag-einen-anwalt.de](https://www.frag-einen-anwalt.de/Aufenthaltstitel-nach-Abmeldung--f336776.html) (January 2020), [Fiona Macdonald](https://www.fmr-legal.de/) (October 2024), [VAB A.51.1.6](/out/vab) (July 2025)
 [^30]: [Twitter](https://x.com/DinamoBabel/status/1828852594141474829) (August 2024)

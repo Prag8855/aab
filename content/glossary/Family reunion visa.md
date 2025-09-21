@@ -22,4 +22,4 @@ You must apply for a family reunion visa at the *[[Ausländerbehörde]]*, or at 
 
 **[How to apply for a family reunion visa ➞](/guides/residence-permit#how-to-get-a-residence-permit)**
 
-[^1]: [§30 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__30.html), [§32 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__32.html) (children), [§36 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__36.html) (parents)
+[^1]: [§ 30 AufenthG](https://www.buzer.de/30_AufenthG.htm), [§ 32 AufenthG](https://www.buzer.de/32_AufenthG.htm) (children), [§ 36 AufenthG](https://www.buzer.de/36_AufenthG.htm) (parents)

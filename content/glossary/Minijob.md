@@ -21,7 +21,7 @@ Minijobs also have disadvantages:
 - Your employer does not pay half of your health insurance. If you are not covered by [your family's health insurance](/glossary/Familienversicherung), you might pay [half of your salary](/tools/health-insurance-calculator) for health insurance.
 - If you lose your minijob, you do not get [unemployment benefits](/glossary/ALG%20I).[^4]
 
-[^0]: [§8 SGB IV](https://www.gesetze-im-internet.de/sgb_4/__8.html)
+[^0]: [§ 8 SGB IV](https://www.buzer.de/8_SGB_IV.htm)
 [^1]: [Wikipedia](https://en.wikipedia.org/wiki/Marginal_employment#Germany)
 [^2]: [krankenkassen.net](https://krankenkassen.net/gesetzliche-krankenversicherung/450-euro-job-wer-zahlt-die-krankenkasse.html)
 [^4]: [Agentur für Arbeit](https://www.arbeitsagentur.de/lexikon/minijob#:~:text=erwerben%20keinen%20anspruch%20auf%20arbeitslosengeld) (February 2025)

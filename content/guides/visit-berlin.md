@@ -348,7 +348,7 @@ Magic mushrooms, cocaine and MDMA are also illegal. If you buy MDMA or ecstasy i
 **[Where to find lost things in Berlin ➞](/guides/lost-and-found-berlin)**
 
 [^0]: [Auswärtiges Amt](https://www.auswaertiges-amt.de/en/aamt/zugastimaa/buergerservice/faq/28-visa---eu-laender/606744)
-[^1]: [§46 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__46.html)
+[^1]: [§ 46 AufenthV](https://www.buzer.de/46_AufenthV.htm)
 [^2]: [bvg.de](https://www.bvg.de/en/subscriptions-and-tickets/all-tickets/single-tickets/single-ticket)
 [^3]: [web.archive.org](https://web.archive.org/web/20210726054703if_/https://www.taxi-in-berlin.de/taxitarif/taxi-tarif-flughafen-ber/), [berlin.de](https://www.berlin.de/tourismus/infos/1756978-1721039-taxi-telefonnummern-preise-regeln.html)
 [^4]: [berlin.de](https://www.berlin.de/tourismus/infos/1756978-1721039-taxi-telefonnummern-preise-regeln.html)

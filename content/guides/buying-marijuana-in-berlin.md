@@ -106,6 +106,6 @@ You can get a prescription from [TeleCan](https://www.telecan.eu/), [CannGo](htt
 [^8]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/kve48s/spice_laced_weed_is_in_berlin_watch_out/gixt3yr/?context=3), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/kve48s/spice_laced_weed_is_in_berlin_watch_out/gixuanh/?context=3), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/kve48s/spice_laced_weed_is_in_berlin_watch_out/gizrtd5/?context=3), [legal-high-inhaltsstoffe.de](https://legal-high-inhaltsstoffe.de/de/news/2020/02/warnung-cannabis-mit-synthetischen-cannabinoiden.html)
 [^9]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/kzwggs/spiced_weed_in_berlin_the_kits_we_have_used_are/)
 [^10]: [reddit.com/r/germantrees](https://old.reddit.com/r/germantrees/comments/iefo1b/frage_sind_synthetische_cannbinoide_erkennbar/)
-[^11]: [§1 Abs. 16 KCanG](https://www.gesetze-im-internet.de/kcang/__1.html#:~:text=%20an%20dem%20eine%20person%20seit%20mindestens%20sechs%20monaten)
+[^11]: [§ 1 Abs. 16 KCanG](https://www.buzer.de/1_KCanG.htm)
 [^12]: [Reddit](https://old.reddit.com/r/germantrees/comments/1ca6bp9/telecaneu/) (April 2024)
 [^13]: [telecan.eu](https://www.telecan.eu/index.php/behandlungskosten-preise/)

@@ -219,4 +219,4 @@ Cartridges and toners do not go in the yellow bin. Recycle them [where you recyc
 [^19]: [berlin-recycling.de](https://www.berlin-recycling.de/wissen/muelltrennung/was-gehoert-in-welche-tonne/restmuell)
 [^20]: [bundesgesundheitsministerium.de](https://www.bundesgesundheitsministerium.de/arzneimittelentsorgung-und-aufbewahrung.html)
 [^21]: [Deutsche Umwelthilfe](https://www.duh.de/presse/pressemitteilungen/pressemitteilung/ruecknahmepflicht-von-elektroschrott-praxistests-belegen-zahlreiche-verstoesse-deutsche-umwelthilfe/), [Twitter](https://twitter.com/tagesschau/status/1602966772965056512)
-[^22]: [§17 ElektroG](https://www.gesetze-im-internet.de/elektrog_2015/__17.html), [chip.de](https://www.chip.de/news/Discounter-und-Supermaerkte-druecken-sich-So-geht-uns-tonnenweise-Gold-verloren_184583059.html)
+[^22]: [§ 17 ElektroG](https://www.buzer.de/17_ElektroG.htm), [chip.de](https://www.chip.de/news/Discounter-und-Supermaerkte-druecken-sich-So-geht-uns-tonnenweise-Gold-verloren_184583059.html)

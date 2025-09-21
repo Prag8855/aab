@@ -246,5 +246,5 @@ These people can help you get hired. For example, they can review your resume an
 [^0]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/21ehgp/im_looking_for_a_job_in_germany_and_have_a/)
 [^1]: [arbeitsvertrag.org](https://www.arbeitsvertrag.org/probezeit/)
 [^2]: [billomat.com](https://www.billomat.com/magazin/jobsuche-steuerlich-absetzen-hier-erfaehrst-du-wie-das-geht/), [vlh.de](https://www.vlh.de/arbeiten-pendeln/beruf/bewerbungskosten-koennen-sie-von-der-steuer-absetzen.html), [karrierebibel.de](https://karrierebibel.de/bewerbungskosten-absetzen/)
-[^3]: [§614 BGB](https://www.gesetze-im-internet.de/bgb/__614.html)
+[^3]: [§ 614 BGB](https://www.buzer.de/614_BGB.htm)
 [^4]: [eu-gleichbehandlungsstelle.de](https://www.eu-gleichbehandlungsstelle.de/eugs-de/praxisleitfaden/arbeiten-ohne-meldeadresse#:%7E:text=Eine%20Meldeadresse%20ist%20keine%20Voraussetzung%20f%C3%BCr%20die%20Arbeitsaufnahme)

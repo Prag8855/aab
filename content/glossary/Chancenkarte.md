@@ -29,5 +29,5 @@ The opportunity card does not allow self-employment, but you can convert it to a
 
 **[How to apply for an opportunity card ➞](/guides/residence-permit#how-to-get-a-residence-permit)**
 
-[^1]: [§20a Abs. 2 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__20a.html)
+[^1]: [§ 20a Abs. 2 AufenthG](https://www.buzer.de/20a_AufenthG.htm)
 [^2]: [Red Tape Translation](/out/red-tape-translation) (December 2024), [Frankfurt am Main](https://frankfurt.de/auslaenderangelegenheiten/ich-moechte-einen-antrag-stellen/arbeitnehmer/chancenkarte#:~:text=beschaftigungserlaubnis) (December 2024)

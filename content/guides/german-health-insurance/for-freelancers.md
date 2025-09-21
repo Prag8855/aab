@@ -102,4 +102,4 @@ When you are self-employed, you do not get paid [sick leave](/glossary/Krankenge
 [^6]: [Seamus Wolf](/guides/german-health-insurance#insurance-brokers) (June 2025)
 [^7]: [VAB A2.3.1.12](/out/vab) (September 2025), [Feather Insurance](https://feather-insurance.com/blog/how-can-i-use-expat-health-insurance-for-my-visa/#:~:text=expat%20insurance%20is%20almost%20always%20denied) (2025)
 [^8]: [Seamus Wolf](/guides/german-health-insurance#insurance-brokers) (June 2025)
-[^9]: [§9 Abs. 1 S. 1 SGB V](https://www.gesetze-im-internet.de/sgb_5/__9.html)
+[^9]: [§ 9 Abs. 1 S. 1 SGB V](https://www.buzer.de/9_SGB_V.htm)

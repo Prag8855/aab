@@ -143,9 +143,9 @@ Any German resident or company who runs a commercial website, even if the websit
 
 ### Legal basis
 
-- [§ 5 Digitale-Dienst-Gesetz (DDG)](https://www.gesetze-im-internet.de/ddg/__5.html)
+- [§ 5 Digitale-Dienst-Gesetz (DDG)](https://www.buzer.de/5_DDG.htm)
 - [§ 55 Rundfunkstaatsvertrag (RStV)](http://www.urheberrecht.org/law/normen/rstv/RStV-13/text/2010_06.php3)
-- [§ 2 DL-InfoV](https://www.gesetze-im-internet.de/dlinfov/__2.html)
+- [§ 2 DL-InfoV](https://www.buzer.de/gesetz/9221/a165923.htm)
 
 ### Examples
 
@@ -200,7 +200,7 @@ It is not required unless you have customers, but it's always a good idea.[^15]
 
 ### Legal basis
 
-The AGB is required by [§ 312d BGB](https://www.gesetze-im-internet.de/englisch_bgb/englisch_bgb.html#p1086) if you have customers.
+The AGB is required by [§ 312d BGB](https://www.buzer.de/312d_BGB.htm) if you have customers.
 
 ### Terms and conditions checklist
 
@@ -241,7 +241,7 @@ The *Telemediengestz* says that ads on a website must be clearly labelled. You c
 Here are the basic guidelines for ads and sponsored content on your website:
 
 - **Affiliate links need to be labelled**  
-    Affiliate links are "commercial communications" according to [§ 6 DDG](https://www.gesetze-im-internet.de/ddg/__6.html). Multiple lawyers suggest to mark affiliate links as ads,[^17] even if you are not *directly* getting financial compensation for affiliate content. A footnote regarding affiliate links might be insufficient.[^21]
+    Affiliate links are "commercial communications" according to [§ 6 DDG](https://www.buzer.de/6_DDG.htm). Multiple lawyers suggest to mark affiliate links as ads,[^17] even if you are not *directly* getting financial compensation for affiliate content. A footnote regarding affiliate links might be insufficient.[^21]
 - **Sponsored content needs to be labelled**  
     If you get paid to put a sponsored post on your blog, you need to clearly tell your users that this post is an ad, and tell them who is sponsoring the ad. In other words, you can't disguise an advertisement as an editorial text.
 
@@ -253,7 +253,7 @@ Any German resident or company who uses affiliate links, sponsored content or ad
 
 ### Legal basis
 
-According to [§ 6 Digitale-Dienste-Gesetz (DDG)](https://www.gesetze-im-internet.de/ddg/__6.html), "commercial communications must be clearly recognizable as such.".
+According to [§ 6 DDG](https://www.buzer.de/6_DDG.htm), "commercial communications must be clearly recognizable as such."
 
 ### Examples
 
@@ -303,7 +303,7 @@ Our tax number (*[[Steuernummer]]*) can be found in our [Impressum](/terms).
 [^1]: [techblog.bozho.net](https://techblog.bozho.net/tracking-cookies-gdpr/)
 [^2]: [anbieterkennung.de](http://www.anbieterkennung.de/gesetze.htm)
 [^3]: [bmuv.de](https://www.bmuv.de/themen/verbraucherschutz/digitaler-verbraucherschutz/impressumspflicht#c66866)
-[^4]: [§5 DDG](https://www.gesetze-im-internet.de/ddg/__5.html)
+[^4]: [§ 5 DDG](https://www.buzer.de/5_DDG.htm)
 [^5]: [bmj.de \(archived\)](https://web.archive.org/web/20220425135201/https://www.bmj.de/DE/Verbraucherportal/DigitalesTelekommunikation/Impressumspflicht/Impressumspflicht_node.html)
 [^6]: [bmj.de \(archived\)](https://web.archive.org/web/20220425135201/https://www.bmj.de/DE/Verbraucherportal/DigitalesTelekommunikation/Impressumspflicht/Impressumspflicht_node.html#:~:text=in%20der%20regel%20sind%20das%20e-mail-adresse%20und%20telefonnummer%2C)
 [^7]: [bmj.de \(archived\)](https://web.archive.org/web/20220425135201/https://www.bmj.de/DE/Verbraucherportal/DigitalesTelekommunikation/Impressumspflicht/Impressumspflicht_node.html#:~:text=elektronisch%20als%20auch%20nicht%20elektronisch)

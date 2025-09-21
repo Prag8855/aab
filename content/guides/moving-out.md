@@ -249,10 +249,10 @@ Your landlord can refuse to give you a *Mietschuldenfreiheitsbescheinigung*. Som
 
 **[Where to ask apartment questions ➞](/guides/questions-about-berlin#apartment-questions)**
 
-[^0]: [§573c Abs. 1 BGB](https://www.gesetze-im-internet.de/bgb/__573c.html), [mieterengel.de](https://mieterengel.de/kuendigungsfrist-wohnung/#Anchor1)
+[^0]: [§ 573c Abs. 1 BGB](https://www.buzer.de/573c_BGB.htm), [mieterengel.de](https://mieterengel.de/kuendigungsfrist-wohnung/#Anchor1)
 [^1]: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_bgb/englisch_bgb.html#p2289), [ratgeber.immowelt.de](https://ratgeber.immowelt.de/a/auszug-aus-der-mietwohnung-kuendigungsfristen-nicht-vergessen.html#targetText=In%20den%20meisten%20F%C3%A4llen%3A%20drei%20Monate%20K%C3%BCndigungsfrist&targetText=Genauer%3A%20Die%20K%C3%BCndigung%20muss%20sp%C3%A4testens,das%20Mietverh%C3%A4ltnis%20am%2031.%20Juli.)
 [^2]: [berliner-mieterverein.de](https://www.berliner-mieterverein.de/magazin/online/mm0110/kein-anspruch-auf-mietschuldenfreiheitsbescheinigung-011013a.htm), [homeday.de](https://www.homeday.de/de/musterdokumente/mietschuldenfreiheitsbescheinigung/#kosten), [reddit.com](https://old.reddit.com/r/berlinsocialclub/comments/14rdwit/landlord_doesnt_provide/), [reddit.com](https://old.reddit.com/r/berlin/comments/nfjm73/landlord_doesnt_want_to_provide/)
-[^3]: [§568 BGB](https://www.gesetze-im-internet.de/bgb/__568.html), [§126 BGB](https://www.gesetze-im-internet.de/bgb/__126.html), [deurag.de](https://www.deurag.de/blog/mietvertrag-per-e-mail/), [promietrecht.de](https://www.promietrecht.de/Mieterkuendigung/Formelle-Regeln/schriftlich/Kuendigung-des-Mietvertrages-der-Wohnung-per-Mail-reicht-das-E1939.htm)
+[^3]: [§ 568 BGB](https://www.buzer.de/568_BGB.htm), [§ 126 BGB](https://www.buzer.de/126_BGB.htm), [deurag.de](https://www.deurag.de/blog/mietvertrag-per-e-mail/), [promietrecht.de](https://www.promietrecht.de/Mieterkuendigung/Formelle-Regeln/schriftlich/Kuendigung-des-Mietvertrages-der-Wohnung-per-Mail-reicht-das-E1939.htm)
 [^4]: [mietrecht.de](https://www.mietrecht.de/wohnungsbesichtigung-vermieter-recht/#1-annehmbare-gr%C3%BCnde-f%C3%BCr-eine-wohnungsbesichtigung)
 [^5]: [mietrecht.de](https://www.mietrecht.de/wohnungsbesichtigung-vermieter-recht/#21-darf-der-vermieter-sich-vertreten-lassen)
 [^6]: [mietrecht.de](https://www.mietrecht.de/wohnungsbesichtigung-vermieter-recht/#4-sind-spontane-besuche-des-vermieters-gerechtfertigt)
@@ -286,8 +286,8 @@ Your landlord can refuse to give you a *Mietschuldenfreiheitsbescheinigung*. Som
 [^34]: [mieterengel.de](https://mieterengel.de/wohnungsuebergabeprotokoll/)
 [^35]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/99fbly/best_place_to_buy_cardboard_boxes/)
 [^36]: [ssr.germanymantra.com](https://ssr.germanymantra.com/faqs)
-[^37]: [§60 Abs. 1 TKG](http://www.gesetze-im-internet.de/tkg_2021/__60.html)
-[^38]: [§60 Abs. 2 TKG](http://www.gesetze-im-internet.de/tkg_2021/__60.html#:~:text=wird%20die%20vertraglich%20geschuldete%20leistung%20am%20neuen%20wohnsitz%20nicht%20angeboten)
+[^37]: [§ 60 Abs. 1 TKG](https://www.buzer.de/60_TKG.htm)
+[^38]: [§ 60 Abs. 2 TKG](https://www.buzer.de/60_TKG.htm)
 [^39]: Jonathan Wooddin from [Smoovers](https://smoover-moving.de/) (January 2023)
 [^40]: Jonathan Wooddin from [Smoovers](https://smoover-moving.de/) (January 2023)
 [^41]: Jonathan Wooddin from [Smoovers](https://smoover-moving.de/) (January 2023)

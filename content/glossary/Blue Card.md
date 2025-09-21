@@ -31,5 +31,5 @@ You must apply for a Blue Card at the *[[Ausländerbehörde]]*, or at the German
 **[How to apply for a Blue Card ➞](/guides/blue-card)**
 
 [^1]: [anwalt.de](https://www.anwalt.de/rechtstipps/blaue-karte-eu-frei-reisen-und-arbeiten-innerhalb-der-eu-211361.html)
-[^2]: [§29 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__29.html)
-[^3]: [§18c Abs. 2 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18c.html), [Berlin.de](https://service.berlin.de/dienstleistung/326556/)
+[^2]: [§ 29 AufenthG](https://www.buzer.de/29_AufenthG.htm)
+[^3]: [§ 18c Abs. 2 AufenthG](https://www.buzer.de/18c_AufenthG.htm), [Berlin.de](https://service.berlin.de/dienstleistung/326556/)

@@ -73,17 +73,17 @@ If you donate your body to art, it will be used in [exhibitions about the human 
 
 Tell your friends and family to become organ donors. Most people want to donate their organs, but don't carry an organ donor card. Germany has one of the lowest organ donation rates in Europe,[^17] but we can change that.
 
-[^0]: [gesund.bund.de](https://gesund.bund.de/en/organ-donation#requirements), [§4 TPG](https://www.gesetze-im-internet.de/tpg/__4.html)
+[^0]: [gesund.bund.de](https://gesund.bund.de/en/organ-donation#requirements), [§ 4 TPG](https://www.buzer.de/4_TPG.htm)
 [^1]: [gesund.bund.de](https://gesund.bund.de/en/organ-donation#the-organ-donation-process), [Deutsche Welle](https://www.dw.com/en/organ-donation-germany-debates-how-to-get-people-on-the-list/a-49361641#:~:text=nearly%2010%2C000%20seriously%20ill%20people)
 [^2]: [gesund.bund.de](https://gesund.bund.de/en/organ-donation#introduction)
 [^3]: [Deutsche Welle](https://www.dw.com/en/organ-donation-germany-debates-how-to-get-people-on-the-list/a-49361641#:~:text=or%20making%20a%20provision%20in%20their%20will), [gesund.bund.de](https://gesund.bund.de/en/organ-donation#:~:text=deceased%20donations%20%E2%80%93%20consent%20and%20confirmation%20of%20death)
 [^4]: [Deutsche Welle](https://www.dw.com/en/organ-donation-germany-debates-how-to-get-people-on-the-list/a-49361641), [gesund.bund.de](https://gesund.bund.de/en/organ-donation#:~:text=deceased%20donations%20%E2%80%93%20consent%20and%20confirmation%20of%20death), [bundesgesundheitsministerium.de](https://www.organspende-info.de/zahlen-und-fakten/einstellungen-und-wissen/#:~:text=84%20prozent%20haben%20eine%20positive%20einstellung%20gegenuber%20der%20organ-%20und%20gewebespende)
 [^5]: [gesund.bund.de](https://gesund.bund.de/en/organ-donation#:~:text=living%20organ%20donation%20%E2%80%93%20protecting%20the%20health%20of%20the%20donor)
-[^6]: [gesund.bund.de](https://gesund.bund.de/en/organ-donation#:~:text=in%20terms%20of%20willingness%20to%20donate%20organs%2C%20what%20is%20known%20as%20the%20decision%20solution), [§3 TPG](https://www.gesetze-im-internet.de/tpg/__3.html), [§4 TPG](https://www.gesetze-im-internet.de/tpg/__4.html)
+[^6]: [gesund.bund.de](https://gesund.bund.de/en/organ-donation#:~:text=in%20terms%20of%20willingness%20to%20donate%20organs%2C%20what%20is%20known%20as%20the%20decision%20solution), [§ 3 TPG](https://www.buzer.de/3_TPG.htm), [§ 4 TPG](https://www.buzer.de/4_TPG.htm)
 [^7]: [gesund.bund.de](https://gesund.bund.de/en/organ-donation#:~:text=it%E2%80%99s%20important%20for%20people%20to%20also%20inform%20their%20next%20of%20kin%20about%20their%20decision%20and%20to%20let%20them%20know%20where%20the%20donor%20card%20is%20kept.)
-[^8]: [§18 TPG](https://www.gesetze-im-internet.de/tpg/__18.html)
-[^9]: [§3 TPG](https://www.gesetze-im-internet.de/tpg/__3.html)
-[^10]: [§3 TPG](https://www.gesetze-im-internet.de/tpg/__3.html)
+[^8]: [§ 18 TPG](https://www.buzer.de/18_TPG.htm)
+[^9]: [§ 3 TPG](https://www.buzer.de/3_TPG.htm)
+[^10]: [§ 3 TPG](https://www.buzer.de/3_TPG.htm)
 [^11]: [bundesgesundheitsministerium.de](https://www.bundesgesundheitsministerium.de/themen/praevention/organspende/faqs.html)
 [^12]: [bundesgesundheitsministerium.de](https://www.bundesgesundheitsministerium.de/themen/praevention/organspende/faqs.html)
 [^13]: They are building one, but it's not ready. [bundesgesundheitsministerium.de](https://www.bundesgesundheitsministerium.de/themen/praevention/organspende/faqs.html)

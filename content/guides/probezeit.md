@@ -72,15 +72,15 @@ After your probation is over, you can use all your vacation days for the year.[^
 **[Vacation days in Germany ➞](/guides/vacation-days)**
 
 [^0]: [arbeitsvertrag.org](https://www.arbeitsvertrag.org/probezeit/)
-[^1]: [arbeitsrechte.de](https://www.arbeitsrechte.de/probezeit/#Kuendigung_in_der_Probezeit), [§622 BGB](https://www.gesetze-im-internet.de/bgb/__622.html)
+[^1]: [arbeitsrechte.de](https://www.arbeitsrechte.de/probezeit/#Kuendigung_in_der_Probezeit), [§ 622 BGB](https://www.buzer.de/622_BGB.htm)
 [^2]: [bewerbung.co](https://bewerbung.co/urlaub-in-der-probezeit)
 [^3]: [dgbrechtsschutz.de](https://www.dgbrechtsschutz.de/recht/arbeitsrecht/befristung/die-10-wichtigsten-fragen-zur-probezeit/)
-[^4]: [sns-anwaelte.de](https://www.sns-anwaelte.de/Die-Probezeit-im-Arbeitsverhaeltnis_722.aspx#dauer), [§5 BUrlG](https://www.gesetze-im-internet.de/burlg/__5.html)
+[^4]: [sns-anwaelte.de](https://www.sns-anwaelte.de/Die-Probezeit-im-Arbeitsverhaeltnis_722.aspx#dauer), [§ 5 BUrlG](https://www.buzer.de/5_BUrlG.htm)
 [^5]: [bewerbung.co](https://bewerbung.co/urlaub-in-der-probezeit#:~:text=andere%20haben%20hingegen%20angst)
 [^6]: [am-buero.de](https://am-buero.de/neuer-job-keine-entgeltfortzahlung-bei-krankheit-in-den-ersten-vier-wochen/), [arbeitnow.com](https://www.arbeitnow.com/blog/sick-leave-in-germany/#sick-leave-in-the-first-month-of-a-job)
 [^7]: [kanzlei-hasselbach.de](https://www.kanzlei-hasselbach.de/blog/kuendigung-und-kuendigungsschutz-in-der-schwangerschaft/#probezeit)
 [^8]: [mietercoach.de](https://mietercoach.de/2019/02/12/wohnung-mieten-kriterien/), [arbeitsvertrag.org](https://www.arbeitsvertrag.org/kredit-mit-befristeten-arbeitsvertrag/)
-[^9]: [§622 BGB](https://www.gesetze-im-internet.de/bgb/__622.html)
+[^9]: [§ 622 BGB](https://www.buzer.de/622_BGB.htm)
 [^10]: [karrierebibel.de](https://karrierebibel.de/lange-kuendigungsfrist/)
 [^11]: [reddit.com](https://old.reddit.com/r/germany/comments/s1cx6t/notice_period_when_quitting_a_job_whats_the/)
 [^12]: [howtogermany.com](https://www.howtogermany.com/pages/employee-rights.html), [personio.de](http://web.archive.org/web/20230216130453/https://www.personio.de/hr-lexikon/urlaubsanspruch-berechnen/)

@@ -167,9 +167,9 @@ A tax advisor can answer your questions and help you file your German taxes corr
 
 **[Find your Finanzamt ➞](/out/finanzamt-finder)**
 
-[^0]: [§32a EStG](https://www.gesetze-im-internet.de/estg/__32a.html)
+[^0]: [§ 32a EStG](https://www.buzer.de/32a_EStG.htm)
 [^1]: [selbststaendig.de](https://www.selbststaendig.de/wissen/steuerklasse-fuer-selbststaendige)
-[^2]: [§32a EStG](https://www.gesetze-im-internet.de/estg/__32a.html)
-[^3]: [§32d EStG](https://www.gesetze-im-internet.de/estg/__32d.html)
+[^2]: [§ 32a EStG](https://www.buzer.de/32a_EStG.htm)
+[^3]: [§ 32d EStG](https://www.buzer.de/32d_EStG.htm)
 [^4]: [wendl-koehler.de](https://wendl-koehler.de/rechtliches/kryptowaehrung-steuererklaerung/)
 [^5]: [orderbird.com](https://www.orderbird.com/blog/trinkgeld-versteuern/#anker2)

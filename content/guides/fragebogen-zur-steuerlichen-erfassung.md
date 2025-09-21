@@ -448,7 +448,7 @@ This is the business location that pays the payroll tax. If you only have one bu
 
 In this section, you register for VAT, and choose how to make VAT (*[[Umsatzsteuer]]*) payments. You must understand [how VAT works in Germany](/guides/value-added-tax).
 
-**Geschäftsveräußerung im Ganzen ([§ 1 Absatz 1a UStG](https://www.gesetze-im-internet.de/ustg_1980/__1.html))**  
+**Geschäftsveräußerung im Ganzen ([§ 1 Abs. 1a UStG](https://www.buzer.de/1_UStG.htm))**  
 If you are not buying or selling another company, choose "Nein". If you are not sure, [ask a tax advisor](/guides/english-speaking-steuerberater-berlin) about it.
 
 **Summe der Umsätze (geschätzt)** - Total revenue (estimated)  
@@ -473,10 +473,10 @@ Enter how much VAT you will collect. This decides how you will make VAT payments
 **Steuerbefreiung** - Tax exemption  
 If you are a small business (*[[Kleinunternehmer]]*), and you don't plan to charge VAT, skip this subsection.
 
-- **Es werden ganz oder teilweise steuerfreie Umsätze gemäß [§ 4 UStG](https://www.gesetze-im-internet.de/ustg_1980/__4.html) ausgeführt** - There will be tax-free revenue according to [§ 4 UStG](https://www.gesetze-im-internet.de/ustg_1980/__4.html).  
-    Choose "Ja" if you want to apply for partial or total VAT exemptions according to [§ 4 UStG](https://www.gesetze-im-internet.de/ustg_1980/__4.html). [Here is a list of activities](https://www.smartsteuer.de/online/lexikon/s/steuerbefreiungen-gem-%C2%A7-4-ustg/) that can have tax exemptions.[^12] If you are a freelancer or a small business, this probably does not apply to you.
+- **Es werden ganz oder teilweise steuerfreie Umsätze gemäß [§ 4 UStG](https://www.buzer.de/4_UStG.htm) ausgeführt** - There will be tax-free revenue according to [§ 4 UStG](https://www.buzer.de/4_UStG.htm).  
+    Choose "Ja" if you want to apply for partial or total VAT exemptions according to [§ 4 UStG](https://www.buzer.de/4_UStG.htm). [Here is a list of activities](https://www.smartsteuer.de/online/lexikon/s/steuerbefreiungen-gem-%C2%A7-4-ustg/) that can have tax exemptions.[^12] If you are a freelancer or a small business, this probably does not apply to you.
 - **nach § 4 Nummer** - According to § 4 paragraph...  
-    Write the number of the paragraph in [§ 4 UStG](https://www.gesetze-im-internet.de/ustg_1980/__4.html) that qualifies you for a tax exemption. For example, "15a" (tax exemption for medical services). [This list](https://www.smartsteuer.de/online/lexikon/s/steuerbefreiungen-gem-%C2%A7-4-ustg/) can help you. If you chose "Nein" in the previous field, leave this field empty.
+    Write the number of the paragraph in [§ 4 UStG](https://www.buzer.de/4_UStG.htm) that qualifies you for a tax exemption. For example, "15a" (tax exemption for medical services). [This list](https://www.smartsteuer.de/online/lexikon/s/steuerbefreiungen-gem-%C2%A7-4-ustg/) can help you. If you chose "Nein" in the previous field, leave this field empty.
 - **Art des Umsatzes / der Tätigkeit** - Type of revenue or activity  
     The activity for which you want a tax exemption. For example: "medizinische Dienste" (medical services).[^13] [This list](https://www.smartsteuer.de/online/lexikon/s/steuerbefreiungen-gem-%C2%A7-4-ustg/) can help you. If you do not apply for a tax exemption, leave this field empty.
 
@@ -484,16 +484,16 @@ If you are a small business (*[[Kleinunternehmer]]*), and you don't plan to char
 If you are a small business (*[[Kleinunternehmer]]*), and you don't plan to charge VAT, skip this subsection.
 
 - **Es werden Umsätze ausgeführt, die ... dem ermäßigten Steuersatz gemäß § 12 Abs. 2 UStG unterliegen** - Some revenue will have a reduced tax rate according to § 12 Abs. 2 UStG.  
-    Choose "Ja" if you want to charge a lower VAT according to [§ 12 UStG](https://www.gesetze-im-internet.de/ustg_1980/__12.html). [For some products and services](https://www.gesetze-im-internet.de/ustg_1980/anlage_2.html), you can charge a {{ VAT_RATE_REDUCED }}% VAT instead of {{ VAT_RATE }}%. You must list these products separately on your invoices, and you must specify why the lower tax rate applies.
+    Choose "Ja" if you want to charge a lower VAT according to [§ 12 UStG](https://www.buzer.de/12_UStG.htm). [For some products and services](https://www.gesetze-im-internet.de/ustg_1980/anlage_2.html), you can charge a {{ VAT_RATE_REDUCED }}% VAT instead of {{ VAT_RATE }}%. You must list these products separately on your invoices, and you must specify why the lower tax rate applies.
 - **nach § 12 Absatz 2 Nummer ... UStG** - According to § 12 paragraph...  
-    Write the number of the paragraph in [§ 12 UStG](https://www.gesetze-im-internet.de/ustg_1980/__12.html) that qualifies you for a lower VAT. If you chose "Nein" in the previous field, leave this field empty.
+    Write the number of the paragraph in [§ 12 UStG](https://www.buzer.de/12_UStG.htm) that qualifies you for a lower VAT. If you chose "Nein" in the previous field, leave this field empty.
 - **Art des Umsatzes / der Tätigkeit** - Type of revenue or activity  
     The activity for which you want to charge a lower VAT. If you do not plan to charge less VAT, leave this field empty.
 
 **Durchschnittssatzbesteuerung**  
 This only applies to agricultural and silvicultural businesses. If it does not apply to you, skip this subsection.
 
-- **Es werden ... Umsätze ausgeführt, die der Durchschnittssatzbesteuerung gemäß [§ 24 UStG](https://www.gesetze-im-internet.de/ustg_1980/__24.html) unterliegen** - Some revenue will be taxed according to § 24 UStG.  
+- **Es werden ... Umsätze ausgeführt, die der Durchschnittssatzbesteuerung gemäß [§ 24 UStG](https://www.buzer.de/24_UStG.htm) unterliegen** - Some revenue will be taxed according to § 24 UStG.  
     Choose "Ja" if you want to charge taxes according to § 24 UStG. This only applies to agricultural and silvicultural businesses. If it does not apply to you, choose "Nein".
 
 **Soll- / Istversteuerung der Entgelte**  
@@ -504,11 +504,11 @@ You can choose to calculate VAT payments based on the revenue you *should* have 
         You make VAT payments based on the amounts you have invoiced, even if you haven't received the money yet.
     - **Istversteuerung**  
         Check this box if you want to charge VAT based on the amount you *actually* have collected. You only make VAT payments once you receive money from your customers. If you are a freelancer or a small business, this is the best option for you.[^12]
-- **Ich beantrage die Istversteuerung, weil der ... Gesamtumsatz für das Gründungsjahr den in [§ 20 Satz 1 Nummer 1 UStG](https://www.gesetze-im-internet.de/ustg_1980/__20.html) genannten Betrag voraussichtlich nicht übersteigen wird.**  
+- **Ich beantrage die Istversteuerung, weil der ... Gesamtumsatz für das Gründungsjahr den in [§ 20 Satz 1 Nummer 1 UStG](https://www.buzer.de/20_UStG.htm) genannten Betrag voraussichtlich nicht übersteigen wird.**  
     Check this box if you chose *Istversteuerung*, and you expect to make less than €{{DOUBLE_ENTRY_MIN_REVENUE|cur}} in revenue during your first year.[^14]
-- **Ich beantrage die Istversteuerung, weil ich von der Verpflichtung, Bücher zu führen und auf Grund jährlicher Bestandsaufnahmen regelmäßig Abschlüsse zu machen, nach [§ 148 AO](https://www.gesetze-im-internet.de/englisch_ao/englisch_ao.html#p1456) befreit bin**  
-    Check this box if you chose *Istversteuerung*, and you don't want to use double entry bookkeeping because of [§148 AO](https://www.gesetze-im-internet.de/englisch_ao/englisch_ao.html#p1456). In other words, check this box if you think double entry bookkeeping would be too hard for your business.
-- **Ich beantrage die Istversteuerung, weil ich Umsätze ausführe, für die ich als Angehöriger eines freien Berufs im Sinne von [§ 18 Abs. 1 Nr. 1 EStG](https://www.gesetze-im-internet.de/estg/__18.html) weder buchführungspflichtig bin noch freiwillig Bücher führe**  
+- **Ich beantrage die Istversteuerung, weil ich von der Verpflichtung, Bücher zu führen und auf Grund jährlicher Bestandsaufnahmen regelmäßig Abschlüsse zu machen, nach [§ 148 AO](https://www.buzer.de/148_AO.htm) befreit bin**  
+    Check this box if you chose *Istversteuerung*, and you don't want to use double entry bookkeeping because of [§ 148 AO](https://www.buzer.de/148_AO.htm). In other words, check this box if you think double entry bookkeeping would be too hard for your business.
+- **Ich beantrage die Istversteuerung, weil ich Umsätze ausführe, für die ich als Angehöriger eines freien Berufs im Sinne von [§ 18 Abs. 1 Nr. 1 EStG](https://www.buzer.de/18_EStG.htm) weder buchführungspflichtig bin noch freiwillig Bücher führe**  
     Check this box if you chose *Istversteuerung*, and you don't want to use double entry bookkeeping because you are a *[[Freiberufler]]*.
 
 **Umsatzsteuer-Identifikationsnummer**  
@@ -560,7 +560,7 @@ In this section, you explain if you will sell products and services online.
 - **Ich verkaufe über einen eigenen Webshop** - I sell on my own online store
 - **Web-Adresse (URL)**  
     The URL of your online store
-- **Ich werde über eine/mehrere elektronische Schnittstelle(n) im Sinne des § 25e Absatz 5 UStG handeln ...** - I will trade via an electronic interface according to [§ 25e Abs. 5 UStG](https://www.gesetze-im-internet.de/ustg_1980/__25e.html)  
+- **Ich werde über eine/mehrere elektronische Schnittstelle(n) im Sinne des § 25e Absatz 5 UStG handeln ...** - I will trade via an electronic interface according to [§ 25e Abs. 5 UStG](https://www.buzer.de/25e_UStG.htm)  
     Check this box if you will sell products or services on an online marketplace, online platform or online store. This includes platforms like Amazon and eBay.
 
 **Elektronische Marktplätze - Electronic marketplaces**  

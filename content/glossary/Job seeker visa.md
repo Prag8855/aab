@@ -24,4 +24,4 @@ You must apply for a job seeker visa at the *[[Ausländerbehörde]]* in Germany.
 
 **[How to apply for a job seeker visa ➞](/guides/residence-permit#how-to-get-a-residence-permit)**
 
-[^1]: [§20 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__20.html)
+[^1]: [§ 20 AufenthG](https://www.buzer.de/20_AufenthG.htm)

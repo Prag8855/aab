@@ -91,11 +91,11 @@ If you still have unused vacation day when your employment ends, your employer m
 
 **[Vacation days when you change jobs ➞](/guides/vacation-days#if-you-change-jobs)**
 
-[^1]: [§622 Abs. 3 BGB](https://www.gesetze-im-internet.de/bgb/__622.html)
-[^2]: [§622 Abs. 1 BGB](http://www.gesetze-im-internet.de/bgb/__622.html)
-[^3]: [§622 Abs. 2 BGB](http://www.gesetze-im-internet.de/bgb/__622.html)
-[^4]: [§113 InsO](https://www.gesetze-im-internet.de/inso/__113.html), [juraforum.de](https://www.juraforum.de/gesetze/bgb/622-kuendigungsfristen-bei-arbeitsverhaeltnissen), [Finanztip](https://www.finanztip.de/arbeitsrecht-kuendigungsfrist/#:~:text=der%20Probezeit%20nicht.-,insolvenzverfahren,--%C2%A0K%C3%BCndigt%20der%20Insolvenzverwalter)
-[^5]: [§187 BGB](https://www.gesetze-im-internet.de/bgb/__187.html), [kanzlei-hasselbach.de](https://www.kanzlei-hasselbach.de/blog/zugang-einer-kuendigung-arbeitsrecht/), [t-online.de](https://www.t-online.de/finanzen/beruf-karriere/beruf/id_92015180/kuendigungsfrist-berechnen-so-geht-s-beispiele-fuer-arbeitnehmer.html#:~:text=berechnungsgrundlage%20ist%20immer%20das%20datum%2C%20an%20dem%20die%20kundigung%20beim%20arbeitgeber%20eingeht)
+[^1]: [§ 622 Abs. 3 BGB](https://www.buzer.de/622_BGB.htm)
+[^2]: [§ 622 Abs. 1 BGB](https://www.buzer.de/622_BGB.htm)
+[^3]: [§ 622 Abs. 2 BGB](https://www.buzer.de/622_BGB.htm)
+[^4]: [§ 113 InsO](https://www.buzer.de/113_InsO.htm), [juraforum.de](https://www.juraforum.de/gesetze/bgb/622-kuendigungsfristen-bei-arbeitsverhaeltnissen), [Finanztip](https://www.finanztip.de/arbeitsrecht-kuendigungsfrist/#:~:text=der%20Probezeit%20nicht.-,insolvenzverfahren,--%C2%A0K%C3%BCndigt%20der%20Insolvenzverwalter)
+[^5]: [§ 187 BGB](https://www.buzer.de/187_BGB.htm), [kanzlei-hasselbach.de](https://www.kanzlei-hasselbach.de/blog/zugang-einer-kuendigung-arbeitsrecht/), [t-online.de](https://www.t-online.de/finanzen/beruf-karriere/beruf/id_92015180/kuendigungsfrist-berechnen-so-geht-s-beispiele-fuer-arbeitnehmer.html#:~:text=berechnungsgrundlage%20ist%20immer%20das%20datum%2C%20an%20dem%20die%20kundigung%20beim%20arbeitgeber%20eingeht)
 [^6]: [Finanztip](https://www.finanztip.de/freistellung-arbeitnehmer/#:~:text=wird%20der%20arbeitnehmer%20oftmals%20freigestellt)
 [^7]: [Finanztip](https://www.finanztip.de/freistellung-arbeitnehmer/)
 [^8]: [Finanztip](https://www.finanztip.de/freistellung-arbeitnehmer/#:~:text=das%20hat%20aber%20keine%20sozialversicherungsrechtlichen%20konsequenzen)
@@ -107,4 +107,4 @@ If you still have unused vacation day when your employment ends, your employer m
 [^14]: [Andreas Martin](https://rechtsanwalt-arbeitsrecht-in-berlin.de/) (July 2025)
 [^15]: [Andreas Martin](https://rechtsanwalt-arbeitsrecht-in-berlin.de/) (July 2025)
 [^16]: [Finanztip](https://www.finanztip.de/sperrzeit-arbeitslosengeld/#:~:text=Sollst%20Du%20laut,Du%20eine%20Sperrzeit.) (November 2024), [Andreas Martin](https://rechtsanwalt-arbeitsrecht-in-berlin.de/) (July 2025)
-[^17]: [§7 Abs. 4 BUrlG](https://www.gesetze-im-internet.de/burlg/__7.html)
+[^17]: [§ 7 Abs. 4 BUrlG](https://www.buzer.de/7_BUrlG.htm)
