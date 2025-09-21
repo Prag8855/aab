@@ -140,7 +140,7 @@ The appointment takes 5 to 15 minutes.
 
 ### 4. Verify your documents
 
-Check the information on your *[[Anmeldebestätigung]]*. Bürgeramt employees often make mistakes.[^12] If you find an error, [email the Bürgeramt](/guides/berlin-burgeramt-appointment#how-to-contact-the-burgeramt).
+Check the information on your *[[Anmeldebestätigung]]*. Bürgeramt employees often make mistakes.[^12] If you find an error, [email the Bürgeramt](/guides/berlin-burgeramt-appointment#contact-the-burgeramt).
 
 ### 5. Wait for your tax ID
 
