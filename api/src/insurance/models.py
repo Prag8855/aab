@@ -35,6 +35,11 @@ class Occupation(models.TextChoices):
     OTHER = "other", "Other/unknown"
 
 
+class Brokers(models.TextChoices):
+    CHRISTINA_WEBER = 'christina-weber', "Christina Weber"
+    SEAMUS_WOLF = 'seamus-wolf', "Seamus Wolf"
+
+
 class Case(models.Model):
     """
     A need that usually results in an insurance policy being signed.
@@ -46,6 +51,8 @@ class Case(models.Model):
 
     creation_date = models.DateTimeField(auto_now_add=True)
     notes = models.TextField("Initial notes", blank=True, help_text="For future notes, add Updates to the Case.")
+
+    broker = models.CharField(max_length=30, choices=Brokers, default=Brokers.SEAMUS_WOLF)
     referrer = models.CharField(blank=True, help_text="Part of the commissions will be paid out to that referrer")
 
     # Denormalized field to speed up filtering
@@ -101,6 +108,23 @@ class Case(models.Model):
             facts.append("Not married")
 
         return " · ".join(facts)
+
+    @property
+    def broker_info(self):
+        return {
+            'christina-weber': {
+                'is_male': False,
+                'first_name': 'Christina',
+                'full_name': 'Christina Weber',
+                'email': 'hello@feather-insurance.com',
+            },
+            'seamus-wolf': {
+                'is_male': True,
+                'first_name': 'Seamus',
+                'full_name': 'Seamus Wolf',
+                'email': 'Seamus.Wolf@horizon65.com',
+            },
+        }[self.broker]
 
     class Meta:
         ordering = ['-creation_date']
@@ -225,20 +249,26 @@ class CaseNotificationMixin(ScheduledMessage):
 
 
 class CustomerNotification(CaseNotificationMixin, ScheduledMessage):
-    subject = 'Seamus will contact you soon'
     template = 'customer-notification.html'
 
     @property
     def recipients(self) -> list[str]:
         return [self.case.email, ]
 
+    @property
+    def subject(self) -> str:
+        return f'{self.case.broker_info["first_name"]} will contact you soon'
+
     class Meta(ScheduledMessage.Meta):
         pass
 
 
 class BrokerNotification(CaseNotificationMixin, ScheduledMessage):
-    recipients = ['Seamus.Wolf@horizon65.com', ]
     template = 'broker-notification.html'
+
+    @property
+    def recipients(self) -> list[str]:
+        return [self.case.broker_info['email'], ]
 
     @property
     def subject(self) -> str:
@@ -253,9 +283,12 @@ class BrokerNotification(CaseNotificationMixin, ScheduledMessage):
 
 
 class FeedbackNotification(CaseNotificationMixin):
-    subject = 'Did Seamus help you get insured?'
     template = 'feedback-notification.html'
     delivery_date = models.DateTimeField(default=in_1_week)
+
+    @property
+    def subject(self) -> str:
+        return f'Did {self.case.broker_info["first_name"]} help you get insured?'
 
     @property
     def recipients(self) -> list[str]:

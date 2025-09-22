@@ -1,8 +1,8 @@
 <p>Hi {{ message.case.insured_persons.first.first_name|default:"there" }},</p>
 
-<p>You asked a health insurance question on All About Berlin. Seamus will contact you today or tomorrow.</p>
+<p>You asked a health insurance question on All About Berlin. {{ message.case.broker_info.first_name }} will contact you today or tomorrow.</p>
 
-<p>I work with Seamus because I trust him. If you have any feedback, just reply to this email.</p>
+<p>I work with {{ message.case.broker_info.first_name }} because I trust {{ message.case.broker_info.is_male|yesno:"him,her"}}. If you have any feedback, just reply to this email.</p>
 
 <p>Kind regards,<br>Nicolas Bouliane, All About Berlin</p>
 

@@ -74,14 +74,14 @@ class CaseAdmin(admin.ModelAdmin):
             'fields': ('status', 'creation_date', 'notes', 'referrer'),
         }),
         ('Contact information', {
-            'fields': ('contact_method', 'name', 'email', 'phone', 'whatsapp')
+            'fields': ('broker', 'contact_method', 'name', 'email', 'phone', 'whatsapp')
         }),
     )
     inlines = [InsuredPersonInline, CommentInline, OutcomeInline]
 
-    list_display = ['name', 'title', 'creation_date', 'referrer', 'status']
+    list_display = ['name', 'title', 'creation_date', 'broker', 'referrer', 'status']
     list_filter = [StatusFilter]
-    readonly_fields = ['creation_date', 'status', 'name']
+    readonly_fields = ['broker', 'creation_date', 'status', 'name']
 
 
 admin.site.register(Case, CaseAdmin)
