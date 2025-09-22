@@ -54,11 +54,6 @@ Vue.component('health-insurance-calculator', {
 			hasEUPublicHealthInsurance: userDefaults.empty,
 
 			// Contact form
-			broker: { // Remember to change she/he, him/her
-				name: '{% endraw %}{{ BROKER_FIRST_NAME }}{% raw %}',
-				fullName: '{% endraw %}{{ BROKER_FULL_NAME }}{% raw %}',
-				phoneNumber: '{% endraw %}{{ BROKER_PHONE_NUMBER }}{% raw %}',
-			},
 			contactMethod: null,
 			fullName: userDefaults.empty,
 			email: userDefaults.empty,
@@ -153,8 +148,31 @@ Vue.component('health-insurance-calculator', {
 		},
 
 		// Contact form
-		textareaPlaceholder() {
-			return `How can ${this.broker.name} help you?`;
+		broker() {
+			const brokers = [
+				{
+					id: 'christina-weber',
+					name: 'Christina',
+					fullName: 'Christina Weber',
+					phoneNumber: '+493083792299',
+					he: 'she',
+					him: 'her',
+					his: 'her',
+				},
+				{
+					id: 'seamus-wolf',
+					name: 'Seamus',
+					fullName: 'Seamus Wolf',
+					phoneNumber: '+491626969454',
+					he: 'he',
+					him: 'him',
+					his: 'his',
+				},
+			];
+			const brokerId = localStorage.getItem('healthInsuranceBroker') || brokers[Math.floor(Math.random() * brokers.length)].id;
+			localStorage.setItem('healthInsuranceBroker', brokerId);
+
+			return brokers.find(b => b.id === brokerId) || brokers[0];
 		},
 		personSummary(){
 			if(!this.occupation){
@@ -244,6 +262,9 @@ Vue.component('health-insurance-calculator', {
 		},
 
 		// Insurance questions
+		capitalize(word){
+			return word.charAt(0).toUpperCase() + word.slice(1);
+		},
 		selectOccupation(occupation){
 			this.occupation = occupation;
 			occupation ? this.nextStage() : this.goToStage('askABroker');
@@ -271,6 +292,7 @@ Vue.component('health-insurance-calculator', {
 							notes: this.caseNotes,
 							referrer: getReferrer() || '',
 							contact_method: this.contactMethod || 'EMAIL',
+							broker: this.broker.id,
 							insured_persons: [
 								{
 									// If occupation is not set, we are in "It's complicated" mode and the input values must be ignored
@@ -598,11 +620,11 @@ Vue.component('health-insurance-calculator', {
 			<template v-if="stage === 'askABroker'">
 				<div class="form-recipient">
 					<div>
-						<p>{{ broker.name }} will help you <strong>choose the best health insurance</strong>. I work with her because she is honest and knowledgeable.</p>
-						<p>She replies on the same day. Her help is <strong>100% free</strong>.</p>
+						<p>{{ broker.name }} will help you <strong>choose the best health insurance</strong>. I work with {{ broker.him }} because {{ broker.he }} is honest and knowledgeable.</p>
+						<p>{{ capitalize(broker.he) }} replies on the same day. {{ capitalize(broker.his) }} help is <strong>100% free</strong>.</p>
 					</div>
 					<img
-						srcset="/experts/photos/bioLarge1x/christina-weber.jpg, /experts/photos/bioLarge2x/christina-weber.jpg 2x"
+						:srcset="'/experts/photos/bioLarge1x/' + broker.id + '.jpg, /experts/photos/bioLarge2x/' + broker.id + '.jpg 2x'"
 						:alt="broker.fullName" width="125" height="125"
 						sizes="125px">
 				</div>
@@ -619,7 +641,7 @@ Vue.component('health-insurance-calculator', {
 					<hr>
 					<div class="form-group">
 						<label :for="uid('fullName')">
-							Name
+							Your name
 						</label>
 						<full-name-input
 							:for="uid('fullName')"
@@ -641,7 +663,7 @@ Vue.component('health-insurance-calculator', {
 							<label :for="uid('question')">
 								Your question
 							</label>
-							<textarea :id="uid('question')" v-model="question" :placeholder="textareaPlaceholder"></textarea>
+							<textarea :id="uid('question')" v-model="question" :placeholder="'How can ' + broker.name + ' help you?'"></textarea>
 						</div>
 					</template>
 				</template>
@@ -667,7 +689,7 @@ Vue.component('health-insurance-calculator', {
 			</template>
 
 			<template v-if="stage === 'thank-you' || stage === 'error'">
-				<p v-if="stage === 'thank-you'"><strong>Thank you!</strong> {{ broker.name }} will contact you today or during the next business day.</p>
+				<p v-if="stage === 'thank-you'"><strong>Thank you!</strong> {{ broker.name }} will answer your question in the next 24 hours.</p>
 				<p v-if="stage === 'error'"><strong>An error occured</strong> while sending your question. If this keeps happening, <a target="_blank" href="/contact">contact me</a>.</p>
 				<hr>
 				<div class="buttons bar">
