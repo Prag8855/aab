@@ -54,6 +54,11 @@ Vue.component('health-insurance-calculator', {
 			hasEUPublicHealthInsurance: userDefaults.empty,
 
 			// Contact form
+			broker: { // Remember to change she/he, him/her
+				name: '{% endraw %}{{ BROKER_FIRST_NAME }}{% raw %}',
+				fullName: '{% endraw %}{{ BROKER_FULL_NAME }}{% raw %}',
+				phoneNumber: '{% endraw %}{{ BROKER_PHONE_NUMBER }}{% raw %}',
+			},
 			contactMethod: null,
 			fullName: userDefaults.empty,
 			email: userDefaults.empty,
@@ -86,7 +91,7 @@ Vue.component('health-insurance-calculator', {
 			// TODO: Test collapsible header text
 			// TODO: Length of progress bar changes depending on mode
 			// TODO: askForCurrentInsurance: run two calculations and see if they differ. No business logic there.
-			// TODO: Set submit button text based on purpose ("Ask Seamus")
+			// TODO: Set submit button text based on purpose ("Ask Christina")
 			// TODO: .health-insurance-question is gone. Fix the CSS.
 			// TODO: Use email-input and full-name-input everywhere
 			// TODO: Add childrenCount to API
@@ -148,6 +153,9 @@ Vue.component('health-insurance-calculator', {
 		},
 
 		// Contact form
+		textareaPlaceholder() {
+			return `How can ${this.broker.name} help you?`;
+		},
 		personSummary(){
 			if(!this.occupation){
 				// "It's complicated"
@@ -206,10 +214,10 @@ Vue.component('health-insurance-calculator', {
 			return (new Intl.ListFormat('en-US', {style: 'long', type: 'conjunction'}).format(facts)) + '.';
 		},
 		whatsappMessage(){
-			return `Hi Seamus, can you help me choose health insurance? ${this.personSummary}`;
+			return `Hi ${this.broker.name}, can you help me choose health insurance? ${this.personSummary}`;
 		},
 		whatsappUrl(){
-			return `https://wa.me/{% endraw %}{{ BROKER_PHONE_NUMBER }}{% raw %}?text=${encodeURIComponent(this.whatsappMessage)}`;
+			return `https://wa.me/${this.broker.phoneNumber}?text=${encodeURIComponent(this.whatsappMessage)}`;
 		},
 		caseNotes(){
 			return `QUESTION:\n${this.question || 'not specified'}\n\nSUMMARY:\n${this.personSummary || 'not specified'}`;
@@ -436,7 +444,7 @@ Vue.component('health-insurance-calculator', {
 
 			<template v-if="stage === 'questions'">
 				<h3>Tell us a bit more about you&hellip;</h3>
-				<p v-if="mode === 'question'">It's optional, but it helps Seamus recommend the right health insurance.</p>
+				<p v-if="mode === 'question'">It's optional, but it helps {{ broker.name }} recommend the right health insurance.</p>
 				<p v-else>It helps us calculate prices and recommend the right health insurance.</p>
 				<hr>
 				<div class="form-group">
@@ -563,12 +571,12 @@ Vue.component('health-insurance-calculator', {
 							<i class="icon left" aria-hidden="true"></i> <span class="no-mobile">Go back</span>
 						</button>
 						<button v-if="contactMethod === 'EMAIL'" class="button primary" @click="createCase" :disabled="isLoading" :class="{loading: isLoading}">
-							Ask Seamus
+							Ask {{ broker.name }}
 						</button>
 						<a v-if="contactMethod === 'WHATSAPP'" :href="whatsappUrl" @click="createCase" class="button whatsapp" :disabled="isLoading" target="_blank">
 							{% endraw %}{% include "_css/icons/whatsapp.svg" %}{% raw %}
 							<span class="only-mobile">Start chat</span>
-							<span class="no-mobile">Chat with Seamus</span>
+							<span class="no-mobile">Chat with {{ broker.name }}</span>
 						</a>
 					</template>
 				</div>
@@ -590,12 +598,12 @@ Vue.component('health-insurance-calculator', {
 			<template v-if="stage === 'askABroker'">
 				<div class="form-recipient">
 					<div>
-						<p>Seamus will help you <strong>choose the best health insurance</strong>. I work with him because he is honest and knowledgeable.</p>
-						<p>Seamus replies on the same day. His help is <strong>100% free</strong>.</p>
+						<p>{{ broker.name }} will help you <strong>choose the best health insurance</strong>. I work with her because she is honest and knowledgeable.</p>
+						<p>She replies on the same day. Her help is <strong>100% free</strong>.</p>
 					</div>
 					<img
-						srcset="/experts/photos/bioLarge1x/seamus-wolf.jpg, /experts/photos/bioLarge2x/seamus-wolf.jpg 2x"
-						alt="Seamus Wolf, insurance broker" width="125" height="125"
+						srcset="/experts/photos/bioLarge1x/christina-weber.jpg, /experts/photos/bioLarge2x/christina-weber.jpg 2x"
+						:alt="broker.fullName" width="125" height="125"
 						sizes="125px">
 				</div>
 				<hr>
@@ -633,7 +641,7 @@ Vue.component('health-insurance-calculator', {
 							<label :for="uid('question')">
 								Your question
 							</label>
-							<textarea :id="uid('question')" v-model="question" placeholder="How can Seamus help you?"></textarea>
+							<textarea :id="uid('question')" v-model="question" :placeholder="textareaPlaceholder"></textarea>
 						</div>
 					</template>
 				</template>
@@ -647,19 +655,19 @@ Vue.component('health-insurance-calculator', {
 							Continue <i class="icon right" aria-hidden="true"></i>
 						</button>
 						<button v-if="mode === 'calculator' && contactMethod === 'EMAIL'" class="button primary" @click="createCase" :disabled="isLoading" :class="{loading: isLoading}">
-							Ask Seamus
+							Ask {{ broker.name }}
 						</button>
 						<a v-if="mode === 'calculator' && contactMethod === 'WHATSAPP'" :href="whatsappUrl" @click="createCase" class="button whatsapp" :disabled="isLoading" target="_blank">
 							{% endraw %}{% include "_css/icons/whatsapp.svg" %}{% raw %}
 							<span class="only-mobile">Start chat</span>
-							<span class="no-mobile">Chat with Seamus</span>
+							<span class="no-mobile">Chat with {{ broker.name }}</span>
 						</a>
 					</div>
 				</template>
 			</template>
 
 			<template v-if="stage === 'thank-you' || stage === 'error'">
-				<p v-if="stage === 'thank-you'"><strong>Thank you!</strong> Seamus will contact you today or during the next business day.</p>
+				<p v-if="stage === 'thank-you'"><strong>Thank you!</strong> {{ broker.name }} will contact you today or during the next business day.</p>
 				<p v-if="stage === 'error'"><strong>An error occured</strong> while sending your question. If this keeps happening, <a target="_blank" href="/contact">contact me</a>.</p>
 				<hr>
 				<div class="buttons bar">
