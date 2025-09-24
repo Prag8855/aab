@@ -4,6 +4,7 @@ Short_title: How to get a Blue Card
 Description: This is how you apply for a Blue Card to work in Germany.
 Date_created: 2023-11-18
 Related_reviews:
+    reviews/blue-card/mirko-vorreuter.md
     reviews/blue-card/emily-archer.md
     reviews/blue-card/charlotte-forestier.md
     reviews/blue-card/debora-aust.md
@@ -48,7 +49,7 @@ To get a Blue Card, you need...[^18]
 - [ ] **Permission to do this job**  
     You must have all the permits and special qualifications needed for the job.[^12] For example, doctors, engineers and lawyers need special qualifications. - [Find the requirements for your job](https://www.anerkennung-in-deutschland.de/en/interest/finder/profession)
 - [ ] **A university degree**  
-    Your university degree must be recognised in Germany. Use [Anabin](https://hallogermany.com/blog/anabin-guide-academic-degrees) to see if your school and degree are recognised. - [How to use Anabin](https://hallogermany.com/blog/anabin-guide-academic-degrees)
+    Your university degree must be recognised in Germany. Use [Anabin](https://hallogermany.com/blog/anabin-guide-academic-degrees) to see if your university and degree are recognised. - [How to use Anabin](https://hallogermany.com/blog/anabin-guide-academic-degrees)
 
 You do not need a university degree if...[^31]
 
@@ -83,7 +84,9 @@ You can apply in Germany if...
 
 If you can't apply in Germany, you must [apply in your home country](#how-to-apply-in-your-country).
 
-Usually, you can't work before you get your Blue Card.[^35] It can take [a long time](/guides/auslanderbehorde-wait-times). You might wait a few months with no income. It's cheaper and safer if you [apply in your home country](#how-to-apply-in-your-country), then come to Germany when you have permission to work.
+Usually, you can't work before you get your Blue Card.[^35] It can take [a long time](/guides/auslanderbehorde-wait-times). You might wait a few months with no income. You can get a Blue Card faster if you apply through the [Business Immigration Service](https://www.businesslocationcenter.de/en/our-services/bis-business-immigration-service).[^28]
+
+It's cheaper and safer if you [apply in your home country](#how-to-apply-in-your-country), then come to Germany when you have permission to work.
 
 **If you need help**, an [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocation consultant](/guides/relocation-agency-in-berlin) can take care of everything. It costs €500 to €2,000.[^42] Your employer might pay for it, or hire someone to help you.
 
@@ -102,7 +105,7 @@ Usually, you can't work before you get your Blue Card.[^35] It can take [a long 
 - **If you have a [job seeker visa](/glossary/Job%20seeker%20visa)**  
     You can come to Germany and look for a job. To start working, you must get a Blue Card or a [work visa](/glossary/Work%20Visa).[^11]
 - **If you have a [[Schengen visa]]**  
-    Schengen visas are for tourism, not immigration. You can't apply for a Blue Card with a Schengen visa. Your application will be rejected. You must [apply in your home country](#how-to-apply-in-your-country).[^25]
+    Schengen visas are for tourism, not immigration. Usually, if you enter Germany with a Schengen visa, you can't apply for a Blue Card *in Germany*. Your application will be rejected. You must [apply in your home country](#how-to-apply-in-your-country).[^25]
 
 If these options don't apply to you, you must [apply for the Blue Card in your home country](#how-to-apply-in-your-country).[^19]
 
@@ -145,6 +148,8 @@ It costs €{{NATIONAL_VISA_FEE|cur}}. It's cheaper for Turkish citizens. You ca
 If you have too many documents, [merge them](https://www.adobe.com/acrobat/online/merge-pdf.html) or [make them smaller](https://www.adobe.com/acrobat/online/compress-pdf.html).
 
 After you pay and send your application, you can download a PDF. This is your proof of application. Save it for later.
+
+You can also apply through the [Business Immigration Service](https://www.businesslocationcenter.de/en/our-services/bis-business-immigration-service). It's free, and it's usually much faster.[^28] Your employer must do it for you.
 
 ### 5. Wait
 
@@ -251,15 +256,17 @@ You can also apply for [permanent residence](/glossary/Niederlassungserlaubnis) 
 
 ### If you change or lose your job
 
-When you change jobs, always [tell the *Ausländerbehörde*](/guides/losing-your-job#tell-the-auslanderbehorde). You might need their permission to work for a different employer.
+**If you change jobs**, always [tell the *Ausländerbehörde*](/guides/losing-your-job#tell-the-auslanderbehorde). You might need their permission to work for a different employer.
 
-If you [lose your job](/guides/losing-your-job), your Blue Card stays valid. [Tell the *Ausländerbehörde*](/guides/losing-your-job#tell-the-auslanderbehorde) as soon as you can. In Berlin, they give you 6 to 12 months to find another job.[^26] While you are unemployed, you can get [unemployment benefits](/glossary/ALG%20I).
+**[If you lose your job](/guides/losing-your-job)**, your Blue Card stays valid. [Tell the *Ausländerbehörde*](/guides/losing-your-job#tell-the-auslanderbehorde) as soon as you can. In Berlin, they give you 6 to 12 months to find another job.[^26] You might get [unemployment benefits](/glossary/ALG%20I).
 
 **[What happens to your Blue Card ➞](/guides/losing-your-job#what-happens-to-your-residence-permit)**
 
+**[How unemployment benefits work ➞](/guides/unemployment-benefits)**
+
 ### Travel with a Blue Card
 
-Your Blue Card lets you visit other [[Schengen area]] countries without a visa. You can travel outside of Germany for up to 12 months.[^23] If you travel longer, your Blue Card expires.
+Your Blue Card lets you visit other [[Schengen area]] countries for up to 90 days without a visa. You can travel outside of Germany for up to 12 months.[^23] If you travel longer, your Blue Card expires.
 
 Your Blue Card lets you live anywhere in Germany, not just in the city where you applied.
 
@@ -267,7 +274,7 @@ Your Blue Card lets you live anywhere in Germany, not just in the city where you
 
 ### Self-employment with a Blue Card
 
-Your Blue Card might allow part-time self-employment. [Check your *Zusatzblatt*](/guides/zusatzblatt) to see if it's allowed.
+Your Blue Card might allow part-time self-employment. In Berlin, Blue Cards usually allow self-employment.[^29] [Check your *Zusatzblatt*.](/guides/zusatzblatt)
 
 Check your work contract too. You might need to tell your employer about your self-employment. Your employer might forbid self-employment if it competes with their business. For example, don't start a marketing agency while you work for another marketing agency. They can't forbid all self-employment without a reason.[^22]
 
@@ -309,9 +316,11 @@ An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocatio
 [^22]: [fachanwalt.de](https://www.fachanwalt.de/ratgeber/selbststaendig-neben-dem-vollzeitjob-wann-greift-das-wettbewerbsverbot) (November 2024)
 [^23]: [§ 51 Abs. 10 AufenthG](https://www.buzer.de/51_AufenthG.htm)
 [^24]: [§ 18g AufenthG](https://www.buzer.de/18g_AufenthG.htm)
-[^25]: [Auswärtiges Amt](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/visabestimmungen-node/staatenlistevisumpflicht-node), [§ 3 AufenthG](https://www.buzer.de/3_AufenthG.htm), [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/4e5dsp/getting_a_work_visa_in_germany_for_noneu_nonbuddy/), [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/488544264947615/?comment_id=488643064937735&comment_tracking=%7B%22tn%22%3A%22R%22%7D), [einwanderer.net](https://www.einwanderer.net/fileadmin/downloads/tabellen_und_uebersichten/Tabelle_Spurwechsel_2020.pdf)
+[^25]: [Auswärtiges Amt](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/visabestimmungen-node/staatenlistevisumpflicht-node), [§ 3 AufenthG](https://www.buzer.de/3_AufenthG.htm), [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/4e5dsp/getting_a_work_visa_in_germany_for_noneu_nonbuddy/), [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/488544264947615/?comment_id=488643064937735&comment_tracking=%7B%22tn%22%3A%22R%22%7D), [einwanderer.net](https://www.einwanderer.net/fileadmin/downloads/tabellen_und_uebersichten/Tabelle_Spurwechsel_2020.pdf). Exceptions in [§ 5 Abs. 2 S. 1 AufenthG](https://www.buzer.de/5_AufenthG.htm)
 [^26]: [Mirko Vorreuter](https://visaguard.berlin) (September 2025)
 [^27]: [make-it-in-germany.com](https://www.make-it-in-germany.com/fileadmin/1_Rebrush_2022/a_Fachkraefte/PDF-Dateien/3_Visum_u_Aufenthalt/Visagrafik_EN/2023_Jan_Erforderliche_Deutschkenntnisse_EN.pdf)
+[^28]: [Mirko Vorreuter](https://visaguard.berlin) (September 2025)
+[^29]: [Mirko Vorreuter](https://visaguard.berlin) (September 2025)
 [^30]: [Berlin.de](https://service.berlin.de/dienstleistung/324659/en/)
 [^31]: [make-it-in-germany.com](https://www.make-it-in-germany.com/en/visa-residence/skilled-immigration-act#:~:text=it%20specialists%20will%20be%20able%20to%20obtain%20an%20eu%20blue%20card)
 [^32]: [§ 18g AufenthG](https://www.buzer.de/18g_AufenthG.htm), [make-it-in-germany.com](https://www.make-it-in-germany.com/en/visa-residence/skilled-immigration-act#:~:text=group%20of%20people%3A-,new%20entrants%20to%20the%20labour%20market,-%3A%20The%20possibility%20of)

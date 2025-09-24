@@ -470,7 +470,9 @@ You can stay in Germany after it expires if...
 
 While you wait for your first residence permit, you can't work, but you can start studying.
 
-**If you have a [[Schengen visa]]**, you must leave Germany before it expires. Schengen visas are for tourism, not immigration. You can rarely extend it. You can rarely convert it into a residence permit.[^48] You can't get a *[[Fiktionsbescheinigung]]*.
+**If you have a [[Schengen visa]]**, you must leave Germany before it expires. Schengen visas are for tourism, not immigration. You can rarely extend a Schengen visa, and you can rarely convert it into a residence permit.[^48] You can't get a *[[Fiktionsbescheinigung]]*.
+
+For example, if you enter Germany on a Schengen visa, and you [find a job](/guides/find-a-job-in-berlin), you can't apply for a [work visa](/glossary/Work%20Visa) *in Germany*. Your application will be rejected. Usually, you must [apply in your home country](#how-to-apply-in-your-country).[^66]
 
 ### Travel with an expired residence permit
 
@@ -550,3 +552,4 @@ An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocatio
 [^63]: [§ 82 Abs. 6 AufenthG](https://www.buzer.de/82_AufenthG.htm)
 [^64]: [Mirko Vorreuter](https://visaguard.berlin) (September 2025)
 [^65]: [Art. 21 Schengen Agreement](https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:42000A0922(02):en:HTML)
+[^66]: [Auswärtiges Amt](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/visabestimmungen-node/staatenlistevisumpflicht-node), [§ 3 AufenthG](https://www.buzer.de/3_AufenthG.htm), [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/4e5dsp/getting_a_work_visa_in_germany_for_noneu_nonbuddy/), [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/488544264947615/?comment_id=488643064937735&comment_tracking=%7B%22tn%22%3A%22R%22%7D), [einwanderer.net](https://www.einwanderer.net/fileadmin/downloads/tabellen_und_uebersichten/Tabelle_Spurwechsel_2020.pdf). Exceptions in [§ 5 Abs. 2 S. 1 AufenthG](https://www.buzer.de/5_AufenthG.htm)

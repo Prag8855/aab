@@ -100,7 +100,7 @@ Usually, you can't work while you wait for your work visa.[^35] You might wait [
 - **If you have a [job seeker visa](/glossary/Job%20seeker%20visa)**  
     You can come to Germany and look for a job. To start working, you must get a Blue Card or a [work visa](/glossary/Work%20Visa).[^11]
 - **If you have a [[Schengen visa]]**  
-    Schengen visas are for tourism, not immigration. You can't apply for a work visa with a Schengen visa. Your application will be rejected. You must [apply in your home country](#how-to-apply-in-your-country).[^25]
+    Schengen visas are for tourism, not immigration. Usually, if you enter Germany with a Schengen visa, you can't apply for a work visa *in Germany*. Your application will be rejected. You must [apply in your home country](#how-to-apply-in-your-country).[^25]
 
 If these options don't apply to you, you must [apply for the work visa in your home country](#how-to-apply-in-your-country).[^19]
 
@@ -255,15 +255,17 @@ Tell me how long it took to get your work visa. Your feedback helps thousands of
 
 ### If you change or lose your job
 
-When you change jobs, always [tell the *Ausländerbehörde*](/guides/losing-your-job#tell-the-auslanderbehorde). You might need their permission to work for a different employer.
+**If you change jobs**, always [tell the *Ausländerbehörde*](/guides/losing-your-job#tell-the-auslanderbehorde). You might need their permission to work for a different employer.
 
-If you [lose your job](/guides/losing-your-job), your work visa stays valid. [Tell the *Ausländerbehörde*](/guides/losing-your-job#tell-the-auslanderbehorde) as soon as you can. In Berlin, they give you 6 months to find another job. While you are unemployed, you can get [unemployment benefits](/glossary/ALG%20I).
+**[If you lose your job](/guides/losing-your-job)**, your work visa stays valid. [Tell the *Ausländerbehörde*](/guides/losing-your-job#tell-the-auslanderbehorde) as soon as you can. In Berlin, they give you 6 to 12 months to find another job. You might get [unemployment benefits](/glossary/ALG%20I).
 
 **[What happens to your work visa ➞](/guides/losing-your-job#what-happens-to-your-residence-permit)**
 
+**[How unemployment benefits work ➞](/guides/unemployment-benefits)**
+
 ### Travel with a work visa
 
-Your work visa lets you visit other [[Schengen area]] countries without a visa. You can travel outside of Germany for up to 6 months.[^23] If you travel longer, your work visa expires.
+Your work visa lets you visit other [[Schengen area]] countries for up to 90 days without a visa. You can travel outside of Germany for up to 6 months.[^23] If you travel longer, your work visa expires.
 
 Your work visa lets you live anywhere in Germany, not just in the city where you applied.
 
@@ -310,7 +312,7 @@ An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocatio
 [^19]: Multiple relocation consultants (October 2023)
 [^21]: [DARE Consulting](https://dareconsulting.de/wp-content/uploads/2020/12/11_Broschuere_FEG-1.pdf#page=11) (page 9), [BAMF](https://www.bamf.de/EN/Themen/Integration/ZugewanderteTeilnehmende/AnerkennungBerufsabschluesse/anerkennungberufsabschluesse-node.html)
 [^23]: [§ 51 Abs. 1 AufenthG](https://www.buzer.de/51_AufenthG.htm)
-[^25]: [Auswärtiges Amt](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/visabestimmungen-node/staatenlistevisumpflicht-node), [§ 3 AufenthG](https://www.buzer.de/3_AufenthG.htm), [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/4e5dsp/getting_a_work_visa_in_germany_for_noneu_nonbuddy/), [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/488544264947615/?comment_id=488643064937735&comment_tracking=%7B%22tn%22%3A%22R%22%7D), [einwanderer.net](https://www.einwanderer.net/fileadmin/downloads/tabellen_und_uebersichten/Tabelle_Spurwechsel_2020.pdf)
+[^25]: [Auswärtiges Amt](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/visabestimmungen-node/staatenlistevisumpflicht-node), [§ 3 AufenthG](https://www.buzer.de/3_AufenthG.htm), [einwanderer.net](https://www.einwanderer.net/fileadmin/downloads/tabellen_und_uebersichten/Tabelle_Spurwechsel_2020.pdf). Exceptions in [§ 5 Abs. 2 S. 1 AufenthG](https://www.buzer.de/5_AufenthG.htm)
 [^27]: [make-it-in-germany.com](https://www.make-it-in-germany.com/fileadmin/1_Rebrush_2022/a_Fachkraefte/PDF-Dateien/3_Visum_u_Aufenthalt/Visagrafik_EN/2023_Jan_Erforderliche_Deutschkenntnisse_EN.pdf), [DARE Consulting](https://dareconsulting.de/wp-content/uploads/2020/12/11_Broschuere_FEG-1.pdf#page=15)
 [^30]: [Berlin.de](https://service.berlin.de/dienstleistung/305304/en/#:~:text=the%20employer%20must%20have%20a%20place%20of%20business%20in%20germany)
 [^31]: New in November 2023. [Make it in Germany](https://www.make-it-in-germany.com/en/visa-residence/skilled-immigration-act#:~:text=second%2C%20the%20restriction%20that%20individuals%20may%20only%20work%20on%20the%20basis), [§ 18a AufenthG](https://www.buzer.de/18a_AufenthG.htm), [§ 18b AufenthG](https://www.buzer.de/18b_AufenthG.htm), [Red Tape Translation](https://redtapetranslation.com/all-you-need-to-know-about-the-new-eu-blue-card/#:~:text=not%20just%20a%20job%20tied%20to%20their%20field%20of%20expertise)

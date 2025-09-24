@@ -98,7 +98,7 @@ Your current residence permit [might allow self-employment](/guides/residence-pe
 - **If you have an [opportunity card](/glossary/Chancenkarte)**  
     You can come to Germany, then convert your opportunity card into a freelance visa. You can't be self-employed with an opportunity card; you must wait for your freelance visa.[^11]
 - **If you have a [[Schengen visa]]**  
-    Schengen visas are for tourism, not immigration. You can't apply for a freelance visa with a Schengen visa. Your application will be rejected. You must [apply in your home country](#how-to-apply-in-your-country).[^25]
+    Schengen visas are for tourism, not immigration. Usually, if you enter Germany with a Schengen visa, you can't apply for a freelance visa *in Germany*. Your application will be rejected. You must [apply in your home country](#how-to-apply-in-your-country).[^25]
 
 If these options don't apply to you, you must [apply for the freelance visa in your home country](#how-to-apply-in-your-country).[^19]
 
@@ -318,7 +318,7 @@ Tell me how long it took to get your freelance visa. Your feedback helps thousan
 
 ### Travel with a freelance visa
 
-Your freelance visa lets you visit other [[Schengen area]] countries without a visa. You can travel outside of Germany for up to 6 months.[^23] If you travel longer, your freelance visa expires.
+Your freelance visa lets you visit other [[Schengen area]] countries for up to 90 days without a visa. You can travel outside of Germany for up to 6 months.[^23] If you travel longer, your freelance visa expires.
 
 Your freelance visa lets you live anywhere in Germany, not just in the city where you applied.
 
@@ -374,7 +374,7 @@ An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocatio
 [^22]: [Facebook](https://www.facebook.com/groups/germanfreelancevisa/posts/1872525116549516/) (July 2024)
 [^23]: [§ 51 Abs. 1 AufenthG](https://www.buzer.de/51_AufenthG.htm), [Berlin.de](https://www.berlin.de/einwanderung/aufenthalt/erloeschen-von-aufenthaltstiteln/)
 [^24]: [VAB 21.4.1](/out/vab)
-[^25]: [Auswärtiges Amt](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/visabestimmungen-node/staatenlistevisumpflicht-node), [§ 3 AufenthG](https://www.buzer.de/3_AufenthG.htm)
+[^25]: [Auswärtiges Amt](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/visabestimmungen-node/staatenlistevisumpflicht-node), [§ 3 AufenthG](https://www.buzer.de/3_AufenthG.htm), [einwanderer.net](https://www.einwanderer.net/fileadmin/downloads/tabellen_und_uebersichten/Tabelle_Spurwechsel_2020.pdf). Exceptions in [§ 5 Abs. 2 S. 1 AufenthG](https://www.buzer.de/5_AufenthG.htm)
 [^26]: [make-it-in-germany.com](https://www.make-it-in-germany.com/en/visa-residence/procedure/entry-process)
 [^27]: [make-it-in-germany.com](https://www.make-it-in-germany.com/fileadmin/1_Rebrush_2022/a_Fachkraefte/PDF-Dateien/3_Visum_u_Aufenthalt/Visagrafik_EN/2023_Jan_Erforderliche_Deutschkenntnisse_EN.pdf)
 [^28]: [Facebook](https://www.facebook.com/groups/germanfreelancevisa/posts/1442308979571134/) (2022)
