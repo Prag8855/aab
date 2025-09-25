@@ -1,3 +1,4 @@
+{% include '_js/libs/qrcode.js' %}
 {% include '_js/utils/constants.js' %}
 {% include '_js/utils/currency.js' %}
 {% include '_js/vue.js' %}
@@ -154,6 +155,7 @@ Vue.component('health-insurance-calculator', {
 					name: 'Christina',
 					fullName: 'Christina Weber',
 					phoneNumber: '+493083792299',
+					phoneNumberPretty: '+49 30 83792299',
 					he: 'she',
 					him: 'her',
 					his: 'her',
@@ -163,6 +165,7 @@ Vue.component('health-insurance-calculator', {
 					name: 'Seamus',
 					fullName: 'Seamus Wolf',
 					phoneNumber: '+491626969454',
+					phoneNumberPretty: '+49 162 6969454',
 					he: 'he',
 					him: 'him',
 					his: 'his',
@@ -235,6 +238,21 @@ Vue.component('health-insurance-calculator', {
 		},
 		whatsappUrl(){
 			return `https://wa.me/${this.broker.phoneNumber}?text=${encodeURIComponent(this.whatsappMessage)}`;
+		},
+		qrCode(){
+			var qrcode = new QRCode({
+				content: `https://wa.me/${this.broker.phoneNumber}`,
+				width: 150,
+				height: 150,
+				padding: 0,
+				color: 'currentColor',
+				background: 'transparent',
+				ecl: "L",
+				join: true,
+				pretty: false,
+				container: 'none',
+			}); 
+			return qrcode.svg();
 		},
 		caseNotes(){
 			return `QUESTION:\n${this.question || 'not specified'}\n\nSUMMARY:\n${this.personSummary || 'not specified'}`;
@@ -588,7 +606,7 @@ Vue.component('health-insurance-calculator', {
 						<button v-if="contactMethod === 'EMAIL'" class="button primary" @click="createCase" :disabled="isLoading" :class="{loading: isLoading}">
 							Ask {{ broker.name }}
 						</button>
-						<a v-if="contactMethod === 'WHATSAPP'" :href="whatsappUrl" @click="createCase" class="button whatsapp" :disabled="isLoading" target="_blank">
+						<a v-if="contactMethod === 'WHATSAPP'" :href="whatsappUrl" @click.prevent="createCase" class="button whatsapp" :disabled="isLoading" target="_blank">
 							{% endraw %}{% include "_css/icons/whatsapp.svg" %}{% raw %}
 							<span class="only-mobile">Start chat</span>
 							<span class="no-mobile">Chat with {{ broker.name }}</span>
@@ -681,9 +699,42 @@ Vue.component('health-insurance-calculator', {
 				</template>
 			</template>
 
-			<template v-if="stage === 'thank-you' || stage === 'error'">
-				<p v-if="stage === 'thank-you'"><strong>Thank you!</strong> {{ broker.name }} will answer your question in the next 24 hours.</p>
-				<p v-if="stage === 'error'"><strong>An error occured</strong> while sending your question. If this keeps happening, <a target="_blank" href="/contact">contact me</a>.</p>
+			<template v-if="stage === 'thank-you' && contactMethod === 'WHATSAPP'">
+				<div class="form-recipient">
+					<div>
+						<p>
+							<a :href="whatsappUrl" target="_blank">Open WhatsApp</a> <span class="no-mobile">or scan this QR code</span> to chat with {{ broker.name }}.
+						</p>
+						<p>
+							{{ capitalize(broker.his) }} number is <strong class="selectable">{{ broker.phoneNumberPretty }}</strong>.
+						</p>
+					</div>
+					<svg class="no-mobile" v-html="qrCode" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 150 150"></svg>
+				</div>
+				<hr>
+				<div class="buttons bar">
+					<button aria-label="Go back" class="button" @click="goToStart()">
+						<i class="icon left" aria-hidden="true"></i> <span class="no-mobile">Go back</span>
+					</button>
+					<a :href="whatsappUrl" class="button whatsapp" target="_blank">
+						{% endraw %}{% include "_css/icons/whatsapp.svg" %}{% raw %}
+						Open WhatsApp
+					</a>
+				</div>
+			</template>
+
+			<template v-if="stage === 'thank-you' && contactMethod === 'EMAIL'">
+				<p><strong>Thank you!</strong> {{ broker.name }} got your message. {{ capitalize(broker.he) }} will answer your question in the next 24 hours.</p>
+				<hr>
+				<div class="buttons bar">
+					<button aria-label="Go back" class="button" @click="goToStart()">
+						<i class="icon left" aria-hidden="true"></i> Go back
+					</button>
+				</div>
+			</template>
+
+			<template v-if="stage === 'error'">
+				<p><strong>An error occured</strong> while sending your question. If this keeps happening, <a target="_blank" href="/contact">contact me</a>.</p>
 				<hr>
 				<div class="buttons bar">
 					<button aria-label="Go back" class="button" @click="goToStart()">

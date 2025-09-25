@@ -1418,6 +1418,11 @@ sup:target a{
     display: none!important;
 }
 
+.selectable{
+    // Simplifies selecting values like phone numbers
+    user-select: all;
+}
+
 /*******************************************************************************
  * 
  * FORMS
@@ -3132,19 +3137,25 @@ collapsible, letter-generator, feedback-residence-permit, health-insurance-calcu
     }
 }
 
-.form-recipient{
+.form-recipient, .qr-code{
     display: grid;
     align-items:center;
     gap: var(--m);
     grid-template-columns: 1fr auto;
 
-    img{
+    > img{
         margin: 0 auto;
         width: calc(var(--w-img-bio-l) * 1.5);
         height: auto;
         border:none;
         border-radius:100%
     }
+    > svg {
+        margin: 0 auto;
+        width: var(--w-img-bio-l);
+        color: var(--c-text-heading);
+    }
+
     h3{
         margin: 0 0 var(--l)
     }
