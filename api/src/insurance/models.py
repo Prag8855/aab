@@ -7,17 +7,6 @@ from django_countries.fields import CountryField
 from forms.models import ScheduledMessage
 
 
-class Status(models.TextChoices):
-    NEW = "NEW", "New"
-    IN_PROGRESS = "IN_PROGRESS", "In consultation"
-    WAITING_CLIENT = "WAITING_CLIENT", "Waiting for client"
-    WAITING_INSURER = "WAITING_INSURER", "Waiting for insurer"
-    ACCEPTED = "ACCEPTED", "Accepted by insurer"
-    REJECTED = "REJECTED", "Rejected"
-    RESOLVED = "RESOLVED", "Other solution found"
-    STALE = "STALE", "Stale"
-
-
 class ContactMethod(models.TextChoices):
     EMAIL = "EMAIL", "Email"
     WHATSAPP = "WHATSAPP", "WhatsApp"
@@ -55,9 +44,6 @@ class Case(models.Model):
     broker = models.CharField(max_length=30, choices=Brokers, default=Brokers.SEAMUS_WOLF)
     referrer = models.CharField(blank=True, help_text="Part of the commissions will be paid out to that referrer")
 
-    # Denormalized field to speed up filtering
-    status = models.CharField(blank=False, default=Status.NEW, max_length=20, choices=Status, editable=False)
-
     @property
     def name(self):
         first_person = self.insured_persons.first()
@@ -69,21 +55,12 @@ class Case(models.Model):
             raise ValidationError({'email': 'Email is required when contact_method is EMAIL.'})
 
     def save(self, *args, **kwargs):
-        # Get status from child comments
-        if self.id:
-            if first_comment := self.comments.order_by('-creation_date').first():
-                self.status = first_comment.status
-            else:
-                self.status = Status.NEW
-        super().save(*args, **kwargs)
+        if self.email:
+            CustomerNotification.objects.get_or_create(case=self)
+            FeedbackNotification.objects.get_or_create(case=self)
 
-        if self.status not in [Status.RESOLVED, Status.ACCEPTED, Status.REJECTED]:
-            if self.email:
-                CustomerNotification.objects.get_or_create(case=self)
-                FeedbackNotification.objects.get_or_create(case=self)
-
-            if self.contact_method != ContactMethod.WHATSAPP:
-                BrokerNotification.objects.get_or_create(case=self)
+        if self.contact_method != ContactMethod.WHATSAPP:
+            BrokerNotification.objects.get_or_create(case=self)
 
     @property
     def title(self):
@@ -133,41 +110,6 @@ class Case(models.Model):
         return f"{self.name} — {self.title}"
 
 
-class Comment(models.Model):
-    """
-    A generic note/comment added to a person or case
-    """
-    case = models.ForeignKey(Case, on_delete=models.CASCADE, related_name="comments", related_query_name="comment")
-
-    creation_date = models.DateTimeField(auto_now_add=True)
-    notes = models.TextField(blank=True)
-    file = models.FileField("Attachment", upload_to='attachments/', blank=True)
-    status = models.CharField(max_length=20, choices=Status, blank=True)
-
-    class Meta:
-        verbose_name = "Update"
-        ordering = ['-creation_date']
-
-    def save(self, *args, **kwargs):
-        super().save(*args, **kwargs)
-        self.case.status = self.case.comments.order_by('-creation_date').first().status
-        self.case.save()
-
-    def clean(self):
-        super().clean()
-        if not self.notes and not self.file and not self.status:
-            raise ValidationError("An update needs notes, a file, or a status change")
-
-    def __str__(self):
-        date = self.creation_date.strftime('%Y-%m-%d at %H:%M')
-        if self.status:
-            return f"{date} — Status → {self.get_status_display()}"
-        if self.notes:
-            return f"{date} — Added notes"
-        if self.file:
-            return f"{date} — Attached {self.file.filename}"
-
-
 class InsuredPerson(models.Model):
     """
     A person that is added to an insurance policy.
@@ -202,39 +144,6 @@ class InsuredPerson(models.Model):
 
     def __str__(self):
         return f"{self.first_name} {self.last_name}"
-
-
-class Outcome(models.Model):
-    """
-    The outcome of an insurance case. A specific type of insurance policy being signed
-    """
-    INSURANCE_TYPES = [
-        ("disability", "Disability insurance"),
-        ("health_expat", "Health insurance - Incoming"),
-        ("health_private", "Health insurance - Private"),
-        ("health_public", "Health insurance - Public"),
-        ("health_travel", "Health insurance - Travel"),
-        ("health_zusatz", "Health insurance - Supplementary"),
-        ("legal", "Legal insurance"),
-        ("liability", "Liability insurance"),
-        ("other", "Other"),
-    ]
-
-    case = models.ForeignKey(Case, on_delete=models.CASCADE, related_name='outcomes')
-
-    insurance_type = models.CharField(max_length=20, choices=INSURANCE_TYPES)
-    provider = models.CharField(max_length=100, help_text="For example, \"Ottonova\"")
-    policy = models.CharField(max_length=100, help_text="For example, \"Expat Student Plus\"")
-    notes = models.TextField(blank=True)
-
-    date_start = models.DateField(help_text="When the policy begins")
-    date_end = models.DateField(blank=True, null=True, help_text="When the policy ends, if applicable")
-
-    commission_amount = models.DecimalField('Total commission amount', max_digits=10, decimal_places=2)
-    commission_received_date = models.DateField('Insurer commission paid on', blank=True, null=True)
-
-    class Meta:
-        verbose_name = "Outcome"
 
 
 def in_1_week():
