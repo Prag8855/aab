@@ -1,6 +1,5 @@
-from rest_framework import viewsets
-from .models import Case, InsuredPerson
-from .serializers import CaseSerializer, InsuredPersonSerializer
+from .models import Case
+from .serializers import CaseSerializer
 from forms.views import MessageViewSet
 
 

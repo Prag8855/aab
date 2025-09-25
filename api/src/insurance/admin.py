@@ -1,34 +1,35 @@
 from django.contrib import admin
-from insurance.models import Case, InsuredPerson
-
-
-class InsuredPersonInline(admin.StackedInline):
-    model = InsuredPerson
-    extra = 0
-
-    fields = (
-        'name',
-        'description',
-        'occupation', 'income',
-        'nationality', 'country_of_residence',
-        'is_married',
-        'age',
-    )
+from insurance.models import Case
 
 
 class CaseAdmin(admin.ModelAdmin):
     fieldsets = (
         ('Case information', {
-            'fields': ('creation_date', 'notes', 'referrer'),
+            'fields': (
+                'creation_date',
+                'occupation',
+                'is_applying_for_first_visa',
+                'has_german_public_insurance',
+                'has_eu_public_insurance',
+                'income',
+                'age',
+                'is_married',
+                'children_count',
+                'notes',
+                'referrer'
+            ),
         }),
         ('Contact information', {
-            'fields': ('broker', 'contact_method', 'name', 'email', 'phone', 'whatsapp')
+            'fields': (
+                'broker',
+                'contact_method',
+                'name',
+                'email',
+            )
         }),
     )
-    inlines = [InsuredPersonInline, ]
-
+    readonly_fields = ['creation_date']
     list_display = ['name', 'title', 'creation_date', 'broker', 'referrer']
-    readonly_fields = ['broker', 'creation_date', 'name']
 
 
 admin.site.register(Case, CaseAdmin)

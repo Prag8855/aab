@@ -1,4 +1,4 @@
-<p>Hi {{ message.case.insured_persons.first.name|default:"there" }},</p>
+<p>Hi {{ message.case.name|default:"there" }},</p>
 
 <p>You asked a health insurance question on All About Berlin. {{ message.case.broker_info.first_name }} will reply today or tomorrow. I work with {{ message.case.broker_info.first_name }} because I trust {{ message.case.broker_info.is_male|yesno:"him,her"}}.</p>
 
@@ -6,9 +6,9 @@
 
 <ul>
 	<li>Learn <a href="https://allaboutberlin.com/guides/german-health-insurance?utm_source=email_reminder">how German health insurance works</a></li>
-	{% if message.case.insured_persons.first.occupation == 'selfEmployed' %}
+	{% if message.case.occupation == 'selfEmployed' %}
 		<li>Learn <a href="https://allaboutberlin.com/guides/freelance-visa?utm_source=email_reminder">how to apply for a freelance visa</a> or <a href="https://allaboutberlin.com/guides/renew-german-freelance-visa?utm_source=email_reminder">renew your freelance visa</a>.</li>
-	{% elif message.case.insured_persons.first.occupation == 'employee' %}
+	{% elif message.case.occupation == 'employee' %}
 		<li>Learn how to apply for a <a href="https://allaboutberlin.com/guides/work-visa?utm_source=email_reminder">work visa</a> or a <a href="https://allaboutberlin.com/guides/blue-card?utm_source=email_reminder">Blue Card</a>.</li>
 	{% endif %}
 	<li>Get <a href="https://allaboutberlin.com/guides/haftpflichtversicherung?utm_source=email_reminder">liability insurance</a>, because everyone should have it.</li>
