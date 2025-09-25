@@ -7,13 +7,12 @@ class InsuredPersonInline(admin.StackedInline):
     extra = 0
 
     fields = (
-        ('first_name', 'last_name'),
+        'name',
         'description',
         'occupation', 'income',
         'nationality', 'country_of_residence',
         'is_married',
         'age',
-        'date_of_birth',
     )
 
 

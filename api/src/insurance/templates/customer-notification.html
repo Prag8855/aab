@@ -1,4 +1,4 @@
-<p>Hi {{ message.case.insured_persons.first.first_name|default:"there" }},</p>
+<p>Hi {{ message.case.insured_persons.first.name|default:"there" }},</p>
 
 <p>You asked a health insurance question on All About Berlin. {{ message.case.broker_info.first_name }} will reply today or tomorrow. I work with {{ message.case.broker_info.first_name }} because I trust {{ message.case.broker_info.is_male|yesno:"him,her"}}.</p>
 

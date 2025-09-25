@@ -18,8 +18,7 @@ class CaseTestCase(ScheduledMessageEndpointMixin, APITestCase):
             'referrer': 'partner123',
             'insured_persons': [
                 {
-                    'first_name': 'John',
-                    'last_name': 'Smith',
+                    'name': 'John Smith',
                     'income': 30000,
                     'occupation': 'selfEmployed',
                     'age': 30,
@@ -72,7 +71,7 @@ class MinimalCaseTestCase(CaseTestCase):
             'email': 'contact@nicolasbouliane.com',
             'insured_persons': [
                 {
-                    'first_name': 'John',
+                    'name': 'John Smith',
                 }
             ],
         }

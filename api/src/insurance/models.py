@@ -116,8 +116,7 @@ class InsuredPerson(models.Model):
     """
     case = models.ForeignKey(Case, on_delete=models.CASCADE, related_name="insured_persons", related_query_name="insured_person")
 
-    first_name = models.CharField(max_length=100)
-    last_name = models.CharField(blank=True, max_length=100)
+    name = models.CharField(max_length=100)
     description = models.CharField(blank=True, max_length=250, help_text="For example \"Spouse\"")
 
     occupation = models.CharField(max_length=50, choices=Occupation, default=Occupation.OTHER)  # "selfEmployed"
@@ -125,25 +124,13 @@ class InsuredPerson(models.Model):
     nationality = CountryField(blank=True)
     country_of_residence = CountryField(blank=True)
     is_married = models.BooleanField(null=True)
-
-    # Age is easier to collect. Date of birth is necessary at later stages.
-    age = models.PositiveSmallIntegerField(blank=True, null=True, help_text="When the date of birth is set, the age is calculated automatically.")
-    date_of_birth = models.DateField(blank=True, null=True)
-
-    def save(self, *args, **kwargs):
-        if self.date_of_birth:
-            self.age = relativedelta(date.today(), self.date_of_birth).years
-        super().save(*args, **kwargs)
-
-    @property
-    def name(self):
-        return " ".join(filter(bool, [self.first_name, self.last_name]))
+    age = models.PositiveSmallIntegerField(blank=True, null=True)
 
     class Meta:
         verbose_name = "Insured person"
 
     def __str__(self):
-        return f"{self.first_name} {self.last_name}"
+        return self.name
 
 
 def in_1_week():
