@@ -240,11 +240,10 @@ These options are valid for a [[National Visa]] application. You can use them to
 
 - **[Feather](/out/feather-expats)**{{ RECOMMENDED }}  
     Their insurance is valid for a [[National Visa]] application. They have excellent English-speaking customer service. I work with them since 2018.
-- **[HanseMerkur](/out/hansemerkur-expats)**  
-    It's the same insurance that [Feather](/out/feather-expats) sells. It's a reliable health insurance for a [[National Visa]] application.
 - [April International](/out/april)
 - [Care Concept](/out/care-concept)
 - [Dr Walter](/out/dr-walter)
+- [HanseMerkur](/out/hansemerkur-expats)
 - [Ottonova](/out/ottonova-expats)
 - [Mawista](/out/mawista-expats) - Not recommended. They often reject claims.
 
