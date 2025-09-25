@@ -412,7 +412,7 @@ The process is different with each insurer. Your health insurance broker can tak
 You only need an ID document and a photo for your insurance card. You do not need a German address or an *[[Anmeldung]]*.[^63]
 
 - If you choose [expat health insurance](/glossary/Expat%20health%20insurance), you get insured in a few minutes.
-- If you choose [public health insurance](/glossary/gesetzliche%20Krankenversicherung), you can get your [proof of health insurance](/glossary/Mitgliedsbescheinigung) on the same day, and your [insurance card](/glossary/Gesundheitskarte) in 2 to 4 weeks. You can get healthcare before your insurance card arrives.
+- If you choose [public health insurance](/glossary/gesetzliche%20Krankenversicherung), you can get your [proof of health insurance](/glossary/Mitgliedsbescheinigung) on the same day, and your [insurance card](/glossary/Gesundheitskarte) in 2 to 4 weeks. It takes longer for freelancers.[^33] You can get healthcare before your insurance card arrives.
 - If you choose [private health insurance](/glossary/private%20Krankenversicherung), it takes around 2 weeks. You usually need a health check from a doctor.[^44] It costs around €250.[^30]{{ fail_on('2027-01-01') }}
 
 If you are self-employed and new in Germany, it can be hard to get health insurance. Public and private health insurers can reject you. You might need to try multiple insurers. I strongly recommend [asking an expert to help you](#insurance-brokers).
@@ -491,6 +491,7 @@ When you are self-employed, the cost of public health insurance is based on your
 [^30]: [Seamus Wolf](https://horizon65.com/) (April 2025), [Emily Archer](https://www.archer-relocation.com/) (April 2025)
 [^31]: [pkv.de](https://www.pkv.de/positionen/krankenversicherung-fuer-beamtinnen-und-beamte/) (April 2025)
 [^32]: [verwaltung.bund.de](https://verwaltung.bund.de/leistungsverzeichnis/en/rechte-und-pflichten/102837937#:~:text=the%20ehic%20can%20only%20be%20used%20for%20treatments%20that%20are%20covered%20by%20statutory%20health%20insurance) (April 2025)
+[^33]: [Rob Schumacher](/out/feather) (September 2025)
 [^34]: [verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/krankenversicherung/familienversicherung-in-der-krankenkasse-wer-kostenlos-mit-rein-kommt-28982) (January 2025) [minijob-zentrale.de](https://www.minijob-zentrale.de/DE/meta/faq-bereich/urlaub-krankheit-und-arbeitsrechte/96_warum_kein_geld_f%C3%BCr_minijobber_aus_kv/faq_96_warum_kein_geld_f%C3%BCr_minijobber_aus_kv.html#:~:text=oft%20besteht%20eine%20beitragsfreie%20familienversicherung%20uber%20den%20ehepartner%20oder%20die%20eltern) (February 2025)
 [^35]: Personal experience (2025), [Seamus Wolf](https://horizon65.com/) (April 2025)
 [^36]: [check24.de](https://www.check24.de/private-krankenversicherung/studenten/) (July 2025), [Ottonova](/out/ottonova-students) (July 2025)
