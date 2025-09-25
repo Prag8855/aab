@@ -343,7 +343,7 @@ Vue.component('health-insurance-options', {
 								<eur :amount="0"></eur> <small>per month</small>
 							</output>
 						</a>
-						<a v-else-if="subOption.id === 'barmer'" @click="selectOption(subOption.id)" title="Sign up with BARMER" href="/out/barmer" target="_blank">
+						<a v-else-if="subOption.id === 'barmer'" @click="selectOption(subOption.id)" title="Sign up with BARMER" href="/out/feather-barmer-signup" target="_blank">
 							{% endraw %}{% include "_css/icons/health-insurance/logo-barmer.svg" %}{% raw %}
 							<div>
 								<h3>Barmer</h3>
@@ -353,7 +353,7 @@ Vue.component('health-insurance-options', {
 								<eur :amount="optionPrice('public', 'barmer')"></eur> <small>per month</small>
 							</output>
 						</a>
-						<a v-else-if="subOption.id === 'tk'" @click="selectOption(subOption.id)" title="Sign up with Techniker Krankenkasse" href="/out/feather-tk" target="_blank" :class="{recommended: recommendedOption === 'public'}">
+						<a v-else-if="subOption.id === 'tk'" @click="selectOption(subOption.id)" title="Sign up with Techniker Krankenkasse" href="/out/feather-tk-signup" target="_blank" :class="{recommended: recommendedOption === 'public'}">
 							{% endraw %}{% include "_css/icons/health-insurance/logo-tk.svg" %}{% raw %}
 							<div>
 								<h3>Techniker Krankenkasse</h3>
