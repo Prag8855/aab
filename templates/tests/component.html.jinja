@@ -10,8 +10,8 @@
 {% block content %}
 	<h1>Component test</h1>
 	<div class="article-body">
-		{% with static=True %}
-			{% include '_blocks/healthInsuranceQuestionStatic.html' %}
-		{% endwith %}
+		{% include '_blocks/healthInsuranceQuestionStatic.html' %}
+
+		{% include '_blocks/healthInsuranceCalculatorStatic.html' %}
 	</div>
 {% endblock %}

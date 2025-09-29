@@ -65,6 +65,7 @@ Vue.component('health-insurance-calculator', {
 			trackAs: `Health insurance ${this.mode}`,
 			stages: this.mode === 'question' ? [
 					'askABroker',
+					'occupation',
 					'questions',
 					'thank-you',
 					'error',
@@ -85,14 +86,9 @@ Vue.component('health-insurance-calculator', {
 			// TODO: Email is passed even when field is not visible
 			// TODO: Move occupations from constants.js to another file
 			// TODO: Test collapsible header text
-			// TODO: Length of progress bar changes depending on mode
-			// TODO: askForCurrentInsurance: run two calculations and see if they differ. No business logic there.
 			// TODO: Set submit button text based on purpose ("Ask Christina")
-			// TODO: .health-insurance-question is gone. Fix the CSS.
-			// TODO: Use email-input and full-name-input everywhere
-			// TODO: Add childrenCount to API
-			// TODO: Add hasPublicHealthInsurance to API
 			// TODO: Set expat insurance prices correctly
+			// TODO: Track purpose of contact
 		};
 	},
 	mounted(){
@@ -103,7 +99,7 @@ Vue.component('health-insurance-calculator', {
 		isSelfEmployed(){ return occupations.isSelfEmployed(this.occupation) },
 		isUnemployed(){ return occupations.isUnemployed(this.occupation) },
 		monthlyIncome(){ return this.yearlyIncome / 12 },
-		progressBarLength(){ return this.mode === 'question' ? null : 3 },
+		progressBarLength(){ return this.stages.filter(s => !['thank-you', 'error'].includes(s)).length },
 		progressBarValue(){ return Math.min(this.stageIndex, this.progressBarLength) },
 		sortedOccupations(){
 			const sortedOccupations = ['employee', 'studentUnemployed', 'selfEmployed', 'azubi', 'unemployed', null];
@@ -119,16 +115,22 @@ Vue.component('health-insurance-calculator', {
 		},
 
 		askForCurrentInsurance(){
-			// Current insurance has no effect; public is the only option
-			return !( // Azubi
-				this.occupation === 'azubi'
-				&& this.monthlyIncome < healthInsurance.minFreiwilligMonthlyIncome
+			// Check if having EU/German public health insurance would change the recommendations
+			const flagsWithoutPublicInsurance = getHealthInsuranceOptions({
+				...this.calculatorParams,
+				hasEUPublicHealthInsurance: false,
+				hasGermanPublicHealthInsurance: false,
+			}).flags;
+			const flagsWithPublicInsurance = getHealthInsuranceOptions({
+				...this.calculatorParams,
+				hasEUPublicHealthInsurance: true,
+				hasGermanPublicHealthInsurance: true,
+			}).flags;
+
+			return !(
+				flagsWithoutPublicInsurance.size === flagsWithPublicInsurance.size
+				&& [...flagsWithoutPublicInsurance].every(value => flagsWithPublicInsurance.has(value))
 			)
-			&& !( // Employee with medium income
-				this.occupation === 'employee'
-				&& this.monthlyIncome > taxes.maxMinijobIncome
-				&& this.monthlyIncome < healthInsurance.minFreiwilligMonthlyIncome
-			);
 		},
 
 		// Insurance options
@@ -178,7 +180,7 @@ Vue.component('health-insurance-calculator', {
 		},
 		personSummary(){
 			if(!this.occupation){
-				// "It's complicated"
+				// User has clicked "skip the questions"
 				return '';
 			}
 
@@ -209,7 +211,7 @@ Vue.component('health-insurance-calculator', {
 				facts.push(`I earn ${formatCurrency(this.yearlyIncome)} per year`);
 			}
 			if(this.isApplyingForFirstVisa != null){
-				facts.push('I am applying for a visa');
+				facts.push('I am applying for my first visa');
 			}
 			if(this.isMarried != null){
 				facts.push(`I am ${this.isMarried ? '' : 'not '}married`);
@@ -266,15 +268,6 @@ Vue.component('health-insurance-calculator', {
 		nextStage(){
 			if(validateForm(this.$el)){
 				this.stageIndex += 1;
-			}
-		},
-		previousStage(){
-			// If "it's complicated" is chosen, skip the questions stage on the way back
-			if(this.mode === 'calculator' && !this.occupation){
-				this.goToStart();
-			}
-			else{
-				this.stageIndex -= 1;
 			}
 		},
 
@@ -358,7 +351,7 @@ Vue.component('health-insurance-calculator', {
 				<template v-else>Health insurance calculator</template>
 			</template>
 
-			<progress v-if="progressBarLength && stageIndex !== 0" aria-label="Form progress" :value="progressBarValue" :max="progressBarLength"></progress>
+			<progress v-if="progressBarLength && stageIndex !== 0 && progressBarValue < progressBarLength" aria-label="Form progress" :value="progressBarValue" :max="progressBarLength"></progress>
 
 			<template v-if="stage === 'occupation' && initialOccupation === 'studentUnemployed'">
 				<p>This tool helps you <strong>find student health insurance</strong> in a few seconds.</p>
@@ -450,7 +443,11 @@ Vue.component('health-insurance-calculator', {
 			</template>
 
 			<template v-if="stage === 'occupation' && !['employee', 'studentUnemployed', 'selfEmployed'].includes(initialOccupation)">
-				<p><strong>Let's find the right health insurance.</strong> What is your occupation?</p>
+				<p v-if="mode === 'calculator'"><strong>Let's find the right health insurance.</strong> What is your occupation?</p>
+				<template v-if="mode === 'question'">
+					<h3>What is your occupation?</h3>
+					<p>Your health insurance options depend on what you do.</p>
+				</template>
 				<ul class="buttons grid" aria-label="Occupations">
 					<li v-for="occ in sortedOccupations" :key="occ">
 						<button v-if="occ === 'employee'" @click="selectOccupation('employee')">
@@ -473,17 +470,28 @@ Vue.component('health-insurance-calculator', {
 							{% endraw %}{% include "_css/icons/visiting.svg" %}{% raw %}
 							Unemployed
 						</button>
-						<button v-else-if="occ === null" @click="selectOccupation(null)">
+						<button v-else-if="occ === null" @click="selectOccupation('other')">
 							{% endraw %}{% include "_css/icons/family.svg" %}{% raw %}
 							It's complicated
 						</button>
 					</li>
 				</ul>
+				<template v-if="mode === 'question'">
+					<hr>
+					<div class="buttons bar">
+						<button aria-label="Go back" class="button" @click="previousStage()">
+							<i class="icon left" aria-hidden="true"></i> <span class="no-mobile">Go back</span>
+						</button>
+						<button class="button" @click="occupation = null; createCase()">
+							Skip the questions <i class="icon right" aria-hidden="true"></i>
+						</button>
+					</div>
+				</template>
 			</template>
 
 			<template v-if="stage === 'questions'">
 				<h3>Tell us a bit more about you&hellip;</h3>
-				<p v-if="mode === 'question'">It's optional, but it helps {{ broker.name }} recommend the right health insurance.</p>
+				<p v-if="mode === 'question'">You can skip this step, but this information it helps {{ broker.name }} recommend the right health insurance.</p>
 				<p v-else>It helps us calculate prices and recommend the right health insurance.</p>
 				<hr>
 				<div class="form-group">
@@ -494,11 +502,11 @@ Vue.component('health-insurance-calculator', {
 						<div v-if="occupation === 'employee'">
 							I am applying for my first <glossary term="Work Visa">work visa</glossary>, <glossary>Blue Card</glossary> or <glossary term="Chancenkarte">Opportunity Card</glossary>
 						</div>
-						<div v-else-if="isSelfEmployed">
-							I am applying for my first <glossary term="Freelance visa">freelance visa</glossary>
-						</div>
 						<div v-else-if="isStudent">
 							I am applying for a <glossary term="Student visa">student visa</glossary>
+						</div>
+						<div v-else-if="isSelfEmployed && !isStudent">
+							I am applying for my first <glossary term="Freelance visa">freelance visa</glossary>
 						</div>
 						<div v-else>
 							I am applying for a <glossary>National Visa</glossary> to move to Germany
@@ -703,7 +711,7 @@ Vue.component('health-insurance-calculator', {
 				<div class="form-recipient">
 					<div>
 						<p>
-							<a :href="whatsappUrl" target="_blank">Open WhatsApp</a> <span class="no-mobile">or scan this QR code</span> to chat with {{ broker.name }}.
+							To chat with {{ broker.name }}, <a :href="whatsappUrl" target="_blank">open WhatsApp</a> <span class="no-mobile">or scan this QR code</span>.
 						</p>
 						<p>
 							{{ capitalize(broker.his) }} number is <strong class="selectable">{{ broker.phoneNumberPretty }}</strong>.
