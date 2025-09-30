@@ -103,7 +103,7 @@ It's cheaper and safer if you [apply in your home country](#how-to-apply-in-your
 - **If you have an [opportunity card](/glossary/Chancenkarte)**  
     You can come to Germany and look for a job. You can work 20 hours per week. To work full time, you must switch to a Blue Card or a [work visa](/glossary/Work%20Visa).
 - **If you have a [job seeker visa](/glossary/Job%20seeker%20visa)**  
-    You can come to Germany and look for a job. To start working, you must get a Blue Card or a [work visa](/glossary/Work%20Visa).[^11]
+    You can already start working. You don't need to wait for your [[Blue Card]].[^11]
 - **If you have a [[Schengen visa]]**  
     Schengen visas are for tourism, not immigration. Usually, if you enter Germany with a Schengen visa, you can't apply for a Blue Card *in Germany*. Your application will be rejected. You must [apply in your home country](#how-to-apply-in-your-country).[^25]
 
@@ -302,7 +302,7 @@ An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocatio
 [^8]: [Berlin.de](https://service.berlin.de/dienstleistung/324659/en/#:~:text=by%20credit%20card)
 [^9]: [§ 41 AufenthV](https://www.buzer.de/41_AufenthV.htm), [Berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1049092.en.php#:~:text=Ireland%20and%20Romania-,exceptions%20for%20certain%20countries,-Special%20privileges%20apply)
 [^10]: [§ 18c Abs. 2 AufenthG](https://www.buzer.de/18c_AufenthG.htm), [Berlin.de](https://service.berlin.de/dienstleistung/326556/), [18c.2.3. VAB](/out/vab)
-[^11]: [§ 20 AufenthG](https://www.buzer.de/20_AufenthG.htm), [Berlin.de](https://service.berlin.de/dienstleistung/324661/en/), [Make it in Germany](https://www.make-it-in-germany.com/en/visa-residence/types/jobseekers)
+[^11]: [Mirko Vorreuter](https://visaguard.berlin) (September 2025), [§ 20 AufenthG](https://www.buzer.de/20_AufenthG.htm), [Berlin.de](https://service.berlin.de/dienstleistung/324661/#:~:text=und%20berechtigt%20zur%20aufnahme%20jeder%20erwerbstatigkeit.) (September 2025)
 [^12]: [§ 18 AufenthG](https://www.buzer.de/18_AufenthG.htm)
 [^13]: [anwalt.de](https://www.anwalt.de/rechtstipps/blaue-karte-eu-frei-reisen-und-arbeiten-innerhalb-der-eu-211361.html), [Berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1048669.en.php#:~:text=you%20can%20travel%20to%20the%20following%20countries%20in%20the%20schengen%20area)
 [^14]: [§ 29 AufenthG](https://www.buzer.de/29_AufenthG.htm)

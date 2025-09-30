@@ -69,7 +69,7 @@ If you don't have a job offer:
 - **[Opportunity card](/glossary/Chancenkarte)**  
     For looking for work in Germany. It gives you 1 year to [find a job](/guides/find-a-job-in-berlin). You can work 20 hours per week. To work full time, you must [apply for a work visa](/guides/work-visa) or a [Blue Card](/guides/blue-card).
 - **[[Job seeker visa]]**  
-    For finding work after studying in Germany.[^59] It gives you 6 to 18 months to [find a job](/guides/find-a-job-in-berlin). You can start working as soon as you find a job.
+    For finding work after studying in Germany.[^59] It gives you 6 to 18 months to [find a job](/guides/find-a-job-in-berlin). You can start working as soon as you find a job.[^67]
 - **[[Family reunion visa]]**  
     For spouses and children of German residents. You can work for any employer. There is no income or education requirement.[^19]
 
@@ -553,3 +553,4 @@ An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocatio
 [^64]: [Mirko Vorreuter](https://visaguard.berlin) (September 2025)
 [^65]: [Art. 21 Schengen Agreement](https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:42000A0922(02):en:HTML)
 [^66]: [Auswärtiges Amt](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/visabestimmungen-node/staatenlistevisumpflicht-node), [§ 3 AufenthG](https://www.buzer.de/3_AufenthG.htm), [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/4e5dsp/getting_a_work_visa_in_germany_for_noneu_nonbuddy/), [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/488544264947615/?comment_id=488643064937735&comment_tracking=%7B%22tn%22%3A%22R%22%7D), [einwanderer.net](https://www.einwanderer.net/fileadmin/downloads/tabellen_und_uebersichten/Tabelle_Spurwechsel_2020.pdf). Exceptions in [§ 5 Abs. 2 S. 1 AufenthG](https://www.buzer.de/5_AufenthG.htm)
+[^67]: [Mirko Vorreuter](https://visaguard.berlin) (September 2025), [§ 20 AufenthG](https://www.buzer.de/20_AufenthG.htm), [Berlin.de](https://service.berlin.de/dienstleistung/324661/#:~:text=und%20berechtigt%20zur%20aufnahme%20jeder%20erwerbstatigkeit.) (September 2025)

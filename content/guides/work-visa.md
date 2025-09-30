@@ -98,7 +98,7 @@ Usually, you can't work while you wait for your work visa.[^35] You might wait [
 - **If you have an [opportunity card](/glossary/Chancenkarte)**  
     You can come to Germany and look for a job. You can work 20 hours per week. To work full time, you must get a Blue Card or a [work visa](/glossary/Work%20Visa).
 - **If you have a [job seeker visa](/glossary/Job%20seeker%20visa)**  
-    You can come to Germany and look for a job. To start working, you must get a Blue Card or a [work visa](/glossary/Work%20Visa).[^11]
+    You can already start working. You don't need to wait for your work visa.[^11]
 - **If you have a [[Schengen visa]]**  
     Schengen visas are for tourism, not immigration. Usually, if you enter Germany with a Schengen visa, you can't apply for a work visa *in Germany*. Your application will be rejected. You must [apply in your home country](#how-to-apply-in-your-country).[^25]
 
@@ -301,7 +301,7 @@ An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocatio
 [^8]: [DARE Consulting](https://dareconsulting.de/wp-content/uploads/2020/12/11_Broschuere_FEG-1.pdf) (page 9), [BAMF](https://www.bamf.de/EN/Themen/Integration/ZugewanderteTeilnehmende/AnerkennungBerufsabschluesse/anerkennungberufsabschluesse-node.html#:~:text=the%20process%20should%20not%20take%20longer%20than%20three%20months)
 [^9]: [§ 41 AufenthV](https://www.buzer.de/41_AufenthV.htm), [Berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1049092.en.php#:~:text=Ireland%20and%20Romania-,exceptions%20for%20certain%20countries,-Special%20privileges%20apply), [Make it in Germany](https://www.make-it-in-germany.com/en/visa-residence/procedure/do-i-need-visa) (December 2024)
 [^10]: [§ 18c Abs. 1 AufenthG](https://www.buzer.de/18c_AufenthG.htm)
-[^11]: [§ 20 AufenthG](https://www.buzer.de/20_AufenthG.htm), [Berlin.de](https://service.berlin.de/dienstleistung/324661/en/), [Make it in Germany](https://www.make-it-in-germany.com/en/visa-residence/types/jobseekers)
+[^11]: [Mirko Vorreuter](https://visaguard.berlin) (September 2025), [§ 20 AufenthG](https://www.buzer.de/20_AufenthG.htm), [Berlin.de](https://service.berlin.de/dienstleistung/324661/#:~:text=und%20berechtigt%20zur%20aufnahme%20jeder%20erwerbstatigkeit.) (September 2025)
 [^12]: [§ 18 AufenthG](https://www.buzer.de/18_AufenthG.htm)
 [^13]: [europa.eu](https://europa.eu/youreurope/citizens/travel/entry-exit/non-eu-nationals/index_en.htm), [ind.nl](https://ind.nl/en/travelling-within-the-schengen-area-with-a-residence-permit-or-visa)
 [^14]: [§ 29 AufenthG](https://www.buzer.de/29_AufenthG.htm)
