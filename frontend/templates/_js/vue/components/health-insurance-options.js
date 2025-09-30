@@ -21,6 +21,11 @@ Vue.component('health-insurance-options', {
 		occupation: String,
 		customZusatzbeitrag: Number,
 	},
+	data(){
+		return {
+			stage: 'start',
+		};
+	},
 	computed: {
 		intro(){
 			const optionsList = this.results.asList.map(r => r.id).filter(id => ['public', 'private', 'expat'].includes(id));
@@ -29,7 +34,7 @@ Vue.component('health-insurance-options', {
 			}
 			if(optionsList.length > 1){
 				const options = new Intl.ListFormat('en-US', {style: 'long', type: 'disjunction'}).format(optionsList);
-				return `You need <strong>${options} health insurance</strong>. Our expert can help you choose.`;
+				return `You need <strong>${options} health insurance</strong>.`;
 			}
 		},
 
@@ -49,10 +54,25 @@ Vue.component('health-insurance-options', {
 		maxPublicPrice() {
 			return this.results.public.options.at(-1).total;
 		},
-
-		ottonovaLink(){
-			return this.isStudent ? "/out/ottonova-students" : "/out/ottonova-expats";
+		minOptionCost() {
+			return {
+				free: 0,
+				public: this.minPublicPrice.personalContribution,
+				private: 555,
+				expat: 72,
+				other: this.results.other.options.find(o => o.id === 'ksk')?.total?.personalContribution,
+			};
 		},
+
+		readMoreLink(){
+			return {
+				public: '/guides/german-health-insurance#public-health-insurance',
+				private: '/guides/german-health-insurance#private-health-insurance',
+				expat: '/guides/german-health-insurance#expat-health-insurance',
+				free: '/guides/german-health-insurance#free-health-insurance',
+			}
+		},
+
 		showGuideLink(){
 			// If you're on this page, you're already reading about health insurance
 			return window.location.pathname !== '/guides/german-health-insurance';
@@ -306,53 +326,103 @@ Vue.component('health-insurance-options', {
 	},
 	template: `
 		<div class="health-insurance-options">
-			<p v-if="intro" v-html="intro"></p>
-			<hr v-if="intro">
-			<template v-for="option in results.asList">
-				<h3 v-if="results.asList.length > 1" v-text="option.name"></h3>
+			<template v-if="stage === 'start'">
+				<p v-if="intro" v-html="intro"></p>
+				
+				<template v-for="option in results.asList" v-if="option.eligible">
+					<div class="price">
+						<h3 v-text="option.name"></h3>
+						<output>
+							<span>from <eur :amount="minOptionCost[option.id]"></eur>/month</span>
+						</output>
+					</div>
 
-				<p v-if="clarification[option.id]" v-html="clarification[option.id]"></p>
+					<p v-if="clarification[option.id]" v-html="clarification[option.id]"></p>
 
-				<ul class="buttons list" v-if="option.options.length">
-					<li v-for="subOption in option.options" v-if="!['aok', 'hkk', 'dak'].includes(subOption.id)">
-						<a v-if="subOption.id === 'familienversicherung'" @click="selectOption(subOption.id)" class="recommended" title="Learn more about family health insurance" href="/guides/german-health-insurance#free-health-insurance" target="_blank">
-							{% endraw %}{% include "_css/icons/family.svg" %}{% raw %}
-							<div>
-								<h3><glossary term="Familienversicherung">Family insurance</glossary></h3>
-								<p>If {{ yourSponsorsHave }} public health insurance, it covers you for free.</p>
-							</div>
-							<output>
-								<eur :amount="0"></eur> <small>per month</small>
-							</output>
-						</a>
-						<a v-else-if="subOption.id === 'social-benefits'" @click="selectOption(subOption.id)" :class="{recommended: !flag('familienversicherung')}" title="Learn more about state-sponsored health insurance" href="/guides/german-health-insurance#free-health-insurance" target="_blank">
-							{% endraw %}{% include "_css/icons/bank.svg" %}{% raw %}
-							<div>
-								<h3>Paid by social benefits</h3>
-								<p>If you get <glossary term="ALG I">unemployment benefits</glossary>, <glossary>Bürgergeld</glossary> or <glossary>Elterngeld</glossary>, you get free public health insurance.</p>
-							</div>
-							<output>
-								<eur :amount="0"></eur> <small>per month</small>
-							</output>
-						</a>
-						<a v-else-if="subOption.id === 'ehic'" @click="selectOption(subOption.id)" title="Learn more about the EHIC" href="/guides/german-health-insurance#insurance-from-other-eu-countries" target="_blank">
-							{% endraw %}{% include "_css/icons/passport.svg" %}{% raw %}
-							<div>
-								<h3>European Health Insurance Card</h3>
-								<p>Your insurance from another EU country might cover you in Germany.</p>
-							</div>
-							<output>
-								<eur :amount="0"></eur> <small>per month</small>
-							</output>
-						</a>
-						<a v-else-if="subOption.id === 'barmer'" @click="selectOption(subOption.id)" title="Sign up with BARMER" href="/out/feather-barmer-signup" target="_blank">
+					<template v-if="option.id === 'free'">
+						<ul>
+							<li>
+								<strong>Family health insurance</strong><br>
+								If {{ yourSponsorsHave }} public health insurance, it covers you for free.
+							</li>
+							<li>
+								<strong>Social benefits</strong><br>
+								If you get <glossary term="ALG I">unemployment benefits</glossary>, <glossary>Bürgergeld</glossary> or <glossary>Elterngeld</glossary>, you get free public health insurance.
+							</li>
+							<li>
+								<strong>European Health Insurance Card</strong><br>
+								Your insurance from another EU country might cover you in Germany.
+							</li>
+						</ul>
+					</template>
+
+					<div class="two-columns" v-if="option.id === 'public'">
+						<ul class="pros">
+							<li>The price matches your income</li>
+							<li><glossary term="Familienversicherung" v-text="familienversicherung"></glossary></li>
+						</ul>
+						<ul class="cons">
+							<li>Limited dental coverage</li>
+							<li>Wait longer to see a doctor</li>
+						</ul>
+					</div>
+
+					<div class="two-columns" v-if="option.id === 'private'">
+						<ul class="pros">
+							<li>Choose the coverage you need</li>
+							<li>Better access to doctors</li>
+						</ul>
+						<ul class="cons">
+							<li>Covering your children costs extra</li>
+							<li>Costs the same if you lose your income</li>
+						</ul>
+					</div>
+
+					<div class="two-columns" v-if="option.id === 'expat'">
+						<ul class="pros">
+							<li>Cheapest option</li>
+							<li>Easy to cancel</li>
+						</ul>
+						<ul class="cons">
+							<li>Bad coverage</li>
+							<li>Only valid for a few years</li>
+						</ul>
+					</div>
+
+					<ul class="buttons list" v-if="option.id === 'other'">
+						<li v-for="subOption in option.options">
+							<a v-if="subOption.id === 'ksk'" @click="selectOption(subOption.id)" title="Learn more about the KSK" href="/guides/ksk-kuenstlersozialkasse" target="_blank">
+								{% endraw %}{% include "_css/icons/liability.svg" %}{% raw %}
+								<div>
+									<h3>Join the <glossary>Künstlersozialkasse</glossary></h3>
+									<p>If you are an artist or a content creator, the KSK can pay half of your public health insurance.</p>
+								</div>
+								<output>
+									<eur :amount="optionPrice(option.id, subOption.id)"></eur> <small>per month</small>
+								</output>
+							</a>
+						</li>
+					</ul>
+
+					<div class="buttons bar" v-if="['public', 'private', 'expat', 'free'].includes(option.id)">
+						<a class="button" :href="readMoreLink[option.id]" target="_blank">Read more</a>
+						<button class="button primary" @click="stage = option.id">See options <i class="icon right"></i></button>
+					</div>
+				</template>
+			</template>
+
+			<template v-if="stage === 'public'">
+				<h2>Public health insurance options</h2>
+				<ul class="buttons list">
+					<li v-for="subOption in results.public.options" v-if="['barmer', 'tk'].includes(subOption.id)">
+						<a v-if="subOption.id === 'barmer'" @click="selectOption(subOption.id)" title="Sign up with BARMER" href="/out/feather-barmer-signup" target="_blank">
 							{% endraw %}{% include "_css/icons/health-insurance/logo-barmer.svg" %}{% raw %}
 							<div>
 								<h3>Barmer</h3>
 								<p>Second biggest health insurer. They speak English.</p>
 							</div>
 							<output>
-								<eur :amount="optionPrice('public', 'barmer')"></eur> <small>per month</small>
+								<eur :amount="optionPrice('public', subOption.id)"></eur> <small>per month</small>
 							</output>
 						</a>
 						<a v-else-if="subOption.id === 'tk'" @click="selectOption(subOption.id)" title="Sign up with Techniker Krankenkasse" href="/out/feather-tk-signup" target="_blank" :class="{recommended: recommendedOption === 'public'}">
@@ -362,63 +432,29 @@ Vue.component('health-insurance-options', {
 								<p>Biggest German health insurer. Great customer service. They speak English.</p>
 							</div>
 							<output>
-								<eur :amount="optionPrice('public', 'tk')"></eur> <small>per month</small>
+								<eur :amount="optionPrice('public', subOption.id)"></eur> <small>per month</small>
 							</output>
 						</a>
-						<a v-else-if="subOption.id === 'ksk'" @click="selectOption(subOption.id)" title="Learn more about the KSK" href="/guides/ksk-kuenstlersozialkasse" target="_blank">
-							{% endraw %}{% include "_css/icons/liability.svg" %}{% raw %}
-							<div>
-								<h3>Join the <glossary>Künstlersozialkasse</glossary></h3>
-								<p>If you are an artist or a content creator, the KSK can pay half of your public health insurance.</p>
-							</div>
-							<output>
-								<eur :amount="optionPrice('other', 'ksk')"></eur> <small>per month</small>
-							</output>
-						</a>
-						<a v-else-if="subOption.id === 'feather-expat'" @click="selectOption(subOption.id)" title="Get expat health insurance from Feather" href="/out/feather-expats" target="_blank" :class="{recommended: recommendedOption === 'expat'}">
-							{% endraw %}{% include "_css/icons/health-insurance/logo-feather.svg" %}{% raw %}
-							<div>
-								<h3>Feather</h3>
-								<p>
-									Great for a {{ visaType }} application.
-									<template v-if="isStudent">It's valid until you graduate.</template>
-									They speak English.
-								</p>
-							</div>
-							<output>
-								<eur :amount="subOption.cost"></eur> <small>per month</small>
-							</output>
-						</a>
-						<a v-else-if="subOption.id === 'ottonova-expat'" @click="selectOption(subOption.id)" title="Get expat health insurance from Ottonova" :href="ottonovaLink" target="_blank">
-							{% endraw %}{% include "_css/icons/health-insurance/logo-ottonova.svg" %}{% raw %}
-							<div>
-								<h3>Ottonova</h3>
-								<p>Valid for a {{ visaType }} application. They speak English.</p>
-							</div>
-							<output>
-								<eur :amount="subOption.cost"></eur> <small>per month</small>
-							</output>
-						</a>
-
-						<button :aria-labelledby="uid('h-getAQuote')" v-else-if="subOption.id === 'broker'" @click="selectOption(subOption.id)" :class="{recommended: recommendedOption === 'private'}">
-							{% endraw %}{% include "_css/icons/help.svg" %}{% raw %}
-							<div>
-								<h3 :id="uid('h-getAQuote')">Get a quote</h3>
-								<p>Let us compare all private health insurers and find the best one for you.</p>
-							</div>
-						</button>
 					</li>
 				</ul>
-
 				<gkv-cost-explanation v-if="option.id === 'public'" v-bind="calculatorParams"></gkv-cost-explanation>
-
-				<hr>
 			</template>
 
+			<template v-if="stage === 'private'">
+				<h2>Private health insurance options</h2>
+				<p>Do not choose private health insurance yourself. Always ask an independent expert to compare options.</p>
+			</template>
+
+			<template v-if="stage === 'expat'">
+				<h2>Expat health insurance options</h2>
+				
+			</template>
+
+			<hr>
 			<h3>Need help choosing?</h3>
 			<ul class="buttons list">
 				<li>
-					<button @click="selectOption('broker')" class="recommended" :aria-labelledby="uid('h-askOurExpert')">
+					<button @click="selectOption('broker')" :aria-labelledby="uid('h-askOurExpert')">
 						{% endraw %}{% include "_css/icons/help.svg" %}{% raw %}
 						<div>
 							<h3 :id="uid('h-askOurExpert')">Ask our expert</h3>

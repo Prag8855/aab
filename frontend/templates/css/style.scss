@@ -1934,14 +1934,6 @@ input[type=range] {
     summary:after{
         float: none;
     }
-
-    ul{
-        margin: var(--s-relative) 0 0;
-    }
-
-    li{
-        @include list-marker-ul-compact;
-    }
 }
 .input-instructions:not(a){
     color: var(--c-text-light);
@@ -2282,6 +2274,32 @@ collapsible, letter-generator, feedback-residence-permit, health-insurance-calcu
             grid-template-columns: auto 1fr;
             gap: var(--l-relative);
         }
+    }
+
+    .health-insurance-options{
+        .price{
+            margin-top:var(--xl);
+        }
+        h3{
+            margin: 0;
+        }
+    }
+
+    .two-columns{
+        margin: var(--l-relative) 0;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+
+        ul{
+            margin: 0;
+        }
+
+        li{
+            @include list-marker-ul-compact;
+        }
+    }
+    .pros li:before{
+        content: '+';
     }
 }
 

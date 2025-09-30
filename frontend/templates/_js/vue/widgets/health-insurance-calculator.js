@@ -621,7 +621,7 @@ Vue.component('health-insurance-calculator', {
 						<i class="icon left" aria-hidden="true"></i> <span class="no-mobile">Go back</span>
 					</button>
 					<button class="button primary" @click="nextStage()">
-						Ask our expert <i class="icon right" aria-hidden="true"></i>
+						Ask our expert
 					</button>
 				</div>
 			</template>
