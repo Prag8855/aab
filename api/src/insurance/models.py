@@ -66,24 +66,6 @@ class Case(models.Model):
             BrokerNotification.objects.get_or_create(case=self)
 
     @property
-    def title(self):
-        facts = [self.get_contact_method_display(), ]
-        if(self.occupation):
-            facts.append(self.get_occupation_display())
-        if(self.income):
-            facts.append(f"€{self.income:,.0f}")
-        if(self.age):
-            facts.append(f"{self.age}yo")
-        if(self.is_married is True):
-            facts.append("Married")
-        elif(self.is_married is False):
-            facts.append("Not married")
-        if self.children_count is not None:
-            facts.append(f'{self.children_count} children')
-
-        return " · ".join(facts)
-
-    @property
     def broker_info(self):
         return {
             'christina-weber': {
