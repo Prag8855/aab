@@ -95,6 +95,7 @@ class ResidencePermitDepartments(models.TextChoices):
     E4 = 'E4', "E4"
     E5 = 'E5', "E5"
     E6 = 'E6', "E6"
+    F1_F2 = 'F1_F2', "F1, F2"
     M1 = 'M1', "M1"
     M2 = 'M2', "M2"
     M3 = 'M3', "M3"
