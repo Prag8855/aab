@@ -56,6 +56,7 @@ const residencePermitFeedbackMixin = {
 					A2_A3_A4: 'A2, A3, A4 — Asylum seekers',
 					B1_B2_B3_B4: 'B1, B2, B3, B4 — Family of skilled workers',
 					B6: 'BIS — Business Immigration Service',
+					F1_F2: 'F1, F2 — Privileged countries',
 					M1: 'M1 — Afghanistan, Iraq, Iran',
 					M2: 'M2 — Africa, Middle East',
 					M3: 'M3 — Belarus, Libya, Russia, Turkey, Ukraine',
@@ -64,6 +65,7 @@ const residencePermitFeedbackMixin = {
 				FREELANCE_VISA: {
 					A1_A5: 'A1, A5 — Syria',
 					A2_A3_A4: 'A2, A3, A4 — Asylum seekers',
+					F1_F2: 'F1, F2 — Privileged countries',
 					M1: 'M1 — Afghanistan, Iraq, Iran',
 					M2: 'M2 — Africa, Middle East',
 					M3: 'M3 — Belarus, Libya, Russia, Turkey, Ukraine',
@@ -72,6 +74,7 @@ const residencePermitFeedbackMixin = {
 				PERMANENT_RESIDENCE: {
 					A1_A5: 'A1, A5 — Syria',
 					A2_A3_A4: 'A2, A3, A4 — Asylum seekers',
+					F1_F2: 'F1, F2 — Privileged countries',
 					M1: 'M1 — Afghanistan, Iraq, Iran',
 					M2: 'M2 — Africa, Middle East',
 					M3: 'M3 — Belarus, Libya, Russia, Turkey, Ukraine',
@@ -88,6 +91,7 @@ const residencePermitFeedbackMixin = {
 				A1_A5: 'A1, A5 — Syria',
 				A2_A3_A4: 'A2, A3, A4 — Asylum seekers',
 				B1_B2_B3_B4: 'B1, B2, B3, B4 — Students, workers, researchers',
+				F1_F2: 'F1, F2 — Privileged countries',
 				M1: 'M1 — Afghanistan, Iraq, Iran',
 				M2: 'M2 — Africa, Middle East',
 				M3: 'M3 — Belarus, Libya, Russia, Turkey, Ukraine',

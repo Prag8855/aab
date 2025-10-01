@@ -84,16 +84,18 @@ The Berlin immigration office has multiple departments. Send your application to
     For skilled workers, students, researchers and their family. They handle Blue Cards, work visas, student visas and more.
 - **B6 - [Business Immigration Service](https://www.businesslocationcenter.de/en/our-services/bis-business-immigration-service)** (BIS)  
     For skilled workers and their family. They handle Blue Cards and work visas. They work faster than other departments.
+- **F1, F2**  
+    For privileged countries. They handle permanent residence, freelance visas, and everything else. They replace departments E1 to E6 since October 2025.
 - **M1, M2, M3, M4**  
     For everyone else. They handle permanent residence, freelance visas, and everything else. They replace departments E1 to E6 since October 2025. Choose the department that is responsible for your country.
 - **[S1, S2, S3, S4, S5, S6](/out/auslanderbehorde-departments-citizenship)**  
     For citizenship applications. [Choose the department](/out/auslanderbehorde-departments-citizenship) that is responsible for your country.
 
-**Note:** The departments changed in October: departments E1 to E6 were replaced with departments M1 to M4.[^15]{{ fail_on('2026-02-01') }}. 
-
 **[List of departments ➞](https://www.berlin.de/einwanderung/ueber-uns/kontakt/artikel.1394180.php)**
 
 **[Wait times by department ➞](/guides/auslanderbehorde-wait-times)**
+
+**Note:** The departments changed in October 2025: departments E1 to E6 were replaced with departments F1, F2 and M1 to M4.[^15]{{ fail_on('2026-02-01') }}. 
 
 ## How to get an appointment
 
