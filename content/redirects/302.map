@@ -18,7 +18,7 @@
 /out/appointment-international-driving-permit "https://service.berlin.de/terminvereinbarung/termin/all/121591/";
 /out/appointment-kfz-zulassungsstelle         "https://service.berlin.de/terminvereinbarung/termin/tag.php?termin=1&anliegen[]=120906&dienstleisterlist=121364,121362&herkunft=http%3A%2F%2Fservice.berlin.de%2Fdienstleistung%2F120906%2F";
 /out/april                                    "https://myhealthinternational.april-international.com/en-us/profile/travel-details?intermediary_reference=I670116";
-/out/auslanderbehorde-contact                 "https://www.berlin.de/einwanderung/ueber-uns/kontakt/artikel.1394180.php";
+/out/auslanderbehorde-contact                 "https://www.berlin.de/einwanderung/en/about-us/contact/artikel.1500715.en.php";
 /out/auslanderbehorde-departments             "/out/auslanderbehorde-contact";
 /out/auslanderbehorde-departments-citizenship "https://www.berlin.de/einwanderung/ueber-uns/kontakt/artikel.1394181.php";
 /out/auslanderbehorde-blue-card               "https://liste-antraege-bc01.bda.service.berlin.de/intelliform/forms/default/bda/LEA/Befristeter_Aufenthaltstitel_zur_Beschaeftigung/index?parameter=324659&lang=en";

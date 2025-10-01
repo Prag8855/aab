@@ -82,16 +82,18 @@ The Berlin immigration office has multiple departments. Send your application to
 
 - **B1, B2, B3, B4**  
     For skilled workers, students, researchers and their family. They handle Blue Cards, work visas, student visas and more.
-- **[Business Immigration Service](https://www.businesslocationcenter.de/en/our-services/bis-business-immigration-service)** (BIS)  
+- **B6 - [Business Immigration Service](https://www.businesslocationcenter.de/en/our-services/bis-business-immigration-service)** (BIS)  
     For skilled workers and their family. They handle Blue Cards and work visas. They work faster than other departments.
-- **E1, E2, E3, E4, E5, E6**  
-    For everyone else. They handle permanent residence, freelance visas, and everything else. Choose the department that is responsible for your country.
+- **M1, M2, M3, M4**  
+    For everyone else. They handle permanent residence, freelance visas, and everything else. They replace departments E1 to E6 since October 2025. Choose the department that is responsible for your country.
 - **[S1, S2, S3, S4, S5, S6](/out/auslanderbehorde-departments-citizenship)**  
     For citizenship applications. [Choose the department](/out/auslanderbehorde-departments-citizenship) that is responsible for your country.
 
-**Note:** The [immigration office](/glossary/Ausländerbehörde) [departments](/guides/immigration-office#departments) will change in October.{{ fail_on('2025-10-01') }} The immigration office might ask you to send additional documents to another department.[^15]
+**Note:** The departments changed in October: departments E1 to E6 were replaced with departments M1 to M4.[^15]{{ fail_on('2026-02-01') }}. 
 
 **[List of departments ➞](https://www.berlin.de/einwanderung/ueber-uns/kontakt/artikel.1394180.php)**
+
+**[Wait times by department ➞](/guides/auslanderbehorde-wait-times)**
 
 ## How to get an appointment
 
@@ -165,7 +167,7 @@ The immigration office does not give immigration advice. An [immigration lawyer]
 [^12]: [Fiona Macdonald, immigration lawyer](https://en.fmr-legal.de/general-8-1) (December 2023)
 [^13]: [Fiona Macdonald, immigration lawyer](https://en.fmr-legal.de/general-8-1) (December 2024)
 [^14]: [Fiona Macdonald, immigration lawyer](https://en.fmr-legal.de/general-8-1) (December 2023)
-[^15]: [Oliver Redsch](https://icb-relocation.de/dr-oliver-redsch) (July 2025), reader feedback (July 2025)
+[^15]: [Oliver Redsch](https://icb-relocation.de/dr-oliver-redsch) (July 2025), reader feedback (July 2025), [Berlin.de](https://www.berlin.de/einwanderung/en/about-us/contact/artikel.1500715.en.php) (October 2025)
 [^16]: [Fiona Macdonald](https://en.fmr-legal.de/general-8-1) (December 2023), [Mirko Vorreuter](https://visaguard.berlin) (September 2025)
 [^17]: [§ 81 Abs. 5 AufenthG](https://www.buzer.de/81_AufenthG.htm)
 [^18]: [Mirko Vorreuter](https://visaguard.berlin) (September 2025)

@@ -6,7 +6,11 @@
 	</select>
 	<select v-model="department">
 		<option :value="null">All departments</option>
-		<option disabled>──────────</option>
-		<option v-for="(name, key) in departments" :key="key" :value="key" v-text="name"></option>
+		<optgroup label="Current departments">
+			<option v-for="(name, key) in departments" :key="key" :value="key" v-text="name"></option>
+		</optgroup>
+		<optgroup label="Old departments">
+			<option v-for="(name, key) in oldDepartments" :key="key" :value="key" v-text="name"></option>
+		</optgroup>
 	</select>
 </div>
