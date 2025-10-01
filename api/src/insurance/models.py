@@ -86,7 +86,7 @@ class Case(models.Model):
         ordering = ['-creation_date']
 
     def __str__(self):
-        return f"{self.name} — {self.title}"
+        return self.name
 
 
 def in_1_week():
