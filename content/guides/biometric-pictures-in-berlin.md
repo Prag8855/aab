@@ -13,7 +13,7 @@ This guide shows you how to get biometric pictures or passport photos in Berlin.
 
 Biometric photos must meet the [official requirements](https://www.personalausweisportal.de/SharedDocs/downloads/Webs/PA/EN/informationsmaterial/flyer-broschueren/Fotomustertafel.pdf?__blob=publicationFile&v=4).{{fail_on('2026-07-01')}}
 
-Since May 1 2025, the *[[Bürgeramt]]* and the *[[Ausländerbehörde]]* only accept...[^2]{{fail_on('2025-10-01')}}
+The *[[Bürgeramt]]* and the *[[Ausländerbehörde]]* only accept...[^2]
 
 - Photos from [registered photographers](#from-a-photographer), sent digitally
 - Photos from [registered photo kiosks](#at-a-dm-store), sent digitally
@@ -64,7 +64,7 @@ The Berlin *[[Ausländerbehörde]]* uses the same photo kiosks as the *Bürgeram
 
 ## From a photographer
 
-Approved photographers can take biometric photos. They usually cost around €15.[^1]{{ fail_on('2025-10-01') }}
+Approved photographers can take biometric photos. They usually cost around €15.[^1]{{ fail_on('2026-10-01') }}
 
 The photographer takes your photo, uploads it, and gives you a QR code.[^4] Bring the QR code to your *[[Bürgeramt]]* or *[[Ausländerbehörde]]* appointment.
 

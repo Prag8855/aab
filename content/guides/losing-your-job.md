@@ -113,7 +113,7 @@ If you have a [residence permit](/glossary/Aufenthaltstitel), always tell the *[
 
 **If you change employers**, use the [online form](/out/auslanderbehorde-job-change) to tell the *Ausländerbehörde*.[^39] You get a PDF confirmation.
 
-**If you lose your job**, use my letter generator to write the message. Use the [*Ausländerbehörde*'s contact form](/guides/immigration-office#use-the-contact-form) to send it to the [correct department](/guides/immigration-office#departments). Attach your [resignation letter](/glossary/Kündigungsschreiben) or termination notice. If you have a new job, also attach your new work contract.{{ fail_on('2025-10-01') }}
+**If you lose your job**, use my letter generator to write the message. Use the [*Ausländerbehörde*'s contact form](/guides/immigration-office#use-the-contact-form) to send it to the [correct department](/guides/immigration-office#departments). Attach your [resignation letter](/glossary/Kündigungsschreiben) or termination notice. If you have a new job, also attach your new work contract.{{ fail_on('2025-11-01') }}
 
 {% include "_blocks/auslaenderbehoerdeJobChangeNotice.html" %}
 
@@ -198,7 +198,7 @@ When you work in Germany, you pay {{RV_EMPLOYEE_CONTRIBUTION}}% of your salary f
 
 ## What happens to your residence permit
 
-Always [tell the *Ausländerbehörde*](#tell-the-auslanderbehorde) when you change or lose your job. In Berlin, they usually give you 6 to 12 months to [find another job](/guides/find-a-job-in-berlin).[^5]{{ fail_on('2025-10-01') }}
+Always [tell the *Ausländerbehörde*](#tell-the-auslanderbehorde) when you change or lose your job. In Berlin, they usually give you 6 to 12 months to [find another job](/guides/find-a-job-in-berlin).[^5]{{ fail_on('2026-11-01') }}
 
 **If you can't find a job** after 6 to 12 months, your residence permit expires, and you must leave Germany. To stay longer, you can get [a different residence permit](/guides/residence-permit#types-of-residence-permits).[^29] You can apply for an [opportunity card](/glossary/Chancenkarte) and get an extra 12 months to find a job.[^37]
 
