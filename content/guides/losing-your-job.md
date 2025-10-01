@@ -210,7 +210,7 @@ Always [tell the *Ausländerbehörde*](#tell-the-auslanderbehorde) when you chan
 
 **In the first 12 months** with a Blue Card, your new job must fulfil the [Blue Card requirements](/guides/blue-card#blue-card-requirements).[^36] You must [tell the *Ausländerbehörde*](/guides/losing-your-job#tell-the-auslanderbehorde) that you have a new job.[^4] You can start working immediately. The *Ausländerbehörde* has 30 days to stop you.
 
-**After 12 months** of employment with a Blue Card, you can get any kind of job. There is no minimum salary requirement. You can start working immediately.[^38] You should [tell the *Ausländerbehörde*](/guides/losing-your-job#tell-the-auslanderbehorde) that you have a new job, but they can't really stop you.
+**After 12 months** of employment with a Blue Card, you can get any kind of job. There is no minimum salary requirement, but you can't make less than [€{{MINIMUM_WAGE|cur}} per hour](/glossary/Mindestlohn). You can start working immediately.[^38] You should [tell the *Ausländerbehörde*](/guides/losing-your-job#tell-the-auslanderbehorde) that you have a new job, but they can't really stop you.
 
 ### Opportunity card
 

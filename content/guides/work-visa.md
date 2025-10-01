@@ -4,6 +4,7 @@ Short_title: How to get a work visa
 Description: This is how you apply for a work permit and start working in Germany.
 Date_created: 2023-11-18
 Related_reviews:
+    reviews/work-visa/mirko-vorreuter.md
     reviews/work-visa/emily-archer.md
 ---
 
@@ -23,7 +24,7 @@ This guide explains how to apply for a [work visa](/glossary/Work%20Visa) in Ber
 
 ## Who needs a work visa?
 
-If you are not a citizen of the [EU](/glossary/European%20Union), [[EEA]] or Switzerland, you need a [residence permit](/glossary/Aufenthaltstitel) to live in Germany. The work visa is a type of residence permit.
+If you are not a citizen of the [EU](/glossary/European%20Union), [[EEA]] or Switzerland, you need a [residence permit](/glossary/Aufenthaltstitel) to live and work in Germany. The work visa is a type of residence permit.
 
 If you are a [permanent resident](/glossary/Niederlassungserlaubnis), you don't need a work visa. You can already work anywhere.
 
@@ -36,7 +37,7 @@ To get a work visa, you need...[^18]
 - [ ] **A guaranteed job offer**  
     You must [find a job](/guides/find-a-job-in-berlin) before you apply for the work visa.[^15] It can be a short-term or part-time job. It can be a remote job. You must be an employee, not a freelancer.
 - [ ] **A fair salary**  
-    There is no minimum salary, but you can't be underpaid.[^42] You must earn as much as Germans who have a similar job.[^32] - [Compare your salary](/guides/salaries-in-germany)
+    There is no minimum salary, but you can't be underpaid, and you can't make less than [€{{MINIMUM_WAGE|cur}} per hour](/glossary/Mindestlohn).[^42] You must earn as much as Germans who have a similar job.[^32] - [Compare your salary](/guides/salaries-in-germany)
 - [ ] **Qualifications for this job**  
     You must know how to do your job. For example, to get a car mechanic job, you must know how to fix cars. Your job can be unrelated to your education.[^31]
 - [ ] **Permission to do this job**  
@@ -83,7 +84,9 @@ You can apply in Germany if...
 
 If you can't apply in Germany, you must [apply in your home country](#how-to-apply-in-your-country).
 
-Usually, you can't work while you wait for your work visa.[^35] You might wait [a few months](/guides/auslanderbehorde-wait-times) with no income. It's cheaper and safer if you [apply in your home country](#how-to-apply-in-your-country), then come to Germany when you have permission to work.
+Usually, you can't work while you wait for your work visa.[^35] You might wait [a few months](/guides/auslanderbehorde-wait-times) with no income. To get a work visa faster, you can also apply through the [Business Immigration Service](https://www.businesslocationcenter.de/en/our-services/bis-business-immigration-service).[^28]
+
+It's cheaper and safer if you [apply in your home country](#how-to-apply-in-your-country), then come to Germany when you have permission to work.
 
 **If you need help**, an [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocation consultant](/guides/relocation-agency-in-berlin) can take care of everything. It costs €500 to €2,000.[^45] Your employer might pay for it, or hire someone to help you.
 
@@ -147,7 +150,9 @@ It costs €{{NATIONAL_VISA_FEE|cur}}. It's cheaper for Turkish citizens. You ca
 
 If you have too many documents, [merge them](https://www.adobe.com/acrobat/online/merge-pdf.html) or [make them smaller](https://www.adobe.com/acrobat/online/compress-pdf.html).
 
-After you pay and send your application, you can download a PDF. This is your proof of application. Save it for later
+After you pay and send your application, you can download a PDF. This is your proof of application. Save it for later.
+
+You can also apply through the [Business Immigration Service](https://www.businesslocationcenter.de/en/our-services/bis-business-immigration-service). It's free, and it's usually much faster.[^28] Your employer must do it for you.
 
 ### 5. Wait
 
@@ -205,8 +210,6 @@ These are the required documents **in Berlin**.[^2] If you apply elsewhere, they
     Printed passport photos are not allowed. Only QR codes are accepted. See [how to get biometric pictures](/guides/biometric-pictures-in-berlin).
 - [ ] **Job contract** or **job offer**  
     Bring the original, not a copy.
-- [ ] **[Application form](/docs/residence-permit-application-form)** (*Antrag auf Erteilung eines Aufenthaltstitels*)  
-    If this is your first residence permit application, fill this form. Download the form [here](/docs/residence-permit-application-form) or [on Berlin.de](https://www.berlin.de/formularverzeichnis/?formular=/labo/zuwanderung/_assets/lea-agen1-antrag_engl_frz_ital-112021.pdf).
 - [ ] **[Job description form](/documents/erklaerung-zum-beschaeftigungsverhaeltnis-2024.pdf)** (*Erklärung zum Beschäftigungsverhältnis*)  
     Your employer should fill this form and sign it. Download the form [here](/documents/erklaerung-zum-beschaeftigungsverhaeltnis-2024.pdf) or [on Berlin.de](https://www.berlin.de/einwanderung/_assets/stellenbeschreibung.pdf).
 - [ ] **Proof of health insurance**  
@@ -237,7 +240,7 @@ If you are **not** a citizen of {{ BESCHV_26_COUNTRIES }}, you also need...
 - [ ] **Certificate of equivalence**  
     Proof that your professional training is recognised in Germany. If you got professional training in Germany, you don't need this.[^50]
 
-When you [send your application](#apply-for-the-work-visa-online), **use PDF files or photos.** Don't use word documents or other file formats.[^37] Put dates on all your documents. If you have too many documents, [merge them](https://www.adobe.com/acrobat/online/merge-pdf.html) or [make them smaller](https://www.adobe.com/acrobat/online/compress-pdf.html). You can also [mail your documents](/guides/mail-a-letter), but it's not better or faster.
+When you [send your application](#apply-for-the-work-visa-online), **use PDF files or photos.** Don't use word documents or other file formats.[^37] Put dates on all your documents. If you have too many documents, [merge them](https://www.adobe.com/acrobat/online/merge-pdf.html) or [make them smaller](https://www.adobe.com/acrobat/online/compress-pdf.html). You can also [mail your documents](/guides/mail-a-letter), but it's not better or faster. Applications by email are usually ignored.[^20]
 
 When you [go to to your appointment](#go-to-your-appointment), print everything. Use A4 paper. Do not staple the pages together. Some case workers also ask for documents that you already sent. It's safer if you bring everything you have, including documents that you already sent.
 
@@ -265,7 +268,9 @@ Tell me how long it took to get your work visa. Your feedback helps thousands of
 
 ### Travel with a work visa
 
-Your work visa lets you visit other [[Schengen area]] countries for up to 90 days without a visa. You can travel outside of Germany for up to 6 months.[^23] If you travel longer, your work visa expires.
+Your work visa lets you visit other [[Schengen area]] countries for up to 90 days without a visa. You can't work in other Schengen area countries.[^22]
+
+You can travel outside of Germany for up to 6 months.[^23] If you travel longer, your work visa expires.
 
 Your work visa lets you live anywhere in Germany, not just in the city where you applied.
 
@@ -310,10 +315,13 @@ An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocatio
 [^17]: [§ 18 Abs. 4 AufenthG](https://www.buzer.de/18_AufenthG.htm)
 [^18]: [Berlin.de](https://service.berlin.de/dienstleistung/305304/en/)
 [^19]: Multiple relocation consultants (October 2023)
+[^20]: "LEA's internal guidelines says to ignore emails since the introduction of the new online contact form." - [Mirko Vorreuter](https://visaguard.berlin) (October 2025)
 [^21]: [DARE Consulting](https://dareconsulting.de/wp-content/uploads/2020/12/11_Broschuere_FEG-1.pdf#page=11) (page 9), [BAMF](https://www.bamf.de/EN/Themen/Integration/ZugewanderteTeilnehmende/AnerkennungBerufsabschluesse/anerkennungberufsabschluesse-node.html)
+[^22]: [Mirko Vorreuter](https://visaguard.berlin) (October 2025)
 [^23]: [§ 51 Abs. 1 AufenthG](https://www.buzer.de/51_AufenthG.htm)
 [^25]: [Auswärtiges Amt](https://www.auswaertiges-amt.de/en/einreiseundaufenthalt/visabestimmungen-node/staatenlistevisumpflicht-node), [§ 3 AufenthG](https://www.buzer.de/3_AufenthG.htm), [einwanderer.net](https://www.einwanderer.net/fileadmin/downloads/tabellen_und_uebersichten/Tabelle_Spurwechsel_2020.pdf). Exceptions in [§ 5 Abs. 2 S. 1 AufenthG](https://www.buzer.de/5_AufenthG.htm)
 [^27]: [make-it-in-germany.com](https://www.make-it-in-germany.com/fileadmin/1_Rebrush_2022/a_Fachkraefte/PDF-Dateien/3_Visum_u_Aufenthalt/Visagrafik_EN/2023_Jan_Erforderliche_Deutschkenntnisse_EN.pdf), [DARE Consulting](https://dareconsulting.de/wp-content/uploads/2020/12/11_Broschuere_FEG-1.pdf#page=15)
+[^28]: [Mirko Vorreuter](https://visaguard.berlin) (September 2025)
 [^30]: [Berlin.de](https://service.berlin.de/dienstleistung/305304/en/#:~:text=the%20employer%20must%20have%20a%20place%20of%20business%20in%20germany)
 [^31]: New in November 2023. [Make it in Germany](https://www.make-it-in-germany.com/en/visa-residence/skilled-immigration-act#:~:text=second%2C%20the%20restriction%20that%20individuals%20may%20only%20work%20on%20the%20basis), [§ 18a AufenthG](https://www.buzer.de/18a_AufenthG.htm), [§ 18b AufenthG](https://www.buzer.de/18b_AufenthG.htm), [Red Tape Translation](https://redtapetranslation.com/all-you-need-to-know-about-the-new-eu-blue-card/#:~:text=not%20just%20a%20job%20tied%20to%20their%20field%20of%20expertise)
 [^32]: [DARE Consulting](https://dareconsulting.de/wp-content/uploads/2020/12/11_Broschuere_FEG-1.pdf#page=12) (page 10), [Agentur für Arbeit](https://www.arbeitsagentur.de/fuer-menschen-aus-dem-ausland/voraussetzungen-arbeiten-in-deutschland#:~:text=zustimmung%20zur%20beschaftigung)

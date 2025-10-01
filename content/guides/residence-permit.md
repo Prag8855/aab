@@ -533,7 +533,7 @@ An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocatio
 [^44]: [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/artikel.1144334.en.php#:~:text=The%20prerequisite%20is%20that%20you%20have%20sent%20your%20request) (December 2024)
 [^45]: [VAB A81.5a.2](/out/vab) (December 2024)
 [^46]: [Mirko Vorreuter](https://visaguard.berlin) (September 2025)
-[^47]: Multiple relocation consultants (December 2024)
+[^47]: Multiple relocation consultants (December 2024), [Mirko Vorreuter](https://visaguard.berlin) (September 2025)
 [^48]: [Berlin.de](https://www.berlin.de/einwanderung/en/entry/visa-extension/artikel.1049069.en.php#:~:text=of%20Schengen%20visa-,can%20it%20be%20converted%20into%20a%20residence%20permit%3F,-A%20Schengen%20visa) (December 2024), [se-legal.de](https://se-legal.de/immigration-lawyer-germany/schengen-visa-germany-lawyers/?lang=en#Extending-a-Schengen-Visa) (December 2024), [se-legal.de](https://se-legal.de/extending-stay-in-germany-schengen-visa-to-long-term-residence-permit/?lang=en#:~:text=Blue%20Card%20in-,germany,-A%20short-term) (December 2024), [Auswärtiges Amt](https://www.auswaertiges-amt.de/en/visa-service/buergerservice/faq/23-verlaengerung/606734) (December 2024), [Fem.os](/images/fiktionsbescheinigung-travel-2021-09-17.png) (September 2019), [Berlin.de](https://www.berlin.de/einwanderung/en/services/appointments/#:~:text=I%20have%20a%20Schengen%20visa) (December 2024)
 [^49]: [Mirko Vorreuter](https://visaguard.berlin) (September 2025)
 [^50]: [§ 41 Abs. 1 AufenthV](https://www.buzer.de/41_AufenthV.htm)

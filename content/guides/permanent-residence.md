@@ -309,7 +309,7 @@ Go to your second *[[Ausländerbehörde]]* appointment and pick up your permanen
 
 These are the required documents **in Berlin**. In other cities, you need different documents. Check the website of the *[[Ausländerbehörde]]* where you apply.
 
-**[When you apply online](#apply-for-permanent-residence-online)**, use PDF files or photos. Don't use word documents or other formats. If you have too many documents, [merge them](https://www.adobe.com/acrobat/online/merge-pdf.html) or [make them smaller](https://www.adobe.com/acrobat/online/compress-pdf.html). You can also [mail your documents](/guides/mail-a-letter), but it's not better or faster.
+**[When you apply online](#apply-for-permanent-residence-online)**, use PDF files or photos. Don't use word documents or other formats. If you have too many documents, [merge them](https://www.adobe.com/acrobat/online/merge-pdf.html) or [make them smaller](https://www.adobe.com/acrobat/online/compress-pdf.html). You can also [mail your documents](/guides/mail-a-letter), but it's not better or faster. Applications by email are usually ignored.[^44]
 
 **[When you go to your appointment](#go-to-your-appointment)**, bring the documents that they ask for in your appointment confirmation.[^24] Put dates on all your documents. Print everything on A4 paper. Do not staple the pages together. Some case workers also ask for documents that you already sent. It's safer if you bring everything you have, including documents that you already sent.[^53]
 
@@ -489,6 +489,7 @@ An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocatio
 [^41]: [jurati.eu](https://www.jurati.eu/immigration_law/settlement_permit/), [iQ Netzwerk](https://www.ggua.de/fileadmin/downloads/tabellen_und_uebersichten/Tabelle_Niederlassungserlaubnis_2022.pdf) (page 10 and 11, 2022), [Facebook](https://www.facebook.com/groups/226825394858771/posts/1569107900630507/) (2024), [VAB A18.c.2.1](/out/vab) (July 2024)
 [^42]: [Berlin.de](https://service.berlin.de/dienstleistung/326564/#:~:text=Perspektivisch%20m%C3%BCssen%20Sie,216.481%2C00%20Euro%20besitzen.) (June 2024), [VAB 9.2.1.3.3](/out/vab) (July 2024), Willkommenszentrum (November 2021)
 [^43]: [BMI](https://www.bmi.bund.de/DE/themen/verfassung/staatsangehoerigkeit/einbuergerung/einbuergerung-node.html) (June 2024)
+[^44]: "LEA's internal guidelines says to ignore emails since the introduction of the new online contact form." - [Mirko Vorreuter](https://visaguard.berlin) (October 2025)
 [^45]: [Elliot Herman](https://www.sorted.berlin/) (June 2024)
 [^46]: [Reddit](https://old.reddit.com/r/GermanCitizenship/comments/1bl80qp/60_months_of_payment_into_pension_for_citizenship/) (2024)
 [^47]: [§ 9 Abs. 1 StAG](https://www.buzer.de/9_StAG.htm)

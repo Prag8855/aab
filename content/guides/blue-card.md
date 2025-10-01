@@ -84,7 +84,7 @@ You can apply in Germany if...
 
 If you can't apply in Germany, you must [apply in your home country](#how-to-apply-in-your-country).
 
-Usually, you can't work before you get your Blue Card.[^35] It can take [a long time](/guides/auslanderbehorde-wait-times). You might wait a few months with no income. You can get a Blue Card faster if you apply through the [Business Immigration Service](https://www.businesslocationcenter.de/en/our-services/bis-business-immigration-service).[^28]
+Usually, you can't work before you get your Blue Card.[^35] It can take [a long time](/guides/auslanderbehorde-wait-times). You might wait a few months with no income. To get a Blue Card faster, you can also apply through the [Business Immigration Service](https://www.businesslocationcenter.de/en/our-services/bis-business-immigration-service).[^28]
 
 It's cheaper and safer if you [apply in your home country](#how-to-apply-in-your-country), then come to Germany when you have permission to work.
 
