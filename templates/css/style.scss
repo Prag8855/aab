@@ -1387,15 +1387,12 @@ sup:target a{
         padding-top: var(--m);
         border-top: var(--b-box);
 
-        summary{
-            font-size: var(--m);
-        }
+        font-size: var(--f-s);
 
         ol{
             column-count: 2;
             column-gap: var(--l);
             column-rule: var(--b-box);
-            font-size: var(--f-s);
             line-height: var(--line-height-label);
 
             @include only-phone{column-count: 1;}
