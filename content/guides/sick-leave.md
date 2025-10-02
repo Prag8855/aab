@@ -29,11 +29,13 @@ Tell your employer and your team that you are sick as soon as you can.[^5] Each 
 
 Most employers ask for a [sick note](/glossary/Krankschreibung) if you are sick for more than 3 days. Some ask for a sick note on the first day that you are sick.[^6] In the first month of your [probation period](/glossary/Probezeit), get a sick note on the first day.[^7]
 
-You get a sick note from a doctor. You can get it in person, with a phone call, or with a video call. You can use an app like [TeleClinic](https://www.teleclinic.com/) or [Doktor.de](https://doktor.de) instead of visiting a doctor. It's faster and easier.
+You get a sick note from a *[[Hausarzt]]*. You can get it in person, with a phone call, or with a video call. You can use an app like [TeleClinic](https://www.teleclinic.com/) or [Doktor.de](https://doktor.de) instead of visiting a doctor. It's faster and easier.
 
 **[English-speaking doctors in Berlin ➞](/guides/english-speaking-doctors-berlin)**
 
 You can also get a [sick note](/glossary/Krankschreibung) for stress, depression, burnout, lack of sleep, and other mental health reasons.[^8]
+
+If you have [public health insurance](/glossary/gesetzliche%20Krankenversicherung), the doctor visit is free. If you have [private](/glossary/private%20Krankenversicherung) or [expat](/glossary/Expat%20health%20insurance) health insurance, the cost depends on what your insurance covers, and on your [deductible](/glossary/Selbstbeteiligung). A short doctor visit without insurance costs around €60.[^30]
 
 ### 3. Send the sick note to your employer
 
@@ -170,3 +172,4 @@ Missing work because of a hangover looks really bad. If it happens often, you ca
 [^27]: [tk.de](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-versicherte/leistungen/weitere-leistungen/krankengeld/selbststaendige/beitragshoehe-versicherung-krankengeld-selbststaendige-2006330)
 [^28]: [gdv.de](https://www.gdv.de/gdv/themen/gesellschaft/versicherungsschutz-versicherungsdichte-ueberversicherung-49418) (2019)
 [^29]: Quote from [Feather](/out/feather-disability) (January 2025)
+[^30]: Personal experience (September 2025)
