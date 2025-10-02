@@ -198,7 +198,7 @@ There are a few differences:
 
 To apply for a [student visa](/glossary/Student%20visa), you usually need a proof of financial resources (*[[Finanzierungsnachweis]]*) like a scholarship or a blocked account (*[[Sperrkonto]]*).[^40]
 
-Usually, you only need a blocked account for the first year. When you renew your student visa, it might not be needed.[^17]
+Usually, you only need a blocked account for the first year. You must deposit at least €{{SPERRKONTO_AMOUNT|cur}} in it.[^22] When you renew your student visa, it might not be needed.[^17]
 
 You can open a blocked account with...
 
@@ -243,6 +243,7 @@ None of these banks give you a [[Girocard]]. If you need one, [C24](/out/c24) is
 [^19]: Tobias Arnold from bunq (February 2025){{ fail_on('2026-01-01') }}
 [^20]: [comdirect.de](https://www.comdirect.de/cms/ueberuns/de/presse/neues-mobiles-girokonto-von-comdirect.html)
 [^21]: [commerzbank.de](https://www.commerzbank.de/portal/media/efw-dokumente/preis_leistungsverzeichnis.pdf)
+[^22]: [§ 13 BAföG](https://www.buzer.de/13_BAfoG.htm) and [§ 13a BAföG](https://www.buzer.de/13a_BAfoG.htm), [VAB A2.3.5](/out/vab) (October 2025)
 [^23]: [allaboutberlin.com](/out/1822direkt), [1822direkt.de](https://www.1822direkt.de/fileadmin/Home/Dokumente/PDF/pv_aktuelle_Produkte_1822direkt.pdf)
 [^24]: [berliner-sparkasse.de](https://www.berliner-sparkasse.de/content/dam/myif/berliner-sk/work/dokumente/pdf/preise-leistungen/preisaushang.pdf?n=true)
 [^25]: [deutsche-bank.de](/out/deutsche-bank-young)

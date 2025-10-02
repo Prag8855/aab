@@ -171,7 +171,8 @@ ctx["EXPAT_STUDENT_COST"] = round(ctx["FEATHER_STUDENT_COST"])
 ctx['GKV_KRANKENGELD_DAILY_LIMIT'] = (ctx['GKV_MAX_INCOME'] * Decimal('0.7') / 360).normalize()  # § 47 SGB V
 
 # BAFöG Bedarfssatz (€/y)
-ctx['BAFOG_BEDARFSSATZ'] = fail_on('2025-12-01', 380 + 475)  # § 13 BAföG Abs 1.2 + 2.2
+ctx['BAFOG_BEDARFSSATZ'] = fail_on('2025-12-31', 380 + 475)  # § 13 BAföG Abs 1.2 + 2.2
+ctx['SPERRKONTO_AMOUNT'] = fail_on('2025-12-31', (ctx['BAFOG_BEDARFSSATZ'] + 102 + 35) * 12)  # § 13 BAföG Abs 1.2 + 2.2 + § 13a BAföG Abs 1
 
 # Pflegeversicherung (%) - § 55 Abs. 1 SGB XI
 ctx['PFLEGEVERSICHERUNG_BASE_RATE'] = fail_on('2025-12-31', Decimal('3.6'))
