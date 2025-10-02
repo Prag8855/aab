@@ -29,7 +29,7 @@ class CaseAdmin(admin.ModelAdmin):
         }),
     )
     readonly_fields = ['creation_date']
-    list_display = ['name', 'broker', 'contact_method', 'occupation', 'age', 'is_married', 'children_count', 'creation_date', 'referrer']
+    list_display = ['creation_date', 'name', 'broker', 'contact_method', 'occupation', 'income', 'age', 'is_married', 'children_count', 'referrer']
 
 
 admin.site.register(Case, CaseAdmin)
