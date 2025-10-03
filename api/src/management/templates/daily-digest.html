@@ -1,0 +1,14 @@
+{% for model in models %}
+	<h3><a href="https://allaboutberlin.com{{ model.url }}">{{ model.name }}</a> (x{{ model.instances|length }})</h3>
+	<ul>
+		{% for instance in model.instances %}
+			<li>
+				<h4><a href="https://allaboutberlin.com{{ instance.url }}">{{ instance.name }}</a></h4>
+				{% for field, value in instance.fields.items %}
+					<strong>{{ field }}:</strong> {{ value|default:"-"|linebreaksbr }}<br>
+				{% endfor %}
+			</li>
+		{% endfor %}
+	</ul>
+	<hr>
+{% endfor %}

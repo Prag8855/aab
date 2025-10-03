@@ -50,6 +50,8 @@ class Case(models.Model):
     broker = models.CharField(max_length=30, choices=Brokers, default=Brokers.SEAMUS_WOLF)
     referrer = models.CharField(blank=True, help_text="Part of the commissions will be paid out to that referrer")
 
+    daily_digest_fields = ['name', 'broker', 'contact_method', 'occupation', 'income', 'age', 'is_married', 'children_count', 'notes']
+
     def clean(self):
         super().clean()
         if self.contact_method == ContactMethod.EMAIL and not self.email:
@@ -83,6 +85,7 @@ class Case(models.Model):
         }[self.broker]
 
     class Meta:
+        verbose_name = "Insurance case"
         ordering = ['-creation_date']
 
     def __str__(self):

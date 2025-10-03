@@ -100,6 +100,7 @@ class PensionRefundQuestion(NameMixin, EmailMixin, ScheduledMessage):
 
     recipients = ['support@pension-refund.com', ]
     template = 'pension-refund-question.html'
+    daily_digest_fields = ['name', 'nationality', 'country_of_residence', 'question']
 
     @property
     def subject(self) -> str:
@@ -150,6 +151,7 @@ class PensionRefundRequest(NameMixin, EmailMixin, ScheduledMessage):
     partner = models.CharField(max_length=30, choices=pension_refund_partners)
 
     template = 'pension-refund-request.html'
+    daily_digest_fields = ['name', 'partner', 'nationality', 'country_of_residence']
 
     def remove_personal_data(self):
         super().remove_personal_data()
@@ -336,6 +338,7 @@ class ResidencePermitFeedback(MultiStageFeedback):
     health_insurance_notes = models.TextField(blank=True)
 
     objects = FeedbackManager()
+    daily_digest_fields = ['application_date', 'first_response_date', 'appointment_date', 'pick_up_date', 'notes', ]
 
     def clean(self):
         if self.first_response_date and self.application_date > self.first_response_date:
@@ -361,6 +364,9 @@ class ResidencePermitFeedback(MultiStageFeedback):
             self.feedback_reminders.create(delivery_date=timezone.now() + relativedelta(months=2))
             if not self.appointment_date:
                 self.feedback_reminders.create(delivery_date=timezone.now() + relativedelta(months=6))
+
+    def __str__(self):
+        return f"{self.get_residence_permit_type_display()} ({self.get_department_display()})"
 
     class Meta(MultiStageFeedback.Meta):
         verbose_name_plural = "Residence permit feedback"
@@ -398,6 +404,7 @@ class CitizenshipFeedback(MultiStageFeedback):
     notes = models.TextField(blank=True)
 
     objects = FeedbackManager()
+    daily_digest_fields = ['application_date', 'first_response_date', 'appointment_date', 'notes', ]
 
     def clean(self):
         if self.first_response_date and self.application_date > self.first_response_date:
@@ -419,6 +426,9 @@ class CitizenshipFeedback(MultiStageFeedback):
         # No feedback email needed if the feedback is complete
         if self.email and not self.appointment_date:
             self.feedback_reminders.create(delivery_date=timezone.now() + relativedelta(months=3))
+
+    def __str__(self):
+        return f"Citizenship ({self.get_department_display()})"
 
     class Meta(MultiStageFeedback.Meta):
         verbose_name_plural = "Citizenship feedback"
