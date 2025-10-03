@@ -358,21 +358,15 @@ class ResidencePermitFeedback(Feedback):
 
         # No feedback email needed if the feedback is complete
         if self.email and not self.pick_up_date:
-            self.feedback_reminders.create(
-                email=self.email,
-                delivery_date=timezone.now() + relativedelta(months=2)
-            )
+            self.feedback_reminders.create(delivery_date=timezone.now() + relativedelta(months=2))
             if not self.appointment_date:
-                self.feedback_reminders.create(
-                    email=self.email,
-                    delivery_date=timezone.now() + relativedelta(months=6)
-                )
+                self.feedback_reminders.create(delivery_date=timezone.now() + relativedelta(months=6))
 
     class Meta(Feedback.Meta):
         verbose_name_plural = "Residence permit feedback"
 
 
-class ResidencePermitFeedbackReminder(EmailMixin, ScheduledMessage):
+class ResidencePermitFeedbackReminder(ScheduledMessage):
     feedback = models.ForeignKey(ResidencePermitFeedback, related_name='feedback_reminders', on_delete=models.CASCADE)
 
     subject = "Did you get your residence permit?"
@@ -380,7 +374,7 @@ class ResidencePermitFeedbackReminder(EmailMixin, ScheduledMessage):
 
     @property
     def recipients(self) -> list[str]:
-        return [self.email, ]
+        return [self.feedback.email, ]
 
     class Meta(ScheduledMessage.Meta):
         pass
@@ -424,16 +418,13 @@ class CitizenshipFeedback(Feedback):
 
         # No feedback email needed if the feedback is complete
         if self.email and not self.appointment_date:
-            self.feedback_reminders.create(
-                email=self.email,
-                delivery_date=timezone.now() + relativedelta(months=3)
-            )
+            self.feedback_reminders.create(delivery_date=timezone.now() + relativedelta(months=3))
 
     class Meta(Feedback.Meta):
         verbose_name_plural = "Citizenship feedback"
 
 
-class CitizenshipFeedbackReminder(EmailMixin, ScheduledMessage):
+class CitizenshipFeedbackReminder(ScheduledMessage):
     feedback = models.ForeignKey(CitizenshipFeedback, related_name='feedback_reminders', on_delete=models.CASCADE)
 
     subject = "Did you get your German citizenship?"
@@ -441,7 +432,7 @@ class CitizenshipFeedbackReminder(EmailMixin, ScheduledMessage):
 
     @property
     def recipients(self) -> list[str]:
-        return [self.email, ]
+        return [self.feedback.email, ]
 
     class Meta(ScheduledMessage.Meta):
         pass
