@@ -82,7 +82,7 @@ class ScheduledMessage(models.Model):
         ordering = ['-creation_date']
 
 
-class Feedback(EmailMixin, models.Model):
+class MultiStageFeedback(EmailMixin, models.Model):
     modification_key = models.CharField(primary_key=True, max_length=32, unique=True, default=random_key)
     creation_date = models.DateTimeField(auto_now_add=True)
     modification_date = models.DateTimeField(auto_now=True)
@@ -321,7 +321,7 @@ class ResidencePermitDepartments(models.TextChoices):
     M4 = 'M4', "M4"
 
 
-class ResidencePermitFeedback(Feedback):
+class ResidencePermitFeedback(MultiStageFeedback):
     residence_permit_type = models.CharField(choices=ResidencePermitTypes, max_length=30)
 
     application_date = models.DateField()
@@ -362,7 +362,7 @@ class ResidencePermitFeedback(Feedback):
             if not self.appointment_date:
                 self.feedback_reminders.create(delivery_date=timezone.now() + relativedelta(months=6))
 
-    class Meta(Feedback.Meta):
+    class Meta(MultiStageFeedback.Meta):
         verbose_name_plural = "Residence permit feedback"
 
 
@@ -389,7 +389,7 @@ class CitizenshipDepartments(models.TextChoices):
     S6 = 'S6', "S6"
 
 
-class CitizenshipFeedback(Feedback):
+class CitizenshipFeedback(MultiStageFeedback):
     application_date = models.DateField()
     first_response_date = models.DateField(null=True, blank=True)
     appointment_date = models.DateField(null=True, blank=True)
@@ -420,7 +420,7 @@ class CitizenshipFeedback(Feedback):
         if self.email and not self.appointment_date:
             self.feedback_reminders.create(delivery_date=timezone.now() + relativedelta(months=3))
 
-    class Meta(Feedback.Meta):
+    class Meta(MultiStageFeedback.Meta):
         verbose_name_plural = "Citizenship feedback"
 
 
