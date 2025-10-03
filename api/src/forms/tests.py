@@ -147,9 +147,29 @@ class FeedbackEndpointMixin:
         self.assertEqual(self.model.objects.count(), 1)
 
 
-class PensionRefundQuestionTestCase(ScheduledMessageEndpointMixin, APITestCase):
+class FeedbackReminderMixin:
+    feedback_email_delay = timedelta(days=7)
+
+    def test_feedback_reminder_scheduled(self):
+        self.client.post(self.endpoint, self.example_request, format='json')
+        reminder = self.model.objects.get(email=self.example_request['email']).feedback_reminder
+
+        self.assertEqual(
+            timezone.now().replace(second=0, microsecond=0),
+            reminder.creation_date.replace(second=0, microsecond=0)
+        )
+        self.assertEqual(
+            reminder.delivery_date.replace(microsecond=0),
+            (reminder.creation_date + self.feedback_email_delay).replace(microsecond=0)
+        )
+        self.assertEqual(reminder.recipients, [self.example_request['email'], ],)
+
+
+class PensionRefundQuestionTestCase(FeedbackReminderMixin, ScheduledMessageEndpointMixin, APITestCase):
     model = PensionRefundQuestion
     endpoint = '/api/forms/pension-refund-question'
+    feedback_email_delay = timedelta(days=7)
+
     example_request = {
         'name': 'John Test',
         'email': 'contact@nicolasbouliane.com',
@@ -159,9 +179,11 @@ class PensionRefundQuestionTestCase(ScheduledMessageEndpointMixin, APITestCase):
     }
 
 
-class PensionRefundRequestTestCase(ScheduledMessageEndpointMixin, APITestCase):
+class PensionRefundRequestTestCase(FeedbackReminderMixin, ScheduledMessageEndpointMixin, APITestCase):
     model = PensionRefundRequest
     endpoint = '/api/forms/pension-refund-request'
+    feedback_email_delay = timedelta(days=7)
+
     example_request = {
         'arrival_date': '2017-07-01',
         'departure_date': '2020-01-01',
@@ -194,6 +216,7 @@ class PensionRefundRequestTestCase(ScheduledMessageEndpointMixin, APITestCase):
 
 class PensionRefundReminderTestCase(ScheduledMessageEndpointMixin, APITestCase):
     model = PensionRefundReminder
+
     endpoint = '/api/forms/pension-refund-reminder'
     example_request = {
         'email': 'contact@nicolasbouliane.com',

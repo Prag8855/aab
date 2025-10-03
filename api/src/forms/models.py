@@ -29,24 +29,6 @@ class EmailMixin(models.Model):
         abstract = True
 
 
-class ReplyToSenderMixin(EmailMixin):
-    @property
-    def reply_to(self) -> str:
-        return self.email
-
-    class Meta:
-        abstract = True
-
-
-class RecipientIsSenderMixin(EmailMixin):
-    @property
-    def recipients(self) -> list[str]:
-        return [self.email, ]
-
-    class Meta:
-        abstract = True
-
-
 class NameMixin(models.Model):
     name = models.CharField(max_length=150)
 
@@ -157,7 +139,7 @@ class Feedback(EmailMixin, models.Model):
         ordering = ['-modification_date']
 
 
-class PensionRefundQuestion(NameMixin, ReplyToSenderMixin, EmailMixin, ScheduledMessage):
+class PensionRefundQuestion(NameMixin, EmailMixin, ScheduledMessage):
     nationality = CountryField()
     country_of_residence = CountryField()
     question = models.TextField()
@@ -169,8 +151,33 @@ class PensionRefundQuestion(NameMixin, ReplyToSenderMixin, EmailMixin, Scheduled
     def subject(self) -> str:
         return f"Pension refund question from {self.name} (All About Berlin)"
 
+    @property
+    def reply_to(self) -> str:
+        return self.email
+
+    def save(self, *args, **kwargs):
+        super().save(*args, **kwargs)
+        PensionRefundQuestionFeedbackReminder.objects.create(refund_question=self, delivery_date=timezone.now() + relativedelta(days=7))
+
     def __str__(self):
         return self.name
+
+    class Meta(ScheduledMessage.Meta):
+        pass
+
+
+class PensionRefundQuestionFeedbackReminder(ScheduledMessage):
+    refund_question = models.OneToOneField(PensionRefundQuestion, related_name='feedback_reminder', on_delete=models.CASCADE)
+
+    subject = "Did Pension Refund Germany answer your question?"
+    template = 'pension-refund-question-feedback.html'
+
+    @property
+    def recipients(self) -> list[str]:
+        return [self.refund_question.email, ]
+
+    class Meta(ScheduledMessage.Meta):
+        pass
 
 
 pension_refund_partners = {
@@ -180,7 +187,7 @@ pension_refund_partners = {
 }
 
 
-class PensionRefundRequest(NameMixin, ReplyToSenderMixin, EmailMixin, ScheduledMessage):
+class PensionRefundRequest(NameMixin, EmailMixin, ScheduledMessage):
     arrival_date = models.DateField()
     birth_date = models.DateField()
     country_of_residence = CountryField()
@@ -202,18 +209,44 @@ class PensionRefundRequest(NameMixin, ReplyToSenderMixin, EmailMixin, ScheduledM
     def subject(self) -> str:
         return f"Pension refund request from {self.name} (All About Berlin)"
 
-    class Meta(ScheduledMessage.Meta):
-        pass
+    @property
+    def reply_to(self) -> str:
+        return self.email
+
+    def save(self, *args, **kwargs):
+        super().save(*args, **kwargs)
+        PensionRefundRequestFeedbackReminder.objects.create(refund_request=self, delivery_date=timezone.now() + relativedelta(days=7))
 
     def __str__(self):
         return self.name
 
+    class Meta(ScheduledMessage.Meta):
+        pass
 
-class PensionRefundReminder(RecipientIsSenderMixin, EmailMixin, ScheduledMessage):
+
+class PensionRefundRequestFeedbackReminder(ScheduledMessage):
+    refund_request = models.OneToOneField(PensionRefundRequest, related_name='feedback_reminder', on_delete=models.CASCADE)
+
+    subject = "Did you get your pension refund?"
+    template = 'pension-refund-request-feedback.html'
+
+    @property
+    def recipients(self) -> list[str]:
+        return [self.refund_request.email, ]
+
+    class Meta(ScheduledMessage.Meta):
+        pass
+
+
+class PensionRefundReminder(EmailMixin, ScheduledMessage):
     refund_amount = models.PositiveIntegerField()
 
     subject = "Reminder: you can now get your German pension payments back"
     template = 'pension-refund-reminder.html'
+
+    @property
+    def recipients(self) -> list[str]:
+        return [self.email, ]
 
     class Meta(ScheduledMessage.Meta):
         pass
@@ -348,11 +381,15 @@ class ResidencePermitFeedback(Feedback):
         verbose_name_plural = "Residence permit feedback"
 
 
-class ResidencePermitFeedbackReminder(RecipientIsSenderMixin, EmailMixin, ScheduledMessage):
+class ResidencePermitFeedbackReminder(EmailMixin, ScheduledMessage):
     feedback = models.ForeignKey(ResidencePermitFeedback, related_name='feedback_reminders', on_delete=models.CASCADE)
 
     subject = "Did you get your residence permit?"
     template = 'residence-permit-feedback-reminder.html'
+
+    @property
+    def recipients(self) -> list[str]:
+        return [self.email, ]
 
     class Meta(ScheduledMessage.Meta):
         pass
@@ -396,21 +433,29 @@ class CitizenshipFeedback(Feedback):
         verbose_name_plural = "Citizenship feedback"
 
 
-class CitizenshipFeedbackReminder(RecipientIsSenderMixin, EmailMixin, ScheduledMessage):
+class CitizenshipFeedbackReminder(EmailMixin, ScheduledMessage):
     feedback = models.ForeignKey(CitizenshipFeedback, related_name='feedback_reminders', on_delete=models.CASCADE)
 
     subject = "Did you get your German citizenship?"
     template = 'citizenship-feedback-reminder.html'
 
+    @property
+    def recipients(self) -> list[str]:
+        return [self.email, ]
+
     class Meta(ScheduledMessage.Meta):
         pass
 
 
-class TaxIdRequestFeedbackReminder(NameMixin, RecipientIsSenderMixin, EmailMixin, ScheduledMessage):
+class TaxIdRequestFeedbackReminder(NameMixin, EmailMixin, ScheduledMessage):
     delivery_date = models.DateTimeField(default=in_8_weeks)
 
     subject = "Did you receive your tax ID?"
     template = 'tax-id-request-feedback-reminder.html'
+
+    @property
+    def recipients(self) -> list[str]:
+        return [self.email, ]
 
     class Meta(ScheduledMessage.Meta):
         pass
