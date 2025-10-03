@@ -54,11 +54,6 @@
 					],
 					partners: [
 						{
-							name: 'Pension Refund Germany',
-							key: 'pensionrefundgermany',
-							fee: x => Math.min(x * {{ PENSIONREFUNDGERMANY_FEE }}/100, {{ PENSIONREFUNDGERMANY_MAX_FEE }}),
-						},
-						{
 							name: 'FundsBack',
 							key: 'fundsback',
 							fee: x => Math.min(Math.max(x * {{ FUNDSBACK_FEE }}/100, {{ FUNDSBACK_MIN_FEE }}), {{ FUNDSBACK_MAX_FEE }}),
@@ -67,6 +62,11 @@
 							name: 'Germany Pension Refund',
 							key: 'germanypensionrefund',
 							fee: x => x * {{ GERMANYPENSIONREFUND_FEE }}/100,
+						},
+						{
+							name: 'Pension Refund Germany',
+							key: 'pensionrefundgermany',
+							fee: x => Math.min(x * {{ PENSIONREFUNDGERMANY_FEE }}/100, {{ PENSIONREFUNDGERMANY_MAX_FEE }}),
 						},
 						{
 							name: 'Do it yourself',
@@ -228,10 +228,18 @@
 					const westGermanResults = calculatePensionRefund(...args, false).refundAmount;
 					return eastGermanResults != westGermanResults;
 				},
+				sortedPartners() {
+					return this.partners.sort(
+						(a, b) => {
+							if(b.name === 'Do it yourself') return -1;
+							return a.fee(this.results.refundAmount) - b.fee(this.results.refundAmount);
+						}
+					);
+				},
 			},
 			watch: {
 				results(){
-					this.selectedPartner = this.partners[0];
+					this.selectedPartner = this.sortedPartners[0];
 				}
 			}
 		})
