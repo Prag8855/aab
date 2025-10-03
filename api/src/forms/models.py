@@ -47,52 +47,6 @@ class MessageStatus(models.IntegerChoices):
     REDACTED = 3, "Sent and redacted for privacy"
 
 
-class ResidencePermitTypes(models.TextChoices):
-    BLUE_CARD = 'BLUE_CARD', "Blue Card"
-    CITIZENSHIP = 'CITIZENSHIP', "Citizenship"
-    FAMILY_REUNION_VISA = 'FAMILY_REUNION_VISA', "Family reunion visa"
-    FREELANCE_VISA = 'FREELANCE_VISA', "Freelance visa"
-    JOB_SEEKER_VISA = 'JOB_SEEKER_VISA', "Job seeker visa"
-    PERMANENT_RESIDENCE = 'PERMANENT_RESIDENCE', "Permanent residence"
-    STUDENT_VISA = 'STUDENT_VISA', "Student visa"
-    WORK_VISA = 'WORK_VISA', "Work visa"
-
-
-class HealthInsuranceTypes(models.TextChoices):
-    PUBLIC = 'PUBLIC', "Public health insurance"
-    PRIVATE = 'PRIVATE', "Private health insurance"
-    EXPAT = 'EXPAT', "Expat health insurance"
-    OTHER = 'OTHER', "Other"
-    UNKNOWN = '', "Unknown"
-
-
-class ResidencePermitDepartments(models.TextChoices):
-    A1_A5 = 'A1_A5', "A1, A5"
-    A2_A3_A4 = 'A2_A3_A4', "A2, A3, A4"
-    B1_B2_B3_B4 = 'B1_B2_B3_B4', "B1, B2, B3, B4"
-    B6 = 'B6', "B6"
-    E1 = 'E1', "E1"
-    E2 = 'E2', "E2"
-    E3 = 'E3', "E3"
-    E4 = 'E4', "E4"
-    E5 = 'E5', "E5"
-    E6 = 'E6', "E6"
-    F1_F2 = 'F1_F2', "F1, F2"
-    M1 = 'M1', "M1"
-    M2 = 'M2', "M2"
-    M3 = 'M3', "M3"
-    M4 = 'M4', "M4"
-
-
-class CitizenshipDepartments(models.TextChoices):
-    S1 = 'S1', "S1"
-    S2 = 'S2', "S2"
-    S3 = 'S3', "S3"
-    S4 = 'S4', "S4"
-    S5 = 'S5', "S5"
-    S6 = 'S6', "S6"
-
-
 class ScheduledMessage(models.Model):
     creation_date = models.DateTimeField(auto_now_add=True)
     delivery_date = models.DateTimeField(default=timezone.now)
@@ -330,6 +284,43 @@ class FeedbackManager(models.Manager):
         }
 
 
+class HealthInsuranceTypes(models.TextChoices):
+    PUBLIC = 'PUBLIC', "Public health insurance"
+    PRIVATE = 'PRIVATE', "Private health insurance"
+    EXPAT = 'EXPAT', "Expat health insurance"
+    OTHER = 'OTHER', "Other"
+    UNKNOWN = '', "Unknown"
+
+
+class ResidencePermitTypes(models.TextChoices):
+    BLUE_CARD = 'BLUE_CARD', "Blue Card"
+    CITIZENSHIP = 'CITIZENSHIP', "Citizenship"
+    FAMILY_REUNION_VISA = 'FAMILY_REUNION_VISA', "Family reunion visa"
+    FREELANCE_VISA = 'FREELANCE_VISA', "Freelance visa"
+    JOB_SEEKER_VISA = 'JOB_SEEKER_VISA', "Job seeker visa"
+    PERMANENT_RESIDENCE = 'PERMANENT_RESIDENCE', "Permanent residence"
+    STUDENT_VISA = 'STUDENT_VISA', "Student visa"
+    WORK_VISA = 'WORK_VISA', "Work visa"
+
+
+class ResidencePermitDepartments(models.TextChoices):
+    A1_A5 = 'A1_A5', "A1, A5"
+    A2_A3_A4 = 'A2_A3_A4', "A2, A3, A4"
+    B1_B2_B3_B4 = 'B1_B2_B3_B4', "B1, B2, B3, B4"
+    B6 = 'B6', "B6"
+    E1 = 'E1', "E1"
+    E2 = 'E2', "E2"
+    E3 = 'E3', "E3"
+    E4 = 'E4', "E4"
+    E5 = 'E5', "E5"
+    E6 = 'E6', "E6"
+    F1_F2 = 'F1_F2', "F1, F2"
+    M1 = 'M1', "M1"
+    M2 = 'M2', "M2"
+    M3 = 'M3', "M3"
+    M4 = 'M4', "M4"
+
+
 class ResidencePermitFeedback(Feedback):
     residence_permit_type = models.CharField(choices=ResidencePermitTypes, max_length=30)
 
@@ -393,6 +384,15 @@ class ResidencePermitFeedbackReminder(EmailMixin, ScheduledMessage):
 
     class Meta(ScheduledMessage.Meta):
         pass
+
+
+class CitizenshipDepartments(models.TextChoices):
+    S1 = 'S1', "S1"
+    S2 = 'S2', "S2"
+    S3 = 'S3', "S3"
+    S4 = 'S4', "S4"
+    S5 = 'S5', "S5"
+    S6 = 'S6', "S6"
 
 
 class CitizenshipFeedback(Feedback):
