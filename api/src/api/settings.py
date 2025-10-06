@@ -15,7 +15,7 @@ CSRF_TRUSTED_ORIGINS = ['https://localhost', 'https://allaboutberlin.com']
 
 INSTALLED_APPS = [
     'django.contrib.humanize',
-    'django.contrib.admin',
+    'management.apps.CustomAdminConfig',  # Replaces django.contrib.admin
     'django.contrib.auth',
     'django.contrib.contenttypes',
     'django.contrib.messages',

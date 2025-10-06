@@ -7,5 +7,3 @@ urlpatterns = [
     path("api/insurance/", include("insurance.urls")),
     path('admin/', admin.site.urls),
 ]
-
-admin.site.site_header = 'All About Berlin admin'

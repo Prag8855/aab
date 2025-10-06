@@ -38,4 +38,6 @@ class Command(BaseCommand):
             if http_status == 500 or last_appointments_found_on is None or (timezone.now() - last_appointments_found_on) > timedelta(days=1):
                 status = logging.ERROR
 
-        update_monitor('appointment-finder', status, f"{http_status} - {message or 'No message'}. Last appointments found on {last_appointments_found_on}")
+        last_find = f"Last appointments found on {last_appointments_found_on.strftime('%Y-%m-%d %H:%M')}" if last_appointments_found_on else "No appointments found yet"
+
+        update_monitor('appointment-finder', status, f"{http_status} - {message or 'No message'}. {last_find}")

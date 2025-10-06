@@ -1,0 +1,28 @@
+{% extends "admin/index.html" %}
+
+{% load humanize %}
+
+{% block sidebar %}
+<div id="content-related">
+	<div class="module">
+		<h2>Monitors</h2>
+		{% for monitor in monitors %}
+			<p>
+				<span style="float: right">{{ monitor.icon }}</span>
+				<strong><a href="https://allaboutberlin.com{{ monitor.url }}">{{ monitor.name }}</a></strong>
+				{% if monitor.message %}<br>{{ monitor.message }}{% endif %}
+				<br><small>{{ monitor.last_updated|timesince }} ago</small>
+			</p>
+		{% endfor %}
+		<hr>
+		<h2>Last updates</h2>
+		{% for model in models %}
+			<p>
+				<span style="float: right">+{{ model.instances|length }}</span>
+				<strong><a href="https://allaboutberlin.com{{ model.url }}">{{ model.name }}</a></strong>
+				<br><small>{{ model.last_created|timesince }} ago</small>
+			</p>
+		{% endfor %}
+	</div>
+</div>
+{% endblock %}
