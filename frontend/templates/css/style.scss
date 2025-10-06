@@ -720,7 +720,7 @@ body > header {
 
 .sidebar{
     grid-area: sidebar;
-    width: calc(var(--w-desktop) - var(--w-main-column));
+    width: var(--w-sidebar);
     box-sizing: border-box;
     position:sticky;
     top:0;
@@ -791,6 +791,7 @@ body > header {
         inset: auto var(--w-page-border) var(--w-page-border) auto;
         width: fit-content;
         z-index: 999;
+        max-width: var(--w-sidebar);
 
         #floating-nav.visible{
             position: fixed;
