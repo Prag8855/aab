@@ -14,7 +14,10 @@ class Command(BaseCommand):
     help = 'Check the status of the Bürgeramt appointment finder'
 
     async def get_appointment_finder_message(self) -> tuple[int, str, datetime | None]:
-        async with websockets.connect("wss://allaboutberlin.com/api/appointments") as websocket:
+        # In prod, calling allaboutberlin.com calls 127.0.1.1 instead (loopback interface)
+        # Nginx rejects requests from that address because the host isn't allaboutberlin.com
+        # So we just ping the appointment finder server directly.
+        async with websockets.connect("ws://128.140.76.17") as websocket:
             # Wait for welcome message with 5-second timeout
             data = json.loads(await asyncio.wait_for(websocket.recv(), timeout=5))
             if data["lastAppointmentsFoundOn"]:
