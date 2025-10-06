@@ -26,7 +26,7 @@ You can get help from these communities and services.
 
 ### Free help
 
-- **[Welcome Center](https://www.berlin.de/willkommenszentrum/en/)** of the Commissioner for Integration and Migration  
+- **[Welcome Center](https://www.berlin.de/willkommenszentrum/ueber-uns/mehrsprachige-beratung/#Englisch)** of the Commissioner for Integration and Migration  
     They offer legal help about immigration. They answer in English, and many other languages. They answer a few days later.
 - **["Working and Living in Germany" hotline](https://www.bamf.de/EN/Service/ServiceCenter/ThemenHotlines/ArbeitenUndLeben/arbeitenundleben-node.html)**  
     This phone hotline helps people move to Germany. They speak English.
