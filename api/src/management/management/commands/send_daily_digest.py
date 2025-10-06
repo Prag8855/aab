@@ -1,5 +1,5 @@
-from collections import OrderedDict, defaultdict
-from datetime import datetime, timedelta
+from collections import OrderedDict
+from datetime import timedelta
 from django.apps import apps
 from django.conf import settings
 from django.contrib.auth.models import User
@@ -8,90 +8,70 @@ from django.template.loader import render_to_string
 from django.urls import reverse
 from django.utils import timezone
 from forms.utils import send_email
+from management.models import Monitor, update_monitor, error_icons
 from requests.exceptions import HTTPError
-import asyncio
-import json
+from typing import Any
 import logging
-import requests
-import websockets
 
 logger = logging.getLogger(__name__)
-
-error_icons = defaultdict(lambda: '🟥', {
-    logging.INFO: '🟢',
-    logging.WARNING: '🟡',
-    logging.ERROR: '🟥',
-})
 
 
 class Command(BaseCommand):
     help = 'Send a daily digest to the admins'
 
-    async def get_appointment_finder_status(self) -> tuple[int, str, datetime | None]:
-        async with websockets.connect("wss://allaboutberlin.com/api/appointments") as websocket:
-            # Wait for welcome message with 5-second timeout
-            data = json.loads(await asyncio.wait_for(websocket.recv(), timeout=5))
-            if data["lastAppointmentsFoundOn"]:
-                last_appointments_found_on = datetime.fromisoformat(data["lastAppointmentsFoundOn"].replace("Z", "+00:00"))
-            else:
-                last_appointments_found_on = None
+    def get_models(self) -> dict[str, Any]:
+        return [{
+            'name': model._meta.verbose_name_plural.capitalize(),
+            'url': reverse("admin:%s_%s_changelist" % (model._meta.app_label, model._meta.model_name)),
+            'last_created': model.objects.order_by('-creation_date').first().creation_date,
+            'instances': [
+                {
+                    'name': str(instance),
+                    'url': reverse(
+                        "admin:%s_%s_change" % (instance._meta.app_label, instance._meta.model_name),
+                        args=[instance.pk]
+                    ),
+                    'fields': OrderedDict([
+                        (
+                            instance._meta.get_field(field).verbose_name.capitalize(),
+                            getattr(instance, field, None)
+                        )
+                        for field in instance.daily_digest_fields
+                    ])
+                }
+                for instance in model.objects.filter(creation_date__gte=timezone.now() - timedelta(hours=24))
+            ],
+        } for model in apps.get_models() if hasattr(model, 'daily_digest_fields')]
 
-        return data['status'], data['message'], last_appointments_found_on
+    def get_monitors(self) -> list[dict[str, Any]]:
+        return [{
+            'icon': error_icons[monitor.status],
+            'status': monitor.status,
+            'name': monitor.name or monitor.key,
+            'last_updated': monitor.last_updated,
+            'message': monitor.last_update.message,
+            'url': reverse(
+                "admin:%s_%s_change" % (monitor._meta.app_label, monitor._meta.model_name),
+                args=[monitor.pk]
+            ),
+        } for monitor in Monitor.objects.all()]
 
     def handle(self, *args, **options):
         error_level = logging.INFO
 
-        apt_error_level = logging.INFO
-        last_appointments_found_on = None
-        try:
-            apt_status, apt_message, last_appointments_found_on = asyncio.run(self.get_appointment_finder_status())
-        except Exception as e:
-            logger.exception("Could not fetch appointment finder status")
-            apt_status, apt_message = 500, str(e)
+        models = self.get_models()
+        monitors = self.get_monitors()
 
-        if apt_status != 200:
-            apt_error_level = logging.WARNING
-            error_level = max(error_level, logging.WARNING)
-            if apt_status == 500 or last_appointments_found_on is None or (timezone.now() - last_appointments_found_on) > timedelta(days=1):
-                apt_error_level = logging.ERROR
-                error_level = max(error_level, logging.ERROR)
+        context = {
+            'models': models,
+            'monitors': monitors,
+        }
 
-        body = render_to_string('daily-digest.html', {
-            'appointment_finder': {
-                'icon': error_icons[apt_error_level],
-                'status': apt_status,
-                'message': apt_message,
-                'last_appointments_found_on': last_appointments_found_on,
-            },
-            'models': [{
-                'name': model._meta.verbose_name_plural.capitalize(),
-                'url': reverse(
-                    "admin:%s_%s_changelist" % (model._meta.app_label, model._meta.model_name),
-                ),
-                'last_created': model.objects.order_by('-creation_date').first().creation_date,
-                'instances': [
-                    {
-                        'name': str(instance),
-                        'url': reverse(
-                            "admin:%s_%s_change" % (instance._meta.app_label, instance._meta.model_name),
-                            args=[instance.pk]
-                        ),
-                        'fields': OrderedDict([
-                            (
-                                instance._meta.get_field(field).verbose_name.capitalize(),
-                                getattr(instance, field, None)
-                            )
-                            for field in instance.daily_digest_fields
-                        ])
-                    }
-                    for instance in model.objects.filter(creation_date__gte=timezone.now() - timedelta(hours=24))
-                ],
-
-            } for model in apps.get_models() if hasattr(model, 'daily_digest_fields')]
-        })
+        error_level = max(logging.INFO, *[m['status'] for m in monitors])
 
         subject = f"{error_icons[error_level]} All About Berlin daily digest"
         recipients = User.objects.filter(is_superuser=True).values_list("email", flat=True)
+        body = render_to_string('daily-digest.html', context)
 
         if settings.DEBUG_EMAILS:
             logger.info('Pretending to send daily digest...')
@@ -119,10 +99,11 @@ class Command(BaseCommand):
                     body,
                 )
         except HTTPError as exc:
-            logger.exception(f"Could not send daily digest (HTTP {exc.response.status_code})")
-        except:
+            logger.exception(f"Could not send daily digest  (HTTP {exc.response.status_code})")
+            update_monitor('daily-digest', logging.ERROR, f"Could not send daily digest (HTTP {exc.response.status_code})")
+        except Exception as exc:
             logger.exception(f"Could not send daily digest")
+            update_monitor('daily-digest', logging.ERROR, str(exc))
         else:
             logger.info('Sent daily digest.')
-            if not settings.DEBUG:
-                requests.get('https://uptime.betterstack.com/api/v1/heartbeat/Jaj5ab3VjaoUsrq5YVGUxJaM')
+            update_monitor('daily-digest', logging.INFO)

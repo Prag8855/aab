@@ -1,16 +1,17 @@
 {% load humanize %}
+<h3>Monitors</h3>
 <ul>
-	<li>
-		<strong>{{appointment_finder.icon}} Appointment finder</strong><br>
-		Last appointments found {{ appointment_finder.last_appointments_found_on|timesince }} ago.
-		Status: <code>{{ appointment_finder.status }}{% if appointment_finder.message %} - {{ appointment_finder.message }}{% endif %}</code>.
-	</li>
+	{% for monitor in monitors %}
+		<li>
+			<strong>{{ monitor.icon }} <a href="https://allaboutberlin.com{{ monitor.url }}">{{ monitor.name }}</a>:</strong> {{ monitor.message }}<br>
+			<small>{{ monitor.last_updated|timesince }} ago</small>
+		</li>
+	{% endfor %}
 </ul>
-
+<hr>
 {% for model in models %}
 	{% if model.instances|length > 0 %}
-		<hr>
-		<h3><a href="https://allaboutberlin.com{{ model.url }}">{{ model.name }}</a> × {{ model.instances|length }}</h3>
+		<h3><a href="https://allaboutberlin.com{{ model.url }}">{{ model.name }}</a> +{{ model.instances|length }}</h3>
 		<ul>
 			{% for instance in model.instances %}
 				<li>
@@ -21,14 +22,17 @@
 				</li>
 			{% endfor %}
 		</ul>
+		<hr>
 	{% endif %}
 {% endfor %}
-<hr>
 <h3>No updates</h3>
 <ul>
 	{% for model in models %}
 		{% if model.instances|length == 0 %}
-			<li><strong>{{ model.name }}:</strong> last added {{ model.last_created|timesince }} ago</li>
+			<li>
+				<strong><a href="https://allaboutberlin.com{{ model.url }}">{{ model.name }}</a></strong><br>
+				<small>Last added {{ model.last_created|timesince }} ago</small>
+			</li>
 		{% endif %}
 	{% endfor %}
 </ul>

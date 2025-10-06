@@ -4,9 +4,9 @@ from django.core.management.base import BaseCommand
 from forms.models import MessageStatus, ScheduledMessage
 from django.utils import timezone
 from forms.utils import send_email
+from management.models import update_monitor
 from requests.exceptions import HTTPError
 import logging
-import requests
 
 
 logger = logging.getLogger(__name__)
@@ -62,10 +62,9 @@ class Command(BaseCommand):
                     failures += 1
                 message.save()
 
+        level = logging.ERROR if failures else logging.INFO
         logger.log(
-            logging.ERROR if failures else logging.INFO,
+            level,
             f'Sent scheduled messages. {successes} sent, {failures} failed.'
         )
-
-        if not (settings.DEBUG or settings.DEBUG_EMAILS) and not failures:
-            requests.get('https://betteruptime.com/api/v1/heartbeat/Y3Kth6cKVWVp3yVijwQ3nojP')
+        update_monitor('send-messages', level, f'{successes} sent, {failures} failed.')
