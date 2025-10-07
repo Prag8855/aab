@@ -15,7 +15,9 @@ class GlossaryAudioRenderer(Renderer):
     Creates TTS files for glossary entries
     """
 
-    def render(self, context: Context, changed_files: set[Path] | None = None) -> set[Path]:
+    def render(
+        self, context: Context, changed_files: set[Path] | None = None
+    ) -> set[Path]:
         files_to_keep = set()
 
         german_terms_to_render = [

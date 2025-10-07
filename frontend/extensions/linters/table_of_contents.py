@@ -11,7 +11,9 @@ class TableOfContentsLinter(Linter):
         """
         Raises a warning when a guide has no table of contents
         """
-        if not (file_path.suffix.lower() == ".md" and file_path.is_relative_to("guides")):
+        if not (
+            file_path.suffix.lower() == ".md" and file_path.is_relative_to("guides")
+        ):
             return
 
         with (config.content_path / file_path).open() as file:

@@ -1,6 +1,11 @@
 from playwright.sync_api import expect
 from ..test_data import people
-from ..abmeldung_form import fill_abmeldung_form_until, fill_new_address, next_step, previous_step
+from ..abmeldung_form import (
+    fill_abmeldung_form_until,
+    fill_new_address,
+    next_step,
+    previous_step,
+)
 import re
 
 
@@ -22,16 +27,28 @@ def test_data_remembered(page, assert_snapshot):
 def test_data_validity_check(page, assert_snapshot):
     fill_abmeldung_form_until(page, "newAddress")
 
-    expect(page.locator(".abmeldung-form")).not_to_have_class(re.compile(r".*show-errors.*"))
-    expect(page.get_by_label("Street address")).to_have_js_property("validity.valid", False)
-    expect(page.get_by_label("City and post code")).to_have_js_property("validity.valid", False)
+    expect(page.locator(".abmeldung-form")).not_to_have_class(
+        re.compile(r".*show-errors.*")
+    )
+    expect(page.get_by_label("Street address")).to_have_js_property(
+        "validity.valid", False
+    )
+    expect(page.get_by_label("City and post code")).to_have_js_property(
+        "validity.valid", False
+    )
     expect(page.get_by_label("Country")).to_have_js_property("validity.valid", False)
 
     next_step(page)
 
-    expect(page.locator(".abmeldung-form")).to_have_class(re.compile(r".*show-errors.*"))
-    expect(page.get_by_label("Street address")).to_have_js_property("validity.valid", False)
-    expect(page.get_by_label("City and post code")).to_have_js_property("validity.valid", False)
+    expect(page.locator(".abmeldung-form")).to_have_class(
+        re.compile(r".*show-errors.*")
+    )
+    expect(page.get_by_label("Street address")).to_have_js_property(
+        "validity.valid", False
+    )
+    expect(page.get_by_label("City and post code")).to_have_js_property(
+        "validity.valid", False
+    )
     expect(page.get_by_label("Country")).to_have_js_property("validity.valid", False)
 
     form = page.get_by_role("group", name="Tool to fill the Abmeldung form")
@@ -46,12 +63,16 @@ def test_data_germany(page, assert_snapshot):
     page.get_by_label("City and post code").fill(address["city"])
     page.get_by_label("Country").select_option("Germany")
     expect(page.locator(".input-instructions")).to_have_text(
-        re.compile("^If you stay in Germany, you probably don't need to deregister your address.*")
+        re.compile(
+            "^If you stay in Germany, you probably don't need to deregister your address.*"
+        )
     )
 
     next_step(page)
 
-    expect(page.locator(".abmeldung-form")).to_have_class(re.compile(r".*show-errors.*"))
+    expect(page.locator(".abmeldung-form")).to_have_class(
+        re.compile(r".*show-errors.*")
+    )
 
     form = page.get_by_role("group", name="Tool to fill the Abmeldung form")
     assert_snapshot(form.screenshot())

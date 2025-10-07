@@ -14,7 +14,11 @@ def verify_results(
     church_tax=None,
 ):
     def get_numerical_value(collapsible_title):
-        content = page.locator("summary", has_text=collapsible_title).locator("output").text_content()
+        content = (
+            page.locator("summary", has_text=collapsible_title)
+            .locator("output")
+            .text_content()
+        )
         return Decimal(re.sub(r"[^0-9\.]", "", content))
 
     if health_insurance is not None:
@@ -95,10 +99,14 @@ def get_external_results(
     page.get_by_role("option", name=bundesland[region]).click()
 
     # Church tax
-    page.locator("#s_r_de_lohnsteuer_kirchensteuer").get_by_role("button", name="Ja" if religion else "Nein").click()
+    page.locator("#s_r_de_lohnsteuer_kirchensteuer").get_by_role(
+        "button", name="Ja" if religion else "Nein"
+    ).click()
 
     # Health insurance
-    page.get_by_label("Zusatzbeitrag Krankenvers. in %").fill(str(zusatzbeitrag).replace(".", ","))
+    page.get_by_label("Zusatzbeitrag Krankenvers. in %").fill(
+        str(zusatzbeitrag).replace(".", ",")
+    )
 
     page.get_by_role("button", name="Berechnen").click()
 
@@ -135,10 +143,14 @@ def external_calc_page(context):
     page.goto("https://www.smart-rechner.de/lohnsteuer/rechner.php")
 
     # Cookie banner
-    page.frame_locator('iframe[title="SP Consent Message"]').get_by_label("Akzeptieren").click()
+    page.frame_locator('iframe[title="SP Consent Message"]').get_by_label(
+        "Akzeptieren"
+    ).click()
 
     # Yearly calculation
-    page.locator("#s_r_de_lohnsteuer_lohnzahlungszeitraum-button").get_by_text("Monatsbrutto").click()
+    page.locator("#s_r_de_lohnsteuer_lohnzahlungszeitraum-button").get_by_text(
+        "Monatsbrutto"
+    ).click()
     page.get_by_role("option", name="Jahresbrutto").click()
 
     return page
@@ -155,7 +167,9 @@ def calc_page(context):
 
 @pytest.mark.skip()
 @pytest.mark.parametrize("age", [21, 22, 26, 30, 31])
-@pytest.mark.parametrize("income", [25000, 35000, 45000, 65000, 85000, 100000, 250000, 1000000])
+@pytest.mark.parametrize(
+    "income", [25000, 35000, 45000, 65000, 85000, 100000, 250000, 1000000]
+)
 @pytest.mark.parametrize(
     "is_married",
     [
@@ -163,7 +177,9 @@ def calc_page(context):
     ],
 )  # [True, False]
 @pytest.mark.parametrize("children_count", [0, 1, 2, 6])
-@pytest.mark.parametrize("region", ["be-east", "be-west"])  # ['be-east', 'be-west', 'by', 'bb']
+@pytest.mark.parametrize(
+    "region", ["be-east", "be-west"]
+)  # ['be-east', 'be-west', 'by', 'bb']
 @pytest.mark.parametrize(
     "tax_class",
     [
@@ -176,9 +192,19 @@ def calc_page(context):
         1.5,
     ],
 )
-@pytest.mark.browser_context_args(timezone_id="Europe/Berlin", locale="en-GB")  # Affects number formatting
+@pytest.mark.browser_context_args(
+    timezone_id="Europe/Berlin", locale="en-GB"
+)  # Affects number formatting
 def test_results(
-    calc_page, external_calc_page, age, children_count, income, is_married, region, tax_class, zusatzbeitrag
+    calc_page,
+    external_calc_page,
+    age,
+    children_count,
+    income,
+    is_married,
+    region,
+    tax_class,
+    zusatzbeitrag,
 ):
     if is_married and tax_class in (1, 2):
         return

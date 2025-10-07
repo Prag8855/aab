@@ -32,7 +32,9 @@ def patched_slugify(value: str, separator: str, keep_unicode: bool = False) -> s
 
 def fail_on(expiration_date: str, value: Any | None = None) -> Any:
     # Fails when the expiration date is reached. Used to set content date limits.
-    assert datetime.strptime(expiration_date, "%Y-%m-%d") >= datetime.now(), f"Content expired on {expiration_date}"
+    assert datetime.strptime(expiration_date, "%Y-%m-%d") >= datetime.now(), (
+        f"Content expired on {expiration_date}"
+    )
     return "" if value is None else value
 
 
@@ -60,7 +62,9 @@ def glossary_sorter(entry: Entry) -> str:
 def glossary_groups(entries: list[Entry]) -> dict[str, list[Entry]]:
     entry_groups: dict[str, list[Entry]] = {}
     for entry in entries:
-        group_name = re.sub(r"[^a-z]", "#", remove_accents(entry["german_term"]), flags=re.IGNORECASE)[0]
+        group_name = re.sub(
+            r"[^a-z]", "#", remove_accents(entry["german_term"]), flags=re.IGNORECASE
+        )[0]
         entry_groups.setdefault(group_name, [])
         entry_groups[group_name].append(entry)
 

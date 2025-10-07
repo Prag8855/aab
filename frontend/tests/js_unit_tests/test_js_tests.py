@@ -15,7 +15,9 @@ def get_mocha_test_results(base_url):
             browser = p.chromium.launch(headless=True)
             page = browser.new_page()
             page.goto(f"{base_url}/tests/unit")
-            page.wait_for_function("() => window.testResults !== undefined", timeout=5000)
+            page.wait_for_function(
+                "() => window.testResults !== undefined", timeout=5000
+            )
             mocha_test_results = page.evaluate("window.testResults")
             browser.close()
     return mocha_test_results
@@ -25,7 +27,11 @@ def pytest_generate_tests(metafunc):
     global mocha_test_results
     if "client_side_cases" in metafunc.fixturenames:
         get_mocha_test_results(metafunc.config.getoption("base_url"))
-        metafunc.parametrize("client_side_cases", mocha_test_results, ids=[r["name"] for r in mocha_test_results])
+        metafunc.parametrize(
+            "client_side_cases",
+            mocha_test_results,
+            ids=[r["name"] for r in mocha_test_results],
+        )
 
 
 def test_mocha_case(client_side_cases):

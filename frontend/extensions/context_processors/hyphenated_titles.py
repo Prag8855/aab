@@ -7,7 +7,12 @@ from ursus.context_processors import Context, EntryContextProcessor, Entry, Entr
 class HyphenatedTitleProcessor(EntryContextProcessor):
     hyphenated_attributes = ("title", "short_title", "german_term")
 
-    def process_entry(self, context: Context, entry_uri: EntryURI, changed_files: set[Path] | None = None) -> None:
+    def process_entry(
+        self,
+        context: Context,
+        entry_uri: EntryURI,
+        changed_files: set[Path] | None = None,
+    ) -> None:
         if entry_uri.lower().endswith(".md") and (
             changed_files is None or (config.content_path / entry_uri) in changed_files
         ):

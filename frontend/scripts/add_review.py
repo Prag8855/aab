@@ -8,7 +8,7 @@ import re
 import readline
 
 
-if "libedit" in readline.__doc__:  # type: ignore
+if "libedit" in readline.__doc__:
     readline.parse_and_bind("bind ^I rl_complete")
 else:
     readline.parse_and_bind("tab: complete")
@@ -40,7 +40,10 @@ def get_user_input(title: str, autocompleter=None):
 
 
 def autocomplete_entries(query, state):
-    options = [str(p.relative_to(config.content_path)) for p in (config.content_path).rglob(f"{query}*.md")]
+    options = [
+        str(p.relative_to(config.content_path))
+        for p in (config.content_path).rglob(f"{query}*.md")
+    ]
     return options[state] if state < len(options) else None
 
 
@@ -90,7 +93,9 @@ def add_review():
 
     print(f"Adding review to {entry_uri}")
 
-    reviewers_regex = re.compile(r"Related_reviews:(\s*\n)(\s+)(.*)$", re.MULTILINE | re.DOTALL)
+    reviewers_regex = re.compile(
+        r"Related_reviews:(\s*\n)(\s+)(.*)$", re.MULTILINE | re.DOTALL
+    )
     guide_path = config.content_path / entry_uri
     with guide_path.open() as file:
         guide_content = file.read()
@@ -105,7 +110,9 @@ def add_review():
         )
     else:
         guide_content = re.sub(
-            reviewers_regex, r"Related_reviews:\1\2" + relative_review_path + r"\n\2\3", guide_content
+            reviewers_regex,
+            r"Related_reviews:\1\2" + relative_review_path + r"\n\2\3",
+            guide_content,
         )
 
     with guide_path.open("w") as file:

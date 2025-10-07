@@ -33,7 +33,9 @@ def fill_address(page, purpose):
         address = people[0]["foreign_address"]
         page.get_by_label("Country").select_option(address["country"])
         page.get_by_label("Street address").fill(address["street"])
-        page.get_by_label("City and post code").fill(" ".join([address["city"], address["post_code"]]))
+        page.get_by_label("City and post code").fill(
+            " ".join([address["city"], address["post_code"]])
+        )
 
 
 def add_person(page):
