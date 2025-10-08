@@ -1,6 +1,6 @@
 from markdown.blockprocessors import HashHeaderProcessor
 from pathlib import Path
-from typing import Match, List
+from typing import Match
 from ursus.config import config
 from ursus.linters import LinterResult, MatchResult, RegexLinter
 import logging
