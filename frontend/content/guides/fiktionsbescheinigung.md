@@ -3,6 +3,8 @@ Title: How the German Fiktionsbescheinigung works
 Short_title: How to get a Fiktionsbescheinigung
 Description: This guide explains what a Fiktionsbescheinigung is, how it works, and how to get one. It explains how to travel with a Fiktionsbescheinigung.
 Date_created: 2023-03-02
+Related_reviews:
+    reviews/fiktionsbescheinigung/mirko-vorreuter.md
 ---
 
 This guide explains how the *Fiktionsbescheinigung* works, how to apply for a *Fiktionsbescheinigung*, and how to travel with an expired [residence permit](/glossary/Aufenthaltstitel).
@@ -19,11 +21,12 @@ With a *Fiktionsbescheinigung*, you can...[^0]
 
 - Stay in Germany after your visa or residence permit expires
 - Continue working, studying or freelancing
+- Prove that you can stay in Germany (if your employer or the police asks you)[^20]
 - [In some cases](#travel-with-a-fiktionsbescheinigung), travel outside Germany
 
-A *Fiktionsbescheinigung* gives you the same rights as your previous residence permit. It does not give you permission to start a new job, start studying or become self-employed. It only lets you do the same things as before.
+A *Fiktionsbescheinigung* gives you the same rights as your previous residence permit. It does not give you permission to start a new job or become self-employed. It only lets you do the same things as before.
 
-Your *Fiktionsbescheinigung* is valid until your real residence permit is approved or rejected.[^4]
+Your *Fiktionsbescheinigung* is valid until your new residence permit is approved or rejected.[^4] Your *Fiktionsbescheinigung* has an expiration date, but it can be renewed.
 
 [![German Fiktionsbescheinigung](/images/fiktionsbescheinigung.jpg "A German Fiktionsbescheinigung")](/images/fiktionsbescheinigung.jpg)
 
@@ -40,7 +43,7 @@ You get it from the *[[Ausländerbehörde]]* while you wait for a new residence 
 - **By email**  
     [Contact the *Ausländerbehörde*](/guides/immigration-office#how-to-contact-the-auslanderbehorde). In your message, explain your travel plans, and why you need a *Fiktionsbescheinigung*.[^5] If you must travel in a few weeks, use the [emergency form](/guides/immigration-office#emergencies).
 
-Do not go to the *Ausländerbehörde* without an appointment. They will not help you.[^13]
+Do not go to the Berlin *Ausländerbehörde* without an appointment. They will not help you.[^13]
 
 In Berlin, you can get a *Fiktionsbescheinigung* if...
 
@@ -49,11 +52,13 @@ In Berlin, you can get a *Fiktionsbescheinigung* if...
 - [ ] you have an important reason to travel (like a business trip or a conference)
 - [ ] you include proof of your travel plans (like flight tickets or invitations)
 
-In Berlin, they often ignore you or refuse to give you a *Fiktionsbescheinigung*.[^17] You must insist. It's your right, even if you don't have travel plans or plane tickets.[^15] They have no legal reason to refuse. I asked them 5 times before they gave me one. If necessary, hire a lawyer.
+In Berlin, they often refuse to give you a *Fiktionsbescheinigung*.[^17] You must insist. You have the right to get this document, even if you don't have travel plans or plane tickets.[^15] They have no legal reason to refuse. I asked them 5 times before they gave me one. You can [hire a lawyer](/guides/english-speaking-lawyers-berlin) to force them; it costs €1000 to €2000.[^19]
 
 They might send your *Fiktionsbescheinigung* by post, or you might need to pick it up at the *Ausländerbehörde.[^1] There might be a €13 fee.[^11]
 
 **If you can't get a Fiktionsbescheinigung**, you can usually stay in Germany anyway. After you [apply for a residence permit](/guides/residence-permit#how-to-apply-in-germany), the *Fiktionswirkung* applies. It allows you to stay in Germany until you get your residence permit. The *Fiktionsbescheinigung* is just a proof of that *Fiktionswirkung*. The *Fiktionswirkung* applies even if you don't have a *Fiktionsbescheinigung*.
+
+An immigration lawyer can force the *Ausländerbehörde* to give you a *Fiktionsbescheinigung*.
 
 **If you currently have a [[Schengen visa]]**, you can't get a *Fiktionsbescheinigung*. Usually, you can't convert a [[Schengen visa]] to a residence permit. You must [apply for a residence permit](/guides/residence-permit#how-to-get-a-residence-permit) in your home country.[^3]
 
@@ -82,18 +87,20 @@ Bring proof of your residence permit application. It can help you if you have pr
 
 ## Fiktionsbescheinigung types
 
-There are 4 variants of the *Fiktionsbescheinigung*:[^2]
+There are 4 types of *Fiktionsbescheinigung*:[^2]
 
 - **§ 81 Abs. 4 AufenthG**  
     If you have a [residence permit](/glossary/Aufenthaltstitel) or a [[National Visa]], and you want to renew it or get another residence permit. It allows you to travel outside of Germany.
 - **§ 81 Abs. 3 Satz 1 AufenthG**  
-    If have no residence permit, and you applied for a residence permit on time. It does not allow you to travel outside of Germany.[^14]
+    If you entered Germany without a visa, and you applied for a residence permit on time. It does not allow you to travel outside of Germany.[^14]
 - **§ 81 Abs. 3 Satz 2 AufenthG**  
-    If have no residence permit, and you applied late for a residence permit. It does not allow you to travel outside of Germany.
+    If you entered Germany without a visa, and you applied late for a residence permit. It does not allow you to travel outside of Germany.
 - **FreizügG/EU oder Abkommen EU-Schweiz**  
     It allows you to travel outside of Germany.[^6]
 
-[![German Fiktionsbescheinigung type field](/images/german-fiktionsbescheinigung-types.jpg "The type is written on your Fiktionsbescheinigung")](/images/german-fiktionsbescheinigung-types.jpg)
+The type is written on your *Fiktionsbescheinigung* is written on it. It's the box that has an 'X' on it, not the lines that are covered with 'XXXXXXXXX'.
+
+[![German Fiktionsbescheinigung type field](/images/german-fiktionsbescheinigung-types.jpg "The type is written on your Fiktionsbescheinigung (§ 81 Abs. 4)")](/images/german-fiktionsbescheinigung-types.jpg)
 
 ## Need help?
 
@@ -118,3 +125,5 @@ There are 4 variants of the *Fiktionsbescheinigung*:[^2]
 [^16]: [Facebook](https://www.facebook.com/groups/226825394858771/posts/1194366428104658/) (October 2022), [Twitter](https://twitter.com/oishik_dasgupta/status/1733836288111923315) (December 2023)
 [^17]: [Twitter](https://twitter.com/mgill25/status/1715331128377086036) (December 2023), [Twitter](https://twitter.com/flyaway_aoi/status/1712789114427240570) (October 2023), [Facebook](https://www.facebook.com/groups/germanfreelancevisa/posts/1671544263314270/) (August 2023)
 [^18]: Email from the Bundespolizei (December 2023)
+[^19]: You pay the €500 to €1500 for the lawyer, and €500 for the court fee. If you win, you get around €1000 back. Source: [Mirko Vorreuter](https://visaguard.berlin) (October 2025)
+[^20]: [Mirko Vorreuter](https://visaguard.berlin) (October 2025)
