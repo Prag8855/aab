@@ -20,9 +20,9 @@ With a freelance visa, you can...
 - Become a [permanent resident](/glossary/Niederlassungserlaubnis) after 3 to 5 years[^10]
 - Become a citizen after 5 years
 
-The **[artist visa](/glossary/Artist%20visa)** and the **language teacher visa** are the same thing as the freelance visa.[^8] The application process is exactly the same.
-
 This guide explains how to apply for a freelance visa in Berlin or in your home country.
+
+The **[artist visa](/glossary/Artist%20visa)** and the **language teacher visa** are the same thing as the freelance visa.[^8] The application process is the same.
 
 {% include "_blocks/tableOfContents.html" %}
 
@@ -192,7 +192,7 @@ These are the required documents **in Berlin**.[^18] If you apply elsewhere, the
 There are two types of self-employed people. They get a different kind of freelance visa. **The [required documents](#required-documents) are different.**[^18]
 
 - **Freelancers** (*[[Freiberufler]]*)  
-    Artists, teachers, scientists, engineers, software developers and other professionals with special qualifications. If you sell professional services, you might be a freelancer. Delivery drivers, influencers, website operators, most photographers and some teachers are not freelancers.[^62]
+    Artists, teachers, scientists, engineers, software developers and other professionals with special qualifications. If you sell professional services, you might be a freelancer. Delivery drivers, influencers, website operators, commercial photographers and some teachers are not freelancers.[^62]
 - **Tradespeople** (*[Selbständiger](/glossary/Selbständig)/[[Gewerbetreibender]]*)  
     If you are not a *Freiberufler*, you are *Selbständig*. If you sell products or apps, if you run a website, or if you are a co-founder, you are usually *Selbständig*.[^31]
 
@@ -244,7 +244,8 @@ If you are over 45 years old, and you are not a citizen of {{AUFENTHG_21_2_COUNT
 If you are an artist or a language teacher, you can also bring...
 
 - [ ] **Proof of financial support**[^57]  
-    If you can't prove that your will make enough money, bring proofs of financial support. For example...
+    If you can't prove that you will make enough money, bring proof of financial support. For example...
+    - A [blocked account](/glossary/Sperrkonto)[^37]
     - Your own savings
     - Regular bank transfers from your family
     - A letter from a guarantor (*Verpflichtungserklärung*)[^33]
@@ -386,6 +387,7 @@ An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocatio
 [^34]: [Berlin.de](https://www.berlin.de/einwanderung/service/faq/artikel.1021739.php#:~:text=wenn%20sie%20mit%20einem%20visum%20zu%20diesem%20aufenthaltszweck%20eingereist%20sind), Multiple relocation consultants (October 2023)
 [^35]: [Berlin.de](https://www.berlin.de/einwanderung/service/faq/artikel.1021739.php#:~:text=sie%20sind%20ohne%20visum%20eingereist)
 [^36]: [§ 81 Abs. 5 AufenthG](https://www.buzer.de/81_AufenthG.htm)
+[^37]: [Mirko Vorreuter](https://visaguard.berlin) (October 2025)
 [^38]: [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/481416252327083/?comment_id=481798318955543&comment_tracking=%7B%22tn%22%3A%22R0%22%7D) (2018)
 [^41]: [VAB 2.4](/out/vab)
 [^42]: [Berlin.de](https://service.berlin.de/dienstleistung/328332/#:~:text=nur%20bei%20erstmaliger%20beantragung), [Berlin.de](https://service.berlin.de/dienstleistung/305249/#:~:text=nur%20bei%20erstmaliger%20beantragung)
