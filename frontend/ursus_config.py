@@ -2,7 +2,6 @@ from datetime import datetime
 from decimal import Decimal
 from extensions.functions import glossary_groups, fail_on, or_join, patched_slugify, build_wikilinks_url, random_id, \
     to_currency
-from logtail import LogtailHandler
 from markupsafe import Markup
 from pathlib import Path
 from ursus.config import config
@@ -559,12 +558,8 @@ config.lunr_indexes = {
     ]
 }
 
-log_handlers = [logging.StreamHandler(), ]
-if os.environ.get('BETTERSTACK_SOURCE_TOKEN'):
-    log_handlers.append(LogtailHandler(source_token=os.environ['BETTERSTACK_SOURCE_TOKEN']))
-
 config.logging = {
     'level': logging.INFO,
     'format': '%(asctime)s %(levelname)s [%(name)s:%(lineno)d] %(message)s',
-    'handlers': log_handlers
+    'handlers': [logging.StreamHandler(), ]
 }
