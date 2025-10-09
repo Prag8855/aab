@@ -7,3 +7,12 @@ tab_width = 4
 indent_style = space
 indent_size = 4
 tab_width = 4
+
+[*.py]
+indent_style = space
+indent_size = 4
+tab_width = 4
+insert_final_newline = true
+
+[crontab.conf]
+insert_final_newline = true

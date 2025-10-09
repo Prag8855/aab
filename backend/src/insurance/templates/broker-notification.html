@@ -1,0 +1,8 @@
+<p>Hi {{ message.case.broker_info.name|default:"there" }},</p>
+
+<p>Someone asked you a question on All About Berlin.</p>
+
+<p><strong>Name:</strong> {{ message.case.name }}</p>
+<p><strong>Email:</strong> {{ message.case.email }}</p>
+<p><strong>Question:</strong><br>{{ message.case.notes }}</p>
+<p><strong>Referrer:</strong> {{ message.case.referrer }}</p>

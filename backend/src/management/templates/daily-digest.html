@@ -1,0 +1,38 @@
+{% load humanize %}
+<h3>Monitors</h3>
+<ul>
+	{% for monitor in monitors %}
+		<li>
+			<strong>{{ monitor.icon }} <a href="https://allaboutberlin.com{{ monitor.url }}">{{ monitor.name }}</a>:</strong> {{ monitor.message }}<br>
+			<small>{{ monitor.last_updated|timesince }} ago</small>
+		</li>
+	{% endfor %}
+</ul>
+<hr>
+{% for model in models %}
+	{% if model.instances|length > 0 %}
+		<h3><a href="https://allaboutberlin.com{{ model.url }}">{{ model.name }}</a> +{{ model.instances|length }}</h3>
+		<ul>
+			{% for instance in model.instances %}
+				<li>
+					<h4><a href="https://allaboutberlin.com{{ instance.url }}">{{ instance.name }}</a></h4>
+					{% for field, value in instance.fields.items %}
+						<strong>{{ field }}:</strong> {{ value|default:"-"|linebreaksbr }}<br>
+					{% endfor %}
+				</li>
+			{% endfor %}
+		</ul>
+		<hr>
+	{% endif %}
+{% endfor %}
+<h3>No updates</h3>
+<ul>
+	{% for model in models %}
+		{% if model.instances|length == 0 %}
+			<li>
+				<strong><a href="https://allaboutberlin.com{{ model.url }}">{{ model.name }}</a></strong><br>
+				<small>Last added {{ model.last_created|timesince }} ago</small>
+			</li>
+		{% endif %}
+	{% endfor %}
+</ul>
