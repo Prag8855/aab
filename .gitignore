@@ -1,6 +1,4 @@
 frontend/templates/api/exchangerates.json
-frontend/templates/tools/calculator.html.jinja
-frontend/templates/whoisthere.js
 frontend/tests/snapshot-failures
 .env
 *.pid
