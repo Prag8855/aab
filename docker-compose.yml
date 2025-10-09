@@ -1,6 +1,6 @@
 services:
   api:
-    build: ./api
+    build: ./backend
     volumes:
       - "api_db:/var/db"
       - "api_staticfiles:/var/www/api/staticfiles"
