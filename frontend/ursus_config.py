@@ -417,8 +417,8 @@ config.output_path = (
     else Path(__file__).parent.parent / "output"
 )
 
-config.google_maps_api_key = "AIzaSyAhhCuZjNCFo2o84w27Xh0ravLwIiVProo"  # Backend use only
-config.google_tts_api_key = "AIzaSyAhhCuZjNCFo2o84w27Xh0ravLwIiVProo"
+config.google_maps_api_key = "AIzaSyAhhCuZjNCFo2o84w27Xh0ravLwIiVProo"  # type: ignore  Backend use only
+config.google_tts_api_key = "AIzaSyAhhCuZjNCFo2o84w27Xh0ravLwIiVProo"  # type: ignore
 
 config.html_url_extension = ""
 config.minify_js = True

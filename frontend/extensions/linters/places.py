@@ -14,7 +14,7 @@ import re
 class PlacesLinter(HeadMatterLinter):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
-        self.google_maps = googlemaps.Client(key=config.google_maps_api_key)
+        self.google_maps = googlemaps.Client(key=config.google_maps_api_key)  # type: ignore
 
     def lint_meta(
         self, file_path: Path, meta: dict[str, List[Any]], field_positions: dict[str, Tuple[int, int, int]]

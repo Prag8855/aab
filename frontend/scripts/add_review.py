@@ -8,7 +8,7 @@ import re
 import readline
 
 
-if "libedit" in readline.__doc__:
+if "libedit" in readline.__doc__:  # type: ignore
     readline.parse_and_bind("bind ^I rl_complete")
 else:
     readline.parse_and_bind("tab: complete")

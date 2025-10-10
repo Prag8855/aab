@@ -13,7 +13,7 @@ python = "3.13"
 description = "Install local dependencies to run the project"
 alias = "i"
 run = """
-uv pip install -r requirements-dev.txt
+uv pip install -r requirements-dev.txt -r frontend/requirements.txt -r backend/requirements.txt
 """
 
 [tasks.lint]
@@ -21,6 +21,7 @@ description = "Run various linters for the project"
 alias = "l"
 run = """
 ruff check
+pyright .
 ursus lint -c frontend/ursus_config.py
 """
 

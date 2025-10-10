@@ -51,7 +51,7 @@ class GlossaryAudioRenderer(Renderer):
                 },
                 headers={
                     "content-type": "application/json",
-                    "X-Goog-Api-Key": config.google_tts_api_key,
+                    "X-Goog-Api-Key": config.google_tts_api_key,  # type: ignore
                 },
             ).json()
 
