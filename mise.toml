@@ -8,28 +8,13 @@ _.python.venv = { path = ".venv", create = true }
 uv = "latest"
 ruff = "latest"
 python = "3.13"
+shellcheck = "latest"
 
 [tasks.install]
 description = "Install local dependencies to run the project"
 alias = "i"
 run = """
 uv pip install -r requirements-dev.txt -r frontend/requirements.txt -r backend/requirements.txt
-"""
-
-[tasks.lint]
-description = "Run various linters for the project"
-alias = "l"
-run = """
-ruff check
-pyright .
-ursus lint -c frontend/ursus_config.py
-"""
-
-[tasks.format]
-description = "Automatically format the code"
-alias = "f"
-run = """
-ruff format
 """
 
 [tasks.site]
@@ -52,3 +37,32 @@ done
 
 docker compose up --build -d
 """
+
+[tasks.shellcheck]
+description = "Lint shell scripts with shellcheck"
+run = """
+for file in $(find . -type f -name "*.sh" -not -path '*/[@.]*'); do shellcheck $file; done;
+"""
+
+[tasks.ruff]
+description = "Lint Python code with ruff"
+run = "ruff check"
+
+[tasks.pyright]
+description = "Lint Python code with pyright"
+run = "pyright ."
+
+[tasks.lint]
+description = "Run various linters for the project"
+alias = "l"
+run = """
+mise shellcheck
+mise pyright
+mise ruff
+ursus lint -c frontend/ursus_config.py
+"""
+
+[tasks.format]
+description = "Automatically format the code"
+alias = "f"
+run = "ruff format"

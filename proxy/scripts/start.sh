@@ -14,14 +14,14 @@ mkdir -p /var/run/nginx-cache
 CERT_CHAIN_PATH=/etc/ssl-certs/full-chain.pem
 PRIVATE_KEY_PATH=/etc/ssl-certs/private-key.pem
 
-function issue_selfsigned_cert() {
+issue_selfsigned_cert() {
   openssl req -x509 -nodes -newkey rsa:4096 -days 30\
     -keyout "$PRIVATE_KEY_PATH" \
     -out "$CERT_CHAIN_PATH" \
     -subj '/CN=localhost'
 }
 
-function reload_nginx_on_config_changes () {
+reload_nginx_on_config_changes () {
   echo "Tracking changes to redirects/301.map and redirects/302.map"
   while inotifywait -e modify -e move -e create /var/www/html/redirects/301.map /var/www/html/redirects/302.map; do
       echo "Config changed, reloading nginx..."
@@ -36,8 +36,9 @@ if [ ! -f "$CERT_CHAIN_PATH" ]; then
 fi
 
 if [ "$SSL_DOMAIN" != "localhost" ]; then
-  (openssl verify -untrusted "$CERT_CHAIN_PATH" "$CERT_CHAIN_PATH")
-  if [ "$?" != 0 ]; then
+  
+  if ! (openssl verify -untrusted "$CERT_CHAIN_PATH" "$CERT_CHAIN_PATH")
+  then
     echo "Existing SSL certificate found, but it is not valid. Generating new certificate for $SSL_DOMAIN ..."
 
     # Reissue self-signed cert, in case another kind of invalid cert is there
@@ -46,8 +47,8 @@ if [ "$SSL_DOMAIN" != "localhost" ]; then
     issue_selfsigned_cert
 
     nginx
-    /root/.acme.sh/acme.sh --issue -d $SSL_DOMAIN -w /var/autossl
-    /root/.acme.sh/acme.sh --install-cert -d $SSL_DOMAIN --key-file "$PRIVATE_KEY_PATH" --fullchain-file "$CERT_CHAIN_PATH"
+    /root/.acme.sh/acme.sh --issue -d "$SSL_DOMAIN" -w /var/autossl
+    /root/.acme.sh/acme.sh --install-cert -d "$SSL_DOMAIN" --key-file "$PRIVATE_KEY_PATH" --fullchain-file "$CERT_CHAIN_PATH"
     echo "Certificate installed. Restarting nginx..."
     nginx -s quit;
   else
