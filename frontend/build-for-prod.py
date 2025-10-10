@@ -4,8 +4,7 @@
 # 3. Purge the cloudflare cache
 
 from pathlib import Path
-from subprocess import run, check_output, STDOUT
-from time import sleep
+from subprocess import run, STDOUT
 from urllib import request
 import json
 import logging

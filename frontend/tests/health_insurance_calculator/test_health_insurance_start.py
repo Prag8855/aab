@@ -1,4 +1,4 @@
-from . import load_calculator, select_occupation, get_calculator
+from . import load_calculator, get_calculator
 
 
 def test_first_step(page, assert_snapshot):

@@ -1,6 +1,3 @@
-from ..test_data import people
-
-
 def get_calculator(page):
     return page.get_by_role("group", name="Health insurance calculator")
 

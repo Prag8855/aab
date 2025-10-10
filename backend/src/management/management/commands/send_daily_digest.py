@@ -43,7 +43,7 @@ class Command(BaseCommand):
                         f"SENDING EMAIL MESSAGE\nTo: {', '.join(recipients)}\nSubject: {subject}\nBody: \n{body}"
                     )
                 else:
-                    logger.info(f"Pretending to send 1 message (daily digest)")
+                    logger.info("Pretending to send 1 message (daily digest)")
             else:
                 send_email(
                     recipients,
@@ -56,7 +56,7 @@ class Command(BaseCommand):
                 "daily-digest", logging.ERROR, f"Could not send daily digest (HTTP {exc.response.status_code})"
             )
         except Exception as exc:
-            logger.exception(f"Could not send daily digest")
+            logger.exception("Could not send daily digest")
             update_monitor("daily-digest", logging.ERROR, str(exc))
         else:
             logger.info("Sent daily digest.")
