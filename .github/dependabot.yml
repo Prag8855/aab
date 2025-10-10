@@ -1,0 +1,19 @@
+version: 2
+updates:
+  - package-ecosystem: "pip"
+    directories:
+      - "/frontend"
+      - "/backend"
+    schedule:
+      interval: "monthly"
+  - package-ecosystem: "docker"
+    directories:
+      - "/frontend"
+      - "/backend"
+      - "/proxy"
+    schedule:
+      interval: "monthly"
+  - package-ecosystem: "docker-compose"
+    directory: "/"
+    schedule:
+      interval: "monthly"
