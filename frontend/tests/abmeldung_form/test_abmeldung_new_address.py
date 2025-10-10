@@ -1,6 +1,11 @@
 from playwright.sync_api import expect
 from ..test_data import people
-from ..abmeldung_form import fill_abmeldung_form_until, fill_new_address, next_step, previous_step
+from ..abmeldung_form import (
+    fill_abmeldung_form_until,
+    fill_new_address,
+    next_step,
+    previous_step,
+)
 import re
 
 

@@ -14,10 +14,13 @@ import re
 class PlacesLinter(HeadMatterLinter):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
-        self.google_maps = googlemaps.Client(key=config.google_maps_api_key)  # type: ignore
+        self.google_maps = googlemaps.Client(key=config.google_maps_api_key)
 
     def lint_meta(
-        self, file_path: Path, meta: dict[str, List[Any]], field_positions: dict[str, Tuple[int, int, int]]
+        self,
+        file_path: Path,
+        meta: dict[str, List[Any]],
+        field_positions: dict[str, Tuple[int, int, int]],
     ) -> LinterResult:
         if file_path.is_relative_to(Path("places")):
             with (config.content_path / file_path).open() as place_file:
@@ -51,7 +54,11 @@ class PlacesLinter(HeadMatterLinter):
 
             business_status = google_place.get("business_status")
             if business_status and business_status != "OPERATIONAL":
-                yield None, f"Business is {google_place.get('business_status')}", logging.ERROR
+                yield (
+                    None,
+                    f"Business is {google_place.get('business_status')}",
+                    logging.ERROR,
+                )
 
             lat = float(meta["latitude"][0])
             lng = float(meta["longitude"][0])

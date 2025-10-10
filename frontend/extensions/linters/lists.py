@@ -42,7 +42,11 @@ class MultilineListsLinter(LineLinter):
             elif not line.startswith(required_indent):
                 yield (0, self.item_indent * 4), "Incorrect line indent", logging.ERROR
             elif not self.item_has_double_space:
-                yield (len(line) - 3, len(line) - 1), "Missing double space before line break in list", logging.ERROR
+                yield (
+                    (len(line) - 3, len(line) - 1),
+                    "Missing double space before line break in list",
+                    logging.ERROR,
+                )
             self.item_indent = None
         # Normal line
         else:

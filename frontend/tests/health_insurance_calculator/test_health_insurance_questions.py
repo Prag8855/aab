@@ -1,4 +1,10 @@
-from . import load_calculator, select_occupation, see_options, fill_calculator_until, get_calculator
+from . import (
+    load_calculator,
+    select_occupation,
+    see_options,
+    fill_calculator_until,
+    get_calculator,
+)
 from playwright.sync_api import expect
 
 import re

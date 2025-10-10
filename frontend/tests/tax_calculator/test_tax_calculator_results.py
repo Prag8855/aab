@@ -178,7 +178,15 @@ def calc_page(context):
 )
 @pytest.mark.browser_context_args(timezone_id="Europe/Berlin", locale="en-GB")  # Affects number formatting
 def test_results(
-    calc_page, external_calc_page, age, children_count, income, is_married, region, tax_class, zusatzbeitrag
+    calc_page,
+    external_calc_page,
+    age,
+    children_count,
+    income,
+    is_married,
+    region,
+    tax_class,
+    zusatzbeitrag,
 ):
     if is_married and tax_class in (1, 2):
         return

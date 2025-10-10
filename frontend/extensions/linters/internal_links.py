@@ -1,6 +1,8 @@
 from pathlib import Path
 from ursus.config import config
-from ursus.linters.markdown import MarkdownInternalLinksLinter as OriginalInternalLinksLinter
+from ursus.linters.markdown import (
+    MarkdownInternalLinksLinter as OriginalInternalLinksLinter,
+)
 import logging
 import re
 

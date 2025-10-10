@@ -6,11 +6,11 @@ This repo contains the templates and content used to render [allaboutberlin.com]
 
 This project uses [mise](https://mise.jdx.dev/) to simplify dev tasks. It's optional.
 
-Run `mise setup` or `pip3 install -r requirements-dev.txt` to install local dependencies.
+Run `mise setup` to install local dependencies.
 
 ### Docker
 
-Run `mise dev` or `docker compose up --build -d` directly.
+Run `mise dev`.
 
 This will build and start the project inside docker containers. The website is served at `https://localhost`. The frontend/backend are reloaded on changes.
 
@@ -18,7 +18,7 @@ In production, run `docker compose -f docker-compose.yml -f docker-compose.prod.
 
 ### Standalone
 
-Run `mise site` or `ursus --watch --fast --serve -c ./frontend/ursus_config.py` to run just the frontend. This is much faster than running docker, and it's enough for frontend development and content changes.
+Run `mise site` to only run the frontend. This is much faster than running docker, and it's enough for frontend development and content changes.
 
 ## How to test
 

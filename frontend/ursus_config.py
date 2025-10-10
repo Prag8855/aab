@@ -412,9 +412,7 @@ config.content_path = Path(__file__).parent / "content"
 config.templates_path = Path(__file__).parent / "templates"
 
 config.output_path = (
-    Path(env_output_dir)
-    if (env_output_dir := os.environ.get("URSUS_OUTPUT_DIR"))
-    else Path(__file__).parent.parent / "output"
+    Path(env_output_dir) if (env_output_dir := os.environ.get("URSUS_OUTPUT_DIR")) else Path(__file__).parent / "output"
 )
 
 config.google_maps_api_key = "AIzaSyAhhCuZjNCFo2o84w27Xh0ravLwIiVProo"  # type: ignore  Backend use only

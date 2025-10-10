@@ -8,7 +8,7 @@ import re
 import readline
 
 
-if "libedit" in readline.__doc__:  # type: ignore
+if "libedit" in readline.__doc__:
     readline.parse_and_bind("bind ^I rl_complete")
 else:
     readline.parse_and_bind("tab: complete")
@@ -105,7 +105,9 @@ def add_review():
         )
     else:
         guide_content = re.sub(
-            reviewers_regex, r"Related_reviews:\1\2" + relative_review_path + r"\n\2\3", guide_content
+            reviewers_regex,
+            r"Related_reviews:\1\2" + relative_review_path + r"\n\2\3",
+            guide_content,
         )
 
     with guide_path.open("w") as file:

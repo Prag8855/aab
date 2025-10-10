@@ -54,9 +54,9 @@ If you don't meet those requirements, you can't renew your freelance visa.
 The required documents are different for freelancers (*[[Freiberufler]]*) and for tradespeople (*[Gewerbetreibende](/glossary/Gewerbetreibender)*). You much know which one you are. **Look on your [on your residence permit](/illustrations/freelance-visa-type.png).**
 
 - If you see "§ 21 Abs. 5", you are a *[[Freiberufler]]*.
-- If you see "§ 21 Abs. 1" or "§ 21 Abs. 2a", you are a *Selbständiger*/*[[Gewerbetreibender]]*.
+- If you see "§ 21 Abs. 1" or "§ 21 Abs. 2a", you are a *[Selbständiger](/glossary/Selbständig)*/*[[Gewerbetreibender]]*.
 
-If your work changes, your status can also change. I was a freelancer, and I am now a tradesperson. When I renewed my freelance visa, I needed different documents.
+If your work changes, your status can also change. I was a freelancer, and I am now a tradesperson. When I renewed my freelance visa, I needed different documents. In Berlin, the *Ausländerbehörde* uses the same definition as the *[[Finanzamt]]*. If the *Finanzamt* says that you are a *[[Freiberufler]]*, you are a *Freiberufler*.
 
 **[Are you a Freiberufler or Gewerbe? ➞](/guides/freiberufler-or-gewerbe)**
 

@@ -214,7 +214,7 @@ If you don't speak German, you can still get help in English:
 
 ### Find a doctor
 
-In Germany, when you have a health problem, you go to your *[[Hausarzt]]*. Find your *Hausarzt* before you need one. It will be easier to see a doctor when you are sick. This is useful when you need a [sick note](/glossary/Krankschreibung) for your employer.
+In Germany, when you have a health problem, you go to your *[[Hausarzt]]*. Find your *Hausarzt* before you need one. It will be easier to see a doctor when you are sick. This is useful if you need a [sick note](/glossary/Krankschreibung) to take [sick leave](/guides/sick-leave).
 
 **[Find an English-speaking doctor ➞](/guides/english-speaking-doctors-berlin)**
 

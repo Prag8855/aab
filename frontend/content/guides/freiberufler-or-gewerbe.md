@@ -55,7 +55,7 @@ If you are a *Freiberufler*, you don't need to do any of this. It saves you time
 Your *Freiberufler* or *Gewerbetreibender* status also affects...
 
 - **Your [residence permit](/glossary/Aufenthaltstitel)**  
-    When you apply for a [freelance visa](/glossary/Freelance%20visa) or [permanent residence](/glossary/Niederlassungserlaubnis), the required documents for *Freiberufler* and *Gewerbetreibende* are different.[^1]
+    When you apply for a [freelance visa](/glossary/Freelance%20visa) or [permanent residence](/glossary/Niederlassungserlaubnis), the [requirements](/guides/freelance-visa#freelance-visa-requirements) for *Freiberufler* and *Gewerbetreibende* are different.[^1]
 - **Applying for permanent residence**  
     *Gewerbetreibende* can apply for permanent residence after 3 years. *Freiberufler* must wait 5 years.[^2]
 - **Getting help**  
@@ -111,7 +111,9 @@ Double entry bookkeeping is more work for you. You can be exempted from double e
 
 ## How to choose?
 
-**You have no choice.** The *[[Finanzamt]]* decides what you are when you [register your business](/guides/fragebogen-zur-steuerlichen-erfassung).[^16] The *[[Ausländerbehörde]]* uses the same definition as the *Finanzamt* when you [apply for a freelance visa](/guides/freelance-visa).
+**You have no choice.** The *[[Finanzamt]]* decides what you are when you [register your business](/guides/fragebogen-zur-steuerlichen-erfassung).[^16]
+
+In Berlin, the *[[Ausländerbehörde]]* uses the same definition as the *[[Finanzamt]]*. If the *Finanzamt* says that you are a *[[Freiberufler]]*, you are a *Freiberufler* at the *Ausländerbehörde* too.[^6]
 
 If you register as a *Freiberufler*, but the *Finanzamt* decides that you are a *Gewerbetreibender*, they make you pay [trade tax](/glossary/Gewerbesteuer) retroactively.[^21] The [[IHK]] makes you pay the membership fee retroactively.[^4]
 
@@ -130,6 +132,7 @@ If you are not sure, [ask for help](/guides/questions-about-berlin#business-ques
 [^3]: [ihk.de](https://www.ihk.de/schwerin/existenzgruendung/existenzgruendung/tipps-rund-um-die-gruendung/selbststaendigkeit-als-gewerbetreibender-oder-freiberufler-3032726#:~:text=zu%20den%20%22dienstleistungen%20hoherer%20art%22)
 [^4]: This happened to me
 [^5]: Sebastian Hoffmann from [Touring Artists](https://www.touring-artists.info/en/home) (November 2024)
+[^6]: [VAB A21.5](/out/vab) (October 2025)
 [^12]: [fuer-gruender.de](https://www.fuer-gruender.de/wissen/unternehmen-gruenden/finanzen/buchfuehrung/bilanzierung/)
 [^14]: [§ 18 EStG](https://www.buzer.de/18_EStG.htm), [Wikipedia](https://de.wikipedia.org/wiki/Freier_Beruf_\(Deutschland\)), [IHK Hamburg](https://www.ihk.de/hamburg/produktmarken/beratung-service/recht-und-steuern/steuerrecht/real-kommunale-steuern/abgrenzung-gewerbebetrieb-freie-berufe-1157144#titleInText8)
 [^15]: [§ 148 AO](https://www.buzer.de/148_AO.htm)

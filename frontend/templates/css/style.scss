@@ -720,7 +720,7 @@ body > header {
 
 .sidebar{
     grid-area: sidebar;
-    width: calc(var(--w-desktop) - var(--w-main-column));
+    width: var(--w-sidebar);
     box-sizing: border-box;
     position:sticky;
     top:0;
@@ -791,6 +791,7 @@ body > header {
         inset: auto var(--w-page-border) var(--w-page-border) auto;
         width: fit-content;
         z-index: 999;
+        max-width: var(--w-sidebar);
 
         #floating-nav.visible{
             position: fixed;
@@ -2071,7 +2072,7 @@ input[type=range] {
 
 }
 
-output.placeholder, .recommended:before{
+output.placeholder, .recommended{
     background: var(--c-bg-widget);
     box-decoration-break: clone;
     font-weight: 400;
@@ -2092,14 +2093,17 @@ output.placeholder{
     }
 }
 
-.recommended:before{
-    font-size: var(--f-s);
-    content: '✦ Recommended';
-
+.recommended{
     &:hover{
         cursor: help;
+        color: #fff!important;
+        background: var(--c-highlight);
         text-decoration: none;
-        color:var(--c-text)!important;
+    }
+
+    &:before{
+        font-size: var(--f-s);
+        content: '✦ Recommended';
     }
 }
 

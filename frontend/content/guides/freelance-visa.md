@@ -4,6 +4,7 @@ Short_title: How to get a freelance visa
 Description: The process and the requirements to get a German freelance visa or artist visa. This is how you become self-employed in Germany.
 Date_created: 2023-12-20
 Related_reviews:
+    reviews/freelance-visa/mirko-vorreuter.md
     reviews/freelance-visa/sebastian-hoffmann.md
     reviews/freelance-visa/kathleen-parker.md
     reviews/freelance-visa/johanna-sieben.md
@@ -20,9 +21,9 @@ With a freelance visa, you can...
 - Become a [permanent resident](/glossary/Niederlassungserlaubnis) after 3 to 5 years[^10]
 - Become a citizen after 5 years
 
-The **[artist visa](/glossary/Artist%20visa)** and the **language teacher visa** are the same thing as the freelance visa.[^8] The application process is exactly the same.
-
 This guide explains how to apply for a freelance visa in Berlin or in your home country.
+
+The **[artist visa](/glossary/Artist%20visa)** and the **language teacher visa** are the same thing as the freelance visa.[^8] The application process is the same.
 
 {% include "_blocks/tableOfContents.html" %}
 
@@ -34,12 +35,23 @@ If you are a [permanent resident](/glossary/Niederlassungserlaubnis), you don't 
 
 **[Who needs a residence permit? ➞](/guides/residence-permit#who-needs-a-residence-permit)**
 
+### Two types of freelance visa
+
+There are two types of freelance visa, because there are two types of self-employed people:
+
+- **Freelancers** (*[[Freiberufler]]*)  
+    Artists, teachers, scientists, engineers, software developers and other professionals with special qualifications. If you sell professional services, you might be a freelancer. Delivery drivers, influencers, website operators and commercial photographers are not freelancers.[^62]
+- **Tradespeople** (*[Selbständiger](/glossary/Selbständig)* or *[[Gewerbetreibender]]*)  
+    If you are not a *Freiberufler*, you are *Selbständig*. If you sell products or apps, or if you are a co-founder, you are usually *Selbständig*.[^31]
+
+The difference is important, because they have **different requirements**. For example, tradespeople need German clients, but freelancers don't. The [required documents](#required-documents) are also different.
+
+**[Are you a Freiberufler or a Selbständiger? ➞](/guides/freiberufler-or-gewerbe)**
+
 ## Freelance visa requirements
 
 To get a freelance visa, you need...[^18]
 
-- [ ] **A local economic interest**  
-    You must have clients in Germany, or hire German employees.[^71]
 - [ ] **Enough income**  
     In Berlin, your [gross income](/glossary/Brutto%20income) must be more than your rent + your [health insurance](/glossary/Krankenversicherung) + €{{FREELANCE_VISA_MIN_INCOME|cur}} per month.[^53] If you support children or a spouse, you need a higher income.[^79]
 - [ ] **Self-employed work**  
@@ -54,6 +66,11 @@ If you are over 45 years old, and you are not a citizen of {{AUFENTHG_21_2_COUNT
 - [ ] or **a public pension**  
     You need a guaranteed public pension in Germany, Australia, Bosnia-Herzegovina, Chile, India, Israel, Japan, Canada, Kosovo, Morocco, North Macedonia, Montenegro, Serbia, South Korea, Tunisia, Turkey or the United States.[^60] If you made 5 years of public pension payments in Germany, you have a guaranteed public pension.
 - [ ] or **€{{FREELANCE_VISA_MIN_PENSION|cur}} in business assets**
+
+If you are [self-employed, but not a freelancer](#two-types-of-freelance-visa), you also need...
+
+- [ ] **A local economic interest**  
+    If you are *[[Selbständig]]*, you must have clients in Germany, or hire German employees.[^71] If you only have clients in other countries, you won't get the freelance visa. If you are a *[[Freiberufler]]*, you don't need German clients.
 
 **You do not need to speak German** to get a freelance visa.[^27]
 
@@ -187,17 +204,6 @@ These are the required documents **in Berlin**.[^18] If you apply elsewhere, the
 
 **[When you go to your appointment](#go-to-your-appointment)**, bring the documents that they ask for in your appointment confirmation.[^24] Put dates on all your documents. Print everything on A4 paper. Do not staple the pages together. Some case workers also ask for documents that you already sent. It's safer if you bring everything you have, including documents that you already sent.[^2]
 
-### Two types of freelance visa
-
-There are two types of self-employed people. They get a different kind of freelance visa. **The [required documents](#required-documents) are different.**[^18]
-
-- **Freelancers** (*[[Freiberufler]]*)  
-    Artists, teachers, scientists, engineers, software developers and other professionals with special qualifications. If you sell professional services, you might be a freelancer. Delivery drivers, influencers, website operators, most photographers and some teachers are not freelancers.[^62]
-- **Tradespeople** (*[Selbständiger](/glossary/Selbständig)/[[Gewerbetreibender]]*)  
-    If you are not a *Freiberufler*, you are *Selbständig*. If you sell products or apps, if you run a website, or if you are a co-founder, you are usually *Selbständig*.[^31]
-
-**[Are you a Freiberufler or a Selbständiger? ➞](/guides/freiberufler-or-gewerbe)**
-
 ### Required documents for everyone
 
 - [ ] **Passport**  
@@ -239,12 +245,15 @@ If you are over 45 years old, and you are not a citizen of {{AUFENTHG_21_2_COUNT
 - [ ] **[Revenue forecast](/docs/ertragsvorschau)** (*[[Ertragsvorschau]]*)  
     Make a spreadsheet of your *expected* monthly business income and expenses. Use the [official template](/docs/ertragsvorschau).[^56] Your numbers must be realistic, but ambitious.
 - [ ] **At least 2 [letters of intent](/guides/freelance-visa-letter-of-intent)** (*[[Absichtserklärung]]*)[^67]  
-    These are letters from potential clients that want to hire you. They are very important. They prove that you will find clients and make money. They must show what work you will do, and how much you will get paid. You should have at least 2 letters from clients in Germany. Signed contracts are even better.
+    These are letters from potential clients that want to hire you. They are very important. They prove that you will find clients and make money. They must show what work you will do, and how much you will get paid. Signed contracts are even better.
+
+If you are *[[Selbständig]]*, you need at least 2 letters from clients in Germany. If you are *[[Freiberufler]]*, you don't need German clients.[^71]
 
 If you are an artist or a language teacher, you can also bring...
 
 - [ ] **Proof of financial support**[^57]  
-    If you can't prove that your will make enough money, bring proofs of financial support. For example...
+    If you can't prove that you will make enough money, bring proof of financial support. For example...
+    - A [blocked account](/glossary/Sperrkonto)[^37]
     - Your own savings
     - Regular bank transfers from your family
     - A letter from a guarantor (*Verpflichtungserklärung*)[^33]
@@ -386,6 +395,7 @@ An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocatio
 [^34]: [Berlin.de](https://www.berlin.de/einwanderung/service/faq/artikel.1021739.php#:~:text=wenn%20sie%20mit%20einem%20visum%20zu%20diesem%20aufenthaltszweck%20eingereist%20sind), Multiple relocation consultants (October 2023)
 [^35]: [Berlin.de](https://www.berlin.de/einwanderung/service/faq/artikel.1021739.php#:~:text=sie%20sind%20ohne%20visum%20eingereist)
 [^36]: [§ 81 Abs. 5 AufenthG](https://www.buzer.de/81_AufenthG.htm)
+[^37]: [Mirko Vorreuter](https://visaguard.berlin) (October 2025)
 [^38]: [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/481416252327083/?comment_id=481798318955543&comment_tracking=%7B%22tn%22%3A%22R0%22%7D) (2018)
 [^41]: [VAB 2.4](/out/vab)
 [^42]: [Berlin.de](https://service.berlin.de/dienstleistung/328332/#:~:text=nur%20bei%20erstmaliger%20beantragung), [Berlin.de](https://service.berlin.de/dienstleistung/305249/#:~:text=nur%20bei%20erstmaliger%20beantragung)
@@ -403,12 +413,12 @@ An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocatio
 [^59]: [VAB 21.3](/out/vab)
 [^60]: [VAB 21.3 and 9.2.1.3a](/out/vab)
 [^61]: [Facebook](/images/Screen-Shot-2018-07-31-at-1.56.12-PM.png) (2018), [Sebastian Hoffmann](https://www.facebook.com/groups/germanfreelancevisa/posts/756383954830310/) (2019), [Tal Gibbesch](https://www.gibbesch-consulting.com/) (2024)
-[^62]: [Accountable.de](https://www.accountable.de/blog/selbststandig-fur-amazon-flex-arbeiten-das-solltest-du-wissen/), [Accountable.de](https://www.accountable.de/blog/tiktok-geld-verdienen/), [All About Berlin](/guides/website-freiberuf-or-gewerbe)
+[^62]: [§ 18 Abs. 1 EStG](https://www.buzer.de/18_EStG.htm) (the Berlin *Ausländerbehörde* uses this definition of a *Freiberufler*), [VAB A21.5](/out/vab) (October 2025), [Accountable.de](https://www.accountable.de/blog/selbststandig-fur-amazon-flex-arbeiten-das-solltest-du-wissen/) (2025), [Accountable.de](https://www.accountable.de/blog/tiktok-geld-verdienen/) (2025)
 [^65]: [Touring Artists](https://www.touring-artists.info/en/visa-residence/to-germany-as-non-eu-citizen/moving-to-germany#:~:text=it%20is%20necessary%20to%20provide%20proof%20of%20previous%20artistic%20activity)
 [^67]: [Touring Artists](https://www.touring-artists.info/en/visa-residence/to-germany-as-non-eu-citizen/moving-to-germany#:~:text=at%20least%20two%20non-binding%20letters%20of%20intent)
 [^69]: [VAB 21.4.2](/out/vab)
 [^70]: [VAB 21.1.1](/out/vab)
-[^71]: [§ 21 Abs. 1 AufenthG](https://www.buzer.de/21_AufenthG.htm), [Berlin.de](https://service.berlin.de/dienstleistung/305249/#:~:text=ein%20wirtschaftliches%20interesses%20oder%20ein%20regionales%20bedurfnis%20besteht), [Sebastian Hoffmann](https://www.facebook.com/groups/germanfreelancevisa/posts/1649272118874818/) (August 2023), [Sebastian Hoffmann](https://www.facebook.com/groups/germanfreelancevisa/posts/1513608149107883/) (December 2022), [Sebastian Hoffmann](https://www.facebook.com/groups/germanfreelancevisa/posts/1540612453074119/) (January 2023), [exception](https://www.facebook.com/groups/germanfreelancevisa/posts/1687770631691633/) (2023), [exception](https://www.facebook.com/groups/germanfreelancevisa/posts/1180423295759705/) (2021)
+[^71]: [§ 21 Abs. 1 AufenthG](https://www.buzer.de/21_AufenthG.htm), [§ 21 Abs. 5 AufenthG](https://www.buzer.de/21_AufenthG.htm), [Berlin.de](https://service.berlin.de/dienstleistung/305249/#:~:text=ein%20wirtschaftliches%20interesses%20oder%20ein%20regionales%20bedurfnis%20besteht), [Sebastian Hoffmann](https://www.facebook.com/groups/germanfreelancevisa/posts/1649272118874818/) (August 2023), [Sebastian Hoffmann](https://www.facebook.com/groups/germanfreelancevisa/posts/1513608149107883/) (December 2022), [Sebastian Hoffmann](https://www.facebook.com/groups/germanfreelancevisa/posts/1540612453074119/) (January 2023), [exception](https://www.facebook.com/groups/germanfreelancevisa/posts/1687770631691633/) (2023), [exception](https://www.facebook.com/groups/germanfreelancevisa/posts/1180423295759705/) (2021), [Mirko Vorreuter](https://visaguard.berlin) (October 2025)
 [^73]: [Fiona Macdonald](https://en.fmr-legal.de/general-8#:~:text=must%20be%20classified%20as%20freelance%20employment)
 [^74]: [Facebook](https://www.facebook.com/groups/germanfreelancevisa/posts/1442308979571134/)
 [^75]: [Facebook](https://www.facebook.com/groups/germanfreelancevisa/permalink/1443377006130998/) (2022)

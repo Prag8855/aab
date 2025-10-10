@@ -10,9 +10,9 @@ Related_reviews:
     reviews/german-health-insurance/mona-anbari.md
 ---
 
-If you live in Germany, you must have health insurance. It pays for your healthcare when you are sick. You must get insured before you [start a new job](/guides/find-a-job-in-berlin#start-working), study at a German university, or [apply for a residence permit](/guides/residence-permit).
+This guide helps you choose the best health insurance for your needs.
 
-This guide explains how to choose the best health insurance for your needs.
+If you live in Germany, you must have health insurance. It pays for your healthcare when you are sick. You must get insured before you [start a new job](/guides/find-a-job-in-berlin#start-working), study at a German university, or [apply for a residence permit](/guides/residence-permit).
 
 {% include "_blocks/tableOfContents.html" %}
 
