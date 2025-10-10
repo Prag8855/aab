@@ -9,6 +9,7 @@ uv = "latest"
 ruff = "latest"
 python = "3.13"
 shellcheck = "latest"
+pre-commit = "latest"
 
 [tasks.install]
 description = "Install local dependencies to run the project"
@@ -66,3 +67,10 @@ ursus lint -c frontend/ursus_config.py
 description = "Automatically format the code"
 alias = "f"
 run = "ruff format"
+
+[tasks.pre-commit]
+description = "Run git pre-commit checks"
+run = """
+mise format
+mise lint
+"""
