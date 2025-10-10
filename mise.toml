@@ -4,17 +4,45 @@ BUILDKIT_PROGRESS = "plain"
 
 _.python.venv = { path = ".venv", create = true }
 
-[tasks.lint]
+[tasks.setup]
+description = "Install local dependencies to run the project"
+alias = "i"
 run = """
-ursus lint
+pip3 install -r requirements-dev.txt
 """
 
-[tasks.run]
+[tasks.lint]
+description = "Run various linters for the project"
+alias = "l"
 run = """
-ursus -wfs
+ruff check
+ursus lint -c frontend/ursus_config.py
+"""
+
+[tasks.format]
+description = "Automatically format the code"
+alias = "f"
+run = """
+ruff format
+"""
+
+[tasks.site]
+description = "Serve the frontend, reload on changes. Very fast."
+alias = "r"
+run = """
+ursus -wfs -c frontend/ursus_config.py
 """
 
 [tasks.dev]
+description = "Serve the frontend and the backend in docker. Slower."
+alias = "d"
 run = """
+open -a Docker;
+
+while [[ -z "$(! docker stats --no-stream 2> /dev/null)" ]];
+  do printf ".";
+  sleep 1
+done
+
 docker compose up --build -d
 """
