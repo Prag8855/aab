@@ -21,110 +21,103 @@ old_to_new_status = {
 
 
 def migrate_models_to_insurance(apps, schema_editor):
-    HealthInsuranceQuestion = apps.get_model('forms', 'HealthInsuranceQuestion')
-    HealthInsuranceQuestionFeedback = apps.get_model('forms', 'HealthInsuranceQuestionFeedback')
-    Case = apps.get_model('insurance', 'Case')
-    BrokerNotification = apps.get_model('insurance', 'BrokerNotification')
-    CustomerNotification = apps.get_model('insurance', 'CustomerNotification')
-    FeedbackNotification = apps.get_model('insurance', 'FeedbackNotification')
+    HealthInsuranceQuestion = apps.get_model("forms", "HealthInsuranceQuestion")
+    HealthInsuranceQuestionFeedback = apps.get_model("forms", "HealthInsuranceQuestionFeedback")
+    Case = apps.get_model("insurance", "Case")
+    BrokerNotification = apps.get_model("insurance", "BrokerNotification")
+    CustomerNotification = apps.get_model("insurance", "CustomerNotification")
+    FeedbackNotification = apps.get_model("insurance", "FeedbackNotification")
 
     Case.creation_date.field.auto_now_add = False
 
     for q in HealthInsuranceQuestion.objects.all():
-        if q.question == 'AAAAA':
+        if q.question == "AAAAA":
             continue  # Redacted question
 
-        notes = '\n\n'.join([
-            "This case was migrated from the old system.",
-            f"QUESTION:\n{'(redacted)' if q.question == 'AAAAA' else q.question}",
-            f"NUMBER OF CHILDREN: {q.children_count or 'not specified'}",
-            f"DESIRED SERVICE: {q.desired_service or 'not specified'}"
-        ])
+        notes = "\n\n".join(
+            [
+                "This case was migrated from the old system.",
+                f"QUESTION:\n{'(redacted)' if q.question == 'AAAAA' else q.question}",
+                f"NUMBER OF CHILDREN: {q.children_count or 'not specified'}",
+                f"DESIRED SERVICE: {q.desired_service or 'not specified'}",
+            ]
+        )
 
         is_done = q.status == OldMessageStatus.SENT or q.status == OldMessageStatus.REDACTED
 
         c = Case.objects.create(
             creation_date=q.creation_date,
-            status='RESOLVED' if is_done else 'NEW',
-            email='redacted@redacted.com' if q.email == 'AAAAA@AAAAA.COM' else q.email,
-            phone='',
-            whatsapp='',
+            status="RESOLVED" if is_done else "NEW",
+            email="redacted@redacted.com" if q.email == "AAAAA@AAAAA.COM" else q.email,
+            phone="",
+            whatsapp="",
             notes=notes,
             referrer=q.referrer,
         )
 
         if q.name == "AAAAA":
             first_name = "(redacted)"
-            last_name = ''
+            last_name = ""
         else:
             try:
-                first_name, last_name = q.name.rsplit(' ', 1)
+                first_name, last_name = q.name.rsplit(" ", 1)
             except ValueError:
                 first_name = q.name
-                last_name = ''
+                last_name = ""
 
         c.insured_persons.create(
             first_name=first_name,
             last_name=last_name,
-            description='',
+            description="",
             occupation=q.occupation,
             income=q.income,
-            nationality='',
-            country_of_residence='',
+            nationality="",
+            country_of_residence="",
             is_married=q.is_married,
             age=q.age,
             date_of_birth=None,
         )
 
-        c.comments.create(
-            status='RESOLVED' if is_done else 'NEW',
-            notes='Case migrated from the old system.'
-        )
+        c.comments.create(status="RESOLVED" if is_done else "NEW", notes="Case migrated from the old system.")
 
         # The Feedback objects are not unique by name+email, so we find the closest one
-        fbs = HealthInsuranceQuestionFeedback.objects.annotate(
-            date=TruncSecond('creation_date'),
-        ).filter(
-            email=q.email,
-            name=q.name
-        ).all()
+        fbs = (
+            HealthInsuranceQuestionFeedback.objects.annotate(
+                date=TruncSecond("creation_date"),
+            )
+            .filter(email=q.email, name=q.name)
+            .all()
+        )
         for dupe in fbs:
             if dupe.date == q.creation_date.replace(microsecond=0).astimezone():
                 fb = dupe
 
         BrokerNotification.objects.filter(case=c).update(
-            creation_date=q.creation_date,
-            delivery_date=q.delivery_date,
-            status=old_to_new_status[q.status]
+            creation_date=q.creation_date, delivery_date=q.delivery_date, status=old_to_new_status[q.status]
         )
         CustomerNotification.objects.filter(case=c).update(
-            creation_date=q.creation_date,
-            delivery_date=q.delivery_date,
-            status=old_to_new_status[q.status]
+            creation_date=q.creation_date, delivery_date=q.delivery_date, status=old_to_new_status[q.status]
         )
         FeedbackNotification.objects.filter(case=c).update(
-            creation_date=fb.creation_date,
-            delivery_date=fb.delivery_date,
-            status=old_to_new_status[fb.status]
+            creation_date=fb.creation_date, delivery_date=fb.delivery_date, status=old_to_new_status[fb.status]
         )
 
 
 class Migration(migrations.Migration):
-
     dependencies = [
-        ('forms', '0012_alter_healthinsurancequestion_options_and_more'),
-        ('insurance', '0001_initial'),
+        ("forms", "0012_alter_healthinsurancequestion_options_and_more"),
+        ("insurance", "0001_initial"),
     ]
 
     operations = [
         migrations.RunPython(migrate_models_to_insurance),
         migrations.DeleteModel(
-            name='HealthInsuranceQuestion',
+            name="HealthInsuranceQuestion",
         ),
         migrations.DeleteModel(
-            name='HealthInsuranceQuestionConfirmation',
+            name="HealthInsuranceQuestionConfirmation",
         ),
         migrations.DeleteModel(
-            name='HealthInsuranceQuestionFeedback',
+            name="HealthInsuranceQuestionFeedback",
         ),
     ]

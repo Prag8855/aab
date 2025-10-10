@@ -3,7 +3,7 @@ from management.models import Monitor, error_icons
 
 
 class MonitorAdmin(admin.ModelAdmin):
-    list_display = ['key', 'name', 'status_display', 'last_updated']
+    list_display = ["key", "name", "status_display", "last_updated"]
 
     def status_display(self, obj):
         return error_icons[obj.status]

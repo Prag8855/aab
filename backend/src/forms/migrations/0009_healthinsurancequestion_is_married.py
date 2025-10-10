@@ -4,15 +4,14 @@ from django.db import migrations, models
 
 
 class Migration(migrations.Migration):
-
     dependencies = [
-        ('forms', '0008_remove_healthinsurancequestion_income_over_limit_and_more'),
+        ("forms", "0008_remove_healthinsurancequestion_income_over_limit_and_more"),
     ]
 
     operations = [
         migrations.AddField(
-            model_name='healthinsurancequestion',
-            name='is_married',
+            model_name="healthinsurancequestion",
+            name="is_married",
             field=models.BooleanField(null=True),
         ),
     ]

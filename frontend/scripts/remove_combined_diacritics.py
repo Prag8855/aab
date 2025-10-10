@@ -12,6 +12,6 @@ from ursus.utils import get_files_in_path
 files = get_files_in_path(config.content_path)
 for file in files:
     current_form = str(file)
-    normalized_form = normalize('NFC', str(file))
+    normalized_form = normalize("NFC", str(file))
     if current_form != normalized_form:
         (config.content_path / file).rename(config.content_path / normalized_form)

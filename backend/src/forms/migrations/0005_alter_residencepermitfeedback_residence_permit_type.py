@@ -4,15 +4,26 @@ from django.db import migrations, models
 
 
 class Migration(migrations.Migration):
-
     dependencies = [
-        ('forms', '0004_alter_residencepermitfeedback_options'),
+        ("forms", "0004_alter_residencepermitfeedback_options"),
     ]
 
     operations = [
         migrations.AlterField(
-            model_name='residencepermitfeedback',
-            name='residence_permit_type',
-            field=models.CharField(choices=[('BLUE_CARD', 'Blue Card'), ('CITIZENSHIP', 'Citizenship'), ('FAMILY_REUNION_VISA', 'Family reunion visa'), ('FREELANCE_VISA', 'Freelance visa'), ('JOB_SEEKER_VISA', 'Job seeker visa'), ('PERMANENT_RESIDENCE', 'Permanent residence'), ('STUDENT_VISA', 'Student visa'), ('WORK_VISA', 'Work visa')], max_length=30),
+            model_name="residencepermitfeedback",
+            name="residence_permit_type",
+            field=models.CharField(
+                choices=[
+                    ("BLUE_CARD", "Blue Card"),
+                    ("CITIZENSHIP", "Citizenship"),
+                    ("FAMILY_REUNION_VISA", "Family reunion visa"),
+                    ("FREELANCE_VISA", "Freelance visa"),
+                    ("JOB_SEEKER_VISA", "Job seeker visa"),
+                    ("PERMANENT_RESIDENCE", "Permanent residence"),
+                    ("STUDENT_VISA", "Student visa"),
+                    ("WORK_VISA", "Work visa"),
+                ],
+                max_length=30,
+            ),
         ),
     ]

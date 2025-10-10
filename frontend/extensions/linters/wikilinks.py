@@ -10,8 +10,9 @@ class WikilinksLinter(RegexLinter):
     """
     Verifies that Wikilinks point to existing glossary entries
     """
-    file_suffixes = ('.md', )
-    regex = re.compile(r'\[\[(?P<label>[^\]]+)\]\]')
+
+    file_suffixes = (".md",)
+    regex = re.compile(r"\[\[(?P<label>[^\]]+)\]\]")
 
     def handle_match(self, file_path: Path, match: Match[str]) -> MatchResult:
         glossary_file = config.content_path / f"glossary/{match['label']}.md"

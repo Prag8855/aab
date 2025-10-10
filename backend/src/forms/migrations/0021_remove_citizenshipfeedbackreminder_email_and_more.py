@@ -4,18 +4,17 @@ from django.db import migrations
 
 
 class Migration(migrations.Migration):
-
     dependencies = [
-        ('forms', '0020_alter_pensionrefundquestion_options_and_more'),
+        ("forms", "0020_alter_pensionrefundquestion_options_and_more"),
     ]
 
     operations = [
         migrations.RemoveField(
-            model_name='citizenshipfeedbackreminder',
-            name='email',
+            model_name="citizenshipfeedbackreminder",
+            name="email",
         ),
         migrations.RemoveField(
-            model_name='residencepermitfeedbackreminder',
-            name='email',
+            model_name="residencepermitfeedbackreminder",
+            name="email",
         ),
     ]

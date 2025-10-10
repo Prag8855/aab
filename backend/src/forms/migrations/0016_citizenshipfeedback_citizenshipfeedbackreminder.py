@@ -7,42 +7,62 @@ from django.db import migrations, models
 
 
 class Migration(migrations.Migration):
-
     dependencies = [
-        ('forms', '0015_residencepermitfeedback_health_insurance_notes_and_more'),
+        ("forms", "0015_residencepermitfeedback_health_insurance_notes_and_more"),
     ]
 
     operations = [
         migrations.CreateModel(
-            name='CitizenshipFeedback',
+            name="CitizenshipFeedback",
             fields=[
-                ('modification_key', models.CharField(default=forms.utils.random_key, max_length=32, primary_key=True, serialize=False, unique=True)),
-                ('creation_date', models.DateTimeField(auto_now_add=True)),
-                ('modification_date', models.DateTimeField(auto_now=True)),
-                ('email', models.EmailField(blank=True, max_length=254, null=True, validators=[forms.utils.validate_email])),
-                ('application_date', models.DateField()),
-                ('first_response_date', models.DateField(blank=True, null=True)),
-                ('appointment_date', models.DateField(blank=True, null=True)),
-                ('notes', models.TextField(blank=True)),
+                (
+                    "modification_key",
+                    models.CharField(
+                        default=forms.utils.random_key, max_length=32, primary_key=True, serialize=False, unique=True
+                    ),
+                ),
+                ("creation_date", models.DateTimeField(auto_now_add=True)),
+                ("modification_date", models.DateTimeField(auto_now=True)),
+                (
+                    "email",
+                    models.EmailField(blank=True, max_length=254, null=True, validators=[forms.utils.validate_email]),
+                ),
+                ("application_date", models.DateField()),
+                ("first_response_date", models.DateField(blank=True, null=True)),
+                ("appointment_date", models.DateField(blank=True, null=True)),
+                ("notes", models.TextField(blank=True)),
             ],
             options={
-                'ordering': ['-modification_date'],
-                'abstract': False,
+                "ordering": ["-modification_date"],
+                "abstract": False,
             },
         ),
         migrations.CreateModel(
-            name='CitizenshipFeedbackReminder',
+            name="CitizenshipFeedbackReminder",
             fields=[
-                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),
-                ('email', models.EmailField(max_length=254, validators=[forms.utils.validate_email])),
-                ('creation_date', models.DateTimeField(auto_now_add=True)),
-                ('delivery_date', models.DateTimeField(default=django.utils.timezone.now)),
-                ('status', models.PositiveSmallIntegerField(choices=[(0, 'Scheduled'), (1, 'Error'), (2, 'Sent'), (3, 'Sent and redacted for privacy')], default=0)),
-                ('feedback', models.ForeignKey(on_delete=django.db.models.deletion.CASCADE, related_name='feedback_reminders', to='forms.citizenshipfeedback')),
+                ("id", models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name="ID")),
+                ("email", models.EmailField(max_length=254, validators=[forms.utils.validate_email])),
+                ("creation_date", models.DateTimeField(auto_now_add=True)),
+                ("delivery_date", models.DateTimeField(default=django.utils.timezone.now)),
+                (
+                    "status",
+                    models.PositiveSmallIntegerField(
+                        choices=[(0, "Scheduled"), (1, "Error"), (2, "Sent"), (3, "Sent and redacted for privacy")],
+                        default=0,
+                    ),
+                ),
+                (
+                    "feedback",
+                    models.ForeignKey(
+                        on_delete=django.db.models.deletion.CASCADE,
+                        related_name="feedback_reminders",
+                        to="forms.citizenshipfeedback",
+                    ),
+                ),
             ],
             options={
-                'ordering': ['-creation_date'],
-                'abstract': False,
+                "ordering": ["-creation_date"],
+                "abstract": False,
             },
         ),
     ]

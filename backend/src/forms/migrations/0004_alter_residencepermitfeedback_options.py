@@ -4,14 +4,13 @@ from django.db import migrations
 
 
 class Migration(migrations.Migration):
-
     dependencies = [
-        ('forms', '0003_replace_nationality_with_department'),
+        ("forms", "0003_replace_nationality_with_department"),
     ]
 
     operations = [
         migrations.AlterModelOptions(
-            name='residencepermitfeedback',
-            options={'ordering': ['-modification_date']},
+            name="residencepermitfeedback",
+            options={"ordering": ["-modification_date"]},
         ),
     ]

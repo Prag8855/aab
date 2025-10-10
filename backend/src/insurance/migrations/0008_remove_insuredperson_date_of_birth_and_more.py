@@ -4,19 +4,18 @@ from django.db import migrations, models
 
 
 class Migration(migrations.Migration):
-
     dependencies = [
-        ('insurance', '0007_merge_first_last_names'),
+        ("insurance", "0007_merge_first_last_names"),
     ]
 
     operations = [
         migrations.RemoveField(
-            model_name='insuredperson',
-            name='date_of_birth',
+            model_name="insuredperson",
+            name="date_of_birth",
         ),
         migrations.AlterField(
-            model_name='insuredperson',
-            name='age',
+            model_name="insuredperson",
+            name="age",
             field=models.PositiveSmallIntegerField(blank=True, null=True),
         ),
     ]

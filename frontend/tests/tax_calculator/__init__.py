@@ -1,4 +1,3 @@
-
 def fill_calculator(
     page,
     income=25000,

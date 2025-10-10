@@ -33,68 +33,80 @@ def merge_insured_persons_into_case(apps, schema_editor):
 
 
 class Migration(migrations.Migration):
-
     dependencies = [
-        ('insurance', '0008_remove_insuredperson_date_of_birth_and_more'),
+        ("insurance", "0008_remove_insuredperson_date_of_birth_and_more"),
     ]
 
     operations = [
         migrations.RemoveField(
-            model_name='case',
-            name='phone',
+            model_name="case",
+            name="phone",
         ),
         migrations.RemoveField(
-            model_name='case',
-            name='whatsapp',
+            model_name="case",
+            name="whatsapp",
         ),
         migrations.AddField(
-            model_name='case',
-            name='age',
+            model_name="case",
+            name="age",
             field=models.PositiveSmallIntegerField(blank=True, default=None, null=True),
         ),
         migrations.AddField(
-            model_name='case',
-            name='children_count',
+            model_name="case",
+            name="children_count",
             field=models.PositiveSmallIntegerField(blank=True, null=True, default=None),
         ),
         migrations.AddField(
-            model_name='case',
-            name='income',
-            field=models.PositiveIntegerField(blank=True, default=None, null=True, verbose_name='Yearly income'),
+            model_name="case",
+            name="income",
+            field=models.PositiveIntegerField(blank=True, default=None, null=True, verbose_name="Yearly income"),
         ),
         migrations.AddField(
-            model_name='case',
-            name='is_married',
+            model_name="case",
+            name="is_married",
             field=models.BooleanField(default=None, null=True),
         ),
         migrations.AddField(
-            model_name='case',
-            name='is_applying_for_first_visa',
+            model_name="case",
+            name="is_applying_for_first_visa",
             field=models.BooleanField(default=None, null=True),
         ),
         migrations.AddField(
-            model_name='case',
-            name='has_german_public_insurance',
+            model_name="case",
+            name="has_german_public_insurance",
             field=models.BooleanField(default=None, null=True),
         ),
         migrations.AddField(
-            model_name='case',
-            name='has_eu_public_insurance',
+            model_name="case",
+            name="has_eu_public_insurance",
             field=models.BooleanField(default=None, null=True),
         ),
         migrations.AddField(
-            model_name='case',
-            name='name',
-            field=models.CharField(default='', max_length=100),
+            model_name="case",
+            name="name",
+            field=models.CharField(default="", max_length=100),
             preserve_default=False,
         ),
         migrations.AddField(
-            model_name='case',
-            name='occupation',
-            field=models.CharField(choices=[('employee', 'Employee'), ('azubi', 'Azubi'), ('studentEmployee', 'Student (working)'), ('studentSelfEmployed', 'Student (self-employed)'), ('studentUnemployed', 'Student (unemployed)'), ('selfEmployed', 'Self-employed'), ('unemployed', 'Unemployed'), ('other', 'Other/unknown')], default='other', max_length=50),
+            model_name="case",
+            name="occupation",
+            field=models.CharField(
+                choices=[
+                    ("employee", "Employee"),
+                    ("azubi", "Azubi"),
+                    ("studentEmployee", "Student (working)"),
+                    ("studentSelfEmployed", "Student (self-employed)"),
+                    ("studentUnemployed", "Student (unemployed)"),
+                    ("selfEmployed", "Self-employed"),
+                    ("unemployed", "Unemployed"),
+                    ("other", "Other/unknown"),
+                ],
+                default="other",
+                max_length=50,
+            ),
         ),
         migrations.RunPython(merge_insured_persons_into_case),
         migrations.DeleteModel(
-            name='InsuredPerson',
+            name="InsuredPerson",
         ),
     ]

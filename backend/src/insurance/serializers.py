@@ -6,4 +6,4 @@ from .models import Case
 class CaseSerializer(CountryFieldMixin, ModelSerializer):
     class Meta:
         model = Case
-        fields = '__all__'
+        fields = "__all__"

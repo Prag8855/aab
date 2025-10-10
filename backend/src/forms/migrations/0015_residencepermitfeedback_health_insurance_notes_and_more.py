@@ -4,20 +4,30 @@ from django.db import migrations, models
 
 
 class Migration(migrations.Migration):
-
     dependencies = [
-        ('forms', '0014_alter_pensionrefundquestion_options'),
+        ("forms", "0014_alter_pensionrefundquestion_options"),
     ]
 
     operations = [
         migrations.AddField(
-            model_name='residencepermitfeedback',
-            name='health_insurance_notes',
+            model_name="residencepermitfeedback",
+            name="health_insurance_notes",
             field=models.TextField(blank=True),
         ),
         migrations.AddField(
-            model_name='residencepermitfeedback',
-            name='health_insurance_type',
-            field=models.CharField(blank=True, choices=[('PUBLIC', 'Public health insurance'), ('PRIVATE', 'Private health insurance'), ('EXPAT', 'Expat health insurance'), ('OTHER', 'Other'), ('', 'Unknown')], default='', max_length=20),
+            model_name="residencepermitfeedback",
+            name="health_insurance_type",
+            field=models.CharField(
+                blank=True,
+                choices=[
+                    ("PUBLIC", "Public health insurance"),
+                    ("PRIVATE", "Private health insurance"),
+                    ("EXPAT", "Expat health insurance"),
+                    ("OTHER", "Other"),
+                    ("", "Unknown"),
+                ],
+                default="",
+                max_length=20,
+            ),
         ),
     ]

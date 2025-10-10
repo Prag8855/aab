@@ -7,7 +7,7 @@ import requests
 
 
 def random_key() -> str:
-    return '{k:032x}'.format(k=random.getrandbits(128))
+    return "{k:032x}".format(k=random.getrandbits(128))
 
 
 def fuzzy_readable_duration(days: int) -> Tuple[int, str]:
@@ -15,16 +15,16 @@ def fuzzy_readable_duration(days: int) -> Tuple[int, str]:
     Turns a number of days like 45 into a fuzzy duration tuple like (6, 'weeks')
     """
     if days <= 7 * 2:
-        return (round(days), 'days')
+        return (round(days), "days")
     elif days <= 7 * 8:
-        return (round(days / 7), 'weeks')
+        return (round(days / 7), "weeks")
     else:
-        return (round(days / 30), 'months')
+        return (round(days / 30), "months")
 
 
 def pluralize(qty, unit):
     # 0 days, 1 day, 2 days...
-    return unit.removesuffix('s') if qty == 1 else unit
+    return unit.removesuffix("s") if qty == 1 else unit
 
 
 def readable_duration(days: int) -> str:
@@ -61,12 +61,12 @@ def send_email(recipients: List[str], subject: str, body: str, reply_to: str | N
     }
 
     if reply_to:
-        message_data['h:Reply-To'] = reply_to
+        message_data["h:Reply-To"] = reply_to
 
     response = requests.post(
         "https://api.eu.mailgun.net/v3/allaboutberlin.com/messages",
         auth=("api", settings.MAILGUN_API_KEY),
-        data=message_data
+        data=message_data,
     )
 
     if response.status_code != 200:

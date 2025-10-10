@@ -4,39 +4,38 @@ from django.db import migrations, models
 
 
 class Migration(migrations.Migration):
-
     dependencies = [
-        ('forms', '0007_healthinsurancequestionfeedback'),
+        ("forms", "0007_healthinsurancequestionfeedback"),
     ]
 
     operations = [
         migrations.RemoveField(
-            model_name='healthinsurancequestion',
-            name='income_over_limit',
+            model_name="healthinsurancequestion",
+            name="income_over_limit",
         ),
         migrations.AddField(
-            model_name='healthinsurancequestion',
-            name='children_count',
+            model_name="healthinsurancequestion",
+            name="children_count",
             field=models.PositiveSmallIntegerField(null=True),
         ),
         migrations.AddField(
-            model_name='healthinsurancequestion',
-            name='desired_service',
+            model_name="healthinsurancequestion",
+            name="desired_service",
             field=models.CharField(blank=True, max_length=50),
         ),
         migrations.AddField(
-            model_name='healthinsurancequestion',
-            name='income',
+            model_name="healthinsurancequestion",
+            name="income",
             field=models.PositiveIntegerField(null=True),
         ),
         migrations.AlterField(
-            model_name='healthinsurancequestion',
-            name='age',
+            model_name="healthinsurancequestion",
+            name="age",
             field=models.PositiveSmallIntegerField(null=True),
         ),
         migrations.AlterField(
-            model_name='healthinsurancequestion',
-            name='question',
+            model_name="healthinsurancequestion",
+            name="question",
             field=models.TextField(blank=True),
         ),
     ]

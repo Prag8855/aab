@@ -7,19 +7,19 @@ from rest_framework.test import APITestCase
 
 class CaseTestCase(ScheduledMessageEndpointMixin, APITestCase):
     model = Case
-    endpoint = '/api/insurance/case'
+    endpoint = "/api/insurance/case"
 
     def setUp(self):
         self.example_request = {
-            'name': 'John Smith',
-            'income': 30000,
-            'occupation': 'selfEmployed',
-            'age': 30,
-            'is_married': True,
-            'email': 'contact@nicolasbouliane.com',
-            'notes': 'Did you ever think that maybe there’s more to life than being really, really... really ridiculously well insured?',
-            'referrer': 'partner123',
-            'broker': 'christina-weber',
+            "name": "John Smith",
+            "income": 30000,
+            "occupation": "selfEmployed",
+            "age": 30,
+            "is_married": True,
+            "email": "contact@nicolasbouliane.com",
+            "notes": "Did you ever think that maybe there’s more to life than being really, really... really ridiculously well insured?",
+            "referrer": "partner123",
+            "broker": "christina-weber",
         }
 
     def test_retrieve_exists_404(self):
@@ -29,38 +29,52 @@ class CaseTestCase(ScheduledMessageEndpointMixin, APITestCase):
         super().test_retrieve_exists_404()
 
     def test_create_confirmation_message(self):
-        self.client.post(self.endpoint, self.example_request, format='json')
-        case = Case.objects.get(email='contact@nicolasbouliane.com')
+        self.client.post(self.endpoint, self.example_request, format="json")
+        case = Case.objects.get(email="contact@nicolasbouliane.com")
         customer_email = CustomerNotification.objects.get(case=case)
         broker_email = BrokerNotification.objects.get(case=case)
         feedback_email = FeedbackNotification.objects.get(case=case)
 
-        self.assertEqual(feedback_email.recipients, ['contact@nicolasbouliane.com', ])
+        self.assertEqual(
+            feedback_email.recipients,
+            [
+                "contact@nicolasbouliane.com",
+            ],
+        )
         self.assertEqual("Christina" in feedback_email.subject, True)
         self.assertEqual("Seamus" in feedback_email.subject, False)
         self.assertEqual("Christina" in feedback_email.get_body(), True)
         self.assertEqual("Seamus" in feedback_email.get_body(), False)
         self.assertEqual(
             timezone.now().replace(second=0, microsecond=0),
-            feedback_email.creation_date.replace(second=0, microsecond=0)
+            feedback_email.creation_date.replace(second=0, microsecond=0),
         )
         self.assertEqual(
             feedback_email.delivery_date.replace(microsecond=0),
-            (feedback_email.creation_date + timedelta(weeks=1)).replace(microsecond=0)
+            (feedback_email.creation_date + timedelta(weeks=1)).replace(microsecond=0),
         )
 
-        self.assertEqual(broker_email.recipients, [case.broker_info['email'], ])
         self.assertEqual(
-            timezone.now().replace(second=0, microsecond=0),
-            broker_email.delivery_date.replace(second=0, microsecond=0)
+            broker_email.recipients,
+            [
+                case.broker_info["email"],
+            ],
+        )
+        self.assertEqual(
+            timezone.now().replace(second=0, microsecond=0), broker_email.delivery_date.replace(second=0, microsecond=0)
         )
 
         self.assertEqual("Christina" in customer_email.get_body(), True)
         self.assertEqual("Seamus" in customer_email.get_body(), False)
-        self.assertEqual(customer_email.recipients, ['contact@nicolasbouliane.com', ])
+        self.assertEqual(
+            customer_email.recipients,
+            [
+                "contact@nicolasbouliane.com",
+            ],
+        )
         self.assertEqual(
             timezone.now().replace(second=0, microsecond=0),
-            customer_email.delivery_date.replace(second=0, microsecond=0)
+            customer_email.delivery_date.replace(second=0, microsecond=0),
         )
 
 
@@ -71,7 +85,7 @@ class MinimalCaseTestCase(CaseTestCase):
 
     def setUp(self):
         self.example_request = {
-            'name': 'John Smith',
-            'email': 'contact@nicolasbouliane.com',
-            'broker': 'christina-weber',
+            "name": "John Smith",
+            "email": "contact@nicolasbouliane.com",
+            "broker": "christina-weber",
         }

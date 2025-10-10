@@ -4,15 +4,14 @@ from django.db import migrations, models
 
 
 class Migration(migrations.Migration):
-
     dependencies = [
-        ('forms', '0009_healthinsurancequestion_is_married'),
+        ("forms", "0009_healthinsurancequestion_is_married"),
     ]
 
     operations = [
         migrations.AlterField(
-            model_name='healthinsurancequestion',
-            name='occupation',
+            model_name="healthinsurancequestion",
+            name="occupation",
             field=models.CharField(blank=True, max_length=50),
         ),
     ]

@@ -4,38 +4,37 @@ from django.db import migrations
 
 
 class Migration(migrations.Migration):
-
     dependencies = [
-        ('forms', '0005_alter_residencepermitfeedback_residence_permit_type'),
+        ("forms", "0005_alter_residencepermitfeedback_residence_permit_type"),
     ]
 
     operations = [
         migrations.AlterModelOptions(
-            name='healthinsurancequestion',
-            options={'ordering': ['-creation_date']},
+            name="healthinsurancequestion",
+            options={"ordering": ["-creation_date"]},
         ),
         migrations.AlterModelOptions(
-            name='healthinsurancequestionconfirmation',
-            options={'ordering': ['-creation_date']},
+            name="healthinsurancequestionconfirmation",
+            options={"ordering": ["-creation_date"]},
         ),
         migrations.AlterModelOptions(
-            name='pensionrefundquestion',
-            options={'ordering': ['-creation_date']},
+            name="pensionrefundquestion",
+            options={"ordering": ["-creation_date"]},
         ),
         migrations.AlterModelOptions(
-            name='pensionrefundreminder',
-            options={'ordering': ['-creation_date']},
+            name="pensionrefundreminder",
+            options={"ordering": ["-creation_date"]},
         ),
         migrations.AlterModelOptions(
-            name='pensionrefundrequest',
-            options={'ordering': ['-creation_date']},
+            name="pensionrefundrequest",
+            options={"ordering": ["-creation_date"]},
         ),
         migrations.AlterModelOptions(
-            name='residencepermitfeedbackreminder',
-            options={'ordering': ['-creation_date']},
+            name="residencepermitfeedbackreminder",
+            options={"ordering": ["-creation_date"]},
         ),
         migrations.AlterModelOptions(
-            name='taxidrequestfeedbackreminder',
-            options={'ordering': ['-creation_date']},
+            name="taxidrequestfeedbackreminder",
+            options={"ordering": ["-creation_date"]},
         ),
     ]

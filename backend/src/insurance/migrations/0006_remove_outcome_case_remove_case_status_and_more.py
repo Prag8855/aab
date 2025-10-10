@@ -4,24 +4,23 @@ from django.db import migrations
 
 
 class Migration(migrations.Migration):
-
     dependencies = [
-        ('insurance', '0005_case_broker'),
+        ("insurance", "0005_case_broker"),
     ]
 
     operations = [
         migrations.RemoveField(
-            model_name='outcome',
-            name='case',
+            model_name="outcome",
+            name="case",
         ),
         migrations.RemoveField(
-            model_name='case',
-            name='status',
+            model_name="case",
+            name="status",
         ),
         migrations.DeleteModel(
-            name='Comment',
+            name="Comment",
         ),
         migrations.DeleteModel(
-            name='Outcome',
+            name="Outcome",
         ),
     ]

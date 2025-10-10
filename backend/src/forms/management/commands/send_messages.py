@@ -13,13 +13,13 @@ logger = logging.getLogger(__name__)
 
 
 class Command(BaseCommand):
-    help = 'Send all scheduled messages'
+    help = "Send all scheduled messages"
 
     def handle(self, *args, **options):
         if settings.DEBUG_EMAILS:
-            logger.info('Pretending to send scheduled messages...')
+            logger.info("Pretending to send scheduled messages...")
         else:
-            logger.info('Sending scheduled messages...')
+            logger.info("Sending scheduled messages...")
 
             if not settings.DEBUG and not settings.MAILGUN_API_KEY:
                 raise Exception("MAILGUN_API_KEY is not set")
@@ -45,12 +45,7 @@ class Command(BaseCommand):
                         else:
                             logger.info(f"Pretending to send 1 message ({message.__class__.__name__})")
                     else:
-                        send_email(
-                            message.recipients,
-                            message.subject,
-                            message.get_body(),
-                            message.reply_to
-                        )
+                        send_email(message.recipients, message.subject, message.get_body(), message.reply_to)
                     message.status = MessageStatus.SENT
                     successes += 1
                 except HTTPError as exc:
@@ -63,8 +58,5 @@ class Command(BaseCommand):
                 message.save()
 
         level = logging.ERROR if failures else logging.INFO
-        logger.log(
-            level,
-            f'Sent scheduled messages. {successes} sent, {failures} failed.'
-        )
-        update_monitor('send-messages', level, f'{successes} sent, {failures} failed.')
+        logger.log(level, f"Sent scheduled messages. {successes} sent, {failures} failed.")
+        update_monitor("send-messages", level, f"{successes} sent, {failures} failed.")

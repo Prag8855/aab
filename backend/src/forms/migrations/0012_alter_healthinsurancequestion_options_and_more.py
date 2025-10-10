@@ -4,19 +4,18 @@ from django.db import migrations, models
 
 
 class Migration(migrations.Migration):
-
     dependencies = [
-        ('forms', '0011_remove_healthinsurancequestion_phone'),
+        ("forms", "0011_remove_healthinsurancequestion_phone"),
     ]
 
     operations = [
         migrations.AlterModelOptions(
-            name='healthinsurancequestion',
-            options={'ordering': ['-creation_date'], 'verbose_name': 'Health insurance question'},
+            name="healthinsurancequestion",
+            options={"ordering": ["-creation_date"], "verbose_name": "Health insurance question"},
         ),
         migrations.AddField(
-            model_name='healthinsurancequestion',
-            name='referrer',
+            model_name="healthinsurancequestion",
+            name="referrer",
             field=models.CharField(blank=True, max_length=50),
         ),
     ]

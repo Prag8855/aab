@@ -30,11 +30,8 @@ def query_places(gmaps, query: str):
         input_type="textquery",
         location_bias=f"circle:2000@{52.5200, 13.4050}",
         language="en",
-    )['candidates'][:10]
-    return [
-        gmaps.place(result['place_id'], language="en")['result']
-        for result in search_results
-    ]
+    )["candidates"][:10]
+    return [gmaps.place(result["place_id"], language="en")["result"] for result in search_results]
 
 
 def print_places(places: list):
@@ -67,45 +64,46 @@ def add_place():
 
         selected_index = int(get_user_input("Choose an address"))
         google_place = places[selected_index - 1]
-        google_place['name'] = name_query
+        google_place["name"] = name_query
 
     file_content = place_template.format(
-        name=google_place['name'],
-        latitude=round(google_place['geometry']['location']['lat'], 6),
-        longitude=round(google_place['geometry']['location']['lng'], 6),
-        address=re.sub(r"(, (\d{5} )?Berlin)?, Germany$", "", google_place['formatted_address']).strip(),
-        place_id=google_place['place_id'],
-        website=google_place.get('website') or get_user_input("Website"),
+        name=google_place["name"],
+        latitude=round(google_place["geometry"]["location"]["lat"], 6),
+        longitude=round(google_place["geometry"]["location"]["lng"], 6),
+        address=re.sub(r"(, (\d{5} )?Berlin)?, Germany$", "", google_place["formatted_address"]).strip(),
+        place_id=google_place["place_id"],
+        website=google_place.get("website") or get_user_input("Website"),
         email=get_user_input("Contact email"),
         description=get_user_input("Description"),
     )
 
-    file_slug = slugify(google_place['name'], '-')
+    file_slug = slugify(google_place["name"], "-")
     print(f'Choose a slug for the file name (default is "{file_slug}"):')
-    file_slug = input('>') or file_slug
+    file_slug = input(">") or file_slug
 
-    place_path = config.content_path / f'places/{file_slug}.md'
+    place_path = config.content_path / f"places/{file_slug}.md"
     print(f"Saving to {str(place_path)}")
-    with place_path.open('w') as place_file:
+    with place_path.open("w") as place_file:
         place_file.writelines(file_content)
     print("\n---\n")
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     parser = argparse.ArgumentParser(
-        prog='add_places',
-        description='Creates a place entry',
+        prog="add_places",
+        description="Creates a place entry",
     )
     parser.add_argument(
-        '-c', '--config',
-        help="Path to a Python config file or module. The `config` variable will be imported from that file."
+        "-c",
+        "--config",
+        help="Path to a Python config file or module. The `config` variable will be imported from that file.",
     )
     args = parser.parse_args()
 
     if args.config:
         import_module_or_path(args.config)
-    elif Path('./ursus_config.py').exists():
-        import_module_or_path('ursus_config.py')
+    elif Path("./ursus_config.py").exists():
+        import_module_or_path("ursus_config.py")
 
     while True:
         add_place()

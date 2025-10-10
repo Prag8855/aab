@@ -1,7 +1,12 @@
 from django_countries.serializers import CountryFieldMixin
-from forms.models import \
-    CitizenshipFeedback, PensionRefundQuestion, PensionRefundReminder, PensionRefundRequest, ResidencePermitFeedback, \
-    TaxIdRequestFeedbackReminder
+from forms.models import (
+    CitizenshipFeedback,
+    PensionRefundQuestion,
+    PensionRefundReminder,
+    PensionRefundRequest,
+    ResidencePermitFeedback,
+    TaxIdRequestFeedbackReminder,
+)
 from rest_framework.serializers import ModelSerializer, IntegerField, CharField, DateTimeField
 
 
@@ -10,7 +15,7 @@ class PensionRefundQuestionSerializer(CountryFieldMixin, ModelSerializer):
 
     class Meta:
         model = PensionRefundQuestion
-        fields = '__all__'
+        fields = "__all__"
 
 
 class PensionRefundReminderSerializer(CountryFieldMixin, ModelSerializer):
@@ -18,7 +23,7 @@ class PensionRefundReminderSerializer(CountryFieldMixin, ModelSerializer):
 
     class Meta:
         model = PensionRefundReminder
-        fields = '__all__'
+        fields = "__all__"
 
 
 class PensionRefundRequestSerializer(CountryFieldMixin, ModelSerializer):
@@ -26,7 +31,7 @@ class PensionRefundRequestSerializer(CountryFieldMixin, ModelSerializer):
 
     class Meta:
         model = PensionRefundRequest
-        fields = '__all__'
+        fields = "__all__"
 
 
 class ResidencePermitFeedbackSerializer(ModelSerializer):
@@ -40,13 +45,13 @@ class ResidencePermitFeedbackSerializer(ModelSerializer):
 
     class Meta:
         model = ResidencePermitFeedback
-        fields = '__all__'
+        fields = "__all__"
 
 
 class PublicResidencePermitFeedbackSerializer(ModelSerializer):
     class Meta:
         model = ResidencePermitFeedback
-        exclude = ('email', 'modification_key')
+        exclude = ("email", "modification_key")
 
 
 class CitizenshipFeedbackSerializer(ModelSerializer):
@@ -60,13 +65,13 @@ class CitizenshipFeedbackSerializer(ModelSerializer):
 
     class Meta:
         model = CitizenshipFeedback
-        fields = '__all__'
+        fields = "__all__"
 
 
 class PublicCitizenshipFeedbackSerializer(ModelSerializer):
     class Meta:
         model = CitizenshipFeedback
-        exclude = ('email', 'modification_key')
+        exclude = ("email", "modification_key")
 
 
 class TaxIdRequestFeedbackReminderSerializer(ModelSerializer):
@@ -74,4 +79,4 @@ class TaxIdRequestFeedbackReminderSerializer(ModelSerializer):
 
     class Meta:
         model = TaxIdRequestFeedbackReminder
-        fields = '__all__'
+        fields = "__all__"

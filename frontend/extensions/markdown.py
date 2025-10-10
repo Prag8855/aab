@@ -20,14 +20,14 @@ def process_element_text(element: ElementTree.Element, operation: Callable) -> N
 
 
 class HyphenatedTitleProcessor(Treeprocessor):
-    soft_hyphen = '\xc2\xad'
+    soft_hyphen = "\xc2\xad"
 
     def run(self, root: ElementTree.Element) -> ElementTree.Element:
         def hyphenate_text(text: str) -> str:
-            return hyphenate(text, 'de_DE', soft_hyphen)
+            return hyphenate(text, "de_DE", soft_hyphen)
 
         for el in root.iter():
-            if el.tag in ('h1', 'h2', 'h3'):
+            if el.tag in ("h1", "h2", "h3"):
                 process_element_text(el, hyphenate_text)
         return root
 
@@ -45,25 +45,25 @@ class ArrowLinkIconProcessor(Treeprocessor):
     def run(self, root):
         sections_before_this_link = set()
         for el in root.iter():
-            if el.tag in ('h1', 'h2', 'h3') and (section_id := el.attrib.get('id')):
-                sections_before_this_link.add('#' + section_id)
-            elif el.tag == 'a':
-                text = (el.text or "")
+            if el.tag in ("h1", "h2", "h3") and (section_id := el.attrib.get("id")):
+                sections_before_this_link.add("#" + section_id)
+            elif el.tag == "a":
+                text = el.text or ""
 
-                if text.strip().endswith('➞'):
-                    el.text = el.text.rstrip('➞').rstrip()
+                if text.strip().endswith("➞"):
+                    el.text = el.text.rstrip("➞").rstrip()
 
-                    link_class = 'internal-link'
-                    if el.attrib['href'].startswith(('http://', 'https://', '/out/')):
-                        link_class = 'external-link'
-                    elif el.attrib['href'].startswith('#'):
-                        el.attrib['title'] = 'Scroll to this section'
-                        if el.attrib['href'] in sections_before_this_link:
-                            link_class = 'section-link before'
+                    link_class = "internal-link"
+                    if el.attrib["href"].startswith(("http://", "https://", "/out/")):
+                        link_class = "external-link"
+                    elif el.attrib["href"].startswith("#"):
+                        el.attrib["title"] = "Scroll to this section"
+                        if el.attrib["href"] in sections_before_this_link:
+                            link_class = "section-link before"
                         else:
-                            link_class = 'section-link after'
+                            link_class = "section-link after"
 
-                    el.attrib['class'] = el.attrib.get('class', '') + ' ' + link_class
+                    el.attrib["class"] = el.attrib.get("class", "") + " " + link_class
         return root
 
 
@@ -80,10 +80,11 @@ class CurrencyPreprocessor(Preprocessor):
     """
     Wraps euro amounts in a <span class="currency"> tag
     """
-    CURRENCY_RE = re.compile(r'€((\d+(,\d{3})*(\.\d{2})?))', re.MULTILINE | re.DOTALL)
+
+    CURRENCY_RE = re.compile(r"€((\d+(,\d{3})*(\.\d{2})?))", re.MULTILINE | re.DOTALL)
 
     def replace_match(self, match):
-        formatted_number = to_currency(Decimal(match[1].replace(',', '')))
+        formatted_number = to_currency(Decimal(match[1].replace(",", "")))
         return self.md.htmlStash.store(f'€<span class="currency">{formatted_number}</span>')
 
     def run(self, lines):
@@ -96,7 +97,8 @@ class JinjaCurrencyPreprocessor(CurrencyPreprocessor):
     """
     Wraps jinja template variables followed with "€" in a <span class="currency"> tag
     """
-    CURRENCY_RE = re.compile('€({{([^}]+)}})', re.MULTILINE | re.DOTALL)
+
+    CURRENCY_RE = re.compile("€({{([^}]+)}})", re.MULTILINE | re.DOTALL)
 
     def replace_match(self, match):
         return self.md.htmlStash.store(f'€<span class="currency">{match[1]}</span>')
@@ -108,8 +110,8 @@ class CurrencyExtension(Extension):
     """
 
     def extendMarkdown(self, md):
-        md.preprocessors.register(CurrencyPreprocessor(md), 'cur', 25)
-        md.preprocessors.register(JinjaCurrencyPreprocessor(md), 'jinja-cur', 26)
+        md.preprocessors.register(CurrencyPreprocessor(md), "cur", 25)
+        md.preprocessors.register(JinjaCurrencyPreprocessor(md), "jinja-cur", 26)
 
 
 class TypographyExtension(Extension):
@@ -120,22 +122,22 @@ class TypographyExtension(Extension):
     def extendMarkdown(self, md):
         inline_processor = InlineProcessor(md)
 
-        sectionPattern = SubstituteTextPattern(r'§ ', ('§&nbsp;',), md)
-        inline_processor.inlinePatterns.register(sectionPattern, 'typo-section', 10)
+        sectionPattern = SubstituteTextPattern(r"§ ", ("§&nbsp;",), md)
+        inline_processor.inlinePatterns.register(sectionPattern, "typo-section", 10)
 
-        ellipsisPattern = SubstituteTextPattern(r'\.\.\.', ('…',), md)
-        inline_processor.inlinePatterns.register(ellipsisPattern, 'typo-ellipsis', 10)
+        ellipsisPattern = SubstituteTextPattern(r"\.\.\.", ("…",), md)
+        inline_processor.inlinePatterns.register(ellipsisPattern, "typo-ellipsis", 10)
 
-        ellipsisPattern = SubstituteTextPattern(r' - ', ('&nbsp;–&nbsp;',), md)
-        inline_processor.inlinePatterns.register(ellipsisPattern, 'typo-emdash', 10)
+        ellipsisPattern = SubstituteTextPattern(r" - ", ("&nbsp;–&nbsp;",), md)
+        inline_processor.inlinePatterns.register(ellipsisPattern, "typo-emdash", 10)
 
-        squaredPattern = SubstituteTextPattern(r'\^2\^', ('²',), md)
-        inline_processor.inlinePatterns.register(squaredPattern, 'squared', 65)
+        squaredPattern = SubstituteTextPattern(r"\^2\^", ("²",), md)
+        inline_processor.inlinePatterns.register(squaredPattern, "squared", 65)
 
-        cubedPattern = SubstituteTextPattern(r'\^3\^', ('³',), md)
-        inline_processor.inlinePatterns.register(cubedPattern, 'cubed', 65)
+        cubedPattern = SubstituteTextPattern(r"\^3\^", ("³",), md)
+        inline_processor.inlinePatterns.register(cubedPattern, "cubed", 65)
 
-        md.treeprocessors.register(inline_processor, 'typography', 2)
+        md.treeprocessors.register(inline_processor, "typography", 2)
 
 
 class WrappedTableProcessor(Treeprocessor):
@@ -144,9 +146,7 @@ class WrappedTableProcessor(Treeprocessor):
     """
 
     def wrap_table(self, table, parent):
-        wrapper = ElementTree.Element('div', attrib={
-            'class': self.md.getConfig('wrapper_class')
-        })
+        wrapper = ElementTree.Element("div", attrib={"class": self.md.getConfig("wrapper_class")})
         wrapper.append(table)
 
         for index, element in enumerate(parent):
@@ -161,7 +161,7 @@ class WrappedTableProcessor(Treeprocessor):
             for child in parent:
                 parent_map[child] = parent
 
-        for table in root.iter('table'):
+        for table in root.iter("table"):
             child = table
             parents = []
             while parent := parent_map.get(child):
@@ -178,10 +178,10 @@ class WrappedTableExtension(Extension):
 
     def __init__(self, **kwargs):
         self.config = {
-            "wrapper_class": ['', 'CSS class to add to the <div> element that wraps the table'],
+            "wrapper_class": ["", "CSS class to add to the <div> element that wraps the table"],
         }
         super().__init__(**kwargs)
 
     def extendMarkdown(self, md):
-        if self.getConfig('wrapper_class'):
-            md.treeprocessors.register(WrappedTableProcessor(self), 'wrappedtable', 0)
+        if self.getConfig("wrapper_class"):
+            md.treeprocessors.register(WrappedTableProcessor(self), "wrappedtable", 0)

@@ -6,25 +6,30 @@ from django.db import migrations, models
 
 
 class Migration(migrations.Migration):
-
     dependencies = [
-        ('forms', '0006_alter_healthinsurancequestion_options_and_more'),
+        ("forms", "0006_alter_healthinsurancequestion_options_and_more"),
     ]
 
     operations = [
         migrations.CreateModel(
-            name='HealthInsuranceQuestionFeedback',
+            name="HealthInsuranceQuestionFeedback",
             fields=[
-                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),
-                ('email', models.EmailField(max_length=254, validators=[forms.utils.validate_email])),
-                ('name', models.CharField(max_length=150)),
-                ('creation_date', models.DateTimeField(auto_now_add=True)),
-                ('status', models.PositiveSmallIntegerField(choices=[(0, 'Scheduled'), (1, 'Error'), (2, 'Sent'), (3, 'Sent and redacted for privacy')], default=0)),
-                ('delivery_date', models.DateTimeField(default=insurance.models.in_1_week)),
+                ("id", models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name="ID")),
+                ("email", models.EmailField(max_length=254, validators=[forms.utils.validate_email])),
+                ("name", models.CharField(max_length=150)),
+                ("creation_date", models.DateTimeField(auto_now_add=True)),
+                (
+                    "status",
+                    models.PositiveSmallIntegerField(
+                        choices=[(0, "Scheduled"), (1, "Error"), (2, "Sent"), (3, "Sent and redacted for privacy")],
+                        default=0,
+                    ),
+                ),
+                ("delivery_date", models.DateTimeField(default=insurance.models.in_1_week)),
             ],
             options={
-                'ordering': ['-creation_date'],
-                'abstract': False,
+                "ordering": ["-creation_date"],
+                "abstract": False,
             },
         ),
     ]

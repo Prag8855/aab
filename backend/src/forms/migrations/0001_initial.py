@@ -9,142 +9,207 @@ from django.db import migrations, models
 
 
 class Migration(migrations.Migration):
-
     initial = True
 
-    dependencies = [
-    ]
+    dependencies = []
 
     operations = [
         migrations.CreateModel(
-            name='HealthInsuranceQuestion',
+            name="HealthInsuranceQuestion",
             fields=[
-                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),
-                ('email', models.EmailField(max_length=254, validators=[forms.utils.validate_email])),
-                ('creation_date', models.DateTimeField(auto_now_add=True)),
-                ('delivery_date', models.DateTimeField(default=django.utils.timezone.now)),
-                ('status', models.PositiveSmallIntegerField(choices=[(0, 'Scheduled'), (1, 'Error'), (2, 'Sent'), (3, 'Sent and redacted for privacy')], default=0)),
-                ('name', models.CharField(max_length=150)),
-                ('phone', models.CharField(blank=True, max_length=30)),
-                ('income_over_limit', models.BooleanField()),
-                ('occupation', models.CharField(max_length=50)),
-                ('age', models.PositiveSmallIntegerField()),
-                ('question', models.TextField()),
+                ("id", models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name="ID")),
+                ("email", models.EmailField(max_length=254, validators=[forms.utils.validate_email])),
+                ("creation_date", models.DateTimeField(auto_now_add=True)),
+                ("delivery_date", models.DateTimeField(default=django.utils.timezone.now)),
+                (
+                    "status",
+                    models.PositiveSmallIntegerField(
+                        choices=[(0, "Scheduled"), (1, "Error"), (2, "Sent"), (3, "Sent and redacted for privacy")],
+                        default=0,
+                    ),
+                ),
+                ("name", models.CharField(max_length=150)),
+                ("phone", models.CharField(blank=True, max_length=30)),
+                ("income_over_limit", models.BooleanField()),
+                ("occupation", models.CharField(max_length=50)),
+                ("age", models.PositiveSmallIntegerField()),
+                ("question", models.TextField()),
             ],
             options={
-                'abstract': False,
+                "abstract": False,
             },
         ),
         migrations.CreateModel(
-            name='HealthInsuranceQuestionConfirmation',
+            name="HealthInsuranceQuestionConfirmation",
             fields=[
-                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),
-                ('email', models.EmailField(max_length=254, validators=[forms.utils.validate_email])),
-                ('creation_date', models.DateTimeField(auto_now_add=True)),
-                ('delivery_date', models.DateTimeField(default=django.utils.timezone.now)),
-                ('status', models.PositiveSmallIntegerField(choices=[(0, 'Scheduled'), (1, 'Error'), (2, 'Sent'), (3, 'Sent and redacted for privacy')], default=0)),
-                ('name', models.CharField(max_length=150)),
+                ("id", models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name="ID")),
+                ("email", models.EmailField(max_length=254, validators=[forms.utils.validate_email])),
+                ("creation_date", models.DateTimeField(auto_now_add=True)),
+                ("delivery_date", models.DateTimeField(default=django.utils.timezone.now)),
+                (
+                    "status",
+                    models.PositiveSmallIntegerField(
+                        choices=[(0, "Scheduled"), (1, "Error"), (2, "Sent"), (3, "Sent and redacted for privacy")],
+                        default=0,
+                    ),
+                ),
+                ("name", models.CharField(max_length=150)),
             ],
             options={
-                'abstract': False,
+                "abstract": False,
             },
         ),
         migrations.CreateModel(
-            name='PensionRefundQuestion',
+            name="PensionRefundQuestion",
             fields=[
-                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),
-                ('email', models.EmailField(max_length=254, validators=[forms.utils.validate_email])),
-                ('creation_date', models.DateTimeField(auto_now_add=True)),
-                ('delivery_date', models.DateTimeField(default=django.utils.timezone.now)),
-                ('status', models.PositiveSmallIntegerField(choices=[(0, 'Scheduled'), (1, 'Error'), (2, 'Sent'), (3, 'Sent and redacted for privacy')], default=0)),
-                ('name', models.CharField(max_length=150)),
-                ('nationality', django_countries.fields.CountryField(max_length=2)),
-                ('country_of_residence', django_countries.fields.CountryField(max_length=2)),
-                ('question', models.TextField()),
+                ("id", models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name="ID")),
+                ("email", models.EmailField(max_length=254, validators=[forms.utils.validate_email])),
+                ("creation_date", models.DateTimeField(auto_now_add=True)),
+                ("delivery_date", models.DateTimeField(default=django.utils.timezone.now)),
+                (
+                    "status",
+                    models.PositiveSmallIntegerField(
+                        choices=[(0, "Scheduled"), (1, "Error"), (2, "Sent"), (3, "Sent and redacted for privacy")],
+                        default=0,
+                    ),
+                ),
+                ("name", models.CharField(max_length=150)),
+                ("nationality", django_countries.fields.CountryField(max_length=2)),
+                ("country_of_residence", django_countries.fields.CountryField(max_length=2)),
+                ("question", models.TextField()),
             ],
             options={
-                'abstract': False,
+                "abstract": False,
             },
         ),
         migrations.CreateModel(
-            name='PensionRefundReminder',
+            name="PensionRefundReminder",
             fields=[
-                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),
-                ('email', models.EmailField(max_length=254, validators=[forms.utils.validate_email])),
-                ('creation_date', models.DateTimeField(auto_now_add=True)),
-                ('delivery_date', models.DateTimeField(default=django.utils.timezone.now)),
-                ('status', models.PositiveSmallIntegerField(choices=[(0, 'Scheduled'), (1, 'Error'), (2, 'Sent'), (3, 'Sent and redacted for privacy')], default=0)),
-                ('refund_amount', models.PositiveIntegerField()),
+                ("id", models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name="ID")),
+                ("email", models.EmailField(max_length=254, validators=[forms.utils.validate_email])),
+                ("creation_date", models.DateTimeField(auto_now_add=True)),
+                ("delivery_date", models.DateTimeField(default=django.utils.timezone.now)),
+                (
+                    "status",
+                    models.PositiveSmallIntegerField(
+                        choices=[(0, "Scheduled"), (1, "Error"), (2, "Sent"), (3, "Sent and redacted for privacy")],
+                        default=0,
+                    ),
+                ),
+                ("refund_amount", models.PositiveIntegerField()),
             ],
             options={
-                'abstract': False,
+                "abstract": False,
             },
         ),
         migrations.CreateModel(
-            name='PensionRefundRequest',
+            name="PensionRefundRequest",
             fields=[
-                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),
-                ('email', models.EmailField(max_length=254, validators=[forms.utils.validate_email])),
-                ('creation_date', models.DateTimeField(auto_now_add=True)),
-                ('delivery_date', models.DateTimeField(default=django.utils.timezone.now)),
-                ('status', models.PositiveSmallIntegerField(choices=[(0, 'Scheduled'), (1, 'Error'), (2, 'Sent'), (3, 'Sent and redacted for privacy')], default=0)),
-                ('name', models.CharField(max_length=150)),
-                ('nationality', django_countries.fields.CountryField(max_length=2)),
-                ('country_of_residence', django_countries.fields.CountryField(max_length=2)),
-                ('arrival_date', models.DateField()),
-                ('departure_date', models.DateField()),
-                ('birth_date', models.DateField()),
-                ('partner', models.CharField(choices=[('fundsback', 'partner@fundsback.org'), ('germanypensionrefund', 'refund@germanypensionrefund.com'), ('pensionrefundgermany', 'support@pension-refund.com')], max_length=30)),
+                ("id", models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name="ID")),
+                ("email", models.EmailField(max_length=254, validators=[forms.utils.validate_email])),
+                ("creation_date", models.DateTimeField(auto_now_add=True)),
+                ("delivery_date", models.DateTimeField(default=django.utils.timezone.now)),
+                (
+                    "status",
+                    models.PositiveSmallIntegerField(
+                        choices=[(0, "Scheduled"), (1, "Error"), (2, "Sent"), (3, "Sent and redacted for privacy")],
+                        default=0,
+                    ),
+                ),
+                ("name", models.CharField(max_length=150)),
+                ("nationality", django_countries.fields.CountryField(max_length=2)),
+                ("country_of_residence", django_countries.fields.CountryField(max_length=2)),
+                ("arrival_date", models.DateField()),
+                ("departure_date", models.DateField()),
+                ("birth_date", models.DateField()),
+                (
+                    "partner",
+                    models.CharField(
+                        choices=[
+                            ("fundsback", "partner@fundsback.org"),
+                            ("germanypensionrefund", "refund@germanypensionrefund.com"),
+                            ("pensionrefundgermany", "support@pension-refund.com"),
+                        ],
+                        max_length=30,
+                    ),
+                ),
             ],
             options={
-                'abstract': False,
+                "abstract": False,
             },
         ),
         migrations.CreateModel(
-            name='ResidencePermitFeedback',
+            name="ResidencePermitFeedback",
             fields=[
-                ('modification_key', models.CharField(default=forms.utils.random_key, max_length=32, primary_key=True, serialize=False, unique=True)),
-                ('creation_date', models.DateTimeField(auto_now_add=True)),
-                ('modification_date', models.DateTimeField(auto_now=True)),
-                ('email', models.EmailField(blank=True, max_length=254, null=True, validators=[forms.utils.validate_email])),
-                ('residence_permit_type', models.CharField(choices=[('BLUE_CARD', 'Blue Card')], max_length=30)),
-                ('application_date', models.DateField()),
-                ('first_response_date', models.DateField(blank=True, null=True)),
-                ('appointment_date', models.DateField(blank=True, null=True)),
-                ('pick_up_date', models.DateField(blank=True, null=True)),
-                ('nationality', django_countries.fields.CountryField(max_length=2)),
-                ('notes', models.TextField(blank=True)),
+                (
+                    "modification_key",
+                    models.CharField(
+                        default=forms.utils.random_key, max_length=32, primary_key=True, serialize=False, unique=True
+                    ),
+                ),
+                ("creation_date", models.DateTimeField(auto_now_add=True)),
+                ("modification_date", models.DateTimeField(auto_now=True)),
+                (
+                    "email",
+                    models.EmailField(blank=True, max_length=254, null=True, validators=[forms.utils.validate_email]),
+                ),
+                ("residence_permit_type", models.CharField(choices=[("BLUE_CARD", "Blue Card")], max_length=30)),
+                ("application_date", models.DateField()),
+                ("first_response_date", models.DateField(blank=True, null=True)),
+                ("appointment_date", models.DateField(blank=True, null=True)),
+                ("pick_up_date", models.DateField(blank=True, null=True)),
+                ("nationality", django_countries.fields.CountryField(max_length=2)),
+                ("notes", models.TextField(blank=True)),
             ],
             options={
-                'abstract': False,
+                "abstract": False,
             },
         ),
         migrations.CreateModel(
-            name='TaxIdRequestFeedbackReminder',
+            name="TaxIdRequestFeedbackReminder",
             fields=[
-                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),
-                ('email', models.EmailField(max_length=254, validators=[forms.utils.validate_email])),
-                ('creation_date', models.DateTimeField(auto_now_add=True)),
-                ('status', models.PositiveSmallIntegerField(choices=[(0, 'Scheduled'), (1, 'Error'), (2, 'Sent'), (3, 'Sent and redacted for privacy')], default=0)),
-                ('name', models.CharField(max_length=150)),
-                ('delivery_date', models.DateTimeField(default=forms.models.in_8_weeks)),
+                ("id", models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name="ID")),
+                ("email", models.EmailField(max_length=254, validators=[forms.utils.validate_email])),
+                ("creation_date", models.DateTimeField(auto_now_add=True)),
+                (
+                    "status",
+                    models.PositiveSmallIntegerField(
+                        choices=[(0, "Scheduled"), (1, "Error"), (2, "Sent"), (3, "Sent and redacted for privacy")],
+                        default=0,
+                    ),
+                ),
+                ("name", models.CharField(max_length=150)),
+                ("delivery_date", models.DateTimeField(default=forms.models.in_8_weeks)),
             ],
             options={
-                'abstract': False,
+                "abstract": False,
             },
         ),
         migrations.CreateModel(
-            name='ResidencePermitFeedbackReminder',
+            name="ResidencePermitFeedbackReminder",
             fields=[
-                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),
-                ('email', models.EmailField(max_length=254, validators=[forms.utils.validate_email])),
-                ('creation_date', models.DateTimeField(auto_now_add=True)),
-                ('delivery_date', models.DateTimeField(default=django.utils.timezone.now)),
-                ('status', models.PositiveSmallIntegerField(choices=[(0, 'Scheduled'), (1, 'Error'), (2, 'Sent'), (3, 'Sent and redacted for privacy')], default=0)),
-                ('feedback', models.ForeignKey(on_delete=django.db.models.deletion.CASCADE, related_name='feedback_reminders', to='forms.residencepermitfeedback')),
+                ("id", models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name="ID")),
+                ("email", models.EmailField(max_length=254, validators=[forms.utils.validate_email])),
+                ("creation_date", models.DateTimeField(auto_now_add=True)),
+                ("delivery_date", models.DateTimeField(default=django.utils.timezone.now)),
+                (
+                    "status",
+                    models.PositiveSmallIntegerField(
+                        choices=[(0, "Scheduled"), (1, "Error"), (2, "Sent"), (3, "Sent and redacted for privacy")],
+                        default=0,
+                    ),
+                ),
+                (
+                    "feedback",
+                    models.ForeignKey(
+                        on_delete=django.db.models.deletion.CASCADE,
+                        related_name="feedback_reminders",
+                        to="forms.residencepermitfeedback",
+                    ),
+                ),
             ],
             options={
-                'abstract': False,
+                "abstract": False,
             },
         ),
     ]

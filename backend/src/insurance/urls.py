@@ -3,8 +3,8 @@ from .views import CaseViewSet
 from rest_framework import routers
 
 router = routers.DefaultRouter(trailing_slash=False)
-router.register(r'case', CaseViewSet)
+router.register(r"case", CaseViewSet)
 
 urlpatterns = [
-    path('', include(router.urls)),
+    path("", include(router.urls)),
 ]

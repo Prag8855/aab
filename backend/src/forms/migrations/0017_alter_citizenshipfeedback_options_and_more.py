@@ -4,24 +4,27 @@ from django.db import migrations, models
 
 
 class Migration(migrations.Migration):
-
     dependencies = [
-        ('forms', '0016_citizenshipfeedback_citizenshipfeedbackreminder'),
+        ("forms", "0016_citizenshipfeedback_citizenshipfeedbackreminder"),
     ]
 
     operations = [
         migrations.AlterModelOptions(
-            name='citizenshipfeedback',
-            options={'ordering': ['-modification_date'], 'verbose_name_plural': 'Citizenship feedback'},
+            name="citizenshipfeedback",
+            options={"ordering": ["-modification_date"], "verbose_name_plural": "Citizenship feedback"},
         ),
         migrations.AlterModelOptions(
-            name='residencepermitfeedback',
-            options={'ordering': ['-modification_date'], 'verbose_name_plural': 'Residence permit feedback'},
+            name="residencepermitfeedback",
+            options={"ordering": ["-modification_date"], "verbose_name_plural": "Residence permit feedback"},
         ),
         migrations.AddField(
-            model_name='citizenshipfeedback',
-            name='department',
-            field=models.CharField(choices=[('S1', 'S1'), ('S2', 'S2'), ('S3', 'S3'), ('S4', 'S4'), ('S5', 'S5'), ('S6', 'S6')], default='S1', max_length=30),
+            model_name="citizenshipfeedback",
+            name="department",
+            field=models.CharField(
+                choices=[("S1", "S1"), ("S2", "S2"), ("S3", "S3"), ("S4", "S4"), ("S5", "S5"), ("S6", "S6")],
+                default="S1",
+                max_length=30,
+            ),
             preserve_default=False,
         ),
     ]

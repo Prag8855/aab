@@ -4,14 +4,13 @@ from django.db import migrations
 
 
 class Migration(migrations.Migration):
-
     dependencies = [
-        ('management', '0001_initial'),
+        ("management", "0001_initial"),
     ]
 
     operations = [
         migrations.AlterModelOptions(
-            name='monitor',
-            options={'ordering': ['name', 'key']},
+            name="monitor",
+            options={"ordering": ["name", "key"]},
         ),
     ]

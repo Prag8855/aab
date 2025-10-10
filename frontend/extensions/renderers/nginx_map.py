@@ -10,7 +10,4 @@ class NginxMapRenderer(StaticFileRenderer):
     """
 
     def get_files_to_copy(self, changed_files: set[Path] | None = None) -> list[tuple[Path, Path]]:
-        return [
-            ((config.content_path / f), f)
-            for f in get_files_in_path(config.content_path, suffix='.map')
-        ]
+        return [((config.content_path / f), f) for f in get_files_in_path(config.content_path, suffix=".map")]

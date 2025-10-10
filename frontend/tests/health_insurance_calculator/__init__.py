@@ -2,7 +2,7 @@ from ..test_data import people
 
 
 def get_calculator(page):
-    return page.get_by_role('group', name="Health insurance calculator")
+    return page.get_by_role("group", name="Health insurance calculator")
 
 
 def see_options(page):
@@ -25,5 +25,5 @@ def fill_calculator_until(page, step=None, occupation="Employee"):
     load_calculator(page)
     select_occupation(page, occupation)
 
-    if step == 'questions':
+    if step == "questions":
         return

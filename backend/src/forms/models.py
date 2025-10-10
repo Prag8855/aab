@@ -53,13 +53,13 @@ class ScheduledMessage(models.Model):
     status = models.PositiveSmallIntegerField(choices=MessageStatus, default=MessageStatus.SCHEDULED)
 
     recipients: List[str] = []
-    subject: str = ''
+    subject: str = ""
     template: str | None = None
     reply_to: str | None = None
 
     def save(self, *args, **kwargs):
         if not self.pk:
-            logger.info(f'Scheduling 1 message ({self.__class__.__name__})')
+            logger.info(f"Scheduling 1 message ({self.__class__.__name__})")
             if settings.DEBUG_EMAILS:
                 logger.info(
                     "SCHEDULING EMAIL MESSAGE\n"
@@ -75,11 +75,11 @@ class ScheduledMessage(models.Model):
         self.status = MessageStatus.REDACTED
 
     def get_body(self) -> str:
-        return render_to_string(self.template, {'message': self})
+        return render_to_string(self.template, {"message": self})
 
     class Meta:
         abstract = True
-        ordering = ['-creation_date']
+        ordering = ["-creation_date"]
 
 
 class MultiStageFeedback(EmailMixin, models.Model):
@@ -90,7 +90,7 @@ class MultiStageFeedback(EmailMixin, models.Model):
 
     class Meta:
         abstract = True
-        ordering = ['-modification_date']
+        ordering = ["-modification_date"]
 
 
 class PensionRefundQuestion(NameMixin, EmailMixin, ScheduledMessage):
@@ -98,9 +98,11 @@ class PensionRefundQuestion(NameMixin, EmailMixin, ScheduledMessage):
     country_of_residence = CountryField()
     question = models.TextField()
 
-    recipients = ['support@pension-refund.com', ]
-    template = 'pension-refund-question.html'
-    daily_digest_fields = ['name', 'nationality', 'country_of_residence', 'question']
+    recipients = [
+        "support@pension-refund.com",
+    ]
+    template = "pension-refund-question.html"
+    daily_digest_fields = ["name", "nationality", "country_of_residence", "question"]
 
     @property
     def subject(self) -> str:
@@ -112,7 +114,9 @@ class PensionRefundQuestion(NameMixin, EmailMixin, ScheduledMessage):
 
     def save(self, *args, **kwargs):
         super().save(*args, **kwargs)
-        PensionRefundQuestionFeedbackReminder.objects.create(refund_question=self, delivery_date=timezone.now() + relativedelta(days=7))
+        PensionRefundQuestionFeedbackReminder.objects.create(
+            refund_question=self, delivery_date=timezone.now() + relativedelta(days=7)
+        )
 
     def __str__(self):
         return self.name
@@ -122,23 +126,27 @@ class PensionRefundQuestion(NameMixin, EmailMixin, ScheduledMessage):
 
 
 class PensionRefundQuestionFeedbackReminder(ScheduledMessage):
-    refund_question = models.OneToOneField(PensionRefundQuestion, related_name='feedback_reminder', on_delete=models.CASCADE)
+    refund_question = models.OneToOneField(
+        PensionRefundQuestion, related_name="feedback_reminder", on_delete=models.CASCADE
+    )
 
     subject = "Did Pension Refund Germany answer your question?"
-    template = 'pension-refund-question-feedback.html'
+    template = "pension-refund-question-feedback.html"
 
     @property
     def recipients(self) -> list[str]:
-        return [self.refund_question.email, ]
+        return [
+            self.refund_question.email,
+        ]
 
     class Meta(ScheduledMessage.Meta):
         pass
 
 
 pension_refund_partners = {
-    'fundsback': 'partner@fundsback.org',
-    'germanypensionrefund': 'refund@germanypensionrefund.com',
-    'pensionrefundgermany': 'support@pension-refund.com',
+    "fundsback": "partner@fundsback.org",
+    "germanypensionrefund": "refund@germanypensionrefund.com",
+    "pensionrefundgermany": "support@pension-refund.com",
 }
 
 
@@ -150,8 +158,8 @@ class PensionRefundRequest(NameMixin, EmailMixin, ScheduledMessage):
     nationality = CountryField()
     partner = models.CharField(max_length=30, choices=pension_refund_partners)
 
-    template = 'pension-refund-request.html'
-    daily_digest_fields = ['name', 'partner', 'nationality', 'country_of_residence']
+    template = "pension-refund-request.html"
+    daily_digest_fields = ["name", "partner", "nationality", "country_of_residence"]
 
     def remove_personal_data(self):
         super().remove_personal_data()
@@ -159,7 +167,9 @@ class PensionRefundRequest(NameMixin, EmailMixin, ScheduledMessage):
 
     @property
     def recipients(self) -> List[str]:
-        return [pension_refund_partners[self.partner], ]
+        return [
+            pension_refund_partners[self.partner],
+        ]
 
     @property
     def subject(self) -> str:
@@ -171,7 +181,9 @@ class PensionRefundRequest(NameMixin, EmailMixin, ScheduledMessage):
 
     def save(self, *args, **kwargs):
         super().save(*args, **kwargs)
-        PensionRefundRequestFeedbackReminder.objects.create(refund_request=self, delivery_date=timezone.now() + relativedelta(days=7))
+        PensionRefundRequestFeedbackReminder.objects.create(
+            refund_request=self, delivery_date=timezone.now() + relativedelta(days=7)
+        )
 
     def __str__(self):
         return self.name
@@ -181,14 +193,18 @@ class PensionRefundRequest(NameMixin, EmailMixin, ScheduledMessage):
 
 
 class PensionRefundRequestFeedbackReminder(ScheduledMessage):
-    refund_request = models.OneToOneField(PensionRefundRequest, related_name='feedback_reminder', on_delete=models.CASCADE)
+    refund_request = models.OneToOneField(
+        PensionRefundRequest, related_name="feedback_reminder", on_delete=models.CASCADE
+    )
 
     subject = "Did you get your pension refund?"
-    template = 'pension-refund-request-feedback.html'
+    template = "pension-refund-request-feedback.html"
 
     @property
     def recipients(self) -> list[str]:
-        return [self.refund_request.email, ]
+        return [
+            self.refund_request.email,
+        ]
 
     class Meta(ScheduledMessage.Meta):
         pass
@@ -198,11 +214,13 @@ class PensionRefundReminder(EmailMixin, ScheduledMessage):
     refund_amount = models.PositiveIntegerField()
 
     subject = "Reminder: you can now get your German pension payments back"
-    template = 'pension-refund-reminder.html'
+    template = "pension-refund-reminder.html"
 
     @property
     def recipients(self) -> list[str]:
-        return [self.email, ]
+        return [
+            self.email,
+        ]
 
     class Meta(ScheduledMessage.Meta):
         pass
@@ -216,7 +234,7 @@ class FeedbackManager(models.Manager):
     def wait_time(self, date_column_start: str, date_column_end: str, extra_filters: dict[str, str]) -> dict[str, Any]:
         where_extras = ""
         for column_name, value in extra_filters.items():
-            where_extras += f" AND {column_name}=%({column_name})s" if value else ''
+            where_extras += f" AND {column_name}=%({column_name})s" if value else ""
 
         db_table = connection.ops.quote_name(self.model._meta.db_table)
         column_start = connection.ops.quote_name(date_column_start)
@@ -261,11 +279,14 @@ class FeedbackManager(models.Manager):
         """
 
         with connection.cursor() as cursor:
-            cursor.execute(percentiles_query, {
-                'date_column_start': date_column_start,
-                'date_column_end': date_column_end,
-                **extra_filters,
-            })
+            cursor.execute(
+                percentiles_query,
+                {
+                    "date_column_start": date_column_start,
+                    "date_column_end": date_column_end,
+                    **extra_filters,
+                },
+            )
             results = list(zip(*cursor.fetchall()))
         if results and len(results[0]) >= 2:
             percentile_20 = results[0][0]
@@ -279,48 +300,48 @@ class FeedbackManager(models.Manager):
             average = None
 
         return {
-            'percentile_20': percentile_20,
-            'percentile_80': percentile_80,
-            'count': row_count,
-            'average': average,
+            "percentile_20": percentile_20,
+            "percentile_80": percentile_80,
+            "count": row_count,
+            "average": average,
         }
 
 
 class HealthInsuranceTypes(models.TextChoices):
-    PUBLIC = 'PUBLIC', "Public health insurance"
-    PRIVATE = 'PRIVATE', "Private health insurance"
-    EXPAT = 'EXPAT', "Expat health insurance"
-    OTHER = 'OTHER', "Other"
-    UNKNOWN = '', "Unknown"
+    PUBLIC = "PUBLIC", "Public health insurance"
+    PRIVATE = "PRIVATE", "Private health insurance"
+    EXPAT = "EXPAT", "Expat health insurance"
+    OTHER = "OTHER", "Other"
+    UNKNOWN = "", "Unknown"
 
 
 class ResidencePermitTypes(models.TextChoices):
-    BLUE_CARD = 'BLUE_CARD', "Blue Card"
-    CITIZENSHIP = 'CITIZENSHIP', "Citizenship"
-    FAMILY_REUNION_VISA = 'FAMILY_REUNION_VISA', "Family reunion visa"
-    FREELANCE_VISA = 'FREELANCE_VISA', "Freelance visa"
-    JOB_SEEKER_VISA = 'JOB_SEEKER_VISA', "Job seeker visa"
-    PERMANENT_RESIDENCE = 'PERMANENT_RESIDENCE', "Permanent residence"
-    STUDENT_VISA = 'STUDENT_VISA', "Student visa"
-    WORK_VISA = 'WORK_VISA', "Work visa"
+    BLUE_CARD = "BLUE_CARD", "Blue Card"
+    CITIZENSHIP = "CITIZENSHIP", "Citizenship"
+    FAMILY_REUNION_VISA = "FAMILY_REUNION_VISA", "Family reunion visa"
+    FREELANCE_VISA = "FREELANCE_VISA", "Freelance visa"
+    JOB_SEEKER_VISA = "JOB_SEEKER_VISA", "Job seeker visa"
+    PERMANENT_RESIDENCE = "PERMANENT_RESIDENCE", "Permanent residence"
+    STUDENT_VISA = "STUDENT_VISA", "Student visa"
+    WORK_VISA = "WORK_VISA", "Work visa"
 
 
 class ResidencePermitDepartments(models.TextChoices):
-    A1_A5 = 'A1_A5', "A1, A5"
-    A2_A3_A4 = 'A2_A3_A4', "A2, A3, A4"
-    B1_B2_B3_B4 = 'B1_B2_B3_B4', "B1, B2, B3, B4"
-    B6 = 'B6', "B6"
-    E1 = 'E1', "E1"
-    E2 = 'E2', "E2"
-    E3 = 'E3', "E3"
-    E4 = 'E4', "E4"
-    E5 = 'E5', "E5"
-    E6 = 'E6', "E6"
-    F1_F2 = 'F1_F2', "F1, F2"
-    M1 = 'M1', "M1"
-    M2 = 'M2', "M2"
-    M3 = 'M3', "M3"
-    M4 = 'M4', "M4"
+    A1_A5 = "A1_A5", "A1, A5"
+    A2_A3_A4 = "A2_A3_A4", "A2, A3, A4"
+    B1_B2_B3_B4 = "B1_B2_B3_B4", "B1, B2, B3, B4"
+    B6 = "B6", "B6"
+    E1 = "E1", "E1"
+    E2 = "E2", "E2"
+    E3 = "E3", "E3"
+    E4 = "E4", "E4"
+    E5 = "E5", "E5"
+    E6 = "E6", "E6"
+    F1_F2 = "F1_F2", "F1, F2"
+    M1 = "M1", "M1"
+    M2 = "M2", "M2"
+    M3 = "M3", "M3"
+    M4 = "M4", "M4"
 
 
 class ResidencePermitFeedback(MultiStageFeedback):
@@ -334,11 +355,19 @@ class ResidencePermitFeedback(MultiStageFeedback):
     department = models.CharField(max_length=30, choices=ResidencePermitDepartments)
     notes = models.TextField(blank=True)
 
-    health_insurance_type = models.CharField(max_length=20, blank=True, choices=HealthInsuranceTypes, default=HealthInsuranceTypes.UNKNOWN)
+    health_insurance_type = models.CharField(
+        max_length=20, blank=True, choices=HealthInsuranceTypes, default=HealthInsuranceTypes.UNKNOWN
+    )
     health_insurance_notes = models.TextField(blank=True)
 
     objects = FeedbackManager()
-    daily_digest_fields = ['application_date', 'first_response_date', 'appointment_date', 'pick_up_date', 'notes', ]
+    daily_digest_fields = [
+        "application_date",
+        "first_response_date",
+        "appointment_date",
+        "pick_up_date",
+        "notes",
+    ]
 
     def clean(self):
         if self.first_response_date and self.application_date > self.first_response_date:
@@ -373,26 +402,28 @@ class ResidencePermitFeedback(MultiStageFeedback):
 
 
 class ResidencePermitFeedbackReminder(ScheduledMessage):
-    feedback = models.ForeignKey(ResidencePermitFeedback, related_name='feedback_reminders', on_delete=models.CASCADE)
+    feedback = models.ForeignKey(ResidencePermitFeedback, related_name="feedback_reminders", on_delete=models.CASCADE)
 
     subject = "Did you get your residence permit?"
-    template = 'residence-permit-feedback-reminder.html'
+    template = "residence-permit-feedback-reminder.html"
 
     @property
     def recipients(self) -> list[str]:
-        return [self.feedback.email, ]
+        return [
+            self.feedback.email,
+        ]
 
     class Meta(ScheduledMessage.Meta):
         pass
 
 
 class CitizenshipDepartments(models.TextChoices):
-    S1 = 'S1', "S1"
-    S2 = 'S2', "S2"
-    S3 = 'S3', "S3"
-    S4 = 'S4', "S4"
-    S5 = 'S5', "S5"
-    S6 = 'S6', "S6"
+    S1 = "S1", "S1"
+    S2 = "S2", "S2"
+    S3 = "S3", "S3"
+    S4 = "S4", "S4"
+    S5 = "S5", "S5"
+    S6 = "S6", "S6"
 
 
 class CitizenshipFeedback(MultiStageFeedback):
@@ -404,7 +435,12 @@ class CitizenshipFeedback(MultiStageFeedback):
     notes = models.TextField(blank=True)
 
     objects = FeedbackManager()
-    daily_digest_fields = ['application_date', 'first_response_date', 'appointment_date', 'notes', ]
+    daily_digest_fields = [
+        "application_date",
+        "first_response_date",
+        "appointment_date",
+        "notes",
+    ]
 
     def clean(self):
         if self.first_response_date and self.application_date > self.first_response_date:
@@ -435,14 +471,16 @@ class CitizenshipFeedback(MultiStageFeedback):
 
 
 class CitizenshipFeedbackReminder(ScheduledMessage):
-    feedback = models.ForeignKey(CitizenshipFeedback, related_name='feedback_reminders', on_delete=models.CASCADE)
+    feedback = models.ForeignKey(CitizenshipFeedback, related_name="feedback_reminders", on_delete=models.CASCADE)
 
     subject = "Did you get your German citizenship?"
-    template = 'citizenship-feedback-reminder.html'
+    template = "citizenship-feedback-reminder.html"
 
     @property
     def recipients(self) -> list[str]:
-        return [self.feedback.email, ]
+        return [
+            self.feedback.email,
+        ]
 
     class Meta(ScheduledMessage.Meta):
         pass
@@ -452,11 +490,13 @@ class TaxIdRequestFeedbackReminder(NameMixin, EmailMixin, ScheduledMessage):
     delivery_date = models.DateTimeField(default=in_8_weeks)
 
     subject = "Did you receive your tax ID?"
-    template = 'tax-id-request-feedback-reminder.html'
+    template = "tax-id-request-feedback-reminder.html"
 
     @property
     def recipients(self) -> list[str]:
-        return [self.email, ]
+        return [
+            self.email,
+        ]
 
     class Meta(ScheduledMessage.Meta):
         pass

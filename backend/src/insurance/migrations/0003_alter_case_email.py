@@ -4,15 +4,14 @@ from django.db import migrations, models
 
 
 class Migration(migrations.Migration):
-
     dependencies = [
-        ('insurance', '0002_alter_insuredperson_age'),
+        ("insurance", "0002_alter_insuredperson_age"),
     ]
 
     operations = [
         migrations.AlterField(
-            model_name='case',
-            name='email',
+            model_name="case",
+            name="email",
             field=models.EmailField(blank=True, max_length=254),
         ),
     ]

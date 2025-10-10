@@ -6,13 +6,13 @@ import requests
 
 
 class RedirectsLinter(LineLinter):
-    file_suffixes = ('.map', )
+    file_suffixes = (".map",)
 
     def lint_line(self, file_path: Path, line: str) -> LineLinterResult:
-        if line.startswith('#') or not line.strip():
+        if line.startswith("#") or not line.strip():
             return
 
-        line = line.strip().rstrip(';')
+        line = line.strip().rstrip(";")
 
         if '"' in line:
             src, dest = [url.strip('"') for part in line.split('"') if (url := part.strip())]
@@ -20,11 +20,9 @@ class RedirectsLinter(LineLinter):
             src, dest = [part for part in line.split()]
 
         position = line.index(dest), len(dest)
-        if dest.startswith(('http://', 'https://')):
+        if dest.startswith(("http://", "https://")):
             try:
-                response = requests.get(dest, timeout=5, headers={
-                    'User-Agent': MarkdownExternalLinksLinter.user_agent
-                })
+                response = requests.get(dest, timeout=5, headers={"User-Agent": MarkdownExternalLinksLinter.user_agent})
                 status_code = response.status_code
             except ConnectionError:
                 yield position, f"Connection error: {dest}", logging.ERROR

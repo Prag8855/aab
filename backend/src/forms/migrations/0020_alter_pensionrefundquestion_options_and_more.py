@@ -6,42 +6,67 @@ from django.db import migrations, models
 
 
 class Migration(migrations.Migration):
-
     dependencies = [
-        ('forms', '0019_alter_residencepermitfeedback_department'),
+        ("forms", "0019_alter_residencepermitfeedback_department"),
     ]
 
     operations = [
         migrations.AlterModelOptions(
-            name='pensionrefundquestion',
-            options={'ordering': ['-creation_date']},
+            name="pensionrefundquestion",
+            options={"ordering": ["-creation_date"]},
         ),
         migrations.CreateModel(
-            name='PensionRefundQuestionFeedbackReminder',
+            name="PensionRefundQuestionFeedbackReminder",
             fields=[
-                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),
-                ('creation_date', models.DateTimeField(auto_now_add=True)),
-                ('delivery_date', models.DateTimeField(default=django.utils.timezone.now)),
-                ('status', models.PositiveSmallIntegerField(choices=[(0, 'Scheduled'), (1, 'Error'), (2, 'Sent'), (3, 'Sent and redacted for privacy')], default=0)),
-                ('refund_question', models.OneToOneField(on_delete=django.db.models.deletion.CASCADE, related_name='feedback_reminder', to='forms.pensionrefundquestion')),
+                ("id", models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name="ID")),
+                ("creation_date", models.DateTimeField(auto_now_add=True)),
+                ("delivery_date", models.DateTimeField(default=django.utils.timezone.now)),
+                (
+                    "status",
+                    models.PositiveSmallIntegerField(
+                        choices=[(0, "Scheduled"), (1, "Error"), (2, "Sent"), (3, "Sent and redacted for privacy")],
+                        default=0,
+                    ),
+                ),
+                (
+                    "refund_question",
+                    models.OneToOneField(
+                        on_delete=django.db.models.deletion.CASCADE,
+                        related_name="feedback_reminder",
+                        to="forms.pensionrefundquestion",
+                    ),
+                ),
             ],
             options={
-                'ordering': ['-creation_date'],
-                'abstract': False,
+                "ordering": ["-creation_date"],
+                "abstract": False,
             },
         ),
         migrations.CreateModel(
-            name='PensionRefundRequestFeedbackReminder',
+            name="PensionRefundRequestFeedbackReminder",
             fields=[
-                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),
-                ('creation_date', models.DateTimeField(auto_now_add=True)),
-                ('delivery_date', models.DateTimeField(default=django.utils.timezone.now)),
-                ('status', models.PositiveSmallIntegerField(choices=[(0, 'Scheduled'), (1, 'Error'), (2, 'Sent'), (3, 'Sent and redacted for privacy')], default=0)),
-                ('refund_request', models.OneToOneField(on_delete=django.db.models.deletion.CASCADE, related_name='feedback_reminder', to='forms.pensionrefundrequest')),
+                ("id", models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name="ID")),
+                ("creation_date", models.DateTimeField(auto_now_add=True)),
+                ("delivery_date", models.DateTimeField(default=django.utils.timezone.now)),
+                (
+                    "status",
+                    models.PositiveSmallIntegerField(
+                        choices=[(0, "Scheduled"), (1, "Error"), (2, "Sent"), (3, "Sent and redacted for privacy")],
+                        default=0,
+                    ),
+                ),
+                (
+                    "refund_request",
+                    models.OneToOneField(
+                        on_delete=django.db.models.deletion.CASCADE,
+                        related_name="feedback_reminder",
+                        to="forms.pensionrefundrequest",
+                    ),
+                ),
             ],
             options={
-                'ordering': ['-creation_date'],
-                'abstract': False,
+                "ordering": ["-creation_date"],
+                "abstract": False,
             },
         ),
     ]

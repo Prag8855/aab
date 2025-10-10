@@ -11,7 +11,7 @@ logger = logging.getLogger(__name__)
 
 
 class Command(BaseCommand):
-    help = 'Check the status of the Bürgeramt appointment finder'
+    help = "Check the status of the Bürgeramt appointment finder"
 
     async def get_appointment_finder_message(self) -> tuple[int, str, datetime | None]:
         # In prod, calling allaboutberlin.com calls 127.0.1.1 instead (loopback interface)
@@ -21,11 +21,13 @@ class Command(BaseCommand):
             # Wait for welcome message with 5-second timeout
             data = json.loads(await asyncio.wait_for(websocket.recv(), timeout=5))
             if data["lastAppointmentsFoundOn"]:
-                last_appointments_found_on = datetime.fromisoformat(data["lastAppointmentsFoundOn"].replace("Z", "+00:00"))
+                last_appointments_found_on = datetime.fromisoformat(
+                    data["lastAppointmentsFoundOn"].replace("Z", "+00:00")
+                )
             else:
                 last_appointments_found_on = None
 
-        return data['status'], data['message'], last_appointments_found_on
+        return data["status"], data["message"], last_appointments_found_on
 
     def handle(self, *args, **options):
         status = logging.INFO
@@ -38,9 +40,17 @@ class Command(BaseCommand):
 
         if http_status != 200:
             status = logging.WARNING
-            if http_status == 500 or last_appointments_found_on is None or (timezone.now() - last_appointments_found_on) > timedelta(days=1):
+            if (
+                http_status == 500
+                or last_appointments_found_on is None
+                or (timezone.now() - last_appointments_found_on) > timedelta(days=1)
+            ):
                 status = logging.ERROR
 
-        last_find = f"Last appointments found on {last_appointments_found_on.strftime('%Y-%m-%d %H:%M')}" if last_appointments_found_on else "No appointments found yet"
+        last_find = (
+            f"Last appointments found on {last_appointments_found_on.strftime('%Y-%m-%d %H:%M')}"
+            if last_appointments_found_on
+            else "No appointments found yet"
+        )
 
-        update_monitor('appointment-finder', status, f"{http_status} - {message or 'No message'}. {last_find}")
+        update_monitor("appointment-finder", status, f"{http_status} - {message or 'No message'}. {last_find}")

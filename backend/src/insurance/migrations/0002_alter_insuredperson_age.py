@@ -4,15 +4,16 @@ from django.db import migrations, models
 
 
 class Migration(migrations.Migration):
-
     dependencies = [
-        ('insurance', '0001_initial'),
+        ("insurance", "0001_initial"),
     ]
 
     operations = [
         migrations.AlterField(
-            model_name='insuredperson',
-            name='age',
-            field=models.PositiveSmallIntegerField(blank=True, help_text='When the date of birth is set, the age is calculated automatically.', null=True),
+            model_name="insuredperson",
+            name="age",
+            field=models.PositiveSmallIntegerField(
+                blank=True, help_text="When the date of birth is set, the age is calculated automatically.", null=True
+            ),
         ),
     ]

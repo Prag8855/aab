@@ -13,7 +13,7 @@ logger = logging.getLogger(__name__)
 
 
 class Command(BaseCommand):
-    help = 'Removes personal data from the database'
+    help = "Removes personal data from the database"
 
     def handle(self, *args, **options):
         try:
@@ -24,10 +24,7 @@ class Command(BaseCommand):
             scheduled_message_models = [model for model in apps.get_models() if issubclass(model, ScheduledMessage)]
 
             for model in scheduled_message_models:
-                scheduled_messages = model.objects.filter(
-                    status=MessageStatus.SENT,
-                    creation_date__lt=ninety_days_ago
-                )
+                scheduled_messages = model.objects.filter(status=MessageStatus.SENT, creation_date__lt=ninety_days_ago)
 
                 for message in scheduled_messages:
                     message.remove_personal_data()
@@ -35,8 +32,8 @@ class Command(BaseCommand):
                     count += 1
 
             logger.info(f"Removed personal data from {count} records")
-            update_monitor('gdpr-cleanup', logging.INFO)
+            update_monitor("gdpr-cleanup", logging.INFO)
         except Exception as exc:
-            update_monitor('backup-database', logging.ERROR, str(exc))
+            update_monitor("backup-database", logging.ERROR, str(exc))
         else:
-            update_monitor('backup-database', logging.INFO)
+            update_monitor("backup-database", logging.INFO)

@@ -12,12 +12,12 @@ logger = logging.getLogger(__name__)
 
 
 class Command(BaseCommand):
-    help = 'Creates dated database backups, deletes old backups'
+    help = "Creates dated database backups, deletes old backups"
 
     def handle(self, *args, **options):
         try:
             settings.DATABASE_BACKUPS_DIR.mkdir(parents=True, exist_ok=True)
-            backup_file = settings.DATABASE_BACKUPS_DIR / (timezone.now().strftime('%Y-%m-%d') + '.db')
+            backup_file = settings.DATABASE_BACKUPS_DIR / (timezone.now().strftime("%Y-%m-%d") + ".db")
             logger.info(f"Backing up database to {str(backup_file)}")
             copy(settings.DATABASE_PATH, backup_file)
 
@@ -26,8 +26,7 @@ class Command(BaseCommand):
                 if file.is_file():
                     try:
                         file_date = timezone.make_aware(
-                            datetime.strptime(file.stem, '%Y-%m-%d'),
-                            timezone.get_current_timezone()
+                            datetime.strptime(file.stem, "%Y-%m-%d"), timezone.get_current_timezone()
                         )
                         if file_date.date() < one_month_ago.date():
                             logger.info(f"Removing old database backup at {str(file)}")
@@ -35,6 +34,6 @@ class Command(BaseCommand):
                     except ValueError:
                         pass
         except Exception as exc:
-            update_monitor('backup-database', logging.ERROR, str(exc))
+            update_monitor("backup-database", logging.ERROR, str(exc))
         else:
-            update_monitor('backup-database', logging.INFO)
+            update_monitor("backup-database", logging.INFO)

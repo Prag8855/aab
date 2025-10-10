@@ -5,18 +5,18 @@ import logging
 
 
 class TableOfContentsLinter(Linter):
-    file_suffixes = ('.md', )
+    file_suffixes = (".md",)
 
     def lint(self, file_path: Path) -> LinterResult:
         """
         Raises a warning when a guide has no table of contents
         """
-        if not (file_path.suffix.lower() == '.md' and file_path.is_relative_to('guides')):
+        if not (file_path.suffix.lower() == ".md" and file_path.is_relative_to("guides")):
             return
 
         with (config.content_path / file_path).open() as file:
             for line in file.readlines():
-                if '_blocks/tableOfContents.html' in line:
+                if "_blocks/tableOfContents.html" in line:
                     return
 
         yield (0, 0, 3), "No table of contents", logging.WARNING

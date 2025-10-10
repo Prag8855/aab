@@ -4,15 +4,18 @@ from django.db import migrations, models
 
 
 class Migration(migrations.Migration):
-
     dependencies = [
-        ('insurance', '0004_fix_empty_scheduled_messages'),
+        ("insurance", "0004_fix_empty_scheduled_messages"),
     ]
 
     operations = [
         migrations.AddField(
-            model_name='case',
-            name='broker',
-            field=models.CharField(choices=[('christina-weber', 'Christina Weber'), ('seamus-wolf', 'Seamus Wolf')], default='seamus-wolf', max_length=30),
+            model_name="case",
+            name="broker",
+            field=models.CharField(
+                choices=[("christina-weber", "Christina Weber"), ("seamus-wolf", "Seamus Wolf")],
+                default="seamus-wolf",
+                max_length=30,
+            ),
         ),
     ]

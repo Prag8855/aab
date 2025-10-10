@@ -3,30 +3,21 @@ import pytest
 
 
 DEVICE_CONFIGS = {
-    'mobile': {  # iPhone 13 Mini
+    "mobile": {  # iPhone 13 Mini
         "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0 Mobile/15E148 Safari/604.1",
-        "viewport": {
-            "width": 375,
-            "height": 629
-        },
+        "viewport": {"width": 375, "height": 629},
         "has_touch": True,
     },
-    'tablet': {  # iPad Mini
+    "tablet": {  # iPad Mini
         "user_agent": "Mozilla/5.0 (iPad; iPad14,2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Firefox/120.0 Mobile/15E148 Safari/604.1",
-        "viewport": {
-            "width": 744,
-            "height": 1133
-        },
+        "viewport": {"width": 744, "height": 1133},
         "has_touch": True,
     },
-    'desktop': {  # Desktop
+    "desktop": {  # Desktop
         "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 15.6; rv:142.0) Gecko/20100101 Firefox/142.0",
-        "viewport": {
-            "width": 1280,
-            "height": 800
-        },
+        "viewport": {"width": 1280, "height": 800},
         "has_touch": False,
-    }
+    },
 }
 
 
@@ -48,5 +39,5 @@ def browser_context_args(browser_context_args, device_config):
 
 def pytest_configure(config):
     tests_root = Path(__file__).parent.resolve()
-    config.option.playwright_visual_snapshots_path = tests_root / 'snapshots'
-    config.option.playwright_visual_snapshot_failures_path = tests_root / 'snapshot-failures'
+    config.option.playwright_visual_snapshots_path = tests_root / "snapshots"
+    config.option.playwright_visual_snapshot_failures_path = tests_root / "snapshot-failures"

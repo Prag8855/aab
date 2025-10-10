@@ -52,7 +52,7 @@ people = [
             "street": "Schönhauser Allee 67",
             "zusatz": "3. Stock rechts",
             "city": "Berlin",
-            "post_code": "13120"
+            "post_code": "13120",
         },
         "id_document": {
             "type": ["Passport", "RP"],
@@ -81,12 +81,7 @@ people = [
         "first_name": "Sofia",
         "last_name": "Müller",
         "title": "Dr.",
-        "local_address": {
-            "street": "Kurfürstendamm 456",
-            "zusatz": "",
-            "city": "Berlin",
-            "post_code": "12121"
-        },
+        "local_address": {"street": "Kurfürstendamm 456", "zusatz": "", "city": "Berlin", "post_code": "12121"},
         "foreign_address": {
             "street": "Berliner Allee 23",
             "city": "Brandenburg",
@@ -114,11 +109,7 @@ people = [
         "first_name": "Renata",
         "last_name": "Kowalczyk",
         "title": "Ms.",
-        "local_address": {
-            "street": "456 Unter den Linden",
-            "city": "Berlin",
-            "post_code": "23456"
-        },
+        "local_address": {"street": "456 Unter den Linden", "city": "Berlin", "post_code": "23456"},
         "foreign_address": {
             "street": "ul. Warsawa 10",
             "city": "Kraków",
@@ -146,17 +137,13 @@ people = [
         "first_name": "Élodie",
         "last_name": "Dubois",
         "title": "Ms.",
-        "local_address": {
-            "street": "Berliner Straße 101",
-            "city": "Berlin",
-            "post_code": "12021"
-        },
+        "local_address": {"street": "Berliner Straße 101", "city": "Berlin", "post_code": "12021"},
         "foreign_address": {
             "street": "123 Rue du Château",
             "city": "Saint-Étienne-du-Rouvray",
             "country": "France",
             "country_code": "FR",
-            "post_code": "12334"
+            "post_code": "12334",
         },
         "id_document": {
             "type": ["Passport", "RP"],
@@ -176,10 +163,12 @@ people = [
     },
 ]
 
-companies = [{
-    "name": "Musterfirma GmbH",
-    "address": "Firmastraße 567",
-    "city": "Berlin",
-    "post_code": "10115",
-    "state": ["Berlin", "be"],
-}]
+companies = [
+    {
+        "name": "Musterfirma GmbH",
+        "address": "Firmastraße 567",
+        "city": "Berlin",
+        "post_code": "10115",
+        "state": ["Berlin", "be"],
+    }
+]

@@ -4,30 +4,21 @@ from django.db.models import Q
 
 
 def remove_bad_scheduledemails(apps, schema_editor):
-    CustomerNotification = apps.get_model('insurance', 'CustomerNotification')
-    BrokerNotification = apps.get_model('insurance', 'BrokerNotification')
-    FeedbackNotification = apps.get_model('insurance', 'FeedbackNotification')
+    CustomerNotification = apps.get_model("insurance", "CustomerNotification")
+    BrokerNotification = apps.get_model("insurance", "BrokerNotification")
+    FeedbackNotification = apps.get_model("insurance", "FeedbackNotification")
 
     print(
-        'Cleaning BrokerNotifications',
-        BrokerNotification.objects.filter(
-            Q(case__email='') | Q(case__contact_method='WHATSAPP')
-        ).delete()[0]
+        "Cleaning BrokerNotifications",
+        BrokerNotification.objects.filter(Q(case__email="") | Q(case__contact_method="WHATSAPP")).delete()[0],
     )
-    print(
-        'Cleaning CustomerNotifications',
-        CustomerNotification.objects.filter(case__email='').delete()[0]
-    )
-    print(
-        'Cleaning FeedbackNotifications',
-        FeedbackNotification.objects.filter(case__email='').delete()[0]
-    )
+    print("Cleaning CustomerNotifications", CustomerNotification.objects.filter(case__email="").delete()[0])
+    print("Cleaning FeedbackNotifications", FeedbackNotification.objects.filter(case__email="").delete()[0])
 
 
 class Migration(migrations.Migration):
-
     dependencies = [
-        ('insurance', '0003_alter_case_email'),
+        ("insurance", "0003_alter_case_email"),
     ]
 
     operations = [

@@ -5,32 +5,35 @@ from django.db import migrations, models
 
 
 class Migration(migrations.Migration):
-
     initial = True
 
-    dependencies = [
-    ]
+    dependencies = []
 
     operations = [
         migrations.CreateModel(
-            name='Monitor',
+            name="Monitor",
             fields=[
-                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),
-                ('name', models.CharField(blank=True, max_length=255, null=True)),
-                ('key', models.CharField(max_length=50, unique=True)),
+                ("id", models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name="ID")),
+                ("name", models.CharField(blank=True, max_length=255, null=True)),
+                ("key", models.CharField(max_length=50, unique=True)),
             ],
         ),
         migrations.CreateModel(
-            name='Update',
+            name="Update",
             fields=[
-                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),
-                ('creation_date', models.DateTimeField(auto_now_add=True)),
-                ('status', models.IntegerField(choices=[(20, 'INFO'), (30, 'WARNING'), (40, 'ERROR')])),
-                ('message', models.TextField(blank=True, null=True)),
-                ('monitor', models.ForeignKey(on_delete=django.db.models.deletion.CASCADE, related_name='updates', to='management.monitor')),
+                ("id", models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name="ID")),
+                ("creation_date", models.DateTimeField(auto_now_add=True)),
+                ("status", models.IntegerField(choices=[(20, "INFO"), (30, "WARNING"), (40, "ERROR")])),
+                ("message", models.TextField(blank=True, null=True)),
+                (
+                    "monitor",
+                    models.ForeignKey(
+                        on_delete=django.db.models.deletion.CASCADE, related_name="updates", to="management.monitor"
+                    ),
+                ),
             ],
             options={
-                'ordering': ['-creation_date'],
+                "ordering": ["-creation_date"],
             },
         ),
     ]

@@ -3,7 +3,7 @@ from ..tax_id_form import fill_tax_id_form_until, fill_purpose
 
 
 def test_invalid_options(page):
-    fill_tax_id_form_until(page, 'purpose')
+    fill_tax_id_form_until(page, "purpose")
     continue_button = page.get_by_role("button", name="Continue")
     fill_purpose(page, "I can't register my address, but I need a tax ID")
     expect(continue_button).not_to_be_disabled()

@@ -4,49 +4,94 @@ from django.db import migrations, models
 
 
 def nationality_to_department(apps, schema_editor):
-    ResidencePermitFeedback = apps.get_model('forms', 'ResidencePermitFeedback')
+    ResidencePermitFeedback = apps.get_model("forms", "ResidencePermitFeedback")
     for obj in ResidencePermitFeedback.objects.all():
-        obj.department = "B1_B2_B3_B4" if obj.residence_permit_type == 'BLUE_CARD' else ({
-            "CA": "E2",
-            "GB": "E6",
-            "IL": "E2",
-            "IN": "E3",
-            "MX": "E2",
-            "PK": "E3",
-            "SG": "E4",
-            "TR": "E3",
-            "UG": "E2",
-            "US": "E2",
-            "VN": "E4",
-        }[obj.nationality])
+        obj.department = (
+            "B1_B2_B3_B4"
+            if obj.residence_permit_type == "BLUE_CARD"
+            else (
+                {
+                    "CA": "E2",
+                    "GB": "E6",
+                    "IL": "E2",
+                    "IN": "E3",
+                    "MX": "E2",
+                    "PK": "E3",
+                    "SG": "E4",
+                    "TR": "E3",
+                    "UG": "E2",
+                    "US": "E2",
+                    "VN": "E4",
+                }[obj.nationality]
+            )
+        )
         obj.save()
 
 
 class Migration(migrations.Migration):
-
     dependencies = [
-        ('forms', '0002_alter_residencepermitfeedback_residence_permit_type'),
+        ("forms", "0002_alter_residencepermitfeedback_residence_permit_type"),
     ]
 
     operations = [
         migrations.AlterField(
-            model_name='residencepermitfeedback',
-            name='residence_permit_type',
-            field=models.CharField(choices=[('BLUE_CARD', 'Blue Card'), ('CITIZENSHIP', 'Citizenship'), ('FAMILY_REUNION_VISA', 'Family reunion visa'), ('FREELANCE_VISA', 'Freelance visa'), ('PERMANENT_RESIDENCE', 'Permanent residence'), ('STUDENT_VISA', 'Student visa'), ('WORK_VISA', 'Work visa')], max_length=30),
+            model_name="residencepermitfeedback",
+            name="residence_permit_type",
+            field=models.CharField(
+                choices=[
+                    ("BLUE_CARD", "Blue Card"),
+                    ("CITIZENSHIP", "Citizenship"),
+                    ("FAMILY_REUNION_VISA", "Family reunion visa"),
+                    ("FREELANCE_VISA", "Freelance visa"),
+                    ("PERMANENT_RESIDENCE", "Permanent residence"),
+                    ("STUDENT_VISA", "Student visa"),
+                    ("WORK_VISA", "Work visa"),
+                ],
+                max_length=30,
+            ),
         ),
         migrations.AddField(
-            model_name='residencepermitfeedback',
-            name='department',
-            field=models.CharField(choices=[('A1_A5', 'A1, A5'), ('A2_A3_A4', 'A2, A3, A4'), ('B1_B2_B3_B4', 'B1, B2, B3, B4'), ('B6', 'B6'), ('E1', 'E1'), ('E2', 'E2'), ('E3', 'E3'), ('E4', 'E4'), ('E5', 'E5'), ('E6', 'E6')], max_length=30, null=True),
+            model_name="residencepermitfeedback",
+            name="department",
+            field=models.CharField(
+                choices=[
+                    ("A1_A5", "A1, A5"),
+                    ("A2_A3_A4", "A2, A3, A4"),
+                    ("B1_B2_B3_B4", "B1, B2, B3, B4"),
+                    ("B6", "B6"),
+                    ("E1", "E1"),
+                    ("E2", "E2"),
+                    ("E3", "E3"),
+                    ("E4", "E4"),
+                    ("E5", "E5"),
+                    ("E6", "E6"),
+                ],
+                max_length=30,
+                null=True,
+            ),
         ),
         migrations.RunPython(nationality_to_department),
         migrations.RemoveField(
-            model_name='residencepermitfeedback',
-            name='nationality',
+            model_name="residencepermitfeedback",
+            name="nationality",
         ),
         migrations.AlterField(
-            model_name='residencepermitfeedback',
-            name='department',
-            field=models.CharField(choices=[('A1_A5', 'A1, A5'), ('A2_A3_A4', 'A2, A3, A4'), ('B1_B2_B3_B4', 'B1, B2, B3, B4'), ('B6', 'B6'), ('E1', 'E1'), ('E2', 'E2'), ('E3', 'E3'), ('E4', 'E4'), ('E5', 'E5'), ('E6', 'E6')], max_length=30),
+            model_name="residencepermitfeedback",
+            name="department",
+            field=models.CharField(
+                choices=[
+                    ("A1_A5", "A1, A5"),
+                    ("A2_A3_A4", "A2, A3, A4"),
+                    ("B1_B2_B3_B4", "B1, B2, B3, B4"),
+                    ("B6", "B6"),
+                    ("E1", "E1"),
+                    ("E2", "E2"),
+                    ("E3", "E3"),
+                    ("E4", "E4"),
+                    ("E5", "E5"),
+                    ("E6", "E6"),
+                ],
+                max_length=30,
+            ),
         ),
     ]

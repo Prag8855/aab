@@ -12,26 +12,26 @@ logger = logging.getLogger(__name__)
 
 
 class Command(BaseCommand):
-    help = 'Send a daily digest to the admins'
+    help = "Send a daily digest to the admins"
 
     def handle(self, *args, **options):
         error_level = logging.INFO
 
         context = {
-            'models': get_daily_digest_models(),
-            'monitors': get_daily_digest_monitors(),
+            "models": get_daily_digest_models(),
+            "monitors": get_daily_digest_monitors(),
         }
 
-        error_level = max(logging.INFO, *[m['status'] for m in context['monitors']])
+        error_level = max(logging.INFO, *[m["status"] for m in context["monitors"]])
 
         subject = f"{error_icons[error_level]} All About Berlin daily digest"
         recipients = User.objects.filter(is_superuser=True).values_list("email", flat=True)
-        body = render_to_string('daily-digest.html', context)
+        body = render_to_string("daily-digest.html", context)
 
         if settings.DEBUG_EMAILS:
-            logger.info('Pretending to send daily digest...')
+            logger.info("Pretending to send daily digest...")
         else:
-            logger.info('Sending daily digest...')
+            logger.info("Sending daily digest...")
 
         if not settings.DEBUG and not settings.MAILGUN_API_KEY:
             raise Exception("MAILGUN_API_KEY is not set")
@@ -40,10 +40,7 @@ class Command(BaseCommand):
             if settings.DEBUG:
                 if settings.DEBUG_EMAILS:
                     logger.info(
-                        "SENDING EMAIL MESSAGE\n"
-                        f"To: {', '.join(recipients)}\n"
-                        f"Subject: {subject}\n"
-                        f"Body: \n{body}"
+                        f"SENDING EMAIL MESSAGE\nTo: {', '.join(recipients)}\nSubject: {subject}\nBody: \n{body}"
                     )
                 else:
                     logger.info(f"Pretending to send 1 message (daily digest)")
@@ -55,10 +52,12 @@ class Command(BaseCommand):
                 )
         except HTTPError as exc:
             logger.exception(f"Could not send daily digest  (HTTP {exc.response.status_code})")
-            update_monitor('daily-digest', logging.ERROR, f"Could not send daily digest (HTTP {exc.response.status_code})")
+            update_monitor(
+                "daily-digest", logging.ERROR, f"Could not send daily digest (HTTP {exc.response.status_code})"
+            )
         except Exception as exc:
             logger.exception(f"Could not send daily digest")
-            update_monitor('daily-digest', logging.ERROR, str(exc))
+            update_monitor("daily-digest", logging.ERROR, str(exc))
         else:
-            logger.info('Sent daily digest.')
-            update_monitor('daily-digest', logging.INFO)
+            logger.info("Sent daily digest.")
+            update_monitor("daily-digest", logging.INFO)

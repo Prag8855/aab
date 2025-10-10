@@ -4,14 +4,13 @@ from django.db import migrations
 
 
 class Migration(migrations.Migration):
-
     dependencies = [
-        ('forms', '0013_migrate_to_insurance'),
+        ("forms", "0013_migrate_to_insurance"),
     ]
 
     operations = [
         migrations.AlterModelOptions(
-            name='pensionrefundquestion',
+            name="pensionrefundquestion",
             options={},
         ),
     ]

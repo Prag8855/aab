@@ -23,17 +23,20 @@ class Occupation(models.TextChoices):
 
 
 class Brokers(models.TextChoices):
-    CHRISTINA_WEBER = 'christina-weber', "Christina Weber"
-    SEAMUS_WOLF = 'seamus-wolf', "Seamus Wolf"
+    CHRISTINA_WEBER = "christina-weber", "Christina Weber"
+    SEAMUS_WOLF = "seamus-wolf", "Seamus Wolf"
 
 
 class Case(models.Model):
     """
     A need that usually results in an insurance policy being signed.
     """
+
     name = models.CharField(max_length=100)
     email = models.EmailField(blank=True)
-    contact_method = models.CharField("Contact method", max_length=15, choices=ContactMethod, default=ContactMethod.EMAIL)
+    contact_method = models.CharField(
+        "Contact method", max_length=15, choices=ContactMethod, default=ContactMethod.EMAIL
+    )
 
     occupation = models.CharField(max_length=50, choices=Occupation, default=Occupation.OTHER)
     income = models.PositiveIntegerField("Yearly income", blank=True, null=True, default=None)
@@ -50,12 +53,22 @@ class Case(models.Model):
     broker = models.CharField(max_length=30, choices=Brokers, default=Brokers.SEAMUS_WOLF)
     referrer = models.CharField(blank=True, help_text="Part of the commissions will be paid out to that referrer")
 
-    daily_digest_fields = ['name', 'broker', 'contact_method', 'occupation', 'income', 'age', 'is_married', 'children_count', 'notes']
+    daily_digest_fields = [
+        "name",
+        "broker",
+        "contact_method",
+        "occupation",
+        "income",
+        "age",
+        "is_married",
+        "children_count",
+        "notes",
+    ]
 
     def clean(self):
         super().clean()
         if self.contact_method == ContactMethod.EMAIL and not self.email:
-            raise ValidationError({'email': 'Email is required when contact_method is EMAIL.'})
+            raise ValidationError({"email": "Email is required when contact_method is EMAIL."})
 
     def save(self, *args, **kwargs):
         super().save(*args, **kwargs)
@@ -70,23 +83,23 @@ class Case(models.Model):
     @property
     def broker_info(self):
         return {
-            'christina-weber': {
-                'is_male': False,
-                'first_name': 'Christina',
-                'full_name': 'Christina Weber',
-                'email': 'hello@feather-insurance.com',
+            "christina-weber": {
+                "is_male": False,
+                "first_name": "Christina",
+                "full_name": "Christina Weber",
+                "email": "hello@feather-insurance.com",
             },
-            'seamus-wolf': {
-                'is_male': True,
-                'first_name': 'Seamus',
-                'full_name': 'Seamus Wolf',
-                'email': 'Seamus.Wolf@horizon65.com',
+            "seamus-wolf": {
+                "is_male": True,
+                "first_name": "Seamus",
+                "full_name": "Seamus Wolf",
+                "email": "Seamus.Wolf@horizon65.com",
             },
         }[self.broker]
 
     class Meta:
         verbose_name = "Insurance case"
-        ordering = ['-creation_date']
+        ordering = ["-creation_date"]
 
     def __str__(self):
         return self.name
@@ -104,26 +117,30 @@ class CaseNotificationMixin(ScheduledMessage):
 
 
 class CustomerNotification(CaseNotificationMixin, ScheduledMessage):
-    template = 'customer-notification.html'
+    template = "customer-notification.html"
 
     @property
     def recipients(self) -> list[str]:
-        return [self.case.email, ]
+        return [
+            self.case.email,
+        ]
 
     @property
     def subject(self) -> str:
-        return f'{self.case.broker_info["first_name"]} will contact you soon'
+        return f"{self.case.broker_info['first_name']} will contact you soon"
 
     class Meta(ScheduledMessage.Meta):
         pass
 
 
 class BrokerNotification(CaseNotificationMixin, ScheduledMessage):
-    template = 'broker-notification.html'
+    template = "broker-notification.html"
 
     @property
     def recipients(self) -> list[str]:
-        return [self.case.broker_info['email'], ]
+        return [
+            self.case.broker_info["email"],
+        ]
 
     @property
     def subject(self) -> str:
@@ -138,16 +155,18 @@ class BrokerNotification(CaseNotificationMixin, ScheduledMessage):
 
 
 class FeedbackNotification(CaseNotificationMixin):
-    template = 'feedback-notification.html'
+    template = "feedback-notification.html"
     delivery_date = models.DateTimeField(default=in_1_week)
 
     @property
     def subject(self) -> str:
-        return f'Did {self.case.broker_info["first_name"]} help you get insured?'
+        return f"Did {self.case.broker_info['first_name']} help you get insured?"
 
     @property
     def recipients(self) -> list[str]:
-        return [self.case.email, ]
+        return [
+            self.case.email,
+        ]
 
     class Meta(ScheduledMessage.Meta):
         pass

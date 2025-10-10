@@ -15,13 +15,13 @@ class MarkdownInternalLinksLinter(OriginalInternalLinksLinter):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
         self.redirects = set()
-        with (config.content_path / 'redirects/302.map').open() as file:
+        with (config.content_path / "redirects/302.map").open() as file:
             for line in file:
-                if line.strip() and not line.startswith('#'):
-                    self.redirects.add(line.strip().split(' ')[0].strip('" '))
+                if line.strip() and not line.startswith("#"):
+                    self.redirects.add(line.strip().split(" ")[0].strip('" '))
 
     def validate_link_url(self, url: str, is_image: bool, current_file_path: Path):
-        if url.startswith('/out'):
+        if url.startswith("/out"):
             if url not in self.redirects:
                 yield "URL redirect not found", logging.ERROR
         else:

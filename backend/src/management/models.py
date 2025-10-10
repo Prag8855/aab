@@ -3,11 +3,14 @@ from django.db import models
 import logging
 
 
-error_icons = defaultdict(lambda: '🟥', {
-    logging.INFO: '🟢',
-    logging.WARNING: '🟡',
-    logging.ERROR: '🟥',
-})
+error_icons = defaultdict(
+    lambda: "🟥",
+    {
+        logging.INFO: "🟢",
+        logging.WARNING: "🟡",
+        logging.ERROR: "🟥",
+    },
+)
 
 
 class Monitor(models.Model):
@@ -24,29 +27,29 @@ class Monitor(models.Model):
 
     @property
     def last_update(self):
-        return self.updates.order_by('-creation_date').first()
+        return self.updates.order_by("-creation_date").first()
 
     class Meta:
-        ordering = ['name', 'key']  # newest first
+        ordering = ["name", "key"]  # newest first
 
     def __str__(self):
         return self.name or self.key
 
 
 class Status(models.IntegerChoices):
-    INFO = logging.INFO, 'INFO'
-    WARNING = logging.WARNING, 'WARNING'
-    ERROR = logging.ERROR, 'ERROR'
+    INFO = logging.INFO, "INFO"
+    WARNING = logging.WARNING, "WARNING"
+    ERROR = logging.ERROR, "ERROR"
 
 
 class Update(models.Model):
-    monitor = models.ForeignKey(Monitor, on_delete=models.CASCADE, related_name='updates')
+    monitor = models.ForeignKey(Monitor, on_delete=models.CASCADE, related_name="updates")
     creation_date = models.DateTimeField(auto_now_add=True)
     status = models.IntegerField(choices=Status)
     message = models.TextField(blank=True, null=True)
 
     class Meta:
-        ordering = ['-creation_date']  # newest first
+        ordering = ["-creation_date"]  # newest first
 
     def __str__(self):
         return f"[{self.get_status_display()}] {self.message[:50]}"

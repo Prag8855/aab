@@ -12,7 +12,7 @@ def merge_first_last_name(apps, schema_editor):
 
 class Migration(migrations.Migration):
     dependencies = [
-        ('insurance', '0006_remove_outcome_case_remove_case_status_and_more'),
+        ("insurance", "0006_remove_outcome_case_remove_case_status_and_more"),
     ]
 
     operations = [
