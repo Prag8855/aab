@@ -3,4 +3,4 @@ frontend/tests/snapshot-failures
 .env
 .venv
 *.pid
-output
+frontend/output
