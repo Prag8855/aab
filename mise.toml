@@ -1,0 +1,20 @@
+[env]
+COMPOSE_PROJECT_NAME = "allaboutberlin"
+BUILDKIT_PROGRESS = "plain"
+
+_.python.venv = { path = ".venv", create = true }
+
+[tasks.lint]
+run = """
+ursus lint
+"""
+
+[tasks.run]
+run = """
+ursus -wfs
+"""
+
+[tasks.dev]
+run = """
+docker compose up --build -d
+"""
