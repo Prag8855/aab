@@ -12,20 +12,12 @@ def test_data_remembered(page):
 
     for index in range(0, 5):
         person = people[index]
-        expect(page.get_by_title("First name").nth(index)).to_have_value(
-            person["first_name"]
-        )
-        expect(page.get_by_title("Last name").nth(index)).to_have_value(
-            person["last_name"]
-        )
+        expect(page.get_by_title("First name").nth(index)).to_have_value(person["first_name"])
+        expect(page.get_by_title("Last name").nth(index)).to_have_value(person["last_name"])
 
-        expect(page.get_by_label("Name at birth").nth(index)).to_have_value(
-            person["birth_name"]
-        )
+        expect(page.get_by_label("Name at birth").nth(index)).to_have_value(person["birth_name"])
 
-        expect(page.get_by_label("Place of birth").nth(index)).to_have_value(
-            person["birth_place"]
-        )
+        expect(page.get_by_label("Place of birth").nth(index)).to_have_value(person["birth_place"])
 
         year, month, day = person["birth_date"]
         expect(page.get_by_title("Day of the month").nth(index)).to_have_value(day)

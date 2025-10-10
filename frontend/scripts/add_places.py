@@ -31,10 +31,7 @@ def query_places(gmaps, query: str):
         location_bias=f"circle:2000@{52.5200, 13.4050}",
         language="en",
     )["candidates"][:10]
-    return [
-        gmaps.place(result["place_id"], language="en")["result"]
-        for result in search_results
-    ]
+    return [gmaps.place(result["place_id"], language="en")["result"] for result in search_results]
 
 
 def print_places(places: list):
@@ -73,9 +70,7 @@ def add_place():
         name=google_place["name"],
         latitude=round(google_place["geometry"]["location"]["lat"], 6),
         longitude=round(google_place["geometry"]["location"]["lng"], 6),
-        address=re.sub(
-            r"(, (\d{5} )?Berlin)?, Germany$", "", google_place["formatted_address"]
-        ).strip(),
+        address=re.sub(r"(, (\d{5} )?Berlin)?, Germany$", "", google_place["formatted_address"]).strip(),
         place_id=google_place["place_id"],
         website=google_place.get("website") or get_user_input("Website"),
         email=get_user_input("Contact email"),

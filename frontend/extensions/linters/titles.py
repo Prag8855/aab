@@ -15,9 +15,7 @@ class DuplicateTitlesLinter(RegexLinter):
         return super().lint(file_path)
 
     def handle_match(self, file_path: Path, match: Match[str]) -> MatchResult:
-        slug = config.markdown_extensions["toc"]["slugify"](
-            match.group(0).lstrip("#").strip(), "-"
-        )
+        slug = config.markdown_extensions["toc"]["slugify"](match.group(0).lstrip("#").strip(), "-")
         if slug in self.title_slugs:
             yield f"Duplicate title: {match.group(0)}", logging.ERROR
         self.title_slugs.add(slug)
@@ -40,11 +38,7 @@ class SequentialTitlesLinter(RegexLinter):
     def handle_match(self, file_path: Path, match: Match[str]) -> MatchResult:
         title = match.group(0).lstrip("#").strip()
         if self.last_title:
-            if (
-                (prev := self.get_number(self.last_title))
-                and (curr := self.get_number(title))
-                and curr != prev + 1
-            ):
+            if (prev := self.get_number(self.last_title)) and (curr := self.get_number(title)) and curr != prev + 1:
                 yield f"Invalid title sequence: {match.group(0)}", logging.ERROR
         self.last_title = title
 

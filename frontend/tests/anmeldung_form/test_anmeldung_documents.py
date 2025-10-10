@@ -31,22 +31,14 @@ def test_data_remembered(page, assert_snapshot):
 
         year, month, day = doc["issue_date"]
         expect(page.get_by_title("Day of the month").nth(index * 2)).to_have_value(day)
-        expect(page.get_by_title("Month", exact=True).nth(index * 2)).to_have_value(
-            month
-        )
+        expect(page.get_by_title("Month", exact=True).nth(index * 2)).to_have_value(month)
         expect(page.get_by_title("Year").nth(index * 2)).to_have_value(year)
 
-        expect(page.get_by_label("Issuing authority").nth(index)).to_have_value(
-            doc["authority"]
-        )
+        expect(page.get_by_label("Issuing authority").nth(index)).to_have_value(doc["authority"])
 
         year, month, day = doc["expiration_date"]
-        expect(page.get_by_title("Day of the month").nth(index * 2 + 1)).to_have_value(
-            day
-        )
-        expect(page.get_by_title("Month", exact=True).nth(index * 2 + 1)).to_have_value(
-            month
-        )
+        expect(page.get_by_title("Day of the month").nth(index * 2 + 1)).to_have_value(day)
+        expect(page.get_by_title("Month", exact=True).nth(index * 2 + 1)).to_have_value(month)
         expect(page.get_by_title("Year").nth(index * 2 + 1)).to_have_value(year)
 
     form = page.get_by_role("group", name="Tool to fill the Anmeldung form")

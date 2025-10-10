@@ -32,33 +32,19 @@ def test_data_validity_check(page, assert_snapshot):
 
     page.get_by_label("Country").select_option("Germany")
 
-    expect(page.locator(".anmeldung-form")).not_to_have_class(
-        re.compile(r".*show-errors.*")
-    )
-    expect(page.get_by_label("Street address")).to_have_js_property(
-        "validity.valid", False
-    )
+    expect(page.locator(".anmeldung-form")).not_to_have_class(re.compile(r".*show-errors.*"))
+    expect(page.get_by_label("Street address")).to_have_js_property("validity.valid", False)
     expect(page.get_by_title("City")).to_have_js_property("validity.valid", False)
-    expect(page.get_by_title("Postal code (Postleitzahl)")).to_have_js_property(
-        "validity.valid", False
-    )
-    expect(page.get_by_label("Building details")).to_have_js_property(
-        "validity.valid", True
-    )
+    expect(page.get_by_title("Postal code (Postleitzahl)")).to_have_js_property("validity.valid", False)
+    expect(page.get_by_label("Building details")).to_have_js_property("validity.valid", True)
     expect(page.get_by_label("State")).to_have_js_property("validity.valid", False)
 
     next_step(page)
 
-    expect(page.locator(".anmeldung-form")).to_have_class(
-        re.compile(r".*show-errors.*")
-    )
-    expect(page.get_by_label("Street address")).to_have_js_property(
-        "validity.valid", False
-    )
+    expect(page.locator(".anmeldung-form")).to_have_class(re.compile(r".*show-errors.*"))
+    expect(page.get_by_label("Street address")).to_have_js_property("validity.valid", False)
     expect(page.get_by_title("City")).to_have_js_property("validity.valid", False)
-    expect(page.get_by_title("Postal code (Postleitzahl)")).to_have_js_property(
-        "validity.valid", False
-    )
+    expect(page.get_by_title("Postal code (Postleitzahl)")).to_have_js_property("validity.valid", False)
     expect(page.get_by_label("State")).to_have_js_property("validity.valid", False)
 
     form = page.get_by_role("group", name="Tool to fill the Anmeldung form")
@@ -69,15 +55,11 @@ def test_data_not_germany(page, assert_snapshot):
     fill_anmeldung_form_until(page, "oldAddress")
 
     page.get_by_label("Country").select_option("Canada")
-    expect(page.locator(".input-instructions")).to_have_text(
-        "You don't need to share your foreign address."
-    )
+    expect(page.locator(".input-instructions")).to_have_text("You don't need to share your foreign address.")
 
     next_step(page)
 
-    expect(page.locator(".anmeldung-form")).not_to_have_class(
-        re.compile(r".*show-errors.*")
-    )
+    expect(page.locator(".anmeldung-form")).not_to_have_class(re.compile(r".*show-errors.*"))
 
     form = page.get_by_role("group", name="Tool to fill the Anmeldung form")
     assert_snapshot(form.screenshot())

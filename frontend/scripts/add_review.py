@@ -40,10 +40,7 @@ def get_user_input(title: str, autocompleter=None):
 
 
 def autocomplete_entries(query, state):
-    options = [
-        str(p.relative_to(config.content_path))
-        for p in (config.content_path).rglob(f"{query}*.md")
-    ]
+    options = [str(p.relative_to(config.content_path)) for p in (config.content_path).rglob(f"{query}*.md")]
     return options[state] if state < len(options) else None
 
 
@@ -93,9 +90,7 @@ def add_review():
 
     print(f"Adding review to {entry_uri}")
 
-    reviewers_regex = re.compile(
-        r"Related_reviews:(\s*\n)(\s+)(.*)$", re.MULTILINE | re.DOTALL
-    )
+    reviewers_regex = re.compile(r"Related_reviews:(\s*\n)(\s+)(.*)$", re.MULTILINE | re.DOTALL)
     guide_path = config.content_path / entry_uri
     with guide_path.open() as file:
         guide_content = file.read()

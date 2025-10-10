@@ -32,45 +32,23 @@ def test_data_remembered(page, assert_snapshot):
 def test_data_validity_check(page, assert_snapshot):
     fill_abmeldung_form_until(page, "oldAddress")
 
-    expect(page.locator(".abmeldung-form")).not_to_have_class(
-        re.compile(r".*show-errors.*")
-    )
-    expect(page.get_by_label("Street address")).to_have_js_property(
-        "validity.valid", False
-    )
-    expect(page.get_by_title("Postal code (Postleitzahl)")).to_have_js_property(
-        "validity.valid", False
-    )
-    expect(page.get_by_label("Building details")).to_have_js_property(
-        "validity.valid", True
-    )
+    expect(page.locator(".abmeldung-form")).not_to_have_class(re.compile(r".*show-errors.*"))
+    expect(page.get_by_label("Street address")).to_have_js_property("validity.valid", False)
+    expect(page.get_by_title("Postal code (Postleitzahl)")).to_have_js_property("validity.valid", False)
+    expect(page.get_by_label("Building details")).to_have_js_property("validity.valid", True)
 
-    expect(page.get_by_title("Day of the month")).to_have_js_property(
-        "validity.valid", False
-    )
-    expect(page.get_by_title("Month", exact=True)).to_have_js_property(
-        "validity.valid", False
-    )
+    expect(page.get_by_title("Day of the month")).to_have_js_property("validity.valid", False)
+    expect(page.get_by_title("Month", exact=True)).to_have_js_property("validity.valid", False)
     expect(page.get_by_title("Year")).to_have_js_property("validity.valid", False)
 
     next_step(page)
 
-    expect(page.locator(".abmeldung-form")).to_have_class(
-        re.compile(r".*show-errors.*")
-    )
-    expect(page.get_by_label("Street address")).to_have_js_property(
-        "validity.valid", False
-    )
-    expect(page.get_by_title("Postal code (Postleitzahl)")).to_have_js_property(
-        "validity.valid", False
-    )
+    expect(page.locator(".abmeldung-form")).to_have_class(re.compile(r".*show-errors.*"))
+    expect(page.get_by_label("Street address")).to_have_js_property("validity.valid", False)
+    expect(page.get_by_title("Postal code (Postleitzahl)")).to_have_js_property("validity.valid", False)
 
-    expect(page.get_by_title("Day of the month")).to_have_js_property(
-        "validity.valid", False
-    )
-    expect(page.get_by_title("Month", exact=True)).to_have_js_property(
-        "validity.valid", False
-    )
+    expect(page.get_by_title("Day of the month")).to_have_js_property("validity.valid", False)
+    expect(page.get_by_title("Month", exact=True)).to_have_js_property("validity.valid", False)
     expect(page.get_by_title("Year")).to_have_js_property("validity.valid", False)
 
     form = page.get_by_role("group", name="Tool to fill the Abmeldung form")

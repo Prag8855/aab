@@ -38,9 +38,7 @@ class HyphenatedTitleExtension(Extension):
     """
 
     def extendMarkdown(self, md):
-        md.treeprocessors.register(
-            HyphenatedTitleProcessor(self), "hyphenated_titles", 19
-        )
+        md.treeprocessors.register(HyphenatedTitleProcessor(self), "hyphenated_titles", 19)
 
 
 class ArrowLinkIconProcessor(Treeprocessor):
@@ -87,9 +85,7 @@ class CurrencyPreprocessor(Preprocessor):
 
     def replace_match(self, match):
         formatted_number = to_currency(Decimal(match[1].replace(",", "")))
-        return self.md.htmlStash.store(
-            f'€<span class="currency">{formatted_number}</span>'
-        )
+        return self.md.htmlStash.store(f'€<span class="currency">{formatted_number}</span>')
 
     def run(self, lines):
         text = "\n".join(lines)
@@ -150,9 +146,7 @@ class WrappedTableProcessor(Treeprocessor):
     """
 
     def wrap_table(self, table, parent):
-        wrapper = ElementTree.Element(
-            "div", attrib={"class": self.md.getConfig("wrapper_class")}
-        )
+        wrapper = ElementTree.Element("div", attrib={"class": self.md.getConfig("wrapper_class")})
         wrapper.append(table)
 
         for index, element in enumerate(parent):

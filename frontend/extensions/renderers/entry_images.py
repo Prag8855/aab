@@ -43,10 +43,7 @@ def text_height(text: str, font: ImageFont.ImageFont, line_spacing: int) -> int:
     """
     ascent, descent = font.getmetrics()
     lines = text.split("\n")
-    return (
-        sum([font.getmask(line).getbbox()[3] + descent for line in lines])
-        + (len(lines) - 1) * line_spacing
-    )
+    return sum([font.getmask(line).getbbox()[3] + descent for line in lines]) + (len(lines) - 1) * line_spacing
 
 
 def text_width(text: str, font: ImageFont.ImageFont) -> int:
@@ -77,9 +74,7 @@ def make_cover_image(text: str, templates_path: Path) -> ImageType:
     # Wrap the main text to fit available space
     font_size = 100
     while True:
-        title_font = ImageFont.truetype(
-            str(templates_path / "fonts/librefranklin-400.ttf"), font_size
-        )
+        title_font = ImageFont.truetype(str(templates_path / "fonts/librefranklin-400.ttf"), font_size)
         try:
             wrapped_title = wrap_text(text, title_font, image.size[0] - 2 * padding)
         except:
@@ -102,9 +97,7 @@ def make_cover_image(text: str, templates_path: Path) -> ImageType:
         spacing=line_spacing,
     )
 
-    logo_font = ImageFont.truetype(
-        str(templates_path / "fonts/librefranklin-400.ttf"), 50
-    )
+    logo_font = ImageFont.truetype(str(templates_path / "fonts/librefranklin-400.ttf"), 50)
     imgdraw.multiline_text(
         (logo_position[0] + logo_size[0], logo_position[1] + 1),
         "All About Berlin",
@@ -122,9 +115,7 @@ class EntryImageUrlProcessor(EntryContextProcessor):
         entry_uri: EntryURI,
         changed_files: set[Path] | None = None,
     ) -> None:
-        context["entries"][entry_uri]["image_url"] = (
-            f"{config.site_url}/{str(Path(entry_uri).with_suffix('.png'))}"
-        )
+        context["entries"][entry_uri]["image_url"] = f"{config.site_url}/{str(Path(entry_uri).with_suffix('.png'))}"
 
 
 class EntryImageRenderer(Renderer):
@@ -141,9 +132,7 @@ class EntryImageRenderer(Renderer):
     def get_hash(self, entry: Entry) -> str:
         return hashlib.md5(self.get_image_text(entry).encode("utf-8")).hexdigest()
 
-    def render(
-        self, context: Context, changed_files: set[Path] | None = None
-    ) -> set[Path]:
+    def render(self, context: Context, changed_files: set[Path] | None = None) -> set[Path]:
         files_to_keep = set()
 
         entries_to_render = [
@@ -162,17 +151,12 @@ class EntryImageRenderer(Renderer):
             abs_image_path = config.output_path / image_path
             needs_rerender = False
 
-            if (
-                changed_files is None
-                or (config.content_path / entry_path) in changed_files
-            ):
+            if changed_files is None or (config.content_path / entry_path) in changed_files:
                 needs_rerender = True
                 if abs_image_path.exists():
                     existing_image = Image.open(abs_image_path)
                     exif = existing_image.getexif()
-                    needs_rerender = exif.get(exif_description_field) != self.get_hash(
-                        entry
-                    )
+                    needs_rerender = exif.get(exif_description_field) != self.get_hash(entry)
 
             if needs_rerender:
                 logger.info(f"Rendering post image {str(image_path)}")

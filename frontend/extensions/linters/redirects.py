@@ -15,9 +15,7 @@ class RedirectsLinter(LineLinter):
         line = line.strip().rstrip(";")
 
         if '"' in line:
-            src, dest = [
-                url.strip('"') for part in line.split('"') if (url := part.strip())
-            ]
+            src, dest = [url.strip('"') for part in line.split('"') if (url := part.strip())]
         else:
             src, dest = [part for part in line.split()]
 
@@ -42,9 +40,7 @@ class RedirectsLinter(LineLinter):
                         logging.ERROR,
                     )
                 elif status_code >= 400:
-                    level = (
-                        logging.WARNING if status_code in (403, 503) else logging.ERROR
-                    )
+                    level = logging.WARNING if status_code in (403, 503) else logging.ERROR
                     yield position, f"URL returns HTTP {status_code}: {dest}", level
                 elif response.history and response.history[-1].status_code == 301:
                     yield (

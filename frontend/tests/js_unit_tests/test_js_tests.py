@@ -15,9 +15,7 @@ def get_mocha_test_results(base_url):
             browser = p.chromium.launch(headless=True)
             page = browser.new_page()
             page.goto(f"{base_url}/tests/unit")
-            page.wait_for_function(
-                "() => window.testResults !== undefined", timeout=5000
-            )
+            page.wait_for_function("() => window.testResults !== undefined", timeout=5000)
             mocha_test_results = page.evaluate("window.testResults")
             browser.close()
     return mocha_test_results

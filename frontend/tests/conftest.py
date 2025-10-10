@@ -21,9 +21,7 @@ DEVICE_CONFIGS = {
 }
 
 
-@pytest.fixture(
-    params=DEVICE_CONFIGS.values(), ids=DEVICE_CONFIGS.keys(), scope="session"
-)
+@pytest.fixture(params=DEVICE_CONFIGS.values(), ids=DEVICE_CONFIGS.keys(), scope="session")
 def device_config(request):
     return request.param
 
@@ -42,6 +40,4 @@ def browser_context_args(browser_context_args, device_config):
 def pytest_configure(config):
     tests_root = Path(__file__).parent.resolve()
     config.option.playwright_visual_snapshots_path = tests_root / "snapshots"
-    config.option.playwright_visual_snapshot_failures_path = (
-        tests_root / "snapshot-failures"
-    )
+    config.option.playwright_visual_snapshot_failures_path = tests_root / "snapshot-failures"
