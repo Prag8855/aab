@@ -1,0 +1,6 @@
+# Requirements for host machines
+# Allows running the frontend as a standalone static site, without docker
+# Allows running utility scripts
+ursus-ssg
+googlemaps==4.10.0
+pytest-playwright-visual-snapshot~=0.2

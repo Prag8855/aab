@@ -1,23 +1,44 @@
+# Development docker file
+# - Enables debugging
+# - No SSL certificate generation
+# - Rebuilds the static site every time the files change
+
 services:
-  api:
-    build: ./backend
+  frontend:
+    build:
+      context: frontend
+      target: dev
+    environment:
+      - "URSUS_SITE_URL=https://localhost"
+      - "URSUS_OUTPUT_DIR=/var/output"
+    volumes:
+      - ".:/var/project:ro"
+      - "static_site:/var/output"
+  backend:
+    build:
+      context: backend
+      target: dev
+      args:
+        - "SSL_DOMAIN=localhost"
     volumes:
       - "api_db:/var/db"
       - "api_staticfiles:/var/www/api/staticfiles"
+      - "./backend/src:/srv/app"
   proxy:
-    build:
-      context: ./proxy
+    build: ./proxy
     ports:
       - "80:80"
       - "443:443"
     depends_on:
-      - "api"
+      - "backend"
     volumes:
       - "ssl_certs:/etc/ssl-certs"
       - "acme_sh:/root/.acme.sh"
-      - "api_staticfiles:/var/www/api/staticfiles"
+      - "api_staticfiles:/var/www/api/staticfiles:ro"
+      - "static_site:/var/www/html"
 volumes:
   acme_sh:
   api_db:
   api_staticfiles:
   ssl_certs:
+  static_site:

@@ -380,7 +380,7 @@ ctx["VEHICLE_UMMELDUNG_FEE"] = Decimal('10.80')  # service.berlin.de/dienstleist
 # ==============================================================================
 
 ctx["now"] = datetime.now()
-ctx["site_url"] = os.environ.get('SITE_URL', '')
+ctx["site_url"] = os.environ.get('URSUS_SITE_URL', '')
 ctx["random_id"] = random_id
 ctx["fail_on"] = fail_on
 ctx["google_maps_api_key"] = 'AIzaSyBtGlbcvFspb9habWlXiFcptF8wdFjCb-E'  # Frontend use
@@ -395,7 +395,12 @@ ctx["RECOMMENDED"] = Markup('&nbsp; <a target="_blank" class="recommended" aria-
 config.site_url = ctx["site_url"]
 config.content_path = Path(__file__).parent / 'content'
 config.templates_path = Path(__file__).parent / 'templates'
-config.output_path = Path(__file__).parent.parent / 'output'
+
+config.output_path = (
+    Path(env_output_dir)
+    if (env_output_dir := os.environ.get('URSUS_OUTPUT_DIR'))
+    else Path(__file__).parent.parent / 'output'
+)
 
 config.google_maps_api_key = 'AIzaSyAhhCuZjNCFo2o84w27Xh0ravLwIiVProo'  # Backend use only
 config.google_tts_api_key = 'AIzaSyAhhCuZjNCFo2o84w27Xh0ravLwIiVProo'

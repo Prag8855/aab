@@ -1,12 +1,26 @@
-FROM python:3.11-slim
+FROM python:3.11-slim AS base
 
+# Install dependencies
+COPY requirements.txt /requirements.txt
+
+# Rsync needed for prod builds
+# Git needed by ursus to build the site
 RUN apt-get update \
     && apt-get install -y --no-install-recommends git rsync \
-    && pip3 install --no-cache-dir logtail-python==0.3.0 pyphen==0.17.2 \
-    && rm -rf /var/lib/apt/lists/* \
-    && git config --global pull.rebase false \
-    && mkdir -p /var/ursus/output
+    && pip3 install --no-cache-dir -r /requirements.txt \
+    && mkdir -p /var/output /var/live-output \
+    && rm -rf /var/lib/apt/lists/* /requirements.txt
 
-COPY ./watch-for-updates.py /watch-for-updates.py
+WORKDIR /var/project/frontend
 
-CMD /watch-for-updates.py
+# = PROD =======================================================================
+
+FROM base AS prod
+CMD python3 /var/project/frontend/build-for-prod.py
+
+# = DEV ========================================================================
+
+FROM base AS dev
+
+# Build properly once, rebuild quickly on file changes
+CMD ursus && ursus --fast --watch
