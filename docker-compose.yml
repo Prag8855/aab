@@ -13,7 +13,7 @@ services:
       - "URSUS_OUTPUT_DIR=/var/output"
     volumes:
       - ".:/var/project:ro"
-      - "static_site:/var/output"
+      - "./frontend/output:/var/output"
   backend:
     build:
       context: backend
@@ -35,10 +35,9 @@ services:
       - "ssl_certs:/etc/ssl-certs"
       - "acme_sh:/root/.acme.sh"
       - "api_staticfiles:/var/www/api/staticfiles:ro"
-      - "static_site:/var/www/html"
+      - "./frontend/output:/var/www/html"
 volumes:
   acme_sh:
   api_db:
   api_staticfiles:
   ssl_certs:
-  static_site:

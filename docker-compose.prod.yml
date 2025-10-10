@@ -40,6 +40,8 @@ services:
       args:
         - "SSL_DOMAIN=allaboutberlin.com"
         - "SSL_EMAIL=contact@allaboutberlin.com"
+    volumes:
+      - "static_site:/var/www/html"
     restart: unless-stopped
     logging: *prod-logging
 volumes:
