@@ -9,6 +9,7 @@ uv = "latest"
 ruff = "latest"
 python = "3.13"
 shellcheck = "latest"
+pre-commit = "latest"
 
 [tasks.setup]
 description = "Install local dependencies to run the project"
