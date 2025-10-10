@@ -52,7 +52,6 @@ class ScheduledMessage(models.Model):
     delivery_date = models.DateTimeField(default=timezone.now)
     status = models.PositiveSmallIntegerField(choices=MessageStatus, default=MessageStatus.SCHEDULED)  # type: ignore
 
-
     @property
     def recipients(self) -> List[str]:
         raise NotImplementedError

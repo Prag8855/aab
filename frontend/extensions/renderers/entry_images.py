@@ -90,7 +90,11 @@ def make_cover_image(text: str, templates_path: Path) -> ImageType:
     content_offset = max(padding, (550 - title_height) // 2)
 
     imgdraw.multiline_text(
-        (padding, content_offset), wrapped_title, font=title_font, fill=(255, 255, 255), spacing=line_spacing
+        (padding, content_offset),
+        wrapped_title,
+        font=title_font,
+        fill=(255, 255, 255),
+        spacing=line_spacing,
     )
 
     logo_font = ImageFont.truetype(str(templates_path / "fonts/librefranklin-400.ttf"), 50)
@@ -105,7 +109,12 @@ def make_cover_image(text: str, templates_path: Path) -> ImageType:
 
 
 class EntryImageUrlProcessor(EntryContextProcessor):
-    def process_entry(self, context: Context, entry_uri: EntryURI, changed_files: set[Path] | None = None) -> None:
+    def process_entry(
+        self,
+        context: Context,
+        entry_uri: EntryURI,
+        changed_files: set[Path] | None = None,
+    ) -> None:
         context["entries"][entry_uri]["image_url"] = f"{config.site_url}/{str(Path(entry_uri).with_suffix('.png'))}"
 
 

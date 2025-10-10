@@ -42,7 +42,7 @@ Your employer can't force you to resign. Never give a resignation letter if you 
 
 ### See a doctor
 
-If you quit for mental health reasons (burnout, depression, stress), get a note from a doctor. This proves that you had a valid reason to quit.[^12] If you don't have a sick note, this is harder to prove.
+If you quit for mental health reasons (burnout, depression, stress), get a [sick note](/glossary/Krankschreibung) from a doctor. This proves that you had a valid reason to quit.[^12] If you don't have a sick note, this is harder to prove.
 
 If you quit without a reason, you lose 3 months of [unemployment benefits](/glossary/ALG%20I).
 

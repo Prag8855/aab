@@ -178,7 +178,10 @@ class WrappedTableExtension(Extension):
 
     def __init__(self, **kwargs):
         self.config = {
-            "wrapper_class": ["", "CSS class to add to the <div> element that wraps the table"],
+            "wrapper_class": [
+                "",
+                "CSS class to add to the <div> element that wraps the table",
+            ],
         }
         super().__init__(**kwargs)
 

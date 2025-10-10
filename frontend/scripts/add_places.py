@@ -46,7 +46,7 @@ def get_user_input(title: str):
 
 
 def add_place():
-    gmaps = googlemaps.Client(key=config.google_maps_api_key)  # type: ignore
+    gmaps = googlemaps.Client(key=config.google_maps_api_key)
 
     name_query = get_user_input("Place name")
 

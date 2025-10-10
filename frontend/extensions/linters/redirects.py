@@ -22,7 +22,11 @@ class RedirectsLinter(LineLinter):
         position = line.index(dest), len(dest)
         if dest.startswith(("http://", "https://")):
             try:
-                response = requests.get(dest, timeout=5, headers={"User-Agent": MarkdownExternalLinksLinter.user_agent})
+                response = requests.get(
+                    dest,
+                    timeout=5,
+                    headers={"User-Agent": MarkdownExternalLinksLinter.user_agent},
+                )
                 status_code = response.status_code
             except ConnectionError:
                 yield position, f"Connection error: {dest}", logging.ERROR
@@ -30,9 +34,17 @@ class RedirectsLinter(LineLinter):
                 yield position, f"URL {type(exc).__name__}: {dest}", logging.ERROR
             else:
                 if status_code in (404, 410):
-                    yield position, f"URL returns HTTP {status_code}: {dest}", logging.ERROR
+                    yield (
+                        position,
+                        f"URL returns HTTP {status_code}: {dest}",
+                        logging.ERROR,
+                    )
                 elif status_code >= 400:
                     level = logging.WARNING if status_code in (403, 503) else logging.ERROR
                     yield position, f"URL returns HTTP {status_code}: {dest}", level
                 elif response.history and response.history[-1].status_code == 301:
-                    yield position, f"URL redirects to {response.url}: {dest}", logging.INFO
+                    yield (
+                        position,
+                        f"URL redirects to {response.url}: {dest}",
+                        logging.INFO,
+                    )

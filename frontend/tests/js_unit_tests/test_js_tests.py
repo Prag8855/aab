@@ -25,7 +25,11 @@ def pytest_generate_tests(metafunc):
     global mocha_test_results
     if "client_side_cases" in metafunc.fixturenames:
         get_mocha_test_results(metafunc.config.getoption("base_url"))
-        metafunc.parametrize("client_side_cases", mocha_test_results, ids=[r["name"] for r in mocha_test_results])
+        metafunc.parametrize(
+            "client_side_cases",
+            mocha_test_results,
+            ids=[r["name"] for r in mocha_test_results],
+        )
 
 
 def test_mocha_case(client_side_cases):

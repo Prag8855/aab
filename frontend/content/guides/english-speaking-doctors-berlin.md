@@ -73,7 +73,7 @@ For emergencies, call [112](tel:112). They speak English.
 
 ## Video call with a doctor
 
-A video call is faster and easier than a doctor visit. It's a good way to get a [sick note](/glossary/Krankschreibung).
+A video call is faster and easier than a doctor visit. It's a good way to get a [sick note](/glossary/Krankschreibung). Your employer might need a sick note if you take [sick leave](/guides/sick-leave).
 
 The [TeleClinic](https://www.teleclinic.com/sick-note/) and [Doktor.de](https://doktor.de) apps let you schedule a video call with a doctor. It's only in German, but some doctors speak English.
 
