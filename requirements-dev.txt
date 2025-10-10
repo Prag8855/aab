@@ -4,7 +4,6 @@
 ursus-ssg==1.4.2
 pyphen==0.17.2
 googlemaps==4.10.0
-pytest-playwright-visual-snapshot~=0.2
 
 # Linting tools
 pyright~=1.1
