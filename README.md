@@ -6,15 +6,17 @@ This repo contains the templates and content used to render [allaboutberlin.com]
 
 This project uses [mise](https://mise.jdx.dev/) to simplify dev tasks. It's optional.
 
-Run `mise setup` to install local dependencies.
+Run `mise install` to install required tools.
+
+Then run `mise setup` to install local dependencies, set up commit hooks, etc.
 
 ### Docker
 
-Run `mise dev`.
+Run `mise dev` to start docker, build the images, and start the project.
 
 This will build and start the project inside docker containers. The website is served at `https://localhost`. The frontend/backend are reloaded on changes.
 
-In production, run `docker compose -f docker-compose.yml -f docker-compose.prod.yml up --build -d`. The production configuration is slightly stricter. It disables debugging and reloading on changes.
+In production, run `docker compose -f docker-compose.yml -f docker-compose.prod.yml up --build -d`. The production configuration is slightly stricter. It disables debugging and reloading on changes. `mise` is not used in production.
 
 ### Standalone
 
