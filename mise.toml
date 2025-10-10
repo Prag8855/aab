@@ -4,11 +4,16 @@ BUILDKIT_PROGRESS = "plain"
 
 _.python.venv = { path = ".venv", create = true }
 
-[tasks.setup]
+[tools]
+uv = "latest"
+ruff = "latest"
+python = "3.13"
+
+[tasks.install]
 description = "Install local dependencies to run the project"
 alias = "i"
 run = """
-pip3 install -r requirements-dev.txt
+uv pip install -r requirements-dev.txt
 """
 
 [tasks.lint]
