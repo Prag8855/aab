@@ -7,7 +7,7 @@ RUN apt-get update \
     && pip3 install --no-cache-dir -r /requirements.txt \
     && rm -rf /var/lib/apt/lists/* /requirements.txt
 
-COPY gunicorn_config.py crontab.conf start.sh /srv
+COPY gunicorn_config.py crontab.conf start.sh /srv/
 
 WORKDIR /srv/app
 

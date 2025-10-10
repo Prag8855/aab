@@ -7,6 +7,8 @@ COPY requirements.txt /requirements.txt
 # Git needed by ursus to build the site
 RUN apt-get update \
     && apt-get install -y --no-install-recommends git rsync \
+        build-essential \
+        python3-dev \
     && pip3 install --no-cache-dir -r /requirements.txt \
     && mkdir -p /var/output /var/live-output \
     && rm -rf /var/lib/apt/lists/* /requirements.txt
