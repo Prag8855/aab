@@ -50,9 +50,13 @@ class MessageStatus(models.IntegerChoices):
 class ScheduledMessage(models.Model):
     creation_date = models.DateTimeField(auto_now_add=True)
     delivery_date = models.DateTimeField(default=timezone.now)
-    status = models.PositiveSmallIntegerField(choices=MessageStatus, default=MessageStatus.SCHEDULED)
+    status = models.PositiveSmallIntegerField(choices=MessageStatus, default=MessageStatus.SCHEDULED)  # type: ignore
 
-    recipients: List[str] = []
+
+    @property
+    def recipients(self) -> List[str]:
+        raise NotImplementedError
+
     subject: str = ""
     template: str | None = None
     reply_to: str | None = None
@@ -217,9 +221,9 @@ class PensionRefundReminder(EmailMixin, ScheduledMessage):
     template = "pension-refund-reminder.html"
 
     @property
-    def recipients(self) -> list[str]:
+    def recipients(self) -> List[str]:
         return [
-            self.email,
+            str(self.email),
         ]
 
     class Meta(ScheduledMessage.Meta):
@@ -381,7 +385,7 @@ class ResidencePermitFeedback(MultiStageFeedback):
         """
         Schedule feedback reminders in the future
         """
-        self.feedback_reminders.all().delete()
+        self.feedback_reminders.all().delete()  # type: ignore
 
         if self.email and self.pick_up_date:
             self.email = filler_email
@@ -390,12 +394,12 @@ class ResidencePermitFeedback(MultiStageFeedback):
 
         # No feedback email needed if the feedback is complete
         if self.email and not self.pick_up_date:
-            self.feedback_reminders.create(delivery_date=timezone.now() + relativedelta(months=2))
+            self.feedback_reminders.create(delivery_date=timezone.now() + relativedelta(months=2))  # type: ignore
             if not self.appointment_date:
-                self.feedback_reminders.create(delivery_date=timezone.now() + relativedelta(months=6))
+                self.feedback_reminders.create(delivery_date=timezone.now() + relativedelta(months=6))  # type: ignore
 
     def __str__(self):
-        return f"{self.get_residence_permit_type_display()} ({self.get_department_display()})"
+        return f"{self.get_residence_permit_type_display()} ({self.get_department_display()})"  # type: ignore
 
     class Meta(MultiStageFeedback.Meta):
         verbose_name_plural = "Residence permit feedback"
@@ -410,7 +414,7 @@ class ResidencePermitFeedbackReminder(ScheduledMessage):
     @property
     def recipients(self) -> list[str]:
         return [
-            self.feedback.email,
+            self.feedback.email,  # type: ignore
         ]
 
     class Meta(ScheduledMessage.Meta):
@@ -452,7 +456,7 @@ class CitizenshipFeedback(MultiStageFeedback):
         """
         Schedule feedback reminders in the future
         """
-        self.feedback_reminders.all().delete()
+        self.feedback_reminders.all().delete()  # type: ignore
 
         if self.email and self.appointment_date:
             self.email = filler_email
@@ -461,10 +465,10 @@ class CitizenshipFeedback(MultiStageFeedback):
 
         # No feedback email needed if the feedback is complete
         if self.email and not self.appointment_date:
-            self.feedback_reminders.create(delivery_date=timezone.now() + relativedelta(months=3))
+            self.feedback_reminders.create(delivery_date=timezone.now() + relativedelta(months=3))  # type: ignore
 
     def __str__(self):
-        return f"Citizenship ({self.get_department_display()})"
+        return f"Citizenship ({self.get_department_display()})"  # type: ignore
 
     class Meta(MultiStageFeedback.Meta):
         verbose_name_plural = "Citizenship feedback"
@@ -479,7 +483,7 @@ class CitizenshipFeedbackReminder(ScheduledMessage):
     @property
     def recipients(self) -> list[str]:
         return [
-            self.feedback.email,
+            self.feedback.email,  # type: ignore
         ]
 
     class Meta(ScheduledMessage.Meta):
@@ -495,7 +499,7 @@ class TaxIdRequestFeedbackReminder(NameMixin, EmailMixin, ScheduledMessage):
     @property
     def recipients(self) -> list[str]:
         return [
-            self.email,
+            self.email,  # type: ignore
         ]
 
     class Meta(ScheduledMessage.Meta):
