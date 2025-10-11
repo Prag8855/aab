@@ -41,6 +41,11 @@ done
 docker compose up --build -d
 """
 
+[tasks.test]
+run = """
+docker compose exec backend python3 manage.py test -b
+"""
+
 [tasks.shellcheck]
 description = "Lint shell scripts with shellcheck"
 run = """
