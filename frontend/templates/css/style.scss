@@ -2072,7 +2072,7 @@ input[type=range] {
 
 }
 
-output.placeholder, .recommended{
+output.placeholder, .recommended:before{
     background: var(--c-bg-widget);
     box-decoration-break: clone;
     font-weight: 400;
@@ -2093,12 +2093,15 @@ output.placeholder{
     }
 }
 
-.recommended{
+.recommended{  // This can be a link label, or a big button
     &:hover{
+        text-decoration: none;
+    }
+
+    &:hover:before{
         cursor: help;
         color: #fff!important;
         background: var(--c-highlight);
-        text-decoration: none;
     }
 
     &:before{
