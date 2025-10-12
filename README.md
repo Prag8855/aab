@@ -36,6 +36,10 @@ There are frontend unit tests. You can see them at `https://localhost/tests/unit
 
 Run `mise lint` to run the project's various linters.
 
+## How to deploy
+
+See the [production README](.prod/README.md).
+
 ## Notes for contributors
 
 Before you contribute to this website, please note that...
