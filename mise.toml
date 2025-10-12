@@ -26,24 +26,32 @@ mise generate git-pre-commit --hook=pre-push --write --task=pre-push
 # = RUN ========================================================================
 
 [tasks.site]
-description = "Serve the frontend, reload on changes. Very fast."
+description = "Serve the frontend, reload on changes. Fast and resource-efficient."
 alias = "r"
 run = """
 ursus -wfs -c frontend/ursus_config.py
 """
 
 [tasks.dev]
-description = "Serve the frontend and the backend in docker. Slower."
+description = "Serve the frontend and the backend in docker."
 alias = "d"
 run = """
-open -a Docker;
+#!/usr/bin/env bash
 
-while [[ -z "$(! docker stats --no-stream 2> /dev/null)" ]];
-  do printf ".";
-  sleep 1
+if ! docker info >/dev/null 2>&1; then
+  # Start docker daemon
+  open -a Docker;
+fi
+
+while [[ -z "$(! docker stats --no-stream 2> /dev/null)" ]]; do
+  # Waiting for docker daemon to be ready
+  sleep 1;
 done
 
-docker compose up --build -d
+if [ "$(docker ps -q | wc -l)" -eq 0 ]; then
+  # Starting docker containers
+  docker compose up --build -d;
+fi
 """
 
 [tasks.import-db]
@@ -63,24 +71,26 @@ rm "$TMP_DB"
 [tasks.add-places]
 description = "Create place entries"
 run = """
-./frontend/scripts/add_places.py
+frontend/scripts/add_places.py
 """
 
 [tasks.add-review]
-description = "Add a review to guide"
+description = "Add a review to a guide"
 run = """
-./frontend/scripts/add_review.py
+frontend/scripts/add_review.py
 """
 
 # = TEST =======================================================================
 
 [tasks.test-api]
 run = """
+mise dev
 docker compose exec backend python3 manage.py test -b
 """
 
 [tasks.test-ui]
 run = """
+mise dev
 pytest tests
 """
 
