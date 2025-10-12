@@ -26,9 +26,9 @@ Run `mise site` to only run the frontend. This is much faster than running docke
 
 Run `mise test`. It will run all available tests.
 
-Run `mise test-integration` to only run the UI tests. Run `mise test-integration --update-snapshots` to generate new visual testing snapshots if the UI has changed.
+Run `mise test-ui` to only run the UI tests. Run `mise test-ui --update-snapshots` to generate new visual testing snapshots if the UI has changed.
 
-Run `mise test-backend` to only run the backend and API tests.
+Run `mise test-api` to only run the backend and API tests.
 
 There are frontend unit tests. You can see them at `https://localhost/tests/unit`. These are included in the UI tests.
 

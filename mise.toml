@@ -74,14 +74,14 @@ run = """
 
 # = TEST =======================================================================
 
-[tasks.test-backend]
+[tasks.test-api]
 run = """
 docker compose exec backend python3 manage.py test -b
 """
 
-[tasks.test-frontend]
+[tasks.test-ui]
 run = """
-pytest frontend/tests
+pytest tests
 """
 
 [tasks.test]

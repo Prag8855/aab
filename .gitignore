@@ -1,6 +1,6 @@
+frontend/output
 frontend/templates/api/exchangerates.json
-frontend/tests/snapshot-failures
+tests/snapshot-failures
 .env
 .venv
 *.pid
-frontend/output
