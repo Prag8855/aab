@@ -11,7 +11,7 @@ def previous_step(page):
 
 
 def load_anmeldung_form(page):
-    page.goto("/docs/anmeldung")
+    page.goto("/tests/component/anmeldung-form")
 
 
 def start_anmeldung(page):
