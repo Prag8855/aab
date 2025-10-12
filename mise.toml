@@ -36,29 +36,37 @@ ursus -wfs -c frontend/ursus_config.py
 description = "Serve the frontend and the backend in docker."
 alias = "d"
 run = """
-#!/usr/bin/env bash
-
+# Starting docker daemon
 if ! docker info >/dev/null 2>&1; then
-  # Start docker daemon
   open -a Docker;
 fi
 
+# Waiting for docker daemon to be ready
 while [[ -z "$(! docker stats --no-stream 2> /dev/null)" ]]; do
-  # Waiting for docker daemon to be ready
   sleep 1;
 done
 
+# Starting docker containers
 if [ "$(docker ps -q | wc -l)" -eq 0 ]; then
-  # Starting docker containers
   docker compose up --build -d;
 fi
+
+# Waiting for server to be available
+max_attempts=30
+attempt=1
+until curl --fail -s -k https://localhost >/dev/null; do
+  if [ "$attempt" -ge "$max_attempts" ]; then
+    echo "Can't reach server after $max_attempts seconds."
+    exit 1
+  fi
+  ((attempt++))
+  sleep 1
+done
 """
 
 [tasks.import-db]
 description = "Imports the latest backup of the production database"
 run = """
-#!/usr/bin/env bash
-
 TMP_DB=${TMPDIR:-/tmp}/api.db
 
 scp "aab:/var/db-backups/$(date -I).db" "$TMP_DB"
