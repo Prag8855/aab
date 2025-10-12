@@ -24,9 +24,13 @@ Run `mise site` to only run the frontend. This is much faster than running docke
 
 ## How to test
 
-Run `pytest tests` from the project root. The server must run at `https://localhost` for the tests to pass.
+Run `mise test`. It will run all available tests.
 
-To update the snapshots used for snapshot testing, run `pytest tests --update-snapshots`.
+Run `mise test-integration` to only run the UI tests. Run `mise test-integration --update-snapshots` to generate new visual testing snapshots if the UI has changed.
+
+Run `mise test-backend` to only run the backend and API tests.
+
+There are frontend unit tests. You can see them at `https://localhost/tests/unit`. These are included in the UI tests.
 
 ## How to lint
 
