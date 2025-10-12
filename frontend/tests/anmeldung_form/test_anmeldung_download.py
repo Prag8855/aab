@@ -3,7 +3,7 @@ from ..test_data import people
 from ..anmeldung_form import fill_anmeldung_form_until
 
 
-def test_download_buttons(page, assert_snapshot):
+def test_download_buttons(page, assert_snapshot, tmp_path):
     fill_anmeldung_form_until(page, "options", multiple_people=True)
 
     download_1 = page.get_by_role("button", name="Download your Anmeldung form (part 1)")
@@ -22,21 +22,21 @@ def test_download_buttons(page, assert_snapshot):
         expect(download_1).to_be_disabled()
         download = download_info.value
         assert download.suggested_filename == "anmeldung-form-filled.pdf"
-        download.save_as("/Users/nicolas/Downloads/anmeldung-1.pdf")
+        download.save_as(tmp_path / "anmeldung-1.pdf")
 
     with page.expect_download() as download_info:
         download_2.click()
         expect(download_2).to_be_disabled()
         download = download_info.value
         assert download.suggested_filename == "anmeldung-form-filled.pdf"
-        download.save_as("/Users/nicolas/Downloads/anmeldung-2.pdf")
+        download.save_as(tmp_path / "anmeldung-2.pdf")
 
     with page.expect_download() as download_info:
         download_3.click()
         expect(download_3).to_be_disabled()
         download = download_info.value
         assert download.suggested_filename == "anmeldung-form-filled.pdf"
-        download.save_as("/Users/nicolas/Downloads/anmeldung-3.pdf")
+        download.save_as(tmp_path / "anmeldung-3.pdf")
 
     expect(download_1).not_to_be_disabled()
     expect(download_2).not_to_be_disabled()
