@@ -2,6 +2,10 @@ from playwright.sync_api import expect
 from ..test_data import people, companies
 
 
+def get_form(page):
+    return page.get_by_role("group", name="Tax ID request form")
+
+
 def next_step(page):
     page.get_by_role("button", name="Continue").click()
 
@@ -11,7 +15,7 @@ def previous_step(page):
 
 
 def load_tax_id_form(page):
-    page.goto("/docs/010250-antrag-auf-vergabe-einer-steuerlichen-id")
+    page.goto("/tests/component/tax-id-form")
 
 
 def start_form(page):
@@ -120,6 +124,10 @@ def fill_tax_id_form_until(
     send_to_employer=False,
 ):
     load_tax_id_form(page)
+
+    if step == "start":
+        return
+
     start_form(page)
 
     if step == "purpose":
