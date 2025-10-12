@@ -43,6 +43,9 @@
 		<meta property="og:logo" content="{{ site_url }}/staticimages/logo.png" />
 	{% endblock %}
 
+	<meta name="git-commit-hash" content="{{ commit_id }}">
+	<meta name="page-generated" content="{{ now.isoformat() }}">
+
 	<style>{% scss %}{% include "css/style.scss" %}{% endscss %}</style>
 </head>
 <body>

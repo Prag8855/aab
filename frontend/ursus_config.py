@@ -12,8 +12,10 @@ from extensions.functions import (
 from markupsafe import Markup
 from pathlib import Path
 from ursus.config import config
+from zoneinfo import ZoneInfo
 import logging
 import os
+import git
 
 
 ctx = {}
@@ -392,12 +394,14 @@ ctx["VEHICLE_UMMELDUNG_FEE"] = Decimal("10.80")  # service.berlin.de/dienstleist
 # TECHNICAL
 # ==============================================================================
 
-ctx["now"] = datetime.now()
+ctx["now"] = datetime.now(ZoneInfo("Europe/Berlin"))
 ctx["site_url"] = os.environ.get("URSUS_SITE_URL", "")
 ctx["random_id"] = random_id
 ctx["fail_on"] = fail_on
 ctx["google_maps_api_key"] = "AIzaSyBtGlbcvFspb9habWlXiFcptF8wdFjCb-E"  # Frontend use
 ctx["glossary_groups"] = glossary_groups
+
+ctx["commit_id"] = git.Repo(Path(__file__).parent / "content", search_parent_directories=True).head.commit.hexsha
 
 ctx["RECOMMENDED"] = Markup(
     '&nbsp; <a target="_blank" class="recommended" aria-label="Recommended option" href="/glossary/Recommended"></a>'
