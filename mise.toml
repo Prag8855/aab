@@ -23,6 +23,18 @@ mise generate git-pre-commit --hook=pre-commit --write --task=pre-commit
 mise generate git-pre-commit --hook=pre-push --write --task=pre-push
 """
 
+[tasks.import-db]
+description = "Imports the latest backup of the production database"
+run = """
+#!/usr/bin/env bash
+
+TMP_DB=${TMPDIR:-/tmp}/api.db
+
+scp "aab:/var/db-backups/$(date -I).db" "$TMP_DB"
+docker compose cp "$TMP_DB" backend:/var/db/api.db
+rm "$TMP_DB"
+"""
+
 # = RUN ========================================================================
 
 [tasks.site]
