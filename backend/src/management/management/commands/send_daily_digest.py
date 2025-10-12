@@ -1,7 +1,9 @@
+from datetime import timedelta
 from django.conf import settings
 from django.contrib.auth.models import User
 from django.core.management.base import BaseCommand
 from django.template.loader import render_to_string
+from django.utils import timezone
 from forms.utils import send_email
 from management.admin_site import get_daily_digest_models, get_daily_digest_monitors
 from management.models import error_icons, update_monitor
@@ -17,8 +19,9 @@ class Command(BaseCommand):
     def handle(self, *args, **options):
         error_level = logging.INFO
 
+        last_24_hours = timezone.now() - timedelta(hours=24)
         context = {
-            "models": get_daily_digest_models(),
+            "models": get_daily_digest_models(last_24_hours),
             "monitors": get_daily_digest_monitors(),
         }
 

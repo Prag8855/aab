@@ -8,9 +8,7 @@ from management.models import Monitor, error_icons
 from typing import Any
 
 
-def get_daily_digest_models() -> list[dict[str, Any]]:
-    midnight = datetime.combine(timezone.now().date(), time.min, tzinfo=timezone.now().tzinfo)
-
+def get_daily_digest_models(since: datetime) -> list[dict[str, Any]]:
     return [
         {
             "name": model._meta.verbose_name_plural.capitalize(),
@@ -29,7 +27,7 @@ def get_daily_digest_models() -> list[dict[str, Any]]:
                         ]
                     ),
                 }
-                for instance in model.objects.filter(creation_date__gte=midnight)
+                for instance in model.objects.filter(creation_date__gte=since)
             ],
         }
         for model in apps.get_models()
@@ -60,8 +58,9 @@ class CustomAdminSite(admin.AdminSite):
     index_template = "admin/dashboard.html"
 
     def index(self, request, extra_context=None):
+        midnight = datetime.combine(timezone.now().date(), time.min, tzinfo=timezone.now().tzinfo)
         extra_context = extra_context or {}
-        extra_context["models"] = get_daily_digest_models()
+        extra_context["models"] = get_daily_digest_models(midnight)
         extra_context["monitors"] = get_daily_digest_monitors()
 
         return super().index(request, extra_context=extra_context)
