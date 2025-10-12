@@ -1688,6 +1688,9 @@ input[type=range] {
         width:100%;
         text-align:center;
         font-size:var(--m);
+        .currency[data-currencies]{
+            text-decoration: none;
+        }
     }
 
     input[type=range]{
