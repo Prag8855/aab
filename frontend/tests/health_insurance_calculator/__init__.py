@@ -11,7 +11,7 @@ def previous_step(page):
 
 
 def load_calculator(page):
-    page.goto("/tools/health-insurance-calculator")
+    page.goto("/tests/component/health-insurance-calculator")
 
 
 def select_occupation(page, occupation):
