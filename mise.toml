@@ -23,18 +23,6 @@ mise generate git-pre-commit --hook=pre-commit --write --task=pre-commit
 mise generate git-pre-commit --hook=pre-push --write --task=pre-push
 """
 
-[tasks.import-db]
-description = "Imports the latest backup of the production database"
-run = """
-#!/usr/bin/env bash
-
-TMP_DB=${TMPDIR:-/tmp}/api.db
-
-scp "aab:/var/db-backups/$(date -I).db" "$TMP_DB"
-docker compose cp "$TMP_DB" backend:/var/db/api.db
-rm "$TMP_DB"
-"""
-
 # = RUN ========================================================================
 
 [tasks.site]
@@ -58,6 +46,32 @@ done
 docker compose up --build -d
 """
 
+[tasks.import-db]
+description = "Imports the latest backup of the production database"
+run = """
+#!/usr/bin/env bash
+
+TMP_DB=${TMPDIR:-/tmp}/api.db
+
+scp "aab:/var/db-backups/$(date -I).db" "$TMP_DB"
+docker compose cp "$TMP_DB" backend:/var/db/api.db
+rm "$TMP_DB"
+"""
+
+# = WRITE ======================================================================
+
+[tasks.add-places]
+description = "Create place entries"
+run = """
+./frontend/scripts/add_places.py
+"""
+
+[tasks.add-review]
+description = "Add a review to guide"
+run = """
+./frontend/scripts/add_review.py
+"""
+
 # = TEST =======================================================================
 
 [tasks.test-backend]
@@ -68,6 +82,12 @@ docker compose exec backend python3 manage.py test -b
 [tasks.test-frontend]
 run = """
 pytest frontend/tests
+"""
+
+[tasks.test]
+run = """
+mise test-frontend
+mise test-backend
 """
 
 # = CLEANUP ====================================================================

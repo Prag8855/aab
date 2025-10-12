@@ -3,7 +3,6 @@ from datetime import datetime
 from pathlib import Path
 from ursus.config import config
 from ursus.utils import import_module_or_path
-import argparse
 import re
 import readline
 
@@ -115,20 +114,5 @@ def add_review():
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(
-        prog="add_expert",
-        description="Creates an expert entry",
-    )
-    parser.add_argument(
-        "-c",
-        "--config",
-        help="Path to a Python config file or module. The `config` variable will be imported from that file.",
-    )
-    args = parser.parse_args()
-
-    if args.config:
-        import_module_or_path(args.config)
-    elif Path("./ursus_config.py").exists():
-        import_module_or_path("ursus_config.py")
-
+    import_module_or_path(Path(__file__).parent.parent / "ursus_config.py")
     add_review()
