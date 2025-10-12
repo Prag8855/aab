@@ -34,6 +34,7 @@ def browser_context_args(browser_context_args, device_config):
         "reduced_motion": "reduce",  # Disable smooth scrolling
         "timezone_id": "Europe/Berlin",
         "locale": "fr-CA",
+        "ignore_https_errors": True,
     }
 
 

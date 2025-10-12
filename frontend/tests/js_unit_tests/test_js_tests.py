@@ -13,7 +13,7 @@ def get_mocha_test_results(base_url):
     if not mocha_test_results:
         with sync_playwright() as p:
             browser = p.chromium.launch(headless=True)
-            page = browser.new_page()
+            page = browser.new_page(ignore_https_errors=True)
             page.goto(f"{base_url}/tests/unit")
             page.wait_for_function("() => window.testResults !== undefined", timeout=5000)
             mocha_test_results = page.evaluate("window.testResults")

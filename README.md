@@ -24,7 +24,7 @@ Run `mise site` to only run the frontend. This is much faster than running docke
 
 ## How to test
 
-Run `pytest tests` from the project root. The server must run at `http://localhost` for the tests to pass.
+Run `pytest tests` from the project root. The server must run at `https://localhost` for the tests to pass.
 
 To update the snapshots used for snapshot testing, run `pytest tests --update-snapshots`.
 
