@@ -7,7 +7,7 @@ PROJECT_ROOT="$(cd "$(dirname "$0")/.." && pwd)"
 apt update
 apt install -y webhook
 
-source ${PROJECT_ROOT}/.env
+. "${PROJECT_ROOT}/.env"
 
 mkdir -p /etc/webhook
 mkdir -p /etc/systemd/system
