@@ -59,5 +59,5 @@ User=nobody
 Group=nogroup
 EOF
 
-systemctl enable "$SOCKET_FILE"
-systemctl start "$SOCKET_FILE"
+systemctl enable webhook.socket
+systemctl start webhook.socket
