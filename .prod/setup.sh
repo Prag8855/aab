@@ -33,27 +33,20 @@ cat <<EOF > "$HOOKS_FILE"
             name: ref
 EOF
 
-SOCKET_FILE="/etc/systemd/system/webhook.socket"
-cat <<EOF > "$SOCKET_FILE"
-[Unit]
-Description=Webhook server socket
-
-[Socket]
-ListenStream=9000
-
-[Install]
-WantedBy=multi-user.target
-EOF
-
 SERVICE_FILE="/etc/systemd/system/webhook.service"
 cat <<EOF > "$SERVICE_FILE"
 [Unit]
-Description=Webhook server
+Description=Webhooks for CI
+After=network.target
 
 [Service]
-Type=exec
-ExecStart=webhook -nopanic -hooks "${HOOKS_FILE}" -template -verbose
+Type=simple
+ExecStart=webhook -port 9000 -hooks "$HOOKS_FILE" -template -verbose
+Restart=on-failure
+PrivateTmp=true
+[Install]
+WantedBy=default.target
 EOF
 
-systemctl enable webhook.socket
-systemctl restart webhook.socket
+systemctl enable webhook
+systemctl restart webhook
