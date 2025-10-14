@@ -1,8 +1,8 @@
 # Deployment to production
 
-Deployments are triggered by a GitHub webhook. It requires `webhook` to be installed and running.
+Deployments are triggered by a GitHub webhook. It requires `webhook` to be installed and running. The webhook runs at `https://allaboutberlin.com:9000/hooks/deploy`.
 
-The webhook runs at `https://allaboutberlin.com:9000/hooks/deploy`.
+`webhook` runs as a systemd socket and service. To see the `webhook` logs, run `journalctl -u webhook.service` and `journalctl -u webhook.socket`.
 
 ## Setup
 
