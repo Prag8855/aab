@@ -11,10 +11,10 @@ services:
   frontend:
     build:
       target: prod
-      args:
-        - "URSUS_SITE_URL=https://allaboutberlin.com"
-        - "CLOUDFLARE_ZONE"
-        - "CLOUDFLARE_API_KEY"
+    environment:
+      - "URSUS_SITE_URL=https://allaboutberlin.com"
+      - "CLOUDFLARE_ZONE"
+      - "CLOUDFLARE_API_KEY"
     volumes: !override
       - ".:/var/project:ro"
       - "temp_static_site:/var/output"
