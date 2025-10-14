@@ -53,10 +53,6 @@ Description=Webhook server
 [Service]
 Type=exec
 ExecStart=webhook -nopanic -hooks "${HOOKS_FILE}" -template
-
-# Which user should the webhooks run as?
-User=nobody
-Group=nogroup
 EOF
 
 systemctl enable webhook.socket
