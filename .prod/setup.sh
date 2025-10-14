@@ -9,6 +9,9 @@ apt install -y webhook
 
 source .env
 
+mkdir -p /etc/webhook
+mkdir -p /etc/systemd/system
+
 HOOKS_FILE="/etc/webhook/hooks.yml"
 cat <<EOF > "$HOOKS_FILE"
 - id: deploy
