@@ -52,8 +52,8 @@ Description=Webhook server
 
 [Service]
 Type=exec
-ExecStart=webhook -nopanic -hooks "${HOOKS_FILE}" -template
+ExecStart=webhook -nopanic -hooks "${HOOKS_FILE}" -template -verbose
 EOF
 
 systemctl enable webhook.socket
-systemctl start webhook.socket
+systemctl restart webhook.socket
