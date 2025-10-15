@@ -20,11 +20,11 @@ cat <<EOF > "$HOOKS_FILE"
   trigger-rule:
     and:
       - match:
-          type: payload-hmac-sha1
+          type: payload-hash-sha256
           secret: ${GITHUB_WEBHOOK_SECRET}
           parameter:
             source: header
-            name: X-Hub-Signature
+            name: X-Hub-Signature-256
       - match:
           type: value
           value: refs/heads/master
