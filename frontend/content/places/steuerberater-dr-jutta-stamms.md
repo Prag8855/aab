@@ -1,5 +1,5 @@
 ---
-Name: Tax Accountant Dr. Jutta Stamms
+Name: Stamms Tax Consulting
 Website: https://www.steuerberater-stamms.de/
 Email: 
 Address: Albrechtstraße 10F
