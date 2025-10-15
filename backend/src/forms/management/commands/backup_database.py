@@ -5,6 +5,7 @@ from django.core.management.base import BaseCommand
 from django.utils import timezone
 from management.models import update_monitor
 from shutil import copy
+from subprocess import run
 import logging
 
 
@@ -33,7 +34,17 @@ class Command(BaseCommand):
                             file.unlink()
                     except ValueError:
                         pass
+
+            logging.info(f"settings.REMOTE_DATABASE_BACKUPS_DIR is {settings.REMOTE_DATABASE_BACKUPS_DIR}")
+
+            if settings.REMOTE_DATABASE_BACKUPS_DIR:
+                local = str(settings.DATABASE_BACKUPS_DIR).rstrip("/") + "/"
+                remote = settings.REMOTE_DATABASE_BACKUPS_DIR.rstrip("/") + "/"
+                logger.info(f"Syncing to {local} to {remote}")
+                run(["rsync", "-az", "--delete", local, remote], check=True)
         except Exception as exc:
+            logger.exception("Database backup failed")
             update_monitor("backup-database", logging.ERROR, str(exc))
         else:
+            logger.exception("Database backup complete")
             update_monitor("backup-database", logging.INFO)

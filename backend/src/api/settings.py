@@ -43,6 +43,7 @@ APPEND_SLASH = True
 WSGI_APPLICATION = "api.wsgi.application"
 
 DATABASE_BACKUPS_DIR = Path("/var/db-backups")
+REMOTE_DATABASE_BACKUPS_DIR = os.environ.get("REMOTE_DB_BACKUPS_PATH")
 DATABASE_PATH = Path("/var/db/api.db")
 DATABASES = {
     "default": {

@@ -7,5 +7,9 @@ Deployments are triggered by a GitHub webhook. It requires `webhook` to be insta
 ## Setup
 
 1. Clone this repository
-1. Create a `.env` file in your project root. Use `.env.example` as a template.
-2. Run `setup.sh`.
+2. Create a `.env` file in your project root. Use `.env.example` as a template.
+3. Run `setup.sh`.
+
+## Remote database backups
+
+Add `REMOTE_DB_BACKUPS_PATH` to your `.env` file to enable remote database backups. Make sure that the host machine can connect to that remote server. Use `ssh-copy-id` to enable password-less login, and make sure the remote machine is in the production server's `.ssh/known_hosts`. This is not handled by ``.prod/setup.py`.
