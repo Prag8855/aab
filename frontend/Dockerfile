@@ -13,6 +13,8 @@ RUN apt-get update \
     && mkdir -p /var/output /var/live-output \
     && rm -rf /var/lib/apt/lists/* /requirements.txt
 
+ENV URSUS_OUTPUT_DIR=/var/output
+
 WORKDIR /var/project/frontend
 
 # = PROD =======================================================================

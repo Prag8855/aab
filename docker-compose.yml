@@ -10,7 +10,6 @@ services:
       target: dev
     environment:
       - "URSUS_SITE_URL=https://localhost"
-      - "URSUS_OUTPUT_DIR=/var/output"
     volumes:
       - ".:/var/project:ro"
       - "./frontend/output:/var/output"
