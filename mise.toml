@@ -104,8 +104,8 @@ pytest tests
 
 [tasks.test]
 run = """
-mise test-frontend
-mise test-backend
+mise test-ui
+mise test-api
 """
 
 # = CLEANUP ====================================================================
