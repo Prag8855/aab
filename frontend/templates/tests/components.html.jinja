@@ -8,7 +8,6 @@
 {% include '_js/vue/components/checkbox.js' %}
 {% include '_js/vue/components/children-input.js' %}
 {% include '_js/vue/components/city-input.js' %}
-{% include '_js/vue/components/collapsible.js' %}
 {% include '_js/vue/components/country-input.js' %}
 {% include '_js/vue/components/date-input.js' %}
 {% include '_js/vue/components/email-input.js' %}
@@ -44,37 +43,6 @@
 {% block content %}
 	<h1>Component test</h1>
 	<div class="article-body show-errors">
-		<h2>Collapsibles</h2>
-		<collapsible>
-			<template v-slot:header>
-				Closed collapsible
-			</template>
-			<p>This part is not visible</p>
-		</collapsible>
-
-		<collapsible static>
-			<template v-slot:header>
-				Static collapsible
-			</template>
-			<progress min="0" max="5" value="3"></progress>
-			<p>This collapsible is static</p>
-		</collapsible>
-
-		<collapsible open>
-			<template v-slot:header>
-				<small>Collapsible test</small>
-				Open collapsible
-			</template>
-			<progress min="0" max="5" value="3"></progress>
-			<p>A collapsible that is open.</p>
-			<hr>
-			<div class="buttons bar">
-				<button class="button primary"><i class="icon left" aria-hidden="true"></i> Primary</button>
-				<button class="button">Secondary <i class="icon right" aria-hidden="true"></i></button>
-				<button class="button whatsapp">{% include "_css/icons/whatsapp.svg" %} WhatsApp</button>
-			</div>
-		</collapsible>
-
 		<h2>Currency</h2>
 		<p>
 			<eur cents amount="12345.67123"></eur> (with cents)

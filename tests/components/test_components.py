@@ -1,4 +1,13 @@
-def test_components(page, assert_snapshot):
-    page.goto("/tests/components")
+import pytest
+
+
+@pytest.mark.parametrize(
+    "component",
+    [
+        "collapsible",
+    ],
+)
+def test_component_snapshot(page, assert_snapshot, component):
+    page.goto(f"/tests/component/{component}")
     content = page.locator("main > article")
     assert_snapshot(content.screenshot())
