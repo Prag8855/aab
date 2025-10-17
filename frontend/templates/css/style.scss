@@ -2917,6 +2917,7 @@ collapsible, letter-generator, feedback-residence-permit, health-insurance-calcu
         padding: var(--s);
         margin-right: calc(var(--s) * -1);
         color: var(--c-border-input);
+        background: transparent;
 
         &:hover{
             color: var(--c-border-input-focused);
