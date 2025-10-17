@@ -173,4 +173,35 @@
         <textarea placeholder="Placeholder text" required></textarea>
         <textarea placeholder="Placeholder text" disabled></textarea>
     </div>
+
+    <hr>
+
+    <div class="form-group">
+        <span class="label">Optional</span>
+        <input type="text">
+    </div>
+    <div class="form-group optional">
+        <span class="label">Explicitly optional</span>
+        <input type="text">
+    </div>
+    <div class="form-group optional">
+        <span class="label">Very long label name, Mietschuldenfreiheitsbescheinigung</span>
+        <textarea>Input text</textarea>
+    </div>
+
+    <hr>
+
+    <div class="form-group">
+        <label>Instructions</label>
+        <input type="text">
+        <span class="input-instructions">A set of instructions intended to provide extra information or context about a form control.</span>
+        <a class="input-instructions internal-link" href="/guides/german-health-insurance">Internal link</a>
+        <input type="text">
+        <a class="input-instructions external-link" href="https://google.com">External link</a>
+        <input type="text">
+        <details class="input-instructions">
+            <summary>Collapsible instructions</summary>
+            <strong>This</strong> is how you do instructions!
+        </details>
+    </div>
 {% endblock %}
