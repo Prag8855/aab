@@ -151,4 +151,5 @@ description = "Run git pre-push checks"
 run = """
 mise lint
 ursus -c frontend/ursus_config.py
+mise test-ui
 """
