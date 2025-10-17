@@ -7,6 +7,7 @@ import pytest
         "collapsible",
         "eur",
         "glossary",
+        "inputs",
         "recommended",
     ],
 )
