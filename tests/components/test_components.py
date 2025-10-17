@@ -5,6 +5,7 @@ import pytest
     "component",
     [
         "collapsible",
+        "eur",
     ],
 )
 def test_component_snapshot(page, assert_snapshot, component):
