@@ -7,6 +7,7 @@ import pytest
         "collapsible",
         "eur",
         "glossary",
+        "recommended",
     ],
 )
 def test_component_snapshot(page, assert_snapshot, component):
@@ -25,3 +26,16 @@ def test_glossary_click(page, assert_snapshot):
 
     dialog.locator(".close-button").click()
     assert not dialog.evaluate("dialog => dialog.open")
+
+
+def test_recommended_click(page, assert_snapshot):
+    page.goto("/tests/component/recommended")
+    link = page.locator("main > article a.recommended").first
+
+    # Test hover state
+    link.hover()
+    assert_snapshot(page.locator("main > article").screenshot())
+
+    # Test click
+    link.click()
+    assert page.locator("dialog").first.evaluate("dialog => dialog.open")
