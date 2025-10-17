@@ -35,8 +35,6 @@ class Command(BaseCommand):
                     except ValueError:
                         pass
 
-            logging.info(f"settings.REMOTE_DATABASE_BACKUPS_DIR is {settings.REMOTE_DATABASE_BACKUPS_DIR}")
-
             if settings.REMOTE_DATABASE_BACKUPS_DIR:
                 local = str(settings.DATABASE_BACKUPS_DIR).rstrip("/") + "/"
                 remote = settings.REMOTE_DATABASE_BACKUPS_DIR.rstrip("/") + "/"
