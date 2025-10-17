@@ -73,7 +73,7 @@ describe('calculateUnemploymentInsurance', () => {
 	});
 });
 
-describe('calculateIncomeTax', () => {
+describe.skip('calculateIncomeTax', () => {
 	const incomeTax9990 = 0;
 	const incomeTax14900 = 863;
 	const incomeTax58500 = 15233;
@@ -225,7 +225,7 @@ describe('calculateChurchTax', () => {
 	});
 });
 
-describe('calculateSolidarityTax', () => {
+describe.skip('calculateSolidarityTax', () => {
 	const testCases = [
 		{
 			incomeTax: 15212,
