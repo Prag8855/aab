@@ -16,8 +16,8 @@ describe('shouldTrackUrl', () => {
 	it('Should not track internal links', function() {
 		assert.equal(shouldTrackUrl('/guides/hello-world'), false);
 		assert.equal(shouldTrackUrl('/'), false);
-		assert.equal(shouldTrackUrl('https://allaboutberlin.com/guides/hello-world'), false);
-		assert.equal(shouldTrackUrl('https://allaboutberlin.com/'), false);
+		assert.equal(shouldTrackUrl('{{ site_url }}/guides/hello-world'), false);
+		assert.equal(shouldTrackUrl('{{ site_url }}/'), false);
 	});
 });
 {% endjs %}
