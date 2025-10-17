@@ -370,6 +370,7 @@ class ResidencePermitFeedback(MultiStageFeedback):
         "appointment_date",
         "pick_up_date",
         "notes",
+        "email",
     ]
 
     def clean(self):
@@ -443,6 +444,7 @@ class CitizenshipFeedback(MultiStageFeedback):
         "first_response_date",
         "appointment_date",
         "notes",
+        "email",
     ]
 
     def clean(self):

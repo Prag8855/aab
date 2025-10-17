@@ -54,11 +54,11 @@ class Case(models.Model):
     referrer = models.CharField(blank=True, help_text="Part of the commissions will be paid out to that referrer")
 
     daily_digest_fields = [
-        "name",
         "broker",
         "contact_method",
-        "occupation",
         "income",
+        "occupation",
+        "name",
         "age",
         "is_married",
         "children_count",
