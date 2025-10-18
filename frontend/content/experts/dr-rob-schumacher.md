@@ -6,4 +6,4 @@ Website: /out/feather
 Picture: experts/photos/dr-rob-schumacher-feather-insurance.jpg
 ---
 
-Rob Schumacher is a health insurance broker and the founder of [Feather insurance](/out/feather). We work together since 2018.
+Rob Schumacher is a health insurance broker and the founder of [Feather Insurance](/out/feather). We work together since 2018.

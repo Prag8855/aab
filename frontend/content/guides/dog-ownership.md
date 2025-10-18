@@ -88,7 +88,7 @@ It does not cover you if your dog...
 - Bites a member of your family
 - Damages your own property
 
-Compare prices with [Tarifcheck](/out/tarifcheck-dogs). If you don't speak German, [Feather](/out/feather-dogs) and [Getsafe](/out/getsafe-dogs) are your only options.
+Compare prices with [Tarifcheck](/out/tarifcheck-dogs). If you don't speak German, [Feather](/out/feather-dogs) and [Getsafe](/out/getsafe-dogs) the only English-speaking options.
 
 Your coverage must be at least 1 million euros.[^18] If you travel with your dog, make sure your insurance also covers you in other countries. If your dog is a [dangerous breed](/guides/dog-ownership#dangerous-breeds), make sure your insurance covers dangerous breeds.
 
@@ -100,7 +100,7 @@ It covers the veterinarian bills when your dog gets sick. It rarely covers routi
 
 The cost depends on your dog's age, race and sex. Basic coverage costs around €20 per month. Full coverage costs around €60 per month.
 
-Compare prices with [Tarifcheck](/out/tarifcheck-pethealth). If you don't speak German, [Getsafe](/out/getsafe-pethealth) and [Feather](/out/feather-pethealth) sell pet health insurance, and they speak English.
+Compare prices with [Tarifcheck](/out/tarifcheck-pethealth). If you don't speak German, [Feather](/out/feather-pethealth) and [Getsafe](/out/getsafe-pethealth) sell pet health insurance, and they speak English.
 
 ## How to behave with a dog
 

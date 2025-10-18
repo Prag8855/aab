@@ -200,9 +200,9 @@ Do not choose private health insurance yourself. It's a really bad idea. [Ask a 
 
 {% include "_blocks/healthInsuranceQuestion.html" %}
 
-[Feather](/out/feather-private) only sells private health insurance from Hallesche. It might not be the best option for you. [Ask a broker](#insurance-brokers) to compare all options from all insurers.
-
 [Ottonova](/out/ottonova) sells their own private health insurance. It's rarely the best option.[^77] Don't choose Ottonova directly; [ask a broker](#insurance-brokers) to help you. If Ottonova is the best option for you, the broker will tell you.[^76]
+
+[Feather](/out/feather-private) sells private health insurance from multiple companies.[^41]
 
 ## Expat health insurance
 
@@ -379,7 +379,7 @@ Talk to a broker (*Makler*), not an agent (*Vertreter*). Brokers are independent
 
 Choose a broker who works with immigrants. Your needs are different, and your broker must know how to help you.
 
-**[Feather](/out/feather)** is an agent, not a broker. They have an excellent service, but they only sell insurance from a few companies.[^61] They might not sell the best insurance for your needs.
+**[Feather](/out/feather)** now sells private health insurance from all providers, just like a broker.
 
 **[Ottonova](/out/ottonova)** sells their own insurance. It's rarely the best option.[^83] Even if you get Ottonova, it's better to get it through a broker. See my [review of Ottonova](/guides/ottonova-review).
 
@@ -499,6 +499,7 @@ When you are self-employed, the cost of public health insurance is based on your
 [^38]: [Feather Insurance](https://feather-insurance.com/blog/is-an-ehic-card-still-valid-in-germany/#:~:text=generally%20limited%20to%203%20months) (2023)
 [^39]: [Feather Insurance](https://faq.feather-insurance.com/en/articles/29608-what-is-ehic-european-health-insurance-card#:~:text=coverage%20throughout%20the%20whole%20duration%20of%20studies) (2023), [Feather Insurance](https://faq.feather-insurance.com/en/articles/28609-i-am-about-to-enrol-into-a-german-university-what-insurance-options-do-i-have#:~:text=if%20you%20are%20statutorily%20insured%20in%20one%20of%20the%20aforementioned%20countries%2C%20you%20can%20stay%20on%20your%20home%20insurance%20for%20the%20whole%20duration%20of%20your%20studies%20regardless%20of%20your%20age.) (May 2025), [krankenkassen.de](https://www.krankenkassen.de/incoming/student/ehic/) (May 2025)
 [^40]: [Reddit](https://old.reddit.com/r/germany/comments/1lo8l43/how_was_your_personal_experience_with_private_vs/) (July 2025)
+[^41]: Rob Schumacher at Feather (October 2025)
 [^42]: [feather-insurance.com](https://feather-insurance.com/blog/how-long-is-the-european-health-insurance-card-valid-after-moving-to-germany/#:~:text=if%20a%20student%20begins%20working%20in%20the%20new%20country%20of%20residence) (2023), [verwaltung.bund.de](https://verwaltung.bund.de/leistungsverzeichnis/en/rechte-und-pflichten/102837937#:~:text=Germany%2C%20for%20example-,if%20you%20start%20a%20job,-.%20In%20the%20case) (April 2025), [uni-frankfurt.de](https://www.uni-frankfurt.de/120841082/Krankenversicherung_f%C3%BCr_internationale_Studierende#:~:text=(dies%20gilt%20schon%20ab%201%2C-%20euro%20verdienst)) (May 2025)
 [^43]: [Mona Anbari](https://versicherungsbuero-weiss.com/) (April 2025)
 [^44]: [Seamus Wolf](https://horizon65.com/) (April 2025), [Emily Archer](https://www.archer-relocation.com/) (April 2025)
@@ -508,7 +509,6 @@ When you are self-employed, the cost of public health insurance is based on your
 [^58]: [Seamus Wolf](https://horizon65.com/) (April 2025), [finanztip](https://www.finanztip.de/pkv/pkv-kosten/#:~:text=fur%20junge%2C%20gesunde%20menschen%20ist%20die%20private%20krankenversicherung) (February 2025), [verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/krankenversicherung/private-krankenversicherung-nicht-fuer-jeden-sinnvoll-13884#:~:text=kann%20es%20unter%20finanziellen%20gesichtspunkten%20sinnvoll%20sein%2C%20in%20eine%20private%20krankenversicherung%20zu%20wechseln) (2024)
 [^59]: [finanztip.de](https://www.finanztip.de/pkv/pkv-wechsel/#:~:text=bleib%20fur%20die%20dauer%20des%20studiums%20besser%20in%20der%20gesetzlichen%20krankenversicherung) (January 2025), [Feather Insurance](https://faq.feather-insurance.com/en/articles/28609-i-am-about-to-enrol-into-a-german-university-what-insurance-options-do-i-have?utm_source=allaboutberlin#:~:text=we%20strongly%20recommend%20this%20option%20to%20any%20student%20under%2030%20years%20of%20age) (May 2025)
 [^60]: [Seamus Wolf](https://horizon65.com/) (April 2025)
-[^61]: [Emily Archer](https://www.archer-relocation.com/) (April 2025), [Seamus Wolf](https://horizon65.com/) (April 2025), multiple insurance brokers (2024, 2025)
 [^62]: [€250 to €350 (FinanXpats)](https://www.finanxpats.com/health-insurance/2025-health-insurance-guide-for-expats#:~:text=pays%20around%20%E2%82%AC250%E2%80%93350%20per%20month) (April 2025), [€250 to €390 (Feather)](/out/feather-private) (April 2025), [€260 to €350 (Ottonova)](/out/ottonova) (April 2025)
 [^63]: [Seamus Wolf](https://horizon65.com/) (May 2025)
 [^70]: [online-pkv.de](https://www.online-pkv.de/pkv-bu-blog/gibt-es-eine-selbstbeteiligung-in-der-gkv/) (January 2025), [gesetzlichekrankenkassen.de](https://www.gesetzlichekrankenkassen.de/leistungen/leistungen.html#:~:text=%20mindestens%20aber%20eur%205%2C-%20und%20hochstens%20eur%2010%2C-%20pro%20packung%20zu%20zahlen) (June 2025)

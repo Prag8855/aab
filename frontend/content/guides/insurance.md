@@ -110,7 +110,7 @@ Pet health insurance (*[[Tierkrankenversicherung]]* or *Hundekrankenversicherung
 
 The price of pet insurance depends on the age, race and sex of your dog. It costs around €20 per month if your dog is still young.
 
-If you don't speak German, [Getsafe](/out/getsafe-pethealth) and [Feather](/out/feather-pethealth) sell pet health insurance, and they speak English. Use [Tarifcheck](/out/tarifcheck-pethealth) to compare options.
+If you don't speak German, [Feather](/out/feather-pethealth) and [Getsafe](/out/getsafe-pethealth) sell pet health insurance, and they speak English. Use [Tarifcheck](/out/tarifcheck-pethealth) to compare options.
 
 **[Guide for Berlin dog owners ➞](/guides/dog-ownership)**
 
