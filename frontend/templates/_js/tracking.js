@@ -1,7 +1,9 @@
 {% js %}
-
-const plausibleFallback = function() { (window.plausible.q = window.plausible.q || []).push(arguments) };
-window.plausible = window.plausible || plausibleFallback;
+// Fallback tracking if Plausible is not working as advertised
+window.plausible ??= function() {
+	console.log(`Plausible: ${arguments[0]}`, arguments[1]?.props);
+	(window.plausible.q ??= []).push(arguments);
+}
 
 // Save referals for 30 days
 const urlParams = new URLSearchParams(window.location.search);
