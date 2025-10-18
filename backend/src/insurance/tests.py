@@ -11,13 +11,18 @@ class CaseTestCase(ScheduledMessageEndpointMixin, APITestCase):
 
     def setUp(self):
         self.example_request = {
+            "contact_method": "EMAIL",
             "name": "John Smith",
             "income": 30000,
             "occupation": "selfEmployed",
             "age": 30,
             "is_married": True,
+            "children_count": 3,
+            "is_applying_for_first_visa": True,
+            "has_eu_public_insurance": True,
+            "has_german_public_insurance": True,
             "email": "contact@nicolasbouliane.com",
-            "notes": "Did you ever think that maybe there’s more to life than being really, really... really ridiculously well insured?",
+            "notes": "Did you ever think that maybe there’s more to life than being really, really... really ridiculously well insured?\n\nI don't think so.",
             "referrer": "partner123",
             "broker": "christina-weber",
         }
