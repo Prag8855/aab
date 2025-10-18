@@ -17,6 +17,7 @@ const trackedStagesMixin = {
 							stage: newStage,
 							pageSection: getNearestHeadingId(this.$el),
 							referrer: getReferrer(),
+							...(this.trackedStagesExtraData || {}),
 						}});
 					}
 					this.trackedStages.add(newStage);

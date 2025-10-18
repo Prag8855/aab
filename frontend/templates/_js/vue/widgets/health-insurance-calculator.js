@@ -260,6 +260,17 @@ Vue.component('health-insurance-calculator', {
 		// Printed values
 		salaryOrIncome(){ return occupations.isEmployed(this.occupation) ? 'Salary' : 'Income' },
 		childOrChildren(){ return this.childrenCount === 1 ? 'child' : 'children' },
+
+
+		trackedStagesExtraData() {
+			const data = {
+				partner: this.broker.id,
+			};
+			if(this.contactMethod){
+				data.contactMethod = this.contactMethod;
+			}
+			return data;
+		},
 	},
 	methods: {
 		nextStage(){
@@ -318,9 +329,6 @@ Vue.component('health-insurance-calculator', {
 
 				if(response.ok){
 					this.goToStage('thank-you');
-					if(this.contactMethod === 'WHATSAPP'){
-						plausible(this.trackAs, { props: { stage: 'whatsapp', pageSection: getNearestHeadingId(this.$el) }});
-					}
 				}
 				else{
 					this.goToStage('error');
