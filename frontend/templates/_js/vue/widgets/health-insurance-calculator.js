@@ -101,13 +101,6 @@ Vue.component('health-insurance-calculator', {
 		monthlyIncome(){ return this.yearlyIncome / 12 },
 		progressBarLength(){ return this.stages.filter(s => !['thank-you', 'error'].includes(s)).length },
 		progressBarValue(){ return Math.min(this.stageIndex, this.progressBarLength) },
-		sortedOccupations(){
-			const sortedOccupations = ['employee', 'studentUnemployed', 'selfEmployed', 'azubi', 'unemployed', null];
-			if(this.initialOccupation){
-				return [this.initialOccupation, ...sortedOccupations.filter(o => o !== this.initialOccupation)];
-			}
-			return sortedOccupations;
-		},
 
 		requireCompleteForm(){
 			// When asking a question, the fields are only a suggestion
@@ -409,39 +402,49 @@ Vue.component('health-insurance-calculator', {
 				</ul>
 				<hr>
 				<div class="buttons bar">
-					<button class="button primary" @click="selectOccupation(initialOccupation)">Find health insurance <i class="icon right"></i></button>
+					<button :data-occupation="initialOccupation" class="button primary" @click="selectOccupation(initialOccupation)">Find health insurance <i class="icon right"></i></button>
 				</div>
 			</template>
 
-			<template v-if="stage === 'occupation' && !['employee', 'studentUnemployed', 'selfEmployed'].includes(initialOccupation)">
+			<template v-if="stage === 'occupation' && !initialOccupation">
 				<p v-if="mode === 'calculator'"><strong>Let's find the right health insurance.</strong> What is your occupation?</p>
 				<template v-if="mode === 'question'">
 					<h3>What is your occupation?</h3>
 					<p>Your health insurance options depend on what you do.</p>
 				</template>
 				<ul class="buttons grid" aria-label="Occupations">
-					<li v-for="occ in sortedOccupations" :key="occ">
-						<button v-if="occ === 'employee'" @click="selectOccupation('employee')">
+					<li>
+						<button data-occupation="employee" @click="selectOccupation('employee')">
 							{% endraw %}{% include "_css/icons/job.svg" %}{% raw %}
 							Employee
 						</button>
-						<button v-else-if="occ === 'studentUnemployed'" @click="selectOccupation('studentUnemployed')">
+					</li>
+					<li>
+						<button data-occupation="studentUnemployed" @click="selectOccupation('studentUnemployed')">
 							{% endraw %}{% include "_css/icons/student.svg" %}{% raw %}
 							Student
 						</button>
-						<button v-else-if="occ === 'selfEmployed'" @click="selectOccupation('selfEmployed')">
+					</li>
+					<li>
+						<button data-occupation="selfEmployed" @click="selectOccupation('selfEmployed')">
 							{% endraw %}{% include "_css/icons/business.svg" %}{% raw %}
 							Self-employed
 						</button>
-						<button v-else-if="occ === 'azubi'" @click="selectOccupation('azubi')">
+					</li>
+					<li>
+						<button data-occupation="azubi" @click="selectOccupation('azubi')">
 							{% endraw %}{% include "_css/icons/helper.svg" %}{% raw %}
 							Apprentice
 						</button>
-						<button v-else-if="occ === 'unemployed'" @click="selectOccupation('unemployed')">
+					</li>
+					<li>
+						<button data-occupation="unemployed" @click="selectOccupation('unemployed')">
 							{% endraw %}{% include "_css/icons/visiting.svg" %}{% raw %}
 							Unemployed
 						</button>
-						<button v-else-if="occ === null" @click="selectOccupation('other')">
+					</li>
+					<li>
+						<button data-occupation="other" @click="selectOccupation('other')">
 							{% endraw %}{% include "_css/icons/family.svg" %}{% raw %}
 							It's complicated
 						</button>

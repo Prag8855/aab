@@ -12,37 +12,37 @@ import re
 
 def test_questions_employee(page, assert_snapshot):
     load_calculator(page)
-    select_occupation(page, "Employee")
+    select_occupation(page, "employee")
     assert_snapshot(get_calculator(page).screenshot())
 
 
 def test_questions_student(page, assert_snapshot):
     load_calculator(page)
-    select_occupation(page, "Student")
+    select_occupation(page, "studentUnemployed")
     assert_snapshot(get_calculator(page).screenshot())
 
 
 def test_questions_self_employed(page, assert_snapshot):
     load_calculator(page)
-    select_occupation(page, "Self-employed")
+    select_occupation(page, "selfEmployed")
     assert_snapshot(get_calculator(page).screenshot())
 
 
 def test_questions_apprentice(page, assert_snapshot):
     load_calculator(page)
-    select_occupation(page, "Apprentice")
+    select_occupation(page, "azubi")
     assert_snapshot(get_calculator(page).screenshot())
 
 
 def test_questions_unemployed(page, assert_snapshot):
     load_calculator(page)
-    select_occupation(page, "Unemployed")
+    select_occupation(page, "unemployed")
     assert_snapshot(get_calculator(page).screenshot())
 
 
 def test_questions_complicated(page, assert_snapshot):
     load_calculator(page)
-    select_occupation(page, "It's complicated")
+    select_occupation(page, "other")
     assert_snapshot(get_calculator(page).screenshot())
 
 
