@@ -251,7 +251,7 @@ Vue.component('health-insurance-calculator', {
 		},
 
 		// Printed values
-		salaryOrIncome(){ return occupations.isEmployed(this.occupation) ? 'Salary' : 'Income' },
+		salaryOrIncome(){ return occupations.salaryOrIncome(this.occupation) === 'salary' ? 'Salary' : 'Income' },
 		childOrChildren(){ return this.childrenCount === 1 ? 'child' : 'children' },
 
 
@@ -343,7 +343,7 @@ Vue.component('health-insurance-calculator', {
 		},
 	},
 	template: `
-		<collapsible class="health-insurance-calculator" :static="static" :aria-label="trackAs">
+		<collapsible :data-stage="stage" class="health-insurance-calculator" :static="static" :aria-label="trackAs">
 			<template v-slot:header v-text="trackAs">
 				<template v-if="mode === 'question'">Ask our<span class="no-mobile"> health</span> insurance expert</template>
 				<template v-else>Health insurance calculator</template>

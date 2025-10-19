@@ -177,6 +177,7 @@ const pensions = {
 
 // Full list: azubi, employee, selfEmployed, studentEmployee, studentSelfEmployed, studentUnemployed, unemployed
 const occupations = {
+	salaryOrIncome: (occupation) => (['employee', 'azubi'].includes(occupation) ? 'salary' : 'income'),
 	isEmployed: (occupation) => ['employee', 'azubi', 'studentEmployee'].includes(occupation),
 	isSelfEmployed: (occupation) => ['selfEmployed', 'studentSelfEmployed'].includes(occupation),
 	isUnemployed: (occupation) => ['unemployed', 'studentUnemployed'].includes(occupation),

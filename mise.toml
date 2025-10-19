@@ -102,6 +102,13 @@ mise dev
 pytest tests
 """
 
+[tasks.update-snapshots]
+run = """
+mise dev
+rm -rf tests/snapshots/*
+pytest tests --update-snapshots
+"""
+
 [tasks.test]
 run = """
 mise test-ui

@@ -1,10 +1,10 @@
 occupations = [
-    "studentUnemployed",
-    "employee",
-    "selfEmployed",
     "azubi",
-    "unemployed",
+    "employee",
     "other",
+    "selfEmployed",
+    "studentUnemployed",
+    "unemployed",
 ]
 
 
@@ -29,44 +29,80 @@ def load_calculator(page, preset_occupation: str | None = None):
 
 
 def select_occupation(page, occupation: str):
-    page.locator(f"button[data-occupation={occupation}]").click()
+    if occupation.startswith("student"):
+        page.locator("button[data-occupation=studentUnemployed]").click()
+    else:
+        page.locator(f"button[data-occupation={occupation}]").click()
 
 
 def fill_questions(
     page,
-    income,
-    age,
-    is_married,
-    children_count,
-    is_applying_for_first_visa,
-    has_eu_public_insurance,
-    has_german_public_insurance,
+    occupation,
+    income: int | None = None,
+    age: int | None = None,
+    is_married: bool | None = None,
+    children_count: int | None = None,
+    is_applying_for_first_visa: bool | None = None,
+    has_eu_public_insurance: bool | None = None,
+    has_german_public_insurance: bool | None = None,
 ):
-    page.get_by_label("Income").fill(str(income))
-    page.get_by_label("Age", exact=True).fill(str(age))
-    if is_married:
-        page.get_by_label("Married", exact=True).evaluate("el => el.checked = true")
-    else:
-        page.get_by_label("Not married", exact=True).evaluate("el => el.checked = true")
-    page.get_by_label("Children").select_option(str(children_count))
-    page.get_by_label("I am applying for").set_checked(is_applying_for_first_visa)
-    page.get_by_label("I have public health insurance in another EU country").set_checked(has_eu_public_insurance)
-    page.get_by_label("I have public health insurance in Germany").set_checked(has_german_public_insurance)
+    if age is not None:
+        page.get_by_label("Age", exact=True).fill(str(age))
+
+    if is_married is not None:
+        if is_married:
+            page.get_by_label("Married", exact=True).evaluate("el => el.checked = true")
+        else:
+            page.get_by_label("Not married", exact=True).evaluate("el => el.checked = true")
+
+    if children_count is not None:
+        page.get_by_label("Children").select_option(str(children_count))
+
+    if is_applying_for_first_visa is not None:
+        page.get_by_label("I am applying for").set_checked(is_applying_for_first_visa)
+
+    if has_eu_public_insurance is not None:
+        page.get_by_label("I have public health insurance in another EU country").set_checked(has_eu_public_insurance)
+
+    if has_german_public_insurance is not None:
+        page.get_by_label("I have public health insurance in Germany").set_checked(has_german_public_insurance)
+
+    if income is not None:
+        if occupation == "studentEmployee":
+            page.get_by_label("I have a job").check()
+        elif occupation == "studentSelfEmployed":
+            page.get_by_label("I am self-employed").check()
+
+        if occupation == "employee":
+            page.get_by_label("Salary").fill(str(income))
+        elif occupation == "studentUnemployed":
+            pass  # No income
+        else:
+            page.get_by_label("Income").fill(str(income))
+
+
+def assert_stage(page, expected_stage: str):
+    stage = get_calculator(page).get_attribute("data-stage")
+    assert stage == expected_stage, f"Expected stage '{expected_stage}', got '{stage}'"
 
 
 def fill_calculator_until(page, step=None, preset_occupation: bool = False, **case):
     load_calculator(page, case["occupation"] if preset_occupation else None)
+    assert_stage(page, "occupation")
 
     if step == "occupation":
         return
 
-    select_occupation(page, case.pop("occupation"))
+    select_occupation(page, case["occupation"])
+    assert_stage(page, "questions")
 
     if step == "questions":
         return
 
     fill_questions(page, **case)
     see_options(page)
+
+    assert_stage(page, "options")
 
     if step == "options":
         return

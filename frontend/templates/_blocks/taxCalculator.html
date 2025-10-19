@@ -190,7 +190,9 @@
 				},
 
 				// UI stuff
-				salaryOrIncome() { return occupations.isEmployed(this.occupation) ? 'salary' : 'income' },
+				salaryOrIncome() {
+					return occupations.salaryOrIncome(this.occupation);
+				},
 				svgPaths() {
 					// Generate the paths for the SVG pie chart
 					let cumulativeRadians = 0;

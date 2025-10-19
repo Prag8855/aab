@@ -10,7 +10,7 @@ from playwright.sync_api import expect
 import re
 
 
-@pytest.mark.parametrize("occupation", occupations)
+@pytest.mark.parametrize("occupation", occupations, ids=occupations)
 def test_questions_by_occupation(page, assert_snapshot, occupation):
     fill_calculator_until(page, "questions", occupation=occupation)
     assert_snapshot(get_calculator(page).screenshot())
