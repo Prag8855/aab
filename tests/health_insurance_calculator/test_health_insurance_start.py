@@ -1,22 +1,13 @@
-from . import load_calculator, get_calculator
+from . import fill_calculator_until, occupations, get_calculator
 import pytest
 
 
 def test_first_step(page, assert_snapshot):
-    load_calculator(page)
+    fill_calculator_until(page, "start")
     assert_snapshot(get_calculator(page).screenshot())
 
 
-@pytest.mark.parametrize(
-    "occupation",
-    [
-        "studentUnemployed",
-        "employee",
-        "selfEmployed",
-        "azubi",
-        "unemployed",
-    ],
-)
-def test_preset_occupation(page, assert_snapshot, occupation):
-    load_calculator(page, preset_occupation=occupation)
+@pytest.mark.parametrize("occupation", occupations)
+def test_first_step_preset_occupation(page, assert_snapshot, occupation):
+    fill_calculator_until(page, "start", preset_occupation=True, occupation=occupation)
     assert_snapshot(get_calculator(page).screenshot())

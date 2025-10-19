@@ -513,7 +513,7 @@ Vue.component('health-insurance-calculator', {
 						:required="requireCompleteForm"></tabs>
 				</div>
 				<div class="form-group">
-					<label :id="uid('childrenCount')">
+					<label :for="uid('childrenCount')">
 						Children
 					</label>
 					<children-input
