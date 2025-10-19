@@ -45,6 +45,7 @@ def fill_questions(
     is_applying_for_first_visa: bool | None = None,
     has_eu_public_insurance: bool | None = None,
     has_german_public_insurance: bool | None = None,
+    **kwargs,
 ):
     if age is not None:
         page.get_by_label("Age", exact=True).fill(str(age))

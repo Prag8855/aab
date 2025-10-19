@@ -4,9 +4,11 @@
 {% include '_js/vue/components/eur.js' %}
 {% include '_js/vue/components/gkv-cost-explanation.js' %}
 {% include '_js/vue/components/glossary.js' %}
+{% include '_js/vue/mixins/uniqueIdsMixin.js' %}
 
 {% js %}{% raw %}
 Vue.component('health-insurance-options', {
+	mixins: [uniqueIdsMixin],
 	props: {
 		age: Number,
 		childrenCount: Number,
@@ -398,10 +400,10 @@ Vue.component('health-insurance-options', {
 							</output>
 						</a>
 
-						<button v-else-if="subOption.id === 'broker'" @click="selectOption(subOption.id)" :class="{recommended: recommendedOption === 'private'}">
+						<button :aria-labelledby="uid('h-getAQuote')" v-else-if="subOption.id === 'broker'" @click="selectOption(subOption.id)" :class="{recommended: recommendedOption === 'private'}">
 							{% endraw %}{% include "_css/icons/help.svg" %}{% raw %}
 							<div>
-								<h3>Get a quote</h3>
+								<h3 :id="uid('h-getAQuote')">Get a quote</h3>
 								<p>Let us compare all private health insurers and find the best one for you.</p>
 							</div>
 						</button>
@@ -416,19 +418,19 @@ Vue.component('health-insurance-options', {
 			<h3>Need help choosing?</h3>
 			<ul class="buttons list">
 				<li>
-					<button @click="selectOption('broker')" class="recommended">
+					<button @click="selectOption('broker')" class="recommended" :aria-labelledby="uid('h-askOurExpert')">
 						{% endraw %}{% include "_css/icons/help.svg" %}{% raw %}
 						<div>
-							<h3>Ask our expert</h3>
+							<h3 :id="uid('h-askOurExpert')">Ask our expert</h3>
 							<p>Let us find the best health insurance for you. It's the fastest way to get insured, and it's 100% free.</p>
 						</div>
 					</button>
 				</li>
-				<li v-if="showGuideLink">
+				<li v-if="showGuideLink" :aria-labelledby="uid('h-readGuide')">
 					<a href="/guides/german-health-insurance" @click="selectOption('guide')" target="_blank">
 						{% endraw %}{% include "_css/icons/student.svg" %}{% raw %}
 						<div>
-							<h3>Learn how to choose</h3>
+							<h3 :id="uid('h-readGuide')">Learn how to choose</h3>
 							<p>Read my health insurance guide and find the right insurance for your situation.</p>
 						</div>
 					</a>
