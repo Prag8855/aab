@@ -211,7 +211,7 @@ Vue.component('health-insurance-calculator', {
 			}
 
 			if(this.childrenCount != null){
-				if(this.childrenCount === 0){
+				if(+this.childrenCount === 0){
 					facts.push(`I don't have children`);
 				}
 				else{
