@@ -114,9 +114,9 @@ def previous_stage(page):
 def load_calculator(page, preset_occupation: str | None = None):
     page.add_init_script("window.localStorage.setItem('healthInsuranceBroker', 'seamus-wolf');")
     page.goto(
-        f"/tests/component/health-insurance-calculator-{preset_occupation}"
+        f"/tests/component/health-insurance-calculator-{preset_occupation}?ref=test-referrer"
         if preset_occupation
-        else "/tests/component/health-insurance-calculator"
+        else "/tests/component/health-insurance-calculator?ref=test-referrer"
     )
 
 
@@ -144,9 +144,9 @@ def fill_questions(
 
     if is_married is not None:
         if is_married:
-            page.get_by_label("Married", exact=True).evaluate("el => el.checked = true")
+            page.click("text=Married")
         else:
-            page.get_by_label("Not married", exact=True).evaluate("el => el.checked = true")
+            page.click("text=Not married")
 
     if children_count is not None:
         page.get_by_label("Children").select_option(str(children_count))
