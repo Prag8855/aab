@@ -131,10 +131,10 @@ Vue.component('health-insurance-calculator', {
 			return {
 				age: this.age,
 				childrenCount: this.childrenCount,
-				hasGermanPublicHealthInsurance: this.hasGermanPublicHealthInsurance,
-				hasEUPublicHealthInsurance: this.hasEUPublicHealthInsurance,
+				hasGermanPublicHealthInsurance: !!this.hasGermanPublicHealthInsurance,
+				hasEUPublicHealthInsurance: !!this.hasEUPublicHealthInsurance,
 				hoursWorkedPerWeek: this.worksOver20HoursPerWeek ? 40 : 20,
-				isApplyingForFirstVisa: this.isApplyingForFirstVisa,
+				isApplyingForFirstVisa: !!this.isApplyingForFirstVisa,
 				isMarried: this.isMarried,
 				monthlyIncome: this.isUnemployed ? 0 : this.monthlyIncome,
 				occupation: this.occupation,
@@ -299,18 +299,19 @@ Vue.component('health-insurance-calculator', {
 						keepalive: true,
 						headers: {'Content-Type': 'application/json; charset=utf-8'},
 						body: JSON.stringify({
-							// If occupation is not set, we are in "It's complicated" mode and the input values must be ignored.
 							email: this.email || '',
 							question: this.question || '',
 							name: this.fullName,
-							income: (this.occupation && this.yearlyIncome != null) ? this.yearlyIncome : null,
+							income: this.isUnemployed ? 0 : this.yearlyIncome,
 							occupation: this.occupation || 'other',
-							age: (this.occupation && this.age) ? this.age : null,
-							is_married: this.occupation ? this.isMarried : null,
+							age: this.age,
 							children_count: this.childrenCount == null ? null : +this.childrenCount,
-							is_applying_for_first_visa: this.isApplyingForFirstVisa,
-							has_eu_public_insurance: this.hasEUPublicHealthInsurance,
-							has_german_public_insurance: this.hasGermanPublicHealthInsurance,
+
+							// null if the questions can be skipped, false if they were deliberately set to false
+							is_married: this.requireCompleteForm ? !!this.isMarried : this.isMarried,
+							is_applying_for_first_visa: this.requireCompleteForm ? !!this.isApplyingForFirstVisa : this.isApplyingForFirstVisa,
+							has_eu_public_insurance: this.requireCompleteForm ? !!this.hasEUPublicHealthInsurance: this.hasEUPublicHealthInsurance,
+							has_german_public_insurance: this.requireCompleteForm ? !!this.hasGermanPublicHealthInsurance: this.hasGermanPublicHealthInsurance,
 
 							referrer: getReferrer() || '',
 							contact_method: this.contactMethod || 'EMAIL',
@@ -637,7 +638,7 @@ Vue.component('health-insurance-calculator', {
 							Your name
 						</label>
 						<full-name-input
-							:for="uid('fullName')"
+							:id="uid('fullName')"
 							v-model="fullName"
 							required></full-name-input>
 					</div>
