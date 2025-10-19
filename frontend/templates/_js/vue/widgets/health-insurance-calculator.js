@@ -301,7 +301,7 @@ Vue.component('health-insurance-calculator', {
 						body: JSON.stringify({
 							// If occupation is not set, we are in "It's complicated" mode and the input values must be ignored.
 							email: this.email || '',
-							notes: this.question || '',
+							question: this.question || '',
 							name: this.fullName,
 							income: (this.occupation && this.yearlyIncome != null) ? this.yearlyIncome : null,
 							occupation: this.occupation || 'other',

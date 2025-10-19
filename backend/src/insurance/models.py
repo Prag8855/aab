@@ -48,7 +48,7 @@ class Case(models.Model):
     has_eu_public_insurance = models.BooleanField(default=None, null=True)
 
     creation_date = models.DateTimeField(auto_now_add=True)
-    notes = models.TextField("Question", blank=True, help_text="For future notes, add Updates to the Case.")
+    question = models.TextField("Question", blank=True)
 
     broker = models.CharField(max_length=30, choices=Brokers, default=Brokers.SEAMUS_WOLF)
     referrer = models.CharField(blank=True, help_text="Part of the commissions will be paid out to that referrer")
@@ -62,7 +62,7 @@ class Case(models.Model):
         "age",
         "is_married",
         "children_count",
-        "notes",
+        "question",
     ]
 
     def clean(self):

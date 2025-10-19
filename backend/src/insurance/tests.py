@@ -22,7 +22,7 @@ class CaseTestCase(ScheduledMessageEndpointMixin, APITestCase):
             "has_eu_public_insurance": True,
             "has_german_public_insurance": True,
             "email": "contact@nicolasbouliane.com",
-            "notes": "Did you ever think that maybe there’s more to life than being really, really... really ridiculously well insured?\n\nI don't think so.",
+            "question": "Did you ever think that maybe there’s more to life than being really, really... really ridiculously well insured?\n\nI don't think so.",
             "referrer": "partner123",
             "broker": "christina-weber",
         }

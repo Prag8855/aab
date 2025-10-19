@@ -15,4 +15,4 @@
 <p><strong>Has public health insurance in the EU:</strong> {{ message.case.has_eu_public_insurance|yesno:"Yes,No,Not specified" }}</p>
 <p><strong>Applying for a first visa/residence permit:</strong> {{ message.case.is_applying_for_first_visa|yesno:"Yes,No,Not specified" }}</p>
 <hr>
-<p><strong>Question:</strong><br>{{ message.case.notes|default:"Not specified"|linebreaksbr }}</p>
+<p><strong>Question:</strong><br>{{ message.case.question|default:"Not specified"|linebreaksbr }}</p>
