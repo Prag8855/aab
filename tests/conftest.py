@@ -23,7 +23,7 @@ DEVICE_CONFIGS = {
 
 @pytest.fixture(scope="function", autouse=True)
 def set_default_timeout(page):
-    page.set_default_timeout(5000)
+    page.set_default_timeout(2000)
 
 
 @pytest.fixture(params=DEVICE_CONFIGS.values(), ids=list(DEVICE_CONFIGS.keys()), scope="session")
