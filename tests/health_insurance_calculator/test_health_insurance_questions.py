@@ -1,9 +1,11 @@
 import pytest
 from . import (
+    assert_stage,
     occupations,
     see_options,
     fill_calculator_until,
     get_calculator,
+    select_occupation,
 )
 from playwright.sync_api import expect
 
@@ -16,11 +18,6 @@ def test_questions_by_occupation(page, assert_snapshot, occupation):
     assert_snapshot(get_calculator(page).screenshot())
 
 
-def test_questions_complicated(page, assert_snapshot):
-    fill_calculator_until(page, "questions", occupation="other")
-    assert_snapshot(get_calculator(page).screenshot())
-
-
 def test_data_validity_check(page, assert_snapshot):
     fill_calculator_until(page, "questions", occupation="employee")
     expect(get_calculator(page)).not_to_have_class(re.compile(r".*show-errors.*"))
@@ -29,4 +26,11 @@ def test_data_validity_check(page, assert_snapshot):
 
     expect(get_calculator(page)).to_have_class(re.compile(r".*show-errors.*"))
 
+    assert_snapshot(get_calculator(page).screenshot())
+
+
+def test_its_complicated_no_questions(page, assert_snapshot):
+    fill_calculator_until(page, "occupation")
+    select_occupation(page, occupation="other")
+    assert_stage(page, "askABroker")
     assert_snapshot(get_calculator(page).screenshot())

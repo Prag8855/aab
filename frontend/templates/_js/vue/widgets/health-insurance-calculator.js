@@ -604,7 +604,7 @@ Vue.component('health-insurance-calculator', {
 						<button v-if="contactMethod === 'EMAIL'" class="button primary" @click="createCase" :disabled="isLoading" :class="{loading: isLoading}">
 							Ask {{ broker.name }}
 						</button>
-						<a v-if="contactMethod === 'WHATSAPP'" :href="whatsappUrl" @click.prevent="createCase" class="button whatsapp" :disabled="isLoading" target="_blank">
+						<a v-if="contactMethod === 'WHATSAPP'" :href="whatsappUrl" @click="createCase" class="button whatsapp" :disabled="isLoading" target="_blank">
 							{% endraw %}{% include "_css/icons/whatsapp.svg" %}{% raw %}
 							<span class="only-mobile">Start chat</span>
 							<span class="no-mobile">Chat with {{ broker.name }}</span>
@@ -674,9 +674,6 @@ Vue.component('health-insurance-calculator', {
 								Your question
 							</label>
 							<textarea :id="uid('question')" v-model="question" :placeholder="'How can ' + broker.name + ' help you?'" :required="occupation === 'other'"></textarea>
-							<span class="input-instructions">
-								The information you entered will be added to the message.
-							</span>
 						</div>
 					</template>
 				</template>

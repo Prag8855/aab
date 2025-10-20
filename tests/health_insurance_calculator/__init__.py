@@ -1,10 +1,10 @@
 occupations = [
     "azubi",
     "employee",
-    "other",
     "selfEmployed",
     "studentUnemployed",
     "unemployed",
+    # "other",
 ]
 
 cases = {
