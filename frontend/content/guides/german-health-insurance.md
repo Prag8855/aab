@@ -376,11 +376,11 @@ Do not choose health insurance yourself. Our broker can help you find better and
 
 {% include "_blocks/healthInsuranceQuestionStatic.html" %}
 
-Talk to a broker (*Makler*), not an agent (*Vertreter*). Brokers are independent. They recommend health insurance from different companies. Agents only sell insurance from specific companies.
-
 Choose a broker who works with immigrants. Your needs are different, and your broker must know how to help you.
 
-**[Feather](/out/feather)** now sells private health insurance from all providers, just like a broker.
+Talk to a broker (*Makler*), not an agent (*Vertreter*). Brokers are independent. They recommend health insurance from different companies. Agents only sell insurance from specific companies.
+
+**[Feather](/out/feather)** now sells private health insurance from all providers, just like a broker. They have a lot of experience with immigrants, and they speak English.
 
 **[Ottonova](/out/ottonova)** sells their own insurance. It's rarely the best option.[^83] Even if you get Ottonova, it's better to get it through a broker. See my [review of Ottonova](/guides/ottonova-review).
 
