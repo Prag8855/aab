@@ -93,7 +93,7 @@ frontend/scripts/add_review.py
 [tasks.test-api]
 run = """
 mise dev
-docker compose exec backend python3 manage.py test -b
+docker compose exec backend python3 manage.py test -b --parallel
 """
 
 [tasks.test-ui]
