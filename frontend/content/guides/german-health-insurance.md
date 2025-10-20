@@ -240,12 +240,13 @@ These options are valid for a [[National Visa]] application. You can use them to
 
 - **[Feather](/out/feather-expats)**{{ RECOMMENDED }}  
     Their insurance is valid for a [[National Visa]] application. They have excellent English-speaking customer service. I work with them since 2018.
+- [**HanseMerkur** and Advigon](/out/hansemerkur-expats)  
+    The *Basic* and *Profi* plans are valid for a [[National Visa]] application. The *Profi* plan is a better choice, because it covers some preventative care.[^46]
 - [April International](/out/april)
 - [Care Concept](/out/care-concept)
 - [Dr Walter](/out/dr-walter)
-- [HanseMerkur](/out/hansemerkur-expats)
 - [Ottonova](/out/ottonova-expats)
-- [Mawista](/out/mawista-expats) - Not recommended. They often reject claims.
+- [Mawista](/out/mawista-expats) - Not recommended. They often reject reimbursement claims.
 
 If you are not sure, [ask my insurance expert](#insurance-brokers) to help you choose. He can also help you find a long-term health insurance when you start working or start university.
 
@@ -504,6 +505,7 @@ When you are self-employed, the cost of public health insurance is based on your
 [^43]: [Mona Anbari](https://versicherungsbuero-weiss.com/) (April 2025)
 [^44]: [Seamus Wolf](https://horizon65.com/) (April 2025), [Emily Archer](https://www.archer-relocation.com/) (April 2025)
 [^45]: [Techniker Krankenkasse](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-versicherte/veraenderung-berufliche-situation/versichert-als-arbeitnehmer/berufliche-auszeiten/elternzeit/beitragszahlung-waehrend-elternzeit---elterngeld-2005602) (May 2025), [familienportal.de](https://familienportal.de/familienportal/familienleistungen/elternzeit/arbeit-versicherung/wie-bin-ich-waehrend-der-elternzeit-versichert--124862) (May 2025)
+[^46]: [Seamus Wolf](https://horizon65.com/) (October 2025)
 [^48]: [AOK](https://www.aok.de/pk/krankenkassenbeitraege/auszubildende/#:~:text=auszubildende%20mussen%20keine%20krankenkassenbeitrage%20zahlen%2C%20wenn%20ihr%20monatsverdienst%20nicht%20mehr%20als%20325%20euro%20betragt) (March 2025), [Check24](https://www.check24.de/gesetzliche-krankenversicherung/azubis/#:~:text=wer%20eine%20ausbildungsvergutung%20von%20weniger%20als%20325%20euro%20im%20monat%20erhalt%2C%20muss%20keine%20beitrage%20zur%20krankenversicherung%20zahlen.) (March 2025), [Techniker Krankenkasse](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-versicherte/veraenderung-berufliche-situation/versichert-als-schueler-und-auszubildende/beitraege-azubi-auszubildende-hoehe-beitragshoehe-2010362#:~:text=verdienen%20sie%20nicht%20mehr%20als%20325%20euro%20brutto%20monatlich%2C%20zahlt%20ihr%20arbeitgeber%20die%20gesamten%20beitrage.) (March 2025)
 [^53]: [gesetzliche-krankenkassen.de](https://www.gesetzliche-krankenkassen.de/auszubildende-azubis/#:~:text=familienversicherung%20ist%20wahrend%20der%20ausbildung%20nicht%20moglich) (March 2025)
 [^58]: [Seamus Wolf](https://horizon65.com/) (April 2025), [finanztip](https://www.finanztip.de/pkv/pkv-kosten/#:~:text=fur%20junge%2C%20gesunde%20menschen%20ist%20die%20private%20krankenversicherung) (February 2025), [verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/krankenversicherung/private-krankenversicherung-nicht-fuer-jeden-sinnvoll-13884#:~:text=kann%20es%20unter%20finanziellen%20gesichtspunkten%20sinnvoll%20sein%2C%20in%20eine%20private%20krankenversicherung%20zu%20wechseln) (2024)
