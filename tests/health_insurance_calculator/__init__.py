@@ -108,7 +108,7 @@ def see_options(page):
 
 
 def previous_stage(page):
-    page.get_by_role("button", name="Go back").click()
+    page.get_by_label("Go back").click()
 
 
 def load_calculator(page, preset_occupation: str | None = None):

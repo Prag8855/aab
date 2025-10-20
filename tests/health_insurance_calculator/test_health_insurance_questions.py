@@ -17,6 +17,9 @@ def test_questions_by_occupation(page, assert_snapshot, occupation):
     fill_calculator_until(page, "questions", occupation=occupation)
     assert_snapshot(get_calculator(page).screenshot())
 
+    page.get_by_label("Go back").click()
+    assert_stage(page, "occupation")
+
 
 def test_data_validity_check(page, assert_snapshot):
     fill_calculator_until(page, "questions", occupation="employee")
@@ -34,3 +37,7 @@ def test_its_complicated_no_questions(page, assert_snapshot):
     select_occupation(page, occupation="other")
     assert_stage(page, "askABroker")
     assert_snapshot(get_calculator(page).screenshot())
+
+    page.click("text=WhatsApp")
+    page.get_by_label("Go back").click()
+    assert_stage(page, "occupation")

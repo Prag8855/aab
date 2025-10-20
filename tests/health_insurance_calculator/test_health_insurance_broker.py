@@ -41,6 +41,9 @@ def test_by_whatsapp(page, assert_snapshot):
     assert_snapshot(get_calculator(page).screenshot())
     assert_stage(page, "thank-you")
 
+    page.get_by_label("Go back").click()
+    assert_stage(page, "occupation")
+
 
 def test_by_email(page, assert_snapshot):
     case = cases["employee-100k"]
@@ -75,3 +78,6 @@ def test_by_email(page, assert_snapshot):
 
     assert_snapshot(get_calculator(page).screenshot())
     assert_stage(page, "thank-you")
+
+    page.get_by_label("Go back").click()
+    assert_stage(page, "occupation")
