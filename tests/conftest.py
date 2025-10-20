@@ -1,5 +1,7 @@
 from pathlib import Path
+from pytest_playwright_visual_snapshot.plugin import SnapshotPaths, _get_option
 import pytest
+import shutil
 
 
 DEVICE_CONFIGS = {
@@ -19,6 +21,33 @@ DEVICE_CONFIGS = {
         "has_touch": False,
     },
 }
+
+
+@pytest.fixture(scope="session", autouse=True)
+def cleanup_snapshot_failures(pytestconfig):
+    """
+    Override the original to make it work with xdist
+    TODO: Remove when this PR is closed (2025-10-20): https://github.com/iloveitaly/pytest-playwright-visual-snapshot/pull/48
+    """
+
+    root_dir = Path(pytestconfig.rootdir)
+
+    # Compute paths once
+    SnapshotPaths.snapshots_path = Path(
+        _get_option(pytestconfig, "playwright_visual_snapshots_path", cast=str) or (root_dir / "__snapshots__")
+    )
+
+    SnapshotPaths.failures_path = Path(
+        _get_option(pytestconfig, "playwright_visual_snapshot_failures_path", cast=str)
+        or (root_dir / "snapshot_failures")
+    )
+
+    # This is the part I fixed
+    shutil.rmtree(SnapshotPaths.failures_path, ignore_errors=True)
+
+    SnapshotPaths.failures_path.mkdir(parents=True, exist_ok=True)
+
+    yield
 
 
 @pytest.fixture(scope="function", autouse=True)
