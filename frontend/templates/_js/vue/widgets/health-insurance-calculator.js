@@ -16,11 +16,10 @@
 {% include '_js/vue/mixins/multiStageMixin.js' %}
 {% include '_js/vue/mixins/trackedStagesMixin.js' %}
 {% include '_js/vue/mixins/uniqueIdsMixin.js' %}
-{% include '_js/vue/mixins/userDefaultsMixin.js' %}
 
 {% js %}{% raw %}
 Vue.component('health-insurance-calculator', {
-	mixins: [userDefaultsMixin, multiStageMixin, uniqueIdsMixin, trackedStagesMixin],
+	mixins: [multiStageMixin, uniqueIdsMixin, trackedStagesMixin],
 	props: {
 		static: {
 			type: Boolean,
@@ -37,27 +36,23 @@ Vue.component('health-insurance-calculator', {
 	},
 	data() {
 		return {
-			// Some of these fields default to null, instead of userDefaults values.
-			// This is to make sure that we send user input to the API, and not
-			// default values.
-
 			// Insurance questions
-			age: userDefaults.empty,
-			childrenCount: userDefaults.empty,
-			inputIncome: userDefaults.empty,
-			occupation: userDefaults.empty,
-			isMarried: userDefaults.empty,
-			useMonthlyIncome: userDefaults.useMonthlyIncome,
-			yearlyIncome: userDefaults.empty,
-			worksOver20HoursPerWeek: userDefaults.empty,
-			isApplyingForFirstVisa: userDefaults.empty,
-			hasGermanPublicHealthInsurance: userDefaults.empty,
-			hasEUPublicHealthInsurance: userDefaults.empty,
+			age: null,
+			childrenCount: null,
+			inputIncome: null,
+			occupation: null,
+			isMarried: null,
+			useMonthlyIncome: null,
+			yearlyIncome: null,
+			worksOver20HoursPerWeek: null,
+			isApplyingForFirstVisa: null,
+			hasGermanPublicHealthInsurance: null,
+			hasEUPublicHealthInsurance: null,
 
 			// Contact form
 			contactMethod: null,
-			fullName: userDefaults.empty,
-			email: userDefaults.empty,
+			fullName: '',
+			email: '',
 			question: '',
 			isLoading: false,
 
@@ -179,8 +174,6 @@ Vue.component('health-insurance-calculator', {
 
 			const facts = [];
 
-			facts.push(`I am ${this.fullName}`);
-
 			if(this.age){
 				facts.push(`I am ${this.age} years old`);
 			}
@@ -200,7 +193,7 @@ Vue.component('health-insurance-calculator', {
 			if(this.isStudent){
 				facts.push(`I work ${this.worksOver20HoursPerWeek ? 'more' : 'less'} than 20 hours per week`);
 			}
-			if(this.yearlyIncome !== undefined && !this.isUnemployed){
+			if(this.yearlyIncome != null && !this.isUnemployed && this.occupation !== 'other'){
 				facts.push(`I earn ${formatCurrency(this.yearlyIncome)} per year`);
 			}
 			if(this.isApplyingForFirstVisa != null){
@@ -229,7 +222,7 @@ Vue.component('health-insurance-calculator', {
 			return (new Intl.ListFormat('en-US', {style: 'long', type: 'conjunction'}).format(facts)) + '.';
 		},
 		whatsappMessage(){
-			return `Hi ${this.broker.name}, can you help me choose health insurance? ${this.personSummary}`;
+			return `Hi ${this.broker.name}, I am ${this.fullName}. Can you help me choose health insurance? ${this.personSummary}`;
 		},
 		whatsappUrl(){
 			return `https://wa.me/${this.broker.phoneNumber}?text=${encodeURIComponent(this.whatsappMessage)}`;
@@ -266,19 +259,41 @@ Vue.component('health-insurance-calculator', {
 		},
 	},
 	methods: {
-		nextStage(){
-			if(validateForm(this.$el)){
-				this.stageIndex += 1;
-			}
-		},
-
 		// Insurance questions
 		capitalize(word){
 			return word.charAt(0).toUpperCase() + word.slice(1);
 		},
 		selectOccupation(occupation){
 			this.occupation = occupation;
-			occupation ? this.nextStage() : this.goToStage('askABroker');
+
+			if(this.mode === 'question'){
+				this.stages = [
+					'askABroker',
+					'occupation',
+					'questions',
+					'thank-you',
+					'error',
+				];
+			}
+			else if (occupation === 'other'){
+				this.stages = [
+					'occupation',
+					'askABroker',
+					'thank-you',
+					'error',
+				]
+			}
+			else{
+				this.stages = [
+					'occupation',
+					'questions',
+					'options',
+					'askABroker',
+					'thank-you',
+					'error',
+				];
+			}
+			this.nextStage();
 		},
 
 		// Insurance options
@@ -614,6 +629,7 @@ Vue.component('health-insurance-calculator', {
 			<template v-if="stage === 'askABroker'">
 				<div class="form-recipient">
 					<div>
+						<p v-if="occupation === 'other'">If your situation is complicated, ask our insurance expert.</p>
 						<p>{{ broker.name }} will help you <strong>choose the best health insurance</strong>. I work with {{ broker.him }} because {{ broker.he }} is honest and knowledgeable.</p>
 						<p>{{ capitalize(broker.he) }} replies on the same day. {{ capitalize(broker.his) }} help is <strong>100% free</strong>.</p>
 					</div>
@@ -657,7 +673,10 @@ Vue.component('health-insurance-calculator', {
 							<label :for="uid('question')">
 								Your question
 							</label>
-							<textarea :id="uid('question')" v-model="question" :placeholder="'How can ' + broker.name + ' help you?'"></textarea>
+							<textarea :id="uid('question')" v-model="question" :placeholder="'How can ' + broker.name + ' help you?'" :required="occupation === 'other'"></textarea>
+							<span class="input-instructions">
+								The information you entered will be added to the message.
+							</span>
 						</div>
 					</template>
 				</template>
