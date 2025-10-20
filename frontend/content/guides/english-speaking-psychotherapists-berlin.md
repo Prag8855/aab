@@ -37,7 +37,6 @@ Related_places:
     places/johannes-mittermair.md
     places/daniel-friedrich.md
     places/praxis-polina-godau.md
-    places/dipl-psych-wiebke-hannig.md
     places/dr-valentin-zahrnt.md
     places/dipl-psych-özgür-cengiz.md
     places/psychotherapist-lisa-maria-aldinger.md
