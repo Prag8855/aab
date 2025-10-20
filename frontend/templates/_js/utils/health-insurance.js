@@ -383,7 +383,7 @@ function canHavePrivateHealthInsurance(occupation, monthlyIncome, hoursWorkedPer
 	 	!isPflichtversichert(occupation, monthlyIncome, hoursWorkedPerWeek, age)
 		|| isWerkstudent(occupation, monthlyIncome, hoursWorkedPerWeek)
 		|| occupations.isSelfEmployed(occupation)
-		|| occupations.isUnemployed(occupation) // TODO: Not if getting ALG I, right?
+		|| occupations.isUnemployed(occupation)
 	)
 }
 

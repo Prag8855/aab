@@ -353,17 +353,6 @@ function calculateChurchTax(incomeTax, germanStateAbbr) {
 	}
 }
 
-// TODO: unused
-function calculateCapitalGainsTax(income, germanStateAbbr) {
-	const churchTaxRate = taxes.church[germanStateAbbr] || taxes.church.default;
-	return income / (4 + churchTaxRate);
-}
-
-// TODO: unused
-function calculateMonthlyKindergeld(childrenCount) {
-	return taxes.kindergeldPerChild * childrenCount;
-}
-
 // Tax classes tl;dr:
 // 1 - Single
 // 2 - Single parent
