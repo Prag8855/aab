@@ -30,9 +30,9 @@ def test_option_private_quote(page, case):
     if case["can_have_private"]:
         page.get_by_label("Get a quote", exact=True).click()
         assert_stage(page, "askABroker")
+        page.click("text=WhatsApp")
+        page.get_by_label("Go back").click()
     else:
         expect(page.get_by_label("Get a quote", exact=True)).to_have_count(0)
 
-    page.click("text=WhatsApp")
-    page.get_by_label("Go back").click()
     assert_stage(page, "options")
