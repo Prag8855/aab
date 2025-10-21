@@ -47,17 +47,10 @@ Vue.component('health-insurance-options', {
 		recommendedOption(){
 			return this.results.asList[0].id;
 		},
-
-		minPublicPrice() {
-			return this.results.public.options[0].total;
-		},
-		maxPublicPrice() {
-			return this.results.public.options.at(-1).total;
-		},
 		minOptionCost() {
 			return {
 				free: 0,
-				public: this.minPublicPrice.personalContribution,
+				public: this.results.public.options[0].total.personalContribution,
 				private: 555,
 				expat: 72,
 				other: this.results.other.options.find(o => o.id === 'ksk')?.total?.personalContribution,
@@ -142,14 +135,10 @@ Vue.component('health-insurance-options', {
 			const output = {};
 
 			if(this.flag('public-tariff-azubiFree')){
-				output.public = `You get free health insurance, because you earn less than ${this.eur(healthInsurance.azubiFreibetrag)} per month. ${this.publicCost}`;
+				output.public = `You get free health insurance, because you earn less than ${this.eur(healthInsurance.azubiFreibetrag)} per month.`;
 			}
 			else if(!this.flag('private')){
-				output.public = `Public health insurance is <strong>your only option</strong>. ${this.publicCost}`
-			}
-
-			if(this.childrenCount > 0){
-				output.public += ' ' + this.familienversicherung;
+				output.public = `This is <strong>your only option</strong>.`
 			}
 
 			// You could have private if your Azubi income is really high, but it's unlikely to happen and not worth explaining
@@ -158,7 +147,7 @@ Vue.component('health-insurance-options', {
 		employeeClarification(){
 			const output = {};
 			if(this.flag('public-minijob')){
-				output.public = this.publicCost;
+				output.public = null;
 				if(this.results.expat.eligible){
 					output.public = "It's more expensive, but you get <strong>better coverage</strong>. " + output.public;
 					output.expat = "It's cheaper, but <strong>the coverage is not great</strong>.";
@@ -167,8 +156,8 @@ Vue.component('health-insurance-options', {
 			}
 			else if(this.results.private.eligible){
 				if(this.childrenCount > 2){
-					output.public = `Public health insurance is <strong>cheaper</strong>. ${this.publicCost}`;
-					output.private = 'Choose private health insurance to get <strong>better coverage</strong> and faster doctor appointments for your family.'
+					output.public = `This is <strong>cheaper</strong> for you.`;
+					output.private = 'This is more expensive, but you can get <strong>better coverage</strong> for you and your family.'
 				}
 				else if(this.age <= 35){
 					output.private = "It can be <strong>better and cheaper</strong> than public, because you are young and well-paid.";
@@ -183,11 +172,7 @@ Vue.component('health-insurance-options', {
 				}
 			}
 			else{
-				output.public = `Public health insurance is <strong>your only option</strong>. ${this.publicCost}`;
-			}
-
-			if(this.childrenCount > 0){
-				output.public += ' ' + this.familienversicherung;
+				output.public = `Public health insurance is <strong>your only option</strong>.`;
 			}
 
 			return output;
@@ -202,7 +187,7 @@ Vue.component('health-insurance-options', {
 				output.private = "It's usually more expensive, but you can get <strong>better coverage</strong> and faster doctor appointments."
 			}
 			else if(this.childrenCount > 2){
-				output.public = `This is the <strong>cheapest option</strong> for families. ${this.publicCost}`;
+				output.public = `This is the <strong>cheapest option</strong> for families.`;
 				output.private = "It's usually more expensive, but you can get <strong>better coverage</strong> and faster doctor appointments for your family."
 			}
 			else{
@@ -226,15 +211,11 @@ Vue.component('health-insurance-options', {
 				}
 			}
 
-			if(this.childrenCount > 0){
-				output.public += ' ' + this.familienversicherung;
-			}
-
 			return output;
 		},
 		studentClarification(){
 			const output = {
-				public: this.publicCost,
+				public: null,
 			};
 
 			// Students under 30 years old
@@ -244,10 +225,6 @@ Vue.component('health-insurance-options', {
 				}
 				else{
 					output.public = "This is the <strong>best option</strong> for students under 30 years old. " + output.public;
-				}
-
-				if(this.childrenCount > 0){
-					output.public += ' ' + this.familienversicherung;
 				}
 
 				output.expat = "It's cheaper, but <strong>the coverage is bad</strong>. Public health insurance is better.";
@@ -292,21 +269,7 @@ Vue.component('health-insurance-options', {
 				output.public = `If you can't get free health insurance, this is the <strong>safest option</strong>.`;
 			}
 
-			if(this.childrenCount > 0){
-				output.public += ' ' + this.familienversicherung;
-			}
-
 			return output;
-		},
-
-		familienversicherung(){
-			return `It covers your ${this.childrenCount === 1 ? 'child' : 'children'} for free.`;
-		},
-		publicCost(){
-			const minPrice = this.eur(this.minPublicPrice.personalContribution);
-			const maxPrice = this.eur(this.maxPublicPrice.personalContribution);
-			const priceRange = minPrice === maxPrice ? minPrice : `${minPrice} to ${maxPrice}`;
-			return `It costs ${priceRange} per month, depending on the insurer you choose.`;
 		},
 	},
 	methods: {
@@ -323,19 +286,57 @@ Vue.component('health-insurance-options', {
 		optionPrice(type, id){
 			return this.results[type].options.find(o => o.id === id).total.personalContribution;
 		},
+
+		prosAndCons(insuranceType){
+			if(insuranceType === 'public'){
+				return {
+					"pros": [
+						"The cost matches your income",
+						`Covers your ${this.childrenCount === 1 ? 'child' : 'children'} for free.`,
+					],
+					"cons": [
+						"Doctor appointments are harder to get",
+						"Good dental coverage costs extra",
+					],
+				};
+			}
+			else if(insuranceType === 'private'){
+				return {
+					"pros": [
+						"Choose the coverage you need",
+						"Faster doctor appointments",
+					],
+					"cons": [
+						"Covering your children costs extra",
+						"It costs the same if you lose your job",
+					],
+				};
+			}
+			else if(insuranceType === 'expat'){
+				return {
+					"pros": [
+						"Very cheap",
+						"Easy to cancel",
+					],
+					"cons": [
+						"Very limited coverage",
+						"Not a good long-term option",
+					],
+				};
+			}
+		},
 	},
 	template: `
 		<div class="health-insurance-options">
 			<template v-if="stage === 'start'">
 				<p v-if="intro" v-html="intro"></p>
+				<hr v-if="intro">
 				
 				<template v-for="option in results.asList" v-if="option.eligible">
-					<div class="price">
-						<h3 v-text="option.name"></h3>
-						<output>
-							<span>from <eur :amount="minOptionCost[option.id]"></eur>/month</span>
-						</output>
-					</div>
+					<h3>
+						{{ option.name }}
+						<br><small>From <eur :amount="minOptionCost[option.id]"></eur>/month</small>
+					</h3>
 
 					<p v-if="clarification[option.id]" v-html="clarification[option.id]"></p>
 
@@ -356,37 +357,19 @@ Vue.component('health-insurance-options', {
 						</ul>
 					</template>
 
-					<div class="two-columns" v-if="option.id === 'public'">
-						<ul class="pros">
-							<li>The price matches your income</li>
-							<li><glossary term="Familienversicherung" v-text="familienversicherung"></glossary></li>
-						</ul>
-						<ul class="cons">
-							<li>Limited dental coverage</li>
-							<li>Wait longer to see a doctor</li>
-						</ul>
-					</div>
-
-					<div class="two-columns" v-if="option.id === 'private'">
-						<ul class="pros">
-							<li>Choose the coverage you need</li>
-							<li>Better access to doctors</li>
-						</ul>
-						<ul class="cons">
-							<li>Covering your children costs extra</li>
-							<li>Costs the same if you lose your income</li>
-						</ul>
-					</div>
-
-					<div class="two-columns" v-if="option.id === 'expat'">
-						<ul class="pros">
-							<li>Cheapest option</li>
-							<li>Easy to cancel</li>
-						</ul>
-						<ul class="cons">
-							<li>Bad coverage</li>
-							<li>Only valid for a few years</li>
-						</ul>
+					<div class="two-columns" v-if="prosAndCons(option.id)">
+						<div>
+							<strong>Benefits</strong>
+							<ul class="pros">
+								<li v-for="pro in prosAndCons(option.id).pros" v-text="pro"></li>
+							</ul>
+						</div>
+						<div>
+							<strong>Disadvantages</strong>
+							<ul class="cons">
+								<li v-for="con in prosAndCons(option.id).cons" v-text="con"></li>
+							</ul>
+						</div>
 					</div>
 
 					<ul class="buttons list" v-if="option.id === 'other'">
@@ -408,6 +391,8 @@ Vue.component('health-insurance-options', {
 						<a class="button" :href="readMoreLink[option.id]" target="_blank">Read more</a>
 						<button class="button primary" @click="stage = option.id">See options <i class="icon right"></i></button>
 					</div>
+
+					<hr>
 				</template>
 			</template>
 
@@ -437,20 +422,20 @@ Vue.component('health-insurance-options', {
 						</a>
 					</li>
 				</ul>
-				<gkv-cost-explanation v-if="option.id === 'public'" v-bind="calculatorParams"></gkv-cost-explanation>
+				<gkv-cost-explanation v-bind="calculatorParams"></gkv-cost-explanation>
 			</template>
 
 			<template v-if="stage === 'private'">
 				<h2>Private health insurance options</h2>
 				<p>Do not choose private health insurance yourself. Always ask an independent expert to compare options.</p>
+				<hr>
 			</template>
 
 			<template v-if="stage === 'expat'">
 				<h2>Expat health insurance options</h2>
-				
+				<hr>
 			</template>
 
-			<hr>
 			<h3>Need help choosing?</h3>
 			<ul class="buttons list">
 				<li>

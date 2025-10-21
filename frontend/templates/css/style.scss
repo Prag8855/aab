@@ -2291,7 +2291,8 @@ collapsible, letter-generator, feedback-residence-permit, health-insurance-calcu
         grid-template-columns: 1fr 1fr;
 
         ul{
-            margin: 0;
+            margin: var(--s) 0;
+            font-size: var(--f-s);
         }
 
         li{
