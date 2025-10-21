@@ -141,16 +141,6 @@ Vue.component('health-insurance-calculator', {
 		broker() {
 			const brokers = [
 				{
-					id: 'christina-weber',
-					name: 'Christina',
-					fullName: 'Christina Weber',
-					phoneNumber: '+493083792299',
-					phoneNumberPretty: '+49 30 83792299',
-					he: 'she',
-					him: 'her',
-					his: 'her',
-				},
-				{
 					id: 'seamus-wolf',
 					name: 'Seamus',
 					fullName: 'Seamus Wolf',
@@ -159,6 +149,16 @@ Vue.component('health-insurance-calculator', {
 					he: 'he',
 					him: 'him',
 					his: 'his',
+				},
+				{
+					id: 'christina-weber',
+					name: 'Christina',
+					fullName: 'Christina Weber',
+					phoneNumber: '+493083792299',
+					phoneNumberPretty: '+49 30 83792299',
+					he: 'she',
+					him: 'her',
+					his: 'her',
 				},
 			];
 			const brokerId = localStorage.getItem('healthInsuranceBroker') || brokers[Math.floor(Math.random() * brokers.length * 2/3)].id;
