@@ -1,13 +1,16 @@
 #!/bin/sh
 set -e
+
+. "${PROJECT_ROOT}/.env"
+
 set -x
 
 PROJECT_ROOT="$(cd "$(dirname "$0")/.." && pwd)"
 
-apt update
-apt install -y webhook
-
-. "${PROJECT_ROOT}/.env"
+if ! command -v webhook >/dev/null 2>&1; then
+  apt update
+  apt install -y webhook
+fi
 
 mkdir -p /etc/webhook
 mkdir -p /etc/systemd/system
@@ -44,6 +47,7 @@ Type=simple
 ExecStart=webhook -port 9000 -hooks "$HOOKS_FILE" -template -verbose
 Restart=on-failure
 PrivateTmp=true
+User=root
 [Install]
 WantedBy=default.target
 EOF
