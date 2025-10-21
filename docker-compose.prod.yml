@@ -15,7 +15,6 @@ services:
       - "URSUS_SITE_URL=https://allaboutberlin.com"
       - "CLOUDFLARE_ZONE"
       - "CLOUDFLARE_API_KEY"
-      - "REMOTE_DB_BACKUPS_PATH"
     volumes: !override
       - ".:/var/project:ro"
       - "temp_static_site:/var/output"
@@ -30,6 +29,7 @@ services:
       target: prod
     environment:
       - "MAILGUN_API_KEY"
+      - "REMOTE_DB_BACKUPS_PATH"
     volumes: !override
       - "api_db:/var/db"
       - "api_staticfiles:/var/www/api/staticfiles"
