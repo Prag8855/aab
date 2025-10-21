@@ -1,16 +1,22 @@
 #!/bin/sh
 set -e
+log() {
+    echo "[$(date '+%Y-%m-%d %H:%M:%S')] $*"
+}
 
-. "${PROJECT_ROOT}/.env"
-
-set -x
+log "Setting up webhooks for All About Berlin"
 
 PROJECT_ROOT="$(cd "$(dirname "$0")/.." && pwd)"
+. "${PROJECT_ROOT}/.env"
 
+log "Checking if webhook is installed"
 if ! command -v webhook >/dev/null 2>&1; then
+  log "Not installed. Installing webhook"
   apt update
   apt install -y webhook
 fi
+
+log "Creating webhook config"
 
 mkdir -p /etc/webhook
 mkdir -p /etc/systemd/system
@@ -36,6 +42,8 @@ cat <<EOF > "$HOOKS_FILE"
             name: ref
 EOF
 
+log "Creating webhook systemd service config"
+
 SERVICE_FILE="/etc/systemd/system/webhook.service"
 cat <<EOF > "$SERVICE_FILE"
 [Unit]
@@ -52,5 +60,9 @@ User=root
 WantedBy=default.target
 EOF
 
+log "Installing and restarting webhook systemd service"
+
 systemctl enable webhook
 systemctl restart webhook
+
+log "Setup done"
