@@ -61,11 +61,12 @@ Vue.component('health-insurance-options', {
 		},
 
 		readMoreLink(){
+			const url = "/guides/german-health-insurance";
 			return {
-				public: '/guides/german-health-insurance#public-health-insurance',
-				private: '/guides/german-health-insurance#private-health-insurance',
-				expat: '/guides/german-health-insurance#expat-health-insurance',
-				free: '/guides/german-health-insurance#free-health-insurance',
+				public: url + '#public-health-insurance',
+				private: url + '#private-health-insurance',
+				expat: url + '#expat-health-insurance',
+				free: url + '#free-health-insurance',
 			}
 		},
 
@@ -173,11 +174,11 @@ Vue.component('health-insurance-options', {
 		},
 		selfEmployedClarification(){
 			const output = {
-				expat: "This is the <strong>cheapest option</strong>, but the coverage is not great. It can be a really bad choice. Ask our expert first."
+				expat: "This is the <strong>cheapest option</strong>, but the coverage is not great. It can be a really bad choice."
 			};
 
 			if(this.age >= 45){
-				output.public = "This is usually the <strong>best option</strong> for people over 45 years old."
+				output.public = "This is usually the <strong>best option</strong> for people over 45 years old.";
 				output.private = "It's usually more expensive, but you can get <strong>better coverage</strong> and faster doctor appointments."
 			}
 			else if(this.childrenCount > 2){
@@ -431,51 +432,41 @@ Vue.component('health-insurance-options', {
 
 			<template v-if="stage === 'expat'">
 				<h2>Expat health insurance options</h2>
+				<p>These options are valid for a <glossary>National Visa</glossary> application.</p>
 				<ul class="buttons list">
-					<li v-for="subOption in results.expat.options">
-						<a v-if="subOption.id === 'feather-basic'" href="/out/feather-expats" target="_blank">
+					<li>
+						<a href="/out/feather-expats" target="_blank" class="recommended">
 							{% endraw %}{% include "_css/icons/health-insurance/logo-feather.svg" %}{% raw %}
 							<div>
-								<h3>Feather Basic</h3>
+								<h3>Feather</h3>
+								<p>An English-speaking insurer from Berlin. They sell public, private and expat health insurance.</p>
 							</div>
 							<output>
-								<eur :amount="optionPrice('expat', subOption.id)"></eur> <small>/ month</small>
+								<eur :amount="optionPrice('expat', 'feather-basic')"></eur> <small>/ month</small>
 							</output>
 						</a>
-						<a v-if="subOption.id === 'feather-premium'" href="/out/feather-expats" target="_blank">
-							{% endraw %}{% include "_css/icons/health-insurance/logo-feather.svg" %}{% raw %}
+					</li>
+					<li>
+						<a href="/out/hansemerkur-expats" target="_blank">
+							{% endraw %}{% include "_css/icons/health-insurance/logo-hansemerkur.svg" %}{% raw %}
 							<div>
-								<h3>Feather Premium</h3>
+								<h3>HanseMerkur</h3>
+								<p>Their expat health insurance works for a <glossary>National Visa</glossary> application.</p>
 							</div>
 							<output>
-								<eur :amount="optionPrice('expat', subOption.id)"></eur> <small>/ month</small>
+								<eur :amount="optionPrice('expat', 'hansemerkur-basic')"></eur> <small>/ month</small>
 							</output>
 						</a>
-						<a v-if="subOption.id === 'ottonova-expat'" href="/out/ottonova-expats" target="_blank">
+					</li>
+					<li>
+						<a href="/out/ottonova-expats" target="_blank">
 							{% endraw %}{% include "_css/icons/health-insurance/logo-ottonova.svg" %}{% raw %}
 							<div>
-								<h3>Ottonova Expat</h3>
+								<h3>Ottonova</h3>
+								<p>Their expat health insurance works for a <glossary>National Visa</glossary> application.</p>
 							</div>
 							<output>
-								<eur :amount="optionPrice('expat', subOption.id)"></eur> <small>/ month</small>
-							</output>
-						</a>
-						<a v-if="subOption.id === 'hansemerkur-basic'" href="/out/hansemerkur-expats" target="_blank">
-							{% endraw %}{% include "_css/icons/health-insurance/logo-hansemerkur.svg" %}{% raw %}
-							<div>
-								<h3>HanseMerkur Basic</h3>
-							</div>
-							<output>
-								<eur :amount="optionPrice('expat', subOption.id)"></eur> <small>/ month</small>
-							</output>
-						</a>
-						<a v-if="subOption.id === 'hansemerkur-profi'" href="/out/hansemerkur-expats" target="_blank">
-							{% endraw %}{% include "_css/icons/health-insurance/logo-hansemerkur.svg" %}{% raw %}
-							<div>
-								<h3>HanseMerkur Profi</h3>
-							</div>
-							<output>
-								<eur :amount="optionPrice('expat', subOption.id)"></eur> <small>/ month</small>
+								<eur :amount="optionPrice('expat', 'ottonova-expat')"></eur> <small>/ month</small>
 							</output>
 						</a>
 					</li>
