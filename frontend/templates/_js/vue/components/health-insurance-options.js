@@ -45,9 +45,10 @@ Vue.component('health-insurance-options', {
 			return getHealthInsuranceOptions({...this.$props, sortByPrice: true});
 		},
 
-		recommendedOption(){
-			return this.results.asList[0].id;
+		isPublicOnlyOption() {
+			return this.results.asList[0].id === 'public' && this.results.asList.length === 1;
 		},
+
 		minCostByOption() {
 			return Object.fromEntries(
 				this.results.asList.map(result => {
@@ -131,7 +132,7 @@ Vue.component('health-insurance-options', {
 				output.public = `You get free health insurance, because you earn less than ${this.eur(healthInsurance.azubiFreibetrag)} per month.`;
 			}
 			else if(!this.flag('private')){
-				output.public = `This is <strong>your only option</strong>.`
+				output.public = `This is your only option, because your income is too low for private health insurance.`
 			}
 
 			// You could have private if your Azubi income is really high, but it's unlikely to happen and not worth explaining
@@ -165,7 +166,7 @@ Vue.component('health-insurance-options', {
 				}
 			}
 			else{
-				output.public = `Public health insurance is <strong>your only option</strong>.`;
+				output.public = "This is your only option. You can't choose private health insurance, because your income is too low.";
 			}
 
 			return output;
@@ -184,7 +185,7 @@ Vue.component('health-insurance-options', {
 				output.private = "It's usually more expensive, but you can get <strong>better coverage</strong> and faster doctor appointments for your family."
 			}
 			else{
-				output.public = "This is the <strong>safest choice</strong>, because the cost is proportional to your income.";
+				output.public = "This is the <strong>safest option</strong>, because the cost is proportional to your income.";
 
 				if((this.monthlyIncome * 12) >= 60000){
 					output.private = "It might be <strong>better and cheaper</strong> than public health insurance, because you have a high income.";
@@ -328,21 +329,12 @@ Vue.component('health-insurance-options', {
 				<template v-for="option in results.asList" v-if="option.eligible">
 					<h3>
 						{{ option.name }}
-						<template v-if="option.id !== 'other' && minCostByOption[option.id]">
+						<template v-if="option.id !== 'other' && !isPublicOnlyOption && minCostByOption[option.id]">
 							<br><small>From <eur :amount="minCostByOption[option.id]"></eur>/month</small>
 						</template>
 					</h3>
 
 					<p v-if="clarification[option.id]" v-html="clarification[option.id]"></p>
-
-					<div class="two-columns" v-if="prosAndCons(option.id)">
-						<ul class="pros">
-							<li v-for="pro in prosAndCons(option.id).pros" v-text="pro"></li>
-						</ul>
-						<ul class="cons">
-							<li v-for="con in prosAndCons(option.id).cons" v-text="con"></li>
-						</ul>
-					</div>
 
 					<ul class="buttons list" v-if="option.id === 'free' || option.id === 'other'">
 						<li v-for="subOption in option.options">
@@ -380,18 +372,29 @@ Vue.component('health-insurance-options', {
 						</li>
 					</ul>
 
-					<div class="buttons bar" v-if="['public', 'private', 'expat'].includes(option.id)">
-						<a class="button" :href="readMoreLink[option.id]" target="_blank">Read more</a>
-						<button class="button" @click="stage = option.id">See options <i class="icon right"></i></button>
-					</div>
+					<template v-if="!isPublicOnlyOption">
+						<div class="two-columns" v-if="prosAndCons(option.id)">
+							<ul class="pros">
+								<li v-for="pro in prosAndCons(option.id).pros" v-text="pro"></li>
+							</ul>
+							<ul class="cons">
+								<li v-for="con in prosAndCons(option.id).cons" v-text="con"></li>
+							</ul>
+						</div>
 
-					<hr>
+						<div class="buttons bar" v-if="['public', 'private', 'expat'].includes(option.id)">
+							<a class="button" :href="readMoreLink[option.id]" target="_blank">Read more</a>
+							<button class="button" @click="stage = option.id">See options <i class="icon right"></i></button>
+						</div>
+
+						<hr>
+					</template>
 				</template>
 			</template>
 
-			<template v-if="stage === 'public'">
-				<h2>Public health insurance options</h2>
-				<p>There are dozens of public health insurers. Their price and coverage are almost the same.</p>
+			<template v-if="stage === 'public' || isPublicOnlyOption">
+				<h2 v-if="stage === 'public'">Public health insurance options</h2>
+				<p>You must choose an insurer. There are dozens of insurers, but their cost and coverage are almost the same. Techniker Krankenkasse and Barmer are excellent options.</p>
 				<ul class="buttons list">
 					<li v-for="subOption in results.public.options" v-if="['barmer', 'tk'].includes(subOption.id)">
 						<a v-if="subOption.id === 'barmer'" @click="selectOption(subOption.id)" title="Sign up with BARMER" href="/out/feather-barmer-signup" target="_blank">
@@ -404,11 +407,11 @@ Vue.component('health-insurance-options', {
 								<eur :amount="optionPrice('public', subOption.id)"></eur> <small>/ month</small>
 							</output>
 						</a>
-						<a v-else-if="subOption.id === 'tk'" @click="selectOption(subOption.id)" title="Sign up with Techniker Krankenkasse" href="/out/feather-tk-signup" target="_blank" :class="{recommended: recommendedOption === 'public'}">
+						<a v-else-if="subOption.id === 'tk'" @click="selectOption(subOption.id)" title="Sign up with Techniker Krankenkasse" href="/out/feather-tk-signup" target="_blank">
 							{% endraw %}{% include "_css/icons/health-insurance/logo-tk.svg" %}{% raw %}
 							<div>
 								<h3>Techniker Krankenkasse</h3>
-								<p>Biggest German health insurer. Great customer service. They speak English.</p>
+								<p>The biggest public health insurer. Great customer service. They speak English.</p>
 							</div>
 							<output>
 								<eur :amount="optionPrice('public', subOption.id)"></eur> <small>/ month</small>
