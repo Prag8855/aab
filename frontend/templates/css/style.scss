@@ -2289,10 +2289,10 @@ collapsible, letter-generator, feedback-residence-permit, health-insurance-calcu
         margin: var(--l-relative) 0;
         display: grid;
         grid-template-columns: 1fr 1fr;
+        font-size: var(--f-s);
 
         ul{
             margin: var(--s) 0;
-            font-size: var(--f-s);
         }
 
         li{
