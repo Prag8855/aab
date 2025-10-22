@@ -60,31 +60,26 @@ Vue.component('health-insurance-options', {
 			);
 		},
 
-		readMoreLink(){
-			const url = "/guides/german-health-insurance";
-			return {
-				public: url + '#public-health-insurance',
-				private: url + '#private-health-insurance',
-				expat: url + '#expat-health-insurance',
-				free: url + '#free-health-insurance',
-			}
-		},
-
 		showGuideLink(){
 			// If you're on this page, you're already reading about health insurance
 			return window.location.pathname !== '/guides/german-health-insurance';
 		},
 
-		yourSponsorsHave() {
-			if(this.flag('familienversicherung-parents') && this.flag('familienversicherung-spouse')){
-				return 'your parents or your spouse have';
+		familienversicherungText() {
+			const parents = this.flag('familienversicherung-parents');
+			const spouse = this.flag('familienversicherung-spouse');
+			let sponsors = null;
+			if(parents && spouse){
+				sponsors = 'your parents or your spouse have';
 			}
-			else if(this.flag('familienversicherung-spouse')){
-				return 'your spouse has';
+			else if(spouse){
+				sponsors = 'your spouse has';
 			}
-			else if(this.flag('familienversicherung-parents')){
-				return 'your parents have';
+			else if(parents){
+				sponsors = 'your parents have';
 			}
+
+			return `If ${sponsors} public health insurance, it covers you for free.`;
 		},
 		calculatorParams() {
 			return {
@@ -144,7 +139,7 @@ Vue.component('health-insurance-options', {
 			if(this.flag('public-minijob')){
 				output.public = null;
 				if(this.results.expat.eligible){
-					output.public = "It's more expensive, but you get <strong>better coverage</strong>. " + output.public;
+					output.public = "It's more expensive, but you get <strong>better coverage</strong>.";
 					output.expat = "It's cheaper, but <strong>the coverage is not great</strong>.";
 				}
 				output.private = "Your income is too low for private health insurance. Most insurers will reject you.";
@@ -216,10 +211,10 @@ Vue.component('health-insurance-options', {
 			// Students under 30 years old
 			if(this.flag('public-tariff-student')){
 				if(this.results.free.eligible){
-					output.public = "If you can't get free health insurance, this is the <strong>best option</strong>. " + output.public;
+					output.public = "If you can't get free health insurance, this is the <strong>best option</strong>.";
 				}
 				else{
-					output.public = "This is the <strong>best option</strong> for students under 30 years old. " + output.public;
+					output.public = "This is the <strong>best option</strong> for students under 30 years old.";
 				}
 
 				output.expat = "It's cheaper, but <strong>the coverage is bad</strong>. Public health insurance is better.";
@@ -281,12 +276,13 @@ Vue.component('health-insurance-options', {
 		optionPrice(type, id){
 			return this.results[type].options.find(o => o.id === id).total.personalContribution;
 		},
+		readMoreUrl(id){ return `/guides/german-health-insurance#${id}-health-insurance` },
 
 		prosAndCons(insuranceType){
 			if(insuranceType === 'public'){
 				return {
 					"pros": [
-						"The cost matches your income",
+						"The cost adjusts to your income",
 						`It covers your ${this.childrenCount === 1 ? 'child' : 'children'} for free.`,
 					],
 					"cons": [
@@ -343,8 +339,11 @@ Vue.component('health-insurance-options', {
 								{% endraw %}{% include "_css/icons/family.svg" %}{% raw %}
 								<div>
 									<h3>Family health insurance</h3>
-									<p>If {{ yourSponsorsHave }} public health insurance, it covers you for free.</p>
+									<p v-text="familienversicherungText"></p>
 								</div>
+								<output>
+									<eur :amount="0"></eur> <small>/ month</small>
+								</output>
 							</a>
 							<a v-if="subOption.id === 'social-benefits'" @click="selectOption(subOption.id)" title="Learn more about state-sponsored health insurnace" href="/guides/german-health-insurance#free-health-insurance" target="_blank">
 								{% endraw %}{% include "_css/icons/bank.svg" %}{% raw %}
@@ -352,6 +351,9 @@ Vue.component('health-insurance-options', {
 									<h3>Social benefits</h3>
 									<p>If you get <glossary term="ALG I">unemployment benefits</glossary>, <glossary>Bürgergeld</glossary> or <glossary>Elterngeld</glossary>, you get free public health insurance.</p>
 								</div>
+								<output>
+									<eur :amount="0"></eur> <small>/ month</small>
+								</output>
 							</a>
 							<a v-if="subOption.id === 'ehic'" @click="selectOption(subOption.id)" title="Learn more about the EHIC" href="/guides/german-health-insurance#insurance-from-other-eu-countries" target="_blank">
 								{% endraw %}{% include "_css/icons/passport.svg" %}{% raw %}
@@ -359,6 +361,9 @@ Vue.component('health-insurance-options', {
 									<h3>European Health Insurance Card</h3>
 									<p>Your insurance from another EU country might cover you in Germany.</p>
 								</div>
+								<output>
+									<eur :amount="0"></eur> <small>/ month</small>
+								</output>
 							</a>
 							<a v-if="subOption.id === 'ksk'" @click="selectOption(subOption.id)" title="Learn more about the KSK" href="/guides/ksk-kuenstlersozialkasse" target="_blank">
 								{% endraw %}{% include "_css/icons/liability.svg" %}{% raw %}
@@ -384,7 +389,7 @@ Vue.component('health-insurance-options', {
 						</div>
 
 						<div class="buttons bar" v-if="['public', 'private', 'expat'].includes(option.id)">
-							<a class="button" :href="readMoreLink[option.id]" target="_blank">Read more</a>
+							<a class="button" :href="readMoreUrl(option.id)" target="_blank">Read more</a>
 							<button class="button" @click="stage = option.id">See options <i class="icon right"></i></button>
 						</div>
 
@@ -481,7 +486,7 @@ Vue.component('health-insurance-options', {
 						{% endraw %}{% include "_css/icons/help.svg" %}{% raw %}
 						<div>
 							<h3 :id="uid('h-askOurExpert')">Ask our expert</h3>
-							<p>Let {{ broker.name }} find the best health insurance for you. It's 100% free.</p>
+							<p>You can ask {{ broker.name }} anything via WhatsApp or email. Let {{ broker.him }} find the best health insurance for you. It's 100% free.</p>
 						</div>
 					</button>
 				</li>

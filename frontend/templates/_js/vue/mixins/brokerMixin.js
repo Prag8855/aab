@@ -30,5 +30,10 @@ const brokerMixin = {
             return brokers.find(b => b.id === brokerId) || brokers[0];
         },
     },
+    methods: {
+        capitalize(word){
+            return word.charAt(0).toUpperCase() + word.slice(1);
+        },
+    }
 };
 {% endjs %}

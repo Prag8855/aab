@@ -233,9 +233,6 @@ Vue.component('health-insurance-calculator', {
 	},
 	methods: {
 		// Insurance questions
-		capitalize(word){
-			return word.charAt(0).toUpperCase() + word.slice(1);
-		},
 		selectOccupation(occupation){
 			this.occupation = occupation;
 
