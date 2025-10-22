@@ -152,8 +152,8 @@ Vue.component('health-insurance-options', {
 					output.private = 'This is more expensive, but you can get <strong>better coverage</strong> for you and your family.'
 				}
 				else if(this.age <= 35){
-					output.private = "It can be <strong>better and cheaper</strong> than public, because you are young and well-paid.";
-					output.public = "This is a <strong>safer choice</strong>, because the cost is proportional to your income.";
+					output.private = "It can be better and cheaper than public, because you are young and well-paid.";
+					output.public = "This is a safer choice, because the cost is proportional to your income.";
 				}
 				else if(this.age >= 45){
 					output.public = "This is usually the <strong>cheapest option</strong>, because you are over 45 years old."
@@ -284,7 +284,7 @@ Vue.component('health-insurance-options', {
 				return {
 					"pros": [
 						"The cost matches your income",
-						`Covers your ${this.childrenCount === 1 ? 'child' : 'children'} for free.`,
+						`It covers your ${this.childrenCount === 1 ? 'child' : 'children'} for free.`,
 					],
 					"cons": [
 						"Doctor appointments are harder to get",
@@ -295,7 +295,7 @@ Vue.component('health-insurance-options', {
 			else if(insuranceType === 'private'){
 				return {
 					"pros": [
-						"Choose the coverage you need",
+						"Choose the level of coverage",
 						"Faster doctor appointments",
 					],
 					"cons": [
@@ -307,7 +307,7 @@ Vue.component('health-insurance-options', {
 			else if(insuranceType === 'expat'){
 				return {
 					"pros": [
-						"Very cheap",
+						"Cheapest option",
 						"Easy to cancel",
 					],
 					"cons": [
