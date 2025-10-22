@@ -9,7 +9,7 @@
 
 {% js %}{% raw %}
 Vue.component('health-insurance-options', {
-	mixins: [uniqueIdsMixin],
+	mixins: [brokerMixin, uniqueIdsMixin],
 	props: {
 		age: Number,
 		childrenCount: Number,

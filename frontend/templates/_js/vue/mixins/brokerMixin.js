@@ -30,4 +30,5 @@ const brokerMixin = {
             return brokers.find(b => b.id === brokerId) || brokers[0];
         },
     },
-}
+};
+{% endjs %}
