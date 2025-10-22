@@ -2292,6 +2292,7 @@ collapsible, letter-generator, feedback-residence-permit, health-insurance-calcu
         display: grid;
         grid-template-columns: 1fr 1fr;
         font-size: var(--f-s);
+        gap: var(--s);
 
         ul{
             margin: 0;
@@ -2299,6 +2300,10 @@ collapsible, letter-generator, feedback-residence-permit, health-insurance-calcu
 
         li{
             @include list-marker-ul-compact;
+        }
+
+        @include only-phone{
+            grid-template-columns: 1fr;
         }
     }
     :is(.pros, .cons) li{
