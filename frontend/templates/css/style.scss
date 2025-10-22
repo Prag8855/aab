@@ -224,6 +224,7 @@ $width-main-column: 860px;
 
     // Colours
     --c-highlight: #da513d;
+    --c-highlight-green: #0c8;
     --c-text-error: #{darken(#da513d, 20%)};
     --c-text-heading: #000;
     --c-text-light: #757575;
@@ -291,6 +292,7 @@ $width-main-column: 860px;
 @media (prefers-color-scheme: dark) {
     :root{
         --c-highlight: #9f3a2b;
+        --c-highlight-green: #{darken(#0c8, 20%)};
         --c-text: #bbb;
         --c-text-error: #{lighten(#9f3a2b, 20%)};
         --c-text-heading: #ddd;
@@ -2292,15 +2294,33 @@ collapsible, letter-generator, feedback-residence-permit, health-insurance-calcu
         font-size: var(--f-s);
 
         ul{
-            margin: var(--s) 0;
+            margin: 0;
         }
 
         li{
             @include list-marker-ul-compact;
         }
     }
+    :is(.pros, .cons) li{
+        padding-left: calc(var(--l-relative) + var(--s));
+
+        &:before{
+            display: block;
+            content: '×';
+            background: var(--c-bg-error);
+            color: var(--c-text-error);
+            width: var(--l-relative);
+            height: var(--l-relative);
+            line-height: var(--l-relative);
+            border-radius: 50%;
+            text-align: center;
+            margin-top: calc((var(--m) * var(--line-height-label) - var(--l-relative)) / 2);
+        }
+    }
     .pros li:before{
-        content: '+';
+        transform: rotate(45deg);
+        color: #fff;
+        background: var(--c-highlight-green);
     }
 }
 

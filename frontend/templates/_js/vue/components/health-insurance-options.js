@@ -327,7 +327,7 @@ Vue.component('health-insurance-options', {
 				<template v-for="option in results.asList" v-if="option.eligible">
 					<h3>
 						{{ option.name }}
-						<template v-if="minCostByOption[option.id]">
+						<template v-if="option.id !== 'other' && minCostByOption[option.id]">
 							<br><small>From <eur :amount="minCostByOption[option.id]"></eur>/month</small>
 						</template>
 					</h3>
@@ -335,18 +335,12 @@ Vue.component('health-insurance-options', {
 					<p v-if="clarification[option.id]" v-html="clarification[option.id]"></p>
 
 					<div class="two-columns" v-if="prosAndCons(option.id)">
-						<div>
-							<strong>Benefits</strong>
-							<ul class="pros">
-								<li v-for="pro in prosAndCons(option.id).pros" v-text="pro"></li>
-							</ul>
-						</div>
-						<div>
-							<strong>Disadvantages</strong>
-							<ul class="cons">
-								<li v-for="con in prosAndCons(option.id).cons" v-text="con"></li>
-							</ul>
-						</div>
+						<ul class="pros">
+							<li v-for="pro in prosAndCons(option.id).pros" v-text="pro"></li>
+						</ul>
+						<ul class="cons">
+							<li v-for="con in prosAndCons(option.id).cons" v-text="con"></li>
+						</ul>
 					</div>
 
 					<ul class="buttons list" v-if="option.id === 'free' || option.id === 'other'">
@@ -387,7 +381,7 @@ Vue.component('health-insurance-options', {
 
 					<div class="buttons bar" v-if="['public', 'private', 'expat'].includes(option.id)">
 						<a class="button" :href="readMoreLink[option.id]" target="_blank">Read more</a>
-						<button class="button primary" @click="stage = option.id">See options <i class="icon right"></i></button>
+						<button class="button" @click="stage = option.id">See options <i class="icon right"></i></button>
 					</div>
 
 					<hr>
