@@ -9,7 +9,7 @@ Vue.component('children-input', {
 		},
 	},
 	template: `
-		<select class="children-input" :value="value" @input="$emit('input', $event.target.value)" :class="{placeholder: value == null}">
+		<select class="children-input" :value="value" @input="$emit('input', Number($event.target.value))" :class="{placeholder: value == null}">
 			<option disabled hidden default :value="null" v-text="placeholder"></option>
 			<option :value="0">No children</option>
 			<option :value="1">1 child</option>
