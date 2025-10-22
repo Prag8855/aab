@@ -2278,13 +2278,8 @@ collapsible, letter-generator, feedback-residence-permit, health-insurance-calcu
         }
     }
 
-    .health-insurance-options{
-        .price{
-            margin-top:var(--xl);
-        }
-        h3{
-            margin: 0;
-        }
+    .health-insurance-options h3{
+        margin: 0;
     }
 
     .two-columns{
