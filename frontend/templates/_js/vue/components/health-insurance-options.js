@@ -47,14 +47,15 @@ Vue.component('health-insurance-options', {
 		recommendedOption(){
 			return this.results.asList[0].id;
 		},
-		minOptionCost() {
-			return {
-				free: 0,
-				public: this.results.public.options[0].total.personalContribution,
-				private: 555,
-				expat: 72,
-				other: this.results.other.options.find(o => o.id === 'ksk')?.total?.personalContribution,
-			};
+		minCostByOption() {
+			return Object.fromEntries(
+				this.results.asList.map(result => {
+					const minCost = Math.min(
+						...result.options.map(o => o?.total?.personalContribution || Infinity)
+					);
+					return [result.id, minCost === Infinity ? undefined : minCost];
+				})
+			);
 		},
 
 		readMoreLink(){
@@ -81,15 +82,6 @@ Vue.component('health-insurance-options', {
 			else if(this.flag('familienversicherung-parents')){
 				return 'your parents have';
 			}
-		},
-		visaType(){
-			if(this.isStudent){
-				return 'student visa';
-			}
-			else if(occupations.isSelfEmployed(this.occupation)){
-				return 'freelance visa';
-			}
-			return 'visa';
 		},
 		calculatorParams() {
 			return {
@@ -335,7 +327,9 @@ Vue.component('health-insurance-options', {
 				<template v-for="option in results.asList" v-if="option.eligible">
 					<h3>
 						{{ option.name }}
-						<br><small>From <eur :amount="minOptionCost[option.id]"></eur>/month</small>
+						<template v-if="minCostByOption[option.id]">
+							<br><small>From <eur :amount="minCostByOption[option.id]"></eur>/month</small>
+						</template>
 					</h3>
 
 					<p v-if="clarification[option.id]" v-html="clarification[option.id]"></p>
