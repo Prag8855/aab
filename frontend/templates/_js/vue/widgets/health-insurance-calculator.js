@@ -629,7 +629,7 @@ Vue.component('health-insurance-calculator', {
 			<template v-if="stage === 'askABroker'">
 				<div class="form-recipient">
 					<div>
-						<p v-if="occupation === 'other'">If your situation is complicated, ask our insurance expert.</p>
+						<p v-if="occupation === 'other'">If your situation is complicated, let our expert help you.</p>
 						<p>{{ broker.name }} will help you <strong>choose the best health insurance</strong>. I work with {{ broker.him }} because {{ broker.he }} is honest and knowledgeable.</p>
 						<p>{{ capitalize(broker.he) }} replies on the same day. {{ capitalize(broker.his) }} help is <strong>100% free</strong>.</p>
 					</div>

@@ -171,7 +171,7 @@ Vue.component('health-insurance-options', {
 		},
 		selfEmployedClarification(){
 			const output = {
-				expat: "This is the <strong>cheapest option</strong>, but the coverage is not great. It can be a really bad choice. Ask our expert before you choose this option."
+				expat: "This is the <strong>cheapest option</strong>, but the coverage is not great. It can be a really bad choice. Ask our expert first."
 			};
 
 			if(this.age >= 45){
@@ -187,7 +187,7 @@ Vue.component('health-insurance-options', {
 
 				if((this.monthlyIncome * 12) >= 60000){
 					output.private = "It might be <strong>better and cheaper</strong> than public health insurance, because you have a high income.";
-					output.public = "If your income is unstable, this is the <strong>safest option</strong>, because the cost is proportional to your income."
+					output.public = "This is the <strong>safest option</strong>, because the cost is proportional to your income."
 				}
 				else if((this.monthlyIncome * 12) >= 30000){							
 					output.private = "Choose private health insurance to get <strong>better coverage</strong> and faster doctor appointments."
@@ -296,7 +296,7 @@ Vue.component('health-insurance-options', {
 				return {
 					"pros": [
 						"Choose the level of coverage",
-						"Faster doctor appointments",
+						"Get doctor appointments faster",
 					],
 					"cons": [
 						"Covering your children costs extra",
@@ -390,6 +390,7 @@ Vue.component('health-insurance-options', {
 
 			<template v-if="stage === 'public'">
 				<h2>Public health insurance options</h2>
+				<p>There are dozens of public health insurers. Their price and coverage are almost the same.</p>
 				<ul class="buttons list">
 					<li v-for="subOption in results.public.options" v-if="['barmer', 'tk'].includes(subOption.id)">
 						<a v-if="subOption.id === 'barmer'" @click="selectOption(subOption.id)" title="Sign up with BARMER" href="/out/feather-barmer-signup" target="_blank">
