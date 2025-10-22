@@ -365,7 +365,7 @@ $width-main-column: 860px;
 @mixin box-s{
     // Buttons
     @include box;
-    padding: var(--s) var(--m);
+    padding: var(--xs) var(--m);
     background: transparent;
 }
 
