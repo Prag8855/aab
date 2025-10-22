@@ -3091,10 +3091,6 @@ collapsible, letter-generator, feedback-residence-permit, health-insurance-calcu
                 display: block;
                 width: var(--h-icon-l);
                 height: var(--h-icon-l);
-
-                @include not-phone{
-                    margin:0 auto var(--s)!important;
-                }
             }
 
             h3{
@@ -3114,18 +3110,13 @@ collapsible, letter-generator, feedback-residence-permit, health-insurance-calcu
 
                 span{
                     @include heading;
-                    font-size: var(--l);
+                }
+                small {
+                    color: var(--c-text-light);
                 }
 
                 @include only-phone{
                     grid-column: 1 / -1;
-                }
-
-                @include not-phone{
-                    small{
-                        display: block;
-                        grid-column: auto;
-                    }
                 }
             }
         }
@@ -3156,6 +3147,10 @@ collapsible, letter-generator, feedback-residence-permit, health-insurance-calcu
                 text-align: center;
                 grid-template-columns: 1fr;
                 gap: 0;
+            }
+
+            svg{
+                margin:0 auto var(--s)!important;
             }
         }
     }

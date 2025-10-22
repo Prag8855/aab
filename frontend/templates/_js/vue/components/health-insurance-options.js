@@ -4,6 +4,7 @@
 {% include '_js/vue/components/eur.js' %}
 {% include '_js/vue/components/gkv-cost-explanation.js' %}
 {% include '_js/vue/components/glossary.js' %}
+{% include '_js/vue/mixins/brokerMixin.js' %}
 {% include '_js/vue/mixins/uniqueIdsMixin.js' %}
 
 {% js %}{% raw %}
@@ -373,7 +374,7 @@ Vue.component('health-insurance-options', {
 									<p>If you are an artist or a content creator, the KSK can pay half of your public health insurance.</p>
 								</div>
 								<output>
-									<eur :amount="optionPrice(option.id, subOption.id)"></eur> <small>per month</small>
+									<eur :amount="optionPrice(option.id, subOption.id)"></eur> <small>/ month</small>
 								</output>
 							</a>
 						</li>
@@ -400,7 +401,7 @@ Vue.component('health-insurance-options', {
 								<p>Second biggest health insurer. They speak English.</p>
 							</div>
 							<output>
-								<eur :amount="optionPrice('public', subOption.id)"></eur> <small>per month</small>
+								<eur :amount="optionPrice('public', subOption.id)"></eur> <small>/ month</small>
 							</output>
 						</a>
 						<a v-else-if="subOption.id === 'tk'" @click="selectOption(subOption.id)" title="Sign up with Techniker Krankenkasse" href="/out/feather-tk-signup" target="_blank" :class="{recommended: recommendedOption === 'public'}">
@@ -410,12 +411,13 @@ Vue.component('health-insurance-options', {
 								<p>Biggest German health insurer. Great customer service. They speak English.</p>
 							</div>
 							<output>
-								<eur :amount="optionPrice('public', subOption.id)"></eur> <small>per month</small>
+								<eur :amount="optionPrice('public', subOption.id)"></eur> <small>/ month</small>
 							</output>
 						</a>
 					</li>
 				</ul>
 				<gkv-cost-explanation v-bind="calculatorParams"></gkv-cost-explanation>
+				<hr>
 			</template>
 
 			<template v-if="stage === 'private'">
@@ -426,6 +428,55 @@ Vue.component('health-insurance-options', {
 
 			<template v-if="stage === 'expat'">
 				<h2>Expat health insurance options</h2>
+				<ul class="buttons list">
+					<li v-for="subOption in results.expat.options">
+						<a v-if="subOption.id === 'feather-basic'" href="/out/feather-expats" target="_blank">
+							{% endraw %}{% include "_css/icons/health-insurance/logo-feather.svg" %}{% raw %}
+							<div>
+								<h3>Feather Basic</h3>
+							</div>
+							<output>
+								<eur :amount="optionPrice('expat', subOption.id)"></eur> <small>/ month</small>
+							</output>
+						</a>
+						<a v-if="subOption.id === 'feather-premium'" href="/out/feather-expats" target="_blank">
+							{% endraw %}{% include "_css/icons/health-insurance/logo-feather.svg" %}{% raw %}
+							<div>
+								<h3>Feather Premium</h3>
+							</div>
+							<output>
+								<eur :amount="optionPrice('expat', subOption.id)"></eur> <small>/ month</small>
+							</output>
+						</a>
+						<a v-if="subOption.id === 'ottonova-expat'" href="/out/ottonova-expats" target="_blank">
+							{% endraw %}{% include "_css/icons/health-insurance/logo-ottonova.svg" %}{% raw %}
+							<div>
+								<h3>Ottonova Expat</h3>
+							</div>
+							<output>
+								<eur :amount="optionPrice('expat', subOption.id)"></eur> <small>/ month</small>
+							</output>
+						</a>
+						<a v-if="subOption.id === 'hansemerkur-basic'" href="/out/hansemerkur-expats" target="_blank">
+							{% endraw %}{% include "_css/icons/health-insurance/logo-hansemerkur.svg" %}{% raw %}
+							<div>
+								<h3>HanseMerkur Basic</h3>
+							</div>
+							<output>
+								<eur :amount="optionPrice('expat', subOption.id)"></eur> <small>/ month</small>
+							</output>
+						</a>
+						<a v-if="subOption.id === 'hansemerkur-profi'" href="/out/hansemerkur-expats" target="_blank">
+							{% endraw %}{% include "_css/icons/health-insurance/logo-hansemerkur.svg" %}{% raw %}
+							<div>
+								<h3>HanseMerkur Profi</h3>
+							</div>
+							<output>
+								<eur :amount="optionPrice('expat', subOption.id)"></eur> <small>/ month</small>
+							</output>
+						</a>
+					</li>
+				</ul>
 				<hr>
 			</template>
 
@@ -436,7 +487,7 @@ Vue.component('health-insurance-options', {
 						{% endraw %}{% include "_css/icons/help.svg" %}{% raw %}
 						<div>
 							<h3 :id="uid('h-askOurExpert')">Ask our expert</h3>
-							<p>Let us find the best health insurance for you. It's the fastest way to get insured, and it's 100% free.</p>
+							<p>Let {{ broker.name }} find the best health insurance for you. It's 100% free.</p>
 						</div>
 					</button>
 				</li>

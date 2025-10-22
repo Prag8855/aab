@@ -13,13 +13,14 @@
 {% include '_js/vue/components/income-input.js' %}
 {% include '_js/vue/components/radio.js' %}
 {% include '_js/vue/components/tabs.js' %}
+{% include '_js/vue/mixins/brokerMixin.js' %}
 {% include '_js/vue/mixins/multiStageMixin.js' %}
 {% include '_js/vue/mixins/trackedStagesMixin.js' %}
 {% include '_js/vue/mixins/uniqueIdsMixin.js' %}
 
 {% js %}{% raw %}
 Vue.component('health-insurance-calculator', {
-	mixins: [multiStageMixin, uniqueIdsMixin, trackedStagesMixin],
+	mixins: [brokerMixin, multiStageMixin, uniqueIdsMixin, trackedStagesMixin],
 	props: {
 		static: {
 			type: Boolean,
@@ -138,34 +139,6 @@ Vue.component('health-insurance-calculator', {
 		},
 
 		// Contact form
-		broker() {
-			const brokers = [
-				{
-					id: 'seamus-wolf',
-					name: 'Seamus',
-					fullName: 'Seamus Wolf',
-					phoneNumber: '+491626969454',
-					phoneNumberPretty: '+49 162 6969454',
-					he: 'he',
-					him: 'him',
-					his: 'his',
-				},
-				{
-					id: 'christina-weber',
-					name: 'Christina',
-					fullName: 'Christina Weber',
-					phoneNumber: '+493083792299',
-					phoneNumberPretty: '+49 30 83792299',
-					he: 'she',
-					him: 'her',
-					his: 'her',
-				},
-			];
-			const brokerId = localStorage.getItem('healthInsuranceBroker') || brokers[Math.floor(Math.random() * brokers.length * 2/3)].id;
-			localStorage.setItem('healthInsuranceBroker', brokerId);
-
-			return brokers.find(b => b.id === brokerId) || brokers[0];
-		},
 		personSummary(){
 			if(!this.occupation){
 				// User has clicked "skip the questions"
