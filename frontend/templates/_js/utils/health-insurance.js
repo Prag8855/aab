@@ -269,6 +269,19 @@ function gkvOptions({occupation, monthlyIncome, hoursWorkedPerWeek, age, childre
 	});
 }
 
+function expatOptions(age){
+	return [
+	{% for id, cost in EXPAT_INSURANCE_COST.items() %}
+		{
+			id: "{{ id }}",
+			total: {
+				personalContribution: {{ cost }},
+			},
+		},
+	{% endfor %}
+	];
+}
+
 function canHaveEHIC(hasEUPublicHealthInsurance, hasGermanPublicHealthInsurance, monthlyIncome){
 	// EHIC is available if you are publicly insured in another EU country
 	// It's invalidated as soon as you have an income, even if it's below the minijob threshold
@@ -506,10 +519,7 @@ function getHealthInsuranceOptions({
 	if(canHaveExpatHealthInsurance(occupation, monthlyIncome, hoursWorkedPerWeek, age, hasGermanPublicHealthInsurance)){
 		output.flags.add('expat');
 		output.expat.eligible = true;
-		output.expat.options = [
-			{id: 'feather-expat', cost: {{ FEATHER_STUDENT_COST }}}, // TODO
-			{id: 'ottonova-expat', cost: {{ OTTONOVA_STUDENT_COST }}},
-		];
+		output.expat.options = expatOptions(age);
 	}
 
 
@@ -666,8 +676,8 @@ function getHealthInsuranceOptions({
 	if(sortByPrice){
 		output.public.options.sort((a, b) => a.total.personalContribution - b.total.personalContribution);
 		output.private.options.sort((a, b) => a.total.personalContribution - b.total.personalContribution);
-		output.expat.options.sort((a, b) => a.cost - b.cost);
-		output.other.options.sort((a, b) => a.cost - b.cost);
+		output.expat.options.sort((a, b) => a.total.personalContribution - b.total.personalContribution);
+		output.other.options.sort((a, b) => a.total.personalContribution - b.total.personalContribution);
 	}
 
 	output.asList.unshift(output.free);

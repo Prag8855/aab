@@ -175,7 +175,17 @@ ctx["OTTONOVA_EMPLOYEE_COST"] = fail_on("2025-12-01", 263)  # Premium economy
 ctx["OTTONOVA_STUDENT_COST"] = fail_on("2025-12-01", 111)  # Study smart
 ctx["OTTONOVA_SELFEMPLOYED_COST"] = fail_on("2025-12-01", 552)  # Premium economy
 
-ctx["FEATHER_STUDENT_COST"] = fail_on("2025-12-01", 72)
+ctx["FEATHER_STUDENT_COST"] = fail_on("2025-12-01", 72)  # /out/feather-expats
+ctx["EXPAT_INSURANCE_COST"] = fail_on(
+    "2026-01-31",
+    {
+        "feather-basic": 72,  # /out/feather-expats
+        "feather-premium": 134,  # /out/feather-expats
+        "ottonova-expat": 167,  # https://www.ottonova.de/en/v/private-health-insurance/expats
+        "hansemerkur-basic": 1.7 * 30,  # https://www.hmrv.de/en/incoming/insurance-for-foreign-guests
+        "hansemerkur-profi": 2.4 * 30,  # https://www.hmrv.de/en/incoming/insurance-for-foreign-guests
+    },
+)
 
 ctx["EXPAT_STUDENT_COST"] = round(ctx["FEATHER_STUDENT_COST"])
 
