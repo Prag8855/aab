@@ -334,23 +334,6 @@ Vue.component('health-insurance-options', {
 
 					<p v-if="clarification[option.id]" v-html="clarification[option.id]"></p>
 
-					<template v-if="option.id === 'free'">
-						<ul>
-							<li>
-								<strong>Family health insurance</strong><br>
-								If {{ yourSponsorsHave }} public health insurance, it covers you for free.
-							</li>
-							<li>
-								<strong>Social benefits</strong><br>
-								If you get <glossary term="ALG I">unemployment benefits</glossary>, <glossary>Bürgergeld</glossary> or <glossary>Elterngeld</glossary>, you get free public health insurance.
-							</li>
-							<li>
-								<strong>European Health Insurance Card</strong><br>
-								Your insurance from another EU country might cover you in Germany.
-							</li>
-						</ul>
-					</template>
-
 					<div class="two-columns" v-if="prosAndCons(option.id)">
 						<div>
 							<strong>Benefits</strong>
@@ -366,8 +349,29 @@ Vue.component('health-insurance-options', {
 						</div>
 					</div>
 
-					<ul class="buttons list" v-if="option.id === 'other'">
+					<ul class="buttons list" v-if="option.id === 'free' || option.id === 'other'">
 						<li v-for="subOption in option.options">
+							<a v-if="subOption.id === 'familienversicherung'" @click="selectOption(subOption.id)" title="Learn more about family health insurance" href="/guides/german-health-insurance#free-health-insurance" target="_blank">
+								{% endraw %}{% include "_css/icons/family.svg" %}{% raw %}
+								<div>
+									<h3>Family health insurance</h3>
+									<p>If {{ yourSponsorsHave }} public health insurance, it covers you for free.</p>
+								</div>
+							</a>
+							<a v-if="subOption.id === 'social-benefits'" @click="selectOption(subOption.id)" title="Learn more about state-sponsored health insurnace" href="/guides/german-health-insurance#free-health-insurance" target="_blank">
+								{% endraw %}{% include "_css/icons/bank.svg" %}{% raw %}
+								<div>
+									<h3>Social benefits</h3>
+									<p>If you get <glossary term="ALG I">unemployment benefits</glossary>, <glossary>Bürgergeld</glossary> or <glossary>Elterngeld</glossary>, you get free public health insurance.</p>
+								</div>
+							</a>
+							<a v-if="subOption.id === 'ehic'" @click="selectOption(subOption.id)" title="Learn more about the EHIC" href="/guides/german-health-insurance#insurance-from-other-eu-countries" target="_blank">
+								{% endraw %}{% include "_css/icons/passport.svg" %}{% raw %}
+								<div>
+									<h3>European Health Insurance Card</h3>
+									<p>Your insurance from another EU country might cover you in Germany.</p>
+								</div>
+							</a>
 							<a v-if="subOption.id === 'ksk'" @click="selectOption(subOption.id)" title="Learn more about the KSK" href="/guides/ksk-kuenstlersozialkasse" target="_blank">
 								{% endraw %}{% include "_css/icons/liability.svg" %}{% raw %}
 								<div>
@@ -381,7 +385,7 @@ Vue.component('health-insurance-options', {
 						</li>
 					</ul>
 
-					<div class="buttons bar" v-if="['public', 'private', 'expat', 'free'].includes(option.id)">
+					<div class="buttons bar" v-if="['public', 'private', 'expat'].includes(option.id)">
 						<a class="button" :href="readMoreLink[option.id]" target="_blank">Read more</a>
 						<button class="button primary" @click="stage = option.id">See options <i class="icon right"></i></button>
 					</div>
