@@ -38,7 +38,7 @@ The *[[Bürgeramt]]* only gives International Driving Permits for German driving
 
 - **Canada**: From the CAA, while in Canada. No other authority can issue them.
 - **United States:** The AAA can [mail International Driving Permits overseas](https://www.aaa.com/vacation/idpf.html).
-- **Great Britain:** From the [AA,](https://www.theaa.com/driving-advice/driving-abroad/idp) the [RAC](https://www.rac.co.uk/drive/travel/driving-in-europe/international-driving-permit/) or the [Post Office](https://www.postoffice.co.uk/identity/international-driving-permit). You can also [request a British IDP by post](https://www.theaa.com/driving-advice/driving-abroad/idp).
+- **United Kingdom:** See the [official instructions](https://www.gov.uk/driving-abroad/get-an-idp).
 
 [^0]: [Wikipedia](https://en.wikipedia.org/wiki/International_Driving_Permit#Countries_that_recognize_IDP)
 [^1]: [adac.de](https://www.adac.de/verkehr/rund-um-den-fuehrerschein/fahren-ausland/internationaler-fuehrerschein/)
