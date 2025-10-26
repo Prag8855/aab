@@ -202,8 +202,9 @@ Usually, you only need a blocked account for the first year. You must deposit at
 
 You can open a blocked account with...
 
-- [Expatrio](/out/expatrio){{ RECOMMENDED }}
-- [Fintiba](/out/fintiba){{ RECOMMENDED }}
+- **[Expatrio](/out/expatrio)**{{ RECOMMENDED }}  
+    Most people use Expatrio, because it works. They also sell packages with [health insurance](/glossary/Krankenversicherung).
+- [Fintiba](/out/fintiba)
 - [Coracle](/out/coracle)
 - [Sparkasse](/out/sparkasse), but only at some branches[^41]
 - [Kotak Mahindra Bank](https://www.kotak.com/en/digital-banking/insta-services/send-money-abroad/kotak-german-blocked-account-sperrkonto.html) in India[^43]{{ fail_on('2025-12-15') }}
