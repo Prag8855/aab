@@ -10,6 +10,9 @@
 {% include '_js/vue/components/full-name-input.js' %}
 {% include '_js/vue/components/glossary.js' %}
 {% include '_js/vue/components/health-insurance-options.js' %}
+{% include '_js/vue/components/public-health-insurance-options.js' %}
+{% include '_js/vue/components/private-health-insurance-options.js' %}
+{% include '_js/vue/components/expat-health-insurance-options.js' %}
 {% include '_js/vue/components/income-input.js' %}
 {% include '_js/vue/components/radio.js' %}
 {% include '_js/vue/components/tabs.js' %}
@@ -69,6 +72,9 @@ Vue.component('health-insurance-calculator', {
 					'occupation',
 					'questions',
 					'options',
+					'publicOptions',
+					'privateOptions',
+					'expatOptions',
 					'askABroker',
 					'thank-you',
 					'error',
@@ -258,6 +264,9 @@ Vue.component('health-insurance-calculator', {
 					'occupation',
 					'questions',
 					'options',
+					'publicOptions',
+					'privateOptions',
+					'expatOptions',
 					'askABroker',
 					'thank-you',
 					'error',
@@ -267,9 +276,12 @@ Vue.component('health-insurance-calculator', {
 		},
 
 		// Insurance options
-		selectInsuranceOption(option){
+		selectOption(option){
 			if(option === 'broker'){
 				this.goToStage('askABroker');
+			}
+			else if(option.endsWith('Options')){
+				this.goToStage(option);
 			}
 		},
 
@@ -584,13 +596,28 @@ Vue.component('health-insurance-calculator', {
 			</template>
 
 			<template v-if="stage === 'options'">
-				<health-insurance-options v-bind="calculatorParams" @select="selectInsuranceOption"></health-insurance-options>
+				<health-insurance-options v-bind="calculatorParams" @select="selectOption"></health-insurance-options>
 				<hr>
 				<div class="buttons bar">
 					<button aria-label="Go back" class="button" @click="previousStage()">
 						<i class="icon left" aria-hidden="true"></i> <span class="no-mobile">Go back</span>
 					</button>
-					<button class="button primary" @click="nextStage()">
+					<button class="button primary" @click="goToStage('askABroker')">
+						Ask our expert
+					</button>
+				</div>
+			</template>
+
+			<template v-if="stage.endsWith('Options')">
+				<public-health-insurance-options @select="selectOption" v-if="stage === 'publicOptions'" v-bind="calculatorParams"></public-health-insurance-options>
+				<private-health-insurance-options @select="selectOption" v-if="stage === 'privateOptions'" v-bind="calculatorParams"></private-health-insurance-options>
+				<expat-health-insurance-options @select="selectOption" v-if="stage === 'expatOptions'" v-bind="calculatorParams"></expat-health-insurance-options>
+
+				<div class="buttons bar">
+					<button aria-label="Go back" class="button" @click="goToStage('options')">
+						<i class="icon left" aria-hidden="true"></i> <span class="no-mobile">Go back</span>
+					</button>
+					<button class="button primary" @click="goToStage('askABroker')">
 						Ask our expert
 					</button>
 				</div>
@@ -650,7 +677,7 @@ Vue.component('health-insurance-calculator', {
 				<template v-if="contactMethod">
 					<hr>
 					<div class="buttons bar">
-						<button v-if="stageIndex > 0" aria-label="Go back" class="button" @click="previousStage()">
+						<button v-if="stageIndex > 0" aria-label="Go back" class="button" @click="goToStart()">
 							<i class="icon left" aria-hidden="true"></i> <span class="no-mobile">Go back</span>
 						</button>
 						<button v-if="mode === 'question'" class="button primary" @click="nextStage()">
