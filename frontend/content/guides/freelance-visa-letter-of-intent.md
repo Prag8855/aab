@@ -11,11 +11,11 @@ German_document: documents/Absichtserklaerung-Example-German.pdf
 English_document: documents/Absichtserklaerung-Example-English.pdf
 ---
 
-To apply for a freelance visa, you need letters of intent from potential clients. These letters prove that you will find clients and make money in Germany.
+To apply for a [freelance visa](/glossary/Freelance%20visa), you need [letters of intent](/glossary/Absichtserklärung) from potential clients. These letters prove that you will find clients and make money in Germany.
 
 **[How to apply for the German freelance visa ➞](/guides/freelance-visa)**
 
-A letter of intent says "I want to hire this person to do this job, for this price". It's not a contract. It does not force the person to hire you. It just shows interest for your services.
+A letter of intent says "I want to hire this person to do this job, for this price". It's not a contract. The person does not have to hire you. It just shows interest for your services.
 
 {% include "_blocks/tableOfContents.html" %}
 
@@ -82,6 +82,8 @@ Your letters of intent must include...[^5]
 
 **Your letters should be in German.**[^3] Some *[[Ausländerbehörde]]* employees only speak German. If your letters are in another language, get translations from [Red Tape Translation](/out/red-tape-translation-absichterklaerung) or use [Deepl](https://www.deepl.com/translator).
 
+Be careful when you translate your letter of intent to German. Translation errors can change the meaning of the letter. For example, "to hire" is often translated as "anstellen" (to hire an employee) instead of "beauftragen" (to contract a freelancer). This can cause problems with your freelance visa application.[^9]
+
 ## Letter of intent example
 
 {% include "_blocks/downloadDocuments.html" %}
@@ -100,3 +102,4 @@ Your letters of intent must include...[^5]
 [^6]: [essentialpackingchecklists.com](https://www.essentialpackingchecklists.com/german-freelance-visa-letters-of-intent-to-hire/), [Facebook](https://www.facebook.com/groups/berlinfreelancers/permalink/1761691953911181/)
 [^7]: [Reddit](https://old.reddit.com/r/berlin/comments/mzxwxm/letters_of_intent_for_freelance_visa/) (2021)
 [^8]: [Berlin.de](https://service.berlin.de/dienstleistung/328332/#:~:text=vorlage%20von%20mindestens%202%20absichtserklarungen), [Touring Artists](https://www.touring-artists.info/en/visa-residence/to-germany-as-non-eu-citizen/appointment-at-the-immigration-office#:~:text=at%20least%20two%20from%20german-based%20companies)
+[^9]: Sebastian Hoffmann (October 2025)
