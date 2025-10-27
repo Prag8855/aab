@@ -59,6 +59,7 @@ Vue.component('health-insurance-calculator', {
 			email: '',
 			question: '',
 			isLoading: false,
+			intent: 'other',
 
 			// Component settings
 			trackAs: `Health insurance ${this.mode}`,
@@ -205,8 +206,14 @@ Vue.component('health-insurance-calculator', {
 
 			return (new Intl.ListFormat('en-US', {style: 'long', type: 'conjunction'}).format(facts)) + '.';
 		},
+		intentString(){
+			return {
+				private: 'choose private health insurance',
+				expat: 'choose expat health insurance',
+			}[this.intent] || 'choose the best health insurance'
+		},
 		whatsappMessage(){
-			return `Hi ${this.broker.name}, I am ${this.fullName}. Can you help me choose health insurance? ${this.personSummary}`;
+			return `Hi ${this.broker.name}, I am ${this.fullName}. Can you help me ${this.intentString}? ${this.personSummary}`;
 		},
 		whatsappUrl(){
 			return `https://wa.me/${this.broker.phoneNumber}?text=${encodeURIComponent(this.whatsappMessage)}`;
@@ -283,6 +290,11 @@ Vue.component('health-insurance-calculator', {
 		// Insurance options
 		selectOption(option){
 			if(option === 'askABroker'){
+				this.intent = {
+					expatOptions: 'expat',
+					privateOptions: 'private',
+				}[this.stage] || 'other';
+
 				this.goToStage('askABroker');
 			}
 			else if(option.endsWith('Options')){
@@ -618,7 +630,7 @@ Vue.component('health-insurance-calculator', {
 							{% endraw %}{% include "_css/icons/help.svg" %}{% raw %}
 							<div>
 								<h3 :id="uid('h-askOurExpert')">Ask our expert</h3>
-								<p>You can ask {{ broker.name }} anything via WhatsApp or email. Let {{ broker.him }} find the best health insurance for you. It's 100% free.</p>
+								<p>Let {{ broker.name }} find the best health insurance for you. Ask {{ broker.him }} anything via WhatsApp or email. It's 100% free.</p>
 							</div>
 						</button>
 					</li>
@@ -644,7 +656,7 @@ Vue.component('health-insurance-calculator', {
 				<div class="form-recipient">
 					<div>
 						<p v-if="occupation === 'other'">If your situation is complicated, let our expert help you.</p>
-						<p>{{ broker.name }} will help you <strong>choose the best health insurance</strong>. I work with {{ broker.him }} because {{ broker.he }} is honest and knowledgeable.</p>
+						<p>{{ broker.name }} will help you <strong v-text="intentString">choose the best health insurance</strong>. I work with {{ broker.him }} because {{ broker.he }} is honest and knowledgeable.</p>
 						<p>{{ capitalize(broker.he) }} replies on the same day. {{ capitalize(broker.his) }} help is <strong>100% free</strong>.</p>
 					</div>
 					<img
@@ -691,7 +703,7 @@ Vue.component('health-insurance-calculator', {
 						</div>
 					</template>
 				</template>
-				<template v-if="contactMethod">
+				<template v-if="contactMethod || mode === 'calculator'">
 					<hr>
 					<div class="buttons bar">
 						<button v-if="stageIndex > 0" aria-label="Go back" class="button" @click="goToStart()">

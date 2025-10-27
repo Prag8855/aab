@@ -580,7 +580,7 @@ function getHealthInsuranceOptions({
 		if(isApplyingForFirstVisa){
 			// Expat health insurance is often needed as a gap insurance before public health insurance kicks in
 			// EU citizens don't need this because of EHIC, but EU residents do
-			output.flags.add('public-gap-insurance');
+			output.flags.add('gap-insurance');
 		}
 	}
 

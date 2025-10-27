@@ -78,7 +78,7 @@ Vue.component('public-health-insurance-options', {
     template: `
         <div class="health-insurance-options">
             <h2 v-if="!isPublicOnlyOption">Public health insurance options</h2>
-            <p>You must choose an insurer. There are dozens of insurers, but their cost and coverage are almost the same. Techniker Krankenkasse and Barmer are excellent options.</p>
+            <p>You must choose an insurer. There are dozens of insurers, but their cost and coverage are almost the same.</p>
 
             <ul class="buttons list">
                 <li>

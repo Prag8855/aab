@@ -953,7 +953,7 @@ function getsRecommended(allowedOptions){
 }
 function mustHaveExpatInsurance(output) {
 	it('needs expat insurance', () => {
-		hasFlag(output, 'public-gap-insurance')();
+		hasFlag(output, 'gap-insurance')();
 	});
 }
 

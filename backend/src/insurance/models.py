@@ -22,6 +22,13 @@ class Occupation(models.TextChoices):
     OTHER = "other", "Other/unknown"
 
 
+class Intent(models.TextChoices):
+    GENERAL = "general", "General question"
+    PRIVATE = "private", "Choose private health insurance"
+    PUBLIC = "public", "Choose public health insurance"
+    EXPAT = "expat", "Choose expat health insurance"
+
+
 class Brokers(models.TextChoices):
     CHRISTINA_WEBER = "christina-weber", "Christina Weber"
     SEAMUS_WOLF = "seamus-wolf", "Seamus Wolf"
@@ -46,6 +53,8 @@ class Case(models.Model):
     is_applying_for_first_visa = models.BooleanField(default=None, null=True)
     has_german_public_insurance = models.BooleanField(default=None, null=True)
     has_eu_public_insurance = models.BooleanField(default=None, null=True)
+
+    intent = models.CharField(max_length=50, choices=Intent, default=Intent.GENERAL)
 
     creation_date = models.DateTimeField(auto_now_add=True)
     question = models.TextField("Question", blank=True)

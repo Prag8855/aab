@@ -19,7 +19,7 @@ Vue.component('health-insurance-options', {
 			}
 			if(optionsList.length > 1){
 				const options = new Intl.ListFormat('en-US', {style: 'long', type: 'disjunction'}).format(optionsList);
-				return `You need <strong>${options} health insurance</strong>.`;
+				return `You must choose <strong>${options} health insurance</strong>.`;
 			}
 		},
 
