@@ -52,11 +52,6 @@ Vue.component('health-insurance-options', {
 			);
 		},
 
-		showGuideLink(){
-			// If you're on this page, you're already reading about health insurance
-			return window.location.pathname !== '/guides/german-health-insurance';
-		},
-
 		familienversicherungText() {
 			const parents = this.flag('familienversicherung-parents');
 			const spouse = this.flag('familienversicherung-spouse');
@@ -362,32 +357,10 @@ Vue.component('health-insurance-options', {
 						<a class="button" :href="readMoreUrl(option.id)" target="_blank">Read more</a>
 						<button class="button" @click="selectOption(option.id + 'Options')">See options <i class="icon right"></i></button>
 					</div>
-
-					<hr>
 				</template>
-			</template>
 
-			<h3>Need help choosing?</h3>
-			<ul class="buttons list">
-				<li>
-					<button @click="selectOption('broker')" :aria-labelledby="uid('h-askOurExpert')">
-						{% endraw %}{% include "_css/icons/help.svg" %}{% raw %}
-						<div>
-							<h3 :id="uid('h-askOurExpert')">Ask our expert</h3>
-							<p>You can ask {{ broker.name }} anything via WhatsApp or email. Let {{ broker.him }} find the best health insurance for you. It's 100% free.</p>
-						</div>
-					</button>
-				</li>
-				<li v-if="showGuideLink" :aria-labelledby="uid('h-readGuide')">
-					<a href="/guides/german-health-insurance" @click="selectOption('guide')" target="_blank">
-						{% endraw %}{% include "_css/icons/student.svg" %}{% raw %}
-						<div>
-							<h3 :id="uid('h-readGuide')">Learn how to choose</h3>
-							<p>Read my health insurance guide and find the right insurance for your situation.</p>
-						</div>
-					</a>
-				</li>
-			</ul>
+				<hr>
+			</template>
 		</div>
 	`
 });

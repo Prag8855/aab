@@ -143,6 +143,9 @@ Vue.component('health-insurance-calculator', {
 				customZusatzbeitrag: null,
 			};
 		},
+		recommendBroker(){
+			return this.stage === 'privateOptions' || (this.stage === 'expatOptions' && this.isSelfEmployed);
+		},
 
 		// Contact form
 		personSummary(){
@@ -277,12 +280,16 @@ Vue.component('health-insurance-calculator', {
 
 		// Insurance options
 		selectOption(option){
-			if(option === 'broker'){
+			if(option === 'askABroker'){
 				this.goToStage('askABroker');
 			}
 			else if(option.endsWith('Options')){
 				this.goToStage(option);
 			}
+		},
+		showGuideLink(){
+			// If you're on this page, you're already reading about health insurance
+			return window.location.pathname !== '/guides/german-health-insurance';
 		},
 
 		// Contact form
@@ -595,30 +602,38 @@ Vue.component('health-insurance-calculator', {
 				</div>
 			</template>
 
-			<template v-if="stage === 'options'">
-				<health-insurance-options v-bind="calculatorParams" @select="selectOption"></health-insurance-options>
-				<hr>
-				<div class="buttons bar">
-					<button aria-label="Go back" class="button" @click="previousStage()">
-						<i class="icon left" aria-hidden="true"></i> <span class="no-mobile">Go back</span>
-					</button>
-					<button class="button primary" @click="goToStage('askABroker')">
-						Ask our expert
-					</button>
-				</div>
-			</template>
+			<health-insurance-options v-if="stage === 'options'" v-bind="calculatorParams" @select="selectOption"></health-insurance-options>
+			<public-health-insurance-options v-if="stage === 'publicOptions'" @select="selectOption" v-bind="calculatorParams"></public-health-insurance-options>
+			<private-health-insurance-options v-if="stage === 'privateOptions'" @select="selectOption" v-bind="calculatorParams"></private-health-insurance-options>
+			<expat-health-insurance-options v-if="stage === 'expatOptions'" @select="selectOption" v-bind="calculatorParams"></expat-health-insurance-options>
 
-			<template v-if="stage.endsWith('Options')">
-				<public-health-insurance-options @select="selectOption" v-if="stage === 'publicOptions'" v-bind="calculatorParams"></public-health-insurance-options>
-				<private-health-insurance-options @select="selectOption" v-if="stage === 'privateOptions'" v-bind="calculatorParams"></private-health-insurance-options>
-				<expat-health-insurance-options @select="selectOption" v-if="stage === 'expatOptions'" v-bind="calculatorParams"></expat-health-insurance-options>
+			<template v-if="stage === 'options' || stage.endsWith('Options')">
+				<hr v-if="stage.endsWith('Options')">
+				<h3>Need help choosing?</h3>
+				<ul class="buttons list">
+					<li>
+						<button @click="selectOption('askABroker')" :aria-labelledby="uid('h-askOurExpert')" :class="{recommended: recommendBroker}">
+							{% endraw %}{% include "_css/icons/help.svg" %}{% raw %}
+							<div>
+								<h3 :id="uid('h-askOurExpert')">Ask our expert</h3>
+								<p>You can ask {{ broker.name }} anything via WhatsApp or email. Let {{ broker.him }} find the best health insurance for you. It's 100% free.</p>
+							</div>
+						</button>
+					</li>
+					<li v-if="showGuideLink" :aria-labelledby="uid('h-readGuide')">
+						<a href="/guides/german-health-insurance" @click="selectOption('guide')" target="_blank">
+							{% endraw %}{% include "_css/icons/student.svg" %}{% raw %}
+							<div>
+								<h3 :id="uid('h-readGuide')">Learn how to choose</h3>
+								<p>Read my health insurance guide and find the right insurance for your situation.</p>
+							</div>
+						</a>
+					</li>
+				</ul>
 
 				<div class="buttons bar">
-					<button aria-label="Go back" class="button" @click="goToStage('options')">
+					<button aria-label="Go back" class="button" @click="stage === 'options' ? previousStage() : goToStage('options')">
 						<i class="icon left" aria-hidden="true"></i> <span class="no-mobile">Go back</span>
-					</button>
-					<button class="button primary" @click="goToStage('askABroker')">
-						Ask our expert
 					</button>
 				</div>
 			</template>
