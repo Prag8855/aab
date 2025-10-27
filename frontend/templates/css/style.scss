@@ -3100,7 +3100,8 @@ collapsible, letter-generator, feedback-residence-permit, health-insurance-calcu
 
             p{
                 margin: 0;
-                color: var(--c-text-light);
+                color: var(--c-text);
+                font-size: var(--f-s);
             }
 
             output{
