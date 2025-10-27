@@ -101,7 +101,9 @@ Vue.component('health-insurance-calculator', {
 		isSelfEmployed(){ return occupations.isSelfEmployed(this.occupation) },
 		isUnemployed(){ return occupations.isUnemployed(this.occupation) },
 		monthlyIncome(){ return this.yearlyIncome / 12 },
-		progressBarLength(){ return this.stages.filter(s => !['thank-you', 'error'].includes(s)).length },
+		progressBarLength(){ return this.stages.filter(
+			s => !['publicOptions', 'privateOptions', 'expatOptions', 'thank-you', 'error'].includes(s)
+		).length - 1 },
 		progressBarValue(){ return Math.min(this.stageIndex, this.progressBarLength) },
 
 		requireCompleteForm(){
@@ -354,7 +356,7 @@ Vue.component('health-insurance-calculator', {
 				<template v-else>Health insurance calculator</template>
 			</template>
 
-			<progress v-if="progressBarLength && stageIndex !== 0 && progressBarValue < progressBarLength" aria-label="Form progress" :value="progressBarValue" :max="progressBarLength"></progress>
+			<progress v-if="progressBarLength && stageIndex !== 0 && occupation !== 'other'" aria-label="Form progress" :value="progressBarValue" :max="progressBarLength"></progress>
 
 			<template v-if="stage === 'occupation' && initialOccupation">
 				<p v-if="initialOccupation === 'studentUnemployed'">This tool helps you <strong>find student health insurance</strong> in a few seconds.</p>
