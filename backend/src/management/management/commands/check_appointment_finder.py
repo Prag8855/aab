@@ -1,6 +1,7 @@
 from datetime import datetime, timedelta
 from django.core.management.base import BaseCommand
 from django.utils import timezone
+from django.utils.timesince import timesince
 from management.models import update_monitor
 import asyncio
 import json
@@ -23,7 +24,7 @@ class Command(BaseCommand):
             if data["lastAppointmentsFoundOn"]:
                 last_appointments_found_on = datetime.fromisoformat(
                     data["lastAppointmentsFoundOn"].replace("Z", "+00:00")
-                )
+                ).astimezone()
             else:
                 last_appointments_found_on = None
 
@@ -48,7 +49,7 @@ class Command(BaseCommand):
                 status = logging.ERROR
 
         last_find = (
-            f"Last appointments found on {last_appointments_found_on.strftime('%Y-%m-%d %H:%M')}"
+            f"Last appointments found {timesince(last_appointments_found_on)} ago."
             if last_appointments_found_on
             else "No appointments found yet"
         )
