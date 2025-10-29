@@ -19,6 +19,7 @@ const healthInsuranceOptionsMixin = {
                 sortByPrice: true
             });
         },
+        childOrChildren(){ return this.childrenCount === 1 ? 'child' : 'children' },
     },
     methods: {
         selectOption(option){

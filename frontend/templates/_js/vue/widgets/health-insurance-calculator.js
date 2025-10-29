@@ -621,7 +621,7 @@ Vue.component('health-insurance-calculator', {
 			<private-health-insurance-options v-if="stage === 'privateOptions'" @select="selectOption" v-bind="calculatorParams"></private-health-insurance-options>
 			<expat-health-insurance-options v-if="stage === 'expatOptions'" @select="selectOption" v-bind="calculatorParams"></expat-health-insurance-options>
 
-			<template v-if="stage === 'options' || stage.endsWith('Options')">
+			<template v-if="stage === 'options' || stage === 'publicOptions' || stage === 'expatOptions'">
 				<hr v-if="stage.endsWith('Options')">
 				<h3>Need help choosing?</h3>
 				<ul class="buttons list">
@@ -644,13 +644,16 @@ Vue.component('health-insurance-calculator', {
 						</a>
 					</li>
 				</ul>
-
-				<div class="buttons bar">
-					<button aria-label="Go back" class="button" @click="stage === 'options' ? previousStage() : goToStage('options')">
-						<i class="icon left" aria-hidden="true"></i> <span class="no-mobile">Go back</span>
-					</button>
-				</div>
 			</template>
+
+			<div class="buttons bar" v-if="stage === 'options' || stage.endsWith('Options')">
+				<button aria-label="Go back" class="button" @click="stage === 'options' ? previousStage() : goToStage('options')">
+					<i class="icon left" aria-hidden="true"></i> <span class="no-mobile">Go back</span>
+				</button>
+				<button v-if="stage === 'privateOptions'" class="button primary" @click="selectOption('askABroker')">
+					Get insured <i class="icon right" aria-hidden="true"></i>
+				</button>
+			</div>
 
 			<template v-if="stage === 'askABroker'">
 				<div class="form-recipient">
