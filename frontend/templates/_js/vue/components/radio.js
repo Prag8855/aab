@@ -6,7 +6,7 @@ Vue.component('radio', {
 		event: 'change'
 	},
 	props: {
-		selectedValue: Boolean, // The v-model value
+		selectedValue: String, // The v-model value
 		value: [String, Number, Boolean], // This input's value when selected
 
 		id: String,
