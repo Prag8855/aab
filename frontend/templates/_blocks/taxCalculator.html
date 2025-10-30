@@ -489,7 +489,7 @@
 		</svg>
 		<div>
 			<details>
-				<summary class="price" :class="{highlighted: highlightedSection === 'healthInsurance'}">
+				<summary class="price-line" :class="{highlighted: highlightedSection === 'healthInsurance'}">
 					<svg id="svg" viewBox="-1 -1 2 2" class="pie-chart">
 						<circle cx="0" cy="0" r="0.7" :fill="colors.healthInsurance"/></circle>
 					</svg>
@@ -512,7 +512,7 @@
 					<p v-if="flag('kv-public-pflegeversicherung-surcharge')">
 						You pay a bit more for <glossary term="Pflegeversicherung">long-term care insurance</glossary>, because you are over {{ pflegeversicherung.defaultRateMaxAge }} years old and you don't have children.
 					</p>
-					<p class="price">
+					<p class="price-line">
 						Base cost
 						<output class="no-mobile"
 							v-if="isPayingNormalHealthInsurancePrice"
@@ -521,7 +521,7 @@
 							<eur :amount="monthlyYearlyCost(customGkv.baseContribution.personalContribution)"></eur>
 						</output>
 					</p>
-					<p class="price">
+					<p class="price-line">
 						<glossary term="Pflegeversicherung">Long-term care insurance</glossary>
 						<output class="no-mobile"
 							v-if="isPayingNormalHealthInsurancePrice"
@@ -530,7 +530,7 @@
 							<eur :amount="monthlyYearlyCost(customGkv.pflegeversicherung.personalContribution)"></eur>
 						</output>
 					</p>
-					<p class="price">
+					<p class="price-line">
 						<glossary term="Zusatzbeitrag">Insurer surcharge</glossary>
 						<output class="no-mobile"
 							v-if="isPayingNormalHealthInsurancePrice"
@@ -539,7 +539,7 @@
 							<eur :amount="monthlyYearlyCost(customGkv.zusatzbeitrag.personalContribution)"></eur>
 						</output>
 					</p>
-					<p class="price" v-if="customGkv.baseContribution.employerContribution > 0">
+					<p class="price-line" v-if="customGkv.baseContribution.employerContribution > 0">
 						Total
 						<output class="no-mobile"
 							v-if="isPayingNormalHealthInsurancePrice"
@@ -556,7 +556,7 @@
 				</template>
 			</details>
 			<details v-if="result.publicPension > 0">
-				<summary class="price" :class="{highlighted: highlightedSection === 'publicPension'}">
+				<summary class="price-line" :class="{highlighted: highlightedSection === 'publicPension'}">
 					<svg id="svg" viewBox="-1 -1 2 2" class="pie-chart">
 						<circle cx="0" cy="0" r="0.7" :fill="colors.publicPension"/></circle>
 					</svg>
@@ -571,14 +571,14 @@
 						It costs <template v-html="formatPercent(pensions.contributionRates.currentYear)"></template> of your income.
 					</template>
 				</p>
-				<p class="price">
+				<p class="price-line">
 					Your employer pays
 					<output class="no-mobile" v-if="yearlyIncome <= beitragsbemessungsgrenze" v-html="formatPercent(pensions.contributionRates.currentYear / 2)"></output>
 					<output>
 						<eur :amount="result.publicPension"></eur>
 					</output>
 				</p>
-				<p class="price">
+				<p class="price-line">
 					You pay
 					<output class="no-mobile" v-if="yearlyIncome <= beitragsbemessungsgrenze" v-html="formatPercent(pensions.contributionRates.currentYear / 2)"></output>
 					<output>
@@ -587,7 +587,7 @@
 				</p>
 			</details>
 			<details v-if="result.unemploymentInsurance > 0">
-				<summary class="price" :class="{highlighted: highlightedSection === 'unemploymentInsurance'}">
+				<summary class="price-line" :class="{highlighted: highlightedSection === 'unemploymentInsurance'}">
 					<svg id="svg" viewBox="-1 -1 2 2" class="pie-chart">
 						<circle cx="0" cy="0" r="0.7" :fill="colors.unemploymentInsurance"/></circle>
 					</svg>
@@ -605,14 +605,14 @@
 						It costs {{ formatPercent(taxes.arbeitslosenversicherungRate * 2 * 100) }} of your income.
 					</template>
 				</p>
-				<p class="price" v-if="customGkv.baseContribution.employerContribution > 0">
+				<p class="price-line" v-if="customGkv.baseContribution.employerContribution > 0">
 					Your employer pays
 					<output class="no-mobile" v-if="yearlyIncome <= beitragsbemessungsgrenze" v-html="formatPercent(taxes.arbeitslosenversicherungRate * 100)"></output>
 					<output>
 						<eur :amount="result.unemploymentInsurance"></eur>
 					</output>
 				</p>
-				<p class="price" v-if="customGkv.baseContribution.employerContribution > 0">
+				<p class="price-line" v-if="customGkv.baseContribution.employerContribution > 0">
 					You pay
 					<output class="no-mobile" v-if="yearlyIncome <= beitragsbemessungsgrenze" v-html="formatPercent(taxes.arbeitslosenversicherungRate * 100)"></output>
 					<output>
@@ -621,7 +621,7 @@
 				</p>
 			</details>
 			<details v-if="result.incomeTax > 0">
-				<summary class="price" :class="{highlighted: highlightedSection === 'incomeTax'}">
+				<summary class="price-line" :class="{highlighted: highlightedSection === 'incomeTax'}">
 					<svg id="svg" viewBox="-1 -1 2 2" class="pie-chart">
 						<circle cx="0" cy="0" r="0.7" :fill="colors.incomeTax"/></circle>
 					</svg>
@@ -633,19 +633,19 @@
 				<p v-if="occupations.isEmployed(occupation)">
 					This is the <glossary term="Einkommensteuer">income tax</glossary> you pay directly from your paycheque. It's missing some {{ childrenCount > 0 ? 'big ' : '' }}tax deductions. When you file a <glossary term="Steuererklärung">tax declaration</glossary>, you can get {{ childrenCount > 0 ? 'a lot of ' : 'some ' }}money back{{ childrenCount > 0 ? ', especially when you have children' : '' }}.
 				</p>
-				<p class="price">
+				<p class="price-line">
 					Taxable income
 					<output>
 						<eur :amount="monthlyYearlyCost(result.taxableIncome / 12)"></eur>
 					</output>
 				</p>
-				<p class="price">
+				<p class="price-line">
 					Income tax rate
 					<output v-html="formatPercent(result.incomeTax * 12 / result.taxableIncome * 100, true, 1)"></output>
 				</p>
 			</details>
 			<details v-if="result.solidarityTax > 0">
-				<summary class="price" :class="{highlighted: highlightedSection === 'solidarityTax'}">
+				<summary class="price-line" :class="{highlighted: highlightedSection === 'solidarityTax'}">
 					<svg id="svg" viewBox="-1 -1 2 2" class="pie-chart">
 						<circle cx="0" cy="0" r="0.7" :fill="colors.solidarityTax"/></circle>
 					</svg>
@@ -665,7 +665,7 @@
 				</p>
 			</details>
 			<details v-if="isPayingChurchTax">
-				<summary class="price" :class="{highlighted: highlightedSection === 'churchTax'}">
+				<summary class="price-line" :class="{highlighted: highlightedSection === 'churchTax'}">
 					<svg id="svg" viewBox="-1 -1 2 2" class="pie-chart">
 						<circle cx="0" cy="0" r="0.7" :fill="colors.churchTax"/></circle>
 					</svg>
@@ -678,7 +678,7 @@
 				<p v-if="result.churchTax === 0 && result.incomeTax === 0">Your income is too low to pay income tax, so you don't pay church tax.</p>
 			</details>
 			<details class="total">
-				<summary class="price" :class="{highlighted: !highlightedSection}">
+				<summary class="price-line" :class="{highlighted: !highlightedSection}">
 					<svg id="svg" viewBox="-1 -1 2 2" class="pie-chart">
 						<circle cx="0" cy="0" r="1" fill="currentColor"/></circle>
 						<path :d="svgPaths.totalDeductions" :fill="colors.incomeTax"></path>
@@ -691,7 +691,7 @@
 				<p>This is what you pay for all taxes and social contributions. <template v-if="occupations.isEmployed(occupation)">They take this from your paycheck.</template></p>
 			</details>
 			<details class="total">
-				<summary class="price" :class="{highlighted: highlightedSection === 'disposableIncome' || !highlightedSection}">
+				<summary class="price-line" :class="{highlighted: highlightedSection === 'disposableIncome' || !highlightedSection}">
 					<svg id="svg" viewBox="-1 -1 2 2" class="pie-chart">
 						<circle cx="0" cy="0" r="1" fill="currentColor"/></circle>
 						<path :d="svgPaths.disposableIncome" :fill="colors.disposableIncome"></path>

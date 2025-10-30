@@ -147,7 +147,7 @@ Vue.component('public-health-insurance-options', {
                 </p>
                 <hr>
                 <details>
-                    <summary class="price">
+                    <summary class="price-line">
                         Base cost
                         <output>
                             <eur :amount="cheapestOption.baseContribution.totalContribution"></eur><small class="no-mobile">/month</small>
@@ -176,7 +176,7 @@ Vue.component('public-health-insurance-options', {
                     </p>
                 </details>
                 <details>
-                    <summary class="price">
+                    <summary class="price-line">
                         Insurer surcharge
                         <output
                             v-if="eur(cheapestOption.zusatzbeitrag.totalContribution) === eur(mostExpensiveOption.zusatzbeitrag.totalContribution)">
@@ -193,7 +193,7 @@ Vue.component('public-health-insurance-options', {
                     </p>
                 </details>
                 <details>
-                    <summary class="price">
+                    <summary class="price-line">
                         Long-term care insurance
                         <output>
                             <eur :amount="cheapestOption.pflegeversicherung.totalContribution"></eur><small class="no-mobile">/month</small>
@@ -219,7 +219,7 @@ Vue.component('public-health-insurance-options', {
                     </p>
                 </details>
                 <details>
-                    <summary class="price">
+                    <summary class="price-line">
                         Your employer pays
                         <output v-if="mostExpensiveOption.total.employerContribution === 0">
                             <eur :amount="0"></eur>
@@ -258,7 +258,7 @@ Vue.component('public-health-insurance-options', {
                     </p>
                 </details>
                 <details>
-                    <summary class="price highlighted">
+                    <summary class="price-line highlighted">
                         You pay
                         <output v-if="mostExpensiveOption.total.personalContribution === 0">
                             <eur :amount="0"></eur>

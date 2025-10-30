@@ -2657,7 +2657,11 @@ collapsible, letter-generator, feedback-residence-permit, health-insurance-calcu
     }
 }
 
-.price{
+.price-tag{ // Box with a price in it
+
+}
+
+.price-line{ // Looks like "Item.........€30"
     @include text-block-compact;
 
     display: flex;

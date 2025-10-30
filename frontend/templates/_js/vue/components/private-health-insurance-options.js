@@ -46,7 +46,7 @@ Vue.component('private-health-insurance-options', {
                 <p>This shows two plans from Hallesche. There are hundreds of other options, but the price range will be similar.</p>
                 <hr>
                 <details>
-                    <summary class="price">
+                    <summary class="price-line">
                         Base cost
                         <output>
                             <eur :amount="option('basic').baseContribution"></eur>
@@ -57,7 +57,7 @@ Vue.component('private-health-insurance-options', {
                     <p>This is the basic cost of your private health insurance.</p>
                 </details>
                 <details>
-                    <summary class="price">
+                    <summary class="price-line">
                         Sickness allowance
                         <output>
                             <eur :amount="0"></eur>
@@ -68,7 +68,7 @@ Vue.component('private-health-insurance-options', {
                     <p><glossary term="Krankentagegeld">Sickness allowance</glossary> is optional, but recommended. If you are too sick to work, you get paid <eur :amount="option('premium').krankentagegeldPayoutPerDay"></eur>. You can adjust this amount.</p>
                 </details>
                 <details>
-                    <summary class="price">
+                    <summary class="price-line">
                         Long-term care insurance
                         <output>
                             <eur :amount="option('premium').pflegeversicherung"></eur><small class="no-mobile">/month</small>
@@ -79,7 +79,7 @@ Vue.component('private-health-insurance-options', {
                     </p>
                 </details>
                 <details>
-                    <summary class="price">
+                    <summary class="price-line">
                         Insurance for your {{ childOrChildren }}
                         <output>
                             <eur :amount="option('basic').costPerChild * childrenCount"></eur>
@@ -92,7 +92,7 @@ Vue.component('private-health-insurance-options', {
                     </p>
                 </details>
                 <details class="total" v-if="option('basic').total.employerContribution">
-                    <summary class="price">
+                    <summary class="price-line">
                         Your employer pays
                         <output>
                             <eur :amount="option('basic').total.employerContribution"></eur>
@@ -103,7 +103,7 @@ Vue.component('private-health-insurance-options', {
                     <p>Your employer pays half of your private health insurance. They pay no more than half the cost of public health insurance.</p>
                 </details>
                 <details class="total">
-                    <summary class="price highlighted">
+                    <summary class="price-line highlighted">
                         Your pay
                         <output>
                             <eur :amount="option('basic').total.personalContribution"></eur>

@@ -409,19 +409,19 @@
 			<div class="form-group">
 				<span class="label">Estimated refund</span>
 				<div>
-					<p class="price">
+					<p class="price-line">
 						Your pension refund
 						<output>
 							<eur :amount="results.refundAmount"></eur>
 						</output>
 					</p>
-					<p class="price">
+					<p class="price-line">
 						{{ selectedPartner.name }} fee
 						<output>
 							<eur :amount="selectedPartner.fee(results.refundAmount)"></eur>
 						</output>
 					</p>
-					<p class="price highlighted">
+					<p class="price-line highlighted">
 						You keep
 						<output>
 							<eur :amount="Math.max(results.refundAmount - selectedPartner.fee(results.refundAmount), 0)"></eur>
