@@ -4,18 +4,9 @@
 {% js %}{% raw %}
 Vue.component('private-health-insurance-options', {
     mixins: [healthInsuranceOptionsMixin],
-    computed: {
-        visaBenefit() {
-            return null; // TODO
-        },
-        totalCost() {
-            return 550; // TODO
-        },
-        childrenCost() {
-            return 125; // TODO
-        },
-        krankentagegeldPayout() {
-            return 150; // TODO
+    methods: {
+        option(planType) {
+            return this.results.private.options.filter(o => o.id === planType)[0];
         },
     },
     template: `
@@ -26,42 +17,41 @@ Vue.component('private-health-insurance-options', {
                 <div>
                     <h3>Basic coverage</h3>
                     <ul class="pros">
-                        <li v-if="visaBenefit" v-text="visaBenefit"></li>
                         <li>Covers all necessary healthcare</li>
                     </ul>
                     <ul class="cons">
-                        <li>High <glossary term="Selbstbeteiligung">deductible</glossary></li>
+                        <li>High <glossary term="Selbstbeteiligung">deductible</glossary> (<eur :amount="option('basic').deductible"></eur>/year)</li>
                         <li>No <glossary term="Krankentagegeld">sickness allowance</glossary></li>
                     </ul>
                     <output>
-                        <eur :amount="totalCost"></eur><small>/month</small>
+                        <eur :amount="option('basic').total.personalContribution"></eur><small>/month</small>
                     </output>
-                    <small v-if="childrenCount">+ <eur :amount="childrenCost"></eur> to cover your {{ childOrChildren }}</small>
                 </div>
                 <div>
                     <h3>Premium coverage</h3>
                     <ul class="pros">
                         <li v-if="visaBenefit" v-text="visaBenefit"></li>
                         <li>Covers the best available healthcare</li>
-                        <li>Low <glossary term="Selbstbeteiligung">deductible</glossary></li>
+                        <li>No <glossary term="Selbstbeteiligung">deductible</glossary></li>
                         <li>Generous <glossary term="Krankentagegeld">sickness allowance</glossary></li>
                     </ul>
                     <output>
-                        <eur :amount="totalCost"></eur><small>/month</small>
+                        <eur :amount="option('premium').total.personalContribution"></eur><small>/month</small>
                     </output>
-                    <small v-if="childrenCount">+ <eur :amount="childrenCost"></eur> to cover your {{ childOrChildren }}</small>
                 </div>
             </div>
 
             <details class="cost-explanation">
                 <summary>Cost explanation</summary>
-                <p>This shows two plans from Hallesche. There are hundreds of other options, but the prices will be similar.</p>
+                <p>This shows two plans from Hallesche. There are hundreds of other options, but the price range will be similar.</p>
                 <hr>
                 <details>
                     <summary class="price">
                         Base cost
                         <output>
-                            <eur :amount="550"></eur><small class="no-mobile">/month</small>
+                            <eur :amount="option('basic').baseContribution"></eur>
+                            &nbsp;to&nbsp;
+                            <eur :amount="option('premium').baseContribution"></eur><small class="no-mobile">/month</small>
                         </output>
                     </summary>
                     <p>This is the basic cost of your private health insurance.</p>
@@ -70,24 +60,60 @@ Vue.component('private-health-insurance-options', {
                     <summary class="price">
                         Sickness allowance
                         <output>
-                            <eur :amount="0"></eur><small class="no-mobile">/month</small>
+                            <eur :amount="0"></eur>
+                            &nbsp;to&nbsp;
+                            <eur :amount="option('premium').krankentagegeld"></eur><small class="no-mobile">/month</small>
                         </output>
                     </summary>
-                    <p><glossary term="Krankentagegeld">Sickness allowance</glossary> is optional, but recommended. If you are too sick to work, you get <eur :amount="krankentagegeldPayout"></eur> per day. You can adjust this amount.</p>
+                    <p><glossary term="Krankentagegeld">Sickness allowance</glossary> is optional, but recommended. If you are too sick to work, you get paid <eur :amount="option('premium').krankentagegeldPayoutPerDay"></eur>. You can adjust this amount.</p>
                 </details>
                 <details>
                     <summary class="price">
                         Long-term care insurance
                         <output>
-                            <eur :amount="0"></eur><small class="no-mobile">/month</small>
+                            <eur :amount="option('premium').pflegeversicherung"></eur><small class="no-mobile">/month</small>
                         </output>
                     </summary>
                     <p>
-                        This keeps health insurance prices low when you are older.
+                        It pays for your healthcare when you are older. It's not optional.
                     </p>
                 </details>
+                <details>
+                    <summary class="price">
+                        Insurance for your {{ childOrChildren }}
+                        <output>
+                            <eur :amount="option('basic').costPerChild * childrenCount"></eur>
+                            &nbsp;to&nbsp;
+                            <eur :amount="option('premium').costPerChild * childrenCount"></eur><small class="no-mobile">/month</small>
+                        </output>
+                    </summary>
+                    <p>
+                        You must pay extra to cover your children.
+                    </p>
+                </details>
+                <details class="total" v-if="option('basic').total.employerContribution">
+                    <summary class="price">
+                        Your employer pays
+                        <output>
+                            <eur :amount="option('basic').total.employerContribution"></eur>
+                            &nbsp;to&nbsp;
+                            <eur :amount="option('premium').total.employerContribution"></eur><small class="no-mobile">/month</small>
+                        </output>
+                    </summary>
+                    <p>Your employer pays half of your private health insurance. They pay no more than half the cost of public health insurance.</p>
+                </details>
+                <details class="total">
+                    <summary class="price highlighted">
+                        Your pay
+                        <output>
+                            <eur :amount="option('basic').total.personalContribution"></eur>
+                            &nbsp;to&nbsp;
+                            <eur :amount="option('premium').total.personalContribution"></eur><small class="no-mobile">/month</small>
+                        </output>
+                    </summary>
+                    <p>This is what you pay every month for health insurance. This is a <glossary term="steuerlich absetzbar">tax-deductible</glossary> expense.</p>
+                </details>
             </details>
-
             <hr>
 
             <p>Do not choose private health insurance yourself. There are hundreds of other options. Let our expert find the best one for you. It's 100% free.</p>

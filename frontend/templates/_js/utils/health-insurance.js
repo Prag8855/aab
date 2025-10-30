@@ -269,6 +269,72 @@ function gkvOptions({occupation, monthlyIncome, hoursWorkedPerWeek, age, childre
 	});
 }
 
+function pkvOptions({occupation, monthlyIncome, hoursWorkedPerWeek, age, childrenCount}) {
+	if(!age){
+		return [];
+	}
+
+	// Students get a different price
+	const canHaveStudentTariff = occupations.isStudent(occupation) && isWerkstudent(occupation, monthlyIncome, hoursWorkedPerWeek);
+
+	// For PKV, the employer contribution capped at what they would pay for GKV (with an average Zusatzbeitrag)
+	// The contribution could be 0, if the employer does not contribute to health insurance
+	const maxEmployerContribution = gkvOptions({
+		customZusatzbeitrag: healthInsurance.averageZusatzbeitrag,
+		age,
+		childrenCount,
+		hoursWorkedPerWeek,
+		monthlyIncome,
+		occupation,
+	}).filter(o => o.id === 'custom')[0].total.employerContribution;
+
+	age = Math.min(age, 99);
+
+	return ['basic', 'premium'].map(planType => {
+		let tariff = healthInsurance.private.tariffs[planType];
+
+		// Pflegeversicherung can be 0 for children and retirees
+		let pflegeversicherung = healthInsurance.private.pflegeversicherung[age] || 0;
+
+		// Krankentagegeld is optional; leave it out for the basic plan, and for students
+		// Krankentagegeld is not applicable to students and unemployed people
+		const krankentagegeldPayoutPerDay = monthlyIncome / 30 * 0.7; // Desired payout; set to 70% of regular income like for public health insurance
+		let krankentagegeld = krankentagegeldPayoutPerDay * (healthInsurance.private.krankentagegeld[age] || 0) / 10;
+		if(planType === 'basic' || canHaveStudentTariff){
+			krankentagegeld = 0;
+		}
+
+		// Do not apply the student tariff to children, even if the parent has it
+		const costPerChild = tariff.baseContribution[10];
+
+		const studentTariff = healthInsurance.private.tariffs[planType + 'Student'];
+		if(canHaveStudentTariff && studentTariff.baseContribution[age]){
+			tariff = studentTariff;
+			pflegeversicherung = healthInsurance.private.pflegeversicherungStudent;
+		};
+
+		const baseContribution = tariff.baseContribution[age];
+		const totalContribution = baseContribution + krankentagegeld + pflegeversicherung + (costPerChild * childrenCount);
+		const employerContribution = Math.min(maxEmployerContribution, totalContribution / 2);
+
+		return {
+			id: planType,
+			tariff: tariff.name,
+			deductible: tariff.deductible,
+			baseContribution,
+			krankentagegeld,
+			krankentagegeldPayoutPerDay,
+			pflegeversicherung,
+			costPerChild,
+			total: {
+				totalContribution,
+				employerContribution,
+				personalContribution: totalContribution - employerContribution,
+			},
+		};
+	});
+}
+
 function expatOptions(age){
 	return [
 	{% for id, cost in EXPAT_INSURANCE_COST.items() %}
@@ -593,9 +659,13 @@ function getHealthInsuranceOptions({
 		name: 'Private health insurance',
 		eligible: false,
 		description: '',
-		options: [
-			{id: 'askABroker'},
-		],
+		options: pkvOptions({
+			age,
+			childrenCount,
+			hoursWorkedPerWeek,
+			monthlyIncome,
+			occupation,
+		}),
 	}
 
 	if(canHavePrivateHealthInsurance(occupation, monthlyIncome, hoursWorkedPerWeek, age)){
