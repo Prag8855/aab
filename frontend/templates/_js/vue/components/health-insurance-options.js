@@ -248,7 +248,7 @@ Vue.component('health-insurance-options', {
 				return {
 					"pros": [
 						"The cost adjusts to your income",
-						`It covers your ${this.childrenCount === 1 ? 'child' : 'children'} for free.`,
+						`Cover your ${this.childrenCount === 1 ? 'child' : 'children'} for free.`,
 					],
 					"cons": [
 						"Doctor appointments are harder to get",
