@@ -3,9 +3,9 @@
 {% include '_js/utils/health-insurance.js' %}
 {% include '_js/utils/percent.js' %}
 {% include '_js/vue.js' %}
-{% include '_js/vue.js' %}
 {% include '_js/vue/components/eur.js' %}
 {% include '_js/vue/components/glossary.js' %}
+{% include '_js/vue/components/price.js' %}
 {% include '_js/vue/mixins/healthInsuranceOptionsMixin.js' %}
 
 {% js %}{% raw %}
@@ -88,9 +88,7 @@ Vue.component('public-health-insurance-options', {
                             <h3 v-text="option('tk').name"></h3>
                             <p>The biggest public health insurer. Great customer service. They speak English.</p>
                         </div>
-                        <output>
-                            <eur :amount="option('tk').total.personalContribution"></eur> <small>/ month</small>
-                        </output>
+                        <price :amount="option('tk').total.personalContribution" per-month></price>
                     </a>
                 </li>
                 <li>
@@ -100,9 +98,7 @@ Vue.component('public-health-insurance-options', {
                             <h3 v-text="option('barmer').name"></h3>
                             <p>Second biggest health insurer. They speak English.</p>
                         </div>
-                        <output>
-                            <eur :amount="option('barmer').total.personalContribution"></eur> <small>/ month</small>
-                        </output>
+                        <price :amount="option('barmer').total.personalContribution" per-month></price>
                     </a>
                 </li>
             </ul>
@@ -149,9 +145,7 @@ Vue.component('public-health-insurance-options', {
                 <details>
                     <summary class="price-line">
                         Base cost
-                        <output>
-                            <eur :amount="cheapestOption.baseContribution.totalContribution"></eur><small class="no-mobile">/month</small>
-                        </output>
+                        <price :amount="cheapestOption.baseContribution.totalContribution" per-month></price>
                     </summary>
                     <p>
                         <template v-if="isMinijobTariff">
@@ -178,15 +172,10 @@ Vue.component('public-health-insurance-options', {
                 <details>
                     <summary class="price-line">
                         Insurer surcharge
-                        <output
-                            v-if="eur(cheapestOption.zusatzbeitrag.totalContribution) === eur(mostExpensiveOption.zusatzbeitrag.totalContribution)">
-                            <eur :amount="mostExpensiveOption.zusatzbeitrag.totalContribution"></eur>
-                        </output>
-                        <output v-else>
-                            <eur :amount="cheapestOption.zusatzbeitrag.totalContribution"></eur>
-                            &nbsp;to&nbsp;
-                            <eur :amount="mostExpensiveOption.zusatzbeitrag.totalContribution"></eur><small class="no-mobile">/month</small>
-                        </output>
+                        <price
+                            :from="cheapestOption.zusatzbeitrag.totalContribution"
+                            :to="mostExpensiveOption.zusatzbeitrag.totalContribution"
+                            per-month></price>
                     </summary>
                     <p>
                         Insurers can charge more for better services. Each insurer has a different surcharge. The average surcharge is {{ formatPercent(healthInsurance.averageZusatzbeitrag * 100) }} of your income.
@@ -195,11 +184,10 @@ Vue.component('public-health-insurance-options', {
                 <details>
                     <summary class="price-line">
                         Long-term care insurance
-                        <output>
-                            <eur :amount="cheapestOption.pflegeversicherung.totalContribution"></eur><small class="no-mobile">/month</small>
-                        </output>
+                        <price :amount="cheapestOption.pflegeversicherung.totalContribution" per-month></price>
                     </summary>
                     <p>
+                        It pays for your healthcare when you are older. 
                         <template v-if="isMaxContribution">
                             You pay the <glossary term="Höchstbeitrag">maximum price</glossary>, because you make more than <eur :amount="healthInsurance.maxMonthlyIncome"></eur> per month.
                         </template>
@@ -221,19 +209,10 @@ Vue.component('public-health-insurance-options', {
                 <details>
                     <summary class="price-line">
                         Your employer pays
-                        <output v-if="mostExpensiveOption.total.employerContribution === 0">
-                            <eur :amount="0"></eur>
-                        </output>
-                        <template v-else>
-                            <output v-if="eur(cheapestOption.total.employerContribution) === eur(mostExpensiveOption.total.employerContribution)">
-                                <eur :amount="cheapestOption.total.employerContribution"></eur><small class="no-mobile">/month</small>
-                            </output>
-                            <output v-else>
-                                <eur :amount="cheapestOption.total.employerContribution"></eur>
-                                &nbsp;to&nbsp;
-                                <eur :amount="mostExpensiveOption.total.employerContribution"></eur><small class="no-mobile">/month</small>
-                            </output>
-                        </template>
+                        <price
+                            :from="cheapestOption.total.employerContribution"
+                            :to="mostExpensiveOption.total.employerContribution"
+                            per-month></price>
                     </summary>
                     <p v-if="tariff === 'selfEmployed'">
                         You are self-employed, so you don't get help from an employer.
@@ -260,18 +239,10 @@ Vue.component('public-health-insurance-options', {
                 <details>
                     <summary class="price-line highlighted">
                         You pay
-                        <output v-if="mostExpensiveOption.total.personalContribution === 0">
-                            <eur :amount="0"></eur>
-                        </output>
-                        <output v-if="eur(cheapestOption.total.personalContribution) === eur(mostExpensiveOption.total.personalContribution) && mostExpensiveOption.total.personalContribution > 0">
-                            <eur :amount="mostExpensiveOption.total.personalContribution"></eur>
-                        </output>
-                        <output v-if="eur(cheapestOption.total.personalContribution) != eur(mostExpensiveOption.total.personalContribution) && mostExpensiveOption.total.personalContribution > 0">
-                            <eur :amount="cheapestOption.total.personalContribution"></eur>
-                            &nbsp;to&nbsp;
-                            <eur :amount="mostExpensiveOption.total.personalContribution"></eur>
-                        </output>
-                        <small class="no-mobile">/month</small>
+                        <price
+                            :from="cheapestOption.total.personalContribution"
+                            :to="mostExpensiveOption.total.personalContribution"
+                            per-month></price>
                     </summary>
                     <p>
                         This is what you pay for public health insurance.

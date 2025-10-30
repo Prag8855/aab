@@ -10,6 +10,7 @@
 {% include '_js/vue/components/glossary.js' %}
 {% include '_js/vue/components/income-input.js' %}
 {% include '_js/vue/components/occupation-input.js' %}
+{% include '_js/vue/components/price.js' %}
 {% include '_js/vue/components/radio.js' %}
 {% include '_js/vue/components/state-input.js' %}
 {% include '_js/vue/components/tabs.js' %}
@@ -493,7 +494,8 @@
 					<svg id="svg" viewBox="-1 -1 2 2" class="pie-chart">
 						<circle cx="0" cy="0" r="0.7" :fill="colors.healthInsurance"/></circle>
 					</svg>
-					Health insurance <output><eur :amount="result.healthInsurance"></eur></output>
+					Health insurance
+					<price :amount="result.healthInsurance"></price>
 				</summary>
 				<p v-if="healthInsuranceType === 'private'">
 					Your <glossary term="private Krankenversicherung">private health insurance</glossary> costs <eur :amount="privateHealthInsuranceCost"></eur> per month.
@@ -514,39 +516,31 @@
 					</p>
 					<p class="price-line">
 						Base cost
-						<output class="no-mobile"
+						<span class="price no-mobile"
 							v-if="isPayingNormalHealthInsurancePrice"
-							v-html="formatPercent(customGkv.baseContribution.personalRate * 100)"></output>
-						<output>
-							<eur :amount="monthlyYearlyCost(customGkv.baseContribution.personalContribution)"></eur>
-						</output>
+							v-html="formatPercent(customGkv.baseContribution.personalRate * 100)"></span>
+						<price :amount="monthlyYearlyCost(customGkv.baseContribution.personalContribution)"></price>
 					</p>
 					<p class="price-line">
 						<glossary term="Pflegeversicherung">Long-term care insurance</glossary>
-						<output class="no-mobile"
+						<span class="price no-mobile"
 							v-if="isPayingNormalHealthInsurancePrice"
-							v-html="formatPercent(customGkv.pflegeversicherung.personalRate * 100)"></output>
-						<output>
-							<eur :amount="monthlyYearlyCost(customGkv.pflegeversicherung.personalContribution)"></eur>
-						</output>
+							v-html="formatPercent(customGkv.pflegeversicherung.personalRate * 100)"></span>
+						<price :amount="monthlyYearlyCost(customGkv.pflegeversicherung.personalContribution)"></price>
 					</p>
 					<p class="price-line">
 						<glossary term="Zusatzbeitrag">Insurer surcharge</glossary>
-						<output class="no-mobile"
+						<span class="price no-mobile"
 							v-if="isPayingNormalHealthInsurancePrice"
-							v-html="formatPercent(customGkv.zusatzbeitrag.personalRate * 100)"></output>
-						<output>
-							<eur :amount="monthlyYearlyCost(customGkv.zusatzbeitrag.personalContribution)"></eur>
-						</output>
+							v-html="formatPercent(customGkv.zusatzbeitrag.personalRate * 100)"></span>
+						<price :amount="monthlyYearlyCost(customGkv.zusatzbeitrag.personalContribution)"></price>
 					</p>
 					<p class="price-line" v-if="customGkv.baseContribution.employerContribution > 0">
 						Total
-						<output class="no-mobile"
+						<span class="price no-mobile"
 							v-if="isPayingNormalHealthInsurancePrice"
-							v-html="formatPercent(customGkv.total.personalRate * 100)"></output>
-						<output>
-							<eur :amount="monthlyYearlyCost(customGkv.total.personalContribution)"></eur>
-						</output>
+							v-html="formatPercent(customGkv.total.personalRate * 100)"></span>
+						<price :amount="monthlyYearlyCost(customGkv.total.personalContribution)"></price>
 					</p>
 				</template>
 				<template v-if="hasSponsoredHealthInsurance">
@@ -560,7 +554,8 @@
 					<svg id="svg" viewBox="-1 -1 2 2" class="pie-chart">
 						<circle cx="0" cy="0" r="0.7" :fill="colors.publicPension"/></circle>
 					</svg>
-					Public pension <output><eur :amount="result.publicPension"></eur></output>
+					Public pension
+					<price :amount="result.publicPension"></price>
 				</summary>
 				<p>
 					<glossary term="gesetzliche Rentenversicherung">Public pension insurance</glossary> pays for your pension when you retire.
@@ -573,17 +568,13 @@
 				</p>
 				<p class="price-line">
 					Your employer pays
-					<output class="no-mobile" v-if="yearlyIncome <= beitragsbemessungsgrenze" v-html="formatPercent(pensions.contributionRates.currentYear / 2)"></output>
-					<output>
-						<eur :amount="result.publicPension"></eur>
-					</output>
+					<span class="price no-mobile" v-if="yearlyIncome <= beitragsbemessungsgrenze" v-html="formatPercent(pensions.contributionRates.currentYear / 2)"></span>
+					<price :amount="result.publicPension"></price>
 				</p>
 				<p class="price-line">
 					You pay
-					<output class="no-mobile" v-if="yearlyIncome <= beitragsbemessungsgrenze" v-html="formatPercent(pensions.contributionRates.currentYear / 2)"></output>
-					<output>
-						<eur :amount="result.publicPension"></eur>
-					</output>
+					<span class="price no-mobile" v-if="yearlyIncome <= beitragsbemessungsgrenze" v-html="formatPercent(pensions.contributionRates.currentYear / 2)"></span>
+					<price :amount="result.publicPension"></price>
 				</p>
 			</details>
 			<details v-if="result.unemploymentInsurance > 0">
@@ -592,9 +583,7 @@
 						<circle cx="0" cy="0" r="0.7" :fill="colors.unemploymentInsurance"/></circle>
 					</svg>
 					Unemployment insurance
-					<output>
-						<eur :amount="result.unemploymentInsurance"></eur>
-					</output>
+					<price :amount="result.unemploymentInsurance"></price>
 				</summary>
 				<p>
 					<glossary term="/Arbeitslosenversicherung">Unemployment insurance</glossary> pays for <glossary term="ALG I">unemployment benefits</glossary> if you lose your job.
@@ -607,17 +596,13 @@
 				</p>
 				<p class="price-line" v-if="customGkv.baseContribution.employerContribution > 0">
 					Your employer pays
-					<output class="no-mobile" v-if="yearlyIncome <= beitragsbemessungsgrenze" v-html="formatPercent(taxes.arbeitslosenversicherungRate * 100)"></output>
-					<output>
-						<eur :amount="result.unemploymentInsurance"></eur>
-					</output>
+					<span class="price no-mobile" v-if="yearlyIncome <= beitragsbemessungsgrenze" v-html="formatPercent(taxes.arbeitslosenversicherungRate * 100)"></span>
+					<price :amount="result.unemploymentInsurance"></price>
 				</p>
 				<p class="price-line" v-if="customGkv.baseContribution.employerContribution > 0">
 					You pay
-					<output class="no-mobile" v-if="yearlyIncome <= beitragsbemessungsgrenze" v-html="formatPercent(taxes.arbeitslosenversicherungRate * 100)"></output>
-					<output>
-						<eur :amount="result.unemploymentInsurance"></eur>
-					</output>
+					<span class="price no-mobile" v-if="yearlyIncome <= beitragsbemessungsgrenze" v-html="formatPercent(taxes.arbeitslosenversicherungRate * 100)"></span>
+					<price :amount="result.unemploymentInsurance"></price>
 				</p>
 			</details>
 			<details v-if="result.incomeTax > 0">
@@ -626,22 +611,18 @@
 						<circle cx="0" cy="0" r="0.7" :fill="colors.incomeTax"/></circle>
 					</svg>
 					Income tax
-					<output>
-						<eur :amount="result.incomeTax"></eur>
-					</output>
+					<price :amount="result.incomeTax"></price>
 				</summary>
 				<p v-if="occupations.isEmployed(occupation)">
 					This is the <glossary term="Einkommensteuer">income tax</glossary> you pay directly from your paycheque. It's missing some {{ childrenCount > 0 ? 'big ' : '' }}tax deductions. When you file a <glossary term="Steuererklärung">tax declaration</glossary>, you can get {{ childrenCount > 0 ? 'a lot of ' : 'some ' }}money back{{ childrenCount > 0 ? ', especially when you have children' : '' }}.
 				</p>
 				<p class="price-line">
 					Taxable income
-					<output>
-						<eur :amount="monthlyYearlyCost(result.taxableIncome / 12)"></eur>
-					</output>
+					<price :amount="monthlyYearlyCost(result.taxableIncome / 12)"></price>
 				</p>
 				<p class="price-line">
 					Income tax rate
-					<output v-html="formatPercent(result.incomeTax * 12 / result.taxableIncome * 100, true, 1)"></output>
+					<output class="price" v-html="formatPercent(result.incomeTax * 12 / result.taxableIncome * 100, true, 1)"></output>
 				</p>
 			</details>
 			<details v-if="result.solidarityTax > 0">
@@ -650,9 +631,7 @@
 						<circle cx="0" cy="0" r="0.7" :fill="colors.solidarityTax"/></circle>
 					</svg>
 					Solidarity surcharge
-					<output>
-						<eur :amount="result.solidarityTax"></eur>
-					</output>
+					<price :amount="result.solidarityTax"></price>
 				</summary>
 				<p>
 					If you pay more than <eur :amount="taxes.solidarity.minIncomeTax"></eur>/year in income tax, you must pay a <glossary term="Solidaritätszuschlag">solidarity surcharge</glossary>. It's a percentage of your <glossary term="Einkommensteuer">income tax</glossary>.
@@ -670,9 +649,7 @@
 						<circle cx="0" cy="0" r="0.7" :fill="colors.churchTax"/></circle>
 					</svg>
 					Church tax
-					<output>
-						<eur :amount="result.churchTax"></eur>
-					</output>
+					<price :amount="result.churchTax"></price>
 				</summary>
 				<p>Your church collects a <glossary term="Kirchensteuer">church tax</glossary>. In {{ germanStates.names[germanState].en }}, the church tax is {{ formatPercent(result.churchTaxRate * 100) }} of your <glossary term="Einkommensteuer">income tax</glossary>.</p>
 				<p v-if="result.churchTax === 0 && result.incomeTax === 0">Your income is too low to pay income tax, so you don't pay church tax.</p>
@@ -684,9 +661,7 @@
 						<path :d="svgPaths.totalDeductions" :fill="colors.incomeTax"></path>
 					</svg>
 					You pay {{ formatPercent(100 - disposableIncomeRatio) }}
-					<output>
-						<eur :amount="result.totalDeductions"></eur>
-					</output>
+					<price :amount="result.totalDeductions"></price>
 				</summary>
 				<p>This is what you pay for all taxes and social contributions. <template v-if="occupations.isEmployed(occupation)">They take this from your paycheck.</template></p>
 			</details>
@@ -697,9 +672,7 @@
 						<path :d="svgPaths.disposableIncome" :fill="colors.disposableIncome"></path>
 					</svg>
 					You keep {{ formatPercent(disposableIncomeRatio) }}
-					<output>
-						<eur :amount="result.disposableIncome"></eur>
-					</output>
+					<price :amount="result.disposableIncome"></price>
 				</summary>
 				<p>This is your <glossary term="Netto income">net income</glossary>. It's how much money you keep after taxes and other deductions. It's your money. You can spend it.</p>
 			</details>

@@ -5,6 +5,7 @@ Vue.component('eur', {
 	props: {
 		amount: Number,
 		cents: Boolean,
+		noSymbol: Boolean,
 		locale: String,
 	},
 	computed: {
@@ -16,12 +17,7 @@ Vue.component('eur', {
 		},
 	},
 	template: `
-		<template v-if="!tooltipText">
-			<span class="currency">€{{ value }}</span>
-		</template>
-		<template v-else>
-			<span>€<span class="currency" :data-currencies="tooltipText">{{ value }}</span></span>
-		</template>
+		<span>{{ noSymbol ? '' : '€'}}<span class="currency" :data-currencies="tooltipText">{{ value }}</span></span>
 	`,
 });
 {% endraw %}{% endjs %}

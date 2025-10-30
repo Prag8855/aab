@@ -4,6 +4,7 @@
 {% include '_js/vue.js' %}
 {% include '_js/vue/components/collapsible.js' %}
 {% include '_js/vue/components/eur.js' %}
+{% include '_js/vue/components/price.js' %}
 {% include '_js/vue/components/glossary.js' %}
 {% include '_js/vue/components/income-input.js' %}
 {% include '_js/vue/mixins/userDefaultsMixin.js' %}
@@ -73,9 +74,7 @@
 			<span class="input-instructions">The maximum contribution is different in East and West Germany.</span>
 		</div>
 		<hr>
-		<output class="large">
-			<eur :amount="results.unemploymentInsurance / 12"></eur><small class="no-mobile"> per month</small>
-		</output>
+		<price :amount="results.unemploymentInsurance / 12" per-month class="large"></price>
 		<p>
 			<template v-if="results.flags.has('none')">
 				<template v-if="results.flags.has('unemployed')">

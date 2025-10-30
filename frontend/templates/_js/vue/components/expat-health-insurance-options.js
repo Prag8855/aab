@@ -1,4 +1,5 @@
 {% include '_js/vue.js' %}
+{% include '_js/vue/components/price.js' %}
 {% include '_js/vue/mixins/healthInsuranceOptionsMixin.js' %}
 
 {% js %}{% raw %}
@@ -16,9 +17,7 @@ Vue.component('expat-health-insurance-options', {
                             <h3>Feather</h3>
                             <p>An English-speaking insurer from Berlin. They sell public, private and expat health insurance.</p>
                         </div>
-                        <output>
-                            <eur :amount="optionPrice('expat', 'feather-basic')"></eur> <small>/ month</small>
-                        </output>
+                        <price :amount="optionPrice('expat', 'feather-basic')" per-month></price>
                     </a>
                 </li>
                 <li>
@@ -28,9 +27,7 @@ Vue.component('expat-health-insurance-options', {
                             <h3>HanseMerkur</h3>
                             <p>Their expat health insurance works for a <glossary>National Visa</glossary> application.</p>
                         </div>
-                        <output>
-                            <eur :amount="optionPrice('expat', 'hansemerkur-basic')"></eur> <small>/ month</small>
-                        </output>
+                        <price :amount="optionPrice('expat', 'hansemerkur-basic')" per-month></price>
                     </a>
                 </li>
                 <li>
@@ -40,9 +37,7 @@ Vue.component('expat-health-insurance-options', {
                             <h3>Ottonova</h3>
                             <p>Their expat health insurance works for a <glossary>National Visa</glossary> application.</p>
                         </div>
-                        <output>
-                            <eur :amount="optionPrice('expat', 'ottonova-expat')"></eur> <small>/ month</small>
-                        </output>
+                        <price :amount="optionPrice('expat', 'ottonova-expat')" per-month></price>
                     </a>
                 </li>
             </ul>

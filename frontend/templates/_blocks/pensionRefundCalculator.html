@@ -11,10 +11,12 @@
 {% include '_js/vue/components/income-input.js' %}
 {% include '_js/vue/components/radio.js' %}
 {% include '_js/vue/components/recommended.js' %}
+{% include '_js/vue/components/price.js' %}
 {% include '_js/vue/components/state-input.js' %}
 {% include '_js/vue/mixins/trackedStagesMixin.js' %}
 {% include '_js/vue/mixins/uniqueIdsMixin.js' %}
 {% include '_js/vue/mixins/userDefaultsMixin.js' %}
+
 {% js %}
 	document.querySelectorAll('collapsible.pension-refund-calculator').forEach(
 		el => new Vue({
@@ -353,9 +355,7 @@
 				</div>
 				<template v-if="results && results.refundAmount">
 					<hr>
-					<output class="large">
-						<eur :amount="results.refundAmount"></eur>
-					</output>
+					<price class="large" :amount="results.refundAmount"></price>
 					<p>You can get <eur :amount="results.refundAmount"></eur> back. This is what you paid into the German pension system.</p>
 					<template v-if="hasFlag('eligible')">
 						<div class="buttons bar">
@@ -411,21 +411,15 @@
 				<div>
 					<p class="price-line">
 						Your pension refund
-						<output>
-							<eur :amount="results.refundAmount"></eur>
-						</output>
+						<price :amount="results.refundAmount"></price>
 					</p>
 					<p class="price-line">
 						{{ selectedPartner.name }} fee
-						<output>
-							<eur :amount="selectedPartner.fee(results.refundAmount)"></eur>
-						</output>
+						<price :amount="selectedPartner.fee(results.refundAmount)"></price>
 					</p>
 					<p class="price-line highlighted">
 						You keep
-						<output>
-							<eur :amount="Math.max(results.refundAmount - selectedPartner.fee(results.refundAmount), 0)"></eur>
-						</output>
+						<price :amount="Math.max(results.refundAmount - selectedPartner.fee(results.refundAmount), 0)"></price>
 					</p>
 				</div>
 			</div>

@@ -2107,16 +2107,6 @@ output.placeholder{
     }
 }
 
-output.large{
-    @include box-s;
-    font-size: var(--xxl);
-    color: var(--c-text-heading);
-    text-align: center;
-    margin-left: auto;
-    margin-right: auto;
-    display: block;
-}
-
 input[name="username"], // Honeypot
 [v-cloak] // Vue elements before they're ready
 {  
@@ -2284,6 +2274,9 @@ collapsible, letter-generator, feedback-residence-permit, health-insurance-calcu
 
     .health-insurance-options h3{
         margin: 0;
+        + .price-preview{
+            margin-top: var(--xs);
+        }
     }
 
     .two-columns{
@@ -2315,8 +2308,8 @@ collapsible, letter-generator, feedback-residence-permit, health-insurance-calcu
                 margin: var(--s) 0;
             }
 
-            output{
-                // TODO: Merge with identical .button output style
+            .price{
+                // TODO: Merge with identical .button .price
                 padding: var(--s) var(--m);
                 background: var(--c-bg-widget);
                 border-radius: var(--b-radius);
@@ -2657,8 +2650,23 @@ collapsible, letter-generator, feedback-residence-permit, health-insurance-calcu
     }
 }
 
-.price-tag{ // Box with a price in it
+:not(.price-line) > .price{ // Box with a price in it
+    padding: var(--s) var(--m);
+    background: var(--c-bg-widget);
+    border-radius: var(--b-radius);
+    text-align: center;
 
+    small{
+        color: var(--c-text-light);
+    }
+
+    .large{
+        font-size: var(--xxl);
+        color: var(--c-text-heading);
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+    }
 }
 
 .price-line{ // Looks like "Item.........€30"
@@ -2670,28 +2678,18 @@ collapsible, letter-generator, feedback-residence-permit, health-insurance-calcu
     &.highlighted{
         @include text-bold;
     }
-
-    .currency[data-currencies]{
-        text-decoration:none!important;
-        right: 0;
-
-        &:hover:after{
-            left: auto!important;
-            right: 0!important;
-        }
-    }
     
-    output{
+    .price{
         display: flex;
         flex:2 0 auto;
         align-items:baseline;
 
-        + output{
+        + .price{
             flex:0 0 8em;
         }
 
         @include only-phone{
-            &.no-mobile + output{
+            &.no-mobile + .price{
                 flex:2 0 auto
             }
         }
@@ -2705,14 +2703,23 @@ collapsible, letter-generator, feedback-residence-permit, health-insurance-calcu
             transition: opacity 0.2s;
         }
     }
+    &:hover .price:before{
+        opacity: 1;
+    }
+
+    .currency[data-currencies]{
+        text-decoration:none!important;
+        right: 0;
+
+        &:hover:after{
+            left: auto!important;
+            right: 0!important;
+        }
+    }
 
     p {
         @include text-block-compact;
         font-size: var(--f-s);
-    }
-
-    &:hover output:before{
-        opacity: 1;
     }
 
     @include only-phone{
@@ -3157,7 +3164,7 @@ collapsible, letter-generator, feedback-residence-permit, health-insurance-calcu
                 font-size: var(--f-s);
             }
 
-            output{
+            .price{
                 padding: var(--s) var(--m);
                 background: var(--c-bg-widget);
                 border-radius: var(--b-radius);

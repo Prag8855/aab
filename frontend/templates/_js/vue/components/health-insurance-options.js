@@ -3,6 +3,7 @@
 {% include '_js/vue.js' %}
 {% include '_js/vue/components/eur.js' %}
 {% include '_js/vue/components/glossary.js' %}
+{% include '_js/vue/components/price.js' %}
 {% include '_js/vue/components/public-health-insurance-options.js' %}
 {% include '_js/vue/mixins/brokerMixin.js' %}
 {% include '_js/vue/mixins/healthInsuranceOptionsMixin.js' %}
@@ -290,10 +291,8 @@ Vue.component('health-insurance-options', {
 			<template v-for="option in results.asList" v-if="option.eligible">
 				<h3 v-if="!isPublicOnlyOption">
 					{{ option.name }}
-					<template v-if="option.id !== 'other' && !isPublicOnlyOption && minCostByOption[option.id]">
-						<br><small>From <eur :amount="minCostByOption[option.id]"></eur>/month</small>
-					</template>
 				</h3>
+				<p class="price-preview" v-if="option.id !== 'other' && !isPublicOnlyOption && minCostByOption[option.id]">From <eur :amount="minCostByOption[option.id]"></eur>/month</p>
 
 				<p v-if="clarification[option.id]" v-html="clarification[option.id]"></p>
 
@@ -305,9 +304,7 @@ Vue.component('health-insurance-options', {
 								<h3>Family health insurance</h3>
 								<p v-text="familienversicherungText"></p>
 							</div>
-							<output>
-								<eur :amount="0"></eur> <small>/ month</small>
-							</output>
+							<price :amount="0" per-month></price>
 						</a>
 						<a v-if="subOption.id === 'social-benefits'" @click="selectOption(subOption.id)" title="Learn more about state-sponsored health insurnace" href="/guides/german-health-insurance#free-health-insurance" target="_blank">
 							{% endraw %}{% include "_css/icons/bank.svg" %}{% raw %}
@@ -315,9 +312,7 @@ Vue.component('health-insurance-options', {
 								<h3>Social benefits</h3>
 								<p>If you get <glossary term="ALG I">unemployment benefits</glossary>, <glossary>Bürgergeld</glossary> or <glossary>Elterngeld</glossary>, you get free public health insurance.</p>
 							</div>
-							<output>
-								<eur :amount="0"></eur> <small>/ month</small>
-							</output>
+							<price :amount="0" per-month></price>
 						</a>
 						<a v-if="subOption.id === 'ehic'" @click="selectOption(subOption.id)" title="Learn more about the EHIC" href="/guides/german-health-insurance#insurance-from-other-eu-countries" target="_blank">
 							{% endraw %}{% include "_css/icons/passport.svg" %}{% raw %}
@@ -325,9 +320,7 @@ Vue.component('health-insurance-options', {
 								<h3>European Health Insurance Card</h3>
 								<p>Your insurance from another EU country might cover you in Germany.</p>
 							</div>
-							<output>
-								<eur :amount="0"></eur> <small>/ month</small>
-							</output>
+							<price :amount="0" per-month></price>
 						</a>
 						<a v-if="subOption.id === 'ksk'" @click="selectOption(subOption.id)" title="Learn more about the KSK" href="/guides/ksk-kuenstlersozialkasse" target="_blank">
 							{% endraw %}{% include "_css/icons/liability.svg" %}{% raw %}
@@ -335,9 +328,7 @@ Vue.component('health-insurance-options', {
 								<h3>Join the <glossary>Künstlersozialkasse</glossary></h3>
 								<p>If you are an artist or a content creator, the KSK can pay half of your public health insurance.</p>
 							</div>
-							<output>
-								<eur :amount="optionPrice(option.id, subOption.id)"></eur> <small>/ month</small>
-							</output>
+							<price :amount="optionPrice(option.id, subOption.id)" per-month></price>
 						</a>
 					</li>
 				</ul>
