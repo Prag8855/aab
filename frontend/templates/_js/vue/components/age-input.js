@@ -10,13 +10,12 @@ Vue.component('age-input', {
 	},
 	template: `
 		<input class="age-input"
-			type="number"
+			type="text"
 			inputmode="numeric"
 			pattern="[0-9]*"
 			placeholder="25"
-			min="1"
-			step="1"
 			:value.number="value"
+			maxlength="2"
 			@input="$emit('input', parsedValue($event.target.value))"
 			@focus="$event.target.select()">
 	`,
