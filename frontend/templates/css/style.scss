@@ -2222,6 +2222,10 @@ details{
         }
     }
 
+    &:not(.total) + details.total{
+        margin-top: var(--l-relative);
+    }
+
     &[open] > summary {
         @include collapsible;
     }
@@ -3382,12 +3386,6 @@ collapsible, letter-generator, feedback-residence-permit, health-insurance-calcu
         &.current{
             @include text-bold;
         }
-    }
-}
-
-.income-tax-calculator {
-    details:not(.total) + details.total{
-        margin-top: var(--l-relative);
     }
 }
 
