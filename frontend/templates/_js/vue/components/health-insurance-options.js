@@ -133,7 +133,7 @@ Vue.component('health-insurance-options', {
 				}
 			}
 			else{
-				output.public = "This is your only option. You can't choose private health insurance, because your income is too low.";
+				output.public = "Public health insurance is your only option. You can't choose private health insurance because your income is too low.";
 			}
 
 			return output;
@@ -258,7 +258,7 @@ Vue.component('health-insurance-options', {
 			else if(insuranceType === 'private'){
 				return {
 					"pros": [
-						"Choose the level of coverage",
+						"Choose the coverage you want",
 						"Get doctor appointments faster",
 					],
 					"cons": [
@@ -283,11 +283,12 @@ Vue.component('health-insurance-options', {
 	},
 	template: `
 		<div class="health-insurance-options">
+			<h2>Your options</h2>
 			<p v-if="intro" v-html="intro"></p>
 			<hr v-if="intro">
 			
 			<template v-for="option in results.asList" v-if="option.eligible">
-				<h3>
+				<h3 v-if="!isPublicOnlyOption">
 					{{ option.name }}
 					<template v-if="option.id !== 'other' && !isPublicOnlyOption && minCostByOption[option.id]">
 						<br><small>From <eur :amount="minCostByOption[option.id]"></eur>/month</small>

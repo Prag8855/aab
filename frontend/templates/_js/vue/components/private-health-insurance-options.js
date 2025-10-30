@@ -90,7 +90,7 @@ Vue.component('private-health-insurance-options', {
 
             <hr>
 
-            <p>Do not choose private health insurance yourself. Let our insurance expert find the best option. It's 100% free.</p>
+            <p>Do not choose private health insurance yourself. There are hundreds of other options. Let our expert find the best one for you. It's 100% free.</p>
         </div>
     `
 });
