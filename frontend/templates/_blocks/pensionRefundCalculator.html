@@ -300,9 +300,9 @@
 					<select
 						class="year-input"
 						:class="{error: isDateRangeSelected && !isDateRangeEligible, placeholder: !firstYearOfWork}"
-						aria-label="Last year of work in Germany"
+						aria-label="First year of work in Germany"
 						:aria-describedby="uid('instructions-time-in-germany')"
-						title="Last year of work in Germany"
+						title="First year of work in Germany"
 						v-model="firstYearOfWork">
 						<option value="" disabled selected hidden>Year</option>
 						<option v-for="year in yearOptions" :key="year" :value="year">{{ year }}</option>
@@ -339,7 +339,7 @@
 				<hr>
 				<div class="form-group show-errors">
 					<label :for="uid('income')">
-						Your salary in Germany
+						Salary in Germany
 					</label>
 					<div class="input-group">
 						<income-input :id="uid('income')" v-model="yearlyIncome"></income-input>
@@ -357,6 +357,7 @@
 					<hr>
 					<price class="large" :amount="results.refundAmount"></price>
 					<p>You can get <eur :amount="results.refundAmount"></eur> back. This is what you paid into the German pension system.</p>
+					<hr>
 					<template v-if="hasFlag('eligible')">
 						<div class="buttons bar">
 							<button class="button primary" target="_blank" @click="stage = 'partnerSelection'">
@@ -388,7 +389,8 @@
 	</template>
 	<template v-if="stage === 'reminderConfirmation'">
 		<p><strong>Reminder set!</strong> We will send you an email in {{ monthsUntilEligible }}.</p>
-		<div class="buttons bar left">
+		<hr>
+		<div class="buttons bar">
 			<button class="button" @click="email = '';stage = 'start'"><i class="icon left" aria-hidden="true"></i> Back to calculator</button>
 		</div>
 	</template>
@@ -446,6 +448,7 @@
 				<span class="input-instructions" :id="uid('instructions-date-of-birth')">Required by the <glossary>Deutsche Rentenversicherung</glossary></span>
 			</div>
 		</div>
+		<hr>
 		<div class="buttons bar">
 			<button class="button" @click="stage = 'partnerSelection'"><i class="icon left" aria-hidden="true"></i> Back</button>
 			<button class="button primary" target="_blank" @click="sendRefundRequest" :disabled="isLoading" :class="{loading: isLoading}">Send request</button>
@@ -453,13 +456,15 @@
 	</template>
 	<template v-if="stage === 'requestConfirmation'">
 		<p><strong>Request sent!</strong> Your pension refund request was sent to {{ selectedPartner.name }}. They will contact you soon.</p>
+		<hr>
 		<div class="buttons bar">
 			<button class="button" @click="stage = 'start'"><i class="icon left" aria-hidden="true"></i> Back</button>
 		</div>
 	</template>
 	<template v-if="stage === 'error'">
 		<p><strong>An error occured.</strong> If this keeps happening, <a target="_blank" href="/contact">contact me</a>.</p>
-		<div class="buttons bar left">
+		<hr>
+		<div class="buttons bar">
 			<button class="button" @click="email = '';stage = 'start'"><i class="icon left" aria-hidden="true"></i> Back to calculator</button>
 		</div>
 	</template>
