@@ -26,7 +26,7 @@ ctx = {}
 # ==============================================================================
 
 # German minimum wage (€/h) - https://www.bmas.de/DE/Arbeit/Arbeitsrecht/Mindestlohn/mindestlohn.html - https://www.destatis.de/DE/Themen/Arbeit/Verdienste/Mindestloehne/_inhalt.html
-ctx["MINIMUM_WAGE"] = fail_on("2025-12-31", Decimal("12.82"))
+ctx["MINIMUM_WAGE"] = fail_on("2026-06-01", Decimal("13.90"))
 
 ctx["MEDIAN_INCOME_BERLIN"] = fail_on(
     "2025-12-31", 48250
@@ -34,7 +34,7 @@ ctx["MEDIAN_INCOME_BERLIN"] = fail_on(
 ctx["MEDIAN_INCOME_GERMANY"] = fail_on("2025-12-31", 52159)  # Early 2025
 
 # Minimum allowance for au pairs (€/mth)
-ctx["AU_PAIR_MIN_ALLOWANCE"] = fail_on("2025-12-31", 280)
+ctx["AU_PAIR_MIN_ALLOWANCE"] = fail_on("2025-12-01", 280)
 
 # Maximum income used to calculate pension contributions (€/y)
 ctx["BEITRAGSBEMESSUNGSGRENZE"] = fail_on("2025-12-31", 8050 * 12)  # § SGB 6 Anlage 2 [BBGRV]
@@ -171,6 +171,15 @@ ctx["GKV_ZUSATZBEITRAG_DAK"] = fail_on("2025-12-31", Decimal("2.8"))
 ctx["GKV_ZUSATZBEITRAG_HKK"] = fail_on("2025-12-31", Decimal("2.19"))
 ctx["GKV_ZUSATZBEITRAG_TK"] = fail_on("2025-12-31", Decimal("2.45"))
 
+# Private health insurance lowest cost - NOT TRACKED
+# https://www.ottonova.de/v/private-krankenversicherung/angestellte
+# https://www.ottonova.de/v/private-krankenversicherung/studenten
+# https://www.ottonova.de/v/private-krankenversicherung/selbststaendige
+ctx["OTTONOVA_EMPLOYEE_COST"] = fail_on("2025-12-01", 263)  # Premium economy
+ctx["OTTONOVA_STUDENT_COST"] = fail_on("2025-12-01", 111)  # Study smart
+ctx["OTTONOVA_SELFEMPLOYED_COST"] = fail_on("2025-12-01", 552)  # Premium economy
+
+ctx["FEATHER_STUDENT_COST"] = fail_on("2025-12-01", 72)  # /out/feather-expats
 ctx["EXPAT_INSURANCE_COST"] = fail_on(
     "2026-01-31",
     {
@@ -181,8 +190,8 @@ ctx["EXPAT_INSURANCE_COST"] = fail_on(
         "hansemerkur-profi": 2.4 * 30,  # https://www.hmrv.de/en/incoming/insurance-for-foreign-guests
     },
 )
-ctx["TRAVEL_INSURANCE_COST"] = fail_on("2026-12-31", 40)  # Guesstimated
-ctx["EXPAT_STUDENT_COST"] = round(ctx["EXPAT_INSURANCE_COST"]["hansemerkur-basic"])
+
+ctx["EXPAT_STUDENT_COST"] = round(ctx["FEATHER_STUDENT_COST"])
 
 # Maximum daily Krankengeld
 ctx["GKV_KRANKENGELD_DAILY_LIMIT"] = (ctx["GKV_MAX_INCOME"] * Decimal("0.7") / 360).normalize()  # § 47 SGB V
@@ -225,7 +234,6 @@ ctx["FUNDSBACK_FEE"] = Decimal("9.405")  # %
 ctx["FUNDSBACK_MIN_FEE"] = Decimal("854.05")  # €
 ctx["FUNDSBACK_MAX_FEE"] = Decimal("2754.05")  # €
 ctx["GERMANYPENSIONREFUND_FEE"] = Decimal("9.75")  # %
-ctx["GERMANYPENSIONREFUND_MAX_FEE"] = 2500  # €
 ctx["PENSIONREFUNDGERMANY_FEE"] = Decimal("10")  # %
 ctx["PENSIONREFUNDGERMANY_MAX_FEE"] = 2800  # €
 
@@ -301,10 +309,10 @@ ctx["DEUTSCHLAND_TICKET_PRICE"] = fail_on("2025-12-31", 58)
 # ==============================================================================
 
 # Minimum income (€/y) to get a Blue Card - § 18g AufenthG
-ctx["BLUE_CARD_MIN_INCOME"] = round(Decimal("0.5") * ctx["BEITRAGSBEMESSUNGSGRENZE"])
+ctx["BLUE_CARD_MIN_INCOME"] = Decimal("0.5") * ctx["BEITRAGSBEMESSUNGSGRENZE"]
 
 # Minimum income (€/y) to get a Blue Card in shortage fields - § 18g AufenthG
-ctx["BLUE_CARD_SHORTAGE_MIN_INCOME"] = round(Decimal("0.453") * ctx["BEITRAGSBEMESSUNGSGRENZE"])
+ctx["BLUE_CARD_SHORTAGE_MIN_INCOME"] = Decimal("0.453") * ctx["BEITRAGSBEMESSUNGSGRENZE"]
 
 # Visa fees (€) - § 44, § 45, § 45c and § 47 AufenthV
 ctx["SCHENGEN_VISA_FEE"] = 75
@@ -381,6 +389,8 @@ ctx["AUFENTHV_41_COUNTRIES"] = or_join(
 # ==============================================================================
 
 ctx["BESCHEINIGUNG_IN_STEUERSACHEN_FEE"] = Decimal("17.90")  # (€) - service.berlin.de/dienstleistung/324713
+ctx["DRIVING_LICENCE_CONVERSION_FEE"] = Decimal("37.50")  # (€) - service.berlin.de/dienstleistung/327537
+ctx["DRIVING_LICENCE_FEE"] = Decimal("51.21")  # (€) - service.berlin.de/dienstleistung/121627
 ctx["ERWEITERTE_MELDEBESCHEINIGUNG_FEE"] = fail_on("2025-12-31", 10)  # (€) - service.berlin.de/dienstleistung/120702
 ctx["GEWERBEANMELDUNG_FEE"] = 15  # € - service.berlin.de/dienstleistung/121921
 ctx["HUNDEFUHRERSCHEIN_FEE"] = 94  # (€) - service.berlin.de/dienstleistung/121822
@@ -390,18 +400,9 @@ ctx["HUNDESTEUER_MORE_DOGS"] = 180  # §4 HuStG BE, (€/y)
 ctx["KSK_MIN_INCOME"] = fail_on("2025-12-31", 3900)  # (€/y) - §3 Abs. 1 KSVG
 ctx["ORDNUNGSAMT_DANGEROUS_DOG_FEE"] = 30  # service.berlin.de/dienstleistung/326263
 ctx["RUNDFUNKBEITRAG_FEE"] = Decimal("18.36")
-ctx["SCHUFA_REPORT_FEE"] = fail_on("2025-12-31", Decimal("29.95"))  # TODO: Not watched
+ctx["SCHUFA_REPORT_FEE"] = fail_on("2025-12-01", Decimal("29.95"))  # TODO: Not watched
 ctx["VEHICLE_UMMELDUNG_FEE"] = Decimal("10.80")  # service.berlin.de/dienstleistung/120658
 ctx["LICENSE_PLATE_COST"] = fail_on("2027-12-31", 20)  # Cost of making license plates
-ctx["FIRST_AID_COURSE_COST"] = fail_on("2027-12-31", 65)  # Cost of a first aid course for a driver's licence
-
-ctx["DRIVING_LICENCE_CONVERSION_FEE"] = Decimal("37.50")  # (€) - service.berlin.de/dienstleistung/327537
-ctx["DRIVING_LICENCE_FEE"] = Decimal("51.21")  # (€) - service.berlin.de/dienstleistung/121627
-ctx["FIRST_AID_COURSE_FEE"] = fail_on("2026-12-31", Decimal("80"))
-ctx["DRIVING_SCHOOL_FEE"] = fail_on("2026-12-31", Decimal("190"))
-ctx["DRIVING_PRACTICE_FEE"] = fail_on("2026-12-31", Decimal("60"))  # per 45-minute lesson
-ctx["DRIVING_THEORY_EXAM_FEE"] = fail_on("2026-12-31", Decimal("25"))  # Dekra/TÜV fee
-ctx["DRIVING_PRACTICAL_EXAM_FEE"] = fail_on("2026-12-31", Decimal("130"))  # Dekra/TÜV fee
 
 
 # ==============================================================================
