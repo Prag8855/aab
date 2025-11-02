@@ -1,5 +1,11 @@
 from django.contrib import admin
-from forms.models import CitizenshipFeedback, PensionRefundRequest, PensionRefundQuestion, ResidencePermitFeedback
+from forms.models import (
+    CitizenshipFeedback,
+    PensionRefundReminder,
+    PensionRefundRequest,
+    PensionRefundQuestion,
+    ResidencePermitFeedback,
+)
 
 
 class PensionRefundQuestionAdmin(admin.ModelAdmin):
@@ -8,6 +14,10 @@ class PensionRefundQuestionAdmin(admin.ModelAdmin):
 
 class PensionRefundRequestAdmin(admin.ModelAdmin):
     list_display = ["name", "partner", "nationality", "country_of_residence", "creation_date"]
+
+
+class PensionRefundReminderAdmin(admin.ModelAdmin):
+    list_display = ["email", "creation_date", "delivery_date"]
 
 
 class ResidencePermitFeedbackAdmin(admin.ModelAdmin):
@@ -59,6 +69,7 @@ class CitizenshipFeedbackAdmin(admin.ModelAdmin):
 
 
 admin.site.register(PensionRefundRequest, PensionRefundRequestAdmin)
+admin.site.register(PensionRefundReminder, PensionRefundReminderAdmin)
 admin.site.register(PensionRefundQuestion, PensionRefundQuestionAdmin)
 admin.site.register(ResidencePermitFeedback, ResidencePermitFeedbackAdmin)
 admin.site.register(CitizenshipFeedback, CitizenshipFeedbackAdmin)

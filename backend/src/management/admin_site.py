@@ -2,24 +2,39 @@ from collections import OrderedDict
 from datetime import datetime, time
 from django.apps import apps
 from django.contrib import admin
-from django.urls import reverse
+from django.urls import reverse, NoReverseMatch
 from django.utils import timezone
 from management.models import Monitor, error_icons
 from typing import Any
+
+
+def get_admin_instance_url(model_instance) -> str | None:
+    try:
+        return reverse(
+            "admin:%s_%s_change" % (model_instance._meta.app_label, model_instance._meta.model_name),
+            args=[model_instance.pk],
+        )
+    except NoReverseMatch:
+        return None
+
+
+def get_admin_url(model) -> str | None:
+    try:
+        return reverse("admin:%s_%s_changelist" % (model._meta.app_label, model._meta.model_name))
+    except NoReverseMatch:
+        return None
 
 
 def get_daily_digest_models(since: datetime) -> list[dict[str, Any]]:
     return [
         {
             "name": model._meta.verbose_name_plural.capitalize(),
-            "url": reverse("admin:%s_%s_changelist" % (model._meta.app_label, model._meta.model_name)),
+            "url": get_admin_url(model),
             "last_created": model.objects.order_by("-creation_date").first().creation_date,
             "instances": [
                 {
                     "name": str(instance),
-                    "url": reverse(
-                        "admin:%s_%s_change" % (instance._meta.app_label, instance._meta.model_name), args=[instance.pk]
-                    ),
+                    "url": get_admin_instance_url(instance),
                     "fields": OrderedDict(
                         [
                             (instance._meta.get_field(field).verbose_name.capitalize(), getattr(instance, field, None))

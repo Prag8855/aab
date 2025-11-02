@@ -218,6 +218,10 @@ class PensionRefundReminder(EmailMixin, ScheduledMessage):
 
     subject = "Reminder: you can now get your German pension payments back"
     template = "pension-refund-reminder.html"
+    daily_digest_fields = [
+        "email",
+        "delivery_date",
+    ]
 
     @property
     def recipients(self) -> List[str]:
