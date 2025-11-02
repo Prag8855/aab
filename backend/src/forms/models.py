@@ -117,7 +117,7 @@ class PensionRefundQuestion(NameMixin, EmailMixin, ScheduledMessage):
 
     def save(self, *args, **kwargs):
         super().save(*args, **kwargs)
-        PensionRefundQuestionFeedbackReminder.objects.create(
+        PensionRefundQuestionFeedbackReminder.objects.get_or_create(
             refund_question=self, delivery_date=timezone.now() + relativedelta(days=7)
         )
 
@@ -184,7 +184,7 @@ class PensionRefundRequest(NameMixin, EmailMixin, ScheduledMessage):
 
     def save(self, *args, **kwargs):
         super().save(*args, **kwargs)
-        PensionRefundRequestFeedbackReminder.objects.create(
+        PensionRefundRequestFeedbackReminder.objects.get_or_create(
             refund_request=self, delivery_date=timezone.now() + relativedelta(days=7)
         )
 
