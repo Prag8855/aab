@@ -15,16 +15,29 @@ Vue.component('health-insurance-options', {
 	computed: {
 		intro(){
 			const optionsList = this.results.asList.map(r => r.id).filter(id => ['public', 'private', 'expat'].includes(id));
-			if(this.results.free.eligible && !this.results.public.eligible){
-				optionsList.unshift('public');
+
+			const options = new Intl.ListFormat('en-US', {style: 'long', type: 'disjunction'}).format(optionsList);
+			let output = `You must choose <strong>${options} health insurance</strong>.`;
+
+			if(this.flag('free')){
+				output += " You might also qualify for free health insurance.";
 			}
-			if(optionsList.length > 1){
-				const options = new Intl.ListFormat('en-US', {style: 'long', type: 'disjunction'}).format(optionsList);
-				return `You must choose <strong>${options} health insurance</strong>.`;
+			else if(!this.hasMultipleOptions){
+				output += " It's your only option.";
 			}
-		},
+
+			if(this.flag('private-income-too-low')){
+				output += " Your income is too low for private health insurance.";
+			}
+			if(!this.results.public.eligible){
+				output += " You don't qualify for public health insurance.";
+			}
 
 			return output;
+		},
+
+		hasMultipleOptions() {
+			return this.results.asList.length > 1;
 		},
 
 		gkvOptionsParams(){
@@ -37,10 +50,6 @@ Vue.component('health-insurance-options', {
 				occupation: p.occupation,
 				hoursWorkedPerWeek: p.hoursWorkedPerWeek,
 			};
-		},
-
-		isPublicOnlyOption() {
-			return this.results.asList[0].id === 'public' && this.results.asList.length === 1;
 		},
 
 		minCostByOption() {
@@ -109,71 +118,19 @@ Vue.component('health-insurance-options', {
 		},
 		employeeClarification(){
 			const output = {};
-			if(this.flag('public-minijob')){
-				output.public = null;
-				if(this.results.expat.eligible){
-					output.public = "It's more expensive, but you get <strong>better coverage</strong>.";
-					output.expat = "It's cheaper, but <strong>the coverage is not great</strong>.";
+			if(this.results.private.eligible){
+				if(this.minCostByOption.public > this.minCostByOption.private){
+					output.private = "It's cheaper because you are young and you have a good income.";
+					output.public = "It's more expensive because it costs a percentage of your income.";
 				}
-				output.private = "Your income is too low for private health insurance. Most insurers will reject you.";
-			}
-			else if(this.results.private.eligible){
-				if(this.childrenCount > 2){
-					output.public = `This is <strong>cheaper</strong> for you.`;
-					output.private = 'This is more expensive, but you can get <strong>better coverage</strong> for you and your family.'
-				}
-				else if(this.age <= 35){
-					output.private = "It can be better and cheaper than public, because you are young and well-paid.";
-					output.public = "This is a safer choice, because the cost is proportional to your income.";
-				}
-				else if(this.age >= 45){
-					output.public = "This is usually the <strong>cheapest option</strong>, because you are over 45 years old."
-					output.private = "It's usually more expensive, but you can get <strong>better coverage</strong> and faster doctor appointments."
-				}
-				else{
-					output.private = "With private health insurance, you can get <strong>better coverage</strong> and faster doctor appointments."
+				else {
+					output.private = "In your situation, private only makes sense if you want better coverage or faster doctor appointments.";
 				}
 			}
-			else{
-				output.public = "Public health insurance is your only option. You can't choose private health insurance because your income is too low.";
-			}
-
 			return output;
 		},
 		selfEmployedClarification(){
-			const output = {
-				expat: "This is the <strong>cheapest option</strong>, but the coverage is not great. It can be a really bad choice."
-			};
-
-			if(this.age >= 45){
-				output.public = "This is usually the <strong>best option</strong> for people over 45 years old.";
-				output.private = "It's usually more expensive, but you can get <strong>better coverage</strong> and faster doctor appointments."
-			}
-			else if(this.childrenCount > 2){
-				output.public = `This is the <strong>cheapest option</strong> for families.`;
-				output.private = "It's usually more expensive, but you can get <strong>better coverage</strong> and faster doctor appointments for your family."
-			}
-			else{
-				output.public = "This is the <strong>safest option</strong>, because the cost is proportional to your income.";
-
-				if((this.monthlyIncome * 12) >= 60000){
-					output.private = "It might be <strong>better and cheaper</strong> than public health insurance, because you have a high income.";
-					output.public = "This is the <strong>safest option</strong>, because the cost is proportional to your income."
-				}
-				else if(this.monthlyIncome >= healthInsurance.minPrivateMonthlyIncome){							
-					output.private = "Choose private health insurance to get <strong>better coverage</strong> and faster doctor appointments."
-				}
-				else{
-					output.private = "Insurers might reject you because <strong>your income is too low</strong>."
-					if(this.results.expat.eligible){
-						output.private += " Expat health insurance might be your only option."
-					}
-					else if(this.results.public.eligible){
-						output.private += " Public health insurance is a safer option."
-					}
-				}
-			}
-
+			const output = {};
 			return output;
 		},
 		studentClarification(){
@@ -183,7 +140,7 @@ Vue.component('health-insurance-options', {
 
 			// Students under 30 years old
 			if(this.flag('public-tariff-student')){
-				if(this.results.free.eligible){
+				if(this.flag('free')){
 					output.public = "If you can't get free health insurance, this is the <strong>best option</strong>.";
 				}
 				else{
@@ -199,7 +156,7 @@ Vue.component('health-insurance-options', {
 					// TODO: Private explanation for EU students over 30?
 				}
 				else{
-					if(this.results.free.eligible){
+					if(this.flag('free')){
 						output.expat = "If you can't get free health insurance, this is the <strong>cheapest option</strong>, but the coverage is not great."
 					}
 					else{
@@ -222,7 +179,7 @@ Vue.component('health-insurance-options', {
 		unemployedClarification(){
 			const output = {};
 
-			if(this.results.free.eligible){
+			if(this.flag('free')){
 				output.public = `This is the <strong>safest option</strong>.`;
 				output.expat = "This is the <strong>cheapest option</strong> for students over 30 years old, but the coverage is not great."
 				output.private = 'Insurers usually reject unemployed people, but you can keep your current private health insurance.'
@@ -287,18 +244,16 @@ Vue.component('health-insurance-options', {
 	template: `
 		<div class="health-insurance-options">
 			<h2>Your options</h2>
-			<p v-if="intro" v-html="intro"></p>
-			<hr v-if="intro">
+			<p v-html="intro"></p>
+			<hr v-if="intro && hasMultipleOptions">
 			
 			<template v-for="option in results.asList" v-if="option.eligible">
-				<h3 v-if="!isPublicOnlyOption">
-					{{ option.name }}
-				</h3>
-				<p class="price-preview" v-if="option.id !== 'other' && !isPublicOnlyOption && minCostByOption[option.id]">From <eur :amount="minCostByOption[option.id]"></eur>/month</p>
+				<h3 v-if="hasMultipleOptions" v-text="option.name"></h3>
+				<p class="price-preview" v-if="hasMultipleOptions && minCostByOption[option.id]">From <eur :amount="minCostByOption[option.id]"></eur>/month</p>
 
 				<p v-if="clarification[option.id]" v-html="clarification[option.id]"></p>
 
-				<ul class="buttons list" v-if="option.id === 'free' || option.id === 'other'">
+				<ul class="buttons list" v-if="option.id === 'other'">
 					<li v-for="subOption in option.options">
 						<a v-if="subOption.id === 'familienversicherung'" @click="selectOption(subOption.id)" title="Learn more about family health insurance" href="/guides/german-health-insurance#free-health-insurance" target="_blank">
 							{% endraw %}{% include "_css/icons/family.svg" %}{% raw %}
@@ -335,9 +290,9 @@ Vue.component('health-insurance-options', {
 					</li>
 				</ul>
 
-				<public-health-insurance-options @select="selectOption" v-bind="$props" v-if="isPublicOnlyOption"></public-health-insurance-options>
+				<public-health-insurance-options @select="selectOption" v-bind="$props" v-if="!hasMultipleOptions"></public-health-insurance-options>
 
-				<template v-if="!isPublicOnlyOption">
+				<template v-if="hasMultipleOptions">
 					<div class="two-columns" v-if="prosAndCons(option.id)">
 						<ul class="pros">
 							<li v-for="pro in prosAndCons(option.id).pros" v-text="pro"></li>

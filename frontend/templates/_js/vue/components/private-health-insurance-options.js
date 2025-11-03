@@ -30,7 +30,6 @@ Vue.component('private-health-insurance-options', {
                 <div>
                     <h3>Premium coverage</h3>
                     <ul class="pros">
-                        <li v-if="visaBenefit" v-text="visaBenefit"></li>
                         <li>Covers the best available healthcare</li>
                         <li>No <glossary term="Selbstbeteiligung">deductible</glossary></li>
                         <li>Generous <glossary term="Krankentagegeld">sickness allowance</glossary></li>

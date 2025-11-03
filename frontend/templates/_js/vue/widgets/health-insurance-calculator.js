@@ -106,7 +106,7 @@ Vue.component('health-insurance-calculator', {
 			s => !['publicOptions', 'privateOptions', 'expatOptions', 'thank-you', 'error'].includes(s)
 		).length - 1 },
 		progressBarValue(){ return Math.min(this.stageIndex, this.progressBarLength) },
-		showProgressBar(){ return this.progressBarLength && this.progressBarValue < this.progressBarLength && this.stageIndex !== 0 && this.occupation !== 'other' }
+		showProgressBar(){ return this.progressBarLength && this.progressBarValue < this.progressBarLength && this.stageIndex !== 0 && this.occupation !== 'other' },
 
 		requireCompleteForm(){
 			// When asking a question, the fields are only a suggestion

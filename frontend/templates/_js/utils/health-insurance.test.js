@@ -38,7 +38,7 @@ describe('An unemployed student', () => {
 			hasEUPublicHealthInsurance: true,
 		}, [
 			canUseEHIC,
-			getsRecommended(['free', 'public', 'expat', 'private']),
+			getsRecommended(['public', 'expat', 'private', 'other']),
 		]);
 	});
 
@@ -48,14 +48,14 @@ describe('An unemployed student', () => {
 			hasGermanPublicHealthInsurance: true,
 		}, [
 			cannotUseEHIC,
-			getsRecommended(['free', 'public', 'private']),
+			getsRecommended(['public', 'private', 'other']),
 		]);
 	});
 
 	describe('without insurance', () => {
 		testInsuranceOptions(student, [
 			cannotUseEHIC,
-			getsRecommended(['free', 'public', 'expat', 'private']),
+			getsRecommended(['public', 'expat', 'private', 'other']),
 		]);
 	});
 
@@ -65,7 +65,7 @@ describe('An unemployed student', () => {
 			isApplyingForFirstVisa: true,
 		}, [
 			mustHaveExpatInsurance,
-			getsRecommended(['free', 'public', 'expat', 'private']),
+			getsRecommended(['public', 'expat', 'private', 'other']),
 		]);
 	});
 
@@ -74,7 +74,7 @@ describe('An unemployed student', () => {
 			...student,
 			age: 25,
 		}, [
-			getsRecommended(['free', 'public', 'expat', 'private']),
+			getsRecommended(['public', 'expat', 'private', 'other']),
 			cannotUseParentsInsurance,
 		]);
 	});
@@ -172,7 +172,7 @@ describe('A working student', () => {
 			monthlyIncome: taxes.maxMinijobIncome,
 		}, [
 			hasStudentTariff,
-			getsRecommended(['free', 'public', 'expat', 'private']),
+			getsRecommended(['public', 'expat', 'private', 'other']),
 			canUseSpouseInsurance,
 			canUseParentsInsurance,
 		]);
@@ -216,7 +216,7 @@ describe('A working student', () => {
 					hasMinijobTariffWithPflegeversicherungSurcharge,
 					canUseSpouseInsurance,
 					cannotUseParentsInsurance,
-					getsRecommended(['free', 'expat', 'public', 'private']),
+					getsRecommended(['expat', 'public', 'private', 'other']),
 				]);
 			});
 		});
@@ -251,7 +251,7 @@ describe('A working student', () => {
 					monthlyIncome: taxes.maxMinijobIncome,
 					age: 30,
 				}, [
-					getsRecommended(['free', 'expat', 'private']),
+					getsRecommended(['expat', 'private', 'other']),
 				]);
 			});
 		});
@@ -442,7 +442,7 @@ describe('An employee', () => {
 				hasGermanPublicHealthInsurance: true,
 			}, [
 				hasMinijobTariff,
-				getsRecommended(['free', 'public']),
+				getsRecommended(['public', 'other']),
 				...minijobTests,
 			]);
 		});
@@ -453,14 +453,14 @@ describe('An employee', () => {
 				hasEUPublicHealthInsurance: true,
 			}, [
 				hasMinijobTariff,
-				getsRecommended(['free', 'public', 'expat']),
+				getsRecommended(['public', 'expat', 'other']),
 				...minijobTests,
 			]);
 		});
 
 		describe('without public health insurance', () => {
 			testInsuranceOptions(minijobEmployee, [
-				getsRecommended(['free', 'expat']),
+				getsRecommended(['expat', 'other']),
 				...minijobTests,
 			]);
 		});
@@ -596,7 +596,7 @@ describe('A freelancer', () => {
 		}, [
 			cannotJoinKSK,
 			doesNotEarnEnoughForPrivate,
-			getsRecommended(['free', 'expat', 'public']),
+			getsRecommended(['expat', 'public', 'other']),
 		]);
 	});
 
@@ -607,7 +607,7 @@ describe('A freelancer', () => {
 		}, [
 			paysMinimumSelfEmployedAmount,
 			doesNotEarnEnoughForPrivate,
-			getsRecommended(['free', 'expat', 'public', 'other']),
+			getsRecommended(['expat', 'public', 'other']),
 			canUseSpouseInsurance,
 			canUseParentsInsurance,
 			...freelancerTests,
@@ -699,7 +699,7 @@ describe('An unemployed person', () => {
 		}, [
 			...unemployedTests,
 			canUseEHIC,
-			getsRecommended(['free', 'expat', 'public']),
+			getsRecommended(['expat', 'public', 'other']),
 			paysMinimumSelfPayAmount,
 		]);
 	});
@@ -711,7 +711,7 @@ describe('An unemployed person', () => {
 		}, [
 			...unemployedTests,
 			cannotUseEHIC,
-			getsRecommended(['free', 'public']),
+			getsRecommended(['public', 'other']),
 			paysMinimumSelfPayAmount,
 		]);
 	});
@@ -720,7 +720,7 @@ describe('An unemployed person', () => {
 		testInsuranceOptions(unemployed, [
 			...unemployedTests,
 			cannotUseEHIC,
-			getsRecommended(['free', 'expat']),
+			getsRecommended(['expat', 'other']),
 		]);
 	});
 
@@ -730,7 +730,7 @@ describe('An unemployed person', () => {
 			isApplyingForFirstVisa: true,
 		}, [
 			cannotGetFreeInsuranceThroughSocialBenefits,
-			getsRecommended(['free', 'expat']),
+			getsRecommended(['expat', 'other']),
 		]);
 	});
 
@@ -740,7 +740,7 @@ describe('An unemployed person', () => {
 			age: 23,
 			hasEUPublicHealthInsurance: true,
 		}, [
-			getsRecommended(['free', 'expat', 'public']),
+			getsRecommended(['expat', 'public', 'other']),
 			paysMinimumSelfPayAmountWithSurcharge,
 			cannotUseParentsInsurance,
 		]);
@@ -755,7 +755,7 @@ describe('An unemployed person', () => {
 			}, [
 				canUseSpouseInsurance,
 				cannotUseParentsInsurance,
-				getsRecommended(['free', 'public', 'expat']),
+				getsRecommended(['public', 'expat', 'other']),
 			]);
 		});
 
@@ -767,7 +767,7 @@ describe('An unemployed person', () => {
 			}, [
 				canUseSpouseInsurance,
 				cannotUseParentsInsurance,
-				getsRecommended(['free', 'public']),
+				getsRecommended(['public', 'other']),
 			]);
 		});
 
@@ -778,7 +778,7 @@ describe('An unemployed person', () => {
 			}, [
 				canUseSpouseInsurance,
 				cannotUseParentsInsurance,
-				getsRecommended(['free', 'expat']),
+				getsRecommended(['expat', 'other']),
 			]);
 		});
 	});
@@ -1259,13 +1259,13 @@ function canGetFreeInsuranceThroughSocialBenefits(output){
 	console.trace(output)
 	it('can get free health insurance through social benefits', () => {
 		hasFlag(output, 'social-benefits')();
-		equal(output.free.options.find(o => o.id === 'social-benefits').id, 'social-benefits');
+		equal(output.other.options.find(o => o.id === 'social-benefits').id, 'social-benefits');
 	});
 }
 function cannotGetFreeInsuranceThroughSocialBenefits(output){
 	it('cannot get free health insurance through social benefits', () => {
 		notHasFlag(output, 'social-benefits')();
-		equal(output.free.options.find(o => o.id === 'social-benefits'), undefined);
+		equal(output.other.options.find(o => o.id === 'social-benefits'), undefined);
 	});
 }
 

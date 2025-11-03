@@ -59,9 +59,9 @@ function calculateTax(yearlyIncome, {
 	}
 	else if(fixedHealthInsuranceCost != null) {
 		// Private health insurance, user-defined price
-		// Note: This is a gross oversimplification for private health insurance, but there's no way to calculate the real number.
-		const personalContributionRate = cheapestGkv.baseContribution.personalRate / cheapestGkv.baseContribution.totalRate;
-		result.healthInsurance = fixedHealthInsuranceCost * 12 * personalContributionRate;
+		const maxEmployerContribution = customHealthInsurance.total.employerContribution;
+		const employerContribution = Math.min(maxEmployerContribution, fixedHealthInsuranceCost / 2);
+		result.healthInsurance = (fixedHealthInsuranceCost - employerContribution) * 12;
 	}
 	else {
 		// Public health insurance, custom zusatzbeitrag

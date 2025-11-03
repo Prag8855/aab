@@ -541,45 +541,6 @@ function getHealthInsuranceOptions({
 	}
 
 	/***************************************************
-	* Free options
-	***************************************************/
-
-	output.free = {
-		id: 'free',
-		name: 'Free health insurance',
-		eligible: false,
-		description: '',
-		options: [],
-	};
-
-	if(canHaveFamilienversicherungFromSpouse(occupation, monthlyIncome, isMarried)){
-		output.flags.add('familienversicherung');
-		output.flags.add('familienversicherung-spouse');
-	}
-	if(canHaveFamilienversicherungFromParents(occupation, monthlyIncome, age)){
-		output.flags.add('familienversicherung');
-		output.flags.add('familienversicherung-parents');
-	}
-	if(output.flags.has('familienversicherung')){  // Combined option for both Familienversicherung types
-		output.free.options.push({ id: 'familienversicherung' });
-	}
-
-	if(canBePaidBySocialBenefits(occupation, monthlyIncome, isApplyingForFirstVisa)){
-		output.flags.add('social-benefits');
-		output.free.options.push({ id: 'social-benefits' });
-	}
-
-	if(canHaveEHIC(hasEUPublicHealthInsurance, hasGermanPublicHealthInsurance, monthlyIncome)){
-		output.flags.add('ehic');
-		output.free.options.push({ id: 'ehic' });
-	}
-
-	if(output.free.options.length){
-		output.flags.add('free');
-		output.free.eligible = true;
-	}
-
-	/***************************************************
 	* Expat health insurance
 	***************************************************/
 
@@ -606,14 +567,7 @@ function getHealthInsuranceOptions({
 		name: 'Public health insurance',
 		eligible: false,
 		description: '',
-		options: gkvOptions({
-			age,
-			childrenCount,
-			customZusatzbeitrag,
-			hoursWorkedPerWeek,
-			monthlyIncome,
-			occupation,
-		}),
+		options: [],
 	}
 
 	if(occupations.isStudent(occupation)){
@@ -623,8 +577,16 @@ function getHealthInsuranceOptions({
 	}
 
 	if(canHavePublicHealthInsurance(occupation, monthlyIncome, hoursWorkedPerWeek, age, hasEUPublicHealthInsurance)){
-		output.public.eligible = true;
 		output.flags.add('public');
+		output.public.eligible = true;
+		output.public.options = gkvOptions({
+			age,
+			childrenCount,
+			customZusatzbeitrag,
+			hoursWorkedPerWeek,
+			monthlyIncome,
+			occupation,
+		});
 
 		const tariff = gkvTariff(age, occupation, monthlyIncome, hoursWorkedPerWeek);
 		output.flags.add(`public-tariff-${tariff}`);
@@ -699,10 +661,43 @@ function getHealthInsuranceOptions({
 	};
 
 	if(canHaveKSK(occupation, monthlyIncome, hoursWorkedPerWeek)){
-		output.other.eligible = true;
 		output.other.options.push(kskOption(monthlyIncome, age, childrenCount));
 		output.flags.add('ksk');
 	};
+
+
+	/***************************************************
+	* Free options
+	***************************************************/
+
+	if(canHaveFamilienversicherungFromSpouse(occupation, monthlyIncome, isMarried)){
+		output.flags.add('familienversicherung');
+		output.flags.add('familienversicherung-spouse');
+	}
+	if(canHaveFamilienversicherungFromParents(occupation, monthlyIncome, age)){
+		output.flags.add('familienversicherung');
+		output.flags.add('familienversicherung-parents');
+	}
+	if(output.flags.has('familienversicherung')){  // Combined option for both Familienversicherung types
+		output.other.options.push({ id: 'familienversicherung' });
+		output.flags.add('free');
+	}
+
+	if(canBePaidBySocialBenefits(occupation, monthlyIncome, isApplyingForFirstVisa)){
+		output.flags.add('social-benefits');
+		output.flags.add('free');
+		output.other.options.push({ id: 'social-benefits' });
+	}
+
+	if(canHaveEHIC(hasEUPublicHealthInsurance, hasGermanPublicHealthInsurance, monthlyIncome)){
+		output.flags.add('ehic');
+		output.flags.add('free');
+		output.other.options.push({ id: 'ehic' });
+	}
+
+	if(output.other.options.length){
+		output.other.eligible = true;
+	}
 
 
 	/***************************************************
@@ -762,7 +757,6 @@ function getHealthInsuranceOptions({
 		output.other.options.sort((a, b) => a.total.personalContribution - b.total.personalContribution);
 	}
 
-	output.asList.unshift(output.free);
 	output.asList.push(output.other);
 	output.asList = output.asList.filter(o => o.eligible);
 
