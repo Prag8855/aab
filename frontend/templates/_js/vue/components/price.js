@@ -12,7 +12,7 @@ Vue.component('price', {
     },
     computed: {
         showRange(){
-            return this.value(this.from ?? this.amount) === this.value(this.to)
+            return this.to && this.value(this.from ?? this.amount) !== this.value(this.to)
         }
     },
     methods: { 
@@ -25,8 +25,7 @@ Vue.component('price', {
     },
     template: `
         <span class="price">
-            €<span class="currency" :data-currencies="tooltipText(from ?? amount)">{{ value(from ?? amount) }}</span><template v-if="showRange">&ndash;<span class="currency" :data-currencies="tooltipText(to)">{{ value(to) }}</span></template>
-            <small v-if="perMonth">&nbsp;/&nbsp;month</small>
+            €<span class="currency" :data-currencies="tooltipText(from ?? amount)">{{ value(from ?? amount) }}</span><template v-if="showRange">&ndash;<span class="currency" :data-currencies="tooltipText(to)">{{ value(to) }}</span></template><small v-if="perMonth">&nbsp;/&nbsp;month</small>
         </span>
     `,
 });
