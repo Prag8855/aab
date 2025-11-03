@@ -631,7 +631,7 @@ Vue.component('health-insurance-calculator', {
 							{% endraw %}{% include "_css/icons/help.svg" %}{% raw %}
 							<div>
 								<h3 :id="uid('h-askOurExpert')">Ask our expert</h3>
-								<p>Let {{ broker.name }} find the best health insurance for you. Ask {{ broker.him }} anything via WhatsApp or email. It's 100% free.</p>
+								<p>Let {{ broker.name }} find the best health insurance for you. Ask {{ broker.him }} questions via WhatsApp or email. It's 100% free.</p>
 							</div>
 						</button>
 					</li>
