@@ -290,7 +290,8 @@ Vue.component('health-insurance-options', {
 					</li>
 				</ul>
 
-				<public-health-insurance-options @select="selectOption" v-bind="$props" v-if="!hasMultipleOptions"></public-health-insurance-options>
+				<public-health-insurance-options @select="selectOption" v-bind="$props" v-if="!hasMultipleOptions && results.public.eligible"></public-health-insurance-options>
+				<expat-health-insurance-options @select="selectOption" v-bind="$props" v-if="!hasMultipleOptions && results.expat.eligible"></expat-health-insurance-options>
 
 				<template v-if="hasMultipleOptions">
 					<div class="two-columns" v-if="prosAndCons(option.id)">

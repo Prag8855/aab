@@ -5,10 +5,15 @@
 {% js %}{% raw %}
 Vue.component('expat-health-insurance-options', {
     mixins: [healthInsuranceOptionsMixin],
+    computed: {
+        isExpatOnlyOption() {
+            return this.results.asList[0].id === 'expat' && this.results.asList.length === 1;
+        },
+    },
     template: `
         <div class="health-insurance-options">
-            <h2>Expat health insurance options</h2>
-            <p>These options are valid for a <glossary>National Visa</glossary> application.</p>
+            <h2 v-if="!isExpatOnlyOption">Expat health insurance options</h2>
+            <p v-if="!isExpatOnlyOption">These options are valid for a <glossary>National Visa</glossary> application.</p>
             <ul class="buttons list">
                 <li>
                     <a href="/out/feather-expats" target="_blank" class="recommended">
