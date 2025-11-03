@@ -326,7 +326,6 @@ function pkvOptions({occupation, monthlyIncome, hoursWorkedPerWeek, age, childre
 			krankentagegeld,
 			krankentagegeldPayoutPerDay,
 			pflegeversicherung,
-			costPerChild,
 			total: {
 				totalContribution,
 				employerContribution,

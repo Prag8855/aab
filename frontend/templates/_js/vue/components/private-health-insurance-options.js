@@ -14,6 +14,7 @@ Vue.component('private-health-insurance-options', {
     template: `
         <div class="health-insurance-options">
             <h2>Private health insurance options</h2>
+            <p>Here are two options. One is really cheap, and one is really good.</p>
             <hr>
             <div class="two-columns private-cost">
                 <div>
@@ -40,8 +41,6 @@ Vue.component('private-health-insurance-options', {
 
             <details class="cost-explanation">
                 <summary>Cost explanation</summary>
-                <p>This shows two plans from Hallesche. There are hundreds of other options, but the price range will be similar.</p>
-                <hr>
                 <details>
                     <summary class="price-line">
                         Base cost
@@ -68,19 +67,19 @@ Vue.component('private-health-insurance-options', {
                         <price :amount="option('premium').pflegeversicherung" per-month></price>
                     </summary>
                     <p>
-                        It pays for your healthcare when you are older. It's not optional.
+                        It pays for your healthcare when you are older. It's required.
                     </p>
                 </details>
-                <details>
+                <details v-if="childrenCount">
                     <summary class="price-line">
                         Insurance for your {{ childOrChildren }}
                         <price
-                            :from="option('basic').costPerChild * childrenCount"
-                            :to="option('premium').costPerChild * childrenCount"
+                            :from="option('basic').total.childrenCost"
+                            :to="option('premium').total.childrenCost"
                             per-month></price>
                     </summary>
                     <p>
-                        You must pay extra to cover your children.
+                        With private health insurance, you must pay extra to cover your children.
                     </p>
                 </details>
                 <details class="total" v-if="option('basic').total.employerContribution">
@@ -104,9 +103,10 @@ Vue.component('private-health-insurance-options', {
                     <p>This is what you pay every month for health insurance. This is a <glossary term="steuerlich absetzbar">tax-deductible</glossary> expense.</p>
                 </details>
             </details>
+
             <hr>
 
-            <p>Do not choose private health insurance yourself. There are hundreds of other options. Let our expert find the best one for you. It's 100% free.</p>
+            <p>There are hundreds of other options. Let our expert find the best one for you. It's 100% free.</p>
         </div>
     `
 });

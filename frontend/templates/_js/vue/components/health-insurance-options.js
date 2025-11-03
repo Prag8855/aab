@@ -120,7 +120,7 @@ Vue.component('health-insurance-options', {
 			const output = {};
 			if(this.results.private.eligible){
 				if(this.minCostByOption.public > this.minCostByOption.private){
-					output.private = "It's cheaper because you are young and you have a good income.";
+					output.private = "It's cheaper because you are young and you have a good income. You can get better coverage <em>and</em> pay less, so it's a good option.";
 					output.public = "It's more expensive because it costs a percentage of your income.";
 				}
 				else {
@@ -199,17 +199,20 @@ Vue.component('health-insurance-options', {
 		eur(num) {
 			return formatCurrency(num, false, '€', false);
 		},
-		readMoreUrl(id){ return `/guides/german-health-insurance#${id}-health-insurance` },
+		learnMoreUrl(id){ return `/guides/german-health-insurance#${id}-health-insurance` },
 
 		prosAndCons(insuranceType){
 			if(insuranceType === 'public'){
+				const pros = [
+					"The cost adjusts to your income",
+					"It covers all necessary healthcare",
+				];
+				if(this.childrenCount){
+					pros.push(`It covers your ${this.childOrChildren} for free`);
+				}
 				return {
-					"pros": [
-						"The cost adjusts to your income",
-						"It covers all necessary healthcare",
-						`It covers your ${this.childOrChildren} for free`,
-					],
-					"cons": [
+					pros,
+					cons: [
 						"Doctor appointments are harder to get",
 						"Good dental coverage costs extra",
 					],
@@ -217,11 +220,11 @@ Vue.component('health-insurance-options', {
 			}
 			else if(insuranceType === 'private'){
 				return {
-					"pros": [
+					pros: [
 						"Choose the coverage you want",
 						"Get doctor appointments faster",
 					],
-					"cons": [
+					cons: [
 						"Covering your children costs extra",
 						"It costs the same if you lose your job",
 					],
@@ -229,11 +232,11 @@ Vue.component('health-insurance-options', {
 			}
 			else if(insuranceType === 'expat'){
 				return {
-					"pros": [
+					pros: [
 						"Cheapest option",
 						"Easy to cancel",
 					],
-					"cons": [
+					cons: [
 						"Very limited coverage",
 						"Not a good long-term option",
 					],
@@ -304,7 +307,7 @@ Vue.component('health-insurance-options', {
 					</div>
 
 					<div class="buttons bar" v-if="['public', 'private', 'expat'].includes(option.id)">
-						<a class="button" :href="readMoreUrl(option.id)" target="_blank">Read more</a>
+						<a class="button" :href="learnMoreUrl(option.id)" target="_blank">Learn more</a>
 						<button class="button" @click="selectOption(option.id + 'Options')">See options <i class="icon right"></i></button>
 					</div>
 				</template>

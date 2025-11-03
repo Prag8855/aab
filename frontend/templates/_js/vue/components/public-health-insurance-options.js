@@ -78,7 +78,7 @@ Vue.component('public-health-insurance-options', {
     template: `
         <div class="health-insurance-options">
             <h2 v-if="!isPublicOnlyOption">Public health insurance options</h2>
-            <p>You must choose an insurer. There are dozens of insurers, but their cost and coverage are almost the same.</p>
+            <p>You must choose an insurer. Their cost and coverage are almost the same, but I recommend English-speaking insurers.</p>
 
             <ul class="buttons list">
                 <li>
@@ -86,7 +86,7 @@ Vue.component('public-health-insurance-options', {
                         {% endraw %}{% include "_css/icons/health-insurance/logo-tk.svg" %}{% raw %}
                         <div>
                             <h3 v-text="option('tk').name"></h3>
-                            <p>The biggest public health insurer. Great customer service. They speak English.</p>
+                            <p>The biggest public health insurer. They are a reliable option, and they speak English.</p>
                         </div>
                         <price :amount="option('tk').total.personalContribution" per-month></price>
                     </a>
@@ -96,7 +96,7 @@ Vue.component('public-health-insurance-options', {
                         {% endraw %}{% include "_css/icons/health-insurance/logo-barmer.svg" %}{% raw %}
                         <div>
                             <h3 v-text="option('barmer').name"></h3>
-                            <p>The second biggest health insurer. They speak English.</p>
+                            <p>The second biggest health insurer. They also speak English.</p>
                         </div>
                         <price :amount="option('barmer').total.personalContribution" per-month></price>
                     </a>
@@ -139,6 +139,10 @@ Vue.component('public-health-insurance-options', {
                     </template>
                     <template v-else-if="isNotWerkstudent && hoursWorkedPerWeek <= 20">
                         You can't get the student tariff because your income is too high.
+                    </template>
+
+                    <template v-if="childrenCount">
+                        It covers your {{ childOrChildren }} <glossary term="Familienversicherung">for free</glossary>.
                     </template>
                 </p>
                 <hr>
