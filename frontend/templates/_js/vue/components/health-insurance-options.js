@@ -24,7 +24,8 @@ Vue.component('health-insurance-options', {
 			}
 		},
 
-		isStudent(){ return occupations.isStudent(this.occupation) },
+			return output;
+		},
 
 		gkvOptionsParams(){
 			const p = this.$props;
@@ -78,7 +79,7 @@ Vue.component('health-insurance-options', {
 			if(this.occupation === 'azubi'){
 				return this.azubiClarification;
 			}
-			else if(this.isStudent){
+			else if(occupations.isStudent(this.occupation)){
 				return this.studentClarification;
 			}
 			else if(occupations.isSelfEmployed(this.occupation)){
@@ -87,7 +88,7 @@ Vue.component('health-insurance-options', {
 			else if(occupations.isEmployed(this.occupation)){
 				return this.employeeClarification;
 			}
-			else if(this.isUnemployed){
+			else if(occupations.isUnemployed(this.occupation)){
 				return this.unemployedClarification;
 			}
 			return {};
@@ -248,7 +249,8 @@ Vue.component('health-insurance-options', {
 				return {
 					"pros": [
 						"The cost adjusts to your income",
-						`Cover your ${this.childrenCount === 1 ? 'child' : 'children'} for free.`,
+						"It covers all necessary healthcare",
+						`It covers your ${this.childOrChildren} for free`,
 					],
 					"cons": [
 						"Doctor appointments are harder to get",
