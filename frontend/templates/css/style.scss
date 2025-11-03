@@ -1108,6 +1108,7 @@ progress{
     accent-color: var(--c-highlight);
     appearance: none;
     -webkit-appearance: none;
+    overflow: hidden; // Otherwise border radius does not work in Chrome
 
     &::-webkit-progress-bar{
         background-color: var(--c-border-box);
@@ -2392,7 +2393,6 @@ collapsible, letter-generator, feedback-residence-permit, health-insurance-calcu
             + progress{
                 margin: calc(var(--xl) * -1) 0 var(--xl) calc(var(--w-page-border) * -1);
                 width: calc(100% + 2 * var(--w-page-border));
-                
             }
 
             &[hidden] + progress{
