@@ -159,7 +159,7 @@ Vue.component('health-insurance-options', {
 					output.private = "It might be <strong>better and cheaper</strong> than public health insurance, because you have a high income.";
 					output.public = "This is the <strong>safest option</strong>, because the cost is proportional to your income."
 				}
-				else if((this.monthlyIncome * 12) >= 30000){							
+				else if(this.monthlyIncome >= healthInsurance.minPrivateMonthlyIncome){							
 					output.private = "Choose private health insurance to get <strong>better coverage</strong> and faster doctor appointments."
 				}
 				else{

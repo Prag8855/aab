@@ -670,6 +670,9 @@ function getHealthInsuranceOptions({
 
 	if(canHavePrivateHealthInsurance(occupation, monthlyIncome, hoursWorkedPerWeek, age)){
 		output.flags.add('private');
+		if(monthlyIncome < healthInsurance.minPrivateMonthlyIncome){
+			output.flags.add('private-income-too-low');
+		}
 		output.private.eligible = true;
 	}
 
@@ -725,7 +728,7 @@ function getHealthInsuranceOptions({
 			// Private makes sense from about €60000 per year
 			output.asList = [output.private, output.public, output.expat];
 		}
-		else if(monthlyIncome * 12 > 30000){
+		else if(monthlyIncome > healthInsurance.minPrivateMonthlyIncome){
 			// Public makes sense for unstable businesses
 			// Expat makes sense if non-EU
 			output.asList = [output.public, output.private, output.expat];

@@ -429,6 +429,7 @@ describe('An employee', () => {
 		const minijobTests = [
 			canUseSpouseInsurance,
 			canUseParentsInsurance,
+			mightNotEarnEnoughForPrivate,
 			...employeeTests,
 		];
 
@@ -591,6 +592,7 @@ describe('A freelancer', () => {
 			monthlyIncome: (healthInsurance.kskMinimumIncome / 12) - 1,
 		}, [
 			cannotJoinKSK,
+			mightNotEarnEnoughForPrivate,
 			getsRecommended(['free', 'expat', 'public', 'private']),
 		]);
 	});
@@ -601,6 +603,7 @@ describe('A freelancer', () => {
 			monthlyIncome: healthInsurance.maxFamilienversicherungIncome,
 		}, [
 			paysMinimumSelfEmployedAmount,
+			mightNotEarnEnoughForPrivate,
 			getsRecommended(['free', 'expat', 'public', 'private', 'other']),
 			canUseSpouseInsurance,
 			canUseParentsInsurance,
@@ -615,9 +618,21 @@ describe('A freelancer', () => {
 		}, [
 			hasSelfEmployedTariff,
 			paysMinimumSelfEmployedAmount,
+			mightNotEarnEnoughForPrivate,
 			getsRecommended(['expat', 'public', 'private', 'other']),
 			cannotUseSpouseInsurance,
 			cannotUseParentsInsurance,
+			...freelancerTests,
+		]);
+	});
+
+	describe(`with a low income (€1500/m)`, () => {
+		testInsuranceOptions({
+			...freelancer,
+			monthlyIncome: 1500,
+		}, [
+			mightNotEarnEnoughForPrivate,
+			getsRecommended(['expat', 'public', 'private', 'other']),
 			...freelancerTests,
 		]);
 	});
@@ -627,6 +642,7 @@ describe('A freelancer', () => {
 			...freelancer,
 			monthlyIncome: healthInsurance.minFreiwilligMonthlyIncome / 2,
 		}, [
+			earnsEnoughForPrivate,
 			getsRecommended(['public', 'private', 'expat', 'other']),
 			...freelancerTests,
 		]);
@@ -638,6 +654,7 @@ describe('A freelancer', () => {
 			monthlyIncome: healthInsurance.maxMonthlyIncome,
 		}, [
 			paysMaximumSelfEmployedAmount,
+			earnsEnoughForPrivate,
 			getsRecommended(['private', 'public', 'expat', 'other']),
 			...freelancerTests,
 		]);
@@ -649,6 +666,7 @@ describe('A freelancer', () => {
 			monthlyIncome: healthInsurance.maxMonthlyIncome * 2,
 		}, [
 			paysMaximumSelfEmployedAmount,
+			earnsEnoughForPrivate,
 			getsRecommended(['private', 'public', 'expat', 'other']),
 			...freelancerTests,
 		]);
@@ -1252,6 +1270,13 @@ function canUseEHIC(output){
 }
 function cannotUseEHIC(output){
 	it('cannot use their EHIC card', notHasFlag(output, 'ehic'));
+}
+
+function earnsEnoughForPrivate(output){
+	it('earns enough for private health insurance', notHasFlag(output, 'private-income-too-low'));
+}
+function mightNotEarnEnoughForPrivate(output){
+	it('might not earn enough for private health insurance', hasFlag(output, 'private-income-too-low'));
 }
 
 {% endjs %}

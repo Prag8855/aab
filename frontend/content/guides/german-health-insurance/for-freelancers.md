@@ -31,7 +31,7 @@ There are 3 long-term health insurance options:
 - **[Private health insurance](/glossary/private%20Krankenversicherung)**  
     This option makes sense if you make over €60,000 per year. If you join at a young age, it's better and cheaper than [public health insurance](/glossary/gesetzliche%20Krankenversicherung).[^8] [Ask my insurance expert](/guides/german-health-insurance#insurance-brokers) if it makes sense for you. If you choose private health insurance, it's really hard to change your mind later.
 - **[[Expat health insurance]]**  
-    If you make less than €30,000 per year, and you can't get [public health insurance](/glossary/gesetzliche%20Krankenversicherung), this is your only option.[^2] It's the cheapest option, but the coverage is bad, and [it's a bad long-term option](/guides/german-health-insurance#expat-health-insurance). Switch to public or private health insurance as soon as you can.[^6]
+    If you make less than €{{PKV_MIN_INCOME|cur}} per year, and you can't get [public health insurance](/glossary/gesetzliche%20Krankenversicherung), this is your only option.[^2] It's the cheapest option, but the coverage is bad, and [it's a bad long-term option](/guides/german-health-insurance#expat-health-insurance). Switch to public or private health insurance as soon as you can.[^6]
 
 **[What is the best option? ➞](/guides/german-health-insurance#what-is-the-best-option)**
 

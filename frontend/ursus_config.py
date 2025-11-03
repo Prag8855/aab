@@ -151,6 +151,9 @@ ctx["GKV_NEBENJOB_MAX_INCOME"] = ctx["BEZUGSGROESSE"] * Decimal("0.75")
 # Jahresarbeitsentgeltgrenze or Versicherungspflichtgrenze - Above this income (€/y), you are freiwillig versichert
 ctx["GKV_FREIWILLIG_VERSICHERT_MIN_INCOME"] = fail_on("2025-12-31", 6150 * 12)
 
+# If you earn less than that (€/y), private health insurers usually reject you
+ctx["PKV_MIN_INCOME"] = fail_on("2026-12-31", 30000)
+
 # Above this income (€/m), you can't have Familienversicherung
 ctx["GKV_FAMILIENVERSICHERUNG_MAX_INCOME"] = (Decimal(1 / 7) * ctx["BEZUGSGROESSE"]).normalize()  # § 10 SGB V
 

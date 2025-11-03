@@ -7,6 +7,7 @@ const healthInsurance = {
 	studentRate: {{ GKV_BASE_RATE_STUDENT }}/100,
 	minMonthlyIncome: {{ GKV_MIN_INCOME }},
 	maxMonthlyIncome: {{ GKV_MAX_INCOME }}/12,
+	minPrivateMonthlyIncome: {{ PKV_MIN_INCOME }}/12, // Below this amount you get rejected
 	minFreiwilligMonthlyIncome: {{ GKV_FREIWILLIG_VERSICHERT_MIN_INCOME }}/12,
 	maxFamilienversicherungIncome: {{ GKV_FAMILIENVERSICHERUNG_MAX_INCOME }},
 	maxMidijobIncome: {{ MIDIJOB_MAX_INCOME }},
