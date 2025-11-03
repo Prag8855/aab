@@ -314,7 +314,8 @@ function pkvOptions({occupation, monthlyIncome, hoursWorkedPerWeek, age, childre
 		};
 
 		const baseContribution = tariff.baseContribution[age];
-		const totalContribution = baseContribution + krankentagegeld + pflegeversicherung + (costPerChild * childrenCount);
+		const childrenCost = costPerChild * childrenCount;
+		const totalContribution = baseContribution + krankentagegeld + pflegeversicherung + childrenCost;
 		const employerContribution = Math.min(maxEmployerContribution, totalContribution / 2);
 
 		return {
@@ -329,6 +330,7 @@ function pkvOptions({occupation, monthlyIncome, hoursWorkedPerWeek, age, childre
 			total: {
 				totalContribution,
 				employerContribution,
+				childrenCost,
 				personalContribution: totalContribution - employerContribution,
 			},
 		};
@@ -459,10 +461,16 @@ function canHavePublicHealthInsurance(occupation, monthlyIncome, hoursWorkedPerW
 
 function canHavePrivateHealthInsurance(occupation, monthlyIncome, hoursWorkedPerWeek, age){
 	return (
-	 	!isPflichtversichert(occupation, monthlyIncome, hoursWorkedPerWeek, age)
-		|| isWerkstudent(occupation, monthlyIncome, hoursWorkedPerWeek)
-		|| occupations.isSelfEmployed(occupation)
-		|| occupations.isUnemployed(occupation)
+		(
+			monthlyIncome > healthInsurance.minPrivateMonthlyIncome // PKV insurers reject people with low incomes
+			|| occupations.isStudent(occupation) // Students get special private health insurance pricing that is less income-dependent
+		)
+		&& (
+		 	!isPflichtversichert(occupation, monthlyIncome, hoursWorkedPerWeek, age)
+			|| isWerkstudent(occupation, monthlyIncome, hoursWorkedPerWeek)
+			|| occupations.isSelfEmployed(occupation)
+			|| occupations.isUnemployed(occupation)
+		)
 	)
 }
 
@@ -659,21 +667,22 @@ function getHealthInsuranceOptions({
 		name: 'Private health insurance',
 		eligible: false,
 		description: '',
-		options: pkvOptions({
+		options: [],
+	}
+
+	if(canHavePrivateHealthInsurance(occupation, monthlyIncome, hoursWorkedPerWeek, age)){
+		output.flags.add('private');
+		output.private.eligible = true;
+		output.private.options = pkvOptions({
 			age,
 			childrenCount,
 			hoursWorkedPerWeek,
 			monthlyIncome,
 			occupation,
-		}),
+		});
 	}
-
-	if(canHavePrivateHealthInsurance(occupation, monthlyIncome, hoursWorkedPerWeek, age)){
-		output.flags.add('private');
-		if(monthlyIncome < healthInsurance.minPrivateMonthlyIncome){
-			output.flags.add('private-income-too-low');
-		}
-		output.private.eligible = true;
+	else if(monthlyIncome < healthInsurance.minPrivateMonthlyIncome && !occupations.isStudent(occupation)){
+		output.flags.add('private-income-too-low');
 	}
 
 

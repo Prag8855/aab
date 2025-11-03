@@ -23,6 +23,7 @@ describe('An unemployed student', () => {
 		canUseSpouseInsurance,
 		canUseParentsInsurance,
 		cannotJoinKSK,
+		earnsEnoughForPrivate,
 	];
 
 	testInsuranceOptions({
@@ -136,6 +137,7 @@ describe('A working student', () => {
 		cannotUseParentsInsurance,
 		cannotUseEHIC,
 		cannotJoinKSK,
+		earnsEnoughForPrivate,
 	];
 
 	describe('working 20 hours per week', () => {
@@ -268,6 +270,7 @@ describe('A self-employed student', () => {
 		cannotUseSpouseInsurance,
 		cannotUseParentsInsurance,
 		cannotUseEHIC,
+		earnsEnoughForPrivate,
 	];
 
 	describe('working 20 hours per week', () => {
@@ -429,7 +432,7 @@ describe('An employee', () => {
 		const minijobTests = [
 			canUseSpouseInsurance,
 			canUseParentsInsurance,
-			mightNotEarnEnoughForPrivate,
+			doesNotEarnEnoughForPrivate,
 			...employeeTests,
 		];
 
@@ -439,7 +442,7 @@ describe('An employee', () => {
 				hasGermanPublicHealthInsurance: true,
 			}, [
 				hasMinijobTariff,
-				getsRecommended(['free', 'public', 'private']),
+				getsRecommended(['free', 'public']),
 				...minijobTests,
 			]);
 		});
@@ -450,14 +453,14 @@ describe('An employee', () => {
 				hasEUPublicHealthInsurance: true,
 			}, [
 				hasMinijobTariff,
-				getsRecommended(['free', 'public', 'expat', 'private']),
+				getsRecommended(['free', 'public', 'expat']),
 				...minijobTests,
 			]);
 		});
 
 		describe('without public health insurance', () => {
 			testInsuranceOptions(minijobEmployee, [
-				getsRecommended(['free', 'expat', 'private']),
+				getsRecommended(['free', 'expat']),
 				...minijobTests,
 			]);
 		});
@@ -592,8 +595,8 @@ describe('A freelancer', () => {
 			monthlyIncome: (healthInsurance.kskMinimumIncome / 12) - 1,
 		}, [
 			cannotJoinKSK,
-			mightNotEarnEnoughForPrivate,
-			getsRecommended(['free', 'expat', 'public', 'private']),
+			doesNotEarnEnoughForPrivate,
+			getsRecommended(['free', 'expat', 'public']),
 		]);
 	});
 
@@ -603,8 +606,8 @@ describe('A freelancer', () => {
 			monthlyIncome: healthInsurance.maxFamilienversicherungIncome,
 		}, [
 			paysMinimumSelfEmployedAmount,
-			mightNotEarnEnoughForPrivate,
-			getsRecommended(['free', 'expat', 'public', 'private', 'other']),
+			doesNotEarnEnoughForPrivate,
+			getsRecommended(['free', 'expat', 'public', 'other']),
 			canUseSpouseInsurance,
 			canUseParentsInsurance,
 			...freelancerTests,
@@ -618,8 +621,8 @@ describe('A freelancer', () => {
 		}, [
 			hasSelfEmployedTariff,
 			paysMinimumSelfEmployedAmount,
-			mightNotEarnEnoughForPrivate,
-			getsRecommended(['expat', 'public', 'private', 'other']),
+			doesNotEarnEnoughForPrivate,
+			getsRecommended(['expat', 'public', 'other']),
 			cannotUseSpouseInsurance,
 			cannotUseParentsInsurance,
 			...freelancerTests,
@@ -631,8 +634,8 @@ describe('A freelancer', () => {
 			...freelancer,
 			monthlyIncome: 1500,
 		}, [
-			mightNotEarnEnoughForPrivate,
-			getsRecommended(['expat', 'public', 'private', 'other']),
+			doesNotEarnEnoughForPrivate,
+			getsRecommended(['expat', 'public', 'other']),
 			...freelancerTests,
 		]);
 	});
@@ -686,6 +689,7 @@ describe('An unemployed person', () => {
 		canUseSpouseInsurance,
 		canUseParentsInsurance,
 		cannotJoinKSK,
+		doesNotEarnEnoughForPrivate,
 	];
 
 	describe('with EU public insurance', () => {
@@ -695,7 +699,7 @@ describe('An unemployed person', () => {
 		}, [
 			...unemployedTests,
 			canUseEHIC,
-			getsRecommended(['free', 'expat', 'public', 'private']),
+			getsRecommended(['free', 'expat', 'public']),
 			paysMinimumSelfPayAmount,
 		]);
 	});
@@ -707,7 +711,7 @@ describe('An unemployed person', () => {
 		}, [
 			...unemployedTests,
 			cannotUseEHIC,
-			getsRecommended(['free', 'public', 'private']),
+			getsRecommended(['free', 'public']),
 			paysMinimumSelfPayAmount,
 		]);
 	});
@@ -716,7 +720,7 @@ describe('An unemployed person', () => {
 		testInsuranceOptions(unemployed, [
 			...unemployedTests,
 			cannotUseEHIC,
-			getsRecommended(['free', 'expat', 'private']),
+			getsRecommended(['free', 'expat']),
 		]);
 	});
 
@@ -726,7 +730,7 @@ describe('An unemployed person', () => {
 			isApplyingForFirstVisa: true,
 		}, [
 			cannotGetFreeInsuranceThroughSocialBenefits,
-			getsRecommended(['free', 'expat', 'private']),
+			getsRecommended(['free', 'expat']),
 		]);
 	});
 
@@ -736,7 +740,7 @@ describe('An unemployed person', () => {
 			age: 23,
 			hasEUPublicHealthInsurance: true,
 		}, [
-			getsRecommended(['free', 'expat', 'public', 'private']),
+			getsRecommended(['free', 'expat', 'public']),
 			paysMinimumSelfPayAmountWithSurcharge,
 			cannotUseParentsInsurance,
 		]);
@@ -751,7 +755,7 @@ describe('An unemployed person', () => {
 			}, [
 				canUseSpouseInsurance,
 				cannotUseParentsInsurance,
-				getsRecommended(['free', 'public', 'expat', 'private']),
+				getsRecommended(['free', 'public', 'expat']),
 			]);
 		});
 
@@ -763,7 +767,7 @@ describe('An unemployed person', () => {
 			}, [
 				canUseSpouseInsurance,
 				cannotUseParentsInsurance,
-				getsRecommended(['free', 'public', 'private']),
+				getsRecommended(['free', 'public']),
 			]);
 		});
 
@@ -774,7 +778,7 @@ describe('An unemployed person', () => {
 			}, [
 				canUseSpouseInsurance,
 				cannotUseParentsInsurance,
-				getsRecommended(['free', 'expat', 'private']),
+				getsRecommended(['free', 'expat']),
 			]);
 		});
 	});
@@ -1275,7 +1279,7 @@ function cannotUseEHIC(output){
 function earnsEnoughForPrivate(output){
 	it('earns enough for private health insurance', notHasFlag(output, 'private-income-too-low'));
 }
-function mightNotEarnEnoughForPrivate(output){
+function doesNotEarnEnoughForPrivate(output){
 	it('might not earn enough for private health insurance', hasFlag(output, 'private-income-too-low'));
 }
 
