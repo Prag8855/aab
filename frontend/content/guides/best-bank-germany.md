@@ -36,11 +36,11 @@ The biggest disadvantage: [the required documents](/out/n26-supported-passports)
 
 ### [bunq](/out/bunq)
 
-They are a **good alternative to N26**. They are more expensive, but they [accept more passport types](/out/bunq-supported-passports). They let you open an account quickly, without an *[[Anmeldung]]*.[^55] You must be in Germany when you open the account.[^16] After you open your account, you have 90 days to give them a [proof of residence](/glossary/Anmeldebestätigung) and your [tax ID](/glossary/Steueridentifikationsnummer). They speak English, Dutch, French, German, Italian, Portuguese and Spanish.
+They are a **good alternative to N26**. They are more expensive, but they [accept more passport types](/out/bunq-supported-passports). They let you open an account quickly, without an *[[Anmeldung]]*.[^55] You must be in Germany when you open the account.[^16] After you open your account, you have 90 days to give them a [proof of residence](/glossary/Anmeldebestätigung) and your [tax ID](/glossary/Steueridentifikationsnummer). They speak English, Dutch, French, German, Italian, Portuguese and Spanish. You get a German [[IBAN]].
 
 Creating a bunq account does not create a [Schufa](/glossary/Schufa) record.[^19] A Schufa record can help you [find an apartment](/guides/find-a-flat-in-berlin).
 
-The free account is a little limited. The paid accounts have free ATM withdrawals. If you pay more, you get a German [[IBAN]].
+The free account is a little limited. The paid accounts have free ATM withdrawals.
 
 ### [Wise](/out/wise-account) and Revolut
 
@@ -98,7 +98,7 @@ These banks offer a **free bank account** with no monthly fees:
 - **[N26](/out/n26)**{{ RECOMMENDED }}  
     The best free bank account if you don't speak German. It covers all your basic banking needs.
 - **[bunq](/out/bunq)**  
-    The free account is very limited: no free ATM withdrawals, no payment card, and no German [[IBAN]]. The paid accounts make more sense.
+    The free account is very limited: no free ATM withdrawals and no payment card. The paid accounts make more sense.
 - **[Wise](/out/wise)**
 - **[Revolut](/out/revolut)**
 
