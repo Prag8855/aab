@@ -486,26 +486,6 @@ Vue.component('health-insurance-calculator', {
 				<p v-else>It helps us calculate prices and recommend the right health insurance.</p>
 				<hr>
 				<div class="form-group">
-					<label :for="uid('isApplyingForFirstVisa')">
-						Immigration
-					</label>
-					<checkbox :id="uid('isApplyingForFirstVisa')" v-model="isApplyingForFirstVisa">
-						<div v-if="occupation === 'employee'">
-							I am applying for my first <glossary term="Work Visa">work visa</glossary>, <glossary>Blue Card</glossary> or <glossary term="Chancenkarte">Opportunity Card</glossary>
-						</div>
-						<div v-else-if="isStudent">
-							I am applying for a <glossary term="Student visa">student visa</glossary>
-						</div>
-						<div v-else-if="isSelfEmployed && !isStudent">
-							I am applying for my first <glossary term="Freelance visa">freelance visa</glossary>
-						</div>
-						<div v-else>
-							I am applying for a <glossary>National Visa</glossary> to move to Germany
-						</div>
-					</checkbox>
-				</div>
-				<hr>
-				<div class="form-group">
 					<label :for="uid('age')">
 						Age
 					</label>
@@ -573,6 +553,26 @@ Vue.component('health-insurance-calculator', {
 					</div>
 					<checkbox v-model="worksOver20HoursPerWeek" v-if="occupation === 'studentEmployee'">
 						I work more than 20 hours per week
+					</checkbox>
+				</div>
+				<hr>
+				<div class="form-group">
+					<label :for="uid('isApplyingForFirstVisa')">
+						Immigration
+					</label>
+					<checkbox :id="uid('isApplyingForFirstVisa')" v-model="isApplyingForFirstVisa">
+						<div v-if="occupation === 'employee'">
+							I am applying for my first <glossary term="Work Visa">work visa</glossary>, <glossary>Blue Card</glossary> or <glossary term="Chancenkarte">Opportunity Card</glossary>
+						</div>
+						<div v-else-if="isStudent">
+							I am applying for a <glossary term="Student visa">student visa</glossary>
+						</div>
+						<div v-else-if="isSelfEmployed && !isStudent">
+							I am applying for my first <glossary term="Freelance visa">freelance visa</glossary>
+						</div>
+						<div v-else>
+							I am applying for a <glossary>National Visa</glossary> to move to Germany
+						</div>
 					</checkbox>
 				</div>
 				<hr v-if="askForCurrentInsurance">
