@@ -229,7 +229,7 @@ Vue.component('health-insurance-options', {
 			<h2>Your options</h2>
 			<p v-html="intro" v-if="intro"></p>
 			<ul class="buttons list" v-if="optionsList.length > 1">
-				<li v-for="option in results.asList" v-if="option.eligible && option.id !== 'other'">
+				<li v-for="option in results.asList" v-if="option.eligible && option.id !== 'other'" :key="option.id">
 					<button class="button" @click="selectOption(option.id + 'Options')">
 						<div>
 							<h3 v-text="option.name"></h3>
