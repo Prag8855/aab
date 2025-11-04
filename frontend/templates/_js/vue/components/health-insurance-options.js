@@ -73,7 +73,7 @@ Vue.component('health-insurance-options', {
 		***************************************************/
 
 		clarification(){
-			// There is no Azubi clarification
+			// There is no Azubi or unemployed clarification
 			if(occupations.isStudent(this.occupation)){
 				return this.studentClarification;
 			}
@@ -82,9 +82,6 @@ Vue.component('health-insurance-options', {
 			}
 			else if(occupations.isEmployed(this.occupation)){
 				return this.employeeClarification;
-			}
-			else if(occupations.isUnemployed(this.occupation)){
-				return this.unemployedClarification;
 			}
 			return {};
 		},
@@ -170,21 +167,6 @@ Vue.component('health-insurance-options', {
 				else{
 					output.public += " Your income is too high, so you don't pay the cheaper student tariff.";
 				}
-			}
-
-			return output;
-		},
-		unemployedClarification(){
-			const output = {};
-
-			if(this.flag('free')){
-				output.public = `This is the <strong>safest option</strong>.`;
-				output.expat = "This is the <strong>cheapest option</strong> for students over 30 years old, but the coverage is not great."
-				output.private = 'Insurers usually reject unemployed people, but you can keep your current private health insurance.'
-			}
-			else{
-				output.expat = "This is the <strong>cheapest option</strong>, but the coverage is not great. You can switch to public health insurance when you find a job.";
-				output.public = `If you can't get free health insurance, this is the <strong>safest option</strong>.`;
 			}
 
 			return output;
