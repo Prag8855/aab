@@ -17,28 +17,27 @@ Vue.component('health-insurance-options', {
 			return this.results.asList.map(r => r.id).filter(id => ['public', 'private', 'expat'].includes(id));
 		},
 		intro(){
-			const options = new Intl.ListFormat('en-US', {style: 'long', type: 'disjunction'}).format(this.optionsList);
-			let output = `You must choose <strong>${options} health insurance</strong>.`;
-
+			let output = null;
 			if(this.flag('free')){
-				output += " You might also qualify for free health insurance.";
+				output += "You might also qualify for free health insurance.";
 			}
-			else if(!this.hasMultipleOptions){
-				output += " It's your only option.";
+			else if(this.optionsList.length === 1){
+				output += "It's your only option.";
 			}
 
 			if(this.flag('private-income-too-low')){
-				output += " Your income is too low for private health insurance.";
+				output += "Your income is too low for private health insurance.";
 			}
 			if(!this.results.public.eligible){
-				output += " You don't qualify for public health insurance.";
+				output += "You don't qualify for public health insurance.";
+			}
+
+			if(output){
+				const options = new Intl.ListFormat('en-US', {style: 'long', type: 'disjunction'}).format(this.optionsList);
+				output = `You must choose <strong>${options} health insurance</strong>. ${output}`;
 			}
 
 			return output;
-		},
-
-		hasMultipleOptions() {
-			return this.results.asList.length > 1;
 		},
 
 		minCostByOption() {
@@ -109,7 +108,7 @@ Vue.component('health-insurance-options', {
 			const output = {};
 			if(this.results.private.eligible){
 				if(this.minCostByOption.public > this.minCostByOption.private){
-					output.private = "It's cheaper because you are young and you have a good income. You can get better coverage <em>and</em> pay less, so it's a good option.";
+					output.private = "It's cheaper because you are young and you have a good income. You pay less <em>and</em> get better coverage.";
 					output.public = "It's more expensive because it costs a percentage of your income.";
 				}
 				else {
@@ -124,23 +123,23 @@ Vue.component('health-insurance-options', {
 			const private = this.results.private.eligible;
 			const expat = this.results.expat.eligible;
 
-			if(public && private && expat){
+			if(public && private){
 				if(this.minCostByOption.public > this.minCostByOption.private){
 					output.private = "This is a great option because you are young and you have a good income. You can get better coverage <em>and</em> pay less.";
-					output.public = "This is a safer option because the cost matches your income. This is useful if your income is not stable.";
+					output.public = "This is a safer option because the cost matches your income. Choose this if you have an unstable income.";
 				}
 				else {
 					output.private = "In your situation, private only makes sense if you want better coverage or faster doctor appointments. Public health insurance is cheaper.";
 				}
-				output.expat = "Avoid expat health insurance if you can. The other options are much better.";
+				output.expat = "Avoid this option if you can. The other options are much better.";
 			}
 			else if(public && expat && !private){
 				output.public = "This is the best long-term option. It's more expensive, but you get much better coverage.";
-				output.expat = "Avoid expat health insurance if you can. Public health insurance is much better. If you choose expat health insurance, you can't switch to public later.";
+				output.expat = "Avoid this option if you can. Public health insurance is much better. If you choose expat health insurance, you can't switch to public later.";
 			}
 			else if(private && expat && !public){
 				output.private = "This is the best long-term option."
-				output.expat = "Avoid expat health insurance if you can. Private health insurance is much better.";
+				output.expat = "Avoid this option if you can. Private health insurance is much better.";
 			}
 			else if(expat && !private && !public){
 				output.expat = "This is not a great option, but you have no choice. Switch to public or private health insurance when you can.";
@@ -227,31 +226,31 @@ Vue.component('health-insurance-options', {
 				return {
 					pros,
 					cons: [
-						"Doctor appointments are harder to get",
-						"Good dental coverage costs extra",
+						"Longer wait times to see a specialist",
+						"Limited dental coverage",
 					],
 				};
 			}
 			else if(insuranceType === 'private'){
+				const cons = ["It costs the same if you lose your job"];
+				if(this.childrenCount){
+					cons.push(`You must pay to cover your ${this.childOrChildren}`);
+				}
 				return {
 					pros: [
 						"Choose the coverage you want",
 						"Get doctor appointments faster",
 					],
-					cons: [
-						"Covering your children costs extra",
-						"It costs the same if you lose your job",
-					],
+					cons,
 				};
 			}
 			else if(insuranceType === 'expat'){
 				return {
 					pros: [
 						"Cheaper than full health insurance",
-						"Easy to cancel",
 					],
 					cons: [
-						"The coverage is very limited",
+						"Very limited coverage",
 						"It's a bad long-term option",
 					],
 				};
@@ -261,16 +260,34 @@ Vue.component('health-insurance-options', {
 	template: `
 		<div class="health-insurance-options">
 			<h2>Your options</h2>
-			<p v-html="intro"></p>
-			<hr v-if="intro && hasMultipleOptions">
-			
-			<template v-for="option in results.asList" v-if="option.eligible">
-				<h3 v-if="hasMultipleOptions" v-text="option.name"></h3>
+			<p v-html="intro" v-if="intro"></p>
+			<ul class="buttons list" v-if="optionsList.length > 1">
+				<li v-for="option in results.asList" v-if="option.eligible && option.id !== 'other'">
+					<button class="button" @click="selectOption(option.id + 'Options')">
+						<div>
+							<h3 v-text="option.name"></h3>
+							<p v-if="clarification[option.id]" v-html="clarification[option.id]"></p>
+						</div>
+						<price v-if="minCostByOption[option.id]" :amount="minCostByOption[option.id]" per-month></price>
+						<div class="two-columns" v-if="prosAndCons(option.id)">
+							<ul class="pros">
+								<li v-for="pro in prosAndCons(option.id).pros" v-text="pro" :key="pro"></li>
+							</ul>
+							<ul class="cons">
+								<li v-for="con in prosAndCons(option.id).cons" v-text="con" :key="con"></li>
+							</ul>
+						</div>
+					</button>
+				</li>
+			</ul>
 
-				<p v-if="clarification[option.id]" v-html="clarification[option.id]"></p>
-
-				<ul class="buttons list" v-if="option.id === 'other'">
-					<li v-for="subOption in option.options">
+			<public-health-insurance-options @select="selectOption" v-bind="$props" v-if="optionsList.length === 1 && results.public.eligible"></public-health-insurance-options>
+			<expat-health-insurance-options @select="selectOption" v-bind="$props" v-if="optionsList.length === 1 && results.expat.eligible"></expat-health-insurance-options>
+			<template v-if="results.other.eligible">
+				<hr>
+				<h3 v-text="results.other.name"></h3>
+				<ul class="buttons list">
+					<li v-for="subOption in results.other.options" :key="subOption.id">
 						<a v-if="subOption.id === 'familienversicherung'" @click="selectOption(subOption.id)" title="Learn more about family health insurance" href="/guides/german-health-insurance#free-health-insurance" target="_blank">
 							{% endraw %}{% include "_css/icons/family.svg" %}{% raw %}
 							<div>
@@ -299,34 +316,12 @@ Vue.component('health-insurance-options', {
 							{% endraw %}{% include "_css/icons/liability.svg" %}{% raw %}
 							<div>
 								<h3>Join the <glossary>Künstlersozialkasse</glossary></h3>
-								<p>If you are an artist, the KSK can pay half of your public health insurance. This is the best option.</p>
+								<p>If you are an artist, the KSK can pay half of your public health insurance. This is a really good deal.</p>
 							</div>
-							<price :amount="optionPrice(option.id, subOption.id)" per-month></price>
+							<price :amount="optionPrice('other', subOption.id)" per-month></price>
 						</a>
 					</li>
 				</ul>
-
-				<public-health-insurance-options @select="selectOption" v-bind="$props" v-if="!hasMultipleOptions && results.public.eligible"></public-health-insurance-options>
-				<expat-health-insurance-options @select="selectOption" v-bind="$props" v-if="!hasMultipleOptions && results.expat.eligible"></expat-health-insurance-options>
-
-				<template v-if="hasMultipleOptions">
-					<div class="two-columns" v-if="prosAndCons(option.id)">
-						<ul class="pros">
-							<li v-for="pro in prosAndCons(option.id).pros" v-text="pro"></li>
-						</ul>
-						<ul class="cons">
-							<li v-for="con in prosAndCons(option.id).cons" v-text="con"></li>
-						</ul>
-					</div>
-
-					<div class="buttons bar" v-if="['public', 'private', 'expat'].includes(option.id)">
-						<price v-if="hasMultipleOptions && minCostByOption[option.id]" :from="minCostByOption[option.id]" per-month></price>
-						<a class="button" :href="learnMoreUrl(option.id)" target="_blank">Learn more</a>
-						<button class="button" @click="selectOption(option.id + 'Options')">See options <i class="icon right"></i></button>
-					</div>
-				</template>
-
-				<hr>
 			</template>
 		</div>
 	`

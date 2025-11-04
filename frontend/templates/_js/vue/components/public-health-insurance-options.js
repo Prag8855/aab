@@ -61,7 +61,10 @@ Vue.component('public-health-insurance-options', {
             return occupations.isStudent(this.occupation) && !isWerkstudent(this.occupation, this.monthlyIncome, this.hoursWorkedPerWeek);
         },
         isPublicOnlyOption() {
-            return this.results.asList[0].id === 'public' && this.results.asList.length === 1;
+            return (
+                this.results.asList.filter(o => o.eligible && o.id !== 'other').length === 1
+                && this.results.asList[0].id === 'public'
+            );
         },
     },
     methods: {
@@ -78,7 +81,7 @@ Vue.component('public-health-insurance-options', {
     template: `
         <div class="health-insurance-options">
             <h2 v-if="!isPublicOnlyOption">Public health insurance options</h2>
-            <p>You must choose an insurer. There are dozens of them, but their cost and coverage are almost the same.</p>
+            <p>You must choose a public health insurer. There are dozens of them, but their cost and coverage are almost the same.</p>
 
             <ul class="buttons list">
                 <li>
@@ -86,7 +89,7 @@ Vue.component('public-health-insurance-options', {
                         {% endraw %}{% include "_css/icons/health-insurance/logo-tk.svg" %}{% raw %}
                         <div>
                             <h3 v-text="option('tk').name"></h3>
-                            <p>The biggest public health insurer. They speak English too.</p>
+                            <p>The biggest public health insurer. They speak English.</p>
                         </div>
                         <price :amount="option('tk').total.personalContribution" per-month></price>
                     </a>
@@ -96,7 +99,7 @@ Vue.component('public-health-insurance-options', {
                         {% endraw %}{% include "_css/icons/health-insurance/logo-barmer.svg" %}{% raw %}
                         <div>
                             <h3 v-text="option('barmer').name"></h3>
-                            <p>The second biggest health insurer. They speak English.</p>
+                            <p>The second biggest insurer. They also speak English.</p>
                         </div>
                         <price :amount="option('barmer').total.personalContribution" per-month></price>
                     </a>

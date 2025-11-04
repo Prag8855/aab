@@ -7,7 +7,10 @@ Vue.component('expat-health-insurance-options', {
     mixins: [healthInsuranceOptionsMixin],
     computed: {
         isExpatOnlyOption() {
-            return this.results.asList[0].id === 'expat' && this.results.asList.length === 1;
+            return (
+                this.results.asList.filter(o => o.eligible && o.id !== 'other').length === 1
+                && this.results.asList[0].id === 'expat'
+            );
         },
     },
     template: `
@@ -15,7 +18,7 @@ Vue.component('expat-health-insurance-options', {
             <h2 v-if="!isExpatOnlyOption">Expat health insurance options</h2>
             <p v-if="!isExpatOnlyOption">
                 These options are valid for a <glossary>National Visa</glossary> application.
-                <template v-if="occupation === 'selfEmployed'">It's rarely accepted when you <a target="_blank" href="/guides/renew-german-freelance-visa">renew your freelance visa</a>.</template>
+                <template v-if="occupation === 'selfEmployed'">They might not be accepted when you <a target="_blank" href="/guides/renew-german-freelance-visa">renew your freelance visa</a>.</template>
             </p>
             <ul class="buttons list">
                 <li>

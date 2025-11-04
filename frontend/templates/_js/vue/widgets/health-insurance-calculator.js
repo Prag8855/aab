@@ -147,9 +147,6 @@ Vue.component('health-insurance-calculator', {
 				customZusatzbeitrag: null,
 			};
 		},
-		recommendBroker(){
-			return this.stage === 'privateOptions' || (this.stage === 'expatOptions' && this.isSelfEmployed);
-		},
 
 		// Contact form
 		personSummary(){
@@ -623,11 +620,11 @@ Vue.component('health-insurance-calculator', {
 			<expat-health-insurance-options v-if="stage === 'expatOptions'" @select="selectOption" v-bind="calculatorParams"></expat-health-insurance-options>
 
 			<template v-if="stage === 'options' || stage === 'publicOptions' || stage === 'expatOptions'">
-				<hr v-if="stage.endsWith('Options')">
+				<hr>
 				<h3>Need help choosing?</h3>
 				<ul class="buttons list">
 					<li>
-						<button @click="selectOption('askABroker')" :aria-labelledby="uid('h-askOurExpert')" :class="{recommended: recommendBroker}">
+						<button class="recommended" @click="selectOption('askABroker')" :aria-labelledby="uid('h-askOurExpert')">
 							{% endraw %}{% include "_css/icons/help.svg" %}{% raw %}
 							<div>
 								<h3 :id="uid('h-askOurExpert')">Ask our expert</h3>

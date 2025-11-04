@@ -759,7 +759,7 @@ function getHealthInsuranceOptions({
 		output.public.options.sort((a, b) => a.total.personalContribution - b.total.personalContribution);
 		output.private.options.sort((a, b) => a.total.personalContribution - b.total.personalContribution);
 		output.expat.options.sort((a, b) => a.total.personalContribution - b.total.personalContribution);
-		output.other.options.sort((a, b) => a.total.personalContribution - b.total.personalContribution);
+		output.other.options.sort((a, b) => (a?.total?.personalContribution || 0) - (b?.total?.personalContribution || 0));
 	}
 
 	output.asList.push(output.other);

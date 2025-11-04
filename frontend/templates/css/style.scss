@@ -2273,10 +2273,13 @@ collapsible, letter-generator, feedback-residence-permit, health-insurance-calcu
         }
     }
 
-    .health-insurance-options h3{
-        margin: 0;
-        + .price-preview{
-            margin-top: var(--xs);
+    .health-insurance-options .button {
+        > div:first-child{
+            grid-column: 1/-2;
+        }
+
+        p{
+            margin-top: var(--s);
         }
     }
 
@@ -2285,7 +2288,7 @@ collapsible, letter-generator, feedback-residence-permit, health-insurance-calcu
         display: grid;
         grid-template-columns: 1fr 1fr;
         font-size: var(--f-s);
-        gap: var(--l);
+        gap: var(--s) var(--l);
 
         ul{
             margin: 0;
@@ -2293,6 +2296,7 @@ collapsible, letter-generator, feedback-residence-permit, health-insurance-calcu
 
         li{
             @include list-marker-ul-compact;
+            margin: var(--s) 0;
         }
 
         &.private-cost{
@@ -3176,16 +3180,30 @@ collapsible, letter-generator, feedback-residence-permit, health-insurance-calcu
                 background: var(--c-bg-widget);
                 border-radius: var(--b-radius);
                 text-align: center;
+                line-height: var(--line-height-label);
+                font-size: var(--l);
 
                 span{
                     @include heading;
                 }
                 small {
                     color: var(--c-text-light);
+                    display: block;
                 }
 
                 @include only-phone{
                     grid-column: 1 / -1;
+                }
+            }
+
+            .two-columns{
+                grid-column: 1/-1;
+                margin: 0;
+                line-height: var(--line-height-label);
+
+                @include not-phone{
+                    border-top:var(--b-box);
+                    padding-top: var(--m);
                 }
             }
         }
