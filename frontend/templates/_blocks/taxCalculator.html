@@ -177,14 +177,16 @@
 					const calculation = calculateTax(this.yearlyIncome, calculationOptions);
 
 					if (this.useMonthlyIncome) {
-						calculation.healthInsurance = roundCurrency(calculation.healthInsurance / 12);
-						calculation.publicPension = roundCurrency(calculation.publicPension / 12);
-						calculation.unemploymentInsurance = roundCurrency(calculation.unemploymentInsurance / 12);
-						calculation.incomeTax = roundCurrency(calculation.incomeTax / 12);
-						calculation.solidarityTax = roundCurrency(calculation.solidarityTax / 12);
 						calculation.churchTax = roundCurrency(calculation.churchTax / 12);
 						calculation.disposableIncome = roundCurrency(calculation.disposableIncome / 12);
+						calculation.healthInsurance = roundCurrency(calculation.healthInsurance / 12);
+						calculation.income = roundCurrency(calculation.income / 12);
+						calculation.incomeTax = roundCurrency(calculation.incomeTax / 12);
+						calculation.publicPension = roundCurrency(calculation.publicPension / 12);
+						calculation.solidarityTax = roundCurrency(calculation.solidarityTax / 12);
+						calculation.taxableIncome = roundCurrency(calculation.taxableIncome / 12);
 						calculation.totalDeductions = roundCurrency(calculation.totalDeductions / 12);
+						calculation.unemploymentInsurance = roundCurrency(calculation.unemploymentInsurance / 12);
 					}
 
 					return calculation;
@@ -618,11 +620,11 @@
 				</p>
 				<p class="price-line">
 					Taxable income
-					<price :amount="monthlyYearlyCost(result.taxableIncome / 12)"></price>
+					<price :amount="result.taxableIncome"></price>
 				</p>
 				<p class="price-line">
 					Income tax rate
-					<output class="price" v-html="formatPercent(result.incomeTax * 12 / result.taxableIncome * 100, true, 1)"></output>
+					<output class="price" v-html="formatPercent(result.incomeTax / result.taxableIncome * 100, true, 1)"></output>
 				</p>
 			</details>
 			<details v-if="result.solidarityTax > 0">
