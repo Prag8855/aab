@@ -3233,7 +3233,11 @@ collapsible, letter-generator, feedback-residence-permit, health-insurance-calcu
             justify-content: flex-start;
         }
 
-        > *{flex: 0 0 auto;}
+        > *{
+            margin: 0;
+            flex: 0 0 auto;
+            align-content: center;
+        }
 
         @include only-phone{ // Vertical buttons
             flex-wrap: wrap;

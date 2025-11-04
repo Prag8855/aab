@@ -139,10 +139,11 @@ Vue.component('health-insurance-options', {
 				output.expat = "Avoid expat health insurance if you can. Public health insurance is much better. If you choose expat health insurance, you can't switch to public later.";
 			}
 			else if(private && expat && !public){
+				output.private = "This is the best long-term option."
 				output.expat = "Avoid expat health insurance if you can. Private health insurance is much better.";
 			}
 			else if(expat && !private && !public){
-				output.expat = "This is not a great option, but you have no other choice. Don't stay on expat health insurance. Switch to public or private health insurance when you can.";
+				output.expat = "This is not a great option, but you have no choice. Switch to public or private health insurance when you can.";
 			}
 			return output;
 		},
@@ -246,12 +247,12 @@ Vue.component('health-insurance-options', {
 			else if(insuranceType === 'expat'){
 				return {
 					pros: [
-						"Cheapest option",
+						"Cheaper than full health insurance",
 						"Easy to cancel",
 					],
 					cons: [
-						"Very limited coverage",
-						"Not a good long-term option",
+						"The coverage is very limited",
+						"It's a bad long-term option",
 					],
 				};
 			}
@@ -265,7 +266,6 @@ Vue.component('health-insurance-options', {
 			
 			<template v-for="option in results.asList" v-if="option.eligible">
 				<h3 v-if="hasMultipleOptions" v-text="option.name"></h3>
-				<p class="price-preview" v-if="hasMultipleOptions && minCostByOption[option.id]">From <eur :amount="minCostByOption[option.id]"></eur>/month</p>
 
 				<p v-if="clarification[option.id]" v-html="clarification[option.id]"></p>
 
@@ -279,7 +279,7 @@ Vue.component('health-insurance-options', {
 							</div>
 							<price :amount="0" per-month></price>
 						</a>
-						<a v-if="subOption.id === 'social-benefits'" @click="selectOption(subOption.id)" title="Learn more about state-sponsored health insurnace" href="/guides/german-health-insurance#free-health-insurance" target="_blank">
+						<a v-if="subOption.id === 'social-benefits'" @click="selectOption(subOption.id)" title="Learn more about state-sponsored health insurance" href="/guides/german-health-insurance#free-health-insurance" target="_blank">
 							{% endraw %}{% include "_css/icons/bank.svg" %}{% raw %}
 							<div>
 								<h3>Social benefits</h3>
@@ -299,7 +299,7 @@ Vue.component('health-insurance-options', {
 							{% endraw %}{% include "_css/icons/liability.svg" %}{% raw %}
 							<div>
 								<h3>Join the <glossary>Künstlersozialkasse</glossary></h3>
-								<p>If you are an artist, you can join public health insurance, and the KSK pays half of it.</p>
+								<p>If you are an artist, the KSK can pay half of your public health insurance. This is the best option.</p>
 							</div>
 							<price :amount="optionPrice(option.id, subOption.id)" per-month></price>
 						</a>
@@ -320,6 +320,7 @@ Vue.component('health-insurance-options', {
 					</div>
 
 					<div class="buttons bar" v-if="['public', 'private', 'expat'].includes(option.id)">
+						<price v-if="hasMultipleOptions && minCostByOption[option.id]" :from="minCostByOption[option.id]" per-month></price>
 						<a class="button" :href="learnMoreUrl(option.id)" target="_blank">Learn more</a>
 						<button class="button" @click="selectOption(option.id + 'Options')">See options <i class="icon right"></i></button>
 					</div>

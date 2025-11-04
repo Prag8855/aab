@@ -11,8 +11,11 @@ Vue.component('price', {
         locale: String,
     },
     computed: {
+        showFrom(){
+            return this.from != null && !this.to;
+        },
         showRange(){
-            return this.to && this.value(this.from ?? this.amount) !== this.value(this.to)
+            return this.to != null && this.value(this.from ?? this.amount) !== this.value(this.to)
         }
     },
     methods: { 
@@ -25,6 +28,7 @@ Vue.component('price', {
     },
     template: `
         <span class="price">
+            <small v-if="showFrom">From</small>
             €<span class="currency" :data-currencies="tooltipText(from ?? amount)">{{ value(from ?? amount) }}</span><template v-if="showRange">&ndash;<span class="currency" :data-currencies="tooltipText(to)">{{ value(to) }}</span></template><small v-if="perMonth">&nbsp;/&nbsp;month</small>
         </span>
     `,
