@@ -961,7 +961,6 @@ function testInsuranceOptions(params, tests){
 		sortByPrice: false,
 		...params,
 	});
-	console.log(output);
 	tests.forEach(t => t(output));
 }
 
@@ -1256,7 +1255,6 @@ function cannotJoinKSK(output){
 }
 
 function canGetFreeInsuranceThroughSocialBenefits(output){
-	console.trace(output)
 	it('can get free health insurance through social benefits', () => {
 		hasFlag(output, 'social-benefits')();
 		equal(output.other.options.find(o => o.id === 'social-benefits').id, 'social-benefits');

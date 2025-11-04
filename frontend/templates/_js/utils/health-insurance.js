@@ -460,17 +460,23 @@ function canHavePublicHealthInsurance(occupation, monthlyIncome, hoursWorkedPerW
 
 function canHavePrivateHealthInsurance(occupation, monthlyIncome, hoursWorkedPerWeek, age){
 	return (
-		(
-			monthlyIncome > healthInsurance.minPrivateMonthlyIncome // PKV insurers reject people with low incomes
-			|| occupations.isStudent(occupation) // Students get special private health insurance pricing that is less income-dependent
-		)
+		incomeIsEnoughForPrivate(occupation, monthlyIncome)
 		&& (
 		 	!isPflichtversichert(occupation, monthlyIncome, hoursWorkedPerWeek, age)
 			|| isWerkstudent(occupation, monthlyIncome, hoursWorkedPerWeek)
 			|| occupations.isSelfEmployed(occupation)
 			|| occupations.isUnemployed(occupation)
 		)
-	)
+	);
+}
+
+function incomeIsEnoughForPrivate(occupation, monthlyIncome){
+	// Usually, private health insurers reject people making below a certain threshold.
+	// Students are often exempt from that, so they can get insured on a low income.
+	return (
+		monthlyIncome > healthInsurance.minPrivateMonthlyIncome
+		|| occupations.isStudent(occupation)
+	);
 }
 
 function canHaveExpatHealthInsurance(occupation, monthlyIncome, hoursWorkedPerWeek, age, hasGermanPublicHealthInsurance){
@@ -642,7 +648,7 @@ function getHealthInsuranceOptions({
 			occupation,
 		});
 	}
-	else if(monthlyIncome < healthInsurance.minPrivateMonthlyIncome && !occupations.isStudent(occupation)){
+	else if(!incomeIsEnoughForPrivate(occupation, monthlyIncome)){
 		output.flags.add('private-income-too-low');
 	}
 
