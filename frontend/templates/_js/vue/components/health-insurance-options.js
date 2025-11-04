@@ -13,10 +13,11 @@
 Vue.component('health-insurance-options', {
 	mixins: [brokerMixin, uniqueIdsMixin, healthInsuranceOptionsMixin],
 	computed: {
+		optionsList(){
+			return this.results.asList.map(r => r.id).filter(id => ['public', 'private', 'expat'].includes(id));
+		},
 		intro(){
-			const optionsList = this.results.asList.map(r => r.id).filter(id => ['public', 'private', 'expat'].includes(id));
-
-			const options = new Intl.ListFormat('en-US', {style: 'long', type: 'disjunction'}).format(optionsList);
+			const options = new Intl.ListFormat('en-US', {style: 'long', type: 'disjunction'}).format(this.optionsList);
 			let output = `You must choose <strong>${options} health insurance</strong>.`;
 
 			if(this.flag('free')){
@@ -38,18 +39,6 @@ Vue.component('health-insurance-options', {
 
 		hasMultipleOptions() {
 			return this.results.asList.length > 1;
-		},
-
-		gkvOptionsParams(){
-			const p = this.$props;
-			return {
-				age: p.age,
-				childrenCount: p.childrenCount,
-				isMarried: p.isMarried,
-				monthlyIncome: p.monthlyIncome,
-				occupation: p.occupation,
-				hoursWorkedPerWeek: p.hoursWorkedPerWeek,
-			};
 		},
 
 		minCostByOption() {
@@ -124,13 +113,37 @@ Vue.component('health-insurance-options', {
 					output.public = "It's more expensive because it costs a percentage of your income.";
 				}
 				else {
-					output.private = "In your situation, private only makes sense if you want better coverage or faster doctor appointments.";
+					output.private = "In your situation, private only makes sense if you want better coverage or faster doctor appointments. Public health insurance is cheaper.";
 				}
 			}
 			return output;
 		},
 		selfEmployedClarification(){
 			const output = {};
+			const public = this.results.public.eligible;
+			const private = this.results.private.eligible;
+			const expat = this.results.expat.eligible;
+
+			if(public && private && expat){
+				if(this.minCostByOption.public > this.minCostByOption.private){
+					output.private = "This is a great option because you are young and you have a good income. You can get better coverage <em>and</em> pay less.";
+					output.public = "This is a safer option because the cost matches your income. This is useful if your income is not stable.";
+				}
+				else {
+					output.private = "In your situation, private only makes sense if you want better coverage or faster doctor appointments. Public health insurance is cheaper.";
+				}
+				output.expat = "Avoid expat health insurance if you can. The other options are much better.";
+			}
+			else if(public && expat && !private){
+				output.public = "This is the best long-term option. It's more expensive, but you get much better coverage.";
+				output.expat = "Avoid expat health insurance if you can. Public health insurance is much better. If you choose expat health insurance, you can't switch to public later.";
+			}
+			else if(private && expat && !public){
+				output.expat = "Avoid expat health insurance if you can. Private health insurance is much better.";
+			}
+			else if(expat && !private && !public){
+				output.expat = "This is not a great option, but you have no other choice. Don't stay on expat health insurance. Switch to public or private health insurance when you can.";
+			}
 			return output;
 		},
 		studentClarification(){
@@ -286,7 +299,7 @@ Vue.component('health-insurance-options', {
 							{% endraw %}{% include "_css/icons/liability.svg" %}{% raw %}
 							<div>
 								<h3>Join the <glossary>Künstlersozialkasse</glossary></h3>
-								<p>If you are an artist or a content creator, the KSK can pay half of your public health insurance.</p>
+								<p>If you are an artist, you can join public health insurance, and the KSK pays half of it.</p>
 							</div>
 							<price :amount="optionPrice(option.id, subOption.id)" per-month></price>
 						</a>
