@@ -17,24 +17,24 @@ Vue.component('health-insurance-options', {
 			return this.results.asList.map(r => r.id).filter(id => ['public', 'private', 'expat'].includes(id));
 		},
 		intro(){
-			let output = null;
+			let output = '';
 			if(this.flag('free')){
-				output += "You might also qualify for free health insurance.";
+				output += " You might also qualify for free health insurance.";
 			}
 			else if(this.optionsList.length === 1){
-				output += "It's your only option.";
+				output += " It's your only option.";
 			}
 
 			if(this.flag('private-income-too-low')){
-				output += "Your income is too low for private health insurance.";
+				output += " Your income is too low for private health insurance.";
 			}
 			if(!this.results.public.eligible){
-				output += "You don't qualify for public health insurance.";
+				output += " You don't qualify for public health insurance.";
 			}
 
 			if(output){
 				const options = new Intl.ListFormat('en-US', {style: 'long', type: 'disjunction'}).format(this.optionsList);
-				output = `You must choose <strong>${options} health insurance</strong>. ${output}`;
+				output = `You must choose <strong>${options} health insurance</strong>. ${output.trim()}`;
 			}
 
 			return output;
@@ -73,10 +73,8 @@ Vue.component('health-insurance-options', {
 		***************************************************/
 
 		clarification(){
-			if(this.occupation === 'azubi'){
-				return this.azubiClarification;
-			}
-			else if(occupations.isStudent(this.occupation)){
+			// There is no Azubi clarification
+			if(occupations.isStudent(this.occupation)){
 				return this.studentClarification;
 			}
 			else if(occupations.isSelfEmployed(this.occupation)){
@@ -91,19 +89,6 @@ Vue.component('health-insurance-options', {
 			return {};
 		},
 
-		azubiClarification(){
-			const output = {};
-
-			if(this.flag('public-tariff-azubiFree')){
-				output.public = `You get free health insurance, because you earn less than ${this.eur(healthInsurance.azubiFreibetrag)} per month.`;
-			}
-			else if(!this.flag('private')){
-				output.public = `This is your only option, because your income is too low for private health insurance.`
-			}
-
-			// You could have private if your Azubi income is really high, but it's unlikely to happen and not worth explaining
-			return output;
-		},
 		employeeClarification(){
 			const output = {};
 			if(this.results.private.eligible){

@@ -81,7 +81,7 @@ Vue.component('public-health-insurance-options', {
     template: `
         <div class="health-insurance-options">
             <h2 v-if="!isPublicOnlyOption">Public health insurance options</h2>
-            <p>You must choose a public health insurer. There are dozens of them, but their cost and coverage are almost the same.</p>
+            <p>Choose an insurer. There are dozens of them, but their cost and coverage are almost the same.</p>
 
             <ul class="buttons list">
                 <li>
