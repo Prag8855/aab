@@ -211,7 +211,7 @@ If you are self-employed, you will only get 50% of your payments back ({{RV_EMPL
 
 To know the exact amount, [request a *Versicherungsverlauf*](/out/drv-pension-payments-info) from the [[Deutsche Rentenversicherung]]. It will arrive by post in 1 to 3 weeks. If you have an [[eID]], you can [get a *Versicherungsverlauf* instantly](https://kundenportal.deutsche-rentenversicherung.de/od-kundenportal).
 
-[FundsBack](/out/fundsback) and [Pension Refund Germany](/out/pension-refund-germany) can also check the pension refund amount for you, for free.
+[Pension Refund Germany](/out/pension-refund-germany), [FundsBack](/out/fundsback) and [Germany Pension Refund](/out/germany-pension-refund) can tell you how much your refund is. This service is free.
 
 ## How to get your pension payments back
 
@@ -272,16 +272,16 @@ You can let someone take care of everything. There are good reasons to get help:
 - **You get your money faster**  
     If you want to receive your refund in a non-German bank account, you must wait an extra 2 months. Germany Pension Refund and FundsBack can receive the money in a German bank account, and transfer it directly to you. This saves you two months of waiting. They also offer more payment options than the [[Deutsche Rentenversicherung]].
 - **You pay lower transaction fees**  
-    Germany Pension Refund and FundsBack offer more payment options than the [[Deutsche Rentenversicherung]]. They can use services like [Wise](/out/wise) to transfer the money with lower transaction fees.
+    These companies offer more payment options than the [[Deutsche Rentenversicherung]]. They can use services like [Wise](/out/wise) to pay you in another currency with lower conversion fees.
 
 These businesses can help you request a refund. They will fill the forms and request the refund for you. They can also check how much money you will get back.{{ fail_on('2025-12-01') }}
 
-- **[FundsBack](/out/fundsback)**  
-    Their fee is {{ FUNDSBACK_FEE }}% of your refund (minimum fee €{{FUNDSBACK_MIN_FEE}}, maximum €{{FUNDSBACK_MAX_FEE|cur}}).[^29]
-- **[Pension Refund Germany](/out/pension-refund-germany)**  
+- **[Pension Refund Germany](/out/pension-refund-germany)**{{ RECOMMENDED }}  
     Their fee is {{ PENSIONREFUNDGERMANY_FEE }}% of your refund (maximum fee €{{PENSIONREFUNDGERMANY_MAX_FEE|cur}}).[^31]
 - **[Germany Pension Refund](/out/germany-pension-refund)**  
     Their fee is {{ GERMANYPENSIONREFUND_FEE }}% of your refund (no minimum or maximum fee).[^30]
+- **[FundsBack](/out/fundsback)**  
+    Their fee is {{ FUNDSBACK_FEE }}% of your refund (minimum fee €{{FUNDSBACK_MIN_FEE}}, maximum €{{FUNDSBACK_MAX_FEE|cur}}).[^29]
 
 The *[[Deutsche Rentenversicherung]]* can also help you fill the forms. Their email is <meinefrage@drv-bund.de>. They only answer in German. You can also [book an appointment](https://www.deutsche-rentenversicherung.de/DRV/DE/Beratung-und-Kontakt/Beratung-suchen-und-buchen/beratung-suchen-und-buchen_node.html) and visit them in person.
 
@@ -304,7 +304,7 @@ If you need help, ask...
 - **The [[Deutsche Rentenversicherung]]**  
     Call them, email <meinefrage@drv-bund.de>, or [book an appointment](https://www.deutsche-rentenversicherung.de/DRV/DE/Beratung-und-Kontakt/Beratung-suchen-und-buchen/beratung-suchen-und-buchen_node.html). I have called them many times and they always helped, but they only speak German.
 - **Pension refund services**  
-    [Germany Pension Refund](/out/germany-pension-refund), [Pension Refund Germany](/out/pension-refund-germany) and [FundsBack](/out/fundsback) can request a refund for you. They speak English. They take care of everything, but they keep around 10% of your refund.
+    [Pension Refund Germany](/out/pension-refund-germany) , [FundsBack](/out/fundsback) and [Germany Pension Refund](/out/germany-pension-refund) can request a refund for you. They speak English. They take care of everything, but they keep around 10% of your refund.
 
 {% include '_blocks/pensionRefundQuestion.html' %}
 

@@ -10,6 +10,7 @@
 {% include '_js/vue/components/glossary.js' %}
 {% include '_js/vue/components/income-input.js' %}
 {% include '_js/vue/components/radio.js' %}
+{% include '_js/vue/components/recommended.js' %}
 {% include '_js/vue/components/state-input.js' %}
 {% include '_js/vue/mixins/trackedStagesMixin.js' %}
 {% include '_js/vue/mixins/uniqueIdsMixin.js' %}
@@ -54,6 +55,12 @@
 					],
 					partners: [
 						{
+							name: 'Pension Refund Germany',
+							key: 'pensionrefundgermany',
+							recommended: true,
+							fee: x => Math.min(x * {{ PENSIONREFUNDGERMANY_FEE }}/100, {{ PENSIONREFUNDGERMANY_MAX_FEE }}),
+						},
+						{
 							name: 'FundsBack',
 							key: 'fundsback',
 							fee: x => Math.min(Math.max(x * {{ FUNDSBACK_FEE }}/100, {{ FUNDSBACK_MIN_FEE }}), {{ FUNDSBACK_MAX_FEE }}),
@@ -62,11 +69,6 @@
 							name: 'Germany Pension Refund',
 							key: 'germanypensionrefund',
 							fee: x => x * {{ GERMANYPENSIONREFUND_FEE }}/100,
-						},
-						{
-							name: 'Pension Refund Germany',
-							key: 'pensionrefundgermany',
-							fee: x => Math.min(x * {{ PENSIONREFUNDGERMANY_FEE }}/100, {{ PENSIONREFUNDGERMANY_MAX_FEE }}),
 						},
 						{
 							name: 'Do it yourself',
@@ -228,18 +230,10 @@
 					const westGermanResults = calculatePensionRefund(...args, false).refundAmount;
 					return eastGermanResults != westGermanResults;
 				},
-				sortedPartners() {
-					return this.partners.sort(
-						(a, b) => {
-							if(b.name === 'Do it yourself') return -1;
-							return a.fee(this.results.refundAmount) - b.fee(this.results.refundAmount);
-						}
-					);
-				},
 			},
 			watch: {
 				results(){
-					this.selectedPartner = this.sortedPartners[0];
+					this.selectedPartner = this.partners[0];
 				}
 			}
 		})
@@ -403,9 +397,7 @@
 		<div class="form-group">
 			<span class="label">Choose a helper</span>
 			<radio v-for="partner in partners" v-model="selectedPartner" :value="partner" :key="partner.name">
-				<div v-text="partner.name"></div>
-				<span class="input-instructions" v-if="partner.name === 'Do it yourself'">Apply without help. No fee.</span>
-				<span class="input-instructions" v-else><eur :amount="partner.fee(results.refundAmount)"></eur> fee if you get a refund.</span>
+				<div>{{ partner.name }} <recommended v-if="partner.recommended"></recommended></div>
 			</radio>
 		</div>
 		<hr>
