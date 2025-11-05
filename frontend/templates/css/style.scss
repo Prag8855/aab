@@ -3188,7 +3188,9 @@ collapsible, letter-generator, feedback-residence-permit, health-insurance-calcu
                 }
                 small {
                     color: var(--c-text-light);
-                    display: block;
+                    @include not-phone{
+                        display: block;
+                    }
                 }
 
                 @include only-phone{
