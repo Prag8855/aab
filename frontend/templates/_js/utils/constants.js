@@ -607,6 +607,7 @@ const pensions = {
 }
 
 // Full list: azubi, employee, selfEmployed, studentEmployee, studentSelfEmployed, studentUnemployed, unemployed
+// TODO: Move to another file
 const occupations = {
 	salaryOrIncome: (occupation) => (['employee', 'azubi'].includes(occupation) ? 'salary' : 'income'),
 	isEmployed: (occupation) => ['employee', 'azubi', 'studentEmployee'].includes(occupation),

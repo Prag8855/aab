@@ -84,14 +84,6 @@ Vue.component('health-insurance-calculator', {
 
 			pflegeversicherung,
 			healthInsurance,
-
-			// TODO: "We already know that..." replacement
-			// TODO: Email is passed even when field is not visible
-			// TODO: Move occupations from constants.js to another file
-			// TODO: Test collapsible header text
-			// TODO: Set submit button text based on purpose ("Ask Christina")
-			// TODO: Set expat insurance prices correctly
-			// TODO: Track purpose of contact
 		};
 	},
 	mounted(){

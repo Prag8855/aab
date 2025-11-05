@@ -2324,29 +2324,9 @@ collapsible, letter-generator, feedback-residence-permit, health-insurance-calcu
             }
 
             .price{
-                // TODO: Merge with identical .button .price
-                padding: var(--s) var(--m);
-                background: var(--c-bg-widget);
-                border-radius: var(--b-radius);
-                text-align: center;
-
                 display: block;
                 margin: var(--m) 0 0;
                 font-size: var(--m);
-
-                span{
-                    @include heading;
-                }
-                small {
-                    color: var(--c-text-light);
-                }
-
-                + small {
-                    color: var(--c-text-light);
-                    margin-top: var(--xs);
-                    display: block;
-                    text-align: center;
-                }
 
                 @include only-phone{
                     grid-column: 1 / -1;
