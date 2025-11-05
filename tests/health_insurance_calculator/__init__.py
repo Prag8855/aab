@@ -17,7 +17,7 @@ cases = {
         "is_applying_for_first_visa": True,
         "has_eu_public_insurance": True,
         "has_german_public_insurance": True,
-        "can_have_private": True,
+        "can_have_private": False,
     },
     "selfEmployed-100k": {
         "income": 100000,

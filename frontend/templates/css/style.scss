@@ -2300,9 +2300,19 @@ collapsible, letter-generator, feedback-residence-permit, health-insurance-calcu
         }
 
         &.private-cost{
-            > :first-child{
-                padding-right: var(--l);
-                border-right: var(--b-box);
+            gap: var(--l);
+
+            @include only-phone{
+                > *{
+                    padding-bottom: var(--l);
+                    border-bottom: var(--b-box);
+                }
+            }
+            @include not-phone{
+                > :first-child{
+                    padding-right: var(--l);
+                    border-right: var(--b-box);
+                }   
             }
 
             h3 {

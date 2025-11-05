@@ -248,6 +248,15 @@ Vue.component('health-insurance-calculator', {
 		},
 	},
 	methods: {
+		goBackFromAskABroker(){
+			if(this.occupation === 'other'){
+				this.goToStage('occupation');
+			}
+			else{
+				this.goToStage('options');
+			}
+		},
+
 		// Insurance questions
 		selectOccupation(occupation){
 			this.occupation = occupation;
@@ -707,7 +716,7 @@ Vue.component('health-insurance-calculator', {
 				<template v-if="contactMethod || mode === 'calculator'">
 					<hr>
 					<div class="buttons bar">
-						<button v-if="stageIndex > 0" aria-label="Go back" class="button" @click="goToStart()">
+						<button v-if="stageIndex > 0" aria-label="Go back" class="button" @click="goBackFromAskABroker()">
 							<i class="icon left" aria-hidden="true"></i> <span class="no-mobile">Go back</span>
 						</button>
 						<button v-if="mode === 'question'" class="button primary" @click="nextStage()">

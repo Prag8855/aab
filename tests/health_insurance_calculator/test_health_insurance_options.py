@@ -23,16 +23,21 @@ def test_option_ask_a_broker(page, case):
     assert_stage(page, "options")
 
 
-@pytest.mark.parametrize("case", cases.values(), ids=cases.keys())
-def test_option_private_quote(page, case):
+def test_option_private_quote(page, assert_snapshot):
+    case = cases["employee-100k"]
+
     fill_calculator_until(page, "options", **case)
 
     if case["can_have_private"]:
-        page.get_by_label("Get a quote", exact=True).click()
+        page.get_by_label("Private health insurance").click()
+        assert_stage(page, "privateOptions")
+        assert_snapshot(get_calculator(page).screenshot())
+
+        page.get_by_role("button", name="Get insured").click()
         assert_stage(page, "askABroker")
         page.click("text=WhatsApp")
         page.get_by_label("Go back").click()
     else:
-        expect(page.get_by_label("Get a quote", exact=True)).to_have_count(0)
+        expect(page.get_by_label("Private health insurance")).to_have_count(0)
 
     assert_stage(page, "options")

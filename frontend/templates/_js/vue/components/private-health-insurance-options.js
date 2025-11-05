@@ -41,6 +41,7 @@ Vue.component('private-health-insurance-options', {
 
             <details class="cost-explanation">
                 <summary>Cost explanation</summary>
+                <p>These are two example plans. One is as cheap as possible. The other is as good as possible. It should give you an idea of the price range.</p>
                 <details>
                     <summary class="price-line">
                         Base cost
@@ -106,7 +107,7 @@ Vue.component('private-health-insurance-options', {
 
             <hr>
 
-            <p>There are hundreds of other options. Let our expert find the best one for you. It's 100% free.</p>
+            <p>These are just two plans. There are hundreds of other options. Let our expert find the best one for you. It's 100% free.</p>
         </div>
     `
 });
