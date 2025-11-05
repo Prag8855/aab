@@ -24,7 +24,7 @@ const brokerMixin = {
                     his: 'her',
                 },
             ];
-            const brokerId = localStorage.getItem('healthInsuranceBroker') || brokers[Math.floor(Math.random() * brokers.length * 4/5)].id;
+            const brokerId = localStorage.getItem('healthInsuranceBroker') || brokers[Math.floor(Math.random() * brokers.length)].id;
             localStorage.setItem('healthInsuranceBroker', brokerId);
 
             return brokers.find(b => b.id === brokerId) || brokers[0];
