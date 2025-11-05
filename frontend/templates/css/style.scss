@@ -2274,12 +2274,18 @@ collapsible, letter-generator, feedback-residence-permit, health-insurance-calcu
     }
 
     .health-insurance-options .button {
+        padding: var(--l) var(--m);
+
         > div:first-child{
             grid-column: 1/-2;
         }
 
         p{
             margin-top: var(--s);
+        }
+
+        .two-columns{
+            color: var(--c-text-light);
         }
     }
 
@@ -2346,12 +2352,12 @@ collapsible, letter-generator, feedback-residence-permit, health-insurance-calcu
             content: '×';
             background: var(--c-bg-error);
             color: var(--c-text-error);
-            width: var(--l-relative);
-            height: var(--l-relative);
-            line-height: var(--l-relative);
+            width: var(--m-relative);
+            height: var(--m-relative);
+            line-height: var(--m-relative);
             border-radius: 50%;
             text-align: center;
-            margin-top: calc((var(--m) * var(--line-height-label) - var(--l-relative)) / 2);
+            margin-top: calc((var(--m) * var(--line-height-label) - var(--m-relative)) / 2);
         }
     }
     .pros li:before{

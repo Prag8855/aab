@@ -34,15 +34,11 @@ Vue.component('expat-health-insurance-options', {
                 <li>
                     <a href="/out/hansemerkur-expats" target="_blank">
                         {% endraw %}{% include "_css/icons/health-insurance/logo-hansemerkur.svg" %}{% raw %}
-                        <h3>HanseMerkur</h3>
+                        <div>
+                            <h3>HanseMerkur</h3>
+                            <p>A reliable German health insurer.</p>
+                        </div>
                         <price :amount="optionPrice('expat', 'hansemerkur-basic')" per-month></price>
-                    </a>
-                </li>
-                <li>
-                    <a href="/out/ottonova-expats" target="_blank">
-                        {% endraw %}{% include "_css/icons/health-insurance/logo-ottonova.svg" %}{% raw %}
-                        <h3>Ottonova</h3>
-                        <price :amount="optionPrice('expat', 'ottonova-expat')" per-month></price>
                     </a>
                 </li>
             </ul>
