@@ -336,13 +336,14 @@ function pkvOptions({occupation, monthlyIncome, hoursWorkedPerWeek, age, childre
 	});
 }
 
-function expatOptions(age){
+function expatOptions(childrenCount){
 	return [
 	{% for id, cost in EXPAT_INSURANCE_COST.items() %}
 		{
 			id: "{{ id }}",
 			total: {
-				personalContribution: {{ cost }},
+				personalContribution: {{ cost }} * (childrenCount + 1),
+				childrenCost: {{ cost }} * childrenCount,
 			},
 		},
 	{% endfor %}
@@ -559,7 +560,7 @@ function getHealthInsuranceOptions({
 	if(canHaveExpatHealthInsurance(occupation, monthlyIncome, hoursWorkedPerWeek, age, hasGermanPublicHealthInsurance)){
 		output.flags.add('expat');
 		output.expat.eligible = true;
-		output.expat.options = expatOptions(age);
+		output.expat.options = expatOptions(childrenCount);
 	}
 
 
