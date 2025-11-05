@@ -117,11 +117,11 @@ Vue.component('health-insurance-options', {
 			}
 			else if(public && expat && !private){
 				output.public = "This is the best long-term option. It's more expensive, but you get much better coverage.";
-				output.expat = "Avoid this option if you can. Public health insurance is much better. If you choose expat health insurance, you can't switch to public later.";
+				output.expat = "Avoid this option if you can. Public health insurance is much better. If you choose this option, you can't switch to public later.";
 			}
 			else if(private && expat && !public){
 				output.private = "This is the best long-term option."
-				output.expat = "Avoid this option if you can. Private health insurance is much better.";
+				output.expat = "Avoid this option if you can. The coverage is too limited, and it's a bad long-term option.";
 			}
 			else if(expat && !private && !public){
 				output.expat = "This is not a great option, but you have no choice. Switch to public or private health insurance when you can.";
