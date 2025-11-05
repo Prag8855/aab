@@ -20,8 +20,6 @@ This tool helps you choose the best German health insurance. It explains your op
 
 ## Health insurance picker
 
-The cost of health insurance depends on your situation. This tool tells you how much you should pay.
-
 {% include '_blocks/healthInsuranceCalculatorStatic.html' %}
 
 **[How to choose health insurance ➞](/guides/german-health-insurance)**
