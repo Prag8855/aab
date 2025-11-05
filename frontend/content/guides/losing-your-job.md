@@ -113,7 +113,7 @@ If you have a [residence permit](/glossary/Aufenthaltstitel), always tell the *[
 
 **If you change employers**, use the [online form](/out/auslanderbehorde-job-change) to tell the *Ausländerbehörde*.[^39] You get a PDF confirmation.
 
-**If you lose your job**, use my letter generator to write the message. Use the [*Ausländerbehörde*'s contact form](/guides/immigration-office#use-the-contact-form) to send it to the [correct department](/guides/immigration-office#departments). Attach your [resignation letter](/glossary/Kündigungsschreiben) or termination notice. If you have a new job, also attach your new work contract.{{ fail_on('2025-11-01') }}
+**If you lose your job**, use my letter generator to write the message. Use the [*Ausländerbehörde*'s contact form](/guides/immigration-office#use-the-contact-form) to send it to the [correct department](/guides/immigration-office#departments). Attach your [resignation letter](/glossary/Kündigungsschreiben) or termination notice. If you have a new job, also attach your new work contract.{{ fail_on('2026-03-01') }}
 
 {% include "_blocks/auslaenderbehoerdeJobChangeNotice.html" %}
 
