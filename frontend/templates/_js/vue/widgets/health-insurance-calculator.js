@@ -80,7 +80,6 @@ Vue.component('health-insurance-calculator', {
 					'thank-you',
 					'error',
 				],
-			inputsToFocus: {},
 
 			pflegeversicherung,
 			healthInsurance,
@@ -94,9 +93,7 @@ Vue.component('health-insurance-calculator', {
 		isSelfEmployed(){ return occupations.isSelfEmployed(this.occupation) },
 		isUnemployed(){ return occupations.isUnemployed(this.occupation) },
 		monthlyIncome(){ return this.yearlyIncome / 12 },
-		progressBarLength(){ return this.stages.filter(
-			s => !['publicOptions', 'privateOptions', 'expatOptions', 'thank-you', 'error'].includes(s)
-		).length - 1 },
+		progressBarLength(){ return this.stages.filter(s => !['publicOptions', 'privateOptions', 'expatOptions', 'thank-you', 'error'].includes(s)).length - 1 },
 		progressBarValue(){ return Math.min(this.stageIndex, this.progressBarLength) },
 		showProgressBar(){ return this.progressBarLength && this.progressBarValue < this.progressBarLength && this.stageIndex !== 0 && this.occupation !== 'other' },
 
@@ -138,6 +135,10 @@ Vue.component('health-insurance-calculator', {
 				occupation: this.occupation,
 				customZusatzbeitrag: null,
 			};
+		},
+		showGuideLink(){
+			// If you're on this page, you're already reading about health insurance
+			return window.location.pathname !== '/guides/german-health-insurance';
 		},
 
 		// Contact form
@@ -228,7 +229,6 @@ Vue.component('health-insurance-calculator', {
 		salaryOrIncome(){ return occupations.salaryOrIncome(this.occupation) === 'salary' ? 'Salary' : 'Income' },
 		childOrChildren(){ return this.childrenCount === 1 ? 'child' : 'children' },
 
-
 		trackedStagesExtraData() {
 			const data = {
 				partner: this.broker.id,
@@ -299,10 +299,6 @@ Vue.component('health-insurance-calculator', {
 			else if(option.endsWith('Options')){
 				this.goToStage(option);
 			}
-		},
-		showGuideLink(){
-			// If you're on this page, you're already reading about health insurance
-			return window.location.pathname !== '/guides/german-health-insurance';
 		},
 
 		// Contact form
@@ -562,16 +558,7 @@ Vue.component('health-insurance-calculator', {
 						Immigration
 					</label>
 					<checkbox :id="uid('isApplyingForFirstVisa')" v-model="isApplyingForFirstVisa">
-						<div v-if="occupation === 'employee'">
-							I am applying for my first <glossary term="Work Visa">work visa</glossary>, <glossary>Blue Card</glossary> or <glossary term="Chancenkarte">Opportunity Card</glossary>
-						</div>
-						<div v-else-if="isStudent">
-							I am applying for a <glossary term="Student visa">student visa</glossary>
-						</div>
-						<div v-else-if="isSelfEmployed && !isStudent">
-							I am applying for my first <glossary term="Freelance visa">freelance visa</glossary>
-						</div>
-						<div v-else>
+						<div>
 							I am applying for a <glossary>National Visa</glossary> to move to Germany
 						</div>
 					</checkbox>
