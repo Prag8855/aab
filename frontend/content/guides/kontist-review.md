@@ -27,7 +27,7 @@ There are extra fees:
 
 If you get paid in foreign currencies, or have many small transactions, Kontist gets expensive. I paid €12 to €15 per month in fees, but sometimes a single transaction cost me €20 in currency conversion fees.
 
-[![Kontist invoice with account fees](/images/kontist-account-fees.png "€9 for the account, and €11.68 in transaction fees.")](/images/kontist-account-fees.png)
+[![Kontist invoice with account fees](/images/kontist-account-fees.png)](/images/kontist-account-fees.png)
 
 ### Free account
 

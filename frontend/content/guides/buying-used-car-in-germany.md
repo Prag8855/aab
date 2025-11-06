@@ -187,7 +187,7 @@ The employee will put a new [sticker](/images/berlin-licence-plate-sticker.jpg) 
 
 If you need a new licence plate, you can go to one of the kiosks in front of the *[[Kfz-Zulassungsstelle]]*. They will make a new plate for you. This costs around €15, and it only takes a few minutes.
 
-![Kfz Zulassungsstelle Berlin Schilder](/images/kfz-zulassungsstelle-berlin-schilder.jpg "The kiosks near the Kfz-Zulassungsstelle can make new licence plates for your car. New plates cost around €15.")
+![Kfz Zulassungsstelle Berlin Schilder](/images/kfz-zulassungsstelle-berlin-schilder.jpg "These kiosks near the Kfz-Zulassungsstelle can make new licence plates.")
 
 ### With a registration service
 

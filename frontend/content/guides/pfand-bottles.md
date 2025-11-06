@@ -47,7 +47,7 @@ These bottles can still be recycled, but they don't have a deposit.
 
 Bottle crates also have a deposit. It's usually €1.50. You can return bottle crates where you return bottles. Bottle return machines (*[Pfandautomaten](/glossary/Pfandautomat)*) have a hole at the bottom for bottle crates.
 
-![Bierkasten mit Pfand](/images/bierkasten-mit-pfand.jpg "A beer crate with a 1,€50 Pfand.")
+![Bierkasten mit Pfand](/images/bierkasten-mit-pfand.jpg "A beer crate with a Pfand.")
 
 ## How to identify Pfand bottles
 
