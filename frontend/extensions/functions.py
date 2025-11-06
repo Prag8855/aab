@@ -11,7 +11,7 @@ import urllib
 
 
 def to_currency(value: Decimal) -> str:
-    return "{:0,.2f}".format(value).replace(".00", "") if value else ""
+    return "{:0,.2f}".format(value).replace(".00", "") if value is not None else ""
 
 
 def random_id() -> str:
