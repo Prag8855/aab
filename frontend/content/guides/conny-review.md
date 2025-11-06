@@ -64,6 +64,8 @@ Some cases are processed in a week, and others in a year. Even if it takes a lon
 
 While you wait, you don't get many updates. Many negative reviews mention the long wait times and the lack of communication.[^1] As Conny wins more court cases, many landlords choose to cooperate, instead of going to court. Those cases get resolved faster.
 
+**Note:** Conny got many negative Google Maps reviews removed. This is common practice in Germany.[^9]
+
 ### It makes landlords angry
 
 If you lower your rent, it can make your landlord angry. Your apartment is their investment, and you make them lose money. They can try to kick you out, or stop answering your calls.[^4]
@@ -122,5 +124,6 @@ In general, **I don't recommend Conny**. Their service works, but their fee is e
 [^6]: [goo.gl](https://goo.gl/maps/yDtRj5GfFBFzwbAz5)
 [^7]: [engine.wenigermiete.de](https://www.engine.wenigermiete.de/contract-termination?language=en)
 [^8]: [goo.gl](https://goo.gl/maps/b3wWBDhezXqioAqAA)
+[^9]: Many of the reviews I cited before got removed. [Reddit](https://www.reddit.com/r/germany/comments/1kcz6vf/google_is_removing_all_bad_reviews/) (2025)
 [^12]: [berliner-mieterverein.de](https://www.berliner-mieterverein.de/mitgliedsbeitraege-und-leistungen.htm#:~:text=mit%20einer%20dreimonatigen%20wartefrist%20), [mieterbund-siegerland.de](https://www.mieterbund-siegerland.de/infos/faqs/nichtmitglieder/kuemmert-sich-der-mieterbund-auch-noch-um-probleme-die-ich-bereits-habe-wenn-ich-beitreten-moechte#:~:text=eine%203-monatige%20wartezeit%20ab%20beginn%20der%20versicherungszeit%20besteht)
 [^14]: [Conny](https://conny.de/en/rent/prices) (June 2024)

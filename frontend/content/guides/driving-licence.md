@@ -42,7 +42,7 @@ You must find a driving school and sign a contract (*Ausbildungvertrag*) with th
 
 **[English-speaking driving schools in Berlin ➞](/guides/english-driving-schools-in-berlin)**
 
-Read the driving school's reviews on Google Maps. Some schools are really bad. Some instructors encourage you to take more driving lessons than you need.
+Read the driving school's reviews on Google Maps. Some schools are really bad. Some instructors encourage you to take more driving lessons than you need. Be careful: German businesses often get negative reviews removed.[^21]
 
 You can start driving classes as soon as you find a driving school. Later, you need permission from the *[[Bürgeramt]]* to take the driving exam.
 
@@ -192,5 +192,6 @@ You can also [rent a car when you need it](/guides/public-transit#rent-a-car). C
 [^16]: [rbb24.de](https://www.rbb24.de/panorama/beitrag/2024/01/berlin-senat-fuehrerschein-praktische-fahrpruefung.html#:~:text=etwa%20vier%20monate%20warten) (2024)
 [^17]: [§ 12 Abs. 7 FeV](https://www.buzer.de/12_FeV.htm), [brille24.de](https://www.brille24.de/ratgeber/augenoptik/fuehrerschein-sehtest#:~:text=Pkw%20leider%20verzichten.-,fuhrerschein%20mit%20brille%3A%20was%20musst%20du%20wissen%3F%20,-Grunds%C3%A4tzlich%20musst%20du), [Apollo.de](https://www.apollo.de/service/fuehrerschein-sehtest) (2024)
 [^18]: [§ 12 Abs. 2 FeV](https://www.buzer.de/12_FeV.htm)
-[^19]: [Reddit](https://old.reddit.com/r/germany/comments/1lvfean/my_noneu_to_german_driving_license_conversion/) (2025), [ersthelfer.tv](https://www.ersthelfer.tv/preise/) (2025)
+[^19]: [Reddit](https://old.reddit.com/r/germany/comments/1lvfean/my_noneu_to_german_driving_licence_conversion/) (2025), [ersthelfer.tv](https://www.ersthelfer.tv/preise/) (2025)
 [^20]: [dekra.de](https://dekraprod-media.e-spirit.cloud/578b2cd5-7629-485e-a4b6-6c4e73f71231/media/1gebuehrenliste-alle-bl-ab-05-02-2024-extern-1.pdf) (July 2025)
+[^21]: [Reddit](https://old.reddit.com/r/FragReddit/comments/1d8l9m3/schlechte_googlebewertungen_werden_nun_aufgrund/) (2024), [Google](https://support.google.com/maps/thread/331484956/negative-rezensionen-werden-massenhaft-gel%C3%B6scht?hl=de) (2025), [SWR](https://www.swr.de/leben/verbraucher/ard-marktcheck/google-bewertungen-rezensionen-ehrliche-kritik-wird-immer-wieder-geloescht-100.html) (2025)
