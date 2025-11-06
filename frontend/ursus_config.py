@@ -401,6 +401,7 @@ ctx["ORDNUNGSAMT_DANGEROUS_DOG_FEE"] = 30  # service.berlin.de/dienstleistung/32
 ctx["RUNDFUNKBEITRAG_FEE"] = Decimal("18.36")
 ctx["SCHUFA_REPORT_FEE"] = fail_on("2025-12-01", Decimal("29.95"))  # TODO: Not watched
 ctx["VEHICLE_UMMELDUNG_FEE"] = Decimal("10.80")  # service.berlin.de/dienstleistung/120658
+ctx["LICENSE_PLATE_COST"] = fail_on("2027-12-31", 20)  # Cost of making license plates
 
 
 # ==============================================================================

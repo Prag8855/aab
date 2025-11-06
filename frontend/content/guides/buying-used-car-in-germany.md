@@ -173,7 +173,7 @@ When you go to your *[[Kfz-Zulassungsstelle]]* appointment, bring these document
 - [ ] **Money for the registration fee**  
     The registration fee is €19.60 to €31.50.[^8] The *[[Kfz-Zulassungsstelle]]* only accepts EC-cards and cash.[^9]
 - [ ] **Money for a new plate**  
-    If necessary, bring an extra €15 to get new licence plates. There are many kiosks that make licence plates next to the *[[Kfz-Zulassungsstelle]]*. The kiosks in front of the building.
+    If necessary, bring an extra €{{LICENSE_PLATE_COST|cur}} to get new licence plates. There are many kiosks that make licence plates next to the *[[Kfz-Zulassungsstelle]]*. The kiosks in front of the building.
 - [ ] **The filled vehicle registration form**  
     Print and fill the [vehicle registration form](/documents/sepa-lastschriftmandat-kfz-zulassungsstelle-berlin.pdf).
 - [ ] **The filled direct debit authorisation**  
@@ -185,7 +185,7 @@ During the appointment, the employee will give you a [plastic card](/images/kass
 
 The employee will put a new [sticker](/images/berlin-licence-plate-sticker.jpg) on your licence plate, and give it back to you. If the vehicle is already registered in the same city, you can use the old licence plate.
 
-If you need a new licence plate, you can go to one of the kiosks in front of the *[[Kfz-Zulassungsstelle]]*. They will make a new plate for you. This costs around €15, and it only takes a few minutes.
+If you need a new licence plate, you can go to one of the kiosks in front of the *[[Kfz-Zulassungsstelle]]*. They will make a new plate for you. This costs around €{{LICENSE_PLATE_COST|cur}}, and it only takes a few minutes.
 
 ![Kfz Zulassungsstelle Berlin Schilder](/images/kfz-zulassungsstelle-berlin-schilder.jpg "These kiosks near the Kfz-Zulassungsstelle can make new licence plates.")
 
