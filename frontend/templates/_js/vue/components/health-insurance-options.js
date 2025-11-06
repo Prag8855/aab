@@ -13,7 +13,7 @@
 Vue.component('health-insurance-options', {
 	mixins: [brokerMixin, uniqueIdsMixin, healthInsuranceOptionsMixin],
 	computed: {
-		optionsList(){
+		mainOptions(){
 			return this.results.asList.map(r => r.id).filter(id => ['public', 'private', 'expat'].includes(id));
 		},
 		intro(){
@@ -21,7 +21,7 @@ Vue.component('health-insurance-options', {
 			if(this.flag('free')){
 				output += " You might also qualify for free health insurance.";
 			}
-			else if(this.optionsList.length === 1){
+			else if(this.mainOptions.length === 1){
 				output += " It's your only option.";
 			}
 
@@ -33,7 +33,7 @@ Vue.component('health-insurance-options', {
 			}
 
 			if(output){
-				const options = new Intl.ListFormat('en-US', {style: 'long', type: 'disjunction'}).format(this.optionsList);
+				const options = new Intl.ListFormat('en-US', {style: 'long', type: 'disjunction'}).format(this.mainOptions);
 				output = `You must choose <strong>${options} health insurance</strong>. ${output.trim()}`;
 			}
 
@@ -51,29 +51,11 @@ Vue.component('health-insurance-options', {
 			);
 		},
 
-		familienversicherungText() {
-			const parents = this.flag('familienversicherung-parents');
-			const spouse = this.flag('familienversicherung-spouse');
-			let sponsors = null;
-			if(parents && spouse){
-				sponsors = 'your parents or your spouse have';
-			}
-			else if(spouse){
-				sponsors = 'your spouse has';
-			}
-			else if(parents){
-				sponsors = 'your parents have';
-			}
-
-			return `If ${sponsors} public health insurance, it covers you for free.`;
-		},
-
 		/***************************************************
 		* Clarification for each option
 		***************************************************/
 
 		clarification(){
-			// There is no Azubi or unemployed clarification
 			if(occupations.isStudent(this.occupation)){
 				return this.studentClarification;
 			}
@@ -83,21 +65,22 @@ Vue.component('health-insurance-options', {
 			else if(occupations.isEmployed(this.occupation)){
 				return this.employeeClarification;
 			}
+			// There is no Azubi or unemployed clarification
 			return {};
 		},
-
 		employeeClarification(){
-			const output = {};
 			if(this.results.private.eligible){
 				if(this.minCostByOption.public > this.minCostByOption.private){
-					output.private = "It's cheaper because you are young and you have a good income. You pay less <em>and</em> get better coverage.";
-					output.public = "It's more expensive because it costs a percentage of your income.";
+					return {
+						private: "It's cheaper because you are young and you have a good income. You pay less <em>and</em> get better coverage.",
+						public: "It's more expensive because it costs a percentage of your income.",
+					}
 				}
 				else {
-					output.private = "In your situation, private only makes sense if you want better coverage or faster doctor appointments. Public health insurance is cheaper.";
+					return { private: "In your situation, private only makes sense if you want better coverage or faster doctor appointments. Public health insurance is cheaper."}
 				}
 			}
-			return output;
+			return {};
 		},
 		selfEmployedClarification(){
 			const output = {};
@@ -130,47 +113,37 @@ Vue.component('health-insurance-options', {
 			return output;
 		},
 		studentClarification(){
-			const output = {
-				public: null,
-			};
-
-			// Students under 30 years old
-			if(this.flag('public-tariff-student')){
-				if(this.flag('free')){
-					output.public = "If you can't get free health insurance, this is the <strong>best option</strong>.";
-				}
-				else{
-					output.public = "This is the <strong>best option</strong> for students under 30 years old.";
-				}
-
-				output.expat = "It's cheaper, but <strong>the coverage is bad</strong>. Public health insurance is better.";
-				output.private = "It's more expensive, but you can get <strong>better coverage</strong> and faster doctor appointments.";
+			if(this.flag('public-tariff-student')){ // Students under 30
+				return {
+					public: "This is the best option for students under 30 years old.",
+					expat: "It's cheaper, but the coverage is much worse. Public health insurance is a better option.",
+					private: "It's more expensive, but you can choose better coverage and faster doctor appointments.",
+				};
 			}
-			// Students over 30 years old
 			else if(this.flag('public-student-over-30')){
-				if(this.isApplyingForFirstVisa){
-					// TODO: Private explanation for EU students over 30?
-				}
-				else{
-					if(this.flag('free')){
-						output.expat = "If you can't get free health insurance, this is the <strong>cheapest option</strong>, but the coverage is not great."
-					}
-					else{
-						output.expat = "This is the <strong>cheapest option</strong> for students over 30 years old, but the coverage is not great."
-						output.private = "It's more expensive, but you get <strong>much better coverage</strong>.";
-					}
-				}
+				return {
+					expat: "It's cheap, but the coverage is much worse.",
+					private: "This is a good option for students over 30 years old.",
+					public: "It's more expensive because you are too old for the student tariff. It can still be a good option.",
+				};
 			}
-			else if(this.flag('public-not-werkstudent')){
-				if(this.hoursWorkedPerWeek > 20){
-					output.public += " You work more than 20 hours per week, so you don't pay the cheaper student tariff.";
-				}
-				else{
-					output.public += " Your income is too high, so you don't pay the cheaper student tariff.";
-				}
+		},
+
+		familienversicherungText() {
+			const parents = this.flag('familienversicherung-parents');
+			const spouse = this.flag('familienversicherung-spouse');
+			let sponsors = null;
+			if(parents && spouse){
+				sponsors = 'your parents or your spouse have';
+			}
+			else if(spouse){
+				sponsors = 'your spouse has';
+			}
+			else if(parents){
+				sponsors = 'your parents have';
 			}
 
-			return output;
+			return `If ${sponsors} public health insurance, it covers you for free.`;
 		},
 	},
 	methods: {
@@ -229,7 +202,7 @@ Vue.component('health-insurance-options', {
 		<div class="health-insurance-options">
 			<h2>Your options</h2>
 			<p v-html="intro" v-if="intro"></p>
-			<ul class="buttons list" v-if="optionsList.length > 1">
+			<ul class="buttons list" v-if="mainOptions.length > 1">
 				<li v-for="option in results.asList" v-if="option.eligible && option.id !== 'other'" :key="option.id">
 					<button class="button" @click="selectOption(option.id + 'Options')" :aria-label="option.name">
 						<div>
@@ -249,8 +222,8 @@ Vue.component('health-insurance-options', {
 				</li>
 			</ul>
 
-			<public-health-insurance-options @select="selectOption" v-bind="$props" v-if="optionsList.length === 1 && results.public.eligible"></public-health-insurance-options>
-			<expat-health-insurance-options @select="selectOption" v-bind="$props" v-if="optionsList.length === 1 && results.expat.eligible"></expat-health-insurance-options>
+			<public-health-insurance-options @select="selectOption" v-bind="$props" v-if="mainOptions.length === 1 && results.public.eligible"></public-health-insurance-options>
+			<expat-health-insurance-options @select="selectOption" v-bind="$props" v-if="mainOptions.length === 1 && results.expat.eligible"></expat-health-insurance-options>
 			<template v-if="results.other.eligible">
 				<hr>
 				<h3 v-text="results.other.name"></h3>
