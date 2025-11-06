@@ -588,7 +588,7 @@ Vue.component('health-insurance-calculator', {
 
 					<template v-if="mode === 'question'">
 						<button aria-label="Go back" class="button" @click="goToStart()">
-							<i class="icon left" aria-hidden="true"></i> <span class="no-mobile">Go back</span>
+							<i class="icon left" aria-hidden="true"></i> <span :class="{'no-mobile': !!contactMethod}">Go back</span>
 						</button>
 						<button v-if="contactMethod === 'EMAIL'" class="button primary" @click="createCase" :disabled="isLoading" :class="{loading: isLoading}">
 							Ask {{ broker.name }}
@@ -634,7 +634,7 @@ Vue.component('health-insurance-calculator', {
 
 			<div class="buttons bar" v-if="stage === 'options' || stage.endsWith('Options')">
 				<button aria-label="Go back" class="button" @click="stage === 'options' ? previousStage() : goToStage('options')">
-					<i class="icon left" aria-hidden="true"></i> <span class="no-mobile">Go back</span>
+					<i class="icon left" aria-hidden="true"></i> <span :class="{'no-mobile': stage === 'privateOptions'}">Go back</span>
 				</button>
 				<button v-if="stage === 'privateOptions'" class="button primary" @click="selectOption('askABroker')">
 					Get insured <i class="icon right" aria-hidden="true"></i>
