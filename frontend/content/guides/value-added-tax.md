@@ -28,7 +28,7 @@ Some goods and services have a VAT of {{VAT_RATE_REDUCED}}%, or no VAT.[^2]
 Reduced VAT ({{VAT_RATE_REDUCED}}%):
 
 - Some foods and beverages[^3]
-- Museum, theatre, concert and sport event tickets
+- Tickets for museum, theatre, concerts and sport events
 - Artistic, journalistic and copyrighted work
 - Hotel stays
 
