@@ -15,7 +15,7 @@ The *Pfand* system is a big part of [sorting your trash in Germany](/guides/sort
 
 ## How much is the deposit?
 
-The deposit is **between 8 and 25 cents**. It depends on the type of container.[^0]
+The deposit is **8 to 25 cents**. It depends on the type of container.[^0]
 
 Bottle crates (*Bierkasten*) also have a deposit between €0.75 and €1.50. [^6]
 
