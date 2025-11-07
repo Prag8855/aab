@@ -1,104 +1,108 @@
 ---
 Title: How to get a driving licence in Germany
 Short_title: How to get a driving licence
-Description: A detailed description of the process of obtaining a German Klasse A driving licence. This information is also valid for the Klasse B licence.
+Description: Instructions for getting a German driver's licence, from start to finish.
 Date_created: 2017-10-23
 ---
 
-This guide shows you how to get a car or motorcycle driving licence in Berlin.
+This guide explains how to get a car or motorcycle licence in Berlin.
 
 {% include "_blocks/tableOfContents.html" %}
 
-## How much does it cost?
+## Cost
 
-In total, it costs **around €4,000** to get your driving licence.[^0]{{fail_on('2026-06-01')}} The costs include:
+Getting a driving licence costs **€2,500 to €4,000**.[^0]{{fail_on('2026-12-31')}} The costs include:
 
-- [ ] Eyesight test: [€0](https://www.fielmann.de/service/fuehrerschein-sehtest/) to €25
+- [ ] Eyesight test: €0 to €25
 - [ ] [[Bürgeramt]] fee: €{{DRIVING_LICENCE_FEE|cur}}
 - [ ] Theory lessons: around €150
-- [ ] Theoretical exam: €25[^1]
-- [ ] Practical lessons: around €90 for 45 minutes[^2]
-    - Interurban driving: minimum 5 × 45 minutes
-    - Highway driving: minimum 4 × 45 minutes
-    - Driving at night: minimum 3 × 45 minutes
-    - Extra practice if you need it. Most people take more lessons.
-- [ ] Practical exam: €280
-    - Around €350 for the driving school
+- [ ] Theory exam: €25[^1]
+- [ ] Practical lessons: minimum 12 lessons, €90 per lesson[^2]
+- [ ] Practical exam: €480
     - €130 for TÜV/Dekra[^20]
+    - Around €350 for the driving school
 
-**For motorcyclists:** You also need around €1,000 to €2,000 for your motorcycle equipment: helmet, jacket, gloves, trousers and boots. Some driving schools will give you protective gear for your classes, but it's old and it doesn't fit well.
+## Timeline
 
-## 1. Convert your foreign driving licence
+It takes **a few months** from start to finish.[^35]
 
-If you have a driving licence from another country, you can sometimes trade it for a German one. It's cheaper and faster to convert a foreign driving licence than to get a new one.
+## Language requirements
+
+You don't need to speak German, but it helps. There are [English-speaking driving schools](/guides/english-driving-schools-in-berlin). Even if you take German classes, the practice app is usually in English.[^30]
+
+The [theory exam](#theory-exam) is in English, but the translations are really bad.[^31] Sometimes, I could not understand the English or French translations at all. It's easier if you take the test in German.
+
+The [practical exam](#practical-exam) might be in German, because some examiners don't speak English. You must understand simple instructions in German.[^25]
+
+## Get your licence in another country
+
+???
+
+## Convert your foreign driving licence
+
+You can convert your foreign driving licence into a German one. It's **cheaper and faster**. You might not need any driving lessons.
 
 **[How to convert a foreign driving licence ➞](/guides/convert-to-german-driving-licence)**
 
-**For motorcyclists:** You can rarely convert a foreign motorcycle licence. You will need to get a new motorcycle licence in Germany.
+## 1. Choose a driving school
 
-## 2. Choose a driving school
+[Find a driving school](/guides/english-driving-schools-in-berlin) and sign a [contract](/images/ausbildungvertrag.jpg) (*Ausbildungsvertrag*) with them.
 
-You must find a driving school and sign a contract (*Ausbildungvertrag*) with them. You need this contract for your *[[Bürgeramt]]* appointment.
+To choose a driving school, look at...[^23]
 
-**[English-speaking driving schools in Berlin ➞](/guides/english-driving-schools-in-berlin)**
+- **The costs**
+- **The schedule**  
+    Look at the timing and frequency of the lessons. Ask how long it takes to get your driving licence. Some schools have intensive classes. Classes in English are harder to find.
+- **The distance**  
+    If you take intensive lessons, choose a school near you.
+- **The reviews**  
+    Read the school's reviews on Google Maps. Don't trust the rating; German businesses often delete negative reviews.[^21] Check if they make you more classes than you need.
 
-Read the driving school's reviews on Google Maps. Some schools are really bad. Some instructors encourage you to take more driving lessons than you need. Be careful: German businesses often get negative reviews removed.[^21]
+You can start driving classes as soon as you find a driving school. You need permission from the *[[Bürgeramt]]* to take the practical exam.
 
-You can start driving classes as soon as you find a driving school. Later, you need permission from the *[[Bürgeramt]]* to take the driving exam.
+If you already have a car licence (*Klasse B*), you can skip some of the theory classes when you get your motorcycle licence.[^24]
 
-**For motorcyclists:** If you already have a car licence (*Klasse B*), you can skip some of the theory classes when you get your motorcycle licence. It saves you time.
+## 2. First aid course
 
-## 3. Get everything you need
+[Fahrschule Oscar](https://www.fahrschule-oscar.de/) and [Ersthelfer.tv](https://www.ersthelfer.tv/standorte/berlin-erste-hilfe-kurse/) give first aid classes in English.[^3] The course costs around €{{FIRST_AID_COURSE_COST|cur}}.[^19] It takes around 6 hours.[^4] There is no exam at the end.[^5] The exam certificate is valid for 2 years. 
 
-You must take a first aid course and an eyesight test. Then you must go to the *[[Bürgeramt]]* and get permission to take the driving exam.
+You will get a first aid certificate. Bring it to your [*Bürgeramt* appointment](#burgeramt-appointment).
 
-### First aid course
+## 3. Eye test
 
-[Fahrschule Oscar](https://www.fahrschule-oscar.de/) and [Ersthelfer.tv](https://www.ersthelfer.tv/standorte/berlin-erste-hilfe-kurse/) give first aid classes in English.[^3] The course takes a full day (8 hours).[^4] There is no exam at the end.[^5] The exam certificate is valid for 2 years. It costs around €65.[^19]{{ fail_on('2026-01-31') }}
+You need an eye test (*Sehtest*) before your *Bürgeramt* appointment.
 
-You will get a certificate. Bring it to your *[[Bürgeramt]]* appointment.
+You can get tested...
 
-### Eyesight test
-
-You can take an eye test (*Sehtest*)...
-
-- **At the optometrist** (*Optiker*)  
-    You can get a free test from [Fielmann](https://www.fielmann.de/service/fuehrerschein-sehtest/) or [Apollo](https://www.apollo.de/service/sehtest).
-- **Any eye doctor** (*Augenarzt*)
 - **At your driving school**  
-    Some driving schools like [Fahrschule Oscar](https://www.fahrschule-oscar.de/) offer the first aid and eyesight test.
-- **With your first aid class**  
+    Some driving schools like [Fahrschule Oscar](https://www.fahrschule-oscar.de/) include the eyesight test.
+- **During your first aid class**  
     [Ersthelfer.tv](https://www.ersthelfer.tv/leistungen/sehtest/) offer first aid *and* eyesight tests. You can do both at the same time.[^6]
+- **At the optometrist** (*[[Optiker]]*)  
+    You can get a free test from [Fielmann](https://www.fielmann.de/service/fuehrerschein-sehtest/) or [Apollo](https://www.apollo.de/service/sehtest).
+- **At the eye doctor** (*[[Augenarzt]]*)
 
-The eye test takes around 15 minutes. You must bring an ID document to the test.[^18]
+The eye test takes around 15 minutes. Bring an ID document to take the test.[^18]
 
-You can wear glasses or contact lenses for the test. If you pass the test with contact lenses or glasses, you must always wear them when you drive.[^17]
+You can wear glasses or contact lenses during the test. If you pass the test with glasses or contact lenses, you must always wear them when you drive.[^17]
 
-### Protective gear
+## 4. Bürgeramt appointment
 
-**For motorcyclists:** If you can, buy your own protective gear. Some driving schools will give you protective gear, but it's old and it doesn't fit well. I buy most of my gear from [Louis](https://goo.gl/maps/WBfJ3cDKbXTJ7gZV9) in Reinickendorf.
-
-Choosing equipment for the first time is hard. If you need help, [contact me](/contact). [This group](https://www.facebook.com/groups/150125349005531) can also help.
-
-**[Where to buy motorcycle gear in Berlin ➞](/guides/motorcycle-stores-in-berlin)**
-
-## 4. Get permission from the Bürgeramt
-
-You need permission from the *[[Bürgeramt]]* to take the theoretical exam. Get an appointment as soon as you find a driving school. Your appointments will be in a few weeks.
+You need permission from the *[[Bürgeramt]]* to take the theory exam. Get an appointment as soon as you find a driving school. Your appointment will be in a few weeks.
 
 **[Book an appointment ➞](/out/appointment-driving-licence)**
 
-After your appointment, you must wait 6 to 9 weeks to get the permission paper (see the [current processing times](https://www.berlin.de/labo/mobilitaet/aktuelles/aktuelle-bearbeitungsstaende-736453.php)).
+After your appointment, you must wait 6 to 9 weeks to get the permission paper. See the [current processing times](https://www.berlin.de/labo/mobilitaet/aktuelles/aktuelle-bearbeitungsstaende-736453.php).
 
 ### Required documents
 
-Bring these documents for your *[[Bürgeramt]]* appointment:[^7]
+Bring these documents to your *[[Bürgeramt]]* appointment:[^7]
 
 1. Passport or *[[Personalausweis]]*
-2. First aid course certificate
-3. Eyesight test certificate
-4. Biometric picture - [where to get one](/guides/biometric-pictures-in-berlin){{ fail_on('2026-01-01')}}
-5. Contract from your driving school (*Ausbildungvertrag*) - [mine looked like this](/images/ausbildungvertrag.jpg)
+2. [First aid course](#first-aid-course) certificate
+3. [Eye test](#eye-test) certificate
+4. [Biometric picture](/guides/biometric-pictures-in-berlin){{ fail_on('2026-01-01')}}
+5. [Contract](/images/ausbildungvertrag.jpg) from your driving school (*Ausbildungsvertrag*)
 6. Payment for the €{{DRIVING_LICENCE_FEE|cur}} fee - Check which payment methods your *Bürgeramt* accepts.
 
 ### During the Bürgeramt appointment
@@ -107,91 +111,98 @@ The appointment takes 15 minutes. During the appointment, you must:
 
 - Show the required documents
 - Pay the €{{DRIVING_LICENCE_FEE|cur}} fee
-- Choose the Dekra or TÜV location where you will take your driving exam
+- Choose the Dekra or TÜV location where you will take your driving exam[^29]
 
 If you can, ask them to mail you the driving licence when it's ready. It costs €5 more, but it means you don't have to pick it up at the *Fahrerlaubnisbehörde*.
 
-6 to 9 weeks later, you will get a letter that gives you the permission to take a driving exam. Show it to your driving school, and they will give you a training certificate[^8] (*Ausbildungsbescheinigung der Fahrschule*). With this document, you have everything you need to take the theoretical exam later.[^9]
+6 to 9 weeks later, you will get a letter that gives you the permission to take a driving exam. Show it to your driving school, and they will give you a training certificate (*Ausbildungsbescheinigung der Fahrschule*).[^8] With this document, you have everything you need to take the theory exam later.
 
-This permission is valid for 12 months.[^10]
+This permission is valid for 12 months.[^26]
 
-![Img 1312 1](/images/IMG_1312-1.jpg)
+![Bürgeramt permission for driving classes](/images/IMG_1312-1.jpg)
 
-## 5. Take the theoretical exam
+## 5. Theory exam
 
-The theoretical exam is available in 11 languages, including English.[^10] You sit at a computer and answer 30 random questions from a list of over 900 questions. If you get more than 3 or 4 questions wrong, you fail the exam.
+The theory exam is available in 11 languages, including English.[^27] You sit at a computer and answer 30 random questions from a list of around 1,000 questions. If you make more than 2 to 4 mistakes, you fail the test.[^28]
 
-Some questions are really hard. They are badly translated, and the translations can be confusing or misleading. **Memorisation is the only way to pass the exam**.[^11]
+Some questions are really hard. The translations are really bad.[^31] **Memorisation is the only way to pass the exam**.[^11]
 
 Your driving school will give you access to a practice app. The questions in the app are exactly the same as in the real exam. Even the translations are the same.[^12] You must memorise all the questions and all the answers. I needed 3 to 4 weeks to prepare.
 
-When you are ready to take the theoretical exam, go to your assigned Dekra or TÜV branch. You don't need an appointment. It costs €22.49.[^9]
+When you are ready to take the theory exam, go to your assigned Dekra or TÜV branch. You don't need an appointment. It costs €{{DRIVING_THEORY_EXAM_FEE|cur}}.[^9] The test takes around 20 minutes.[^32]
 
-## 6. Take the practical exam
+After the test, you get a certificate by email. The certificate is valid for 12 months.[^33]
 
-As soon as you pass the theoretical exam, your driving school can schedule your practical exam with Dekra or TÜV. In Berlin, your exam will be in a few months.[^16]
+## 6. Practical exam
 
-The practical exam is similar to what you practised. Your driving instructor and the examiner will sit in the car with you. If you take the motorcycle exam, they will follow in a car behind you.
+After you pass the theory exam, your driving school can schedule your practical exam with Dekra or TÜV. In Berlin, your exam will be in a few months.[^16]
 
-**The examiners rarely speak English**. You must understand enough German to listen to their instructions.
+The practical exam takes around 1 hour.[^14] It's similar to what you practised. Your driving instructor and the examiner will sit in the car with you. If you take the motorcycle exam, they will follow in a car behind you.
 
-The practical exam includes city driving, highway driving and a few technical maneuvers. You will take a short trip from the Dekra or TÜV branch to a quiet street where you will be asked to perform some maneuvers.
+**The examiners rarely speak English**. You must understand enough German to understand their instructions.
+
+The practical exam includes city driving, highway driving and a few technical maneuvers. You will drive from the Dekra or TÜV branch to a quiet street, and you will have to perform some maneuvers.
 
 You must be well-prepared. **44% of students fail their first practical exam.**[^15]
 
 If you are not sure, watch [videos of German driving exams](https://www.youtube.com/@GermanDrivingSchool). These videos describe exactly how the exam works, in English.
 
-You will then drive back to the Dekra or TÜV branch. This is still part of the exam, so be careful. If you passed the exam, the instructor will take your current driving licence (if you have one), and give you a temporary driving licence.
+You will then drive back to the Dekra or TÜV branch. This is also part of the test. If you passed the exam, the instructor will take your current driving licence (if you have one), and give you a temporary driving licence.[^34]
 
 ## 7. Get your driving licence
 
-When you pass your practical exam, you get a temporary driving licence (*Vorläufiger Nachweis der Fahrerlaubnis* or *VNF*). It's valid for 3 months, and only when carried with a valid ID.[^10] You also give back your current driving licence, so this is your only driving licence for now.
+When you pass the practical exam, you get a temporary driving licence (*Vorläufiger Nachweis der Fahrerlaubnis* or *VNF*). It's valid for 3 months, and only when carried with a valid ID.[^10] You also give back your current driving licence, so this is your only driving licence for now. This temporary licence is only valid in Germany.
 
 [![Temporary driving licence in Germany](/images/IMG_1316.jpg "Temporary driving licence")](/images/IMG_1316.jpg)
 
-The Bundesdruckerei will print a plastic *Kartenführerschein* for you. This will take a few months.[^13] It may be sent to you by [registered mail](/glossary/Einschreibebrief), or you might need to pick it up at the *Fahrerlaubnisbehörde*.
+2 to 6 weeks later, you will get your plastic driving licence.[^36]
 
 This information is in the letter you got from the Bürgeramt in step 4.
 
-### Get your driving licence by post
-
-If you paid the €5 fee, and your letter says you should get the plastic driving licence by post, you just need to wait. The licence is sent by [registered mail](/glossary/Einschreibebrief), so you are guaranteed to receive it.[^10][^16]
-
-### Pick up the plastic licence from the Fahrerlaubnisbehörde
-
-If you didn't pay a €5 fee, your letter should tell you to pick up your licence from the *[Fahrerlaubnisbehörde](https://www.google.com/maps/place/LABO+Fahrerlaubnisbeh%C3%B6rde/@52.5045857,13.3871626,17z/)* at least 4 weeks after passing your driving exam. **You will NOT be informed when your permanent licence is ready.** You do not need an appointment to visit the *Fahrerlaubnisbehörde*[^13] and pick it up.
-
-Just go to the *Fahrerlaubnisbehörde* with your temporary driving licence and your ID,[^14] and say that you came to pick up your driving licence. You must wait until they call you. It can take an hour. You will give your temporary driving licence and get your plastic driving licence.
+## What to do next
 
 ### Get an International Driving Permit
 
 Your German driving licence is valid in all [[European Union]] countries. Outside the European Union, you might need an [International Driving Permit](/guides/international-driving-permit-germany). In my experience, you rarely need an International Driving Permit. I drove in over 50 countries, and don't remember ever using it.
 
-## 8. Buy a vehicle
+### Buy a car
 
 **[How to buy a vehicle in Germany ➞](/guides/buying-used-car-in-germany)**
 
-You can also [rent a car when you need it](/guides/public-transit#rent-a-car). Car sharing services are useful if you don't drive often.
+You can also [rent a car when you need it](/guides/public-transit#rent-a-car). If you don't drive often, car sharing is better.
 
-[^0]: [Reddit](https://old.reddit.com/r/germany/comments/1jqaysg/driving_school_in_germany_my_running_bill_is_at/) (April 2025), [Reddit](https://old.reddit.com/r/de/comments/1bewalm/f%C3%BChrerscheinkosten_summieren_sich_oft_auf_3500/) (2024), [Reddit](https://old.reddit.com/r/berlin/comments/8kgizw/is_anyone_into_bikes_especially_cafe_racer_type/dz8bvqd/), [Reddit](https://old.reddit.com/r/germany/comments/1lvfean/my_noneu_to_german_driving_license_conversion/) (2025)
-[^1]: [dekra.de](https://dekraprod-media.e-spirit.cloud/578b2cd5-7629-485e-a4b6-6c4e73f71231/media/1gebuehrenliste-alle-bl-ab-05-02-2024-extern-1.pdf) (July 2025)
+[^0]: [Reddit](https://old.reddit.com/r/germany/comments/1jqaysg/driving_school_in_germany_my_running_bill_is_at/) (April 2025), [Reddit](https://old.reddit.com/r/de/comments/1bewalm/f%C3%BChrerscheinkosten_summieren_sich_oft_auf_3500/) (2024), [Reddit](https://old.reddit.com/r/berlin/comments/8kgizw/is_anyone_into_bikes_especially_cafe_racer_type/dz8bvqd/), [Reddit](https://old.reddit.com/r/germany/comments/1lvfean/my_noneu_to_german_driving_licence_conversion/) (2025), [ArbeitNow](https://www.arbeitnow.com/blog/drivers-license-in-germany#total-costs-of-the-driving-license-in-berlin) (2025)
+[^1]: [dekra.de](https://dekraprod-media.e-spirit.cloud/578b2cd5-7629-485e-a4b6-6c4e73f71231/media/1gebuehrenliste-alle-bl-ab-05-02-2024-extern-1.pdf) (July 2025), [ArbeitNow](https://www.arbeitnow.com/blog/drivers-license-in-germany#:~:text=i%20did%20not%20pay%20the%20fee%20of%2025%E2%82%AC%20online) (2025)
 [^2]: [as-fahrschule.de](https://www.as-fahrschule.de/preise/driving-lessons-in-english/)
-[^3]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/80h3vm/first_aid_course_for_german_driving_license_in/duw9u9r/), [first-aid-courses-berlin.myshopify.com](https://first-aid-courses-berlin.myshopify.com/collections/fahrschule-oscar)
-[^4]: [ersthelfer.tv](https://www.ersthelfer.tv/standorte/berlin-erste-hilfe-kurse/)
+[^3]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/80h3vm/first_aid_course_for_german_driving_licence_in/duw9u9r/), [first-aid-courses-berlin.myshopify.com](https://first-aid-courses-berlin.myshopify.com/collections/fahrschule-oscar)
+[^4]: Citation needed, [ersthelfer.tv](https://www.ersthelfer.tv/standorte/berlin-erste-hilfe-kurse/), [ArbeitNow](https://www.arbeitnow.com/blog/drivers-license-in-germany) (2025)
 [^5]: [reddit.com/r/berlinmoto](https://old.reddit.com/r/berlinmoto/comments/8fzfkt/how_to_get_a_motorcycle_licence_in_germany/dz9y44t/)
 [^6]: [ersthelfer.tv](https://www.ersthelfer.tv/leistungen/sehtest/), [first-aid-courses-berlin.myshopify.com](https://first-aid-courses-berlin.myshopify.com/collections/fahrschule-oscar)
-[^7]: [berlin.de](https://service.berlin.de/dienstleistung/121627/)
+[^7]: Citation needed (check page again, monitor, and do you need a local first aid test?) [berlin.de](https://service.berlin.de/dienstleistung/121627/)
 [^8]: [Screenshot](/images/2012I1344.gif)
-[^9]: [dekra.de](https://www.dekra.de/de/fahrerlaubnispruefung/)
-[^10]: [berlin.de](https://www.berlin.de/labo/mobilitaet/fahrerlaubnisse-personen-und-gueterbefoerderung/fahrerlaubnis-fuehrerschein/artikel.283188.php)
-[^11]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/6w71m8/has_anyone_taken_a_driving_exam_in_another/), [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/317m95/driving_license_theoretical_exam/)
-[^12]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/6w71m8/has_anyone_taken_a_driving_exam_in_another/), [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/317m95/driving_license_theoretical_exam/)
-[^13]: [reddit.com](https://old.reddit.com/r/berlin/comments/yv8dqx/impossible_to_get_an_appointment_at/)
-[^14]: [marlonbernardes.github.io](https://marlonbernardes.github.io/awesome-berlin/en/pages/obtaining-a-drivers-license.html#picking-up-your-permanent-license)
-[^15]: [rbb24.de](https://www.rbb24.de/panorama/beitrag/2024/01/berlin-senat-fuehrerschein-praktische-fahrpruefung.html#:~:text=in%20berlin%20fallen%2044%20prozent) (2024)
+[^9]: Citation needed, [dekra.de](https://www.dekra.de/de/fahrerlaubnispruefung/)
+[^10]: Citation needed (check, update url), [berlin.de](https://www.berlin.de/labo/mobilitaet/fahrerlaubnisse-personen-und-gueterbefoerderung/fahrerlaubnis-fuehrerschein/artikel.283188.php)
+[^11]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/6w71m8/has_anyone_taken_a_driving_exam_in_another/), [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/317m95/driving_licence_theoretical_exam/)
+[^12]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/6w71m8/has_anyone_taken_a_driving_exam_in_another/), [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/317m95/driving_licence_theoretical_exam/)
+[^14]: [ArbeitNow](https://www.arbeitnow.com/blog/drivers-license-in-germany#:~:text=it%20is%20overall%20for%20around%2055%20minutes.%20) (2025)
+[^15]: [rbb24.de](https://www.rbb24.de/panorama/beitrag/2024/01/berlin-senat-fuehrerschein-praktische-fahrpruefung.html#:~:text=in%20berlin%20fallen%2044%20prozent) (2024), [bussgeldkatalog.org](https://www.bussgeldkatalog.org/news/alarmierende-statistik-durchfallquote-bei-der-fahrpruefung-erneut-gestiegen-667751/)
 [^16]: [rbb24.de](https://www.rbb24.de/panorama/beitrag/2024/01/berlin-senat-fuehrerschein-praktische-fahrpruefung.html#:~:text=etwa%20vier%20monate%20warten) (2024)
 [^17]: [§ 12 Abs. 7 FeV](https://www.buzer.de/12_FeV.htm), [brille24.de](https://www.brille24.de/ratgeber/augenoptik/fuehrerschein-sehtest#:~:text=Pkw%20leider%20verzichten.-,fuhrerschein%20mit%20brille%3A%20was%20musst%20du%20wissen%3F%20,-Grunds%C3%A4tzlich%20musst%20du), [Apollo.de](https://www.apollo.de/service/fuehrerschein-sehtest) (2024)
 [^18]: [§ 12 Abs. 2 FeV](https://www.buzer.de/12_FeV.htm)
-[^19]: [Reddit](https://old.reddit.com/r/germany/comments/1lvfean/my_noneu_to_german_driving_licence_conversion/) (2025), [ersthelfer.tv](https://www.ersthelfer.tv/preise/) (2025)
+[^19]: [Reddit](https://old.reddit.com/r/germany/comments/1lvfean/my_noneu_to_german_driving_licence_conversion/) (2025), [ersthelfer.tv](https://www.ersthelfer.tv/preise/) (2025), [ArbeitNow](https://www.arbeitnow.com/blog/drivers-license-in-germany#:~:text=it%20in%20English.-,it%20cost%2070%E2%82%AC.,-B%C3%BCrgeramt%20application) (2025)
 [^20]: [dekra.de](https://dekraprod-media.e-spirit.cloud/578b2cd5-7629-485e-a4b6-6c4e73f71231/media/1gebuehrenliste-alle-bl-ab-05-02-2024-extern-1.pdf) (July 2025)
 [^21]: [Reddit](https://old.reddit.com/r/FragReddit/comments/1d8l9m3/schlechte_googlebewertungen_werden_nun_aufgrund/) (2024), [Google](https://support.google.com/maps/thread/331484956/negative-rezensionen-werden-massenhaft-gel%C3%B6scht?hl=de) (2025), [SWR](https://www.swr.de/leben/verbraucher/ard-marktcheck/google-bewertungen-rezensionen-ehrliche-kritik-wird-immer-wieder-geloescht-100.html) (2025)
+[^23]: [ArbeitNow](https://www.arbeitnow.com/blog/drivers-license-in-germany#criteria-i-set-for-finding-a-driving-school) (2025)
+[^24]: Personal experience (2017)
+[^25]: Personal experience (2017)
+[^26]: Citation needed (check, update url), [berlin.de](https://www.berlin.de/labo/mobilitaet/fahrerlaubnisse-personen-und-gueterbefoerderung/fahrerlaubnis-fuehrerschein/artikel.283188.php)
+[^27]: Citation needed (check, update url), [berlin.de](https://www.berlin.de/labo/mobilitaet/fahrerlaubnisse-personen-und-gueterbefoerderung/fahrerlaubnis-fuehrerschein/artikel.283188.php)
+[^28]: [ArbeitNow](https://www.arbeitnow.com/blog/drivers-license-in-germany#:~:text=you%20fail%20a%20theory%20exam%20if) (2025)
+[^29]: Citation needed - do you need to talk to Dekra or choose in advance?
+[^30]: Personal experience (2017), [ArbeitNow](https://www.arbeitnow.com/blog/drivers-license-in-germany#preparing-for-the-theory-exam) (2025)
+[^31]: Personal experience (2017), [ArbeitNow](https://www.arbeitnow.com/blog/drivers-license-in-germany#:~:text=often%2C%20the%20english%20translation%20from%20dekra%20%2F%20tuv%20is%20messy) (2025)
+[^32]: [ArbeitNow](https://www.arbeitnow.com/blog/drivers-license-in-germany#:~:text=exam%20and%20in-,roughly%2015%20minutes,-%2C%20I%20was%20done) (2025)
+[^33]: Citation needed, [ArbeitNow](https://www.arbeitnow.com/blog/drivers-license-in-germany#:~:text=valid%20only%20for%2012%20months) (2025)
+[^34]: Personal experience (2017), [ArbeitNow](https://www.arbeitnow.com/blog/drivers-license-in-germany#:~:text=only%20in%20germany%20with%20a%20valid%20passport%20or%20personalausweis) (2025)
+[^35]: [ArbeitNow](https://www.arbeitnow.com/blog/drivers-license-in-germany#:~:text=weeks.timeline%20of%20my%20driving%20license) (2025)
+[^36]: [ArbeitNow](https://www.arbeitnow.com/blog/drivers-license-in-germany#:~:text=received%20the%20physical%20license%20card%20two%20weeks%20later) (2025)
