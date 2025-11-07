@@ -21,15 +21,6 @@ issue_selfsigned_cert() {
     -subj '/CN=localhost'
 }
 
-reload_nginx_on_config_changes () {
-  echo "Tracking changes to redirects/301.map and redirects/302.map"
-  while inotifywait -e modify -e move -e create /var/www/html/redirects/301.map /var/www/html/redirects/302.map; do
-      echo "Config changed, reloading nginx..."
-      nginx -s reload
-  done
-  echo "Stopped tracking changes to redirects/301.map and redirects/302.map"
-}
-
 if [ ! -f "$CERT_CHAIN_PATH" ]; then
   echo "No SSL certificate found. Issuing a self-signed certificate to let nginx start."
   issue_selfsigned_cert
@@ -57,13 +48,6 @@ if [ "$SSL_DOMAIN" != "localhost" ]; then
 else
   echo "Domain is 'localhost'. Using self-signed certificate."
 fi
-
-echo "Monitoring changes to redirects files"
-# In production, those files don't exist until ursus_builder has run once.
-# This prevents nginx from starting, so we create placeholders.
-mkdir -p /var/www/html/redirects
-touch /var/www/html/redirects/301.map /var/www/html/redirects/302.map;
-reload_nginx_on_config_changes &
 
 echo "Starting nginx..."
 nginx -g "daemon off;"

@@ -1,5 +1,5 @@
 FROM nginx:mainline-alpine
-RUN apk add --no-cache openssl inotify-tools && rm -rf /tmp/packages
+RUN apk add --no-cache openssl && rm -rf /tmp/packages
 
 # Regular stuff
 COPY nginx/ /etc/nginx/

@@ -35,6 +35,7 @@ services:
       - "acme_sh:/root/.acme.sh"
       - "api_staticfiles:/var/www/api/staticfiles:ro"
       - "./frontend/output:/var/www/html"
+      - "./frontend/content/redirects:/etc/nginx/redirects"
 volumes:
   acme_sh:
   api_db:
