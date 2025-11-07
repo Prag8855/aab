@@ -84,6 +84,8 @@ If you have [public health insurance](/glossary/gesetzliche%20Krankenversicherun
 
 If you go to an optician, you must pay around €25 for the test. Usually, the test is free if you also buy eyeglasses.
 
+If you take a first aid class for your [driving licence](/guides/driving-licence), it usually includes a free eye test.[^15]
+
 ### Deduct glasses from your taxes
 
 You can deduct eyeglasses from your taxes.[^10] If you went to an ophthalmologist (*Augenarzt*), you can also deduct your eye test.[^11]
@@ -107,3 +109,4 @@ You can't deduct glasses as a business expense (*Werbungskosten*),[^14] unless y
 [^12]: [taxfix.de](https://taxfix.de/ratgeber/steuern-sparen/was-sind-aussergewoehnliche-belastungen/)
 [^13]: [gesetze-im-internet.de](http://www.gesetze-im-internet.de/estdv_1955/__64.html), [taxfix.de](https://taxfix.de/ratgeber/steuern-sparen/was-sind-aussergewoehnliche-belastungen/), [taxfix.de](https://taxfix.de/ratgeber/steuern-sparen/brille-von-der-steuer-absetzen/)
 [^14]: [vlh.de](https://www.vlh.de/arbeiten-pendeln/beruf/brille-als-werbungskosten-absetzen.html)
+[^15]: [ArbeitNow](https://www.arbeitnow.com/blog/drivers-license-in-germany#total-costs-of-the-driving-license-in-berlin) (2025)
