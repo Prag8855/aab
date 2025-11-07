@@ -37,9 +37,9 @@ ctx["MEDIAN_INCOME_GERMANY"] = fail_on("2025-12-31", 52159)  # Early 2025
 ctx["AU_PAIR_MIN_ALLOWANCE"] = fail_on("2025-12-01", 280)
 
 # Maximum income used to calculate pension contributions (€/y)
-ctx["BEITRAGSBEMESSUNGSGRENZE"] = fail_on("2025-12-31", 8050 * 12)  # § SGB 6 Anlage 2 [BBGRV]
+ctx["BEITRAGSBEMESSUNGSGRENZE"] = fail_on("2026-12-31", 8450 * 12)  # § SGB 6 Anlage 2 [BBGRV]
 
-ctx["GRUNDFREIBETRAG"] = fail_on("2025-12-31", 12096)  # § 32a EstG [GFB]
+ctx["GRUNDFREIBETRAG"] = fail_on("2026-12-31", 12348)  # § 32a EstG [GFB]
 ctx["INCOME_TAX_BRACKET_2_MAX_INCOME"] = fail_on("2025-12-31", 17430)  # § 32a EstG [UPTAB24]
 ctx["INCOME_TAX_BRACKET_3_MAX_INCOME"] = fail_on("2025-12-31", 68430)  # § 32a EstG [UPTAB24]
 ctx["INCOME_TAX_BRACKET_4_MAX_INCOME"] = fail_on("2025-12-31", 277825)  # § 32a EstG [UPTAB24]
@@ -66,7 +66,7 @@ ctx["SONDERAUSGABEN_PAUSCHBETRAG"] = 36  # (€/y) § 10c EStG [SAP]
 ctx["ARBEITSLOSENVERSICHERUNG_EMPLOYEE_RATE"] = Decimal("1.3")  # § 341 SGB 3, BeiSaV 2019
 
 # Kindergeld amount per child (€/m) - §6 Abs. 1 BKGG
-ctx["KINDERGELD"] = fail_on("2025-12-31", 255)
+ctx["KINDERGELD"] = fail_on("2026-12-31", 259)
 
 # Tax break for parents (€/y) - § 32 Abs. 6 EStG [KFB] - monitored
 ctx["KINDERFREIBETRAG"] = fail_on("2025-12-31", (3336 + 1464) * 2)
@@ -85,9 +85,9 @@ ctx["GEWERBESTEUER_FREIBETRAG"] = 24500
 ctx["GEWERBESTEUER_RATE"] = Decimal("3.5")
 
 # The part of the Gewerbesteuer that is credited from your income tax (%)
-ctx["GEWERBESTEUER_TAX_CREDIT"] = Decimal("3.8")  # (%) - TODO: Not watched
+ctx["GEWERBESTEUER_TAX_CREDIT"] = fail_on("2026-12-31", Decimal("3.8"))  # (%) - TODO: Not watched, no source
 
-ctx["GEWERBESTEUER_HEBESATZ_BERLIN"] = Decimal("4.1")  # (%) - TODO: Not watched
+ctx["GEWERBESTEUER_HEBESATZ_BERLIN"] = fail_on("2026-12-31", Decimal("4.1"))  # (%) - TODO: Not watched
 ctx["GEWERBESTEUER_RATE_BERLIN"] = (ctx["GEWERBESTEUER_RATE"] * ctx["GEWERBESTEUER_HEBESATZ_BERLIN"]).normalize()  # (%)
 
 # The effective cost of the Gewerbesteuer when accounting for the income tax credit, for Berlin - (%)
@@ -141,7 +141,7 @@ ctx["GKV_BASE_RATE_SELF_PAY"] = Decimal("14")  # § 243 SGB V
 ctx["GKV_MIN_INCOME"] = ctx["BEZUGSGROESSE"] / 90 * 30  # § 240 Abs. 4 SGV IV
 
 # Above this income (€/y), you pay the Höchstbeitrag - https://www.bmas.de/DE/Arbeit/Arbeitsrecht/Mindestlohn/mindestlohn.html
-ctx["GKV_MAX_INCOME"] = fail_on("2025-12-31", Decimal("5512.50") * 12)  # SVBezGrV 2021 [BBGKVPV]
+ctx["GKV_MAX_INCOME"] = fail_on("2026-12-31", Decimal("5812.50") * 12)  # SVBezGrV 2021 [BBGKVPV]
 
 # Above this income (€/mth), your employer pays for health insurance
 ctx["GKV_AZUBI_FREIBETRAG"] = fail_on("2025-12-31", 325)  # § 20 Abs. 3 SGB IV
@@ -150,7 +150,7 @@ ctx["GKV_AZUBI_FREIBETRAG"] = fail_on("2025-12-31", 325)  # § 20 Abs. 3 SGB IV
 ctx["GKV_NEBENJOB_MAX_INCOME"] = ctx["BEZUGSGROESSE"] * Decimal("0.75")
 
 # Jahresarbeitsentgeltgrenze or Versicherungspflichtgrenze - Above this income (€/y), you are freiwillig versichert
-ctx["GKV_FREIWILLIG_VERSICHERT_MIN_INCOME"] = fail_on("2025-12-31", 6150 * 12)
+ctx["GKV_FREIWILLIG_VERSICHERT_MIN_INCOME"] = fail_on("2026-12-31", 6450 * 12)
 
 # If you earn less than that (€/y), private health insurers usually reject you
 ctx["PKV_MIN_INCOME"] = fail_on("2026-12-31", 35000)
@@ -297,11 +297,11 @@ ctx["GKV_COST_STUDENT"] = round(
 # PUBLIC TRANSIT
 # ==============================================================================
 
-ctx["BVG_AB_TICKET"] = fail_on("2025-12-31", Decimal("3.80"))
-ctx["BVG_ABC_TICKET"] = fail_on("2025-12-31", Decimal("4.70"))
+ctx["BVG_AB_TICKET"] = fail_on("2026-12-31", Decimal("4"))
+ctx["BVG_ABC_TICKET"] = fail_on("2026-12-31", Decimal("5"))
 ctx["BVG_FINE"] = fail_on("2025-12-31", 60)
 ctx["BVG_REDUCED_FINE"] = fail_on("2025-12-31", 7)
-ctx["DEUTSCHLAND_TICKET_PRICE"] = fail_on("2025-12-31", 58)
+ctx["DEUTSCHLAND_TICKET_PRICE"] = fail_on("2026-12-31", 63)
 
 
 # ==============================================================================
