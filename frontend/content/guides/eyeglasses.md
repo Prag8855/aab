@@ -88,11 +88,11 @@ If you take a first aid class for your [driving licence](/guides/driving-licence
 
 ### Deduct glasses from your taxes
 
-You can deduct eyeglasses from your taxes.[^10] If you went to an ophthalmologist (*Augenarzt*), you can also deduct your eye test.[^11]
+You can deduct eyeglasses from your taxes.[^10] If you went to an ophthalmologist (*[[Augenarzt]]*), you can also deduct your eye test.[^11]
 
 You must deduct it as an exceptional burden (*außergewöhnliche Belastung*).[^12] You must have an eye test from an ophthalmologist (*Augenarzt*), to prove that you need glasses.[^13]
 
-You can't deduct glasses as a business expense (*Werbungskosten*),[^14] unless you only use them at work. For example, if you buy safety goggles for work, you can deduct them as a business expense.
+You can't deduct glasses as a business expense (*Werbungskosten*), unless you only use them at work.[^14] For example, if you buy safety goggles for work, you can deduct them as a business expense.
 
 [^0]: [aok.de](https://www.aok.de/pk/leistungen/sehschwaechen-hoerschwaechen/untersuchungen-sehhilfen-brillen/), [§ 33 SGB V](https://www.buzer.de/33_SGB_V.htm), [bundesgesundheitsministerium.de](https://www.bundesgesundheitsministerium.de/hilfsmittel.html)
 [^1]: [patientenberatung.de](https://web.archive.org/web/20231129020135/https://www.patientenberatung.de/de/informationen/gesundheit/themenspecial-brille-sehhilfen) (2022), [§ 33 SGB V](https://www.buzer.de/33_SGB_V.htm)
