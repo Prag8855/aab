@@ -69,7 +69,7 @@ ctx["ARBEITSLOSENVERSICHERUNG_EMPLOYEE_RATE"] = Decimal("1.3")  # § 341 SGB 3, 
 ctx["KINDERGELD"] = fail_on("2026-12-31", 259)
 
 # Tax break for parents (€/y) - § 32 Abs. 6 EStG [KFB] - monitored
-ctx["KINDERFREIBETRAG"] = fail_on("2025-12-31", (3336 + 1464) * 2)
+ctx["KINDERFREIBETRAG"] = fail_on("2026-03-01", (3414 + 1464) * 2)
 
 # Tax break for single parents (€/y) - § 24b EStG [EFA]
 ctx["ENTLASTUNGSBETRAG_ALLEINERZIEHENDE"] = fail_on("2025-12-31", 4260)
