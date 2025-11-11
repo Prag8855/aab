@@ -27,12 +27,13 @@ Some goods and services have a VAT of {{VAT_RATE_REDUCED}}%, or no VAT.[^2]
 
 Reduced VAT ({{VAT_RATE_REDUCED}}%):
 
-- Some foods and beverages[^3]
+- Food in restaurants and cafés[^4]
+- Some foods and drinks[^3]
 - Tickets for museum, theatre, concerts and sport events
 - Artistic, journalistic and copyrighted work
 - Hotel stays
 
-**[Full list](http://www.gesetze-im-internet.de/ustg_1980/__12.html)** (in German) - § 12 UStG
+**[Full list](https://www.gesetze-im-internet.de/ustg_1980/__12.html)** (in German)
 
 No VAT:
 
@@ -189,7 +190,8 @@ For example, if you sell goods or services to customers in the United States, yo
 [^0]: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/pangv_2022/__2.html), [gesetze-im-internet.de](https://www.gesetze-im-internet.de/pangv_2022/__3.html)
 [^1]: [Wikipedia](https://en.wikipedia.org/wiki/File:EU_VAT_Tax_Rates.webp)
 [^2]: [§ 12 UStG](https://www.buzer.de/12_UStG.htm), [sumup.com](https://www.sumup.com/de-de/rechnungen/alles-ueber-rechnungen/umsatzsteuer-in-rechnung-richtig-ausweisen/#:~:text=freiberufler%20und%20die%20erma%C3%9Figte%20umsatzsteuer%20in%20einer%20rechnung%20), [fuer-gruender.de](https://www.fuer-gruender.de/wissen/unternehmen-fuehren/buchhaltung/mehrwertsteuer/#:~:text=zu%20diesen%20ausnahmen%20bei%20der%20mehrwertsteuer%20gehoren%20zum%20beispiel)
-[^3]: [Anlage 2 UStG](http://www.gesetze-im-internet.de/ustg_1980/anlage_2.html)
+[^3]: [Anlage 2 UStG](https://www.buzer.de/Anlage_2_UStG.htm)
+[^4]: [sevdesk.de](https://sevdesk.de/ratgeber/buchhaltung-finanzen/steuern/umsatzsteuer/mehrwertsteuer-gastronomie/) (October 2025)
 [^11]: [gruenderplattform.de](https://gruenderplattform.de/unternehmen-gruenden/umsatzsteuer#:~:text=beim%20Finanzamt%20beantragen.-,so%20holst%20du%20dir%20die%20vorsteuer%20wieder,-Wie%20bereits%20erw%C3%A4hnt)
 [^12]: [lexware.de](https://www.lexware.de/wissen/buchhaltung-finanzen/umsatzsteuervoranmeldung/#saeumniszuschlag)
 [^13]: [haufe.de](https://www.haufe.de/finance/steuern-finanzen/rechnungsberichtigung-umsatzsteuer-falsch-ausgewiesen-was-tun_190_129472.html#:~:text=im%20fall%20des%20unrich%C2%ADtigen%20steu%C2%ADer%C2%ADaus%C2%ADweises)
