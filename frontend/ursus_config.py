@@ -8,6 +8,7 @@ from extensions.functions import (
     build_wikilinks_url,
     random_id,
     to_currency,
+    to_percent,
 )
 from markupsafe import Markup
 from pathlib import Path
@@ -443,6 +444,7 @@ config.minify_css = True
 config.context_globals = ctx
 config.jinja_filters = {
     "cur": to_currency,
+    "percent": to_percent,
 }
 
 config.context_processors.extend(

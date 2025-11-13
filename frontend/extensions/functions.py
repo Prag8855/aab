@@ -14,6 +14,10 @@ def to_currency(value: Decimal) -> str:
     return "{:0,.2f}".format(value).replace(".00", "") if value is not None else ""
 
 
+def to_percent(value: Decimal, max_decimals: int = 2) -> str:
+    return f"{float(value):.{max_decimals}f}".rstrip("0").rstrip(".")
+
+
 def random_id() -> str:
     alphabet = string.ascii_letters + string.digits
     return "".join(secrets.choice(alphabet) for i in range(5))

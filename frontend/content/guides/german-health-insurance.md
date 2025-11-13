@@ -10,9 +10,13 @@ Related_reviews:
     reviews/german-health-insurance/mona-anbari.md
 ---
 
-This guide helps you choose the best health insurance for your needs.
+If you live in Germany, you must have health insurance. It pays for your healthcare when you are sick.
 
-If you live in Germany, you must have health insurance. It pays for your healthcare when you are sick. You must get insured before you [start a new job](/guides/find-a-job-in-berlin#start-working), study at a German university, or [apply for a residence permit](/guides/residence-permit).
+You need health insurance before you...
+
+- [Start a new job](/guides/find-a-job-in-berlin#start-working)
+- Study at a German university
+- Apply for a [[National Visa]] or a [residence permit](/glossary/Aufenthaltstitel)
 
 {% include "_blocks/tableOfContents.html" %}
 
@@ -22,20 +26,11 @@ There is [public](/glossary/gesetzliche%20Krankenversicherung), [private](/gloss
 
 {% include "_blocks/healthInsuranceCalculatorStatic.html" %}
 
-There is a guide for each occupation:
-
-- [Health insurance for a **visa application**](/guides/german-health-insurance/for-a-visa-application)
-- [Health insurance for **employees**](/guides/german-health-insurance/for-employees)
-- [Health insurance for **students**](/guides/german-health-insurance/for-students)
-- [Health insurance for **freelancers**](/guides/german-health-insurance/for-freelancers)
-- [Health insurance for **apprentices**](/guides/german-health-insurance/for-apprentices) (*[Azubis](/glossary/Azubi)*)
-- [Health insurance when **unemployed**](/guides/german-health-insurance/when-unemployed)
-
 ## Public health insurance
 
 87% of Germans have [public health insurance](/glossary/gesetzliche%20Krankenversicherung).[^2] It might be your only option.
 
-Public health insurance is run by [non-profit insurance funds](/glossary/Krankenkasse). It's not run by the state. There are dozens of insurers. Their cost and coverage are almost the same.[^85]
+Public health insurance is run by [non-profit insurance funds](/glossary/Krankenkasse), not by the state. There are dozens of insurers, but their cost and coverage are almost the same.[^85]
 
 ### Cost of public health insurance
 
@@ -44,13 +39,13 @@ Public health insurance costs a percentage of your income. The cost does not dep
 Use my [health insurance recommendation tool](#your-options) to calculate the cost.
 
 - **[If you are an employee](/guides/german-health-insurance/for-employees)**  
-    You pay {{GKV_MIN_RATE_EMPLOYEE}}% to {{GKV_MAX_RATE_EMPLOYEE}}% of your income (including [long-term care insurance](/glossary/Pflegeversicherung)). The [minimum cost](/glossary/Mindestbeitrag) is around €{{GKV_MIN_COST_EMPLOYEE|cur}} per month. The [maximum cost](/glossary/Höchstbeitrag) is around €{{GKV_MAX_COST_EMPLOYEE|cur}} per month. It comes out of your paycheck every month.
+    You pay {{GKV_MIN_RATE_EMPLOYEE|percent(1)}}% to {{GKV_MAX_RATE_EMPLOYEE|percent(1)}}% of your income (including [long-term care insurance](/glossary/Pflegeversicherung)). The [minimum cost](/glossary/Mindestbeitrag) is around €{{GKV_MIN_COST_EMPLOYEE|cur}} per month. The [maximum cost](/glossary/Höchstbeitrag) is around €{{GKV_MAX_COST_EMPLOYEE|cur}} per month. It comes out of your paycheck every month.
 - **[If you are a student](/guides/german-health-insurance/for-students)**  
-    You usually pay the student tariff: €{{GKV_COST_STUDENT|cur}} per month. If you are over 30 years old, you can't get the student tariff, so you pay around €{{GKV_MIN_COST_SELF_PAY|cur}} per month.
+    You usually pay the student tariff: around €{{GKV_COST_STUDENT|cur}} per month. If you are over 30 years old, you can't get the student tariff, so you pay around €{{GKV_MIN_COST_SELF_PAY|cur}} per month.
 - **[If you are self-employed](/guides/german-health-insurance/for-freelancers)**  
-    You pay {{GKV_MIN_RATE_SELF_PAY}}% to {{GKV_MAX_RATE_SELF_PAY}}% of your income (including [long-term care insurance](/glossary/Pflegeversicherung)). The [minimum cost](/glossary/Mindestbeitrag) is around €{{GKV_MIN_COST_SELF_PAY|cur}} per month. The [maximum cost](/glossary/Höchstbeitrag) is around €{{GKV_MAX_COST_SELF_PAY|cur}} per month. You pay for health insurance by [bank transfer](/glossary/SEPA-Überweisung) every month.[^8]
+    You pay {{GKV_MIN_RATE_SELF_PAY|percent(1)}}% to {{GKV_MAX_RATE_SELF_PAY|percent(1)}}% of your estimated income (including [long-term care insurance](/glossary/Pflegeversicherung)). The [minimum cost](/glossary/Mindestbeitrag) is around €{{GKV_MIN_COST_SELF_PAY|cur}} per month. The [maximum cost](/glossary/Höchstbeitrag) is around €{{GKV_MAX_COST_SELF_PAY|cur}} per month. You pay for health insurance by [bank transfer](/glossary/SEPA-Überweisung) every month.[^8]
 - **[If you are an apprentice](/guides/german-health-insurance/for-apprentices)** (*[[Azubi]]*)  
-    If you earn €{{GKV_AZUBI_FREIBETRAG|cur}} per month or less, you get free insurance. Your employer pays for it.[^48] If you earn more, you pay the same amount as employees.
+    If you earn less than €{{GKV_AZUBI_FREIBETRAG|cur}} per month, you get free health insurance. Your employer pays for it.[^48] If you earn more, you pay the same amount as employees.
 - **[If you are unemployed](/guides/german-health-insurance/when-unemployed)**  
     You pay the [minimum amount](/glossary/Mindestbeitrag): around €{{GKV_MIN_COST_SELF_PAY|cur}} per month. When you [lose your job](/guides/losing-your-job), you sometimes get [one month of free health insurance](/guides/losing-your-job#what-happens-to-your-health-insurance).
 
@@ -60,12 +55,12 @@ The cost of public health insurance is [tax-deductible](/glossary/steuerlich%20a
 
 ### What public insurance covers
 
-Public health insurance covers **all necessary healthcare**. All important treatments and medical prescriptions are covered. It covers all pre-existing health problems. There is no limit on the cost of treatments. You can get healthcare as often as you need. Your health insurance does not get more expensive if you use it often.
-
-Public health insurance covers "economic, sufficient, necessary and appropriate" healthcare. This means that **they pay for the cheapest treatment that works**.
+Public health insurance covers **all necessary healthcare**. It pays for the cheapest treatment that works. There is no limit on the cost of treatments. You can get healthcare as often as you need. It does not get more expensive if you use it often.
 
 Your insurance covers...
 
+- All necessary treatments, therapy and medical prescriptions
+- All [pre-existing conditions](/glossary/Vorerkrankung)
 - Your children and your unemployed spouse (*[[Familienversicherung]]*)
 - Long-term [sick leave](/guides/sick-leave)
 - Emergency healthcare in other [EU](/glossary/European%20Union) countries
@@ -81,8 +76,7 @@ It does not cover...
 - Cosmetic treatments like removing a mole, tooth whitening, orthodontics, nicer tooth fillings[^1]
 - Alternative medicine like acupuncture and osteopathy
 
-
-To get better coverage, get [dental insurance](/glossary/Zahnzusatzversicherung) or supplementary health insurance.
+To get better coverage, get [dental insurance](/glossary/Zahnzusatzversicherung) or supplementary health insurance, or [private health insurance](/glossary/private%20Krankenversicherung).
 
 When you go to the doctor, you show your [insurance card](/glossary/Gesundheitskarte), and they charge your *[[Krankenkasse]]* directly. There is no reimbursement process.[^4] If a treatment is not covered, you know before you start. There are no surprise costs.
 
@@ -93,77 +87,73 @@ When you go to the doctor, you show your [insurance card](/glossary/Gesundheitsk
 - **It's cheap for students**  
     Students under 30 years old pay around €{{GKV_COST_STUDENT|cur}} per month. If you are under 30 years old, public is usually the best option.[^59]
 - **It covers your family for free**  
-    Your children and your unemployed spouse get [free health insurance](#free-health-insurance). Private health insurance charges for each person you cover. If you have more than 2 children, public is usually the cheapest option.[^12]
+    Your insurance covers your children and your unemployed spouse [for free](#free-health-insurance). Private health insurance charges for each person you cover. If you have more than 2 children, public is usually cheaper than [private](/glossary/private%20Krankenversicherung).[^12]
 - **It's simple**  
-    When you go to the doctor, you show your [insurance card](/glossary/Gesundheitskarte), and you get healthcare. You don't need to worry about coverage, [deductibles](/glossary/Selbstbeteiligung) or reimbursement. There are no surprises; it just works.
+    When you go to the doctor, you show your [insurance card](/glossary/Gesundheitskarte), and you get healthcare. You don't need to worry about coverage, [deductibles](/glossary/Selbstbeteiligung) or reimbursement. There is no paperwork and no surprises; it just works.
 - **The cost is not tied to your health**  
-    If you are over 45 years old or you have health problems, public health insurance is usually the cheapest option.[^28] Private health insurers might reject you, or charge a lot more.
+    If you have [pre-existing conditions](/glossary/Vorerkrankung), public is usually the cheapest option.[^28] Private health insurers usually reject you or charge more.
 - **It's the safest option**  
-    Public health insurance is never a *bad* decision. Insurers have similar prices and coverage, so you can't choose wrong. If you change your mind, you can choose another public health insurer, or switch to private health insurance later.[^82] If you choose private health insurance, it's much harder to change your mind.[^20]
+    Public health insurance is never a *bad* decision. Insurers have similar prices and coverage, so you can't choose wrong. If you change your mind, you can choose another public health insurer, or switch to private health.[^82] If you choose private health insurance, it's much harder to change your mind.[^20]
 
 ### Disadvantages of public health insurance
 
 - **High earners pay more**  
-    If you have make a lot of money, you pay more. If you are young, healthy and well-paid, private health insurance can be better *and* cheaper.[^58]
+    The cost is proportional to your income. If you are young, healthy and well-paid, private health insurance is usually better *and* cheaper.[^58]
 - **Doctor appointments are harder to get**[^13]  
-    It can take weeks or months to see a specialist. Psychotherapists, psychiatrists, gynaecologists, paediatricians and urologists that accept public health insurance are hard to find. If you want to see a doctor quickly, private health insurance is much better.
+    It can take weeks or months to see a specialist. Psychotherapists, psychiatrists, gynaecologists, paediatricians and urologists that accept public health insurance are hard to find. If you want to see a doctor quickly, choose private health insurance.
 - **Special treatments are not covered**  
-    Public health insurance covers the cheapest effective treatment.[^43] To get better treatments and better coverage, choose private health insurance.[^81]
+    It covers the cheapest treatment that works.[^43] To get better treatments and better coverage, choose private health insurance.[^81]
 - **It's not available to everyone**  
-    If you come from outside the [EU](/glossary/European%20Union), and you are self-employed or a student over 30, you can't get public health insurance. You must get [private](/glossary/private%20Krankenversicherung) or [expat](/glossary/Expat%20health%20insurance) health insurance instead. There are [some exceptions](/guides/german-health-insurance/for-freelancers).
+    If you are self-employed or a student over 30, you can't get public health insurance. You must get [private](/glossary/private%20Krankenversicherung) or [expat](/glossary/Expat%20health%20insurance) health insurance instead. There are [some exceptions](/guides/german-health-insurance/for-freelancers).
 
 ### Best public health insurance
 
-[Public health insurers](/glossary/Krankenkasse) have almost the same cost and coverage.[^85] The price difference is less than €20 per month after taxes. The biggest differences are customer service, and coverage of specific treatments.[^15] For example, one insurer can have better coverage for pregnancy, eyeglasses, dental care or travel vaccinations.
+[Public health insurers](/glossary/Krankenkasse) have almost the same cost and coverage.[^85] The price difference is less than €20 per month after taxes. Look for better customer service and coverage of specific treatments.[^15] For example, one insurer can have better coverage for pregnancy, eyeglasses, dental care or travel vaccinations.
 
-**[Barmer](/out/barmer)** and **[Techniker Krankenkasse](/out/feather-tk)** are good English-speaking options. Techniker Krankenkasse is [really good](/guides/techniker-krankenkasse-review), and it's a little cheaper than Barmer.{{ fail_on('2025-12-31') }}
+**[Techniker Krankenkasse](/out/feather-tk)** and **[Barmer](/out/barmer)** speak English. Most people choose them. Techniker Krankenkasse is cheaper, and it's [really good](/guides/techniker-krankenkasse-review).{{ fail_on('2025-12-31') }}
 
-[Ask my insurance expert](#insurance-brokers) to help you choose the best public health insurance. It's a free service. He can also help you choose between public and private health insurance.
+If you are not sure, [ask my insurance expert](#insurance-brokers). It's free.
 
 ## Private health insurance
 
 You can choose private health insurance if...
 
 - You are an employee, and you earn more than €{{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}} per year[^3]
-- or you are self-employed
+- or you are self-employed and you earn more than €{{PKV_MIN_INCOME|cur}} per year[^47]
 - or you are a student
-- or you have a [minijob](/glossary/Minijob)
-- or you earn less than €{{GKV_FAMILIENVERSICHERUNG_MAX_INCOME|cur}} per month
 - or you are a civil servant (*Beamter*)[^31]
 
-Everyone else must choose [public health insurance](#public-health-insurance). Only 13% of Germans have private health insurance.[^2]
+Use my [recommendation tool](#your-options) to see if you qualify. Everyone else must choose [public health insurance](#public-health-insurance). Only 13% of Germans have private health insurance.[^2]{{ fail_on('2026-12-31') }}
 
 ### Cost of private health insurance
 
-Use my [health insurance recommendation tool](#your-options) to get a price estimate.
+Use my [recommendation tool](#your-options) to get a price estimate.
 
-Private health insurance is sometimes cheaper than public health insurance. A healthy 30-year-old employee pays around €250 per month.[^62] I am self-employed, I have a pre-existing health condition, and I pay €600 per month. Students pay around €130 per month.[^36]{{ fail_on('2026-02-01')}}
-
-The cost depends on 4 factors:
+The cost depends on...
 
 - **Your age when you join**  
-    Younger people pay less. Your insurer saves a part of your payments for old age. If you join when you are young, you pay less when you are old. If you plan to leave Germany after a few years, you can get insurance without old-age provisions. It's around 50% cheaper.
+    Younger people pay less. Your insurer saves a part of your payments for old age. If you join when you are young, you also pay less when you are old. If you plan to leave Germany after a few years, you can get insurance without old-age provisions. It's around 50% cheaper.
 - **Your health condition when you join**  
     If you have no health insurance history, you must get a health check at the doctor.[^44] If you have pre-existing health problems, insurers reject you or charge more.[^9] After you join, your health does not affect the price, even if you get really sick.
 - **The coverage you choose**  
-    You can get the best coverage or the lowest price. You must pay more to cover your spouse and children.
+    You can choose the best coverage or the lowest price. To cover your spouse and children, you must pay more. You can pay more to get a higher [sickness allowance](/glossary/Krankentagegeld).
 - **Your [deductible](/glossary/Selbstbeteiligung)**  
-    If you choose a high [deductible](/glossary/Selbstbeteiligung) (€1200 per year), your health insurance is cheaper. When you get sick, you must pay out of pocket for most of your healthcare. You also get a yearly discount if you don't use your health insurance.[^17] I get around €650 back every year.{{ fail_on('2027-02-01')}}
+    If you choose a high [deductible](/glossary/Selbstbeteiligung) (up to €3000 per year), you pay less. You also get a yearly discount if you don't use your health insurance.[^17] I get around €650 back every year.{{ fail_on('2027-02-01')}}
 
-Your employer pays half of your health insurance. If you are self-employed or a student, you pay the full price yourself.[^18] You pay for your health insurance every month by [bank transfer](/glossary/SEPA-Überweisung).[^8]
+Your employer pays half of your health insurance. If you are self-employed or a student, you pay the full price yourself.[^18] You pay every month by [bank transfer](/glossary/SEPA-Überweisung).[^8]
 
 The cost of private health insurance is [tax-deductible](/glossary/steuerlich%20absetzbar).
 
 ### Benefits of private health insurance
 
 - **It's better and cheaper for high earners**[^19]  
-    If you are young, healthy and well-paid, private is usually better *and* better than public. I save around €600 per month.
-- **Faster doctor appointments**  
-    It's much easier to see a specialist. You get an appointment in days instead of weeks. You can try it yourself. Go on [Doctolib](https://www.doctolib.de/), and find a doctor appointment with public, then private health insurance.
+    If you are young, healthy and well-paid, private is usually better *and* cheaper than public. I save around €600 per month.{{fail_on('2026-02-01')}}
+- **Easier doctor appointments**  
+    You can see a doctor faster. You get an appointment with a specialist in days instead of weeks. Try it yourself! Go on [Doctolib](https://www.doctolib.de/), and try to find a doctor appointment with public and with private health insurance.
 - **Better treatments**  
     Private clinics usually have better service. Doctors take the time to listen to you.[^25] They also prescribe the best treatment instead of trying cheaper options first.
 - **You choose your coverage**  
-    Your insurance can cover dental care, travel health insurance, special medication and special treatments. You can pay more to get the best coverage. If you want to pay less, you can get lower coverage and choose a high [deductible](/glossary/Selbstbeteiligung).[^17]
+    You can pay more to get the best coverage, or pay less to save money. If you are young and healthy, you can get really cheap health insurance.
 - **You pay less when you don't use it**  
     Many private health insurers have a no-claims bonus. If you don't use your health insurance, you get money back every year. If you never get sick, you can save a lot of money. In 2024, I got a €640 refund.{{ fail_on('2026-03-01')}}
 
@@ -172,35 +162,33 @@ The cost of private health insurance is [tax-deductible](/glossary/steuerlich%20
 - **If your income changes, the cost stays the same**  
     If you [lose your job](/guides/losing-your-job), if you go on parental leave, if your business fails or if you retire, your health insurance does not get cheaper. You can be stuck with expensive health insurance. Public health insurance is safer, because the cost is proportional to your income.
 - **It makes you avoid seeing a doctor**  
-    If you have a [deductible](/glossary/Selbstbeteiligung), you pay for most healthcare yourself. You might ignore a small problem because it costs €70 to see a doctor. You also get a yearly bonus if you don't use your insurance. It makes you avoid healthcare to save money.
+    If you have a [deductible](/glossary/Selbstbeteiligung), you pay for most healthcare yourself. You might ignore a small problem because it costs €70 to see a doctor. You also get a yearly refund if you don't use your insurance. It makes you avoid healthcare to save money.
 - **You pay, then get reimbursed**  
-    When you go to the doctor, you pay for the treatment, and your insurance pays you back later. You need enough money to pay the doctor. It's also more effort and more paperwork. You must also check if your insurance covers your treatment, or you will not get reimbursed.[^40] Doctors often prescribe unnecessary treatments to private patients.
+    When you go to the doctor, you pay for the treatment, and your insurance pays you back later. It's more effort and more paperwork. You need enough money to pay the doctor. You must also check if your insurance covers your treatment, or you will not get reimbursed.[^40] Doctors often prescribe unnecessary treatments to private patients. For big, expensive treatments, the insurance company pays the doctor directly.
 - **You can be stuck with private**  
     If you choose private, it's hard to change your mind.[^20] It's really hard to switch to public health insurance, or to another private insurance. You can be stuck with expensive private health insurance. Always [ask an expert](#insurance-brokers) before you choosing private; it's a very serious decision.
 - **They reject people**  
-    If you have health problems, insurers will reject you or charge more. They often reject people because of psychotherapy, HIV, severe asthma, diabetes or obesity. They can refuse to cover healthcare related to a pre-existing health problem.[^75] If you are over 45 years old or you have pre-existing health conditions, public health insurance is usually cheaper.[^28]
+    If you have a [pre-existing condition](/glossary/Vorerkrankung), insurers usually reject you.[^75] They reject people because of psychotherapy, severe asthma, diabetes, obesity and many other things. They usually reject you if you are self-employed and your income is below €{{PKV_MIN_INCOME|cur}} per year.[^49] After you join, they can't kick you out.
 
 ### What private insurance covers
 
-The coverage depends on the plan you choose. **Necessary healthcare is always covered.** The coverage is usually equal or better to public health insurance.
+It always covers necessary healthcare. The coverage is usually equal or better to public health insurance. You can choose the coverage you want.
 
-The overall coverage is unlimited. There is no yearly cost limit. If you get cancer and the treatment costs millions of euros, your insurance pays for everything. Some treatments might have [deductibles](/glossary/Selbstbeteiligung) or yearly limits. For example, some plans have coverage limits for psychotherapy.[^60] A [broker](#insurance-brokers) can help you choose a plan that fits your needs.
+The overall coverage is unlimited. There is no yearly cost limit. If you get cancer and the treatment costs millions of euros, your insurance pays for everything. Some treatments might have [deductibles](/glossary/Selbstbeteiligung) or yearly limits. For example, some plans have coverage limits for psychotherapy.[^60] [Ask our expert](#insurance-brokers) to find a plan that suits your needs.
 
-You can customize your coverage. For example, your insurance can cover extra services like dental care, [eyeglasses](/guides/eyeglasses) and laser eye surgery. It can cover better dental implants, a better wheelchair, or a better hospital room. You can also get lower coverage to pay less every month.
+You can customize your coverage. You can pay more to cover dental care, [eyeglasses](/guides/eyeglasses) and laser eye surgery. It can cover better dental implants, a better wheelchair, or a better hospital room. If you prefer to pay less every month, you can get lower coverage.
 
-You have more healthcare options, because you can visit doctors and therapists that don't accept public health insurance. Doctors often give priority to patients with private health insurance.
-
-With private health insurance, you usually pay for healthcare yourself, and get reimbursed by the insurance company. For big, expensive treatments, the insurance company pays the doctor directly. This is different from public health insurance, where you just show your [insurance card](/glossary/Gesundheitskarte) and get treated.
+[Sickness allowance](/glossary/Krankentagegeld) is not included. You must pay extra for it. I recommend it.
 
 ### Best private health insurance
 
-There is no best private health insurance. There are thousands of very different options. **The best option depends on your situation.**
+There is no best private health insurance. There are thousands of options. The best option depends on your situation and your budget.
 
-Do not choose private health insurance yourself. It's a really bad idea. [Ask a health insurance broker](#insurance-brokers) to compare all options and help you choose. Their help is free.
+**Do not choose private health insurance yourself.** It's a really bad idea. [Ask a health insurance broker](#insurance-brokers) to compare all options and help you choose. Their help is free.
 
 {% include "_blocks/healthInsuranceQuestion.html" %}
 
-[Ottonova](/out/ottonova) sells their own private health insurance. It's rarely the best option.[^77] Don't choose Ottonova directly; [ask a broker](#insurance-brokers) to help you. If Ottonova is the best option for you, the broker will tell you.[^76]
+[Ottonova](/out/ottonova) sells their own private health insurance. It's rarely the best option.[^77] Don't choose Ottonova directly; [ask our expert](#insurance-brokers) first. If Ottonova is the best option for you, they will tell you.[^76]
 
 [Feather](/out/feather-private) sells private health insurance from multiple companies.[^41]
 
@@ -229,6 +217,8 @@ Only choose expat health insurance if...
     It's valid for a [[Schengen visa]] or a [[National Visa]] application.[^5] It's rarely valid when you change or renew an existing [residence permit](/glossary/Aufenthaltstitel).[^29]
 - **The coverage is limited**  
     It does not cover pre-existing health problems. It rarely covers therapy, dentist visits, health check-ups and preventative treatments.[^26] There are high [deductibles](/glossary/Selbstbeteiligung) for some treatments. There are limits on the cost of some treatments.
+- **You pay, then get reimbursed**  
+    When you go to the doctor, you pay for the treatment, and your insurance pays you back later. It's more effort and more paperwork. You need enough money to pay the doctor. You must also check if your insurance covers your treatment, or you will not get reimbursed.
 - **It's temporary**  
     You can rarely use it for more than 5 years.[^22] When it expires, you must get public or private health insurance. If you have developed health problems during that time, it can be really hard to find another insurance. You can end up with a really expensive insurance.
 - **It gets very expensive**  
@@ -370,6 +360,15 @@ Choose travel health insurance if...
 - **You apply for a [[Schengen visa]]**  
     You need valid health insurance to apply for the Schengen visa. [HanseMerkur Visa Plus](/out/hansemerkur-travel) works well for this.
 
+### Best option by occupation
+
+- [Health insurance for a **visa application**](/guides/german-health-insurance/for-a-visa-application)
+- [Health insurance for **employees**](/guides/german-health-insurance/for-employees)
+- [Health insurance for **students**](/guides/german-health-insurance/for-students)
+- [Health insurance for **freelancers**](/guides/german-health-insurance/for-freelancers)
+- [Health insurance for **apprentices**](/guides/german-health-insurance/for-apprentices) (*[Azubis](/glossary/Azubi)*)
+- [Health insurance when **unemployed**](/guides/german-health-insurance/when-unemployed)
+
 ### Insurance brokers
 
 Do not choose health insurance yourself. Our broker can help you find better and cheaper health insurance. This is a free service.
@@ -495,7 +494,6 @@ When you are self-employed, the cost of public health insurance is based on your
 [^33]: [Rob Schumacher](/out/feather) (September 2025)
 [^34]: [verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/krankenversicherung/familienversicherung-in-der-krankenkasse-wer-kostenlos-mit-rein-kommt-28982) (January 2025) [minijob-zentrale.de](https://www.minijob-zentrale.de/DE/meta/faq-bereich/urlaub-krankheit-und-arbeitsrechte/96_warum_kein_geld_f%C3%BCr_minijobber_aus_kv/faq_96_warum_kein_geld_f%C3%BCr_minijobber_aus_kv.html#:~:text=oft%20besteht%20eine%20beitragsfreie%20familienversicherung%20uber%20den%20ehepartner%20oder%20die%20eltern) (February 2025)
 [^35]: Personal experience (2025), [Seamus Wolf](https://horizon65.com/) (April 2025)
-[^36]: [check24.de](https://www.check24.de/private-krankenversicherung/studenten/) (July 2025), [Ottonova](/out/ottonova-students) (July 2025)
 [^37]: [verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/krankenversicherung/familienversicherung-in-der-krankenkasse-wer-kostenlos-mit-rein-kommt-28982#:~:text=schlie%C3%9Ft%20eine%20Familienversicherung-,aus.,-Man%20darf%20nicht) (February 2025)
 [^38]: [Feather Insurance](https://feather-insurance.com/blog/is-an-ehic-card-still-valid-in-germany/#:~:text=generally%20limited%20to%203%20months) (2023)
 [^39]: [Feather Insurance](https://faq.feather-insurance.com/en/articles/29608-what-is-ehic-european-health-insurance-card#:~:text=coverage%20throughout%20the%20whole%20duration%20of%20studies) (2023), [Feather Insurance](https://faq.feather-insurance.com/en/articles/28609-i-am-about-to-enrol-into-a-german-university-what-insurance-options-do-i-have#:~:text=if%20you%20are%20statutorily%20insured%20in%20one%20of%20the%20aforementioned%20countries%2C%20you%20can%20stay%20on%20your%20home%20insurance%20for%20the%20whole%20duration%20of%20your%20studies%20regardless%20of%20your%20age.) (May 2025), [krankenkassen.de](https://www.krankenkassen.de/incoming/student/ehic/) (May 2025)
@@ -506,12 +504,13 @@ When you are self-employed, the cost of public health insurance is based on your
 [^44]: [Seamus Wolf](https://horizon65.com/) (April 2025), [Emily Archer](https://www.archer-relocation.com/) (April 2025)
 [^45]: [Techniker Krankenkasse](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-versicherte/veraenderung-berufliche-situation/versichert-als-arbeitnehmer/berufliche-auszeiten/elternzeit/beitragszahlung-waehrend-elternzeit---elterngeld-2005602) (May 2025), [familienportal.de](https://familienportal.de/familienportal/familienleistungen/elternzeit/arbeit-versicherung/wie-bin-ich-waehrend-der-elternzeit-versichert--124862) (May 2025)
 [^46]: [Seamus Wolf](https://horizon65.com/) (October 2025)
+[^47]: Technically, it's possible with a lower income, but no insurer will accept you. [Seamus Wolf](https://horizon65.com/) (November 2025)
 [^48]: [AOK](https://www.aok.de/pk/krankenkassenbeitraege/auszubildende/#:~:text=auszubildende%20mussen%20keine%20krankenkassenbeitrage%20zahlen%2C%20wenn%20ihr%20monatsverdienst%20nicht%20mehr%20als%20325%20euro%20betragt) (March 2025), [Check24](https://www.check24.de/gesetzliche-krankenversicherung/azubis/#:~:text=wer%20eine%20ausbildungsvergutung%20von%20weniger%20als%20325%20euro%20im%20monat%20erhalt%2C%20muss%20keine%20beitrage%20zur%20krankenversicherung%20zahlen.) (March 2025), [Techniker Krankenkasse](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-versicherte/veraenderung-berufliche-situation/versichert-als-schueler-und-auszubildende/beitraege-azubi-auszubildende-hoehe-beitragshoehe-2010362#:~:text=verdienen%20sie%20nicht%20mehr%20als%20325%20euro%20brutto%20monatlich%2C%20zahlt%20ihr%20arbeitgeber%20die%20gesamten%20beitrage.) (March 2025)
+[^49]: [Seamus Wolf](https://horizon65.com/) (November 2025)
 [^53]: [gesetzliche-krankenkassen.de](https://www.gesetzliche-krankenkassen.de/auszubildende-azubis/#:~:text=familienversicherung%20ist%20wahrend%20der%20ausbildung%20nicht%20moglich) (March 2025)
 [^58]: [Seamus Wolf](https://horizon65.com/) (April 2025), [finanztip](https://www.finanztip.de/pkv/pkv-kosten/#:~:text=fur%20junge%2C%20gesunde%20menschen%20ist%20die%20private%20krankenversicherung) (February 2025), [verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/krankenversicherung/private-krankenversicherung-nicht-fuer-jeden-sinnvoll-13884#:~:text=kann%20es%20unter%20finanziellen%20gesichtspunkten%20sinnvoll%20sein%2C%20in%20eine%20private%20krankenversicherung%20zu%20wechseln) (2024)
 [^59]: [finanztip.de](https://www.finanztip.de/pkv/pkv-wechsel/#:~:text=bleib%20fur%20die%20dauer%20des%20studiums%20besser%20in%20der%20gesetzlichen%20krankenversicherung) (January 2025), [Feather Insurance](https://faq.feather-insurance.com/en/articles/28609-i-am-about-to-enrol-into-a-german-university-what-insurance-options-do-i-have?utm_source=allaboutberlin#:~:text=we%20strongly%20recommend%20this%20option%20to%20any%20student%20under%2030%20years%20of%20age) (May 2025)
 [^60]: [Seamus Wolf](https://horizon65.com/) (April 2025)
-[^62]: [€250 to €350 (FinanXpats)](https://www.finanxpats.com/health-insurance/2025-health-insurance-guide-for-expats#:~:text=pays%20around%20%E2%82%AC250%E2%80%93350%20per%20month) (April 2025), [€250 to €390 (Feather)](/out/feather-private) (April 2025), [€260 to €350 (Ottonova)](/out/ottonova) (April 2025)
 [^63]: [Seamus Wolf](https://horizon65.com/) (May 2025)
 [^70]: [online-pkv.de](https://www.online-pkv.de/pkv-bu-blog/gibt-es-eine-selbstbeteiligung-in-der-gkv/) (January 2025), [gesetzlichekrankenkassen.de](https://www.gesetzlichekrankenkassen.de/leistungen/leistungen.html#:~:text=%20mindestens%20aber%20eur%205%2C-%20und%20hochstens%20eur%2010%2C-%20pro%20packung%20zu%20zahlen) (June 2025)
 [^73]: [Mona Anbari](https://versicherungsbuero-weiss.com/) (April 2025)
