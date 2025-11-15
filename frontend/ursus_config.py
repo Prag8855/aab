@@ -171,15 +171,6 @@ ctx["GKV_ZUSATZBEITRAG_DAK"] = fail_on("2025-12-31", Decimal("2.8"))
 ctx["GKV_ZUSATZBEITRAG_HKK"] = fail_on("2025-12-31", Decimal("2.19"))
 ctx["GKV_ZUSATZBEITRAG_TK"] = fail_on("2025-12-31", Decimal("2.45"))
 
-# Private health insurance lowest cost - NOT TRACKED
-# https://www.ottonova.de/v/private-krankenversicherung/angestellte
-# https://www.ottonova.de/v/private-krankenversicherung/studenten
-# https://www.ottonova.de/v/private-krankenversicherung/selbststaendige
-ctx["OTTONOVA_EMPLOYEE_COST"] = fail_on("2025-12-01", 263)  # Premium economy
-ctx["OTTONOVA_STUDENT_COST"] = fail_on("2025-12-01", 111)  # Study smart
-ctx["OTTONOVA_SELFEMPLOYED_COST"] = fail_on("2025-12-01", 552)  # Premium economy
-
-ctx["FEATHER_STUDENT_COST"] = fail_on("2025-12-01", 72)  # /out/feather-expats
 ctx["EXPAT_INSURANCE_COST"] = fail_on(
     "2026-01-31",
     {
@@ -190,8 +181,8 @@ ctx["EXPAT_INSURANCE_COST"] = fail_on(
         "hansemerkur-profi": 2.4 * 30,  # https://www.hmrv.de/en/incoming/insurance-for-foreign-guests
     },
 )
-
-ctx["EXPAT_STUDENT_COST"] = round(ctx["FEATHER_STUDENT_COST"])
+ctx["TRAVEL_INSURANCE_COST"] = fail_on("2026-12-31", 40)  # Guesstimated
+ctx["EXPAT_STUDENT_COST"] = round(ctx["EXPAT_INSURANCE_COST"]["hansemerkur-basic"])
 
 # Maximum daily Krankengeld
 ctx["GKV_KRANKENGELD_DAILY_LIMIT"] = (ctx["GKV_MAX_INCOME"] * Decimal("0.7") / 360).normalize()  # § 47 SGB V

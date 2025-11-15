@@ -129,7 +129,7 @@ Before you apply for the freelance visa...
     - [ ] Your rent must be affordable. In Berlin, your income must be more than your rent + your [health insurance](/glossary/Krankenversicherung) + €{{FREELANCE_VISA_MIN_INCOME|cur}} per month before taxes.[^53]
     - [ ] Your apartment must be big enough. You need 9 m^2^ per adult, and 6 m^2^ per child.[^80]
 - [ ] **[Get health insurance](/guides/german-health-insurance/for-freelancers#insurance-for-a-freelance-visa)**  
-    You need valid [health insurance](/glossary/Krankenversicherung). [Ask my insurance expert](/guides/german-health-insurance#insurance-brokers) to help you [choose the correct health insurance](/guides/german-health-insurance/for-freelancers#insurance-for-a-freelance-visa). Don't choose insurance yourself; it's a really bad idea. Many applications get rejected because people have the wrong health insurance.[^21]
+    You need valid [health insurance](/glossary/Krankenversicherung). [Ask my insurance expert](/guides/german-health-insurance#need-help) to help you [choose the correct health insurance](/guides/german-health-insurance/for-freelancers#insurance-for-a-freelance-visa). Don't choose insurance yourself; it's a really bad idea. Many applications get rejected because people have the wrong health insurance.[^21]
 - [ ] **Prepare the [required documents ➞](#required-documents)**  
     This takes a few weeks. Start as soon as you can.
 
@@ -211,11 +211,11 @@ These are the required documents **in Berlin**.[^18] If you apply elsewhere, the
 - [ ] **[Application form](/docs/residence-permit-application-form)** (*Antrag auf Erteilung eines Aufenthaltstitels*)  
     If this is your first residence permit application, fill this form. Download the form [here](/docs/residence-permit-application-form) or [on Berlin.de](https://www.berlin.de/formularverzeichnis/?formular=/labo/zuwanderung/_assets/lea-agen1-antrag_engl_frz_ital-112021.pdf).[^42]
 - [ ] **Proof of health insurance**  
-    You need [valid health insurance](/guides/german-health-insurance/for-freelancers#insurance-for-a-freelance-visa). [Ask my insurance expert](/guides/german-health-insurance#insurance-brokers) to help you [choose health insurance for your work visa](/guides/german-health-insurance/for-employees#for-a-blue-card-or-a-work-visa).
+    You need [valid health insurance](/guides/german-health-insurance/for-freelancers#insurance-for-a-freelance-visa). [Ask my insurance expert](/guides/german-health-insurance#need-help) to help you [choose health insurance for your work visa](/guides/german-health-insurance/for-employees#for-a-blue-card-or-a-work-visa).
     - [ ] **[Health insurance card](/glossary/Gesundheitskarte)**  
         Show both sides of the card.
     - [ ] or **proof of [public health insurance](/glossary/gesetzliche%20Krankenversicherung)**  
-        Get a *[Mitgliedsbescheinigung nach § 175 SGB V](/glossary/Mitgliedsbescheinigung)* from your health insurer or your [health insurance broker](/guides/german-health-insurance#insurance-brokers).
+        Get a *[Mitgliedsbescheinigung nach § 175 SGB V](/glossary/Mitgliedsbescheinigung)* from your health insurer or your [health insurance broker](/guides/german-health-insurance#need-help).
     - [ ] or **proof of [private health insurance](/glossary/private%20Krankenversicherung)**  
         Bring your insurance contract, a *[Mitgliedsbescheinigung nach § 257 SGB V](/glossary/Mitgliedsbescheinigung)*, and bank statements that show health insurance payments. Get these documents from your health insurer or your health insurance broker.[^6]
     - [ ] or **proof of [expat health insurance](/glossary/Expat%20health%20insurance)**  

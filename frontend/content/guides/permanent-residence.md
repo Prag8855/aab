@@ -43,7 +43,7 @@ To become a permanent resident, you must...
 - [ ] **Have a place to live**  
     Your apartment must be big enough for you and your family. You need 9 m^2^ per adult, and 6 m^2^ per child.[^51]
 - [ ] **Have [health insurance](/glossary/Krankenversicherung)**  
-    You need [public](/glossary/gesetzliche%20Krankenversicherung) or [private](/glossary/private%20Krankenversicherung) health insurance. [[Expat health insurance]] and travel insurance are not accepted. [Ask my insurance expert](/guides/german-health-insurance#insurance-brokers) to help you [choose health insurance](/guides/german-health-insurance).
+    You need [public](/glossary/gesetzliche%20Krankenversicherung) or [private](/glossary/private%20Krankenversicherung) health insurance. [[Expat health insurance]] and travel insurance are not accepted. [Ask my insurance expert](/guides/german-health-insurance#need-help) to help you [choose health insurance](/guides/german-health-insurance).
 
 There are more requirements, depending on your situation.
 
@@ -328,7 +328,7 @@ These are the required documents **in Berlin**. In other cities, you need differ
     - [ ] **[Health insurance card](/glossary/Gesundheitskarte)**  
         Show both sides of the card.
     - [ ] **proof of [public health insurance](/glossary/gesetzliche%20Krankenversicherung)**  
-        Get a *[Mitgliedsbescheinigung nach § 175 SGB V](/glossary/Mitgliedsbescheinigung)* from your health insurer or your [health insurance broker](/guides/german-health-insurance#insurance-brokers).
+        Get a *[Mitgliedsbescheinigung nach § 175 SGB V](/glossary/Mitgliedsbescheinigung)* from your health insurer or your [health insurance broker](/guides/german-health-insurance#need-help).
     - [ ] **proof of [private health insurance](/glossary/private%20Krankenversicherung)**  
         Bring your insurance contract, a *[Mitgliedsbescheinigung nach § 257 SGB V](/glossary/Mitgliedsbescheinigung)*, and bank statements that show health insurance payments. Get these documents from your health insurer or your health insurance broker.[^6]
 - [ ] **Proof of health insurance payments**  

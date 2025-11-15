@@ -14,7 +14,7 @@ This review explains why **you should not choose Ottonova**, and what you should
 
 ## Summary
 
-Ottonova is a very small insurer with great marketing.[^8] It's okay, but it's not special.[^1] You can find better, cheaper health insurance if you [ask an expert](/guides/german-health-insurance#insurance-brokers).
+Ottonova is a very small insurer with great marketing.[^8] It's okay, but it's not special.[^1] You can find better, cheaper health insurance if you [ask an expert](/guides/german-health-insurance#need-help).
 
 If you need health insurance for a visa or residence permit application, there are [other options](/guides/german-health-insurance/for-a-visa-application).
 
@@ -22,7 +22,7 @@ If you need health insurance for a visa or residence permit application, there a
 
 Bloggers recommend Ottonova because it pays well. If they convince you to choose Ottonova, they get €500.[^0] These articles are not written by customers or by insurance experts. They are ads.
 
-If you want a honest health insurance recommendation, talk to an [independent health insurance broker](/guides/german-health-insurance#insurance-brokers). It's the best way to choose health insurance, and it's free.
+If you want a honest health insurance recommendation, talk to an [independent health insurance broker](/guides/german-health-insurance#need-help). It's the best way to choose health insurance, and it's free.
 
 I also get paid to help you choose health insurance. I get paid no matter what you choose, so I want you to get the best possible option.
 
@@ -44,9 +44,9 @@ Ottonova's health insurance works for this. You can use it to apply for a [freel
 
 ### It's expensive
 
-Ottonova is more expensive than comparable private health insurances. You can get a better deal if you [ask an expert](/guides/german-health-insurance#insurance-brokers).[^1]
+Ottonova is more expensive than comparable private health insurances. You can get a better deal if you [ask an expert](/guides/german-health-insurance#need-help).[^1]
 
-[Talk to a insurance broker](/guides/german-health-insurance#insurance-brokers) to find a cheaper option. Be careful; choosing the cheapest option can be a serious mistake, and cost you a lot of money later.
+[Talk to a insurance broker](/guides/german-health-insurance#need-help) to find a cheaper option. Be careful; choosing the cheapest option can be a serious mistake, and cost you a lot of money later.
 
 ### They speak English
 
@@ -73,7 +73,7 @@ This is what independent health insurance brokers think of Ottonova:
 > "It’s a decent provider, but there is no real reason to chose them over others. They don’t have the best terms and conditions. They don’t have the best price/value. They are not the only one that is super digital. So as a broker, even though they pay really good commissions, it would not be my first or second choice/recommendation."  
 > — Seamus Wolf, April 2025
 
-> "As a newer player, it lacks the long-term track record and product breadth of traditional insurers. Always [get a comparison](/guides/german-health-insurance#insurance-brokers), you might find better offers that suit your needs more closely."  
+> "As a newer player, it lacks the long-term track record and product breadth of traditional insurers. Always [get a comparison](/guides/german-health-insurance#need-help), you might find better offers that suit your needs more closely."  
 > — Emily Archer, April 2025
 
 > "Let's put it this way: it's an insurance company like any other (only smaller) that has very good marketing."  
@@ -86,7 +86,7 @@ There are hundreds of health insurance options. The best option depends on your 
 You should...
 
 1. Understand [how to choose health insurance](/guides/german-health-insurance), and [which health insurance you need for your residence permit](/guides/german-health-insurance/for-a-visa-application). Use my [health insurance calculator](/tools/health-insurance-calculator) to know your options.
-2. [Talk to a health insurance broker](/guides/german-health-insurance#insurance-brokers), who will help you choose the best option for *your* situation. Their help is free. If Ottonova is the best insurance for you, they will tell you.
+2. [Talk to a health insurance broker](/guides/german-health-insurance#need-help), who will help you choose the best option for *your* situation. Their help is free. If Ottonova is the best insurance for you, they will tell you.
 3. If it still makes sense, [get a quote from Ottonova](/out/ottonova), and decide if it works for you.
 
 {% include '_blocks/healthInsuranceCalculatorStatic.html' %}

@@ -36,7 +36,7 @@ The cost of [private health insurance](/glossary/private%20Krankenversicherung) 
 
 ## How to choose health insurance
 
-Read my [health insurance guide](/guides/german-health-insurance), and [ask my insurance expert](/guides/german-health-insurance#insurance-brokers) to help you choose.
+Read my [health insurance guide](/guides/german-health-insurance), and [ask my insurance expert](/guides/german-health-insurance#need-help) to help you choose.
 
 **[How to choose health insurance ➞](/guides/german-health-insurance)**
 

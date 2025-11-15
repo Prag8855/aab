@@ -21,7 +21,7 @@ Your options depend on your income:
 - **If your earn less than €{{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}} per year**  
     You can only choose [public health insurance](/glossary/gesetzliche%20Krankenversicherung). I recommend [Barmer](/out/barmer) or [TK](/out/feather-tk). It costs {{GKV_MIN_RATE_EMPLOYEE}}% to {{GKV_MAX_RATE_EMPLOYEE}}% of your income. The [maximum cost](/glossary/Höchstbeitrag) is around €{{GKV_MAX_COST_EMPLOYEE|cur}} per month.
 - **If your earn more than €{{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}} per year**  
-    You can choose [public](/glossary/gesetzliche%20Krankenversicherung) or [private health insurance](/glossary/private%20Krankenversicherung). Private can be better and cheaper.[^5] Don't choose private health insurance yourself. [Ask my insurance expert](/guides/german-health-insurance#insurance-brokers) to help you.
+    You can choose [public](/glossary/gesetzliche%20Krankenversicherung) or [private health insurance](/glossary/private%20Krankenversicherung). Private can be better and cheaper.[^5] Don't choose private health insurance yourself. [Ask my insurance expert](/guides/german-health-insurance#need-help) to help you.
 
 **[What is the best option? ➞](/guides/german-health-insurance#what-is-the-best-option)**
 
@@ -40,7 +40,7 @@ To apply for a [work visa](/glossary/Work%20Visa) or a [[Blue Card]], you need t
 - [ ] **Incoming health insurance**  
     Get [expat health insurance](/glossary/Expat%20health%20insurance). It covers you from the day you arrive in Germany to the day you start working. I recommend [Feather](/out/feather-expats), but there are [many other options](/guides/german-health-insurance#best-expat-health-insurance). If you already live in Germany, you don't need incoming health insurance.
 - [ ] **Long-term health insurance**  
-    Get [public](/glossary/gesetzliche%20Krankenversicherung) or [private health insurance](/glossary/private%20Krankenversicherung). For public health insurance, I recommend [Barmer](/out/barmer) or [TK](/out/feather-tk). For private health insurance, I recommend [asking an expert](/guides/german-health-insurance#insurance-brokers).
+    Get [public](/glossary/gesetzliche%20Krankenversicherung) or [private health insurance](/glossary/private%20Krankenversicherung). For public health insurance, I recommend [Barmer](/out/barmer) or [TK](/out/feather-tk). For private health insurance, I recommend [asking an expert](/guides/german-health-insurance#need-help).
 
 **[How to apply for a Blue Card ➞](/guides/blue-card)**
 
@@ -110,11 +110,11 @@ If you [lose your job](/guides/losing-your-job), you keep your health insurance.
 - **For [public health insurance](/glossary/gesetzliche%20Krankenversicherung)**  
     I recommend [Barmer](/out/barmer) or [TK](/out/feather-tk). They are reliable, English-speaking health insurers.
 - **For [private health insurance](/glossary/private%20Krankenversicherung)**  
-    Always [ask an expert](/guides/german-health-insurance#insurance-brokers). Never choose private health insurance yourself. You can make expensive mistakes, and it's really hard to fix them.
+    Always [ask an expert](/guides/german-health-insurance#need-help). Never choose private health insurance yourself. You can make expensive mistakes, and it's really hard to fix them.
 - **For [expat health insurance](/glossary/Expat%20health%20insurance)**  
     I recommend [Feather](/out/feather-health), but there are [many other options](/guides/german-health-insurance#best-expat-health-insurance). Feather is a reliable, English-speaking insurer in Berlin. We work together since 2018. Their expat health insurance works for a [[National Visa]] application.
 - **If you are not sure**  
-    [Read my health insurance guide](/guides/german-health-insurance), and [ask my insurance expert](/guides/german-health-insurance#insurance-brokers) to help you choose. Their help is free.
+    [Read my health insurance guide](/guides/german-health-insurance), and [ask my insurance expert](/guides/german-health-insurance#need-help) to help you choose. Their help is free.
 
 Your employer can choose health insurance for you, but it's a bad idea. They choose what is easy for them, not what is best for you.[^4]
 

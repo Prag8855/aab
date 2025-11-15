@@ -60,7 +60,7 @@ Be careful while looking for apartments. There are a lot of [housing scams](/gui
 
 If you live in Germany, you need [health insurance](/glossary/Krankenversicherung). You need it to apply for a [[National Visa]] or a [residence permit](/glossary/Aufenthaltstitel). You need it before you [start working](/guides/find-a-job-in-berlin#start-working) or studying.
 
-Use my [health insurance calculator](/guides/german-health-insurance) to know your options. [Ask my insurance expert](/guides/german-health-insurance#insurance-brokers) to help you choose. It's the best way to get insured.
+Use my [health insurance calculator](/guides/german-health-insurance) to know your options. [Ask my insurance expert](/guides/german-health-insurance#need-help) to help you choose. It's the best way to get insured.
 
 {% include '_blocks/healthInsuranceCalculator.html' %}
 

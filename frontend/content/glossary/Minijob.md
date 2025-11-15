@@ -11,12 +11,12 @@ Related_guides:
 
 In Germany, a minijob is a job that pays €{{MINIJOB_MAX_INCOME|cur}} per month or less.[^0]
 
-Minijobs have a few benefits:
+Minijob benefits:
 
 - If you only have a minijob, you pay no [income tax](/glossary/Einkommensteuer),[^1] [unemployment insurance](/glossary/Arbeitslosenversicherung) or [public pension contributions](/glossary/gesetzliche%20Rentenversicherung).
 - If you only have a minijob, you can use your spouse's or your parents' [public health insurance](/glossary/gesetzliche%20Krankenversicherung) for free.[^2]
 
-Minijobs also have disadvantages:
+Minijob disadvantages:
 
 - Your employer does not pay half of your health insurance. If you are not covered by [your family's health insurance](/glossary/Familienversicherung), you might pay [half of your salary](/tools/health-insurance-calculator) for health insurance.
 - If you lose your minijob, you do not get [unemployment benefits](/glossary/ALG%20I).[^4]

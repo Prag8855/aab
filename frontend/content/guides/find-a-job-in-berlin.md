@@ -194,7 +194,7 @@ During your first month at a new company, your employer needs a few things:
 - [ ] **[Your social insurance number](/guides/german-versicherungsnummer#how-to-get-your-sozialversicherungsnummer)** (*[[Sozialversicherungsnummer]]*)  
     If you have [public health insurance](/glossary/gesetzliche%20Krankenversicherung), you get this number automatically in the mail. If you have [private health insurance](/glossary/private%20Krankenversicherung), you must apply for it. Your [insurance broker](/glossary/Makler) can do it for you. Your employer can sometimes do it for you.
 - [ ] **Your [health insurance](/glossary/Krankenversicherung) number** (*Krankenversicherungsnummer*)  
-    You get it 2 to 7 days after you [choose health insurance](/guides/german-health-insurance). Your employer needs this number to take health insurance payments from your salary. Your employer can choose health insurance for you, but it's a bad idea. [Ask my broker to help you choose](/guides/german-health-insurance#insurance-brokers), it's free.
+    You get it 2 to 7 days after you [choose health insurance](/guides/german-health-insurance). Your employer needs this number to take health insurance payments from your salary. Your employer can choose health insurance for you, but it's a bad idea. [Ask my broker to help you choose](/guides/german-health-insurance#need-help), it's free.
 
 You can start working without these things. Your employer can't require an [address registration certificate](/glossary/Anmeldebestätigung).[^4]
 

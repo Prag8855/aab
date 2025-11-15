@@ -52,7 +52,7 @@ If you are a freelancer, it's more expensive because your employer does not pay 
 
 On the other hand, the price of [private health insurance](/glossary/private%20Krankenversicherung) depends on your age and your health. If you are young, healthy, child-free, freelance and well-paid, private health insurance can be *much* cheaper.
 
-This is why going with private health insurance sometimes makes more sense. I explain this in my guide on [how to choose health insurance](/guides/german-health-insurance). In this situation, TK might not be the best option for you, and you should [talk with a health insurance broker](/guides/german-health-insurance#insurance-brokers).
+This is why going with private health insurance sometimes makes more sense. I explain this in my guide on [how to choose health insurance](/guides/german-health-insurance). In this situation, TK might not be the best option for you, and you should [talk with a health insurance broker](/guides/german-health-insurance#need-help).
 
 ### Good support
 
@@ -95,7 +95,7 @@ Techniker Krankenkasse is very good. It's the best-rated public health insurer i
 
 I am not cherry-picking facts. Every article I have found ranks TK first. In 2019, [my insurance broker](/out/feather) also said that it's by far the best public option.
 
-In 2021, TK raised their prices. It's still a good deal, but it means you should also look at other options. A [health insurance broker](/guides/german-health-insurance#insurance-brokers) can help you pick health insurance. Their advice is free.
+In 2021, TK raised their prices. It's still a good deal, but it means you should also look at other options. A [health insurance broker](/guides/german-health-insurance#need-help) can help you pick health insurance. Their advice is free.
 
 ## Conclusion
 
@@ -127,7 +127,7 @@ In 2021, I switched to private health insurance. I was still very happy with TK,
 
 ### Will TK cover me?
 
-**Generally, yes.** TK is usually forced to cover you. There are two big exceptions: freelancers who just moved to Germany, and students over 30 years old who just moved to Germany. In this case, public health insurers can refuse to cover you, and it can be hard to find health insurance. Talk to a [health insurance broker](/guides/german-health-insurance#insurance-brokers), and they will help you for free.
+**Generally, yes.** TK is usually forced to cover you. There are two big exceptions: freelancers who just moved to Germany, and students over 30 years old who just moved to Germany. In this case, public health insurers can refuse to cover you, and it can be hard to find health insurance. Talk to a [health insurance broker](/guides/german-health-insurance#need-help), and they will help you for free.
 
 **[Health insurance options ➞](/guides/german-health-insurance#your-options)**
 

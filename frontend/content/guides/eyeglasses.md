@@ -40,7 +40,7 @@ If you go to an optician (*[[Optiker]]*), the test is not covered by your insura
 
 **Sometimes.** Many private health insurers pay for eyeglasses. Usually, you can spend a fixed amount on eyeglasses every 2 or 3 years.
 
-[Private health insurance](/glossary/private%20Krankenversicherung) coverage varies a lot. You must check your insurance policy (under *Hilfsmittel*). If you are still [choosing health insurance](/guides/german-health-insurance), [ask my insurance expert](/guides/german-health-insurance#insurance-brokers) to help you find health insurance that covers glasses.
+[Private health insurance](/glossary/private%20Krankenversicherung) coverage varies a lot. You must check your insurance policy (under *Hilfsmittel*). If you are still [choosing health insurance](/guides/german-health-insurance), [ask my insurance expert](/guides/german-health-insurance#need-help) to help you find health insurance that covers glasses.
 
 ## Do employers cover glasses?
 

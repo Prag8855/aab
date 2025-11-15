@@ -25,7 +25,7 @@ For example:
 
 If someone gets hurt because of you, you might pay thousands or even millions of euros in reparations. This is why liability insurance is so important.
 
-83% of Germans have liability insurance.[^0] It costs around €5 per month.
+83% of Germans have liability insurance.[^0] It costs around €5 per month. I got mine from [Feather](/out/feather-haftpflicht)
 
 **[How to choose liability insurance ➞](/guides/haftpflichtversicherung)**
 

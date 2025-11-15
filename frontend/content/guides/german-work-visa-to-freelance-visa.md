@@ -48,7 +48,7 @@ When you are an employee, your employer pays half of your health insurance. When
 
 {% with occupation = 'selfEmployed' %}{% include '_blocks/healthInsuranceCalculator.html' %}{% endwith %}
 
-You can switch to [private health insurance](/glossary/private%20Krankenversicherung). It can be better and cheaper than [public health insurance](/glossary/gesetzliche%20Krankenversicherung). I switched, and I save around €600 per month. It's a complex decision. [Ask my insurance expert](/guides/german-health-insurance#insurance-brokers) if it makes sense for you.
+You can switch to [private health insurance](/glossary/private%20Krankenversicherung). It can be better and cheaper than [public health insurance](/glossary/gesetzliche%20Krankenversicherung). I switched, and I save around €600 per month. It's a complex decision. [Ask my insurance expert](/guides/german-health-insurance#need-help) if it makes sense for you.
 
 **[How to choose German health insurance ➞](/guides/german-health-insurance)**
 

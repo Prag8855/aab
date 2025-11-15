@@ -29,7 +29,7 @@ There are 3 long-term health insurance options:
     - or you join the *[[Künstlersozialkasse]]*
     - or you join a [freelancer cooperative](#freelancer-cooperatives)
 - **[Private health insurance](/glossary/private%20Krankenversicherung)**  
-    This option makes sense if you make over €60,000 per year. If you join at a young age, it's better and cheaper than [public health insurance](/glossary/gesetzliche%20Krankenversicherung).[^8] [Ask my insurance expert](/guides/german-health-insurance#insurance-brokers) if it makes sense for you. If you choose private health insurance, it's really hard to change your mind later.
+    This option makes sense if you make over €60,000 per year. If you join at a young age, it's better and cheaper than [public health insurance](/glossary/gesetzliche%20Krankenversicherung).[^8] [Ask my insurance expert](/guides/german-health-insurance#need-help) if it makes sense for you. If you choose private health insurance, it's really hard to change your mind later.
 - **[[Expat health insurance]]**  
     If you make less than €{{PKV_MIN_INCOME|cur}} per year, and you can't get [public health insurance](/glossary/gesetzliche%20Krankenversicherung), this is your only option.[^2] It's the cheapest option, but the coverage is bad, and [it's a bad long-term option](/guides/german-health-insurance#expat-health-insurance). Switch to public or private health insurance as soon as you can.[^6]
 
@@ -66,7 +66,7 @@ Your options depend on your situation:
 - **To apply for a [residence permit](/glossary/Aufenthaltstitel)**  
     To apply for a freelance visa at the [immigration office](/glossary/Ausländerbehörde) in Germany, or to convert your [[National Visa]] into a residence permit, the rules are different.
     - **If this is your first residence permit**  
-        You can have [public](/glossary/gesetzliche%20Krankenversicherung), [private](/glossary/private%20Krankenversicherung) or [expat](/glossary/Expat%20health%20insurance) health insurance. Don't choose insurance yourself; [ask my insurance expert](/guides/german-health-insurance#insurance-brokers) to help you.
+        You can have [public](/glossary/gesetzliche%20Krankenversicherung), [private](/glossary/private%20Krankenversicherung) or [expat](/glossary/Expat%20health%20insurance) health insurance. Don't choose insurance yourself; [ask my insurance expert](/guides/german-health-insurance#need-help) to help you.
     - **If you had a different residence permit before**  
         You need [public](/glossary/gesetzliche%20Krankenversicherung) or [private](/glossary/private%20Krankenversicherung) health insurance. [[Expat health insurance]] is rarely accepted. Keep your public health insurance; it's the safest option.
     - **If you renew your freelance visa**  
@@ -82,7 +82,7 @@ If you are applying for the *[[Künstlersozialkasse]]*, you can use expat health
 
 The best option depends on your citizenship, your income, your health, and your plans for the future.
 
-If you are self-employed, **never choose health insurance yourself**. Always [ask an expert](/guides/german-health-insurance#insurance-brokers) to help you. It's a complex decision, and freelancers often make expensive mistakes. Choosing the wrong health insurance can also delay your [freelance visa](/glossary/Freelance%20visa) application.
+If you are self-employed, **never choose health insurance yourself**. Always [ask an expert](/guides/german-health-insurance#need-help) to help you. It's a complex decision, and freelancers often make expensive mistakes. Choosing the wrong health insurance can also delay your [freelance visa](/glossary/Freelance%20visa) application.
 
 {% include '_blocks/healthInsuranceQuestionStatic.html' %}
 

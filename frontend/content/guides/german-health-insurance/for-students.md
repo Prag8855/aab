@@ -65,15 +65,15 @@ After 30 years old, your options change.
 - **[Public health insurance](/glossary/gesetzliche%20Krankenversicherung)**  
     It costs around €{{GKV_MIN_COST_SELF_PAY|cur}} per month. It's more expensive because you can't get the student tariff.[^25]
 - **[Expat health insurance](/glossary/Expat%20health%20insurance)**  
-    This is the cheapest option, but the coverage is much worse. [Ask my insurance expert](/guides/german-health-insurance#insurance-brokers) if it makes sense for you.
+    This is the cheapest option, but the coverage is much worse. [Ask my insurance expert](/guides/german-health-insurance#need-help) if it makes sense for you.
 - **[Private health insurance](/glossary/private%20Krankenversicherung)**  
-    Usually, you can't get [private health insurance](/glossary/private%20Krankenversicherung) because your income is too low,[^90] but some insurers have cheap tariffs for students.[^87] If you choose private health insurance, you are stuck with it until you graduate.[^3] [Ask my insurance expert](/guides/german-health-insurance#insurance-brokers) if it makes sense for you.
+    Usually, you can't get [private health insurance](/glossary/private%20Krankenversicherung) because your income is too low,[^90] but some insurers have cheap tariffs for students.[^87] If you choose private health insurance, you are stuck with it until you graduate.[^3] [Ask my insurance expert](/guides/german-health-insurance#need-help) if it makes sense for you.
 
 **If you just moved to Germany**, you probably can't get [public health insurance](/glossary/gesetzliche%20Krankenversicherung). [[Expat health insurance]] might be your only option.[^13] You can get public health insurance if you had public health insurance in another EU country for 2 of the last 5 years.[^2]
 
 **If you already live in Germany**, you can keep your current [public health insurance](/glossary/gesetzliche%20Krankenversicherung). If you currently have private or expat health insurance, it's really hard to switch to public health insurance.
 
-If you are over 30 years old, don't choose health insurance yourself. [Ask an expert](/guides/german-health-insurance#insurance-brokers) to help you choose. It's a free service.
+If you are over 30 years old, don't choose health insurance yourself. [Ask an expert](/guides/german-health-insurance#need-help) to help you choose. It's a free service.
 
 **[Get health insurance ➞](#how-to-get-insured)**
 
@@ -135,7 +135,7 @@ There are many ways to get insured:
 
 - **[Feather](/out/feather-students)**{{ RECOMMENDED }}  
     They sell incoming and long-term health insurance. I work with them since 2018. They have great customer service, and their insurance is valid for a visa application.
-- **[Ask our expert](/guides/german-health-insurance#insurance-brokers)**  
+- **[Ask our expert](/guides/german-health-insurance#need-help)**  
     This is the best option if you are over 30 years old, if you have a special situation, or if you have questions.
 - [Expatrio](/out/expatrio), [Fintiba](/out/fintiba) and [Coracle](/out/coracle) sell packages that include a [blocked account](/glossary/Sperrkonto), incoming health insurance and long-term health insurance.
 

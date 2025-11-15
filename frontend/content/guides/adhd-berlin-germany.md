@@ -13,9 +13,9 @@ This guide shows you how ADHD treatment usually works in Germany. It's based on 
 
 **If you have [public health insurance](/glossary/gesetzliche%20Krankenversicherung)**, it covers the ADHD diagnosis, therapy and medication. There is only a €5 [deductible](/glossary/Selbstbeteiligung) for each prescription.[^0] You must find a psychiatrist that accepts public health insurance. They are harder to find.
 
-Public health insurance covers the cheapest solution that works. Doctors will only try medication if it's necessary. They will start with the cheapest medication: Medikinet (Ritalin).
+Public health insurance covers the cheapest treatment that works. Doctors will only try medication if it's necessary. They will start with the cheapest medication: Medikinet (Ritalin).
 
-**If you have [private health insurance](/glossary/private%20Krankenversicherung)**, ask your insurer what is covered. Private health insurance usually covers the ADHD diagnosis, therapy and medication. It usually covers more expensive ADHD medication like Elvanse (Vyvanse).
+**If you have [private health insurance](/glossary/private%20Krankenversicherung)**, ask your insurer what is covered. Private health insurance usually covers the ADHD diagnosis, therapy and medication. It usually covers better ADHD medication like Elvanse (Vyvanse).
 
 **[English-speaking psychiatrists in Berlin ➞](/guides/english-speaking-psychiatrists-berlin)**
 

@@ -224,7 +224,7 @@ The KSK is not a health insurer. You must [choose health insurance](/guides/germ
 
 **[How to choose German health insurance ➞](/guides/german-health-insurance)**
 
-[Ask my insurance expert](/guides/german-health-insurance#insurance-brokers) to help you choose the correct health insurance. Tell him that you plan to join the KSK.
+[Ask my insurance expert](/guides/german-health-insurance#need-help) to help you choose the correct health insurance. Tell him that you plan to join the KSK.
 
 {% include '_blocks/healthInsuranceQuestion.html' %}
 
@@ -357,7 +357,7 @@ If you can, include proof that you have upcoming projects. Proofs of future inco
 ### Health insurance documents
 
 - [ ] **Proof of health insurance** (*[[Mitgliedsbescheinigung]]*)  
-    You get this from your health insurer, or from your health insurance broker. If you don't have health insurance yet, get a *vorläufige Mitgliedsbescheinigung* from any public health insurer, or [ask my insurance expert](/guides/german-health-insurance#insurance-brokers) to help you [choose health insurance](/guides/german-health-insurance/for-freelancers). His help is free.
+    You get this from your health insurer, or from your health insurance broker. If you don't have health insurance yet, get a *vorläufige Mitgliedsbescheinigung* from any public health insurer, or [ask my insurance expert](/guides/german-health-insurance#need-help) to help you [choose health insurance](/guides/german-health-insurance/for-freelancers). His help is free.
     - **[Public health insurance exemption form](https://www.kuenstlersozialkasse.de/fileadmin/Dokumente/Mediencenter_K%C3%BCnstler_Publizisten/Vordrucke_und_Formulare/Befreiung_von_der_gesetzl._KV.pdf)**  
         If you want to [keep your private health insurance](/guides/ksk-kuenstlersozialkasse#can-i-have-private-health-insurance-with-the-ksk) after you join the KSK, include this form.
     - **Private health insurance contract**  
@@ -444,7 +444,7 @@ You must pay the private health insurer yourself. The KSK will not give you mone
 
 For most KSK members, private health insurance is a bad idea. Public health insurance is a better, safer option for you. Private health insurance only makes sense if you have a very high income, and you don't plan to have children.
 
-If you are not sure about this, [talk to a health insurance broker](/guides/german-health-insurance#insurance-brokers). They will help you choose the best health insurance for your needs.
+If you are not sure about this, [talk to a health insurance broker](/guides/german-health-insurance#need-help). They will help you choose the best health insurance for your needs.
 
 ### Can I have another source of income while in the KSK?
 
@@ -475,7 +475,7 @@ If you are not sure about this, [talk to a health insurance broker](/guides/germ
 
 **Yes.** You have the same benefits as everyone else. If you have public health insurance, it covers your children, and your unemployed spouse (*Familienversicherung*). You have the same benefits as other people with public health insurance.
 
-If you have private health insurance, you usually need to pay more to cover your family. The KSK does not pay for this. In this case, you should consider public health insurance. Talk to a [health insurance broker](/guides/german-health-insurance#insurance-brokers). They will help you decide.
+If you have private health insurance, you usually need to pay more to cover your family. The KSK does not pay for this. In this case, you should consider public health insurance. Talk to a [health insurance broker](/guides/german-health-insurance#need-help). They will help you decide.
 
 {% include '_blocks/healthInsuranceQuestion.html' %}
 

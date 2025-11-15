@@ -13,4 +13,4 @@ Related_guides:
 
 A broker (*Makler*) is a person that helps you find a service for a fee. For example, there are apartment brokers, mortgage brokers, realtors and insurance brokers.
 
-Talking to an [insurance broker](/guides/german-health-insurance#insurance-brokers) is the best way to [choose health insurance](/guides/german-health-insurance).
+Talking to an [insurance broker](/guides/german-health-insurance#need-help) is the best way to [choose health insurance](/guides/german-health-insurance).

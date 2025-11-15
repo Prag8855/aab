@@ -68,7 +68,7 @@ When you renew a [residence permit](/glossary/Aufenthaltstitel), [expat health i
 
 **[Health insurance for a freelance visa ➞](/guides/german-health-insurance/for-freelancers#insurance-for-a-freelance-visa)**
 
-It takes 1 or 2 weeks to switch, but **it can take up to 3 months**.[^17] [Ask my insurance expert](/guides/german-health-insurance#insurance-brokers) to help you [choose the correct health insurance](/guides/german-health-insurance/for-freelancers). His help is free. Don't choose health insurance yourself; you can make expensive mistakes. Many applications are rejected because of invalid health insurance.[^5]
+It takes 1 or 2 weeks to switch, but **it can take up to 3 months**.[^17] [Ask my insurance expert](/guides/german-health-insurance#need-help) to help you [choose the correct health insurance](/guides/german-health-insurance/for-freelancers). His help is free. Don't choose health insurance yourself; you can make expensive mistakes. Many applications are rejected because of invalid health insurance.[^5]
 
 {% include '_blocks/healthInsuranceQuestion.html' %}
 
