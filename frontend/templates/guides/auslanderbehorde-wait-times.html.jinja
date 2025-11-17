@@ -8,6 +8,7 @@
 {% include '_js/utils/percent.js' %}
 {% include '_js/vue.js' %}
 {% include "_js/utils/date.js" %}
+{% include '_js/vue/components/pagination.js' %}
 {% include '_js/vue/widgets/feedback-residence-permit.js' %}
 {% include '_js/vue/mixins/residencePermitFeedbackMixin.js' %}
 {% js %}
@@ -41,9 +42,6 @@
 				},
 				pageCount(){
 					return Math.ceil(this.resultCount / this.itemsPerPage);
-				},
-				pageNumbers(){
-					return Array.from({length: this.pageCount}, (_, i) => i + 1);
 				},
 				resultsPage(){
 					return this.isLoading ? [] : this.resultPages[this.page];

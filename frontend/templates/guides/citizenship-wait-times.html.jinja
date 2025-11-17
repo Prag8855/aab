@@ -7,6 +7,7 @@
 
 {% include '_js/vue.js' %}
 {% include "_js/utils/date.js" %}
+{% include '_js/vue/components/pagination.js' %}
 {% js %}
 	document.querySelectorAll('main .article-body').forEach(
 		el => new Vue({
@@ -43,9 +44,6 @@
 				},
 				pageCount(){
 					return Math.ceil(this.resultCount / this.itemsPerPage);
-				},
-				pageNumbers(){
-					return Array.from({length: this.pageCount}, (_, i) => i + 1);
 				},
 				resultsPage(){
 					return this.isLoading ? [] : this.resultPages[this.page];

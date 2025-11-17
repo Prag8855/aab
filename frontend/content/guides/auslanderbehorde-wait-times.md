@@ -7,8 +7,6 @@ Date_created: 2024-11-27
 
 ## Residence permit wait times
 
-**Note:** The [immigration office](/glossary/Ausländerbehörde) [departments](/guides/immigration-office#departments) have changed in October 2025.[^1] Departments E1 to E6 were replaced with departments F1, F2 and M1 to M4.{{ fail_on('2026-02-01') }}
-
 {% include "_blocks/feedbackResidencePermit/summary.html"%}
 
 ## Share your experience
@@ -24,5 +22,3 @@ Date_created: 2024-11-27
 **[Where to ask immigration questions ➞](/guides/questions-about-berlin#immigration-questions)**
 
 **[If your visa or residence permit expires ➞](/guides/residence-permit#if-your-visa-or-residence-permit-expires)**
-
-[^1]: [Oliver Redsch](https://icb-relocation.de/dr-oliver-redsch) (July 2025), reader feedback (July 2025)

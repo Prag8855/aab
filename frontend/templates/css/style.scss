@@ -3406,27 +3406,6 @@ collapsible, letter-generator, feedback-residence-permit, health-insurance-calcu
     }
 }
 
-.pagination{
-    @include text-block;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: flex-start;
-    gap:var(--s);
-    text-align: center;
-
-    > *{
-        padding: var(--s) var(--l);
-        border-radius: var(--b-radius);
-        @include box-s;
-        &:not(.current){
-            @include box-clickable;
-        }
-        &.current{
-            @include text-bold;
-        }
-    }
-}
-
 .pension-refund-calculator {
     .form-group{
         grid-template-columns: 215px minmax(0, 1fr);

@@ -79,13 +79,5 @@
 		<p v-if="result.notes.length" class="notes">“{{ result.notes.trim() }}”</p>
 	</li>
 </ul>
-<nav v-cloak class="pagination no-print" aria-label="Pagination" v-if="pageCount > 1">
-	<button v-if="page > 1" @click="loadPage(page - 1)"><i class="icon left"></i></button>
-	<button :class="{current: pageNumber === page}"
-		v-for="pageNumber in pageNumbers" :key="pageNumber"
-		@click="loadPage(pageNumber)"
-		:title="'Go to page ' + pageNumber"
-		:disabled="page === pageNumber">{{ pageNumber }}</button>
-	<button v-if="page < pageCount" @click="loadPage(page + 1)"><i class="icon right"></i></button>
-</nav>
+<pagination :value="page" @input="loadPage($event, true)" :page-count="pageCount"></pagination>
 {% endraw %}
