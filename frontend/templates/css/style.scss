@@ -3319,8 +3319,13 @@ collapsible, letter-generator, feedback-residence-permit, health-insurance-calcu
 }
 .feedback-form, .feedback-list > li, .feedback-summary{
     @include text-block;
-    h3{
-        margin-bottom: var(--l);
+    h3, .notes{
+        border-bottom: var(--b-box);
+        margin: 0 0 var(--l);
+        padding: 0 0 var(--l);
+    }
+    .notes{
+        white-space: pre-wrap;
     }
     .steps{
         .step{
@@ -3356,18 +3361,20 @@ collapsible, letter-generator, feedback-residence-permit, health-insurance-calcu
                 flex:1 1;
             }
 
-            .duration{
-                flex: 1 1 100%;
+            time{
                 font-size: var(--f-s);
                 color: var(--c-text-light);
-                margin: var(--m) 0 0 var(--w-checkbox);
+
                 @include only-phone{
-                    &.form-group label{
-                        padding-top: 0;
-                        font-weight: normal;
-                        color: var(--c-text-light);
-                    }
+                    flex: 0 0 100%;
+                    margin: var(--xs) 0 0 var(--w-checkbox);
                 }
+            }
+
+            .duration{
+                flex: 0 0 100%;
+                margin: var(--m) 0 0 var(--w-checkbox);
+                color: var(--c-text-light);
             }
 
             &:last-child{
@@ -3375,12 +3382,6 @@ collapsible, letter-generator, feedback-residence-permit, health-insurance-calcu
                 border-left-color: transparent;
             }
         }
-    }
-    .notes{
-        border-top: var(--b-box);
-        margin-top: var(--l);
-        padding-top: var(--l);
-        white-space: pre-wrap;
     }
 }
 .feedback-list > li{

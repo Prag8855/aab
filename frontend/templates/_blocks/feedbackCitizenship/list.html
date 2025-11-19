@@ -12,6 +12,7 @@
 			<template v-if="result.appointment_date">in {{ formatTimeDelta(result.application_date, result.appointment_date) }}</template>
 			<span class="department" v-text="(departments[result.department] || '').split(' — ')[0]"></span>
 		</h3>
+		<p v-if="result.notes.length" class="notes">“{{ result.notes.trim() }}”</p>
 		<div class="steps">
 			<div class="step completed">
 				<input type="checkbox" checked disabled>
@@ -58,7 +59,6 @@
 				</span>
 			</div>
 		</div>
-		<p v-if="result.notes.length" class="notes">“{{ result.notes.trim() }}”</p>
 	</li>
 </ul>
 <pagination :value="page" @input="loadPage($event, true)" :page-count="pageCount"></pagination>

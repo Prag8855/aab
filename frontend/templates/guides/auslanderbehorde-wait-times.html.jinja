@@ -8,6 +8,7 @@
 {% include '_js/utils/percent.js' %}
 {% include '_js/vue.js' %}
 {% include "_js/utils/date.js" %}
+{% include '_js/vue/components/checkbox.js' %}
 {% include '_js/vue/components/pagination.js' %}
 {% include '_js/vue/widgets/feedback-residence-permit.js' %}
 {% include '_js/vue/mixins/residencePermitFeedbackMixin.js' %}
@@ -137,16 +138,6 @@
 					return range && average ?
 						`Wait ${range} — ${average} on average`
 						: 'Wait for an unknown duration';
-				},
-				waitTime(date1, date2, stillWaiting=false) {
-					if(stillWaiting){
-						const timeDelta = this.formatTimeDelta(date1, date2);
-						return timeDelta.startsWith('1 ') ? `${timeDelta} has passed` : `${timeDelta} have passed`;
-					}
-					else if(date2 >= date1 && !this.isInTheFuture(date2)){
-						return `Waited ${this.formatTimeDelta(date1, date2)}`
-					}
-					return `Waiting ${this.formatTimeDelta(date1, date2)}`;
 				},
 				isInTheFuture(date){
 					return date > (new Date());

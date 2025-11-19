@@ -5,78 +5,60 @@
 
 <div class="loading" v-if="isLoading">Loading feedback...</div>
 <ul class="feedback-list" v-show="!isLoading">
-	<li v-cloak v-for="result in resultsPage" v-if="!isLoading" :key="result.modification_date">
+	<li v-cloak v-for="result in resultsPage" v-if="!isLoading" :key="result.modification_date.toISOString()">
 		<button class="button" v-if="result.modification_key" @click="deleteResult(result.modification_key)">Delete</button>
 		<h3>
 			{{ residencePermitTypes[result.residence_permit_type].capitalized }}
 			<template v-if="result.pick_up_date">in {{ formatTimeDelta(result.application_date, result.pick_up_date) }}</template>
-			<span class="department" v-text="(departments[result.department] || '').split(' — ')[0]"></span>
+			<span class="department">Department {{ (departments[result.department] || '').split(' — ')[0] }}</span>
 		</h3>
+		<p v-if="result.notes.length" class="notes">“{{ result.notes.trim() }}”</p>
 		<div class="steps">
 			<div class="step completed">
 				<input type="checkbox" checked disabled>
-				<span class="description">Applied on {{ formatLongDate(result.application_date) }}</span>
-				<small class="duration">
-					<template v-if="result.first_response_date">
-						{{ waitTime(result.application_date, result.first_response_date) }}
-					</template>
-					<template v-else>
-						{{ waitTime(result.application_date, result.modification_date, true) }}
-					</template>
-				</small>
+				<span class="description">Applied <span class="no-mobile">on {{ formatLongDate(result.application_date) }}</span></span>
+				<time v-text="formatLongDate(result.application_date)"></time>
 			</div>
 
 			<div class="step" :class="{completed: !!result.first_response_date}">
 				<input type="checkbox" :checked="result.first_response_date" disabled>
 				<span class="description">
 					<template v-if="result.first_response_date">
-						Got a response on {{ formatLongDate(result.first_response_date) }}
+						Got a response {{ formatTimeDelta(result.application_date, result.first_response_date) }} later
 					</template>
 					<template v-else>
 						No response as of {{ formatLongDate(result.modification_date) }}
 					</template>
 				</span>
-				<small class="duration" v-if="result.first_response_date || result.appointment_date">
-					<template v-if="result.appointment_date">
-						{{ waitTime(result.first_response_date, result.appointment_date) }}
-					</template>
-					<template v-if="result.first_response_date && !result.appointment_date">
-						{{ waitTime(result.first_response_date, result.modification_date, true) }}
-					</template>
-				</small>
+				<time v-if="result.first_response_date" v-text="formatLongDate(result.first_response_date)"></time>
 			</div>
 
-			<div class="step" :class="{completed: !!result.appointment_date}">
+			<div class="step" v-if="!!result.first_response_date" :class="{completed: !!result.appointment_date}">
 				<input type="checkbox" :checked="result.appointment_date" disabled>
 				<span class="description">
 					<template v-if="result.appointment_date">
-						Appointment on {{ formatLongDate(result.appointment_date) }}
+						Went to appointment {{ formatTimeDelta(result.first_response_date, result.appointment_date) }} later
 					</template>
 					<template v-else>
-						No appointment <template v-if="result.first_response_date">as of {{ formatLongDate(result.modification_date) }}</template>
+						No appointment as of {{ formatLongDate(result.modification_date) }}
 					</template>
 				</span>
-				<small class="duration" v-if="result.appointment_date && result.pick_up_date">
-					{{ waitTime(result.appointment_date, result.pick_up_date) }}
-				</small>
-				<small class="duration" v-if="result.appointment_date && !result.pick_up_date && result.appointment_date <= result.modification_date">
-					{{ waitTime(result.appointment_date, result.modification_date, true) }}
-				</small>
+				<time v-if="result.appointment_date" v-text="formatLongDate(result.appointment_date)"></time>
 			</div>
 
-			<div class="step" :class="{completed: !!result.pick_up_date}">
+			<div v-if="!!result.appointment_date" class="step" :class="{completed: !!result.pick_up_date}">
 				<input type="checkbox" :checked="result.pick_up_date" disabled>
 				<span class="description">
 					<template v-if="result.pick_up_date">
-						{{ isInTheFuture(result.pick_up_date) ? 'Will pick up' : 'Picked up' }} residence permit on {{ formatLongDate(result.pick_up_date) }}
+						{{ isInTheFuture(result.pick_up_date) ? 'Will pick up' : 'Picked up' }} residence permit {{ formatTimeDelta(result.appointment_date, result.pick_up_date) }} later
 					</template>
 					<template v-else>
-						No pick-up date <template v-if="result.appointment_date">as of {{ formatLongDate(result.modification_date) }}</template>
+						No pick-up date as of {{ formatLongDate(result.modification_date) }}
 					</template>
 				</span>
+				<time v-if="result.pick_up_date" v-text="formatLongDate(result.pick_up_date)"></time>
 			</div>
 		</div>
-		<p v-if="result.notes.length" class="notes">“{{ result.notes.trim() }}”</p>
 	</li>
 </ul>
 <pagination :value="page" @input="loadPage($event, true)" :page-count="pageCount"></pagination>
