@@ -130,7 +130,7 @@ The cost depends on...
 - **Your age when you join**  
     Younger people pay less. Your insurer saves a part of your payments for old age. If you join when you are young, you also pay less when you are old. If you plan to leave Germany after a few years, you can get insurance without old-age provisions. It's around 50% cheaper.
 - **Your health condition when you join**  
-    If you have no health insurance history, you must get a health check at the doctor.[^44] If you have pre-existing health problems, insurers reject you or charge more.[^9] After you join, your health does not affect the price, even if you get really sick.
+    If you have no health insurance history, you must get a health check at the doctor.[^44] If you have [pre-existing health conditions](/glossary/Vorerkrankung), insurers reject you or charge more.[^9] After you join, your health does not affect the price, even if you get really sick.
 - **The coverage you choose**  
     You can choose the best coverage or the lowest price. To cover your spouse and children, you must pay more. You can pay more to get a higher [sickness allowance](/glossary/Krankentagegeld).
 - **Your [deductible](/glossary/Selbstbeteiligung)**  
@@ -275,7 +275,7 @@ The state pays for your public health insurance if...[^45]
 
 ### Travel health insurance
 
-Travel health insurance covers medical emergencies in other countries. It does not cover psychotherapy, long-term treatments, health check-ups or pre-existing health problems.
+Travel health insurance covers medical emergencies in other countries. It does not cover psychotherapy, long-term treatments, health check-ups or [pre-existing health conditions](/glossary/Vorerkrankung).
 
 - **If you [visit Germany](/guides/visit-berlin)**  
     Travel health insurance covers you during your trip. You need it to apply for a [[Schengen visa]]. If you have visa-free entry, travel health insurance is optional but recommended. [HanseMerkur Visa Plus](/out/hansemerkur-travel) is valid for a [[Schengen visa]] application.
@@ -342,7 +342,7 @@ Choose [expat health insurance](/glossary/Expat%20health%20insurance) if...
 - **You are a [student over 30 years old](/guides/german-health-insurance/for-students#for-students-over-30-years-old)**  
     For some foreign students, it's the only option. Public health insurance might reject you.
 - **You have no other choice**  
-    If you are self-employed and you have pre-existing health problems, it might be your only option. Expat health insurance is usually the cheapest option. It's a bad long-term solution, but it might be the only insurance you can afford.
+    If you are self-employed and you have a [pre-existing health condition](/glossary/Vorerkrankung), it might be your only option. Expat health insurance is usually the cheapest option. It's a bad long-term solution, but it might be the only insurance you can afford.
 - **You apply for an [opportunity card](/glossary/Chancenkarte)**  
     Expat health insurance is perfect for this. When you [find a job](/guides/find-a-job-in-berlin), switch to public or private health insurance.
 
