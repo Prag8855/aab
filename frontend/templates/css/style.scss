@@ -1906,25 +1906,6 @@ input[type=range] {
     }
 }
 
-.filter-group{
-    display: flex;
-    justify-content: flex-start;
-    gap: var(--m);
-    flex-wrap: wrap;
-    align-items: center;
-    margin: var(--xl) 0; // Should be --s-text-block, but .post-meta has --xl
-
-    @include only-phone{
-        > * {
-            flex:1 0 100%;
-            width: 100%;
-        }
-    }
-    + h2{
-        margin-top: 0;
-    }
-}
-
 .input-instructions{
     font-size: var(--f-s);
     flex: 1 0 100%!important;
