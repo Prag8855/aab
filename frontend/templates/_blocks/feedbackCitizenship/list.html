@@ -10,53 +10,40 @@
 		<h3>
 			Citizenship
 			<template v-if="result.appointment_date">in {{ formatTimeDelta(result.application_date, result.appointment_date) }}</template>
-			<span class="department" v-text="(departments[result.department] || '').split(' — ')[0]"></span>
+			<span class="department">Department {{ (departments[result.department] || '').split(' — ')[0] }}</span>
 		</h3>
 		<p v-if="result.notes.length" class="notes">“{{ result.notes.trim() }}”</p>
 		<div class="steps">
 			<div class="step completed">
 				<input type="checkbox" checked disabled>
-				<span class="description">Applied on {{ formatLongDate(result.application_date) }}</span>
-				<small class="duration">
-					<template v-if="result.first_response_date">
-						{{ waitTime(result.application_date, result.first_response_date) }}
-					</template>
-					<template v-else>
-						{{ waitTime(result.application_date, result.modification_date, true) }}
-					</template>
-				</small>
+				<span class="description">Applied <span class="no-mobile">on {{ formatLongDate(result.application_date) }}</span></span>
+				<time v-text="formatLongDate(result.application_date)"></time>
 			</div>
 
 			<div class="step" :class="{completed: !!result.first_response_date}">
 				<input type="checkbox" :checked="result.first_response_date" disabled>
 				<span class="description">
 					<template v-if="result.first_response_date">
-						Got a response on {{ formatLongDate(result.first_response_date) }}
+						Got a response {{ formatTimeDelta(result.application_date, result.first_response_date) }} later
 					</template>
 					<template v-else>
 						No response as of {{ formatLongDate(result.modification_date) }}
 					</template>
 				</span>
-				<small class="duration" v-if="result.first_response_date || result.appointment_date">
-					<template v-if="result.appointment_date">
-						{{ waitTime(result.first_response_date, result.appointment_date) }}
-					</template>
-					<template v-if="result.first_response_date && !result.appointment_date">
-						{{ waitTime(result.first_response_date, result.modification_date, true) }}
-					</template>
-				</small>
+				<time v-if="result.first_response_date" v-text="formatLongDate(result.first_response_date)"></time>
 			</div>
 
-			<div class="step" :class="{completed: !!result.appointment_date}">
+			<div class="step" v-if="!!result.first_response_date" :class="{completed: !!result.appointment_date}">
 				<input type="checkbox" :checked="result.appointment_date" disabled>
 				<span class="description">
 					<template v-if="result.appointment_date">
-						{{ isInTheFuture(result.appointment_date) ? 'Will become' : 'Became' }} a citizen on {{ formatLongDate(result.appointment_date) }}
+						Went to appointment {{ formatTimeDelta(result.first_response_date, result.appointment_date) }} later
 					</template>
 					<template v-else>
-						No appointment <template v-if="result.first_response_date">as of {{ formatLongDate(result.modification_date) }}</template>
+						No appointment as of {{ formatLongDate(result.modification_date) }}
 					</template>
 				</span>
+				<time v-if="result.appointment_date" v-text="formatLongDate(result.appointment_date)"></time>
 			</div>
 		</div>
 	</li>
