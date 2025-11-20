@@ -9,40 +9,30 @@ This guide explains how to get a car or motorcycle licence in Berlin.
 
 {% include "_blocks/tableOfContents.html" %}
 
-## Cost
+## Cost and timeline
 
-Getting a driving licence costs **€2,500 to €4,000**.[^0]{{fail_on('2026-12-31')}} The costs include:
+Getting a driving licence takes a few months. It costs **€2,500 to €4,000**.[^0]{{fail_on('2026-12-31')}} The costs include:
 
-- [ ] Eyesight test: €0 to €25
-- [ ] [[Bürgeramt]] fee: €{{DRIVING_LICENCE_FEE|cur}}
-- [ ] Theory lessons: around €150
-- [ ] Theory exam: €25[^1]
-- [ ] Practical lessons: minimum 12 lessons, €90 per lesson[^2]
-- [ ] Practical exam: €480
+- Eyesight test: €0 to €25
+- [[Bürgeramt]] fee: €{{DRIVING_LICENCE_FEE|cur}}
+- Theory lessons: around €150
+- Theory exam: €25[^1]
+- Practical lessons: minimum 12 lessons, €90 per lesson[^2]
+- Practical exam: €480
     - €130 for TÜV/Dekra[^20]
     - Around €350 for the driving school
 
-## Timeline
+??? Timeline ???
 
-It takes **a few months** from start to finish.[^35]
+It's cheaper and faster if you [convert your foreign driving licence](/guides/convert-to-german-driving-licence).
 
-## Language requirements
+### Language
 
 You don't need to speak German, but it helps. There are [English-speaking driving schools](/guides/english-driving-schools-in-berlin). Even if you take German classes, the practice app is usually in English.[^30]
 
 The [theory exam](#theory-exam) is in English, but the translations are really bad.[^31] Sometimes, I could not understand the English or French translations at all. It's easier if you take the test in German.
 
 The [practical exam](#practical-exam) might be in German, because some examiners don't speak English. You must understand simple instructions in German.[^25]
-
-## Get your licence in another country
-
-???
-
-## Convert your foreign driving licence
-
-You can convert your foreign driving licence into a German one. It's **cheaper and faster**. You might not need any driving lessons.
-
-**[How to convert a foreign driving licence ➞](/guides/convert-to-german-driving-licence)**
 
 ## 1. Choose a driving school
 
@@ -64,7 +54,9 @@ If you already have a car licence (*Klasse B*), you can skip some of the theory 
 
 ## 2. First aid course
 
-[Fahrschule Oscar](https://www.fahrschule-oscar.de/) and [Ersthelfer.tv](https://www.ersthelfer.tv/standorte/berlin-erste-hilfe-kurse/) give first aid classes in English.[^3] The course costs around €{{FIRST_AID_COURSE_COST|cur}}.[^19] It takes around 6 hours.[^4] There is no exam at the end.[^5] The exam certificate is valid for 2 years. 
+[Fahrschule Oscar](https://www.fahrschule-oscar.de/) and [Ersthelfer.tv](https://www.ersthelfer.tv/standorte/berlin-erste-hilfe-kurse/) give first aid classes in English.[^3] The course costs around €{{FIRST_AID_COURSE_COST|cur}}.[^19] It takes around 6 hours.[^4] There is no exam at the end.[^5] The first aid certificate is valid for 2 years.
+
+???First aid certificate from another source/country???
 
 You will get a first aid certificate. Bring it to your [*Bürgeramt* appointment](#burgeramt-appointment).
 
@@ -92,32 +84,32 @@ You need permission from the *[[Bürgeramt]]* to take the theory exam. Get an ap
 
 **[Book an appointment ➞](/out/appointment-driving-licence)**
 
-After your appointment, you must wait 6 to 9 weeks to get the permission paper. See the [current processing times](https://www.berlin.de/labo/mobilitaet/aktuelles/aktuelle-bearbeitungsstaende-736453.php).
+After your appointment, you must wait 6 to 9 weeks to get the permission paper.{{ fail_on('2025-12-31') }} See the [current processing times](https://www.berlin.de/labo/mobilitaet/aktuelles/aktuelle-bearbeitungsstaende-736453.php).
+
+??? What can you do in the meantime ???
 
 ### Required documents
 
 Bring these documents to your *[[Bürgeramt]]* appointment:[^7]
 
-1. Passport or *[[Personalausweis]]*
-2. [First aid course](#first-aid-course) certificate
-3. [Eye test](#eye-test) certificate
-4. [Biometric picture](/guides/biometric-pictures-in-berlin){{ fail_on('2026-01-01')}}
-5. [Contract](/images/ausbildungvertrag.jpg) from your driving school (*Ausbildungsvertrag*)
-6. Payment for the €{{DRIVING_LICENCE_FEE|cur}} fee - Check which payment methods your *Bürgeramt* accepts.
+- [ ] Passport or *[[Personalausweis]]*
+- [ ] [First aid course](#first-aid-course) certificate
+- [ ] [Eye test](#eye-test) certificate
+- [ ] [Biometric picture](/guides/biometric-pictures-in-berlin){{ fail_on('2026-01-01')}}
+- [ ] [Contract](/images/ausbildungvertrag.jpg) from your driving school (*Ausbildungsvertrag*)
+- [ ] Payment for the €{{DRIVING_LICENCE_FEE|cur}} fee - Check if your *Bürgeramt* accepts cash or credit cards.
 
 ### During the Bürgeramt appointment
 
 The appointment takes 15 minutes. During the appointment, you must:
 
-- Show the required documents
+- Give the [required documents](#required-documents)
 - Pay the €{{DRIVING_LICENCE_FEE|cur}} fee
-- Choose the Dekra or TÜV location where you will take your driving exam[^29]
+- Choose the Dekra or [[TÜV]] location where you will take your driving exam[^29]
 
-If you can, ask them to mail you the driving licence when it's ready. It costs €5 more, but it means you don't have to pick it up at the *Fahrerlaubnisbehörde*.
+6 to 9 weeks later,{{ fail_on('2025-12-31') }} you will get a letter that gives you the permission to take a driving exam. Give it to your driving school, and they will give you a training certificate (*Ausbildungsbescheinigung der Fahrschule*).[^8] With this document, you can take the theory exam.
 
-6 to 9 weeks later, you will get a letter that gives you the permission to take a driving exam. Show it to your driving school, and they will give you a training certificate (*Ausbildungsbescheinigung der Fahrschule*).[^8] With this document, you have everything you need to take the theory exam later.
-
-This permission is valid for 12 months.[^26]
+This permission is valid for 12 months.[^26] You have 12 months to take the theory exam.
 
 ![Bürgeramt permission for driving classes](/images/IMG_1312-1.jpg)
 
@@ -129,13 +121,13 @@ Some questions are really hard. The translations are really bad.[^31] **Memorisa
 
 Your driving school will give you access to a practice app. The questions in the app are exactly the same as in the real exam. Even the translations are the same.[^12] You must memorise all the questions and all the answers. I needed 3 to 4 weeks to prepare.
 
-When you are ready to take the theory exam, go to your assigned Dekra or TÜV branch. You don't need an appointment. It costs €{{DRIVING_THEORY_EXAM_FEE|cur}}.[^9] The test takes around 20 minutes.[^32]
+When you are ready to take the theory exam, go to your assigned Dekra or [[TÜV]] branch. You don't need an appointment. It costs €{{DRIVING_THEORY_EXAM_FEE|cur}}.[^9] The test takes around 20 minutes.[^32]
 
 After the test, you get a certificate by email. The certificate is valid for 12 months.[^33]
 
 ## 6. Practical exam
 
-After you pass the theory exam, your driving school can schedule your practical exam with Dekra or TÜV. In Berlin, your exam will be in a few months.[^16]
+After you pass the theory exam, your driving school can schedule your practical exam with Dekra or [[TÜV]]. In Berlin, your exam will be a few months later.[^16]
 
 The practical exam takes around 1 hour.[^14] It's similar to what you practised. Your driving instructor and the examiner will sit in the car with you. If you take the motorcycle exam, they will follow in a car behind you.
 
@@ -143,7 +135,7 @@ The practical exam takes around 1 hour.[^14] It's similar to what you practised.
 
 The practical exam includes city driving, highway driving and a few technical maneuvers. You will drive from the Dekra or TÜV branch to a quiet street, and you will have to perform some maneuvers.
 
-You must be well-prepared. **44% of students fail their first practical exam.**[^15]
+You must practice a lot. **44% of students fail their first practical exam.**[^15]
 
 If you are not sure, watch [videos of German driving exams](https://www.youtube.com/@GermanDrivingSchool). These videos describe exactly how the exam works, in English.
 
@@ -159,11 +151,25 @@ When you pass the practical exam, you get a temporary driving licence (*Vorläuf
 
 This information is in the letter you got from the Bürgeramt in step 4.
 
+## Other ways to get a licence
+
+### Convert your foreign driving licence
+
+You can convert your foreign driving licence into a German one. It's **cheaper and faster**. You might not need any driving lessons.
+
+**[How to convert a foreign driving licence ➞](/guides/convert-to-german-driving-licence)**
+
+### Get your licence in another country
+
+???
+
 ## What to do next
 
 ### Get an International Driving Permit
 
-Your German driving licence is valid in all [[European Union]] countries. Outside the European Union, you might need an [International Driving Permit](/guides/international-driving-permit-germany). In my experience, you rarely need an International Driving Permit. I drove in over 50 countries, and don't remember ever using it.
+Your German driving licence is valid in all [[European Union]] countries. Outside the European Union, you might need an [International Driving Permit](/glossary/Internationaler%20Führerschein). In my experience, you rarely need an International Driving Permit. I drove in over 50 countries. I never needed it.
+
+**[How to get an International Driving Permit ➞](/guides/international-driving-permit-germany)**
 
 ### Buy a car
 
