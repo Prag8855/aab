@@ -6,9 +6,10 @@ Description: Technischer Überwachungsverein is the authority that inspects vehi
 Date_created: 2019-01-08
 Related_guides:
     guides/buying-used-car-in-germany.md
+    guides/driving-licence.md
     guides/car-cost-of-ownership-germany.md
 ---
 
-*TÜV* (*Technischer Überwachungsverein*) is the authority that inspects vehicles, elevators and many other things in Germany. Sometimes, people use the term *TÜV* for the vehicle inspection (*[[Hauptuntersuchung]]*) itself.
+*TÜV* (*Technischer Überwachungsverein*) is the authority that inspects vehicles, elevators and many other things in Germany. They also run driving licence exams. Sometimes, people use the term *TÜV* for the vehicle inspection (*[[Hauptuntersuchung]]*) itself.
 
-Dekra and KÜS are two other German inspection authorities.
+Dekra is another important German inspection authority.
