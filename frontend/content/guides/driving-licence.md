@@ -24,15 +24,15 @@ Getting a driving licence takes a few months. It costs **€2,500 to €4,000**.
 
 ??? Timeline ???
 
-It's cheaper and faster if you [convert your foreign driving licence](/guides/convert-to-german-driving-licence).
+If you have a foreign driving licence, you can [convert it](/guides/convert-to-german-driving-licence). It's cheaper and faster.
 
 ### Language
 
 You don't need to speak German, but it helps. There are [English-speaking driving schools](/guides/english-driving-schools-in-berlin). Even if you take German classes, the practice app is usually in English.[^30]
 
-The [theory exam](#theory-exam) is in English, but the translations are really bad.[^31] Sometimes, I could not understand the English or French translations at all. It's easier if you take the test in German.
+The [theory exam](#theory-exam) is in English, but the translations are really bad.[^31] I could not understand some questions in English or French. It's easier if you can take the test in German.
 
-The [practical exam](#practical-exam) might be in German, because some examiners don't speak English. You must understand simple instructions in German.[^25]
+The [practical exam](#practical-exam) is usually in German. Some examiners don't speak English. You must understand simple instructions in German.[^25]
 
 ## 1. Choose a driving school
 
@@ -46,11 +46,7 @@ To choose a driving school, look at...[^23]
 - **The distance**  
     If you take intensive lessons, choose a school near you.
 - **The reviews**  
-    Read the school's reviews on Google Maps. Don't trust the rating; German businesses often delete negative reviews.[^21] Check if they make you more classes than you need.
-
-You can start driving classes as soon as you find a driving school. You need permission from the *[[Bürgeramt]]* to take the practical exam.
-
-If you already have a car licence (*Klasse B*), you can skip some of the theory classes when you get your motorcycle licence.[^24]
+    Read the school's reviews on Google Maps. Don't trust the reviews too much; German businesses often delete negative reviews.[^21] Check if they make you more classes than you need.
 
 ## 2. First aid course
 
@@ -78,7 +74,13 @@ The eye test takes around 15 minutes. Bring an ID document to take the test.[^18
 
 You can wear glasses or contact lenses during the test. If you pass the test with glasses or contact lenses, you must always wear them when you drive.[^17]
 
-## 4. Bürgeramt appointment
+## 4. Theory classes
+
+When you find a school, you can start theory classes. You don't need anything else to start.
+
+If you already have a car licence, and you are getting a motorcycle, you can skip some of the theory classes.[^24]
+
+## 5. Bürgeramt appointment
 
 You need permission from the *[[Bürgeramt]]* to take the theory exam. Get an appointment as soon as you find a driving school. Your appointment will be in a few weeks.
 
@@ -99,7 +101,7 @@ Bring these documents to your *[[Bürgeramt]]* appointment:[^7]
 - [ ] [Contract](/images/ausbildungvertrag.jpg) from your driving school (*Ausbildungsvertrag*)
 - [ ] Payment for the €{{DRIVING_LICENCE_FEE|cur}} fee - Check if your *Bürgeramt* accepts cash or credit cards.
 
-### During the Bürgeramt appointment
+### What happens during the appointment
 
 The appointment takes 15 minutes. During the appointment, you must:
 
@@ -113,7 +115,7 @@ This permission is valid for 12 months.[^26] You have 12 months to take the theo
 
 ![Bürgeramt permission for driving classes](/images/IMG_1312-1.jpg)
 
-## 5. Theory exam
+## 6. Theory exam
 
 The theory exam is available in 11 languages, including English.[^27] You sit at a computer and answer 30 random questions from a list of around 1,000 questions. If you make more than 2 to 4 mistakes, you fail the test.[^28]
 
@@ -125,7 +127,7 @@ When you are ready to take the theory exam, go to your assigned Dekra or [[TÜV]
 
 After the test, you get a certificate by email. The certificate is valid for 12 months.[^33]
 
-## 6. Practical exam
+## 7. Practical exam
 
 After you pass the theory exam, your driving school can schedule your practical exam with Dekra or [[TÜV]]. In Berlin, your exam will be a few months later.[^16]
 
@@ -141,7 +143,7 @@ If you are not sure, watch [videos of German driving exams](https://www.youtube.
 
 You will then drive back to the Dekra or TÜV branch. This is also part of the test. If you passed the exam, the instructor will take your current driving licence (if you have one), and give you a temporary driving licence.[^34]
 
-## 7. Get your driving licence
+## 8. Get your driving licence
 
 When you pass the practical exam, you get a temporary driving licence (*Vorläufiger Nachweis der Fahrerlaubnis* or *VNF*). It's valid for 3 months, and only when carried with a valid ID.[^10] You also give back your current driving licence, so this is your only driving licence for now. This temporary licence is only valid in Germany.
 
