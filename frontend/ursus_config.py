@@ -396,10 +396,11 @@ ctx["FIRST_AID_COURSE_COST"] = fail_on("2027-12-31", 65)  # Cost of a first aid 
 
 ctx["DRIVING_LICENCE_CONVERSION_FEE"] = Decimal("37.50")  # (€) - service.berlin.de/dienstleistung/327537
 ctx["DRIVING_LICENCE_FEE"] = Decimal("51.21")  # (€) - service.berlin.de/dienstleistung/121627
-ctx["DRIVING_THEORY_EXAM_FEE"] = fail_on("2025-12-31", Decimal("22.49"))  # dekra.de/de/fahrerlaubnispruefung/
 ctx["FIRST_AID_COURSE_FEE"] = fail_on("2026-12-31", Decimal("80"))
 ctx["DRIVING_SCHOOL_FEE"] = fail_on("2026-12-31", Decimal("190"))
 ctx["DRIVING_PRACTICE_FEE"] = fail_on("2026-12-31", Decimal("60"))  # per 45-minute lesson
+ctx["DRIVING_THEORY_EXAM_FEE"] = fail_on("2026-12-31", Decimal("25"))  # Dekra/TÜV fee
+ctx["DRIVING_PRACTICAL_EXAM_FEE"] = fail_on("2026-12-31", Decimal("130"))  # Dekra/TÜV fee
 
 
 # ==============================================================================
