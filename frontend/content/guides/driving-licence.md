@@ -153,15 +153,21 @@ This information is in the letter you got from the Bürgeramt in step 4.
 
 ## Other ways to get a licence
 
+### Use your EU driving licence
+
+Your driving licence from another [EU](/glossary/European%20Union) or [[EEA]] country is valid in Germany.[^13] When it expires, you can convert it to a German driving licence. You don't need to take driving classes or a driving exam.
+
 ### Convert your foreign driving licence
 
-You can convert your foreign driving licence into a German one. It's **cheaper and faster**. You might not need any driving lessons.
+If you have a driving licence from another country, you can convert it. It's cheaper and faster. You might not need to take driving classes or a driving exam.
 
 **[How to convert a foreign driving licence ➞](/guides/convert-to-german-driving-licence)**
 
 ### Get your licence in another country
 
-???
+You must get your driving licence in your country of residence. If you live in Germany, you can't get your driving licence in another country.[^22] For example, you can't move to Germany, then get a driving licence in the Czech Republic.
+
+There is an exception: university students from other EU countries. For example, if you are Polish, and you study in Germany, you can get your driving licence in Poland.[^37]
 
 ## What to do next
 
@@ -177,7 +183,7 @@ Your German driving licence is valid in all [[European Union]] countries. Outsid
 
 You can also [rent a car when you need it](/guides/public-transit#rent-a-car). If you don't drive often, car sharing is better.
 
-[^0]: [Reddit](https://old.reddit.com/r/germany/comments/1jqaysg/driving_school_in_germany_my_running_bill_is_at/) (April 2025), [Reddit](https://old.reddit.com/r/de/comments/1bewalm/f%C3%BChrerscheinkosten_summieren_sich_oft_auf_3500/) (2024), [Reddit](https://old.reddit.com/r/berlin/comments/8kgizw/is_anyone_into_bikes_especially_cafe_racer_type/dz8bvqd/), [Reddit](https://old.reddit.com/r/germany/comments/1lvfean/my_noneu_to_german_driving_licence_conversion/) (2025), [ArbeitNow](https://www.arbeitnow.com/blog/drivers-license-in-germany#total-costs-of-the-driving-license-in-berlin) (2025)
+[^0]: [Reddit](https://old.reddit.com/r/germany/comments/1jqaysg/driving_school_in_germany_my_running_bill_is_at/) (April 2025), [Reddit](https://old.reddit.com/r/de/comments/1bewalm/f%C3%BChrerscheinkosten_summieren_sich_oft_auf_3500/) (2024), [Reddit](https://old.reddit.com/r/berlin/comments/8kgizw/is_anyone_into_bikes_especially_cafe_racer_type/dz8bvqd/), [Reddit](https://old.reddit.com/r/germany/comments/1lvfean/my_noneu_to_german_driving_licence_conversion/) (2025), [ArbeitNow](https://www.arbeitnow.com/blog/drivers-license-in-germany#total-costs-of-the-driving-license-in-berlin) (2025), [t-online.de](https://www.t-online.de/mobilitaet/aktuelles/id_100663882/fuehrerschein-im-ausland-machen-sparen-ja-aber-rechtliche-huerden-beachten.html) (2025)
 [^1]: [dekra.de](https://dekraprod-media.e-spirit.cloud/578b2cd5-7629-485e-a4b6-6c4e73f71231/media/1gebuehrenliste-alle-bl-ab-05-02-2024-extern-1.pdf) (July 2025), [ArbeitNow](https://www.arbeitnow.com/blog/drivers-license-in-germany#:~:text=i%20did%20not%20pay%20the%20fee%20of%2025%E2%82%AC%20online) (2025)
 [^2]: [as-fahrschule.de](https://www.as-fahrschule.de/preise/driving-lessons-in-english/)
 [^3]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/80h3vm/first_aid_course_for_german_driving_licence_in/duw9u9r/), [first-aid-courses-berlin.myshopify.com](https://first-aid-courses-berlin.myshopify.com/collections/fahrschule-oscar)
@@ -190,6 +196,7 @@ You can also [rent a car when you need it](/guides/public-transit#rent-a-car). I
 [^10]: Citation needed (check, update url), [berlin.de](https://www.berlin.de/labo/mobilitaet/fahrerlaubnisse-personen-und-gueterbefoerderung/fahrerlaubnis-fuehrerschein/artikel.283188.php)
 [^11]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/6w71m8/has_anyone_taken_a_driving_exam_in_another/), [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/317m95/driving_licence_theoretical_exam/)
 [^12]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/6w71m8/has_anyone_taken_a_driving_exam_in_another/), [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/317m95/driving_licence_theoretical_exam/)
+[^13]: [§ 28 Abs. 1 FeV](https://www.buzer.de/28_FeV.htm) (2025)
 [^14]: [ArbeitNow](https://www.arbeitnow.com/blog/drivers-license-in-germany#:~:text=it%20is%20overall%20for%20around%2055%20minutes.%20) (2025)
 [^15]: [rbb24.de](https://www.rbb24.de/panorama/beitrag/2024/01/berlin-senat-fuehrerschein-praktische-fahrpruefung.html#:~:text=in%20berlin%20fallen%2044%20prozent) (2024), [bussgeldkatalog.org](https://www.bussgeldkatalog.org/news/alarmierende-statistik-durchfallquote-bei-der-fahrpruefung-erneut-gestiegen-667751/)
 [^16]: [rbb24.de](https://www.rbb24.de/panorama/beitrag/2024/01/berlin-senat-fuehrerschein-praktische-fahrpruefung.html#:~:text=etwa%20vier%20monate%20warten) (2024)
@@ -198,6 +205,7 @@ You can also [rent a car when you need it](/guides/public-transit#rent-a-car). I
 [^19]: [Reddit](https://old.reddit.com/r/germany/comments/1lvfean/my_noneu_to_german_driving_licence_conversion/) (2025), [ersthelfer.tv](https://www.ersthelfer.tv/preise/) (2025), [ArbeitNow](https://www.arbeitnow.com/blog/drivers-license-in-germany#:~:text=it%20in%20English.-,it%20cost%2070%E2%82%AC.,-B%C3%BCrgeramt%20application) (2025)
 [^20]: [dekra.de](https://dekraprod-media.e-spirit.cloud/578b2cd5-7629-485e-a4b6-6c4e73f71231/media/1gebuehrenliste-alle-bl-ab-05-02-2024-extern-1.pdf) (July 2025)
 [^21]: [Reddit](https://old.reddit.com/r/FragReddit/comments/1d8l9m3/schlechte_googlebewertungen_werden_nun_aufgrund/) (2024), [Google](https://support.google.com/maps/thread/331484956/negative-rezensionen-werden-massenhaft-gel%C3%B6scht?hl=de) (2025), [SWR](https://www.swr.de/leben/verbraucher/ard-marktcheck/google-bewertungen-rezensionen-ehrliche-kritik-wird-immer-wieder-geloescht-100.html) (2025)
+[^22]: [europa.eu](https://europa.eu/youreurope/citizens/vehicles/driving-licence/get-driving-licence/index_en.htm) (2025), [bmv.de](https://www.bmv.de/SharedDocs/EN/Articles/StV/Roadtraffic/validity-foreign-driving-licences-in-germany.html#:~:text=if%20your%20normal%20residence%20was%20in%20the%20federal%20republic%20of%20germany%20at%20the%20time%20you%20obtained%20the%20foreign%20licence%3B) (November 2025), [t-online.de](https://www.t-online.de/mobilitaet/aktuelles/id_100663882/fuehrerschein-im-ausland-machen-sparen-ja-aber-rechtliche-huerden-beachten.html#:~:text=%20wer%20seinen%20fuhrerschein%20in%20einem%20anderen%20eu-land%20machen%20will%2C%20muss%20dort%20mindestens%20185%20tage%20im%20jahr%20wohnen.) (November 2025)
 [^23]: [ArbeitNow](https://www.arbeitnow.com/blog/drivers-license-in-germany#criteria-i-set-for-finding-a-driving-school) (2025)
 [^24]: Personal experience (2017)
 [^25]: Personal experience (2017)
@@ -212,3 +220,4 @@ You can also [rent a car when you need it](/guides/public-transit#rent-a-car). I
 [^34]: Personal experience (2017), [ArbeitNow](https://www.arbeitnow.com/blog/drivers-license-in-germany#:~:text=only%20in%20germany%20with%20a%20valid%20passport%20or%20personalausweis) (2025)
 [^35]: [ArbeitNow](https://www.arbeitnow.com/blog/drivers-license-in-germany#:~:text=weeks.timeline%20of%20my%20driving%20license) (2025)
 [^36]: [ArbeitNow](https://www.arbeitnow.com/blog/drivers-license-in-germany#:~:text=received%20the%20physical%20license%20card%20two%20weeks%20later) (2025)
+[^37]: [europa.eu](https://europa.eu/youreurope/citizens/vehicles/driving-licence/get-driving-licence/index_en.htm#inline-nav-1) (November 2025), [§ 7 Abs. 2 FeV](https://www.buzer.de/7_FeV.htm) (2025)
