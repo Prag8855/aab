@@ -13,17 +13,17 @@ This guide explains how to get a car or motorcycle licence in Berlin.
 
 Getting a driving licence takes a few months. It costs **€2,500 to €4,000**.[^0]{{fail_on('2026-12-31')}} The costs include:
 
-- First aid course: €{{FIRST_AID_COURSE_FEE|cur}}[^40]
+- First aid course: ~€{{FIRST_AID_COURSE_FEE|cur}}[^40]
 - Eyesight test: €0 to €25
 - [[Bürgeramt]] fee: €{{DRIVING_LICENCE_FEE|cur}}
-- Theory lessons: around €150
+- Driving school fee: ~€{{DRIVING_SCHOOL_FEE|cur}}[^5]
 - Theory exam: €25[^1]
-- Practical lessons: minimum 12 lessons, €90 per lesson[^2]
-- Practical exam: €480
-    - €130 for TÜV/Dekra[^20]
+- Practical lessons: ~€{{DRIVING_PRACTICE_FEE|cur}} per lesson, minimum 12 lessons[^2]
+- Practical exam: ~€480
+    - €130 for [[TÜV]] or Dekra[^20]
     - Around €350 for the driving school
 
-??? Timeline ???
+It takes around 6 months to get a driving licence.[^35]
 
 If you have a foreign driving licence, you can [convert it](/guides/convert-to-german-driving-licence). It's cheaper and faster.
 
@@ -37,7 +37,9 @@ The [practical exam](#practical-exam) is usually in German. Some examiners don't
 
 ## 1. Choose a driving school
 
-[Find a driving school](/guides/english-driving-schools-in-berlin) and sign a [contract](/images/ausbildungvertrag.jpg) (*Ausbildungsvertrag*) with them.
+Find a driving school and sign a [contract](/images/ausbildungvertrag.jpg) (*Ausbildungsvertrag*) with them.
+
+**[English-speaking driving schools ➞](/guides/english-driving-schools-in-berlin)**
 
 To choose a driving school, look at...[^23]
 
@@ -48,14 +50,16 @@ To choose a driving school, look at...[^23]
     If you take intensive lessons, choose a school near you.
 - **The reviews**  
     Read the school's reviews on Google Maps. Don't trust the reviews too much; German businesses often delete negative reviews.[^21] Check if they make you more classes than you need.
+- **Other services**  
+    Some driving schools offer first aid courses and eye tests. You can do everything in one place. It's more convenient.
 
 ## 2. First aid course
 
-[Fahrschule Oscar](https://www.fahrschule-oscar.de/) and [Ersthelfer.tv](https://www.ersthelfer.tv/standorte/berlin-erste-hilfe-kurse/) give first aid classes in English.[^3] The course costs around €{{FIRST_AID_COURSE_COST|cur}}.[^19] It takes around 7 hours.[^4] There is no exam at the end.[^5] The first aid certificate is valid for 2 years.
+You must take a first aid class. You need the first aid certificate for your [*Bürgeramt* appointment](#burgeramt-appointment).
 
-If you are a doctor or a nurse, you don't need a first aid test.[^39]
+Online and foreign certificates are not accepted. Doctor and nurses don't need a first aid certificate.[^39]
 
-You will get a first aid certificate. Bring it to your [*Bürgeramt* appointment](#burgeramt-appointment).
+There are first aid classes in English. I took mine at [Ersthelfer.tv](https://www.ersthelfer.tv/standorte/berlin-erste-hilfe-kurse/). The course costs around €{{FIRST_AID_COURSE_COST|cur}}.[^19] The class takes 7.5 hours. There is no test at the end.[^4]
 
 ## 3. Eye test
 
@@ -190,10 +194,10 @@ You can also [rent a car when you need it](/guides/public-transit#rent-a-car). I
 
 [^0]: [Reddit](https://old.reddit.com/r/germany/comments/1jqaysg/driving_school_in_germany_my_running_bill_is_at/) (April 2025), [Reddit](https://old.reddit.com/r/de/comments/1bewalm/f%C3%BChrerscheinkosten_summieren_sich_oft_auf_3500/) (2024), [Reddit](https://old.reddit.com/r/berlin/comments/8kgizw/is_anyone_into_bikes_especially_cafe_racer_type/dz8bvqd/), [Reddit](https://old.reddit.com/r/germany/comments/1lvfean/my_noneu_to_german_driving_licence_conversion/) (2025), [ArbeitNow](https://www.arbeitnow.com/blog/drivers-license-in-germany#total-costs-of-the-driving-license-in-berlin) (2025), [t-online.de](https://www.t-online.de/mobilitaet/aktuelles/id_100663882/fuehrerschein-im-ausland-machen-sparen-ja-aber-rechtliche-huerden-beachten.html) (2025)
 [^1]: [dekra.de](https://dekraprod-media.e-spirit.cloud/578b2cd5-7629-485e-a4b6-6c4e73f71231/media/1gebuehrenliste-alle-bl-ab-05-02-2024-extern-1.pdf) (July 2025), [ArbeitNow](https://www.arbeitnow.com/blog/drivers-license-in-germany#:~:text=i%20did%20not%20pay%20the%20fee%20of%2025%E2%82%AC%20online) (2025)
-[^2]: [as-fahrschule.de](https://www.as-fahrschule.de/preise/driving-lessons-in-english/)
+[^2]: [Fahrschule Asma](https://fahrschule-asma.com/) (November 2025)
 [^3]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/80h3vm/first_aid_course_for_german_driving_licence_in/duw9u9r/), [first-aid-courses-berlin.myshopify.com](https://first-aid-courses-berlin.myshopify.com/collections/fahrschule-oscar)
-[^4]: [§ 19 FeV](https://www.gesetze-im-internet.de/fev_2010/__19.html) (November 2025), [ersthelfer.tv](https://www.ersthelfer.tv/standorte/berlin-erste-hilfe-kurse/) (November 2025), [ArbeitNow](https://www.arbeitnow.com/blog/drivers-license-in-germany) (2025)
-[^5]: [reddit.com/r/berlinmoto](https://old.reddit.com/r/berlinmoto/comments/8fzfkt/how_to_get_a_motorcycle_licence_in_germany/dz9y44t/)
+[^4]: [§ 19 FeV](https://www.gesetze-im-internet.de/fev_2010/__19.html) (November 2025), [ersthelfer.tv](https://www.ersthelfer.tv/standorte/berlin-erste-hilfe-kurse/) (November 2025), [ArbeitNow](https://www.arbeitnow.com/blog/drivers-license-in-germany) (2025), [reddit.com/r/berlinmoto](https://old.reddit.com/r/berlinmoto/comments/8fzfkt/how_to_get_a_motorcycle_licence_in_germany/dz9y44t/)
+[^5]: [fahrschule-ibf.de](https://www.fahrschule-ibf.de/fahrschule/preise) (2025), [Fahrschule Asma](https://fahrschule-asma.com/angebote/) (November 2025)
 [^6]: [ersthelfer.tv](https://www.ersthelfer.tv/leistungen/sehtest/), [first-aid-courses-berlin.myshopify.com](https://first-aid-courses-berlin.myshopify.com/collections/fahrschule-oscar)
 [^7]: Citation needed (check page again, monitor, and do you need a local first aid test?) [berlin.de](https://service.berlin.de/dienstleistung/121627/)
 [^8]: [Screenshot](/images/2012I1344.gif)
@@ -223,6 +227,7 @@ You can also [rent a car when you need it](/guides/public-transit#rent-a-car). I
 [^32]: [ArbeitNow](https://www.arbeitnow.com/blog/drivers-license-in-germany#:~:text=exam%20and%20in-,roughly%2015%20minutes,-%2C%20I%20was%20done) (2025)
 [^33]: Citation needed, [ArbeitNow](https://www.arbeitnow.com/blog/drivers-license-in-germany#:~:text=valid%20only%20for%2012%20months) (2025)
 [^34]: Personal experience (2017), [ArbeitNow](https://www.arbeitnow.com/blog/drivers-license-in-germany#:~:text=only%20in%20germany%20with%20a%20valid%20passport%20or%20personalausweis) (2025)
+[^35]: [ArbeitNow](https://www.arbeitnow.com/blog/driving-license-in-germany#:~:text=weeks.timeline%20of%20my%20driving%20license) (November 2025), [Reddit](https://old.reddit.com/r/germany/comments/1irlnjx/my_journey_to_getting_a_german_driving_license_as/) (2025)
 [^36]: [ArbeitNow](https://www.arbeitnow.com/blog/drivers-license-in-germany#:~:text=received%20the%20physical%20license%20card%20two%20weeks%20later) (2025), [Berlin.de](https://www.berlin.de/labo/mobilitaet/fahrerlaubnisse-personen-und-gueterbefoerderung/fahrerlaubnis-fuehrerschein/artikel.283188.php#:~:text=durch%20die%20deutsche%20post%20ag%20als%20%E2%80%9Ceinschreiben%20einwurf%E2%80%9D) (November 2025)
 [^37]: [europa.eu](https://europa.eu/youreurope/citizens/vehicles/driving-licence/get-driving-licence/index_en.htm#inline-nav-1) (November 2025), [§ 7 Abs. 2 FeV](https://www.buzer.de/7_FeV.htm) (2025)
 [^38]: [berlin.de](https://www.berlin.de/labo/mobilitaet/fahrerlaubnisse-personen-und-gueterbefoerderung/fahrerlaubnis-fuehrerschein/artikel.283188.php#:~:text=muss%20innerhalb%20von%2012%20monaten%20nach%20der%20zulassung%20zur%20prufung) (November 2025)

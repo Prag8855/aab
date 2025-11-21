@@ -380,8 +380,6 @@ ctx["AUFENTHV_41_COUNTRIES"] = or_join(
 # ==============================================================================
 
 ctx["BESCHEINIGUNG_IN_STEUERSACHEN_FEE"] = Decimal("17.90")  # (€) - service.berlin.de/dienstleistung/324713
-ctx["DRIVING_LICENCE_CONVERSION_FEE"] = Decimal("37.50")  # (€) - service.berlin.de/dienstleistung/327537
-ctx["DRIVING_LICENCE_FEE"] = Decimal("51.21")  # (€) - service.berlin.de/dienstleistung/121627
 ctx["ERWEITERTE_MELDEBESCHEINIGUNG_FEE"] = fail_on("2025-12-31", 10)  # (€) - service.berlin.de/dienstleistung/120702
 ctx["GEWERBEANMELDUNG_FEE"] = 15  # € - service.berlin.de/dienstleistung/121921
 ctx["HUNDEFUHRERSCHEIN_FEE"] = 94  # (€) - service.berlin.de/dienstleistung/121822
@@ -395,8 +393,13 @@ ctx["SCHUFA_REPORT_FEE"] = fail_on("2025-12-01", Decimal("29.95"))  # TODO: Not 
 ctx["VEHICLE_UMMELDUNG_FEE"] = Decimal("10.80")  # service.berlin.de/dienstleistung/120658
 ctx["LICENSE_PLATE_COST"] = fail_on("2027-12-31", 20)  # Cost of making license plates
 ctx["FIRST_AID_COURSE_COST"] = fail_on("2027-12-31", 65)  # Cost of a first aid course for a driver's licence
+
+ctx["DRIVING_LICENCE_CONVERSION_FEE"] = Decimal("37.50")  # (€) - service.berlin.de/dienstleistung/327537
+ctx["DRIVING_LICENCE_FEE"] = Decimal("51.21")  # (€) - service.berlin.de/dienstleistung/121627
 ctx["DRIVING_THEORY_EXAM_FEE"] = fail_on("2025-12-31", Decimal("22.49"))  # dekra.de/de/fahrerlaubnispruefung/
 ctx["FIRST_AID_COURSE_FEE"] = fail_on("2026-12-31", Decimal("80"))
+ctx["DRIVING_SCHOOL_FEE"] = fail_on("2026-12-31", Decimal("190"))
+ctx["DRIVING_PRACTICE_FEE"] = fail_on("2026-12-31", Decimal("60"))  # per 45-minute lesson
 
 
 # ==============================================================================
