@@ -38,7 +38,7 @@ The *Bürgeramt* will share your new address with...
 - **The [[Kfz-Zulassungsstelle]]**  
     Bring your [vehicle registration papers](/glossary/Zulassungsbescheinigung) to your *Anmeldung* appointment. They will put a sticker on them with your new address. It costs €{{VEHICLE_UMMELDUNG_FEE|cur}} per vehicle. You can also [change your vehicle's address online](https://service.berlin.de/dienstleistung/120918/).
 
-## Notify everyone
+## Tell everyone
 
 Use **[umziehen.de](https://umziehen.de/formular/umzugsmitteilung)** to tell over 1000 companies your new address. It's a free service from Deutsche Post. They only share your new address with businesses that already know your old address.
 
@@ -48,6 +48,7 @@ You should also tell...
     Read your electricity metre, and tell the electric company that you are moving. Do this before you move.[^9]
 - [ ] **Your bank**  
     You can change your address on your bank's online portal, or by asking your financial advisor.
+- [ ] **Your employer**
 - [ ] **Your [car](/glossary/Kfz-Versicherung)/[home](/glossary/Hausratversicherung)/[liability insurance](/glossary/Haftpflichtversicherung)**  
     Tell your insurer about your address change. You can usually do it on their website. Your [insurance broker](/glossary/Makler) can do it for you.
 - [ ] **Your [health insurance](/glossary/Krankenversicherung)**  
