@@ -13,6 +13,7 @@ This guide explains how to get a car or motorcycle licence in Berlin.
 
 Getting a driving licence takes a few months. It costs **€2,500 to €4,000**.[^0]{{fail_on('2026-12-31')}} The costs include:
 
+- First aid course: €{{FIRST_AID_COURSE_FEE|cur}}[^40]
 - Eyesight test: €0 to €25
 - [[Bürgeramt]] fee: €{{DRIVING_LICENCE_FEE|cur}}
 - Theory lessons: around €150
@@ -50,9 +51,9 @@ To choose a driving school, look at...[^23]
 
 ## 2. First aid course
 
-[Fahrschule Oscar](https://www.fahrschule-oscar.de/) and [Ersthelfer.tv](https://www.ersthelfer.tv/standorte/berlin-erste-hilfe-kurse/) give first aid classes in English.[^3] The course costs around €{{FIRST_AID_COURSE_COST|cur}}.[^19] It takes around 6 hours.[^4] There is no exam at the end.[^5] The first aid certificate is valid for 2 years.
+[Fahrschule Oscar](https://www.fahrschule-oscar.de/) and [Ersthelfer.tv](https://www.ersthelfer.tv/standorte/berlin-erste-hilfe-kurse/) give first aid classes in English.[^3] The course costs around €{{FIRST_AID_COURSE_COST|cur}}.[^19] It takes around 7 hours.[^4] There is no exam at the end.[^5] The first aid certificate is valid for 2 years.
 
-???First aid certificate from another source/country???
+If you are a doctor or a nurse, you don't need a first aid test.[^39]
 
 You will get a first aid certificate. Bring it to your [*Bürgeramt* appointment](#burgeramt-appointment).
 
@@ -62,10 +63,10 @@ You need an eye test (*Sehtest*) before your *Bürgeramt* appointment.
 
 You can get tested...
 
-- **At your driving school**  
-    Some driving schools like [Fahrschule Oscar](https://www.fahrschule-oscar.de/) include the eyesight test.
-- **During your first aid class**  
-    [Ersthelfer.tv](https://www.ersthelfer.tv/leistungen/sehtest/) offer first aid *and* eyesight tests. You can do both at the same time.[^6]
+- **During your first aid class**{{ RECOMMENDED }}  
+    [Ersthelfer.tv](https://www.ersthelfer.tv/leistungen/sehtest/) offers first aid *and* eyesight tests. You can do both at the same time.[^6]
+- **At your driving school**{{ RECOMMENDED }}  
+    Some driving schools include the eyesight test.
 - **At the optometrist** (*[[Optiker]]*)  
     You can get a free test from [Fielmann](https://www.fielmann.de/service/fuehrerschein-sehtest/) or [Apollo](https://www.apollo.de/service/sehtest).
 - **At the eye doctor** (*[[Augenarzt]]*)
@@ -88,6 +89,8 @@ You need permission from the *[[Bürgeramt]]* to take the theory exam. Get an ap
 
 After your appointment, you must wait 6 to 9 weeks to get the permission paper.{{ fail_on('2025-12-31') }} See the [current processing times](https://www.berlin.de/labo/mobilitaet/aktuelles/aktuelle-bearbeitungsstaende-736453.php).
 
+When you get permission, you have 12 months to pass the theory exam.[^38]
+
 ??? What can you do in the meantime ???
 
 ### Required documents
@@ -98,7 +101,7 @@ Bring these documents to your *[[Bürgeramt]]* appointment:[^7]
 - [ ] [First aid course](#first-aid-course) certificate
 - [ ] [Eye test](#eye-test) certificate
 - [ ] [Biometric picture](/guides/biometric-pictures-in-berlin){{ fail_on('2026-01-01')}}
-- [ ] [Contract](/images/ausbildungvertrag.jpg) from your driving school (*Ausbildungsvertrag*)
+- [ ] Driving school [contract](/images/ausbildungvertrag.jpg) (*Ausbildungsvertrag*)
 - [ ] Payment for the €{{DRIVING_LICENCE_FEE|cur}} fee - Check if your *Bürgeramt* accepts cash or credit cards.
 
 ### What happens during the appointment
@@ -145,13 +148,13 @@ You will then drive back to the Dekra or TÜV branch. This is also part of the t
 
 ## 8. Get your driving licence
 
-When you pass the practical exam, you get a temporary driving licence (*Vorläufiger Nachweis der Fahrerlaubnis* or *VNF*). It's valid for 3 months, and only when carried with a valid ID.[^10] You also give back your current driving licence, so this is your only driving licence for now. This temporary licence is only valid in Germany.
+When you pass the practical exam, you get a temporary driving licence (*Vorläufiger Nachweis der Fahrerlaubnis* or *VNF*). It's valid for 3 months, only in Germany, and only with a valid ID.[^10]
+
+You must give back your previous driving licence, so this is your only driving licence for now.
 
 [![Temporary driving licence in Germany](/images/IMG_1316.jpg "Temporary driving licence")](/images/IMG_1316.jpg)
 
-2 to 6 weeks later, you will get your plastic driving licence.[^36]
-
-This information is in the letter you got from the Bürgeramt in step 4.
+You will get your plastic driving licence by post 2 to 6 weeks later.[^36]
 
 ## Other ways to get a licence
 
@@ -189,13 +192,13 @@ You can also [rent a car when you need it](/guides/public-transit#rent-a-car). I
 [^1]: [dekra.de](https://dekraprod-media.e-spirit.cloud/578b2cd5-7629-485e-a4b6-6c4e73f71231/media/1gebuehrenliste-alle-bl-ab-05-02-2024-extern-1.pdf) (July 2025), [ArbeitNow](https://www.arbeitnow.com/blog/drivers-license-in-germany#:~:text=i%20did%20not%20pay%20the%20fee%20of%2025%E2%82%AC%20online) (2025)
 [^2]: [as-fahrschule.de](https://www.as-fahrschule.de/preise/driving-lessons-in-english/)
 [^3]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/80h3vm/first_aid_course_for_german_driving_licence_in/duw9u9r/), [first-aid-courses-berlin.myshopify.com](https://first-aid-courses-berlin.myshopify.com/collections/fahrschule-oscar)
-[^4]: Citation needed, [ersthelfer.tv](https://www.ersthelfer.tv/standorte/berlin-erste-hilfe-kurse/), [ArbeitNow](https://www.arbeitnow.com/blog/drivers-license-in-germany) (2025)
+[^4]: [§ 19 FeV](https://www.gesetze-im-internet.de/fev_2010/__19.html) (November 2025), [ersthelfer.tv](https://www.ersthelfer.tv/standorte/berlin-erste-hilfe-kurse/) (November 2025), [ArbeitNow](https://www.arbeitnow.com/blog/drivers-license-in-germany) (2025)
 [^5]: [reddit.com/r/berlinmoto](https://old.reddit.com/r/berlinmoto/comments/8fzfkt/how_to_get_a_motorcycle_licence_in_germany/dz9y44t/)
 [^6]: [ersthelfer.tv](https://www.ersthelfer.tv/leistungen/sehtest/), [first-aid-courses-berlin.myshopify.com](https://first-aid-courses-berlin.myshopify.com/collections/fahrschule-oscar)
 [^7]: Citation needed (check page again, monitor, and do you need a local first aid test?) [berlin.de](https://service.berlin.de/dienstleistung/121627/)
 [^8]: [Screenshot](/images/2012I1344.gif)
 [^9]: Citation needed, [dekra.de](https://www.dekra.de/de/fahrerlaubnispruefung/)
-[^10]: Citation needed (check, update url), [berlin.de](https://www.berlin.de/labo/mobilitaet/fahrerlaubnisse-personen-und-gueterbefoerderung/fahrerlaubnis-fuehrerschein/artikel.283188.php)
+[^10]: [berlin.de](https://www.berlin.de/labo/mobilitaet/fahrerlaubnisse-personen-und-gueterbefoerderung/fahrerlaubnis-fuehrerschein/artikel.283188.php#:~:text=%20der%20vnf%20ist%20in%20verbindung%20mit%20einem%20amtlichen%20lichtbildausweis%20drei%20monate%20gultig.%20) (November 2025)
 [^11]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/6w71m8/has_anyone_taken_a_driving_exam_in_another/), [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/317m95/driving_licence_theoretical_exam/)
 [^12]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/6w71m8/has_anyone_taken_a_driving_exam_in_another/), [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/317m95/driving_licence_theoretical_exam/)
 [^13]: [§ 28 Abs. 1 FeV](https://www.buzer.de/28_FeV.htm) (2025)
@@ -220,6 +223,8 @@ You can also [rent a car when you need it](/guides/public-transit#rent-a-car). I
 [^32]: [ArbeitNow](https://www.arbeitnow.com/blog/drivers-license-in-germany#:~:text=exam%20and%20in-,roughly%2015%20minutes,-%2C%20I%20was%20done) (2025)
 [^33]: Citation needed, [ArbeitNow](https://www.arbeitnow.com/blog/drivers-license-in-germany#:~:text=valid%20only%20for%2012%20months) (2025)
 [^34]: Personal experience (2017), [ArbeitNow](https://www.arbeitnow.com/blog/drivers-license-in-germany#:~:text=only%20in%20germany%20with%20a%20valid%20passport%20or%20personalausweis) (2025)
-[^35]: [ArbeitNow](https://www.arbeitnow.com/blog/drivers-license-in-germany#:~:text=weeks.timeline%20of%20my%20driving%20license) (2025)
-[^36]: [ArbeitNow](https://www.arbeitnow.com/blog/drivers-license-in-germany#:~:text=received%20the%20physical%20license%20card%20two%20weeks%20later) (2025)
+[^36]: [ArbeitNow](https://www.arbeitnow.com/blog/drivers-license-in-germany#:~:text=received%20the%20physical%20license%20card%20two%20weeks%20later) (2025), [Berlin.de](https://www.berlin.de/labo/mobilitaet/fahrerlaubnisse-personen-und-gueterbefoerderung/fahrerlaubnis-fuehrerschein/artikel.283188.php#:~:text=durch%20die%20deutsche%20post%20ag%20als%20%E2%80%9Ceinschreiben%20einwurf%E2%80%9D) (November 2025)
 [^37]: [europa.eu](https://europa.eu/youreurope/citizens/vehicles/driving-licence/get-driving-licence/index_en.htm#inline-nav-1) (November 2025), [§ 7 Abs. 2 FeV](https://www.buzer.de/7_FeV.htm) (2025)
+[^38]: [berlin.de](https://www.berlin.de/labo/mobilitaet/fahrerlaubnisse-personen-und-gueterbefoerderung/fahrerlaubnis-fuehrerschein/artikel.283188.php#:~:text=muss%20innerhalb%20von%2012%20monaten%20nach%20der%20zulassung%20zur%20prufung) (November 2025)
+[^39]: [berlin.de](https://service.berlin.de/dienstleistung/121627/#:~:text=Abweichend%20gilt%20nach,Hilfe-Schulung%E2%80%9C%20vorzulegen.) (November 2025), [§ 19 Abs. 3 FeV](https://www.buzer.de/19_FeV.htm) (November 2025)
+[^40]: [drk-berlin-zentrum.de](https://www.drk-berlin-zentrum.de/angebote/kurse-in-erster-hilfe/first-aid-in-english.html) (November 2025), [first-aid-course-english-berlin.com](https://first-aid-courses-berlin.myshopify.com/collections/friedlander-schule) (November 2025), [ersthelfer.tv](https://www.ersthelfer.tv/preise/) (November 2025)
