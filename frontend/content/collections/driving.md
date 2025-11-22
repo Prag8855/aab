@@ -6,7 +6,7 @@ Related_guides:
     guides/car-cost-of-ownership-germany.md
     guides/car-insurance-germany.md
     guides/driving-licence.md
-    guides/english-driving-schools-in-berlin.md
+    guides/english-speaking-driving-schools.md
     guides/convert-to-german-driving-licence.md
     guides/motorcycle-stores-in-berlin.md
     guides/motorcycle-parking.md

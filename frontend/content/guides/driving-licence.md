@@ -30,7 +30,7 @@ If you have a foreign driving licence, you can [convert it](/guides/convert-to-g
 
 ### Language
 
-You don't need to speak German, but it helps. There are [English-speaking driving schools](/guides/english-driving-schools-in-berlin). Even if you take German classes, the practice app is usually in English.[^30]
+You don't need to speak German, but it helps. There are [English-speaking driving schools](/guides/english-speaking-driving-schools). Even if you take German classes, the practice app is usually in English.[^30]
 
 The [theory exam](#theory-exam) is in English, but the translations are really bad.[^31] I could not understand some questions in English or French. It's easier if you can take the test in German.
 
@@ -38,7 +38,7 @@ The [practical exam](#practical-exam) is usually in German. Some examiners don't
 
 ## 1. Choose a driving school
 
-[Find a driving school](/guides/english-driving-schools-in-berlin) and sign a contract (*Ausbildungsvertrag*) with them.
+[Find a driving school](/guides/english-speaking-driving-schools) and sign a contract (*Ausbildungsvertrag*) with them.
 
 To choose a driving school, look at...[^23]
 
@@ -48,7 +48,7 @@ To choose a driving school, look at...[^23]
 - **The distance**  
     If you take intensive lessons, choose a school near you.
 - **The language**  
-    There are [English-speaking driving schools](/guides/english-driving-schools-in-berlin). Check if they offer theory *and* practical lessons in English.
+    There are [English-speaking driving schools](/guides/english-speaking-driving-schools). Check if they offer theory *and* practical lessons in English.
 - **The reviews**  
     Read the school's reviews on Google Maps. Don't trust the reviews too much; German businesses often delete negative reviews.[^21] Check if they make you more classes than you need.
 - **Other services**  

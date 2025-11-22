@@ -39,7 +39,7 @@ After you move to Germany, your foreign driving licence is valid for 6 months.[^
 When your driving licence becomes invalid, you can...
 
 - Convert your foreign driving licence to a German driving licence
-- or [take driving lessons](/guides/english-driving-schools-in-berlin), pass the driving exam, and get a new driving licence
+- or [take driving lessons](/guides/english-speaking-driving-schools), pass the driving exam, and get a new driving licence
 
 ## How to convert your driving licence
 
@@ -101,7 +101,7 @@ Where to get an eye test:
 
 Driving lessons are **optional**, but they are a really good idea. If you come from North America, the rules here are completely different. You are not ready to drive in Germany.
 
-**[English-speaking driving schools in Berlin ➞](/guides/english-driving-schools-in-berlin)**
+**[English-speaking driving schools in Berlin ➞](/guides/english-speaking-driving-schools)**
 
 If you don't take driving lessons, read Route to Germany's [guide to driving in Germany](https://routetogermany.com/).
 

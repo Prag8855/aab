@@ -16,7 +16,7 @@ Related_guides:
     guides/english-speaking-psychiatrists-berlin.md
     guides/english-speaking-psychotherapists-berlin.md
     guides/english-speaking-vets.md
-    guides/english-driving-schools-in-berlin.md
+    guides/english-speaking-driving-schools.md
     guides/hairdressers-hairstylists-barbers-berlin.md
     guides/24-hour-gym-berlin.md
     guides/donate-clothes.md
