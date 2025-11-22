@@ -1,6 +1,6 @@
 ---
 Name: 2Drive Fahrschule
-Description: 
+Description: Theory classes and driving lessons in English, Russian and Romanian.
 Website: http://www.fahrschule-2drive.de/
 Email: 
 Address: Neue Bahnhofstraße 5

@@ -1,6 +1,6 @@
 ---
 Name: Fahrschule Asma
-Description: English theory also offered
+Description: Theory classes and driving lessons in English.
 Website: https://fahrschule-asma.de/
 Email: 
 Address: Oranienburger Str. 98

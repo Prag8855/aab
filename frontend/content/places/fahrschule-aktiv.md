@@ -1,6 +1,6 @@
 ---
 Name: Fahrschule Aktiv
-Description: English, German and Turkish
+Description: Theory classes and driving lessons in English and Turkish.
 Website: http://www.fahrschuleaktiv.de/
 Email: 
 Address: Reinickendorfer Str. 54

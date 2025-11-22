@@ -1,6 +1,6 @@
 ---
 Name: Fahrschule IBF
-Description: Theory classes and driving lessons in English, Turkish and German.
+Description: Theory classes and driving lessons in English and Turkish.
 Website: http://www.fahrschule-ibf.de/
 Email: jonas.hammann17@gmail.com
 Address: Borussiastraße 19

@@ -1,6 +1,6 @@
 ---
 Name: Fahrschule Sevim
-Description: English, Turkish and German driving lessons
+Description: Driving lessons in English and Turkish.
 Website: https://www.fahrschule-sevim.de/
 Email: 
 Address: Schwedenstraße 18

@@ -4,15 +4,15 @@ short_title: English-speaking driving schools
 Description: A guide to find an English-speaking driving school for your car or motorcycle driving licence.
 Date_created: 2017-08-31
 Related_places:
-    places/kiezfahrschule-frenzel.md
-    places/fahrschule-südstern.md
-    places/fahrschule-oscar.md
     places/fahrschule-asma.md
+    places/fahrschule-oscar.md
     places/fahrschule-asphalt-profis.md
     places/fahrschule-ibf.md
-    places/sevim-fahrschule.md
     places/fahrschule-aktiv.md
     places/2drive-fahrschule.md
+    places/sevim-fahrschule.md
+    places/kiezfahrschule-frenzel.md
+    places/fahrschule-südstern.md
     places/fahrschule-dynamic.md
     places/fahrschule-next-in-berlin.md
     places/fahrschule-driving-school-berlin.md
@@ -20,7 +20,7 @@ Related_places:
     places/fahrschule-prima.md
 ---
 
-To [get a German driving licence](/guides/driving-licence), you must take driving lessons. This guide lists schools where you can take driving classes in English.
+To [get a German driving licence](/guides/driving-licence), you must take driving lessons. These driving schools speak English.
 
 {% include "_blocks/tableOfContents.html" %}
 

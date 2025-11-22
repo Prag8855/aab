@@ -1,6 +1,6 @@
 ---
 Name: Kiez-Fahrschule Frenzel
-Description: Some instructors speak English
+Description: Some instructors speak English.
 Website: http://www.kiezfahrschule.de/
 Email: 
 Address: Esmarchstraße 4

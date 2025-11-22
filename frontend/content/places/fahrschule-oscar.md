@@ -1,6 +1,6 @@
 ---
 Name: Fahrschule Oscar
-Description: Driving school that offers English-speaking theory classes.
+Description: Theory classes and driving lessons in English.
 Website: http://www.fahrschule-oscar.de/
 Email: 
 Address: Hauptstraße 92

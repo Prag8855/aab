@@ -1,6 +1,6 @@
 ---
 Name: Fahrschule Asphalt Profis
-Description: Theory classes also given in English
+Description: Theory classes and driving lessons in English.
 Website: http://www.asphalt-profis.de/
 Email: 
 Address: Am Friedrichshain 23

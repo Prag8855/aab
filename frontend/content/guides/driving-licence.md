@@ -84,7 +84,7 @@ After the course, you get a certificate. You need it to [get permission from the
 
 When you find a school, you can start theory classes. You don't need anything else to start.
 
-If you already have a car licence, and you are getting a motorcycle, you can skip some of the theory classes.[^24]
+There are 18 hours of theory classes.[^26] If you already have a car licence, and you are getting a motorcycle, you can skip some of the theory classes.[^24]
 
 When you finish the theory classes, your driving school will give you a certificate (*Ausbildungsbescheinigung der Fahrschule*).[^8] With this certificate, you can [take the theory exam](#theory-exam).
 
@@ -202,8 +202,9 @@ You can also [rent a car when you need it](/guides/public-transit#rent-a-car). I
 [^21]: [Reddit](https://old.reddit.com/r/FragReddit/comments/1d8l9m3/schlechte_googlebewertungen_werden_nun_aufgrund/) (2024), [Google](https://support.google.com/maps/thread/331484956/negative-rezensionen-werden-massenhaft-gel%C3%B6scht?hl=de) (2025), [SWR](https://www.swr.de/leben/verbraucher/ard-marktcheck/google-bewertungen-rezensionen-ehrliche-kritik-wird-immer-wieder-geloescht-100.html) (2025)
 [^22]: [europa.eu](https://europa.eu/youreurope/citizens/vehicles/driving-licence/get-driving-licence/index_en.htm) (2025), [bmv.de](https://www.bmv.de/SharedDocs/EN/Articles/StV/Roadtraffic/validity-foreign-driving-licences-in-germany.html#:~:text=if%20your%20normal%20residence%20was%20in%20the%20federal%20republic%20of%20germany%20at%20the%20time%20you%20obtained%20the%20foreign%20licence%3B) (November 2025), [t-online.de](https://www.t-online.de/mobilitaet/aktuelles/id_100663882/fuehrerschein-im-ausland-machen-sparen-ja-aber-rechtliche-huerden-beachten.html#:~:text=%20wer%20seinen%20fuhrerschein%20in%20einem%20anderen%20eu-land%20machen%20will%2C%20muss%20dort%20mindestens%20185%20tage%20im%20jahr%20wohnen.) (November 2025)
 [^23]: [ArbeitNow](https://www.arbeitnow.com/blog/drivers-license-in-germany#criteria-i-set-for-finding-a-driving-school) (2025)
-[^24]: Personal experience (2017)
+[^24]: Personal experience (2017), [bussgeldrechner.org](https://www.bussgeldrechner.org/theorieunterricht.html#:~:text=verfugen%20sie%20bereits%20uber%20eine%20fahrerlaubnis) (2025)
 [^25]: Personal experience (2017)
+[^26]: [bussgeldrechner.org](https://www.bussgeldrechner.org/theorieunterricht.html#Theorieunterricht_in_der_Fahrschule_Die_Pflichtstunden) (2025), [bussgeldkatalog.org](https://www.bussgeldkatalog.org/fahrschule-theoriepruefung/#fuer_die_theorie_lernen_%e2%80%93_diese_bestimmungen_gelten) (2025), [Allianz](https://www.allianzdirect.de/kfz-versicherung/fuehrerschein-machen-ratgeber/#:~:text=14%20verschiedene%20theorieeinheiten%2C%20jede%20einheit%20dauert%2090%20minuten) (2025)
 [^28]: [ArbeitNow](https://www.arbeitnow.com/blog/drivers-license-in-germany#:~:text=you%20fail%20a%20theory%20exam%20if) (2025)
 [^30]: Personal experience (2017), [ArbeitNow](https://www.arbeitnow.com/blog/drivers-license-in-germany#preparing-for-the-theory-exam) (2025)
 [^31]: Personal experience (2017), [ArbeitNow](https://www.arbeitnow.com/blog/drivers-license-in-germany#:~:text=often%2C%20the%20english%20translation%20from%20dekra%20%2F%20tuv%20is%20messy) (2025)
