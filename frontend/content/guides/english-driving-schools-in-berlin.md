@@ -22,6 +22,8 @@ Related_places:
 
 To [get a German driving licence](/guides/driving-licence), you must take driving lessons. These driving schools speak English.
 
+**[How to get a driving licence ➞](/guides/driving-licence)**
+
 {% include "_blocks/tableOfContents.html" %}
 
 ## List of English-speaking driving schools
@@ -30,20 +32,10 @@ To [get a German driving licence](/guides/driving-licence), you must take drivin
 
 To suggest a driving school, [fill this form](/suggest-business).
 
-## How to get a driving licence
+## Convert your foreign driving licence
 
-You take the theoretical exam on a computer. The exam is available in 13 different languages: Arabic, English, French, German, Greek, Italian, Croatian, Polish, Portuguese, Romanian, Russian, Spanish and Turkish.[^0]
+Your [EU](/glossary/European%20Union) or [[EEA]] driving licence is valid in Germany.
 
-You take the practical exam in a car. You must drive around the city, and prove that you can park correctly.
-
-The German driving exam is not easy. People often have to take the exam multiple times.
-
-**[How to get a driving licence ➞](/guides/driving-licence)**
-
-## Trade your foreign driving licence
-
-Your foreign driving licence [might be valid in Germany](/guides/convert-to-german-driving-licence#can-you-already-drive-in-germany). You can sometimes convert it to a German driving licence. It's cheaper and faster. You might not need driving lessons.
+If you have a driving licence from another country, you can [convert it to a German driving licence](/guides/convert-to-german-driving-licence). It's cheaper and faster. You might not need driving lessons.
 
 **[How to convert your foreign driving licence ➞](/guides/convert-to-german-driving-licence)**
-
-[^0]: [gut-lernen.de](https://www.gut-lernen.de/fremdsprachen-pruefung.html), [berlin.de](https://www.berlin.de/labo/mobilitaet/fahrerlaubnisse-personen-und-gueterbefoerderung/fahrerlaubnis-fuehrerschein/artikel.283188.php)
