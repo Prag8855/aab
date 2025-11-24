@@ -48,7 +48,7 @@ You do not need to register if...
 
 ## How to register your address online
 
-Since October 2024, you can **[do your Anmeldung online](/out/anmeldung-online)**. The online process is a little complicated, but it's faster than going in person.
+In some cases, you can **[do your Anmeldung online](/out/anmeldung-online)**. It's a little complicated, but it's faster than going in person.
 
 To register online, you must...[^13]
 
