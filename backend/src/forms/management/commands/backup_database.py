@@ -44,5 +44,5 @@ class Command(BaseCommand):
             logger.exception("Database backup failed")
             update_monitor("backup-database", logging.ERROR, str(exc))
         else:
-            logger.exception("Database backup complete")
+            logger.info("Database backup complete")
             update_monitor("backup-database", logging.INFO)
