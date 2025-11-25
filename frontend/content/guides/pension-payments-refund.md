@@ -279,7 +279,7 @@ These businesses can help you request a refund. They will fill the forms and req
 - **[Pension Refund Germany](/out/pension-refund-germany)**{{ RECOMMENDED }}  
     Their fee is {{ PENSIONREFUNDGERMANY_FEE }}% of your refund (maximum fee €{{PENSIONREFUNDGERMANY_MAX_FEE|cur}}).[^31]
 - **[Germany Pension Refund](/out/germany-pension-refund)**  
-    Their fee is {{ GERMANYPENSIONREFUND_FEE }}% of your refund (no minimum or maximum fee).[^30]
+    Their fee is {{ GERMANYPENSIONREFUND_FEE }}% of your refund (maximum fee €{{GERMANYPENSIONREFUND_MAX_FEE|cur}}).[^30]
 - **[FundsBack](/out/fundsback)**  
     Their fee is {{ FUNDSBACK_FEE }}% of your refund (minimum fee €{{FUNDSBACK_MIN_FEE}}, maximum €{{FUNDSBACK_MAX_FEE|cur}}).[^29]
 

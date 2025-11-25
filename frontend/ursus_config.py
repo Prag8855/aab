@@ -225,6 +225,7 @@ ctx["FUNDSBACK_FEE"] = Decimal("9.405")  # %
 ctx["FUNDSBACK_MIN_FEE"] = Decimal("854.05")  # €
 ctx["FUNDSBACK_MAX_FEE"] = Decimal("2754.05")  # €
 ctx["GERMANYPENSIONREFUND_FEE"] = Decimal("9.75")  # %
+ctx["GERMANYPENSIONREFUND_MAX_FEE"] = 2500  # €
 ctx["PENSIONREFUNDGERMANY_FEE"] = Decimal("10")  # %
 ctx["PENSIONREFUNDGERMANY_MAX_FEE"] = 2800  # €
 
