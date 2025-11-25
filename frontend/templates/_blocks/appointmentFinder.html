@@ -1,3 +1,4 @@
+{% include '_js/utils/date.js' %}
 {% include '_js/vue.js' %}
 {% include '_js/vue/components/checkbox.js' %}
 {% include '_js/vue/components/collapsible.js' %}
@@ -76,47 +77,6 @@
 					this.hasError = true;
 					this.lastMessage = null;
 				},
-				prettyDate(date) {
-					const month = [
-						'January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December',
-					][date.getMonth()];
-					return `${month} ${date.getDate()}`;
-				},
-				dayOfWeek(date) {
-					return ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'][date.getDay()];
-				},
-				weekDiff(date1, date2) {
-					const firstDayOfWeekDate1 = new Date(date1);
-					firstDayOfWeekDate1.setDate(date1.getDate() - (date1.getDay() + 6) % 7);
-					firstDayOfWeekDate1.setHours(0,0,0,0);
-
-					const firstDayOfWeekDate2 = new Date(date2);
-					firstDayOfWeekDate2.setDate(date2.getDate() - (date2.getDay() + 6) % 7);
-					firstDayOfWeekDate2.setHours(0,0,0,0);
-
-					const firstDayOfWeekDiff = Math.floor((firstDayOfWeekDate1 - firstDayOfWeekDate2) / (24 * 60 * 60 * 1000));
-					return Math.ceil(firstDayOfWeekDiff / 7);
-				},
-				relativeDate(date) {
-					const now = new Date();
-					const daysDiff = Math.abs(Math.ceil((date - now) / (24 * 60 * 60 * 1000)));
-					const weekDiff = this.weekDiff(date, now);
-					if(daysDiff === 0) {
-						return 'Today';
-					}
-					else if(daysDiff === 1) {
-						return 'Tomorrow';
-					}
-					else if(weekDiff === 0) {
-						return `This ${this.dayOfWeek(date)}`;
-					}
-					else if(weekDiff === 1) {
-						return `Next ${this.dayOfWeek(date)}`;
-					}
-					else {
-						return `${this.dayOfWeek(date)} in ${weekDiff} weeks`;
-					}
-				},
 				updateWindowTitle() {
 					// Only control the title on the dedicated tool page
 					if(!window.location.pathname.startsWith('/tools/appointment-finder')) {
@@ -128,7 +88,7 @@
 						return;
 					}
 
-					const timeToEarliestAppointment = this.appointments[0].date.getTime() - (new Date()).getTime();
+					const timeToEarliestAppointment = this.appointments[0].getTime() - (new Date()).getTime();
 					const daysToEarliestAppointment = Math.ceil(timeToEarliestAppointment / (1000*60*60*24));
 
 					if(daysToEarliestAppointment === 0) {
@@ -145,10 +105,7 @@
 			computed: {
 				appointments() {
 					if(!this.lastMessage) { return []; }
-
-					return this.lastMessage.appointmentDates.sort().map(dateString => { return {
-						date: new Date(dateString),
-					}});
+					return this.lastMessage.appointmentDates.sort().map(dateString => new Date(dateString));
 				},
 				lastChecked() {
 					return this.lastMessage ? new Date(this.lastMessage.time) : null;
@@ -171,12 +128,58 @@
 						return `${hoursAgo} hour${hoursAgo !== 1 ? 's' : ''}`;
 					}
 				},
-				isRateLimited() {
-					return this.lastMessage ? this.lastMessage.status === 502 : false;
-				},
 				isDuringOfficeHours() {
 					const now = new Date();
 					return now.getHours() >= 8  && now.getHours() < 17 && now.getDay() > 0 && now.getDay() < 6;
+				},
+				months(){
+					const appointmentsSet = new Set(this.appointments.map(isoDay));
+
+					const today = new Date();
+					const year = today.getFullYear();
+					return Array.from({length: 4}, (_, m) => {
+						const monthIndex = today.getMonth() + m;
+
+						const firstOfMonth = new Date(year, monthIndex, 1);
+						const daysInMonth = new Date(year, monthIndex + 1, 0).getDate();
+
+						// Build days array with map
+						const days = Array.from({length: daysInMonth}, (_, d) => {
+							const date = new Date(year, monthIndex, d + 1);
+							const iso = isoDay(date);
+							const hasAppointments = appointmentsSet.has(isoDay(date));
+							return {
+								name: date.toLocaleDateString('en-US', {
+									weekday: 'long',
+									month: 'long',
+									day: 'numeric',
+								}),
+								weekday: date.getDay(),
+								number: date.getDate(),
+								iso,
+								hasAppointments,
+								url: `/out/appointment-anmeldung?date=${iso}`,
+								classes: {
+									available: hasAppointments,
+									unavailable: !hasAppointments,
+									past: iso < isoDay(today),
+									today: iso === isoDay(today),
+								},
+							};
+						});
+
+						const hasAppointments = days.filter(d => d.hasAppointments).length > 0;
+						return {
+							name: firstOfMonth.toLocaleDateString('en-US', {month: 'long'}),
+							iso: isoMonth(firstOfMonth),
+							days,
+							hasAppointments,
+							classes: {
+								available: hasAppointments,
+								unavailable: !hasAppointments,
+							},
+						};
+					});
 				},
 			},
 			watch: {
@@ -198,7 +201,31 @@
 
 <collapsible class="appointment-finder no-print" aria-label="Anmeldung appointment finder" {% if static|default %}static{% endif %}>
 {% raw %}
-	<template v-slot:header>Anmeldung appointment finder</template>
+	<template v-slot:header>Find an Anmeldung appointment</template>
+	{% endraw %}{% if static|default %}<h3>Book a Bürgeramt appointment</h3>{% endif %}{% raw %}
+	<div class="months" v-if="appointments.length > 0">
+		<div class="month" :class="month.classes" v-for="month in months" :key="month" :aria-label="month.name">
+			<time :datetime="month.iso" v-text="month.name"></time>
+			<ol v-if="month.hasAppointments" class="days weekdays">
+				<li data-weekday="1" class="day"><abbr title="Monday">Mo</abbr></li>
+				<li data-weekday="2" class="day"><abbr title="Tuesday">Tu</abbr></li>
+				<li data-weekday="3" class="day"><abbr title="Wednesday">We</abbr></li>
+				<li data-weekday="4" class="day"><abbr title="Thursday">Th</abbr></li>
+				<li data-weekday="5" class="day"><abbr title="Friday">Fr</abbr></li>
+				<li data-weekday="6" class="day"><abbr title="Saturday">Sa</abbr></li>
+				<li data-weekday="7" class="day"><abbr title="Sunday">Su</abbr></li>
+			</ol>
+			<ol v-if="month.hasAppointments" class="days">
+				<li class="day" :class="day.classes" :data-weekday="day.weekday" v-for="day in month.days" :key="day" :aria-label="day.name" :title="day.name">
+					<time v-if="!day.hasAppointments" :datetime="day.iso" v-text="day.number"></time>
+					<a v-if="day.hasAppointments" :href="day.url" target="_blank">
+						<time :datetime="day.iso" v-text="day.number"></time>
+					</a>
+				</li>
+			</ol>
+			<div class="no-appointments" v-if="!month.hasAppointments">No appointments</div>
+		</div>
+	</div>
 
 	<p v-if="isConnected === null">
 		Connecting to the appointment finder&hellip;
@@ -221,14 +248,7 @@
 			<a target="_blank" href="/out/appointment-anmeldung">Check Berlin.de</a>, <a target="_blank" href="/glossary/Bürgertelefon">call 115</a> or <a href="/guides/berlin-burgeramt-appointment#email-the-burgeramt">email your <em>Bürgeramt</em></a>. It might work better. You can also <a href="/guides/anmeldung-in-english-berlin#how-to-register-your-address-online">do your Anmeldung online</a>.
 		</p>
 	</template>
-	<div class="appointments" v-if="appointments.length > 0">
-		<a v-for="appointment in appointments" href="/out/appointment-anmeldung" target="_blank" title="Book this appointment" :key="appointment.date.toString()">
-			<i class="icon calendar" aria-hidden="true"></i>
-			<strong>{{ prettyDate(appointment.date) }}</strong>
-			<time>{{ relativeDate(appointment.date) }}</time>
-			<i class="icon right" aria-hidden="true"></i>
-		</a>
-	</div>
+
 	<p class="timer" v-if="isConnected && !hasError && secondsToNextMessage > 0">
 		<template v-if="lastFoundMessage">Last appointments found {{ lastFoundMessage }} ago.</template>
 		Checking again in {{ secondsToNextMessage }} {{ secondsToNextMessage > 1 ? 'seconds' : 'second' }}.
