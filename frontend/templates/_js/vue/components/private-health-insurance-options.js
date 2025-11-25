@@ -14,7 +14,6 @@ Vue.component('private-health-insurance-options', {
     template: `
         <div class="health-insurance-options">
             <h2>Private health insurance options</h2>
-            <p>Here are two options. One is really cheap, and one is really good.</p>
             <hr>
             <div class="two-columns private-cost">
                 <div>
