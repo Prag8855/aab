@@ -103,6 +103,21 @@
 
 					return healthInsuranceTypes;
 				},
+				privateHealthInsuranceSavings() {
+					if(this.healthInsuranceType.startsWith('public') && this.availableHealthInsuranceTypes.private){
+						const options = pkvOptions({
+							occupation: this.occupation,
+							monthlyIncome: this.monthlyIncome,
+							hoursWorkedPerWeek: 40,
+							age: this.age,
+							childrenCount: this.childrenCount
+						}).map(o => o.total.personalContribution).sort();
+						const maxSavings = this.result.healthInsurance - options[0];
+						if(maxSavings > 0){
+							return maxSavings;
+						}
+					}
+				},
 				zusatzbeitragRange() {
 					return {
 						min: Math.floor(this.result.healthInsuranceOptions.public.options[0].zusatzbeitrag.totalRate * 100 * 10) / 10,
@@ -516,6 +531,15 @@
 					<p v-if="flag('kv-public-pflegeversicherung-surcharge')">
 						You pay a bit more for <glossary term="Pflegeversicherung">long-term care insurance</glossary>, because you are over {{ pflegeversicherung.defaultRateMaxAge }} years old and you don't have children.
 					</p>
+				</template>
+				<template v-if="hasSponsoredHealthInsurance">
+					<p v-if="hasSponsoredHealthInsurance && healthInsuranceType === 'familienversicherung-spouse'">You are covered by your spouse's health insurance.</p>
+					<p v-if="hasSponsoredHealthInsurance && healthInsuranceType === 'familienversicherung-parents'">You are covered by your parents' health insurance.</p>
+					<p v-if="hasSponsoredHealthInsurance && healthInsuranceType === 'ehic'">You are covered by your health insurance in another EU country.</p>
+				</template>
+				<p v-if="privateHealthInsuranceSavings">You can save up to <eur :amount="privateHealthInsuranceSavings"></eur></strong> per month if you <a target="_blank" href="/guides/german-health-insurance#private-health-insurance">switch to private health insurance</a>.</p>
+
+				<template v-if="healthInsuranceType.startsWith('public') || healthInsuranceType === 'unknown'">
 					<p class="price-line">
 						Base cost
 						<span class="price no-mobile"
@@ -544,11 +568,6 @@
 							v-html="formatPercent(customGkv.total.personalRate * 100)"></span>
 						<price :amount="monthlyYearlyCost(customGkv.total.personalContribution)"></price>
 					</p>
-				</template>
-				<template v-if="hasSponsoredHealthInsurance">
-					<p v-if="hasSponsoredHealthInsurance && healthInsuranceType === 'familienversicherung-spouse'">You are covered by your spouse's health insurance.</p>
-					<p v-if="hasSponsoredHealthInsurance && healthInsuranceType === 'familienversicherung-parents'">You are covered by your parents' health insurance.</p>
-					<p v-if="hasSponsoredHealthInsurance && healthInsuranceType === 'ehic'">You are covered by your health insurance in another EU country.</p>
 				</template>
 			</details>
 			<details v-if="result.publicPension > 0">
@@ -680,5 +699,11 @@
 			</details>
 		</div>
 	</div>
+	<template v-if="privateHealthInsuranceSavings">
+		<hr>
+		<p>
+			You can save up to <eur :amount="privateHealthInsuranceSavings"></eur></strong> per month if you <a target="_blank" href="/guides/german-health-insurance#private-health-insurance">switch to private health insurance</a>.
+		</p>
+	</template>
 {% endraw %}
 </collapsible>
