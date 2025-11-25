@@ -21,9 +21,11 @@ Related_guides:
     guides/eyeglasses.md
 ---
 
-Germany has two types of health insurance: [public](/glossary/gesetzliche%20Krankenversicherung) and private. Private health insurance (*private Krankenversicherung* or *PKV*) is managed by for-profit insurance companies. The cost depends on your health and your age when you sign up. 
+Germany has two types of health insurance: [public](/glossary/gesetzliche%20Krankenversicherung) and private.
 
-Around 11% of Germans have private health insurance. Most people have public health insurance.
+Private health insurance (*private Krankenversicherung* or *PKV*) is managed by for-profit insurance companies. The cost depends on your health and your age when you sign up.
+
+13% of Germans have private health insurance.
 
 **[Health insurance calculator ➞](/tools/health-insurance-calculator)**
 
