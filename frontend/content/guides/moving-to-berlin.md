@@ -38,7 +38,7 @@ Your employer might offer a relocation bonus to cover your relocation expenses. 
 
 ### Find a job
 
-There are [English-speaking jobs in Berlin](/guides/english-speaking-jobs-berlin), but most jobs require German.
+There are English-speaking jobs in Berlin, but most jobs require German.
 
 **[How to find a job ➞](/guides/find-a-job-in-berlin)**
 

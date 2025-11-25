@@ -12,37 +12,30 @@ This guide helps you find a job in Berlin, from finding job listings to your fir
 
 ## Before your job search
 
-### Can you work in Germany?
-
-If you are not a citizen of the [EU](/glossary/European%20Union), [[EEA]] or Switzerland, you need a [residence permit](/glossary/Aufenthaltstitel) to work in Germany. You can get a [work visa](/glossary/Work%20Visa) or a [[Blue Card]], for example. There might be a minimum salary or education requirement.
-
-**[How to get a residence permit ➞](/guides/residence-permit)**
-
-### Do you need to speak German?
-
-**No, but it helps.** You can find English-speaking jobs, but most companies want German speakers.
-
-If you don't speak German, you can still find jobs in...
-
-- [Tech companies](#tech-jobs)
-- Companies with English-speaking offices
-- Delivery services like [Lieferando](https://www.lieferando.de/en/courier), [Wolt](https://wolt.com/en/jobs/search) and [Flink](https://careers.smartrecruiters.com/Flink3/joinus)
-- Customer service and call centres
-- Restaurants and bars
-
-**[Do you need to speak German in Berlin? ➞](/guides/learn-german#do-i-need-to-speak-german-in-berlin)**
-
-### How long does it take to get hired?
-
-A few months. Even if you find a job quickly, the hiring process is very slow.
-
 ### Salaries in Germany
 
-Know [how much you should earn](/guides/salaries-in-germany), and [how much taxes you should pay](/tools/tax-calculator). This helps you negotiate a better salary.
+Know [how much you should earn](/guides/salaries-in-germany), and [how much taxes you will pay](/tools/tax-calculator). This helps you negotiate a better salary.
 
-**[Salaries in Germany ➞](/guides/salaries-in-germany)**
+### Permission to work
 
-**[Calculate your income tax ➞](/tools/tax-calculator)**
+You might need a [[National Visa]] or [residence permit](/glossary/Aufenthaltstitel) to work in Germany. It can take a few months to get. When you [change jobs](/guides/losing-your-job), you might need to apply for a new residence permit.
+
+**[Who needs a residence permit? ➞](/guides/residence-permit#who-needs-a-residence-permit)**
+
+### Language
+
+You don't need to speak German to find a job, but it really helps. English-speaking jobs are harder to find. Most companies prefer German speakers.
+
+You can find English-speaking jobs in...
+
+- [Tech companies](#tech-jobs)
+- Delivery services like [Lieferando](https://www.lieferando.de/en/courier), [Wolt](https://wolt.com/en/jobs/search) and [Flink](https://careers.smartrecruiters.com/Flink3/joinus)
+- Customer service and call centres
+- Restaurants, cafes and bars
+- Companies with English-speaking offices
+- [[Au pair]] families
+
+You can teach English in Germany, but you need qualification, it's hard to find work, and the pay is bad.[^5]
 
 ## 1. Look for jobs
 
@@ -248,3 +241,4 @@ These people can help you get hired. For example, they can review your resume an
 [^2]: [billomat.com](https://www.billomat.com/magazin/jobsuche-steuerlich-absetzen-hier-erfaehrst-du-wie-das-geht/), [vlh.de](https://www.vlh.de/arbeiten-pendeln/beruf/bewerbungskosten-koennen-sie-von-der-steuer-absetzen.html), [karrierebibel.de](https://karrierebibel.de/bewerbungskosten-absetzen/)
 [^3]: [§ 614 BGB](https://www.buzer.de/614_BGB.htm)
 [^4]: [eu-gleichbehandlungsstelle.de](https://www.eu-gleichbehandlungsstelle.de/eugs-de/praxisleitfaden/arbeiten-ohne-meldeadresse#:%7E:text=Eine%20Meldeadresse%20ist%20keine%20Voraussetzung%20f%C3%BCr%20die%20Arbeitsaufnahme)
+[^5]: [Reddit](https://old.reddit.com/r/germany/comments/13brmu8/teaching_english_in_germany/) (2023), [Reddit](https://old.reddit.com/r/germany/comments/1oe8fo8/what_online_english_tutoring_services_would_you/) (2025)
