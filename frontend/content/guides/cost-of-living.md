@@ -86,9 +86,9 @@ If you only eat at home, you should pay around €200 per month for groceries. I
 
 **Cost:** at least €100 per month
 
-Cars are expensive to own and maintain. If you have a car, you must pay for parking, car insurance, [vehicle tax](/glossary/Kraftfahrzeugsteuer), fuel, tires and maintenance.
+You don't need a car in Berlin. Cars are expensive to own and maintain. If you have a car, you must pay for parking, car insurance, [vehicle tax](/glossary/Kraftfahrzeugsteuer), fuel, tires and maintenance.
 
-You need a [driving licence](/guides/driving-licence) to drive in Germany. It costs around €2,000 to get. You can sometimes [convert your foreign driving licence](/guides/convert-to-german-driving-licence). It's much cheaper. There is no yearly cost for a driving licence.
+You need a [driving licence](/guides/driving-licence) to drive in Germany. It costs around €2,500 to €4,000.{{fail_on('2026-12-31')}} You can sometimes [convert your foreign driving licence](/guides/convert-to-german-driving-licence). It's cheaper and faster. There is no yearly cost for a driving licence.
 
 **[Cost of owning a car ➞](/guides/car-cost-of-ownership-germany)**
 
