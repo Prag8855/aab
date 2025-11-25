@@ -479,7 +479,7 @@ Vue.component('health-insurance-calculator', {
 
 			<template v-if="stage === 'questions'">
 				<h2>Tell us a bit more about you&hellip;</h2>
-				<p v-if="mode === 'question'">You can skip this step, but this information it helps {{ broker.name }} recommend the right health insurance.</p>
+				<p v-if="mode === 'question'">You can skip this step, but this information helps {{ broker.name }} recommend the right health insurance.</p>
 				<p v-else>It helps us calculate prices and recommend the right health insurance.</p>
 				<hr>
 				<div class="form-group">
