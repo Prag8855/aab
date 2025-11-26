@@ -1,5 +1,15 @@
+from django.contrib.auth import get_user_model
 from rest_framework import serializers
 from .models import Comment
+
+
+User = get_user_model()
+
+
+class UserInlineSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = User
+        fields = ["id", "username"]
 
 
 class ThreadSerializer(serializers.Serializer):
@@ -9,6 +19,7 @@ class ThreadSerializer(serializers.Serializer):
 
 
 class CommentSerializer(serializers.ModelSerializer):
+    user = UserInlineSerializer(read_only=True)
     children = ThreadSerializer(many=True, read_only=True)
     is_visible = serializers.ReadOnlyField()
 

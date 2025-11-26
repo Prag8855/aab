@@ -40,27 +40,6 @@ function formatSalutations(gender, firstName, lastName, language='en'){
 	}[gender][language];
 }
 
-function dateFromString(str) {
-	if(str.match(/\d\d\d\d-\d\d-\d\d/)){
-		const [year, month, day] = str.split('-').map(n => parseInt(n, 10));
-		return new Date(year, month - 1, day);
-	}
-	return null;
-}
-
-function formatDate(date, locale){
-	if(date) {
-		const dateObj = (date instanceof Date) ? date : dateFromString(date);
-		return dateObj.toLocaleDateString(locale, {
-			year: 'numeric',
-			month: 'numeric',
-			day: 'numeric',
-		});
-	}
-	return '';
-}
-
-
 function mergeFields(fields){
 	return fields.filter(Boolean).join(', ')
 }
