@@ -24,6 +24,7 @@ INSTALLED_APPS = [
     "forms.apps.FormsConfig",
     "insurance.apps.InsuranceConfig",
     "management.apps.ManagementConfig",
+    "discussion.apps.DiscussionConfig",
 ]
 
 MIDDLEWARE = [
