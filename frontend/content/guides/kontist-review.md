@@ -17,7 +17,7 @@ In my opinion, **there is no good reason to choose Kontist**. Use one of the [Ko
 
 ## Cost and fees
 
-A Kontist account costs [€9 to €29 per month](/out/kontist-plans){{ fail_on('2025-12-01') }}.
+A Kontist account costs [€9 to €29 per month](/out/kontist-plans){{ fail_on('2025-12-31') }}.
 
 There are extra fees:
 
