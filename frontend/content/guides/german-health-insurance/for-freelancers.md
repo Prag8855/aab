@@ -6,17 +6,13 @@ Date_created: 2025-06-02
 Call_to_action: askOurInsuranceExpert
 ---
 
-This guide helps you choose the best health insurance for freelancing in Germany. All German residents need to health insurance. You also need it to [apply for a freelance visa](/guides/freelance-visa).
+This guide helps you choose the best German health insurance for self-employment, and to [apply for a freelance visa](/guides/freelance-visa).
 
 {% include "_blocks/tableOfContents.html" %}
 
 ## Your options
 
-Use my [health insurance picker](/tools/health-insurance-calculator) to know your options.
-
 {% with occupation = 'selfEmployed' %}{% include '_blocks/healthInsuranceCalculatorStatic.html' %}{% endwith %}
-
-Health insurance is more expensive for freelancers, because your employer does not pay half of it. For example, if your health insurance cost €250 per month as an employee, it will cost €500 per month as a freelancer.
 
 There are 3 long-term health insurance options:
 
@@ -29,7 +25,7 @@ There are 3 long-term health insurance options:
     - or you join the *[[Künstlersozialkasse]]*
     - or you join a [freelancer cooperative](#freelancer-cooperatives)
 - **[Private health insurance](/glossary/private%20Krankenversicherung)**  
-    This option makes sense if you make over €60,000 per year. If you join at a young age, it's better and cheaper than [public health insurance](/glossary/gesetzliche%20Krankenversicherung).[^8] [Ask my insurance expert](/guides/german-health-insurance#need-help) if it makes sense for you. If you choose private health insurance, it's really hard to change your mind later.
+    This option makes sense if you make over €{{PKV_MIN_INCOME|cur}} per year. If you join at a young age, it's better and cheaper than [public health insurance](/glossary/gesetzliche%20Krankenversicherung).[^8] [Ask my insurance expert](/guides/german-health-insurance#need-help) if it makes sense for you. If you choose private health insurance, it's really hard to change your mind later.
 - **[[Expat health insurance]]**  
     If you make less than €{{PKV_MIN_INCOME|cur}} per year, and you can't get [public health insurance](/glossary/gesetzliche%20Krankenversicherung), this is your only option.[^2] It's the cheapest option, but the coverage is bad, and [it's a bad long-term option](/guides/german-health-insurance#expat-health-insurance). Switch to public or private health insurance as soon as you can.[^6]
 
@@ -82,7 +78,7 @@ If you are applying for the *[[Künstlersozialkasse]]*, you can use expat health
 
 The best option depends on your citizenship, your income, your health, and your plans for the future.
 
-If you are self-employed, **never choose health insurance yourself**. Always [ask an expert](/guides/german-health-insurance#need-help) to help you. It's a complex decision, and freelancers often make expensive mistakes. Choosing the wrong health insurance can also delay your [freelance visa](/glossary/Freelance%20visa) application.
+If you are self-employed, **never choose health insurance yourself**. Always [ask an expert](/guides/german-health-insurance#need-help) to help you. It's a complex decision, and freelancers often make expensive mistakes. Choosing the wrong health insurance can delay your [freelance visa](/glossary/Freelance%20visa) application.
 
 {% include '_blocks/healthInsuranceQuestionStatic.html' %}
 
@@ -90,9 +86,17 @@ If you are self-employed, **never choose health insurance yourself**. Always [as
 
 After you get insured, you can [apply for a freelance visa](/guides/freelance-visa) and [start your business](/guides/start-a-business-in-germany).
 
+### Pay for your health insurance
+
 You must pay for health insurance by [bank transfer](/glossary/SEPA-Überweisung) every month. You can sign a [direct debit authorization](/glossary/SEPA-Lastschriftmandat) to allow automatic payments.
 
-When you are self-employed, you do not get paid [sick leave](/glossary/Krankengeld). If you are too sick to work, you have no income. You must prepare for this.
+If you chose [public health insurance](/glossary/gesetzliche%20Krankenversicherung), the price is based on your *estimated* income. Every year, your health insurer will look at your real income, and adjust the price. If you paid too much, you will get a refund later. If you did not pay enough, you must make another payment.
+
+### Plan for the future
+
+By default, freelancers have no pension. You must choose how you save for retirement.
+
+Freelancers do not get paid [sick leave](/glossary/Krankengeld). If you are too sick to work, you have no income. You must prepare for this.
 
 **[Sick leave options for freelancers ➞](/guides/sick-leave#sick-leave-for-freelancers)**
 

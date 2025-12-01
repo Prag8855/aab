@@ -245,19 +245,15 @@ You can apply for a training voucher, initial funding and an investment grant at
 
 ### Tell your health insurer
 
-If you already have [health insurance](/glossary/Krankenversicherung), tell your insurance company that you will be self-employed.
+Health insurance for freelancers is twice as expensive, because your employer does not pay half of it.
 
-If you have [public health insurance](/glossary/gesetzliche%20Krankenversicherung), the cost of your insurance depends on your income. Health insurance for freelancers is twice as expensive, because your employer does not pay half of it.
+If you have [public health insurance](/glossary/gesetzliche%20Krankenversicherung), tell your insurer that you will be self-employed. Your insurance will cost a percentage of your *estimated* income. You must pay it by [bank transfer](/glossary/SEPA-Überweisung) every month.
 
-{% with occupation = 'selfEmployed' %}{% include '_blocks/healthInsuranceCalculator.html' %}{% endwith %}
+[Private health insurance](/glossary/private%20Krankenversicherung) could be a lot cheaper for you. I save around €600 per month. Use my [health insurance calculator](/tools/health-insurance-calculator) to compare costs, and [ask my insurance expert](/guides/german-health-insurance#ask-our-expert) to find the best option for you.
 
-Since you don't know your future income, they use your *estimated* income. If you pay too much for insurance, you will get a refund later. If you don't pay enough, you will get an invoice later.
+{% with occupation = 'selfEmployed' %}{% include '_blocks/healthInsuranceCalculatorStatic.html' %}{% endwith %}
 
-When you are an employee, health insurance payments are taken from your salary. When you are self-employed, you pay every month by [bank transfer](/glossary/SEPA-%C3%9Cberweisung).
-
-[Private health insurance](/glossary/private%20Krankenversicherung) could be a lot cheaper for you. For example, I save around €600 per month. Talk to a [health insurance broker](/guides/german-health-insurance#need-help) about it. It's not a simple decision.
-
-**[How to choose health insurance ➞](/guides/german-health-insurance)**
+**[Health insurance for freelancers ➞](/guides/german-health-insurance/for-freelancers)**
 
 ### Update your website
 
@@ -267,7 +263,7 @@ If you have a website, it must follow German and European laws. If you make a mi
 
 ### Do your taxes
 
-Every year, you must make a [tax declaration](/glossary/Steuererklärung). Remember that most business expenses are [tax-deductible](/glossary/steuerlich%20absetzbar): tax advisor, tax software, insurance, transportation, computers, internet, mobile phone, banking fees, part of your rent and a lot more. This reduces your taxable income, so you pay less taxes.
+Every year, you must make a [tax declaration](/glossary/Steuererklärung). Most business expenses are [tax-deductible](/glossary/steuerlich%20absetzbar): tax advisor, tax software, insurance, transportation, computers, internet, mobile phone, banking fees, part of your rent and a lot more. This reduces your taxable income, so you pay less [income tax](/glossary/Einkommensteuer).
 
 ### Get legal insurance
 
