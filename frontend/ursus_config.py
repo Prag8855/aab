@@ -26,7 +26,7 @@ ctx = {}
 # ==============================================================================
 
 # German minimum wage (€/h) - https://www.bmas.de/DE/Arbeit/Arbeitsrecht/Mindestlohn/mindestlohn.html - https://www.destatis.de/DE/Themen/Arbeit/Verdienste/Mindestloehne/_inhalt.html
-ctx["MINIMUM_WAGE"] = fail_on("2025-12-01", Decimal("12.82"))
+ctx["MINIMUM_WAGE"] = fail_on("2025-12-31", Decimal("12.82"))
 
 ctx["MEDIAN_INCOME_BERLIN"] = fail_on(
     "2025-12-31", 48250
@@ -34,7 +34,7 @@ ctx["MEDIAN_INCOME_BERLIN"] = fail_on(
 ctx["MEDIAN_INCOME_GERMANY"] = fail_on("2025-12-31", 52159)  # Early 2025
 
 # Minimum allowance for au pairs (€/mth)
-ctx["AU_PAIR_MIN_ALLOWANCE"] = fail_on("2025-12-01", 280)
+ctx["AU_PAIR_MIN_ALLOWANCE"] = fail_on("2025-12-31", 280)
 
 # Maximum income used to calculate pension contributions (€/y)
 ctx["BEITRAGSBEMESSUNGSGRENZE"] = fail_on("2025-12-31", 8050 * 12)  # § SGB 6 Anlage 2 [BBGRV]
@@ -390,7 +390,7 @@ ctx["HUNDESTEUER_MORE_DOGS"] = 180  # §4 HuStG BE, (€/y)
 ctx["KSK_MIN_INCOME"] = fail_on("2025-12-31", 3900)  # (€/y) - §3 Abs. 1 KSVG
 ctx["ORDNUNGSAMT_DANGEROUS_DOG_FEE"] = 30  # service.berlin.de/dienstleistung/326263
 ctx["RUNDFUNKBEITRAG_FEE"] = Decimal("18.36")
-ctx["SCHUFA_REPORT_FEE"] = fail_on("2025-12-01", Decimal("29.95"))  # TODO: Not watched
+ctx["SCHUFA_REPORT_FEE"] = fail_on("2025-12-31", Decimal("29.95"))  # TODO: Not watched
 ctx["VEHICLE_UMMELDUNG_FEE"] = Decimal("10.80")  # service.berlin.de/dienstleistung/120658
 ctx["LICENSE_PLATE_COST"] = fail_on("2027-12-31", 20)  # Cost of making license plates
 ctx["FIRST_AID_COURSE_COST"] = fail_on("2027-12-31", 65)  # Cost of a first aid course for a driver's licence
