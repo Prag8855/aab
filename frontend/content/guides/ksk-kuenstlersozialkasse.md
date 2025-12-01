@@ -17,11 +17,11 @@ If you are a freelance artist, publicist or art teacher, you should apply for th
 
 The Künstlersozialkasse (KSK) is a social fund for freelance artists, publicists and art teachers. It's funded by the government, and by businesses who hire freelance artists.[^0]
 
-When you are a KSK member, **they pay half of your [health insurance](/glossary/gesetzliche%20Krankenversicherung), and half of your [public pension insurance](/glossary/gesetzliche%20Krankenversicherung)**. Being a member is completely free.
+When you are a KSK member, **they pay half of your [health insurance](/glossary/gesetzliche%20Krankenversicherung), and half of your [public pension insurance](/glossary/gesetzliche%20Krankenversicherung)**. There is no membership fee.
 
 ## Why join the KSK?
 
-**Because it's a really good deal**. The Künstlersozialkasse helps you get [public health insurance](/glossary/gesetzliche%20Krankenversicherung) and save for retirement. In most cases, it's free.
+**Because it's a really good deal**. The Künstlersozialkasse helps you get [public health insurance](/glossary/gesetzliche%20Krankenversicherung) and save for retirement.
 
 ### Advantages
 
@@ -51,7 +51,7 @@ When you are a KSK member, **they pay half of your [health insurance](/glossary/
 
 ### How much does it cost?
 
-**In most cases, nothing.** You pay the same price as before, but you get more benefits.
+**In most cases, nothing.** You pay the same price as before, but you get more benefits. 
 
 [Public pension insurance](/glossary/gesetzliche%20Krankenversicherung) is optional for most freelancers, so you probably don't pay for it. If you join the KSK, it's required. You must pay for it.
 
