@@ -114,17 +114,19 @@ If you are self-employed, you do not get paid sick leave.[^24] If you are too si
 
 You can also **get job disability insurance** (*[[Berufsunfähigkeitsversicherung]]*). It pays you if you are permanently unable to do your job. If you have a family or a mortgage, this is important. Around 26% of Germans have disability insurance.[^28] It costs around €40 per month.[^29]
 
-If you don't speak German, [Feather](/out/feather-disability) and [Getsafe](/out/getsafe-berufunfahigkeit) sell disability insurance, and they speak English. [Tarifcheck](/out/tarifcheck-berufunfahigkeit) helps you compare options, but it's only in German.
+[Feather](/out/feather-disability) and [Getsafe](/out/getsafe-berufunfahigkeit) sell disability insurance, and they speak English. [Tarifcheck](/out/tarifcheck-berufunfahigkeit) helps you compare options, but it's only in German.
 
 In your contracts, define what happens if you are too sick to finish a project in time.
 
 ## Sick leave for students
 
-If you have [public health insurance](/glossary/gesetzliche%20Krankenversicherung), and you pay the cheaper student tariff, you do not get *[[Krankengeld]]*.
+If you have [public health insurance](/glossary/gesetzliche%20Krankenversicherung), and you pay the cheaper student tariff, you do not get *[[Krankengeld]]*. If you are too sick to work, you have no income.
 
-## Sick leave for the unemployed
+## Sick leave when unemployed
 
 If you get [[ALG I]], your job is to look for work. If you are sick, and you can't look for work, you must get a sick note for the *[[Agentur für Arbeit]]*. When you are healthy again, you must tell the *[[Agentur für Arbeit]]*.
+
+While you are sick, you keep getting unemployment benefits for the first 6 weeks. After 6 weeks, you get *[[Krankengeld]]* from your [public health insurance](/glossary/gesetzliche%20Krankenversicherung).[^31]
 
 **[How unemployment benefits work ➞](/guides/unemployment-benefits)**
 
@@ -173,3 +175,4 @@ Missing work because of a hangover looks really bad. If it happens often, you ca
 [^28]: [gdv.de](https://www.gdv.de/gdv/themen/gesellschaft/versicherungsschutz-versicherungsdichte-ueberversicherung-49418) (2019)
 [^29]: Quote from [Feather](/out/feather-disability) (January 2025)
 [^30]: Personal experience (September 2025)
+[^31]: [Arbeitsagentur](https://www.arbeitsagentur.de/arbeitslos-arbeit-finden/arbeitslosengeld/das-muessen-sie-beachten/krankheit-pflege-betreuung) (December 2025)

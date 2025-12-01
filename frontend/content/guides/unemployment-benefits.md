@@ -159,9 +159,9 @@ People often travel without telling the *Agentur für Arbeit*.  If they call you
 
 ### Sickness and pregnancy
 
-If you are sick, you can take sick days. You need a sick note from a doctor (*[[Krankschreibung]]*).[^10] When you are healthy again, you must tell the *Agentur für Arbeit*. You can also take time off when your children are sick.
+If you are sick, you can take sick days. You might need a [sick note](/glossary/Krankschreibung) from a doctor.[^10] When you are healthy again, you must tell the *Agentur für Arbeit*. You can also take time off when your children are sick.
 
-For the first 6 weeks that you are sick, you get ALG I. After 6 weeks, you stop getting ALG I, and you get *[[Krankengeld]]* from your health insurance instead.
+**[Sick leave when unemployed ➞](/guides/sick-leave#sick-leave-when-unemployed)**
 
 ## What to do next
 
