@@ -1,7 +1,5 @@
-{% raw %}
-<p>These are reports from people who applied for a <span v-text="residencePermitName.normal">residence permit</span> in Berlin. <a href="#share-your-experience">Share your experience</a>; it's really helpful.</p>
-
-{% endraw %}{% include "_blocks/feedbackResidencePermit/filters.html"%}{% raw %}
+{% include '_js/vue/components/glossary.js' %}
+{% include "_blocks/feedbackResidencePermit/filters.html"%}{% raw %}
 
 <div class="loading" v-if="isLoading">Loading feedback...</div>
 <ul class="feedback-list" v-show="!isLoading">
@@ -16,7 +14,15 @@
 		<div class="steps">
 			<div class="step completed">
 				<input type="checkbox" checked disabled>
-				<span class="description">Applied <span class="no-mobile">on {{ formatLongDate(result.application_date) }}</span></span>
+				<span class="description">
+					Applied <span class="no-mobile">on {{ formatLongDate(result.application_date) }}</span>
+					<small class="extra" v-if="healthInsuranceTypes[result.health_insurance_type]">
+						Using
+						<glossary v-if="healthInsuranceTypes[result.health_insurance_type][1]" :term="healthInsuranceTypes[result.health_insurance_type][1]" v-text="healthInsuranceTypes[result.health_insurance_type][0]"></glossary>
+						<template v-if="!healthInsuranceTypes[result.health_insurance_type][1]">{{ healthInsuranceTypes[result.health_insurance_type][0] }}</template>
+						<template v-if="result.health_insurance_name">(“{{ result.health_insurance_name }}”)</template>
+					</small>
+				</span>
 				<time v-text="formatLongDate(result.application_date)"></time>
 			</div>
 

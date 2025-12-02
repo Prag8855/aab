@@ -20,22 +20,27 @@ const residencePermitFeedbackMixin = {
 				FAMILY_REUNION_VISA: {
 					capitalized: "Family reunion visa",
 					normal: "family reunion visa",
+					askAboutHealthInsurance: true,
 				},
 				FREELANCE_VISA: {
 					capitalized: "Freelance visa",
 					normal: "freelance visa",
+					askAboutHealthInsurance: true,
 				},
 				JOB_SEEKER_VISA: {
 					capitalized: "Job seeker visa",
 					normal: "job seeker visa",
+					askAboutHealthInsurance: true,
 				},
 				PERMANENT_RESIDENCE: {
 					capitalized: "Permanent residence",
 					normal: "permanent residence",
+					askAboutHealthInsurance: true,
 				},
 				STUDENT_VISA: {
 					capitalized: "Student visa",
 					normal: "student visa",
+					askAboutHealthInsurance: true,
 				},
 				WORK_VISA: {
 					capitalized: "Work visa",

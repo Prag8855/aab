@@ -3396,6 +3396,12 @@ collapsible, letter-generator, feedback-residence-permit, health-insurance-calcu
                 flex:1 1;
             }
 
+            .extra{
+                display: block;
+                margin-top: var(--s);
+                color: var(--c-text-light);
+            }
+
             time{
                 font-size: var(--f-s);
                 color: var(--c-text-light);

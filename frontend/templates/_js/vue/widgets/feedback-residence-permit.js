@@ -27,6 +27,9 @@ Vue.component('feedback-residence-permit', {
 			notes: '',
 			email: userDefaults.empty,
 
+			healthInsurance: null,
+			healthInsuranceName: null,
+
 			steps: {
 				application: {
 					dateFieldTitle: "Application date",
@@ -100,6 +103,9 @@ Vue.component('feedback-residence-permit', {
 			this.steps.pickup.date = responseJson.pick_up_date;
 			this.steps.pickup.completed = !!responseJson.pick_up_date;
 
+			this.healthInsurance = responseJson.health_insurance_type;
+			this.healthInsuranceName = responseJson.health_insurance_name;
+
 			this.email = responseJson.email || this.email;
 			this.department = responseJson.department;
 			this.notes = responseJson.notes;
@@ -131,6 +137,12 @@ Vue.component('feedback-residence-permit', {
 		},
 		showRestOfForm(){
 			return this.steps.application.completed;
+		},
+		askAboutHealthInsurance(){
+			return this.residencePermitType && this.residencePermitTypes[this.residencePermitType].askAboutHealthInsurance;
+		},
+		showHealthInsuranceNameField(){
+			return ["PRIVATE", "EXPAT", "OTHER"].includes(this.healthInsurance);
 		},
 		feedbackComplete(){
 			return Object.values(this.steps).every(s => s.completed);
@@ -175,6 +187,8 @@ Vue.component('feedback-residence-permit', {
 						keepalive: true,
 						headers: {'Content-Type': 'application/json; charset=utf-8',},
 						body: JSON.stringify({
+							health_insurance_type: this.healthInsurance || '',
+							health_insurance_name: this.healthInsuranceName || '',
 							application_date: this.steps.application.date,
 							appointment_date: (this.steps.appointment.completed ? this.steps.appointment.date : null),
 							email: emailAddress,
@@ -265,7 +279,24 @@ Vue.component('feedback-residence-permit', {
 							<a target="_blank" href="/guides/immigration-office#departments">Find your Ausländerbehörde department.</a> Don't choose a random department.
 						</span>
 					</div>
-					<div class="form-group optional">
+					<hr>
+					<div class="form-group" v-if="askAboutHealthInsurance">
+						<label :for="uid('healthInsurance')">Health insurance</label>
+						<select v-model="healthInsurance" :class="{placeholder: healthInsurance == null}">
+							<option disabled hidden default :value="null">Type of health insurance</option>
+							<option value="PUBLIC">Public health insurance</option>
+							<option value="PRIVATE">Private health insurance</option>
+							<option value="EXPAT">Expat health insurance</option>
+							<option value="FAMILY">Insured by family</option>
+							<option value="EHIC">Insured by another EU country</option>
+							<option value="OTHER">Other</option>
+							<option value="">I don't know</option>
+						</select>
+						<input v-if="showHealthInsuranceNameField" placeholder="Name of health insurance" type="text" v-model="healthInsuranceName"/>
+						<span class="input-instructions">Which health insurance did you use when you applied?</span>
+					</div>
+					<hr v-if="askAboutHealthInsurance">
+					<div class="form-group">
 						<label :for="uid('notes')">Notes and advice</label>
 						<textarea placeholder=" " v-model="notes" :id="uid('notes')"></textarea>
 						<span class="input-instructions">Add information about your situation and give advice to other people. Do not ask questions here.</span>

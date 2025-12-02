@@ -24,7 +24,15 @@
 					page: null,
 					resultCount: 0,
 					itemsPerPage: 10,
-					stats: {}
+					stats: {},
+					healthInsuranceTypes: {
+						PUBLIC: ["public health insurance", "gesetzliche Krankenversicherung"],
+						PRIVATE: ["private health insurance", "private Krankenversicherung"],
+						EXPAT: ["expat health insurance", "Expat health insurance"],
+						FAMILY: ["family health insurance", "Familienversicherung"],
+						EHIC: ["health insurance from another EU country", "EHIC"],
+						OTHER: ["another health insurance", null],
+					},
 				};
 			},
 			async mounted(){
@@ -141,7 +149,7 @@
 				},
 				isInTheFuture(date){
 					return date > (new Date());
-				}
+				},
 			},
 			watch: {
 				department(){

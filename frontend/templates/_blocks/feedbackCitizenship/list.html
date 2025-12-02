@@ -1,7 +1,4 @@
-{% raw %}
-<p>These are reports from people who applied for German citizenship in Berlin. <a href="#share-your-experience">Share your experience</a>; it's really helpful.</p>
-
-{% endraw %}{% include "_blocks/feedbackCitizenship/filters.html"%}{% raw %}
+{% include "_blocks/feedbackCitizenship/filters.html"%}{% raw %}
 
 <div class="loading" v-if="isLoading">Loading feedback...</div>
 <ul class="feedback-list" v-show="!isLoading">

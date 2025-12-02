@@ -1,6 +1,7 @@
 <p>
 	In Berlin, it takes <strong v-text="totalWaitRange">a few months</strong> to become a German citizen.
 	The average wait time is <span v-text="totalWaitAverage">unknown</span>.
+	Based on <a href="#feedback-from-other-people">feedback from <span v-text="feedbackCount">many</span> people</a>.
 </p>
 {% include "_blocks/feedbackCitizenship/filters.html"%}
 {% raw %}
@@ -22,5 +23,4 @@
 		</div>
 	</div>
 </div>
-<p>Based on <a href="#feedback-from-other-people">feedback from <span v-text="feedbackCount">many</span> people</a>. <a href="#share-your-experience">Add your feedback</a>; it really helps.</p>
 {% endraw %}

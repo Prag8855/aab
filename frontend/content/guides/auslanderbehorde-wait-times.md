@@ -19,6 +19,8 @@ Date_created: 2024-11-27
 
 ## Need help?
 
+**[How to apply for a residence permit ➞](/guides/residence-permit)**
+
 **[Where to ask immigration questions ➞](/guides/questions-about-berlin#immigration-questions)**
 
 **[If your visa or residence permit expires ➞](/guides/residence-permit#if-your-visa-or-residence-permit-expires)**
