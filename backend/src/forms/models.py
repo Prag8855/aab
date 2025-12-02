@@ -318,6 +318,8 @@ class HealthInsuranceTypes(models.TextChoices):
     PUBLIC = "PUBLIC", "Public health insurance"
     PRIVATE = "PRIVATE", "Private health insurance"
     EXPAT = "EXPAT", "Expat health insurance"
+    FAMILY = "FAMILY", "Familienversicherung"
+    EHIC = "EHIC", "EHIC"
     OTHER = "OTHER", "Other"
     UNKNOWN = "", "Unknown"
 
@@ -365,7 +367,7 @@ class ResidencePermitFeedback(MultiStageFeedback):
     health_insurance_type = models.CharField(
         max_length=20, blank=True, choices=HealthInsuranceTypes, default=HealthInsuranceTypes.UNKNOWN
     )
-    health_insurance_notes = models.TextField(blank=True)
+    health_insurance_name = models.CharField(blank=True, max_length=150)
 
     objects = FeedbackManager()
     daily_digest_fields = [
