@@ -146,8 +146,8 @@ To get an apartment, you must be fast. Use tools to find apartments and message 
 
 - **Apartment search bots**  
     - [@berlinflatsbot](https://t.me/berlinflatsbot) - Free Telegram bot
-    - [@WohnungsBot](https://t.me/AutoWohnBot) - Free Telegram bot
     - [Flathunters](https://flathunter.codders.de) - Free website and Telegram bot
+    - [@WohnungsBot](https://t.me/AutoWohnBot) - Paid Telegram bot
     - [immonotify](https://immonotify.com/) - Paid browser add-on
     - [Homeboy](https://www.homeboy.immo/en) - Paid email and Whatsapp bot
     - [Immobilien Bot](https://immobilien-bot.de/) - Paid app
