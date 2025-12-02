@@ -30,6 +30,8 @@ class ResidencePermitFeedbackAdmin(admin.ModelAdmin):
         "first_response_date",
         "appointment_date",
         "pick_up_date",
+        "validity_in_months",
+        "health_insurance_name",
         "email",
     ]
 

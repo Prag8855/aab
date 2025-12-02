@@ -9,6 +9,11 @@
 			{{ residencePermitTypes[result.residence_permit_type].capitalized }}
 			<template v-if="result.pick_up_date">in {{ formatTimeDelta(result.application_date, result.pick_up_date) }}</template>
 			<span class="department">Department {{ (departments[result.department] || '').split(' — ')[0] }}</span>
+			<span class="validity" v-if="result.validity_in_months">
+				Valid for 
+				<template v-if="result.validity_in_months % 12">{{ result.validity_in_months }} months</template>
+				<template v-if="!(result.validity_in_months % 12)">{{ result.validity_in_months/12 }} years</template>
+			</span>
 		</h3>
 		<p v-if="result.notes.length" class="notes">“{{ result.notes.trim() }}”</p>
 		<div class="steps">
@@ -55,8 +60,11 @@
 			<div v-if="!!result.appointment_date" class="step" :class="{completed: !!result.pick_up_date}">
 				<input type="checkbox" :checked="result.pick_up_date" disabled>
 				<span class="description">
-					<template v-if="result.pick_up_date">
-						{{ isInTheFuture(result.pick_up_date) ? 'Will pick up' : 'Picked up' }} residence permit {{ formatTimeDelta(result.appointment_date, result.pick_up_date) }} later
+					<template v-if="result.pick_up_date && isInTheFuture(result.pick_up_date)">
+						Will pick up residence card after {{ formatTimeDelta(result.appointment_date, result.pick_up_date) }}
+					</template>
+					<template v-if="result.pick_up_date && !isInTheFuture(result.pick_up_date)">
+						Picked up residence card {{ formatTimeDelta(result.appointment_date, result.pick_up_date) }} later
 					</template>
 					<template v-else>
 						No pick-up date as of {{ formatLongDate(result.modification_date) }}

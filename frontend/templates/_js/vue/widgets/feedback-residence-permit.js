@@ -1,5 +1,6 @@
 {% include '_js/vue.js' %}
 {% include '_js/vue/components/collapsible.js' %}
+{% include '_js/vue/components/age-input.js' %}
 {% include '_js/vue/components/date-input.js' %}
 {% include '_js/vue/components/email-input.js' %}
 {% include '_js/vue/mixins/multiStageMixin.js' %}
@@ -29,6 +30,9 @@ Vue.component('feedback-residence-permit', {
 
 			healthInsurance: null,
 			healthInsuranceName: null,
+
+			validityUnit: 'months',
+			validity: null,
 
 			steps: {
 				application: {
@@ -109,6 +113,8 @@ Vue.component('feedback-residence-permit', {
 			this.email = responseJson.email || this.email;
 			this.department = responseJson.department;
 			this.notes = responseJson.notes;
+			this.validity = responseJson.validity;
+			this.validityUnit = (this.validity % 12 || !this.validity) ? 'months' : 'years';
 		}
 	},
 	computed: {
@@ -132,8 +138,7 @@ Vue.component('feedback-residence-permit', {
 			return `Feedback form: ${this.residencePermitName} processing time`;
 		},
 		residencePermitName(){
-			const rp = this.residencePermitTypes[this.residencePermitType];
-			return rp ? rp.normal : "residence permit";
+			return this.residencePermitTypes[this.residencePermitType]?.normal || "residence permit";
 		},
 		showRestOfForm(){
 			return this.steps.application.completed;
@@ -143,6 +148,12 @@ Vue.component('feedback-residence-permit', {
 		},
 		showHealthInsuranceNameField(){
 			return ["PRIVATE", "EXPAT", "OTHER"].includes(this.healthInsurance);
+		},
+		validityInMonths(){
+			if(!this.validity){
+				return null;
+			}
+			return this.validity * (this.validityUnit === 'years' ? 12 : 1);
 		},
 		feedbackComplete(){
 			return Object.values(this.steps).every(s => s.completed);
@@ -184,7 +195,7 @@ Vue.component('feedback-residence-permit', {
 					this.apiEndpoint,
 					{
 						method: this.modificationKeyMatchesResidencePermitType ? 'PUT' : 'POST',
-						keepalive: true,
+						//keepalive: true,
 						headers: {'Content-Type': 'application/json; charset=utf-8',},
 						body: JSON.stringify({
 							health_insurance_type: this.healthInsurance || '',
@@ -197,6 +208,7 @@ Vue.component('feedback-residence-permit', {
 							notes: this.notes,
 							pick_up_date: (this.steps.pickup.completed ? this.steps.pickup.date : null),
 							residence_permit_type: this.residencePermitType,
+							validity_in_months: this.validityInMonths,
 						}),
 					}
 				);
@@ -217,8 +229,8 @@ Vue.component('feedback-residence-permit', {
 			return {
 				application: "I have applied in Berlin",
 				response: "The Ausländerbehörde has replied",
-				appointment: "I got an appointment",
-				pickup: `I got my ${this.residencePermitName}`,
+				appointment: "I have an appointment",
+				pickup: "I have a pick-up date for the residence card",
 			}[key];
 		},
 		minimumStepDate(step){
@@ -280,22 +292,39 @@ Vue.component('feedback-residence-permit', {
 						</span>
 					</div>
 					<hr>
-					<div class="form-group" v-if="askAboutHealthInsurance">
-						<label :for="uid('healthInsurance')">Health insurance</label>
-						<select v-model="healthInsurance" :class="{placeholder: healthInsurance == null}">
-							<option disabled hidden default :value="null">Type of health insurance</option>
-							<option value="PUBLIC">Public health insurance</option>
-							<option value="PRIVATE">Private health insurance</option>
-							<option value="EXPAT">Expat health insurance</option>
-							<option value="FAMILY">Insured by family</option>
-							<option value="EHIC">Insured by another EU country</option>
-							<option value="OTHER">Other</option>
-							<option value="">I don't know</option>
-						</select>
-						<input v-if="showHealthInsuranceNameField" placeholder="Name of health insurance" type="text" v-model="healthInsuranceName"/>
-						<span class="input-instructions">Which health insurance did you use when you applied?</span>
-					</div>
-					<hr v-if="askAboutHealthInsurance">
+					<template v-if="askAboutHealthInsurance">
+						<div class="form-group">
+							<label :for="uid('healthInsurance')">Health insurance</label>
+							<select v-model="healthInsurance" :class="{placeholder: healthInsurance == null}">
+								<option disabled hidden default :value="null">Type of health insurance</option>
+								<option value="PUBLIC">Public health insurance</option>
+								<option value="PRIVATE">Private health insurance</option>
+								<option value="EXPAT">Expat health insurance</option>
+								<option value="FAMILY">Insured by family</option>
+								<option value="EHIC">Insured by another EU country</option>
+								<option value="OTHER">Other</option>
+								<option value="">I don't know</option>
+							</select>
+							<input v-if="showHealthInsuranceNameField" placeholder="Name of health insurance" type="text" v-model="healthInsuranceName"/>
+							<span class="input-instructions">Which health insurance did you use when you applied?</span>
+						</div>
+						<hr>
+					</template>
+
+					<template v-if="steps.appointment.completed && residencePermitType !== 'PERMANENT_RESIDENCE'">
+						<div class="form-group">
+							<label :for="uid('validity')">Permit validity</label>
+							<div class="input-group">
+								<input type="text" placeholder="0" inputmode="numeric" pattern="[0-9]*" v-model.number="validity" maxlength="2">
+								<select v-model="validityUnit">
+									<option value="months">months</option>
+									<option value="years">years</option>
+								</select>
+							</div>
+							<span class="input-instructions">The expiration date is <a href="/images/residence-permit-expiration-date.jpg" target="_blank">on the back of your {{ residencePermitName }}</a>.</span>
+						</div>
+						<hr>
+					</template>
 					<div class="form-group">
 						<label :for="uid('notes')">Notes and advice</label>
 						<textarea placeholder=" " v-model="notes" :id="uid('notes')"></textarea>

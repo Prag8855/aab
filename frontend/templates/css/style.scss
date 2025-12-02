@@ -1596,7 +1596,8 @@ input[type=tel]
     box-sizing:content-box!important;
     flex: 0 0 auto!important;
 }
-.age-input, .percent-input{
+.age-input, .percent-input, [maxlength="2"]{
+    box-sizing:content-box!important;
     width: 2ch!important;
 }
 .income-input{
@@ -3434,8 +3435,12 @@ collapsible, letter-generator, feedback-residence-permit, health-insurance-calcu
         align-items: baseline;
         gap: var(--s);
 
-        .department{
-            font-size: var(--m);
+        .validity{
+            flex: 1 0 100%;
+        }
+
+        .department, .validity{
+            font-size: var(--f-s);
             font-weight: normal;
             color: var(--c-text-light);
             @include only-phone{

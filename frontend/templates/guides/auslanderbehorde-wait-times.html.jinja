@@ -99,6 +99,7 @@
 							r.first_response_date = r.first_response_date ? new Date(r.first_response_date) : null;
 							r.appointment_date = r.appointment_date ? new Date(r.appointment_date) : null;
 							r.pick_up_date = r.pick_up_date ? new Date(r.pick_up_date) : null;
+							r.validity_in_months = r.validity_in_months;
 							return r;
 						});
 						this.stats = response.stats;

@@ -360,6 +360,7 @@ class ResidencePermitFeedback(MultiStageFeedback):
     first_response_date = models.DateField(null=True, blank=True)
     appointment_date = models.DateField(null=True, blank=True)
     pick_up_date = models.DateField(null=True, blank=True)
+    validity_in_months = models.PositiveSmallIntegerField(null=True, blank=True, default=None)
 
     department = models.CharField(max_length=30, choices=ResidencePermitDepartments)
     notes = models.TextField(blank=True)
@@ -375,6 +376,9 @@ class ResidencePermitFeedback(MultiStageFeedback):
         "first_response_date",
         "appointment_date",
         "pick_up_date",
+        "validity_in_months",
+        "health_insurance_type",
+        "health_insurance_name",
         "notes",
         "email",
     ]
