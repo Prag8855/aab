@@ -11,8 +11,8 @@
 			<span class="department">Department {{ (departments[result.department] || '').split(' — ')[0] }}</span>
 			<span class="validity" v-if="result.validity_in_months">
 				Valid for 
-				<template v-if="result.validity_in_months % 12">{{ result.validity_in_months }} months</template>
-				<template v-if="!(result.validity_in_months % 12)">{{ result.validity_in_months/12 }} years</template>
+				<template v-if="result.validity_in_months % 12">{{ result.validity_in_months }} month{{ result.validity_in_months === 1 ? '' : 's'}}</template>
+				<template v-if="!(result.validity_in_months % 12)">{{ result.validity_in_months/12 }} year{{ result.validity_in_months/12 === 1 ? '' : 's'}}</template>
 			</span>
 		</h3>
 		<p v-if="result.notes.length" class="notes">“{{ result.notes.trim() }}”</p>

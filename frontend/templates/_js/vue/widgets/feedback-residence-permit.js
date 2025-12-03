@@ -317,8 +317,8 @@ Vue.component('feedback-residence-permit', {
 							<div class="input-group">
 								<input type="text" placeholder="0" inputmode="numeric" pattern="[0-9]*" v-model.number="validity" maxlength="2">
 								<select v-model="validityUnit">
-									<option value="months">months</option>
-									<option value="years">years</option>
+									<option value="months">month{{ validity === 1 ? '' : 's' }}</option>
+									<option value="years">year{{ validity === 1 ? '' : 's' }}</option>
 								</select>
 							</div>
 							<span class="input-instructions">The expiration date is <a href="/images/residence-permit-expiration-date.jpg" target="_blank">on the back of your {{ residencePermitName }}</a>.</span>
