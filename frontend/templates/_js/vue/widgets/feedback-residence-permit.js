@@ -195,7 +195,7 @@ Vue.component('feedback-residence-permit', {
 					this.apiEndpoint,
 					{
 						method: this.modificationKeyMatchesResidencePermitType ? 'PUT' : 'POST',
-						//keepalive: true,
+						keepalive: true,
 						headers: {'Content-Type': 'application/json; charset=utf-8',},
 						body: JSON.stringify({
 							health_insurance_type: this.healthInsurance || '',
