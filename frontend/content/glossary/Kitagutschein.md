@@ -10,8 +10,6 @@ Related_guides:
     guides/how-to-get-a-kitagutschein.md
 ---
 
-A daycare voucher (*Kitagutschein*) allows you to get free childcare in Berlin. You need it to send your child to a *[[Kita]]*. The *Kitagutschein* says how many hours of *Kita* your child can have. Many Kitas require a *Kitagutschein* to put you on their waiting list.[^0]
+A daycare voucher (*Kitagutschein*) allows you to get free childcare in Berlin. You need it to send your child to a *[[Kita]]*. The *Kitagutschein* says how much time your child can spend at the *Kita*.
 
 **[How to get a Kitagutschein ➞](/guides/how-to-get-a-kitagutschein)**
-
-[^0]: [Settle in Berlin](https://www.settle-in-berlin.com/kindergarten-in-berlin-kitagutschein-beginners/)
