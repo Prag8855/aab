@@ -9,6 +9,6 @@ Related_guides:
     guides/how-to-get-a-kitagutschein.md
 ---
 
-The *Kita* or *Kindertagesstätte* is a type of preschool or daycare centre for children who are under 6 years old. Every child in Germany is entitled to a place in a *Kita*.
+The *Kita* or *Kindertagesstätte* is a type of preschool or daycare centre for children who are under 6 years old. Every child in Germany is entitled to free childcare in a *Kita*.
 
 **[How to find a Kita in Berlin ➞](/guides/how-to-find-a-kita-in-berlin)**
