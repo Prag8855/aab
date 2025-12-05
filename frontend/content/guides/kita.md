@@ -4,8 +4,8 @@ Short_title: How to find a Kita
 Description: This guide shows how to find a place for your child in a Kindergarten.
 Date_created: 2018-08-27
 Related_reviews:
-    reviews/how-to-find-a-kita-in-berlin/lisa-hübner-moreno.md
-    reviews/how-to-find-a-kita-in-berlin/amy-deverell.md
+    reviews/kita/lisa-hübner-moreno.md
+    reviews/kita/amy-deverell.md
 ---
 
 In Germany, most children go to *[[Kita]]* until around 6 years old. It's a free daycare for young children.
@@ -36,7 +36,7 @@ A *[[Kitagutschein]]* is a voucher for free childcare. The *Kita* needs this doc
 
 Apply for a *Kitagutschein* from 2 to 9 months before your child starts *Kita*. It takes 6 to 8 weeks to get it.
 
-**[How to get a Kitagutschein ➞](/guides/how-to-get-a-kitagutschein)**
+**[How to get a Kitagutschein ➞](/guides/kitagutschein)**
 
 ### 2. Look for Kitas
 

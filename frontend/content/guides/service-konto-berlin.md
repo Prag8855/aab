@@ -4,7 +4,7 @@ Description: You need a Service-Konto to access Berlin's digital services. This 
 Date_created: 2021-05-14
 ---
 
-This is how you create a Berlin service account (*Service-Konto Berlin*). You need a service account to [get a *Kitagutschein*](/guides/how-to-get-a-kitagutschein), or [get a *Gewerbeschein*](/guides/gewerbeschein).
+This is how you create a Berlin service account (*Service-Konto Berlin*). You need a service account to [get a *Kitagutschein*](/guides/kitagutschein), or [get a *Gewerbeschein*](/guides/gewerbeschein).
 
 ## How to create an account
 

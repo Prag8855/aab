@@ -31,7 +31,7 @@ You need a tax ID to...
 - **[Open a bank account](/guides/best-bank-germany)**  
     Some banks ask for a tax ID when you open an account.
 - **Apply for [[Kindergeld]] and [[Elterngeld]]**
-- **[Get a Kitagutschein](/guides/how-to-get-a-kitagutschein)**  
+- **[Get a Kitagutschein](/guides/kitagutschein)**  
     Your children need a tax ID to get a *[[Kitagutschein]]* and send them to daycare.
 - **[Start a business](/guides/start-a-business-in-germany)**  
     You need a tax ID to [register your business with the *Finanzamt*](/guides/fragebogen-zur-steuerlichen-erfassung).

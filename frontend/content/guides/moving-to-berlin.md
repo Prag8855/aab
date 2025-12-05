@@ -136,7 +136,7 @@ Your family can move to Germany with you. They might need a residence permit lik
 
 If you have children, you might need to send them to a daycare (*[[Kita]]*). It's really hard to find a Kita. There are long waiting lists.
 
-**[How to find a Kita ➞](/guides/how-to-find-a-kita-in-berlin)**
+**[How to find a Kita ➞](/guides/kita)**
 
 You can also bring your pets to Germany. If you bring your dog to Berlin, you must [microchip](/guides/dog-ownership#identification-chip), [insure](/guides/dog-ownership#dog-liability-insurance) and [register](/guides/dog-ownership#dog-register) it. You must also adjust to German dog culture.
 

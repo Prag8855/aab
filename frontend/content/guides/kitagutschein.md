@@ -3,11 +3,11 @@ Title: How to get a Kitagutschein
 Description: This is how you get a Kitagutschein, the document you need when looking for a Kita in Germany.
 Date_created: 2018-08-27
 Related_reviews:
-    reviews/how-to-get-a-kitagutschein/amy-deverell.md
-    reviews/how-to-get-a-kitagutschein/lisa-hübner-moreno.md
+    reviews/kitagutschein/amy-deverell.md
+    reviews/kitagutschein/lisa-hübner-moreno.md
 ---
 
-To send your child to the *[[Kita]]*, you need a *[[Kitagutschein]]*. It's a voucher for free childcare.
+To [send your child to the *Kita*](/guides/kita), you need a *[[Kitagutschein]]*. It's a voucher for free childcare.
 
 {% include "_blocks/tableOfContents.html" %}
 
@@ -36,7 +36,7 @@ You can get more *Kita* time, but you must prove that it's necessary.[^1] If you
 
 In Germany, childcare is **free for everyone**. Some Kitas charge extra for meals and activities. The maximum cost is €100 per month.
 
-**[Cost of childcare in Germany ➞](/guides/how-to-find-a-kita-in-berlin#daycare-costs)**
+**[Cost of childcare in Germany ➞](/guides/kita#daycare-costs)**
 
 ## When to apply for a Kitagutschein
 
@@ -99,9 +99,9 @@ You can *sometimes* email the documents. For example, Jugendamt Friedrichshain-K
 
 ### 4. Find a Kita
 
-Your *Kitagutschein* is valid for any *Kita* in Berlin. You have 7 months to [find a *Kita*](/guides/how-to-find-a-kita-in-berlin) before your *Kitagutschein* expires.[^8]
+Your *Kitagutschein* is valid for any *Kita* in Berlin. You have 7 months to [find a *Kita*](/guides/kita) before your *Kitagutschein* expires.[^8]
 
-**[How to find a Kita in Berlin ➞](/guides/how-to-find-a-kita-in-berlin)**
+**[How to find a Kita in Berlin ➞](/guides/kita)**
 
 ## Need help?
 

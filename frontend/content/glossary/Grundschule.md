@@ -5,7 +5,7 @@ English_term: Elementary school
 Description: A school for children between 6 and 9 years old
 Date_created: 2018-08-27
 Related_guides:
-    guides/how-to-find-a-kita-in-berlin.md
+    guides/kita.md
 ---
 
 Elementary school (*Grundschule*) is a school for children between 6 and 9 years old.[^0]

@@ -6,8 +6,8 @@ Description: An income parents receive during parental leave.
 Date_created: 2025-05-28
 Related_guides:
     guides/german-health-insurance.md
-    guides/how-to-get-a-kitagutschein.md
-    guides/how-to-find-a-kita-in-berlin.md
+    guides/kitagutschein.md
+    guides/kita.md
 ---
 
 *Elterngeld* is financial support for parents. It gives parents an income when they stop working to raise their newborn child.

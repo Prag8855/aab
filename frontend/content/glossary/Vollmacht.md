@@ -6,7 +6,7 @@ Description: A letter that allows someone else to act on your behalf.
 Date_created: 2018-07-31
 Related_guides:
     guides/anmeldung-in-english-berlin.md
-    guides/how-to-get-a-kitagutschein.md
+    guides/kitagutschein.md
     guides/conny-review.md
 ---
 
