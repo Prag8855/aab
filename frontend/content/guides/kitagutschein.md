@@ -1,7 +1,7 @@
 ---
 Title: How to get a Kitagutschein
 Description: This is how you get a Kitagutschein, the document you need when looking for a Kita in Germany.
-Date_created: 2018-08-27
+Date_created: 2025-12-05
 Related_reviews:
     reviews/kitagutschein/amy-deverell.md
     reviews/kitagutschein/lisa-hübner-moreno.md

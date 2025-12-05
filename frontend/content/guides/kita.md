@@ -2,7 +2,7 @@
 Title: How to find a Kita in Berlin
 Short_title: How to find a Kita
 Description: This guide shows how to find a place for your child in a Kindergarten.
-Date_created: 2018-08-27
+Date_created: 2025-12-05
 Related_reviews:
     reviews/kita/lisa-hübner-moreno.md
     reviews/kita/amy-deverell.md
