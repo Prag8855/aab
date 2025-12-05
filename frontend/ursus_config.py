@@ -301,10 +301,10 @@ ctx["DEUTSCHLAND_TICKET_PRICE"] = fail_on("2025-12-31", 58)
 # ==============================================================================
 
 # Minimum income (€/y) to get a Blue Card - § 18g AufenthG
-ctx["BLUE_CARD_MIN_INCOME"] = Decimal("0.5") * ctx["BEITRAGSBEMESSUNGSGRENZE"]
+ctx["BLUE_CARD_MIN_INCOME"] = round(Decimal("0.5") * ctx["BEITRAGSBEMESSUNGSGRENZE"])
 
 # Minimum income (€/y) to get a Blue Card in shortage fields - § 18g AufenthG
-ctx["BLUE_CARD_SHORTAGE_MIN_INCOME"] = Decimal("0.453") * ctx["BEITRAGSBEMESSUNGSGRENZE"]
+ctx["BLUE_CARD_SHORTAGE_MIN_INCOME"] = round(Decimal("0.453") * ctx["BEITRAGSBEMESSUNGSGRENZE"])
 
 # Visa fees (€) - § 44, § 45, § 45c and § 47 AufenthV
 ctx["SCHENGEN_VISA_FEE"] = 75
