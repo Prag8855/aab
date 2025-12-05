@@ -7,7 +7,7 @@ Date_created: 2018-10-02
 Related_guides:
     guides/start-a-business-in-germany.md
     guides/freelance-developer-rate.md
-    guides/questions-about-berlin.md
+    guides/help.md
 ---
 
 In Germany, the *IHK* (*Industrie- und Handelskammer*) is the local chamber of commerce. There is an *IHK* in all big German cities.

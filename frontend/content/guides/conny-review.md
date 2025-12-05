@@ -113,7 +113,7 @@ In general, **I don't recommend Conny**. Their service works, but their fee is e
 
 **[English-speaking lawyers in Berlin ➞](/guides/english-speaking-lawyers-berlin)**
 
-**[Where to ask apartment questions ➞](/guides/questions-about-berlin#apartment-questions)**
+**[Where to ask apartment questions ➞](/guides/help#apartment-questions)**
 
 [^0]: [Trustpilot](https://de.trustpilot.com/reviews/5f3239f51a5a690268475345), [ikb-law.blog](https://ikb-law.blog/2020/07/28/strukturell-falsch-berechnete-mietpreisruegen-von-wenigermiete-de-conny-gmbh/)
 [^1]: [Trustpilot](https://de.trustpilot.com/reviews/66786a0a17f8021fa7378230) (2024), [Trustpilot](https://de.trustpilot.com/reviews/5f2ae88a1a5a6907a47b7a78)

@@ -582,7 +582,7 @@ If you register a simple business, it's still easy to do it yourself.
 
 If you have questions about this form, [ask a tax advisor](/guides/english-speaking-steuerberater-berlin) for help. They can fill this form for you. You can find one in our [list of English-speaking tax advisors in Berlin](/guides/english-speaking-steuerberater-berlin). If you can't afford a tax advisor, [Sorted](/out/sorted-fragebogen) can help you fill this form in English for free.
 
-**[Where ask business questions ➞](/guides/questions-about-berlin#business-questions)**
+**[Where ask business questions ➞](/guides/help#business-questions)**
 
 ## What to do next
 

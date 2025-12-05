@@ -60,7 +60,7 @@ Use my [health insurance recommendation tool](/tools/health-insurance-calculator
 - **[Find a cheaper apartment](/guides/find-a-flat-in-berlin)**  
     If you already have a place to live, you have more time to find something cheaper.
 
-**[Where to ask apartment questions ➞](/guides/questions-about-berlin#apartment-questions)**
+**[Where to ask apartment questions ➞](/guides/help#apartment-questions)**
 
 ### Utilities
 

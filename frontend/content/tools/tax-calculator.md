@@ -24,4 +24,4 @@ This tool calculates your German [net income](/glossary/Netto%20income) for {{ n
 
 **[Compare salaries in Germany ➞](/guides/salaries-in-germany)**
 
-**[Where to ask financial questions ➞](/guides/questions-about-berlin#financial-questions)**
+**[Where to ask financial questions ➞](/guides/help#financial-questions)**

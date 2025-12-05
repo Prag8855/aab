@@ -121,11 +121,11 @@ You can be a *Freiberufler* and a *Gewerbetreibender* at the same time. You migh
 
 If you are mostly in one category, it's okay if you do a little bit of the other category. It should not affect your status.
 
-If you are not sure, [ask for help](/guides/questions-about-berlin#business-questions).
+If you are not sure, [ask for help](/guides/help#business-questions).
 
 ## Need help?
 
-**[Where to ask business questions ➞](/guides/questions-about-berlin#business-questions)**
+**[Where to ask business questions ➞](/guides/help#business-questions)**
 
 [^1]: [§ 21 Abs. 1, 2a or 5 AufenthG](https://www.buzer.de/21_AufenthG.htm)
 [^2]: [§ 21 Abs. 4 and 5 AufenthG](https://www.buzer.de/21_AufenthG.htm), [Berlin.de](https://service.berlin.de/dienstleistung/326564/#:~:text=keine%20freiberufliche), [sachsen.de](https://www.zuwanderung.sachsen.de/SMI_Zuwanderung_Infoblatt_Selbststaendige.pdf) (page 9)

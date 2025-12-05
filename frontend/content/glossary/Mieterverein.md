@@ -11,7 +11,7 @@ Related_guides:
     guides/legal-insurance.md
     guides/housing-scams.md
     guides/find-a-flat-in-berlin.md
-    guides/questions-about-berlin.md
+    guides/help.md
 ---
 
 A tenant association (*Mieterverein* or *Mieterschutzverein*) gives legal assistance to renters.

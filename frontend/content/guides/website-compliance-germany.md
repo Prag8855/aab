@@ -297,7 +297,7 @@ Our tax number (*[[Steuernummer]]*) can be found in our [Impressum](/terms).
 
 ## Need help?
 
-**[Where to ask legal questions ➞](/guides/questions-about-berlin#legal-questions)**
+**[Where to ask legal questions ➞](/guides/help#legal-questions)**
 
 [^0]: [gruender.de](https://www.gruender.de/recht/dsgvo-cookie-law/), [cookiebot.com](https://www.cookiebot.com/en/cookie-consent/)
 [^1]: [techblog.bozho.net](https://techblog.bozho.net/tracking-cookies-gdpr/)

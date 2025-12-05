@@ -2,7 +2,7 @@
 Title: Where to find...
 Description: Guides for finding what you need in Berlin
 Related_guides:
-    guides/questions-about-berlin.md
+    guides/help.md
     guides/where-to-buy-what.md
     guides/how-do-i-buy-and-sell-used-things-in-berlin.md
     guides/english-cinemas-berlin.md

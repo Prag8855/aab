@@ -91,7 +91,7 @@ This article was not written to promote sharing copyrighted material without per
 
 ## Need help?
 
-**[Where to ask legal questions ➞](/guides/questions-about-berlin#legal-questions)**
+**[Where to ask legal questions ➞](/guides/help#legal-questions)**
 
 [^1]: [Finanztip](https://www.finanztip.de/abmahnung-filesharing/), [abmahnungs-abwehr.de](https://www.abmahnungs-abwehr.de/bezahlt-die-rechtsschutzversicherung/), [abmahnung-internet.de](https://www.abmahnung-internet.de/abmahnungen-rechtsschutzversicherung.htm)
 [^3]: [Wikipedia](https://en.wikipedia.org/wiki/Pornography_in_Germany)

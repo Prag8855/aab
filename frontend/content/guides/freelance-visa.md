@@ -357,7 +357,7 @@ An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocatio
 
 [German freelance visa help](https://www.facebook.com/groups/germanfreelancevisa/) is a useful Facebook group. People help each other with their freelance visa application.
 
-**[Where to ask immigration questions ➞](/guides/questions-about-berlin#immigration-questions)**
+**[Where to ask immigration questions ➞](/guides/help#immigration-questions)**
 
 [^1]: [Elliot Herman](https://www.sorted.berlin/) (October 2023), multiple relocation consultants (October 2023)
 [^2]: [Elliot Herman](https://www.sorted.berlin/) (December 2024)

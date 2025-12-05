@@ -170,7 +170,7 @@ Landlords often [try to scam](/guides/housing-scams#scams-by-landlords-and-tenan
 - or **get help from the [Mieterberatung](https://www.berlin.de/ba-mitte/politik-und-verwaltung/aemter/amt-fuer-buergerdienste/buergeraemter/artikel.244745.php)**  
     This is a free service from the city of Berlin. They might not speak English.
 
-**[Other ways to get help ➞](/guides/questions-about-berlin#apartment-questions)**
+**[Other ways to get help ➞](/guides/help#apartment-questions)**
 
 ### Lower your rent
 
@@ -274,7 +274,7 @@ Sometimes, your landlord will remove air in your radiators with an *[Entlüftung
 
 ## Need help?
 
-**[Where to ask apartment questions ➞](/guides/questions-about-berlin#apartment-questions)**
+**[Where to ask apartment questions ➞](/guides/help#apartment-questions)**
 
 [^0]: [mietrecht.org](https://www.mietrecht.org/mietkaution/schluessel-nach-kautionszahlung/)
 [^1]: [jurarat.de](https://jurarat.de/muendlicher-mietvertrag#:~:text=In%20K%C3%BCrze%3A-,ein%20mundlicher%20mietvertrag%20ist%20bindend,-und%20entsteht%20durch) (2022), [dahag.de](https://www.dahag.de/c/ebs/zivilrecht/begruendet-die-muendliche-zusage-einen-mietvertrag-4292) (2012), [movinga.com](https://web.archive.org/web/20240521140817/https://www.movinga.com/de/de/hub/muendlicher-mietvertrag/)

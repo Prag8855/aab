@@ -94,7 +94,7 @@ When you choose a Kita start date and a date to begin work, factor in several we
 
 ## Need help?
 
-**[Parenting resources and communities ➞](/guides/questions-about-berlin#parenting-questions)**
+**[Parenting resources and communities ➞](/guides/help#parenting-questions)**
 
 [^0]: [Berlin.de](https://www.berlin.de/sen/jugend/familie-und-kinder/kindertagesbetreuung/kostenbeteiligung/#:~:text=und%20Wahlfreiheit%20der-,eltern,-Der%20Abschluss%20eines), [Berlin.de](https://www.berlin.de/sen/jugend/familie-und-kinder/kindertagesbetreuung/kostenbeteiligung/#:~:text=Angemessene-,zuzahlungen,-bis%2040%20Euro) (December 2025)
 [^1]: [Berlin.de](https://www.berlin.de/sen/jugend/familie-und-kinder/kindertagesbetreuung/kostenbeteiligung/#:~:text=Ihr%20Kind%20ist-,beitragsfrei,-Die%20Betreuung%20in) (December 2025)

@@ -153,7 +153,7 @@ In other cities, threatening to sue the *Ausländerbehörde* can make things wor
 
 The immigration office does not give immigration advice. An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocation consultant](/guides/relocation-agency-in-berlin) can answer your questions. You can also get free advice from some organisations.
 
-**[Where to ask immigration questions ➞](/guides/questions-about-berlin#immigration-questions)**
+**[Where to ask immigration questions ➞](/guides/help#immigration-questions)**
 
 [^1]: [Berlin.de](https://www.berlin.de/einwanderung/ueber-uns/kontakt/formular.1261385.php) (December 2024)
 [^2]: [Berlin.de](https://www.berlin.de/einwanderung/ueber-uns/aktuelles/artikel.1473221.php) (August 2024)

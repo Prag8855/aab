@@ -53,7 +53,7 @@ You must list your business in the *Handelsregister*. You can ask for this when 
 
 ## Need help?
 
-**[Where to ask business questions ➞](/guides/questions-about-berlin#business-questions)**
+**[Where to ask business questions ➞](/guides/help#business-questions)**
 
 [^1]: [berlin.de](https://service.berlin.de/dienstleistung/327148/), [unternehmen24.info](https://www.unternehmen24.info/hr_DEU/HRA-HRB-handelsregister_DE.cfm)
 [^3]: [lexware.de](https://www.lexware.de/wissen/unternehmerlexikon/kleingewerbe/#:~:text=ein%20kleingewerbe%20kann%20ein), [fuer-gruender.de](https://www.fuer-gruender.de/wissen/unternehmen-gruenden/unternehmen-anmelden/handelsregister/#:~:text=wer%20ist%20gema%C3%9F%20rechtsform%20zum%20eintrag%20verpflichtet)

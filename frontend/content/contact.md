@@ -7,7 +7,7 @@ Date_created: 2022-01-27
 Hi, I'm [Nicolas](/about). You can contact me to…
 
 - **Ask a question**  
-    Please [ask the right people](/guides/questions-about-berlin) first. I get a lot of questions, but I can't answer everyone. I do not give legal or financial advice. I can't answer visa and residence permit questions.
+    Please [ask the right people](/guides/help) first. I get a lot of questions, but I can't answer everyone. I do not give legal or financial advice. I can't answer visa and residence permit questions.
 - **Give feedback**  
     Send me your fixes and suggestions. It makes my job much easier.
 - **Say thanks**  
@@ -21,7 +21,7 @@ Hi, I'm [Nicolas](/about). You can contact me to…
 
 ## Contact information
 
-I do not answer visa and residence permit questions, because I can't give legal advice. There are [other people who can help](/guides/questions-about-berlin#immigration-questions).
+I do not answer visa and residence permit questions, because I can't give legal advice. There are [other people who can help](/guides/help#immigration-questions).
 
 **Website owner**: [Nicolas Bouliane](/about)
 

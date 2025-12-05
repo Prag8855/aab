@@ -104,7 +104,7 @@ The type is written on your *Fiktionsbescheinigung* is written on it. It's the b
 
 ## Need help?
 
-**[Where to ask immigration questions ➞](/guides/questions-about-berlin#immigration-questions)**
+**[Where to ask immigration questions ➞](/guides/help#immigration-questions)**
 
 [^0]: [berlin.de](https://service.berlin.de/dienstleistung/326233/en/), [vonengelhardt.com](https://www.vonengelhardt.com/en/faq/22-entry/675-fiktionsbescheinigung)
 [^1]: Personal experience (2024)

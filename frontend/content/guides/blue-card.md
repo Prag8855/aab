@@ -290,7 +290,7 @@ If you have a Blue Card, you qualify for [permanent residence](/glossary/Niederl
 
 An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocation consultant](/guides/relocation-agency-in-berlin) can answer your questions. Some organisations can also help you for free. Your employer might offer help.
 
-**[Where to ask immigration questions ➞](/guides/questions-about-berlin#immigration-questions)**
+**[Where to ask immigration questions ➞](/guides/help#immigration-questions)**
 
 [^1]: [Elliot Herman](https://www.sorted.berlin/) (October 2023), multiple relocation consultants (October 2023)
 [^2]: [Berlin.de](https://service.berlin.de/dienstleistung/324659/en/), [Business Immigration Service](https://www.berlin.de/einwanderung/_assets/20210506_anlage1_checkliste-bis_extern.pdf)

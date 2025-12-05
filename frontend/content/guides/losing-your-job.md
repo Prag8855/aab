@@ -293,7 +293,7 @@ If you need help, hire an employment lawyer (*Anwalt für Arbeitsrecht*). In Ger
 
 **[English-speaking lawyers in Berlin ➞](/guides/english-speaking-lawyers-berlin)**
 
-**[Other ways to get help ➞](/guides/questions-about-berlin#work-questions)**
+**[Other ways to get help ➞](/guides/help#work-questions)**
 
 [^1]: [Andreas Martin](https://rechtsanwalt-arbeitsrecht-in-berlin.de/) (July 2025)
 [^2]: [§ 626 BGB](https://www.buzer.de/626_BGB.htm)

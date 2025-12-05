@@ -184,7 +184,7 @@ Freelancers usually charge higher prices for short contracts. Longer contracts a
 
 Ask freelancers in your field how they work. Some industries organise [meetups](https://www.meetup.com/) and presentations for freelancers. It's a good place to learn how the industry works.
 
-**[Where to ask business questions ➞](/guides/questions-about-berlin#business-questions)**
+**[Where to ask business questions ➞](/guides/help#business-questions)**
 
 ### Find a tax advisor
 
@@ -310,7 +310,7 @@ A financial advisor can help you choose a pension. Usually, they are paid by com
 There are tools that make it easier:
 
 - **Tax registration**  
-    Your [tax advisor](/glossary/Steuerberater) can register your business for you. [Sorted's registration tool](/out/sorted-fragebogen) lets you do it in English. There are [people who can help you](/guides/questions-about-berlin#business-questions), even in English.
+    Your [tax advisor](/glossary/Steuerberater) can register your business for you. [Sorted's registration tool](/out/sorted-fragebogen) lets you do it in English. There are [people who can help you](/guides/help#business-questions), even in English.
 - **Accounting**  
     Your tax advisor can do your accounting. Tax software like [Accountable](/out/accountable), [Lexware Office](/out/lexoffice) and [Sorted](/out/sorted-taxes) help with invoicing and VAT reporting. Accountable and Sorted are in English. Some banks like [Kontist](/out/kontist), [Holvi](/out/holvi) and [Qonto](/out/qonto) also make your bookkeeping easier.
 - **Speaking German**  
@@ -318,7 +318,7 @@ There are tools that make it easier:
 
 **[English-speaking tax advisors in Berlin ➞](/guides/english-speaking-steuerberater-berlin)**
 
-**[Where to ask business questions ➞](/guides/questions-about-berlin#business-questions)**
+**[Where to ask business questions ➞](/guides/help#business-questions)**
 
 [^0]: [Screenshot](/images/steuerberater-business-bank-account-question.png)
 [^1]: Sebastian Hoffmann from [Touring Artists](https://www.touring-artists.info/en/home) (January 2025), personal experience (2017)

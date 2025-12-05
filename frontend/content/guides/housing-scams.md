@@ -119,7 +119,7 @@ Landlords need a valid reason to end your lease and kick you out. Personal use (
 
 Landlords often use fake *Eigenbedarf* to kick tenants out. Instead of moving in, they sell the empty apartment for a higher price, or raise the rent and find another tenant.[^46] This is illegal.
 
-If this happens to you, [get legal help](/guides/questions-about-berlin#apartment-questions).[^47] You can usually stop it, delay it, or get paid to move out.
+If this happens to you, [get legal help](/guides/help#apartment-questions).[^47] You can usually stop it, delay it, or get paid to move out.
 
 ### Separate rent for the cellar
 
@@ -191,7 +191,7 @@ Signs of a scam:
 
 Ask *[[Mieterverein]]* or a lawyer to verify your lease. [Red Tape Translation](/out/red-tape-translation-lease) can translate and summarise your lease.
 
-**[Where to get legal help ➞](/guides/questions-about-berlin#apartment-questions)**
+**[Where to get legal help ➞](/guides/help#apartment-questions)**
 
 If your rent is too high, a *[[Mieterverein]]*, [Conny](/out/conny-mietpreisbremse) or a lawyer can help you lower it. Your landlord can't kick you out because you lowered your rent.
 
@@ -238,7 +238,7 @@ You can also [report scams to the police](https://www.bka.de/DE/KontaktAufnehmen
 
 ## Need help?
 
-**[Where to ask apartment questions ➞](/guides/questions-about-berlin#apartment-questions)**
+**[Where to ask apartment questions ➞](/guides/help#apartment-questions)**
 
 [^1]: [Capital.de](https://www.capital.de/immobilien/wann-mieter-moebel-uebernehmen-muessen-und-wann-nicht#:~:text=wer%20sich%20weigert%2C%20wird%20in%20der%20regel%20nicht%20als%20nachmieter%20vorgeschlagen) (2021), [mietercoach.de](https://mietercoach.de/2016/06/02/ueberhoehte-abloesezahlungen-lassen-sie-sich-nicht-vom-vormieter-abzocken/), [rtl.de](https://www.rtl.de/cms/wie-sich-nachmieter-gegen-die-fiese-abloese-abzocke-wehren-koennen-4297117.html), [faz.net](https://www.faz.net/aktuell/wirtschaft/wohnen/horrende-abstandszahlungen-mieter-zocken-mieter-ab-15025709.html), [Reddit](https://old.reddit.com/r/wohnen/comments/18rfw5t/abl%C3%B6se_von_20000_abl%C3%B6se_von_12000_aus_dem_post/)
 [^2]: [Berliner Mieterverein](https://www.berliner-mieterverein.de/recht/infoblaetter/info-4-wohnungsmakler-und-bestellerprinzip-mieter-muessen-nur-noch-in-ausnahmefaellen-die-maklerkosten-zahlen.htm#9-Was-sollten-Sie-tun-wenn-Sie-eine-ueberhoehte-oder-unzulaessige-Provision-zahlen-mussten), [anwalt-arbeitsrecht-dresden.de](https://www.anwalt-arbeitsrecht-dresden.de/rechts-infos/provision-fuer-wohnungsvermittlung#:~:text=hat%20der%20mietinteressent%20die%20vermittlungsprovision%20bereits%20gezahlt)

@@ -17,6 +17,6 @@ Date_created: 2025-09-13
 
 ## Need help?
 
-**[Where to ask immigration questions ➞](/guides/questions-about-berlin#immigration-questions)**
+**[Where to ask immigration questions ➞](/guides/help#immigration-questions)**
 
 **[If your visa or residence permit expires ➞](/guides/residence-permit#if-your-visa-or-residence-permit-expires)**

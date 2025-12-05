@@ -56,8 +56,8 @@ When you are an employee, health insurance is taken from your paycheck. When you
 
 ## Need help?
 
-**[Where to ask immigration questions ➞](/guides/questions-about-berlin#immigration-questions)**
+**[Where to ask immigration questions ➞](/guides/help#immigration-questions)**
 
-**[Where to ask business questions ➞](/guides/questions-about-berlin#business-questions)**
+**[Where to ask business questions ➞](/guides/help#business-questions)**
 
 [^2]: [juraforum.de](https://www.juraforum.de/lexikon/nebengewerbe-anmelden#genehmigung-arbeitgeber-nebengewerbe-muster-fuer-arbeitnehmer)

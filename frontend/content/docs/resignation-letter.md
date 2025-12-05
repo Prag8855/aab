@@ -84,7 +84,7 @@ Keep a copy of your resignation letter. The *[[Agentur für Arbeit]]* asks for i
 
 **[English-speaking lawyers in Berlin ➞](/guides/english-speaking-lawyers-berlin)**
 
-**[Other ways to get help ➞](/guides/questions-about-berlin#work-questions)**
+**[Other ways to get help ➞](/guides/help#work-questions)**
 
 [^1]: [§ 623 BGB](https://www.buzer.de/623_BGB.htm), [roberthalf.de](https://www.roberthalf.de/unsere-zusammenarbeit/news-info-center/karriere-tipps/arbeitsrecht/kuendigung)
 [^2]: Interview with an unemployed person (July 2023)

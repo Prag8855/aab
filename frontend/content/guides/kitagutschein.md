@@ -105,7 +105,7 @@ Your *Kitagutschein* is valid for any *Kita* in Berlin. You have 7 months to [fi
 
 ## Need help?
 
-**[Parenting resources and communities ➞](/guides/questions-about-berlin#parenting-questions)**
+**[Parenting resources and communities ➞](/guides/help#parenting-questions)**
 
 [^0]: [bz-berlin.de](https://www.bz-berlin.de/archiv-artikel/berliner-eltern-haben-bald-anspruch-auf-sieben-stunden-kita-betreuung)
 [^1]: [berlin.de](https://service.berlin.de/dienstleistung/324879/)

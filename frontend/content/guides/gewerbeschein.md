@@ -160,7 +160,7 @@ You can also ask a [tax advisor](/guides/english-speaking-steuerberater-berlin) 
 
 ## Need help?
 
-**[Where to ask business questions ➞](/guides/questions-about-berlin#business-questions)**
+**[Where to ask business questions ➞](/guides/help#business-questions)**
 
 ## What to do next
 

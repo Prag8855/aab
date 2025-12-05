@@ -40,7 +40,7 @@ A relocation agency can help you...
 
 **[Find an immigration lawyer ➞](/guides/english-speaking-lawyers-berlin)**
 
-**[Other people who can help ➞](/guides/questions-about-berlin)**
+**[Other people who can help ➞](/guides/help)**
 
 ## List of relocation agencies
 

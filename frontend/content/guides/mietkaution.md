@@ -116,11 +116,11 @@ If you don't get your deposit back, send a request by [registered mail](/glossar
 
 If that does not work, get help from your [tenant association](/glossary/Mieterverein) or a [lawyer](/guides/english-speaking-lawyers-berlin). Your [legal insurance](/glossary/Rechtsschutzversicherung) might cover the cost of a lawyer.
 
-**[Where to get help ➞](/guides/questions-about-berlin#apartment-questions)**
+**[Where to get help ➞](/guides/help#apartment-questions)**
 
 ## Need help?
 
-**[Where to ask apartment questions ➞](/guides/questions-about-berlin#apartment-questions)**
+**[Where to ask apartment questions ➞](/guides/help#apartment-questions)**
 
 ## What to do next
 

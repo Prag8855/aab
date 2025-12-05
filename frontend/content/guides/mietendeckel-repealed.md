@@ -123,7 +123,7 @@ This means that if you don't return the money you saved with the *Mietendeckel*,
 
 ## Where can I get help?
 
-**[Where to ask apartment questions ➞](/guides/questions-about-berlin#apartment-questions)**
+**[Where to ask apartment questions ➞](/guides/help#apartment-questions)**
 
 [^0]: [Wikipedia](https://de.wikipedia.org/wiki/Mietendeckel), [mietendeckel.berlin.de \(archived\)](https://web.archive.org/web/20220701084703/https://mietendeckel.berlin.de/pressemitteilung/210420/)
 [^1]: [rbb24.de](http://web.archive.org/web/20211222114401/https://www.rbb24.de/politik/beitrag/2021/04/fragen-antworten-mietendeckel-aus-nachzahlungen.html)

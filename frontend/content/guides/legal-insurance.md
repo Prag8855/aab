@@ -121,7 +121,7 @@ With legal insurance, you don't care. The insurance pays for everything. **You c
 
 You can also call a lawyer just to ask a few questions.[^23] Some legal insurances cover checking a contract before you sign it.[^42] This is useful if you have a German contract, but you don't speak German. You can solve problems before they happen. **If you talk to a lawyer once or twice per year, it's already worth it.**
 
-If you don't need full legal insurance, look at [cheaper options](/guides/questions-about-berlin#legal-questions) like tenant associations (*[[Mieterverein]]*) or legaltech like [Conny](/out/conny).
+If you don't need full legal insurance, look at [cheaper options](/guides/help#legal-questions) like tenant associations (*[[Mieterverein]]*) or legaltech like [Conny](/out/conny).
 
 ## How to choose legal insurance
 
@@ -183,7 +183,7 @@ If you don't speak German, [Feather](/out/feather-rechtsschutz) and [Getsafe](/o
 
 ## Alternatives to legal insurance
 
-**[Where to ask legal questions ➞](/guides/questions-about-berlin#legal-questions)**
+**[Where to ask legal questions ➞](/guides/help#legal-questions)**
 
 For apartment problems, join a tenant association (*[[Mieterverein]]*). [Conny](/out/conny-mietpreisbremse) can help you lower your rent. [Mineko](https://www.mineko.de/) can check your [utilities bill](/glossary/Betriebskostenabrechnung).
 

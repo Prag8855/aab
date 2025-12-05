@@ -484,7 +484,7 @@ If you leave Germany with an expired residence permit, they might not let you re
 
 An [immigration lawyer](/guides/english-speaking-lawyers-berlin) or a [relocation consultant](/guides/relocation-agency-in-berlin) can take care of your residence permit application. It costs €500 to €2,000.[^14] Your employer might pay for it, or hire someone to help you. Some organisations can also help you for free.
 
-**[Where to ask immigration questions ➞](/guides/questions-about-berlin#immigration-questions)**
+**[Where to ask immigration questions ➞](/guides/help#immigration-questions)**
 
 [^0]: [Wikipedia](https://en.wikipedia.org/wiki/European_Free_Trade_Association#Travel_policies)
 [^1]: [berlin.de](https://service.berlin.de/dienstleistung/324287/en/), [arbeitsagentur.de](https://www.arbeitsagentur.de/fuer-menschen-aus-dem-ausland/voraussetzungen-arbeiten-in-deutschland)

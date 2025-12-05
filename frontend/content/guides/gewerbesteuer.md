@@ -66,7 +66,7 @@ If you have a high income, the *Finanzamt* can request advance tax payments (*Vo
 
 When you [start a business in Germany](/guides/start-a-business-in-germany), you should [hire a tax advisor](/guides/english-speaking-steuerberater-berlin) (*[[Steuerberater]]*). They can help you [register your business](/guides/fragebogen-zur-steuerlichen-erfassung), file your taxes, and solve other tax problems.
 
-**[Where to ask business questions ➞](/guides/questions-about-berlin#business-questions)**
+**[Where to ask business questions ➞](/guides/help#business-questions)**
 
 [^1]: [Berlin.de](https://service.berlin.de/dienstleistung/325333/)
 [^3]: [blog.consultinghouse.eu](https://blog.consultinghouse.eu/compliance/a-guide-to-the-german-trade-tax)

@@ -162,7 +162,7 @@ After you get the job offer, you can negotiate a better salary. You can also ask
 
 Read your job contract carefully. If your employer promised something to you during the interview, verify that it's in your contract. Only sign the contract if you agree with everything. Send the signed contract by email or [by post](/guides/mail-a-letter).
 
-If you are not sure about your contract, [ask for help](/guides/questions-about-berlin#legal-questions) or [talk to a lawyer](/guides/english-speaking-lawyers-berlin).
+If you are not sure about your contract, [ask for help](/guides/help#legal-questions) or [talk to a lawyer](/guides/english-speaking-lawyers-berlin).
 
 ## 5. Get a residence permit
 
@@ -226,7 +226,7 @@ If you started working in the middle of the year, you probably paid too much [sa
 
 ## Need help?
 
-**[Where to get help about work ➞](/guides/questions-about-berlin#work-questions)**
+**[Where to get help about work ➞](/guides/help#work-questions)**
 
 ### Career coaching
 

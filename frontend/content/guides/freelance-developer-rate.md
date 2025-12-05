@@ -90,7 +90,7 @@ If you say that you charge €500 per day, your client will expect to pay €500
 
 ## Need help?
 
-**[Where to ask business questions ➞](/guides/questions-about-berlin#business-questions)**
+**[Where to ask business questions ➞](/guides/help#business-questions)**
 
 [^1]: [kontist.com](https://kontist.com/en/posts/charging-as-a-freelancer/)
 [^2]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/9mdenm/how_much_should_a_freelance_developer_earn_in/)

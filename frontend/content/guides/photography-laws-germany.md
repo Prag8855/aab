@@ -108,7 +108,7 @@ You can film the police, but you should not share the photos or videos without p
 
 ## Need help?
 
-**[Where to ask legal questions ➞](/guides/questions-about-berlin#legal-questions)**
+**[Where to ask legal questions ➞](/guides/help#legal-questions)**
 
 ## Legal references
 

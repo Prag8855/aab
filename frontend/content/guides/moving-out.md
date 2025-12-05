@@ -205,7 +205,7 @@ Your landlord can use your *Kaution* to repair things that you broke. For exampl
 
 If your landlord tries to scam you, get help from your [tenants' association](/glossary/Mieterverein) or a [lawyer](/guides/english-speaking-lawyers-berlin). If you have [legal insurance](/glossary/Rechtsschutzversicherung), it will cover the cost of a lawyer.
 
-**[Where to get help ➞](/guides/questions-about-berlin#apartment-questions)**
+**[Where to get help ➞](/guides/help#apartment-questions)**
 
 ## Get a Mietschuldenfreiheitsbescheinigung
 
@@ -247,7 +247,7 @@ Your landlord can refuse to give you a *Mietschuldenfreiheitsbescheinigung*. Som
 
 ## Need help?
 
-**[Where to ask apartment questions ➞](/guides/questions-about-berlin#apartment-questions)**
+**[Where to ask apartment questions ➞](/guides/help#apartment-questions)**
 
 [^0]: [§ 573c Abs. 1 BGB](https://www.buzer.de/573c_BGB.htm), [mieterengel.de](https://mieterengel.de/kuendigungsfrist-wohnung/#Anchor1)
 [^1]: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_bgb/englisch_bgb.html#p2289), [ratgeber.immowelt.de](https://ratgeber.immowelt.de/a/auszug-aus-der-mietwohnung-kuendigungsfristen-nicht-vergessen.html#targetText=In%20den%20meisten%20F%C3%A4llen%3A%20drei%20Monate%20K%C3%BCndigungsfrist&targetText=Genauer%3A%20Die%20K%C3%BCndigung%20muss%20sp%C3%A4testens,das%20Mietverh%C3%A4ltnis%20am%2031.%20Juli.)

@@ -84,13 +84,13 @@ To add a lawyer, [fill this form](/suggest-business).
 - **Your university**  
     Universities often cheap legal advice for students.[^1]
 
-**[Where to get legal help ➞](/guides/questions-about-berlin#legal-questions)**
+**[Where to get legal help ➞](/guides/help#legal-questions)**
 
 ### Apartment questions
 
 There are many ways to get free legal help for housing. You should join a *[[Mieterverein]]* before you need it.
 
-**[Where to ask housing questions ➞](/guides/questions-about-berlin#legal-questions)**
+**[Where to ask housing questions ➞](/guides/help#legal-questions)**
 
 ## Other lists of lawyers
 

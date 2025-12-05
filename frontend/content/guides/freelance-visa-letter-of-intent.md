@@ -92,7 +92,7 @@ Be careful when you translate your letter of intent to German. Translation error
 
 ## Need help?
 
-**[Where to ask immigration questions ➞](/guides/questions-about-berlin#immigration-questions)**
+**[Where to ask immigration questions ➞](/guides/help#immigration-questions)**
 
 [^1]: [Facebook](https://www.facebook.com/groups/berlinfreelancers/permalink/1331291103617937/), [essentialpackingchecklists.com](https://www.essentialpackingchecklists.com/german-freelance-visa-letters-of-intent-to-hire/), [medium.com](https://medium.com/betahaus/how-i-got-the-german-freelance-visa-in-berlin-in-april-2017-d35e6d4837d4)
 [^2]: [Medium](https://medium.com/betahaus/how-i-got-the-german-freelance-visa-in-berlin-in-april-2017-d35e6d4837d4#:~:text=by%20joining%20coworking%20spaces) (2017)
