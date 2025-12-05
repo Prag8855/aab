@@ -124,7 +124,7 @@ Start with [visitBerlin.de](https://www.visitberlin.de/en), [WikiVoyage](https:/
 - **[Brandenburg Gate](https://goo.gl/maps/pJvVaLRLvsHyYg5S6)** (*Brandenburger Tor*)  
     The iconic gate on Berlin's East-West axis.
 - **[Christmas markets](https://www.visitberlin.de/en/christmas-markets-berlin)**  
-    In November and December, you can visit Berlin's Christmas markets. There are dozens of them. Many are in scenic locations. There are dozens of kiosks that sell hot drinks, food, sweets and home-made goods. The Christmas markets are open from the middle of November to the end of December.
+    From mid-November to the end December, you should visit the Christmas markets. They sell hot drinks, food, sweets and home-made goods. Use [this map](https://weihnachtsmaerkte.odis-berlin.de/?id=&lang=en) to discover them.
 - **[East Side Gallery](https://goo.gl/maps/R18gdTWvTqdSxHqn7)**  
     A long mural painted directly on the Berlin wall.
 - **[Flea markets](https://www.visitberlin.de/en/flea-markets)**  
