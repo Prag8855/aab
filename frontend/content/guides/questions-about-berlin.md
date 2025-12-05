@@ -150,6 +150,23 @@ Don't be afraid to use a lawyer. Your employer can't fire you or blacklist you b
 - [Starting your own business](http://www.existenzgruender.de/EN/Home/inhalt.html) - An official resource from the Ministry of Economic Affairs
 - [List of official resources](https://www.existenzgruender.de/SharedDocs/Downloads/EN/Checklisten-Uebersichten/7_overview-Other-links-in-foreign-languages.pdf?__blob=publicationFile) (in German)
 
+## Parenting questions
+
+### Parenting communities
+
+- [International Families Berlin](https://www.facebook.com/groups/InternationalFamiliesBerlin/)
+- [ExpatBabies Berlin](https://www.facebook.com/groups/107498526067436/)
+- [Expatkids Berlin](https://www.facebook.com/groups/844609522248598/?ref=br_rs)
+- [Kita in Berlin](https://www.facebook.com/groups/251699101959498/?ref=gysj)
+- [Expat parent-toddler playgroup Berlin](https://www.facebook.com/groups/expatbabiesmothertoddler/)
+
+### Paid services
+
+- [Baby in Berlin](https://babyinberlin.com/)
+- [Julia Zehavi](http://www.familyrelocation.de)
+- [Kietzee](https://www.kietzee.com/en)
+- [Relocation consultants](/guides/relocation-agency-in-berlin) help you with the bureaucracy of parenting
+
 ## Ask me
 
 Write to <contact@allaboutberlin.com>. I can't answer every question, but I can point you in the right direction. Please do some research first.

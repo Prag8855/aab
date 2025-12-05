@@ -7,91 +7,117 @@ Related_reviews:
     reviews/how-to-get-a-kitagutschein/lisa-hübner-moreno.md
 ---
 
-A *[[Kitagutschein]]* is a voucher that provides your child with free childcare in Berlin. A number of factors determine your child’s eligibility for a *Kitagutschein.* Childcare in a *Kita* is free for all children. However, you must still apply for a *Kitagutschein*. You may also need to pay extra costs to the *Kita* for food, outings, and special events.
+To send your child to the *[[Kita]]*, you need a *[[Kitagutschein]]*. It's a voucher for free childcare.
 
 {% include "_blocks/tableOfContents.html" %}
 
 ## Who can get a Kitagutschein?
 
-You can apply for a *Kitagutschein* for any child that...
+Your child can get a *Kitagutschein* if they...
 
-- ...lives in Berlin
-- ...is [registered](/glossary/Anmeldung) in Berlin
-- ...is not old enough to go to school
+- Live in Berlin
+- Are [registered](/glossary/Anmeldung) in Berlin
+- Are not old enough to go to [elementary school](/glossary/Grundschule)
 
-Children can go to the *Kita* for up to 9 hours for free. It depends on their age.
+Children get free *Kita* for up to 9 hours per day. It depends on their age, and on the parents' situation.
 
-- **Children under 1 year old** can go to *Kita* or have a nanny (*Tagesmutter*) for a 4 to 5 hours per day. This is called half days or *halbtags* childcare. You must prove that your child requires it. You can do this by showing your work contract or freelance work commitments. Children who live in homeless shelters or collective housing can also get *halbtags* care.
-- **Children over 1 year old** get 5 to 9 free *Kita* hours per day.[^0]
-    - **By default**, children over 1 year old get 5 to 7 *Kita* hours per day. This is called part-time or *teilzeit* childcare.
-    - **If both parents are working, studying or in training**, they get 7 to 9 *Kita* hours per day. This is called full time or *ganztags* childcare. If only one parent is working, studying or in training, they only get *teilzeit* childcare.
+- **Under 1 year old**  
+    Your child can go to *Kita* or have a nanny (*Tagesmutter* or *Kindertagespflege*) for 4 to 5 hours per day. This is called half days (*halbtags*) childcare. You must prove that you need childcare with a work contract or freelance contracts. Children who live in homeless shelters or collective housing can also get *halbtags* care. Some Kitas don't accept children under 1 year old.[^5]
+- **Over 1 year old**  
+    Your child can go to *Kita* for 5 to 9 free hours per day.[^0] It depends on your situation:
+    - **Full-time** (*ganztags*)  
+        If *both* parents are work or study, your child can go to *Kita* 7 to 9 hours per day. You must prove that this is necessary.[^11]
+    - **Part-time** (*teilzeit*)  
+        By default, your child can go to *Kita* for 5 to 7 hours per day.
 
-If you want your child to spend more hours at the *Kita* than allowed, you must prove that your working hours make it necessary.[^1] If you work situation changes, you can apply for more *Kita* hours later.
+You can get more *Kita* time, but you must prove that it's necessary.[^1] If you work situation changes, you can apply for more *Kita* hours later.
 
 ## Cost of a Kitagutschein
 
-The *Kitagutschein* is free for everyone. However, some Kitas will charge extra for meals and activities. You can find more details about *Kita* costs [here](/guides/how-to-find-a-kita-in-berlin#cost-of-kita). Typically, you will pay around €23 per month for meals, and €60 to €90 per month for activities.
+In Germany, childcare is **free for everyone**. Some Kitas charge extra for meals and activities. The maximum cost is €100 per month.
+
+**[Cost of childcare in Germany ➞](/guides/how-to-find-a-kita-in-berlin#daycare-costs)**
 
 ## When to apply for a Kitagutschein
 
-You need to apply for the *Kitagutschein* **from 2 to 9 months before your desired start date**.[^2] Your child must be at least 8 weeks old.[^2]
+You must apply **2 to 9 months before your start date**. Your child must be at least 8 weeks old.[^2]
 
-It takes 6 to 8 weeks to get a *Kitagutschein*. It's valid for 3 months after you sign a contract with the *Kita*.[^3]
+It takes 6 to 8 weeks to get a *Kitagutschein*.[^3]
 
-## 1. Apply online or by post
+### How to apply
 
-There are two ways to apply for a *Kitagutschein*: **online**, or **by post**.
+### 1. Fill the application form
 
-### Apply online
+**[Fill the form online](https://liste-antraege.bda.service.berlin.de/intelliform/forms/default/bda/SenBJF/Kita/index)**, print it, and sign it.
 
-You can apply for a *Kitagutschein* online. It takes less than 30 minutes. You can fill the form online, but you must send it by post.[^4]
+### 2. Mail your documents
 
-- **[Apply for a Kitagutschein online](https://fms.verwalt-berlin.de/kita/frm/main?execution=e1s1)** with a [Berlin Service Account](/guides/service-konto-berlin)
-- **[Apply for a Kitagutschein](https://fms.verwalt-berlin.de/kita/frm/main?execution=e1s1)** without a Berlin Service Account
+Mail your application documents to [your local *Jugendamt*](https://service.berlin.de/dienstleistung/324873/#service_locationlist_checkboxgroup). Choose the *Jugendamt* where you live, not where your child goes to *Kita*.[^7]
 
-When you apply online, you must enter information about your child, your household and your work schedule. The form give the child’s name and birthdate, the date you want them to start *Kita* from, whether your household is German-speaking, and how many hours you need per day (4-5 hours, 5-7 hours, etc.). You must also enter information about your work situation, such as whether you are working full time, if you are self-employed, or studying.
+Send these documents with your application :[^4]
 
-### Apply by post
+- [ ] **[Application form](#fill-the-application-form)**  
+    It must be signed by both parents[^9]
+- [ ] **Proof of identity**
+    - [ ] Copy of passport or *[[Personalausweis]]*
+        - [ ] For the child
+        - [ ] *and* for both parents
+    - [ ] *and* copy of your child's birth certificate
+- [ ] **Proof that you live in Berlin**  
+    A *[Meldebescheinigung](/glossary/Anmeldebest%C3%A4tigung)*. Your child's name must be on it.
 
-If you can't apply online, you can print the [*Anmeldung zur Förderung von Kindern* form](http://www.berlin.de/sen/bjf/service/formulare/anmeldung_zur_forderung_von_kindern_in_tageseinrichtungen.pdf), fill it and mail it to [your local *Bezirksamt*](https://service.berlin.de/dienstleistung/324873/#:~:text=Meldebescheinigung%20beantragen-,zustandige%20behorden,-Zust%C3%A4ndig%20ist%20das).
+If only one parent applies, you also need...
 
-You must give the same information as when you apply online. You must include these documents:[^2]
+- [ ] **Power of attorney** (*[[Vollmacht]]*)  
+    If one parent applies for both parents
+- [ ] *or* **Negativbescheinigung**  
+    If you have sole custody of your child. You can get it from the *Jugendamt*.[^6]
 
-- [ ] A scan of your passport or citizenship card
-- [ ] A scan of your child's passport or citizenship card
-- [ ] A copy of your child's birth certificate
-- [ ] A copy of your child's care contract (foster children only)
-- [ ] Your [Meldebestätigung](/glossary/Anmeldebest%C3%A4tigung). Your child's name should also be on it.
-- [ ] Your work contract (if you want to prove that you need more *Kita* hours than allowed)
-- [ ] A *[[Vollmacht]]* (if one parent applies on behalf of the other parent)
+If you apply for more *Kita* hours, you also need...[^10]
 
-If your documents are not in German, you might need a [certified translation](/glossary/beglaubigte%20Übersetzung). Use [Red Tape Translation](/out/red-tape-translation-certified) or [Lingoking](/out/lingoking).
+- [ ] **Proof of employment**  
+    An *[[Arbeitgeberbescheinigung]]*, or a letter from your employer that confirms your working hours. You can use [this template](https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/aemter/jugendamt/kindertages-betreuung/bescheinigung-erwerbstaetigkeit.pdf?ts=1759136839).
+- [ ] *or* **proof of self-employment**  
+    A *[[Gewerbeschein]]*, documents from the *[[Finanzamt]]*, or a letter from your [tax advisor](/glossary/Steuerberater).
+- [ ] *or* **proof of studies**  
+    An enrolment letter from your school.
+- [ ] *and* **Elterngeldbescheid**[^13]
 
-**[How to mail a letter](/guides/mail-a-letter)** — from your computer, without a printer
+If your documents are not in German, get [certified translations](/glossary/beglaubigte%20Übersetzung) from [Red Tape Translation](/out/red-tape-translation-certified) or [Lingoking](/out/lingoking).
 
-### Applying at the Jugendamt
+You can also deliver the documents in person. When you apply in person, you get a receipt. While you wait for your *Kitagutschein*, use this receipt to apply for *Kitas*.
 
-You can also apply in person at your local *Jugendamt*. When you apply in person, they give you a receipt. You can show this receipt to the *Kitas* until you get a *Kitagutschein*.[^3]
+You can *sometimes* email the documents. For example, Jugendamt Friedrichshain-Kreuzberg accepts emails.[^12]
 
-## 2. Receive your Kitagutschein
+**[How to mail a letter ➞](/guides/mail-a-letter)**
 
-You can choose to get the *Kitagutschein* by post or by email. **You will get it 6 to 8 weeks after you apply**.[^2] **It will be valid for 3 months**.[^3] The *Kitagutschein* states how many hours your child is entitled to, and includes information about the legal basis for the voucher.
+### 3. Get your Kitagutschein
 
-Give a copy of your *Kitagutschein* to the *Kita*. The *Kita* will tell the State.
+**6 to 8 weeks** later, you will get your *Kitagutschein* by post or email.[^3] It shows when you can send your child to the *Kita*, and for how many hours.
 
-## 3. Look for a Kita
+[![Important information on your Kitagutschein](/images/berlin-kitagutschein.png)](/images/berlin-kitagutschein-details.png)
 
-Start searching as soon as possible. Do not wait for your *[[Kitagutschein]]* to start searching.[^5] This is the hardest part of the process.
+### 4. Find a Kita
+
+Your *Kitagutschein* is valid for any *Kita* in Berlin. You have 7 months to [find a *Kita*](/guides/how-to-find-a-kita-in-berlin) before your *Kitagutschein* expires.[^8]
 
 **[How to find a Kita in Berlin ➞](/guides/how-to-find-a-kita-in-berlin)**
 
 ## Need help?
 
-**[Where to find help ➞](/guides/how-to-find-a-kita-in-berlin#need-help)**
+**[Parenting resources and communities ➞](/guides/questions-about-berlin#parenting-questions)**
 
 [^0]: [bz-berlin.de](https://www.bz-berlin.de/archiv-artikel/berliner-eltern-haben-bald-anspruch-auf-sieben-stunden-kita-betreuung)
 [^1]: [berlin.de](https://service.berlin.de/dienstleistung/324879/)
-[^2]: [berlin.de](https://service.berlin.de/dienstleistung/324873/)
-[^3]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/9f6zi4/how_to_find_a_kita_in_berlin_do_you_have_any_tips/e5usgrt/)
-[^4]: [kietzee.com](https://www.kietzee.com/blog/kita-gutschein-cheat-sheet)
-[^5]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/7d21nh/kita_pl%C3%A4tze_in_berlim/dpuip98/)
+[^2]: [Berlin.de](https://service.berlin.de/dienstleistung/324873/#:~:text=Online-Ausf%C3%BCllhilfe%20nutzen-,voraussetzungen,-Wohnsitz%20in%20Berlin) (December 2025)
+[^3]: [Berlin.de](https://service.berlin.de/dienstleistung/324873/#:~:text=Durchschnittliche-,bearbeitungszeit,-6%20bis%208), [Berlin.de](https://service.berlin.de/dienstleistung/324873/#:~:text=sie%20erhalten%20ihren%20kita-gutschein%20per%20post.) (December 2025)
+[^4]: [Kietzee](https://www.kietzee.com/blog/kita-gutschein-how-to#:~:text=dafur%20musst%20du%20nur%20die%20folgenden%20unterlagen) (April 2025)
+[^5]: [Reddit](https://old.reddit.com/r/berlinsocialclub/comments/1nk64ej/what_to_do_with_a_baby_until_kita_starts/) (2025). [Reddit](https://old.reddit.com/r/askberliners/comments/1i8g6ow/kita_at_6_months_so_i_can_learn_german/#:~:text=you%20won't%20get%20a%20place%20for%20a%20child%20that%20young) (2025)
+[^6]: Email from Jugendamt Friedrichshain-Kreuzberg (December 2025)
+[^7]: [Berlin.de](https://service.berlin.de/dienstleistung/324873/#:~:text=zustandig%20ist%20immer%20das%20jugendamt%20ihres%20wohnbezirks) (December 2025)
+[^8]: [§ 5 Abs. 2 S. 4 VOKitaFöG](https://gesetze.berlin.de/bsbe/document/jlr-KitaF%C3%B6GVBEV9P5), [Berlin.de](https://www.berlin.de/jugendamt-pankow/dienste-und-leistungen/fd5/artikel.1340954.php#:~:text=bis%20zu%207%20monate%20nach%20bewilligung%20gultig) (December 2025), [Berlin.de](https://www.berlin.de/sen/jugend/familie-und-kinder/kindertagesbetreuung/kindertagespflege/#:~:text=da%20der%20kita-gutschein%20berlinweit%20gultig%20ist) (December 2025)
+[^9]: [Kietzee](https://www.kietzee.com/de/blog/kita-gutschein-how-to#:~:text=dass%20alle%20erziehungsberechtigten%20das%20formular%20unterschreiben) (April 2025)
+[^10]: [Kietzee](https://www.kietzee.com/de/blog/kita-gutschein-how-to#:~:text=dazu%20gehoren%20je%20nach%20deiner%20situation%20die%20folgenden%20unterlagen)
+[^11]: [§ 4 Abs. 2 KitaFöG](https://gesetze.berlin.de/bsbe/document/jlr-KitaRefGBEV10P4)
+[^12]: Email from Jugendamt Friedrichshain-Kreuzberg (December 2025)
+[^13]: Email from Jugendamt Friedrichshain-Kreuzberg (December 2025), [Kietzee](https://www.kietzee.com/de/blog/kita-gutschein-how-to#:~:text=dazu%20gehoren%20je%20nach%20deiner%20situation%20die%20folgenden%20unterlagen)
