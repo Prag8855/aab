@@ -1,7 +1,7 @@
 ---
-Title: Where to get help about life in Berlin?
+Title: Where to get help in Berlin
 Short_title: Where to find help
-Description: Where to find support and answers to your question as a new Berliner, whether you speak English or German.
+Description: Communities, experts and resources that can answer your questions about life in Berlin.
 Date_created: 2017-09-27
 ---
 
@@ -15,28 +15,27 @@ If I can't answer your questions, these resources can help.
 
 You can get help from these communities and services.
 
-- [Free Advice Berlin](https://www.facebook.com/groups/FreeAdviceBerlin/) - Facebook group
-- [Berlin EXPATS](https://www.facebook.com/groups/berlinexpats/) - Facebook group
-- [Berlin4Beginners](https://www.facebook.com/groups/Berlin4Beginners/) - Facebook group
-- [/r/askberliners](https://www.reddit.com/r/askberliners) - Reddit community
-- [/r/germany](https://www.reddit.com/r/germany) - Reddit community
-- [Expatriates StackExchange](https://expatriates.stackexchange.com/) - Questions and answers website
+- [Free Advice Berlin](https://www.facebook.com/groups/FreeAdviceBerlin/) - Facebook
+- [Berlin EXPATS](https://www.facebook.com/groups/berlinexpats/) - Facebook
+- [Berlin4Beginners](https://www.facebook.com/groups/Berlin4Beginners/) - Facebook
+- [/r/askberliners](https://www.reddit.com/r/askberliners) - Reddit
+- [/r/germany](https://www.reddit.com/r/germany) - Reddit
+- [Expatriates StackExchange](https://expatriates.stackexchange.com/)
 
 ## Immigration questions
 
 ### Free help
 
-- **[Welcome Center](https://www.berlin.de/willkommenszentrum/ueber-uns/mehrsprachige-beratung/#Englisch)** of the Commissioner for Integration and Migration  
-    They offer legal help about immigration. They answer in English, and many other languages. They answer a few days later.
+- **[Welcome Center](https://www.berlin.de/willkommenszentrum/ueber-uns/mehrsprachige-beratung/#Englisch)**, Commissioner for Integration and Migration  
+    They offer legal help about immigration. They answer in English and many other languages. They answer a few days later.
 - **["Working and Living in Germany" hotline](https://www.bamf.de/EN/Service/ServiceCenter/ThemenHotlines/ArbeitenUndLeben/arbeitenundleben-node.html)**  
     This phone hotline helps people move to Germany. They speak English.
-- **Facebook groups**  
-    The information on Facebook is often incorrect or misleading. Don't trust what you read.
+- **Facebook**
     - [Problems and challenges with the Ausländerbehörde](https://www.facebook.com/groups/226825394858771/)
     - [Einbürgerung in Berlin](https://www.facebook.com/groups/1331414823711459/)
     - [German freelance visa help](https://www.facebook.com/groups/germanfreelancevisa)
     - [Job seeker visa/Blue Card/Dependent Visa/Work Permit Germany](https://www.facebook.com/groups/332989703932525/)
-- **[/r/GermanCitizenship](https://old.reddit.com/r/GermanCitizenship/)** - Reddit community
+- **[/r/GermanCitizenship](https://old.reddit.com/r/GermanCitizenship/)** - Reddit
 - **[The Imagine Foundation](https://www.joinimagine.com/)**  
     If you are a software developer from a developing country, they can help you [find a job](/guides/find-a-job-in-berlin) and move to Germany. They speak English.[^0]
 
@@ -140,8 +139,8 @@ Don't be afraid to use a lawyer. Your employer can't fire you or blacklist you b
 - **Business and immigration lawyer hotline** - [09008 529 366 11](tel:0900852936611)  
     Use this number to ask quick legal questions. You will talk to Alexander von Engelhardt, a business and immigration lawyer in Berlin. It costs €3 per minute.{{ fail_on('2025-12-31') }}
 - [List of English-speaking lawyers in Berlin](/guides/english-speaking-lawyers-berlin)
-- [Berlin startups](https://www.facebook.com/groups/159595270791268/) - Facebook group
-- [Berlin freelancers](https://www.facebook.com/groups/berlinfreelancers/) - Facebook group
+- [Berlin startups](https://www.facebook.com/groups/159595270791268/) - Facebook
+- [Berlin freelancers](https://www.facebook.com/groups/berlinfreelancers/) - Facebook
 
 ### Helpful websites
 
@@ -154,18 +153,19 @@ Don't be afraid to use a lawyer. Your employer can't fire you or blacklist you b
 
 ### Parenting communities
 
-- [International Families Berlin](https://www.facebook.com/groups/InternationalFamiliesBerlin/)
-- [ExpatBabies Berlin](https://www.facebook.com/groups/107498526067436/)
-- [Expatkids Berlin](https://www.facebook.com/groups/844609522248598/?ref=br_rs)
-- [Kita in Berlin](https://www.facebook.com/groups/251699101959498/?ref=gysj)
-- [Expat parent-toddler playgroup Berlin](https://www.facebook.com/groups/expatbabiesmothertoddler/)
+- [International Families Berlin](https://www.facebook.com/groups/InternationalFamiliesBerlin/) - Facebook
+- [ExpatBabies Berlin](https://www.facebook.com/groups/107498526067436/) - Facebook
+- [Expatkids Berlin](https://www.facebook.com/groups/844609522248598/?ref=br_rs) - Facebook
+- [Kita in Berlin](https://www.facebook.com/groups/251699101959498/) - Facebook
+- [Expat parent-toddler playgroup Berlin](https://www.facebook.com/groups/expatbabiesmothertoddler/) - Facebook
+- [Papi Berlin](https://papiberlin.de/en/) - Slack
 
 ### Paid services
 
 - [Baby in Berlin](https://babyinberlin.com/)
 - [Julia Zehavi](http://www.familyrelocation.de)
 - [Kietzee](https://www.kietzee.com/en)
-- [Relocation consultants](/guides/relocation-agency-in-berlin) help you with the bureaucracy of parenting
+- [Relocation consultants](/guides/relocation-agency-in-berlin) can help with the bureaucracy of parenting
 
 ## Ask me
 
