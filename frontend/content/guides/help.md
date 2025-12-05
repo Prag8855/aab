@@ -55,14 +55,16 @@ You can get help from these communities and services.
 ## Apartment questions
 
 - **Tenant associations** (*[[Mieterverein]]*)  
-    A *Mieterverein* protects tenants from landlords. When you are a member, you can get help from their lawyers. They can check your lease, help you with a bad landlord, get your rent reduced, and help you sublet an apartment. The membership costs €40 to €120 per year.[^1] If you have a low income, it can be cheaper.[^2] Some unions have a waiting period before they help you.[^3] [Berliner Mieterverein](https://www.berliner-mieterverein.de/sprachen/englisch.htm) and [Mieterschutzbund Berlin](https://www.mieterschutzbund-berlin.de/) are the two biggest associations in Berlin. [Berliner Mieterverein](https://www.berliner-mieterverein.de/sprachen/englisch.htm) can help you in English. 
+    They protect tenants from landlords. When you are a member, their lawyers can help you. They can check your lease, help you with a bad landlord, get your rent reduced, and help you sublet an apartment. The membership costs €40 to €120 per year.[^1]{{ fail_on('2025-12-31') }} If you have a low income, it can be cheaper.[^2] Some unions have a waiting period before they help you.[^3] These are the biggest options in Berlin:
+    - [Berliner Mieterverein](https://www.berliner-mieterverein.de/sprachen/englisch.htm)
+    - [Mieterschutzbund Berlin](https://www.mieterschutzbund-berlin.de/)
 - **[Tenant counsel](https://www.berlin.de/sen/wohnen/service/serviceadressen/mieterberatungen-in-den-bezirken/)** (*Mieterberatung*)  
     This is a free service from the city of Berlin. They have [many branches](https://www.berlin.de/sen/wohnen/service/serviceadressen/mieterberatungen-in-den-bezirken/). You might need to go in person. They might not speak English.
     - **[asum Berlin](https://www.asum-berlin.de/english/)** - Free counselling for tenants
     - **[Tenant counsel](https://dielinke.berlin/beratung)** by Die Linke  
         Free legal advice and help clinics in different neighbourhoods. Die Linke is a political party.
 - **[Lawyers](/guides/english-speaking-lawyers-berlin)**  
-    Use my [list of English-speaking lawyers](/guides/english-speaking-lawyers-berlin). If you have legal insurance (*[[Rechtsschutzversicherung]]*), it might pay for your lawyer. If not, a lawyer costs around €200 per hour.
+    Your [legal insurance](/glossary/Rechtsschutzversicherung) might pay for it. Use my [list of English-speaking lawyers](/guides/english-speaking-lawyers-berlin).
     - **[Conny](/out/conny-mietpreisbremse)**  
         A legal service that helps people lower their rent. Their fee is high, but you only pay when it works. They speak English. Read my [review of Conny](/guides/conny-review).
 
