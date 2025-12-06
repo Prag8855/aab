@@ -64,7 +64,7 @@ You should also tell...
     The *[[ARD ZDF Deutschlandradio Beitragsservice]]* collects the [TV tax](/glossary/Rundfunkbeitrag). You can [update your address online](https://www.rundfunkbeitrag.de/buergerinnen_und_buerger/formulare/aendern/index_ger.html).
 - [ ] **The [[Kfz-Zulassungsstelle]]**  
     If you did not bring your vehicle papers to your *Anmeldung* appointment, you must update your registration papers. You can do this [online](https://service.berlin.de/dienstleistung/120918/), or at the local *[[Kfz-Zulassungsstelle]]*. You will get a new *[Zulassungsbescheinigung Teil 1](/glossary/Zulassungsbescheinigung)*, or a sticker with your new address.[^2]
-- [ ] **The Kita-Gutscheinstelle**  
+- [ ] **The Jugendamt**  
     If you send your children to a [[Kita]], [request a Kitagutschein](/guides/kitagutschein) for your new address.
 - [ ] **The [Hunderegister](https://hunderegister.berlin.de/)**  
     In Berlin, if you have a dog, update your address in the *[[Hunderegister]]*. In other places, you might need to tell the *[[Finanzamt]]*.
