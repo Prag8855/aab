@@ -36,7 +36,7 @@ It is divided in 4 parts:[^1]
 
 ## Why you need this number
 
-**Your employer needs this number** as soon as possible after you [start working](/guides/find-a-job-in-berlin#start-working). This lets your employer take pension contributions from your paycheck. You also need this number if you leave Germany, and want to [get your pension payments back](/guides/pension-payments-refund).
+**Your employer needs this number** as soon as possible after you [start working](/guides/find-a-job-in-berlin#start-working). This lets your employer take pension contributions from your paycheck. You also need this number if you [leave Germany](/guides/leaving-germany), and want to [get your pension payments back](/guides/pension-payments-refund).
 
 If you don't have that number yet, you can still start working, and you will still get paid.
 

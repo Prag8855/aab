@@ -44,7 +44,7 @@ Use my [health insurance recommendation tool](/tools/health-insurance-calculator
 - **[Join the Künstlersozialkasse](/guides/ksk-kuenstlersozialkasse)**  
     If you are a freelance artist, publicist or art teacher, join the *[[Künstlersozialkasse]]*. They pay half of your health insurance, and half of your pension insurance. It's always worth it.
 - **[Get a pension payments refund](/guides/pension-payments-refund)**  
-    If you leave Germany, you can sometimes get your pension payments back. You can get thousands of euros back.
+    If you [leave Germany](/guides/leaving-germany), you can sometimes get your pension payments back. You can get thousands of euros back.
 
 ### How to pay less [church tax](/glossary/Kirchensteuer)
 

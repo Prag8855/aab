@@ -301,7 +301,7 @@ If you publish texts or run a website, you should also join [VG Wort](https://ww
 
 Employees automatically save for a retirement, but freelancers don't. You must plan for retirement and set money aside. Many freelancers neglect that.
 
-There is no easy way to do this, especially for immigrants. You might need a flexible pension, in case you want to cash out sooner, become an employee, or leave Germany.
+There is no easy way to do this, especially for immigrants. You might need a flexible pension, in case you want to cash out sooner, become an employee, or [leave Germany](/guides/leaving-germany).
 
 A financial advisor can help you choose a pension. Usually, they are paid by commission. In my experience, many of them are not honest. Seamus at [Horizon65](/out/horizon65) is the only financial advisor I trust.
 

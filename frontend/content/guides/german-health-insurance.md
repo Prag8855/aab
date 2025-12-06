@@ -128,7 +128,7 @@ Use my [recommendation tool](#your-options) to get a price estimate.
 The cost depends on...
 
 - **Your age when you join**  
-    Younger people pay less. Your insurer saves a part of your payments for old age. If you join when you are young, you also pay less when you are old. If you plan to leave Germany after a few years, you can get insurance without old-age provisions. It's around 50% cheaper.
+    Younger people pay less. Your insurer saves a part of your payments for old age. If you join when you are young, you also pay less when you are old. If you plan to [leave Germany](/guides/leaving-germany) after a few years, you can get insurance without old-age provisions. It's around 50% cheaper.
 - **Your health condition when you join**  
     If you have no health insurance history, you must get a health check at the doctor.[^44] If you have [pre-existing health conditions](/glossary/Vorerkrankung), insurers reject you or charge more.[^9] After you join, your health does not affect the price, even if you get really sick.
 - **The coverage you choose**  
@@ -330,7 +330,7 @@ Choose [private health insurance](/glossary/private%20Krankenversicherung) if...
     It's much easier to find a doctor, a psychotherapist, a paediatrician or a gynaecologist. It takes a few days instead of a few weeks.
 - **You want better treatments**  
     You can pay more for better coverage. For example, you can choose a specific doctor, or a specific kind of treatment. You can get innovative therapy or medication that is not covered by public health insurance.[^73] It can cover better dental implants, a better wheelchair, or a better hospital room.
-- **You plan to leave Germany in a few years**  
+- **You plan to [leave Germany](/guides/leaving-germany) in a few years**  
     You can get short-term private health insurance. It's much cheaper, because there is no old-age provision.[^74]
 - **You can't choose public health insurance**  
     If you are a freelancer or a student from a non-[EU](/glossary/European%20Union) country, public health insurers might reject you. Private health insurance might be your only option.

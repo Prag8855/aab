@@ -75,7 +75,7 @@ To **stop paying the [TV tax](/glossary/Rundfunkbeitrag)**, [deregister on the R
 
 To **stop paying the [dog tax](/glossary/Hundesteuer)** after you leave Berlin, [deregister your dog](https://service.berlin.de/dienstleistung/324161/).
 
-**[How to stop paying the TV tax ➞](/guides/gez-rundfunkbeitrag#how-to-stop-paying)**
+**[How to leave Germany ➞](/guides/leaving-germany)**
 
 ## Change your address
 
@@ -242,8 +242,7 @@ Your landlord can refuse to give you a *Mietschuldenfreiheitsbescheinigung*. Som
 - [ ] **[Move into your next apartment](/guides/moving-in)**
 - [ ] **[Deduct your moving expenses](/guides/moving-in#deduct-your-moving-costs)**  
     If you move for work, your relocation costs are [tax-deductible](/glossary/steuerlich%20absetzbar). Include them in your next [tax declaration](/glossary/Steuererklärung) to get some money back.
-- [ ] **Get your public pension payments back**  
-    If you leave Germany, you can [get a refund for your pension payments](/guides/pension-payments-refund).[^28] You can get thousands of euros back.[^36]
+- [ ] **[Leave Germany](/guides/leaving-germany)**
 
 ## Need help?
 
@@ -277,7 +276,6 @@ Your landlord can refuse to give you a *Mietschuldenfreiheitsbescheinigung*. Som
 [^25]: [zapf.de](https://www.zapf.de/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/8jc3ps/moving_companies_umzugsunternehmen_in_berlin/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/71i6sl/moving_company/)
 [^26]: [berliner-woche.de](https://www.berliner-woche.de/neukoelln/c-verkehr/parkverbot-berlin-einrichten_a187219), [bussgeldkatalog.org](https://www.bussgeldkatalog.org/halteverbot-umzug/#nicht_nur_fuer_einen_umzug_nuetzlich_das_halteverbot)
 [^27]: [berlin.de](https://service.berlin.de/dienstleistung/325649/), [berlin.de](https://www.berlin.de/special/neu-in-berlin/745345-744080-halteverbote-fuer-umzug-beantragen.html), [halteverbot-berlin24.de](https://www.halteverbot-berlin24.de/)
-[^28]: [toytowngermany.com](https://web.archive.org/web/20240808111111/https://www.toytowngermany.com/wiki/Pension_refunds_on_leaving_Germany), [ssr.germanymantra.com](https://ssr.germanymantra.com/faqs)
 [^29]: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_bgb/englisch_bgb.html#p2289)
 [^30]: [promietrecht.de](https://www.promietrecht.de/Mieterkuendigung/Formelle-Regeln/schriftlich/Kuendigung-des-Mietvertrages-der-Wohnung-per-Mail-reicht-das-E1939.htm)
 [^31]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/4p3wz6/whats_the_process_for_getting_someone_to_take/d4htm8i/)
@@ -285,7 +283,6 @@ Your landlord can refuse to give you a *Mietschuldenfreiheitsbescheinigung*. Som
 [^33]: [berliner-mieterverein.de](https://www.berliner-mieterverein.de/recht/infoblaetter/info-180-probleme-beim-auszug-aus-der-mietwohnung-kuendigung-rueckgabe-schoenheitsreparaturen-kaution-mieterinvestitionen.htm#5-Schoenheitsreparaturen)
 [^34]: [mieterengel.de](https://mieterengel.de/wohnungsuebergabeprotokoll/)
 [^35]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/99fbly/best_place_to_buy_cardboard_boxes/)
-[^36]: [ssr.germanymantra.com](https://ssr.germanymantra.com/faqs)
 [^37]: [§ 60 Abs. 1 TKG](https://www.buzer.de/60_TKG.htm)
 [^38]: [§ 60 Abs. 2 TKG](https://www.buzer.de/60_TKG.htm)
 [^39]: Jonathan Wooddin from [Smoovers](https://smoover-moving.de/) (January 2023)

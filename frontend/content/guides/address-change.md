@@ -83,6 +83,10 @@ You might still receive letters at your old address. You can pay to forward mail
 
 Mail forwarding is **unreliable**. Official mail from the [[Bürgeramt]], [[Finanzamt]] and [[Ausländerbehörde]] is not always forwarded, because they use a different mail service.[^5] Forwarded mail can take a week longer to arrive.[^6] Packages are not forwarded.
 
+## What to do next
+
+**[How to leave Germany ➞](/guides/leaving-germany)**
+
 [^0]: [umzugsportal.de](https://www.umzugsportal.de/umzugstipps/finanzamt-umzug/)
 [^1]: [umziehen.de](https://umziehen.de/an-ab-ummelden/finanzamt-ummelden-166)
 [^2]: [berlin.de](https://service.berlin.de/dienstleistung/120918/)

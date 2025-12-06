@@ -9,6 +9,7 @@ Date_created: 2018-01-06
 Related_guides:
     guides/abmeldung-deregister-in-berlin.md
     guides/moving-out.md
+    guides/leaving-germany.md
     guides/berlin-burgeramt-appointment.md
     guides/anmeldung-in-english-berlin.md
 Categories:
@@ -39,7 +40,7 @@ Use my [Abmeldung form filler](#fill-the-abmeldung-form-online), it's easier.
     - **Tag des Auszugs**: Your move-out date. You can deregister 7 days before you [move out](/guides/moving-out). You must do it maximum 14 days after you move out.[^0]
     - **Diese Wohnung hat bereits bestanden**: Choose this if you already registered your future address. If you are leaving Germany, choose *nein.*
     - **Die bisherige Wohnung war**: Choose this if this address was your only address (*alleinige Wohnung*), your main address (*Hauptwohnung*) or a secondary address (*Nebenwohnung*).
-- **Künftige Wohnung / Gemeindekennzahl (right column)**: Information about your future address after you leave Germany.
+- **Künftige Wohnung / Gemeindekennzahl (right column)**: Information about your future address after you [leave Germany](/guides/leaving-germany).
 - **Weitere Wohnungen**: Information about your other addresses in Germany. If you only had one address, leave this section empty.
     - **Anschrift**: Your other addresses in Germany.
     - **Diese Wohnung war**: Choose this if this address was your main residence (*Hauptwohnung*) or secondary residence (*Nebenwohnung*).

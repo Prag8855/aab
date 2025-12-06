@@ -415,6 +415,8 @@ If you can't get your pension payments back, you will get a German pension when 
 
 **[How to get a pension refund ➞](/guides/pension-payments-refund)**
 
+**[How to leave Germany ➞](/guides/leaving-germany)**
+
 ## Questions and answers
 
 ### Can I have private health insurance with the KSK?

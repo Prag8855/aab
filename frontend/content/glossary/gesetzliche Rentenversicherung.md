@@ -19,4 +19,4 @@ Public pension insurance costs {{RV_BASE_RATE}}% of your income. You pay {{RV_EM
 
 If you are self-employed, you pay the full {{RV_BASE_RATE}}% yourself, unless you join the *[[Künstlersozialkasse]]* or a freelancer cooperative.
 
-If you leave Germany, you can sometimes [get your pension payments back](/guides/pension-payments-refund).
+If you [leave Germany](/guides/leaving-germany), you can sometimes [get your pension payments back](/guides/pension-payments-refund).

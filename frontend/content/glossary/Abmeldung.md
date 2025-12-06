@@ -8,6 +8,7 @@ Related_guides:
     guides/berlin-burgeramt-appointment.md
     guides/abmeldung-deregister-in-berlin.md
     guides/moving-out.md
+    guides/leaving-germany.md
 ---
 
 When you move out of Germany, you must deregister your address. This is called the *Abmeldung*.

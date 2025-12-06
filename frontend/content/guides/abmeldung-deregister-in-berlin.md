@@ -8,7 +8,7 @@ Related_reviews:
     reviews/abmeldung-deregister-in-berlin/oliver-sympatme.md
 ---
 
-When you [move out of your apartment](/guides/moving-out) and leave Germany, you must deregister your address at the *[[Bürgeramt]]*. This is called the *Abmeldung*.
+When you [move out of your apartment](/guides/moving-out) and [leave Germany](/guides/leaving-germany), you must deregister your address at the *[[Bürgeramt]]*. This is called the *Abmeldung*.
 
 This guide explains why and how to do your *Abmeldung* in Berlin.
 
@@ -18,12 +18,12 @@ This guide explains why and how to do your *Abmeldung* in Berlin.
 
 You must do your Abmeldung if:
 
-- **You move out of Germany**, and you will not return to your current address.
+- **You [leave Germany](/guides/leaving-germany)**, and you will not return to your current address.
 - **You leave one of multiple homes**. For example, if you have two registered apartments, and you sell one of them.
 
 You don't need to do your Abmeldung if:
 
-- **You temporarily move out of Germany**, and you will return to the same address later. For example, if you study in another country for a semester.
+- **You temporarily leave Germany**, and you will return to the same address later. For example, if you study in another country for a semester.
 - **You move to another address in Germany**. When you [register your new address](/guides/anmeldung-in-english-berlin), your old address is automatically deregistered.
 - **You have not [registered](/glossary/Anmeldung) your address**.
 
@@ -167,11 +167,13 @@ If you already left Germany, you can do your *Abmeldung* by email or by post.[^2
 
 ## What to do next
 
+**[How to leave Germany ➞](/guides/leaving-germany)**
+
 **[How to move out of an apartment ➞](/guides/moving-out)**
 
 **[How to change your address ➞](/guides/address-change)**
 
-2 years after you leave Germany, you can get a refund for your public pension payments. You can get thousands of euros back.
+2 years after you leave Germany, you can [get a refund](/guides/pension-payments-refund) for your public pension payments. You can get thousands of euros back.
 
 {% include "_blocks/pensionRefundCalculator.html" %}
 

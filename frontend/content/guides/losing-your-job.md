@@ -190,7 +190,7 @@ At the end of the year, make a tax declaration (*[[Steuererklärung]]*). Your jo
 
 ### Ask for a pension refund
 
-When you work in Germany, you pay {{RV_EMPLOYEE_CONTRIBUTION}}% of your salary for [pension insurance](/glossary/gesetzliche%20Rentenversicherung). If you leave Germany, you can get that money back.
+When you work in Germany, you pay {{RV_EMPLOYEE_CONTRIBUTION}}% of your salary for [pension insurance](/glossary/gesetzliche%20Rentenversicherung). If you [leave Germany](/guides/leaving-germany), you can get that money back.
 
 {% include "_blocks/pensionRefundCalculator.html" %}
 
@@ -285,7 +285,8 @@ During your notice period, you can still go on [sick leave](/guides/sick-leave).
     - [ ] Vacation certificate (*[[Urlaubsbescheinigung]]*)
     - [ ] Last pay slip (*[[Gehaltsabrechnung]]* or *Lohnabrechnung*)
     - [ ] Salary tax statement (*[[Lohnsteuerbescheinigung]]*)
-- [ ] If you leave Germany, [get a pension payments refund](/guides/pension-payments-refund)
+- [ ] Make a [tax declaration](/glossary/Steuererklärung)
+- [ ] [Get a pension payments refund](/guides/pension-payments-refund) (if you [leave Germany](/guides/leaving-germany))
 
 ## Need help?
 

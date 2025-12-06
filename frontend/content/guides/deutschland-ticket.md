@@ -54,7 +54,7 @@ It can be easier to buy a regular daily, weekly or monthly ticket. You can buy t
 
 **[How to use public transit in Berlin ➞](/guides/public-transit)**
 
-When you leave Germany, **remember to [cancel your subscription](#how-to-cancel-a-deutschland-ticket)**. The Deutschland Ticket renews automatically every month until you cancel it.
+When you [leave Germany](/guides/leaving-germany), [cancel your subscription](#how-to-cancel-a-deutschland-ticket). The Deutschland Ticket renews automatically every month until you cancel it.
 
 ## What can you do with a Deutschland Ticket?
 

@@ -357,7 +357,7 @@ Your National Visa is only valid for up to 12 months.[^36] Before it expires, yo
 
 In Berlin, you must convert your National Visa **6 weeks before it expires**, not sooner.[^26]
 
-If you will leave Germany before your National Visa expires, you don't need to convert it.[^31] For example, if you have a 12 month [[National Visa]] for a 9 month internship, you don't need to convert it into a residence permit.
+If you [leave Germany](/guides/leaving-germany) before your National Visa expires, you don't need to convert it.[^31] For example, if you have a 12 month [[National Visa]] for a 9 month internship, you don't need to convert it into a residence permit.
 
 To convert your National Visa into a residence permit:
 
