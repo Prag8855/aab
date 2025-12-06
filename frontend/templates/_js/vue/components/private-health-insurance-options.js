@@ -106,6 +106,8 @@ Vue.component('private-health-insurance-options', {
 
             <hr>
 
+            <p>These are 2025 prices. The prices for will be updated at the end of December.{% endraw %}{{ fail_on('2025-12-15') }}{% raw %}</p>
+
             <p>These are just two plans. There are hundreds of other options. Let our expert find the best one for you. It's 100% free.</p>
         </div>
     `

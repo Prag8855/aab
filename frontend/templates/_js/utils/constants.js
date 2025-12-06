@@ -530,7 +530,7 @@ const taxes = {
 	},
 	minVorsorgepauschal: {{ VORSORGEPAUSCHAL_MIN }},
 	minVorsorgepauschalTaxClass3: {{ VORSORGEPAUSCHAL_MIN_TAX_CLASS_3 }},
-	{{ fail_on('2025-12-31') }}
+	{{ fail_on('2026-03-01') }}
 	incomeTaxBrackets: {  // § 32a EStG - https://www.lohn-info.de/lohnsteuerzahlen.html
 		1: {
 			formula: (x, y, z) => 0,
@@ -538,22 +538,22 @@ const taxes = {
 			maxIncome: {{ GRUNDFREIBETRAG }},
 		},
 		2: {
-			formula: (x, y, z) => (932.30 * y + 1400) * y,
+			formula: (x, y, z) => (914.51 * y + 1400) * y,
 			minIncome: {{ GRUNDFREIBETRAG }},
 			maxIncome: {{ INCOME_TAX_BRACKET_2_MAX_INCOME }},
 		},
 		3: {
-			formula: (x, y, z) => (176.64 * z + 2397) * z + 1015.13,
+			formula: (x, y, z) => (173.10 * z + 2397) * z + 1034.87,
 			minIncome: {{ INCOME_TAX_BRACKET_2_MAX_INCOME }},
 			maxIncome: {{ INCOME_TAX_BRACKET_3_MAX_INCOME }},
 		},
 		4: {
-			formula: (x, y, z) => 0.42 * x - 10911.92,
+			formula: (x, y, z) => 0.42 * x - 11135.63,
 			minIncome: {{ INCOME_TAX_BRACKET_3_MAX_INCOME }},
 			maxIncome: {{ INCOME_TAX_BRACKET_4_MAX_INCOME }},
 		},
 		5: {
-			formula: (x, y, z) => {{ INCOME_TAX_MAX_RATE }} / 100 * x - 19246.67,
+			formula: (x, y, z) => {{ INCOME_TAX_MAX_RATE }} / 100 * x - 19470.38,
 			minIncome: {{ INCOME_TAX_BRACKET_4_MAX_INCOME }},
 			maxIncome: Infinity,
 		},
