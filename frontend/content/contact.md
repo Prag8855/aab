@@ -31,7 +31,7 @@ I do not answer visa and residence permit questions, because I can't give legal 
 
 **Social media:**
 
-- [Newsletter](https://allaboutberlin.com/newsletter) (Substack)
+- [Newsletter](https://allaboutberlin.com/newsletter)
 - [Twitter](https://twitter.com/aboutberlin)
 - [GitHub](https://github.com/all-about-berlin)
 - [LinkedIn](https://www.linkedin.com/in/nicolasbouliane/)

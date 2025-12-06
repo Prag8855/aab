@@ -58,6 +58,7 @@
 			{% include '_blocks/searchForm.html' %}
 			<a title="Guides about life in Berlin" href="{{ site_url }}/guides">Guides</a>
 			<a title="Tools, forms and templates" href="{{ site_url }}/tools">Tools</a>
+			<a class="no-mobile" rel="nofollow" href="{{ site_url }}/newsletter">Newsletter</a>
 			<a href="{{ site_url }}/contact">Contact</a>
 		</nav>
 	</header>
@@ -74,6 +75,7 @@
 		© {{ now.strftime('%Y') }} • 
 		<a href="{{ site_url }}/contact" rel="nofollow">Contact</a> • 
 		<a href="{{ site_url }}/donate" rel="nofollow">Donate</a> • 
+		<a href="{{ site_url }}/newsletter" rel="nofollow">Newsletter</a> • 
 		<a href="{{ site_url }}/terms#privacy-policy" rel="nofollow">Privacy</a> • 
 		<a href="{{ site_url }}/terms#terms-of-service" rel="nofollow">Terms and conditions</a>
 	</footer>
@@ -142,7 +144,8 @@
 					"https://reddit.com/r/allaboutberlin",
 					"https://twitter.com/aboutberlin",
 					"https://www.facebook.com/allaboutberlin",
-					"https://www.linkedin.com/company/allaboutberlin/"
+					"https://www.linkedin.com/company/allaboutberlin/",
+					"https://allaboutberlin.com/newsletter"
 				],
 				"url": "{{ site_url }}/"
 			},
