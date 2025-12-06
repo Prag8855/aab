@@ -1,6 +1,6 @@
 ---
 Title: How to leave Germany
-Description: What to do when you move from Germany to another country.
+Description: A checklist for moving from Germany to another country
 Date_created: 2026-01-01
 ---
 
@@ -21,37 +21,44 @@ Date_created: 2026-01-01
 
 - [ ] [Deregister your address](/guides/abmeldung-deregister-in-berlin)
 - [ ] [Change your address](/guides/address-change)
-- [ ] Forward your mail
-- [ ] Stop paying TV tax
+- [ ] [Forward your mail](/guides/address-change#forward-your-mail)
+- [ ] [Stop paying TV tax](/guides/gez-rundfunkbeitrag#how-to-stop-paying)
+
+**[How to move out of an apartment ➞](/guides/moving-out)**
 
 ### Cancel contracts and services
 
 - [ ] Phone and internet
+- [ ] Public transit
 - [ ] Bank account
 - [ ] Health insurance
     - [ ] Or get the price locked down if you plan to return (Anwartschaftsversicherung)
 - [ ] Other insurances
 - [ ] Investments
+- [ ] [Stop paying dog tax](https://service.berlin.de/dienstleistung/324161/)
 
 ## After you leave Germany
 
-- [ ] Get your deposit back
+- [ ] Get your apartment deposit back
 - [ ] Make a tax declaration
+- [ ] [Get your pension payments back](/guides/pension-payments-refund)
 
-What stops working? (Social benefits, insurance, etc)
+What stops working
 
-- Kindergeld
-- Elterngeld
+- Kindergeld  
+    If you no longer have tax residency in Germany.[^2]
+- Elterngeld[^3]
 - Health insurance
 - Krankengeld?
+
+Exceptions:
+
+- Studying abroad
+- Temporary job placement
 
 What keeps working?
 
 - Pension
-
-## A few months later
-
-- [ ] [Get your pension payments back](/guides/pension-payments-refund)
 
 ## Returning to Germany
 
@@ -67,5 +74,23 @@ What keeps working?
 - Deregister your dog?
 - Anything with children?
 - KSK?
+- Pets?
+    - Vaccines and other documentation
+    - Quarantine requirements
+- [BAföG](https://www.auslandsbafoeg.de/)
+- Driving licence, IDP
+- Any documents you should get/back up before leaving?
+    - Health history (Krankenbericht)
+    - Prescriptions
+- Travel health insurance, coverage gap
+- How to get money out of the country?
+- Any difference in taxation of real estate?
+- Medication
+- Sell your stuff
+- [ELEFAND](https://krisenvorsorgeliste.diplo.de/signin)
+- Effect on residence permit
+- Update abmeldung tool
 
 [^1]: [](https://eidel.io/notes-and-hacks-on-germanys-exit-tax/), [](https://www.winheller.com/en/tax-law-tax-advisory/international-tax-planning/exit-taxation.html), [](https://news.ycombinator.com/item?id=44828158)
+[^2]: [](https://www.deutsche-im-ausland.org/absicherung-und-finanzen/finanzen/kindergeld-im-ausland.html#c1242)
+[^3]: [](https://www.deutsche-im-ausland.org/absicherung-und-finanzen/finanzen/elterngeld-im-ausland.html)
