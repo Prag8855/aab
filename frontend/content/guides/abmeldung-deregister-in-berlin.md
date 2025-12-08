@@ -42,8 +42,8 @@ You can use this certificate to:
 
 There are 4 ways to deregister your address:
 
-- [By email](#by-email){{ RECOMMENDED }}
-- [In person at the *Bürgeramt*](#in-person-at-the-burgeramt)
+- [In person at the *Bürgeramt*](#in-person-at-the-burgeramt){{ RECOMMENDED }}
+- [By email](#by-email)
 - [By post](#by-post)
 - [Pay someone to deregister you](#pay-someone-to-do-it)
 
