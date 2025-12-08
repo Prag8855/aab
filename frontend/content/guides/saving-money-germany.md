@@ -20,34 +20,36 @@ Most employees pay 35% to 50% of their income in taxes, health insurance and pen
 - **Make a [tax declaration](/glossary/Steuererklärung)**  
     A tax declaration lets you deduct expenses from your income. This makes your taxable income smaller, so you pay less [income tax](/glossary/Einkommensteuer). Relocation costs, business expenses, commuting, pension payments, insurance and healthcare are [tax-deductible](/glossary/steuerlich%20absetzbar). [Tax software](/guides/german-tax-software) is the cheapest way to make a tax declaration.
 - **Save for retirement**  
-    Pension contributions are [tax-deductible](/glossary/steuerlich%20absetzbar). Contributing to your pension is a type of [tax deferral](https://en.wikipedia.org/wiki/Tax_deferral). It helps you pay less income tax over your lifetime.
+    Most pension contributions are [tax-deductible](/glossary/steuerlich%20absetzbar). Contributing to your pension is a type of [tax deferral](https://en.wikipedia.org/wiki/Tax_deferral). It helps you pay less income tax over your lifetime.
 
 ### How to pay less for [health insurance](/glossary/Krankenversicherung)
 
-Use my [health insurance recommendation tool](/tools/health-insurance-calculator) to see your options. [Ask my insurance expert](/guides/german-health-insurance#need-help) to help you find cheaper health insurance. This is a free service.
+Use my [health insurance recommendation tool](/tools/health-insurance-calculator) to see your options. [Ask my insurance expert](/guides/german-health-insurance#need-help) to help you find cheaper health insurance.
 
 {% include '_blocks/healthInsuranceCalculatorStatic.html' %}
 
-- **Use your [[EHIC]]**  
-    If you come from another EU country, you can use your European Health Insurance Card (EHIC) in Germany. You might not need German health insurance.
+- **[Use your EHIC](/guides/german-health-insurance#insurance-from-other-eu-countries)**  
+    If you come from another EU country, you can use your European Health Insurance Card ([[EHIC]]) in Germany. EU students can use their EHIC until they graduate. When you start working, you must get German health insurance.
 - **Switch to [private health insurance](/glossary/private%20Krankenversicherung)**  
-    It can be better and cheaper than [public health insurance](/glossary/gesetzliche%20Krankenversicherung). I save around €600 per month. This is a complex decision, and it can be an expensive mistake. [Ask my insurance expert](/guides/german-health-insurance#need-help) if private health insurance makes sense for you.
+    It can be better and cheaper than [public health insurance](/glossary/gesetzliche%20Krankenversicherung). I save around €600 per month. [Ask my insurance expert](/guides/german-health-insurance#need-help) if private health insurance makes sense for you.
 - **Choose a different [public health insurance](/glossary/gesetzliche%20Krankenversicherung)**  
     Pick an insurer with a lower *[[Zusatzbeitrag]]*. You can save up to €500 per year.
-- **Join the [[Künstlersozialkasse]]**  
-    If you are a freelance artist, publicist or art teacher, [join the *Künstlersozialkasse* (*KSK*)](/guides/ksk-kuenstlersozialkasse). They pay half of your health insurance, and half of your pension insurance. It's always worth it.
+- **[Join the Künstlersozialkasse](/guides/ksk-kuenstlersozialkasse)**  
+    If you are a freelance artist, publicist or art teacher, join the *[[Künstlersozialkasse]]*. They pay half of your health insurance, and half of your pension insurance. It's always worth it.
+- **Pay in advance**  
+    Your [private health insurance](/glossary/private%20Krankenversicherung) is a little cheaper if you pay in advance for the whole year. Ask your insurer.
 
 ### How to pay less [pension insurance](/glossary/gesetzliche%20Rentenversicherung)
 
-- **Join the [[Künstlersozialkasse]]**  
-    If you are a freelance artist, publicist or art teacher, [join the *Künstlersozialkasse* (*KSK*)](/guides/ksk-kuenstlersozialkasse). They pay half of your health insurance, and half of your pension insurance. It's always worth it.
-- **Get a pension payments refund**  
-    If you leave Germany, you can sometimes [get your pension payments refunded](/guides/pension-payments-refund). You can get [thousands of euros](/tools/pension-refund-calculator) back.
+- **[Join the Künstlersozialkasse](/guides/ksk-kuenstlersozialkasse)**  
+    If you are a freelance artist, publicist or art teacher, join the *[[Künstlersozialkasse]]*. They pay half of your health insurance, and half of your pension insurance. It's always worth it.
+- **[Get a pension payments refund](/guides/pension-payments-refund)**  
+    If you leave Germany, you can sometimes get your pension payments back. You can get thousands of euros back.
 
 ### How to pay less [church tax](/glossary/Kirchensteuer)
 
 - **[Leave the church](https://www.settle-in-berlin.com/stop-paying-german-church-tax/)**  
-    If you leave the church, you stop paying the church tax. You can save a few hundred euros per year.
+    If you leave the church, you stop paying [church tax](/glossary/Kirchensteuer). You can save a few hundred euros per year.
 
 ## Housing
 
@@ -94,11 +96,11 @@ Use my [health insurance recommendation tool](/tools/health-insurance-calculator
 ## Other tips
 
 - **Pay yearly, not monthly**  
-    [Car insurance](/guides/car-insurance-germany), [liability insurance](/guides/haftpflichtversicherung), public transit and other subscriptions are cheaper if you pay yearly.[^4]
+    [Car insurance](/guides/car-insurance-germany), [liability insurance](/guides/haftpflichtversicherung), health insurance, public transit and other subscriptions are cheaper if you pay yearly.[^4]
 - **Compare prices often**  
-    Every year, before your contract renews, look for a cheaper option. You can get a better deal for electricity, gas, insurance, internet and mobile phone service. [Tarifcheck](/out/tarifcheck), [Check24](/out/check24) and [Verivox](/out/verivox-cellphone) are the main price comparison websites. They don't show you all options.
+    Every year, before your contracts renew, look for a cheaper option. You can get a better deal for electricity, gas, insurance, internet and mobile phone service. Use [Tarifcheck](/out/tarifcheck), [Check24](/out/check24) and [Verivox](/out/verivox-cellphone) to compare prices.
 - **Negotiate a better price**  
-    When your internet contract is about to expire, call the company and ask for a better price. They will renew your contract, but give you a better plan. Vodafone gave me a free upgrade from 100 Mbit/s to 300 Mbit/s.
+    If your internet contract expires soon, call the company and ask for a better price. They might give you a better or cheaper plan if you renew your contract. For example, Vodafone upgraded my internet from 100 Mbit/s to 300 Mbit/s for free.
 
 [^0]: [reddit.com/r/de](https://old.reddit.com/r/de/comments/i8myjh/krankenkassen_wechseln_wie_den_stromanbieter/g19fj98/), [reddit.com/r/de](https://old.reddit.com/r/de/comments/4zaemf/welchen_gas_und_stromanbieter_empfiehlt_de/)
 [^2]: [test.de](https://www.test.de/Hausrat-und-Privathaftpflichtschutz-Was-taugt-die-neue-Kombiversicherung-von-Lemonade-5494627-0/#:~:text=lemonade%20bietet%20guns%C2%ADtigen%20schutz)
