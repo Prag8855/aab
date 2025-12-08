@@ -76,7 +76,7 @@ If only one parent applies, you also need...
 If you apply for more *Kita* hours, you also need...[^10]
 
 - [ ] **Proof of employment**  
-    An *[[Arbeitgeberbescheinigung]]*, or a letter from your employer that confirms your working hours. You can use [this template](https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/aemter/jugendamt/kindertages-betreuung/bescheinigung-erwerbstaetigkeit.pdf?ts=1759136839).
+    An *[[Arbeitgeberbescheinigung]]*, or a letter from your employer that confirms your working hours. It must be less than 4 weeks old.[^14] You can use [this template](https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/aemter/jugendamt/kindertages-betreuung/bescheinigung-erwerbstaetigkeit.pdf?ts=1759136839).
 - [ ] *or* **proof of self-employment**  
     A *[[Gewerbeschein]]*, documents from the *[[Finanzamt]]*, or a letter from your [tax advisor](/glossary/Steuerberater).
 - [ ] *or* **proof of studies**  
@@ -121,3 +121,4 @@ Your *Kitagutschein* is valid for any *Kita* in Berlin. You have 7 months to [fi
 [^11]: [§ 4 Abs. 2 KitaFöG](https://gesetze.berlin.de/bsbe/document/jlr-KitaRefGBEV10P4)
 [^12]: Email from Jugendamt Friedrichshain-Kreuzberg (December 2025)
 [^13]: Email from Jugendamt Friedrichshain-Kreuzberg (December 2025), [Kietzee](https://www.kietzee.com/de/blog/kita-gutschein-how-to#:~:text=dazu%20gehoren%20je%20nach%20deiner%20situation%20die%20folgenden%20unterlagen)
+[^14]: Jugendamt Lichtenberg (December 2025)
