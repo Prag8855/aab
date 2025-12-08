@@ -513,8 +513,8 @@ const taxes = {
 		2022: { west: 7050 * 12, east: 6750 * 12 },
 		2023: { west: 7300 * 12, east: 7100 * 12 },
 		2024: { west: 7550 * 12, east: 7450 * 12 },
+		2025: { west: 8050 * 12, east: 8050 * 12 },
 		currentYear: { west: {{ BEITRAGSBEMESSUNGSGRENZE }}, east: {{ BEITRAGSBEMESSUNGSGRENZE }} }, // {{ fail_on('2025-12-31') }}
-		2025: { west: {{ BEITRAGSBEMESSUNGSGRENZE }}, east: {{ BEITRAGSBEMESSUNGSGRENZE }} },
 		2026: { west: {{ BEITRAGSBEMESSUNGSGRENZE }}, east: {{ BEITRAGSBEMESSUNGSGRENZE }} }, // ESTIMATED (2025)
 		2027: { west: {{ BEITRAGSBEMESSUNGSGRENZE }}, east: {{ BEITRAGSBEMESSUNGSGRENZE }} }, // ESTIMATED (2025)
 	},
