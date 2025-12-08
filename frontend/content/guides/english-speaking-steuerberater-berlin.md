@@ -47,6 +47,7 @@ Related_places:
     places/cick.md
     places/summa-consult-gmbh.md
     places/taxes-matter.md
+    places/bsteuern-digitale-steuerberatung-berlin.md
 ---
 
 Tax advisors (*Steuerberater*) help you with your personal and business taxes. A tax advisor can:
