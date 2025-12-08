@@ -43,13 +43,20 @@ Date_created: 2026-01-01
 - [ ] Make a tax declaration
 - [ ] [Get your pension payments back](/guides/pension-payments-refund)
 
-What stops working
+## What keeps working
 
-- Kindergeld  
-    If you no longer have tax residency in Germany.[^2]
-- Elterngeld[^3]
-- Health insurance
-- Krankengeld?
+These things keep working even if you don't live in Germany:
+
+- **Public pension**  
+    You can receive [public pension](/glossary/gesetzliche%20Rentenversicherung) payments abroad. If you don't qualify for a German pension, you can [get your pension payments back](/guides/pension-payments-refund).
+
+## What stops working
+
+- **Kindergeld**  
+    If you no longer have tax residency in Germany, you stop getting *[[Kindergeld]]*.[^2]
+- **Elterngeld**[^3]
+- **Health insurance**  
+    If you leave Germany, you can't keep your German health insurance. You must get insured in your new country.
 
 Exceptions:
 
