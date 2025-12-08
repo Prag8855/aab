@@ -17,6 +17,7 @@ class CaseAdmin(admin.ModelAdmin):
                     "age",
                     "is_married",
                     "children_count",
+                    "intent",
                     "question",
                     "referrer",
                 ),
@@ -37,6 +38,7 @@ class CaseAdmin(admin.ModelAdmin):
     readonly_fields = ["creation_date"]
     list_display = [
         "creation_date",
+        "intent",
         "name",
         "broker",
         "contact_method",
