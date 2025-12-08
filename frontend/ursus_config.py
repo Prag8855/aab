@@ -172,6 +172,7 @@ ctx["GKV_ZUSATZBEITRAG_DAK"] = fail_on("2025-12-31", Decimal("2.8"))
 ctx["GKV_ZUSATZBEITRAG_HKK"] = fail_on("2025-12-31", Decimal("2.19"))
 ctx["GKV_ZUSATZBEITRAG_TK"] = fail_on("2025-12-31", Decimal("2.45"))
 
+ctx["TRAVEL_INSURANCE_COST"] = fail_on("2026-12-31", 40)  # Guesstimated
 ctx["EXPAT_INSURANCE_COST"] = fail_on(
     "2026-01-31",
     {
@@ -228,6 +229,8 @@ ctx["FUNDSBACK_MAX_FEE"] = Decimal("2754.05")  # €
 ctx["GERMANYPENSIONREFUND_FEE"] = Decimal("9.75")  # %
 ctx["PENSIONREFUNDGERMANY_FEE"] = Decimal("10")  # %
 ctx["PENSIONREFUNDGERMANY_MAX_FEE"] = 2800  # €
+ctx["GERMANYPENSIONREFUND_MAX_FEE"] = 2500  # €
+
 
 # Maximum income from employment to stay a member of the KSK (€/y)
 ctx["KSK_MAX_EMPLOYMENT_INCOME"] = ctx["BEITRAGSBEMESSUNGSGRENZE"] / 2  # § 4 KSVG
@@ -301,10 +304,11 @@ ctx["DEUTSCHLAND_TICKET_PRICE"] = fail_on("2026-12-31", 63)
 # ==============================================================================
 
 # Minimum income (€/y) to get a Blue Card - § 18g AufenthG
-ctx["BLUE_CARD_MIN_INCOME"] = Decimal("0.5") * ctx["BEITRAGSBEMESSUNGSGRENZE"]
+ctx["BLUE_CARD_MIN_INCOME"] = round(Decimal("0.5") * ctx["BEITRAGSBEMESSUNGSGRENZE"])
 
 # Minimum income (€/y) to get a Blue Card in shortage fields - § 18g AufenthG
-ctx["BLUE_CARD_SHORTAGE_MIN_INCOME"] = Decimal("0.453") * ctx["BEITRAGSBEMESSUNGSGRENZE"]
+ctx["BLUE_CARD_SHORTAGE_MIN_INCOME"] = round(Decimal("0.453") * ctx["BEITRAGSBEMESSUNGSGRENZE"])
+
 
 # Visa fees (€) - § 44, § 45, § 45c and § 47 AufenthV
 ctx["SCHENGEN_VISA_FEE"] = 75
@@ -388,8 +392,6 @@ ctx["AUFENTHV_41_COUNTRIES"] = or_join(
 # ==============================================================================
 
 ctx["BESCHEINIGUNG_IN_STEUERSACHEN_FEE"] = Decimal("17.90")  # (€) - service.berlin.de/dienstleistung/324713
-ctx["DRIVING_LICENCE_CONVERSION_FEE"] = Decimal("37.50")  # (€) - service.berlin.de/dienstleistung/327537
-ctx["DRIVING_LICENCE_FEE"] = Decimal("51.21")  # (€) - service.berlin.de/dienstleistung/121627
 ctx["ERWEITERTE_MELDEBESCHEINIGUNG_FEE"] = fail_on("2025-12-31", 10)  # (€) - service.berlin.de/dienstleistung/120702
 ctx["GEWERBEANMELDUNG_FEE"] = 15  # € - service.berlin.de/dienstleistung/121921
 ctx["HUNDEFUHRERSCHEIN_FEE"] = 94  # (€) - service.berlin.de/dienstleistung/121822
@@ -403,6 +405,14 @@ ctx["SCHUFA_REPORT_FEE"] = fail_on("2026-12-31", Decimal("29.95"))  # TODO: Not 
 ctx["VEHICLE_UMMELDUNG_FEE"] = Decimal("10.80")  # service.berlin.de/dienstleistung/120658
 ctx["LICENSE_PLATE_COST"] = fail_on("2027-12-31", 20)  # Cost of making license plates
 
+ctx["FIRST_AID_COURSE_COST"] = fail_on("2027-12-31", 65)  # Cost of a first aid course for a driver's licence
+ctx["DRIVING_LICENCE_CONVERSION_FEE"] = Decimal("37.50")  # (€) - service.berlin.de/dienstleistung/327537
+ctx["DRIVING_LICENCE_FEE"] = Decimal("51.21")  # (€) - service.berlin.de/dienstleistung/121627
+ctx["FIRST_AID_COURSE_FEE"] = fail_on("2026-12-31", Decimal("80"))
+ctx["DRIVING_SCHOOL_FEE"] = fail_on("2026-12-31", Decimal("190"))
+ctx["DRIVING_PRACTICE_FEE"] = fail_on("2026-12-31", Decimal("60"))  # per 45-minute lesson
+ctx["DRIVING_THEORY_EXAM_FEE"] = fail_on("2026-12-31", Decimal("25"))  # Dekra/TÜV fee
+ctx["DRIVING_PRACTICAL_EXAM_FEE"] = fail_on("2026-12-31", Decimal("130"))  # Dekra/TÜV fee
 
 # ==============================================================================
 # TECHNICAL
