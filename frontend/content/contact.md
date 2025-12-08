@@ -11,7 +11,7 @@ Hi, I'm [Nicolas](/about). You can contact me to…
 - **Give feedback**  
     Send me your fixes and suggestions. It makes my job much easier.
 - **Say thanks**  
-    I *love* to hear from happy readers! You can also [donate a few euros](/donate) to support my work.
+    I *love* to hear from happy readers! You can also [donate €10](/donate) to support my work.
 - **Advertise your business**  
     Read my [content policy](/terms#content-policy) and my [advertising policy](/terms#advertising-policy) first. I sometimes work with advertisers, but not at the readers' expense.
     - **Therapists and psychiatrists**  
