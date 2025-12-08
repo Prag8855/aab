@@ -1,3 +1,4 @@
+{% include '_js/utils/constants.js' %}
 {% js %}
 const brokerMixin = {
     computed: {
@@ -24,7 +25,14 @@ const brokerMixin = {
                     his: 'her',
                 },
             ];
-            const brokerId = localStorage.getItem('healthInsuranceBroker') || brokers[Math.floor(Math.random() * brokers.length * 4/5)].id;
+
+            // Choose a broker at random
+            let brokerId = localStorage.getItem('healthInsuranceBroker') || brokers[Math.random() < 0.8 ? 0 : 1].id;
+
+            // Prefer Seamus for well-paid people
+            if(this.mode === 'calculator' && this.yearlyIncome > healthInsurance.maxMonthlyIncome){
+                brokerId = 'seamus-wolf';
+            }
             localStorage.setItem('healthInsuranceBroker', brokerId);
 
             return brokers.find(b => b.id === brokerId) || brokers[0];
