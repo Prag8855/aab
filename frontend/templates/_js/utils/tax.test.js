@@ -7,7 +7,7 @@ describe('calculateUnemploymentInsurance', () => {
 	const testCases = [
 		{
 			name: 'an employee with a very high income in West Germany',
-			args: [100000, 'employee', false],
+			args: [200000, 'employee', false],
 			output: {
 				flags: ['max-contribution'],
 				unemploymentInsurance: taxes.beitragsbemessungsgrenze.currentYear.west * taxes.arbeitslosenversicherungRate,
@@ -15,7 +15,7 @@ describe('calculateUnemploymentInsurance', () => {
 		},
 		{
 			name: 'an employee with a very high income in East Germany',
-			args: [100000, 'employee', true],
+			args: [200000, 'employee', true],
 			output: {
 				flags: ['max-contribution'],
 				unemploymentInsurance: taxes.beitragsbemessungsgrenze.currentYear.east * taxes.arbeitslosenversicherungRate,
@@ -31,7 +31,7 @@ describe('calculateUnemploymentInsurance', () => {
 		},
 		{
 			name: 'a freelancer',
-			args: [100000, 'selfEmployed', true],
+			args: [200000, 'selfEmployed', true],
 			output: {
 				flags: ['optional'],
 				unemploymentInsurance: 0,
