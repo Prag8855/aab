@@ -4,6 +4,7 @@
 ursus-ssg==1.4.3
 pyphen==0.17.2
 googlemaps==4.10.0
+shapely==2.1.2
 
 # Linting tools
 pyright~=1.1
