@@ -10,8 +10,17 @@
 		</a>
 		<small>Get free advice in English on WhatsApp</small>
 	{% else %}
-		<div class="donate" data-nosnippet>
-			Did this {{ pageType|default("website") }} help you? Consider <a class="cta" href="{{ site_url }}/donate" target="_blank" title="Donate to All About Berlin">donating €10</a> to support my work.
+		<div class="newsletter-form" data-nosnippet>
+			<span>
+				<strong>Stay informed!</strong> Get useful tips and updates by email once per month.
+			</span>
+			<div class="email-form">
+				<input type="email" autocomplete="email" title="Email address" placeholder="Your email address" required>
+				<button class="button primary">
+					<span>Subscribe</span>
+					<i class="icon right"></i>
+				</button>
+			</div>
 		</div>
 	{% endif %}
 	<div id="floating-nav">
