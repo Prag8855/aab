@@ -2,9 +2,23 @@
 {% set metatitle = entry.title %}
 {% set metadescription = entry.description %}
 
+{# Get the previous and next entries for navigation #}
+{% set previousEntry = None %}
+{% set nextEntry = None %}
+
 {% block postHead %}
     {{ super() }}
     <link rel="index" href="{{ site_url }}/newsletter">
+    {% for e in get_entries('newsletter', sort_by='date_created', reverse=True) %}
+        {% if e.entry_uri == entry.entry_uri %}
+            {% if not loop.first %}
+                <link rel="prev" href="{{ loop.previtem.url }}">
+            {% endif %}
+            {% if not loop.last %}
+                <link rel="next" href="{{ loop.nextitem.url }}">
+            {% endif %}
+        {% endif %}
+    {% endfor %}
 {% endblock %}
 
 {% block main %}
@@ -12,12 +26,31 @@
         {% block precontent %}{% endblock %}
         <article class="section">
             <h1>{{ entry.title }}</h1>
-            {% include "_blocks/postMeta.html" %}
+            {% with showPublicationDate=True %}
+                {% include "_blocks/postMeta.html" %}
+            {% endwith %}
+            {% with text="This is a post from my newsletter. Subscribe to get future updates." %}
+                {% include "_blocks/newsletterForm.html" %}
+            {% endwith %}
+            <hr>
             {% with entry=entry %}
                 <div class="article-body">
                     {{ entry.body|render|safe }}
                 </div>
             {% endwith %}
+            <hr>
+            <nav class="previous-next">
+            {% for e in get_entries('newsletter', sort_by='date_created', reverse=True) %}
+                {% if e.entry_uri == entry.entry_uri %}
+                    {% if not loop.first %}
+                        <a rel="prev" href="{{ loop.previtem.url }}"><i class="icon left"></i> {{ loop.previtem.title }}</a>
+                    {% endif %}
+                    {% if not loop.last %}
+                        <a rel="next" href="{{ loop.nextitem.url }}">{{ loop.nextitem.title }} <i class="icon right"></i></a>
+                    {% endif %}
+                {% endif %}
+            {% endfor %}
+            </nav>
         </article>
 
         {% with pageType='post' %}

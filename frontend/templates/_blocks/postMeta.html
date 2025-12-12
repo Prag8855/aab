@@ -2,7 +2,11 @@
 	{% set reviews = entry.related_reviews|default([]) %}
 	<span>
 		<i class="icon calendar" aria-hidden="true"></i>
-		<time datetime="{{ entry.date_updated.isoformat(timespec='seconds') }}">Updated on {{ entry.date_updated.strftime('%B %-d, %Y') }}</time>
+		{% if showPublicationDate|default %}
+			<time datetime="{{ entry.date_created.isoformat(timespec='seconds') }}">Published on {{ entry.date_created.strftime('%B %-d, %Y') }}</time>
+		{% else %}
+			<time datetime="{{ entry.date_updated.isoformat(timespec='seconds') }}">Updated on {{ entry.date_updated.strftime('%B %-d, %Y') }}</time>
+		{% endif %}
 	</span>
 	<span>
 		<i class="icon person" aria-hidden="true"></i>

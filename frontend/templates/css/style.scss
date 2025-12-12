@@ -750,6 +750,7 @@ body > header {
     }
 
     .newsletter-form{
+        text-align: left;
         padding-top: var(--l);
         border-top: var(--b-box);
     }
@@ -3314,6 +3315,7 @@ collapsible, letter-generator, feedback-residence-permit, health-insurance-calcu
     margin: var(--s-text-block) auto;
     display: grid;
     gap: var(--m);
+    text-align: center;
 
     .email-form{
         width: 100%;
@@ -3359,6 +3361,15 @@ collapsible, letter-generator, feedback-residence-permit, health-insurance-calcu
             padding: 0 var(--s);
         }
     }
+}
+
+.previous-next{
+    display: flex;
+    justify-content: space-between;
+    margin: var(--s-text-block) 0;
+    gap: var(--s) var(--l);
+    font-weight: 600;
+    flex-wrap: wrap;
 }
 
 .feedback-table, .feedback-summary {
