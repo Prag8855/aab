@@ -13,9 +13,7 @@
             {% include "_blocks/newsletterForm.html" %}
         </header>
         <section class="section" aria-label="Previous emails">
-            <h2>Latest emails</h2>
-            {% set newEntries = get_entries('newsletter', sort_by='date_created', reverse=True)[0:10] %}
-            {% with entries=newEntries, showDatePosted=true %}
+            {% with entries=get_entries('newsletter', sort_by='date_created', reverse=True), showDatePosted=true %}
                 {% include "_blocks/entryPreviews.html" %}
             {% endwith %}
         </section>
