@@ -2112,8 +2112,9 @@ input[name="username"], // Honeypot
         }
     }
 
-    .guides{
+    .guides, .newsletter{
         grid-template-columns: 1fr;
+        gap: 0;
         h3{
             display: grid;
             grid-template-columns: 1fr auto;
@@ -2123,6 +2124,9 @@ input[name="username"], // Honeypot
                 grid-template-columns: 1fr;
                 gap: var(--xs);
             }
+        }
+        p{
+            font-size: var(--f-s);
         }
     }
 }

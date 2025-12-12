@@ -1,6 +1,6 @@
 <ol class="previews">
 {% for entry in entries %}
-	{% set entryType = entry.url.split('/')[1] %}
+	{% set entryType = entry.url.split('/')[3] %}
 	<li class="{{ entryType }}">
 		<h3>
 			<a href="{{ entry.url }}" rel="bookmark">
@@ -26,6 +26,7 @@
 		{% if entryType == 'guides' %}
 			<script type="application/ld+json">{% include "_blocks/guideJsonld.json" %}</script>
 		{% elif entryType == 'newsletter' %}
+			<p>{{ entry.description }}</p>
 			<script type="application/ld+json">{% include "_blocks/newsletterJsonld.json" %}</script>
 		{% endif %}
 	</li>
