@@ -1,6 +1,6 @@
 ---
 Title: What's new in January 2026
-Description: Christmas markets, big changes in 2026, tax saving tips, and good news for parents.
+Description: New year, new rules, and a map of Berlin housing prices
 Date_created: 2026-01-01
 ---
 
