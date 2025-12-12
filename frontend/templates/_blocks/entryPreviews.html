@@ -1,6 +1,6 @@
 <ol class="previews">
 {% for entry in entries %}
-	{% set entryType = entry.url.split('/')[3] %}
+	{% set entryType = entry.entry_uri.split('/')[0] %}
 	<li class="{{ entryType }}">
 		<h3>
 			<a href="{{ entry.url }}" rel="bookmark">
