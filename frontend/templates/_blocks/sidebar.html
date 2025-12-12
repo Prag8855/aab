@@ -10,18 +10,7 @@
 		</a>
 		<small>Get free advice in English on WhatsApp</small>
 	{% else %}
-		<div class="newsletter-form" data-nosnippet>
-			<span>
-				<strong>Stay informed!</strong> Get useful tips and updates by email once per month.
-			</span>
-			<div class="email-form">
-				<input type="email" autocomplete="email" title="Email address" placeholder="Your email address" required>
-				<button class="button primary">
-					<span>Subscribe</span>
-					<i class="icon right"></i>
-				</button>
-			</div>
-		</div>
+		{% include "_blocks/newsletterForm.html" %}
 	{% endif %}
 	<div id="floating-nav">
 		{% if entry.get('call_to_action') == 'askOurInsuranceExpert' %}

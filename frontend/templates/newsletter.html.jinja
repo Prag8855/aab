@@ -1,0 +1,23 @@
+{% extends "_layout.html" %}
+{% set metatitle = "Newsletter" %}
+{% set metadescription = "Berlin news in English. Get useful tips and updates by email." %}
+
+{% block postHead %}
+    {{ super() }}
+    <link rel="canonical" href="{{ site_url }}/">
+{% endblock %}
+{% block main %}
+    <main aria-label="Main page">
+        <header class="intro">
+            <h1>Newsletter</h1>
+            {% include "_blocks/newsletterForm.html" %}
+        </header>
+        <section class="section" aria-label="Previous emails">
+            <h2>Last emails</h2>
+            {% set newEntries = get_entries('newsletter', sort_by='date_created', reverse=True)[0:10] %}
+            {% with entries=newEntries, showDatePosted=true %}
+                {% include "_blocks/entryPreviews.html" %}
+            {% endwith %}
+        </section>
+    </main>
+{% endblock %}

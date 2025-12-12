@@ -9,8 +9,6 @@ window.addEventListener("DOMContentLoaded", function() {
 	const sidebarOpenCloseButton = floatingNav.querySelector('.open-close');
 	const sidebarSectionLinks = Array.from(sidebarTableOfContents.querySelectorAll('li a:not(.expand)'));
 	const sidebarCallsToAction = Array.from(sidebar.querySelectorAll('.cta'));
-	const sidebarEmail = sidebar.querySelector('.newsletter-form input[type="email"]');
-	const sidebarEmailSubmit = sidebar.querySelector('.newsletter-form .button');
 
 	let toggleSidebarTracked = false;
 	function toggleSidebar(shouldBeOpen){
@@ -60,36 +58,6 @@ window.addEventListener("DOMContentLoaded", function() {
 			}});
 		});
 	});
-
-	// Prefill newsletter email
-	if(sidebarEmail){
-		sidebarEmail.value = localStorage.getItem('email') || '';
-		sidebarEmailSubmit.addEventListener('click', e => {
-			sidebarEmail.classList.add('show-errors');
-			if(!sidebarEmail.checkValidity()){
-				return;
-			}
-			sidebarEmailSubmit.disabled = true;
-			sidebarEmailSubmit.classList.add('loading');
-			fetch('https://api.buttondown.com/v1/subscribers', {
-				method: "POST",
-				headers: {Authorization: "Token 8d5ff238-3a45-4e17-a129-0f1fcbe9b97f"},
-				body: JSON.stringify({email_address: sidebarEmail.value}),
-			}).then(response => {
-				if(response.ok){
-					plausible('Newsletter signup', { props: {
-						pageSection: 'sidebar',
-						referrer: getReferrer(),
-					}});
-					this.stage = 'requestConfirmation';
-				}
-				sidebar.querySelector('.newsletter-form').innerHTML = response.ok ?
-					"<span><strong>Subscribed!</strong> You will get a confirmation email in a few minutes.</span>"
-					: "<span><strong>Error!</strong> We could not sign you up. <a href='/newsletter' target='_blank'>Try again.</a></span>";
-			});
-
-		});
-	}
 
 	// Show/hide mobile sidebar
 	sidebarOpenCloseButton.addEventListener('click', e => toggleSidebar());

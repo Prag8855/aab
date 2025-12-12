@@ -1,0 +1,43 @@
+{% include "_js/utils/newsletter.js" %}
+{% js %}
+window.addEventListener("DOMContentLoaded", function() {
+    Array.from(document.querySelectorAll('.newsletter-form')).forEach(form => {
+        const emailInput = form.querySelector('input[type="email"]');
+        const submitButton = form.querySelector('.button');
+
+        emailInput.value = localStorage.getItem('email') || '';
+        form.addEventListener('submit', e => {
+            e.preventDefault();
+            if(!emailInput.checkValidity()){
+                return;
+            }
+            submitButton.disabled = true;
+            submitButton.classList.add('loading');
+            emailInput.classList.add('show-errors');
+            addNewsletterSubscriber(emailInput.value).then(response => {
+                if(response.ok){
+                    plausible('Newsletter signup', { props: {
+                        pageSection: 'sidebar',
+                        referrer: getReferrer(),
+                    }});
+                }
+                form.innerHTML = response.ok ?
+                    "<span><strong>Subscribed!</strong> Check your email for a confirmation link. Click it to receive my newsletter.</span>"
+                    : "<span><strong>Error!</strong> We could not sign you up. <a href='/newsletter' target='_blank'>Try again.</a></span>";
+            });
+        });
+    });
+});
+{% endjs %}
+<form class="newsletter-form" data-nosnippet aria-label="Newsletter subscription form">
+    <span>
+        <strong>Stay informed!</strong> Get useful tips and updates by email once per month.
+    </span>
+    <div class="email-form">
+        <input aria-label="Email address" type="email" autocomplete="email" title="Email address" placeholder="Your email address" required>
+        <button type="submit" class="button primary" aria-label="Subscribe to the newsletter">
+            <span>Subscribe</span>
+            <i class="icon right"></i>
+        </button>
+    </div>
+</form>
