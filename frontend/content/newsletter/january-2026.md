@@ -27,6 +27,12 @@ As mentioned in December, some things have changed on January 1:
 
 You can find a longer list with all explanations [on my personal blog](https://nicolasbouliane.com/blog/new-in-2026).
 
+## Changes to cannabis law
+
+In 2025, you could get a cannabis prescription from an online doctor, and get weed delivered to your home. This created a small industry of online doctors who prescribed everyone cannabis, and online pharmacies who sold it to you. It was fast, digital, and [*shockingly* easy](https://www.arbeitnow.com/blog/buying-medical-cannabis-online-in-germany).
+
+And Germany took that personally. The government is passing [a law to ban telemedicine for medical cannabis](https://dserver.bundestag.de/btd/21/030/2103061.pdf). Online doctors won't be allowed to prescribe cannabis, and online pharmacies won't be allowed to sell it. Everything will have to be done in person.
+
 ## Current projects
 
 ???Housing map???
