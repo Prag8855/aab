@@ -12,7 +12,17 @@ This guide explains how to prepare to leave Germany, step by step.
 
 ### Quit your job
 
-- [ ] [Quit your job](/guides/losing-your-job)
+- [ ] **[Quit your job](/guides/losing-your-job)**
+    - [ ] Give your [resignation letter](/glossary/Kündigungsschreiben)
+    - [ ] Register at the *[[Agentur für Arbeit]]*
+    - [ ] Tell the *[[Ausländerbehörde]]*
+    - [ ] Tell your health insurance
+    - [ ] Get all documents from your employer
+        - [ ] Letter of reference (*[[Arbeitszeugnis]]*)
+        - [ ] Employment certificate (*[[Arbeitsbescheinigung]]*)
+        - [ ] Vacation certificate (*[[Urlaubsbescheinigung]]*)
+        - [ ] Last pay slip (*[[Gehaltsabrechnung]]* or *Lohnabrechnung*)
+        - [ ] Salary tax statement (*[[Lohnsteuerbescheinigung]]*)
 
 ### Close your business
 
