@@ -4,6 +4,8 @@ Description: A checklist for moving from Germany to another country
 Date_created: 2026-01-01
 ---
 
+This guide explains how to prepare to leave Germany, step by step.
+
 {% include "_blocks/tableOfContents.html" %}
 
 ## Before you leave Germany
@@ -19,12 +21,18 @@ Date_created: 2026-01-01
 
 ### Move out of your apartment
 
-- [ ] [Deregister your address](/guides/abmeldung-deregister-in-berlin)
-- [ ] [Change your address](/guides/address-change)
-- [ ] [Forward your mail](/guides/address-change#forward-your-mail)
-- [ ] [Stop paying TV tax](/guides/gez-rundfunkbeitrag#how-to-stop-paying)
+- [ ] **[End your lease](/guides/moving-out#end-your-lease)**  
+    Most leases have a 3-month [notice period](/glossary/Kündigungsfrist). Your landlord might end your lease sooner if you help them find a new tenant.
+- [ ] **[Deregister your address](/guides/abmeldung-deregister-in-berlin)** (*[[Abmeldung]]*)  
+    You need the [deregistration certificate](/glossary/Abmeldebescheinigung) to cancel other services.
+- [ ] **[Change your address](/guides/address-change)**
+- [ ] **[Forward your mail](/guides/address-change#forward-your-mail)**  
+    Pay to send your mail to another address.
+- [ ] **[Stop paying TV tax](/guides/gez-rundfunkbeitrag#how-to-stop-paying)**
+- [ ] **[Move out](/guides/moving-out)**  
+    Sell or donate your things, hire movers, repaint the walls, and get your [deposit](/glossary/Kaution) back.
 
-**[How to move out of an apartment ➞](/guides/moving-out)**
+**[How to move out of your apartment ➞](/guides/moving-out)**
 
 ### Cancel contracts and services
 
