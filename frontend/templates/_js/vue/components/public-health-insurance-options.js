@@ -42,6 +42,15 @@ Vue.component('public-health-insurance-options', {
         mostExpensiveOption() {
             return this.results.public.options.at(-1);
         },
+        technikerKrankenkasseUrl() {
+            if(occupations.isStudent(this.occupation)){
+                return "/out/tk-signup-students";
+            }
+            else if(occupations.isEmployed(this.occupation)){
+                return "/out/tk-signup-employees";
+            }
+            return "/out/feather-tk-signup";
+        },
         isMinijobTariff(){
             return (
                 occupations.isMinijob(this.occupation, this.monthlyIncome)
@@ -85,7 +94,7 @@ Vue.component('public-health-insurance-options', {
 
             <ul class="buttons list">
                 <li>
-                    <a class="recommended" title="Sign up with Techniker Krankenkasse" href="/out/feather-tk-signup" target="_blank">
+                    <a class="recommended" title="Sign up with Techniker Krankenkasse" :href="technikerKrankenkasseUrl" target="_blank">
                         {% endraw %}{% include "_css/icons/health-insurance/logo-tk.svg" %}{% raw %}
                         <div>
                             <h3 v-text="option('tk').name"></h3>
