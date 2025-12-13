@@ -46,8 +46,12 @@ This guide explains how to prepare to leave Germany, step by step.
 
 ### Cancel contracts and services
 
+If you leave Germany, a 1-month notice is enough.
+
+- [ ] **Utilities**  
+    [Read your electricity meter.](/guides/moving-out#read-the-electricity-meter)
 - [ ] Phone and internet
-- [ ] Public transit
+- [ ] Public transit pass
 - [ ] Bank account
 - [ ] Health insurance
     - [ ] Or get the price locked down if you plan to return (Anwartschaftsversicherung)
@@ -55,11 +59,21 @@ This guide explains how to prepare to leave Germany, step by step.
 - [ ] Investments
 - [ ] [Stop paying dog tax](https://service.berlin.de/dienstleistung/324161/)
 
+### Gather important documents
+
+- [ ] Mietschuldenfreiheitsbescheinigung
+- [ ] [[Übergabeprotokoll]]
+- [ ] Abmeldebescheinigung
+- [ ] Tax returns
+- [ ] [[Lohnsteuerbescheinigung]]
+
 ## After you leave Germany
 
-- [ ] Get your apartment deposit back
+- [ ] Get your last *[[Nebenkostenabrechnung]]*
+- [ ] **[Get your apartment deposit back](/guides/mietkaution#how-to-get-your-kaution-back)**
 - [ ] Make a tax declaration
 - [ ] [Get your pension payments back](/guides/pension-payments-refund)
+- [ ] Get your last bonus
 
 ## What keeps working
 
@@ -96,9 +110,20 @@ What keeps working?
 
 ---
 
+- Bank: mind the last paycheck
+- Work: Christmas bonus?
 - Deregister your dog?
 - Anything with children?
 - KSK?
+- Students?
+    - disenroll from university
+    - get a confirmation of disenrollment
+    - blocked account?
+    - transcript of record
+    - [ECTS](https://www.uni-mannheim.de/en/academics/coming-to-mannheim/exchange-students/before-you-leave-mannheim/#c34802) - European Credit Transfer System
+- Children?
+    - Kita
+    - School
 - Pets?
     - Vaccines and other documentation
     - Quarantine requirements
@@ -114,8 +139,11 @@ What keeps working?
 - Sell your stuff
 - [ELEFAND](https://krisenvorsorgeliste.diplo.de/signin)
 - Effect on residence permit
-- Update abmeldung tool
+- Update Abmeldung tool
+- Which documents should a freelancer gather? EÜR?
+- Mind the job resignation notice period
+- Save your numbers: Pension insurance number, insurance number, tax id, tax number, VAT number, etc.
 
-[^1]: [](https://eidel.io/notes-and-hacks-on-germanys-exit-tax/), [](https://www.winheller.com/en/tax-law-tax-advisory/international-tax-planning/exit-taxation.html), [](https://news.ycombinator.com/item?id=44828158)
-[^2]: [](https://www.deutsche-im-ausland.org/absicherung-und-finanzen/finanzen/kindergeld-im-ausland.html#c1242)
-[^3]: [](https://www.deutsche-im-ausland.org/absicherung-und-finanzen/finanzen/elterngeld-im-ausland.html)
+[^1]: [eidel.io](https://eidel.io/notes-and-hacks-on-germanys-exit-tax/), [winheller.com](https://www.winheller.com/en/tax-law-tax-advisory/international-tax-planning/exit-taxation.html), [Hacker News](https://news.ycombinator.com/item?id=44828158)
+[^2]: [deutsche-im-ausland.org](https://www.deutsche-im-ausland.org/absicherung-und-finanzen/finanzen/kindergeld-im-ausland.html#c1242)
+[^3]: [deutsche-im-ausland.org](https://www.deutsche-im-ausland.org/absicherung-und-finanzen/finanzen/elterngeld-im-ausland.html)
