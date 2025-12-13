@@ -1,0 +1,190 @@
+{% extends "_layout.html" %}
+{% set metatitle = "Berlin rent prices map" %}
+{% set metadescription = "See the rent per m² in each Berlin neighbourood" %}
+
+{% block postHead %}
+    <meta name="robots" content="noindex">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link href="https://unpkg.com/maplibre-gl@5.14.0/dist/maplibre-gl.css" rel="stylesheet"/>
+    <script src="https://unpkg.com/maplibre-gl@5.14.0/dist/maplibre-gl.js"></script>
+    <style>
+        body, html{
+            height: 100%;
+        }
+        body{
+            grid-template-rows: var(--h-header) 1fr auto!important;
+        }
+        #map {
+            color: var(--c-text);
+            top:0; bottom:0; width:100%;
+            border-radius: var(--b-radius);
+            box-shadow: var(--shadow-l);
+        }
+    </style>
+{% endblock %}
+
+{% block main %}
+    <main aria-label="Main page">
+        <div id="map"></div>
+    </main>
+    <div class="sidebar no-print" data-nosnippet aria-hidden="true">
+        <h2>Rent prices in Berlin</h2>
+        <p>This map shows the <strong>median rent price per m²</strong>, based on <span id="sampleSize">thousands of</span> apartments listed in the last 12 months.</p>
+        <small>Data source: <a href="https://www.stekkies.com/en-de/">Stekkies</a></small>
+    </div>
+{% endblock %}
+
+{% js %}
+// Initialize MapLibre
+const map = new maplibregl.Map({
+    container: 'map',
+    // style: 'https://sgx.geodatenzentrum.de/gdz_basemapde_vektor/styles/bm_web_gry.json',
+    style: {% include "tools/rent-map/_mapStyle.json" %},
+    center: [13.405, 52.52],
+    zoom: 10
+});
+
+function getFeatureBounds(f){
+    return f.geometry.coordinates
+        .flat(f.geometry.type === "MultiPolygon" ? 2 : 1)
+        .reduce(
+            (bounds, coord) => bounds.extend(coord),
+            new maplibregl.LngLatBounds()
+        )
+}
+
+// Add interactive GeoJSON layer
+map.on('load', () => {
+    const popup = new maplibregl.Popup({
+        closeButton: false,
+        closeOnClick: false
+    });
+    let hoveredFeature = undefined;
+
+    fetch('/tools/rent-map/data.json')
+        .then(r => r.json())
+        .then(mapData => {
+            const layers = map.getStyle().layers;
+            // Find the index of the first symbol layer in the map style
+            let firstSymbolId;
+            for (let i = 0; i < layers.length; i++) {
+                if (layers[i].type === 'symbol') {
+                    firstSymbolId = layers[i].id;
+                    break;
+                }
+            }
+
+
+            // Color calculation
+            const rents = mapData.features.map(d => d.properties['median']);
+            const minRent = Math.min(...rents);
+            const maxRent = Math.max(...rents);
+            const sampleSize = mapData.features.reduce((total, f) => total + f.properties.count, 0);
+            document.getElementById('sampleSize').innerHTML = Intl.NumberFormat("en-US").format(sampleSize);
+
+            mapData.features.forEach(f => {
+                const rent = f.properties['median'];
+                const colors = ["#ffffff", "#ffe0d8", "#ffc0b0", "#ff9e89", "#f97c64", "#ea5d45", "#d63d29", "#bd1d12", "#9d0000"];
+                const rank = (rent - minRent) / (maxRent - minRent);
+                const index = Math.min(Math.ceil(rank * colors.length), colors.length - 1);
+                f.properties.color = colors[index];
+            });
+
+            // Add shapes
+            const mapDataSource = map.addSource('plz-data', {
+                type: 'geojson',
+                data: mapData,
+            });
+            map.fitBounds(mapDataSource.getBounds(), { padding: 20 });
+
+            // Add labels
+            map.addSource('plz-data-labels', {
+                type: 'geojson',
+                data: {
+                    type: "FeatureCollection",
+                    features: mapData.features.map(f => {
+                        return {
+                            type: "Feature",
+                            properties: {
+                                name: f.properties.median,
+                            },
+                            geometry: {
+                                type: "Point",
+                                coordinates: getFeatureBounds(f).getCenter().toArray(),
+                            },
+                        }
+                    })
+                }
+            });
+            map.addLayer({
+                id: 'geojson-labels',
+                type: 'symbol',
+                source: 'plz-data-labels',
+                layout: {
+                    'text-field': ['get', 'name'],
+                    'text-size': 10,
+                },
+                paint: {
+                    'text-color': '#000c',
+                    'text-halo-color': '#fff5',
+                    'text-halo-width': 1
+                },
+            });
+
+            map.addLayer({
+                id: 'geojson-fill-top',
+                type: 'fill',
+                source: 'plz-data',
+                paint: {
+                    'fill-color': ['get', 'color'],  // precomputed
+                    'fill-outline-color': '#000',
+                    'fill-opacity': 0.5,
+                }
+            }, firstSymbolId);
+
+            map.addLayer({
+                id: 'geojson-fill-bottom',
+                type: 'fill',
+                source: 'plz-data',
+                paint: {
+                    'fill-color': ['get', 'color'],  // precomputed
+                }
+            }, "VegetationsF_Wald");
+
+            // Click to zoom
+            map.on('click', 'geojson-fill-top', (e) => {
+                // Geographic coordinates of the LineString
+                map.fitBounds(getFeatureBounds(e.features[0]), {
+                    padding: 20
+                });
+            });
+      });
+
+    map.on('mousemove', 'geojson-fill-top', (e) => {
+        const feature = e.features[0];
+        const description = `
+            <b>Post code:</b> ${feature.id}<br>
+            <b>Median rent:</b> €${feature.properties.median}/m²<br>
+            <small>Based on ${feature.properties.count} listings</small>
+        `;
+
+        if (feature !== hoveredFeature) {
+            hoveredFeature = feature;
+
+            // Change the cursor style as a UI indicator.
+            map.getCanvas().style.cursor = 'pointer';
+
+            popup.setLngLat(getFeatureBounds(feature).getCenter())
+                .setHTML(description)
+                .addTo(map);
+        }
+
+    });
+
+    map.on('mouseleave', 'geojson-fill-top', () => {
+        hoveredFeature = undefined;
+        map.getCanvas().style.cursor = '';
+        popup.remove();
+    });
+});
+{% endjs %}
