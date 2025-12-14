@@ -122,12 +122,34 @@ map.on('load', () => {
                 source: 'plz-data-labels',
                 layout: {
                     'text-field': ['get', 'name'],
-                    'text-size': 10,
+                    "text-size": {
+                        "base": 1,
+                        "stops": [
+                            [
+                                5,
+                                10
+                            ],
+                            [
+                                11,
+                                13
+                            ],
+                            [
+                                14,
+                                20
+                            ]
+                        ]
+                    },
                 },
                 paint: {
                     'text-color': '#000c',
-                    'text-halo-color': '#fff5',
-                    'text-halo-width': 1
+                    'text-halo-color': '#fff',
+                    'text-halo-width': [
+                        'step',
+                        ['zoom'],
+                        0.5,
+                        11, 1.5,
+                        13, 2,
+                    ],
                 },
             });
 
@@ -137,19 +159,40 @@ map.on('load', () => {
                 source: 'plz-data',
                 paint: {
                     'fill-color': ['get', 'color'],  // precomputed
-                    'fill-outline-color': '#000',
-                    'fill-opacity': 0.5,
+                    'fill-opacity': [
+                        'step',
+                        ['zoom'],
+                        1,
+                        5, 0.8,
+                        11, 0.6,
+                        14, 0.4,
+                    ],
                 }
             }, firstSymbolId);
 
             map.addLayer({
-                id: 'geojson-fill-bottom',
-                type: 'fill',
+                id: 'geojson-outline',
+                type: 'line',
                 source: 'plz-data',
                 paint: {
-                    'fill-color': ['get', 'color'],  // precomputed
+                    'line-color': '#000',
+                    'line-width': [
+                        'step',
+                        ['zoom'],
+                        0.5,
+                        11, 1,
+                        12, 3,
+                        14, 4,
+                    ],
+                    'line-opacity': [
+                        'step',
+                        ['zoom'],
+                        0.3,
+                        10, 0.5,
+                        15, 0.8,
+                    ]
                 }
-            }, "VegetationsF_Wald");
+            }, firstSymbolId);
 
             // Click to zoom
             map.on('click', 'geojson-fill-top', (e) => {
