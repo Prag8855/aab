@@ -3,205 +3,205 @@
 {% set metadescription = "See the rent per m² in each Berlin neighbourood" %}
 
 {% block postHead %}
-    <meta name="robots" content="noindex">
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link href="https://unpkg.com/maplibre-gl@5.14.0/dist/maplibre-gl.css" rel="stylesheet"/>
-    <script src="https://unpkg.com/maplibre-gl@5.14.0/dist/maplibre-gl.js"></script>
-    <style>
-        body, html{
-            height: 100%;
-        }
-        body{
-            grid-template-rows: var(--h-header) 1fr auto!important;
-        }
-        #map {
-            color: var(--c-text);
-            top:0; bottom:0; width:100%;
-            border-radius: var(--b-radius);
-            box-shadow: var(--shadow-l);
-        }
-    </style>
+	<meta name="robots" content="noindex">
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<link href="https://unpkg.com/maplibre-gl@5.14.0/dist/maplibre-gl.css" rel="stylesheet"/>
+	<script src="https://unpkg.com/maplibre-gl@5.14.0/dist/maplibre-gl.js"></script>
+	<style>
+		body, html{
+			height: 100%;
+		}
+		body{
+			grid-template-rows: var(--h-header) 1fr auto!important;
+		}
+		#map {
+			color: var(--c-text);
+			top:0; bottom:0; width:100%;
+			border-radius: var(--b-radius);
+			box-shadow: var(--shadow-l);
+		}
+	</style>
 {% endblock %}
 
 {% block main %}
-    <main aria-label="Map">
-        <div id="map"></div>
-    </main>
-    <div class="sidebar no-print" data-nosnippet aria-hidden="true">
-        <h2>Rent prices in Berlin</h2>
-        <p>This map shows the <strong>median rent price per m²</strong>, based on <span id="sampleSize">thousands of</span> apartments listed in the last 12 months.</p>
-        <small>Data from <a href="https://www.stekkies.com/en-de/">Stekkies</a>, December 2025</small>
-    </div>
+	<main aria-label="Map">
+		<div id="map"></div>
+	</main>
+	<div class="sidebar no-print" data-nosnippet aria-hidden="true">
+		<h2>Rent prices in Berlin</h2>
+		<p>This map shows the <strong>median rent price per m²</strong>, based on <span id="sampleSize">thousands of</span> apartments listed in the last 12 months.</p>
+		<small>Data from <a href="https://www.stekkies.com/en-de/">Stekkies</a>, December 2025</small>
+	</div>
 {% endblock %}
 
 {% js %}
 // Initialize MapLibre
 const map = new maplibregl.Map({
-    container: 'map',
-    // style: 'https://sgx.geodatenzentrum.de/gdz_basemapde_vektor/styles/bm_web_gry.json',
-    style: {% include "tools/rent-map/_mapStyle.json" %},
-    center: [13.405, 52.52],
-    zoom: 10
+	container: 'map',
+	// style: 'https://sgx.geodatenzentrum.de/gdz_basemapde_vektor/styles/bm_web_gry.json',
+	style: {% include "tools/rent-map/_mapStyle.json" %},
+	center: [13.405, 52.52],
+	zoom: 10
 });
 
 function getFeatureBounds(f){
-    return f.geometry.coordinates
-        .flat(f.geometry.type === "MultiPolygon" ? 2 : 1)
-        .reduce(
-            (bounds, coord) => bounds.extend(coord),
-            new maplibregl.LngLatBounds()
-        )
+	return f.geometry.coordinates
+		.flat(f.geometry.type === "MultiPolygon" ? 2 : 1)
+		.reduce(
+			(bounds, coord) => bounds.extend(coord),
+			new maplibregl.LngLatBounds()
+		)
 }
 
 // Add interactive GeoJSON layer
 map.on('load', () => {
-    let hoveredFeature = undefined;
+	let hoveredFeature = undefined;
 
-    fetch('/tools/rent-map/data.json')
-        .then(r => r.json())
-        .then(mapData => {
-            // Color calculation
-            const rents = mapData.features.map(d => d.properties['median']);
-            const minRent = Math.min(...rents);
-            const maxRent = Math.max(...rents);
-            const sampleSize = mapData.features.reduce((total, f) => total + f.properties.count, 0);
-            document.getElementById('sampleSize').innerHTML = Intl.NumberFormat("en-US").format(sampleSize);
+	fetch('/tools/rent-map/data.json')
+		.then(r => r.json())
+		.then(mapData => {
+			// Color calculation
+			const rents = mapData.features.map(d => d.properties['median']);
+			const minRent = Math.min(...rents);
+			const maxRent = Math.max(...rents);
+			const sampleSize = mapData.features.reduce((total, f) => total + f.properties.count, 0);
+			document.getElementById('sampleSize').innerHTML = Intl.NumberFormat("en-US").format(sampleSize);
 
-            mapData.features.forEach(f => {
-                const rent = f.properties['median'];
-                const colors = ["#ffffff", "#ffe0d8", "#ffc0b0", "#ff9e89", "#f97c64", "#ea5d45", "#d63d29", "#bd1d12", "#9d0000"];
-                const rank = (rent - minRent) / (maxRent - minRent);
-                const index = Math.min(Math.ceil(rank * colors.length), colors.length - 1);
-                f.properties.medianText = `€${rent}/m²`;
-                f.properties.color = colors[index];
-            });
+			mapData.features.forEach(f => {
+				const rent = f.properties['median'];
+				const colors = ["#ffffff", "#ffe0d8", "#ffc0b0", "#ff9e89", "#f97c64", "#ea5d45", "#d63d29", "#bd1d12", "#9d0000"];
+				const rank = (rent - minRent) / (maxRent - minRent);
+				const index = Math.min(Math.ceil(rank * colors.length), colors.length - 1);
+				f.properties.medianText = `€${rent}/m²`;
+				f.properties.color = colors[index];
+			});
 
-            // Add shapes
-            const mapDataSource = map.addSource('plz-data', {
-                type: 'geojson',
-                data: mapData,
-            });
-            map.fitBounds(mapDataSource.getBounds(), { padding: 20 });
+			// Add shapes
+			const mapDataSource = map.addSource('plz-data', {
+				type: 'geojson',
+				data: mapData,
+			});
+			map.fitBounds(mapDataSource.getBounds(), { padding: 20 });
 
-            // Add labels
-            map.addSource('plz-data-labels', {
-                type: 'geojson',
-                data: {
-                    type: "FeatureCollection",
-                    features: mapData.features.map(f => {
-                        return {
-                            type: "Feature",
-                            properties: {
-                                name: f.properties.median,
-                            },
-                            geometry: {
-                                type: "Point",
-                                coordinates: getFeatureBounds(f).getCenter().toArray(),
-                            },
-                        }
-                    })
-                }
-            });
-            map.addLayer({
-                id: 'geojson-labels-short',
-                type: 'symbol',
-                source: 'plz-data-labels',
-                maxzoom: 11,
-                layout: {
-                    'text-field': ['get', 'name'],
-                    "text-size": 10
-                },
-                paint: {
-                    'text-color': '#000c',
-                    'text-halo-color': '#fff',
-                    'text-halo-width': 1,
-                },
-            });
-            map.addLayer({
-                id: 'geojson-labels',
-                type: 'symbol',
-                source: 'plz-data-labels',
-                minzoom: 11,
-                layout: {
-                    'text-field': ['concat', '€', ['get', 'name'], '/m²'],
-                    "text-size": [
-                        'step',
-                        ['zoom'],
-                        10,
-                        12, 11,
-                        13, 14,
-                        14, 22,
-                    ],
-                },
-                paint: {
-                    'text-color': '#000c',
-                    'text-halo-color': '#fff',
-                    'text-halo-width': [
-                        'step',
-                        ['zoom'],
-                        1,
-                        14, 1.5,
-                    ],
-                },
-            });
+			// Add labels
+			map.addSource('plz-data-labels', {
+				type: 'geojson',
+				data: {
+					type: "FeatureCollection",
+					features: mapData.features.map(f => {
+						return {
+							type: "Feature",
+							properties: {
+								name: f.properties.median,
+							},
+							geometry: {
+								type: "Point",
+								coordinates: getFeatureBounds(f).getCenter().toArray(),
+							},
+						}
+					})
+				}
+			});
+			map.addLayer({
+				id: 'geojson-labels-short',
+				type: 'symbol',
+				source: 'plz-data-labels',
+				maxzoom: 11,
+				layout: {
+					'text-field': ['get', 'name'],
+					"text-size": 10
+				},
+				paint: {
+					'text-color': '#000c',
+					'text-halo-color': '#fff',
+					'text-halo-width': 1,
+				},
+			});
+			map.addLayer({
+				id: 'geojson-labels',
+				type: 'symbol',
+				source: 'plz-data-labels',
+				minzoom: 11,
+				layout: {
+					'text-field': ['concat', '€', ['get', 'name'], '/m²'],
+					"text-size": [
+						'step',
+						['zoom'],
+						10,
+						12, 11,
+						13, 14,
+						14, 22,
+					],
+				},
+				paint: {
+					'text-color': '#000c',
+					'text-halo-color': '#fff',
+					'text-halo-width': [
+						'step',
+						['zoom'],
+						1,
+						14, 1.5,
+					],
+				},
+			});
 
-            map.addLayer({
-                id: 'geojson-fill-top',
-                type: 'fill',
-                source: 'plz-data',
-                paint: {
-                    'fill-color': ['get', 'color'],  // precomputed
-                    'fill-opacity': [
-                        'step',
-                        ['zoom'],
-                        1,
-                        5, 0.8,
-                        11, 0.6,
-                        14, 0.4,
-                    ],
-                }
-            }, "Grenzen_Staatsgrenze");
+			map.addLayer({
+				id: 'geojson-fill-top',
+				type: 'fill',
+				source: 'plz-data',
+				paint: {
+					'fill-color': ['get', 'color'],  // precomputed
+					'fill-opacity': [
+						'step',
+						['zoom'],
+						1,
+						5, 0.8,
+						11, 0.6,
+						14, 0.4,
+					],
+				}
+			}, "Grenzen_Staatsgrenze");
 
-            map.addLayer({
-                id: 'geojson-outline',
-                type: 'line',
-                source: 'plz-data',
-                paint: {
-                    'line-color': '#000a',
-                    'line-width': [
-                        'step',
-                        ['zoom'],
-                        0.5,
-                        11, 1,
-                        12, 2,
-                    ],
-                    'line-opacity': 0.3
-                }
-            }, "Grenzen_Staatsgrenze");
+			map.addLayer({
+				id: 'geojson-outline',
+				type: 'line',
+				source: 'plz-data',
+				paint: {
+					'line-color': '#000a',
+					'line-width': [
+						'step',
+						['zoom'],
+						0.5,
+						11, 1,
+						12, 2,
+					],
+					'line-opacity': 0.3
+				}
+			}, "Grenzen_Staatsgrenze");
 
-            // Click to zoom
-            map.on('click', 'geojson-fill-top', (e) => {
-                // Geographic coordinates of the LineString
-                map.fitBounds(getFeatureBounds(e.features[0]), {
-                    padding: 20
-                });
-            });
-      });
+			// Click to zoom
+			map.on('click', 'geojson-fill-top', (e) => {
+				// Geographic coordinates of the LineString
+				map.fitBounds(getFeatureBounds(e.features[0]), {
+					padding: 20
+				});
+			});
+	  });
 
-    map.on('mousemove', 'geojson-fill-top', (e) => {
-        const feature = e.features[0];
-        if (feature !== hoveredFeature) {
-            hoveredFeature = feature;
+	map.on('mousemove', 'geojson-fill-top', (e) => {
+		const feature = e.features[0];
+		if (feature !== hoveredFeature) {
+			hoveredFeature = feature;
 
-            // Change the cursor style as a UI indicator.
-            map.getCanvas().style.cursor = 'pointer';
-        }
+			// Change the cursor style as a UI indicator.
+			map.getCanvas().style.cursor = 'pointer';
+		}
 
-    });
+	});
 
-    map.on('mouseleave', 'geojson-fill-top', () => {
-        hoveredFeature = undefined;
-        map.getCanvas().style.cursor = '';
-    });
+	map.on('mouseleave', 'geojson-fill-top', () => {
+		hoveredFeature = undefined;
+		map.getCanvas().style.cursor = '';
+	});
 });
 {% endjs %}
