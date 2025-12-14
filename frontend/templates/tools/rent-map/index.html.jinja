@@ -24,13 +24,13 @@
 {% endblock %}
 
 {% block main %}
-    <main aria-label="Main page">
+    <main aria-label="Map">
         <div id="map"></div>
     </main>
     <div class="sidebar no-print" data-nosnippet aria-hidden="true">
         <h2>Rent prices in Berlin</h2>
         <p>This map shows the <strong>median rent price per m²</strong>, based on <span id="sampleSize">thousands of</span> apartments listed in the last 12 months.</p>
-        <small>Data source: <a href="https://www.stekkies.com/en-de/">Stekkies</a></small>
+        <small>Data from <a href="https://www.stekkies.com/en-de/">Stekkies</a>, December 2025</small>
     </div>
 {% endblock %}
 
@@ -64,17 +64,6 @@ map.on('load', () => {
     fetch('/tools/rent-map/data.json')
         .then(r => r.json())
         .then(mapData => {
-            const layers = map.getStyle().layers;
-            // Find the index of the first symbol layer in the map style
-            let firstSymbolId;
-            for (let i = 0; i < layers.length; i++) {
-                if (layers[i].type === 'symbol') {
-                    firstSymbolId = layers[i].id;
-                    break;
-                }
-            }
-
-
             // Color calculation
             const rents = mapData.features.map(d => d.properties['median']);
             const minRent = Math.min(...rents);
@@ -175,7 +164,7 @@ map.on('load', () => {
                         14, 0.4,
                     ],
                 }
-            }, firstSymbolId);
+            }, "Grenzen_Staatsgrenze");
 
             map.addLayer({
                 id: 'geojson-outline',
@@ -192,7 +181,7 @@ map.on('load', () => {
                     ],
                     'line-opacity': 0.3
                 }
-            }, firstSymbolId);
+            }, "Grenzen_Staatsgrenze");
 
             // Click to zoom
             map.on('click', 'geojson-fill-top', (e) => {
