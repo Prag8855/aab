@@ -55,10 +55,6 @@ function getFeatureBounds(f){
 
 // Add interactive GeoJSON layer
 map.on('load', () => {
-    const popup = new maplibregl.Popup({
-        closeButton: false,
-        closeOnClick: false
-    });
     let hoveredFeature = undefined;
 
     fetch('/tools/rent-map/data.json')
@@ -194,21 +190,11 @@ map.on('load', () => {
 
     map.on('mousemove', 'geojson-fill-top', (e) => {
         const feature = e.features[0];
-        const description = `
-            <b>Post code:</b> ${feature.id}<br>
-            <b>Median rent:</b> €${feature.properties.median}/m²<br>
-            <small>Based on ${feature.properties.count} listings</small>
-        `;
-
         if (feature !== hoveredFeature) {
             hoveredFeature = feature;
 
             // Change the cursor style as a UI indicator.
             map.getCanvas().style.cursor = 'pointer';
-
-            popup.setLngLat(getFeatureBounds(feature).getCenter())
-                .setHTML(description)
-                .addTo(map);
         }
 
     });
@@ -216,7 +202,6 @@ map.on('load', () => {
     map.on('mouseleave', 'geojson-fill-top', () => {
         hoveredFeature = undefined;
         map.getCanvas().style.cursor = '';
-        popup.remove();
     });
 });
 {% endjs %}
