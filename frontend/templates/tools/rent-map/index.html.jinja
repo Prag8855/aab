@@ -57,7 +57,7 @@ function getFeatureBounds(f){
 map.on('load', () => {
 	let hoveredFeature = undefined;
 
-	fetch('/tools/rent-map/data.json')
+	fetch('/tools/rent-map/data.json?v={{ commit_id[0:10] }}')
 		.then(r => r.json())
 		.then(mapData => {
 			// Color calculation
