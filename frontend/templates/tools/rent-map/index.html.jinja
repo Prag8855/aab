@@ -29,16 +29,16 @@
 	</main>
 	<div class="sidebar no-print" data-nosnippet aria-hidden="true">
 		<h2>Rent prices in Berlin</h2>
-		<p>This map shows the <strong>median rent price per m²</strong>, based on <span id="sampleSize">thousands of</span> apartments listed in the last 12 months.</p>
-		<small>Data from <a href="https://www.stekkies.com/en-de/">Stekkies</a>, December 2025</small>
+		<p>This map shows the <strong>median warm rent per m²</strong>, based on <span id="sampleSize">thousands of</span> apartments listed in the last 12 months.</p>
+		<small>Data from <a href="https://www.homeboy.immo/en">Homeboy</a>, December 2025</small>
 	</div>
 {% endblock %}
 
+{% include '_js/utils/currency.js' %}
 {% js %}
 // Initialize MapLibre
 const map = new maplibregl.Map({
 	container: 'map',
-	// style: 'https://sgx.geodatenzentrum.de/gdz_basemapde_vektor/styles/bm_web_gry.json',
 	style: {% include "tools/rent-map/_mapStyle.json" %},
 	center: [13.405, 52.52],
 	zoom: 10
@@ -92,11 +92,12 @@ map.on('load', () => {
 						return {
 							type: "Feature",
 							properties: {
-								name: f.properties.median,
+								medianShort: formatCurrency(f.properties.median, includeCents=false, currency=null),
+								medianLong: formatCurrency(f.properties.median, includeCents=true, currency=null) + '/m²',
 							},
 							geometry: {
 								type: "Point",
-								coordinates: getFeatureBounds(f).getCenter().toArray(),
+								coordinates: f.properties.center,
 							},
 						}
 					})
@@ -108,7 +109,7 @@ map.on('load', () => {
 				source: 'plz-data-labels',
 				maxzoom: 11,
 				layout: {
-					'text-field': ['get', 'name'],
+					'text-field': ['get', 'medianShort'],
 					"text-size": 10
 				},
 				paint: {
@@ -123,7 +124,7 @@ map.on('load', () => {
 				source: 'plz-data-labels',
 				minzoom: 11,
 				layout: {
-					'text-field': ['concat', '€', ['get', 'name'], '/m²'],
+					'text-field': ['get', 'medianLong'],
 					"text-size": [
 						'step',
 						['zoom'],
@@ -186,7 +187,7 @@ map.on('load', () => {
 					padding: 20
 				});
 			});
-	  });
+		});
 
 	map.on('mousemove', 'geojson-fill-top', (e) => {
 		const feature = e.features[0];
