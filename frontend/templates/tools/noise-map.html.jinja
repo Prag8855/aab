@@ -20,6 +20,16 @@
 			border-radius: var(--b-radius);
 			box-shadow: var(--shadow-l);
 		}
+		.colors{
+			border-radius: var(--b-radius);
+			overflow: hidden;
+		}
+		.color span{
+			background: var(--c-bg-page);
+			display:block;
+			margin-right:var(--xl);
+			padding-right:var(--m);
+		}
 	</style>
 {% endblock %}
 
@@ -28,9 +38,28 @@
 		<div id="map"></div>
 	</main>
 	<div class="sidebar no-print" data-nosnippet aria-hidden="true">
-		<h2>Rent prices in Berlin</h2>
-		<p>This map shows the <strong>median rent price per m²</strong>, based on <span id="sampleSize">thousands of</span> apartments listed in the last 12 months.</p>
-		<small>Data from <a href="https://www.stekkies.com/en-de/">Stekkies</a>, December 2025</small>
+		<h2>Noise polution in Berlin</h2>
+		<div class="colors">
+			<div class="color" style="background:#fff">
+				<span>Less than 55 dB</span>
+			</div>
+			<div class="color" style="background:#e2f2bf">
+				<span>55 to 59 dB</span>
+			</div>
+			<div class="color" style="background:#f3c683">
+				<span>60 to 64 dB</span>
+			</div>
+			<div class="color" style="background:#cd463e">
+				<span>65 to 69 dB</span>
+			</div>
+			<div class="color" style="background:#75085c">
+				<span>70 to 74 dB</span>
+			</div>
+			<div class="color" style="background:#430a4a">
+				<span>Over 75 dB</span>
+			</div>
+		</div>
+		<small>Data from <a href="https://www.berlin.de/umweltatlas/en/traffic-noise/noise-pollution/2022/maps/artikel.1327919.en.php">Berlin.de</a>, 2022</small>
 	</div>
 {% endblock %}
 
@@ -111,57 +140,14 @@ map.on('load', () => {
 		'tileSize': 256
 	}, "Grenzen_Staatsgrenze");
 
-	fetch('/tools/rent-map/data.json')
-		.then(r => r.json())
-		.then(mapData => {
-			// Color calculation
-			const rents = mapData.features.map(d => d.properties['median']);
-			const minRent = Math.min(...rents);
-			const maxRent = Math.max(...rents);
-			const sampleSize = mapData.features.reduce((total, f) => total + f.properties.count, 0);
-			document.getElementById('sampleSize').innerHTML = Intl.NumberFormat("en-US").format(sampleSize);
-
-			mapData.features.forEach(f => {
-				const rent = f.properties['median'];
-				const colors = ["#ffffff", "#ffe0d8", "#ffc0b0", "#ff9e89", "#f97c64", "#ea5d45", "#d63d29", "#bd1d12", "#9d0000"];
-				const rank = (rent - minRent) / (maxRent - minRent);
-				const index = Math.min(Math.ceil(rank * colors.length), colors.length - 1);
-				f.properties.medianText = `€${rent}/m²`;
-				f.properties.color = colors[index];
-			});
-
-			// Add shapes
-			const mapDataSource = map.addSource('plz-data', {
-				type: 'geojson',
-				data: mapData,
-			});
-			map.fitBounds(mapDataSource.getBounds(), { padding: 20 });
-
-			map.addLayer({
-				'id': 'noise-map-2022',
-				'type': 'raster',
-				'source': 'noise-map-2022',
-				'slot': 'middle',
-				'paint': {
-					'raster-opacity': 0.8
-				}
-			}, "Grenzen_Staatsgrenze");
-	  });
-
-	map.on('mousemove', 'geojson-fill-top', (e) => {
-		const feature = e.features[0];
-		if (feature !== hoveredFeature) {
-			hoveredFeature = feature;
-
-			// Change the cursor style as a UI indicator.
-			map.getCanvas().style.cursor = 'pointer';
+	map.addLayer({
+		'id': 'noise-map-2022',
+		'type': 'raster',
+		'source': 'noise-map-2022',
+		'slot': 'middle',
+		'paint': {
+			'raster-opacity': 0.8
 		}
-
-	});
-
-	map.on('mouseleave', 'geojson-fill-top', () => {
-		hoveredFeature = undefined;
-		map.getCanvas().style.cursor = '';
-	});
+	}, "Grenzen_Staatsgrenze");
 });
 {% endjs %}
