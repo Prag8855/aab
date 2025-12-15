@@ -72,14 +72,14 @@
 			{% block postcontent %}{% endblock %}
 		</main>
 	{% endblock %}
-	<footer aria-label="Bottom menu" class="no-print">
-		© {{ now.strftime('%Y') }} • 
-		<a href="{{ site_url }}/contact" rel="nofollow">Contact</a> • 
-		<a href="{{ site_url }}/donate" rel="nofollow">Donate</a> • 
-		<a href="{{ site_url }}/newsletter" rel="nofollow">Newsletter</a> • 
-		<a href="{{ site_url }}/terms#privacy-policy" rel="nofollow">Privacy</a> • 
-		<a href="{{ site_url }}/terms#terms-of-service" rel="nofollow">Terms and conditions</a>
-	</footer>
+	{% block footer %}
+		<footer aria-label="Bottom menu" class="no-print">
+			<a href="{{ site_url }}/donate" rel="nofollow">Donate</a> • 
+			<a href="{{ site_url }}/newsletter" rel="nofollow">Newsletter</a> • 
+			<a href="{{ site_url }}/contact" rel="nofollow">Imprint</a> • 
+			<a href="{{ site_url }}/terms" rel="nofollow">AGB</a>
+		</footer>
+	{% endblock %}
 {% endblock %}
 {% block postFooter %}
 	{% include '_js/tracking.js' %}
