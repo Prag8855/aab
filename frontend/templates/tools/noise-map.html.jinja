@@ -1,9 +1,7 @@
-{% extends "_layout.html" %}
-{% set metatitle = "Berlin rent prices map" %}
-{% set metadescription = "See the rent per m² in each Berlin neighbourood" %}
+{% extends "tools/entry.html.jinja" %}
 
 {% block postHead %}
-	<meta name="robots" content="noindex">
+	{{ super() }}
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
 	<link href="https://unpkg.com/maplibre-gl@5.14.0/dist/maplibre-gl.css" rel="stylesheet"/>
 	<script src="https://unpkg.com/maplibre-gl@5.14.0/dist/maplibre-gl.js"></script>

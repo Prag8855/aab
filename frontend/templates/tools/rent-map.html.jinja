@@ -1,9 +1,7 @@
-{% extends "_layout.html" %}
-{% set metatitle = "Berlin rent prices map" %}
-{% set metadescription = "See the rent per m² in each Berlin neighbourood" %}
+{% extends "tools/entry.html.jinja" %}
 
 {% block postHead %}
-	<meta name="robots" content="noindex">
+	{{ super() }}
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
 	<link href="https://unpkg.com/maplibre-gl@5.14.0/dist/maplibre-gl.css" rel="stylesheet"/>
 	<script src="https://unpkg.com/maplibre-gl@5.14.0/dist/maplibre-gl.js"></script>
@@ -28,9 +26,29 @@
 		<div id="map"></div>
 	</main>
 	<div class="sidebar no-print" data-nosnippet aria-hidden="true">
-		<h2>Rent prices in Berlin</h2>
-		<p>This map shows the <strong>median warm rent per m²</strong>, based on <span id="sampleSize">thousands of</span> apartments listed in the last 12 months.</p>
+		<h2>Rent prices in <span id="location">Berlin</span></h2>
+		<p>This map shows the <strong>median warm rent per m²</strong>, based on <span id="sampleSize">thousands of</span> apartments listed in December 2025.</p>
 		<small>Data from <a href="https://www.homeboy.immo/en">Homeboy</a>, December 2025</small>
+		<hr>
+		<div class="form-group">
+			<label>Postal code</label>
+			<input
+				id="plzInput"
+				class="postalcode-input"
+				placeholder="12345"
+				type="text"
+				inputmode="numeric"
+				pattern="[0-9]{5}"
+				minlength="5"
+				maxlength="5"
+				autocomplete="postal-code"
+				title="Postal code (Postleitzahl)"
+				>
+		</div>
+		<div class="form-group">
+			<span class="label">Median rent</span>
+			<span>€29/m2</span>
+		</div>
 	</div>
 {% endblock %}
 
@@ -54,6 +72,10 @@ function getFeatureBounds(f){
 }
 
 // Add interactive GeoJSON layer
+const plzInput = document.getElementById("plzInput");
+const sampleSizeElement = document.getElementById('sampleSize');
+const locationElement = document.getElementById('location');
+let sampleSize = null;
 map.on('load', () => {
 	let hoveredFeature = undefined;
 
@@ -64,8 +86,8 @@ map.on('load', () => {
 			const rents = mapData.features.map(d => d.properties['median']);
 			const minRent = Math.min(...rents);
 			const maxRent = Math.max(...rents);
-			const sampleSize = mapData.features.reduce((total, f) => total + f.properties.count, 0);
-			document.getElementById('sampleSize').innerHTML = Intl.NumberFormat("en-US").format(sampleSize);
+			sampleSize = mapData.features.reduce((total, f) => total + f.properties.count, 0);
+			sampleSizeElement.innerHTML = Intl.NumberFormat("en-US").format(sampleSize);
 
 			mapData.features.forEach(f => {
 				const rent = f.properties['median'];
@@ -186,6 +208,7 @@ map.on('load', () => {
 				map.fitBounds(getFeatureBounds(e.features[0]), {
 					padding: 20
 				});
+				plzInput.value = e.features[0].id;
 			});
 		});
 
@@ -196,13 +219,18 @@ map.on('load', () => {
 
 			// Change the cursor style as a UI indicator.
 			map.getCanvas().style.cursor = 'pointer';
-		}
 
+			locationElement.innerHTML = feature.id;
+			sampleSizeElement.innerHTML = feature.properties.count;
+		}
 	});
 
 	map.on('mouseleave', 'geojson-fill-top', () => {
 		hoveredFeature = undefined;
 		map.getCanvas().style.cursor = '';
+
+		locationElement.innerHTML = 'Berlin';
+		sampleSizeElement.innerHTML = Intl.NumberFormat("en-US").format(sampleSize);
 	});
 });
 {% endjs %}

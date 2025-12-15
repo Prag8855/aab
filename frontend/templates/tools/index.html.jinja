@@ -44,6 +44,15 @@
 				{% endfor %}
 				</ol>
 
+				<h2 id="maps">Maps</h2>
+				<ol class="previews">
+				{% for entry in get_entries(['docs', 'tools'], sort_by=('german_term', 'short_title', 'title')) %}
+					{% if 'maps' in entry.categories %}		    
+						{{ preview(entry) }}
+					{% endif %}
+				{% endfor %}
+				</ol>
+
 				<h2 id="burgeramt">For the <a href="/glossary/Bürgeramt">Bürgeramt</a></h2>
 				<ol class="previews">
 				{% for entry in get_entries(['docs', 'tools'], sort_by=('german_term', 'short_title', 'title')) %}
@@ -105,6 +114,7 @@
 			<h2>Categories</h2>
 			<ol>
 				<li><a href="#calculators">Calculators</a></li>
+				<li><a href="#maps">Maps</a></li>
 				<li><a href="#burgeramt">For the Bürgeramt</a></li>
 				<li><a href="#auslanderbehorde">For the Ausländerbehörde</a></li>
 				<li><a href="#finanzamt">For the Finanzamt</a></li>
