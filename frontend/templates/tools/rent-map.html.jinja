@@ -59,8 +59,10 @@ const map = new maplibregl.Map({
 	container: 'map',
 	style: {% include "tools/rent-map/_mapStyle.json" %},
 	center: [13.405, 52.52],
-	zoom: 10
-});
+	zoom: 10,
+	attributionControl: false
+})
+.addControl(new maplibregl.AttributionControl({compact: true}));
 
 function getFeatureBounds(f){
 	return f.geometry.coordinates
@@ -115,7 +117,8 @@ map.on('load', () => {
 							type: "Feature",
 							properties: {
 								medianShort: formatCurrency(f.properties.median, includeCents=false, currency=null),
-								medianLong: formatCurrency(f.properties.median, includeCents=true, currency=null) + '/m²',
+								medianMedium: formatCurrency(f.properties.median, includeCents=false) + '/m²',
+								medianLong: formatCurrency(f.properties.median, includeCents=true) + '/m²',
 							},
 							geometry: {
 								type: "Point",
@@ -125,45 +128,36 @@ map.on('load', () => {
 					})
 				}
 			});
-			map.addLayer({
-				id: 'geojson-labels-short',
-				type: 'symbol',
-				source: 'plz-data-labels',
-				maxzoom: 11,
-				layout: {
-					'text-field': ['get', 'medianShort'],
-					"text-size": 10
-				},
-				paint: {
-					'text-color': '#000c',
-					'text-halo-color': '#fff',
-					'text-halo-width': 1,
-				},
-			});
+
 			map.addLayer({
 				id: 'geojson-labels',
 				type: 'symbol',
 				source: 'plz-data-labels',
-				minzoom: 11,
 				layout: {
-					'text-field': ['get', 'medianLong'],
+					'text-field': [
+						'step',
+						['zoom'],
+						['get', 'medianShort'],
+						11, ['get', 'medianMedium'],
+						13, ['get', 'medianLong'],
+					],
 					"text-size": [
 						'step',
 						['zoom'],
-						10,
-						12, 11,
-						13, 14,
-						14, 22,
+						11,
+						11, 13,
+						13, 16,
+						14, 24,
 					],
 				},
 				paint: {
-					'text-color': '#000c',
+					'text-color': '#000',
 					'text-halo-color': '#fff',
 					'text-halo-width': [
 						'step',
 						['zoom'],
-						1,
-						14, 1.5,
+						1.5,
+						14, 2,
 					],
 				},
 			});
@@ -209,6 +203,9 @@ map.on('load', () => {
 					padding: 20
 				});
 				plzInput.value = e.features[0].id;
+
+				locationElement.innerHTML = e.features[0].id;
+				sampleSizeElement.innerHTML = e.features[0].properties.count;
 			});
 		});
 
@@ -219,18 +216,12 @@ map.on('load', () => {
 
 			// Change the cursor style as a UI indicator.
 			map.getCanvas().style.cursor = 'pointer';
-
-			locationElement.innerHTML = feature.id;
-			sampleSizeElement.innerHTML = feature.properties.count;
 		}
 	});
 
 	map.on('mouseleave', 'geojson-fill-top', () => {
 		hoveredFeature = undefined;
 		map.getCanvas().style.cursor = '';
-
-		locationElement.innerHTML = 'Berlin';
-		sampleSizeElement.innerHTML = Intl.NumberFormat("en-US").format(sampleSize);
 	});
 });
 {% endjs %}
