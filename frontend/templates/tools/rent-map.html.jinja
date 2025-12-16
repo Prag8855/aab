@@ -1,237 +1,183 @@
-{% extends "tools/entry.html.jinja" %}
+{% extends "tools/_map.html" %}
 
 {% block postHead %}
 	{{ super() }}
-	<meta name="viewport" content="width=device-width, initial-scale=1" />
-	<link href="https://unpkg.com/maplibre-gl@5.14.0/dist/maplibre-gl.css" rel="stylesheet"/>
-	<script src="https://unpkg.com/maplibre-gl@5.14.0/dist/maplibre-gl.js"></script>
-	<style>
-		body, html{
-			height: 100%;
+	{% include '_js/utils/currency.js' %}
+	{% js %}
+		function highlightPlz(map, feature){
+		    map.fitBounds(getFeatureBounds(feature), {
+		        padding: 20,
+		        maxZoom: 12,
+		    });
+		    map.setFilter('plz-highlight', ['==', ['get', 'id'], feature.properties.id]);
 		}
-		body{
-			grid-template-rows: var(--h-header) 1fr auto!important;
+		function clearHighlightedPlz(map){
+		    map.setFilter('plz-highlight', ['==', ['get', 'id'], '']);
 		}
-		#map {
-			color: var(--c-text);
-			top:0; bottom:0; width:100%;
-			border-radius: var(--b-radius);
-			box-shadow: var(--shadow-l);
-		}
-	</style>
-{% endblock %}
 
-{% block main %}
-	<main aria-label="Map">
-		<div id="map"></div>
-	</main>
-	<div class="sidebar no-print" data-nosnippet aria-hidden="true">
-		<h2>Rent prices in <span id="location">Berlin</span></h2>
-		<p>This map shows the <strong>median rent per m²</strong> is based on <span id="sampleSize">thousands of</span> apartments listed in December 2025.</p>
-		<small>Data from <a href="https://www.homeboy.immo/en">Homeboy</a></small>
-	</div>
-{% endblock %}
-
-{% include '_js/utils/currency.js' %}
-{% js %}
-// Initialize MapLibre
-const map = new maplibregl.Map({
-	container: 'map',
-	style: {% include "tools/rent-map/_mapStyle.json" %},
-	center: [13.405, 52.52],
-	bounds: [13.0884, 52.3383, 13.7611, 52.6755],
-	attributionControl: false
-})
-.addControl(new maplibregl.AttributionControl({compact: true}));
-
-function getCityBounds(mapData){
-	return mapData.features.reduce((b, f) => b.extend(f.geometry.coordinates), new maplibregl.LngLatBounds());
-}
-
-function getFeatureBounds(f){
-	return new maplibregl.LngLatBounds(getPolygonBounds(f.geometry.coordinates));
-}
-
-function getPolygonBounds(coords, bounds=[[], []]){
-	for (var i = 0; i < coords.length; i++) {
-		if (Array.isArray(coords[i][0][0])){
-			bounds = getPolygonBounds(coords[i], bounds);
-		} else {
-			polygon = coords[i];
-			for (var j = 0; j < polygon.length; j++) {
-				longitude = polygon[j][0];
-				latitude = polygon[j][1];
-				bounds[0][0] = bounds[0][0] < longitude ? bounds[0][0] : longitude;
-				bounds[1][0] = bounds[1][0] > longitude ? bounds[1][0] : longitude;
-				bounds[0][1] = bounds[0][1] < latitude ? bounds[0][1] : latitude;
-				bounds[1][1] = bounds[1][1] > latitude ? bounds[1][1] : latitude;
-			}
-		}
-	}
-	return bounds;
-}
-
-function highlightPlz(map, feature){
-	map.fitBounds(getFeatureBounds(feature), {
-		padding: 20,
-		maxZoom: 12,
-	});
-	map.setFilter('plz-highlight', ['==', ['get', 'id'], feature.properties.id]);
-}
-function clearHighlightedPlz(map){
-	map.setFilter('plz-highlight', ['==', ['get', 'id'], '']);
-}
-
-// Add interactive GeoJSON layer
-let sampleSize = null;
-map.on('load', () => {
-	let hoveredFeature = undefined;
-
-	fetch('/tools/rent-map/data.json?v={{ commit_id[0:10] }}')
-		.then(r => r.json())
-		.then(mapData => {
-			// Color calculation
-			const rents = mapData.features.map(d => d.properties['median']);
-			const minRent = Math.min(...rents);
-			const maxRent = Math.max(...rents);
-			sampleSize = mapData.features.reduce((total, f) => total + f.properties.count, 0);
-
-			mapData.features.forEach(f => {
-				f.properties.id = f.id;
-
-				const rent = f.properties['median'];
-				const colors = ["#ffffff", "#ffe0d8", "#ffc0b0", "#ff9e89", "#f97c64", "#ea5d45", "#d63d29", "#bd1d12", "#9d0000"];
-				const rank = (rent - minRent) / (maxRent - minRent);
-				const index = Math.min(Math.ceil(rank * colors.length), colors.length - 1);
-				f.properties.medianText = `€${rent}/m²`;
-				f.properties.color = colors[index];
-			});
-
-			// Add shapes
-			const mapDataSource = map.addSource('plz-data', {
-				type: 'geojson',
-				data: mapData,
-			});
-
-			// Add labels
-			map.addSource('plz-data-labels', {
-				type: 'geojson',
-				data: {
-					type: "FeatureCollection",
-					features: mapData.features.map(f => {
-						return {
-							type: "Feature",
-							properties: {
-								medianShort: formatCurrency(f.properties.median, includeCents=false, currency=null),
-								medianMedium: formatCurrency(f.properties.median, includeCents=false) + '/m²',
-								medianLong: f.id + '\n' + formatCurrency(f.properties.median, includeCents=true) + '/m²',
-							},
-							geometry: {
-								type: "Point",
-								coordinates: f.properties.center,
-							},
-						}
-					})
-				}
-			});
-
-			map.addLayer({
-				id: 'plz-fill',
-				type: 'fill',
-				source: 'plz-data',
-				paint: {
-					'fill-color': ['get', 'color'],  // precomputed
-					'fill-opacity': [
-						'step',
-						['zoom'],
-						1,
-						5, 0.8,
-						11, 0.6,
-						14, 0.4,
-					],
-				},
-			}, "Grenzen_Staatsgrenze");
-
-			map.addLayer({
-				id: 'plz-outline',
-				type: 'line',
-				source: 'plz-data',
-				paint: {
-					'line-color': '#000',
-					'line-width': [
-						'step',
-						['zoom'],
-						0.5,
-						11, 1,
-						12, 2,
-					],
-					'line-opacity': 0.3
-				}
-			}, "Grenzen_Staatsgrenze");
-
-			map.addLayer({
-				id: 'plz-highlight',
-				type: 'line',
-				source: 'plz-data',
-				paint: {
-					'line-color': '#fff',
-					'line-width': 4,
-				},
-				filter: ['==', ['get', 'id'], '']
-			}, "Grenzen_Staatsgrenze");
-
-			// Click to zoom
-			map.on('click', 'plz-fill', (e) => {
-				highlightPlz(map, e.features[0]);
-			});
-
-			map.addLayer({
-				id: 'rent-labels',
-				type: 'symbol',
-				source: 'plz-data-labels',
-				layout: {
-					'text-field': [
-						'step',
-						['zoom'],
-						['get', 'medianShort'],
-						11, ['get', 'medianMedium'],
-						13, ['get', 'medianLong'],
-					],
-					"text-size": [
-						'step',
-						['zoom'],
-						12,
-						11, 14,
-						12, 18,
-						14, 24,
-					],
-				},
-				paint: {
-					'text-color': '#000',
-					'text-halo-color': '#fff',
-					'text-halo-width': [
-						'step',
-						['zoom'],
-						1.5,
-						14, 2,
-					],
-				},
-			});
+		document.getElementById('warmmieteLink').addEventListener('click', (event) => {
+			event.preventDefault();
+			event.stopPropagation();
+			showTooltip(event);
 		});
 
-	map.on('mousemove', 'plz-fill', (e) => {
-		const feature = e.features[0];
-		if (feature !== hoveredFeature) {
-			hoveredFeature = feature;
+		// Add interactive GeoJSON layer
+		let sampleSize = null;
+		map.on('load', () => {
+			let hoveredFeature = undefined;
 
-			// Change the cursor style as a UI indicator.
-			map.getCanvas().style.cursor = 'pointer';
-		}
-	});
+			fetch('/tools/rent-map/data.json?v={{ commit_id[0:10] }}')
+				.then(r => r.json())
+				.then(mapData => {
+					// Color calculation
+					const rents = mapData.features.map(d => d.properties['median']);
+					const minRent = Math.min(...rents);
+					const maxRent = Math.max(...rents);
+					document.getElementById('sampleSize').innerHTML = Intl.NumberFormat("en-US").format(mapData.features.reduce((total, f) => total + f.properties.count, 0));
 
-	map.on('mouseleave', 'plz-fill', () => {
-		hoveredFeature = undefined;
-		map.getCanvas().style.cursor = '';
-	});
-});
-{% endjs %}
+					mapData.features.forEach(f => {
+						f.properties.id = f.id;
+
+						const rent = f.properties['median'];
+						const colors = ["#ffffff", "#ffe0d8", "#ffc0b0", "#ff9e89", "#f97c64", "#ea5d45", "#d63d29", "#bd1d12", "#9d0000"];
+						const rank = (rent - minRent) / (maxRent - minRent);
+						const index = Math.min(Math.ceil(rank * colors.length), colors.length - 1);
+						f.properties.medianText = `€${rent}/m²`;
+						f.properties.color = colors[index];
+					});
+
+					// Add shapes
+					const mapDataSource = map.addSource('plz-data', {
+						type: 'geojson',
+						data: mapData,
+					});
+
+					// Add labels
+					map.addSource('plz-data-labels', {
+						type: 'geojson',
+						data: {
+							type: "FeatureCollection",
+							features: mapData.features.map(f => {
+								return {
+									type: "Feature",
+									properties: {
+										medianShort: formatCurrency(f.properties.median, includeCents=false, currency=null),
+										medianMedium: formatCurrency(f.properties.median, includeCents=false) + '/m²',
+										medianLong: f.id + '\n' + formatCurrency(f.properties.median, includeCents=true) + '/m²',
+									},
+									geometry: {
+										type: "Point",
+										coordinates: f.properties.center,
+									},
+								}
+							})
+						}
+					});
+
+					map.addLayer({
+						id: 'plz-fill',
+						type: 'fill',
+						source: 'plz-data',
+						paint: {
+							'fill-color': ['get', 'color'],  // precomputed
+							'fill-opacity': [
+								'step',
+								['zoom'],
+								1,
+								5, 0.8,
+								11, 0.6,
+								14, 0.4,
+							],
+						},
+					}, "Grenzen_Staatsgrenze");
+
+					map.addLayer({
+						id: 'plz-outline',
+						type: 'line',
+						source: 'plz-data',
+						paint: {
+							'line-color': '#000',
+							'line-width': [
+								'step',
+								['zoom'],
+								0.5,
+								11, 1,
+								12, 2,
+							],
+							'line-opacity': 0.3
+						}
+					}, "Grenzen_Staatsgrenze");
+
+					map.addLayer({
+						id: 'plz-highlight',
+						type: 'line',
+						source: 'plz-data',
+						paint: {
+							'line-color': '#fff',
+							'line-width': 4,
+						},
+						filter: ['==', ['get', 'id'], '']
+					}, "Grenzen_Staatsgrenze");
+
+					// Click to zoom
+					map.on('click', 'plz-fill', (e) => {
+						highlightPlz(map, e.features[0]);
+					});
+
+					map.addLayer({
+						id: 'rent-labels',
+						type: 'symbol',
+						source: 'plz-data-labels',
+						layout: {
+							'text-field': [
+								'step',
+								['zoom'],
+								['get', 'medianShort'],
+								11, ['get', 'medianMedium'],
+								13, ['get', 'medianLong'],
+							],
+							"text-size": [
+								'step',
+								['zoom'],
+								12,
+								11, 14,
+								12, 18,
+								14, 24,
+							],
+						},
+						paint: {
+							'text-color': '#000',
+							'text-halo-color': '#fff',
+							'text-halo-width': [
+								'step',
+								['zoom'],
+								1.5,
+								14, 2,
+							],
+						},
+					});
+				});
+
+			map.on('mousemove', 'plz-fill', (e) => {
+				const feature = e.features[0];
+				if (feature !== hoveredFeature) {
+					hoveredFeature = feature;
+
+					// Change the cursor style as a UI indicator.
+					map.getCanvas().style.cursor = 'pointer';
+				}
+			});
+
+			map.on('mouseleave', 'plz-fill', () => {
+				hoveredFeature = undefined;
+				map.getCanvas().style.cursor = '';
+			});
+		});
+	{% endjs %}
+{% endblock %}
+
+{% block sidebar %}
+	<h2>Rent prices in <span id="location">Berlin</span></h2>
+	<p>This is the <strong>median <a id="warmmieteLink" href="/glossary/Warmmiete">warm rent</a> per m²</strong>, based on <span id="sampleSize">thousands of</span> apartments listed in December 2025.</p>
+	<small>Data from <a href="https://www.homeboy.immo/en">Homeboy</a></small>
+{% endblock %}

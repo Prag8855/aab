@@ -1,0 +1,94 @@
+{% extends "tools/entry.html.jinja" %}
+
+{% block postHead %}
+    {{ super()|safe }}
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link href="https://unpkg.com/maplibre-gl@5.14.0/dist/maplibre-gl.css" rel="stylesheet"/>
+    <script src="https://unpkg.com/maplibre-gl@5.14.0/dist/maplibre-gl.js"></script>
+{% endblock %}
+
+{% block extraScss %}
+    body, html{
+        height: 100%;
+    }
+    body{
+        grid-template-rows: var(--h-header) 1fr auto!important;
+    }
+    #map {
+        color: var(--c-text);
+        top:0; bottom:0; width:100%;
+        border-radius: var(--b-radius);
+        box-shadow: var(--shadow-l);
+        box-sizing: border-box;
+        @include full-width-site{
+            border-radius: 0;
+        }
+    }
+    @include not-desktop{
+        .sidebar{
+            grid-area: footer;
+        }
+        footer{
+            display: none;
+        }
+    }
+    @include full-width-site{
+        body{
+            gap: 0
+        }
+    }
+{% endblock %}
+
+{% js %}
+    // Initialize MapLibre
+    const map = new maplibregl.Map({
+        container: 'map',
+        style: {% include "tools/rent-map/_mapStyle.json" %},
+        center: [13.405, 52.52],
+        bounds: [13.0884, 52.3383, 13.7611, 52.6755],
+        attributionControl: false
+    })
+    .addControl(new maplibregl.AttributionControl({compact: true}))
+    .addControl(new maplibregl.NavigationControl({
+        showZoom: true,
+        showCompass: false
+    }), 'bottom-right')
+    .addControl(new maplibregl.GeolocateControl({
+        positionOptions: {
+            enableHighAccuracy: true
+        },
+        trackUserLocation: true
+    }), 'bottom-right');
+
+    function getFeatureBounds(f){
+        return new maplibregl.LngLatBounds(getPolygonBounds(f.geometry.coordinates));
+    }
+
+    function getPolygonBounds(coords, bounds=[[], []]){
+        for (var i = 0; i < coords.length; i++) {
+            if (Array.isArray(coords[i][0][0])){
+                bounds = getPolygonBounds(coords[i], bounds);
+            } else {
+                polygon = coords[i];
+                for (var j = 0; j < polygon.length; j++) {
+                    longitude = polygon[j][0];
+                    latitude = polygon[j][1];
+                    bounds[0][0] = bounds[0][0] < longitude ? bounds[0][0] : longitude;
+                    bounds[1][0] = bounds[1][0] > longitude ? bounds[1][0] : longitude;
+                    bounds[0][1] = bounds[0][1] < latitude ? bounds[0][1] : latitude;
+                    bounds[1][1] = bounds[1][1] > latitude ? bounds[1][1] : latitude;
+                }
+            }
+        }
+        return bounds;
+    }
+{% endjs %}
+
+{% block main %}
+    <main aria-label="Map" id="map"></main>
+    </main>
+    <div class="sidebar">
+        {% block sidebar %}
+        {% endblock %}
+    </div>
+{% endblock %}

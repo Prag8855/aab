@@ -750,6 +750,11 @@ body > header {
         padding-top: var(--l);
         border-top: var(--b-box);
     }
+
+    a[href*="/glossary/"]{
+        @include text-hint;
+        cursor: help;
+    }
 }
 @include not-desktop{
     .sidebar{

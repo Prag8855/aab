@@ -47,7 +47,13 @@
 	<meta name="git-commit-hash" content="{{ commit_id }}">
 	<meta name="page-generated" content="{{ now.isoformat() }}">
 
-	<style>{% scss %}{% include "css/style.scss" %}{% endscss %}</style>
+	<style>
+		{% scss %}
+			{% include "css/style.scss" %}
+			{% block extraScss %}
+			{% endblock %}
+		{% endscss %}
+	</style>
 </head>
 <body>
 {% block body %}
