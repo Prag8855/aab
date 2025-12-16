@@ -27,28 +27,8 @@
 	</main>
 	<div class="sidebar no-print" data-nosnippet aria-hidden="true">
 		<h2>Rent prices in <span id="location">Berlin</span></h2>
-		<p>This map shows the <strong>median warm rent per m²</strong>, based on <span id="sampleSize">thousands of</span> apartments listed in December 2025.</p>
-		<small>Data from <a href="https://www.homeboy.immo/en">Homeboy</a>, December 2025</small>
-		<hr>
-		<div class="form-group">
-			<label>Postal code</label>
-			<input
-				id="plzInput"
-				class="postalcode-input"
-				placeholder="12345"
-				type="text"
-				inputmode="numeric"
-				pattern="[0-9]{5}"
-				minlength="5"
-				maxlength="5"
-				autocomplete="postal-code"
-				title="Postal code (Postleitzahl)"
-				>
-		</div>
-		<div class="form-group">
-			<span class="label">Median rent</span>
-			<span>€29/m2</span>
-		</div>
+		<p>This map shows the <strong>median rent per m²</strong> is based on <span id="sampleSize">thousands of</span> apartments listed in December 2025.</p>
+		<small>Data from <a href="https://www.homeboy.immo/en">Homeboy</a></small>
 	</div>
 {% endblock %}
 
@@ -59,10 +39,14 @@ const map = new maplibregl.Map({
 	container: 'map',
 	style: {% include "tools/rent-map/_mapStyle.json" %},
 	center: [13.405, 52.52],
-	zoom: 10,
+	bounds: [13.0884, 52.3383, 13.7611, 52.6755],
 	attributionControl: false
 })
 .addControl(new maplibregl.AttributionControl({compact: true}));
+
+function getCityBounds(mapData){
+	return mapData.features.reduce((b, f) => b.extend(f.geometry.coordinates), new maplibregl.LngLatBounds());
+}
 
 function getFeatureBounds(f){
 	return new maplibregl.LngLatBounds(getPolygonBounds(f.geometry.coordinates));
@@ -87,17 +71,18 @@ function getPolygonBounds(coords, bounds=[[], []]){
 	return bounds;
 }
 
-function highlightPlz(map, plz){
-	map.setFilter('plz-highlight', ['==', ['get', 'id'], plz]);
+function highlightPlz(map, feature){
+	map.fitBounds(getFeatureBounds(feature), {
+		padding: 20,
+		maxZoom: 12,
+	});
+	map.setFilter('plz-highlight', ['==', ['get', 'id'], feature.properties.id]);
 }
 function clearHighlightedPlz(map){
 	map.setFilter('plz-highlight', ['==', ['get', 'id'], '']);
 }
 
 // Add interactive GeoJSON layer
-const plzInput = document.getElementById("plzInput");
-const sampleSizeElement = document.getElementById('sampleSize');
-const locationElement = document.getElementById('location');
 let sampleSize = null;
 map.on('load', () => {
 	let hoveredFeature = undefined;
@@ -110,7 +95,6 @@ map.on('load', () => {
 			const minRent = Math.min(...rents);
 			const maxRent = Math.max(...rents);
 			sampleSize = mapData.features.reduce((total, f) => total + f.properties.count, 0);
-			sampleSizeElement.innerHTML = Intl.NumberFormat("en-US").format(sampleSize);
 
 			mapData.features.forEach(f => {
 				f.properties.id = f.id;
@@ -128,7 +112,6 @@ map.on('load', () => {
 				type: 'geojson',
 				data: mapData,
 			});
-			map.fitBounds(mapDataSource.getBounds(), { padding: 20 });
 
 			// Add labels
 			map.addSource('plz-data-labels', {
@@ -192,25 +175,14 @@ map.on('load', () => {
 				source: 'plz-data',
 				paint: {
 					'line-color': '#fff',
-					'line-width': [
-						'step',
-						['zoom'],
-						4,
-						11, 1 * 2,
-						12, 2 * 2,
-					],
+					'line-width': 4,
 				},
 				filter: ['==', ['get', 'id'], '']
 			}, "Grenzen_Staatsgrenze");
 
 			// Click to zoom
 			map.on('click', 'plz-fill', (e) => {
-				// Geographic coordinates of the LineString
-				map.fitBounds(getFeatureBounds(e.features[0]), {
-					padding: 20
-				});
-
-				highlightPlz(map, e.features[0].properties.id);
+				highlightPlz(map, e.features[0]);
 			});
 
 			map.addLayer({
