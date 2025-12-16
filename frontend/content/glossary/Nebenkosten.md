@@ -20,4 +20,9 @@ Usually, these services are included in your *Nebenkosten*:
 - Trash collection
 - Cleaning and landscaping
 
+These services are sometimes excluded:
+
+- Electricity for your lights and appliances
+- Hot water from a flow heater (*Durchlauferhitzer*)
+
 You pay the *estimated* utility costs every month with the rent. Every year, your landlord calculates the real costs, and sends you a bill (the *[[Nebenkostenabrechnung]]*). If you paid too much *Nebenkosten*, you get money back. If you did not pay enough, you get an invoice.

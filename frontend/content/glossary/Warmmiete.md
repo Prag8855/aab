@@ -13,7 +13,7 @@ Related_guides:
     guides/housing-scams.md
 ---
 
-The warm rent (*Warmmiete*) is the rent you pay every month. It's your cold rent (*[[Kaltmiete]]*) plus utilities (*[[Nebenkosten]]*).
+The warm rent (*Warmmiete*) is your total monthly rent. It includes your cold rent (*[[Kaltmiete]]*) and utilities (*[[Nebenkosten]]*). It might not include electricity for your lights and appliances.
 
 > Cold rent (*Kaltmiete*) + utilities (*Nebenkosten*) = warm rent (*Warmmiete*)
 
