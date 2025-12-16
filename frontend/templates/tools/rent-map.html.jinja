@@ -65,12 +65,33 @@ const map = new maplibregl.Map({
 .addControl(new maplibregl.AttributionControl({compact: true}));
 
 function getFeatureBounds(f){
-	return f.geometry.coordinates
-		.flat(f.geometry.type === "MultiPolygon" ? 2 : 1)
-		.reduce(
-			(bounds, coord) => bounds.extend(coord),
-			new maplibregl.LngLatBounds()
-		)
+	return new maplibregl.LngLatBounds(getPolygonBounds(f.geometry.coordinates));
+}
+
+function getPolygonBounds(coords, bounds=[[], []]){
+	for (var i = 0; i < coords.length; i++) {
+		if (Array.isArray(coords[i][0][0])){
+			bounds = getPolygonBounds(coords[i], bounds);
+		} else {
+			polygon = coords[i];
+			for (var j = 0; j < polygon.length; j++) {
+				longitude = polygon[j][0];
+				latitude = polygon[j][1];
+				bounds[0][0] = bounds[0][0] < longitude ? bounds[0][0] : longitude;
+				bounds[1][0] = bounds[1][0] > longitude ? bounds[1][0] : longitude;
+				bounds[0][1] = bounds[0][1] < latitude ? bounds[0][1] : latitude;
+				bounds[1][1] = bounds[1][1] > latitude ? bounds[1][1] : latitude;
+			}
+		}
+	}
+	return bounds;
+}
+
+function highlightPlz(map, plz){
+	map.setFilter('plz-highlight', ['==', ['get', 'id'], plz]);
+}
+function clearHighlightedPlz(map){
+	map.setFilter('plz-highlight', ['==', ['get', 'id'], '']);
 }
 
 // Add interactive GeoJSON layer
@@ -92,6 +113,8 @@ map.on('load', () => {
 			sampleSizeElement.innerHTML = Intl.NumberFormat("en-US").format(sampleSize);
 
 			mapData.features.forEach(f => {
+				f.properties.id = f.id;
+
 				const rent = f.properties['median'];
 				const colors = ["#ffffff", "#ffe0d8", "#ffc0b0", "#ff9e89", "#f97c64", "#ea5d45", "#d63d29", "#bd1d12", "#9d0000"];
 				const rank = (rent - minRent) / (maxRent - minRent);
@@ -118,7 +141,7 @@ map.on('load', () => {
 							properties: {
 								medianShort: formatCurrency(f.properties.median, includeCents=false, currency=null),
 								medianMedium: formatCurrency(f.properties.median, includeCents=false) + '/m²',
-								medianLong: formatCurrency(f.properties.median, includeCents=true) + '/m²',
+								medianLong: f.id + '\n' + formatCurrency(f.properties.median, includeCents=true) + '/m²',
 							},
 							geometry: {
 								type: "Point",
@@ -130,7 +153,68 @@ map.on('load', () => {
 			});
 
 			map.addLayer({
-				id: 'geojson-labels',
+				id: 'plz-fill',
+				type: 'fill',
+				source: 'plz-data',
+				paint: {
+					'fill-color': ['get', 'color'],  // precomputed
+					'fill-opacity': [
+						'step',
+						['zoom'],
+						1,
+						5, 0.8,
+						11, 0.6,
+						14, 0.4,
+					],
+				},
+			}, "Grenzen_Staatsgrenze");
+
+			map.addLayer({
+				id: 'plz-outline',
+				type: 'line',
+				source: 'plz-data',
+				paint: {
+					'line-color': '#000',
+					'line-width': [
+						'step',
+						['zoom'],
+						0.5,
+						11, 1,
+						12, 2,
+					],
+					'line-opacity': 0.3
+				}
+			}, "Grenzen_Staatsgrenze");
+
+			map.addLayer({
+				id: 'plz-highlight',
+				type: 'line',
+				source: 'plz-data',
+				paint: {
+					'line-color': '#fff',
+					'line-width': [
+						'step',
+						['zoom'],
+						4,
+						11, 1 * 2,
+						12, 2 * 2,
+					],
+				},
+				filter: ['==', ['get', 'id'], '']
+			}, "Grenzen_Staatsgrenze");
+
+			// Click to zoom
+			map.on('click', 'plz-fill', (e) => {
+				// Geographic coordinates of the LineString
+				map.fitBounds(getFeatureBounds(e.features[0]), {
+					padding: 20
+				});
+
+				highlightPlz(map, e.features[0].properties.id);
+			});
+
+			map.addLayer({
+				id: 'rent-labels',
 				type: 'symbol',
 				source: 'plz-data-labels',
 				layout: {
@@ -144,9 +228,9 @@ map.on('load', () => {
 					"text-size": [
 						'step',
 						['zoom'],
-						11,
-						11, 13,
-						13, 16,
+						12,
+						11, 14,
+						12, 18,
 						14, 24,
 					],
 				},
@@ -161,55 +245,9 @@ map.on('load', () => {
 					],
 				},
 			});
-
-			map.addLayer({
-				id: 'geojson-fill-top',
-				type: 'fill',
-				source: 'plz-data',
-				paint: {
-					'fill-color': ['get', 'color'],  // precomputed
-					'fill-opacity': [
-						'step',
-						['zoom'],
-						1,
-						5, 0.8,
-						11, 0.6,
-						14, 0.4,
-					],
-				}
-			}, "Grenzen_Staatsgrenze");
-
-			map.addLayer({
-				id: 'geojson-outline',
-				type: 'line',
-				source: 'plz-data',
-				paint: {
-					'line-color': '#000a',
-					'line-width': [
-						'step',
-						['zoom'],
-						0.5,
-						11, 1,
-						12, 2,
-					],
-					'line-opacity': 0.3
-				}
-			}, "Grenzen_Staatsgrenze");
-
-			// Click to zoom
-			map.on('click', 'geojson-fill-top', (e) => {
-				// Geographic coordinates of the LineString
-				map.fitBounds(getFeatureBounds(e.features[0]), {
-					padding: 20
-				});
-				plzInput.value = e.features[0].id;
-
-				locationElement.innerHTML = e.features[0].id;
-				sampleSizeElement.innerHTML = e.features[0].properties.count;
-			});
 		});
 
-	map.on('mousemove', 'geojson-fill-top', (e) => {
+	map.on('mousemove', 'plz-fill', (e) => {
 		const feature = e.features[0];
 		if (feature !== hoveredFeature) {
 			hoveredFeature = feature;
@@ -219,7 +257,7 @@ map.on('load', () => {
 		}
 	});
 
-	map.on('mouseleave', 'geojson-fill-top', () => {
+	map.on('mouseleave', 'plz-fill', () => {
 		hoveredFeature = undefined;
 		map.getCanvas().style.cursor = '';
 	});
