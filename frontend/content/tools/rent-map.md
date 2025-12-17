@@ -6,4 +6,5 @@ Categories:
     maps
 Related_guides:
     guides/find-a-flat-in-berlin.md
+    guides/cost-of-living.md
 ---

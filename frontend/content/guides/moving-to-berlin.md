@@ -22,7 +22,7 @@ You need enough money for...
 - **The apartment deposit** (*[[Kaution]]*)  
     It's 3 times your [cold rent](/glossary/Kaltmiete). You must pay 1/3 of the deposit before you move in, 1/3 after one month, and 1/3 after two months. - [How apartment deposits work](/guides/mietkaution)
 - **The first month of rent**  
-    You must pay it by [bank transfer](/glossary/SEPA-Überweisung) before you [move in](/guides/moving-in).
+    You must pay it by [bank transfer](/glossary/SEPA-Überweisung) before you [move in](/guides/moving-in). Use my [rent map](/tools/rent-map) to set your budget.
 - **Your [living expenses](/guides/cost-of-living)**  
     You must buy food and things for your apartment. You might also need to buy furniture and appliances. If you find a furnished apartment or a [[WG]]; it comes with everything you need.
 - **Your [health insurance](/glossary/Krankenversicherung)**  

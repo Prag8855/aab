@@ -27,7 +27,7 @@ In Germany, a part of your [gross income](/glossary/Brutto%20income) (*Brutto*) 
 
 ### Rent
 
-**Cost:** €600 to €900 per month (room), €700 to €1,500 per month (apartment)
+**Cost:** €600 to €900 per month (room), €900 to €1,600 per month (apartment). Use my [rent map](/tools/rent-map).
 
 In Germany, there is the cold rent (*[[Kaltmiete]]*), and the warm rent (*[[Warmmiete]]*). The warm rent includes utilities (*[[Nebenkosten]]*).
 
