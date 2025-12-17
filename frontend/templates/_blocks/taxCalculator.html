@@ -476,6 +476,7 @@
 	</template>
 	<div class="column-with-pie-chart">
 		<svg viewBox="-1 -1 2 2" class="pie-chart">
+			<title>Pie chart of the taxes you pay in Germany</title>
 			<circle cx="0" cy="0" r="1" :fill="colors.disposableIncome"
 				@mouseEnter="highlightedSection = 'disposableIncome'" @mouseLeave="highlightedSection = null">
 				<title>Disposable income</title>
@@ -505,10 +506,10 @@
 				<title>Church tax</title>
 			</path>
 		</svg>
-		<div>
+		<div aria-label="List of the social contributions you pay">
 			<details>
 				<summary class="price-line" :class="{highlighted: highlightedSection === 'healthInsurance'}">
-					<svg id="svg" viewBox="-1 -1 2 2" class="pie-chart">
+					<svg id="svg" viewBox="-1 -1 2 2" class="pie-chart" aria-hidden="true">
 						<circle cx="0" cy="0" r="0.7" :fill="colors.healthInsurance"/></circle>
 					</svg>
 					Health insurance
@@ -572,7 +573,7 @@
 			</details>
 			<details v-if="result.publicPension > 0">
 				<summary class="price-line" :class="{highlighted: highlightedSection === 'publicPension'}">
-					<svg id="svg" viewBox="-1 -1 2 2" class="pie-chart">
+					<svg id="svg" viewBox="-1 -1 2 2" class="pie-chart" aria-hidden="true">
 						<circle cx="0" cy="0" r="0.7" :fill="colors.publicPension"/></circle>
 					</svg>
 					Public pension
@@ -600,7 +601,7 @@
 			</details>
 			<details v-if="result.unemploymentInsurance > 0">
 				<summary class="price-line" :class="{highlighted: highlightedSection === 'unemploymentInsurance'}">
-					<svg id="svg" viewBox="-1 -1 2 2" class="pie-chart">
+					<svg id="svg" viewBox="-1 -1 2 2" class="pie-chart" aria-hidden="true">
 						<circle cx="0" cy="0" r="0.7" :fill="colors.unemploymentInsurance"/></circle>
 					</svg>
 					Unemployment insurance
@@ -628,7 +629,7 @@
 			</details>
 			<details v-if="result.incomeTax > 0">
 				<summary class="price-line" :class="{highlighted: highlightedSection === 'incomeTax'}">
-					<svg id="svg" viewBox="-1 -1 2 2" class="pie-chart">
+					<svg id="svg" viewBox="-1 -1 2 2" class="pie-chart" aria-hidden="true">
 						<circle cx="0" cy="0" r="0.7" :fill="colors.incomeTax"/></circle>
 					</svg>
 					Income tax
@@ -648,7 +649,7 @@
 			</details>
 			<details v-if="result.solidarityTax > 0">
 				<summary class="price-line" :class="{highlighted: highlightedSection === 'solidarityTax'}">
-					<svg id="svg" viewBox="-1 -1 2 2" class="pie-chart">
+					<svg id="svg" viewBox="-1 -1 2 2" class="pie-chart" aria-hidden="true">
 						<circle cx="0" cy="0" r="0.7" :fill="colors.solidarityTax"/></circle>
 					</svg>
 					Solidarity surcharge
@@ -666,7 +667,7 @@
 			</details>
 			<details v-if="isPayingChurchTax">
 				<summary class="price-line" :class="{highlighted: highlightedSection === 'churchTax'}">
-					<svg id="svg" viewBox="-1 -1 2 2" class="pie-chart">
+					<svg id="svg" viewBox="-1 -1 2 2" class="pie-chart" aria-hidden="true">
 						<circle cx="0" cy="0" r="0.7" :fill="colors.churchTax"/></circle>
 					</svg>
 					Church tax
@@ -677,7 +678,7 @@
 			</details>
 			<details class="total">
 				<summary class="price-line" :class="{highlighted: !highlightedSection}">
-					<svg id="svg" viewBox="-1 -1 2 2" class="pie-chart">
+					<svg id="svg" viewBox="-1 -1 2 2" class="pie-chart" aria-hidden="true">
 						<circle cx="0" cy="0" r="1" fill="currentColor"/></circle>
 						<path :d="svgPaths.totalDeductions" :fill="colors.incomeTax"></path>
 					</svg>
@@ -688,7 +689,7 @@
 			</details>
 			<details class="total">
 				<summary class="price-line" :class="{highlighted: highlightedSection === 'disposableIncome' || !highlightedSection}">
-					<svg id="svg" viewBox="-1 -1 2 2" class="pie-chart">
+					<svg id="svg" viewBox="-1 -1 2 2" class="pie-chart" aria-hidden="true">
 						<circle cx="0" cy="0" r="1" fill="currentColor"/></circle>
 						<path :d="svgPaths.disposableIncome" :fill="colors.disposableIncome"></path>
 					</svg>
