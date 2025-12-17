@@ -750,11 +750,6 @@ body > header {
         padding-top: var(--l);
         border-top: var(--b-box);
     }
-
-    a[href*="/glossary/"]{
-        @include text-hint;
-        cursor: help;
-    }
 }
 @include not-desktop{
     .sidebar{
@@ -1188,11 +1183,6 @@ sup:target a{
         text-align: right;
     }
 
-    a[href*="/glossary/"]:not(.recommended){
-        @include text-hint;
-        cursor: help;
-    }
-
     .internal-link, .external-link, .section-link{
         &:after{
             content: '';
@@ -1385,6 +1375,10 @@ sup:target a{
         p:first-child{margin-top: 0}
         p:last-child{margin-bottom: 0}
     }
+}
+:is(.article-body, .sidebar) a[href*="/glossary/"]{
+    @include text-hint;
+    cursor: help;
 }
 
 .hidden{

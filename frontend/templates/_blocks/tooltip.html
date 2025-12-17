@@ -86,11 +86,7 @@
 				tooltip.close();
 			}
 		});
-		const article = document.querySelector('main .article-body');
-		if (article){
-			setTooltipLinks(article);
-		}
-
+		document.querySelectorAll('main .article-body, .sidebar').forEach(el => setTooltipLinks(el));
 		tooltip.querySelector('.pronounce-button').addEventListener('click', pronounceTerm);
 	});
 {% endjs %}
