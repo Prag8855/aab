@@ -9,7 +9,7 @@ from ..abmeldung_form import (
 import re
 
 
-def test_data_remembered(page, assert_snapshot):
+def test_data_remembered(page, test_screenshot):
     fill_abmeldung_form_until(page, "oldAddress")
     fill_old_address(page)
     next_step(page)
@@ -26,10 +26,10 @@ def test_data_remembered(page, assert_snapshot):
     expect(page.get_by_title("Year")).to_have_value(year)
 
     form = page.get_by_role("group", name="Tool to fill the Abmeldung form")
-    assert_snapshot(form.screenshot())
+    test_screenshot(page, form)
 
 
-def test_data_validity_check(page, assert_snapshot):
+def test_data_validity_check(page, test_screenshot):
     fill_abmeldung_form_until(page, "oldAddress")
 
     expect(page.locator(".abmeldung-form")).not_to_have_class(re.compile(r".*show-errors.*"))
@@ -52,4 +52,4 @@ def test_data_validity_check(page, assert_snapshot):
     expect(page.get_by_title("Year")).to_have_js_property("validity.valid", False)
 
     form = page.get_by_role("group", name="Tool to fill the Abmeldung form")
-    assert_snapshot(form.screenshot())
+    test_screenshot(page, form)

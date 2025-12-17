@@ -8,7 +8,7 @@ from ..anmeldung_form import (
 )
 
 
-def test_data_remembered(page, assert_snapshot):
+def test_data_remembered(page, test_screenshot):
     fill_anmeldung_form_until(page, "beiAddress")
     fill_bei_address(page)
 
@@ -22,7 +22,7 @@ def test_data_remembered(page, assert_snapshot):
     expect(page.get_by_label("Name on mailbox")).to_have_value("Müller")
 
     form = page.get_by_role("group", name="Tool to fill the Anmeldung form")
-    assert_snapshot(form.screenshot())
+    test_screenshot(page, form)
 
 
 def test_pluralisation(page):

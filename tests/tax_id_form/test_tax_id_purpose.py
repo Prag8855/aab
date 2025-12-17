@@ -2,7 +2,7 @@ from playwright.sync_api import expect
 from ..tax_id_form import fill_tax_id_form_until, fill_purpose, get_form
 
 
-def test_invalid_options(page, assert_snapshot):
+def test_invalid_options(page, test_screenshot):
     fill_tax_id_form_until(page, "purpose")
     continue_button = page.get_by_role("button", name="Continue")
     fill_purpose(page, "I can't register my address, but I need a tax ID")
@@ -16,4 +16,4 @@ def test_invalid_options(page, assert_snapshot):
     fill_purpose(page, "Something else")
     expect(continue_button).to_be_disabled()
 
-    assert_snapshot(get_form(page).screenshot())
+    test_screenshot(page, get_form(page))

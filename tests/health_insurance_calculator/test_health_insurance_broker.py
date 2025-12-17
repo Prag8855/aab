@@ -4,12 +4,12 @@ import json
 import re
 
 
-def test_snapshot(page, assert_snapshot):
+def test_snapshot(page, test_screenshot):
     fill_calculator_until(page, "askABroker", **cases["employee-100k"])
-    assert_snapshot(get_calculator(page).screenshot())
+    test_screenshot(page, get_calculator(page))
 
 
-def test_by_whatsapp(page, assert_snapshot):
+def test_by_whatsapp(page, test_screenshot):
     case = cases["employee-100k"]
 
     fill_calculator_until(page, "askABroker", **case)
@@ -17,7 +17,7 @@ def test_by_whatsapp(page, assert_snapshot):
     expect(get_calculator(page)).not_to_have_class(re.compile(r".*show-errors.*"))
     page.locator(".button.whatsapp").click()
     expect(get_calculator(page)).to_have_class(re.compile(r".*show-errors.*"))
-    assert_snapshot(get_calculator(page).screenshot())
+    test_screenshot(page, get_calculator(page))
     assert_stage(page, "askABroker")
 
     page.get_by_label("Your name").fill("John Doe")
@@ -38,14 +38,14 @@ def test_by_whatsapp(page, assert_snapshot):
     expected_response.pop("can_have_private")
     assert request_data == expected_response
 
-    assert_snapshot(get_calculator(page).screenshot())
+    test_screenshot(page, get_calculator(page))
     assert_stage(page, "thank-you")
 
     page.get_by_label("Go back").click()
     assert_stage(page, "occupation")
 
 
-def test_by_email(page, assert_snapshot):
+def test_by_email(page, test_screenshot):
     case = cases["employee-100k"]
 
     fill_calculator_until(page, "askABroker", **case)
@@ -53,7 +53,7 @@ def test_by_email(page, assert_snapshot):
     expect(get_calculator(page)).not_to_have_class(re.compile(r".*show-errors.*"))
     page.get_by_role("button", name="Ask Seamus").click()
     expect(get_calculator(page)).to_have_class(re.compile(r".*show-errors.*"))
-    assert_snapshot(get_calculator(page).screenshot())
+    test_screenshot(page, get_calculator(page))
     assert_stage(page, "askABroker")
 
     page.get_by_label("Your name").fill("John Doe")
@@ -76,7 +76,7 @@ def test_by_email(page, assert_snapshot):
     expected_response.pop("can_have_private")
     assert request_data == expected_response
 
-    assert_snapshot(get_calculator(page).screenshot())
+    test_screenshot(page, get_calculator(page))
     assert_stage(page, "thank-you")
 
     page.get_by_label("Go back").click()

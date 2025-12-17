@@ -8,7 +8,7 @@ from ..anmeldung_form import (
 )
 
 
-def test_data_remembered(page, assert_snapshot):
+def test_data_remembered(page, test_screenshot):
     fill_anmeldung_form_until(page, "addPeople")
     fill_people(page, multiple_people=True)
 
@@ -35,4 +35,4 @@ def test_data_remembered(page, assert_snapshot):
         expect(page.get_by_title("Year").nth(index)).to_have_value(year)
 
     form = page.get_by_role("group", name="Tool to fill the Anmeldung form")
-    assert_snapshot(form.screenshot())
+    test_screenshot(page, form)

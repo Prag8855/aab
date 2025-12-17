@@ -19,23 +19,23 @@ def fill_calculator(page):
     page.get_by_label("Salary in Germany").fill("50000")
 
 
-def test_default_state(page, pension_refund_calculator, assert_snapshot):
-    assert_snapshot(pension_refund_calculator.screenshot())
+def test_default_state(page, pension_refund_calculator, test_screenshot):
+    test_screenshot(page, pension_refund_calculator)
 
 
-def test_eligible(page, pension_refund_calculator, assert_snapshot):
+def test_eligible(page, pension_refund_calculator, test_screenshot):
     fill_calculator(page)
-    assert_snapshot(pension_refund_calculator.screenshot())
+    test_screenshot(page, pension_refund_calculator)
 
 
-def test_apply_for_refund(page, pension_refund_calculator, assert_snapshot):
+def test_apply_for_refund(page, pension_refund_calculator, test_screenshot):
     fill_calculator(page)
     page.get_by_role("button", name="Apply for a refund").click()
-    assert_snapshot(pension_refund_calculator.screenshot())
+    test_screenshot(page, pension_refund_calculator)
     page.get_by_label("FundsBack").click()
     page.get_by_role("button", name="Request a refund").click()
     page.get_by_role("button", name="Send request").click()  # Form error
-    assert_snapshot(pension_refund_calculator.screenshot())
+    test_screenshot(page, pension_refund_calculator)
     page.get_by_label("Full name").fill("John Smith")
     page.get_by_label("Email address").fill("testaccount@gmail.com")
     page.get_by_title("Day of the month").fill("3")
@@ -57,17 +57,17 @@ def test_apply_for_refund(page, pension_refund_calculator, assert_snapshot):
     }
 
     expect(pension_refund_calculator).to_contain_text("Request sent")
-    assert_snapshot(pension_refund_calculator.screenshot())
+    test_screenshot(page, pension_refund_calculator)
 
 
-def test_diy_refund(page, pension_refund_calculator, assert_snapshot):
+def test_diy_refund(page, pension_refund_calculator, test_screenshot):
     fill_calculator(page)
     page.get_by_role("button", name="Apply for a refund").click()
     page.get_by_label("Do it yourself").click()
-    assert_snapshot(pension_refund_calculator.screenshot())
+    test_screenshot(page, pension_refund_calculator)
 
 
-def test_east_west_germany(page, pension_refund_calculator, assert_snapshot):
+def test_east_west_germany(page, pension_refund_calculator, test_screenshot):
     fill_calculator(page)
     page.get_by_label("Salary in Germany").fill("150000")
     page.get_by_label("Where did you work?").select_option("Brandenburg")
@@ -75,23 +75,23 @@ def test_east_west_germany(page, pension_refund_calculator, assert_snapshot):
     page.get_by_label("Where did you work?").select_option("Bavaria")
     refund_west = pension_refund_calculator.locator(".price.large").text_content()
     assert refund_east != refund_west
-    assert_snapshot(pension_refund_calculator.screenshot())
+    test_screenshot(page, pension_refund_calculator)
 
 
-def test_not_eligible_month(page, pension_refund_calculator, assert_snapshot):
+def test_not_eligible_month(page, pension_refund_calculator, test_screenshot):
     fill_calculator(page)
     page.get_by_label("First year of work in Germany").select_option("2000")
     expect(pension_refund_calculator).to_contain_text("You can't get a pension refund")
-    assert_snapshot(pension_refund_calculator.screenshot())
+    test_screenshot(page, pension_refund_calculator)
 
 
-def test_not_eligible_country_of_residence(page, pension_refund_calculator, assert_snapshot):
+def test_not_eligible_country_of_residence(page, pension_refund_calculator, test_screenshot):
     page.get_by_label("Nationality").select_option("Canada")
     page.get_by_label("Where do you live?").select_option("France")
-    assert_snapshot(pension_refund_calculator.screenshot())
+    test_screenshot(page, pension_refund_calculator)
 
 
-def test_not_eligible_nationality(page, pension_refund_calculator, assert_snapshot):
+def test_not_eligible_nationality(page, pension_refund_calculator, test_screenshot):
     page.get_by_label("Nationality").select_option("France")
     page.get_by_label("Where do you live?").select_option("Canada")
-    assert_snapshot(pension_refund_calculator.screenshot())
+    test_screenshot(page, pension_refund_calculator)

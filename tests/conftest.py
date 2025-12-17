@@ -43,6 +43,19 @@ def browser_context_args(browser_context_args, device_config):
     }
 
 
+@pytest.fixture(scope="function")
+def test_screenshot(page, assert_snapshot):
+    def test(page, element, remove_focus=True, move_mouse=True):
+        # Blur any focused elements to fix flakiness
+        if remove_focus:
+            page.evaluate("document.activeElement.blur()")
+        if move_mouse:
+            page.mouse.move(0, 0)
+        assert_snapshot(element.screenshot())
+
+    return test
+
+
 def pytest_configure(config):
     tests_root = Path(__file__).parent.resolve()
     config.option.playwright_visual_snapshots_path = tests_root / "snapshots"

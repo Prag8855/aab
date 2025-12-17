@@ -3,7 +3,7 @@ from ..test_data import people
 from ..anmeldung_form import fill_anmeldung_form_until
 
 
-def test_download_buttons(page, assert_snapshot, tmp_path):
+def test_download_buttons(page, test_screenshot, tmp_path):
     fill_anmeldung_form_until(page, "options", multiple_people=True)
 
     download_1 = page.get_by_role("button", name="Download your Anmeldung form (part 1)")
@@ -43,4 +43,4 @@ def test_download_buttons(page, assert_snapshot, tmp_path):
     expect(download_3).not_to_be_disabled()
 
     form = page.get_by_role("group", name="Tool to fill the Anmeldung form")
-    assert_snapshot(form.screenshot())
+    test_screenshot(page, form)

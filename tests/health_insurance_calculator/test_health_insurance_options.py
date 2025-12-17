@@ -4,9 +4,9 @@ import pytest
 
 
 @pytest.mark.parametrize("case", cases.values(), ids=cases.keys())
-def test_options(page, assert_snapshot, case):
+def test_options(page, test_screenshot, case):
     fill_calculator_until(page, "options", **case)
-    assert_snapshot(get_calculator(page).screenshot())
+    test_screenshot(page, get_calculator(page))
 
     page.get_by_label("Go back").click()
     assert_stage(page, "questions")
@@ -23,7 +23,7 @@ def test_option_ask_a_broker(page, case):
     assert_stage(page, "options")
 
 
-def test_option_private_quote(page, assert_snapshot):
+def test_option_private_quote(page, test_screenshot):
     case = cases["employee-100k"]
 
     fill_calculator_until(page, "options", **case)
@@ -31,7 +31,7 @@ def test_option_private_quote(page, assert_snapshot):
     if case["can_have_private"]:
         page.get_by_label("Private health insurance").click()
         assert_stage(page, "privateOptions")
-        assert_snapshot(get_calculator(page).screenshot())
+        test_screenshot(page, get_calculator(page))
 
         page.get_by_role("button", name="Get insured").click()
         assert_stage(page, "askABroker")

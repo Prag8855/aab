@@ -3,7 +3,7 @@ from ..test_data import people
 from ..tax_id_form import fill_tax_id_form_until, fill_people, next_step, previous_step, get_form
 
 
-def test_data_remembered(page, assert_snapshot):
+def test_data_remembered(page, test_screenshot):
     fill_tax_id_form_until(page, "addPeople")
     fill_people(page, multiple_people=True)
 
@@ -24,4 +24,4 @@ def test_data_remembered(page, assert_snapshot):
         expect(page.get_by_title("Month", exact=True).nth(index)).to_have_value(month)
         expect(page.get_by_title("Year").nth(index)).to_have_value(year)
 
-    assert_snapshot(get_form(page).screenshot())
+    test_screenshot(page, get_form(page))

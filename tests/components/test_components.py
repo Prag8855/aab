@@ -12,31 +12,31 @@ import pytest
         "tabs",
     ],
 )
-def test_component_snapshot(page, assert_snapshot, component):
+def test_component_snapshot(page, test_screenshot, component):
     page.goto(f"/tests/component/{component}")
     content = page.locator("main > article")
-    assert_snapshot(content.screenshot())
+    test_screenshot(page, content)
 
 
-def test_glossary_click(page, assert_snapshot):
+def test_glossary_click(page, test_screenshot):
     page.goto("/tests/component/glossary")
     page.locator("main > article a").first.click()
 
     dialog = page.locator("dialog").first
     assert dialog.evaluate("dialog => dialog.open")
-    assert_snapshot(dialog.screenshot())
+    test_screenshot(page, dialog)
 
     dialog.locator(".close-button").click()
     assert not dialog.evaluate("dialog => dialog.open")
 
 
-def test_recommended_click(page, assert_snapshot):
+def test_recommended_click(page, test_screenshot):
     page.goto("/tests/component/recommended")
     link = page.locator("main > article a.recommended").first
 
     # Test hover state
     link.hover()
-    assert_snapshot(page.locator("main > article").screenshot())
+    test_screenshot(page, page.locator("main > article"), move_mouse=False)
 
     # Test click
     link.click()

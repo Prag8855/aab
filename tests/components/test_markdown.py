@@ -1,4 +1,4 @@
-def test_markdown_elements(page, assert_snapshot):
+def test_markdown_elements(page, test_screenshot):
     page.goto("/tests/markdown")
     content = page.locator("main > article")
-    assert_snapshot(content.screenshot())
+    test_screenshot(page, content)

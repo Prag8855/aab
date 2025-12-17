@@ -2,7 +2,7 @@ from playwright.sync_api import expect
 from ..tax_id_form import fill_tax_id_form_until, fill_bei_address, previous_step, next_step, fill_people, get_form
 
 
-def test_data_remembered(page, assert_snapshot):
+def test_data_remembered(page, test_screenshot):
     fill_tax_id_form_until(page, "beiAddress")
     fill_bei_address(page)
 
@@ -15,13 +15,13 @@ def test_data_remembered(page, assert_snapshot):
     expect(page.get_by_label("My name is on my mailbox")).not_to_be_checked()
     expect(page.get_by_label("Name on mailbox")).to_have_value("Müller")
 
-    assert_snapshot(get_form(page).screenshot())
+    test_screenshot(page, get_form(page))
 
 
-def test_pluralisation(page, assert_snapshot):
+def test_pluralisation(page, test_screenshot):
     fill_tax_id_form_until(page, "addPeople")
     fill_people(page, multiple_people=True)
     next_step(page)
     expect(page.get_by_label("Our names are on our mailbox")).to_be_checked()
 
-    assert_snapshot(get_form(page).screenshot())
+    test_screenshot(page, get_form(page))

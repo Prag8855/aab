@@ -2,7 +2,7 @@ from ..test_data import people
 from ..tax_id_form import fill_tax_id_form_until, get_form
 
 
-def test_download_buttons_no_anmeldung(page, assert_snapshot, tmp_path):
+def test_download_buttons_no_anmeldung(page, test_screenshot, tmp_path):
     fill_tax_id_form_until(
         page, "options", multiple_people=True, purpose="I can't register my address, but I need a tax ID"
     )
@@ -17,7 +17,7 @@ def test_download_buttons_no_anmeldung(page, assert_snapshot, tmp_path):
             assert download.suggested_filename == "tax-id-form-filled.pdf"
             download.save_as(tmp_path / f"tax-id-{index}.pdf")
 
-    assert_snapshot(get_form(page).screenshot())
+    test_screenshot(page, get_form(page))
 
 
 def test_download_buttons_living_abroad(page, tmp_path):

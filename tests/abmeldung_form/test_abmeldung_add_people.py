@@ -3,7 +3,7 @@ from ..test_data import people
 from ..abmeldung_form import fill_abmeldung_form_until, fill_people, previous_step
 
 
-def test_data_remembered(page, assert_snapshot):
+def test_data_remembered(page, test_screenshot):
     fill_abmeldung_form_until(page, "addPeople")
     fill_people(page, multiple_people=True)
 
@@ -30,4 +30,4 @@ def test_data_remembered(page, assert_snapshot):
         expect(page.get_by_title("Year").nth(index)).to_have_value(year)
 
     form = page.get_by_role("group", name="Tool to fill the Abmeldung form")
-    assert_snapshot(form.screenshot())
+    test_screenshot(page, form)
