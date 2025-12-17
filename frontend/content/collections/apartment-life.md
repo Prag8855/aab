@@ -4,6 +4,7 @@ Description: Guides for feeling at home in Berlin
 Related_guides:
     guides/find-a-flat-in-berlin.md
     guides/housing-scams.md
+    tools/rent-map.md
     guides/anmeldung-in-english-berlin.md
     guides/moving-in.md
     guides/moving-out.md
