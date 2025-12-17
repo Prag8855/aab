@@ -21,7 +21,7 @@ def get_plz_shapes():
 
 
 def parse_homeboy_data(path):
-    median_rent_by_plz = {}
+    prices_by_plz = {}
 
     with open(path, newline="", encoding="iso-8859-1") as f:
         reader = csv.DictReader(f, delimiter=";")
@@ -44,9 +44,9 @@ def parse_homeboy_data(path):
             if not plz or not price:
                 continue
 
-            median_rent_by_plz.setdefault(str(plz), []).append(price)
+            prices_by_plz.setdefault(str(plz), []).append(price)
 
-    return median_rent_by_plz
+    return prices_by_plz
 
 
 def parse_housing_data(path):
