@@ -59,7 +59,9 @@ I am writing a checklist for leaving Germany. There are many little details that
 
 I got access to a *lot* of housing data from [Stekkies](https://www.stekkies.com/en-de/) and [Homeboy](https://www.homeboy.immo/). I want to create helpful tools and visualizations to help with your apartment search. Here’s a sneak peak:
 
-![Map of median rents per square metre](/images/rent-map.png "Map of median rents per m²")
+![Map of rents in Berlin](/images/berlin-rent-map.png "Median rent per m²")
+
+(small update: [it's here](/tools/rent-map))
 
 ## Friends welcome
 
