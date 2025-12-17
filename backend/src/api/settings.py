@@ -6,6 +6,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 
 SECRET_KEY = "django-insecure-rm#p9c7f!%q1&=-l+m6lx^9=cl2f301=+d3eu0n3x^yfy1yg51"
 
+BUTTONDOWN_API_KEY = os.environ.get("BUTTONDOWN_API_KEY")
 MAILGUN_API_KEY = os.environ.get("MAILGUN_API_KEY")
 DEBUG = bool(int(os.environ.get("DEBUG", "0")))
 DEBUG_EMAILS = DEBUG  # Print emails instead of sending them

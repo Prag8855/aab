@@ -1,3 +1,4 @@
+from django.conf import settings
 from django.core.exceptions import ValidationError as DjangoValidationError
 from forms.models import (
     CitizenshipFeedback,
@@ -21,8 +22,52 @@ from forms.utils import readable_date_range, readable_duration
 from rest_framework import mixins, permissions, viewsets
 from rest_framework.exceptions import ValidationError as DRFValidationError
 from rest_framework.serializers import as_serializer_error
-from rest_framework.views import exception_handler as drf_exception_handler
+from rest_framework.views import APIView, exception_handler as drf_exception_handler
+from rest_framework.response import Response
 from typing import Any
+import logging
+import requests
+
+
+logger = logging.getLogger(__name__)
+
+
+class NewsletterSignupView(APIView):
+    """
+    Proxy the Buttondown API
+    """
+
+    def post(self, request):
+        try:
+            logger.error(request.data)
+        except:
+            logger.exception("FUCK")
+
+        email = request.data.get("email")
+
+        if not email:
+            return Response(status=400)
+
+        if not settings.BUTTONDOWN_API_KEY:
+            raise Exception("BUTTONDOWN_API_KEY is not set")
+
+        response = requests.post(
+            "https://api.buttondown.com/v1/subscribers",
+            headers={
+                "Authorization": f"Token {settings.BUTTONDOWN_API_KEY}",
+                "Content-Type": "application/json",
+            },
+            json={"email_address": email},
+            timeout=10,
+        )
+
+        if response.status_code != 200:
+            logger.error("Buttondown request returned status %s. %s" % (response.status_code, response.json()))
+
+        return Response(
+            response.json() if response.content else None,
+            status=response.status_code,
+        )
 
 
 class MessagePermission(permissions.BasePermission):

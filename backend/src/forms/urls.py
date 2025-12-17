@@ -1,6 +1,7 @@
 from django.urls import include, path
 from forms.views import (
     CitizenshipFeedbackViewSet,
+    NewsletterSignupView,
     PensionRefundQuestionViewSet,
     PensionRefundReminderViewSet,
     PensionRefundRequestViewSet,
@@ -19,4 +20,5 @@ router.register("tax-id-request-feedback-reminder", TaxIdRequestFeedbackReminder
 
 urlpatterns = [
     path("", include(router.urls)),
+    path("newsletter", NewsletterSignupView.as_view()),
 ]
