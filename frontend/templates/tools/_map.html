@@ -85,7 +85,7 @@
 {% endjs %}
 
 {% block main %}
-    <main aria-label="Map" id="map"></main>
+    <main aria-label="{{ mapName|default("Map") }}" id="map"></main>
     </main>
     <div class="sidebar">
         {% block sidebar %}
