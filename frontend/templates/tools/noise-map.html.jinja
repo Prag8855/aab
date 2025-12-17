@@ -1,5 +1,6 @@
 {% extends "tools/_map.html" %}
 {% set mapName = "Map of noise pollution in Berlin" %}
+{% set mapDescribedBy = "map-description" %}
 
 {% block postHead %}
 	{{ super() }}
@@ -76,39 +77,48 @@
 
 {% block extraScss %}
 	{{ super() }}
-	.colors{
-		border-radius: var(--b-radius);
+	#map-description{
+		@include box;
+		@include text-block;
+
+		display: grid;
 		overflow: hidden;
-	}
-	.color span{
-		background: var(--c-bg-page);
-		display:block;
-		margin-right:var(--xl);
-		padding-right:var(--m);
+		grid-template-columns: var(--xxl) 1fr;
+		gap: 0 var(--s);
+		width: 100%;
+		max-width: var(--w-sidebar);
+		padding-right: var(--m);
+		box-sizing: border-box;
+
+		dt{
+			white-space: nowrap;
+			width: var(--xxl);
+			overflow: hidden;
+			color: transparent;
+		}
 	}
 {% endblock %}
 
 {% block sidebar %}
 	<h2>Noise pollution in Berlin</h2>
-	<div class="colors">
-		<div class="color" style="background:#fff">
-			<span>Less than 55 dB</span>
-		</div>
-		<div class="color" style="background:#e2f2bf">
-			<span>55 to 59 dB</span>
-		</div>
-		<div class="color" style="background:#f3c683">
-			<span>60 to 64 dB</span>
-		</div>
-		<div class="color" style="background:#cd463e">
-			<span>65 to 69 dB</span>
-		</div>
-		<div class="color" style="background:#75085c">
-			<span>70 to 74 dB</span>
-		</div>
-		<div class="color" style="background:#430a4a">
-			<span>Over 75 dB</span>
-		</div>
-	</div>
-	<small>Data from <a href="https://www.berlin.de/umweltatlas/en/traffic-noise/noise-pollution/2022/maps/artikel.1327919.en.php">Berlin.de</a>, 2022</small>
+	<dl id="map-description" aria-label="Color legend">
+		<dt style="background:#f9f9f9">White</dt>
+		<dd>Less than 55 dB</dd>
+
+		<dt style="background:#e2f2bf">Light green</dt>
+		<dd>55 to 59 dB</dd>
+
+		<dt style="background:#f3c683">Yellow</dt>
+		<dd>60 to 64 dB</dd>
+
+		<dt style="background:#cd463e">Red</dt>
+		<dd>65 to 69 dB</dd>
+
+		<dt style="background:#75085c">Purple</dt>
+		<dd>70 to 74 dB</dd>
+
+		<dt style="background:#430a4a">Dark purple</dt>
+		<dd>Over 75 dB</dd>
+	</dl>
+	<small>Data from <a href="https://www.berlin.de/umweltatlas/en/traffic-noise/noise-pollution/2022/maps/artikel.1327919.en.php">Berlin.de</a> (2022). {{ attribution }}</small>
 {% endblock %}

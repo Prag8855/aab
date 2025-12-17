@@ -1,4 +1,5 @@
 {% extends "tools/entry.html.jinja" %}
+{% set attribution = "Map data from GeoBasis-DE, basemap.de / BKG." %}
 
 {% block postHead %}
     {{ super()|safe }}
@@ -15,8 +16,9 @@
         grid-template-rows: var(--h-header) 1fr auto!important;
     }
     #map {
+        min-height: 75vh;
         color: var(--c-text);
-        top:0; bottom:0; width:100%;
+        width:100%;
         border-radius: var(--b-radius);
         box-shadow: var(--shadow-l);
         box-sizing: border-box;
@@ -25,16 +27,33 @@
         }
     }
     @include not-desktop{
-        .sidebar{
-            grid-area: footer;
+        // The sidebar is moved below the map
+        body{
+            grid-template-areas: ". header ." ". main ." ". sidebar ." ". footer .";
         }
-        footer{
-            display: none;
+        .maplibregl-ctrl-bottom-right{
+            bottom: var(--b-radius);
+        }
+        .sidebar{
+            position: relative; // z-index
+            border-radius: var(--b-radius);
+            background: var(--c-bg-page);
+            box-shadow: var(--shadow-l);
+
+            h2{
+                margin-top: 0;
+            }
         }
     }
     @include full-width-site{
-        body{
-            gap: 0
+        #map{
+            // Remove gap below header
+            margin-top: calc(var(--m)  * -1);
+        }
+        .sidebar{
+            // The sidebar floats a little above the map
+            border-top: var(--b-box);
+            margin-top: calc((var(--m) + var(--b-radius)) * -1);
         }
     }
 {% endblock %}
@@ -46,9 +65,9 @@
         style: {% include "tools/rent-map/_mapStyle.json" %},
         center: [13.405, 52.52],
         bounds: [13.0884, 52.3383, 13.7611, 52.6755],
+        padding: {bottom: 25},
         attributionControl: false
     })
-    .addControl(new maplibregl.AttributionControl({compact: true}))
     .addControl(new maplibregl.NavigationControl({
         showZoom: true,
         showCompass: false
@@ -85,10 +104,10 @@
 {% endjs %}
 
 {% block main %}
-    <main aria-label="{{ mapName|default("Map") }}" id="map"></main>
+    <main aria-label="{{ mapName|default("Map") }}" id="map" {% if mapDescribedBy|default %}aria-describedby="{{ mapDescribedBy }}"{% endif %}></main>
     </main>
-    <div class="sidebar">
+    <aside class="sidebar mobile">
         {% block sidebar %}
         {% endblock %}
-    </div>
+    </aside>
 {% endblock %}

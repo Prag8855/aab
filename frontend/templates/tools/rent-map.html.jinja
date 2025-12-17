@@ -1,5 +1,6 @@
 {% extends "tools/_map.html" %}
 {% set mapName = "Map of Berlin rents" %}
+{% set mapDescribedBy = "map-description" %}
 
 {% block postHead %}
 	{{ super() }}
@@ -179,6 +180,6 @@
 
 {% block sidebar %}
 	<h2>Rent prices in <span id="location">Berlin</span></h2>
-	<p>This is the <strong>median <a id="warmmieteLink" href="/glossary/Warmmiete">warm rent</a> per m²</strong>, based on <span id="sampleSize">thousands of</span> apartments listed in December 2025.</p>
-	<small>Data from <a href="https://www.homeboy.immo/en">Homeboy</a></small>
+	<p id="map-description">This is the <strong>median <a id="warmmieteLink" href="/glossary/Warmmiete">warm rent</a> per m²</strong>, based on <span id="sampleSize">thousands of</span> apartments listed in December 2025.</p>
+	<small>Data from <a href="https://www.homeboy.immo/en">Homeboy</a> (2025). {{ attribution }}</small>
 {% endblock %}

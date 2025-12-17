@@ -710,14 +710,17 @@ body > header {
 
 .sidebar{
     grid-area: sidebar;
-    width: var(--w-sidebar);
-    box-sizing: border-box;
-    position:sticky;
-    top:0;
-    margin-top:var(--s);
     align-self: start;
 
     @include page-borders;
+
+    @include only-desktop{
+        width: var(--w-sidebar);
+        box-sizing: border-box;
+        position:sticky;
+        top:0;
+        margin-top:var(--s);
+    }
 
     #floating-nav{
         display: none;
@@ -752,7 +755,8 @@ body > header {
     }
 }
 @include not-desktop{
-    .sidebar{
+    // Floating sidebar
+    .sidebar:not(.mobile){
         position: fixed;
         border-radius: var(--b-radius);
         box-sizing: border-box;
