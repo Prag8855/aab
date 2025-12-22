@@ -15,7 +15,11 @@
 		<ul>
 			{% for instance in model.instances %}
 				<li>
-					<h4><a href="https://allaboutberlin.com{{ instance.url }}">{{ instance.name }}</a></h4>
+					{% if instance.url %}
+						<h4><a href="{{ instance.url }}">{{ instance.name }}</a></h4>
+					{% else %}
+						<h4>{{ instance.name }}</h4>
+					{% endif %}
 					{% for field, value in instance.fields.items %}
 						<strong>{{ field }}:</strong> {{ value|default:"-"|linebreaksbr }}<br>
 					{% endfor %}

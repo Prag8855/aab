@@ -70,6 +70,7 @@ TEMPLATES = [
     },
 ]
 
+BASE_URL = "https://allaboutberlin.com"
 STATIC_ROOT = Path("/var/www/api/staticfiles")
 STATIC_URL = "/admin/static/"
 

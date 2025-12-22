@@ -5,7 +5,7 @@ from django.core.management.base import BaseCommand
 from django.template.loader import render_to_string
 from django.utils import timezone
 from forms.utils import send_email
-from management.admin_site import get_daily_digest_models, get_daily_digest_monitors
+from management.admin_site import get_daily_digest_models, get_daily_digest_monitors, get_newsletter_subscribers
 from management.models import error_icons, update_monitor
 from requests.exceptions import HTTPError
 import logging
@@ -21,7 +21,7 @@ class Command(BaseCommand):
 
         last_24_hours = timezone.now() - timedelta(hours=24)
         context = {
-            "models": get_daily_digest_models(last_24_hours),
+            "models": [*get_daily_digest_models(last_24_hours), get_newsletter_subscribers(last_24_hours)],
             "monitors": get_daily_digest_monitors(),
         }
 
