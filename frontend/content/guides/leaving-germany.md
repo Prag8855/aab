@@ -67,6 +67,11 @@ If you leave Germany, a 1-month notice is enough.
 - [ ] Abmeldebescheinigung
 - [ ] Tax returns
 - [ ] [[Lohnsteuerbescheinigung]]
+- [ ] Birth certificates
+- [ ] Marriage certificates and divorce documents[^5]
+- [ ] School documents
+- [ ] International driving permit
+- [ ] [Vaccination pass](/glossary/Impfausweis)
 
 ## After you leave Germany
 
@@ -81,7 +86,9 @@ If you leave Germany, a 1-month notice is enough.
 These things keep working even if you don't live in Germany:
 
 - **Public pension**  
-    You can receive [public pension](/glossary/gesetzliche%20Rentenversicherung) payments abroad. If you don't qualify for a German pension, you can [get your pension payments back](/guides/pension-payments-refund).
+    You can receive [public pension](/glossary/gesetzliche%20Rentenversicherung) payments abroad.[^6] If you don't qualify for a German pension, you can [get a refund for your pension payments](/guides/pension-payments-refund).
+- **Unemployment benefits**  
+    You can get ALG I abroad for up to 6 months, if you are leaving Germany to find a job.[^4]
 
 ## What stops working
 
@@ -148,3 +155,6 @@ What keeps working?
 [^1]: [eidel.io](https://eidel.io/notes-and-hacks-on-germanys-exit-tax/), [winheller.com](https://www.winheller.com/en/tax-law-tax-advisory/international-tax-planning/exit-taxation.html), [Hacker News](https://news.ycombinator.com/item?id=44828158)
 [^2]: [deutsche-im-ausland.org](https://www.deutsche-im-ausland.org/absicherung-und-finanzen/finanzen/kindergeld-im-ausland.html#c1242)
 [^3]: [deutsche-im-ausland.org](https://www.deutsche-im-ausland.org/absicherung-und-finanzen/finanzen/elterngeld-im-ausland.html)
+[^4]: Citation needed, mention in unemployment-benefits, [BEMA](https://bema.berlin/site/assets/files/1048/3_checkliste_zu_erledigen_vor_dem_umzug_aus_deutschland.pdf) (2018)
+[^5]: [resartus.de](https://resartus.de/auswandern-aus-deutschland-welche-dokumente-sind-zum-auswandern-noetig/#:~:text=ehefahigkeitszeugnis%2C%20eheurkunde%20und%20scheidungsurteil) (2025)
+[^6]: [grenzenlos-sicher.de](https://www.grenzenlos-sicher.de/post/abmelden-aus-deutschland-2025#:~:text=keine%20direkten%20auswirkungen%20auf%20deine%20rentenzahlungen) (2025)
