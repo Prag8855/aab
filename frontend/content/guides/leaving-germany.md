@@ -26,8 +26,9 @@ This guide explains how to prepare to leave Germany, step by step.
 
 ### Close your business
 
-- [ ] Deregister your business
 - [ ] Pay the exit tax[^1]
+- [ ] **Deregister your business** (*Gewerbeabmeldung*)  
+    In Berlin, you can [do it online](https://service.berlin.de/dienstleistung/122107/).
 
 ### Move out of your apartment
 

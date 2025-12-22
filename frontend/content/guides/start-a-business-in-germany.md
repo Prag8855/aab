@@ -305,6 +305,10 @@ There is no easy way to do this, especially for immigrants. You might need a fle
 
 A financial advisor can help you choose a pension. Usually, they are paid by commission. In my experience, many of them are not honest. Seamus at [Horizon65](/out/horizon65) is the only financial advisor I trust.
 
+### Close your business
+
+If you close your business or [leave Germany](/guides/leaving-germany), you must deregister your business. This is called the *Gewerbeabmeldung*. In Berlin, you can [do it online](https://service.berlin.de/dienstleistung/122107/).
+
 ## Need help?
 
 There are tools that make it easier:

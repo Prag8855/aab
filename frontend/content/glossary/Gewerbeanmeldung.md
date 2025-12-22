@@ -18,3 +18,5 @@ The business registration (*Gewerbeanmeldung*) is when you register your busines
 Freelancers (*[[Freiberufler]]*) do not need to do the *Gewerbeanmeldung*.
 
 **[How to do the Gewerbeanmeldung ➞](/guides/gewerbeschein)**
+
+If you close your business or [leave Germany](/guides/leaving-germany), you must deregister your business. This is called the *Gewerbe<u>ab</u>meldung*.
