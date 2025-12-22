@@ -160,17 +160,17 @@ ctx["PKV_MIN_INCOME"] = fail_on("2026-12-31", 35000)
 ctx["GKV_FAMILIENVERSICHERUNG_MAX_INCOME"] = (Decimal(1 / 7) * ctx["BEZUGSGROESSE"]).normalize()  # § 10 SGB V
 
 # Zusatzbeiträge - https://www.check24.de/gesetzliche-krankenversicherung/erhoehung-zusatzbeitraege/
-ctx["GKV_MIN_ZUSATZBEITRAG"] = fail_on("2025-12-31", Decimal("2.19"))  # HKK
-ctx["GKV_MAX_ZUSATZBEITRAG"] = fail_on("2025-12-31", Decimal("3.5"))  # AOK Nordost
+ctx["GKV_MIN_ZUSATZBEITRAG"] = fail_on("2026-12-31", Decimal("2.59"))  # HKK
+ctx["GKV_MAX_ZUSATZBEITRAG"] = fail_on("2025-12-31", Decimal("4.39"))  # AOK Nordost
 ctx["GKV_AVG_ZUSATZBEITRAG"] = fail_on("2025-12-31", Decimal("2.9"))  # Estimated for 2026 (2025-11-11)
 
 # https://www.check24.de/gesetzliche-krankenversicherung/erhoehung-zusatzbeitraege/
 ctx["GKV_ZUSATZBEITRAG_AVERAGE"] = ctx["GKV_AVG_ZUSATZBEITRAG"]
-ctx["GKV_ZUSATZBEITRAG_AOK"] = fail_on("2025-12-31", Decimal("3.5"))
+ctx["GKV_ZUSATZBEITRAG_AOK"] = fail_on("2026-12-31", Decimal("3.5"))
 ctx["GKV_ZUSATZBEITRAG_BARMER"] = fail_on("2026-12-31", Decimal("3.29"))
-ctx["GKV_ZUSATZBEITRAG_DAK"] = fail_on("2025-12-31", Decimal("2.8"))
-ctx["GKV_ZUSATZBEITRAG_HKK"] = fail_on("2025-12-31", Decimal("2.19"))
-ctx["GKV_ZUSATZBEITRAG_TK"] = fail_on("2025-12-31", Decimal("2.45"))
+ctx["GKV_ZUSATZBEITRAG_DAK"] = fail_on("2026-12-31", Decimal("3.2"))
+ctx["GKV_ZUSATZBEITRAG_HKK"] = fail_on("2026-12-31", Decimal("2.59"))
+ctx["GKV_ZUSATZBEITRAG_TK"] = fail_on("2026-12-31", Decimal("2.69"))
 
 ctx["TRAVEL_INSURANCE_COST"] = fail_on("2026-12-31", 40)  # Guesstimated
 ctx["EXPAT_INSURANCE_COST"] = fail_on(

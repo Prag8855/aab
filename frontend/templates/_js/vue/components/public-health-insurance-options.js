@@ -98,7 +98,7 @@ Vue.component('public-health-insurance-options', {
                         {% endraw %}{% include "_css/icons/health-insurance/logo-tk.svg" %}{% raw %}
                         <div>
                             <h3 v-text="option('tk').name"></h3>
-                            <p>The biggest public health insurer. They speak English. This is the cost for 2025. The cost for 2026 will be known on December 21.{% endraw %}{{ fail_on('2025-12-19') }}{% raw %}</p>
+                            <p>The biggest public health insurer. They speak English.</p>
                         </div>
                         <price :amount="option('tk').total.personalContribution" per-month></price>
                     </a>
@@ -108,7 +108,7 @@ Vue.component('public-health-insurance-options', {
                         {% endraw %}{% include "_css/icons/health-insurance/logo-barmer.svg" %}{% raw %}
                         <div>
                             <h3 v-text="option('barmer').name"></h3>
-                            <p>The second biggest insurer. They also speak English. They speak English. This is the cost for 2026.{% endraw %}{{ fail_on('2025-12-19') }}{% raw %}</p>
+                            <p>The second biggest insurer. They also speak English. They speak English.</p>
                         </div>
                         <price :amount="option('barmer').total.personalContribution" per-month></price>
                     </a>
