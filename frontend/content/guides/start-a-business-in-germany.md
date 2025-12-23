@@ -192,7 +192,7 @@ Tax advisors are worth it. They handle your taxes and most of your paperwork. Th
 
 A tax advisor costs **€700 to €2,000 per year** if you charge [VAT](/glossary/Umsatzsteuer), or €300 to €800 per year if you don't. The prices vary a lot. The only way to know is to call and ask.
 
-Tax software is cheaper than a tax advisor. [Sorted](/out/sorted-taxes) and [Lexware Office](/out/lexoffice) help with invoicing and VAT reporting. You can do your tax declaration in [[ELSTER]]. I use Lexware Office for all of my bookkeeping, but I still have a tax advisor.
+Tax software is cheaper than a tax advisor. [Accountable](/out/accountable), [Lexware Office](/out/lexoffice) and [Sorted](/out/sorted-taxes) help with invoicing and VAT reporting. You can do your tax declaration in [[ELSTER]]. I use Lexware Office for all of my bookkeeping, but I still have a tax advisor.
 
 **[Find a tax advisor ➞](/guides/english-speaking-steuerberater-berlin)**
 
