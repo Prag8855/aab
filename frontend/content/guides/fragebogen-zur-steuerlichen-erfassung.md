@@ -614,7 +614,7 @@ You need a tax advisor to [renew your freelance visa](/guides/renew-german-freel
 
 **[List of English-speaking tax advisors ➞](/guides/english-speaking-steuerberater-berlin)**
 
-You can also use tax software like [Sorted](/out/sorted-taxes) or [Lexware Office](/out/lexoffice) to send invoices and make [VAT](/glossary/Umsatzsteuer) declarations.
+You can also use tax software like [Accountable](/out/accountable), [Lexware Office](/out/lexoffice) and [Sorted](/out/sorted-taxes) to send invoices and make [VAT](/glossary/Umsatzsteuer) declarations.
 
 **[List of tax software for freelancers ➞](/guides/german-tax-software#tax-software-for-freelancers)**
 
