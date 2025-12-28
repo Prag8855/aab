@@ -36,13 +36,13 @@ services:
     depends_on:
       - "backend"
     volumes:
-      - "ssl_certs:/etc/ssl-certs"
-      - "acme_sh:/root/.acme.sh"
+      - "caddy_data:/data"
+      - "caddy_config:/config"
       - "api_staticfiles:/var/www/api/staticfiles:ro"
       - "./frontend/output:/var/www/html"
       - "./frontend/content/redirects:/etc/nginx/redirects"
 volumes:
-  acme_sh:
+  caddy_data:
+  caddy_config:
   api_db:
   api_staticfiles:
-  ssl_certs:
