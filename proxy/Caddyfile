@@ -2,23 +2,15 @@
     tls {$SSL_EMAIL:internal}
     encode gzip
 
-    file_server
-    root * /var/www/html
-    try_files {path} {path}.html {path}/index.html
-
-    # Prevent index.html pages
-    # TODO: Test
-    @indexUrl path_regexp indexUrl .*/index\.html$
-    respond @indexUrl 404
-
-    # Prevent URLs with .html extension
-    # TODO: Test
-    @htmlUrl path_regexp htmlUrl .*\.html$
-    respond @htmlUrl 404
-
-    # Merge double slashes
-    # TODO: Test
-    uri path_regexp /{2,} /
+    # Block any request that ends with .html
+    @html path_regexp html \.html$
+    handle @html {
+        error 404
+    }
+    @htmlIndex path_regexp htmlIndex /index$
+    handle @htmlIndex {
+        error 404
+    }
 
     # Push assets with static pages
     # TODO: Test
@@ -64,6 +56,8 @@
     # Custom 404 page
     # TODO: Test (including status code)
     handle_errors 404 410 {
+        file_server
+        root * /var/www/html
         rewrite * /404.html
     }
 
@@ -83,7 +77,7 @@
     handle /admin/* {
         reverse_proxy backend:80
     }
-    handle_path /admin/static/* {
+    handle /admin/static/* {
         root * /var/www/api/staticfiles
         file_server
     }
@@ -109,5 +103,12 @@
         reverse_proxy https://plausible.io {
             header_up Host {http.reverse_proxy.upstream.hostport}
         }
+    }
+
+    # Static site. Default option.
+    handle {
+        file_server
+        root * /var/www/html
+        try_files {path} {path}.html {path}/index.html
     }
 }
