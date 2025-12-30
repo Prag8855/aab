@@ -43,11 +43,14 @@ As mentioned in my [last email](/newsletter/december-2025), a few things are cha
 
 ## Current projects
 
-I am still working on my "leaving Germany" guide. It explains every little thing you must account for before moving to another country.
+I am still working on a guide about leaving Germany. It covers all the little things you must think about before moving to another country.
+
+My resolution for 2026 is to help you fight against exploitative employers and landlords. I want to give you the resources to enforce your rights.
 
 ## Extra
 
 Links I would WhatsApp you if we were friends:
 
+- [List of domains blocked by German ISPs](https://cuiiliste.de/domains) — A handy list of websites you should not get movies, TV shows and books from.
 - [Was indische Lieferkuriere in Berlin erleben](https://www.rbb24.de/wirtschaft/beitrag/2025/12/essenslieferdienste-subunternehmer-arbeitsbedingungen.html) — How delivery services exploit immigrant workers, and how the workers defend themselves.
 - [Property Market Report 2025](https://guthmann.estate/en/market-report/berlin/)
