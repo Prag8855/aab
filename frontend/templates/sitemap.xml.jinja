@@ -9,7 +9,7 @@
 			<lastmod>{{ entries[uri].date_updated.isoformat(timespec="seconds") }}</lastmod>
 		</url>
 	{% endfor %}
-	{% for entry in get_entries(['guides', 'docs', 'glossary', 'tools', 'collections'], sort_by='date_updated', reverse=True) %}
+	{% for entry in get_entries(['guides', 'docs', 'glossary', 'tools', 'collections', 'newsletter'], sort_by='date_updated', reverse=True) %}
 		<url>
 			<loc>{{ entry.url }}</loc>
 			<lastmod>{{ entry.date_updated.isoformat(timespec="seconds") }}</lastmod>
