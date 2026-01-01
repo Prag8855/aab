@@ -55,7 +55,7 @@ To walk your dog without a leash, you need a dog handler certificate (*[[Hundef�
 
 **[List of certified dog trainers in Berlin](http://www.berlin.de/ba-neukoelln/politik-und-verwaltung/aemter/ordnungsamt/sachverstaendigenliste-stand-20161201-extern.pdf)** (2016, in German) - Berlin.de
 
-When you pass the exam, you receive a certificate (*Sachkundenachweis für Hundehalter*). You can then [apply for the *Hundeführerschein*](https://service.berlin.de/dienstleistung/121822/) at the local *Bezirksamt*. This costs €{{HUNDEFUHRERSCHEIN_FEE|cur}}.[^6]
+When you pass the exam, you receive a certificate (*Sachkundenachweis für Hundehalter*). You can then [apply for the *Hundeführerschein*](https://service.berlin.de/dienstleistung/121822/) at the local *Bezirksamt*. This costs around €100.[^6]{{ fail_on("2027-12-31")}}
 
 **[Apply for the Hundeführerschein](https://service.berlin.de/dienstleistung/121822/)** (in German) - Berlin.de
 

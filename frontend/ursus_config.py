@@ -29,9 +29,9 @@ ctx = {}
 ctx["MINIMUM_WAGE"] = fail_on("2026-06-01", Decimal("13.90"))
 
 ctx["MEDIAN_INCOME_BERLIN"] = fail_on(
-    "2025-12-31", 48250
+    "2026-06-01", 48250
 )  # 2025 - sparkasse.de/aktuelles/einkommen-wohlhabend-im-vergleich.html
-ctx["MEDIAN_INCOME_GERMANY"] = fail_on("2025-12-31", 52159)  # Early 2025
+ctx["MEDIAN_INCOME_GERMANY"] = fail_on("2026-06-01", 52159)  # Early 2025
 
 # Minimum allowance for au pairs (€/mth)
 ctx["AU_PAIR_MIN_ALLOWANCE"] = fail_on("2026-06-01", 280)
@@ -59,9 +59,9 @@ ctx["SOLIDARITY_TAX_MILDERUNGSZONE_MIN_INCOME_TAX"] = fail_on("2026-03-01", 2035
 ctx["SOLIDARITY_TAX_MILDERUNGSZONE_RATE"] = fail_on("2026-12-31", Decimal("0.119"))  # § 4 SolzG
 ctx["SOLIDARITY_TAX_MAX_RATE"] = fail_on("2026-12-31", Decimal("0.055"))  # § 4 SolzG
 
-ctx["VORSORGEPAUSCHAL_MIN"] = fail_on("2025-12-31", 1900)  # § 39b Abs. 2.3.e EStG
+ctx["VORSORGEPAUSCHAL_MIN"] = fail_on("2026-12-31", 1900)  # § 39b Abs. 2.3.e EStG
 ctx["VORSORGEPAUSCHAL_MIN_TAX_CLASS_3"] = 3000  # ??
-ctx["ARBEITNEHMERPAUSCHALE"] = fail_on("2026-03-01", 1230)  # (€/y) - § 9a EStG
+ctx["ARBEITNEHMERPAUSCHALE"] = fail_on("2026-12-31", 1230)  # (€/y) - § 9a EStG
 ctx["SONDERAUSGABEN_PAUSCHBETRAG"] = fail_on("2026-03-01", 36)  # (€/y) § 10c EStG [SAP]
 
 ctx["ARBEITSLOSENVERSICHERUNG_EMPLOYEE_RATE"] = Decimal("2.6") / 2  # § 341 SGB 3, BeiSaV 2019
@@ -126,7 +126,7 @@ ctx["MINIJOB_MAX_INCOME"] = round(ctx["MINIMUM_WAGE"] * 130 / 3)  # § 8 SGB IV
 ctx["MIDIJOB_MAX_INCOME"] = fail_on("2026-03-01", 2100)
 
 # Used to calculate health insurance for a midijob
-ctx["GKV_FACTOR_F"] = fail_on("2025-12-31", Decimal("0.6683"))  # § 20 SGB IV
+ctx["GKV_FACTOR_F"] = fail_on("2026-12-31", Decimal("0.6619"))  # § 20 SGB IV - TODO: Can be calculated from other vals
 
 # Median income (€/m) of all people who pay social contribs
 ctx["BEZUGSGROESSE"] = fail_on("2026-12-31", Decimal("3955"))  # SGB VI Anlage 1
@@ -145,7 +145,7 @@ ctx["GKV_MIN_INCOME"] = ctx["BEZUGSGROESSE"] / 90 * 30  # § 240 Abs. 4 SGV IV
 ctx["GKV_MAX_INCOME"] = fail_on("2026-12-31", Decimal("5812.50") * 12)  # SVBezGrV 2021 [BBGKVPV]
 
 # Above this income (€/mth), your employer pays for health insurance
-ctx["GKV_AZUBI_FREIBETRAG"] = fail_on("2025-12-31", 325)  # § 20 Abs. 3 SGB IV
+ctx["GKV_AZUBI_FREIBETRAG"] = fail_on("2026-12-31", 325)  # § 20 Abs. 3 SGB IV
 
 # Above this income, it's no longer a Nebenjob
 ctx["GKV_NEBENJOB_MAX_INCOME"] = ctx["BEZUGSGROESSE"] * Decimal("0.75")
@@ -161,8 +161,8 @@ ctx["GKV_FAMILIENVERSICHERUNG_MAX_INCOME"] = (Decimal(1 / 7) * ctx["BEZUGSGROESS
 
 # Zusatzbeiträge - https://www.check24.de/gesetzliche-krankenversicherung/erhoehung-zusatzbeitraege/
 ctx["GKV_MIN_ZUSATZBEITRAG"] = fail_on("2026-12-31", Decimal("2.59"))  # HKK
-ctx["GKV_MAX_ZUSATZBEITRAG"] = fail_on("2025-12-31", Decimal("4.39"))  # AOK Nordost
-ctx["GKV_AVG_ZUSATZBEITRAG"] = fail_on("2025-12-31", Decimal("2.9"))  # Estimated for 2026 (2025-11-11)
+ctx["GKV_MAX_ZUSATZBEITRAG"] = fail_on("2026-12-31", Decimal("4.39"))  # AOK Nordost
+ctx["GKV_AVG_ZUSATZBEITRAG"] = fail_on("2026-12-31", Decimal("2.9"))
 
 # https://www.check24.de/gesetzliche-krankenversicherung/erhoehung-zusatzbeitraege/
 ctx["GKV_ZUSATZBEITRAG_AVERAGE"] = ctx["GKV_AVG_ZUSATZBEITRAG"]
@@ -184,19 +184,19 @@ ctx["EXPAT_INSURANCE_COST"] = fail_on(
     },
 )
 
-ctx["EXPAT_STUDENT_COST"] = fail_on("2025-12-31", 72)  # /out/feather-expats
+ctx["EXPAT_STUDENT_COST"] = fail_on("2026-03-01", 72)  # /out/feather-expats
 
 # Maximum daily Krankengeld
 ctx["GKV_KRANKENGELD_DAILY_LIMIT"] = (ctx["GKV_MAX_INCOME"] * Decimal("0.7") / 360).normalize()  # § 47 SGB V
 
 # BAFöG Bedarfssatz (€/y)
-ctx["BAFOG_BEDARFSSATZ"] = fail_on("2025-12-31", 380 + 475)  # § 13 BAföG Abs 1.2 + 2.2
+ctx["BAFOG_BEDARFSSATZ"] = fail_on("2026-06-01", 380 + 475)  # § 13 BAföG Abs 1.2 + 2.2
 ctx["SPERRKONTO_AMOUNT"] = fail_on(
-    "2025-12-31", (ctx["BAFOG_BEDARFSSATZ"] + 102 + 35) * 12
+    "2026-06-01", (ctx["BAFOG_BEDARFSSATZ"] + 102 + 35) * 12
 )  # § 13 BAföG Abs 1.2 + 2.2 + § 13a BAföG Abs 1
 
-# Pflegeversicherung (%) - § 55 Abs. 1 SGB XI
-ctx["PFLEGEVERSICHERUNG_BASE_RATE"] = fail_on("2025-12-31", Decimal("3.6"))
+# Pflegeversicherung (%) - § 55 Abs. 1 SGB XI, can be changed in external regulation (like PBAV 2026)
+ctx["PFLEGEVERSICHERUNG_BASE_RATE"] = fail_on("2026-12-31", Decimal("3.6"))
 ctx["PFLEGEVERSICHERUNG_BASE_RATE_MAX_AGE"] = 22  # § 55 Abs. 1 SGB XI
 ctx["PFLEGEVERSICHERUNG_EMPLOYER_RATE"] = ctx["PFLEGEVERSICHERUNG_BASE_RATE"] / 2
 
@@ -219,8 +219,8 @@ ctx["PFLEGEVERSICHERUNG_MAX_RATE"] = (
 # ==============================================================================
 
 # Public pension contribution (%) - RVBeitrSBek 202X
-ctx["RV_BASE_RATE"] = fail_on("2025-12-31", Decimal("18.6"))  # RVBeitrSBek 202X
-ctx["RV_EMPLOYEE_CONTRIBUTION"] = fail_on("2025-12-31", Decimal("9.3"))
+ctx["RV_BASE_RATE"] = fail_on("2026-12-31", Decimal("18.6"))  # RVBeitrSBek 202X
+ctx["RV_EMPLOYEE_CONTRIBUTION"] = fail_on("2026-12-31", Decimal("9.3"))
 ctx["RV_MIN_CONTRIBUTION"] = (ctx["RV_BASE_RATE"] * ctx["MINIJOB_MAX_INCOME"] / 100).normalize()
 
 ctx["FUNDSBACK_FEE"] = Decimal("9.405")  # %
@@ -294,8 +294,8 @@ ctx["GKV_COST_STUDENT"] = round(
 
 ctx["BVG_AB_TICKET"] = fail_on("2026-12-31", Decimal("4"))
 ctx["BVG_ABC_TICKET"] = fail_on("2026-12-31", Decimal("5"))
-ctx["BVG_FINE"] = fail_on("2025-12-31", 60)
-ctx["BVG_REDUCED_FINE"] = fail_on("2025-12-31", 7)
+ctx["BVG_FINE"] = fail_on("2026-12-31", 60)
+ctx["BVG_REDUCED_FINE"] = fail_on("2026-12-31", 7)
 ctx["DEUTSCHLAND_TICKET_PRICE"] = fail_on("2026-12-31", 63)
 
 
@@ -321,17 +321,17 @@ ctx["FAST_TRACK_FEE"] = 411  # § 47 AufenthG
 
 # Minimum guaranteed pension payment (€/m) to get a freelance visa above age 45
 # VAB, https://www.bmas.de/DE/Soziales/Rente-und-Altersvorsorge/rentenversicherungsbericht-art.html
-ctx["FREELANCE_VISA_MIN_MONTHLY_PENSION"] = fail_on("2025-12-31", Decimal("1565.03"))
+ctx["FREELANCE_VISA_MIN_MONTHLY_PENSION"] = fail_on("2026-03-01", Decimal("1565.03"))
 ctx["FREELANCE_VISA_MIN_PENSION"] = round(ctx["FREELANCE_VISA_MIN_MONTHLY_PENSION"] * 144)
 
 # Minimum income (€/mth) before health insurance and rent to get a freelance visa - Anlage SGB 12 (Regelbedarfsstufe 1)
-ctx["FREELANCE_VISA_MIN_INCOME"] = fail_on("2025-12-31", 563)
+ctx["FREELANCE_VISA_MIN_INCOME"] = fail_on("2026-12-31", 563)
 
 # Minimum gross income (€/y) to get a work visa above age 45 - service.berlin.de/dienstleistung/305304
 ctx["WORK_VISA_MIN_INCOME"] = ctx["BEITRAGSBEMESSUNGSGRENZE"] * Decimal("0.55")
 
 # Not watched - https://www.berlin.de/vhs-tempelhof-schoeneberg/kurse/deutsch-als-zweitsprache/pruefungen-und-abschluesse/einbuergerung/
-ctx["CITIZENSHIP_TEST_FEE"] = fail_on("2025-12-31", 25)
+ctx["CITIZENSHIP_TEST_FEE"] = fail_on("2026-12-31", 25)
 
 # Nationalities that can apply for a residence permit directly in Germany - § 41 AufenthV
 beschv_26_1_countries = [
@@ -391,22 +391,21 @@ ctx["AUFENTHV_41_COUNTRIES"] = or_join(
 # ADMINISTRATION
 # ==============================================================================
 
-ctx["BESCHEINIGUNG_IN_STEUERSACHEN_FEE"] = Decimal("17.90")  # (€) - service.berlin.de/dienstleistung/324713
-ctx["ERWEITERTE_MELDEBESCHEINIGUNG_FEE"] = fail_on("2025-12-31", 10)  # (€) - service.berlin.de/dienstleistung/120702
-ctx["GEWERBEANMELDUNG_FEE"] = 15  # € - service.berlin.de/dienstleistung/121921
-ctx["HUNDEFUHRERSCHEIN_FEE"] = 94  # (€) - service.berlin.de/dienstleistung/121822
-ctx["HUNDEREGISTER_FEE"] = Decimal("17.50")  # € - hunderegister.berlin.de
-ctx["HUNDESTEUER_FIRST_DOG"] = 120  # §4 HuStG BE, (€/y)
-ctx["HUNDESTEUER_MORE_DOGS"] = 180  # §4 HuStG BE, (€/y)
-ctx["KSK_MIN_INCOME"] = fail_on("2025-12-31", 3900)  # (€/y) - §3 Abs. 1 KSVG
-ctx["ORDNUNGSAMT_DANGEROUS_DOG_FEE"] = 30  # service.berlin.de/dienstleistung/326263
-ctx["RUNDFUNKBEITRAG_FEE"] = Decimal("18.36")
+ctx["BESCHEINIGUNG_IN_STEUERSACHEN_FEE"] = fail_on("2026-12-31", Decimal("17.90"))  # dienstleistung/324713
+ctx["ERWEITERTE_MELDEBESCHEINIGUNG_FEE"] = fail_on("2026-12-31", 10)  # (€) - service.berlin.de/dienstleistung/120702
+ctx["GEWERBEANMELDUNG_FEE"] = fail_on("2026-12-31", 15)  # € - service.berlin.de/dienstleistung/121921
+ctx["HUNDEREGISTER_FEE"] = fail_on("2026-12-31", Decimal("17.50"))  # € - hunderegister.berlin.de
+ctx["HUNDESTEUER_FIRST_DOG"] = fail_on("2026-12-31", 120)  # §4 HuStG BE, (€/y)
+ctx["HUNDESTEUER_MORE_DOGS"] = fail_on("2026-12-31", 180)  # §4 HuStG BE, (€/y)
+ctx["KSK_MIN_INCOME"] = fail_on("2026-12-31", 3900)  # (€/y) - §3 Abs. 1 KSVG
+ctx["ORDNUNGSAMT_DANGEROUS_DOG_FEE"] = fail_on("2026-12-31", 30)  # service.berlin.de/dienstleistung/326263
+ctx["RUNDFUNKBEITRAG_FEE"] = fail_on("2026-12-31", Decimal("18.36"))
 ctx["SCHUFA_REPORT_FEE"] = fail_on("2026-12-31", Decimal("29.95"))  # TODO: Not watched
-ctx["VEHICLE_UMMELDUNG_FEE"] = Decimal("10.80")  # service.berlin.de/dienstleistung/120658
+ctx["VEHICLE_UMMELDUNG_FEE"] = fail_on("2026-12-31", Decimal("10.80"))  # service.berlin.de/dienstleistung/120658
 ctx["LICENSE_PLATE_COST"] = fail_on("2027-12-31", 20)  # Cost of making license plates
 
 ctx["FIRST_AID_COURSE_COST"] = fail_on("2027-12-31", 65)  # Cost of a first aid course for a driver's licence
-ctx["DRIVING_LICENCE_CONVERSION_FEE"] = Decimal("37.50")  # (€) - service.berlin.de/dienstleistung/327537
+ctx["DRIVING_LICENCE_CONVERSION_FEE"] = fail_on("2026-12-31", Decimal("37.50"))  # (€) - /dienstleistung/327537
 ctx["DRIVING_LICENCE_FEE"] = Decimal("51.21")  # (€) - service.berlin.de/dienstleistung/121627
 ctx["FIRST_AID_COURSE_FEE"] = fail_on("2026-12-31", Decimal("80"))
 ctx["DRIVING_SCHOOL_FEE"] = fail_on("2026-12-31", Decimal("190"))
