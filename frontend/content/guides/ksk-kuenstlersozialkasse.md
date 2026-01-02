@@ -57,7 +57,7 @@ Usually, you pay less than before, *and* you get more benefits. Calculate the di
 
 When you are in the KSK, they pay half of your health insurance, but you are forced to pay [public pension insurance](/glossary/gesetzliche%20Krankenversicherung). In other words, **you save money on health insurance, and reinvest it in your pension**. This is a *really* good deal.
 
-**If you earn over €{{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}} per year**, you pay a bit more, but you contribute *a lot* more to your pension. This is the best pension plan you can find.
+If you earn over €{{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}} per year, you pay a bit more, but you contribute *a lot* more to your pension. This is the best pension plan you can find.
 
 ### Should I join the KSK?
 
