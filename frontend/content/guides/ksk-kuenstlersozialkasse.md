@@ -9,7 +9,7 @@ Related_reviews:
     reviews/ksk-kuenstlersozialkasse/sebastian-hoffmann.md
 ---
 
-If you are a freelance artist, publicist or art teacher, you should apply for the Künstlersozialkasse (KSK). It's completely free. This guide explains how and why.
+If you are a freelance artist, publicist or art teacher, you should apply for the Künstlersozialkasse (KSK). This guide explains why and how.
 
 {% include "_blocks/tableOfContents.html" %}
 
