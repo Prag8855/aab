@@ -61,7 +61,7 @@ Related_places:
     places/goddeke-aakb.md
 ---
 
-Use [the list below](#list-of-lawyers) to find an English-speaking lawyer in Berlin.
+This is a list of lawyers who speak English in Berlin.
 
 {% include "_blocks/tableOfContents.html" %}
 
