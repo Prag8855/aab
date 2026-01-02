@@ -7,8 +7,9 @@ function getAdjustedMonthlyIncome(tariff, monthlyIncome){
 	// This is used to enforce a minimum/maximum cost.
 	// In some cases, different incomes can be used to measure the employee and employer's contributions.
 
-	if(tariff === 'azubiFree'){
+	if(tariff === 'azubiFree' || tariff === 'ksk'){
 		// There is no minimum income for the Azubi calculation, but the Beitragsbemessungsgrenze applies
+		// There is no minimum income for the KSK freelancer calculation, but the Beitragsbemessungsgrenze applies
 		const adjustedIncome = Math.min(healthInsurance.maxMonthlyIncome, monthlyIncome);
 		return {
 			personal: adjustedIncome,
@@ -112,6 +113,7 @@ function gkvBaseContribution(tariff, monthlyIncome){
 		employee: healthInsurance.defaultRate,
 		azubi: healthInsurance.defaultRate,
 		azubiFree: healthInsurance.defaultRate,
+		ksk: healthInsurance.selfPayRate,
 	}[tariff];
 
 	const employerRate = {
@@ -122,6 +124,7 @@ function gkvBaseContribution(tariff, monthlyIncome){
 		employee: totalRate / 2,
 		azubi: totalRate / 2,
 		azubiFree: totalRate,
+		ksk: totalRate / 2,
 	}[tariff];
 
 	const personalRate = totalRate - employerRate;
@@ -169,6 +172,7 @@ function gkvPflegeversicherung(tariff, monthlyIncome, age, childrenCount){
 		employee: pflegeversicherung.employerRate,
 		azubi: pflegeversicherung.employerRate,
 		azubiFree: totalRate,
+		ksk: pflegeversicherung.employerRate,
 	}[tariff];
 
 	const personalRate = totalRate - employerRate;
@@ -194,6 +198,7 @@ function gkvZusatzbeitrag(zusatzbeitragRate, tariff, monthlyIncome){
 		midijob: zusatzbeitragRate / 2,
 		employee: zusatzbeitragRate / 2,
 		azubi: zusatzbeitragRate / 2,
+		ksk: zusatzbeitragRate / 2,
 		azubiFree: zusatzbeitragRate,
 	}[tariff];
 
@@ -210,9 +215,9 @@ function gkvZusatzbeitrag(zusatzbeitragRate, tariff, monthlyIncome){
 }
 
 function kskOption(monthlyIncome, age, childrenCount){
-	const baseContribution = gkvBaseContribution('employee', monthlyIncome);
-	const pflegeversicherung = gkvPflegeversicherung('employee', monthlyIncome, age, childrenCount);
-	const zusatzbeitrag = gkvZusatzbeitrag(healthInsurance.averageZusatzbeitrag, 'employee', monthlyIncome);
+	const baseContribution = gkvBaseContribution('ksk', monthlyIncome);
+	const pflegeversicherung = gkvPflegeversicherung('ksk', monthlyIncome, age, childrenCount);
+	const zusatzbeitrag = gkvZusatzbeitrag(healthInsurance.averageZusatzbeitrag, 'ksk', monthlyIncome);
 	return {
 		id: 'ksk', 
 		name: 'Künstlersozialkasse',

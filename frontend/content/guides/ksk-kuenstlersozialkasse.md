@@ -51,25 +51,13 @@ When you are a KSK member, **they pay half of your [health insurance](/glossary/
 
 ### How much does it cost?
 
-**In most cases, nothing.** You pay the same price as before, but you get more benefits. 
+Usually, you pay less than before, *and* you get more benefits. Calculate the difference yourself:
 
-[Public pension insurance](/glossary/gesetzliche%20Krankenversicherung) is optional for most freelancers, so you probably don't pay for it. If you join the KSK, it's required. You must pay for it.
+{% include '_blocks/kskCostDifferenceCalculator.html' %}
 
-So when you are in the KSK, you save ~9.35% of your income on health insurance, but you must pay {{RV_EMPLOYEE_CONTRIBUTION}}% of your income for public pension insurance. In the end, you pay around the same price.
+When you are in the KSK, they pay half of your health insurance, but you are forced to pay [public pension insurance](/glossary/gesetzliche%20Krankenversicherung). In other words, **you save money on health insurance, and reinvest it in your pension**. This is a *really* good deal.
 
-In other words, **you save money on health insurance, and reinvest it in your pension**. This is a *really* good deal.
-
-| Income<br><small>per year</small> | Normal cost<br><small>Health insurance only</small> | KSK member cost<br><small>Health insurance + pension</small> |
-|---|---|---|
-| €15,000 <br><small>per year</small> | €230 <br><small>per month</small> | €230 <br><small>per month</small> |
-| €25,000 <br><small>per year</small> | €390 <br><small>per month</small> | €385 <br><small>per month</small> |
-| €35,000 <br><small>per year</small> | €545 <br><small>per month</small> | €540 <br><small>per month</small> |
-| €45,000 <br><small>per year</small> | €700 <br><small>per month</small> | €695 <br><small>per month</small> |
-| €55,000 <br><small>per year</small> | €850 <br><small>per month</small> | €850 <br><small>per month</small> |
-| €70,000 <br><small>per year</small> | €900 <br><small>per month</small> | €990 <br><small>per month</small> |
-| Over €{{BEITRAGSBEMESSUNGSGRENZE|cur}} <br><small>per year</small> | €900 <br><small>per month</small> | €1,075  <br><small>per month</small> |
-
-**If you earn over €{{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}} per year**, you pay a bit more. You pay up to €175 per month more, but you contribute up to €1,311 per month to your public pension. This is the best pension plan you can find.{{ fail_on('2025-12-31') }}
+**If you earn over €{{GKV_FREIWILLIG_VERSICHERT_MIN_INCOME|cur}} per year**, you pay a bit more, but you contribute *a lot* more to your pension. This is the best pension plan you can find.
 
 ### Should I join the KSK?
 

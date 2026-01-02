@@ -404,7 +404,7 @@ Your immigration expenses are [tax-deductible](/glossary/steuerlich%20absetzbar)
 
 Your residence permit is valid for 6 months to 4 years. The expiration date is written on the card.
 
-When it's about to expire, you must renew it at the *[[Ausländerbehörde]]*. In Berlin, you must renew your residence permit 6 weeks before it expires, not sooner.[^11] It takes [a few months](/guides/auslanderbehorde-wait-times) to renew a residence permit.{{ fail_on('2025-12-31') }}
+When it's about to expire, you must renew it at the *[[Ausländerbehörde]]*. In Berlin, you must renew your residence permit 6 weeks before it expires, not sooner.[^11] It takes [a few months](/guides/auslanderbehorde-wait-times) to renew a residence permit.{{ fail_on('2026-12-31') }}
 
 The *[[Ausländerbehörde]]* will check if you still meet all the requirements of your residence permit. You need a few documents to prove this. Start preparing them in advance.
 

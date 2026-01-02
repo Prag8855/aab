@@ -2243,61 +2243,61 @@ collapsible, letter-generator, feedback-residence-permit, health-insurance-calcu
         }
     }
 
-    .two-columns{
-        margin: var(--l-relative) 0;
-        display: grid;
-        grid-template-columns: 1fr 1fr;
-        font-size: var(--f-s);
-        gap: var(--s) var(--l);
+}
 
-        ul{
-            margin: 0;
-        }
+.two-columns{
+    margin: var(--l-relative) 0;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    font-size: var(--f-s);
+    gap: var(--s) var(--l);
 
-        li{
-            @include list-marker-ul-compact;
-            margin: var(--s) 0;
-        }
+    ul{
+        margin: 0;
+    }
 
-        &.private-cost{
-            gap: var(--l);
+    li{
+        @include list-marker-ul-compact;
+        margin: var(--s) 0;
+    }
 
-            @include only-phone{
-                > *{
-                    padding-bottom: var(--l);
-                    border-bottom: var(--b-box);
-                }
-            }
-            @include not-phone{
-                > :first-child{
-                    padding-right: var(--l);
-                    border-right: var(--b-box);
-                }   
-            }
-
-            h3 {
-                margin: 0 0 var(--m);
-            }
-
-            .pros, .cons{
-                margin: var(--s) 0;
-            }
-
-            .price{
-                display: block;
-                margin: var(--m) 0 0;
-                font-size: var(--m);
-
-                @include only-phone{
-                    grid-column: 1 / -1;
-                }
-            }
-        }
-
-        @include only-phone{
-            grid-template-columns: 1fr;
+    @include only-phone{
+        > *{
+            padding-bottom: var(--l);
+            border-bottom: var(--b-box);
         }
     }
+    @include not-phone{
+        > :first-child{
+            padding-right: var(--l);
+            border-right: var(--b-box);
+        }   
+    }
+
+    h3 {
+        margin: 0 0 var(--m);
+    }
+
+    .pros, .cons{
+        margin: var(--s) 0;
+    }
+
+    > .price{
+        display: block;
+        margin: var(--m) 0 0;
+        font-size: var(--m);
+
+        @include only-phone{
+            grid-column: 1 / -1;
+        }
+    }
+
+    @include full-width-site{
+        .price-line .price small{
+            display: none; // Hide "/month" as soon as the columns get narrower
+        }
+    }
+
     :is(.pros, .cons) li{
         padding-left: calc(var(--l-relative) + var(--s));
 
@@ -2318,6 +2318,10 @@ collapsible, letter-generator, feedback-residence-permit, health-insurance-calcu
         color: #fff;
         background: var(--c-highlight-green);
         content: '✓';
+    }
+
+    @include only-phone{
+        grid-template-columns: 1fr;
     }
 }
 
@@ -3493,6 +3497,8 @@ collapsible, letter-generator, feedback-residence-permit, health-insurance-calcu
             grid-template-columns: minmax(0, 1fr);
         }
     }
+
+    // TODO: Merge with .email-form
     .email-reminder{
         display: grid;
         grid-template-columns: 1fr auto;
