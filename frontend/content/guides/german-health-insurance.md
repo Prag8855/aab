@@ -392,7 +392,7 @@ You only need an ID document and a photo for your insurance card. You do not nee
 
 - If you choose [expat health insurance](/glossary/Expat%20health%20insurance), you get insured in a few minutes.
 - If you choose [public health insurance](/glossary/gesetzliche%20Krankenversicherung), you can get your [proof of health insurance](/glossary/Mitgliedsbescheinigung) on the same day, and your [insurance card](/glossary/Gesundheitskarte) in 2 to 4 weeks. It takes longer for freelancers.[^33] You can get healthcare before your insurance card arrives.
-- If you choose [private health insurance](/glossary/private%20Krankenversicherung), it takes around 2 weeks. You usually need a health check from a doctor.[^44] It costs around €250.[^30]{{ fail_on('2027-01-01') }}
+- If you choose [private health insurance](/glossary/private%20Krankenversicherung), it takes around 2 weeks. You usually need a health check from a doctor.[^44] It costs around €250.[^30]{{ fail_on('2026-12-31') }}
 
 If you are self-employed and new in Germany, it can be hard to get health insurance. Public and private health insurers can reject you. You might need to try multiple insurers. I strongly recommend [asking an expert to help you](#need-help).
 

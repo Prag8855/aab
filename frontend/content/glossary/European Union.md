@@ -8,12 +8,13 @@ Date_created: 2023-07-10
 
 The European Union (EU) is a group of countries in Europe. If you are an EU citizen, you can live in other EU countries. You don't need a visa or a [residence permit](/glossary/Aufenthaltstitel). Most EU countries use the Euro as their currency.
 
-These countries are in the European Union:[^1]{{ fail_on('2026-01-01' )}}
+These countries are in the European Union:[^1]{{ fail_on('2026-12-31' )}}
 
-- Austria, Belgium
+- Austria
+- Belgium
 - Bulgaria
 - Croatia
-- Republic of Cyprus
+- Cyprus
 - Czech Republic
 - Denmark
 - Estonia

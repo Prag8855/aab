@@ -104,7 +104,7 @@ The *Bürgeramt* needs these documents:[^7]
 - [ ] Passport or *[[Personalausweis]]*
 - [ ] [First aid course](#first-aid-course) certificate
 - [ ] [Eye test](#eye-test) certificate
-- [ ] [Biometric picture](/guides/biometric-pictures-in-berlin){{ fail_on('2026-01-01')}}
+- [ ] [Biometric picture](/guides/biometric-pictures-in-berlin){{ fail_on('2026-12-31')}}
 - [ ] Driving school [contract](/images/ausbildungvertrag.jpg) (*Ausbildungsvertrag*)
 - [ ] Payment for the €{{DRIVING_LICENCE_FEE|cur}} fee - Check if your *Bürgeramt* accepts cash or credit cards.
 

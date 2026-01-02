@@ -74,7 +74,7 @@ The photographer takes your photo, uploads it, and gives you a QR code.[^4] Brin
 
 Photos from a photo booths are **not accepted** by the *[[Bürgeramt]]* or the *[[Ausländerbehörde]]*.[^2]
 
-There are Fotofix photo booths everywhere in Berlin. Photos cost €10.{{ fail_on('2026-03-01') }} You get five 35 × 45 mm passport pictures printed on the same sheet.
+There are Fotofix photo booths everywhere in Berlin. Photos cost around €10.{{ fail_on('2026-12-31') }} You get five 35 × 45 mm passport pictures printed on the same sheet.
 
 **[Find a photo booth](https://www.google.com/maps?q=fotoautomat)** - Google Maps
 

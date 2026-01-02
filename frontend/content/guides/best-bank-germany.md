@@ -241,7 +241,7 @@ None of these banks give you a [[Girocard]]. If you need one, [C24](/out/c24) is
 [^16]: Tobias Arnold from bunq (February 2025)
 [^17]: [Reddit](https://old.reddit.com/r/germany/comments/18puh8o/about_blocked_account/) (2024)
 [^18]: [1822direkt.de](https://www.1822direkt.de/girokonto/leistungen-konditionen/)
-[^19]: Tobias Arnold from bunq (February 2025){{ fail_on('2026-01-01') }}
+[^19]: Tobias Arnold from bunq (February 2025){{ fail_on('2026-02-01') }}
 [^20]: [comdirect.de](https://www.comdirect.de/cms/ueberuns/de/presse/neues-mobiles-girokonto-von-comdirect.html)
 [^21]: [commerzbank.de](https://www.commerzbank.de/portal/media/efw-dokumente/preis_leistungsverzeichnis.pdf)
 [^22]: [§ 13 BAföG](https://www.buzer.de/13_BAfoG.htm) and [§ 13a BAföG](https://www.buzer.de/13a_BAfoG.htm), [VAB A2.3.5](/out/vab) (October 2025)

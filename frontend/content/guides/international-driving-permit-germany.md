@@ -26,7 +26,7 @@ If you have a German driver's licence, you must book a *[[Bürgeramt]]* appointm
 Go to your appointment and bring...
 
 - [ ] **€15 for the fees**
-- [ ] **A [biometric picture](/guides/biometric-pictures-in-berlin)**{{fail_on('2026-01-01')}}
+- [ ] **A [biometric picture](/guides/biometric-pictures-in-berlin)**{{fail_on('2026-12-31')}}
 - [ ] **A valid German driver's licence**  
     Temporary licences issued to new drivers (*vorläufiger Nachweis der Fahrerlaubnis*) are not accepted. You must bring a valid plastic driving licence (*Kartenführerschein*).
 

@@ -122,7 +122,7 @@ Go to your *Bürgeramt* appointment, and bring all the [required documents](http
 - [ ] **Photocopy of your driving licence**
 - [ ] **Passport or [[Personalausweis]]**
 - [ ] **Passport photo**  
-    You can [get biometric pictures](/guides/biometric-pictures-in-berlin) for around €10.{{fail_on('2026-01-01')}}
+    You can [get biometric pictures](/guides/biometric-pictures-in-berlin) for around €10.{{fail_on('2026-12-31')}}
 - [ ] **Registration certificate** (*[[Anmeldebestätigung]]*)  
     This proves that you live in Berlin. Other proofs of residence might be accepted.[^2]
 - [ ] **A [[Girocard]] or cash**  

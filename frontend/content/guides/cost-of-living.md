@@ -158,7 +158,7 @@ This is an example budget for a single person who lives in Berlin. It uses reali
 
 ### Income
 
-€4,634 was the average German salary in 2024.[^2] This is an example budget for an unmarried employee with no children.{{ fail_on('2026-01-01') }}
+€4,634 was the average German salary in 2024.[^2] This is an example budget for an unmarried employee with no children.{{ fail_on('2026-06-01') }}
 
 **[Calculate your income after taxes ➞](/tools/tax-calculator)**
 

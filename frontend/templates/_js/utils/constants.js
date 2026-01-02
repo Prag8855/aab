@@ -40,7 +40,7 @@ const healthInsurance = {
 		},
 	},
 	private: {
-		{{ fail_on('2026-01-01') }}
+		{{ fail_on('2026-01-31') }}
 		pflegeversicherung: [  // Ages 0-99
 			47.70,
 			47.70,
@@ -515,9 +515,9 @@ const taxes = {
 		2023: { west: 7300 * 12, east: 7100 * 12 },
 		2024: { west: 7550 * 12, east: 7450 * 12 },
 		2025: { west: 8050 * 12, east: 8050 * 12 },
-		currentYear: { west: {{ BEITRAGSBEMESSUNGSGRENZE }}, east: {{ BEITRAGSBEMESSUNGSGRENZE }} }, // {{ fail_on('2025-12-31') }}
-		2026: { west: {{ BEITRAGSBEMESSUNGSGRENZE }}, east: {{ BEITRAGSBEMESSUNGSGRENZE }} }, // ESTIMATED (2025)
-		2027: { west: {{ BEITRAGSBEMESSUNGSGRENZE }}, east: {{ BEITRAGSBEMESSUNGSGRENZE }} }, // ESTIMATED (2025)
+		2026: { west: {{ BEITRAGSBEMESSUNGSGRENZE }}, east: {{ BEITRAGSBEMESSUNGSGRENZE }} },
+		currentYear: { west: {{ BEITRAGSBEMESSUNGSGRENZE }}, east: {{ BEITRAGSBEMESSUNGSGRENZE }} }, // {{ fail_on('2026-12-31') }}
+		2027: { west: {{ BEITRAGSBEMESSUNGSGRENZE }}, east: {{ BEITRAGSBEMESSUNGSGRENZE }} }, // ESTIMATED (2026)
 	},
 	grundfreibetrag: {{ GRUNDFREIBETRAG }},
 	kinderfreibetrag: {{ KINDERFREIBETRAG }},
@@ -601,8 +601,8 @@ const pensions = {
 		2023: 18.6,
 		2024: 18.6,
 		2025: 18.6,
-		currentYear: {{ RV_BASE_RATE }}, // {{ fail_on('2025-12-31') }}
-		2026: 18.6, // ESTIMATED (2025)
+		2026: 18.6,
+		currentYear: {{ RV_BASE_RATE }}, // {{ fail_on('2026-12-31') }}
 		2027: 18.6, // ESTIMATED (2025)
 	},
 }
