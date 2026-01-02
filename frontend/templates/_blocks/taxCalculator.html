@@ -545,28 +545,28 @@
 						Base cost
 						<span class="price no-mobile"
 							v-if="isPayingNormalHealthInsurancePrice"
-							v-html="formatPercent(customGkv.baseContribution.personalRate * 100)"></span>
+							v-html="formatPercent(customGkv.baseContribution.personalRate * 100, true, 1)"></span>
 						<price :amount="monthlyYearlyCost(customGkv.baseContribution.personalContribution)"></price>
 					</p>
 					<p class="price-line">
 						<glossary term="Pflegeversicherung">Long-term care insurance</glossary>
 						<span class="price no-mobile"
 							v-if="isPayingNormalHealthInsurancePrice"
-							v-html="formatPercent(customGkv.pflegeversicherung.personalRate * 100)"></span>
+							v-html="formatPercent(customGkv.pflegeversicherung.personalRate * 100, true, 1)"></span>
 						<price :amount="monthlyYearlyCost(customGkv.pflegeversicherung.personalContribution)"></price>
 					</p>
 					<p class="price-line">
 						<glossary term="Zusatzbeitrag">Insurer surcharge</glossary>
 						<span class="price no-mobile"
 							v-if="isPayingNormalHealthInsurancePrice"
-							v-html="formatPercent(customGkv.zusatzbeitrag.personalRate * 100)"></span>
+							v-html="formatPercent(customGkv.zusatzbeitrag.personalRate * 100, true, 1)"></span>
 						<price :amount="monthlyYearlyCost(customGkv.zusatzbeitrag.personalContribution)"></price>
 					</p>
 					<p class="price-line" v-if="customGkv.baseContribution.employerContribution > 0">
 						Total
 						<span class="price no-mobile"
 							v-if="isPayingNormalHealthInsurancePrice"
-							v-html="formatPercent(customGkv.total.personalRate * 100)"></span>
+							v-html="formatPercent(customGkv.total.personalRate * 100, true, 1)"></span>
 						<price :amount="monthlyYearlyCost(customGkv.total.personalContribution)"></price>
 					</p>
 				</template>
