@@ -25,7 +25,7 @@ They do not accept...
 - Photos that you have taken yourself
 - Photos from random photo kiosks
 
-This applies to photos for [residence permits](/glossary/Aufenthaltstitel), passports and [personal IDs](/glossary/Personalausweis). So far, it does not apply to driving licence pictures.{{ fail_on('2025-12-31') }}
+This applies to photos for [residence permits](/glossary/Aufenthaltstitel), passports and [personal IDs](/glossary/Personalausweis). It does not apply to driving licence photos.[^10]
 
 Digital biometric pictures are valid for 6 months. You can use the same photo multiple times.[^3]
 
@@ -97,3 +97,4 @@ Photography studios can take pictures and cut them to the correct size.
 [^7]: [dm.de](https://newsroom.dm.de/pressreleases/ab-1-mai-bietet-dm-guenstige-digitale-passbilder-und-sicheren-transfer-fuer-buergerbueros-vorteile-595-euro-fuer-digitale-fotos-plus-papierbilder-mehrfachverwendung-ueber-6-monate-3374913) (March 2025)
 [^8]: [Elliot Herman](https://www.sorted.berlin/) (July 2025)
 [^9]: [Elliot Herman](https://www.sorted.berlin/) (July 2025)
+[^10]: [Berlin.de](https://service.berlin.de/dienstleistung/121627/) (January 2026){{ fail_on('2026-12-31') }}
