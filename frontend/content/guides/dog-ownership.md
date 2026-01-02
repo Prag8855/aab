@@ -138,6 +138,7 @@ Use these apps to find a dog sitter:
 
 - [Pawshake](https://en.pawshake.de/)
 - [Rover](https://www.rover.com/app/)
+- [TrustedHousesitter](https://www.trustedhousesitters.com)
 
 ## English-speaking vets
 
