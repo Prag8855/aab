@@ -144,7 +144,7 @@ While you wait for an *Ausländerbehörde* appointment, you should also...
 
 ### 3. Apply for the freelance visa
 
-[Use the *Ausländerbehörde* contact form](/guides/immigration-office#how-to-contact-the-auslanderbehorde) to send all the [required documents](#required-documents). Send your application to the [correct department](/guides/immigration-office#departments). Choose departments F1, F2 or M1 to M4, not B1 to B4.[^7]{{ fail_on('2025-12-31') }}
+[Use the *Ausländerbehörde* contact form](/guides/immigration-office#how-to-contact-the-auslanderbehorde) to send all the [required documents](#required-documents). Send your application to the [correct department](/guides/immigration-office#departments). Choose departments M1, M2, M3, M4, F1 or F2.[^7]
 
 This is the only way. You can't go to the *Ausländerbehörde* without an appointment. You only get an appointment after you send your documents through the contact form.
 

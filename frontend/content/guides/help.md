@@ -55,9 +55,9 @@ You can get help from these communities and services.
 ## Apartment questions
 
 - **Tenant associations** (*[[Mieterverein]]*)  
-    They protect tenants from landlords. When you are a member, their lawyers can help you. They can check your lease, help you with a bad landlord, get your rent reduced, and help you sublet an apartment. The membership costs €40 to €120 per year.[^1]{{ fail_on('2025-12-31') }} If you have a low income, it can be cheaper.[^2] Some unions have a waiting period before they help you.[^3] These are the biggest options in Berlin:
-    - [Berliner Mieterverein](https://www.berliner-mieterverein.de/sprachen/englisch.htm)
-    - [Mieterschutzbund Berlin](https://www.mieterschutzbund-berlin.de/)
+    They protect tenants from landlords. When you are a member, their lawyers can help you. They can check your lease, help you with a bad landlord, get your rent reduced, and help you sublet an apartment. Some unions have a waiting period before they help you.[^3] These are the biggest options in Berlin:
+    - [Berliner Mieterverein](https://www.berliner-mieterverein.de/sprachen/englisch.htm) - €132 per year[^1]
+    - [Mieterschutzbund Berlin](https://www.mieterschutzbund-berlin.de/) - €54 per year[^2]
 - **[Tenant counsel](https://www.berlin.de/sen/wohnen/service/serviceadressen/mieterberatungen-in-den-bezirken/)** (*Mieterberatung*)  
     This is a free service from the city of Berlin. They have [many branches](https://www.berlin.de/sen/wohnen/service/serviceadressen/mieterberatungen-in-den-bezirken/). You might need to go in person. They might not speak English.
     - **[asum Berlin](https://www.asum-berlin.de/english/)** - Free counselling for tenants
@@ -174,8 +174,8 @@ Don't be afraid to use a lawyer. Your employer can't fire you or blacklist you b
 Write to <contact@allaboutberlin.com>. I can't answer every question, but I can point you in the right direction. Please do some research first.
 
 [^0]: [joinimagine.com](https://www.joinimagine.com/faq)
-[^1]: [Finanztip](https://www.finanztip.de/rechtsschutzversicherung/), [augsburger-allgemeine.de](https://www.augsburger-allgemeine.de/themenwelten/wirtschaft/Police-oder-Mieterverein-Rechtsschutz-fuer-Mieter-id5396231.html)
-[^2]: [Finanztip](https://www.finanztip.de/rechtsschutzversicherung/mietrechtsschutz/)
+[^1]: [Berliner Mieterverein](https://www.berliner-mieterverein.de/mitgliedsbeitraege-und-leistungen.htm) (January 2026){{ fail_on('2026-12-31') }}
+[^2]: [Mieterschutzbund](https://www.mieterschutzbund-berlin.de/beitragsordnung.html) (January 2026){{ fail_on('2026-12-31') }}
 [^3]: [augsburger-allgemeine.de](https://www.augsburger-allgemeine.de/themenwelten/wirtschaft/Police-oder-Mieterverein-Rechtsschutz-fuer-Mieter-id5396231.html)
 [^4]: [Finanztip](https://www.finanztip.de/rechtsschutzversicherung/)
 [^5]: [gesetze-im-internet.de](http://www.gesetze-im-internet.de/englisch_berathig/englisch_berathig.html#p0013)

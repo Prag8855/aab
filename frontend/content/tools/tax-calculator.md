@@ -12,7 +12,7 @@ Related_guides:
     guides/english-speaking-steuerberater-berlin.md
 ---
 
-This tool calculates your German [net income](/glossary/Netto%20income) in 2026,{{ fail_on('2025-12-31') }} after taxes and social contributions. This is your take-home salary. It's the money you keep every month.
+This tool calculates your German [net income](/glossary/Netto%20income) in 2026,{{ fail_on('2026-12-31') }} after taxes and social contributions. This is your take-home salary. It's the money you keep every month.
 
 ## Tax calculator
 

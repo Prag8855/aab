@@ -7,7 +7,7 @@ Date_created: 2023-03-10
 
 [Kontist](/out/kontist) is a German bank. They offer business bank accounts (*[[Geschäftskonto]]*) for freelancers.
 
-This is my review of Kontist in May 2025. I used Kontist for my business from January 2022 to May 2025. Now I use [N26](/out/n26-business) instead.
+This is my review of Kontist in May 2025. I used Kontist for my business from January 2022 to May 2025. Now I have an [N26](/out/n26-business) freelancer account.
 
 In my opinion, **there is no good reason to choose Kontist**. Use one of the [Kontist alternatives](#kontist-alternatives).
 
@@ -17,12 +17,12 @@ In my opinion, **there is no good reason to choose Kontist**. Use one of the [Ko
 
 ## Cost and fees
 
-A Kontist account costs [€9 to €29 per month](/out/kontist-plans){{ fail_on('2025-12-31') }}.
+A Kontist account costs [€0 to €25 per month](/out/kontist-plans){{ fail_on('2026-12-31') }}.
 
 There are extra fees:
 
-- 10 free transactions per month, then €0.15 per transaction (incoming and outgoing).
-- 1.7% fee on foreign currency transactions (incoming and outgoing).[^8] For example, if you get 1,000 USD from a client, you pay around €17 in fees.
+- 5 free transactions per month, then €0.40 per transaction (incoming and outgoing).
+- 2% fee on foreign currency transactions (incoming and outgoing).[^8] For example, if you get 1,000 USD from a client, you pay around €20 in fees.
 - €2 per ATM withdrawal.
 
 If you get paid in foreign currencies, or have many small transactions, Kontist gets expensive. I paid €12 to €15 per month in fees, but sometimes a single transaction cost me €20 in currency conversion fees.
@@ -33,7 +33,7 @@ If you get paid in foreign currencies, or have many small transactions, Kontist 
 
 Kontist has a free account. It's almost useless.
 
-- You only get 10 free transactions per month (incoming and outgoing), then you pay €0.15 per transaction.[^6]
+- You only get 5 free transactions per month (incoming and outgoing), then you pay €0.40 per transaction.[^6]
 - It only comes with a virtual Visa card, no physical card.
 - No invoicing, no integration with bookkeeping tools, and no MT940 exports (only CSV).
 - No automatic bookkeeping.
@@ -202,8 +202,8 @@ Your bank, your accounting software and your tax advisor should be 3 different s
 
 ### Other business banks
 
-- **[N26 Business](/out/n26-business)**  
-    Exactly like N26 personal accounts, but for your business. I am with N26 since 2016, and [I like it](/guides/an-honest-review-of-n26). Since 2025, I also use it for my business. There is no automatic accounting, but you can put money aside in "spaces".
+- **[N26 Business](/out/n26-business)**{{ RECOMMENDED }}  
+    This is what I use. It's exactly like the N26 personal account, but for your business. I am with N26 since 2016, and [I like it](/guides/an-honest-review-of-n26). It's also my business account since 2025.
 - **[Holvi](/out/holvi)**  
     Very similar to Kontist. They have better invoicing and better reports. Your tax advisor can access your account and export transactions.
 - **[Qonto](/out/qonto)**  

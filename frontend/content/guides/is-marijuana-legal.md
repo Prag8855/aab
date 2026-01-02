@@ -33,7 +33,9 @@ There is currently **no way to buy weed**. There are no cannabis stores. You mus
 
 ### Cannabis clubs
 
-**You can't buy weed** from a store. To buy weed, you must join a cannabis club.
+**You can't buy weed from a store**. To get weed legally, you must join a cannabis club. You pay a membership fee, and you get a part of the cannabis the club produces.
+
+At the moment, it's almost impossible to join a club. There are only a dozen clubs in Berlin, and they have long waiting lists.[^29] Most people still get cannabis from illegal sources.
 
 Rules for cannabis clubs:[^17]
 
@@ -53,8 +55,6 @@ To join a club, you must...[^18]
 - Be at least 18 years old
 - Be a resident for at least 6 months[^26]
 
-At the moment, it's almost impossible to join a club. There are almost no approved clubs, and the existing clubs have long waiting lists.[^29] It could take a few months before you can easily buy weed from a cannabis club.{{ fail_on('2025-12-31') }}
-
 ### Is medicinal marijuana legal?
 
 **Yes**. Medical marijuana is legal. It is rarely prescribed. Only a few hundred people have a prescription.[^1] With legalisation, it became easier to prescribe.[^8]
@@ -69,13 +69,13 @@ Before legalisation, processed CBD products with less than 0.2% THC were legal.[
 
 You can find CBD flowers in some *[Spätis](/glossary/Sp%C3%A4ti)* and head shops.[^4]
 
-## Are cannabis seeds legal?
+### Are cannabis seeds legal?
 
-**Yes.** Cannabis seeds are legal. You can also buy seeds from other EU countries.[^14]
+**Yes.** Cannabis seeds are legal. You can also buy seeds from other EU countries.[^14] Growing your own cannabis is legal.
 
 ### Are HHC and THCP legal?
 
-The sale of Hexahydrocannabinol (HHC) and Tetrahydrocannabiphorol (THCP) is banned since June 2024.[^16] Possession is still legal. You might still find HHC edibles, cartridges and flowers online, in some [Spätis](/glossary/Späti) and in some head shops.[^28]{{ fail_on('2025-12-31')}}
+**No.** The sale of Hexahydrocannabinol (HHC) and Tetrahydrocannabiphorol (THCP) is banned since 2024.[^16] Possession is still legal. Some [Spätis](/glossary/Späti) and head shops might still sell it.[^28]{{ fail_on('2026-07-01')}}
 
 ## Can I bring weed from another country?
 
@@ -114,4 +114,4 @@ This might have changed with legalisation, but it's not confirmed.
 [^25]: [§ 16 Abs. 2 KCanG](https://www.buzer.de/16_KCanG.htm)
 [^26]: [§ 16 Abs. 4 KCanG](https://www.buzer.de/16_KCanG.htm)
 [^28]: [Reddit](https://old.reddit.com/r/LSD/comments/1c29pe3/found_lsd_and_hhc_in_frankfort_germany/), [1](https://old.reddit.com/r/trees/comments/10fwyp2/hhc_carts_for_45_each_in_germany_what_do_you_think/), [2](https://old.reddit.com/r/askberliners/comments/1cq9z73/foreigner_in_berlin_would_like_to_buy_some_hhc/) (2024)
-[^29]: [rbb24.de 1](https://www.rbb24.de/wirtschaft/beitrag/2025/01/berlin-cannabis-hanf-lageso-anbau.html), [2](https://www.rbb-online.de/abendschau/videos/20250401_1930/Ein_Jahr_Cannabis_Legalisierung.html) (March 2025), [businessofcannabis.com](https://businessofcannabis.com/germanys-cannabis-club-applications-continue-to-rise-but-growth-has-slowed-in-september/), [osthessen-zeitung.de](https://www.osthessen-zeitung.de/einzelansicht/news/2024/oktober/cannabis-social-club-wartet-auf-lizenz-mithilfe-fuer-mitglieder-pflicht.html) (October 2024)
+[^29]: [rbb24.de](https://www.rbb24.de/panorama/beitrag/2025/07/berlin-cannabis-vereine-sieben-anbau-erlaubnis.html) (July 2025), [rbb24.de 1](https://www.rbb24.de/wirtschaft/beitrag/2025/01/berlin-cannabis-hanf-lageso-anbau.html), [2](https://www.rbb-online.de/abendschau/videos/20250401_1930/Ein_Jahr_Cannabis_Legalisierung.html) (March 2025){{ fail_on('2026-07-01') }}

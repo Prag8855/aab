@@ -71,7 +71,7 @@ Book an appointment in Berlin:
 
 If you don't speak German, you must bring an interpreter to your *Standesamt* appointment.[^6] You can't just bring a friend who speaks German.
 
-They might require a *sworn* interpreter (*beeidigte Dolmetscher*), not just a regular interpreter. A regular interpreter costs around €140. A sworn interpreter costs around €240.[^8]{{ fail_on('2025-12-31') }}
+They might require a *sworn* interpreter (*beeidigte Dolmetscher*), not just a regular interpreter. A regular interpreter costs around €140. A sworn interpreter costs around €240.[^8]
 
 In Berlin, I recommend [Red Tape Translation](/out/red-tape-translation-standesamt). They have both regular and sworn interpreters.
 
@@ -102,5 +102,5 @@ After your get married in another country, you must register your marriage in Ge
 [^5]: [Reddit](https://old.reddit.com/r/germany/comments/1bpoh8d/why_do_some_go_to_denmark_to_get_married/kwyrekf/) (2024)
 [^6]: [Berlin.de](https://service.berlin.de/dienstleistung/318968/) (2024), [Reddit](https://old.reddit.com/r/germany/comments/1bpoh8d/why_do_some_go_to_denmark_to_get_married/kwx6a0f/) (2024)
 [^7]: [Reddit](https://old.reddit.com/r/germany/comments/1bpoh8d/why_do_some_go_to_denmark_to_get_married/kwx72qi/) (2024)
-[^8]: [Red Tape Translation](/out/red-tape-translation) (May 2024)
+[^8]: [Red Tape Translation](/out/red-tape-translation) (January 2026){{ fail_on('2026-12-31') }}
 [^9]: [Berlin.de](https://service.berlin.de/dienstleistung/318962/)

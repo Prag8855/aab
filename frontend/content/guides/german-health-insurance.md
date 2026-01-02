@@ -106,7 +106,7 @@ When you go to the doctor, you show your [insurance card](/glossary/Gesundheitsk
 
 [Public health insurers](/glossary/Krankenkasse) have almost the same cost and coverage.[^85] The price difference is less than €20 per month after taxes. Look for better customer service and coverage of specific treatments.[^15] For example, one insurer can have better coverage for pregnancy, eyeglasses, dental care or travel vaccinations.
 
-**[Techniker Krankenkasse](/out/feather-tk)** and **[Barmer](/out/barmer)** speak English. Most people choose them. Techniker Krankenkasse is cheaper, and it's [really good](/guides/techniker-krankenkasse-review).{{ fail_on('2025-12-31') }}
+**[Techniker Krankenkasse](/out/feather-tk)** and **[Barmer](/out/barmer)** speak English. Most people choose them. Techniker Krankenkasse is cheaper, and it's [really good](/guides/techniker-krankenkasse-review).{{ fail_on('2026-12-31') }}
 
 If you are not sure, [ask my insurance expert](#need-help). It's free.
 

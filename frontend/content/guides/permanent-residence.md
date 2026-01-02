@@ -246,7 +246,7 @@ If you don't live in Berlin, you must [find your local *Ausländerbehörde*](htt
 
 ### 1. Take an integration test
 
-Since December 2024,{{ fail_on('2025-12-31') }} you need a certificate from...
+You need a certificate from...
 
 - **The [citizenship test](https://service.berlin.de/dienstleistung/351180/)** (*Einbürgerungstest*){{ RECOMMENDED }}  
     You must book an appointment. Then you go to your appointment in person to book a test date. The test costs €{{CITIZENSHIP_TEST_FEE|cur}}. It has 33 questions, multiple choice. In Berlin, it's really hard to get an appointment because there are no free slots. It can be faster to take the test in another city.
