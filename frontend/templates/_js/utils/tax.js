@@ -89,6 +89,7 @@ function calculateTax(yearlyIncome, {
 
 	if(occupations.isEmployed(occupation)) {
 		// TODO: Set rv-max-contribution flag
+		// TODO: What about Werkstudents?
 		result.publicPension = roundCurrency(estimateYearlyPensionContributions(year, yearlyIncome, isInEastGermany));
 	}
 	else {
