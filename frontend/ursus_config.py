@@ -413,6 +413,8 @@ ctx["DRIVING_PRACTICE_FEE"] = fail_on("2026-12-31", Decimal("60"))  # per 45-min
 ctx["DRIVING_THEORY_EXAM_FEE"] = fail_on("2026-12-31", Decimal("25"))  # Dekra/TÜV fee
 ctx["DRIVING_PRACTICAL_EXAM_FEE"] = fail_on("2026-12-31", Decimal("130"))  # Dekra/TÜV fee
 
+ctx["LEGAL_HOTLINE_COST_PER_MINUTE"] = fail_on("2026-01-31", 3)  # https://www.vonengelhardt.com/en/helpnowen
+
 # ==============================================================================
 # TECHNICAL
 # ==============================================================================
