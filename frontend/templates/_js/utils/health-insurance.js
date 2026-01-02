@@ -7,15 +7,18 @@ function getAdjustedMonthlyIncome(tariff, monthlyIncome){
 	// This is used to enforce a minimum/maximum cost.
 	// In some cases, different incomes can be used to measure the employee and employer's contributions.
 
-	if(tariff === 'azubiFree' || tariff === 'ksk'){
-		// There is no minimum income for the Azubi calculation, but the Beitragsbemessungsgrenze applies
-		// There is no minimum income for the KSK freelancer calculation, but the Beitragsbemessungsgrenze applies
-		const adjustedIncome = Math.min(healthInsurance.maxMonthlyIncome, monthlyIncome);
+	if(tariff === 'ksk'){
+		// There is a minimum income for the KSK freelancer calculation: Mindestbeitragsberechnungsgrundlage
+		// Set yearly here: https://www.kuenstlersozialkasse.de/service-und-medien/ksk-in-zahlen
+		const adjustedIncome = Math.max(Math.min(healthInsurance.maxMonthlyIncome, monthlyIncome), healthInsurance.kskMinimumHealthInsuranceIncome/12);
 		return {
 			personal: adjustedIncome,
 			employer: adjustedIncome,
 			total: adjustedIncome,
 		}
+	}
+	else if(tariff === 'azubiFree'){
+		// There is no minimum income for the Azubi calculation, but the Beitragsbemessungsgrenze applies
 	}
 	else if(tariff === 'midijob'){
 		// With a midijob, the cost is based on a fictional income, calculated according to § 20 Abs. 2a SGB IV

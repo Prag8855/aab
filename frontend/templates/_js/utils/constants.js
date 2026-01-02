@@ -15,6 +15,7 @@ const healthInsurance = {
 	maxNebenjobIncome: {{ GKV_NEBENJOB_MAX_INCOME }},
 	factorF: {{ GKV_FACTOR_F }},
 	kskMinimumIncome: {{ KSK_MIN_INCOME }},
+	kskMinimumHealthInsuranceIncome: {{ KSK_MIN_HEALTH_INSURANCE_INCOME }},
 	averageZusatzbeitrag: {{ GKV_ZUSATZBEITRAG_AVERAGE }}/100,
 	companies: {
 		aok: {

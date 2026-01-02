@@ -27,7 +27,6 @@
 					return Math.ceil(maxContributionIncome / 1000) * 1000;
 				},
 				healthInsuranceCostKsk() {
-					console.log(kskOption(this.yearlyIncome / 12, 25, 0).total)
 					return kskOption(this.yearlyIncome / 12, 25, 0).total.personalContribution;
 				},
 				healthInsuranceCostNormal() {
@@ -106,7 +105,6 @@
 			</p>
 		</div>
 	</div>
-	<hr>
 	<p>
 		<template v-if="amountSaved < 0">You pay <eur :amount="amountSaved * -1"></eur> more per month, but</template>
 		<template v-if="amountSaved >= 0">You save <eur :amount="amountSaved"></eur> per month <em>and</em></template>

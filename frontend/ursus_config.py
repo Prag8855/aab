@@ -232,9 +232,6 @@ ctx["PENSIONREFUNDGERMANY_MAX_FEE"] = 2800  # €
 ctx["GERMANYPENSIONREFUND_MAX_FEE"] = 2500  # €
 
 
-# Maximum income from employment to stay a member of the KSK (€/y)
-ctx["KSK_MAX_EMPLOYMENT_INCOME"] = ctx["BEITRAGSBEMESSUNGSGRENZE"] / 2  # § 4 KSVG
-
 gkv_min_rate_employee = (  # Total rate for employees
     ctx["GKV_BASE_RATE_EMPLOYEE"] + ctx["PFLEGEVERSICHERUNG_MIN_RATE"] + ctx["GKV_AVG_ZUSATZBEITRAG"]
 )
@@ -397,7 +394,15 @@ ctx["GEWERBEANMELDUNG_FEE"] = fail_on("2026-12-31", 15)  # € - service.berlin.
 ctx["HUNDEREGISTER_FEE"] = fail_on("2026-12-31", Decimal("17.50"))  # € - hunderegister.berlin.de
 ctx["HUNDESTEUER_FIRST_DOG"] = fail_on("2026-12-31", 120)  # §4 HuStG BE, (€/y)
 ctx["HUNDESTEUER_MORE_DOGS"] = fail_on("2026-12-31", 180)  # §4 HuStG BE, (€/y)
+
+# Maximum income from employment to stay a member of the KSK (€/y)
+ctx["KSK_MAX_EMPLOYMENT_INCOME"] = ctx["BEITRAGSBEMESSUNGSGRENZE"] / 2  # § 4 KSVG
 ctx["KSK_MIN_INCOME"] = fail_on("2026-12-31", 3900)  # (€/y) - §3 Abs. 1 KSVG
+
+# Minimum income used to calculate cost of health insurance and Pflegeversicherung
+# https://www.kuenstlersozialkasse.de/service-und-medien/ksk-in-zahlen
+ctx["KSK_MIN_HEALTH_INSURANCE_INCOME"] = fail_on("2026-12-31", 7910)  # Mindestbeitragsberechnungsgrundlage (€/y)
+
 ctx["ORDNUNGSAMT_DANGEROUS_DOG_FEE"] = fail_on("2026-12-31", 30)  # service.berlin.de/dienstleistung/326263
 ctx["RUNDFUNKBEITRAG_FEE"] = fail_on("2026-12-31", Decimal("18.36"))
 ctx["SCHUFA_REPORT_FEE"] = fail_on("2026-12-31", Decimal("29.95"))  # TODO: Not watched
