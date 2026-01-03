@@ -55,7 +55,7 @@ ctx["INCOME_TAX_MAX_RATE"] = 45  # (%) - § 32b EstG
 ctx["CHURCH_TAX_RATE"] = Decimal("9")  # (%)
 ctx["CHURCH_TAX_RATE_BW_BY"] = Decimal("8")  # (%)
 
-ctx["SOLIDARITY_TAX_MILDERUNGSZONE_MIN_INCOME_TAX"] = fail_on("2026-03-01", 20350)  # § 3 SolzG [SOLZFREI]
+ctx["SOLIDARITY_TAX_MILDERUNGSZONE_MIN_INCOME_TAX"] = fail_on("2026-12-31", 20350)  # § 3 SolzG [SOLZFREI]
 ctx["SOLIDARITY_TAX_MILDERUNGSZONE_RATE"] = fail_on("2026-12-31", Decimal("0.119"))  # § 4 SolzG
 ctx["SOLIDARITY_TAX_MAX_RATE"] = fail_on("2026-12-31", Decimal("0.055"))  # § 4 SolzG
 
