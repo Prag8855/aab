@@ -24,4 +24,4 @@ This tool calculates your German [net income](/glossary/Netto%20income) in 2026,
 
 **[Compare salaries in Germany ➞](/guides/salaries-in-germany)**
 
-**[Where to ask financial questions ➞](/guides/help#financial-questions)**
+**[Where to ask finance questions ➞](/guides/help#financial-questions)**

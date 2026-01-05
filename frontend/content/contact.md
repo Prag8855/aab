@@ -32,14 +32,12 @@ I do not answer visa and residence permit questions, because I can't give legal 
 **Social media:**
 
 - [Newsletter](https://allaboutberlin.com/newsletter)
+- [Reddit](https://reddit.com/r/allaboutberlin)
+- [LinkedIn](https://www.linkedin.com/in/nicolasbouliane/)
 - [Twitter](https://twitter.com/aboutberlin)
 - [GitHub](https://github.com/all-about-berlin)
-- [LinkedIn](https://www.linkedin.com/in/nicolasbouliane/)
 - [Bluesky](https://bsky.app/profile/allaboutberlin.bsky.social)
-- [Facebook](https://www.facebook.com/allaboutberlin)
-- [Google Maps](/google-maps)
 - [Mastodon](https://berlin.social/@allaboutberlin)
-- [Reddit](https://reddit.com/r/allaboutberlin)
 
 ## Payment information
 
