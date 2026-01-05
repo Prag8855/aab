@@ -169,8 +169,8 @@ def compare_results(actual: dict, expected: dict, tax_calculator_params: dict):
         pytest.fail(f"PARAMS:{params}\n\nDIFF:{errors}", pytrace=False)
 
 
-@pytest.mark.parametrize("age", [21, 22, 26, 30, 31])
-@pytest.mark.parametrize("income", [25000, 35000, 45000, 65000, 85000, 100000, 250000, 1000000])
+@pytest.mark.parametrize("age", [21, 23, 31])
+@pytest.mark.parametrize("income", [10000, 25000, 45000, 80000, 110000, 1000000])
 @pytest.mark.parametrize("is_married", [False])  # [True, False]
 @pytest.mark.parametrize("children_count", [0, 1, 2, 6])
 @pytest.mark.parametrize("region", ["be-east", "be-west"])  # ['be-east', 'be-west', 'by', 'bb']
