@@ -41,9 +41,9 @@ ctx["BEITRAGSBEMESSUNGSGRENZE"] = fail_on("2026-12-31", 8450 * 12)  # § SGB 6 A
 
 # Income tax calculation - https://www.lohn-info.de/lohnsteuerzahlen.html
 ctx["GRUNDFREIBETRAG"] = fail_on("2026-12-31", 12348)  # § 32a EstG [GFB]
-ctx["INCOME_TAX_BRACKET_2_MAX_INCOME"] = fail_on("2026-03-01", 17799)  # § 32a EstG [UPTAB24]
-ctx["INCOME_TAX_BRACKET_3_MAX_INCOME"] = fail_on("2026-03-01", 69878)  # § 32a EstG [UPTAB24]
-ctx["INCOME_TAX_BRACKET_4_MAX_INCOME"] = fail_on("2026-03-01", 277825)  # § 32a EstG [UPTAB24]
+ctx["INCOME_TAX_BRACKET_2_MAX_INCOME"] = fail_on("2026-03-01", 17799)  # § 32a EstG [UPTAB26 - 1]
+ctx["INCOME_TAX_BRACKET_3_MAX_INCOME"] = fail_on("2026-03-01", 69878)  # § 32a EstG [UPTAB26 - 1]
+ctx["INCOME_TAX_BRACKET_4_MAX_INCOME"] = fail_on("2026-03-01", 277825)  # § 32a EstG [UPTAB26 - 1]
 
 # Upper bound (€/y) of income tax tariff zones for tax classes 5 and 6
 ctx["INCOME_TAX_CLASS_56_LIMIT_1"] = fail_on("2026-03-01", 14071)  # § 39b Abs. 2 Satz 7 EstG [W1STKL5]
