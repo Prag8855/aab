@@ -62,9 +62,6 @@ def pytest_configure(config):
     # Print errors as they happen, not at the end
     config.option.instafail = True
 
-    # Run tests in parallel
-    config.option.numprocesses = "auto"
-
     # Hard-coded base URL
     config.option.base_url = "http://localhost"
 
