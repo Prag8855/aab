@@ -58,5 +58,16 @@ def test_screenshot(page, assert_snapshot):
 
 def pytest_configure(config):
     tests_root = Path(__file__).parent.resolve()
+
+    # Print errors as they happen, not at the end
+    config.option.instafail = True
+
+    # Run tests in parallel
+    config.option.numprocesses = "auto"
+
+    # Hard-coded base URL
+    config.option.base_url = "http://localhost"
+
+    config.option.playwright_visual_snapshot_threshold = 0.2
     config.option.playwright_visual_snapshots_path = tests_root / "snapshots"
     config.option.playwright_visual_snapshot_failures_path = tests_root / "snapshot-failures"
