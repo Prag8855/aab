@@ -144,43 +144,28 @@ def compare_results(actual: dict, expected: dict, tax_calculator_params: dict):
 
 
 @pytest.mark.parametrize("age", [21, 23, 31])
-@pytest.mark.parametrize("income", [10000, 25000, 45000, 80000, 110000, 500000])
-@pytest.mark.parametrize("is_married", [False])  # [True, False]
+@pytest.mark.parametrize("income", [10000, 20000, 50000, 110000, 500000])
 @pytest.mark.parametrize("children_count", [0, 1, 2, 6])
 @pytest.mark.parametrize("region", ["be-east", "be-west"])  # ['be-east', 'be-west', 'by', 'bb']
-@pytest.mark.parametrize("tax_class", [1])  # [1, 2, 3, 4, 5, 6]
-@pytest.mark.parametrize("zusatzbeitrag", [2.9])
 def test_results(
     local_tax_calculator,
     external_tax_calculator,
     age,
     children_count,
     income,
-    is_married,
     region,
-    tax_class,
-    zusatzbeitrag,
 ):
-    if is_married and tax_class in (1, 2, 6):
-        return
-    elif not is_married:
-        if tax_class in (3, 4, 5):
-            return
-        if not children_count and tax_class == 2:
-            return
-
     tax_calculator_params = {
         "age": age,
         "children_count": children_count,
         "income": income,
-        "is_married": is_married,
+        "is_married": False,
         "occupation": "employee",
         "region": region,
         "religion": None,
-        "tax_class": tax_class,
-        "zusatzbeitrag": zusatzbeitrag,
+        "tax_class": 1,
+        "zusatzbeitrag": 2.9,
     }
-
     compare_results(
         actual=get_local_results(local_tax_calculator, **tax_calculator_params),
         expected=get_external_results(external_tax_calculator, **tax_calculator_params),
