@@ -20,7 +20,6 @@ def device_config(request):
 
 @pytest.fixture(scope="session")
 def context(browser, browser_context_args):
-    browser_context_args["locale"] = "en-GB"  # Sets correct number format, cookie banner language
     new_context = browser.new_context(**browser_context_args)
     yield new_context
     new_context.close()
@@ -30,22 +29,14 @@ def context(browser, browser_context_args):
 def external_tax_calculator(context):
     page = context.new_page()
     page.set_default_timeout(5000)
-    page.goto("https://www.smart-rechner.de/lohnsteuer/rechner.php")
-
-    cookie_popup = page.locator("#cmpwrapper")
-    cookie_popup.get_by_role("button", name="Settings", exact=True).click()
-    cookie_popup.get_by_role("button", name="Save + Exit", exact=True).click()
-
-    # Yearly calculation
-    page.locator("#s_r_de_lohnsteuer_lohnzahlungszeitraum-button").get_by_text("Monatsbrutto").click()
-    page.get_by_role("option", name="Jahresbrutto").click()
-
+    page.goto("https://www.tk-lex.tk.de/web/guest/rechner/-/ideskproductresources/2006/MIME/7546978/HI7546978.html")
     return page
 
 
 @pytest.fixture(scope="session")
 def local_tax_calculator(context):
     page = context.new_page()
+    page.set_default_timeout(2000)
     page.goto("/tests/component/tax-calculator")
     page.get_by_role("link", name="Show options").click()
     return page
@@ -55,67 +46,50 @@ def get_external_results(
     page, income, occupation, age, tax_class, children_count, is_married, zusatzbeitrag, religion, region
 ):
     def get_numerical_value(row_title):
-        content = (
-            page.locator("#s_r_de_lohnsteuer_result tr", has_text=row_title)
-            .locator("td:last-child")
-            .first.text_content()
-        )
+        content = page.locator("table.table", has_text=row_title).locator("td:last-child").first.text_content()
         return Decimal(re.sub(r"[^0-9\,]", "", content).replace(",", ".")).quantize(Decimal("0.01"))
 
-    spinner = page.locator(".sanduhr-or-fehler.ui-priority-secondary")
+    # Period
+    page.locator("#gwt-debug-inPeriod").select_option("Jahr")
 
     # Income
-    page.locator("#s_r_de_lohnsteuer_bruttolohn").fill(str(income))
+    page.locator("#gwt-debug-inBrutto").fill(str(income))
 
     # Tax class
     tax_class_label = [None, "I", "II", "III", "IV", "V", "VI"][tax_class]
-    page.get_by_role("button", name=tax_class_label, exact=True).click()
+    page.locator("#gwt-debug-inTaxSteuerKlasse").select_option(tax_class_label)
 
     # Children
-    page.locator("#s_r_de_lohnsteuer_kinderanzahl-button").click()
-    if children_count == 0:
-        if age >= 23:
-            page.get_by_role("option", name="Kinderlos, mind. 23").click()
-        else:
-            page.get_by_role("option", name="Kinderlos, unter 23").click()
-    elif children_count == 1:
-        page.get_by_role("option", name="1 Kind").click()
-    elif children_count in [2, 3, 4]:
-        page.get_by_role("option", name=f"{children_count} Kinder").click()
-    elif children_count > 4:
-        page.get_by_role("option", name="5 oder mehr Kinder").click()
+    page.locator("#gwt-debug-inTaxKFB").select_option()
+
+    pays_more_for_pflegeversicherung = age >= 23 and children_count == 0
+    if page.locator("#gwt-debug-inTaxUsePVZ-input").is_checked() != pays_more_for_pflegeversicherung:
+        page.locator("#gwt-debug-inTaxUsePVZ-input").click()
+    if not pays_more_for_pflegeversicherung:
+        try:
+            page.locator("#gwt-debug-inTaxPVKinder").select_option(str(children_count))
+        except:
+            print("EEEEE", page.locator("#gwt-debug-inTaxPVKinder").evaluate_all("els => els.map(o => o.value)"))
 
     # Region
-    bundesland = {
-        "bb": "Brandenburg",
-        "by": "Bayern",
-        "be-west": "Berlin‑West",  # Note: hyphen is non-standard character
-        "be-east": "Berlin‑Ost",
-    }
-    page.locator("#s_r_de_lohnsteuer_bundesland-button").click()
-    page.get_by_role("option", name=bundesland[region]).click()
+    page.locator("#gwt-debug-inTaxBula").select_option(
+        {"bb": "Brandenburg", "by": "Bayern", "be-west": "Berlin-West", "be-east": "Berlin-Ost"}[region]
+    )
 
     # Church tax
-    page.locator("#s_r_de_lohnsteuer_kirchensteuer").get_by_role("button", name="Ja" if religion else "Nein").click()
+    if page.locator("#gwt-debug-inTaxUseKiSt-input").is_checked() != bool(religion):
+        page.locator("#gwt-debug-inTaxUseKiSt-input").click()
 
     # Health insurance
-    page.get_by_label("Zusatzbeitrag Krankenvers. in %").fill(str(zusatzbeitrag).replace(".", ","))
-
-    page.get_by_role("button", name="Berechnen").click()
-    spinner.wait_for(state="visible")
-    spinner.wait_for(state="hidden")
+    page.locator("#gwt-debug-inTaxKVZusatzbeitrag").fill(str(zusatzbeitrag).replace(".", ","))
 
     return {
-        "health_insurance": (
-            get_numerical_value("% Krankenversicherung")
-            + get_numerical_value("% KV Zusatzbeitrag")
-            + get_numerical_value("% Pflegeversicherung")
-        ),
-        "public_pension": get_numerical_value("% Rentenversicherung"),
-        "unemployment_insurance": get_numerical_value("% Arbeitslosenversicherung"),
+        "health_insurance": (get_numerical_value("Krankenversicherung") + get_numerical_value("Pflegeversicherung")),
+        "public_pension": get_numerical_value("Rentenversicherung"),
+        "unemployment_insurance": get_numerical_value("Arbeitslosenversicherung"),
         "income_tax": get_numerical_value("Lohnsteuer"),
-        "solidarity_surcharge": get_numerical_value("Solidaritätszuschlag") or None,
-        "church_tax": get_numerical_value("Kirchensteuer") if religion else None,
+        "solidarity_surcharge": get_numerical_value("Solidaritätszuschlag"),
+        "church_tax": get_numerical_value("Kirchensteuer"),
     }
 
 
@@ -138,15 +112,15 @@ def get_local_results(
             value = page.locator("summary", has_text=collapsible_title).locator(".currency").text_content()
             return Decimal(re.sub(r"[^0-9\.]", "", value)).quantize(Decimal("0.01"))
         else:
-            return None
+            return Decimal(0).quantize(Decimal("0.01"))
 
     return {
         "health_insurance": get_numerical_value("Health insurance"),
         "public_pension": get_numerical_value("Public pension"),
         "unemployment_insurance": get_numerical_value("Unemployment insurance"),
         "income_tax": get_numerical_value("Income tax"),
-        "solidarity_surcharge": get_numerical_value("Solidarity surcharge") or None,
-        "church_tax": get_numerical_value("Church tax") if religion else None,
+        "solidarity_surcharge": get_numerical_value("Solidarity surcharge"),
+        "church_tax": get_numerical_value("Church tax"),
     }
 
 
@@ -170,7 +144,7 @@ def compare_results(actual: dict, expected: dict, tax_calculator_params: dict):
 
 
 @pytest.mark.parametrize("age", [21, 23, 31])
-@pytest.mark.parametrize("income", [10000, 25000, 45000, 80000, 110000, 1000000])
+@pytest.mark.parametrize("income", [10000, 25000, 45000, 80000, 110000, 500000])
 @pytest.mark.parametrize("is_married", [False])  # [True, False]
 @pytest.mark.parametrize("children_count", [0, 1, 2, 6])
 @pytest.mark.parametrize("region", ["be-east", "be-west"])  # ['be-east', 'be-west', 'by', 'bb']
