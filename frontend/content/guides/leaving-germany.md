@@ -39,7 +39,8 @@ This guide explains how to prepare to leave Germany, step by step.
 - [ ] **[Change your address](/guides/address-change)**
 - [ ] **[Forward your mail](/guides/address-change#forward-your-mail)**  
     Pay to send your mail to another address.
-- [ ] **[Stop paying TV tax](/guides/gez-rundfunkbeitrag#how-to-stop-paying)**
+- [ ] **[Stop paying TV tax](/guides/gez-rundfunkbeitrag#how-to-stop-paying)**  
+    Tell the *Beitragsservice* that you moved out. You can [do it online](/out/rundfunkbeitrag-deregister).
 - [ ] **[Move out](/guides/moving-out)**  
     Sell or donate your things, hire movers, repaint the walls, and get your [deposit](/glossary/Kaution) back.
 

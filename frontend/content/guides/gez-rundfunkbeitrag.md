@@ -63,7 +63,7 @@ How to pay by bank transfer:
 
 ### If you live with other people
 
-Each *household* pays €{{RUNDFUNKBEITRAG_FEE|cur}}/month. If you live with other people, only one person has to pay the TV tax.[^12] You can decide how you share the cost. If someone in your household already pays the TV tax, you must fill [this deregistration form](https://www.rundfunkbeitrag.de/buergerinnen_und_buerger/formulare/abmelden/index_ger.html).
+Each *household* pays €{{RUNDFUNKBEITRAG_FEE|cur}}/month. If you live with other people, only one person has to pay the TV tax.[^12] You can decide how you share the cost. If someone in your household already pays the TV tax, you must fill [this deregistration form](/out/rundfunkbeitrag-deregister).
 
 If you live in a student dorm (*Studentenwohnheim*), you must still pay the TV tax.[^5]
 
@@ -92,7 +92,7 @@ Some people pay less, or don't pay anything:
 
 If you [leave Germany](/guides/leaving-germany), you must tell the *Beitragsservice*. You will stop getting *[[Rundfunkbeitrag]]* letters. You can do this online. It takes 2 minutes. You can also [pay someone to do it for you](/out/deregistrationde-gez).
 
-**[Deregister from the TV tax ➞](https://www.rundfunkbeitrag.de/buergerinnen_und_buerger/formulare/abmelden/index_ger.html)**
+**[Deregister from the TV tax ➞](/out/rundfunkbeitrag-deregister)**
 
 [^0]: [rundfunkbeitrag.de](https://www.rundfunkbeitrag.de/der_rundfunkbeitrag/senderfamilie/index_ger.html#:~:text=7.-,online%20dabei)
 [^1]: [Wikipedia](https://de.wikipedia.org/wiki/ARD_ZDF_Deutschlandradio_Beitragsservice)
