@@ -14,7 +14,7 @@ How do *you* get through the winter? I did not finish — or even start — my w
 
 ## Rent map
 
-I have made [a map of rents per m² in Berlin](https://allaboutberlin.com/tools/rent-map). It helps newcomers set a budget for their [flat search](/guides/find-a-flat-in-berlin). The data was kindly provided by [Homeboy](https://www.homeboy.immo/en) and [Stekkies](https://www.stekkies.com/en-de/).
+I have made [a map of rents per m² in Berlin](https://allaboutberlin.com/tools/rent-map). It helps newcomers set a budget for their [flat search](/guides/find-a-flat-in-berlin). It was built with help from [Homeboy](https://www.homeboy.immo/en) and [Stekkies](https://www.stekkies.com/en-de/).
 
 ![Map of rents in Berlin](/images/berlin-rent-map.png "Median rent per m²")
 
