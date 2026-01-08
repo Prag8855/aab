@@ -60,13 +60,15 @@ This guide explains how to prepare to leave Germany, step by step.
     - [ ] [International Driving Permit](/guides/international-driving-permit-germany)
 - [ ] **[Close your business](#close-your-business)**
 
-**Keep your bank account.** You will need it to get your [apartment deposit](/glossary/Kaution), your last paycheck, your yearly bonus, and your tax return.
+**Keep your bank account.** You will need it to get your [apartment deposit](/glossary/Kaution), last paycheck, yearly bonus, tax return and [blocked account](/glossary/Pfändungsschutzkonto) payments.
 
 **Keep your phone number.** You might need it for online banking and two-factor authentication.
 
 ### Money and investments
 
 Use [Wise](/out/wise) to move your money to another country.
+
+If you have a [blocked account](/glossary/Sperrkonto), you can close it after leaving Germany. You might need a *Sperrfreigabe* from your local German embassy, consulate or *[[Ausländerbehörde]]*.[^13]
 
 https://www.juhn.com/fachwissen/internationales-steuerrecht/wegzugsteuer-bei-investmentfonds/
 
@@ -81,9 +83,9 @@ If you have [private health insurance](/glossary/private%20Krankenversicherung),
 ### Close your business
 
 - [ ] **Deregister your business** (*Gewerbeabmeldung*)  
-    In Berlin, you can [do it online](https://service.berlin.de/dienstleistung/122107/).
+    In Berlin, you can [do it online](https://service.berlin.de/dienstleistung/122107/). If you have an AG, UG or GmbH, it's much more complicated.[^9]
 - [ ] **Pay the exit tax**  
-    When you move a corporation out of Germany, you sometimes need to [pay an exit tax](https://www.winheller.com/en/tax-law-tax-advisory/international-tax-planning/exit-taxation.html).[^1] There are ways to avoid this.
+    When you move an AG, UG or GmbH, you need to [pay an exit tax](https://www.winheller.com/en/tax-law-tax-advisory/international-tax-planning/exit-taxation.html).[^1] You can avoid it, but it's hard.[^14] Ask a [tax advisor](/glossary/Steuerberater) to help.
 
 ## After you leave Germany
 
@@ -174,3 +176,5 @@ Exceptions:
 [^10]: [hwr-berlin.de](https://www.hwr-berlin.de/en/study/studying-at-the-hwr-berlin/organizing-your-degree/applying-for-disenrolment) (January 2026)
 [^11]: [uni-goettingen.de](https://www.uni-goettingen.de/de/was+ist+ein+%22transcript+of+records%22%3F/216488.html) (January 2026), [FU Berlin](https://www.polsoz.fu-berlin.de/studium/pruefungsbuero/studiengaenge/ma_studiengaenge/ma_gender_intersektionalitaet-und-politik/Wie-erhalte-ich-ein-Transcript-of-Records_.html) (January 2026), [h-da.de](https://h-da.de/en/disenrollment) (January 2026)
 [^12]: [h-da.de](https://h-da.de/en/ssc/semester-fee) (January 2026), [uni-wuerzburg.de](https://www.uni-wuerzburg.de/en/studying-at-jmu/studienangelegenheiten/beitraegeundgebuehren/fee-refunds/) (January 2026)
+[^13]: [Expatrio](https://help.expatrio.com/hc/en-us/articles/360001061071-How-can-I-close-my-Blocked-Account) (January 2026), [ukraine.diplo.de](https://ukraine.diplo.de/ua-de/service/05-visaeinreise/2296252-2296252#content_3) (January 2026), [studying-in-germany.org](https://www.studying-in-germany.org/germany-blocked-account-foreign-students/how-to-close-my-blocked-account-in-germany/#expatrio) (January 2026)
+[^14]: Suat Göydeniz (January 2026)
