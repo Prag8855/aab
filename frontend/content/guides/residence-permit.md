@@ -418,9 +418,13 @@ You might also qualify for [permanent residence](/glossary/Niederlassungserlaubn
 
 **[Citizenship requirements ➞](/guides/permanent-residence#citizenship)**
 
+While you wait, your old residence permit might expire. It is automatically extended until the *[[Ausländerbehörde]]* makes a decision. You can still work, study or freelance while you wait.
+
+**[If your current residence permit expires ➞](/guides/residence-permit#if-your-visa-or-residence-permit-expires)**
+
 ## If you move
 
-Your residence permit lets you live anywhere in Germany, not just in the city where you got it.
+Your residence permit lets you live anywhere in Germany, not just in the city where you got it. You do not need permission to move.
 
 Your address is written on your residence permit. If you move, bring your residence permit to your *[[Anmeldung]]* appointment. They will put a sticker with your new address on your residence permit.[^37] You will not get a new residence card.
 
