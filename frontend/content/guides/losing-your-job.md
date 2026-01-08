@@ -159,7 +159,12 @@ Your employer is required to give you an *Urlaubsbescheinigung*, but you must as
 
 ### Get all other documents
 
-You must get your [salary tax](/glossary/Lohnsteuer) statement (*[[Lohnsteuerbescheinigung]]*) and your last pay slip (*[[Gehaltsabrechnung]]* or *Lohnabrechnung*).[^27] You should get them shortly after your last paycheck. The *Agentur für Arbeit* might ask for them. These documents help the *Agentur für Arbeit* calculate your [unemployment benefits](/glossary/ALG%20I).
+Your employer will give you these documents after your last paycheck:[^27]
+
+- [Salary tax](/glossary/Lohnsteuer) statement (*[[Lohnsteuerbescheinigung]]*)
+- Last pay slip (*[[Gehaltsabrechnung]]* or *Lohnabrechnung*).
+
+You need these documents to apply for [unemployment benefits](/glossary/ALG%20I), and to make a [tax declaration](/glossary/Steuererklärung).
 
 ## After you stop working
 
