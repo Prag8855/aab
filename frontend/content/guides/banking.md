@@ -55,7 +55,7 @@ Germans use 4 payment methods: bank transfers, cash, Girocard and Visa/Mastercar
 
 ### Bank transfers
 
-In the European Union, bank transfers are free. It's the **standard way to send money** to other people. Bank transfers take 1 to 3 days, but instant transfers are also possible. Some banks offer free instant transfers. Others charge a small fee like €0.50.
+In the European Union, you can make instant [SEPA transfers](/glossary/SEPA-Überweisung) for free. It's the **standard way to send money** to other people.
 
 A company can regularly take money from your bank account with a direct debit authorisation (*[[SEPA-Lastschriftmandat]]*). People often pay bills and taxes that way.
 
