@@ -219,7 +219,7 @@ Your landlord can refuse to give you a *Mietschuldenfreiheitsbescheinigung*. Som
 
 ## Checklist
 
-- [ ] [Give a cancellation letter](/guides/moving-out) to your landlord
+- [ ] [End your lease](#end-your-lease)
 - [ ] [Cancel or move your contracts](#cancel-or-move-your-contracts)
     - [ ] Electricity contract
     - [ ] Phone contract

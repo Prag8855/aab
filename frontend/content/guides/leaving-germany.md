@@ -24,7 +24,7 @@ This guide explains how to prepare to leave Germany, step by step.
         - [ ] [Salary tax statement](/guides/losing-your-job#get-all-other-documents) (*[[Lohnsteuerbescheinigung]]*)
 - [ ] **[Move out of your apartment](/guides/moving-out)**  
     Most leases have a 3-month [notice period](/glossary/Kündigungsfrist). Your landlord might let you leave sooner if you find a new tenant for your apartment.
-    - [ ] [Give a cancellation letter](/guides/moving-out) to your landlord
+    - [ ] [End your lease](/guides/moving-out#end-your-lease)
     - [ ] [Clean or repaint the apartment](/guides/moving-out#repaint-the-apartment)
     - [ ] [Complete the handover](/guides/moving-out#complete-the-handover)
         - [ ] [Give your apartment keys back](/guides/moving-out#return-the-keys)
@@ -40,17 +40,43 @@ This guide explains how to prepare to leave Germany, step by step.
     - [ ] [Deregister for TV tax](/guides/gez-rundfunkbeitrag#how-to-stop-paying)
     - [ ] [Deregister for the dog tax](https://service.berlin.de/dienstleistung/324161/)
 - [ ] **[Cancel your contracts](/guides/moving-out#cancel-or-move-your-contracts)**  
-    Most contracts have a [notice period](/glossary/Kündigungsfrist). You can end some contracts sooner if you leave Germany. You might need to get an *[[Abmeldebescheinigung]]* first.
+    Most contracts have a [notice period](/glossary/Kündigungsfrist). You can end some contracts sooner because you leave Germany. You might need to get an *[[Abmeldebescheinigung]]* first.
+    - [ ] [Health insurance](#health-insurance)
     - [ ] Utilities
     - [ ] Phone and internet
     - [ ] [Deutschland Ticket](/guides/deutschland-ticket#how-to-cancel-a-deutschland-ticket) or public transit pass
     - [ ] Insurances
+- [ ] **Disenrol from university**  
+    Tell your university. They might refund your tuition fees and semester ticket.[^12] Your university will tell your health insurer, and your [public health insurance](/glossary/gesetzliche%20Krankenversicherung) will become more expensive.
+    - [ ] Get a confirmation of disenrolment[^10]
+    - [ ] Get a transcript of records[^11] (*Leistungsübersicht*)
+- [ ] **Gather important documents**
+    - [ ] Medical records
+        - [ ] [Vaccination pass](/glossary/Impfausweis)
+    - [ ] Tax returns
+    - [ ] Birth certificates
+    - [ ] Marriage certificates and divorce documents[^5]
+    - [ ] University documents
+    - [ ] [International Driving Permit](/guides/international-driving-permit-germany)
+- [ ] **[Close your business](#close-your-business)**
 
-### Cancel your health insurance
+**Keep your bank account.** You will need it to get your [apartment deposit](/glossary/Kaution), your last paycheck, your yearly bonus, and your tax return.
+
+**Keep your phone number.** You might need it for online banking and two-factor authentication.
+
+### Money and investments
+
+Use [Wise](/out/wise) to move your money to another country.
+
+https://www.juhn.com/fachwissen/internationales-steuerrecht/wegzugsteuer-bei-investmentfonds/
+
+### Health insurance
 
 Cancel your health insurance. You need an *[[Abmeldebescheinigung]]* for this.[^7]
 
-If you have private health insurance, and you plan to return to Germany, get *[[Anwartschaftsversicherung]]*.
+Your private or expat health insurance might work in another country. Check with your health insurer.
+
+If you have [private health insurance](/glossary/private%20Krankenversicherung), and you plan to return to Germany, get *[[Anwartschaftsversicherung]]*.
 
 ### Close your business
 
@@ -59,41 +85,16 @@ If you have private health insurance, and you plan to return to Germany, get *[[
 - [ ] **Pay the exit tax**  
     When you move a corporation out of Germany, you sometimes need to [pay an exit tax](https://www.winheller.com/en/tax-law-tax-advisory/international-tax-planning/exit-taxation.html).[^1] There are ways to avoid this.
 
-### Move your money
-
-https://www.juhn.com/fachwissen/internationales-steuerrecht/wegzugsteuer-bei-investmentfonds/
-
-### Gather important documents
-
-- From your landlord
-    - [ ] *[[Mietschuldenfreiheitsbescheinigung]]*
-    - [ ] *[[Übergabeprotokoll]]*
-    - [ ] *[[Nebenkostenabrechnung]]*
-- From the Bürgeramt
-    - [ ] *[[Abmeldebescheinigung]]*
-    - [ ] [International driving permit](/glossary/Internationaler%20Führerschein)
-- From your employer
-    - [ ] Letter of reference (*[[Arbeitszeugnis]]*)
-    - [ ] Employment certificate (*[[Arbeitsbescheinigung]]*)
-    - [ ] Vacation certificate (*[[Urlaubsbescheinigung]]*)
-    - [ ] Last pay slip (*[[Gehaltsabrechnung]]* or *Lohnabrechnung*)
-    - [ ] Salary tax statement (*[[Lohnsteuerbescheinigung]]*)
-- From your doctor
-    - [ ] [Vaccination pass](/glossary/Impfausweis)
-- Other documents
-    - [ ] Tax returns
-    - [ ] Birth certificates
-    - [ ] Marriage certificates and divorce documents[^5]
-    - [ ] School documents
-
 ## After you leave Germany
 
-- [ ] Get your last *[[Nebenkostenabrechnung]]*
-- [ ] **[Get your apartment deposit back](/guides/mietkaution#how-to-get-your-kaution-back)**
+- [ ] **[Get your last bonus](/guides/losing-your-job#what-happens-to-your-pay-and-bonuses)**  
+    If you leave a company before the end of the year, they must still give you your yearly bonus.
+- [ ] **[Get your apartment deposit back](/guides/mietkaution#how-to-get-your-kaution-back)**  
+    Your landlord can take up to 12 months to return your deposit. After you receive your last *[[Nebenkostenabrechnung]]*, you should get the rest of your deposit back.
+- [ ] **[Get your pension payments back](/guides/pension-payments-refund)**  
+    [Public pension insurance](/glossary/gesetzliche%20Rentenversicherung) costs {{RV_EMPLOYEE_CONTRIBUTION}}% of your income. If you leave Germany, you can get that money back.
 - [ ] **Make a [tax declaration](/glossary/Steuererklärung)**  
-    If you move for work, your relocation costs are [tax-deductible](/glossary/steuerlich%20absetzbar).
-- [ ] **[Get your pension payments back](/guides/pension-payments-refund)**
-- [ ] Get your last bonus
+    If you move for work, your relocation costs are [tax-deductible](/glossary/steuerlich%20absetzbar). Since you stopped working in the middle of the year, you probably paid too much [salary tax](/glossary/Einkommensteuer). Most people get money back.[^8]
 
 ## What keeps working
 
@@ -101,7 +102,7 @@ These things keep working even if you don't live in Germany:
 
 - **Public pension**  
     You can receive [public pension](/glossary/gesetzliche%20Rentenversicherung) payments abroad.[^6] If you don't qualify for a German pension, you can [get a refund for your pension payments](/guides/pension-payments-refund).
-- **Unemployment benefits**  
+- **[Unemployment benefits](/guides/unemployment-benefits)**  
     If you leave Germany to find a job, you can get [[ALG I]] in another country for up to 6 months.[^4]
 
 ## What stops working
@@ -117,10 +118,6 @@ Exceptions:
 - Studying abroad
 - Temporary job placement
 
-What keeps working?
-
-- Pension
-
 ## Returning to Germany
 
 - Anwartschaftsversicherung
@@ -132,21 +129,14 @@ What keeps working?
 
 ---
 
-- [ ] Close your bank account?
-- [ ] Other insurances
 - [ ] Investments
-- [ ] Life insurance  
-    You can sometimes take it with you
-- Bank: mind the last paycheck
+- [ ] Life insurance - You can sometimes take it with you
 - Work: Christmas bonus?
 - Deregister your dog?
 - Anything with children?
 - KSK?
 - Students?
-    - disenroll from university
-    - get a confirmation of disenrollment
     - blocked account?
-    - transcript of record
     - [ECTS](https://www.uni-mannheim.de/en/academics/coming-to-mannheim/exchange-students/before-you-leave-mannheim/#c34802) - European Credit Transfer System
 - Children?
     - Kita
@@ -179,3 +169,8 @@ What keeps working?
 [^5]: [resartus.de](https://resartus.de/auswandern-aus-deutschland-welche-dokumente-sind-zum-auswandern-noetig/#:~:text=ehefahigkeitszeugnis%2C%20eheurkunde%20und%20scheidungsurteil) (2025)
 [^6]: [grenzenlos-sicher.de](https://www.grenzenlos-sicher.de/post/abmelden-aus-deutschland-2025#:~:text=keine%20direkten%20auswirkungen%20auf%20deine%20rentenzahlungen) (2025)
 [^7]: Citation needed - Abmeldebescheinigung to cancel health insurance
+[^8]: Citation needed - Most people get money back with a tax declaration
+[^9]: Citation needed - Difficulty of closing UG or GmbH
+[^10]: [hwr-berlin.de](https://www.hwr-berlin.de/en/study/studying-at-the-hwr-berlin/organizing-your-degree/applying-for-disenrolment) (January 2026)
+[^11]: [uni-goettingen.de](https://www.uni-goettingen.de/de/was+ist+ein+%22transcript+of+records%22%3F/216488.html) (January 2026), [FU Berlin](https://www.polsoz.fu-berlin.de/studium/pruefungsbuero/studiengaenge/ma_studiengaenge/ma_gender_intersektionalitaet-und-politik/Wie-erhalte-ich-ein-Transcript-of-Records_.html) (January 2026), [h-da.de](https://h-da.de/en/disenrollment) (January 2026)
+[^12]: [h-da.de](https://h-da.de/en/ssc/semester-fee) (January 2026), [uni-wuerzburg.de](https://www.uni-wuerzburg.de/en/studying-at-jmu/studienangelegenheiten/beitraegeundgebuehren/fee-refunds/) (January 2026)
