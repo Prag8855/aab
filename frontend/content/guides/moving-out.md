@@ -11,7 +11,7 @@ This guide shows you what you must do when you move out of your apartment in Ger
 
 ## End your lease
 
-You must end your lease in writing. Send a cancellation letter (*[[Kündigungsschreiben]]*) to your landlord. All the tenants who signed the lease must sign the cancellation letter. Send the letter by [registered mail](/glossary/Einschreibebrief). An email is not enough.[^3]
+You must end your lease in writing. Send a cancellation letter (*[[Kündigungsschreiben]]*) to your landlord. All the tenants who signed the lease must sign the cancellation letter. Send the letter by [registered mail](/glossary/Einschreibebrief). An email or instant message is not enough.[^3]
 
 **[Cancellation letter generator](https://www.immobilienscout24.de/umzugsexpose/musterbrief-kuendigung.html)** (in German) - ImmobilenScout24
 
