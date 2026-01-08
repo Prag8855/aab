@@ -163,11 +163,15 @@ If you are sick, you can take sick days. You might need a [sick note](/glossary/
 
 **[Sick leave when unemployed ➞](/guides/sick-leave#sick-leave-when-unemployed)**
 
+### Leaving Germany
+
+If you move to another country to look for work, you can get *[[ALG I]]* for up to 6 months.[^36]
+
+**[How to leave Germany ➞](/guides/leaving-germany)**
+
 ## What to do next
 
-Look for work. ALG I depends on it.
-
-**[How to find a job in Berlin ➞](/guides/find-a-job-in-berlin)**
+**[Find a job in Berlin ➞](/guides/find-a-job-in-berlin)**
 
 [^0]: [Arbeitsagentur](https://www.arbeitsagentur.de/arbeitslos-arbeit-finden/arbeitslosengeld/finanzielle-hilfen/arbeitslosengeld-anspruch-hoehe-dauer), [betanet.de](https://www.betanet.de/arbeitslosengeld.html), [Red Tape Translation](https://redtapetranslation.com/what-to-do-when-you-lose-your-job-in-germany/)
 [^1]: [Red Tape Translation](https://redtapetranslation.com/what-to-do-when-you-lose-your-job-in-germany/)
@@ -205,3 +209,4 @@ Look for work. ALG I depends on it.
 [^33]: [Zusatzblatt example](/images/aufenthaltstitel-zusatzblat-back-web.png), Ina Bozhilova at [Noah Mobility](/out/noah-mobility) (July 2023)
 [^34]: Ina Bozhilova at [Noah Mobility](/out/noah-mobility) (July 2023)
 [^35]: [Agentur für Arbeit](https://www.arbeitsagentur.de/lexikon/minijob#:~:text=erwerben%20keinen%20anspruch%20auf%20arbeitslosengeld) (February 2025)
+[^36]: Citation needed - Copy sources from leaving-germany guide
