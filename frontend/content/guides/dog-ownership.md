@@ -43,7 +43,7 @@ If you have a *[[Hundeführerschein]]*, your dog must also wear its green tag (*
 
 You must [register dogs of dangerous breeds at the *Ordnungsamt*](https://service.berlin.de/dienstleistung/326263/). Pitbulls, American Staffordshire Terriers and Bull Terriers are considered dangerous breeds.[^3]
 
-This costs €{{ORDNUNGSAMT_DANGEROUS_DOG_FEE|cur}}. If you move, you must also report the address change. If you leave Berlin, you must [deregister your dog](https://service.berlin.de/dienstleistung/326257/) at the *Ordnungsamt*.
+This costs €{{ORDNUNGSAMT_DANGEROUS_DOG_FEE|cur}}. If you move, you must also report the address change. If you [leave Berlin](/guides/leaving-germany), you must [deregister your dog](https://service.berlin.de/dienstleistung/326257/) at the *Ordnungsamt*.
 
 **[Register a dangerous breed](https://service.berlin.de/dienstleistung/326263/)** - Berlin.de
 
