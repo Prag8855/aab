@@ -19,6 +19,7 @@ from forms.serializers import (
     TaxIdRequestFeedbackReminderSerializer,
 )
 from forms.utils import readable_date_range, readable_duration
+from ipware import get_client_ip
 from rest_framework import mixins, permissions, viewsets
 from rest_framework.exceptions import ValidationError as DRFValidationError
 from rest_framework.serializers import as_serializer_error
@@ -38,12 +39,8 @@ class NewsletterSignupView(APIView):
     """
 
     def post(self, request):
-        try:
-            logger.error(request.data)
-        except:
-            logger.exception("FUCK")
-
         email = request.data.get("email")
+        ip, _ = get_client_ip(request)
 
         if not email:
             return Response(status=400)
@@ -57,12 +54,20 @@ class NewsletterSignupView(APIView):
                 "Authorization": f"Token {settings.BUTTONDOWN_API_KEY}",
                 "Content-Type": "application/json",
             },
-            json={"email_address": email},
+            json={
+                "email_address": email,
+                "ip_address": ip,
+            },
             timeout=10,
         )
 
-        if response.status_code != 200:
-            logger.error("Buttondown request returned status %s. %s" % (response.status_code, response.json()))
+        if response.ok:
+            logger.info(f"Newsletter subscriber added: {request.data['email']}")
+        else:
+            logger.error(
+                "Failed to add subscriber. Buttondown request returned status %s. %s"
+                % (response.status_code, response.json())
+            )
 
         return Response(
             response.json() if response.content else None,
