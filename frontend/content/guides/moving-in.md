@@ -95,7 +95,7 @@ Sign an internet contract as soon as possible. It can take a few weeks for the c
 
 Use [Verivox](/out/verivox-internet) or [Check24](/out/check24-internet) to compare internet service providers.
 
-If you already have a contract at your old address, you can transfer it to your new address. There is usually a moving fee. For example, Vodafone charges €40.
+If you already have a contract at your old address, you can transfer it to your new address. There is usually a moving fee of €20 to €70.
 
 If your current internet company can't service your new apartment, you can cancel your contract and find another company. If they can service your new apartment, you can't cancel your contract. You must stay with the same company.
 

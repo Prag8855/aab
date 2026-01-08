@@ -9,7 +9,7 @@ Related_guides:
     guides/moving-out.md
 ---
 
-The *Mietschuldenfreiheitsbescheinigung* is a letter that you get from your landlord when you [move out](/guides/moving-out). It confirms that you don't owe money to your landlord. You might need it to [apply for an apartment](/guides/find-a-flat-in-berlin#required-documents). It has no specific format.
+The *Mietschuldenfreiheitsbescheinigung* is a letter from your landlord. You get it when you [move out](/guides/moving-out). It confirms that you don't owe money to your landlord. You might need it to [apply for an apartment](/guides/find-a-flat-in-berlin#required-documents). It has no specific format.
 
 Your landlord can refuse to give you a *Mietschuldenfreiheitsbescheinigung*. They can charge a fee for it.[^1]
 

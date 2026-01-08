@@ -54,7 +54,7 @@ Your internet, telephone and insurance contracts don't end because you move. You
 
 ### If you stay in Germany
 
-Your **internet contract** usually moves with you. There is usually a moving fee of €20 to €70 moving fee.[^11] Your contract continues, but it's not extended.[^37]
+Your **internet contract** usually moves with you. There is usually a moving fee of €20 to €70.[^11] Your contract continues, but it's not extended.[^37]
 
 You can end your contract with a 1 month notice if...
 
@@ -218,6 +218,8 @@ Your landlord can refuse to give you a *Mietschuldenfreiheitsbescheinigung*. Som
 **[Mietschuldenfreiheitsbescheinigung template ➞](/documents/Mietschuldenfreiheitsbescheinigung-muster.pdf)**
 
 ## Checklist
+
+If you are moving to another country, see the [checklist for leaving Germany](/guides/leaving-germany).
 
 - [ ] Give a [cancellation letter](/glossary/Kündigungsschreiben) to your landlord
 - [ ] Cancel or move your contracts
