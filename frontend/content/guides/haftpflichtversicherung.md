@@ -108,7 +108,7 @@ Don't get the cheapest insurance. Pick good coverage with a good insurance compa
 - **Yearly payments** are cheaper than monthly payments[^21]
 - **Combine liability and [household insurance](/glossary/Hausratversicherung)** to get a lower price.[^22]
 - **Choose a higher deductible** (*[[Selbstbeteiligung]]*). If your deductible is higher, your insurance is cheaper. The price difference is small, so it's better to pay more, and have a small deductible.[^23]
-- **Declare it on your [tax return](/glossary/Steuererklärung)**. Liability insurance payments are [tax-deductible](/glossary/steuerlich%20absetzbar).[^24]
+- **Include it in your [tax declaration](/glossary/Steuererklärung)**. Liability insurance payments are [tax-deductible](/glossary/steuerlich%20absetzbar).[^24]
 
 ### Liability insurance for English speakers
 
