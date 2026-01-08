@@ -263,7 +263,7 @@ When you lose your job, you stay insured. The coverage stays the same. If you ge
 
 ## What happens to your pay and bonuses
 
-You get paid until your last day of work, at the end of your [notice period](/glossary/Kündigungsfrist). Your employer must pay your full salary, even if you have no work to do.[^23]
+You get paid until the end of your [notice period](/glossary/Kündigungsfrist), until your last day of work. Your employer must pay your full salary, even if you have no work to do.[^23]
 
 After your last day of work, you might get severance pay or [unemployment benefits](/glossary/ALG%20I). This gives you financial support while you [find another job](/guides/find-a-job-in-berlin).
 
