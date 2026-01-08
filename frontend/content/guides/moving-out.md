@@ -219,24 +219,23 @@ Your landlord can refuse to give you a *Mietschuldenfreiheitsbescheinigung*. Som
 
 ## Checklist
 
-If you are moving to another country, see the [checklist for leaving Germany](/guides/leaving-germany).
-
-- [ ] Give a [cancellation letter](/glossary/Kündigungsschreiben) to your landlord
-- [ ] Cancel or move your contracts
-    - [ ] Cancel or move your electricity contract
-    - [ ] Cancel or move your phone contract
-    - [ ] Cancel or move your internet contract
+- [ ] [Give a cancellation letter](/guides/moving-out) to your landlord
+- [ ] [Cancel or move your contracts](#cancel-or-move-your-contracts)
+    - [ ] Electricity contract
+    - [ ] Phone contract
+    - [ ] Internet contract
     - [ ] Deregister for the [TV tax](/glossary/Rundfunkbeitrag)
-    - [ ] Deregister for the [dog tax](/glossary/Hundesteuer)
-- [ ] Complete the handover
-    - [ ] Give your keys to the landlord
-    - [ ] Read your electricity meter
-    - [ ] Sign a handover document (*[[Übergabeprotokoll]]*)
-- [ ] Clean or repaint the apartment
-- [ ] Change your address
-- [ ] Get your deposit (*[[Kaution]]*) back
-- [ ] Get a *[[Mietschuldenfreiheitsbescheinigung]]*
+    - [ ] Deregister for the [dog tax](/glossary/Hundesteuer) (if you leave Berlin)
+- [ ] [Clean or repaint the apartment](/guides/moving-out#repaint-the-apartment)
+- [ ] [Complete the handover](#complete-the-handover)
+    - [ ] [Give your apartment keys back](/guides/moving-out#return-the-keys)
+    - [ ] [Read your electricity meter](/guides/moving-out#read-the-electricity-meter)
+    - [ ] [Sign a handover document](/guides/moving-out#sign-the-ubergabeprotokoll) (*[[Übergabeprotokoll]]*)
+    - [ ] [Get a *Mietschuldenfreiheitsbescheinigung*](/guides/moving-out#get-a-mietschuldenfreiheitsbescheinigung)
+- [ ] [Get your deposit back](/guides/moving-out#get-your-deposit-back)
 - [ ] Deduct your moving expenses in your next [tax declaration](/glossary/Steuererklärung)
+
+If you are moving to another country, see the [checklist for leaving Germany](/guides/leaving-germany).
 
 ## What to do next
 

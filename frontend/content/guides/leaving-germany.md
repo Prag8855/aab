@@ -11,27 +11,28 @@ This guide explains how to prepare to leave Germany, step by step.
 ## Before you leave Germany
 
 - [ ] **[Quit your job](/guides/losing-your-job)**  
-    Most jobs have a long [notice period](/glossary/Kündigungsfrist). You can negotiate a shorter notice period with your employer.
-    - [ ] Give your [resignation letter](/glossary/Kündigungsschreiben)
-    - [ ] Register at the *[[Agentur für Arbeit]]*
-    - [ ] Tell the *[[Ausländerbehörde]]*
-    - [ ] Tell your health insurance
+    Most jobs have a 4-week [notice period](/glossary/Kündigungsfrist), but it can be longer. You can negotiate a shorter notice period with your employer.
+    - [ ] [Give your resignation letter](/guides/losing-your-job#give-your-resignation-letter)
+    - [ ] [Register at the *Agentur für Arbeit*](/guides/losing-your-job#register-as-unemployed)
+    - [ ] [Tell the *Ausländerbehörde*](/guides/losing-your-job#tell-the-auslanderbehorde)
+    - [ ] [Tell your health insurance](/guides/losing-your-job#tell-your-health-insurance)
     - [ ] Get all documents from your employer
-        - [ ] Letter of reference (*[[Arbeitszeugnis]]*)
-        - [ ] Employment certificate (*[[Arbeitsbescheinigung]]*)
-        - [ ] Vacation certificate (*[[Urlaubsbescheinigung]]*)
-        - [ ] Last pay slip (*[[Gehaltsabrechnung]]* or *Lohnabrechnung*)
-        - [ ] Salary tax statement (*[[Lohnsteuerbescheinigung]]*)
+        - [ ] [Letter of reference](/guides/losing-your-job#get-a-letter-of-reference) (*[[Arbeitszeugnis]]*)
+        - [ ] [Employment certificate](/guides/losing-your-job#get-an-arbeitsbescheinigung) (*[[Arbeitsbescheinigung]]*)
+        - [ ] [Vacation certificate](/guides/losing-your-job#get-an-urlaubsbescheinigung) (*[[Urlaubsbescheinigung]]*)
+        - [ ] [Last pay slip](/guides/losing-your-job#get-all-other-documents) (*[[Gehaltsabrechnung]]* or *Lohnabrechnung*)
+        - [ ] [Salary tax statement](/guides/losing-your-job#get-all-other-documents) (*[[Lohnsteuerbescheinigung]]*)
 - [ ] **[Move out of your apartment](/guides/moving-out)**  
-    Most leases have a 3-month [notice period](/glossary/Kündigungsfrist). Your landlord might end your lease sooner if you help them find a new tenant.
-    - [ ] Give a [cancellation letter](/glossary/Kündigungsschreiben) to your landlord
-    - [ ] Give your keys to the landlord
-    - [ ] [Read your electricity meter](/guides/moving-out#read-the-electricity-meter)
-    - [ ] Sign a handover document (*[[Übergabeprotokoll]]*)
-    - [ ] Clean or repaint the apartment
-    - [ ] Get your [deposit](/glossary/Kaution) back
-    - [ ] Get a *[[Mietschuldenfreiheitsbescheinigung]]*
-    - [ ] Save invoices for your moving expenses
+    Most leases have a 3-month [notice period](/glossary/Kündigungsfrist). Your landlord might let you leave sooner if you find a new tenant for your apartment.
+    - [ ] [Give a cancellation letter](/guides/moving-out) to your landlord
+    - [ ] [Clean or repaint the apartment](/guides/moving-out#repaint-the-apartment)
+    - [ ] [Complete the handover](/guides/moving-out#complete-the-handover)
+        - [ ] [Give your apartment keys back](/guides/moving-out#return-the-keys)
+        - [ ] [Read your electricity meter](/guides/moving-out#read-the-electricity-meter)
+        - [ ] [Sign a handover document](/guides/moving-out#sign-the-ubergabeprotokoll) (*[[Übergabeprotokoll]]*)
+        - [ ] [Get a *Mietschuldenfreiheitsbescheinigung*](/guides/moving-out#get-a-mietschuldenfreiheitsbescheinigung)
+    - [ ] [Get your deposit back](/guides/moving-out#get-your-deposit-back)
+    - [ ] Save invoices for your [tax declaration](/glossary/Steuererklärung)
 - [ ] **[Deregister your address](/guides/abmeldung-deregister-in-berlin)** (*[[Abmeldung]]*)  
     You will get a [deregistration certificate](/glossary/Abmeldebescheinigung). Use it to cancel contracts with a shorter [notice period](/glossary/Kündigungsfrist).
     - [ ] [Change your address](/guides/address-change#tell-everyone)
@@ -39,7 +40,7 @@ This guide explains how to prepare to leave Germany, step by step.
     - [ ] [Deregister for TV tax](/guides/gez-rundfunkbeitrag#how-to-stop-paying)
     - [ ] [Deregister for the dog tax](https://service.berlin.de/dienstleistung/324161/)
 - [ ] **[Cancel your contracts](/guides/moving-out#cancel-or-move-your-contracts)**  
-    Most contracts have a notice period. If you leave Germany, the notice period is usually shorter. You might need to get an *[[Abmeldebescheinigung]]* first.
+    Most contracts have a [notice period](/glossary/Kündigungsfrist). You can end some contracts sooner if you leave Germany. You might need to get an *[[Abmeldebescheinigung]]* first.
     - [ ] Utilities
     - [ ] Phone and internet
     - [ ] [Deutschland Ticket](/guides/deutschland-ticket#how-to-cancel-a-deutschland-ticket) or public transit pass

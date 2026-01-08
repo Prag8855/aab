@@ -274,19 +274,20 @@ During your notice period, you can still go on [sick leave](/guides/sick-leave).
 
 ## Checklist
 
-- [ ] If you quit, give your resignation letter
-- [ ] Register as a job seeker at the *[[Agentur für Arbeit]]*
-- [ ] Register as unemployed at the *[[Agentur für Arbeit]]*
-- [ ] If you have a [residence permit](/glossary/Aufenthaltstitel), tell the *[[Ausländerbehörde]]*
-- [ ] Tell your health insurance
+- [ ] If you quit, [give your resignation letter](#give-your-resignation-letter)
+- [ ] [Register as a job seeker](#register-as-a-job-seeker) at the *[[Agentur für Arbeit]]*
+- [ ] [Register as unemployed](#register-as-unemployed) at the *[[Agentur für Arbeit]]*
+- [ ] If you have a [residence permit](/glossary/Aufenthaltstitel), [tell the *Ausländerbehörde*](#tell-the-auslanderbehorde)
+- [ ] [Tell your health insurance](#tell-your-health-insurance)
 - [ ] Get all documents from your employer
-    - [ ] Letter of reference (*[[Arbeitszeugnis]]*)
-    - [ ] Employment certificate (*[[Arbeitsbescheinigung]]*)
-    - [ ] Vacation certificate (*[[Urlaubsbescheinigung]]*)
-    - [ ] Last pay slip (*[[Gehaltsabrechnung]]* or *Lohnabrechnung*)
-    - [ ] Salary tax statement (*[[Lohnsteuerbescheinigung]]*)
+    - [ ] [Letter of reference](#get-a-letter-of-reference) (*[[Arbeitszeugnis]]*)
+    - [ ] [Employment certificate](#get-an-arbeitsbescheinigung) (*[[Arbeitsbescheinigung]]*)
+    - [ ] [Vacation certificate](#get-an-urlaubsbescheinigung) (*[[Urlaubsbescheinigung]]*)
+    - [ ] [Last pay slip](#get-all-other-documents) (*[[Gehaltsabrechnung]]* or *Lohnabrechnung*)
+    - [ ] [Salary tax statement](#get-all-other-documents) (*[[Lohnsteuerbescheinigung]]*)
 - [ ] Make a [tax declaration](/glossary/Steuererklärung)
-- [ ] [Get a pension payments refund](/guides/pension-payments-refund) (if you [leave Germany](/guides/leaving-germany))
+
+If you are moving to another country, see the [checklist for leaving Germany](/guides/leaving-germany).
 
 ## Need help?
 
