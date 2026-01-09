@@ -112,7 +112,8 @@
 							age: this.age,
 							childrenCount: this.childrenCount
 						}).map(o => o.total.personalContribution).sort();
-						const maxSavings = this.result.healthInsurance - options[0];
+						const privatePrice = options[0] * (this.useMonthlyIncome ? 1 : 12);
+						const maxSavings = this.result.healthInsurance - privatePrice;
 						if(maxSavings > 0){
 							return maxSavings;
 						}
@@ -702,7 +703,7 @@
 	<template v-if="privateHealthInsuranceSavings">
 		<hr>
 		<p>
-			You can save up to <eur :amount="privateHealthInsuranceSavings"></eur></strong> per month if you <a target="_blank" href="/guides/german-health-insurance#private-health-insurance">switch to private health insurance</a>.
+			You can save up to <eur :amount="privateHealthInsuranceSavings"></eur></strong> per {{ monthOrYear }} if you <a target="_blank" href="/guides/german-health-insurance#private-health-insurance">switch to private health insurance</a>.
 		</p>
 	</template>
 {% endraw %}
