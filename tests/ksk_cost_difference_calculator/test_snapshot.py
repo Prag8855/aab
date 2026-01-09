@@ -1,7 +1,7 @@
 import pytest
 
 
-@pytest.fixture(scope="function", autouse=True)
+@pytest.fixture
 def ksk_cost_difference_calculator(page):
     page.goto("/tests/component/ksk-cost-difference-calculator")
     return page.get_by_role("group", name="KSK cost calculator")

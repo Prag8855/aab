@@ -1,9 +1,10 @@
 from playwright.sync_api import expect
 import json
+
 import pytest
 
 
-@pytest.fixture(scope="function", autouse=True)
+@pytest.fixture
 def pension_refund_calculator(page):
     page.goto("/tests/component/pension-refund-calculator")
     return page.get_by_role("group", name="Pension refund calculator")

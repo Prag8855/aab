@@ -2,7 +2,7 @@ from pathlib import Path
 import pytest
 
 
-DEVICE_CONFIGS = {
+devices = {
     "mobile": {  # iPhone 13 Mini
         "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0 Mobile/15E148 Safari/604.1",
         "viewport": {"width": 375, "height": 629},
@@ -21,21 +21,28 @@ DEVICE_CONFIGS = {
 }
 
 
-@pytest.fixture(scope="function", autouse=True)
+@pytest.fixture(autouse=True)
 def set_default_timeout(page):
+    """
+    Enforce 2-second default timeout on all Playwright tests
+    """
     page.set_default_timeout(2000)
 
 
-@pytest.fixture(params=DEVICE_CONFIGS.values(), ids=list(DEVICE_CONFIGS.keys()), scope="session")
-def device_config(request):
-    return request.param
+@pytest.fixture
+def browser_context_args(request, browser_context_args):
+    """
+    Override Playwright's default browser_context_args
+    """
 
+    # Allow pytest.mark.device("mobile")
+    device_id = "desktop"
+    if device_marker := request.node.get_closest_marker("device"):
+        device_id = device_marker.args[0]
 
-@pytest.fixture(scope="session")
-def browser_context_args(browser_context_args, device_config):
     return {
         **browser_context_args,
-        **device_config,
+        **devices[device_id],
         "reduced_motion": "reduce",  # Disable smooth scrolling
         "timezone_id": "Europe/Berlin",
         "locale": "fr-CA",
@@ -43,15 +50,26 @@ def browser_context_args(browser_context_args, device_config):
     }
 
 
-@pytest.fixture(scope="function")
-def test_screenshot(page, assert_snapshot):
-    def test(page, element, remove_focus=True, move_mouse=True):
+@pytest.fixture(
+    params=[
+        pytest.param("mobile", marks=pytest.mark.device("mobile")),
+        pytest.param("tablet", marks=pytest.mark.device("tablet")),
+        pytest.param("desktop", marks=pytest.mark.device("desktop")),
+    ],
+)
+def test_screenshot(request, page, assert_snapshot):
+    """
+    Adds a test_screenshot function that does snapshot testing on multiple devices
+    """
+
+    def test(page, element_to_screenshot, remove_focus=True, move_mouse=True):
         # Blur any focused elements to fix flakiness
         if remove_focus:
             page.evaluate("document.activeElement.blur()")
+        # Move mouse away to avoid hover flakiness
         if move_mouse:
             page.mouse.move(0, 0)
-        assert_snapshot(element.screenshot())
+        assert_snapshot(element_to_screenshot.screenshot())
 
     return test
 

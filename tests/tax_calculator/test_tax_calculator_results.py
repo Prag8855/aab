@@ -3,43 +3,30 @@ import pytest
 import re
 
 
-# Tests run on multiple viewport sizes by default, but it's not necessary for these tests
-@pytest.fixture(
-    params=[
-        {  # Desktop
-            "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 15.6; rv:142.0) Gecko/20100101 Firefox/142.0",
-            "viewport": {"width": 1280, "height": 800},
-            "has_touch": False,
-        }
-    ],
-    scope="session",
-)
-def device_config(request):
-    return request.param
-
-
 @pytest.fixture(scope="session")
-def context(browser, browser_context_args):
-    new_context = browser.new_context(**browser_context_args)
+def session_context(browser):
+    new_context = browser.new_context(ignore_https_errors=True)
     yield new_context
     new_context.close()
 
 
-@pytest.fixture(scope="session")
-def external_tax_calculator(context):
-    page = context.new_page()
+@pytest.fixture(scope="session")  # Reuse the same page for multiple calculations
+def external_tax_calculator(session_context):
+    page = session_context.new_page()
     page.set_default_timeout(5000)
     page.goto("https://www.tk-lex.tk.de/web/guest/rechner/-/ideskproductresources/2006/MIME/7546978/HI7546978.html")
-    return page
+    yield page
+    page.close()
 
 
-@pytest.fixture(scope="session")
-def local_tax_calculator(context):
-    page = context.new_page()
+@pytest.fixture(scope="session")  # Reuse the same page for multiple calculations
+def local_tax_calculator(session_context, base_url):
+    page = session_context.new_page()
     page.set_default_timeout(2000)
-    page.goto("/tests/component/tax-calculator")
+    page.goto(f"{base_url}/tests/component/tax-calculator")
     page.get_by_role("link", name="Show options").click()
-    return page
+    yield page
+    page.close()
 
 
 def get_external_results(
@@ -50,38 +37,44 @@ def get_external_results(
         return Decimal(re.sub(r"[^0-9\,]", "", content).replace(",", ".")).quantize(Decimal("0.01"))
 
     # Period
-    page.locator("#gwt-debug-inPeriod").select_option("Jahr")
+    period_selector = page.locator("select#gwt-debug-inPeriod")
+    if period_selector.is_enabled():
+        period_selector.select_option("Jahr")
 
     # Income
-    page.locator("#gwt-debug-inBrutto").fill(str(income))
+    page.locator("input#gwt-debug-inBrutto").fill(str(income))
 
     # Tax class
     tax_class_label = [None, "I", "II", "III", "IV", "V", "VI"][tax_class]
-    page.locator("#gwt-debug-inTaxSteuerKlasse").select_option(tax_class_label)
+    page.locator("select#gwt-debug-inTaxSteuerKlasse").select_option(tax_class_label)
 
     # Children
-    page.locator("#gwt-debug-inTaxKFB").select_option()
+    page.locator("select#gwt-debug-inTaxKFB").select_option()
 
     pays_more_for_pflegeversicherung = age >= 23 and children_count == 0
-    if page.locator("#gwt-debug-inTaxUsePVZ-input").is_checked() != pays_more_for_pflegeversicherung:
-        page.locator("#gwt-debug-inTaxUsePVZ-input").click()
-    if not pays_more_for_pflegeversicherung:
-        try:
-            page.locator("#gwt-debug-inTaxPVKinder").select_option(str(children_count))
-        except:
-            print("EEEEE", page.locator("#gwt-debug-inTaxPVKinder").evaluate_all("els => els.map(o => o.value)"))
+    if page.locator("input#gwt-debug-inTaxUsePVZ-input").is_checked() != pays_more_for_pflegeversicherung:
+        page.locator("input#gwt-debug-inTaxUsePVZ-input").click()
+
+    children_count_selector = page.locator("select#gwt-debug-inTaxPVKinder")
+    if children_count_selector.is_enabled():
+        if children_count >= 5:
+            children_count_selector.select_option("5 oder mehr")
+        elif children_count == 0:
+            children_count_selector.select_option("0 (Arbeitnehmer < 23 Jahre)")
+        else:
+            children_count_selector.select_option(str(children_count))
 
     # Region
-    page.locator("#gwt-debug-inTaxBula").select_option(
+    page.locator("select#gwt-debug-inTaxBula").select_option(
         {"bb": "Brandenburg", "by": "Bayern", "be-west": "Berlin-West", "be-east": "Berlin-Ost"}[region]
     )
 
     # Church tax
-    if page.locator("#gwt-debug-inTaxUseKiSt-input").is_checked() != bool(religion):
-        page.locator("#gwt-debug-inTaxUseKiSt-input").click()
+    if page.locator("input#gwt-debug-inTaxUseKiSt-input").is_checked() != bool(religion):
+        page.locator("input#gwt-debug-inTaxUseKiSt-input").click()
 
     # Health insurance
-    page.locator("#gwt-debug-inTaxKVZusatzbeitrag").fill(str(zusatzbeitrag).replace(".", ","))
+    page.locator("input#gwt-debug-inTaxKVZusatzbeitrag").fill(str(zusatzbeitrag).replace(".", ","))
 
     return {
         "health_insurance": (get_numerical_value("Krankenversicherung") + get_numerical_value("Pflegeversicherung")),
@@ -147,14 +140,7 @@ def compare_results(actual: dict, expected: dict, tax_calculator_params: dict):
 @pytest.mark.parametrize("income", [10000, 20000, 50000, 110000, 500000])
 @pytest.mark.parametrize("children_count", [0, 1, 2, 6])
 @pytest.mark.parametrize("region", ["be-east", "be-west"])  # ['be-east', 'be-west', 'by', 'bb']
-def test_results(
-    local_tax_calculator,
-    external_tax_calculator,
-    age,
-    children_count,
-    income,
-    region,
-):
+def test_results(local_tax_calculator, external_tax_calculator, age, children_count, income, region):
     tax_calculator_params = {
         "age": age,
         "children_count": children_count,
