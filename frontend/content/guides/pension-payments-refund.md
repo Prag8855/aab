@@ -207,7 +207,7 @@ You will get a refund for all your pension payments.[^37] That's **around {{RV_E
 
 You will not get a refund for your employer's contributions.[^15] If you already got benefits from the Deutsche Rentenversicherung, your refund will be smaller.[^38] You get no refund for the time you received *[[Elterngeld]]* or *[[ALG I]]*.[^32] You can't receive a refund for contributions made in East Germany before June 30 1990.[^16]
 
-If you are self-employed, you will only get 50% of your payments back ({{RV_EMPLOYEE_CONTRIBUTION}}% of your income).[^17] By default, self-employed do not make public pension payments. If you made no pension payments, you got no money back.
+If you were self-employed, you probably made no pension payments, so you get no money back. If you made voluntary pension payments, you only get 50% of your payments back ({{RV_EMPLOYEE_CONTRIBUTION}}% of your income).[^17]
 
 To know the exact amount, [request a *Versicherungsverlauf*](/out/drv-pension-payments-info) from the [[Deutsche Rentenversicherung]]. It will arrive by post in 1 to 3 weeks. If you have an [[eID]], you can [get a *Versicherungsverlauf* instantly](https://kundenportal.deutsche-rentenversicherung.de/od-kundenportal).
 
