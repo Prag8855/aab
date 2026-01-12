@@ -21,3 +21,4 @@ All About Berlin is also on [Reddit](https://reddit.com/r/allaboutberlin), [Link
 - Holidays?
 - Shopping on Sundays?
 - Carnival/Ash Wednesday
+- [A third of immigrants are thinking of leaving](https://www.dezim-institut.de/publikationen/auswanderung-im-fokus-wer-bleibt-wer-will-gehen/)
