@@ -139,7 +139,7 @@ To get *ALG I*, you must...
 - **Try to find work**[^7]  
     You must actively look for another job. You must prove that you are looking at job offers and applying for jobs.
 - **Be reachable**[^8]  
-    You must answer your phone and read your mail. If you travel and you can't read your mail, you must tell the *Agentur für Arbeit*.
+    You must answer your phone and read your mail. If you [travel](#vacations-and-travel) and you can't read your mail, tell the *Agentur für Arbeit*. If you [change your address](/guides/address-change), tell the *Agentur für Arbeit*.
 - **Be flexible**  
     You must be ready to accept jobs that are not exactly what you want.
 
@@ -162,6 +162,10 @@ People often travel without telling the *Agentur für Arbeit*.  If they call you
 If you are sick, you can take sick days. You might need a [sick note](/glossary/Krankschreibung) from a doctor.[^10] When you are healthy again, you must tell the *Agentur für Arbeit*. You can also take time off when your children are sick.
 
 **[Sick leave when unemployed ➞](/guides/sick-leave#sick-leave-when-unemployed)**
+
+### Address change
+
+If you move to another address, tell the *Agentur für Arbeit*. [Forwarding your mail](/guides/address-change#forward-your-mail) is not enough.[^37]
 
 ### Leaving Germany
 
@@ -210,3 +214,4 @@ If you move to another country to look for work, you can get *[[ALG I]]* for up 
 [^34]: Ina Bozhilova at [Noah Mobility](/out/noah-mobility) (July 2023)
 [^35]: [Agentur für Arbeit](https://www.arbeitsagentur.de/lexikon/minijob#:~:text=erwerben%20keinen%20anspruch%20auf%20arbeitslosengeld) (February 2025)
 [^36]: Citation needed - Copy sources from leaving-germany guide
+[^37]: [Arbeitsagentur](https://www.arbeitsagentur.de/arbeitslos-arbeit-finden/arbeitslosengeld/das-muessen-sie-beachten/urlaub-und-umzug#:~:text=nachsendeantrag%20reicht%20nicht%20aus) (January 2026)

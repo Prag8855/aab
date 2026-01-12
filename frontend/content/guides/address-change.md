@@ -78,11 +78,9 @@ You should also tell...
 
 ## Forward your mail
 
-You might still receive letters at your old address. You can pay to forward mail from your old address to your new address. Register for this service **before you move**.
+You might still receive letters at your old address. You ask the *Deutsche Post* to forward mail to your new address. It's called a *Nachsendeantrag*. [Register for this service](https://shop.deutschepost.de/nachsendeservice-beauftragen) before you move. It costs €31.90 for 6 months.{{ fail_on('2027-01-31') }}
 
-**[Deutsche Post](https://shop.deutschepost.de/nachsendeservice-beauftragen)** - €31.90 for 6 months{{ fail_on('2027-01-31') }}
-
-Mail forwarding is **unreliable**. Official mail from the [[Bürgeramt]], [[Finanzamt]] and [[Ausländerbehörde]] is not always forwarded, because they use a different mail service.[^5] Forwarded mail can take a week longer to arrive.[^6] Packages are not forwarded.
+Mail forwarding is **not reliable**. Official mail from the *[[Bürgeramt]]*, *[[Finanzamt]]*, *[[Ausländerbehörde]]* and *[[Agentur für Arbeit]]* is not always forwarded, because they use a different mail service.[^5] Forwarded mail can take a week longer to arrive.[^6] Packages are not forwarded.
 
 ## What to do next
 
@@ -93,7 +91,7 @@ Mail forwarding is **unreliable**. Official mail from the [[Bürgeramt]], [[Fina
 [^2]: [berlin.de](https://service.berlin.de/dienstleistung/120918/)
 [^3]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/dm65o5/adding_co_to_the_anmeldung/f6lq399/), [mietrecht.org](https://www.mietrecht.org/mietvertrag/namen-briefkasten-klingel/#I)
 [^4]: [haufe.de](https://www.haufe.de/immobilien/verwaltung/mietrecht-kosten-fuer-namensschilder-sind-keine-betriebskosten_258_91986.html)
-[^5]: [reddit.com](https://old.reddit.com/r/Munich/comments/1168mai/residence_permit_card_delay_aufenthaltstitel/), [reddit.com](https://old.reddit.com/r/germany/comments/13c04eb/nachsendeauftrag_for_ausl%C3%A4nderbeh%C3%B6rde/), Oliver Frankfurth at Deregistration.de (October 2023), [verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/vertraege-reklamation/kundenrechte/nachsendeauftrag-wann-er-sinnvoll-ist-und-was-sie-beachten-muessen-29305), [paketda.de](https://www.paketda.de/nachsendung/nachsendeauftrag-faq.html#nichtnachsenden), [reddit.com](https://old.reddit.com/r/askberliners/comments/160tdtv/forwarded_mail_not_getting_received/) (August 2023), [reddit.com](https://old.reddit.com/r/germany/comments/1j114cl/forwarding_mail_in_berlin_germany/) (March 2025)
+[^5]: [reddit.com](https://old.reddit.com/r/Munich/comments/1168mai/residence_permit_card_delay_aufenthaltstitel/), [reddit.com](https://old.reddit.com/r/germany/comments/13c04eb/nachsendeauftrag_for_ausl%C3%A4nderbeh%C3%B6rde/), Oliver Frankfurth at Deregistration.de (October 2023), [verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/vertraege-reklamation/kundenrechte/nachsendeauftrag-wann-er-sinnvoll-ist-und-was-sie-beachten-muessen-29305), [paketda.de](https://www.paketda.de/nachsendung/nachsendeauftrag-faq.html#nichtnachsenden), [reddit.com](https://old.reddit.com/r/askberliners/comments/160tdtv/forwarded_mail_not_getting_received/) (August 2023), [reddit.com](https://old.reddit.com/r/germany/comments/1j114cl/forwarding_mail_in_berlin_germany/) (March 2025), [Arbeitsagentur](https://www.arbeitsagentur.de/arbeitslos-arbeit-finden/arbeitslosengeld/das-muessen-sie-beachten/urlaub-und-umzug#:~:text=nachsendeantrag%20reicht%20nicht%20aus) (January 2025)
 [^6]: Kathleen Parker at [Red Tape Translation](https://redtapetranslation.com/) (October 2023)
 [^7]: [vermietet.de](https://www.vermietet.de/magazin/kuddelmuddel-am-klingelschild-wer-ist-fuer-das-anbringen-von-namensschildern-verantwortlich/#:~:text=vermieter%20hat%20recht%20auf%20entfernung%20) (2022)
 [^8]: [Berlin.de](https://www.berlin.de/einwanderung/aufenthalt/elektronischer-aufenthaltstitel/#Adresse) (January 2025), [Reddit](https://old.reddit.com/r/germany/comments/yqviwt/aufenthaltstitel_and_new_address/) (2022)
