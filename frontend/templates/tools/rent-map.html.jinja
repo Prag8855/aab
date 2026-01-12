@@ -24,7 +24,6 @@
 		});
 
 		// Add interactive GeoJSON layer
-		let sampleSize = null;
 		map.on('load', () => {
 			let hoveredFeature = undefined;
 
@@ -35,7 +34,6 @@
 					const rents = mapData.features.map(d => d.properties['median']);
 					const minRent = Math.min(...rents);
 					const maxRent = Math.max(...rents);
-					document.getElementById('sampleSize').innerHTML = Intl.NumberFormat("en-US").format(mapData.features.reduce((total, f) => total + f.properties.count, 0));
 
 					mapData.features.forEach(f => {
 						f.properties.id = f.id;
