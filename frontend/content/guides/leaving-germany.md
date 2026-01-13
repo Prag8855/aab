@@ -31,13 +31,14 @@ This checklist helps you move from Germany to another country, step by step.
 - [ ] **[Move out of your apartment](/guides/moving-out)**
     - [ ] **[End your lease](/guides/moving-out#end-your-lease)**  
         Most leases have a 3-month [notice period](/glossary/Kündigungsfrist). Your landlord might let you leave sooner if you find a new tenant for your apartment.
-    - [ ] [Clean or repaint the apartment](/guides/moving-out#repaint-the-apartment)
-    - [ ] [Complete the handover](/guides/moving-out#complete-the-handover)
+    - [ ] **[Clean or repaint the apartment](/guides/moving-out#repaint-the-apartment)**
+    - [ ] **[Complete the handover](/guides/moving-out#complete-the-handover)**
         - [ ] [Give your apartment keys back](/guides/moving-out#return-the-keys)
         - [ ] [Read your electricity meter](/guides/moving-out#read-the-electricity-meter)
         - [ ] [Sign a handover document](/guides/moving-out#sign-the-ubergabeprotokoll) (*[[Übergabeprotokoll]]*)
         - [ ] [Get a *Mietschuldenfreiheitsbescheinigung*](/guides/moving-out#get-a-mietschuldenfreiheitsbescheinigung)
-    - [ ] [Get your deposit back](/guides/moving-out#get-your-deposit-back)
+    - [ ] **[Get your deposit back](/guides/moving-out#get-your-deposit-back)**  
+        You should get most of your [deposit](/glossary/Kaution) back after you complete the [handover](/glossary/Wohnungsübergabe). Your landlord can keep *part* of your deposit until the last *[[Nebenkostenabrechnung]]*.
     - [ ] Save invoices for your [tax declaration](/glossary/Steuererklärung)
 - [ ] **[Deregister your address](/guides/abmeldung-deregister-in-berlin)** (*[[Abmeldung]]*)  
     You will get a [deregistration certificate](/glossary/Abmeldebescheinigung). Use it to cancel contracts with a shorter [notice period](/glossary/Kündigungsfrist).
@@ -78,7 +79,7 @@ This checklist helps you move from Germany to another country, step by step.
     - [ ] Tax ID
 - [ ] **[Close your business](#close-your-business)**
 
-**Keep your bank account.** You will need it to get your [apartment deposit](/glossary/Kaution), last paycheck, yearly bonus, tax return and [blocked account](/glossary/Pfändungsschutzkonto) payments.
+**Keep your bank account.** You will need it to get your [apartment deposit](/glossary/Kaution), last paycheck, yearly bonus, tax return and [blocked account](/glossary/Pfändungsschutzkonto) payments.[^25]
 
 **Keep your phone number.** You might need it for online banking and two-factor authentication.
 
@@ -124,7 +125,7 @@ If you are part of a *Handwerkskammer*, *Berufskammer* or *Berufsgenossenschaft*
 - [ ] **[Get your last bonus](/guides/losing-your-job#what-happens-to-your-pay-and-bonuses)**  
     If you leave a company before the end of the year, you can usually get part of your yearly bonus.[^4]
 - [ ] **[Get your apartment deposit back](/guides/mietkaution#how-to-get-your-kaution-back)**  
-    Your landlord can take up to 12 months to return your deposit. After you receive your last *[[Nebenkostenabrechnung]]*, you should get the rest of your deposit back.
+    Your landlord can take up to 12 months to return your deposit. After you get your last *[[Nebenkostenabrechnung]]*, you should get the rest of your deposit back.
 - [ ] **[Make a tax declaration](/guides/moving-in#deduct-your-moving-costs)**  
     If you move for work, your relocation costs are [tax-deductible](/glossary/steuerlich%20absetzbar). Since you stopped working in the middle of the year, you probably paid too much [salary tax](/glossary/Einkommensteuer). Most people get money back.[^8]
 - [ ] **[Get your pension payments back](/guides/pension-payments-refund)**  
@@ -223,3 +224,4 @@ You can get free help from...
 [^22]: [deurag.de](https://www.deurag.de/blog/sonderkuendigungsrecht-beim-umzug/#c16426) (January 2026), [§ 20 Abs. 1 StromGVV](https://www.buzer.de/gesetz/7424/a146076.htm), [§ 20 Abs. 1 GasGVV](https://www.buzer.de/gesetz/7425/a146100.htm)
 [^23]: [§ 60 Abs. 2 TKG](https://www.buzer.de/60_TKG.htm), [Telekom](https://www.telekom.de/hilfe/vertrag-rechnung/vertrag/kuendigen/umzug-ausland?samChecked=true) (January 2026), [deurag.de](https://www.deurag.de/blog/sonderkuendigungsrecht-beim-umzug/#:~:text=fur%20internet%2C%20telefon%20und%20handy%20betragt%20meist%20einen%20monat) (January 2026)
 [^24]: [FitX](https://hilfe.fitx.de/hc/de/articles/30715200755613-Kann-ich-meine-Mitgliedschaft-au%C3%9Ferordentlich-k%C3%BCndigen) (January 2026), [John Reed](https://help.johnreed.fitness/hc/de/articles/28868024075921-Wie-kann-ich-meine-John-Reed-Mitgliedschaft-beenden#:~:text=wegen%20krankheit%20oder%20umzug) (January 2026) [Reddit](https://old.reddit.com/r/LegaladviceGerman/comments/1kf548r/kann_ich_meinen_fitnessstudiovertrag_wegen/) (2025), [anwalt.org](https://www.anwalt.org/kuendigung/superfit/#SUPERFIT_Kuendigung_bei_Umzug) (2025), [verbraucherzentrale-brandenburg.de](https://www.verbraucherzentrale-brandenburg.de/infothek/fitnessstudio-kuendigen-so-gehts#:~:text=und%20wird%20nur%20aus%20kulanz%20gewahrt) (April 2025)
+[^25]: [evz.de](https://www.evz.de/finanzen-versicherungen/umzug-ins-eu-ausland.html#:~:text=ist%20es%20nicht%20ratsam%2C%20ihr%20bestehendes%20girokonto%20zu%20kundigen) (2024)

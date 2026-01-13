@@ -117,12 +117,12 @@ Renovation expenses are [tax-deductible](/glossary/steuerlich%20absetzbar).
 
 When you are ready to move out, your landlord will meet you to...
 
-- Inspect the apartment
-- Take your apartment keys
-- Read the electricity meter
-- Sign the handover document (*[[Übergabeprotokoll]]*)
+- [ ] Inspect the apartment
+- [ ] Take your apartment keys
+- [ ] Read the electricity meter
+- [ ] Sign the handover document (*[[Übergabeprotokoll]]*)
 
-This meeting - the *[[Wohnungsübergabe]]* - is very important. Always be there when it happens. Take a lot of pictures. If you can, bring a witness. You can even bring a lawyer with you.[^34]
+This meeting - the *[[Wohnungsübergabe]]* - is very important. Always be there when it happens. Take a lot of photos. If you can, bring a witness. You can even bring a lawyer with you.[^34]
 
 ### Return the keys
 
