@@ -53,8 +53,10 @@ This checklist helps you move from Germany to another country, step by step.
         The [notice period](/glossary/Kündigungsfrist) is 2 weeks.[^22] Read your water, gas and electricity meters before you [move out](/guides/moving-out). The utility companies will send you a last invoice based on your real usage.
     - [ ] **Insurances**  
         You can sometimes stay insured in other countries.
-    - [ ] Phone and internet
-    - [ ] Gym membership
+    - [ ] **Phone and internet**  
+        The [notice period](/glossary/Kündigungsfrist) is 1 month.[^23]
+    - [ ] **Gym membership**  
+        The [notice period](/glossary/Kündigungsfrist) is different for each gym. There is sometimes a shorter notice period when you leave Germany.[^24]
     - [ ] Public transit pass or [Deutschland Ticket](/guides/deutschland-ticket#how-to-cancel-a-deutschland-ticket)
 - [ ] **Disenrol from university**  
     Tell your university. They might refund your tuition fees and semester ticket.[^12] Your university will tell your health insurer, and your [public health insurance](/glossary/gesetzliche%20Krankenversicherung) will become more expensive.
@@ -219,3 +221,5 @@ You can get free help from...
 [^20]: [Returning From Germany](https://www.returningfromgermany.de/programmes/reag-garp/) (January 2026)
 [^21]: Citation needed - Vacation days
 [^22]: [deurag.de](https://www.deurag.de/blog/sonderkuendigungsrecht-beim-umzug/#c16426) (January 2026), [§ 20 Abs. 1 StromGVV](https://www.buzer.de/gesetz/7424/a146076.htm), [§ 20 Abs. 1 GasGVV](https://www.buzer.de/gesetz/7425/a146100.htm)
+[^23]: [§ 60 Abs. 2 TKG](https://www.buzer.de/60_TKG.htm), [Telekom](https://www.telekom.de/hilfe/vertrag-rechnung/vertrag/kuendigen/umzug-ausland?samChecked=true) (January 2026), [deurag.de](https://www.deurag.de/blog/sonderkuendigungsrecht-beim-umzug/#:~:text=fur%20internet%2C%20telefon%20und%20handy%20betragt%20meist%20einen%20monat) (January 2026)
+[^24]: [FitX](https://hilfe.fitx.de/hc/de/articles/30715200755613-Kann-ich-meine-Mitgliedschaft-au%C3%9Ferordentlich-k%C3%BCndigen) (January 2026), [John Reed](https://help.johnreed.fitness/hc/de/articles/28868024075921-Wie-kann-ich-meine-John-Reed-Mitgliedschaft-beenden#:~:text=wegen%20krankheit%20oder%20umzug) (January 2026) [Reddit](https://old.reddit.com/r/LegaladviceGerman/comments/1kf548r/kann_ich_meinen_fitnessstudiovertrag_wegen/) (2025), [anwalt.org](https://www.anwalt.org/kuendigung/superfit/#SUPERFIT_Kuendigung_bei_Umzug) (2025), [verbraucherzentrale-brandenburg.de](https://www.verbraucherzentrale-brandenburg.de/infothek/fitnessstudio-kuendigen-so-gehts#:~:text=und%20wird%20nur%20aus%20kulanz%20gewahrt) (April 2025)
