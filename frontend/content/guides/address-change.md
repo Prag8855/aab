@@ -47,7 +47,7 @@ You should also tell...
 - [ ] **Your electricity provider**  
     Read your electricity metre, and tell the electric company that you are moving. Do this before you move.[^9]
 - [ ] **Your bank**  
-    You can change your address on your bank's online portal, or by asking your financial advisor.
+    Change your address on your bank's online portal.
 - [ ] **Your employer**  
     Tell your employer your future address, even if you [leave Germany](/guides/leaving-germany). They might need it to [pay your yearly bonus](/guides/losing-your-job#what-happens-to-your-pay-and-bonuses).
 - [ ] **Your [car](/glossary/Kfz-Versicherung)/[home](/glossary/Hausratversicherung)/[liability insurance](/glossary/Haftpflichtversicherung)**  

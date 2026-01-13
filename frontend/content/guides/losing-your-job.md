@@ -267,7 +267,7 @@ You get paid until the end of your [notice period](/glossary/Kündigungsfrist), 
 
 After your last day of work, you might get severance pay or [unemployment benefits](/glossary/ALG%20I). This gives you financial support while you [find another job](/guides/find-a-job-in-berlin).
 
-If your employer gives performance bonuses, you should get that bonus even if you leave the company.[^22] Your bonus can be prorated. For example, if you should get a performance bonus every year, but you leave in September, you should get 75% of the promised bonus. Bonuses are usually paid at the start of the next year. If you don't get your bonus, [talk to a lawyer](/guides/english-speaking-lawyers-berlin).
+If your employer gives performance bonuses, you should get that bonus, even if you leave the company.[^22] Your bonus can be prorated. For example, if you should get a yearly performance bonus, but you leave in September, you should get 75% of the promised bonus. Bonuses are usually paid at the start of the next year. If you don't get your bonus, [talk to a lawyer](/guides/english-speaking-lawyers-berlin).
 
 ## What happens to your unused vacation days
 
@@ -320,7 +320,7 @@ If you need help, hire an employment lawyer (*Anwalt für Arbeitsrecht*). In Ger
 [^19]: [arbeitnow.com](https://www.arbeitnow.com/blog/fired-in-germany#what-you-should-not-do-when-you-are-fired), [Finanztip](https://www.finanztip.de/aufhebungsvertrag/#c15632)
 [^20]: [Finanztip](https://www.finanztip.de/aufhebungsvertrag/#:~:text=dein%20arbeitgeber%20kann%20dich%20nicht%20zwingen), [Andreas Martin](https://rechtsanwalt-arbeitsrecht-in-berlin.de/) (July 2025)
 [^21]: [§ 1a KSchG](https://www.buzer.de/gesetz/5503/a75438.htm), "It's a guideline, not a legal entitlement" ([Andreas Martin](https://rechtsanwalt-arbeitsrecht-in-berlin.de/), July 2025)
-[^22]: [roedl.de](https://www.roedl.de/themen/mandantenbrief/2014-02/wirksamkeit-stichtagsklauseln-arbeitsvertraege), [fachanwaltfürarbeitsrecht.net](https://fachanwaltfürarbeitsrecht.net/kuendigung/bonus-nach-kuendigung/)
+[^22]: [roedl.de](https://www.roedl.de/themen/mandantenbrief/2014-02/wirksamkeit-stichtagsklauseln-arbeitsvertraege), [fachanwaltfürarbeitsrecht.net](https://fachanwaltfürarbeitsrecht.net/kuendigung/bonus-nach-kuendigung/), [fachanwaltfürarbeitsrecht.net](https://fachanwaltfürarbeitsrecht.net/13-monatsgehalt-bei-kundigung/) (January 2026)
 [^23]: [anwalt-martin.de](https://www.anwalt-martin.de/lohn-nach-kuendigung/), [dr-drees.com](https://www.dr-drees.com/bonus-nach-kuendigung/)
 [^24]: [Finanztip](https://www.finanztip.de/sperrzeit-arbeitslosengeld/#:~:text=3-,bedeutet%20ein%20auf%C2%ADhe%C2%ADbungs%C2%ADver%C2%ADtrag%20immer%20sperrzeit%3F,-Wenn%20Du%20mit), [Andreas Martin](https://rechtsanwalt-arbeitsrecht-in-berlin.de/) (July 2025)
 [^25]: [Finanztip](https://www.finanztip.de/sperrzeit-arbeitslosengeld/)

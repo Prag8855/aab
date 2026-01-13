@@ -285,7 +285,7 @@ If you are moving to another country, see the [checklist for leaving Germany](/g
 [^34]: [mieterengel.de](https://mieterengel.de/wohnungsuebergabeprotokoll/)
 [^35]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/99fbly/best_place_to_buy_cardboard_boxes/)
 [^37]: [§ 60 Abs. 1 TKG](https://www.buzer.de/60_TKG.htm)
-[^38]: [§ 60 Abs. 2 TKG](https://www.buzer.de/60_TKG.htm)
+[^38]: [§ 60 Abs. 2 TKG](https://www.buzer.de/60_TKG.htm), [Telekom](https://www.telekom.de/hilfe/vertrag-rechnung/vertrag/kuendigen/umzug-ausland?samChecked=true) (January 2026), [deurag.de](https://www.deurag.de/blog/sonderkuendigungsrecht-beim-umzug/#:~:text=fur%20internet%2C%20telefon%20und%20handy%20betragt%20meist%20einen%20monat) (January 2026)
 [^39]: Jonathan Wooddin from [Smoovers](https://smoover-moving.de/) (January 2023)
 [^40]: Jonathan Wooddin from [Smoovers](https://smoover-moving.de/) (January 2023)
 [^41]: Jonathan Wooddin from [Smoovers](https://smoover-moving.de/) (January 2023)
