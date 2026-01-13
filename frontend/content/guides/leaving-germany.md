@@ -10,6 +10,8 @@ This checklist helps you move from Germany to another country, step by step.
 
 ## Before you leave Germany
 
+### Full checklist
+
 - [ ] **[Quit your job](/guides/losing-your-job)**  
     Most jobs have a 4-week [notice period](/glossary/Kündigungsfrist), but it can be longer. You can negotiate a shorter notice period with your employer.
     - [ ] **[Give your resignation letter](/guides/losing-your-job#give-your-resignation-letter)**  
@@ -63,14 +65,15 @@ This checklist helps you move from Germany to another country, step by step.
     Tell your university. They might refund your tuition fees and semester ticket.[^12] Your university will tell your health insurer, and your [public health insurance](/glossary/gesetzliche%20Krankenversicherung) will become more expensive.
     - [ ] Get a confirmation of disenrolment[^10]
     - [ ] Get a transcript of records[^11] (*Leistungsübersicht*)
-- [ ] **Gather important documents**
+- [ ] **Save important documents**
+    - [ ] **Public pension record** (*[[Versicherungsverlauf]]*)  
+        [Download your *Versicherungsverlauf*](https://kundenportal.deutsche-rentenversicherung.de/od-kundenportal) or [get it by post](/out/drv-pension-payments-info). It's mailed to your [registered address](/glossary/Anmeldung) in around 1 week.
+    - [ ] Private pension documents
     - [ ] Medical records
         - [ ] [Vaccination pass](/glossary/Impfausweis)
         - [ ] Prescriptions and list of medications
-    - [ ] Private pension documents
-    - [ ] Public pension records
-    - [ ] Tax returns
-    - [ ] Birth certificates
+    - [ ] [Tax assessments](/glossary/Steuerbescheid)
+    - [ ] [Birth certificates](https://service.berlin.de/dienstleistung/318960/) (*Geburtsurkunde*)
     - [ ] Marriage certificates and divorce documents[^5]
     - [ ] [International Driving Permit](/guides/international-driving-permit-germany)
 - [ ] **Write down important information**  
@@ -91,6 +94,8 @@ If you have a [blocked account](/glossary/Sperrkonto), you can close it after le
 
 https://www.juhn.com/fachwissen/internationales-steuerrecht/wegzugsteuer-bei-investmentfonds/
 
+Crypto: https://www.wohnsitzausland.com/fachwissen/entstrickung-exit-tax#:~:text=durch%20einen%20steuerpflichtigen%20gehaltene%20kryptowahrungen%20nicht%20betrifft
+
 ### Health insurance
 
 Tell your health insurance when you will stop working. When you are unemployed, the price of health insurance changes. If you get [unemployment benefits](/glossary/ALG%20I), it pays for your health insurance.
@@ -103,6 +108,12 @@ If you plan to return to Germany, get an *[[Anwartschaft]]* from your health ins
 
 Your private or expat health insurance might work in other countries.
 
+If you are retired, your German public health insurance stays valid in all [EU](/glossary/European%20Union) countries.[^28]
+
+### Taxes
+
+If you still have investments, real estate or a business in Germany, you might still need to pay German taxes.[^27]
+
 ### Close your business
 
 Sole proprietorships are easy to close. If you have an AG, UG or GmbH, it's much more complicated.[^9]
@@ -112,15 +123,19 @@ Sole proprietorships are easy to close. If you have an AG, UG or GmbH, it's much
 - [ ] **Tell the [[IHK]]** (*Gewerbeabmeldung*)  
     If you have a *[[Gewerbe]]*, you must deregister it at the IHK. In Berlin, you can [do it online](https://service.berlin.de/dienstleistung/122107/). It will stop *[[Gewerbesteuer]]* payments and IHK membership fees.[^18]
 - [ ] **Pay the exit tax**  
-    If you have an AG, UG or GmbH, you must [pay the exit tax](https://www.winheller.com/en/tax-law-tax-advisory/international-tax-planning/exit-taxation.html).[^1] You can avoid it, but it's hard.[^14] Ask a [tax advisor](/glossary/Steuerberater) to help you.
+    If you have an AG, UG or GmbH, you must [pay the exit tax](https://www.winheller.com/en/tax-law-tax-advisory/international-tax-planning/exit-taxation.html).[^1] You can avoid it, but it's hard.[^14] Ask a [tax advisor](/glossary/Steuerberater) to help you. Freelancers rarely need to pay an exit tax.[^26]
 - [ ] Save important documents
-- [ ] Save important numbers
-    - [ ] Tax number
-    - [ ] VAT number
+    - [ ] [Tax assessments](/glossary/Steuerbescheid) for your business
+    - [ ] Invoices and receipts
+- [ ] **Save important identification numbers**
+    - [ ] [Tax number](/glossary/Steuernummer)
+    - [ ] [VAT number](/glossary/Umsatzsteuernummer)
 
 If you are part of a *Handwerkskammer*, *Berufskammer* or *Berufsgenossenschaft*, you must also deregister there.[^19]
 
 ## After you leave Germany
+
+### Checklist
 
 - [ ] **[Get your last bonus](/guides/losing-your-job#what-happens-to-your-pay-and-bonuses)**  
     If you leave a company before the end of the year, you can usually get part of your yearly bonus.[^4]
@@ -136,9 +151,9 @@ These tasks are optional:
 - [ ] **[Register on ELEFAND](https://krisenvorsorgeliste.diplo.de/signin)**  
     Register as a German living in another country. It helps Germany reach you if there is a crisis or natural disaster in your new country.
 - [ ] **Close your [blocked account](/glossary/Sperrkonto)**  
-    You might need a *Sperrfreigabe* from your local German embassy, consulate or *[[Ausländerbehörde]]*.[^13]
+    You might need a *Sperrfreigabe* from your local German embassy, consulate or *[[Ausländerbehörde]]*.[^13] It might be easier to receive all blocked account payments, then close the account.
 
-## What keeps working
+### What keeps working
 
 These things keep working even if you don't live in Germany:
 
@@ -149,7 +164,7 @@ These things keep working even if you don't live in Germany:
 - **[Unemployment benefits](/guides/unemployment-benefits)**  
     If you move to another [EU](/glossary/European%20Union) country, you can still get [[ALG I]] for up to 6 months.[^15]
 
-## What stops working
+### What stops working
 
 - **Kindergeld**  
     If you no longer have tax residency in Germany, you stop getting *[[Kindergeld]]*.[^2]
@@ -199,10 +214,11 @@ You can get free help from...
 - Update Abmeldung tool
 - Which documents should a freelancer gather? EÜR?
 - Vehicle
+- Residence permit, PR and citizenship expiration
 - Entstrickungssteuer nach § 17 EStG, § 6 AStG
     - https://www.wohnsitzausland.com/fachwissen/wegzugsbesteuerung
 
-[^1]: [eidel.io](https://eidel.io/notes-and-hacks-on-germanys-exit-tax/), [winheller.com](https://www.winheller.com/en/tax-law-tax-advisory/international-tax-planning/exit-taxation.html), [Hacker News](https://news.ycombinator.com/item?id=44828158)
+[^1]: [eidel.io](https://eidel.io/notes-and-hacks-on-germanys-exit-tax/), [winheller.com](https://www.winheller.com/en/tax-law-tax-advisory/international-tax-planning/exit-taxation.html), [Hacker News](https://news.ycombinator.com/item?id=44828158), [wohnsitzausland.com](https://www.wohnsitzausland.com/fachwissen/wegzugsbesteuerung#wann)
 [^2]: [deutsche-im-ausland.org](https://www.deutsche-im-ausland.org/absicherung-und-finanzen/finanzen/kindergeld-im-ausland.html#c1242)
 [^3]: [deutsche-im-ausland.org](https://www.deutsche-im-ausland.org/absicherung-und-finanzen/finanzen/elterngeld-im-ausland.html)
 [^4]: [fachanwaltfürarbeitsrecht.net](https://fachanwaltfürarbeitsrecht.net/13-monatsgehalt-bei-kundigung/) (January 2026)
@@ -227,3 +243,6 @@ You can get free help from...
 [^23]: [§ 60 Abs. 2 TKG](https://www.buzer.de/60_TKG.htm), [Telekom](https://www.telekom.de/hilfe/vertrag-rechnung/vertrag/kuendigen/umzug-ausland?samChecked=true) (January 2026), [deurag.de](https://www.deurag.de/blog/sonderkuendigungsrecht-beim-umzug/#:~:text=fur%20internet%2C%20telefon%20und%20handy%20betragt%20meist%20einen%20monat) (January 2026)
 [^24]: [FitX](https://hilfe.fitx.de/hc/de/articles/30715200755613-Kann-ich-meine-Mitgliedschaft-au%C3%9Ferordentlich-k%C3%BCndigen) (January 2026), [John Reed](https://help.johnreed.fitness/hc/de/articles/28868024075921-Wie-kann-ich-meine-John-Reed-Mitgliedschaft-beenden#:~:text=wegen%20krankheit%20oder%20umzug) (January 2026) [Reddit](https://old.reddit.com/r/LegaladviceGerman/comments/1kf548r/kann_ich_meinen_fitnessstudiovertrag_wegen/) (2025), [anwalt.org](https://www.anwalt.org/kuendigung/superfit/#SUPERFIT_Kuendigung_bei_Umzug) (2025), [verbraucherzentrale-brandenburg.de](https://www.verbraucherzentrale-brandenburg.de/infothek/fitnessstudio-kuendigen-so-gehts#:~:text=und%20wird%20nur%20aus%20kulanz%20gewahrt) (April 2025)
 [^25]: [evz.de](https://www.evz.de/finanzen-versicherungen/umzug-ins-eu-ausland.html#:~:text=ist%20es%20nicht%20ratsam%2C%20ihr%20bestehendes%20girokonto%20zu%20kundigen) (2024)
+[^26]: [wohnsitzausland.com](https://www.wohnsitzausland.com/fachwissen/entstrickung-exit-tax#:~:text=als%20Selbst%C3%A4ndiger%20bzw.-,freiberufler,-Grunds%C3%A4tzlich%20gilt%20bei) (January 2026)
+[^27]: [wohnsitzausland.com](https://www.wohnsitzausland.com/faqs/faqs-wegzug-ins-ausland) (January 2026)
+[^28]: [wohnsitzausland.com](https://www.wohnsitzausland.com/aktuelles/auswandern-krankenversicherung-im-ausland#:~:text=rentner%2C%20die%20innerhalb%20der%20europaischen%20union%20dauerhaft%20leben) (January 2026)
