@@ -141,7 +141,9 @@ You still need a registered address to [renew your residence permit](/guides/res
 
 When you deregister, you can lose your German health insurance.[^14] German health insurance is only for German residents. If you want to keep your health insurance, you probably should not deregister.
 
-If you have [private health insurance](/glossary/private%20Krankenversicherung), you can ask for *Anwartschaftsversicherung*. You pay a little money every month while you are outside of Germany. When you return to Germany, you can get your old health insurance back.[^15] It guarantees that you will get the same health insurance for the same price.
+If you have [private health insurance](/glossary/private%20Krankenversicherung), ask for an *[[Anwartschaft]]*. You pay a little money every month while you are outside of Germany. When you return to Germany, you can get your old health insurance back.[^15] It guarantees that you will get the same health insurance for the same price.
+
+If you move to another EU country, you are retired, and you get a German public pension, you can keep your German public health insurance.[^3]
 
 ### Social security
 
@@ -182,6 +184,7 @@ If you already left Germany, you can do your *Abmeldung* by email or by post.[^2
 [^0]: [buergeramt-termine.de](https://buergeramt-termine.de/guide/abmeldung-deregister-germany/)
 [^1]: [Robert Hantzsch](/out/easyassist-abmeldung) (August 2025), [Oliver Frankfurth](https://sympat.me) (April 2023), [Facebook](https://www.facebook.com/groups/berlinfreelancers/posts/3107197082693988/?comment_id=3107888739291489), [reddit.com](https://old.reddit.com/r/berlin/comments/o7vjdy/abmeldung_no_confirnation/)
 [^2]: [Robert Hantzsch](/out/easyassist-abmeldung) (August 2025), [reddit.com](https://old.reddit.com/r/berlin/comments/o7vjdy/abmeldung_no_confirnation/)
+[^3]: [Techniker Krankenkasse](https://www.tk.de/techniker/versicherung/tk-leistungen/ausland/wohnen-im-ausland/europaeisches-ausland-krankenversicherung-rentner-2009820) (January 2026), [Techniker Krankenkasse](https://www.tk.de/techniker/versicherung/tk-leistungen/ausland/wohnen-im-ausland/wohnsitz-ausland-rentner-2009812) (October 2025)
 [^14]: [wirelesslife.de](https://icwb.com/de/wohnsitz-abmelden-umzug-ins-ausland#umzug5)
 [^15]: [Finanztip](https://www.finanztip.de/pkv/pkv-anwartschaftsversicherung/), [Seamus Wolf](https://horizon65.com/) (2025)
 [^16]: [wirelesslife.de](https://icwb.com/de/wohnsitz-aus-deutschland-abmelden-pros-und-cons/)
