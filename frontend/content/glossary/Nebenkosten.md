@@ -6,8 +6,9 @@ Description: What you pay for utilities every month. It includes hot water, heat
 Date_created: 2018-08-21
 Related_guides:
     guides/find-a-flat-in-berlin.md
+    tools/rent-map.md
     guides/moving-in.md
-    guides/mietkaution.md
+    guides/electric-bill-berlin.md
     guides/cost-of-living.md
 ---
 

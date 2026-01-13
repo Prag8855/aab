@@ -5,7 +5,7 @@ English_term: Ring railroad
 Description: The railway that runs a circle around the central areas of Berlin.
 Date_created: 2018-07-31
 Related_guides:
-    guides/visit-berlin.md
+    guides/public-transit.md
     guides/find-a-flat-in-berlin.md
 ---
 

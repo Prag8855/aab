@@ -6,6 +6,7 @@ Description: The total rent you pay, including utilities.
 Date_created: 2018-08-21
 Related_guides:
     guides/find-a-flat-in-berlin.md
+    tools/rent-map.md
     guides/moving-in.md
     guides/mietkaution.md
     guides/electric-bill-berlin.md
