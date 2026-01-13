@@ -27,6 +27,7 @@ Use this checklist when you leave Germany and move to another country.
         - [ ] [Vacation certificate](/guides/losing-your-job#get-an-urlaubsbescheinigung) (*[[Urlaubsbescheinigung]]*)
         - [ ] [Last pay slip](/guides/losing-your-job#get-all-other-documents) (*[[Gehaltsabrechnung]]* or *Lohnabrechnung*)
         - [ ] [Salary tax statement](/guides/losing-your-job#get-all-other-documents) (*[[Lohnsteuerbescheinigung]]*)
+- [ ] **[Sell or donate your things](/guides/how-do-i-buy-and-sell-used-things-in-berlin)**
 - [ ] **[Move out of your apartment](/guides/moving-out)**  
     Most leases have a 3-month [notice period](/glossary/Kündigungsfrist). Your landlord might let you leave sooner if you find a new tenant for your apartment.
     - [ ] [End your lease](/guides/moving-out#end-your-lease)
@@ -60,11 +61,17 @@ Use this checklist when you leave Germany and move to another country.
 - [ ] **Gather important documents**
     - [ ] Medical records
         - [ ] [Vaccination pass](/glossary/Impfausweis)
+        - [ ] Prescriptions and list of medications
+    - [ ] Private pension documents
+    - [ ] Public pension records
     - [ ] Tax returns
     - [ ] Birth certificates
     - [ ] Marriage certificates and divorce documents[^5]
-    - [ ] University documents
     - [ ] [International Driving Permit](/guides/international-driving-permit-germany)
+- [ ] **Write down important information**  
+    - [ ] Pension insurance number
+    - [ ] Insurance number
+    - [ ] Tax ID
 - [ ] **[Close your business](#close-your-business)**
 
 **Keep your bank account.** You will need it to get your [apartment deposit](/glossary/Kaution), last paycheck, yearly bonus, tax return and [blocked account](/glossary/Pfändungsschutzkonto) payments.
@@ -101,13 +108,17 @@ Sole proprietorships are easy to close. If you have an AG, UG or GmbH, it's much
     If you have a *[[Gewerbe]]*, you must deregister it at the IHK. In Berlin, you can [do it online](https://service.berlin.de/dienstleistung/122107/). It will stop *[[Gewerbesteuer]]* payments and IHK membership fees.[^18]
 - [ ] **Pay the exit tax**  
     If you have an AG, UG or GmbH, you must [pay the exit tax](https://www.winheller.com/en/tax-law-tax-advisory/international-tax-planning/exit-taxation.html).[^1] You can avoid it, but it's hard.[^14] Ask a [tax advisor](/glossary/Steuerberater) to help you.
+- [ ] Save important documents
+- [ ] Save important numbers
+    - [ ] Tax number
+    - [ ] VAT number
 
 If you are part of a *Handwerkskammer*, *Berufskammer* or *Berufsgenossenschaft*, you must also deregister there.[^19]
 
 ## After you leave Germany
 
 - [ ] **[Get your last bonus](/guides/losing-your-job#what-happens-to-your-pay-and-bonuses)**  
-    If you leave a company before the end of the year, they must still give you your yearly bonus.
+    If you leave a company before the end of the year, you can usually get part of your yearly bonus.[^4]
 - [ ] **[Get your apartment deposit back](/guides/mietkaution#how-to-get-your-kaution-back)**  
     Your landlord can take up to 12 months to return your deposit. After you receive your last *[[Nebenkostenabrechnung]]*, you should get the rest of your deposit back.
 - [ ] **Make a [tax declaration](/glossary/Steuererklärung)**  
@@ -151,48 +162,36 @@ Exceptions:
 
 ## Need help?
 
-- https://www.berlin.de/einwanderung/service/beratung/artikel.874819.php
+- **[Return counselling center](https://www.berlin.de/einwanderung/en/advice/consulting-services/artikel.947829.en.php)**  
+    Free counselling for immigrants who are leaving Berlin.
 
+**[Where to ask questions ➞](/guides/help)**
 
 ---
 
 - [ ] Investments
 - [ ] Life insurance - You can sometimes take it with you
-- Work: Christmas bonus?
-- Deregister your dog?
-- Anything with children?
-- KSK?
-- Students?
-    - blocked account?
+- KSK documents?
+- [ ] Documents for students
     - [ECTS](https://www.uni-mannheim.de/en/academics/coming-to-mannheim/exchange-students/before-you-leave-mannheim/#c34802) - European Credit Transfer System
-- Children?
+- [ ] Documents for your children?
     - Kita
     - School
-- Pets?
+- [ ] Documents for your pets
     - Vaccines and other documentation
     - Quarantine requirements
-- [BAföG](https://www.auslandsbafoeg.de/)
-- Driving licence, IDP
-- Any documents you should get/back up before leaving?
-    - Health history (Krankenbericht)
-    - Prescriptions
-- Travel health insurance, coverage gap
+- [BAföG](https://www.auslandsbafoeg.de/) abroad
+- Travel health insurance - Used to plug a coverage gap
 - How to get money out of the country?
 - Any difference in taxation of real estate?
-- Medication
-- Sell your stuff
-- [ELEFAND](https://krisenvorsorgeliste.diplo.de/signin)
 - Effect on residence permit
 - Update Abmeldung tool
 - Which documents should a freelancer gather? EÜR?
-- Mind the job resignation notice period
-- Save your numbers: Pension insurance number, insurance number, tax id, tax number, VAT number, etc.
-- Keep phone number active for 2FA
 
 [^1]: [eidel.io](https://eidel.io/notes-and-hacks-on-germanys-exit-tax/), [winheller.com](https://www.winheller.com/en/tax-law-tax-advisory/international-tax-planning/exit-taxation.html), [Hacker News](https://news.ycombinator.com/item?id=44828158)
 [^2]: [deutsche-im-ausland.org](https://www.deutsche-im-ausland.org/absicherung-und-finanzen/finanzen/kindergeld-im-ausland.html#c1242)
 [^3]: [deutsche-im-ausland.org](https://www.deutsche-im-ausland.org/absicherung-und-finanzen/finanzen/elterngeld-im-ausland.html)
-[^4]: Citation needed, mention in unemployment-benefits, [BEMA](https://bema.berlin/site/assets/files/1048/3_checkliste_zu_erledigen_vor_dem_umzug_aus_deutschland.pdf) (2018)
+[^4]: [fachanwaltfürarbeitsrecht.net](https://fachanwaltfürarbeitsrecht.net/13-monatsgehalt-bei-kundigung/) (January 2026)
 [^5]: [resartus.de](https://resartus.de/auswandern-aus-deutschland-welche-dokumente-sind-zum-auswandern-noetig/#:~:text=ehefahigkeitszeugnis%2C%20eheurkunde%20und%20scheidungsurteil) (2025)
 [^6]: [grenzenlos-sicher.de](https://www.grenzenlos-sicher.de/post/abmelden-aus-deutschland-2025#:~:text=keine%20direkten%20auswirkungen%20auf%20deine%20rentenzahlungen) (2025)
 [^7]: Citation needed - Abmeldebescheinigung to cancel health insurance
@@ -203,7 +202,7 @@ Exceptions:
 [^12]: [h-da.de](https://h-da.de/en/ssc/semester-fee) (January 2026), [uni-wuerzburg.de](https://www.uni-wuerzburg.de/en/studying-at-jmu/studienangelegenheiten/beitraegeundgebuehren/fee-refunds/) (January 2026)
 [^13]: [Expatrio](https://help.expatrio.com/hc/en-us/articles/360001061071-How-can-I-close-my-Blocked-Account) (January 2026), [ukraine.diplo.de](https://ukraine.diplo.de/ua-de/service/05-visaeinreise/2296252-2296252#content_3) (January 2026), [studying-in-germany.org](https://www.studying-in-germany.org/germany-blocked-account-foreign-students/how-to-close-my-blocked-account-in-germany/#expatrio) (January 2026)
 [^14]: Suat Göydeniz (January 2026)
-[^15]: [eu-gleichbehandlungsstelle.de](https://www.eu-gleichbehandlungsstelle.de/eugs-de/eu-buerger/infothek/arbeitslosigkeit-in-deutschland#tar-2) (January 2026), [deutsche-im-ausland.org](https://www.deutsche-im-ausland.org/absicherung-und-finanzen/sozialversicherung-im-ausland/arbeitslosenversicherung/arbeitssuche-im-ausland.html) (January 2026)
+[^15]: [eu-gleichbehandlungsstelle.de](https://www.eu-gleichbehandlungsstelle.de/eugs-de/eu-buerger/infothek/arbeitslosigkeit-in-deutschland#tar-2) (January 2026), [deutsche-im-ausland.org](https://www.deutsche-im-ausland.org/absicherung-und-finanzen/sozialversicherung-im-ausland/arbeitslosenversicherung/arbeitssuche-im-ausland.html) (January 2026), [europa.eu](https://europa.eu/youreurope/citizens/work/social-security-and-benefits/transferring-unemployment-benefits/index_de.htm) (January 2026), [BEMA](https://bema.berlin/site/assets/files/1048/3_checkliste_zu_erledigen_vor_dem_umzug_aus_deutschland.pdf) (2018)
 [^16]: [Techniker Krankenkasse](https://www.tk.de/techniker/versicherung/tk-leistungen/ausland/anwartschaft-bei-auslandsaufenthalt-beantragen/personenkreis-anwartschaft-2024508) (March 2025), [Techniker Krankenkasse](https://www.tk.de/techniker/versicherung/tk-leistungen/ausland/anwartschaft-bei-auslandsaufenthalt-beantragen/gruende-fuer-eine-anwartschaftsversicherung-2024494) (February 2025)
 [^17]: [Suat Göydeniz](https://stb-goeydeniz.de/) (January 2026), [Reddit](https://old.reddit.com/r/FragReddit/comments/102p791/was_tun_wenn_das_finanzamt_eine_steuererkl%C3%A4rung/j2vu02s/) (2023)
 [^18]: [IHK Berlin](https://www.ihk.de/berlin/ueber-uns/mitgliedschaft-und-beitrag/beendigung-der-beitragspflicht-2256682) (January 2026)
