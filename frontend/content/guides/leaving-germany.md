@@ -28,9 +28,9 @@ This checklist helps you move from Germany to another country, step by step.
         - [ ] [Last pay slip](/guides/losing-your-job#get-all-other-documents) (*[[Gehaltsabrechnung]]* or *Lohnabrechnung*)
         - [ ] [Salary tax statement](/guides/losing-your-job#get-all-other-documents) (*[[Lohnsteuerbescheinigung]]*)
 - [ ] **[Sell or donate your things](/guides/how-do-i-buy-and-sell-used-things-in-berlin)**
-- [ ] **[Move out of your apartment](/guides/moving-out)**  
-    Most leases have a 3-month [notice period](/glossary/Kündigungsfrist). Your landlord might let you leave sooner if you find a new tenant for your apartment.
-    - [ ] [End your lease](/guides/moving-out#end-your-lease)
+- [ ] **[Move out of your apartment](/guides/moving-out)**
+    - [ ] **[End your lease](/guides/moving-out#end-your-lease)**  
+        Most leases have a 3-month [notice period](/glossary/Kündigungsfrist). Your landlord might let you leave sooner if you find a new tenant for your apartment.
     - [ ] [Clean or repaint the apartment](/guides/moving-out#repaint-the-apartment)
     - [ ] [Complete the handover](/guides/moving-out#complete-the-handover)
         - [ ] [Give your apartment keys back](/guides/moving-out#return-the-keys)
@@ -50,14 +50,14 @@ This checklist helps you move from Germany to another country, step by step.
     - [ ] **[Health insurance](#health-insurance)**  
         You can sometimes keep your German health insurance, even if you leave in another country. If you can't stay insured, you must cancel your health insurance. Your private or expat health insurance might work in other countries.
     - [ ] **Utilities**  
-        The [notice period](/glossary/Kündigungsfrist) is 2 weeks.[^22] Read your water, gas and electricity meters before you [move out](/guides/moving-out). The utility companies will send you a last invoice based on your real usage.
+        The [notice period](/glossary/Kündigungsfrist) for gas and electricity is 2 weeks.[^22] Read your water, gas and electricity meters before you [move out](/guides/moving-out). The utility companies will send you a last invoice based on your real usage.
     - [ ] **Insurances**  
         You can sometimes stay insured in other countries.
     - [ ] **Phone and internet**  
         The [notice period](/glossary/Kündigungsfrist) is 1 month.[^23]
     - [ ] **Gym membership**  
         The [notice period](/glossary/Kündigungsfrist) is different for each gym. There is sometimes a shorter notice period when you leave Germany.[^24]
-    - [ ] Public transit pass or [Deutschland Ticket](/guides/deutschland-ticket#how-to-cancel-a-deutschland-ticket)
+    - [ ] **Public transit pass** or [Deutschland Ticket](/guides/deutschland-ticket#how-to-cancel-a-deutschland-ticket)
 - [ ] **Disenrol from university**  
     Tell your university. They might refund your tuition fees and semester ticket.[^12] Your university will tell your health insurer, and your [public health insurance](/glossary/gesetzliche%20Krankenversicherung) will become more expensive.
     - [ ] Get a confirmation of disenrolment[^10]
@@ -125,7 +125,7 @@ If you are part of a *Handwerkskammer*, *Berufskammer* or *Berufsgenossenschaft*
     If you leave a company before the end of the year, you can usually get part of your yearly bonus.[^4]
 - [ ] **[Get your apartment deposit back](/guides/mietkaution#how-to-get-your-kaution-back)**  
     Your landlord can take up to 12 months to return your deposit. After you receive your last *[[Nebenkostenabrechnung]]*, you should get the rest of your deposit back.
-- [ ] **Make a [tax declaration](/glossary/Steuererklärung)**  
+- [ ] **[Make a tax declaration](/guides/moving-in#deduct-your-moving-costs)**  
     If you move for work, your relocation costs are [tax-deductible](/glossary/steuerlich%20absetzbar). Since you stopped working in the middle of the year, you probably paid too much [salary tax](/glossary/Einkommensteuer). Most people get money back.[^8]
 - [ ] **[Get your pension payments back](/guides/pension-payments-refund)**  
     [Public pension insurance](/glossary/gesetzliche%20Rentenversicherung) costs {{RV_EMPLOYEE_CONTRIBUTION}}% of your income. If you leave Germany, you can get that money back.
