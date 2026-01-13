@@ -13,7 +13,7 @@ This checklist helps you move from Germany to another country, step by step.
 - [ ] **[Quit your job](/guides/losing-your-job)**  
     Most jobs have a 4-week [notice period](/glossary/Kündigungsfrist), but it can be longer. You can negotiate a shorter notice period with your employer.
     - [ ] **[Give your resignation letter](/guides/losing-your-job#give-your-resignation-letter)**  
-        Your [notice period](/glossary/Kündigungsfrist) starts when your employer receives your resignation letter.
+        Your [notice period](/glossary/Kündigungsfrist) starts when your employer receives your [resignation letter](/glossary/Kündigungsschreiben).
     - [ ] **[Register as unemployed](/guides/losing-your-job#register-as-unemployed)**  
         If you move to another [EU](/glossary/European%20Union) country, you can still get [unemployment benefits](/glossary/ALG%20I) for up to 6 months.[^15]
     - [ ] **[Tell your health insurance](/guides/losing-your-job#tell-your-health-insurance)**  
@@ -41,7 +41,7 @@ This checklist helps you move from Germany to another country, step by step.
         You should get most of your [deposit](/glossary/Kaution) back after you complete the [handover](/glossary/Wohnungsübergabe). Your landlord can keep *part* of your deposit until the last *[[Nebenkostenabrechnung]]*.
     - [ ] Save invoices for your [tax declaration](/glossary/Steuererklärung)
 - [ ] **[Deregister your address](/guides/abmeldung-deregister-in-berlin)** (*[[Abmeldung]]*)  
-    You will get a [deregistration certificate](/glossary/Abmeldebescheinigung). Use it to cancel contracts with a shorter [notice period](/glossary/Kündigungsfrist).
+    It tells the *[[Finanzamt]]* that you should stop paying taxes in Germany. You will get a [deregistration certificate](/glossary/Abmeldebescheinigung). Use it to cancel contracts with a shorter [notice period](/glossary/Kündigungsfrist).
     - [ ] [Change your address](/guides/address-change#tell-everyone)
     - [ ] [Forward your mail](/guides/address-change#forward-your-mail)
     - [ ] [Deregister for TV tax](/guides/gez-rundfunkbeitrag#how-to-stop-paying)
@@ -199,6 +199,8 @@ You can get free help from...
 - Update Abmeldung tool
 - Which documents should a freelancer gather? EÜR?
 - Vehicle
+- Entstrickungssteuer nach § 17 EStG, § 6 AStG
+    - https://www.wohnsitzausland.com/fachwissen/wegzugsbesteuerung
 
 [^1]: [eidel.io](https://eidel.io/notes-and-hacks-on-germanys-exit-tax/), [winheller.com](https://www.winheller.com/en/tax-law-tax-advisory/international-tax-planning/exit-taxation.html), [Hacker News](https://news.ycombinator.com/item?id=44828158)
 [^2]: [deutsche-im-ausland.org](https://www.deutsche-im-ausland.org/absicherung-und-finanzen/finanzen/kindergeld-im-ausland.html#c1242)

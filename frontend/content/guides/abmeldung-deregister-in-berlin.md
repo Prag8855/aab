@@ -38,6 +38,8 @@ You can use this certificate to:
 - Cancel your phone, internet and electricity contracts
 - Get a [refund of your pension payments](/guides/pension-payments-refund), 2 years after you leave Germany
 
+If you [leave Germany](/guides/leaving-germany), the *Abmeldung* tells the *[[Finanzamt]]* that you have left the country, and that you don't need to pay taxes in Germany.
+
 ## How to do your Abmeldung
 
 There are 4 ways to deregister your address:
@@ -124,6 +126,19 @@ They can also cancel your [TV tax](/glossary/Rundfunkbeitrag), your [health insu
 
 When you deregister, you lose your official address in Germany. This has consequences.
 
+### Taxes
+
+If you [leave Germany](/guides/leaving-germany), the *Abmeldung* tells the *[[Finanzamt]]* that you have left the country, and that you don't need to pay taxes in Germany.[^5]
+
+You might still have to pay taxes in Germany if...[^6]
+
+- You visit Germany often
+- Your family still lives in Germany
+- You still have an apartment or a room in Germany
+- You conduct most of your business in Germany
+
+For example, if you officially live in Spain, but your family lives in Berlin, you often go to a German doctor, and you own an empty apartment in Berlin, the *Finanzamt* might still tax you.
+
 ### Residence permit
 
 You do not lose your [residence permit](/glossary/Aufenthaltstitel) when you deregister.
@@ -185,6 +200,8 @@ If you already left Germany, you can do your *Abmeldung* by email or by post.[^2
 [^1]: [Robert Hantzsch](/out/easyassist-abmeldung) (August 2025), [Oliver Frankfurth](https://sympat.me) (April 2023), [Facebook](https://www.facebook.com/groups/berlinfreelancers/posts/3107197082693988/?comment_id=3107888739291489), [reddit.com](https://old.reddit.com/r/berlin/comments/o7vjdy/abmeldung_no_confirnation/)
 [^2]: [Robert Hantzsch](/out/easyassist-abmeldung) (August 2025), [reddit.com](https://old.reddit.com/r/berlin/comments/o7vjdy/abmeldung_no_confirnation/)
 [^3]: [Techniker Krankenkasse](https://www.tk.de/techniker/versicherung/tk-leistungen/ausland/wohnen-im-ausland/europaeisches-ausland-krankenversicherung-rentner-2009820) (January 2026), [Techniker Krankenkasse](https://www.tk.de/techniker/versicherung/tk-leistungen/ausland/wohnen-im-ausland/wohnsitz-ausland-rentner-2009812) (October 2025)
+[^5]: [wohnsitzausland.com](https://www.wohnsitzausland.com/fachwissen/wohnsitz-abmelden-bei-umzug-ins-ausland#:~:text=bleiben%20sie%20also%20mit%20ihrem%20welteinkommen%20im%20land%20steuerpflichtig) (January 2026)
+[^6]: [wohnsitzausland.com](https://www.wohnsitzausland.com/fachwissen/lebensmittelpunkt-steuerlicher-wohnsitz) (January 2026), [wohnsitzausland.com](https://www.wohnsitzausland.com/fachwissen/wohnsitz-abmelden-bei-umzug-ins-ausland#:~:text=werden%20sie%20in%20der%20bundesrepublik%20weiter%20steuern%20zahlen%20mussen.) (January 2026)
 [^14]: [wirelesslife.de](https://icwb.com/de/wohnsitz-abmelden-umzug-ins-ausland#umzug5)
 [^15]: [Finanztip](https://www.finanztip.de/pkv/pkv-anwartschaftsversicherung/), [Seamus Wolf](https://horizon65.com/) (2025)
 [^16]: [wirelesslife.de](https://icwb.com/de/wohnsitz-aus-deutschland-abmelden-pros-und-cons/)
