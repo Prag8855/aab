@@ -62,12 +62,12 @@ This checklist helps you move from Germany to another country, step by step.
     - [ ] **Other insurances**  
         You can sometimes use your insurance policies in another country.
 - [ ] **Disenrol from university**  
-    Your university might refund your tuition fees and semester ticket.[^12] They will tell your health insurer, so your [public health insurance](/glossary/gesetzliche%20Krankenversicherung) might become more expensive.
+    Your university might refund your tuition fees and semester ticket.[^12] Your [public health insurance](/glossary/gesetzliche%20Krankenversicherung) might [become more expensive](#health-insurance).
     - [ ] Get a confirmation of disenrolment[^10]
     - [ ] Get a transcript of records[^11] (*Leistungsübersicht*)
 - [ ] **Save important documents**
     - [ ] **Public pension record** (*[[Versicherungsverlauf]]*)  
-        [Download your *Versicherungsverlauf*](https://kundenportal.deutsche-rentenversicherung.de/od-kundenportal) or [get it by post](/out/drv-pension-payments-info). It will arrive at your [registered address](/glossary/Anmeldung) in around 1 week.
+        [Download it](https://kundenportal.deutsche-rentenversicherung.de/od-kundenportal) or [get it by post](/out/drv-pension-payments-info). It will arrive at your [registered address](/glossary/Anmeldung) in around 1 week.
     - [ ] Private pension documents
     - [ ] Medical records
         - [ ] [Vaccination pass](/glossary/Impfausweis)
@@ -77,9 +77,8 @@ This checklist helps you move from Germany to another country, step by step.
     - [ ] Marriage certificates and divorce documents[^5]
     - [ ] [International Driving Permit](/guides/international-driving-permit-germany)
 - [ ] **Write down important information**  
-    - [ ] Pension insurance number
-    - [ ] Insurance number
-    - [ ] Tax ID
+    - [ ] [Social security number](/guides/german-versicherungsnummer) (*[[Sozialversicherungsnummer]]*)
+    - [ ] [Tax ID](/guides/german-tax-id-steuernummer) (*[[Steueridentifikationsnummer]]*)
 - [ ] **[Close your business](#close-your-business)**
 
 **Keep your bank account.** You will need it to get your [apartment deposit](/glossary/Kaution), last paycheck, yearly bonus, tax return and [blocked account](/glossary/Pfändungsschutzkonto) payments.[^25]
