@@ -65,7 +65,7 @@ If you get fired for a serious reason, there is no notice period. For example, i
 
 ### Before your first day of work
 
-If you quit or lose your job before you start working, the notice period is 2 weeks. If this happens at least 2 weeks before your start date, you don't go to work, and you don't get paid. Your work contract can have special rules for this.[^11]
+If you quit or lose your job before you [start working](/guides/find-a-job-in-berlin#start-working), the notice period is 2 weeks. If this happens at least 2 weeks before your start date, you don't go to work, and you don't get paid. Your work contract can have special rules for this.[^11]
 
 If you relocated for work, you can sue your employer. You can ask for compensation for the money that you lost.[^10] [Talk to a lawyer](/guides/english-speaking-lawyers-berlin) first.
 
@@ -79,17 +79,19 @@ Your employer can also put you on *Kurzarbeit*. They reduce your work hours, and
 
 During your notice period, your employer still pays your salary, health insurance, pension insurance and other benefits.[^8] You can still take [sick days](/guides/sick-leave) and [use your vacation days](/guides/vacation-days). You still get paid time off for [public holidays](/guides/public-holidays).
 
-During your notice period, your employer can make you work, or send you on [garden leave](https://en.wikipedia.org/wiki/Garden_leave) (*bezahlte Freistellung*). Garden leave means that you don't go to work work, but you still get paid.[^6] When you are on garden leave, your employer can still call you back to work.[^7]
+During your notice period, your employer can make you work, or send you on [garden leave](https://en.wikipedia.org/wiki/Garden_leave) (*bezahlte Freistellung*). Your employer can force you to use your vacation days.[^17] Garden leave means that you don't go to work work, but you still get paid.[^6] When you are on garden leave, your employer can still call you back to work.[^7]
 
 **If you want to leave sooner**, you can negotiate a shorter notice period with your employer. Your employer can refuse to shorten your notice period.[^15] To shorten your notice period, you must sign an *Aufhebungsvertrag*. If you choose a shorter notice period, you usually lose 3 months of [unemployment benefits](/glossary/ALG%20I).[^16]
 
-### Unused vacation days
+### Sick leave and vacation days
 
-If you have unused vacation days, your employer can force you to use them. You can also transfer unused vacation days to your next employer with an *[[Urlaubsbescheinigung]]*.
-
-If you still have unused vacation day when your employment ends, your employer must pay you for them.[^17]
+If you have unused vacation days, you must usually take them before the end of your [notice period](/glossary/Kündigungsfrist). If you can't use your vacation days, your employer must pay them to you.
 
 **[Vacation days when you change jobs ➞](/guides/vacation-days#if-you-change-jobs)**
+
+During your [notice period](/glossary/Kündigungsfrist), you still get paid [sick leave](/guides/sick-leave).
+
+**[Sick leave during your notice period ➞](/guides/sick-leave#during-your-notice-period)**
 
 [^1]: [§ 622 Abs. 3 BGB](https://www.buzer.de/622_BGB.htm)
 [^2]: [§ 622 Abs. 1 BGB](https://www.buzer.de/622_BGB.htm)
@@ -107,4 +109,4 @@ If you still have unused vacation day when your employment ends, your employer m
 [^14]: [Andreas Martin](https://rechtsanwalt-arbeitsrecht-in-berlin.de/) (July 2025)
 [^15]: [Andreas Martin](https://rechtsanwalt-arbeitsrecht-in-berlin.de/) (July 2025)
 [^16]: [Finanztip](https://www.finanztip.de/sperrzeit-arbeitslosengeld/#:~:text=Sollst%20Du%20laut,Du%20eine%20Sperrzeit.) (November 2024), [Andreas Martin](https://rechtsanwalt-arbeitsrecht-in-berlin.de/) (July 2025)
-[^17]: [§ 7 Abs. 4 BUrlG](https://www.buzer.de/7_BUrlG.htm)
+[^17]: [spiegel.de](https://www.spiegel.de/karriere/leitfaden-ich-kuendige-aber-richtig-a-858159.html#:~:text=kann%20der%20arbeitgeber%20auch%20den%20urlaub%20zwangsweise%20gewahren) (September 2012)
