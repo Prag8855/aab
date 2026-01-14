@@ -81,41 +81,9 @@ This checklist helps you move from Germany to another country, step by step.
     - [ ] [Tax ID](/guides/german-tax-id-steuernummer) (*[[Steueridentifikationsnummer]]*)
 - [ ] **[Close your business](#close-your-business)**
 
-**Keep your bank account.** You will need it to get your [apartment deposit](/glossary/Kaution), last paycheck, yearly bonus, tax return and [blocked account](/glossary/Pfändungsschutzkonto) payments.[^25]
-
-**Keep your phone number.** You might need it for online banking and two-factor authentication.
-
-### Money and investments
-
-Use [Wise](/out/wise) to move your money to another country.
-
-If you have a [blocked account](/glossary/Sperrkonto), you can close it after leaving Germany. You might need a *Sperrfreigabe* from your local German embassy, consulate or *[[Ausländerbehörde]]*.[^13]
-
-https://www.juhn.com/fachwissen/internationales-steuerrecht/wegzugsteuer-bei-investmentfonds/
-
-Crypto: https://www.wohnsitzausland.com/fachwissen/entstrickung-exit-tax#:~:text=durch%20einen%20steuerpflichtigen%20gehaltene%20kryptowahrungen%20nicht%20betrifft
-
-### Health insurance
-
-Tell your health insurance when you will stop working. When you are unemployed, the price of health insurance changes. If you get [unemployment benefits](/glossary/ALG%20I), it pays for your health insurance.
-
-Cancel your health insurance. You need an *[[Abmeldebescheinigung]]* for this.[^7]
-
-Your private or expat health insurance might work in another country. Check with your health insurer.
-
-If you plan to return to Germany, get an *[[Anwartschaft]]* from your health insurer. It allows you to get the same health insurance when you return to Germany, even if you are *freiwillig versichert*, or your health got worse. Without an *Anwartschaft* it can be really hard to find affordable health insurance.[^16]
-
-Your private or expat health insurance might work in other countries.
-
-If you are retired, your German public health insurance stays valid in all [EU](/glossary/European%20Union) countries.[^28]
-
-### Taxes
-
-If you still have investments, real estate or a business in Germany, you might still need to pay German taxes.[^27]
+Keep your phone number. You might need it for online banking and two-factor authentication.
 
 ### Close your business
-
-Sole proprietorships are easy to close. If you have an AG, UG or GmbH, it's much more complicated.[^9]
 
 - [ ] **[Tell the Finanzamt](https://verwaltung.bund.de/leistungsverzeichnis/EN/leistung/99102018120000)** (*steuerliche Abmeldung*)  
     It will stop [VAT](/glossary/Umsatzsteuer) and [income tax](/glossary/Einkommensteuer) prepayments.[^17]
@@ -131,7 +99,7 @@ Sole proprietorships are easy to close. If you have an AG, UG or GmbH, it's much
     - [ ] [VAT number](/glossary/Umsatzsteuernummer)
     - [ ] [[ELSTER]] login details
 
-If you are part of a *Handwerkskammer*, *Berufskammer* or *Berufsgenossenschaft*, you must also deregister there.[^19]
+Sole proprietorships are easy to close. If you have an AG, UG or GmbH, it's much more complicated.[^9] If you are part of a *Handwerkskammer*, *Berufskammer* or *Berufsgenossenschaft*, you must also deregister there.[^19]
 
 ## After you leave Germany
 
@@ -144,7 +112,7 @@ If you are part of a *Handwerkskammer*, *Berufskammer* or *Berufsgenossenschaft*
 - [ ] **[Make a tax declaration](/guides/moving-in#deduct-your-moving-costs)**  
     If you move for work, your relocation costs are [tax-deductible](/glossary/steuerlich%20absetzbar). Since you stopped working in the middle of the year, you probably paid too much [salary tax](/glossary/Einkommensteuer). Most people get money back.[^8]
 - [ ] **[Get your pension payments back](/guides/pension-payments-refund)**  
-    [Public pension insurance](/glossary/gesetzliche%20Rentenversicherung) costs {{RV_EMPLOYEE_CONTRIBUTION}}% of your income. If you leave Germany, you can get that money back.
+    [Public pension insurance](/glossary/gesetzliche%20Rentenversicherung) costs {{RV_EMPLOYEE_CONTRIBUTION}}% of your income. If you leave the [EU](/glossary/European%20Union), you can usually get that money back.
 
 These tasks are optional:
 
@@ -158,7 +126,7 @@ These tasks are optional:
 These things keep working even if you don't live in Germany:
 
 - **Public pension**  
-    You can receive your German public pension abroad.[^6] If you don't qualify for a German pension, you can [get a refund for your pension payments](/guides/pension-payments-refund).
+    You can receive your German public pension abroad.[^6] If you can't get a German pension, you can [get your pension payments back](/guides/pension-payments-refund).
 - **Private pension**  
     You can sometimes contribute to your private pension after you leave Germany. It's sometimes a good idea, but it depend on how pensions are taxed in your new country.
 - **[Unemployment benefits](/guides/unemployment-benefits)**  
@@ -181,6 +149,46 @@ Exceptions:
 
 - Anwartschaftsversicherung
 - Residence permit process, PR and citizenship time
+
+## Money and investments
+
+### Bank account
+
+**Do not close your bank account.** You will need it to get your [apartment deposit](/glossary/Kaution), last paycheck, yearly bonus, tax return and [blocked account](/glossary/Pfändungsschutzkonto) payments.[^25]
+
+If you have a [blocked account](/glossary/Sperrkonto), you can close it after you leave Germany. You might need a *Sperrfreigabe* from a German embassy, consulate or *[[Ausländerbehörde]]*.[^13]
+
+Use [Wise](/out/wise) to move your money to another country.
+
+### Investments
+
+https://www.juhn.com/fachwissen/internationales-steuerrecht/wegzugsteuer-bei-investmentfonds/
+
+### Real estate
+
+### Cryptocurrencies
+
+Crypto: https://www.wohnsitzausland.com/fachwissen/entstrickung-exit-tax#:~:text=durch%20einen%20steuerpflichtigen%20gehaltene%20kryptowahrungen%20nicht%20betrifft
+
+## Health insurance
+
+Tell your health insurance when you will stop working. When you are unemployed, the price of health insurance changes. If you get [unemployment benefits](/glossary/ALG%20I), it pays for your health insurance.
+
+If you are a student, and you disenrol from university, your school will tell your health insurer. Your [public health insurance](/glossary/gesetzliche%20Krankenversicherung) might become more expensive without the student discount.
+
+Cancel your health insurance. You need an *[[Abmeldebescheinigung]]* for this.[^7]
+
+Your private or expat health insurance might work in another country. Check with your health insurer.
+
+If you plan to return to Germany, get an *[[Anwartschaft]]* from your insurer. It allows you to get the same health insurance when you return to Germany, even if you are *freiwillig versichert*, or your health got worse. Without an *Anwartschaft* it can be really hard to find affordable health insurance.[^16]
+
+Your private or expat health insurance might work in other countries.
+
+If you are retired, your German public health insurance stays valid in all [EU](/glossary/European%20Union) countries.[^28]
+
+## Taxes
+
+If you still have investments, real estate or a business in Germany, you might still need to pay German taxes.[^27]
 
 ## Need help?
 
