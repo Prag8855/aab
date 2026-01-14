@@ -10,7 +10,7 @@ Related_guides:
     guides/leaving-germany.md
 ---
 
-A *Versicherungsverlauf* shows your history of public pension insurance payments. You can request it from the [[Deutsche Rentenversicherung]]. You can download it as a PDF, or get it by post. It's mailed to your [registered address](/glossary/Anmeldung) in around 1 week.
+A *Versicherungsverlauf* shows your history of public pension insurance payments. You can request it from the [[Deutsche Rentenversicherung]]. You can download it as a PDF, or get it by post. It will arrive at your [registered address](/glossary/Anmeldung) in around 1 week.
 
 **[Request a Versicherungsverlauf online ➞](https://kundenportal.deutsche-rentenversicherung.de/od-kundenportal)** - requires an [[eID]]
 

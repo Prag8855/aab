@@ -81,7 +81,7 @@ During your notice period, your employer still pays your salary, health insuranc
 
 During your notice period, your employer can make you work, or send you on [garden leave](https://en.wikipedia.org/wiki/Garden_leave) (*bezahlte Freistellung*). Your employer can force you to use your vacation days.[^17] Garden leave means that you don't go to work work, but you still get paid.[^6] When you are on garden leave, your employer can still call you back to work.[^7]
 
-**If you want to leave sooner**, you can negotiate a shorter notice period with your employer. Your employer can refuse to shorten your notice period.[^15] To shorten your notice period, you must sign an *Aufhebungsvertrag*. If you choose a shorter notice period, you usually lose 3 months of [unemployment benefits](/glossary/ALG%20I).[^16]
+**If you want to leave sooner**, you can negotiate a shorter notice period with your employer. Your employer can refuse to shorten your notice period.[^15] To shorten your notice period, you must sign an *Aufhebungsvertrag*. If you choose a shorter notice period, you usually lose 3 months of [unemployment benefits](/glossary/ALG%20I).[^16] Signing an *Aufhebungsvertrag* [can be a bad idea](/guides/losing-your-job#do-not-sign-an-aufhebungsvertrag).
 
 ### Sick leave and vacation days
 
@@ -105,7 +105,7 @@ During your [notice period](/glossary/Kündigungsfrist), you still get paid [sic
 [^10]: [Rotwang Law](https://rotwang-law.de/en/) (July 2023)
 [^11]: [ergo.de](https://www.ergo.de/de/rechtsportal/arbeitsrecht/arbeitssuche/kuendigung-vor-arbeitsantritt), [jobteaser.com](https://www.jobteaser.com/de/advices/vor-arbeitsbeginn-kuendigen-das-musst-du-beachten) [Rotwang Law](https://rotwang-law.de/en/) (July 2023)
 [^12]: [arbeitsrechte.de](https://www.arbeitsrechte.de/maximale-kuendigungsfrist/#:~:text=darf%20jedoch%20nie%20langer%20sein%20als%20die%20des%20arbeitgebers)
-[^13]: [wiwi-treff.de](https://www.wiwi-treff.de/Kuendigung/Kuendigungsfrist-3-Monate/Diskussion-22909)
+[^13]: [wiwi-treff.de](https://www.wiwi-treff.de/Kuendigung/Kuendigungsfrist-3-Monate/Diskussion-22909), [Reddit](https://old.reddit.com/r/germany/comments/fr5pmn/how_common_is_3_month_notice_period_for_software/) (2020), [Reddit](https://old.reddit.com/r/arbeitsleben/comments/1kuizer/3_monate_k%C3%BCndigungsfrist_warum_halten_arbeitgeber/?tl=en) (2025)
 [^14]: [Andreas Martin](https://rechtsanwalt-arbeitsrecht-in-berlin.de/) (July 2025)
 [^15]: [Andreas Martin](https://rechtsanwalt-arbeitsrecht-in-berlin.de/) (July 2025)
 [^16]: [Finanztip](https://www.finanztip.de/sperrzeit-arbeitslosengeld/#:~:text=Sollst%20Du%20laut,Du%20eine%20Sperrzeit.) (November 2024), [Andreas Martin](https://rechtsanwalt-arbeitsrecht-in-berlin.de/) (July 2025)

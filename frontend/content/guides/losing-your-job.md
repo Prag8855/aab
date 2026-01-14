@@ -38,7 +38,7 @@ To quit your job, you must give a resignation letter (*[[Kündigungsschreiben]]*
 
 **[How to write and send your resignation letter ➞](/docs/resignation-letter)**
 
-Your employer can't force you to resign. Never give a resignation letter if you did not resign.
+Your employer can't force you to resign. Never write a resignation letter if you did not choose to resign.
 
 ### See a doctor
 
