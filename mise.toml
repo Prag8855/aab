@@ -152,14 +152,7 @@ run = "ruff format"
 description = "Run git pre-commit checks"
 run = """
 mise format
-
-mise shellcheck
-mise ruff
-
-# ursus lint on staged files only
-frontend_files=$(git diff --cached --name-only --diff-filter=ACM | grep '^frontend/')
-[ -z "$frontend_files" ] && exit 0
-ursus lint --level=ERROR -c frontend/ursus_config.py $staged_files
+mise lint
 """
 
 [tasks.pre-push]

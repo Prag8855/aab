@@ -106,7 +106,7 @@ Your private or expat health insurance might work in another country. Check with
 
 If you plan to return to Germany, get an *[[Anwartschaft]]* from your health insurer. It allows you to get the same health insurance when you return to Germany, even if you are *freiwillig versichert*, or your health got worse. Without an *Anwartschaft* it can be really hard to find affordable health insurance.[^16]
 
-Your [private](/glossary/private%20Krankenversicherung) or expat health insurance might work in other countries.
+Your private or expat health insurance might work in other countries.
 
 If you are retired, your German public health insurance stays valid in all [EU](/glossary/European%20Union) countries.[^28]
 
