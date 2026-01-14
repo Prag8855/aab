@@ -283,18 +283,19 @@ During your [notice period](/glossary/Kündigungsfrist), you can still take sick
 
 ## Checklist
 
-- [ ] If you quit, [give your resignation letter](#give-your-resignation-letter)
+- [ ] [Give your resignation letter](#give-your-resignation-letter) (only if you *chose* to resign)
 - [ ] [Register as a job seeker](#register-as-a-job-seeker) at the *[[Agentur für Arbeit]]*
 - [ ] [Register as unemployed](#register-as-unemployed) at the *[[Agentur für Arbeit]]*
-- [ ] If you have a [residence permit](/glossary/Aufenthaltstitel), [tell the *Ausländerbehörde*](#tell-the-auslanderbehorde)
 - [ ] [Tell your health insurance](#tell-your-health-insurance)
+- [ ] [Use your vacation days](#what-happens-to-your-unused-vacation-days)
+- [ ] [Tell the *Ausländerbehörde*](/guides/losing-your-job#tell-the-auslanderbehorde) (if you have a [residence permit](/glossary/Aufenthaltstitel))
 - [ ] Get all documents from your employer
-    - [ ] [Letter of reference](#get-a-letter-of-reference) (*[[Arbeitszeugnis]]*)
-    - [ ] [Employment certificate](#get-an-arbeitsbescheinigung) (*[[Arbeitsbescheinigung]]*)
-    - [ ] [Vacation certificate](#get-an-urlaubsbescheinigung) (*[[Urlaubsbescheinigung]]*)
-    - [ ] [Last pay slip](#get-all-other-documents) (*[[Gehaltsabrechnung]]* or *Lohnabrechnung*)
-    - [ ] [Salary tax statement](#get-all-other-documents) (*[[Lohnsteuerbescheinigung]]*)
-- [ ] Make a [tax declaration](/glossary/Steuererklärung)
+    - [ ] [Letter of reference](/guides/losing-your-job#get-a-letter-of-reference) (*[[Arbeitszeugnis]]*)
+    - [ ] [Employment certificate](/guides/losing-your-job#get-an-arbeitsbescheinigung) (*[[Arbeitsbescheinigung]]*)
+    - [ ] [Vacation certificate](/guides/losing-your-job#get-an-urlaubsbescheinigung) (*[[Urlaubsbescheinigung]]*)
+    - [ ] [Last pay slip](/guides/losing-your-job#get-all-other-documents) (*[[Gehaltsabrechnung]]* or *Lohnabrechnung*)
+    - [ ] [Salary tax statement](/guides/losing-your-job#get-all-other-documents) (*[[Lohnsteuerbescheinigung]]*)
+- [ ] [Make a tax declaration](#make-a-tax-declaration)
 
 If you are moving to another country, see the [checklist for leaving Germany](/guides/leaving-germany).
 

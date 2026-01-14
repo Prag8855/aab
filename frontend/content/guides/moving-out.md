@@ -229,7 +229,7 @@ Your landlord can refuse to give you a *Mietschuldenfreiheitsbescheinigung*. Som
 - [ ] [Clean or repaint the apartment](/guides/moving-out#repaint-the-apartment)
 - [ ] [Complete the handover](#complete-the-handover)
     - [ ] [Give your apartment keys back](/guides/moving-out#return-the-keys)
-    - [ ] [Read your electricity meter](/guides/moving-out#read-the-electricity-meter)
+    - [ ] [Read your electricity, gas and water meters](/guides/moving-out#read-the-electricity-meter)
     - [ ] [Sign a handover document](/guides/moving-out#sign-the-ubergabeprotokoll) (*[[Übergabeprotokoll]]*)
     - [ ] [Get a *Mietschuldenfreiheitsbescheinigung*](/guides/moving-out#get-a-mietschuldenfreiheitsbescheinigung)
 - [ ] [Get your deposit back](/guides/moving-out#get-your-deposit-back)

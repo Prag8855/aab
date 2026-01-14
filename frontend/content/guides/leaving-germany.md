@@ -13,16 +13,15 @@ This checklist helps you move from Germany to another country, step by step.
 ### Full checklist
 
 - [ ] **[Quit your job](/guides/losing-your-job)**  
-    Most jobs have a 4-week [notice period](/glossary/Kündigungsfrist), but it can be longer. You can negotiate a shorter notice period with your employer.
+    The [notice period](/glossary/Kündigungsfrist) is usually 1 to 3 months. You can sometimes negotiate a shorter notice period.
     - [ ] **[Give your resignation letter](/guides/losing-your-job#give-your-resignation-letter)**  
-        Your [notice period](/glossary/Kündigungsfrist) starts when your employer receives your [resignation letter](/glossary/Kündigungsschreiben).
-    - [ ] **[Register as unemployed](/guides/losing-your-job#register-as-unemployed)**  
-        If you move to another [EU](/glossary/European%20Union) country, you can still get [unemployment benefits](/glossary/ALG%20I) for up to 6 months.[^15]
+        Your [notice period](/glossary/Kündigungsfrist) starts when your employer receives your [resignation letter](/glossary/Kündigungsschreiben). If you got fired or laid off, you don't need to do this.
+    - [ ] **[Register as unemployed](/guides/losing-your-job#register-as-a-job-seeker)**  
+        Do it as soon as possible. This is how you get [unemployment benefits](/glossary/ALG%20I) until you leave the [EU](/glossary/European%20Union).[^15]
     - [ ] **[Tell your health insurance](/guides/losing-your-job#tell-your-health-insurance)**  
         When you are unemployed, the price of your health insurance changes. If you get [unemployment benefits](/glossary/ALG%20I), it pays for your health insurance.
-    - [ ] **Get paid for unused vacation days**  
-        If you have unused vacation days, your employer must pay you for them.[^21]
-    - [ ] [Tell the *Ausländerbehörde*](/guides/losing-your-job#tell-the-auslanderbehorde)
+    - [ ] **[Use your vacation days](/guides/losing-your-job#what-happens-to-your-unused-vacation-days)**  
+        If you can't use all your vacation days, your employer must pay them to you.
     - [ ] Get all documents from your employer
         - [ ] [Letter of reference](/guides/losing-your-job#get-a-letter-of-reference) (*[[Arbeitszeugnis]]*)
         - [ ] [Employment certificate](/guides/losing-your-job#get-an-arbeitsbescheinigung) (*[[Arbeitsbescheinigung]]*)
@@ -32,18 +31,19 @@ This checklist helps you move from Germany to another country, step by step.
 - [ ] **[Sell or donate your things](/guides/how-do-i-buy-and-sell-used-things-in-berlin)**
 - [ ] **[Move out of your apartment](/guides/moving-out)**
     - [ ] **[End your lease](/guides/moving-out#end-your-lease)**  
-        Most leases have a 3-month [notice period](/glossary/Kündigungsfrist). Your landlord might let you leave sooner if you find a new tenant for your apartment.
+        Most leases have a 3 month [notice period](/glossary/Kündigungsfrist). Your landlord might let you leave sooner if you find a new tenant for your apartment.
     - [ ] **[Clean or repaint the apartment](/guides/moving-out#repaint-the-apartment)**
     - [ ] **[Complete the handover](/guides/moving-out#complete-the-handover)**
         - [ ] [Give your apartment keys back](/guides/moving-out#return-the-keys)
-        - [ ] [Read your electricity meter](/guides/moving-out#read-the-electricity-meter)
+        - [ ] [Read your electricity, gas and water meters](/guides/moving-out#read-the-electricity-meter)
         - [ ] [Sign a handover document](/guides/moving-out#sign-the-ubergabeprotokoll) (*[[Übergabeprotokoll]]*)
         - [ ] [Get a *Mietschuldenfreiheitsbescheinigung*](/guides/moving-out#get-a-mietschuldenfreiheitsbescheinigung)
     - [ ] **[Get your deposit back](/guides/moving-out#get-your-deposit-back)**  
-        You should get most of your [deposit](/glossary/Kaution) back after you complete the [handover](/glossary/Wohnungsübergabe). Your landlord can keep *part* of your deposit until the last *[[Nebenkostenabrechnung]]*.
-    - [ ] Save invoices for your [tax declaration](/glossary/Steuererklärung)
+        Your landlord must return most of your [deposit](/glossary/Kaution) after the [handover](/glossary/Wohnungsübergabe). They can keep *some* of your deposit for the yearly *[[Nebenkostenabrechnung]]*.
+    - [ ] **Save your receipts**  
+        Moving costs are [tax-deductible](/glossary/steuerlich%20absetzbar). Save your receipts for your [tax declaration](/glossary/Steuererklärung).
 - [ ] **[Deregister your address](/guides/abmeldung-deregister-in-berlin)** (*[[Abmeldung]]*)  
-    It tells the *[[Finanzamt]]* that you should stop paying taxes in Germany. You will get a [deregistration certificate](/glossary/Abmeldebescheinigung). Use it to cancel contracts with a shorter [notice period](/glossary/Kündigungsfrist).
+    It tells the *[[Finanzamt]]* that you should stop paying taxes in Germany. When you deregister, you get an *[[Abmeldebescheinigung]]*. Use it to cancel contracts with a shorter [notice period](/glossary/Kündigungsfrist).
     - [ ] [Change your address](/guides/address-change#tell-everyone)
     - [ ] [Forward your mail](/guides/address-change#forward-your-mail)
     - [ ] [Deregister for TV tax](/guides/gez-rundfunkbeitrag#how-to-stop-paying)
@@ -51,23 +51,23 @@ This checklist helps you move from Germany to another country, step by step.
 - [ ] **[Cancel your contracts](/guides/moving-out#cancel-or-move-your-contracts)**  
     Most contracts have a [notice period](/glossary/Kündigungsfrist). When you leave Germany, you can sometimes end contracts sooner. You might need to get an *[[Abmeldebescheinigung]]* first.
     - [ ] **[Health insurance](#health-insurance)**  
-        You can sometimes keep your German health insurance, even if you leave in another country. If you can't stay insured, you must cancel your health insurance. Your private or expat health insurance might work in other countries.
+        Your insurance usually stops covering you after you leave Germany, but there are exceptions.
     - [ ] **Utilities**  
-        The [notice period](/glossary/Kündigungsfrist) for gas and electricity is 2 weeks.[^22] Read your water, gas and electricity meters before you [move out](/guides/moving-out). The utility companies will send you a last invoice based on your real usage.
-    - [ ] **Insurances**  
-        You can sometimes stay insured in other countries.
+        The [notice period](/glossary/Kündigungsfrist) is 2 weeks.[^22] Read the water, gas and electricity meters before you [move out](/guides/moving-out). You will get a last invoice based on your measured usage.
     - [ ] **Phone and internet**  
         The [notice period](/glossary/Kündigungsfrist) is 1 month.[^23]
     - [ ] **Gym membership**  
         The [notice period](/glossary/Kündigungsfrist) is different for each gym. There is sometimes a shorter notice period when you leave Germany.[^24]
     - [ ] **Public transit pass** or [Deutschland Ticket](/guides/deutschland-ticket#how-to-cancel-a-deutschland-ticket)
+    - [ ] **Other insurances**  
+        You can sometimes use your insurance policies in another country.
 - [ ] **Disenrol from university**  
-    Tell your university. They might refund your tuition fees and semester ticket.[^12] Your university will tell your health insurer, and your [public health insurance](/glossary/gesetzliche%20Krankenversicherung) will become more expensive.
+    Your university might refund your tuition fees and semester ticket.[^12] They will tell your health insurer, so your [public health insurance](/glossary/gesetzliche%20Krankenversicherung) might become more expensive.
     - [ ] Get a confirmation of disenrolment[^10]
     - [ ] Get a transcript of records[^11] (*Leistungsübersicht*)
 - [ ] **Save important documents**
     - [ ] **Public pension record** (*[[Versicherungsverlauf]]*)  
-        [Download your *Versicherungsverlauf*](https://kundenportal.deutsche-rentenversicherung.de/od-kundenportal) or [get it by post](/out/drv-pension-payments-info). It's mailed to your [registered address](/glossary/Anmeldung) in around 1 week.
+        [Download your *Versicherungsverlauf*](https://kundenportal.deutsche-rentenversicherung.de/od-kundenportal) or [get it by post](/out/drv-pension-payments-info). It will arrive at your [registered address](/glossary/Anmeldung) in around 1 week.
     - [ ] Private pension documents
     - [ ] Medical records
         - [ ] [Vaccination pass](/glossary/Impfausweis)
@@ -118,18 +118,19 @@ If you still have investments, real estate or a business in Germany, you might s
 
 Sole proprietorships are easy to close. If you have an AG, UG or GmbH, it's much more complicated.[^9]
 
-- [ ] **Tell the [[Finanzamt]]** (*steuerliche Abmeldung*)  
-    If you are self-employed or you run a business, [tell the *Finanzamt*](https://verwaltung.bund.de/leistungsverzeichnis/EN/leistung/99102018120000) when you close your business. It will stop [VAT](/glossary/Umsatzsteuer) and [income tax](/glossary/Einkommensteuer) prepayments.[^17]
-- [ ] **Tell the [[IHK]]** (*Gewerbeabmeldung*)  
-    If you have a *[[Gewerbe]]*, you must deregister it at the IHK. In Berlin, you can [do it online](https://service.berlin.de/dienstleistung/122107/). It will stop *[[Gewerbesteuer]]* payments and IHK membership fees.[^18]
+- [ ] **[Tell the Finanzamt](https://verwaltung.bund.de/leistungsverzeichnis/EN/leistung/99102018120000)** (*steuerliche Abmeldung*)  
+    It will stop [VAT](/glossary/Umsatzsteuer) and [income tax](/glossary/Einkommensteuer) prepayments.[^17]
+- [ ] **[Tell the IHK](https://service.berlin.de/dienstleistung/122107/)** (*Gewerbeabmeldung*)  
+    If you have a *[[Gewerbe]]*, deregister it at the [[IHK]]. It will stop *[[Gewerbesteuer]]* payments and IHK membership fees.[^18]
 - [ ] **Pay the exit tax**  
-    If you have an AG, UG or GmbH, you must [pay the exit tax](https://www.winheller.com/en/tax-law-tax-advisory/international-tax-planning/exit-taxation.html).[^1] You can avoid it, but it's hard.[^14] Ask a [tax advisor](/glossary/Steuerberater) to help you. Freelancers rarely need to pay an exit tax.[^26]
-- [ ] Save important documents
+    If you have an AG, UG or GmbH, you must [pay the exit tax](https://www.winheller.com/en/tax-law-tax-advisory/international-tax-planning/exit-taxation.html).[^1] You can avoid it, but it's hard.[^14] Ask a [tax advisor](/glossary/Steuerberater) to help you. Freelancers and sole proprietors rarely need to pay an exit tax.[^26]
+- [ ] **Save important documents**
     - [ ] [Tax assessments](/glossary/Steuerbescheid) for your business
     - [ ] Invoices and receipts
-- [ ] **Save important identification numbers**
+- [ ] **Save important information**
     - [ ] [Tax number](/glossary/Steuernummer)
     - [ ] [VAT number](/glossary/Umsatzsteuernummer)
+    - [ ] [[ELSTER]] login details
 
 If you are part of a *Handwerkskammer*, *Berufskammer* or *Berufsgenossenschaft*, you must also deregister there.[^19]
 
@@ -238,7 +239,6 @@ You can get free help from...
 [^18]: [IHK Berlin](https://www.ihk.de/berlin/ueber-uns/mitgliedschaft-und-beitrag/beendigung-der-beitragspflicht-2256682) (January 2026)
 [^19]: [gruenderplattform.de](https://gruenderplattform.de/unternehmensfuehrung/gewerbe-abmelden#folgen) (January 2026)
 [^20]: [Returning From Germany](https://www.returningfromgermany.de/programmes/reag-garp/) (January 2026)
-[^21]: Citation needed - Vacation days
 [^22]: [deurag.de](https://www.deurag.de/blog/sonderkuendigungsrecht-beim-umzug/#c16426) (January 2026), [§ 20 Abs. 1 StromGVV](https://www.buzer.de/gesetz/7424/a146076.htm), [§ 20 Abs. 1 GasGVV](https://www.buzer.de/gesetz/7425/a146100.htm)
 [^23]: [§ 60 Abs. 2 TKG](https://www.buzer.de/60_TKG.htm), [Telekom](https://www.telekom.de/hilfe/vertrag-rechnung/vertrag/kuendigen/umzug-ausland?samChecked=true) (January 2026), [deurag.de](https://www.deurag.de/blog/sonderkuendigungsrecht-beim-umzug/#:~:text=fur%20internet%2C%20telefon%20und%20handy%20betragt%20meist%20einen%20monat) (January 2026)
 [^24]: [FitX](https://hilfe.fitx.de/hc/de/articles/30715200755613-Kann-ich-meine-Mitgliedschaft-au%C3%9Ferordentlich-k%C3%BCndigen) (January 2026), [John Reed](https://help.johnreed.fitness/hc/de/articles/28868024075921-Wie-kann-ich-meine-John-Reed-Mitgliedschaft-beenden#:~:text=wegen%20krankheit%20oder%20umzug) (January 2026) [Reddit](https://old.reddit.com/r/LegaladviceGerman/comments/1kf548r/kann_ich_meinen_fitnessstudiovertrag_wegen/) (2025), [anwalt.org](https://www.anwalt.org/kuendigung/superfit/#SUPERFIT_Kuendigung_bei_Umzug) (2025), [verbraucherzentrale-brandenburg.de](https://www.verbraucherzentrale-brandenburg.de/infothek/fitnessstudio-kuendigen-so-gehts#:~:text=und%20wird%20nur%20aus%20kulanz%20gewahrt) (April 2025)
