@@ -153,7 +153,7 @@ Before you get [unemployment benefits](/glossary/ALG%20I), your employer must se
 
 A vacation certificate (*[[Urlaubsbescheinigung]]*) shows how many unused vacation days you have. It tells your next employer how many vacation days you should get this year.[^34]
 
-Your employer is required to give you an *Urlaubsbescheinigung*, but you must ask for it.[^33] Ask for it in your [resignation letter](/glossary/Kündigungsschreiben).
+Your employer must give you an *Urlaubsbescheinigung* if you ask for it.[^33] Ask for it in your [resignation letter](/glossary/Kündigungsschreiben).
 
 **[What happens to your vacation days ➞](#what-happens-to-your-unused-vacation-days)**
 
@@ -271,11 +271,15 @@ If your employer gives performance bonuses, you should get that bonus, even if y
 
 ## What happens to your unused vacation days
 
-You usually take your unused vacation days during your [notice period](/glossary/Kündigungsfrist).[^14] In some cases, your employer pays you for your unused vacation days.
+Usually, your employer forces you use all your vacation days before the end of your [notice period](/glossary/Kündigungsfrist). You still get paid while on vacation.
 
-During your notice period, you can still go on [sick leave](/guides/sick-leave).
+After you use all your vacation days, your employer might send you on [garden leave](https://en.wikipedia.org/wiki/Garden_leave).
 
 **[Vacation days when you change jobs ➞](/guides/vacation-days#if-you-change-jobs)**
+
+During your [notice period](/glossary/Kündigungsfrist), you can still take sick days. You still get paid while on sick leave.
+
+**[Sick leave during your notice period ➞](/guides/sick-leave#during-your-notice-period)**
 
 ## Checklist
 
@@ -308,13 +312,13 @@ If you need help, hire an employment lawyer (*Anwalt für Arbeitsrecht*). In Ger
 [^4]: [VAB A.18g.4](/out/vab) (December 2024), [§ 82 Abs. 6 AufenthG](https://www.buzer.de/82_AufenthG.htm)
 [^5]: [§ 7 Abs. 2 AufenthG](https://www.buzer.de/7_AufenthG.htm), [7.2.2 VAB](/out/vab), [David Kremers](https://www.linkedin.com/pulse/mutual-obligations-case-early-termination-employment-non-eu-kremers/?utm_source=share&utm_medium=member_ios&utm_campaign=share_via#:~:text=usually%2C%20nothing%20happens%20at%20first), [anwalt.de](https://www.anwalt.de/rechtstipps/blaue-karte-eu-was-tun-bei-arbeitgeberwechsel-oder-kuendigung-211321.html), [make-it-in-germany.com](https://www.make-it-in-germany.com/de/blaue-karte-eu#:~:text=danach%20kann%20nach%20%C2%A7%2018c%20aufenthg%20fur%20maximal%20ein%20halbes%20jahr), [Facebook](https://www.facebook.com/groups/226825394858771/?multi_permalinks=1328506994690600), Charlott Posch of the [Willkommenszentrum](https://www.berlin.de/willkommenszentrum/) (June 2023), Beratungsservice of the Ausländerbehörde (June 2023), [Red Tape Translation](/out/red-tape-translation) (July 2023), Carina Senf at [Rotwang Law](https://rotwang-law.de/en/) (July 2023), [BAMF](https://www.bamf.de/EN/Themen/MigrationAufenthalt/ZuwandererDrittstaaten/Arbeit/Fachkraft/fachkraft-node.html#:~:text=you%20have%20the%20option%20of%20applying%20for%20a%20residence%20permit%20for%20up%20to%20six%20months%20to%20look%20for%20a%20job), [Mirko Vorreuter](https://visaguard.berlin) (September 2025)
 [^6]: [Techniker Krankenkasse](https://www.tk.de/techniker/leistungen-und-mitgliedschaft/informationen-versicherte/veraenderung-berufliche-situation/wenn-sie-arbeitslos-sind/werde-arbeitslos-wie-bin-ich-versichert-2005726)
+[^7]: [hammer-rechtsanwaelte.de](https://hammer-rechtsanwaelte.de/neuigkeiten-detail/krankmeldung-nach-kuendigung/#:~:text=grundsatzlich%20gilt%20das%20auch%20bei%20erfolgter%20kundigung) (June 2024)
 [^8]: [§ 9 Abs. 1 BeschV](https://www.buzer.de/9_BeschV.htm)
 [^9]: [wiwi-treff.de](https://www.wiwi-treff.de/Kuendigung/Kuendigungsfrist-3-Monate/Diskussion-22909#:~:text=eine%20kundigungsfrist%20von%20drei%20monaten%20ist%20eher%20die%20regel%20als%20die%20ausnahme) (March 2016), [Reddit](https://old.reddit.com/r/cscareerquestionsEU/comments/i0k81q/6_month_notice_period_in_germany/?tl=de) (2020)
 [^10]: [Finanztip](https://www.finanztip.de/fristlose-kuendigung/)
 [^11]: [§ 82 Abs. 6 AufenthG](https://www.buzer.de/82_AufenthG.htm)
 [^12]: [Red Tape Translation](https://redtapetranslation.com/dealing-with-burnout-in-germany/) (July 2023), personal interview (June 2023)
 [^13]: [kanzlei-hallermann.de](https://www.kanzlei-hallermann.de/blog/arbeitsbescheinigung/#:~:text=wahrend%20dieser%20zeit%20wird%20dann%20kein%20arbeitslosengeld%20gezahlt.), [§ 312 SGB III](https://www.buzer.de/312_SGB_3.htm), [Agentur für Arbeit](https://www.arbeitsagentur.de/news/arbeitsbescheinigungen-2023-bea-pflicht)
-[^14]: [spiegel.de](https://www.spiegel.de/karriere/leitfaden-ich-kuendige-aber-richtig-a-858159.html#:~:text=%20was%20ist%20mit%20resturlaub%3F%20)
 [^15]: [verdi.de](https://www.verdi.de/themen/arbeit/++co++6c32cc08-6d54-11ec-b675-001a4a16012a), [§ 109 GewO](https://www.buzer.de/109_GewO.htm)
 [^16]: [karrierebibel.de](https://karrierebibel.de/arbeitszeugnis/)
 [^19]: [arbeitnow.com](https://www.arbeitnow.com/blog/fired-in-germany#what-you-should-not-do-when-you-are-fired), [Finanztip](https://www.finanztip.de/aufhebungsvertrag/#c15632)
