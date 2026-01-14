@@ -5,7 +5,9 @@ Description: When you quit your job in Germany, you must give your employer a no
 Date_created: 2023-04-19
 ---
 
-German jobs have a notice period (*Kündigungsfrist*). If you quit or get laid off, you must work until the end of your notice period. This guide explains how that notice period works.
+German jobs have a notice period (*Kündigungsfrist*). If you [lose your job or quit](/guides/losing-your-job), you must work until the end of your notice period.
+
+This guide explains how that notice period works, and how to get a shorter notice period.
 
 {% include "_blocks/tableOfContents.html" %}
 
@@ -27,16 +29,14 @@ If your company has a collective agreement (*Tarifvertrag*), you might have a di
 
 > **Example:** You started a job 2 months ago, and you are still in your probation period. You resign on July 11. You must work until July 25. That's 2 weeks later.
 
-**[Notice period calculator](https://www.afa-anwalt.de/kuendigungsfristenrechner/)** (in German) - AfA Rechtsanwälte
+**[Notice period calculator ➞](https://www.afa-anwalt.de/kuendigungsfristenrechner/)**
 
 ## If you get laid off or fired
 
 If you get laid off, the default notice period depends on how long you have worked for this employer:[^3]
 
 | Time with this employer | Notice period |
-|---|Related_reviews:
-    reviews/job-notice-period/andreas-martin.md
----|
+|---|---|
 | Still in [probation](/glossary/Probezeit) | 2 weeks |
 | Under 2 years | 4 weeks, on the 15th or last day of the month |
 | Over 2 years | 1 month, on the last day of the month |
