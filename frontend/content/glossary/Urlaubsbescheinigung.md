@@ -12,7 +12,7 @@ Related_guides:
 
 A vacation certificate (*Urlaubsbescheinigung*) is a document you get from your employer when you [leave your job](/guides/losing-your-job). It tells your next employer how many vacation days you have used this year, and how many vacation days you have left.[^1]
 
-Your employer is required to give you an *[[Urlaubsbescheinigung]]* if you ask for it.[^2] You can ask for it in your [resignation letter](/glossary/Kündigungsschreiben).
+Your employer must give you an *[[Urlaubsbescheinigung]]* if you ask for it.[^2] Ask for it in your [resignation letter](/glossary/Kündigungsschreiben).
 
 **[Vacation days when you change jobs ➞](/guides/vacation-days#if-you-change-jobs)**
 
