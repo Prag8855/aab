@@ -145,11 +145,6 @@ Exceptions:
 - Studying abroad
 - Temporary job placement
 
-## Returning to Germany
-
-- Anwartschaftsversicherung
-- Residence permit process, PR and citizenship time
-
 ## Money and investments
 
 ### Bank account
@@ -172,19 +167,22 @@ Crypto: https://www.wohnsitzausland.com/fachwissen/entstrickung-exit-tax#:~:text
 
 ## Health insurance
 
-Tell your health insurance when you will stop working. When you are unemployed, the price of health insurance changes. If you get [unemployment benefits](/glossary/ALG%20I), it pays for your health insurance.
+**When you stop working**, tell your health insurer. Unemployment [changes the cost of your health insurance](/guides/german-health-insurance/when-unemployed). If you get [unemployment benefits](/glossary/ALG%20I), it pays for your health insurance.
 
-If you are a student, and you disenrol from university, your school will tell your health insurer. Your [public health insurance](/glossary/gesetzliche%20Krankenversicherung) might become more expensive without the student discount.
+**When you disenrol from university**, your school tells your health insurer. Your [public health insurance](/glossary/gesetzliche%20Krankenversicherung) might become more expensive without the student discount.
 
-Cancel your health insurance. You need an *[[Abmeldebescheinigung]]* for this.[^7]
+**When you leave Germany**, your health insurance might stop working:
 
-Your private or expat health insurance might work in another country. Check with your health insurer.
+- **If you move to another [EU](/glossary/European%20Union) country**  
+    Usually, your German health insurance stops working, and you must get insured in your new country. There are exceptions:
+    - If you are retired, your German health insurance still covers you[^28]
+    - If you study in another EU country, your German public health insurance still covers you
+- **If you move outside the EU**  
+    Your public or private health insurance stops working. Your expat health insurance might stay valid.[^21] Check with your insurer.
 
-If you plan to return to Germany, get an *[[Anwartschaft]]* from your insurer. It allows you to get the same health insurance when you return to Germany, even if you are *freiwillig versichert*, or your health got worse. Without an *Anwartschaft* it can be really hard to find affordable health insurance.[^16]
+To cancel your health insurance, you need an *[[Abmeldebescheinigung]]*.[^7] The notice period is usually 2 months.[^29] If you don't cancel your insurance, your insurer will keep charging you.
 
-Your private or expat health insurance might work in other countries.
-
-If you are retired, your German public health insurance stays valid in all [EU](/glossary/European%20Union) countries.[^28]
+**If you plan to return to Germany**, get an *[[Anwartschaft]]* from your insurer. You pay a monthly fee to pause your health insurance, and resume it later. When you return to Germany, you will get the same tariff and coverage, even if your situation or your health changed. Without an *Anwartschaft*, it can be hard to find affordable health insurance.[^16]
 
 ## Taxes
 
@@ -232,7 +230,7 @@ You can get free help from...
 [^4]: [fachanwaltfürarbeitsrecht.net](https://fachanwaltfürarbeitsrecht.net/13-monatsgehalt-bei-kundigung/) (January 2026)
 [^5]: [resartus.de](https://resartus.de/auswandern-aus-deutschland-welche-dokumente-sind-zum-auswandern-noetig/#:~:text=ehefahigkeitszeugnis%2C%20eheurkunde%20und%20scheidungsurteil) (2025)
 [^6]: [grenzenlos-sicher.de](https://www.grenzenlos-sicher.de/post/abmelden-aus-deutschland-2025#:~:text=keine%20direkten%20auswirkungen%20auf%20deine%20rentenzahlungen) (2025)
-[^7]: Citation needed - Abmeldebescheinigung to cancel health insurance
+[^7]: [Feather](https://feather-insurance.com/blog/cancel-health-insurance#:~:text=that%20means%20providing%20your%20abmeldung%2C)
 [^8]: Citation needed - Most people get money back with a tax declaration
 [^9]: [Suat Göydeniz](https://stb-goeydeniz.de/) (January 2026)
 [^10]: [hwr-berlin.de](https://www.hwr-berlin.de/en/study/studying-at-the-hwr-berlin/organizing-your-degree/applying-for-disenrolment) (January 2026)
@@ -241,15 +239,17 @@ You can get free help from...
 [^13]: [Expatrio](https://help.expatrio.com/hc/en-us/articles/360001061071-How-can-I-close-my-Blocked-Account) (January 2026), [ukraine.diplo.de](https://ukraine.diplo.de/ua-de/service/05-visaeinreise/2296252-2296252#content_3) (January 2026), [studying-in-germany.org](https://www.studying-in-germany.org/germany-blocked-account-foreign-students/how-to-close-my-blocked-account-in-germany/#expatrio) (January 2026)
 [^14]: Suat Göydeniz (January 2026)
 [^15]: [eu-gleichbehandlungsstelle.de](https://www.eu-gleichbehandlungsstelle.de/eugs-de/eu-buerger/infothek/arbeitslosigkeit-in-deutschland#tar-2) (January 2026), [deutsche-im-ausland.org](https://www.deutsche-im-ausland.org/absicherung-und-finanzen/sozialversicherung-im-ausland/arbeitslosenversicherung/arbeitssuche-im-ausland.html) (January 2026), [europa.eu](https://europa.eu/youreurope/citizens/work/social-security-and-benefits/transferring-unemployment-benefits/index_de.htm) (January 2026), [BEMA](https://bema.berlin/site/assets/files/1048/3_checkliste_zu_erledigen_vor_dem_umzug_aus_deutschland.pdf) (2018)
-[^16]: [Techniker Krankenkasse](https://www.tk.de/techniker/versicherung/tk-leistungen/ausland/anwartschaft-bei-auslandsaufenthalt-beantragen/personenkreis-anwartschaft-2024508) (March 2025), [Techniker Krankenkasse](https://www.tk.de/techniker/versicherung/tk-leistungen/ausland/anwartschaft-bei-auslandsaufenthalt-beantragen/gruende-fuer-eine-anwartschaftsversicherung-2024494) (February 2025)
+[^16]: [Techniker Krankenkasse](https://www.tk.de/techniker/versicherung/tk-leistungen/ausland/anwartschaft-bei-auslandsaufenthalt-beantragen/personenkreis-anwartschaft-2024508) (March 2025), [Techniker Krankenkasse](https://www.tk.de/techniker/versicherung/tk-leistungen/ausland/anwartschaft-bei-auslandsaufenthalt-beantragen/gruende-fuer-eine-anwartschaftsversicherung-2024494) (February 2025), [deutsche-im-ausland.org](https://www.deutsche-im-ausland.org/news/news-details/anwartschaft-was-ist-das-und-was-bringt-es.html) (2016), [Feather](https://feather-insurance.com/blog/cancel-health-insurance#:~:text=pause%20public%20health-,insurance,-If%20you%E2%80%99re%20leaving) (2025)
 [^17]: [Suat Göydeniz](https://stb-goeydeniz.de/) (January 2026), [Reddit](https://old.reddit.com/r/FragReddit/comments/102p791/was_tun_wenn_das_finanzamt_eine_steuererkl%C3%A4rung/j2vu02s/) (2023)
 [^18]: [IHK Berlin](https://www.ihk.de/berlin/ueber-uns/mitgliedschaft-und-beitrag/beendigung-der-beitragspflicht-2256682) (January 2026)
 [^19]: [gruenderplattform.de](https://gruenderplattform.de/unternehmensfuehrung/gewerbe-abmelden#folgen) (January 2026)
 [^20]: [Returning From Germany](https://www.returningfromgermany.de/programmes/reag-garp/) (January 2026)
+[^21]: Citation needed - PKV, GKV and expat insurance validity outside the EU
 [^22]: [deurag.de](https://www.deurag.de/blog/sonderkuendigungsrecht-beim-umzug/#c16426) (January 2026), [§ 20 Abs. 1 StromGVV](https://www.buzer.de/gesetz/7424/a146076.htm), [§ 20 Abs. 1 GasGVV](https://www.buzer.de/gesetz/7425/a146100.htm)
 [^23]: [§ 60 Abs. 2 TKG](https://www.buzer.de/60_TKG.htm), [Telekom](https://www.telekom.de/hilfe/vertrag-rechnung/vertrag/kuendigen/umzug-ausland?samChecked=true) (January 2026), [deurag.de](https://www.deurag.de/blog/sonderkuendigungsrecht-beim-umzug/#:~:text=fur%20internet%2C%20telefon%20und%20handy%20betragt%20meist%20einen%20monat) (January 2026)
 [^24]: [FitX](https://hilfe.fitx.de/hc/de/articles/30715200755613-Kann-ich-meine-Mitgliedschaft-au%C3%9Ferordentlich-k%C3%BCndigen) (January 2026), [John Reed](https://help.johnreed.fitness/hc/de/articles/28868024075921-Wie-kann-ich-meine-John-Reed-Mitgliedschaft-beenden#:~:text=wegen%20krankheit%20oder%20umzug) (January 2026) [Reddit](https://old.reddit.com/r/LegaladviceGerman/comments/1kf548r/kann_ich_meinen_fitnessstudiovertrag_wegen/) (2025), [anwalt.org](https://www.anwalt.org/kuendigung/superfit/#SUPERFIT_Kuendigung_bei_Umzug) (2025), [verbraucherzentrale-brandenburg.de](https://www.verbraucherzentrale-brandenburg.de/infothek/fitnessstudio-kuendigen-so-gehts#:~:text=und%20wird%20nur%20aus%20kulanz%20gewahrt) (April 2025)
 [^25]: [evz.de](https://www.evz.de/finanzen-versicherungen/umzug-ins-eu-ausland.html#:~:text=ist%20es%20nicht%20ratsam%2C%20ihr%20bestehendes%20girokonto%20zu%20kundigen) (2024)
 [^26]: [wohnsitzausland.com](https://www.wohnsitzausland.com/fachwissen/entstrickung-exit-tax#:~:text=als%20Selbst%C3%A4ndiger%20bzw.-,freiberufler,-Grunds%C3%A4tzlich%20gilt%20bei) (January 2026)
 [^27]: [wohnsitzausland.com](https://www.wohnsitzausland.com/faqs/faqs-wegzug-ins-ausland) (January 2026)
-[^28]: [wohnsitzausland.com](https://www.wohnsitzausland.com/aktuelles/auswandern-krankenversicherung-im-ausland#:~:text=rentner%2C%20die%20innerhalb%20der%20europaischen%20union%20dauerhaft%20leben) (January 2026)
+[^28]: [wohnsitzausland.com](https://www.wohnsitzausland.com/aktuelles/auswandern-krankenversicherung-im-ausland#:~:text=rentner%2C%20die%20innerhalb%20der%20europaischen%20union%20dauerhaft%20leben) (January 2026), [DVKA](https://www.dvka.de/de/versicherte/rentner/) (August 2025)
+[^29]: Citation needed - Notice period for health insurance
