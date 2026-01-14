@@ -140,9 +140,15 @@ Your vacation ends and your sick leave starts when you get a [sick note](/glossa
 
 ### If you have a hangover
 
-If you have a hangover, you can take an *unpaid* sick day.[^19] You don't get paid because the hangover is your fault.[^20] In reality, you rarely explain why you are sick, so you get a paid sick day.[^21]
+If you have a hangover, you can take an *unpaid* sick day.[^19] You don't get paid because the hangover is your fault.[^20] Since you don't need to explain why you are sick, you usually get a paid sick day.[^21]
 
-Missing work because of a hangover looks really bad. If it happens often, you can get fired.[^22] If you go to work and you are not sober, you can get fired.[^23]
+Missing work because of a hangover looks really bad. If it happens often, you can get fired.[^22] If you go to work while you are not sober, you can get fired.[^23]
+
+### During your notice period
+
+If you [quit or lose your job](/guides/losing-your-job), and you are in your [notice period](/glossary/Kündigungsfrist), you can still take sick days. You still get paid while on sick leave.[^32]
+
+**[How the notice period works ➞](/guides/job-notice-period)**
 
 [^0]: [destatis.de](https://www.destatis.de/DE/Themen/Arbeit/Arbeitsmarkt/Qualitaet-Arbeit/Dimension-2/krankenstand.html)
 [^1]: [wirtschaftsforum.de](https://www.wirtschaftsforum.de/tipps/welche-anzahl-an-krankentagen-ist-fuer-den-arbeitgeber-zumutbar)
@@ -176,3 +182,4 @@ Missing work because of a hangover looks really bad. If it happens often, you ca
 [^29]: Quote from [Feather](/out/feather-disability) (January 2025)
 [^30]: Personal experience (September 2025)
 [^31]: [Arbeitsagentur](https://www.arbeitsagentur.de/arbeitslos-arbeit-finden/arbeitslosengeld/das-muessen-sie-beachten/krankheit-pflege-betreuung) (December 2025)
+[^32]: [hammer-rechtsanwaelte.de](https://hammer-rechtsanwaelte.de/neuigkeiten-detail/krankmeldung-nach-kuendigung/#:~:text=grundsatzlich%20gilt%20das%20auch%20bei%20erfolgter%20kundigung) (June 2024)
