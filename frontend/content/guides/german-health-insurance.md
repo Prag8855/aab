@@ -43,7 +43,7 @@ Use my [health insurance recommendation tool](#your-options) to calculate the co
 - **[If you are an apprentice](/guides/german-health-insurance/for-apprentices)** (*[[Azubi]]*)  
     If you earn less than €{{GKV_AZUBI_FREIBETRAG|cur}} per month, you get free health insurance. Your employer pays for it.[^48] If you earn more, you pay the same amount as employees.
 - **[If you are unemployed](/guides/german-health-insurance/when-unemployed)**  
-    You pay the [minimum amount](/glossary/Mindestbeitrag): around €{{GKV_MIN_COST_SELF_PAY|cur}} per month. When you [lose your job](/guides/losing-your-job), you sometimes get [one month of free health insurance](/guides/losing-your-job#what-happens-to-your-health-insurance).
+    You pay the [minimum amount](/glossary/Mindestbeitrag): around €{{GKV_MIN_COST_SELF_PAY|cur}} per month. When you [lose your job](/guides/losing-your-job), you sometimes get one month of free health insurance.
 
 Healthcare and medication are usually free. There is sometimes a €5 to €10 [deductible](/glossary/Selbstbeteiligung) for some treatments and prescriptions.[^70]
 

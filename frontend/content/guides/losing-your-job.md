@@ -129,7 +129,7 @@ When you know your last day of work, register as unemployed at the *[[Agentur f�
 
 ### Tell your health insurance
 
-When you are unemployed, you keep your [health insurance](/glossary/Krankenversicherung). The coverage does not change, but the price can change.[^6] If you have [private health insurance](/glossary/private%20Krankenversicherung) and you get [unemployment benefits](/glossary/ALG%20I), you must switch to [public health insurance](/glossary/gesetzliche%20Krankenversicherung).
+When you are unemployed, you keep your [health insurance](/glossary/Krankenversicherung). You keep the same coverage, but the price will change.[^6]
 
 **[What happens to your health insurance ➞](#what-happens-to-your-health-insurance)**
 
@@ -257,7 +257,7 @@ Your [permanent residence](/glossary/Niederlassungserlaubnis) or citizenship app
 
 ## What happens to your health insurance
 
-When you lose your job, you stay insured. The coverage stays the same. If you get [unemployment benefits](/glossary/ALG%20I), you usually get free health insurance.
+When you lose your job, you stay insured. The coverage stays the same, but the price changes.
 
 **[Health insurance when unemployed ➞](/guides/german-health-insurance/when-unemployed)**
 
