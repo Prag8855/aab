@@ -33,12 +33,13 @@ Most supermarkets close on Sundays and [public holidays](/guides/public-holidays
 
 ## Hygiene products
 
-These stores sell cosmetics, hygiene products, household products, baby products and more.
+These drug stores sell cosmetics, hygiene products, household products, baby products and more.
 
+- [budni](https://www.budni.de/)
 - [dm](https://www.dm.de/)
 - [Rossmann](https://www.rossmann.de/de/)
 
-Most dm and Rossmann stores are closed on Sundays, but there are [some exceptions](/guides/open-on-sundays-in-berlin).
+Some drug stores are [open on Sundays](/guides/open-on-sundays-in-berlin).
 
 ## Electronics
 

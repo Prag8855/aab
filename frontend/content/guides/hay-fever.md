@@ -36,11 +36,10 @@ There are different types of pills against hay fever. **You can buy them without
 
 You can buy pollen allergy pills in these places:
 
+- At any drug store (like dm, Rossmann and budni)
 - At any pharmacy (*Apotheke*)
-- In online pharmacies like [Shop Apotheke](https://www.shop-apotheke.com/search.htm?q=heufieber)
+- In online pharmacies like [Shop Apotheke](https://www.shop-apotheke.com/search.htm?q=heufieber) and [dm-med](https://www.dm.de/dm-med/allergie/allergietabletten)
 - On [Amazon](https://www.amazon.de/s?k=loratadin&sprefix=lorata,aps,82&linkCode=sl2&tag=nicolasboulia-21&linkId=3d9abe96917304cfb9b19d6d61467af7&language=en_GB&ref_=as_li_ss_tl)
-
-You can't buy allergy pills from dm or Rossmann.
 
 ### Does health insurance pay for it?
 
