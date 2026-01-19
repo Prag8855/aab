@@ -4,7 +4,7 @@ Description: Instructions for leaving Germany and moving to another country
 Date_created: 2026-01-01
 ---
 
-This checklist helps you move from Germany to another country, step by step.
+This is a checklist for leaving Germany, and moving to another country.
 
 {% include "_blocks/tableOfContents.html" %}
 
@@ -15,7 +15,7 @@ This checklist helps you move from Germany to another country, step by step.
 - [ ] **[Quit your job](/guides/losing-your-job)**  
     The [notice period](/glossary/Kündigungsfrist) is usually 1 to 3 months. You can sometimes negotiate a shorter notice period.
     - [ ] **[Give your resignation letter](/guides/losing-your-job#give-your-resignation-letter)**  
-        Your [notice period](/glossary/Kündigungsfrist) starts when your employer receives your [resignation letter](/glossary/Kündigungsschreiben). If you got fired or laid off, you don't need to do this.
+        Your [notice period](/glossary/Kündigungsfrist) starts when your employer receives your [resignation letter](/glossary/Kündigungsschreiben). If you got fired or laid off, don't give a resignation letter.
     - [ ] **[Register as unemployed](/guides/losing-your-job#register-as-a-job-seeker)**  
         Do it as soon as possible. This is how you get [unemployment benefits](/glossary/ALG%20I) until you leave the [EU](/glossary/European%20Union).[^15]
     - [ ] **[Tell your health insurance](/guides/losing-your-job#tell-your-health-insurance)**  
@@ -39,7 +39,7 @@ This checklist helps you move from Germany to another country, step by step.
         - [ ] [Sign a handover document](/guides/moving-out#sign-the-ubergabeprotokoll) (*[[Übergabeprotokoll]]*)
         - [ ] [Get a *Mietschuldenfreiheitsbescheinigung*](/guides/moving-out#get-a-mietschuldenfreiheitsbescheinigung)
     - [ ] **[Get your deposit back](/guides/moving-out#get-your-deposit-back)**  
-        Your landlord must return most of your [deposit](/glossary/Kaution) after the [handover](/glossary/Wohnungsübergabe). They can keep *some* of your deposit for the yearly *[[Nebenkostenabrechnung]]*.
+        Your landlord must return most of your [deposit](/glossary/Kaution) after the [handover](/glossary/Wohnungsübergabe). They can keep *part* of your deposit for up to 1 year, until the next *[[Nebenkostenabrechnung]]*.
     - [ ] **Save your receipts**  
         Moving costs are [tax-deductible](/glossary/steuerlich%20absetzbar). Save your receipts for your [tax declaration](/glossary/Steuererklärung).
 - [ ] **[Deregister your address](/guides/abmeldung-deregister-in-berlin)** (*[[Abmeldung]]*)  
@@ -65,6 +65,8 @@ This checklist helps you move from Germany to another country, step by step.
     Your university might refund your tuition fees and semester ticket.[^12] Your [public health insurance](/glossary/gesetzliche%20Krankenversicherung) might [become more expensive](#health-insurance).
     - [ ] Get a confirmation of disenrolment[^10]
     - [ ] Get a transcript of records[^11] (*Leistungsübersicht*)
+- [ ] **Activate your [[eID]]**  
+    You might need it to access online government services. Do this a few weeks before you leave.
 - [ ] **Save important documents**
     - [ ] **Public pension record** (*[[Versicherungsverlauf]]*)  
         [Download it](https://kundenportal.deutsche-rentenversicherung.de/od-kundenportal) or [get it by post](/out/drv-pension-payments-info). It will arrive at your [registered address](/glossary/Anmeldung) in around 1 week.
@@ -90,7 +92,7 @@ Keep your phone number. You might need it for online banking and two-factor auth
 - [ ] **[Tell the IHK](https://service.berlin.de/dienstleistung/122107/)** (*Gewerbeabmeldung*)  
     If you have a *[[Gewerbe]]*, deregister it at the [[IHK]]. It will stop *[[Gewerbesteuer]]* payments and IHK membership fees.[^18]
 - [ ] **Pay the exit tax**  
-    If you have an AG, UG or GmbH, you must [pay the exit tax](https://www.winheller.com/en/tax-law-tax-advisory/international-tax-planning/exit-taxation.html).[^1] You can avoid it, but it's hard.[^14] Ask a [tax advisor](/glossary/Steuerberater) to help you. Freelancers and sole proprietors rarely need to pay an exit tax.[^26]
+    If you have an AG, UG or GmbH, you must [pay an exit tax](https://www.winheller.com/en/tax-law-tax-advisory/international-tax-planning/exit-taxation.html).[^1] You can avoid it, but it's hard.[^14] Ask a [tax advisor](/glossary/Steuerberater) to help you. Freelancers and sole proprietors rarely need to pay an exit tax.[^26]
 - [ ] **Save important documents**
     - [ ] [Tax assessments](/glossary/Steuerbescheid) for your business
     - [ ] Invoices and receipts
@@ -134,36 +136,19 @@ These things keep working even if you don't live in Germany:
 
 ### What stops working
 
-- **Kindergeld**  
-    If you no longer have tax residency in Germany, you stop getting *[[Kindergeld]]*.[^2]
-- **Elterngeld**[^3]
+- **[[Kindergeld]]**  
+    If you no longer have tax residency in Germany, you stop getting *Kindergeld*.[^2]
+- **[[Elterngeld]]**[^3]
 - **Health insurance**  
-    If you leave Germany, you can't keep your German health insurance. You must get insured in your new country.
+    If you leave Germany, you can rarely [keep your German health insurance](#health-insurance). You must get insured in your new country.
 
-Exceptions:
+## Bank account
 
-- Studying abroad
-- Temporary job placement
+**Do not close your bank account.** You need it to get your [apartment deposit](/glossary/Kaution), last paycheck, yearly bonus, tax return and [blocked account](/glossary/Pfändungsschutzkonto) payments.[^25]
 
-## Money and investments
-
-### Bank account
-
-**Do not close your bank account.** You will need it to get your [apartment deposit](/glossary/Kaution), last paycheck, yearly bonus, tax return and [blocked account](/glossary/Pfändungsschutzkonto) payments.[^25]
+Use [Wise](/out/wise) to transfer your money to another country.
 
 If you have a [blocked account](/glossary/Sperrkonto), you can close it after you leave Germany. You might need a *Sperrfreigabe* from a German embassy, consulate or *[[Ausländerbehörde]]*.[^13]
-
-Use [Wise](/out/wise) to move your money to another country.
-
-### Investments
-
-https://www.juhn.com/fachwissen/internationales-steuerrecht/wegzugsteuer-bei-investmentfonds/
-
-### Real estate
-
-### Cryptocurrencies
-
-Crypto: https://www.wohnsitzausland.com/fachwissen/entstrickung-exit-tax#:~:text=durch%20einen%20steuerpflichtigen%20gehaltene%20kryptowahrungen%20nicht%20betrifft
 
 ## Health insurance
 
@@ -186,16 +171,43 @@ To cancel your health insurance, you need an *[[Abmeldebescheinigung]]*.[^7] The
 
 ## Taxes
 
-If you still have investments, real estate or a business in Germany, you might still need to pay German taxes.[^27]
+Usually, when you move to another country, you stop paying taxes in Germany.
+
+You might still need to pay taxes in Germany if...[^27]
+
+- You still have investments, real estate or a business in Germany
+- or you still have a place to live in Germany
+- or you visit Germany regularly
+
+In some cases, you might need to pay an exit tax on your business and your investments. This rarely happens.
+
+### Stocks and ETFs
+
+Usually, there is **no exit tax** on your stocks and ETFs.[^30]
+
+You must pay an exit tax if...[^20]
+
+- You own at least 1% of a company, or you invested at least €500,000 in one ETF[^32]
+- and you lived in Germany for 10 years
+- and you stop being a German tax resident
+
+In this case, you are taxed on your current gains, even if you don't sell your shares. For example, if you bought 5% of a company at €10 per share, and the shares are worth €18, you must pay taxes the 80% gain.
+
+### Cryptocurrency
+
+There is no exit tax on cryptocurrency.[^31] Leaving Germany has no effect on your personal cryptocurrency investments.
+
+### Business
+
+If you have an AG, UG or GmbH, you must pay an exit tax.[^1] You can avoid it, but it's hard.[^14] Ask your [tax advisor](/glossary/Steuerberater) to help you.
+
+Freelancers and sole proprietors rarely need to pay an exit tax.[^26]
+
+### Real estate
+
+...
 
 ## Need help?
-
-If you are a refugee or asylum seeker, you can get financial help.[^20] It can pay for your flight tickets and relocation costs.
-
-You can get free help from...
-
-- [Return counselling](https://www.berlin.de/laf/leistungen/rueckkehrberatung/) from the Berlin Refugee Center
-- [Return counselling](https://www.berlin.de/einwanderung/en/advice/consulting-services/artikel.947829.en.php) from IOM
 
 **[Where to ask questions ➞](/guides/help)**
 
@@ -237,13 +249,13 @@ You can get free help from...
 [^11]: [uni-goettingen.de](https://www.uni-goettingen.de/de/was+ist+ein+%22transcript+of+records%22%3F/216488.html) (January 2026), [FU Berlin](https://www.polsoz.fu-berlin.de/studium/pruefungsbuero/studiengaenge/ma_studiengaenge/ma_gender_intersektionalitaet-und-politik/Wie-erhalte-ich-ein-Transcript-of-Records_.html) (January 2026), [h-da.de](https://h-da.de/en/disenrollment) (January 2026)
 [^12]: [h-da.de](https://h-da.de/en/ssc/semester-fee) (January 2026), [uni-wuerzburg.de](https://www.uni-wuerzburg.de/en/studying-at-jmu/studienangelegenheiten/beitraegeundgebuehren/fee-refunds/) (January 2026)
 [^13]: [Expatrio](https://help.expatrio.com/hc/en-us/articles/360001061071-How-can-I-close-my-Blocked-Account) (January 2026), [ukraine.diplo.de](https://ukraine.diplo.de/ua-de/service/05-visaeinreise/2296252-2296252#content_3) (January 2026), [studying-in-germany.org](https://www.studying-in-germany.org/germany-blocked-account-foreign-students/how-to-close-my-blocked-account-in-germany/#expatrio) (January 2026)
-[^14]: Suat Göydeniz (January 2026)
+[^14]: [Suat Göydeniz](https://stb-goeydeniz.de/) (January 2026)
 [^15]: [eu-gleichbehandlungsstelle.de](https://www.eu-gleichbehandlungsstelle.de/eugs-de/eu-buerger/infothek/arbeitslosigkeit-in-deutschland#tar-2) (January 2026), [deutsche-im-ausland.org](https://www.deutsche-im-ausland.org/absicherung-und-finanzen/sozialversicherung-im-ausland/arbeitslosenversicherung/arbeitssuche-im-ausland.html) (January 2026), [europa.eu](https://europa.eu/youreurope/citizens/work/social-security-and-benefits/transferring-unemployment-benefits/index_de.htm) (January 2026), [BEMA](https://bema.berlin/site/assets/files/1048/3_checkliste_zu_erledigen_vor_dem_umzug_aus_deutschland.pdf) (2018)
 [^16]: [Techniker Krankenkasse](https://www.tk.de/techniker/versicherung/tk-leistungen/ausland/anwartschaft-bei-auslandsaufenthalt-beantragen/personenkreis-anwartschaft-2024508) (March 2025), [Techniker Krankenkasse](https://www.tk.de/techniker/versicherung/tk-leistungen/ausland/anwartschaft-bei-auslandsaufenthalt-beantragen/gruende-fuer-eine-anwartschaftsversicherung-2024494) (February 2025), [deutsche-im-ausland.org](https://www.deutsche-im-ausland.org/news/news-details/anwartschaft-was-ist-das-und-was-bringt-es.html) (2016), [Feather](https://feather-insurance.com/blog/cancel-health-insurance#:~:text=pause%20public%20health-,insurance,-If%20you%E2%80%99re%20leaving) (2025)
 [^17]: [Suat Göydeniz](https://stb-goeydeniz.de/) (January 2026), [Reddit](https://old.reddit.com/r/FragReddit/comments/102p791/was_tun_wenn_das_finanzamt_eine_steuererkl%C3%A4rung/j2vu02s/) (2023)
 [^18]: [IHK Berlin](https://www.ihk.de/berlin/ueber-uns/mitgliedschaft-und-beitrag/beendigung-der-beitragspflicht-2256682) (January 2026)
 [^19]: [gruenderplattform.de](https://gruenderplattform.de/unternehmensfuehrung/gewerbe-abmelden#folgen) (January 2026)
-[^20]: [Returning From Germany](https://www.returningfromgermany.de/programmes/reag-garp/) (January 2026)
+[^20]: [KPMG](https://kpmg.com/de/de/home/themen/2025/09/steuertipp-wegzugsbesteuerung-ab-2025.html#:~:text=die%20wegzugsbesteuerung%20betrifft%20privatpersonen%2C%20die%20wesentliche%20beteiligungen%20an%20unternehmen%20(mindestens%20ein%20prozent%20innerhalb%20der%20vergangenen%20funf%20jahre)%20) (2025)
 [^21]: Citation needed - PKV, GKV and expat insurance validity outside the EU
 [^22]: [deurag.de](https://www.deurag.de/blog/sonderkuendigungsrecht-beim-umzug/#c16426) (January 2026), [§ 20 Abs. 1 StromGVV](https://www.buzer.de/gesetz/7424/a146076.htm), [§ 20 Abs. 1 GasGVV](https://www.buzer.de/gesetz/7425/a146100.htm)
 [^23]: [§ 60 Abs. 2 TKG](https://www.buzer.de/60_TKG.htm), [Telekom](https://www.telekom.de/hilfe/vertrag-rechnung/vertrag/kuendigen/umzug-ausland?samChecked=true) (January 2026), [deurag.de](https://www.deurag.de/blog/sonderkuendigungsrecht-beim-umzug/#:~:text=fur%20internet%2C%20telefon%20und%20handy%20betragt%20meist%20einen%20monat) (January 2026)
@@ -253,3 +265,6 @@ You can get free help from...
 [^27]: [wohnsitzausland.com](https://www.wohnsitzausland.com/faqs/faqs-wegzug-ins-ausland) (January 2026)
 [^28]: [wohnsitzausland.com](https://www.wohnsitzausland.com/aktuelles/auswandern-krankenversicherung-im-ausland#:~:text=rentner%2C%20die%20innerhalb%20der%20europaischen%20union%20dauerhaft%20leben) (January 2026), [DVKA](https://www.dvka.de/de/versicherte/rentner/) (August 2025)
 [^29]: Citation needed - Notice period for health insurance
+[^30]: [Suat Göydeniz](https://stb-goeydeniz.de/) (January 2026)
+[^31]: [wohnsitzausland.com](https://www.wohnsitzausland.com/fachwissen/entstrickung-exit-tax#:~:text=durch%20einen%20steuerpflichtigen%20gehaltene%20kryptowahrungen%20nicht%20betrifft) (January 2026), [juhn.com](https://www.juhn.com/fachwissen/internationales-steuerrecht/steuerfreier-verkauf-bitcoins-kryptowaehrungen/#:~:text=nein%2C%20ein%20wegzug%20stuft%20den%20vermogenszuwachs%20aus%20bitcoins%20%26%20co.%20nicht%20als%20verau%C3%9Ferung%20ein) (January 2026)
+[^32]: [Finanztip community](https://www.finanztip.de/community/forum/thema/40551-wegzugsbesteuerung-etf-500-000-euro-grenze/) (August 2025)
