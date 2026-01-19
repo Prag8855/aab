@@ -27,7 +27,7 @@ Everyone feels lonely at first, but it gets better. You will slowly rebuild your
 
 - **[Meetup.com](https://www.meetup.com/)**  
     There are meetup groups for all kinds of hobbies, and just for meeting people. Many meetups are in English.
-- **[Eventbrite](https://www.eventbrite.de/)
+- **[Eventbrite](https://www.eventbrite.de/)**
 - **[Facebook events](https://www.facebook.com/events/)**
 - **[InterNations](https://www.internations.org/berlin-expats)**  
     They organise free events for immigrants.
