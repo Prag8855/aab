@@ -8,6 +8,10 @@ Date_created: 2026-02-01
 
 ## Things I have learned this month
 
+### Kettle cleaning
+
+Boiling a cup of vinegar cleans calc in no time. 
+
 ### The weird thing with Apotheken
 
 In Germany, you can't buy ibuprofen or [hay fever](/guides/hay-fever) medicine from dm, Rossmann or budni, only from an *Apotheke*.
@@ -21,7 +25,7 @@ There are three categories of medicine in Germany:
 - **Over-the-counter medicine** (*freiverkäufliches Arzneimittel*)  
     You can buy it anywhere, without a prescription. This includes medicine with no side effects like teas and oils.
 
-Because of this monopoly on medicine sales, you must go to a different place to buy basic medicine, usually at an inflated price. Yet pharmacies are not rolling in dough; they're closing in droves. No one benefits and everyone is unhappy.
+Because of this monopoly on medicine sales, you must go to a different place to buy basic medicine, usually at an inflated price. Yet pharmacies are not rolling in dough; they're closing in droves.[^2] No one benefits and everyone is unhappy.[^3]
 
 Online pharmacies are a weird development of this system. You can't buy medicine from dm, *but* you can buy it from their website, because it's sold by dm-med, an online pharmacy run by dm.
 
@@ -31,6 +35,8 @@ Then things get weirder. You see, online pharmacies can offer in-store pickup.[^
 
 - [Apartment hunting advice from a landlord](https://old.reddit.com/r/germany/comments/1q40693/apartment_hunting_advice_from_a_german_landlord/)
 - [A third of immigrants are thinking of leaving](https://www.dezim-institut.de/publikationen/auswanderung-im-fokus-wer-bleibt-wer-will-gehen/) (via [Berlin Daily](https://berlindaily.org/))
+- [](https://redtapetranslation.com/german-relocation-anxiety/)
+- [](https://www.berlinrelo.de/)
 
 ## All About Berlin elsewhere
 
@@ -43,3 +49,5 @@ All About Berlin is also on [Reddit](https://reddit.com/r/allaboutberlin), [Link
 - Carnival/Ash Wednesday
 
 [^1]: [pharmazeutische-zeitung.de](https://www.pharmazeutische-zeitung.de/index.php?id=5616), [pharmazeutische-zeitung.de](https://www.pharmazeutische-zeitung.de/rezeptsammelbox-im-supermarkt-ist-rechtens-117159/)
+[^2]: [mdr.de](https://www.mdr.de/nachrichten/deutschland/wirtschaft/apotheke-kosten-100.html)
+[^3]: [Reddit](https://old.reddit.com/r/germany/comments/1hlnbii/title_why_are_german_pharmacies_ripping_us_off_on/?tl=de)
