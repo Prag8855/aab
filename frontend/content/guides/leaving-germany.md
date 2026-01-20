@@ -51,7 +51,7 @@ This is a checklist for leaving Germany, and moving to another country.
 - [ ] **[Cancel your contracts](/guides/moving-out#cancel-or-move-your-contracts)**  
     Most contracts have a [notice period](/glossary/Kündigungsfrist). When you leave Germany, you can sometimes end contracts sooner. You might need to get an *[[Abmeldebescheinigung]]* first.
     - [ ] **[Health insurance](#health-insurance)**  
-        Your insurance usually stops covering you after you leave Germany, but there are exceptions.
+        Your insurance usually stops covering you after you leave Germany, but there are exceptions. When you leave Germany, the notice period is usually 2 months.[^29]
     - [ ] **Utilities**  
         The [notice period](/glossary/Kündigungsfrist) is 2 weeks.[^22] Read the water, gas and electricity meters before you [move out](/guides/moving-out). You will get a last invoice based on your measured usage.
     - [ ] **Phone and internet**  
@@ -91,8 +91,8 @@ Keep your phone number. You might need it for online banking and two-factor auth
     It will stop [VAT](/glossary/Umsatzsteuer) and [income tax](/glossary/Einkommensteuer) prepayments.[^17]
 - [ ] **[Tell the IHK](https://service.berlin.de/dienstleistung/122107/)** (*Gewerbeabmeldung*)  
     If you have a *[[Gewerbe]]*, deregister it at the [[IHK]]. It will stop *[[Gewerbesteuer]]* payments and IHK membership fees.[^18]
-- [ ] **Pay the exit tax**  
-    If you have an AG, UG or GmbH, you must [pay an exit tax](https://www.winheller.com/en/tax-law-tax-advisory/international-tax-planning/exit-taxation.html).[^1] You can avoid it, but it's hard.[^14] Ask a [tax advisor](/glossary/Steuerberater) to help you. Freelancers and sole proprietors rarely need to pay an exit tax.[^26]
+- [ ] **[Pay the exit tax](#business)**  
+    If you have an AG, UG or GmbH, you must pay an exit tax.[^1] You can avoid it, but it's hard.[^14] Ask a [tax advisor](/glossary/Steuerberater) to help you. Freelancers and sole proprietors rarely need to pay an exit tax.[^26]
 - [ ] **Save important documents**
     - [ ] [Tax assessments](/glossary/Steuerbescheid) for your business
     - [ ] Invoices and receipts
@@ -171,15 +171,15 @@ To cancel your health insurance, you need an *[[Abmeldebescheinigung]]*.[^7] The
 
 ## Taxes
 
-Usually, when you move to another country, you stop paying taxes in Germany.
+### Income tax
 
-You might still need to pay taxes in Germany if...[^27]
+Usually, when you leave Germany, you stop paying income tax in Germany.
+
+You might still need to declare your income and pay taxes in Germany if...[^27]
 
 - You still have investments, real estate or a business in Germany
 - or you still have a place to live in Germany
 - or you visit Germany regularly
-
-In some cases, you might need to pay an exit tax on your business and your investments. This rarely happens.
 
 ### Stocks and ETFs
 
@@ -187,21 +187,29 @@ Usually, there is **no exit tax** on your stocks and ETFs.[^30]
 
 You must pay an exit tax if...[^20]
 
-- You own at least 1% of a company, or you invested at least €500,000 in one ETF[^32]
+- You own at least 1% of a company, or you invested at least €500,000 in a single ETF[^32]
 - and you lived in Germany for 10 years
-- and you stop being a German tax resident
+- and you move out of Germany
 
-In this case, you are taxed on your current gains, even if you don't sell your shares. For example, if you bought 5% of a company at €10 per share, and the shares are worth €18, you must pay taxes the 80% gain.
+For example, if you invest €500,000 in the iShares MSCI World, you must pay an exit tax. If you invest €250,000 in two different ETFs, there is no exit tax. If you invested €400,000 in one ETF, and it's now worth €500,000, there is no exit tax.[^34]
 
 ### Cryptocurrency
 
-There is no exit tax on cryptocurrency.[^31] Leaving Germany has no effect on your personal cryptocurrency investments.
+There is **no exit tax on** cryptocurrency.[^31] Leaving Germany has no effect on your personal cryptocurrency investments.
 
 ### Business
 
-If you have an AG, UG or GmbH, you must pay an exit tax.[^1] You can avoid it, but it's hard.[^14] Ask your [tax advisor](/glossary/Steuerberater) to help you.
+If you own shares in a company, you must pay an exit tax.[^1] This includes companies in other countries. You can sometimes avoid the exit tax.[^14] Ask your [tax advisor](/glossary/Steuerberater) to help you, or use the [list of tax advisors](https://wegzugsteuer.info/steuerberater) with exit tax experience.
 
-Freelancers and sole proprietors rarely need to pay an exit tax.[^26]
+You must pay an exit tax if...[^20]
+
+- You own at least 1% of a company (AG, UG or GmbH)
+- and you lived in Germany for 10 years
+- and you stop being a German tax resident
+
+**Freelancers and sole proprietors** almost never pay an exit tax.[^26] When you leave Germany, you just close your business. Your business assets (computers, office) might be taxed.[^33]
+
+**[How the exit tax works ➞](https://eidel.io/notes-and-hacks-on-germanys-exit-tax/)**
 
 ### Real estate
 
@@ -233,8 +241,6 @@ Freelancers and sole proprietors rarely need to pay an exit tax.[^26]
 - Which documents should a freelancer gather? EÜR?
 - Vehicle
 - Residence permit, PR and citizenship expiration
-- Entstrickungssteuer nach § 17 EStG, § 6 AStG
-    - https://www.wohnsitzausland.com/fachwissen/wegzugsbesteuerung
 
 [^1]: [eidel.io](https://eidel.io/notes-and-hacks-on-germanys-exit-tax/), [winheller.com](https://www.winheller.com/en/tax-law-tax-advisory/international-tax-planning/exit-taxation.html), [Hacker News](https://news.ycombinator.com/item?id=44828158), [wohnsitzausland.com](https://www.wohnsitzausland.com/fachwissen/wegzugsbesteuerung#wann)
 [^2]: [deutsche-im-ausland.org](https://www.deutsche-im-ausland.org/absicherung-und-finanzen/finanzen/kindergeld-im-ausland.html#c1242)
@@ -249,22 +255,24 @@ Freelancers and sole proprietors rarely need to pay an exit tax.[^26]
 [^11]: [uni-goettingen.de](https://www.uni-goettingen.de/de/was+ist+ein+%22transcript+of+records%22%3F/216488.html) (January 2026), [FU Berlin](https://www.polsoz.fu-berlin.de/studium/pruefungsbuero/studiengaenge/ma_studiengaenge/ma_gender_intersektionalitaet-und-politik/Wie-erhalte-ich-ein-Transcript-of-Records_.html) (January 2026), [h-da.de](https://h-da.de/en/disenrollment) (January 2026)
 [^12]: [h-da.de](https://h-da.de/en/ssc/semester-fee) (January 2026), [uni-wuerzburg.de](https://www.uni-wuerzburg.de/en/studying-at-jmu/studienangelegenheiten/beitraegeundgebuehren/fee-refunds/) (January 2026)
 [^13]: [Expatrio](https://help.expatrio.com/hc/en-us/articles/360001061071-How-can-I-close-my-Blocked-Account) (January 2026), [ukraine.diplo.de](https://ukraine.diplo.de/ua-de/service/05-visaeinreise/2296252-2296252#content_3) (January 2026), [studying-in-germany.org](https://www.studying-in-germany.org/germany-blocked-account-foreign-students/how-to-close-my-blocked-account-in-germany/#expatrio) (January 2026)
-[^14]: [Suat Göydeniz](https://stb-goeydeniz.de/) (January 2026)
+[^14]: [Suat Göydeniz](https://stb-goeydeniz.de/) (January 2026), [Hacker News](https://news.ycombinator.com/item?id=44834878) (August 2025)
 [^15]: [eu-gleichbehandlungsstelle.de](https://www.eu-gleichbehandlungsstelle.de/eugs-de/eu-buerger/infothek/arbeitslosigkeit-in-deutschland#tar-2) (January 2026), [deutsche-im-ausland.org](https://www.deutsche-im-ausland.org/absicherung-und-finanzen/sozialversicherung-im-ausland/arbeitslosenversicherung/arbeitssuche-im-ausland.html) (January 2026), [europa.eu](https://europa.eu/youreurope/citizens/work/social-security-and-benefits/transferring-unemployment-benefits/index_de.htm) (January 2026), [BEMA](https://bema.berlin/site/assets/files/1048/3_checkliste_zu_erledigen_vor_dem_umzug_aus_deutschland.pdf) (2018)
 [^16]: [Techniker Krankenkasse](https://www.tk.de/techniker/versicherung/tk-leistungen/ausland/anwartschaft-bei-auslandsaufenthalt-beantragen/personenkreis-anwartschaft-2024508) (March 2025), [Techniker Krankenkasse](https://www.tk.de/techniker/versicherung/tk-leistungen/ausland/anwartschaft-bei-auslandsaufenthalt-beantragen/gruende-fuer-eine-anwartschaftsversicherung-2024494) (February 2025), [deutsche-im-ausland.org](https://www.deutsche-im-ausland.org/news/news-details/anwartschaft-was-ist-das-und-was-bringt-es.html) (2016), [Feather](https://feather-insurance.com/blog/cancel-health-insurance#:~:text=pause%20public%20health-,insurance,-If%20you%E2%80%99re%20leaving) (2025)
 [^17]: [Suat Göydeniz](https://stb-goeydeniz.de/) (January 2026), [Reddit](https://old.reddit.com/r/FragReddit/comments/102p791/was_tun_wenn_das_finanzamt_eine_steuererkl%C3%A4rung/j2vu02s/) (2023)
 [^18]: [IHK Berlin](https://www.ihk.de/berlin/ueber-uns/mitgliedschaft-und-beitrag/beendigung-der-beitragspflicht-2256682) (January 2026)
 [^19]: [gruenderplattform.de](https://gruenderplattform.de/unternehmensfuehrung/gewerbe-abmelden#folgen) (January 2026)
-[^20]: [KPMG](https://kpmg.com/de/de/home/themen/2025/09/steuertipp-wegzugsbesteuerung-ab-2025.html#:~:text=die%20wegzugsbesteuerung%20betrifft%20privatpersonen%2C%20die%20wesentliche%20beteiligungen%20an%20unternehmen%20(mindestens%20ein%20prozent%20innerhalb%20der%20vergangenen%20funf%20jahre)%20) (2025)
+[^20]: [KPMG](https://kpmg.com/de/de/home/themen/2025/09/steuertipp-wegzugsbesteuerung-ab-2025.html#:~:text=die%20wegzugsbesteuerung%20betrifft%20privatpersonen%2C%20die%20wesentliche%20beteiligungen%20an%20unternehmen%20(mindestens%20ein%20prozent%20innerhalb%20der%20vergangenen%20funf%20jahre)%20) (2025), [eidel.io](https://eidel.io/notes-and-hacks-on-germanys-exit-tax/#:~:text=%20germany%E2%80%99s%20exit%20tax%20applies%20to%20you%20if%3A) (August 2025)
 [^21]: Citation needed - PKV, GKV and expat insurance validity outside the EU
 [^22]: [deurag.de](https://www.deurag.de/blog/sonderkuendigungsrecht-beim-umzug/#c16426) (January 2026), [§ 20 Abs. 1 StromGVV](https://www.buzer.de/gesetz/7424/a146076.htm), [§ 20 Abs. 1 GasGVV](https://www.buzer.de/gesetz/7425/a146100.htm)
 [^23]: [§ 60 Abs. 2 TKG](https://www.buzer.de/60_TKG.htm), [Telekom](https://www.telekom.de/hilfe/vertrag-rechnung/vertrag/kuendigen/umzug-ausland?samChecked=true) (January 2026), [deurag.de](https://www.deurag.de/blog/sonderkuendigungsrecht-beim-umzug/#:~:text=fur%20internet%2C%20telefon%20und%20handy%20betragt%20meist%20einen%20monat) (January 2026)
 [^24]: [FitX](https://hilfe.fitx.de/hc/de/articles/30715200755613-Kann-ich-meine-Mitgliedschaft-au%C3%9Ferordentlich-k%C3%BCndigen) (January 2026), [John Reed](https://help.johnreed.fitness/hc/de/articles/28868024075921-Wie-kann-ich-meine-John-Reed-Mitgliedschaft-beenden#:~:text=wegen%20krankheit%20oder%20umzug) (January 2026) [Reddit](https://old.reddit.com/r/LegaladviceGerman/comments/1kf548r/kann_ich_meinen_fitnessstudiovertrag_wegen/) (2025), [anwalt.org](https://www.anwalt.org/kuendigung/superfit/#SUPERFIT_Kuendigung_bei_Umzug) (2025), [verbraucherzentrale-brandenburg.de](https://www.verbraucherzentrale-brandenburg.de/infothek/fitnessstudio-kuendigen-so-gehts#:~:text=und%20wird%20nur%20aus%20kulanz%20gewahrt) (April 2025)
 [^25]: [evz.de](https://www.evz.de/finanzen-versicherungen/umzug-ins-eu-ausland.html#:~:text=ist%20es%20nicht%20ratsam%2C%20ihr%20bestehendes%20girokonto%20zu%20kundigen) (2024)
-[^26]: [wohnsitzausland.com](https://www.wohnsitzausland.com/fachwissen/entstrickung-exit-tax#:~:text=als%20Selbst%C3%A4ndiger%20bzw.-,freiberufler,-Grunds%C3%A4tzlich%20gilt%20bei) (January 2026)
+[^26]: [wohnsitzausland.com](https://www.wohnsitzausland.com/fachwissen/entstrickung-exit-tax#:~:text=als%20Selbst%C3%A4ndiger%20bzw.-,freiberufler,-Grunds%C3%A4tzlich%20gilt%20bei) (January 2026), [wegzugsteuer.info](https://wegzugsteuer.info/articles/einzelunternehmen-statt-gmbh-wegzugsteuer-vermeiden) (October 2025)
 [^27]: [wohnsitzausland.com](https://www.wohnsitzausland.com/faqs/faqs-wegzug-ins-ausland) (January 2026)
 [^28]: [wohnsitzausland.com](https://www.wohnsitzausland.com/aktuelles/auswandern-krankenversicherung-im-ausland#:~:text=rentner%2C%20die%20innerhalb%20der%20europaischen%20union%20dauerhaft%20leben) (January 2026), [DVKA](https://www.dvka.de/de/versicherte/rentner/) (August 2025)
 [^29]: Citation needed - Notice period for health insurance
 [^30]: [Suat Göydeniz](https://stb-goeydeniz.de/) (January 2026)
 [^31]: [wohnsitzausland.com](https://www.wohnsitzausland.com/fachwissen/entstrickung-exit-tax#:~:text=durch%20einen%20steuerpflichtigen%20gehaltene%20kryptowahrungen%20nicht%20betrifft) (January 2026), [juhn.com](https://www.juhn.com/fachwissen/internationales-steuerrecht/steuerfreier-verkauf-bitcoins-kryptowaehrungen/#:~:text=nein%2C%20ein%20wegzug%20stuft%20den%20vermogenszuwachs%20aus%20bitcoins%20%26%20co.%20nicht%20als%20verau%C3%9Ferung%20ein) (January 2026)
-[^32]: [Finanztip community](https://www.finanztip.de/community/forum/thema/40551-wegzugsbesteuerung-etf-500-000-euro-grenze/) (August 2025)
+[^32]: [Finanztip community](https://www.finanztip.de/community/forum/thema/40551-wegzugsbesteuerung-etf-500-000-euro-grenze/) (August 2025), [§ 19 InvStG](https://www.gesetze-im-internet.de/invstg_2018/__19.html)
+[^33]: [wegzugsteuer.info](https://wegzugsteuer.info/articles/einzelunternehmen-statt-gmbh-wegzugsteuer-vermeiden#:~:text=die%20jetzt%20vom%20unternehmen%20in%20dein%20privateigentum%20ubergehen) (October 2025)
+[^34]: [eidel.io](https://eidel.io/notes-and-hacks-on-germanys-exit-tax/#:~:text=Exit%20Tax%20On-,etfs,-Starting%20in%202025) (August 2025)
