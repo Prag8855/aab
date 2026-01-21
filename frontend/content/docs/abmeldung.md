@@ -54,10 +54,16 @@ If you deregister more than 3 people, use multiple forms.[^1]
 
 There are 4 ways to send your *Abmeldung* form:
 
-- [By email](/guides/abmeldung-deregister-in-berlin#by-email){{ RECOMMENDED }}
-- [In person at the *Bürgeramt*](/guides/abmeldung-deregister-in-berlin#in-person-at-the-burgeramt)
+- [In person at the *Bürgeramt*](/guides/abmeldung-deregister-in-berlin#in-person-at-the-burgeramt){{ RECOMMENDED }}
+- [By email](/guides/abmeldung-deregister-in-berlin#by-email)
 - [By post](/guides/abmeldung-deregister-in-berlin#by-post)
 - [Pay someone to do it](/guides/abmeldung-deregister-in-berlin#pay-someone-to-do-it)
+
+## What to do next
+
+**[How to move out of your apartment ➞](/guides/moving-out)**
+
+**[How to leave Germany ➞](/guides/leaving-germany)**
 
 [^0]: [buergeramt-termine.de](https://buergeramt-termine.de/guide/abmeldung-deregister-germany/)
 [^1]: [berlin.de](https://service.berlin.de/dienstleistung/120335/#:~:text=benutzen%20sie%20bitte%20weitere%20meldescheine) (September 2024)
