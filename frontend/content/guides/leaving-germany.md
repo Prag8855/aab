@@ -219,9 +219,21 @@ You must pay an exit tax if...[^20]
 
 **[How the exit tax works ➞](https://eidel.io/notes-and-hacks-on-germanys-exit-tax/)**
 
-### Real estate
+## Residence permit
 
-...
+Your German citizenship does not expire when you leave Germany.
+
+Your [residence permit](/glossary/Aufenthaltstitel) expires if...[^35]
+
+- You leave Germany for more than 6 months (12 months for a [[Blue Card]])
+- or you leave Germany for non-temporary reasons
+
+Your [permanent residence](/glossary/Niederlassungserlaubnis) expires if...[^35]
+
+- You leave Germany for more than 6 months (12 months for the [EU permanent residence](/guides/permanent-residence#eu-permanent-residence))
+- or you leave Germany for non-temporary reasons
+
+"Non-temporary reasons" has no fixed definition. It usually means that you quit your job, move out of your apartment, deregister your address, and leave Germany.[^36]
 
 ## Need help?
 
@@ -281,3 +293,5 @@ You must pay an exit tax if...[^20]
 [^32]: [Finanztip community](https://www.finanztip.de/community/forum/thema/40551-wegzugsbesteuerung-etf-500-000-euro-grenze/) (August 2025), [§ 19 InvStG](https://www.gesetze-im-internet.de/invstg_2018/__19.html)
 [^33]: [wegzugsteuer.info](https://wegzugsteuer.info/articles/einzelunternehmen-statt-gmbh-wegzugsteuer-vermeiden#:~:text=die%20jetzt%20vom%20unternehmen%20in%20dein%20privateigentum%20ubergehen) (October 2025)
 [^34]: [eidel.io](https://eidel.io/notes-and-hacks-on-germanys-exit-tax/#:~:text=Exit%20Tax%20On-,etfs,-Starting%20in%202025) (August 2025)
+[^35]: [§ 51 Abs. 1 AufenthG](https://www.buzer.de/51_AufenthG.htm), [stadt.muenchen.de](https://stadt.muenchen.de/service/info/auslanderbehorde/1081226/) (January 2026)
+[^36]: [Berlin.de](https://www.berlin.de/einwanderung/aufenthalt/erloeschen-von-aufenthaltstiteln/) (January 2026), [openjur.de](https://openjur.de/u/2539408.html#:~:text=sei%20gema%C3%9F%20%C2%A7%2051%20abs.%201%20nr.%206%20aufenthg%20dadurch%20erloschen), [migrationsrecht.net](https://www.migrationsrecht.net/component/com_joomlaw/Itemid%2C232/id%2C287/layout%2Cvwv/view%2Ccomment/?utm_source=chatgpt.com%22%20o%20%2251.1%20Erl%C3%B6schen%20der%20Aufenthaltstitel%20-%20Migrationsrecht.net#:~:text=51.1.5.1,Ausl%C3%A4nderbeh%C3%B6rde%20beantragt%20werden.) (January 2026)
