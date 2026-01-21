@@ -187,15 +187,19 @@ You might still need to declare your income and pay taxes in Germany if...[^27]
 
 ### Stocks and ETFs
 
-Usually, there is **no exit tax** on your stocks and ETFs.[^30]
+Usually, there is **no exit tax** on your stocks and ETFs.[^30] You only pay the [capital gains tax](/glossary/Kapitalertragsteuer) when you sell.
 
 You must pay an exit tax if...[^20]
 
-- You own at least 1% of a company, or you invested at least €500,000 in a single ETF[^32]
+- You invested at least €500,000 in a single ETF or you own at least 1% of a company[^32]
 - and you lived in Germany for 10 years
 - and you move out of Germany
 
-For example, if you invest €500,000 in the iShares MSCI World, you must pay an exit tax. If you invest €250,000 in two different ETFs, there is no exit tax. If you invested €400,000 in one ETF, and it's now worth €500,000, there is no exit tax.[^34]
+> **Example 1:** While you lived in Germany, you invested €500,000 in the iShares MSCI World ETF. You must pay an exit tax.
+
+> **Example 2:** You invest €250,000 in two different ETFs. There is no exit tax, because you did not invest €500,000 in a single ETF.
+
+> **Example 3:** You invest €400,000 in one ETF, and it's now worth €500,000. There is no exit tax, because the *purchase price* must be above €500,000.[^34]
 
 ### Cryptocurrency
 
