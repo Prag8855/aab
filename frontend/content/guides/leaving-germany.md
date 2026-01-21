@@ -91,6 +91,8 @@ Keep your phone number. You might need it for online banking and two-factor auth
     It will stop [VAT](/glossary/Umsatzsteuer) and [income tax](/glossary/Einkommensteuer) prepayments.[^17]
 - [ ] **[Tell the IHK](https://service.berlin.de/dienstleistung/122107/)** (*Gewerbeabmeldung*)  
     If you have a *[[Gewerbe]]*, deregister it at the [[IHK]]. It will stop *[[Gewerbesteuer]]* payments and IHK membership fees.[^18]
+- [ ] **[Tell the Künstlersozialkasse](https://www.kuenstlersozialkasse.de/fileadmin/Dokumente/Mediencenter_K%C3%BCnstler_Publizisten/Vordrucke_fuer_Mitteilungen/Mitteilung_ueber_Auslandsaufenthalt.pdf)**  
+    If you are a [KSK](/glossary/Künstlersozialkasse) member, fill [this form](https://www.kuenstlersozialkasse.de/fileadmin/Dokumente/Mediencenter_K%C3%BCnstler_Publizisten/Vordrucke_fuer_Mitteilungen/Mitteilung_ueber_Auslandsaufenthalt.pdf) and email it to them.
 - [ ] **[Pay the exit tax](#business)**  
     If you have an AG, UG or GmbH, you must pay an exit tax.[^1] You can avoid it, but it's hard.[^14] Ask a [tax advisor](/glossary/Steuerberater) to help you. Freelancers and sole proprietors rarely need to pay an exit tax.[^26]
 - [ ] **Save important documents**
@@ -101,7 +103,9 @@ Keep your phone number. You might need it for online banking and two-factor auth
     - [ ] [VAT number](/glossary/Umsatzsteuernummer)
     - [ ] [[ELSTER]] login details
 
-Sole proprietorships are easy to close. If you have an AG, UG or GmbH, it's much more complicated.[^9] If you are part of a *Handwerkskammer*, *Berufskammer* or *Berufsgenossenschaft*, you must also deregister there.[^19]
+Sole proprietorships are easy to close. If you have an AG, UG or GmbH, it's much more complicated.[^9] Ask a [tax advisor](/glossary/Steuerberater) to help you.
+
+If you are part of a *Handwerkskammer*, *Berufskammer* or *Berufsgenossenschaft*, you must also deregister there.[^19]
 
 ## After you leave Germany
 
@@ -128,19 +132,19 @@ These tasks are optional:
 These things keep working even if you don't live in Germany:
 
 - **Public pension**  
-    You can receive your German public pension abroad.[^6] If you can't get a German pension, you can [get your pension payments back](/guides/pension-payments-refund).
+    You can receive your German public pension abroad.[^6] If you can't get a German pension, [get your pension payments back](/guides/pension-payments-refund).
 - **Private pension**  
-    You can sometimes contribute to your private pension after you leave Germany. It's sometimes a good idea, but it depend on how pensions are taxed in your new country.
+    You can sometimes contribute to your private pension after you leave Germany. It's sometimes a good idea, but it depends on how pensions are taxed in your new country.
 - **[Unemployment benefits](/guides/unemployment-benefits)**  
     If you move to another [EU](/glossary/European%20Union) country, you can still get [[ALG I]] for up to 6 months.[^15]
 
 ### What stops working
 
+- **[Health insurance](#health-insurance)**  
+    Usually, your German health insurance stops working when you leave Germany. You can *sometimes* [keep your German health insurance](#health-insurance).
 - **[[Kindergeld]]**  
     If you no longer have tax residency in Germany, you stop getting *Kindergeld*.[^2]
 - **[[Elterngeld]]**[^3]
-- **Health insurance**  
-    If you leave Germany, you can rarely [keep your German health insurance](#health-insurance). You must get insured in your new country.
 
 ## Bank account
 
@@ -221,11 +225,9 @@ You must pay an exit tax if...[^20]
 
 ---
 
-- [ ] Investments
 - [ ] Life insurance - You can sometimes take it with you
 - KSK documents?
-- [ ] Documents for students
-    - [ECTS](https://www.uni-mannheim.de/en/academics/coming-to-mannheim/exchange-students/before-you-leave-mannheim/#c34802) - European Credit Transfer System
+- [ECTS](https://www.uni-mannheim.de/en/academics/coming-to-mannheim/exchange-students/before-you-leave-mannheim/#c34802) - European Credit Transfer System
 - [ ] Documents for your children?
     - Kita
     - School
@@ -233,7 +235,6 @@ You must pay an exit tax if...[^20]
     - Vaccines and other documentation
     - Quarantine requirements
 - [BAföG](https://www.auslandsbafoeg.de/) abroad
-- Travel health insurance - Used to plug a coverage gap
 - How to get money out of the country?
 - Any difference in taxation of real estate?
 - Effect on residence permit

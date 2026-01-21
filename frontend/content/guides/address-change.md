@@ -73,6 +73,8 @@ You should also tell...
     If you have a dog of a dangerous breed, you must register it at the *[[Ordnungsamt]]* every time you move. If you live in Berlin, start [here](https://service.berlin.de/dienstleistung/326263/).
 - [ ] **The [[Ordnungsamt]]**  
     If you have a business, and your business address changes, you must [tell the *Ordnungsamt*](/out/business-ummeldung).
+- [ ] **The [[Künstlersozialkasse]]**  
+    If you are in the KSK, [change your address online](https://verwaltung.bund.de/leistungsverzeichnis/de/leistung/99107071011009).
 - [ ] **Your website**  
     If you have a commercial website, put your new address in your [[Impressum]].
 
