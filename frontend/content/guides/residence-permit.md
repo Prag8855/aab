@@ -446,6 +446,8 @@ If you travel outside Germany for more than 6 months, your residence permit expi
 
 If you have German [permanent residence](/glossary/Niederlassungserlaubnis), you can travel 6 months outside of Germany. If you have the [EU permanent residence](/guides/permanent-residence#eu-permanent-residence), you can travel 12 to 24 months outside the [EU](/glossary/European%20Union), or 6 years in another EU country.[^21]
 
+If you [leave Germany for "non-temporary reasons"](/guides/leaving-germany#residence-permit), your residence permit or permanent residence expires.
+
 To travel longer, you need permission from the *[[Ausländerbehörde]]*.
 
 ## If your visa or residence permit expires

@@ -1,10 +1,10 @@
 ---
 Title: How to leave Germany
-Description: Instructions for leaving Germany and moving to another country
-Date_created: 2026-01-01
+Description: Instructions for leaving Germany and moving to another country.
+Date_created: 2026-01-21
 ---
 
-This is a checklist for leaving Germany, and moving to another country.
+This checklist helps you move from Germany to another country.
 
 {% include "_blocks/tableOfContents.html" %}
 
@@ -51,7 +51,7 @@ This is a checklist for leaving Germany, and moving to another country.
 - [ ] **[Cancel your contracts](/guides/moving-out#cancel-or-move-your-contracts)**  
     Most contracts have a [notice period](/glossary/Kündigungsfrist). When you leave Germany, you can sometimes end contracts sooner. You might need to get an *[[Abmeldebescheinigung]]* first.
     - [ ] **[Health insurance](#health-insurance)**  
-        Your insurance usually stops covering you after you leave Germany, but there are exceptions. When you leave Germany, the notice period is usually 2 months.[^29]
+        When you leave Germany, the notice period is until the end of the month.[^29] Your insurance usually stops covering you after you leave Germany, but there are exceptions.
     - [ ] **Utilities**  
         The [notice period](/glossary/Kündigungsfrist) is 2 weeks.[^22] Read the water, gas and electricity meters before you [move out](/guides/moving-out). You will get a last invoice based on your measured usage.
     - [ ] **Phone and internet**  
@@ -78,7 +78,10 @@ This is a checklist for leaving Germany, and moving to another country.
     - [ ] [Birth certificates](https://service.berlin.de/dienstleistung/318960/) (*Geburtsurkunde*)
     - [ ] Marriage certificates and divorce documents[^5]
     - [ ] [International Driving Permit](/guides/international-driving-permit-germany)
-- [ ] **Write down important information**  
+    - [ ] Documents for your pets
+        - [ ] Pet passport (*EU-Heimtierausweis*)[^37]
+        - [ ] Vaccination history
+- [ ] **Save important information**  
     - [ ] [Social security number](/guides/german-versicherungsnummer) (*[[Sozialversicherungsnummer]]*)
     - [ ] [Tax ID](/guides/german-tax-id-steuernummer) (*[[Steueridentifikationsnummer]]*)
 - [ ] **[Close your business](#close-your-business)**
@@ -98,6 +101,7 @@ Keep your phone number. You might need it for online banking and two-factor auth
 - [ ] **Save important documents**
     - [ ] [Tax assessments](/glossary/Steuerbescheid) for your business
     - [ ] Invoices and receipts
+    - [ ] Proofs of income (*Einnahmenüberschussrechnung*, betriebswirtschaftliche Auswertung*)
 - [ ] **Save important information**
     - [ ] [Tax number](/glossary/Steuernummer)
     - [ ] [VAT number](/glossary/Umsatzsteuernummer)
@@ -116,7 +120,7 @@ If you are part of a *Handwerkskammer*, *Berufskammer* or *Berufsgenossenschaft*
 - [ ] **[Get your apartment deposit back](/guides/mietkaution#how-to-get-your-kaution-back)**  
     Your landlord can take up to 12 months to return your deposit. After you get your last *[[Nebenkostenabrechnung]]*, you should get the rest of your deposit back.
 - [ ] **[Make a tax declaration](/guides/moving-in#deduct-your-moving-costs)**  
-    If you move for work, your relocation costs are [tax-deductible](/glossary/steuerlich%20absetzbar). Since you stopped working in the middle of the year, you probably paid too much [salary tax](/glossary/Einkommensteuer). Most people get money back.[^8]
+    If you move for work, your relocation costs are [tax-deductible](/glossary/steuerlich%20absetzbar). Since you stopped working in the middle of the year, you probably paid too much [salary tax](/glossary/Einkommensteuer). Most people get money back.
 - [ ] **[Get your pension payments back](/guides/pension-payments-refund)**  
     [Public pension insurance](/glossary/gesetzliche%20Rentenversicherung) costs {{RV_EMPLOYEE_CONTRIBUTION}}% of your income. If you leave the [EU](/glossary/European%20Union), you can usually get that money back.
 
@@ -137,11 +141,15 @@ These things keep working even if you don't live in Germany:
     You can sometimes contribute to your private pension after you leave Germany. It's sometimes a good idea, but it depends on how pensions are taxed in your new country.
 - **[Unemployment benefits](/guides/unemployment-benefits)**  
     If you move to another [EU](/glossary/European%20Union) country, you can still get [[ALG I]] for up to 6 months.[^15]
+- **[German citizenship](#residence-permit)**  
+    You are still a German citizen after you leave Germany.
 
 ### What stops working
 
 - **[Health insurance](#health-insurance)**  
     Usually, your German health insurance stops working when you leave Germany. You can *sometimes* [keep your German health insurance](#health-insurance).
+- **[Residence permit](#residence-permit)**  
+    If you leave Germany for "non-temporary reasons", your [residence permit](/glossary/Aufenthaltstitel) or [permanent residence](/glossary/Niederlassungserlaubnis) expires.
 - **[[Kindergeld]]**  
     If you no longer have tax residency in Germany, you stop getting *Kindergeld*.[^2]
 - **[[Elterngeld]]**[^3]
@@ -169,7 +177,7 @@ If you have a [blocked account](/glossary/Sperrkonto), you can close it after yo
 - **If you move outside the EU**  
     Your public or private health insurance stops working. Your expat health insurance might stay valid.[^21] Check with your insurer.
 
-To cancel your health insurance, you need an *[[Abmeldebescheinigung]]*.[^7] The notice period is usually 2 months.[^29] If you don't cancel your insurance, your insurer will keep charging you.
+To cancel your health insurance, you need an *[[Abmeldebescheinigung]]*.[^7] When you leave Germany, the notice period is until the end of the month.[^29] If you don't cancel your insurance, your insurer will keep charging you.
 
 **If you plan to return to Germany**, get an *[[Anwartschaft]]* from your insurer. You pay a monthly fee to pause your health insurance, and resume it later. When you return to Germany, you will get the same tariff and coverage, even if your situation or your health changed. Without an *Anwartschaft*, it can be hard to find affordable health insurance.[^16]
 
@@ -239,26 +247,6 @@ Your [permanent residence](/glossary/Niederlassungserlaubnis) expires if...[^35]
 
 **[Where to ask questions ➞](/guides/help)**
 
----
-
-- [ ] Life insurance - You can sometimes take it with you
-- KSK documents?
-- [ECTS](https://www.uni-mannheim.de/en/academics/coming-to-mannheim/exchange-students/before-you-leave-mannheim/#c34802) - European Credit Transfer System
-- [ ] Documents for your children?
-    - Kita
-    - School
-- [ ] Documents for your pets
-    - Vaccines and other documentation
-    - Quarantine requirements
-- [BAföG](https://www.auslandsbafoeg.de/) abroad
-- How to get money out of the country?
-- Any difference in taxation of real estate?
-- Effect on residence permit
-- Update Abmeldung tool
-- Which documents should a freelancer gather? EÜR?
-- Vehicle
-- Residence permit, PR and citizenship expiration
-
 [^1]: [eidel.io](https://eidel.io/notes-and-hacks-on-germanys-exit-tax/), [winheller.com](https://www.winheller.com/en/tax-law-tax-advisory/international-tax-planning/exit-taxation.html), [Hacker News](https://news.ycombinator.com/item?id=44828158), [wohnsitzausland.com](https://www.wohnsitzausland.com/fachwissen/wegzugsbesteuerung#wann)
 [^2]: [deutsche-im-ausland.org](https://www.deutsche-im-ausland.org/absicherung-und-finanzen/finanzen/kindergeld-im-ausland.html#c1242)
 [^3]: [deutsche-im-ausland.org](https://www.deutsche-im-ausland.org/absicherung-und-finanzen/finanzen/elterngeld-im-ausland.html)
@@ -266,7 +254,6 @@ Your [permanent residence](/glossary/Niederlassungserlaubnis) expires if...[^35]
 [^5]: [resartus.de](https://resartus.de/auswandern-aus-deutschland-welche-dokumente-sind-zum-auswandern-noetig/#:~:text=ehefahigkeitszeugnis%2C%20eheurkunde%20und%20scheidungsurteil) (2025)
 [^6]: [grenzenlos-sicher.de](https://www.grenzenlos-sicher.de/post/abmelden-aus-deutschland-2025#:~:text=keine%20direkten%20auswirkungen%20auf%20deine%20rentenzahlungen) (2025)
 [^7]: [Feather](https://feather-insurance.com/blog/cancel-health-insurance#:~:text=that%20means%20providing%20your%20abmeldung%2C)
-[^8]: Citation needed - Most people get money back with a tax declaration
 [^9]: [Suat Göydeniz](https://stb-goeydeniz.de/) (January 2026)
 [^10]: [hwr-berlin.de](https://www.hwr-berlin.de/en/study/studying-at-the-hwr-berlin/organizing-your-degree/applying-for-disenrolment) (January 2026)
 [^11]: [uni-goettingen.de](https://www.uni-goettingen.de/de/was+ist+ein+%22transcript+of+records%22%3F/216488.html) (January 2026), [FU Berlin](https://www.polsoz.fu-berlin.de/studium/pruefungsbuero/studiengaenge/ma_studiengaenge/ma_gender_intersektionalitaet-und-politik/Wie-erhalte-ich-ein-Transcript-of-Records_.html) (January 2026), [h-da.de](https://h-da.de/en/disenrollment) (January 2026)
@@ -279,7 +266,7 @@ Your [permanent residence](/glossary/Niederlassungserlaubnis) expires if...[^35]
 [^18]: [IHK Berlin](https://www.ihk.de/berlin/ueber-uns/mitgliedschaft-und-beitrag/beendigung-der-beitragspflicht-2256682) (January 2026)
 [^19]: [gruenderplattform.de](https://gruenderplattform.de/unternehmensfuehrung/gewerbe-abmelden#folgen) (January 2026)
 [^20]: [KPMG](https://kpmg.com/de/de/home/themen/2025/09/steuertipp-wegzugsbesteuerung-ab-2025.html#:~:text=die%20wegzugsbesteuerung%20betrifft%20privatpersonen%2C%20die%20wesentliche%20beteiligungen%20an%20unternehmen%20(mindestens%20ein%20prozent%20innerhalb%20der%20vergangenen%20funf%20jahre)%20) (2025), [eidel.io](https://eidel.io/notes-and-hacks-on-germanys-exit-tax/#:~:text=%20germany%E2%80%99s%20exit%20tax%20applies%20to%20you%20if%3A) (August 2025)
-[^21]: Citation needed - PKV, GKV and expat insurance validity outside the EU
+[^21]: Seamus Wolf (January 2026)
 [^22]: [deurag.de](https://www.deurag.de/blog/sonderkuendigungsrecht-beim-umzug/#c16426) (January 2026), [§ 20 Abs. 1 StromGVV](https://www.buzer.de/gesetz/7424/a146076.htm), [§ 20 Abs. 1 GasGVV](https://www.buzer.de/gesetz/7425/a146100.htm)
 [^23]: [§ 60 Abs. 2 TKG](https://www.buzer.de/60_TKG.htm), [Telekom](https://www.telekom.de/hilfe/vertrag-rechnung/vertrag/kuendigen/umzug-ausland?samChecked=true) (January 2026), [deurag.de](https://www.deurag.de/blog/sonderkuendigungsrecht-beim-umzug/#:~:text=fur%20internet%2C%20telefon%20und%20handy%20betragt%20meist%20einen%20monat) (January 2026)
 [^24]: [FitX](https://hilfe.fitx.de/hc/de/articles/30715200755613-Kann-ich-meine-Mitgliedschaft-au%C3%9Ferordentlich-k%C3%BCndigen) (January 2026), [John Reed](https://help.johnreed.fitness/hc/de/articles/28868024075921-Wie-kann-ich-meine-John-Reed-Mitgliedschaft-beenden#:~:text=wegen%20krankheit%20oder%20umzug) (January 2026) [Reddit](https://old.reddit.com/r/LegaladviceGerman/comments/1kf548r/kann_ich_meinen_fitnessstudiovertrag_wegen/) (2025), [anwalt.org](https://www.anwalt.org/kuendigung/superfit/#SUPERFIT_Kuendigung_bei_Umzug) (2025), [verbraucherzentrale-brandenburg.de](https://www.verbraucherzentrale-brandenburg.de/infothek/fitnessstudio-kuendigen-so-gehts#:~:text=und%20wird%20nur%20aus%20kulanz%20gewahrt) (April 2025)
@@ -287,7 +274,7 @@ Your [permanent residence](/glossary/Niederlassungserlaubnis) expires if...[^35]
 [^26]: [wohnsitzausland.com](https://www.wohnsitzausland.com/fachwissen/entstrickung-exit-tax#:~:text=als%20Selbst%C3%A4ndiger%20bzw.-,freiberufler,-Grunds%C3%A4tzlich%20gilt%20bei) (January 2026), [wegzugsteuer.info](https://wegzugsteuer.info/articles/einzelunternehmen-statt-gmbh-wegzugsteuer-vermeiden) (October 2025)
 [^27]: [wohnsitzausland.com](https://www.wohnsitzausland.com/faqs/faqs-wegzug-ins-ausland) (January 2026)
 [^28]: [wohnsitzausland.com](https://www.wohnsitzausland.com/aktuelles/auswandern-krankenversicherung-im-ausland#:~:text=rentner%2C%20die%20innerhalb%20der%20europaischen%20union%20dauerhaft%20leben) (January 2026), [DVKA](https://www.dvka.de/de/versicherte/rentner/) (August 2025)
-[^29]: Citation needed - Notice period for health insurance
+[^29]: [krankenkassen.de](https://www.krankenkassen.de/krankenkasse-wechseln/kuendigung/fristen/) (January 2026), [Rob Schumacher](/out/feather) (January 2026)
 [^30]: [Suat Göydeniz](https://stb-goeydeniz.de/) (January 2026)
 [^31]: [wohnsitzausland.com](https://www.wohnsitzausland.com/fachwissen/entstrickung-exit-tax#:~:text=durch%20einen%20steuerpflichtigen%20gehaltene%20kryptowahrungen%20nicht%20betrifft) (January 2026), [juhn.com](https://www.juhn.com/fachwissen/internationales-steuerrecht/steuerfreier-verkauf-bitcoins-kryptowaehrungen/#:~:text=nein%2C%20ein%20wegzug%20stuft%20den%20vermogenszuwachs%20aus%20bitcoins%20%26%20co.%20nicht%20als%20verau%C3%9Ferung%20ein) (January 2026)
 [^32]: [Finanztip community](https://www.finanztip.de/community/forum/thema/40551-wegzugsbesteuerung-etf-500-000-euro-grenze/) (August 2025), [§ 19 InvStG](https://www.gesetze-im-internet.de/invstg_2018/__19.html)
@@ -295,3 +282,4 @@ Your [permanent residence](/glossary/Niederlassungserlaubnis) expires if...[^35]
 [^34]: [eidel.io](https://eidel.io/notes-and-hacks-on-germanys-exit-tax/#:~:text=Exit%20Tax%20On-,etfs,-Starting%20in%202025) (August 2025)
 [^35]: [§ 51 Abs. 1 AufenthG](https://www.buzer.de/51_AufenthG.htm), [stadt.muenchen.de](https://stadt.muenchen.de/service/info/auslanderbehorde/1081226/) (January 2026)
 [^36]: [Berlin.de](https://www.berlin.de/einwanderung/aufenthalt/erloeschen-von-aufenthaltstiteln/) (January 2026), [openjur.de](https://openjur.de/u/2539408.html#:~:text=sei%20gema%C3%9F%20%C2%A7%2051%20abs.%201%20nr.%206%20aufenthg%20dadurch%20erloschen), [migrationsrecht.net](https://www.migrationsrecht.net/component/com_joomlaw/Itemid%2C232/id%2C287/layout%2Cvwv/view%2Ccomment/?utm_source=chatgpt.com%22%20o%20%2251.1%20Erl%C3%B6schen%20der%20Aufenthaltstitel%20-%20Migrationsrecht.net#:~:text=51.1.5.1,Ausl%C3%A4nderbeh%C3%B6rde%20beantragt%20werden.) (January 2026)
+[^37]: [tasso.net](https://www.tasso.net/Service/Wissensportal/Urlaub-Reisen-mit-Tier/eu-heimtierausweis) (January 2026)

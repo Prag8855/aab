@@ -213,5 +213,5 @@ If you move to another country to look for work, you can get *[[ALG I]]* for up 
 [^33]: [Zusatzblatt example](/images/aufenthaltstitel-zusatzblat-back-web.png), Ina Bozhilova at [Noah Mobility](/out/noah-mobility) (July 2023)
 [^34]: Ina Bozhilova at [Noah Mobility](/out/noah-mobility) (July 2023)
 [^35]: [Agentur für Arbeit](https://www.arbeitsagentur.de/lexikon/minijob#:~:text=erwerben%20keinen%20anspruch%20auf%20arbeitslosengeld) (February 2025)
-[^36]: Citation needed - Copy sources from leaving-germany guide
+[^36]: [eu-gleichbehandlungsstelle.de](https://www.eu-gleichbehandlungsstelle.de/eugs-de/eu-buerger/infothek/arbeitslosigkeit-in-deutschland#tar-2) (January 2026), [deutsche-im-ausland.org](https://www.deutsche-im-ausland.org/absicherung-und-finanzen/sozialversicherung-im-ausland/arbeitslosenversicherung/arbeitssuche-im-ausland.html) (January 2026), [europa.eu](https://europa.eu/youreurope/citizens/work/social-security-and-benefits/transferring-unemployment-benefits/index_de.htm) (January 2026), [BEMA](https://bema.berlin/site/assets/files/1048/3_checkliste_zu_erledigen_vor_dem_umzug_aus_deutschland.pdf) (2018)
 [^37]: [Arbeitsagentur](https://www.arbeitsagentur.de/arbeitslos-arbeit-finden/arbeitslosengeld/das-muessen-sie-beachten/urlaub-und-umzug#:~:text=nachsendeantrag%20reicht%20nicht%20aus) (January 2026)

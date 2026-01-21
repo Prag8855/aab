@@ -175,7 +175,7 @@ You must send [a lot of documents](/guides/ksk-kuenstlersozialkasse#required-doc
 
 **You must do everything in German**. If you don't speak German, you will need a translator.[^25] The KSK often asks more questions in German.
 
-**Staying in the KSK is easy**. Once a year, you must [tell them your predicted income](/guides/ksk-kuenstlersozialkasse#costs-depends-on-predicted-income). Each year, the KSK [audits 5% of its members](/guides/ksk-kuenstlersozialkasse#there-are-random-audits). If this happens to you, you must show tax declarations and other documents from the last 4 years. It's more work, but it's not hard.
+**Staying in the KSK is easy**. Once a year, you must [tell them your predicted income](/guides/ksk-kuenstlersozialkasse#costs-depend-on-predicted-income). Each year, the KSK [audits 5% of its members](/guides/ksk-kuenstlersozialkasse#random-audits). If this happens to you, you must show tax declarations and other documents from the last 4 years. It's more work, but it's not hard.
 
 ### How long does it take?
 
