@@ -205,7 +205,7 @@ When you work in Germany, you pay {{RV_EMPLOYEE_CONTRIBUTION}}% of your salary f
 
 Always [tell the *Ausländerbehörde*](#tell-the-auslanderbehorde) when you change or lose your job. In Berlin, they usually give you 6 to 12 months to [find another job](/guides/find-a-job-in-berlin).[^5]{{ fail_on('2026-11-01') }}
 
-**If you can't find a job** after 6 to 12 months, your residence permit expires, and you must leave Germany. To stay longer, you can get [a different residence permit](/guides/residence-permit#types-of-residence-permits).[^29] You can apply for an [opportunity card](/glossary/Chancenkarte) and get an extra 12 months to find a job.[^37]
+**If you can't find a job** after 6 to 12 months, your residence permit expires, and you must [leave Germany](/guides/leaving-germany). To stay longer, you can get [a different residence permit](/guides/residence-permit#types-of-residence-permits).[^29] You can apply for an [opportunity card](/glossary/Chancenkarte) and get an extra 12 months to find a job.[^37]
 
 **When you find a job**, you might need the *Ausländerbehörde*'s permission to start your new job. It depends on your [residence permit](/glossary/Aufenthaltstitel).
 

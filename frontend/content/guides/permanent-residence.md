@@ -227,7 +227,7 @@ There are two types of permanent residence: German permanent residence (*Niederl
 
 EU permanent residence is a little better because...
 
-- **You can leave Germany for a longer period**  
+- **You can [leave Germany](/guides/leaving-germany) for a longer period**  
     German [PR](/glossary/Niederlassungserlaubnis) expires after 6 months outside of Germany. EU permanent residence expires after 12 to 24 months outside the EU, or 6 years in another EU country.[^13]
 - **It's easier to move to another EU country**  
     With the EU PR, you can move to another country, then apply for a residence permit there. With the German PR, you might need to apply for a residence permit at the embassy in Germany, then move to that country.[^71]
