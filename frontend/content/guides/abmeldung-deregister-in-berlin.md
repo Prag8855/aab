@@ -1,6 +1,6 @@
 ---
-Title: The Abmeldung — How to deregister in Berlin
-Short_title: Abmeldung — How to deregister your address
+Title: Abmeldung — How to deregister your address in Berlin
+Short_title: How to deregister your address
 Description: If you leave Germany, you must do your deregister your address. This is called the Abmeldung. This guide shows you how to do it in Berlin.
 Date_created: 2018-01-04
 Related_reviews:
@@ -10,73 +10,55 @@ Related_reviews:
 
 When you [move out of your apartment](/guides/moving-out) and [leave Germany](/guides/leaving-germany), you must deregister your address at the *[[Bürgeramt]]*. This is called the *Abmeldung*.
 
-This guide explains why and how to do your *Abmeldung* in Berlin.
+This guide explains why it's important, and how to do it.
 
 {% include "_blocks/tableOfContents.html" %}
 
-## Who needs to deregister
+## Who must deregister
 
-You must do your Abmeldung if:
+You must do your *Abmeldung* if...
 
-- **You [leave Germany](/guides/leaving-germany)**, and you will not return to your current address.
-- **You leave one of multiple homes**. For example, if you have two registered apartments, and you sell one of them.
+- **You [move out of Germany](/guides/leaving-germany)**  
+    For example, if you move out of your Berlin apartment, and you move to Canada.
+- or **you have multiple homes, and you leave one of them**  
+    For example, if you have apartments in Berlin and Hamburg, and you move out of the Hamburg apartment.
 
-You don't need to do your Abmeldung if:
+Do not do your *Abmeldung* if...
 
-- **You temporarily leave Germany**, and you will return to the same address later. For example, if you study in another country for a semester.
-- **You move to another address in Germany**. When you [register your new address](/guides/anmeldung-in-english-berlin), your old address is automatically deregistered.
-- **You have not [registered](/glossary/Anmeldung) your address**.
+- **You will return to the same address**  
+    For example, if you study in France for 3 months, then move back to the same address in Germany.
+- **You move to another address in Germany**  
+    For example, if you move from Berlin to Munich. When you [register your new address](/guides/anmeldung-in-english-berlin), your old address is automatically deregistered.
+- **You have not [registered your address](/glossary/Anmeldung)**
 
 ## Why you must deregister
 
-When you do your *Abmeldung*, you officially stop living at your old address. You get a deregistration certificate (*[[Abmeldebescheinigung]]*) that confirms this.
+You must deregister to...
 
-You can use this certificate to:
+- Stop being a German resident
+- Stop paying taxes in Germany
+
+When you deregister, you get a deregistration certificate (*[[Abmeldebescheinigung]]*). With this certificate, you can...
 
 - Stop paying the [TV tax](/glossary/Rundfunkbeitrag)
-- Stop paying for [health insurance](/glossary/Krankenversicherung) (if you move out of Germany)
-- Cancel your phone, internet and electricity contracts
-- Get a [refund of your pension payments](/guides/pension-payments-refund), 2 years after you leave Germany
-
-If you [leave Germany](/guides/leaving-germany), the *Abmeldung* tells the *[[Finanzamt]]* that you have left the country, and that you don't need to pay taxes in Germany.
+- Cancel your German [health insurance](/glossary/Krankenversicherung)
+- Cancel your phone, internet, electricity, gas and gym contracts
+- Get a [refund of your pension payments](/guides/pension-payments-refund)
 
 ## How to do your Abmeldung
 
 There are 4 ways to deregister your address:
 
-- [In person at the *Bürgeramt*](#in-person-at-the-burgeramt){{ RECOMMENDED }}
-- [By email](#by-email)
+- **[In person at the *Bürgeramt*](#in-person-at-the-burgeramt)**{{ RECOMMENDED }}  
+    It's the fastest way to get an *[[Abmeldebescheinigung]]*. You need it to cancel your contracts and your [health insurance](/glossary/Krankenversicherung).
+- **[By email](#by-email)**  
+    It's easier, but you might not get your *[[Abmeldebescheinigung]]* in time.
 - [By post](#by-post)
 - [Pay someone to deregister you](#pay-someone-to-do-it)
 
-The *Abmeldung* is free. You can deregister 7 days before you [move out](/guides/moving-out). You must deregister maximum 14 days after you move out.[^0] In Berlin, this is not enforced; people take weeks or months to deregister, and there are no problems.[^18]
+Deregister minimum 7 days before you [move out](/guides/moving-out), and maximum 14 days after you move out.[^0] If you wait longer, it's okay. Some people take months to deregister, and nothing bad happens.[^18]
 
-After you deregister, you get an *[[Abmeldebescheinigung]]*. This certificate confirms that you are deregistered. If you deregister in person, they give it to you. If you deregister by email or by post, you must ask for this document, and they will send it to you.[^1]
-
-### By email
-
-This is the **easiest option**, but it's not 100% reliable.
-
-Each *Bürgeramt* does things differently. They rarely email your *[[Abmeldebescheinigung]]*. They might refuse to mail to another country, so you must give them a backup address in Germany.
-
-To deregister by email, send this message to [any *Bürgeramt* in Berlin](https://service.berlin.de/standorte/buergeraemter/):
-
-{% include "_blocks/abmeldungEmail.html"%}
-
-Attach this to your email:
-
-- [ ] The [*Abmeldung* form](/docs/abmeldung), filled and signed
-- [ ] A copy of your passport or *[[Personalausweis]]*
-- [ ] A proof of your move-out date, if you deregister late (optional)[^22]
-
-If you deregister multiple people, also attach...
-
-- [ ] A copy of their passport or *[[Personalausweis]]*
-- [ ] A signed *[[Vollmacht]]* for each person you deregister
-
-Write your new address in the form. If you use a German address, and [your name is not on the mailbox](/guides/addressing-a-letter-in-germany#if-the-name-is-not-on-the-mailbox), use "c/o" or "bei" on the address form.
-
-You will get an *[[Abmeldebescheinigung]]* 1 to 4 weeks later.[^2] They usually send it by regular post, not email or [registered mail](/glossary/Einschreibebrief). They might refuse to send it to another country.
+When you deregister, you get an *[[Abmeldebescheinigung]]*. This document confirms that you are deregistered. If you deregister in person, they give it to you. If you deregister by email or by post, you must ask for this document, and they will send it to you.[^1]
 
 ### In person at the Bürgeramt
 
@@ -103,6 +85,31 @@ The appointment is short and easy. It takes around 10 minutes. If you don't spea
 
 During your appointment, you will get an *[[Abmeldebescheinigung]]*.
 
+### By email
+
+This is the **easiest option**, but it's not 100% reliable.
+
+Each *Bürgeramt* does things differently. They rarely email your *[[Abmeldebescheinigung]]*. They might refuse to mail to another country, so you must give them a backup address in Germany.
+
+To deregister by email, send this message to [any *Bürgeramt* in Berlin](https://service.berlin.de/standorte/buergeraemter/):
+
+{% include "_blocks/abmeldungEmail.html"%}
+
+Attach this to your email:
+
+- [ ] The [*Abmeldung* form](/docs/abmeldung), filled and signed
+- [ ] A copy of your passport or *[[Personalausweis]]*
+- [ ] A proof of your move-out date, if you deregister late (optional)[^22]
+
+If you deregister multiple people, also attach...
+
+- [ ] A copy of their passport or *[[Personalausweis]]*
+- [ ] A signed *[[Vollmacht]]* for each person you deregister
+
+Write your new address in the form. If you use a German address, and [your name is not on the mailbox](/guides/addressing-a-letter-in-germany#if-the-name-is-not-on-the-mailbox), use "c/o" or "bei" on the address form.
+
+You will get an *[[Abmeldebescheinigung]]* 1 to 4 weeks later.[^2] They usually send it by regular post, not email or [registered mail](/glossary/Einschreibebrief). They might refuse to send it to another country.
+
 ### By post
 
 Send the same documents and message as when you [deregister by email](#by-email).
@@ -113,12 +120,12 @@ There is no reason to do your *Abmeldung* by post. It's slower, but not more rel
 
 ### Pay someone to do it
 
-You can pay someone to deregister you address for you. They deregister your address and send you the [deregistration certificate](/glossary/Abmeldebescheinigung) by email. It's expensive, but it guarantees that you will get an *[[Abmeldebescheinigung]]*, and it lets you focus on other problems.
-
-These companies can help you:
+These companies can deregister your address:
 
 - [Deregistration.de](/out/deregistrationde-abmeldung)
 - [EasyAssist](/out/easyassist-abmeldung)
+
+They will deregister your address, and send you a [deregistration certificate](/glossary/Abmeldebescheinigung) by email. It's expensive, but it's faster and 100% online.
 
 They can also cancel your [TV tax](/glossary/Rundfunkbeitrag), your [health insurance](/glossary/Krankenversicherung), and your other contracts.
 
@@ -196,7 +203,7 @@ If you already left Germany, you can do your *Abmeldung* by email or by post.[^2
 
 **[How to get a pension refund ➞](/guides/pension-payments-refund)**
 
-[^0]: [buergeramt-termine.de](https://buergeramt-termine.de/guide/abmeldung-deregister-germany/)
+[^0]: [§ 17 Abs. 2 BMG](https://www.buzer.de/17_BMG.htm), [Berlin.de](https://service.berlin.de/dienstleistung/120335/#:~:text=im%20zeitraum%20von%207%20tagen%20vor%2C%20muss%20aber%20bis%2014%20tage%20nach%20dem%20auszug%20vorgenommen%20werden) (January 2026)
 [^1]: [Robert Hantzsch](/out/easyassist-abmeldung) (August 2025), [Oliver Frankfurth](https://sympat.me) (April 2023), [Facebook](https://www.facebook.com/groups/berlinfreelancers/posts/3107197082693988/?comment_id=3107888739291489), [reddit.com](https://old.reddit.com/r/berlin/comments/o7vjdy/abmeldung_no_confirnation/)
 [^2]: [Robert Hantzsch](/out/easyassist-abmeldung) (August 2025), [reddit.com](https://old.reddit.com/r/berlin/comments/o7vjdy/abmeldung_no_confirnation/)
 [^3]: [Techniker Krankenkasse](https://www.tk.de/techniker/versicherung/tk-leistungen/ausland/wohnen-im-ausland/europaeisches-ausland-krankenversicherung-rentner-2009820) (January 2026), [Techniker Krankenkasse](https://www.tk.de/techniker/versicherung/tk-leistungen/ausland/wohnen-im-ausland/wohnsitz-ausland-rentner-2009812) (October 2025)

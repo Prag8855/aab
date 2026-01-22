@@ -21,13 +21,13 @@ There are still a few good reasons to stick around:
 
 [A third of immigrants are thinking of leaving](https://www.dezim-institut.de/publikationen/auswanderung-im-fokus-wer-bleibt-wer-will-gehen/). Half of them seek to improve their standard of living.
 
-I have just published [a guide for leaving Germany](/guides/leaving-germany). It mostly refers to existing guides, but it also covers obscure topics like the exit tax. It comes with dozens of small improvements to other guides.
+I have just published [a guide for leaving Germany](/guides/leaving-germany). It mostly refers to existing guides, but it also covers obscure topics like the exit tax. I also revamped my [*Abmeldung* guide](/guides/abmeldung-deregister-in-berlin). It's shorter and clearer.
 
 ## Apartment affordability test
 
-Graham at BerlinRelo has built [an apartment affordability calculator](https://www.berlinrelo.de/#calculator). It tells you what kind of apartment you can afford, and how long your search should take.
+Graham at BerlinRelo has built [an apartment affordability calculator](https://www.berlinrelo.de/#calculator). It tells you what kind of apartment you can afford, and how long your flat search should take.
 
-## Things I have learned this month
+## What I have learned this month
 
 ### The weird thing with Apotheken
 

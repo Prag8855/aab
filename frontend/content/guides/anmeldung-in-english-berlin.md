@@ -7,7 +7,9 @@ Related_reviews:
     reviews/anmeldung-in-english-berlin/kathleen-parker.md
 ---
 
-After you [move to Berlin](/guides/moving-to-berlin), [find a place to live](/guides/find-a-flat-in-berlin) and [move in](/guides/moving-in), you must register your address at the *[[Bürgeramt]]*. This is called the *Anmeldung*. This guide explains how to do it.
+After you [move to Berlin](/guides/moving-to-berlin), [find a place to live](/guides/find-a-flat-in-berlin) and [move in](/guides/moving-in), you must register your address at the *[[Bürgeramt]]*. This is called the *Anmeldung*.
+
+This guide explains why it's important, and how to do it.
 
 {% include "_blocks/tableOfContents.html" %}
 
@@ -212,9 +214,9 @@ If your name is not on the lease, your landlord can refuse to put your name on t
 
 ### Do I need to deregister my old address?
 
-**No**, you only need to do [deregister](/glossary/Abmeldung) when you [leave Germany](/guides/leaving-germany). If you just [change your address](/guides/address-change), your old address is deregistered automatically.
+**No**, you only need to [deregister](/glossary/Abmeldung) when you [leave Germany](/guides/leaving-germany). If you just [change your address](/guides/address-change), your old address is deregistered automatically.
 
-**[Who needs to deregister? ➞](/guides/abmeldung-deregister-in-berlin#who-needs-to-deregister)**
+**[Who must deregister their address? ➞](/guides/abmeldung-deregister-in-berlin#who-must-deregister)**
 
 ### Do I need to speak German?
 
