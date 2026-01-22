@@ -6,7 +6,7 @@ Description: The office responsible for public order.
 Date_created: 2018-06-02
 Related_guides:
     guides/dead-animal-disposal-berlin.md
-    guides/abmeldung-deregister-in-berlin.md
+    guides/abmeldung.md
     guides/quiet-hours.md
     guides/noise-complaint.md
     guides/lost-and-found-berlin.md

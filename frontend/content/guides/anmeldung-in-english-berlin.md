@@ -216,7 +216,7 @@ If your name is not on the lease, your landlord can refuse to put your name on t
 
 **No**, you only need to [deregister](/glossary/Abmeldung) when you [leave Germany](/guides/leaving-germany). If you just [change your address](/guides/address-change), your old address is deregistered automatically.
 
-**[Who must deregister their address? ➞](/guides/abmeldung-deregister-in-berlin#who-must-deregister)**
+**[Who must deregister their address? ➞](/guides/abmeldung#who-must-deregister)**
 
 ### Do I need to speak German?
 

@@ -84,7 +84,7 @@
 				ref="newCountryInput"
 				:id="uid('newCountry')"
 				required></country-input>
-			<span v-if="newCountry === 'DE'" class="input-instructions">If you stay in Germany, you probably don't need to deregister your address&nbsp;&mdash;&nbsp;<a href="/guides/abmeldung-deregister-in-berlin#who-needs-to-deregister" target="_blank">More information</a></span>
+			<span v-if="newCountry === 'DE'" class="input-instructions">If you stay in Germany, you probably don't need to deregister your address&nbsp;&mdash;&nbsp;<a href="/guides/abmeldung#who-needs-to-deregister" target="_blank">More information</a></span>
 		</div>
 	</template>
 	<template v-if="stage === 'addPeople'">
@@ -212,7 +212,7 @@
 		<p>To deregister your address, send this form to <a target="_blank" href="https://service.berlin.de/standorte/buergeraemter">any Bürgeramt</a>. You can do this by email, by post or in person.</p>
 		<ul class="buttons list">
 			<li>
-				<a class="recommended" href="/guides/abmeldung-deregister-in-berlin#in-person-at-the-burgeramt" target="_blank">
+				<a class="recommended" href="/guides/abmeldung#in-person-at-the-burgeramt" target="_blank">
 					{% endraw %}{% include "_css/icons/calendar.svg" %}{% raw %}
 					<div>
 						<h3>Book a Bürgeramt appointment</h3>
@@ -221,7 +221,7 @@
 				</a>
 			</li>
 			<li>
-				<a href="/guides/abmeldung-deregister-in-berlin#by-registered-mail" target="_blank">
+				<a href="/guides/abmeldung#by-registered-mail" target="_blank">
 					{% endraw %}{% include "_css/icons/mail.svg" %}{% raw %}
 					<div>
 						<h3>Send the Abmeldung form</h3>

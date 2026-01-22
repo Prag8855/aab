@@ -6,7 +6,7 @@ Description: The Anmeldung is when you deregister your German address.
 Date_created: 2018-01-31
 Related_guides:
     guides/berlin-burgeramt-appointment.md
-    guides/abmeldung-deregister-in-berlin.md
+    guides/abmeldung.md
     guides/moving-out.md
     guides/leaving-germany.md
 ---
@@ -17,4 +17,4 @@ When you deregister, you get a deregistration certificate (*[[Abmeldebescheinigu
 
 In Berlin, you can do your *Abmeldung* by post, by email, or in person at the *[[Bürgeramt]]*. You can also [pay someone to do it for you](/out/deregistrationde-abmeldung).
 
-**[How to deregister your address ➞](/guides/abmeldung-deregister-in-berlin)**
+**[How to deregister your address ➞](/guides/abmeldung)**

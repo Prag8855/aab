@@ -13,7 +13,7 @@ This guide explains how to get an appointment at the [[Bürgeramt]] in Berlin.
 
 **[How to do your Anmeldung online ➞](/guides/anmeldung-in-english-berlin#how-to-register-your-address-online)**
 
-**[How to do your Abmeldung online ➞](/guides/abmeldung-deregister-in-berlin#by-email)**
+**[How to do your Abmeldung online ➞](/guides/abmeldung#by-email)**
 
 ## Book an appointment online
 

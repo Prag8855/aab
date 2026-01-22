@@ -6,7 +6,7 @@ Description: A tax for dog owners.
 Date_created: 2020-12-17
 Related_guides:
     guides/dog-ownership.md
-    guides/abmeldung-deregister-in-berlin.md
+    guides/abmeldung.md
     guides/moving-out.md
     guides/taxes.md
 ---

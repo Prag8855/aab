@@ -10,7 +10,7 @@ Related_guides:
     guides/berlin-burgeramt-appointment.md
     guides/find-a-flat-in-berlin.md
     guides/german-tax-id-steuernummer.md
-    guides/abmeldung-deregister-in-berlin.md
+    guides/abmeldung.md
     guides/moving-to-berlin.md
     guides/moving-in.md
     guides/address-change.md

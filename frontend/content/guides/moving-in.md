@@ -123,7 +123,7 @@ You must must [register your new address](/glossary/Anmeldung) at the *[[Bürger
 
 {% include "_blocks/appointmentFinder.html" %}
 
-If you move from another place in Germany, you don't need to [deregister your old address](/guides/abmeldung-deregister-in-berlin).
+If you move from another place in Germany, you don't need to [deregister your old address](/guides/abmeldung).
 
 ### Buy furniture and appliances
 

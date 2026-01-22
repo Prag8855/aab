@@ -21,7 +21,7 @@ There are still a few good reasons to stick around:
 
 [A third of immigrants are thinking of leaving](https://www.dezim-institut.de/publikationen/auswanderung-im-fokus-wer-bleibt-wer-will-gehen/). Half of them seek to improve their standard of living.
 
-I have just published [a guide for leaving Germany](/guides/leaving-germany). It mostly refers to existing guides, but it also covers obscure topics like the exit tax. I also revamped my [*Abmeldung* guide](/guides/abmeldung-deregister-in-berlin). It's shorter and clearer.
+I have just published [a guide for leaving Germany](/guides/leaving-germany). It mostly refers to existing guides, but it also covers obscure topics like the exit tax. I also revamped my [*Abmeldung* guide](/guides/abmeldung). It's shorter and clearer.
 
 ## Apartment affordability test
 

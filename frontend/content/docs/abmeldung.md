@@ -7,7 +7,7 @@ English_document: documents/abmeldung-translated-finished.pdf
 Description: Fill the Abmeldung form online, in English. You need this form to deregister your address in Berlin. It's also called the "Abmeldeformular".
 Date_created: 2018-01-06
 Related_guides:
-    guides/abmeldung-deregister-in-berlin.md
+    guides/abmeldung.md
     guides/moving-out.md
     guides/leaving-germany.md
     guides/berlin-burgeramt-appointment.md
@@ -18,7 +18,7 @@ Categories:
 
 Fill this form to deregister your address in Berlin (*[[Abmeldung]]*). You can send this form to any *[[Bürgeramt]]* in Berlin. You can deliver the form in person, by email, or by [registered mail](/glossary/Einschreibebrief).
 
-**[How to do your Abmeldung in Berlin ➞](/guides/abmeldung-deregister-in-berlin)**
+**[How to do your Abmeldung in Berlin ➞](/guides/abmeldung)**
 
 ## Fill the Abmeldung form online
 
@@ -54,10 +54,10 @@ If you deregister more than 3 people, use multiple forms.[^1]
 
 There are 4 ways to send your *Abmeldung* form:
 
-- [In person at the *Bürgeramt*](/guides/abmeldung-deregister-in-berlin#in-person-at-the-burgeramt){{ RECOMMENDED }}
-- [By email](/guides/abmeldung-deregister-in-berlin#by-email)
-- [By post](/guides/abmeldung-deregister-in-berlin#by-post)
-- [Pay someone to do it](/guides/abmeldung-deregister-in-berlin#pay-someone-to-do-it)
+- [In person at the *Bürgeramt*](/guides/abmeldung#in-person-at-the-burgeramt){{ RECOMMENDED }}
+- [By email](/guides/abmeldung#by-email)
+- [By post](/guides/abmeldung#by-post)
+- [Pay someone to do it](/guides/abmeldung#pay-someone-to-do-it)
 
 ## What to do next
 

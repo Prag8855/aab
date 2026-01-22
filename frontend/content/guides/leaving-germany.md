@@ -42,7 +42,7 @@ This checklist helps you move from Germany to another country.
         Your landlord must return most of your [deposit](/glossary/Kaution) after the [handover](/glossary/Wohnungsübergabe). They can keep *part* of your deposit for up to 1 year, until the next *[[Nebenkostenabrechnung]]*.
     - [ ] **Save your receipts**  
         Moving costs are [tax-deductible](/glossary/steuerlich%20absetzbar). Save your receipts for your [tax declaration](/glossary/Steuererklärung).
-- [ ] **[Deregister your address](/guides/abmeldung-deregister-in-berlin)** (*[[Abmeldung]]*)  
+- [ ] **[Deregister your address](/guides/abmeldung)** (*[[Abmeldung]]*)  
     It tells the *[[Finanzamt]]* that you should stop paying taxes in Germany. When you deregister, you get an *[[Abmeldebescheinigung]]*. Use it to cancel contracts with a shorter [notice period](/glossary/Kündigungsfrist).
     - [ ] [Change your address](/guides/address-change#tell-everyone)
     - [ ] [Forward your mail](/guides/address-change#forward-your-mail)

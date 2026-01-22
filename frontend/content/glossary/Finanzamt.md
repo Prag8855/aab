@@ -7,7 +7,7 @@ Date_created: 2018-02-19
 Related_guides:
     guides/taxes.md
     guides/german-tax-id-steuernummer.md
-    guides/abmeldung-deregister-in-berlin.md
+    guides/abmeldung.md
     guides/freelance-visa.md
     guides/steuerberater-vs-buchhalter.md
     guides/freiberufler-or-gewerbe.md
