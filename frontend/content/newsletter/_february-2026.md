@@ -6,11 +6,28 @@ Date_created: 2026-02-01
 
 ## Meldebescheinigung zur Sozialversicherung
 
+## What's happening in February
+
+Nothing! February is the quietest month of the year. There are no [public holidays](https://allaboutberlin.com/guides/public-holidays) and no [shopping Sundays](https://allaboutberlin.com/guides/open-on-sundays-in-berlin), and although the days are slowly getting longer, it's still too damn cold. It's a great time to travel and wait the winter out in a sunnier place.
+
+There are still a few good reasons to stick around:
+
+- [Berlin Fashion Week](https://fashionweek.berlin/) - January 30 to February 2
+- [Berlin Independent Film Festival](https://www.berlinfest.com/) - February 5 to 8
+- [Berlinale film festival](https://www.berlinale.de/en/home.html) - February 12 to 22
+- [Cologne Carnival](https://www.cologne-tourism.com/experiences-lifestyle/carnival) - February 13 to 15
+
+## New guide: [how to leave Germany](/guides/leaving-germany)
+
+[A third of immigrants are thinking of leaving](https://www.dezim-institut.de/publikationen/auswanderung-im-fokus-wer-bleibt-wer-will-gehen/). Half of them seek to improve their standard of living.
+
+I have just published [a guide for leaving Germany](/guides/leaving-germany). It mostly refers to existing guides, but it also covers obscure topics like the exit tax. It comes with dozens of small improvements to other guides.
+
+## Apartment affordability test
+
+Graham at BerlinRelo has built [an apartment affordability calculator](https://www.berlinrelo.de/#calculator). It tells you what kind of apartment you can afford, and how long your search should take.
+
 ## Things I have learned this month
-
-### Kettle cleaning
-
-Boiling a cup of vinegar cleans calc in no time. 
 
 ### The weird thing with Apotheken
 
@@ -31,22 +48,20 @@ Online pharmacies are a weird development of this system. You can't buy medicine
 
 Then things get weirder. You see, online pharmacies can offer in-store pickup.[^1] You could buy ibuprofen on dm.de, and pick it up at the dm store. That would be perfectly legal. However, you couldn't walk into a dm and buy ibuprofen, because *that* would be illegal.
 
+### Kettle cleaning
+
+Everyone has their blind spots. I waited 9 years to buy a kettle, boiling my water in a pot like a savage. It took me another year to figure out how to clean it.
+
+It's simple: just boil a bit of vinegar, and the scale comes right off. Vinegar is also a very effective bathroom cleaner. You can pour it in a plastic bag, and dip your shower head in it to unclog it.
+
 ## Interesting links
 
-- [Apartment hunting advice from a landlord](https://old.reddit.com/r/germany/comments/1q40693/apartment_hunting_advice_from_a_german_landlord/)
-- [A third of immigrants are thinking of leaving](https://www.dezim-institut.de/publikationen/auswanderung-im-fokus-wer-bleibt-wer-will-gehen/) (via [Berlin Daily](https://berlindaily.org/))
-- [](https://redtapetranslation.com/german-relocation-anxiety/)
-- [](https://www.berlinrelo.de/)
+- [A relocation coach's honest first-aid kit](https://redtapetranslation.com/german-relocation-anxiety/) - Affirmations for the stressed-out Berliner.
+- [Apartment hunting advice from a landlord](https://old.reddit.com/r/germany/comments/1q40693/apartment_hunting_advice_from_a_german_landlord/) - Ways to refine your apartment applications.
 
 ## All About Berlin elsewhere
 
-All About Berlin is also on [Reddit](https://reddit.com/r/allaboutberlin), [LinkedIn](https://www.linkedin.com/in/nicolasbouliane/), [Twitter](https://twitter.com/aboutberlin), [Bluesky](https://bsky.app/profile/allaboutberlin.bsky.social) and [Mastodon](https://berlin.social/@allaboutberlin). I also share my code on [GitHub](https://github.com/all-about-berlin).
-
-## €3,000 in donations
-
-- Holidays?
-- Shopping on Sundays?
-- Carnival/Ash Wednesday
+I am also on [Reddit](https://reddit.com/r/allaboutberlin), [LinkedIn](https://www.linkedin.com/in/nicolasbouliane/), [Twitter](https://twitter.com/aboutberlin), [Bluesky](https://bsky.app/profile/allaboutberlin.bsky.social) and [Mastodon](https://berlin.social/@allaboutberlin). I also share my code on [GitHub](https://github.com/all-about-berlin).
 
 [^1]: [pharmazeutische-zeitung.de](https://www.pharmazeutische-zeitung.de/index.php?id=5616), [pharmazeutische-zeitung.de](https://www.pharmazeutische-zeitung.de/rezeptsammelbox-im-supermarkt-ist-rechtens-117159/)
 [^2]: [mdr.de](https://www.mdr.de/nachrichten/deutschland/wirtschaft/apotheke-kosten-100.html)
