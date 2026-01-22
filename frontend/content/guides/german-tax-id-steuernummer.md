@@ -27,7 +27,7 @@ The tax ID is also called...
 You need a tax ID to...
 
 - **Get paid correctly**  
-    If you don't have a tax ID, you can still work and get paid, but you pay more [salary tax](/glossary/Lohnsteuer).[^0] You can get that money back later by filing a [tax return](/glossary/Steuererkl%C3%A4rung).[^1] Some employers think that you can't work without a tax ID, but they are wrong.
+    If you don't have a tax ID, you can still work and get paid, but you pay more [salary tax](/glossary/Lohnsteuer).[^0] You can get that money back later by filing a [tax declaration](/glossary/Steuererkl%C3%A4rung).[^1] Some employers think that you can't work without a tax ID, but they are wrong.
 - **[Open a bank account](/guides/best-bank-germany)**  
     Some banks ask for a tax ID when you open an account.
 - **Apply for [[Kindergeld]] and [[Elterngeld]]**

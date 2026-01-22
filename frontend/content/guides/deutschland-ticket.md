@@ -6,7 +6,6 @@ Date_created: 2023-04-13
 ---
 
 This guide explains how the [[Deutschland Ticket]] works in Berlin.
-
 Summary:
 
 - It costs €{{DEUTSCHLAND_TICKET_PRICE|cur}} per month.
@@ -54,7 +53,7 @@ It can be easier to buy a regular daily, weekly or monthly ticket. You can buy t
 
 **[How to use public transit in Berlin ➞](/guides/public-transit)**
 
-When you leave Germany, **remember to [cancel your subscription](#how-to-cancel-a-deutschland-ticket)**. The Deutschland Ticket renews automatically every month until you cancel it.
+When you [leave Germany](/guides/leaving-germany), [cancel your subscription](#how-to-cancel-a-deutschland-ticket). The Deutschland Ticket renews automatically every month until you cancel it.
 
 ## What can you do with a Deutschland Ticket?
 
@@ -82,7 +81,7 @@ In Berlin, you can also get a daily, weekly or [monthly pass](/glossary/Monatska
 
 You can cancel your ticket where you bought it.
 
-**If you got your ticket from the BVG**, you can cancel it on the [BVG website](https://abo.bvg.de/de/) or at a [BVG service centre](https://www.bvg.de/en/service-and-support/customer-centers-and-shops). If you cancel online, you must do it before the 25th day of the month. If you cancel in person, you can cancel at any time. Your ticket will stop working at the end of the month.
+**If you got your ticket from the BVG**, you can cancel it on the [BVG website](https://www.bvg.de/de/abos-und-tickets/alle-abos/abo-kuendigen/kuendigungsformular) or at a [BVG service centre](https://www.bvg.de/en/service-and-support/customer-centers-and-shops). If you cancel online, you must do it before the 25th day of the month. If you cancel in person, you can cancel at any time. Your ticket will stop working at the end of the month.
 
 **If you got your ticket from the Deutsche Bahn**, you can cancel it on the [S-Bahn Berlin website](https://www.abo-antrag.de/de/kuendigen/) or at a [Deutsche Bahn service centre](https://sbahn.berlin/en/tickets/sale-and-contact/points-of-sale/). Your ticket will stop working at the end of the month.
 

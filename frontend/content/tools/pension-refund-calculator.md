@@ -7,9 +7,10 @@ Categories:
     calculator
 Related_guides:
     guides/pension-payments-refund.md
+    guides/leaving-germany.md
 ---
 
-When you work in Germany, {{RV_EMPLOYEE_CONTRIBUTION}}% of your income goes into your [public pension](/glossary/gesetzliche%20Rentenversicherung). If you leave Germany, you can get those pension payments back. This tool helps you calculate your refund.
+When you work in Germany, {{RV_EMPLOYEE_CONTRIBUTION}}% of your income goes into your [public pension](/glossary/gesetzliche%20Rentenversicherung). If you [leave Germany](/guides/leaving-germany), you can get those pension payments back. This tool helps you calculate your refund.
 
 ## Pension refund calculator
 

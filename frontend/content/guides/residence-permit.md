@@ -357,7 +357,7 @@ Your National Visa is only valid for up to 12 months.[^36] Before it expires, yo
 
 In Berlin, you must convert your National Visa **6 weeks before it expires**, not sooner.[^26]
 
-If you will leave Germany before your National Visa expires, you don't need to convert it.[^31] For example, if you have a 12 month [[National Visa]] for a 9 month internship, you don't need to convert it into a residence permit.
+If you [leave Germany](/guides/leaving-germany) before your National Visa expires, you don't need to convert it.[^31] For example, if you have a 12 month [[National Visa]] for a 9 month internship, you don't need to convert it into a residence permit.
 
 To convert your National Visa into a residence permit:
 
@@ -418,9 +418,13 @@ You might also qualify for [permanent residence](/glossary/Niederlassungserlaubn
 
 **[Citizenship requirements ➞](/guides/permanent-residence#citizenship)**
 
+While you wait, your old residence permit might expire. It is automatically extended until the *[[Ausländerbehörde]]* makes a decision. You can still work, study or freelance while you wait.
+
+**[If your current residence permit expires ➞](/guides/residence-permit#if-your-visa-or-residence-permit-expires)**
+
 ## If you move
 
-Your residence permit lets you live anywhere in Germany, not just in the city where you got it.
+Your residence permit lets you live anywhere in Germany, not just in the city where you got it. You do not need permission to move.
 
 Your address is written on your residence permit. If you move, bring your residence permit to your *[[Anmeldung]]* appointment. They will put a sticker with your new address on your residence permit.[^37] You will not get a new residence card.
 
@@ -441,6 +445,8 @@ Your residence permit allows you to travel in the [[Schengen area]] without a vi
 If you travel outside Germany for more than 6 months, your residence permit expires.[^22] The [[Blue Card]] lets you travel for 12 months.
 
 If you have German [permanent residence](/glossary/Niederlassungserlaubnis), you can travel 6 months outside of Germany. If you have the [EU permanent residence](/guides/permanent-residence#eu-permanent-residence), you can travel 12 to 24 months outside the [EU](/glossary/European%20Union), or 6 years in another EU country.[^21]
+
+If you [leave Germany for "non-temporary reasons"](/guides/leaving-germany#residence-permit), your residence permit or permanent residence expires.
 
 To travel longer, you need permission from the *[[Ausländerbehörde]]*.
 

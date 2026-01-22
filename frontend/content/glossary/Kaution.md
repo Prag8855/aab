@@ -5,8 +5,8 @@ English_term: Rent deposit
 Description: Money that pays for apartment repairs when you move out.
 Date_created: 2018-06-19
 Related_guides:
-    guides/find-a-flat-in-berlin.md
     guides/mietkaution.md
+    guides/find-a-flat-in-berlin.md
     guides/housing-scams.md
     guides/moving-out.md
     guides/moving-in.md

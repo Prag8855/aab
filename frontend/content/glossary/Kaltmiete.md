@@ -6,10 +6,12 @@ Description: The rent you pay, before utilities are included.
 Date_created: 2018-08-21
 Related_guides:
     guides/find-a-flat-in-berlin.md
-    guides/housing-scams.md
+    tools/rent-map.md
+    guides/moving-in.md
     guides/mietkaution.md
     guides/electric-bill-berlin.md
     guides/cost-of-living.md
+    guides/housing-scams.md
 ---
 
 The cold rent (*Kaltmiete*) is your rent without utilities (*[[Nebenkosten]]*).

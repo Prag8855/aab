@@ -8,7 +8,7 @@ Related_reviews:
     reviews/abmeldung-deregister-in-berlin/oliver-sympatme.md
 ---
 
-When you [move out of your apartment](/guides/moving-out) and leave Germany, you must deregister your address at the *[[Bürgeramt]]*. This is called the *Abmeldung*.
+When you [move out of your apartment](/guides/moving-out) and [leave Germany](/guides/leaving-germany), you must deregister your address at the *[[Bürgeramt]]*. This is called the *Abmeldung*.
 
 This guide explains why and how to do your *Abmeldung* in Berlin.
 
@@ -18,12 +18,12 @@ This guide explains why and how to do your *Abmeldung* in Berlin.
 
 You must do your Abmeldung if:
 
-- **You move out of Germany**, and you will not return to your current address.
+- **You [leave Germany](/guides/leaving-germany)**, and you will not return to your current address.
 - **You leave one of multiple homes**. For example, if you have two registered apartments, and you sell one of them.
 
 You don't need to do your Abmeldung if:
 
-- **You temporarily move out of Germany**, and you will return to the same address later. For example, if you study in another country for a semester.
+- **You temporarily leave Germany**, and you will return to the same address later. For example, if you study in another country for a semester.
 - **You move to another address in Germany**. When you [register your new address](/guides/anmeldung-in-english-berlin), your old address is automatically deregistered.
 - **You have not [registered](/glossary/Anmeldung) your address**.
 
@@ -38,12 +38,14 @@ You can use this certificate to:
 - Cancel your phone, internet and electricity contracts
 - Get a [refund of your pension payments](/guides/pension-payments-refund), 2 years after you leave Germany
 
+If you [leave Germany](/guides/leaving-germany), the *Abmeldung* tells the *[[Finanzamt]]* that you have left the country, and that you don't need to pay taxes in Germany.
+
 ## How to do your Abmeldung
 
 There are 4 ways to deregister your address:
 
-- [By email](#by-email){{ RECOMMENDED }}
-- [In person at the *Bürgeramt*](#in-person-at-the-burgeramt)
+- [In person at the *Bürgeramt*](#in-person-at-the-burgeramt){{ RECOMMENDED }}
+- [By email](#by-email)
 - [By post](#by-post)
 - [Pay someone to deregister you](#pay-someone-to-do-it)
 
@@ -124,6 +126,19 @@ They can also cancel your [TV tax](/glossary/Rundfunkbeitrag), your [health insu
 
 When you deregister, you lose your official address in Germany. This has consequences.
 
+### Taxes
+
+If you [leave Germany](/guides/leaving-germany), the *Abmeldung* tells the *[[Finanzamt]]* that you have left the country, and that you don't need to pay taxes in Germany.[^5]
+
+You might still have to pay taxes in Germany if...[^6]
+
+- You visit Germany often
+- Your family still lives in Germany
+- You still have an apartment or a room in Germany
+- You conduct most of your business in Germany
+
+For example, if you officially live in Spain, but your family lives in Berlin, you often go to a German doctor, and you own an empty apartment in Berlin, the *Finanzamt* might still tax you.
+
 ### Residence permit
 
 You do not lose your [residence permit](/glossary/Aufenthaltstitel) when you deregister.
@@ -141,7 +156,9 @@ You still need a registered address to [renew your residence permit](/guides/res
 
 When you deregister, you can lose your German health insurance.[^14] German health insurance is only for German residents. If you want to keep your health insurance, you probably should not deregister.
 
-If you have [private health insurance](/glossary/private%20Krankenversicherung), you can ask for *Anwartschaftsversicherung*. You pay a little money every month while you are outside of Germany. When you return to Germany, you can get your old health insurance back.[^15] It guarantees that you will get the same health insurance for the same price.
+If you have [private health insurance](/glossary/private%20Krankenversicherung), ask for an *[[Anwartschaft]]*. You pay a little money every month while you are outside of Germany. When you return to Germany, you can get your old health insurance back.[^15] It guarantees that you will get the same health insurance for the same price.
+
+If you move to another EU country, you are retired, and you get a German public pension, you can keep your German public health insurance.[^3]
 
 ### Social security
 
@@ -167,11 +184,13 @@ If you already left Germany, you can do your *Abmeldung* by email or by post.[^2
 
 ## What to do next
 
+**[How to leave Germany ➞](/guides/leaving-germany)**
+
 **[How to move out of an apartment ➞](/guides/moving-out)**
 
 **[How to change your address ➞](/guides/address-change)**
 
-2 years after you leave Germany, you can get a refund for your public pension payments. You can get thousands of euros back.
+2 years after you leave Germany, you can [get a refund](/guides/pension-payments-refund) for your public pension payments. You can get thousands of euros back.
 
 {% include "_blocks/pensionRefundCalculator.html" %}
 
@@ -180,6 +199,9 @@ If you already left Germany, you can do your *Abmeldung* by email or by post.[^2
 [^0]: [buergeramt-termine.de](https://buergeramt-termine.de/guide/abmeldung-deregister-germany/)
 [^1]: [Robert Hantzsch](/out/easyassist-abmeldung) (August 2025), [Oliver Frankfurth](https://sympat.me) (April 2023), [Facebook](https://www.facebook.com/groups/berlinfreelancers/posts/3107197082693988/?comment_id=3107888739291489), [reddit.com](https://old.reddit.com/r/berlin/comments/o7vjdy/abmeldung_no_confirnation/)
 [^2]: [Robert Hantzsch](/out/easyassist-abmeldung) (August 2025), [reddit.com](https://old.reddit.com/r/berlin/comments/o7vjdy/abmeldung_no_confirnation/)
+[^3]: [Techniker Krankenkasse](https://www.tk.de/techniker/versicherung/tk-leistungen/ausland/wohnen-im-ausland/europaeisches-ausland-krankenversicherung-rentner-2009820) (January 2026), [Techniker Krankenkasse](https://www.tk.de/techniker/versicherung/tk-leistungen/ausland/wohnen-im-ausland/wohnsitz-ausland-rentner-2009812) (October 2025)
+[^5]: [wohnsitzausland.com](https://www.wohnsitzausland.com/fachwissen/wohnsitz-abmelden-bei-umzug-ins-ausland#:~:text=bleiben%20sie%20also%20mit%20ihrem%20welteinkommen%20im%20land%20steuerpflichtig) (January 2026)
+[^6]: [wohnsitzausland.com](https://www.wohnsitzausland.com/fachwissen/lebensmittelpunkt-steuerlicher-wohnsitz) (January 2026), [wohnsitzausland.com](https://www.wohnsitzausland.com/fachwissen/wohnsitz-abmelden-bei-umzug-ins-ausland#:~:text=werden%20sie%20in%20der%20bundesrepublik%20weiter%20steuern%20zahlen%20mussen.) (January 2026)
 [^14]: [wirelesslife.de](https://icwb.com/de/wohnsitz-abmelden-umzug-ins-ausland#umzug5)
 [^15]: [Finanztip](https://www.finanztip.de/pkv/pkv-anwartschaftsversicherung/), [Seamus Wolf](https://horizon65.com/) (2025)
 [^16]: [wirelesslife.de](https://icwb.com/de/wohnsitz-aus-deutschland-abmelden-pros-und-cons/)

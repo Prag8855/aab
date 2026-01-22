@@ -95,7 +95,7 @@ Sign an internet contract as soon as possible. It can take a few weeks for the c
 
 Use [Verivox](/out/verivox-internet) or [Check24](/out/check24-internet) to compare internet service providers.
 
-If you already have a contract at your old address, you can transfer it to your new address. There is usually a moving fee. For example, Vodafone charges €40.
+If you already have a contract at your old address, you can transfer it to your new address. There is usually a moving fee of €20 to €70.
 
 If your current internet company can't service your new apartment, you can cancel your contract and find another company. If they can service your new apartment, you can't cancel your contract. You must stay with the same company.
 
@@ -289,5 +289,5 @@ Sometimes, your landlord will remove air in your radiators with an *[Entlüftung
 [^10]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/b1ifqb/tenants_associations_mietersch%C3%BCtzbund_etc/)
 [^11]: [Senate Department for the Interior, Digitalization and Sport](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12858.pdf) (August 2022)
 [^12]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/h0dlrk/lowering_rent_with_mietervereinwenigermiete/)
-[^13]: [Finanztip](https://www.finanztip.de/umzugskosten/), [smartsteuer.de](https://www.smartsteuer.de/online/lexikon/u/umzugskosten/), [Smoover moving company](https://smoover-moving.de/tax-rebate-moving-germany/)
+[^13]: [Finanztip](https://www.finanztip.de/umzugskosten/), [smartsteuer.de](https://www.smartsteuer.de/online/lexikon/u/umzugskosten/), [Smoover moving company](https://smoover-moving.de/tax-rebate-moving-germany/), [Umziehen.de](https://umziehen.de/suche-planung/umzugskostenpauschale-12050)
 [^14]: [Twitter](https://x.com/aboutberlin/status/1795019070380585176) (May 2024), [Little Big Project](https://littlebigproject.de/pricing/) (July 2025), [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7354420448941510656/) (July 2025), [Twitter](https://x.com/aboutberlin/status/1948654578930487364) (July 2025)

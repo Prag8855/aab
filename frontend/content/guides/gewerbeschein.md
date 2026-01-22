@@ -168,6 +168,8 @@ The *Gewerbeanmeldung* is not the only step to start a business. You must also [
 
 **[How to start a business in Germany ➞](/guides/start-a-business-in-germany)**
 
+If you close your business or [leave Germany](/guides/leaving-germany), you must deregister your business. This is called the *Gewerbeabmeldung*. In Berlin, you can [do it online](https://service.berlin.de/dienstleistung/122107/).
+
 [^0]: [Berlin.de](https://service.berlin.de/dienstleistung/121921/)
 [^1]: [gewerbe-anmelden.info](https://www.gewerbe-anmelden.info/gewerbeschein/gewerbeschein-formular-ausfuellen)
 [^2]: [Wikipedia](https://de.wikipedia.org/wiki/Nebenerwerb), [gesetze-im-internet.de](https://www.gesetze-im-internet.de/sgb_3/__138.html)

@@ -10,7 +10,9 @@ Related_guides:
     guides/moving-out.md
 ---
 
-The apartment handover (*Wohnungsübergabe*) is the moment when you receive or return the keys for your apartment. Usually, this is when you will sign a handover document (*[[Übergabeprotokoll]]*).
+The apartment handover (*Wohnungsübergabe*) is when you receive or return the keys for your apartment. Usually, this is when you will sign a handover document (*[[Übergabeprotokoll]]*).
+
+After the handover, you should get most of your [deposit](/glossary/Kaution) back.
 
 **[How to move into an apartment ➞](/guides/moving-in)**
 

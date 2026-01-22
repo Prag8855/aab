@@ -8,7 +8,7 @@ Related_reviews:
     reviews/pension-payments-refund/christian-haas.md
 ---
 
-When you work in Germany, {{RV_EMPLOYEE_CONTRIBUTION}}% of your income goes into your [public pension](/glossary/gesetzliche%20Rentenversicherung). If you leave Germany, you can get those pension payments back. You can get thousands of euros back.
+When you work in Germany, {{RV_EMPLOYEE_CONTRIBUTION}}% of your income goes into your [public pension](/glossary/gesetzliche%20Rentenversicherung). If you [leave Germany](/guides/leaving-germany), you can get those pension payments back. You can get thousands of euros back.
 
 This guide explains when you can get a pension refund, and how to apply for it.
 

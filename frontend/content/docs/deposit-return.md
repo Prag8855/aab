@@ -7,6 +7,7 @@ Date_created: 2024-09-05
 Related_guides:
     guides/mietkaution.md
     guides/moving-out.md
+    guides/leaving-germany.md
 Categories:
     landlord
 ---

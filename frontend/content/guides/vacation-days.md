@@ -107,7 +107,7 @@ If you can't use all your vacations before you leave, your employer must pay the
 
 ### Get an Urlaubsbescheinigung
 
-Get an *[[Urlaubsbescheinigung]]* from your employer. If you [find a new job](/guides/find-a-job-in-berlin), your new employer might ask for it. This is how they know how much vacation days you should have this year.
+Get an *[[Urlaubsbescheinigung]]* from your employer. Ask for it in your [resignation letter](/glossary/Kündigungsschreiben). When you [find a job](/guides/find-a-job-in-berlin), your new employer might ask for it. It tells your new employer how many vacation days you should have this year.
 
 [^0]: [§ 1 BUrlG](https://www.buzer.de/1_BUrlG.htm)
 [^1]: [Wikipedia](https://de.wikipedia.org/wiki/Bundesurlaubsgesetz#:~:text=im%20fall%20einer%205-tage-woche%20betragt%20der%20gesetzliche%20urlaubsanspruch%20daher%20umgerechnet%2020%20arbeitstage)

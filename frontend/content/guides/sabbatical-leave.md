@@ -77,7 +77,7 @@ Disadvantages of quitting your job:
 - **You must pay for your own health insurance**  
     Your employer does not pay for half of your health insurance. You pay the same tariff as unemployed people. [Calculate it yourself](/tools/health-insurance-calculator). If your spouse or your parents have [public health insurance](/glossary/gesetzliche%20Krankenversicherung), they can cover you for free.
 - **You might lose your residence permit**  
-    The work visa and the Blue Card are tied to your job. After a few months without a job, you will need to leave Germany.
+    The work visa and the Blue Card are tied to your job. After a few months without a job, you must [leave Germany](/guides/leaving-germany).
 - **You need a job when you return**  
     After your sabbatical, you can try to get your old job back, but it's not guaranteed to work. You might need to find a new job.
 

@@ -131,7 +131,9 @@ In this scam, the landlord makes two rent contracts: one for the apartment, and 
 
 After you [move out](/guides/moving-out), the landlord must return your [deposit](/glossary/Kaution). It often takes up to 6 months. It can take up to 12 months.
 
-The landlord can only use your deposit to repair damages that you caused. You must only pay for the exact cost of the damages. Your landlord can't use your deposit to punish you or fine you. They must give you an itemised invoice of the repairs that they did. You must have the option to make the repairs yourself.
+You should get most of your deposit back after the [handover](/glossary/Wohnungsübergabe). Your landlord can keep *part* of your deposit until the next *[[Nebenkostenabrechnung]]*. They can only keep enough money to pay for unexpected costs. They can't keep the full deposit.
+
+The landlord can only use your deposit to repair damages that *you* caused. Your landlord can't use your deposit to punish you or fine you. You must only pay for the exact cost of repairs. They must give you an itemised invoice of the repairs that they did. You must have the option to make the repairs yourself.
 
 **[How to get your deposit back ➞](/guides/mietkaution#how-to-get-your-kaution-back)**
 

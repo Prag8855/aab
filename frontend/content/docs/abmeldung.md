@@ -9,6 +9,7 @@ Date_created: 2018-01-06
 Related_guides:
     guides/abmeldung-deregister-in-berlin.md
     guides/moving-out.md
+    guides/leaving-germany.md
     guides/berlin-burgeramt-appointment.md
     guides/anmeldung-in-english-berlin.md
 Categories:
@@ -39,7 +40,7 @@ Use my [Abmeldung form filler](#fill-the-abmeldung-form-online), it's easier.
     - **Tag des Auszugs**: Your move-out date. You can deregister 7 days before you [move out](/guides/moving-out). You must do it maximum 14 days after you move out.[^0]
     - **Diese Wohnung hat bereits bestanden**: Choose this if you already registered your future address. If you are leaving Germany, choose *nein.*
     - **Die bisherige Wohnung war**: Choose this if this address was your only address (*alleinige Wohnung*), your main address (*Hauptwohnung*) or a secondary address (*Nebenwohnung*).
-- **Künftige Wohnung / Gemeindekennzahl (right column)**: Information about your future address after you leave Germany.
+- **Künftige Wohnung / Gemeindekennzahl (right column)**: Information about your future address after you [leave Germany](/guides/leaving-germany).
 - **Weitere Wohnungen**: Information about your other addresses in Germany. If you only had one address, leave this section empty.
     - **Anschrift**: Your other addresses in Germany.
     - **Diese Wohnung war**: Choose this if this address was your main residence (*Hauptwohnung*) or secondary residence (*Nebenwohnung*).
@@ -53,10 +54,16 @@ If you deregister more than 3 people, use multiple forms.[^1]
 
 There are 4 ways to send your *Abmeldung* form:
 
-- [By email](/guides/abmeldung-deregister-in-berlin#by-email){{ RECOMMENDED }}
-- [In person at the *Bürgeramt*](/guides/abmeldung-deregister-in-berlin#in-person-at-the-burgeramt)
+- [In person at the *Bürgeramt*](/guides/abmeldung-deregister-in-berlin#in-person-at-the-burgeramt){{ RECOMMENDED }}
+- [By email](/guides/abmeldung-deregister-in-berlin#by-email)
 - [By post](/guides/abmeldung-deregister-in-berlin#by-post)
 - [Pay someone to do it](/guides/abmeldung-deregister-in-berlin#pay-someone-to-do-it)
+
+## What to do next
+
+**[How to move out of your apartment ➞](/guides/moving-out)**
+
+**[How to leave Germany ➞](/guides/leaving-germany)**
 
 [^0]: [buergeramt-termine.de](https://buergeramt-termine.de/guide/abmeldung-deregister-germany/)
 [^1]: [berlin.de](https://service.berlin.de/dienstleistung/120335/#:~:text=benutzen%20sie%20bitte%20weitere%20meldescheine) (September 2024)

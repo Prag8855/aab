@@ -139,7 +139,7 @@ To get *ALG I*, you must...
 - **Try to find work**[^7]  
     You must actively look for another job. You must prove that you are looking at job offers and applying for jobs.
 - **Be reachable**[^8]  
-    You must answer your phone and read your mail. If you travel and you can't read your mail, you must tell the *Agentur für Arbeit*.
+    You must answer your phone and read your mail. If you [travel](#vacations-and-travel) and you can't read your mail, tell the *Agentur für Arbeit*. If you [change your address](/guides/address-change), tell the *Agentur für Arbeit*.
 - **Be flexible**  
     You must be ready to accept jobs that are not exactly what you want.
 
@@ -163,11 +163,19 @@ If you are sick, you can take sick days. You might need a [sick note](/glossary/
 
 **[Sick leave when unemployed ➞](/guides/sick-leave#sick-leave-when-unemployed)**
 
+### Address change
+
+If you move to another address, tell the *Agentur für Arbeit*. [Forwarding your mail](/guides/address-change#forward-your-mail) is not enough.[^37]
+
+### Leaving Germany
+
+If you move to another country to look for work, you can get *[[ALG I]]* for up to 6 months.[^36]
+
+**[How to leave Germany ➞](/guides/leaving-germany)**
+
 ## What to do next
 
-Look for work. ALG I depends on it.
-
-**[How to find a job in Berlin ➞](/guides/find-a-job-in-berlin)**
+**[Find a job in Berlin ➞](/guides/find-a-job-in-berlin)**
 
 [^0]: [Arbeitsagentur](https://www.arbeitsagentur.de/arbeitslos-arbeit-finden/arbeitslosengeld/finanzielle-hilfen/arbeitslosengeld-anspruch-hoehe-dauer), [betanet.de](https://www.betanet.de/arbeitslosengeld.html), [Red Tape Translation](https://redtapetranslation.com/what-to-do-when-you-lose-your-job-in-germany/)
 [^1]: [Red Tape Translation](https://redtapetranslation.com/what-to-do-when-you-lose-your-job-in-germany/)
@@ -205,3 +213,5 @@ Look for work. ALG I depends on it.
 [^33]: [Zusatzblatt example](/images/aufenthaltstitel-zusatzblat-back-web.png), Ina Bozhilova at [Noah Mobility](/out/noah-mobility) (July 2023)
 [^34]: Ina Bozhilova at [Noah Mobility](/out/noah-mobility) (July 2023)
 [^35]: [Agentur für Arbeit](https://www.arbeitsagentur.de/lexikon/minijob#:~:text=erwerben%20keinen%20anspruch%20auf%20arbeitslosengeld) (February 2025)
+[^36]: [eu-gleichbehandlungsstelle.de](https://www.eu-gleichbehandlungsstelle.de/eugs-de/eu-buerger/infothek/arbeitslosigkeit-in-deutschland#tar-2) (January 2026), [deutsche-im-ausland.org](https://www.deutsche-im-ausland.org/absicherung-und-finanzen/sozialversicherung-im-ausland/arbeitslosenversicherung/arbeitssuche-im-ausland.html) (January 2026), [europa.eu](https://europa.eu/youreurope/citizens/work/social-security-and-benefits/transferring-unemployment-benefits/index_de.htm) (January 2026), [BEMA](https://bema.berlin/site/assets/files/1048/3_checkliste_zu_erledigen_vor_dem_umzug_aus_deutschland.pdf) (2018)
+[^37]: [Arbeitsagentur](https://www.arbeitsagentur.de/arbeitslos-arbeit-finden/arbeitslosengeld/das-muessen-sie-beachten/urlaub-und-umzug#:~:text=nachsendeantrag%20reicht%20nicht%20aus) (January 2026)

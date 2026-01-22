@@ -175,7 +175,7 @@ You must send [a lot of documents](/guides/ksk-kuenstlersozialkasse#required-doc
 
 **You must do everything in German**. If you don't speak German, you will need a translator.[^25] The KSK often asks more questions in German.
 
-**Staying in the KSK is easy**. Once a year, you must [tell them your predicted income](/guides/ksk-kuenstlersozialkasse#costs-depends-on-predicted-income). Each year, the KSK [audits 5% of its members](/guides/ksk-kuenstlersozialkasse#there-are-random-audits). If this happens to you, you must show tax declarations and other documents from the last 4 years. It's more work, but it's not hard.
+**Staying in the KSK is easy**. Once a year, you must [tell them your predicted income](/guides/ksk-kuenstlersozialkasse#costs-depend-on-predicted-income). Each year, the KSK [audits 5% of its members](/guides/ksk-kuenstlersozialkasse#random-audits). If this happens to you, you must show tax declarations and other documents from the last 4 years. It's more work, but it's not hard.
 
 ### How long does it take?
 
@@ -389,7 +389,7 @@ You must pay the KSK every month. There are 2 ways to do it:
 - Automatically with a [direct debit authorization](/glossary/SEPA-Lastschriftmandat). When you apply for the KSK, include [this form](https://www.kuenstlersozialkasse.de/fileadmin/Dokumente/Mediencenter_K%C3%BCnstler_Publizisten/Vordrucke_und_Formulare/SEPA-Lastschriftmandat_Versicherte.pdf). This is the easiest way.
 - Manually with a [bank transfer](/glossary/SEPA-%C3%9Cberweisung).
 
-### Costs depends on predicted income
+### Costs depend on predicted income
 
 Every year, you must tell the KSK your predicted income for the next year. The KSK uses your predicted income to calculate your monthly payments. This is called the *Jahresmeldung*. You do it online.[^35]
 
@@ -400,7 +400,7 @@ If your predicted income is wrong, it's okay.
 - If your prediction is really wrong, then you can [make a correction](https://www.kuenstlersozialkasse.de/kuenstler-und-publizisten/aenderungsmitteilungen) (*Änderungsmitteilung*). The KSK will adjust your future payments. They will not ask you to pay more for the past months. They will not give you any money back.
 - If you make bad predictions on purpose, the KSK can fine you up to €5,000.[^38] They can also kick you out. They can't ask you to pay more for the past months.
 
-### There are random audits
+### Random audits
 
 Every year, the KSK verifies 5% of its members. They choose at random. If they verify you, you have 4 weeks to send them your [tax declarations](/glossary/Steuerbescheid) of the last 4 years.[^39] They will check two things:
 
@@ -409,11 +409,13 @@ Every year, the KSK verifies 5% of its members. They choose at random. If they v
 
 ### When you leave Germany
 
-If you leave the [[European Union]], you can usually [get a refund for your public pension insurance payments](/guides/pension-payments-refund). You only get the part that you paid ({{RV_EMPLOYEE_CONTRIBUTION}}% of your income), not the part that the KSK paid.
+If you [leave Germany](/guides/leaving-germany), you can sometimes [get your public pension payments back](/guides/pension-payments-refund). You only get the part that you paid ({{RV_EMPLOYEE_CONTRIBUTION}}% of your income), not the part that the KSK paid.
 
 If you can't get your pension payments back, you will get a German pension when you retire, even if you live in another country.
 
 **[How to get a pension refund ➞](/guides/pension-payments-refund)**
+
+**[How to leave Germany ➞](/guides/leaving-germany)**
 
 ## Questions and answers
 

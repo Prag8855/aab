@@ -620,6 +620,10 @@ You can also use tax software like [Accountable](/out/accountable), [Lexware Off
 
 Some banks like [Holvi](/out/holvi), [Qonto](/out/qonto) and [Kontist](/out/kontist) can make your accounting easier.
 
+### Deregister your business
+
+If you [leave Germany](/guides/leaving-germany), you must deregister your business. This is called the *Gewerbeabmeldung*. In Berlin, you can [do it online](https://service.berlin.de/dienstleistung/122107/).
+
 [^0]: [berlin.de](https://service.berlin.de/dienstleistung/325409/en/)
 [^1]: [medium.com](https://tiahardyrobinson.medium.com/in-berlin-depending-on-which-finanzamt-is-responsible-for-you-it-can-take-4-6-weeks-to-get-the-3e8e30ce5ea2)
 [^2]: [Screenshot](/guides/freiberufler-or-gewerbe)

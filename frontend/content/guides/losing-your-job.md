@@ -38,7 +38,7 @@ To quit your job, you must give a resignation letter (*[[Kündigungsschreiben]]*
 
 **[How to write and send your resignation letter ➞](/docs/resignation-letter)**
 
-Your employer can't force you to resign. Never give a resignation letter if you did not resign.
+Your employer can't force you to resign. Never write a resignation letter if you did not choose to resign.
 
 ### See a doctor
 
@@ -129,7 +129,7 @@ When you know your last day of work, register as unemployed at the *[[Agentur f�
 
 ### Tell your health insurance
 
-When you are unemployed, you keep your [health insurance](/glossary/Krankenversicherung). The coverage does not change, but the price can change.[^6] If you have [private health insurance](/glossary/private%20Krankenversicherung) and you get [unemployment benefits](/glossary/ALG%20I), you must switch to [public health insurance](/glossary/gesetzliche%20Krankenversicherung).
+When you are unemployed, you keep your [health insurance](/glossary/Krankenversicherung). You keep the same coverage, but the price will change.[^6]
 
 **[What happens to your health insurance ➞](#what-happens-to-your-health-insurance)**
 
@@ -153,13 +153,18 @@ Before you get [unemployment benefits](/glossary/ALG%20I), your employer must se
 
 A vacation certificate (*[[Urlaubsbescheinigung]]*) shows how many unused vacation days you have. It tells your next employer how many vacation days you should get this year.[^34]
 
-Your employer is required to give you an *Urlaubsbescheinigung*, but you must ask for it.[^33] Ask for it in your [resignation letter](/glossary/Kündigungsschreiben).
+Your employer must give you an *Urlaubsbescheinigung* if you ask for it.[^33] Ask for it in your [resignation letter](/glossary/Kündigungsschreiben).
 
 **[What happens to your vacation days ➞](#what-happens-to-your-unused-vacation-days)**
 
 ### Get all other documents
 
-You must get your [salary tax](/glossary/Lohnsteuer) statement (*[[Lohnsteuerbescheinigung]]*) and your last pay slip (*[[Gehaltsabrechnung]]* or *Lohnabrechnung*).[^27] You should get them shortly after your last paycheck. The *Agentur für Arbeit* might ask for them. These documents help the *Agentur für Arbeit* calculate your [unemployment benefits](/glossary/ALG%20I).
+Your employer will give you these documents after your last paycheck:[^27]
+
+- [Salary tax](/glossary/Lohnsteuer) statement (*[[Lohnsteuerbescheinigung]]*)
+- Last pay slip (*[[Gehaltsabrechnung]]* or *Lohnabrechnung*).
+
+You need these documents to apply for [unemployment benefits](/glossary/ALG%20I), and to make a [tax declaration](/glossary/Steuererklärung).
 
 ## After you stop working
 
@@ -190,7 +195,7 @@ At the end of the year, make a tax declaration (*[[Steuererklärung]]*). Your jo
 
 ### Ask for a pension refund
 
-When you work in Germany, you pay {{RV_EMPLOYEE_CONTRIBUTION}}% of your salary for [pension insurance](/glossary/gesetzliche%20Rentenversicherung). If you leave Germany, you can get that money back.
+When you work in Germany, you pay {{RV_EMPLOYEE_CONTRIBUTION}}% of your salary for [pension insurance](/glossary/gesetzliche%20Rentenversicherung). If you [leave Germany](/guides/leaving-germany), you can get that money back.
 
 {% include "_blocks/pensionRefundCalculator.html" %}
 
@@ -200,7 +205,7 @@ When you work in Germany, you pay {{RV_EMPLOYEE_CONTRIBUTION}}% of your salary f
 
 Always [tell the *Ausländerbehörde*](#tell-the-auslanderbehorde) when you change or lose your job. In Berlin, they usually give you 6 to 12 months to [find another job](/guides/find-a-job-in-berlin).[^5]{{ fail_on('2026-11-01') }}
 
-**If you can't find a job** after 6 to 12 months, your residence permit expires, and you must leave Germany. To stay longer, you can get [a different residence permit](/guides/residence-permit#types-of-residence-permits).[^29] You can apply for an [opportunity card](/glossary/Chancenkarte) and get an extra 12 months to find a job.[^37]
+**If you can't find a job** after 6 to 12 months, your residence permit expires, and you must [leave Germany](/guides/leaving-germany). To stay longer, you can get [a different residence permit](/guides/residence-permit#types-of-residence-permits).[^29] You can apply for an [opportunity card](/glossary/Chancenkarte) and get an extra 12 months to find a job.[^37]
 
 **When you find a job**, you might need the *Ausländerbehörde*'s permission to start your new job. It depends on your [residence permit](/glossary/Aufenthaltstitel).
 
@@ -252,40 +257,47 @@ Your [permanent residence](/glossary/Niederlassungserlaubnis) or citizenship app
 
 ## What happens to your health insurance
 
-When you lose your job, you stay insured. The coverage stays the same. If you get [unemployment benefits](/glossary/ALG%20I), you usually get free health insurance.
+When you lose your job, you stay insured. The coverage stays the same, but the price changes.
 
 **[Health insurance when unemployed ➞](/guides/german-health-insurance/when-unemployed)**
 
 ## What happens to your pay and bonuses
 
-You get paid until your last day of work, at the end of your [notice period](/glossary/Kündigungsfrist). Your employer must pay your full salary, even if you have no work to do.[^23]
+You get paid until the end of your [notice period](/glossary/Kündigungsfrist), until your last day of work. Your employer must pay your full salary, even if you have no work to do.[^23]
 
 After your last day of work, you might get severance pay or [unemployment benefits](/glossary/ALG%20I). This gives you financial support while you [find another job](/guides/find-a-job-in-berlin).
 
-If your employer gives performance bonuses, you should get that bonus even if you leave the company.[^22] Your bonus can be prorated. For example, if you should get a performance bonus every year, but you leave in September, you should get 75% of the promised bonus. Bonuses are usually paid at the start of the next year. If you don't get your bonus, [talk to a lawyer](/guides/english-speaking-lawyers-berlin).
+If your employer gives performance bonuses, you should get that bonus, even if you leave the company.[^22] Your bonus can be prorated. For example, if you should get a yearly performance bonus, but you leave in September, you should get 75% of the promised bonus. Bonuses are usually paid at the start of the next year. If you don't get your bonus, [talk to a lawyer](/guides/english-speaking-lawyers-berlin).
 
 ## What happens to your unused vacation days
 
-You usually take your unused vacation days during your [notice period](/glossary/Kündigungsfrist).[^14] In some cases, your employer pays you for your unused vacation days.
+Usually, your employer forces you use all your vacation days before the end of your [notice period](/glossary/Kündigungsfrist). You still get paid while on vacation.
 
-During your notice period, you can still go on [sick leave](/guides/sick-leave).
+After you use all your vacation days, your employer might send you on [garden leave](https://en.wikipedia.org/wiki/Garden_leave).
 
 **[Vacation days when you change jobs ➞](/guides/vacation-days#if-you-change-jobs)**
 
+During your [notice period](/glossary/Kündigungsfrist), you can still take sick days. You still get paid while on sick leave.
+
+**[Sick leave during your notice period ➞](/guides/sick-leave#during-your-notice-period)**
+
 ## Checklist
 
-- [ ] If you quit, give your resignation letter
-- [ ] Register as a job seeker at the *[[Agentur für Arbeit]]*
-- [ ] Register as unemployed at the *[[Agentur für Arbeit]]*
-- [ ] If you have a [residence permit](/glossary/Aufenthaltstitel), tell the *[[Ausländerbehörde]]*
-- [ ] Tell your health insurance
+- [ ] [Give your resignation letter](#give-your-resignation-letter) (only if you *chose* to resign)
+- [ ] [Register as a job seeker](#register-as-a-job-seeker) at the *[[Agentur für Arbeit]]*
+- [ ] [Register as unemployed](#register-as-unemployed) at the *[[Agentur für Arbeit]]*
+- [ ] [Tell your health insurance](#tell-your-health-insurance)
+- [ ] [Use your vacation days](#what-happens-to-your-unused-vacation-days)
+- [ ] [Tell the *Ausländerbehörde*](/guides/losing-your-job#tell-the-auslanderbehorde) (if you have a [residence permit](/glossary/Aufenthaltstitel))
 - [ ] Get all documents from your employer
-    - [ ] Letter of reference (*[[Arbeitszeugnis]]*)
-    - [ ] Employment certificate (*[[Arbeitsbescheinigung]]*)
-    - [ ] Vacation certificate (*[[Urlaubsbescheinigung]]*)
-    - [ ] Last pay slip (*[[Gehaltsabrechnung]]* or *Lohnabrechnung*)
-    - [ ] Salary tax statement (*[[Lohnsteuerbescheinigung]]*)
-- [ ] If you leave Germany, [get a pension payments refund](/guides/pension-payments-refund)
+    - [ ] [Letter of reference](/guides/losing-your-job#get-a-letter-of-reference) (*[[Arbeitszeugnis]]*)
+    - [ ] [Employment certificate](/guides/losing-your-job#get-an-arbeitsbescheinigung) (*[[Arbeitsbescheinigung]]*)
+    - [ ] [Vacation certificate](/guides/losing-your-job#get-an-urlaubsbescheinigung) (*[[Urlaubsbescheinigung]]*)
+    - [ ] [Last pay slip](/guides/losing-your-job#get-all-other-documents) (*[[Gehaltsabrechnung]]* or *Lohnabrechnung*)
+    - [ ] [Salary tax statement](/guides/losing-your-job#get-all-other-documents) (*[[Lohnsteuerbescheinigung]]*)
+- [ ] [Make a tax declaration](#make-a-tax-declaration)
+
+If you are moving to another country, see the [checklist for leaving Germany](/guides/leaving-germany).
 
 ## Need help?
 
@@ -307,13 +319,12 @@ If you need help, hire an employment lawyer (*Anwalt für Arbeitsrecht*). In Ger
 [^11]: [§ 82 Abs. 6 AufenthG](https://www.buzer.de/82_AufenthG.htm)
 [^12]: [Red Tape Translation](https://redtapetranslation.com/dealing-with-burnout-in-germany/) (July 2023), personal interview (June 2023)
 [^13]: [kanzlei-hallermann.de](https://www.kanzlei-hallermann.de/blog/arbeitsbescheinigung/#:~:text=wahrend%20dieser%20zeit%20wird%20dann%20kein%20arbeitslosengeld%20gezahlt.), [§ 312 SGB III](https://www.buzer.de/312_SGB_3.htm), [Agentur für Arbeit](https://www.arbeitsagentur.de/news/arbeitsbescheinigungen-2023-bea-pflicht)
-[^14]: [spiegel.de](https://www.spiegel.de/karriere/leitfaden-ich-kuendige-aber-richtig-a-858159.html#:~:text=%20was%20ist%20mit%20resturlaub%3F%20)
 [^15]: [verdi.de](https://www.verdi.de/themen/arbeit/++co++6c32cc08-6d54-11ec-b675-001a4a16012a), [§ 109 GewO](https://www.buzer.de/109_GewO.htm)
 [^16]: [karrierebibel.de](https://karrierebibel.de/arbeitszeugnis/)
 [^19]: [arbeitnow.com](https://www.arbeitnow.com/blog/fired-in-germany#what-you-should-not-do-when-you-are-fired), [Finanztip](https://www.finanztip.de/aufhebungsvertrag/#c15632)
 [^20]: [Finanztip](https://www.finanztip.de/aufhebungsvertrag/#:~:text=dein%20arbeitgeber%20kann%20dich%20nicht%20zwingen), [Andreas Martin](https://rechtsanwalt-arbeitsrecht-in-berlin.de/) (July 2025)
 [^21]: [§ 1a KSchG](https://www.buzer.de/gesetz/5503/a75438.htm), "It's a guideline, not a legal entitlement" ([Andreas Martin](https://rechtsanwalt-arbeitsrecht-in-berlin.de/), July 2025)
-[^22]: [roedl.de](https://www.roedl.de/themen/mandantenbrief/2014-02/wirksamkeit-stichtagsklauseln-arbeitsvertraege), [fachanwaltfürarbeitsrecht.net](https://fachanwaltfürarbeitsrecht.net/kuendigung/bonus-nach-kuendigung/)
+[^22]: [roedl.de](https://www.roedl.de/themen/mandantenbrief/2014-02/wirksamkeit-stichtagsklauseln-arbeitsvertraege), [fachanwaltfürarbeitsrecht.net](https://fachanwaltfürarbeitsrecht.net/kuendigung/bonus-nach-kuendigung/), [fachanwaltfürarbeitsrecht.net](https://fachanwaltfürarbeitsrecht.net/13-monatsgehalt-bei-kundigung/) (January 2026)
 [^23]: [anwalt-martin.de](https://www.anwalt-martin.de/lohn-nach-kuendigung/), [dr-drees.com](https://www.dr-drees.com/bonus-nach-kuendigung/)
 [^24]: [Finanztip](https://www.finanztip.de/sperrzeit-arbeitslosengeld/#:~:text=3-,bedeutet%20ein%20auf%C2%ADhe%C2%ADbungs%C2%ADver%C2%ADtrag%20immer%20sperrzeit%3F,-Wenn%20Du%20mit), [Andreas Martin](https://rechtsanwalt-arbeitsrecht-in-berlin.de/) (July 2025)
 [^25]: [Finanztip](https://www.finanztip.de/sperrzeit-arbeitslosengeld/)

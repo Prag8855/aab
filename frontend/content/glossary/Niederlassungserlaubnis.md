@@ -25,7 +25,7 @@ It's better than a [residence permit](/glossary/Aufenthaltstitel) because...
 It's not as good as German citizenship because...[^1]
 
 - You can't vote in elections.
-- If you leave Germany for a long time, you lose it.
+- If you [leave Germany](/guides/leaving-germany) for a long time, you lose it.
 - You can still get deported.
 
 **[How to apply for permanent residence ➞](/guides/permanent-residence)**

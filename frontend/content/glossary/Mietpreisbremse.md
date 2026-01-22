@@ -6,6 +6,7 @@ Description: A rent control law in Germany.
 Date_created: 2020-07-29
 Related_guides:
     guides/find-a-flat-in-berlin.md
+    tools/rent-map.md
     guides/housing-scams.md
     guides/conny-review.md
     guides/saving-money-germany.md
