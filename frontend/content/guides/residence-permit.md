@@ -424,11 +424,15 @@ While you wait, your old residence permit might expire. It is automatically exte
 
 ## If you move
 
-Your residence permit lets you live anywhere in Germany, not just in the city where you got it. You do not need permission to move.
+Your residence permit lets you live anywhere in Germany. You do not need permission to move to another city.
 
-Your address is written on your residence permit. If you move, bring your residence permit to your *[[Anmeldung]]* appointment. They will put a sticker with your new address on your residence permit.[^37] You will not get a new residence card.
+Your address is written on your residence card. If you move, bring your residence permit to your *[[Anmeldung]]* appointment. They will put a sticker with your new address on your residence permit.[^37] You will not get a new residence card.
 
 **[How to change your address ➞](/guides/address-change)**
+
+If you [leave Germany](/guides/leaving-germany) for "non-temporary reasons", your residence permit expires.
+
+**[What happens if you leave Germany ➞](/guides/leaving-germany#residence-permit)**
 
 ## If you change or lose your job
 

@@ -91,7 +91,7 @@ Keep your phone number. You might need it for online banking and two-factor auth
 ### Close your business
 
 - [ ] **[Tell the Finanzamt](https://verwaltung.bund.de/leistungsverzeichnis/EN/leistung/99102018120000)** (*steuerliche Abmeldung*)  
-    It will stop [VAT](/glossary/Umsatzsteuer) and [income tax](/glossary/Einkommensteuer) prepayments.[^17]
+    It will stop [VAT](/glossary/Umsatzsteuer) and [income tax](/glossary/Einkommensteuer) prepayments.[^17] It takes a few weeks.[^38]
 - [ ] **[Tell the IHK](https://service.berlin.de/dienstleistung/122107/)** (*Gewerbeabmeldung*)  
     If you have a *[[Gewerbe]]*, deregister it at the [[IHK]]. It will stop *[[Gewerbesteuer]]* payments and IHK membership fees.[^18]
 - [ ] **[Tell the Künstlersozialkasse](https://www.kuenstlersozialkasse.de/fileadmin/Dokumente/Mediencenter_K%C3%BCnstler_Publizisten/Vordrucke_fuer_Mitteilungen/Mitteilung_ueber_Auslandsaufenthalt.pdf)**  
@@ -156,7 +156,9 @@ These things keep working even if you don't live in Germany:
 
 ## Bank account
 
-**Do not close your bank account.** You need it to get your [apartment deposit](/glossary/Kaution), last paycheck, yearly bonus, tax return and [blocked account](/glossary/Pfändungsschutzkonto) payments.[^25]
+**Do not close your bank account.** You can keep your bank account after you deregister your address and leave Germany.[^8]
+
+You need it to get your [apartment deposit](/glossary/Kaution), last paycheck, yearly bonus, tax return and [blocked account](/glossary/Pfändungsschutzkonto) payments.[^25]
 
 Use [Wise](/out/wise) to transfer your money to another country.
 
@@ -187,11 +189,14 @@ To cancel your health insurance, you need an *[[Abmeldebescheinigung]]*.[^7] Whe
 
 Usually, when you leave Germany, you stop paying income tax in Germany.
 
-You might still need to declare your income and pay taxes in Germany if...[^27]
+You might still have to pay taxes in Germany if...[^27]
 
-- You still have investments, real estate or a business in Germany
-- or you still have a place to live in Germany
-- or you visit Germany regularly
+- You visit Germany often
+- Your family still lives in Germany
+- You still have an apartment or a room in Germany
+- You conduct most of your business in Germany
+
+For example, if you officially live in Spain, but your family lives in Berlin, you often go to a German doctor, and you own an empty apartment in Berlin, the *[[Finanzamt]]* might still tax you.
 
 ### Stocks and ETFs
 
@@ -229,19 +234,16 @@ You must pay an exit tax if...[^20]
 
 ## Residence permit
 
-Your German citizenship does not expire when you leave Germany.
+Your [residence permit](/glossary/Aufenthaltstitel) or [permanent residence](/glossary/Niederlassungserlaubnis) only expires if...[^35]
 
-Your [residence permit](/glossary/Aufenthaltstitel) expires if...[^35]
+- **You leave Germany for more than 6 months**[^39]  
+    If you have a [[Blue Card]] or a [EU permanent residence](/guides/permanent-residence#eu-permanent-residence), you can leave up to 12 months. You can [get permission from the *Ausländerbehörde*](https://www.berlin.de/einwanderung/aufenthalt/erloeschen-von-aufenthaltstiteln/) to leave for a longer period.
+- or **you leave Germany for non-temporary reasons**  
+    For example, if you permanently move to Canada. "Non-temporary reasons" usually means that you quit your job, move out of your apartment, deregister your address, and leave Germany.[^36] A semester or internship abroad is a temporary reason, so it does not make your residence permit expire.
 
-- You leave Germany for more than 6 months (12 months for a [[Blue Card]])
-- or you leave Germany for non-temporary reasons
+The *[[Abmeldung]]* does not make your residence permit expire.
 
-Your [permanent residence](/glossary/Niederlassungserlaubnis) expires if...[^35]
-
-- You leave Germany for more than 6 months (12 months for the [EU permanent residence](/guides/permanent-residence#eu-permanent-residence))
-- or you leave Germany for non-temporary reasons
-
-"Non-temporary reasons" has no fixed definition. It usually means that you quit your job, move out of your apartment, deregister your address, and leave Germany.[^36]
+Your German citizenship does not expire, even if you leave Germany.
 
 ## Need help?
 
@@ -254,6 +256,7 @@ Your [permanent residence](/glossary/Niederlassungserlaubnis) expires if...[^35]
 [^5]: [resartus.de](https://resartus.de/auswandern-aus-deutschland-welche-dokumente-sind-zum-auswandern-noetig/#:~:text=ehefahigkeitszeugnis%2C%20eheurkunde%20und%20scheidungsurteil) (2025)
 [^6]: [grenzenlos-sicher.de](https://www.grenzenlos-sicher.de/post/abmelden-aus-deutschland-2025#:~:text=keine%20direkten%20auswirkungen%20auf%20deine%20rentenzahlungen) (2025)
 [^7]: [Feather](https://feather-insurance.com/blog/cancel-health-insurance#:~:text=that%20means%20providing%20your%20abmeldung%2C)
+[^8]: [Reddit](https://old.reddit.com/r/Ratschlag/comments/1pw3qpo/abmeldung_aus_deutschland_gehalt_und_bankkonto/) (2025)
 [^9]: [Suat Göydeniz](https://stb-goeydeniz.de/) (January 2026)
 [^10]: [hwr-berlin.de](https://www.hwr-berlin.de/en/study/studying-at-the-hwr-berlin/organizing-your-degree/applying-for-disenrolment) (January 2026)
 [^11]: [uni-goettingen.de](https://www.uni-goettingen.de/de/was+ist+ein+%22transcript+of+records%22%3F/216488.html) (January 2026), [FU Berlin](https://www.polsoz.fu-berlin.de/studium/pruefungsbuero/studiengaenge/ma_studiengaenge/ma_gender_intersektionalitaet-und-politik/Wie-erhalte-ich-ein-Transcript-of-Records_.html) (January 2026), [h-da.de](https://h-da.de/en/disenrollment) (January 2026)
@@ -272,7 +275,7 @@ Your [permanent residence](/glossary/Niederlassungserlaubnis) expires if...[^35]
 [^24]: [FitX](https://hilfe.fitx.de/hc/de/articles/30715200755613-Kann-ich-meine-Mitgliedschaft-au%C3%9Ferordentlich-k%C3%BCndigen) (January 2026), [John Reed](https://help.johnreed.fitness/hc/de/articles/28868024075921-Wie-kann-ich-meine-John-Reed-Mitgliedschaft-beenden#:~:text=wegen%20krankheit%20oder%20umzug) (January 2026) [Reddit](https://old.reddit.com/r/LegaladviceGerman/comments/1kf548r/kann_ich_meinen_fitnessstudiovertrag_wegen/) (2025), [anwalt.org](https://www.anwalt.org/kuendigung/superfit/#SUPERFIT_Kuendigung_bei_Umzug) (2025), [verbraucherzentrale-brandenburg.de](https://www.verbraucherzentrale-brandenburg.de/infothek/fitnessstudio-kuendigen-so-gehts#:~:text=und%20wird%20nur%20aus%20kulanz%20gewahrt) (April 2025)
 [^25]: [evz.de](https://www.evz.de/finanzen-versicherungen/umzug-ins-eu-ausland.html#:~:text=ist%20es%20nicht%20ratsam%2C%20ihr%20bestehendes%20girokonto%20zu%20kundigen) (2024)
 [^26]: [wohnsitzausland.com](https://www.wohnsitzausland.com/fachwissen/entstrickung-exit-tax#:~:text=als%20Selbst%C3%A4ndiger%20bzw.-,freiberufler,-Grunds%C3%A4tzlich%20gilt%20bei) (January 2026), [wegzugsteuer.info](https://wegzugsteuer.info/articles/einzelunternehmen-statt-gmbh-wegzugsteuer-vermeiden) (October 2025)
-[^27]: [wohnsitzausland.com](https://www.wohnsitzausland.com/faqs/faqs-wegzug-ins-ausland) (January 2026)
+[^27]: [wohnsitzausland.com](https://www.wohnsitzausland.com/faqs/faqs-wegzug-ins-ausland) (January 2026), [wohnsitzausland.com](https://www.wohnsitzausland.com/fachwissen/lebensmittelpunkt-steuerlicher-wohnsitz) (January 2026), [wohnsitzausland.com](https://www.wohnsitzausland.com/fachwissen/wohnsitz-abmelden-bei-umzug-ins-ausland#:~:text=werden%20sie%20in%20der%20bundesrepublik%20weiter%20steuern%20zahlen%20mussen.) (January 2026)
 [^28]: [wohnsitzausland.com](https://www.wohnsitzausland.com/aktuelles/auswandern-krankenversicherung-im-ausland#:~:text=rentner%2C%20die%20innerhalb%20der%20europaischen%20union%20dauerhaft%20leben) (January 2026), [DVKA](https://www.dvka.de/de/versicherte/rentner/) (August 2025)
 [^29]: [krankenkassen.de](https://www.krankenkassen.de/krankenkasse-wechseln/kuendigung/fristen/) (January 2026), [Rob Schumacher](/out/feather) (January 2026)
 [^30]: [Suat Göydeniz](https://stb-goeydeniz.de/) (January 2026)
@@ -280,6 +283,8 @@ Your [permanent residence](/glossary/Niederlassungserlaubnis) expires if...[^35]
 [^32]: [Finanztip community](https://www.finanztip.de/community/forum/thema/40551-wegzugsbesteuerung-etf-500-000-euro-grenze/) (August 2025), [§ 19 InvStG](https://www.gesetze-im-internet.de/invstg_2018/__19.html)
 [^33]: [wegzugsteuer.info](https://wegzugsteuer.info/articles/einzelunternehmen-statt-gmbh-wegzugsteuer-vermeiden#:~:text=die%20jetzt%20vom%20unternehmen%20in%20dein%20privateigentum%20ubergehen) (October 2025)
 [^34]: [eidel.io](https://eidel.io/notes-and-hacks-on-germanys-exit-tax/#:~:text=Exit%20Tax%20On-,etfs,-Starting%20in%202025) (August 2025)
-[^35]: [§ 51 Abs. 1 AufenthG](https://www.buzer.de/51_AufenthG.htm), [stadt.muenchen.de](https://stadt.muenchen.de/service/info/auslanderbehorde/1081226/) (January 2026)
+[^35]: [§ 51 AufenthG](https://www.buzer.de/51_AufenthG.htm), [berlin.de](https://www.berlin.de/einwanderung/aufenthalt/erloeschen-von-aufenthaltstiteln/) (January 2026), [stadt.muenchen.de](https://stadt.muenchen.de/service/info/auslanderbehorde/1081226/) (January 2026), [frag-einen-anwalt.de](https://www.frag-einen-anwalt.de/Aufenthaltstitel-nach-Abmeldung--f336776.html) (January 2020), [Fiona Macdonald](https://www.fmr-legal.de/) (October 2024), [VAB A.51.1.6](/out/vab) (July 2025)
 [^36]: [Berlin.de](https://www.berlin.de/einwanderung/aufenthalt/erloeschen-von-aufenthaltstiteln/) (January 2026), [openjur.de](https://openjur.de/u/2539408.html#:~:text=sei%20gema%C3%9F%20%C2%A7%2051%20abs.%201%20nr.%206%20aufenthg%20dadurch%20erloschen), [migrationsrecht.net](https://www.migrationsrecht.net/component/com_joomlaw/Itemid%2C232/id%2C287/layout%2Cvwv/view%2Ccomment/?utm_source=chatgpt.com%22%20o%20%2251.1%20Erl%C3%B6schen%20der%20Aufenthaltstitel%20-%20Migrationsrecht.net#:~:text=51.1.5.1,Ausl%C3%A4nderbeh%C3%B6rde%20beantragt%20werden.) (January 2026)
 [^37]: [tasso.net](https://www.tasso.net/Service/Wissensportal/Urlaub-Reisen-mit-Tier/eu-heimtierausweis) (January 2026)
+[^38]: [deregistration.de](https://deregistration.de/business-deregistration-germany/) (January 2026)
+[^39]: [§ 51 AufenthG](https://www.buzer.de/51_AufenthG.htm), [berlin.de](https://www.berlin.de/einwanderung/aufenthalt/erloeschen-von-aufenthaltstiteln/) (January 2026)

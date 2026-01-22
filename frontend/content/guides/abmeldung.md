@@ -36,7 +36,7 @@ Do not do your *Abmeldung* if...
 You must deregister to...
 
 - Stop being a German resident
-- Stop paying taxes in Germany
+- [Stop paying taxes](/guides/leaving-germany#taxes) in Germany
 
 When you deregister, you get a deregistration certificate (*[[Abmeldebescheinigung]]*). With this certificate, you can...
 
@@ -79,9 +79,9 @@ If you deregister multiple people, you must also bring...
 
 If you [send someone else](#pay-someone-to-do-it) to deregister you, they must also bring...
 
-- [ ] A signed *[[Vollmacht]]* for each person you deregister
+- [ ] A *[[Vollmacht]]* for each person to deregister. Use [this template](https://www.schwarmstedt.de/joomla/formulare/meldewesen/Vollmacht.pdf).
 
-The appointment is short and easy. It takes around 10 minutes. If you don't speak German, you probably won't need help, but you can still bring a translator.
+The appointment takes around 10 minutes. If you don't speak German, you probably won't need help, but you can still bring a translator.
 
 During your appointment, you will get an *[[Abmeldebescheinigung]]*.
 
@@ -129,35 +129,21 @@ They will deregister your address, and send you a [deregistration certificate](/
 
 They can also cancel your [TV tax](/glossary/Rundfunkbeitrag), your [health insurance](/glossary/Krankenversicherung), and your other contracts.
 
-## What happens when you deregister
+## What happens after you deregister
 
 When you deregister, you lose your official address in Germany. This has consequences.
 
 ### Taxes
 
-If you [leave Germany](/guides/leaving-germany), the *Abmeldung* tells the *[[Finanzamt]]* that you have left the country, and that you don't need to pay taxes in Germany.[^5]
+The *Abmeldung* tells the *[[Finanzamt]]* that you have left the country, and that you don't need to pay taxes in Germany.[^5] You might still have to pay taxes in Germany if you have a residence, investments or a business in Germany.
 
-You might still have to pay taxes in Germany if...[^6]
-
-- You visit Germany often
-- Your family still lives in Germany
-- You still have an apartment or a room in Germany
-- You conduct most of your business in Germany
-
-For example, if you officially live in Spain, but your family lives in Berlin, you often go to a German doctor, and you own an empty apartment in Berlin, the *Finanzamt* might still tax you.
+**[Taxes after leaving Germany ➞](/guides/leaving-germany#taxes)**
 
 ### Residence permit
 
-You do not lose your [residence permit](/glossary/Aufenthaltstitel) when you deregister.
+Your [residence permit](/glossary/Aufenthaltstitel) or [permanent residence](/glossary/Niederlassungserlaubnis) **does not expire** when you deregister your address. It only expires if you leave Germany "non-temporary reasons". Your German citizenship never expires.
 
-Your residence permit can expire if...
-
-- **You leave Germany for "non-temporary reasons"**[^28]  
-    For example, you deregister and move back to your home country.
-- or **you leave Germany for more than 6 months**[^19]  
-    For example, you travel for more than 6 months. [Some residence permits](https://www.berlin.de/einwanderung/en/residence/expiry/) let you leave Germany for 12 or 24 months. You can [get permission from the *Ausländerbehörde*](https://www.berlin.de/einwanderung/aufenthalt/erloeschen-von-aufenthaltstiteln/) to leave longer.[^26]
-
-You still need a registered address to [renew your residence permit](/guides/residence-permit#how-to-renew-a-residence-permit).
+**[When does a residence permit expire? ➞](/guides/leaving-germany#residence-permit)**
 
 ### Health insurance
 
@@ -169,11 +155,13 @@ If you move to another EU country, you are retired, and you get a German public 
 
 ### Social security
 
-When you deregister, you could lose access to [[ALG I]], [[Bürgergeld]], [[Kindergeld]] and other social services.[^16] Those services are only for German residents.
+When you deregister, you might stop receiving *[[Bürgergeld]]*, *[[Elterngeld]]* *[[Kindergeld]]* and other social services.[^16] Those services are only for German residents. You can get *[[ALG I]]* in another EU country for up to 6 months.
 
 ### Bank account
 
-You can keep your German bank account. If the bank sends you a letter, and it can't be delivered, they might freeze your bank account.[^17] If they freeze your bank account, you can't withdraw money, use your credit card, or make [bank transfers](/glossary/SEPA-%C3%9Cberweisung).
+You can keep your German bank account, even if you deregister your address and [leave Germany](/guides/leaving-germany).[^4] You need it to get your [apartment deposit](/glossary/Kaution), last paycheck, yearly bonus and tax return.
+
+If the bank sends you a letter, and it can't be delivered, they might freeze your bank account.[^17] If they freeze your bank account, you can't withdraw money, use your credit card, or make [bank transfers](/glossary/SEPA-%C3%9Cberweisung).
 
 ### Vehicles
 
@@ -181,43 +169,32 @@ You can't own a vehicle registered in Germany if you don't live in Germany.[^14]
 
 ### Other services
 
-When you deregister, you get an *[[Abmeldebescheinigung]]*. Use this certificate to [cancel your phone, internet and electricity contracts](/guides/moving-out#cancel-or-move-your-contracts) without fees or delays.[^16]
-
-If you own a business in Germany, you might also need to deregister your business, or transfer it to another person.
+When you deregister, you get an *[[Abmeldebescheinigung]]*. Use it to [cancel your phone, internet and electricity contracts](/guides/moving-out#cancel-or-move-your-contracts) without fees or delays.[^16]
 
 ## If you already moved out
 
-If you already left Germany, you can do your *Abmeldung* by email or by post.[^23] You will not be punished.
+If you already left Germany, you can do your *Abmeldung* by email or by post.[^23] You will not be punished. It's better to [pay someone to deregister you](#pay-someone-to-do-it), because it guarantees that you will receive an *[[Abmeldebescheinigung]]*.
 
 ## What to do next
 
-**[How to leave Germany ➞](/guides/leaving-germany)**
-
-**[How to move out of an apartment ➞](/guides/moving-out)**
+**[How to move out of your apartment ➞](/guides/moving-out)**
 
 **[How to change your address ➞](/guides/address-change)**
 
-2 years after you leave Germany, you can [get a refund](/guides/pension-payments-refund) for your public pension payments. You can get thousands of euros back.
-
-{% include "_blocks/pensionRefundCalculator.html" %}
-
-**[How to get a pension refund ➞](/guides/pension-payments-refund)**
+**[How to leave Germany ➞](/guides/leaving-germany)**
 
 [^0]: [§ 17 Abs. 2 BMG](https://www.buzer.de/17_BMG.htm), [Berlin.de](https://service.berlin.de/dienstleistung/120335/#:~:text=im%20zeitraum%20von%207%20tagen%20vor%2C%20muss%20aber%20bis%2014%20tage%20nach%20dem%20auszug%20vorgenommen%20werden) (January 2026)
 [^1]: [Robert Hantzsch](/out/easyassist-abmeldung) (August 2025), [Oliver Frankfurth](https://sympat.me) (April 2023), [Facebook](https://www.facebook.com/groups/berlinfreelancers/posts/3107197082693988/?comment_id=3107888739291489), [reddit.com](https://old.reddit.com/r/berlin/comments/o7vjdy/abmeldung_no_confirnation/)
 [^2]: [Robert Hantzsch](/out/easyassist-abmeldung) (August 2025), [reddit.com](https://old.reddit.com/r/berlin/comments/o7vjdy/abmeldung_no_confirnation/)
 [^3]: [Techniker Krankenkasse](https://www.tk.de/techniker/versicherung/tk-leistungen/ausland/wohnen-im-ausland/europaeisches-ausland-krankenversicherung-rentner-2009820) (January 2026), [Techniker Krankenkasse](https://www.tk.de/techniker/versicherung/tk-leistungen/ausland/wohnen-im-ausland/wohnsitz-ausland-rentner-2009812) (October 2025)
+[^4]: [Nerea Lopez](https://www.linkedin.com/posts/nicolasbouliane_to-those-who-left-germany-what-happened-activity-7420140781635731456-XFqF/) (January 2026)
 [^5]: [wohnsitzausland.com](https://www.wohnsitzausland.com/fachwissen/wohnsitz-abmelden-bei-umzug-ins-ausland#:~:text=bleiben%20sie%20also%20mit%20ihrem%20welteinkommen%20im%20land%20steuerpflichtig) (January 2026)
-[^6]: [wohnsitzausland.com](https://www.wohnsitzausland.com/fachwissen/lebensmittelpunkt-steuerlicher-wohnsitz) (January 2026), [wohnsitzausland.com](https://www.wohnsitzausland.com/fachwissen/wohnsitz-abmelden-bei-umzug-ins-ausland#:~:text=werden%20sie%20in%20der%20bundesrepublik%20weiter%20steuern%20zahlen%20mussen.) (January 2026)
 [^14]: [wirelesslife.de](https://icwb.com/de/wohnsitz-abmelden-umzug-ins-ausland#umzug5)
 [^15]: [Finanztip](https://www.finanztip.de/pkv/pkv-anwartschaftsversicherung/), [Seamus Wolf](https://horizon65.com/) (2025)
 [^16]: [wirelesslife.de](https://icwb.com/de/wohnsitz-aus-deutschland-abmelden-pros-und-cons/)
 [^17]: [reddit.com/r/germany](https://old.reddit.com/r/germany/comments/m14kvt/what_happens_after_the_abmeldung/gqboqey/?context=3)
 [^18]: [Robert Hantzsch](/out/easyassist-abmeldung) (August 2025)
-[^19]: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html#p1050), [berlin.de](https://www.berlin.de/einwanderung/aufenthalt/erloeschen-von-aufenthaltstiteln/)
 [^22]: [Robert Hantzsch](/out/easyassist-abmeldung) (August 2025), [Oliver Frankfurth](https://sympat.me) (April 2023)
 [^23]: [Reddit](https://old.reddit.com/r/berlin/comments/14xi6r4/ambeldung_after_moving_to_another_eu_country/)
-[^26]: [Berlin.de](https://www.berlin.de/einwanderung/en/residence/expiry/) (July 2025)
 [^27]: [Twitter](https://x.com/DinamoBabel/status/1828852594141474829) (August 2024)
-[^28]: [§ 51 Abs. 1 S. 6 AufenthG](https://www.buzer.de/51_AufenthG.htm), [frag-einen-anwalt.de](https://www.frag-einen-anwalt.de/Aufenthaltstitel-nach-Abmeldung--f336776.html) (January 2020), [Fiona Macdonald](https://www.fmr-legal.de/) (October 2024), [VAB A.51.1.6](/out/vab) (July 2025)
 [^30]: [Twitter](https://x.com/DinamoBabel/status/1828852594141474829) (August 2024)
