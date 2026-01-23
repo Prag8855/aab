@@ -318,7 +318,7 @@ ctx["FAST_TRACK_FEE"] = 411  # § 47 AufenthG
 
 # Minimum guaranteed pension payment (€/m) to get a freelance visa above age 45
 # VAB, https://www.bmas.de/DE/Soziales/Rente-und-Altersvorsorge/rentenversicherungsbericht-art.html
-ctx["FREELANCE_VISA_MIN_MONTHLY_PENSION"] = fail_on("2026-03-01", Decimal("1565.03"))
+ctx["FREELANCE_VISA_MIN_MONTHLY_PENSION"] = fail_on("2027-02-01", Decimal("1612.53"))
 ctx["FREELANCE_VISA_MIN_PENSION"] = round(ctx["FREELANCE_VISA_MIN_MONTHLY_PENSION"] * 144)
 
 # Minimum income (€/mth) before health insurance and rent to get a freelance visa - Anlage SGB 12 (Regelbedarfsstufe 1)
