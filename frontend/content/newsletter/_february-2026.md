@@ -4,8 +4,6 @@ Description:
 Date_created: 2026-02-01
 ---
 
-## Meldebescheinigung zur Sozialversicherung
-
 ## What's happening in February
 
 Nothing! February is the quietest month of the year. There are no [public holidays](https://allaboutberlin.com/guides/public-holidays) and no [shopping Sundays](https://allaboutberlin.com/guides/open-on-sundays-in-berlin), and although the days are slowly getting longer, it's still too damn cold. It's a great time to travel and wait the winter out in a sunnier place.
@@ -16,6 +14,10 @@ There are still a few good reasons to stick around:
 - [Berlin Independent Film Festival](https://www.berlinfest.com/) - February 5 to 8
 - [Berlinale film festival](https://www.berlinale.de/en/home.html) - February 12 to 22
 - [Cologne Carnival](https://www.cologne-tourism.com/experiences-lifestyle/carnival) - February 13 to 15
+
+Oh, and make sure that you get your *[[Meldebescheinigung zur Sozialversicherung]]* this month. Your employer must send it to you every year in January or February.
+
+!["Berliner Hinterhäuser im Schnee", Adolf Friedrich von Menzel"](/images/berliner-hinterhauser-im-schnee.jpg "Berliner Hinterhäuser im Schnee, Adolf Friedrich von Menzel")
 
 ## New guide: [how to leave Germany](/guides/leaving-germany)
 
