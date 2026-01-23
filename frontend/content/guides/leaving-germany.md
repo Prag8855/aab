@@ -256,7 +256,7 @@ Your German citizenship does not expire, even if you leave Germany.
 [^5]: [resartus.de](https://resartus.de/auswandern-aus-deutschland-welche-dokumente-sind-zum-auswandern-noetig/#:~:text=ehefahigkeitszeugnis%2C%20eheurkunde%20und%20scheidungsurteil) (2025)
 [^6]: [grenzenlos-sicher.de](https://www.grenzenlos-sicher.de/post/abmelden-aus-deutschland-2025#:~:text=keine%20direkten%20auswirkungen%20auf%20deine%20rentenzahlungen) (2025)
 [^7]: [Feather](https://feather-insurance.com/blog/cancel-health-insurance#:~:text=that%20means%20providing%20your%20abmeldung%2C)
-[^8]: [Reddit](https://old.reddit.com/r/Ratschlag/comments/1pw3qpo/abmeldung_aus_deutschland_gehalt_und_bankkonto/) (2025)
+[^8]: [Reddit](https://old.reddit.com/r/Ratschlag/comments/1pw3qpo/abmeldung_aus_deutschland_gehalt_und_bankkonto/) (2025), [Twitter](https://x.com/aboutberlin/status/2014373210981114004) (January 2026), [LinkedIn](https://www.linkedin.com/posts/nicolasbouliane_to-those-who-left-germany-what-happened-activity-7420140781635731456-XFqF) (January 2026)
 [^9]: [Suat Göydeniz](https://stb-goeydeniz.de/) (January 2026)
 [^10]: [hwr-berlin.de](https://www.hwr-berlin.de/en/study/studying-at-the-hwr-berlin/organizing-your-degree/applying-for-disenrolment) (January 2026)
 [^11]: [uni-goettingen.de](https://www.uni-goettingen.de/de/was+ist+ein+%22transcript+of+records%22%3F/216488.html) (January 2026), [FU Berlin](https://www.polsoz.fu-berlin.de/studium/pruefungsbuero/studiengaenge/ma_studiengaenge/ma_gender_intersektionalitaet-und-politik/Wie-erhalte-ich-ein-Transcript-of-Records_.html) (January 2026), [h-da.de](https://h-da.de/en/disenrollment) (January 2026)
