@@ -389,7 +389,17 @@
 	</template>
 	<template v-if="stage === 'reminderConfirmation'">
 		<p><strong>Reminder set!</strong> We will send you an email in {{ monthsUntilEligible }}.</p>
-		<hr>
+		<ul class="buttons list">
+			<li>
+				<a href="/guides/leaving-germany" target="_blank">
+					{% endraw %}{% include "_css/icons/exit.svg" %}{% raw %}
+					<div>
+						<h3>Learn how to leave Germany</h3>
+						<p>Use my checklist for moving to another country.</p>
+					</div>
+				</a>
+			</li>
+		</ul>
 		<div class="buttons bar">
 			<button class="button" @click="email = '';stage = 'start'"><i class="icon left" aria-hidden="true"></i> Back to calculator</button>
 		</div>

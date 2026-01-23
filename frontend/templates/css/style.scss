@@ -595,6 +595,7 @@ body > header {
         display: flex;
         justify-content: flex-end;
         flex-grow: 1;
+        flex-wrap: wrap;
     }
 
     @mixin header-link{
@@ -610,6 +611,7 @@ body > header {
     .logo, #sections > a, #sections > a:visited{
         @include header-link;
         display: block;
+        flex: 0 0 auto;
     }
 
     .search-form{
