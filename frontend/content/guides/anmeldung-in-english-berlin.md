@@ -90,14 +90,16 @@ Bring these documents to your appointment:
     - Your boyfriend or girlfriend if you move in with them. They need permission from the landlord, but the landlord can't really refuse.[^6]
 - [ ] **Anmeldung form**  
     [Fill the form online](/docs/anmeldung#fill-the-anmeldung-form-online), print it and sign it. To register more than 2 people, use multiple forms.
-- [ ] **Passport or EU national ID**  
-    You can use a *[[Personalausweis]]* from any [EU](/glossary/European%20Union) country.[^7]
+- [ ] **Passport**  
+    If you have a German passport, they will put a sticker with your new address on it.
+- [ ] **[National ID](/glossary/Personalausweis)**  
+    You can use an ID from any [EU](/glossary/European%20Union) country.[^7] They will put a sticker with your new address on it.
 
 You might also need these documents:
 
 - [ ] **[Residence permit](/glossary/Aufenthaltstitel)**  
     If you have a residence permit, bring it. Your residence permit has your old address on it. They will put a sticker on it with your new address.[^8] That sticker is not important.[^16]
-- [ ] **Vehicle registration papers**  
+- [ ] **[Vehicle registration papers](/glossary/Zulassungsbescheinigung)**  
     If you have a vehicle, and it's registered at your old address, bring your [*Zulassungsbescheinigung Teil 1*](/glossary/Zulassungsbescheinigung). They will put a sticker on it with your new address. It costs €{{VEHICLE_UMMELDUNG_FEE|cur}} per vehicle.
 - [ ] **Cash** or a **[[Girocard]]**  
     The *Anmeldung* costs nothing, but if you have vehicles, it costs €{{VEHICLE_UMMELDUNG_FEE|cur}} per vehicle. You can only pay with cash or a *Girocard*. Some *Bürgeramt* locations accept Visa and Mastercard.[^9]
