@@ -207,7 +207,7 @@ Usually, there is **no exit tax** on your stocks and ETFs.[^30] You only pay the
 You must pay an exit tax if...[^20]
 
 - You invested at least €500,000 in a single ETF or you own at least 1% of a company[^32]
-- and you lived in Germany for 10 years
+- and you lived in Germany for 7 of the last 12 years[^40]
 - and you move out of Germany
 
 > **Example 1:** While you lived in Germany, you invested €500,000 in the iShares MSCI World ETF. You must pay an exit tax.
@@ -290,3 +290,4 @@ Your German citizenship does not expire, even if you leave Germany.
 [^37]: [tasso.net](https://www.tasso.net/Service/Wissensportal/Urlaub-Reisen-mit-Tier/eu-heimtierausweis) (January 2026)
 [^38]: [deregistration.de](https://deregistration.de/business-deregistration-germany/) (January 2026)
 [^39]: [§ 51 AufenthG](https://www.buzer.de/51_AufenthG.htm), [berlin.de](https://www.berlin.de/einwanderung/aufenthalt/erloeschen-von-aufenthaltstiteln/) (January 2026)
+[^40]: [§ 6 Abs. 2 AStG](https://www.buzer.de/6_AStG.htm) (January 2026), [kanzleimauss.de](https://www.kanzleimauss.de/wegzugsbesteuerung/#:~:text=der%20letzten%2012%20jahre%2C%20mindestens%207%20jahre%20davon) (July 2024)
