@@ -59,6 +59,10 @@ There are 4 ways to send your *Abmeldung* form:
 - [By post](/guides/abmeldung#by-post)
 - [Pay someone to do it](/guides/abmeldung#pay-someone-to-do-it)
 
+**[How to do your Abmeldung ➞](/guides/abmeldung)**
+
+After you deregister your address, you will get an *[[Abmeldebescheinigung]]*.
+
 ## What to do next
 
 **[How to move out of your apartment ➞](/guides/moving-out)**

@@ -10,10 +10,14 @@ Related_guides:
     guides/leaving-germany.md
 ---
 
-The deregistration certificate (*Abmeldebescheinigung*) confirms that you have [deregistered your address](/guides/abmeldung) in Germany. You get this document when you do your *[[Abmeldung]]*. If you do your *Abmeldung* by post or by email, the *Abmeldebescheinigung* is sent to your new address.
+When you [deregister your address](/glossary/Abmeldung), you get a deregistration certificate (*Abmeldebescheinigung*).
 
-If you already left Germany, you can email any Bürgeramt and ask for a copy of your *Abmeldebescheinigung*. This costs €10. They will mail it to you.
+You can use this document to...
 
-This is not the same as the [*A<u>n</u>meldebescheinigung*](/glossary/Meldebescheinigung). You get an *Anmeldebescheinigung* when you [register your address](/glossary/Anmeldung).
+- Confirm that you have left Germany
+- Cancel your health insurance
+- Cancel internet, phone, electricity, gas and gym contracts
+
+![Example Abmeldebescheinigung](/images/abmeldebescheinigung-berlin.jpg "Example Abmeldebescheinigung issued in Berlin")
 
 **[How to deregister your address ➞](/guides/abmeldung)**
