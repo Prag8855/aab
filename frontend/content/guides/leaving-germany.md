@@ -223,7 +223,7 @@ There is **no exit tax on** cryptocurrency.[^31] Leaving Germany has no effect o
 
 ### Business
 
-If you own shares in a company, you must pay an exit tax.[^1] This includes companies in other countries. You can sometimes avoid the exit tax.[^14] Ask your [tax advisor](/glossary/Steuerberater) to help you, or use the [list of tax advisors](https://wegzugsteuer.info/steuerberater) with exit tax experience.
+If you own shares in a company, you must pay an exit tax.[^1] This includes companies in other countries. You can sometimes avoid the exit tax.[^14] Ask your [tax advisor](/glossary/Steuerberater) to help you, or use the [list of tax advisors](https://wegzugsteuer.info/en/tax_advisors) with exit tax experience.
 
 You must pay an exit tax if...[^20]
 
@@ -233,7 +233,7 @@ You must pay an exit tax if...[^20]
 
 **Freelancers and sole proprietors** almost never pay an exit tax.[^26] When you leave Germany, you just close your business. Your business assets (computers, office) might be taxed.[^33]
 
-**[How the exit tax works ➞](https://eidel.io/notes-and-hacks-on-germanys-exit-tax/)**
+**[How the exit tax works ➞](https://wegzugsteuer.info/en)**
 
 ## Residence permit
 
