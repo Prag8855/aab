@@ -46,10 +46,11 @@ This checklist helps you move from Germany to another country.
         Moving costs are [tax-deductible](/glossary/steuerlich%20absetzbar). Save your receipts for your [tax declaration](/glossary/Steuererklärung).
 - [ ] **[Deregister your address](/guides/abmeldung)** (*[[Abmeldung]]*)  
     It tells the *[[Finanzamt]]* that you should stop paying taxes in Germany. When you deregister, you get an *[[Abmeldebescheinigung]]*. Use it to cancel contracts with a shorter [notice period](/glossary/Kündigungsfrist).
-    - [ ] [Change your address](/guides/address-change#tell-everyone)
     - [ ] [Forward your mail](/guides/address-change#forward-your-mail)
     - [ ] [Deregister for TV tax](/guides/gez-rundfunkbeitrag#how-to-stop-paying)
     - [ ] [Deregister for the dog tax](https://service.berlin.de/dienstleistung/324161/)
+- [ ] **[Change your address](/guides/address-change#tell-everyone-else)**  
+    The *[[Abmeldung]]* is not enough. You must inform everyone else of your new address.
 - [ ] **[Cancel your contracts](/guides/moving-out#cancel-or-move-your-contracts)**  
     Most contracts have a [notice period](/glossary/Kündigungsfrist). When you leave Germany, you can sometimes end contracts sooner. You might need to get an *[[Abmeldebescheinigung]]* first.
     - [ ] **[Health insurance](#health-insurance)**  

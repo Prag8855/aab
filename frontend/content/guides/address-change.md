@@ -5,40 +5,39 @@ Description: This guide explains how to change your address and redirect your ma
 Date_created: 2022-09-24
 ---
 
-When you [move into a new apartment](/guides/moving-in), you must change your address. It's not automatic. This guide shows you how to do it.
+This guide helps you update your address after you [move into a new apartment](/guides/moving-in). It's not automatic.
 
 {% include "_blocks/tableOfContents.html" %}
 
 ## Put your name on your mailbox
 
-German apartments rarely have apartment numbers. Everyone in the building has the same address. Each person has a mailbox with their name on it. **If there is no mailbox with your name on it, you will not receive your mail.**
+German apartments rarely have apartment numbers. Mailboxes and doorbells have no numbers, just names. To receive your mail, your name must be on your mailbox.
 
-![Illustration of German mailboxes (Briefkasten)](/illustrations/mailboxes-briefkasten-germany.png)
+![German apartment doorbell with names](/images/german-doorbell-names.jpg)
 
-Ask your landlord or *[[Hausverwaltung]]* to put your name on your mailbox and doorbell. Your landlord can't charge you a fee for this.[^4] If your name is not on the lease, your landlord can refuse to put your name on the mailbox.[^3] If you put the name yourself, your landlord can remove it.[^7]
+When you [move in](/guides/moving-in), your landlord or *[[Hausverwaltung]]* must put your name on your doorbell, your mailbox and your door. They must do it for free.[^4]
 
-If you can't put your name on your mailbox, [add "c/o" or "bei" to your address](/guides/addressing-a-letter-in-germany#if-the-name-is-not-on-the-mailbox).
+If your name is not on the lease, the landlord can refuse to put your name on the mailbox.[^3] If you put the name yourself, your landlord can remove it.[^7]
+
+If you can't put your name on your mailbox, you must [add "c/o" or "bei" to your address](/guides/addressing-a-letter-in-germany#if-the-name-is-not-on-the-mailbox) every time you write your address.
 
 ## Learn to write your new address
 
-**[How to address letters in Germany ➞](/guides/addressing-a-letter-in-germany)**
+**[How to write your address ➞](/guides/addressing-a-letter-in-germany#how-to-write-german-addresses)**
 
 ## Register your address
 
-Register your address at the *[[Bürgeramt]]*. This is called the *[[Anmeldung]]*. If you can't put your name on the mailbox, [add "c/o" or "bei"](/guides/addressing-a-letter-in-germany#if-the-name-is-not-on-the-mailbox) to your official address.
-
-**[How to register your address ➞](/guides/anmeldung-in-english-berlin)**
-
-The *Bürgeramt* will share your new address with...
+Do your *[[Anmeldung]]* at the *[[Bürgeramt]]*. The *Bürgeramt* will inform...
 
 - **The [[Ausländerbehörde]]**  
     Bring your [residence permit](/glossary/Aufenthaltstitel) to your *Anmeldung* appointment. They will put a sticker on it with your new address. You don't need to go to the *[[Ausländerbehörde]]* to update your residence permit.[^8]
-- **The church**  
-    If you pay the [church tax](/glossary/Kirchensteuer), your church will know about your address change.
 - **The [[Kfz-Zulassungsstelle]]**  
     Bring your [vehicle registration papers](/glossary/Zulassungsbescheinigung) to your *Anmeldung* appointment. They will put a sticker on them with your new address. It costs €{{VEHICLE_UMMELDUNG_FEE|cur}} per vehicle. You can also [change your vehicle's address online](https://service.berlin.de/dienstleistung/120918/).
+- Your church, if you pay the [church tax](/glossary/Kirchensteuer)
 
-## Tell everyone
+**[How to register your address ➞](/guides/anmeldung-in-english-berlin)**
+
+## Tell everyone else
 
 Use **[umziehen.de](https://umziehen.de/formular/umzugsmitteilung)** to tell over 1000 companies your new address. It's a free service from Deutsche Post. They only share your new address with businesses that already know your old address.
 
@@ -92,8 +91,8 @@ Mail forwarding is **not reliable**. Official mail from the *[[Bürgeramt]]*, *[
 [^1]: [umziehen.de](https://umziehen.de/an-ab-ummelden/finanzamt-ummelden-166)
 [^2]: [berlin.de](https://service.berlin.de/dienstleistung/120918/)
 [^3]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/dm65o5/adding_co_to_the_anmeldung/f6lq399/), [mietrecht.org](https://www.mietrecht.org/mietvertrag/namen-briefkasten-klingel/#I)
-[^4]: [haufe.de](https://www.haufe.de/immobilien/verwaltung/mietrecht-kosten-fuer-namensschilder-sind-keine-betriebskosten_258_91986.html)
-[^5]: [reddit.com](https://old.reddit.com/r/Munich/comments/1168mai/residence_permit_card_delay_aufenthaltstitel/), [reddit.com](https://old.reddit.com/r/germany/comments/13c04eb/nachsendeauftrag_for_ausl%C3%A4nderbeh%C3%B6rde/), Oliver Frankfurth at Deregistration.de (October 2023), [verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/vertraege-reklamation/kundenrechte/nachsendeauftrag-wann-er-sinnvoll-ist-und-was-sie-beachten-muessen-29305), [paketda.de](https://www.paketda.de/nachsendung/nachsendeauftrag-faq.html#nichtnachsenden), [reddit.com](https://old.reddit.com/r/askberliners/comments/160tdtv/forwarded_mail_not_getting_received/) (August 2023), [reddit.com](https://old.reddit.com/r/germany/comments/1j114cl/forwarding_mail_in_berlin_germany/) (March 2025), [Arbeitsagentur](https://www.arbeitsagentur.de/arbeitslos-arbeit-finden/arbeitslosengeld/das-muessen-sie-beachten/urlaub-und-umzug#:~:text=nachsendeantrag%20reicht%20nicht%20aus) (January 2025)
+[^4]: [haufe.de](https://www.haufe.de/immobilien/verwaltung/mietrecht-kosten-fuer-namensschilder-sind-keine-betriebskosten_258_91986.html) (2012)
+[^5]: [reddit.com](https://old.reddit.com/r/Munich/comments/1168mai/residence_permit_card_delay_aufenthaltstitel/), [reddit.com](https://old.reddit.com/r/germany/comments/13c04eb/nachsendeauftrag_for_ausl%C3%A4nderbeh%C3%B6rde/), [Oliver Frankfurth](/out/deregistrationde-abmeldung) (October 2023), [verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/vertraege-reklamation/kundenrechte/nachsendeauftrag-wann-er-sinnvoll-ist-und-was-sie-beachten-muessen-29305), [paketda.de](https://www.paketda.de/nachsendung/nachsendeauftrag-faq.html#nichtnachsenden), [reddit.com](https://old.reddit.com/r/askberliners/comments/160tdtv/forwarded_mail_not_getting_received/) (August 2023), [reddit.com](https://old.reddit.com/r/germany/comments/1j114cl/forwarding_mail_in_berlin_germany/) (March 2025), [Arbeitsagentur](https://www.arbeitsagentur.de/arbeitslos-arbeit-finden/arbeitslosengeld/das-muessen-sie-beachten/urlaub-und-umzug#:~:text=nachsendeantrag%20reicht%20nicht%20aus) (January 2025)
 [^6]: Kathleen Parker at [Red Tape Translation](https://redtapetranslation.com/) (October 2023)
 [^7]: [vermietet.de](https://www.vermietet.de/magazin/kuddelmuddel-am-klingelschild-wer-ist-fuer-das-anbringen-von-namensschildern-verantwortlich/#:~:text=vermieter%20hat%20recht%20auf%20entfernung%20) (2022)
 [^8]: [Berlin.de](https://www.berlin.de/einwanderung/aufenthalt/elektronischer-aufenthaltstitel/#Adresse) (January 2025), [Reddit](https://old.reddit.com/r/germany/comments/yqviwt/aufenthaltstitel_and_new_address/) (2022)
