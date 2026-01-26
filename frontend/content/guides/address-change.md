@@ -13,13 +13,9 @@ This guide helps you update your address after you [move into a new apartment](/
 
 German apartments rarely have apartment numbers. Mailboxes and doorbells have no numbers, just names. To receive your mail, your name must be on your mailbox.
 
-![German apartment doorbell with names](/images/german-doorbell-names.jpg)
+**[How to put your name on the mailbox ➞](/guides/moving-in#put-your-name-on-your-mailbox)**
 
-When you [move in](/guides/moving-in), your landlord or *[[Hausverwaltung]]* must put your name on your doorbell, your mailbox and your door. They must do it for free.[^4]
-
-If your name is not on the lease, the landlord can refuse to put your name on the mailbox.[^3] If you put the name yourself, your landlord can remove it.[^7]
-
-If you can't put your name on your mailbox, you must [add "c/o" or "bei" to your address](/guides/addressing-a-letter-in-germany#if-the-name-is-not-on-the-mailbox) every time you write your address.
+![Illustration of German mailboxes (Briefkasten)](/illustrations/mailboxes-briefkasten-germany.png)
 
 ## Learn to write your new address
 
@@ -91,11 +87,8 @@ Mail forwarding is **not reliable**. Official mail from the *[[Bürgeramt]]*, *[
 [^0]: [umzugsportal.de](https://www.umzugsportal.de/umzugstipps/finanzamt-umzug/)
 [^1]: [umziehen.de](https://umziehen.de/an-ab-ummelden/finanzamt-ummelden-166)
 [^2]: [berlin.de](https://service.berlin.de/dienstleistung/120918/)
-[^3]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/dm65o5/adding_co_to_the_anmeldung/f6lq399/), [mietrecht.org](https://www.mietrecht.org/mietvertrag/namen-briefkasten-klingel/#I)
-[^4]: [haufe.de](https://www.haufe.de/immobilien/verwaltung/mietrecht-kosten-fuer-namensschilder-sind-keine-betriebskosten_258_91986.html) (2012)
 [^5]: [reddit.com](https://old.reddit.com/r/Munich/comments/1168mai/residence_permit_card_delay_aufenthaltstitel/), [reddit.com](https://old.reddit.com/r/germany/comments/13c04eb/nachsendeauftrag_for_ausl%C3%A4nderbeh%C3%B6rde/), [Oliver Frankfurth](/out/deregistrationde-abmeldung) (October 2023), [verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/vertraege-reklamation/kundenrechte/nachsendeauftrag-wann-er-sinnvoll-ist-und-was-sie-beachten-muessen-29305), [paketda.de](https://www.paketda.de/nachsendung/nachsendeauftrag-faq.html#nichtnachsenden), [reddit.com](https://old.reddit.com/r/askberliners/comments/160tdtv/forwarded_mail_not_getting_received/) (August 2023), [reddit.com](https://old.reddit.com/r/germany/comments/1j114cl/forwarding_mail_in_berlin_germany/) (March 2025), [Arbeitsagentur](https://www.arbeitsagentur.de/arbeitslos-arbeit-finden/arbeitslosengeld/das-muessen-sie-beachten/urlaub-und-umzug#:~:text=nachsendeantrag%20reicht%20nicht%20aus) (January 2025)
 [^6]: Kathleen Parker at [Red Tape Translation](https://redtapetranslation.com/) (October 2023)
-[^7]: [vermietet.de](https://www.vermietet.de/magazin/kuddelmuddel-am-klingelschild-wer-ist-fuer-das-anbringen-von-namensschildern-verantwortlich/#:~:text=vermieter%20hat%20recht%20auf%20entfernung%20) (2022)
 [^8]: [Berlin.de](https://www.berlin.de/einwanderung/aufenthalt/elektronischer-aufenthaltstitel/#Adresse) (January 2025), [Reddit](https://old.reddit.com/r/germany/comments/yqviwt/aufenthaltstitel_and_new_address/) (2022), personal experience (2019)
 [^9]: [verbraucherzentrale-berlin.de](https://www.verbraucherzentrale-berlin.de/pressemeldungen/umwelt-haushalt/wohnen/strom-aerger-beim-wohnungswechsel-vermeiden-107292) (June 2025)
 [^11]: [t-online.de](https://www.t-online.de/finanzen/ratgeber/steuern-recht/id_100860490/steuererklaerung-nach-umzug-was-sie-beachten-muessen.html#:~:text=kann%20das%20durch%20ein%20formloses%20schreiben%20machen) (2025), [umziehen.de](https://umziehen.de/an-ab-ummelden/finanzamt-ummelden-12085#:~:text=einen%20umzug%20ins%20ausland%20sollten%20sie%20dem%20finanzamt%20vorsorglich%20melden.) (2025)

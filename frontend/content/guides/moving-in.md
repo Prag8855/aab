@@ -103,15 +103,17 @@ If your current internet company can't service your new apartment, you can cance
 
 ### Put your name on your mailbox
 
-Ask your landlord or *[[Hausverwaltung]]* to put your name on your mailbox and your doorbell. If you don't do this, you will not receive your mail.
+German apartments rarely have apartment numbers. Mailboxes and doorbells have no numbers, just names. To receive your mail, your name must be on your mailbox.
 
-**[How to put your name on the mailbox ➞](/guides/address-change#put-your-name-on-your-mailbox)**
+![German apartment doorbell with names](/images/german-doorbell-names.jpg)
 
-If you can't put your name on your mailbox, you must [add "bei" to your address](/guides/addressing-a-letter-in-germany#if-the-name-is-not-on-the-mailbox) every time.
+When you [move in](/guides/moving-in), your landlord or *[[Hausverwaltung]]* must put your name on your doorbell, your mailbox and your door. They must do it for free.[^16]
 
-**[How to write your address ➞](/guides/addressing-a-letter-in-germany)**
+If your name is not on the lease, the landlord can refuse to put your name on the mailbox.[^15] If you put the name yourself, your landlord can remove it.[^17]
 
-![Illustration of German mailboxes (Briefkasten)](/illustrations/mailboxes-briefkasten-germany.png)
+If you can't put your name on your mailbox, you must [add "c/o" or "bei" to your address](/guides/addressing-a-letter-in-germany#if-the-name-is-not-on-the-mailbox) every time you write your address.
+
+**[How to write your address ➞](/guides/addressing-a-letter-in-germany#how-to-write-german-addresses)**
 
 ### Register your address
 
@@ -291,3 +293,6 @@ Sometimes, your landlord will remove air in your radiators with an *[Entlüftung
 [^12]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/h0dlrk/lowering_rent_with_mietervereinwenigermiete/)
 [^13]: [Finanztip](https://www.finanztip.de/umzugskosten/), [smartsteuer.de](https://www.smartsteuer.de/online/lexikon/u/umzugskosten/), [Smoover moving company](https://smoover-moving.de/tax-rebate-moving-germany/), [Umziehen.de](https://umziehen.de/suche-planung/umzugskostenpauschale-12050)
 [^14]: [Twitter](https://x.com/aboutberlin/status/1795019070380585176) (May 2024), [Little Big Project](https://littlebigproject.de/pricing/) (July 2025), [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7354420448941510656/) (July 2025), [Twitter](https://x.com/aboutberlin/status/1948654578930487364) (July 2025)
+[^15]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/dm65o5/adding_co_to_the_anmeldung/f6lq399/), [mietrecht.org](https://www.mietrecht.org/mietvertrag/namen-briefkasten-klingel/#I)
+[^16]: [haufe.de](https://www.haufe.de/immobilien/verwaltung/mietrecht-kosten-fuer-namensschilder-sind-keine-betriebskosten_258_91986.html) (2012)
+[^17]: [vermietet.de](https://www.vermietet.de/magazin/kuddelmuddel-am-klingelschild-wer-ist-fuer-das-anbringen-von-namensschildern-verantwortlich/#:~:text=vermieter%20hat%20recht%20auf%20entfernung%20) (2022)
