@@ -54,7 +54,7 @@ Want to help? [Contact me.](/contact) I want to hear your stories, your question
 
 ## Kettle cleaning
 
-Everyone has their blind spots. It took me 9 years to buy a kettle, and another year to learn how to properly descale it.
+It took me 9 years to buy a kettle, and another year to learn how to properly descale it. Everyone has their blind spots.
 
 It's simple: just boil a bit of vinegar in your kettle, and the scale comes right off. Vinegar is also an effective bathroom cleaner. Unclog your shower head by wrapping it in a plastic bag filled with vinegar.
 
