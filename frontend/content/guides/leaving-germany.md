@@ -3,6 +3,7 @@ Title: How to leave Germany
 Description: Instructions for leaving Germany and moving to another country.
 Date_created: 2026-01-21
 Related_reviews:
+    reviews/leaving-germany/elliot-herman.md
     reviews/leaving-germany/oliver-sympatme.md
 ---
 
