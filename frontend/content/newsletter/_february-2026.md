@@ -37,7 +37,7 @@ Oliver Eidel also created [an entire website about the exit tax](https://wegzugs
 
 ### What else is new?
 
-When I write a new guide, I also rewrite everything around it. I have revamped my [*Abmeldung* guide](/guides/abmeldung) for brevity and clarity. I added a few glossary entries, rewritten a dozen sections, and improved the paths between related guides.
+When I write a new guide, I also rewrite everything around it. I have revamped my [*Abmeldung*](/guides/abmeldung) and [address change](/guides/address-change) guides for brevity and clarity. I added a few glossary entries, rewritten a dozen sections, and improved the paths between related guides.
 
 ## Up next: labour law
 
