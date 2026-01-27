@@ -1,31 +1,36 @@
 ---
 Title: How to move out of an apartment in Germany
 Short_title: How to move out of an apartment
-Description: Everything you need to think about when leaving your apartment in Germany: address changes, contract cancellations, moving companies and more.
+Description: Everything you must do when leaving your apartment: ending your lease, changing your address, hiring a moving company and more.
 Date_created: 2019-10-05
 ---
 
-This guide shows you what you must do when you move out of your apartment in Germany.
+This guide explains what to do before you leave your apartment.
 
 {% include "_blocks/tableOfContents.html" %}
 
 ## End your lease
 
-You must end your lease in writing. Send a cancellation letter (*[[Kündigungsschreiben]]*) to your landlord. All the tenants who signed the lease must sign the cancellation letter. Send the letter by [registered mail](/glossary/Einschreibebrief). An email or instant message is not enough.[^3]
+You must tell your landlord that you are moving out.
 
-**[Cancellation letter generator](https://www.immobilienscout24.de/umzugsexpose/musterbrief-kuendigung.html)** (in German) - ImmobilenScout24
+1. **[Find your notice period](#find-your-notice-period)**  
+    The [notice period](/glossary/Kündigungsfrist) is usually 3 months, but it can be shorter. Your landlord can let you [end your lease sooner](#how-to-end-your-lease-sooner); just ask.
+2. **Write a [cancellation letter](/glossary/Kündigungsschreiben)**  
+    Use a [cancellation letter generator](https://www.immobilienscout24.de/umzugsexpose/musterbrief-kuendigung.html). Every tenant who signed the lease must sign the cancellation letter.
+3. **Mail it to your landlord**  
+    The [notice period](/glossary/Kündigungsfrist) starts when your landlord receives your [cancellation letter](/glossary/Kündigungsschreiben).[^30] You must [mail the letter](/guides/mail-a-letter). An email or instant message is not enough.[^3] Use [registered mail](/glossary/Einschreibebrief) to get a proof of delivery.
 
-**[How to mail a letter](/guides/mail-a-letter)** - from your computer, without a printer
+### Find your notice period
 
-### When to end your lease
+You must end your lease **3 months in advance**. That's the default [notice period](/glossary/Kündigungsfrist). It can be shorter, but 3 months is the maximum.[^29]
 
-You must end your lease **3 months in advance**, before the 3rd [work day](/glossary/Werktag) of the month.[^0] Some leases have a shorter [notice period](/glossary/Kündigungsfrist), but the maximum is 3 month.[^29] Fixed-term leases can't be cancelled early.[^45]
+The notice period starts when your landlord receives your [cancellation letter](/glossary/Kündigungsschreiben). They must receive the [cancellation letter](/glossary/Kündigungsschreiben) before the 3rd [work day](/glossary/Werktag) of the month.[^0]
 
-The notice period starts when your landlord receives your [cancellation letter](/glossary/Kündigungsschreiben).[^30]
+> **Example 1:** Your landlord gets your cancellation letter January 2. Your lease ends in 3 months, on March 31.[^1]
 
-> **Example 1:** You tell your landlord on January 1. Your lease ends on March 31.[^1]
+> **Example 2:** Your landlord gets your cancellation letter on January 10. Your notice period starts on February 1. Your lease ends 3 months later, on April 30.
 
-> **Example 2:** You tell your landlord on January 10. Your lease ends on April 30.
+If you have a fixed-term lease, you can't leave early. If you signed a 1-year lease, you must stay 1 year.[^45] [Many fixed-term leases are invalid](/guides/housing-scams#short-term-leases), and you can end them with a 3 month notice. [Ask an expert](/guides/help#apartment-questions) to check your lease.
 
 ### How to end your lease sooner
 
@@ -277,7 +282,7 @@ If you are moving to another country, see the [checklist for leaving Germany](/g
 [^25]: [zapf.de](https://www.zapf.de/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/8jc3ps/moving_companies_umzugsunternehmen_in_berlin/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/71i6sl/moving_company/)
 [^26]: [berliner-woche.de](https://www.berliner-woche.de/neukoelln/c-verkehr/parkverbot-berlin-einrichten_a187219), [bussgeldkatalog.org](https://www.bussgeldkatalog.org/halteverbot-umzug/#nicht_nur_fuer_einen_umzug_nuetzlich_das_halteverbot)
 [^27]: [berlin.de](https://service.berlin.de/dienstleistung/325649/), [berlin.de](https://www.berlin.de/special/neu-in-berlin/745345-744080-halteverbote-fuer-umzug-beantragen.html), [halteverbot-berlin24.de](https://www.halteverbot-berlin24.de/)
-[^29]: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_bgb/englisch_bgb.html#p2289)
+[^29]: [§ 573c Abs. 1 BGB](https://www.buzer.de/573c_BGB.htm), [§ 573c Abs. 4 BGB](https://www.buzer.de/573c_BGB.htm)
 [^30]: [promietrecht.de](https://www.promietrecht.de/Mieterkuendigung/Formelle-Regeln/schriftlich/Kuendigung-des-Mietvertrages-der-Wohnung-per-Mail-reicht-das-E1939.htm)
 [^31]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/4p3wz6/whats_the_process_for_getting_someone_to_take/d4htm8i/)
 [^32]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/4xyzm4/berlin_lease_transfer/d6jkfgo/)
@@ -292,5 +297,5 @@ If you are moving to another country, see the [checklist for leaving Germany](/g
 [^42]: [reddit.com](https://old.reddit.com/r/berlin/comments/b0o9zr/need_some_information_about/)
 [^43]: [sueddeutsche.de](https://www.sueddeutsche.de/geld/auszug-aus-der-wohnung-was-sollte-im-uebergabeprotokoll-stehen-1.1735527#:~:text=ich%20wurde%20immer%20ein%20ubergabeprotokoll%20empfehlen)
 [^44]: [mietkautionsbuergschaft.de](https://www.mietkautionsbuergschaft.de/mietkaution-rueckzahlung.html#:~:text=ein%20vermieter%20kann%20nach%20der%20unterzeichnung%20keine%20(weiteren)%20mangel)
-[^45]: [Finanztip](https://www.finanztip.de/mietvertrag/zeitmietvertrag/#:~:text=du%20kannst%20nicht%20kundigen)
+[^45]: [tp-rechtsanwaelte.de](https://tp-rechtsanwaelte.de/befristeter-mietvertrag/#:~:text=recht%20zur%20(ordentlichen)%20kundigung%20in%20der%20regel%20ausgeschlossen) (May 2022)
 [^46]: [erste-hausverwaltung.de](https://erste-hausverwaltung.de/mietschuldenfreiheitsbescheinigung/#:~:text=dabei%3A%20Die%20Mitschuldenfreiheitsbescheinigung.-,vermieter%3Ainnen%20sind%20gesetzlich%20nicht%20dazu%20verpflichtet,-%2C%20eine%20Mietschuldenfreiheitsbescheinigung%20auszustellen) (May 2025)
