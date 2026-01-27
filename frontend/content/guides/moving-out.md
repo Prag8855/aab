@@ -13,14 +13,14 @@ This guide explains what to do before you leave your apartment.
 
 You must tell your landlord that you are moving out.
 
-1. **[Find your notice period](#find-your-notice-period)**  
-    The [notice period](/glossary/Kündigungsfrist) is usually 3 months, but it can be shorter. Your landlord can let you [end your lease sooner](#how-to-end-your-lease-sooner); just ask.
+1. **[Calculate your notice period](#calculate-your-notice-period)**  
+    The [notice period](/glossary/Kündigungsfrist) is usually 3 months, but it can be shorter. Your landlord might let you [end your lease sooner](#end-your-lease-sooner).
 2. **Write a [cancellation letter](/glossary/Kündigungsschreiben)**  
     Use a [cancellation letter generator](https://www.immobilienscout24.de/umzugsexpose/musterbrief-kuendigung.html). Every tenant who signed the lease must sign the cancellation letter.
 3. **Mail it to your landlord**  
-    The [notice period](/glossary/Kündigungsfrist) starts when your landlord receives your [cancellation letter](/glossary/Kündigungsschreiben).[^30] You must [mail the letter](/guides/mail-a-letter). An email or instant message is not enough.[^3] Use [registered mail](/glossary/Einschreibebrief) to get a proof of delivery.
+    The [notice period](/glossary/Kündigungsfrist) starts when your landlord receives your [cancellation letter](/glossary/Kündigungsschreiben).[^30] You must [mail the letter](/guides/mail-a-letter). An email or instant message is not enough.[^3] Use [registered mail](/glossary/Einschreibebrief) to get a proof of delivery.[^36]
 
-### Find your notice period
+### Calculate your notice period
 
 You must end your lease **3 months in advance**. That's the default [notice period](/glossary/Kündigungsfrist). It can be shorter, but 3 months is the maximum.[^29]
 
@@ -32,9 +32,9 @@ The notice period starts when your landlord receives your [cancellation letter](
 
 If you have a fixed-term lease, you can't leave early. If you signed a 1-year lease, you must stay 1 year.[^45] [Many fixed-term leases are invalid](/guides/housing-scams#short-term-leases), and you can end them with a 3 month notice. [Ask an expert](/guides/help#apartment-questions) to check your lease.
 
-### How to end your lease sooner
+### End your lease sooner
 
-**Ask your landlord.**[^31] They can allow you to end your lease sooner. They can ask you to pay a fee. It's usually 1 month of [warm rent](/glossary/Warmmiete).
+Ask your landlord if you can move out earlier. They sometimes let you end your lease sooner if you find another tenant, or if you give them an extra month of rent.[^31]
 
 If your landlord refuses to end your lease sooner, you must pay rent until the end of your [notice period](/glossary/Kündigungsfrist).[^32]
 
@@ -254,10 +254,10 @@ If you are moving to another country, see the [checklist for leaving Germany](/g
 
 **[Where to ask apartment questions ➞](/guides/help#apartment-questions)**
 
-[^0]: [§ 573c Abs. 1 BGB](https://www.buzer.de/573c_BGB.htm), [mieterengel.de](https://mieterengel.de/kuendigungsfrist-wohnung/#Anchor1)
+[^0]: [§ 573c Abs. 1 BGB](https://www.buzer.de/573c_BGB.htm), [mieterengel.de](https://mieterengel.de/kuendigungsfrist-wohnung/#Anchor1), [wunderflats.com](https://hub.wunderflats.com/ending-a-rental-agreement-in-germany-legal-rules-for-tenants/#:~:text=must%20reach%20your%20landlord%20by%20the%20third%20working%20day%20of%20that%20month) (September 2025)
 [^1]: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_bgb/englisch_bgb.html#p2289), [ratgeber.immowelt.de](https://ratgeber.immowelt.de/a/auszug-aus-der-mietwohnung-kuendigungsfristen-nicht-vergessen.html#targetText=In%20den%20meisten%20F%C3%A4llen%3A%20drei%20Monate%20K%C3%BCndigungsfrist&targetText=Genauer%3A%20Die%20K%C3%BCndigung%20muss%20sp%C3%A4testens,das%20Mietverh%C3%A4ltnis%20am%2031.%20Juli.)
 [^2]: [berliner-mieterverein.de](https://www.berliner-mieterverein.de/magazin/online/mm0110/kein-anspruch-auf-mietschuldenfreiheitsbescheinigung-011013a.htm), [homeday.de](https://www.homeday.de/de/musterdokumente/mietschuldenfreiheitsbescheinigung/#kosten), [reddit.com](https://old.reddit.com/r/berlinsocialclub/comments/14rdwit/landlord_doesnt_provide/), [reddit.com](https://old.reddit.com/r/berlin/comments/nfjm73/landlord_doesnt_want_to_provide/)
-[^3]: [§ 568 BGB](https://www.buzer.de/568_BGB.htm), [§ 126 BGB](https://www.buzer.de/126_BGB.htm), [deurag.de](https://www.deurag.de/blog/mietvertrag-per-e-mail/), [promietrecht.de](https://www.promietrecht.de/Mieterkuendigung/Formelle-Regeln/schriftlich/Kuendigung-des-Mietvertrages-der-Wohnung-per-Mail-reicht-das-E1939.htm)
+[^3]: [§ 568 BGB](https://www.buzer.de/568_BGB.htm), [§ 126 BGB](https://www.buzer.de/126_BGB.htm), [deurag.de](https://www.deurag.de/blog/mietvertrag-per-e-mail/), [promietrecht.de](https://www.promietrecht.de/Mieterkuendigung/Formelle-Regeln/schriftlich/Kuendigung-des-Mietvertrages-der-Wohnung-per-Mail-reicht-das-E1939.htm), [wunderflats.com](https://hub.wunderflats.com/ending-a-rental-agreement-in-germany-legal-rules-for-tenants/#:~:text=must%20be%20a%20signed%2C%20paper%20letter.) (September 2025)
 [^4]: [mietrecht.de](https://www.mietrecht.de/wohnungsbesichtigung-vermieter-recht/#1-annehmbare-gr%C3%BCnde-f%C3%BCr-eine-wohnungsbesichtigung)
 [^5]: [mietrecht.de](https://www.mietrecht.de/wohnungsbesichtigung-vermieter-recht/#21-darf-der-vermieter-sich-vertreten-lassen)
 [^6]: [mietrecht.de](https://www.mietrecht.de/wohnungsbesichtigung-vermieter-recht/#4-sind-spontane-besuche-des-vermieters-gerechtfertigt)
@@ -284,11 +284,12 @@ If you are moving to another country, see the [checklist for leaving Germany](/g
 [^27]: [berlin.de](https://service.berlin.de/dienstleistung/325649/), [berlin.de](https://www.berlin.de/special/neu-in-berlin/745345-744080-halteverbote-fuer-umzug-beantragen.html), [halteverbot-berlin24.de](https://www.halteverbot-berlin24.de/)
 [^29]: [§ 573c Abs. 1 BGB](https://www.buzer.de/573c_BGB.htm), [§ 573c Abs. 4 BGB](https://www.buzer.de/573c_BGB.htm)
 [^30]: [promietrecht.de](https://www.promietrecht.de/Mieterkuendigung/Formelle-Regeln/schriftlich/Kuendigung-des-Mietvertrages-der-Wohnung-per-Mail-reicht-das-E1939.htm)
-[^31]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/4p3wz6/whats_the_process_for_getting_someone_to_take/d4htm8i/)
-[^32]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/4xyzm4/berlin_lease_transfer/d6jkfgo/)
+[^31]: [homeday.de](https://www.homeday.de/de/musterdokumente/mietaufhebungsvertrag/)
+[^32]: [mietrecht.org](https://www.mietrecht.org/kuendigung/mietvertrag-vorzeitig-kuendigen/#:~:text=ohne%20eine%20entsprechende%20vereinbarung%20im%20mietvertrag) (2013), [berliner-mieterverein.de](https://www.berliner-mieterverein.de/recht/infoblaetter/info-22-kuendigung-des-mietverhaeltnisses-durch-den-mieter-was-ist-zu-beachten-mit-tipps-und-musterschreiben.htm#:~:text=besteht%20grundsatzlich%20keine%20verpflichtung%20fur%20den%20vermieter%2C%20den%20auszugswilligen%20mieter%20aus%20dem%20vertrag%20zu%20entlassen) (2014)
 [^33]: [berliner-mieterverein.de](https://www.berliner-mieterverein.de/recht/infoblaetter/info-180-probleme-beim-auszug-aus-der-mietwohnung-kuendigung-rueckgabe-schoenheitsreparaturen-kaution-mieterinvestitionen.htm#5-Schoenheitsreparaturen)
 [^34]: [mieterengel.de](https://mieterengel.de/wohnungsuebergabeprotokoll/)
 [^35]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/99fbly/best_place_to_buy_cardboard_boxes/)
+[^36]: [wunderflats.de](https://hub.wunderflats.com/ending-a-rental-agreement-in-germany-legal-rules-for-tenants/#:~:text=always%20use%20a%20method%20that%20provides%20proof%20of%20mailbox%20delivery) (September 2025)
 [^37]: [§ 60 Abs. 1 TKG](https://www.buzer.de/60_TKG.htm)
 [^38]: [§ 60 Abs. 2 TKG](https://www.buzer.de/60_TKG.htm), [Telekom](https://www.telekom.de/hilfe/vertrag-rechnung/vertrag/kuendigen/umzug-ausland?samChecked=true) (January 2026), [deurag.de](https://www.deurag.de/blog/sonderkuendigungsrecht-beim-umzug/#:~:text=fur%20internet%2C%20telefon%20und%20handy%20betragt%20meist%20einen%20monat) (January 2026)
 [^39]: Jonathan Wooddin from [Smoovers](https://smoover-moving.de/) (January 2023)
@@ -297,5 +298,5 @@ If you are moving to another country, see the [checklist for leaving Germany](/g
 [^42]: [reddit.com](https://old.reddit.com/r/berlin/comments/b0o9zr/need_some_information_about/)
 [^43]: [sueddeutsche.de](https://www.sueddeutsche.de/geld/auszug-aus-der-wohnung-was-sollte-im-uebergabeprotokoll-stehen-1.1735527#:~:text=ich%20wurde%20immer%20ein%20ubergabeprotokoll%20empfehlen)
 [^44]: [mietkautionsbuergschaft.de](https://www.mietkautionsbuergschaft.de/mietkaution-rueckzahlung.html#:~:text=ein%20vermieter%20kann%20nach%20der%20unterzeichnung%20keine%20(weiteren)%20mangel)
-[^45]: [tp-rechtsanwaelte.de](https://tp-rechtsanwaelte.de/befristeter-mietvertrag/#:~:text=recht%20zur%20(ordentlichen)%20kundigung%20in%20der%20regel%20ausgeschlossen) (May 2022)
+[^45]: [§ 542 Abs. 2 BGB](https://www.buzer.de/542_BGB.htm), [wunderflats.com](https://hub.wunderflats.com/ending-a-rental-agreement-in-germany-legal-rules-for-tenants/#:~:text=you%20are%20legally%20bound%20until%20the%20agreed-upon%20end%20date%3B) (September 2025), [tp-rechtsanwaelte.de](https://tp-rechtsanwaelte.de/befristeter-mietvertrag/#:~:text=recht%20zur%20(ordentlichen)%20kundigung%20in%20der%20regel%20ausgeschlossen) (May 2022), [immobilienscout24.de](https://www.immobilienscout24.de/wissen/mieten/kuendigungsfristen.html#:~:text=steht%20in%20der%20regel%20von%20vornherein%20ein%20enddatum%20fest) (December 2025)
 [^46]: [erste-hausverwaltung.de](https://erste-hausverwaltung.de/mietschuldenfreiheitsbescheinigung/#:~:text=dabei%3A%20Die%20Mitschuldenfreiheitsbescheinigung.-,vermieter%3Ainnen%20sind%20gesetzlich%20nicht%20dazu%20verpflichtet,-%2C%20eine%20Mietschuldenfreiheitsbescheinigung%20auszustellen) (May 2025)

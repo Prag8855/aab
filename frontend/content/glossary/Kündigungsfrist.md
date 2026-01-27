@@ -20,7 +20,7 @@ All jobs have a notice period, both for the employee (when they quit) and the em
 
 Many other contracts have a notice period. For example, if you want to leave your apartment, you must tell your landlord 3 months in advance. There is a *Kündigungsfrist* of 3 months.
 
-**[How apartment notice periods work ➞](/guides/moving-out#find-your-notice-period)**
+**[How apartment notice periods work ➞](/guides/moving-out#calculate-your-notice-period)**
 
 In some cases, you can cancel a contract early if there is a price increase, you [leave Germany](/guides/leaving-germany), or you move where the service is not available.[^1] This is called a *Sonderkündigung*.
 
