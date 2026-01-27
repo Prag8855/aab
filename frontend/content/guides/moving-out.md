@@ -24,9 +24,9 @@ You must tell your landlord that you are moving out.
 
 You must end your lease **3 months in advance**. That's the default [notice period](/glossary/Kündigungsfrist). It can be shorter, but 3 months is the maximum.[^29]
 
-The notice period starts when your landlord receives your [cancellation letter](/glossary/Kündigungsschreiben). They must receive the [cancellation letter](/glossary/Kündigungsschreiben) before the 3rd [work day](/glossary/Werktag) of the month.[^0]
+The notice period starts when your landlord receives your [cancellation letter](/glossary/Kündigungsschreiben). They must receive the [cancellation letter](/glossary/Kündigungsschreiben) before the 4th [work day](/glossary/Werktag) of the month (including Saturdays, excluding holidays).[^0]
 
-> **Example 1:** Your landlord gets your cancellation letter January 2. Your lease ends in 3 months, on March 31.[^1]
+> **Example 1:** Your landlord gets your cancellation letter January 3. Your lease ends in 3 months, on March 31.[^1]
 
 > **Example 2:** Your landlord gets your cancellation letter on January 10. Your notice period starts on February 1. Your lease ends 3 months later, on April 30.
 

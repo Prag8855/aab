@@ -52,7 +52,15 @@ This is what I plan to cover:
 
 Want to help? [Contact me.](/contact) I want to hear your stories, your questions and your advice.
 
-## Kettle cleaning
+## Things I learned this month
+
+### Work days and business days
+
+In Germany, business days (*Arbeitstage*) are Monday to Friday, but working days (*Werktage*) are usually Monday to Saturday... except when they're not.
+
+For example, you have until the third *Werktag* of the month to pay your rent, and to end your lease. When paying rent, it excludes Saturdays. When ending your lease, it includes Saturdays. Same law book, same word, different definition.
+
+### Kettle cleaning
 
 It took me 9 years to buy a kettle, and another year to learn how to properly descale it. Everyone has their blind spots.
 
