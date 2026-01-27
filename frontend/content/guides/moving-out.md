@@ -5,7 +5,7 @@ Description: Everything you must do when leaving your apartment: ending your lea
 Date_created: 2019-10-05
 ---
 
-This guide explains what to do before you leave your apartment.
+This guide explains what to do before you move out of an apartment.
 
 {% include "_blocks/tableOfContents.html" %}
 
@@ -14,7 +14,7 @@ This guide explains what to do before you leave your apartment.
 You must tell your landlord that you are moving out.
 
 1. **[Calculate your notice period](#calculate-your-notice-period)**  
-    The [notice period](/glossary/Kündigungsfrist) is usually 3 months, but it can be shorter. Your landlord might let you [end your lease sooner](#end-your-lease-sooner).
+    The [notice period](/glossary/Kündigungsfrist) is usually 3 months, but it can be shorter. Your landlord might let you [end your lease sooner](#end-your-lease-sooner) if you find a new tenant.
 2. **Write a [cancellation letter](/glossary/Kündigungsschreiben)**  
     Use a [cancellation letter generator](https://www.immobilienscout24.de/umzugsexpose/musterbrief-kuendigung.html). Every tenant who signed the lease must sign the cancellation letter.
 3. **Mail it to your landlord**  
