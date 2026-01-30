@@ -24,15 +24,13 @@ You must tell your landlord that you are moving out.
 
 {% include '_blocks/leaseNoticePeriodCalculator.html' %}
 
-You must end your lease **3 months in advance**. That's the default [notice period](/glossary/Kündigungsfrist). It can be shorter, but 3 months is the maximum.[^29]
+Usually, you must end your lease **3 months in advance**. Some leases have a shorter [notice period](/glossary/Kündigungsfrist), but 3 months is the maximum.[^29]
 
-The notice period starts when your landlord receives your [cancellation letter](/glossary/Kündigungsschreiben). They must receive the [cancellation letter](/glossary/Kündigungsschreiben) before the 4th [work day](/glossary/Werktag) of the month (including Saturdays, excluding holidays).[^0]
+The notice period starts when your landlord receives your [cancellation letter](/glossary/Kündigungsschreiben). If they receive it after the 3rd [working day](/glossary/Werktag) of the month (including Saturdays, excluding holidays), your notice period starts a month later.[^0]
 
-> **Example 1:** Your landlord gets your cancellation letter January 3. Your lease ends in 3 months, on March 31.[^1]
+For example, if your landlord gets your cancellation letter on January 10, your notice period starts on February one, and your lease ends 3 months later, on April 30.
 
-> **Example 2:** Your landlord gets your cancellation letter on January 10. Your notice period starts on February 1. Your lease ends 3 months later, on April 30.
-
-If you have a fixed-term lease, you can't leave early. If you signed a 1-year lease, you must stay 1 year.[^45] [Many fixed-term leases are invalid](/guides/housing-scams#short-term-leases), and you can end them with a 3 month notice. [Ask an expert](/guides/help#apartment-questions) to check your lease.
+You can't end a fixed-term lease early. If you signed a 1-year lease, you must stay 1 year.[^45] [Many fixed-term leases are invalid](/guides/housing-scams#short-term-leases), so you can sometimes end them with a 3 month notice.
 
 ### End your lease sooner
 
@@ -257,7 +255,6 @@ If you are moving to another country, see the [checklist for leaving Germany](/g
 **[Where to ask apartment questions ➞](/guides/help#apartment-questions)**
 
 [^0]: [§ 573c Abs. 1 BGB](https://www.buzer.de/573c_BGB.htm), [mieterengel.de](https://mieterengel.de/kuendigungsfrist-wohnung/#Anchor1), [wunderflats.com](https://hub.wunderflats.com/ending-a-rental-agreement-in-germany-legal-rules-for-tenants/#:~:text=must%20reach%20your%20landlord%20by%20the%20third%20working%20day%20of%20that%20month) (September 2025)
-[^1]: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/englisch_bgb/englisch_bgb.html#p2289), [ratgeber.immowelt.de](https://ratgeber.immowelt.de/a/auszug-aus-der-mietwohnung-kuendigungsfristen-nicht-vergessen.html#targetText=In%20den%20meisten%20F%C3%A4llen%3A%20drei%20Monate%20K%C3%BCndigungsfrist&targetText=Genauer%3A%20Die%20K%C3%BCndigung%20muss%20sp%C3%A4testens,das%20Mietverh%C3%A4ltnis%20am%2031.%20Juli.)
 [^2]: [berliner-mieterverein.de](https://www.berliner-mieterverein.de/magazin/online/mm0110/kein-anspruch-auf-mietschuldenfreiheitsbescheinigung-011013a.htm), [homeday.de](https://www.homeday.de/de/musterdokumente/mietschuldenfreiheitsbescheinigung/#kosten), [reddit.com](https://old.reddit.com/r/berlinsocialclub/comments/14rdwit/landlord_doesnt_provide/), [reddit.com](https://old.reddit.com/r/berlin/comments/nfjm73/landlord_doesnt_want_to_provide/)
 [^3]: [§ 568 BGB](https://www.buzer.de/568_BGB.htm), [§ 126 BGB](https://www.buzer.de/126_BGB.htm), [deurag.de](https://www.deurag.de/blog/mietvertrag-per-e-mail/), [promietrecht.de](https://www.promietrecht.de/Mieterkuendigung/Formelle-Regeln/schriftlich/Kuendigung-des-Mietvertrages-der-Wohnung-per-Mail-reicht-das-E1939.htm), [wunderflats.com](https://hub.wunderflats.com/ending-a-rental-agreement-in-germany-legal-rules-for-tenants/#:~:text=must%20be%20a%20signed%2C%20paper%20letter.) (September 2025)
 [^4]: [mietrecht.de](https://www.mietrecht.de/wohnungsbesichtigung-vermieter-recht/#1-annehmbare-gr%C3%BCnde-f%C3%BCr-eine-wohnungsbesichtigung)
