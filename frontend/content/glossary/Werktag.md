@@ -9,7 +9,7 @@ Related_guides:
     guides/public-holidays.md
 ---
 
-In Germany, work days (*Werktage*) usually mean **Monday to Saturday**, and sometimes Monday to Friday. [Public holidays](/guides/public-holidays) are not included.[^0]
+In Germany, working days (*Werktage*) usually mean **Monday to Saturday**, excluding [public holidays](/guides/public-holidays). It sometimes means Monday to Friday, excluding public holidays.[^0]
 
 Work days are different from business days (*[Arbeitstage](/glossary/Arbeitstag)*). Business days are always Monday to Friday, excluding public holidays.[^2]
 
