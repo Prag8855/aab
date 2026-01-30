@@ -45,7 +45,6 @@ Related_places:
     places/guhr-steuerberatungsgesellschaft.md
     places/insight-tax-gmbh.md
     places/cick.md
-    places/summa-consult-gmbh.md
     places/taxes-matter.md
     places/bsteuern-digitale-steuerberatung-berlin.md
 ---
