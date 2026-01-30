@@ -1,6 +1,6 @@
 {% include '_js/vue.js' %}
 {% include '_js/vue/components/collapsible.js' %}
-{% include '_js/vue/components/date-input.js' %}
+{% include '_js/vue/components/date-picker.js' %}
 {% include '_js/vue/components/glossary.js' %}
 {% include '_js/vue/mixins/uniqueIdsMixin.js' %}
 {% include '_js/utils/date.js' %}
@@ -78,12 +78,12 @@
 {% raw %}
 	<template v-slot:header>Lease notice period calculator</template>
 	<div class="form-group show-errors">
-		<label :for="uid('noticeDate') + '-day'">Notice date</label>
-		<input type="date" v-model="inputNoticeDate" :id="uid('noticeDate')">
+		<label :for="uid('noticeDate')">Notice date</label>
+		<date-picker v-model="inputNoticeDate" :id="uid('noticeDate')"></date-picker>
 	</div>
 	<div class="form-group show-errors">
-		<label :for="uid('moveOutDate') + '-day'">Move-out date</label>
-		<input type="date" v-model="inputMoveOutDate" :id="uid('moveOutDate')">
+		<label :for="uid('moveOutDate')">Move-out date</label>
+		<date-picker v-model="inputMoveOutDate" :id="uid('moveOutDate')"></date-picker>
 	</div>
 {% endraw %}
 </collapsible>

@@ -1461,6 +1461,7 @@ input[type=number] {
 
 input[type=date] {
     width: fit-content;
+    min-width: 9.5em;
 }
 
 textarea{
