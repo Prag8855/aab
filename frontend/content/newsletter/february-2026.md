@@ -1,8 +1,12 @@
 ---
 Title: What's new in February 2026
-Description: Berlinale, how to leave Germany, kettle cleaning tips and upcoming guides on labour law.
+Description: BVG strike, Berlinale, leaving Germany, kettle cleaning and upcoming guides.
 Date_created: 2026-02-01
 ---
+
+## BVG strike
+
+Tomorrow, February 2, [the BVG will be on strike](https://www.bvg.de/de/streik), so U-Bahns, trams and buses won't run. S-Bahn trains will still run. The strike will start at 3 AM, and will last 24 hours.
 
 ## What's happening in February
 
@@ -37,7 +41,11 @@ Oliver Eidel also created [an entire website about the exit tax](https://wegzugs
 
 ### What else is new?
 
-When I write a new guide, I also rewrite everything around it. I have revamped my [*Abmeldung*](/guides/abmeldung) and [address change](/guides/address-change) guides for brevity and clarity. I added a few glossary entries, rewritten a dozen sections, and improved the paths between related guides.
+When I write a new guide, I also rewrite everything around it. I have revamped my [*Abmeldung*](/guides/abmeldung), [moving out](/guides/moving-out) and [address change](/guides/address-change) guides.
+
+I created a [lease notice period calculator](/guides/moving-out#calculate-your-notice-period), because it got a little complicated to explain. It helps you calculate when to tell your landlord that you are moving out. It accounts for Sundays and public holidays.
+
+!["Lease notice period calculator"](/images/notice-period-calculator.png)
 
 ## Up next: labour law
 
