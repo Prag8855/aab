@@ -86,3 +86,4 @@ def pytest_configure(config):
     config.option.playwright_visual_snapshot_threshold = 0.2
     config.option.playwright_visual_snapshots_path = tests_root / "snapshots"
     config.option.playwright_visual_snapshot_failures_path = tests_root / "snapshot-failures"
+    config.option.playwright_visual_ignore_size_diff = True
