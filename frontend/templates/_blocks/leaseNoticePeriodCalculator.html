@@ -31,8 +31,7 @@
 			},
 			methods: {
 				isPublicHoliday(date) {
-					const holidays = {{ PUBLIC_HOLIDAYS_BY_DATE_JSON|safe }};
-					return Object.keys(holidays).map(dateFromString).some(holiday =>
+					return {{ PUBLIC_HOLIDAYS_BY_DATE_JSON|safe }}.map(dateFromString).some(holiday =>
 						holiday.getFullYear() === date.getFullYear() &&
 						holiday.getMonth() === date.getMonth() &&
 						holiday.getDate() === date.getDate()

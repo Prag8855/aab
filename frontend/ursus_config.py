@@ -435,7 +435,7 @@ ctx["PUBLIC_HOLIDAYS_BY_DATE"] = {
         years=range(ctx["now"].year, ctx["now"].year + 3),
     ).items()
 }
-ctx["PUBLIC_HOLIDAYS_BY_DATE_JSON"] = json.dumps(ctx["PUBLIC_HOLIDAYS_BY_DATE"])
+ctx["PUBLIC_HOLIDAYS_BY_DATE_JSON"] = json.dumps(list(ctx["PUBLIC_HOLIDAYS_BY_DATE"].keys()))
 ctx["PUBLIC_HOLIDAYS_BY_NAME"] = {
     name: holidays.country_holidays(
         "DE",
