@@ -80,6 +80,6 @@ It's simple: just boil a bit of vinegar in your kettle, and the scale comes righ
 - [A relocation coach's honest first-aid kit](https://redtapetranslation.com/german-relocation-anxiety/) - Affirmations for the stressed-out Berliner.
 - [Apartment hunting advice from a landlord](https://old.reddit.com/r/germany/comments/1q40693/apartment_hunting_advice_from_a_german_landlord/) - Ways to refine your apartment applications.
 
-## All About Berlin elsewhere
+## On other platforms
 
-I am also on [Reddit](https://reddit.com/r/allaboutberlin), [LinkedIn](https://www.linkedin.com/in/nicolasbouliane/), [Twitter](https://twitter.com/aboutberlin), [Bluesky](https://bsky.app/profile/allaboutberlin.bsky.social) and [Mastodon](https://berlin.social/@allaboutberlin). I also share my code on [GitHub](https://github.com/all-about-berlin).
+All About Berlin is also on [Reddit](https://reddit.com/r/allaboutberlin), [LinkedIn](https://www.linkedin.com/in/nicolasbouliane/), [Twitter](https://twitter.com/aboutberlin), [Bluesky](https://bsky.app/profile/allaboutberlin.bsky.social) and [Mastodon](https://berlin.social/@allaboutberlin), and I share my code on [GitHub](https://github.com/all-about-berlin).
