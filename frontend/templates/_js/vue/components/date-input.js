@@ -48,7 +48,7 @@ Vue.component('date-input', {
 				this.monthValid ? this.month : 1,
 				0
 			).getDate();
-			return !isNaN(day) && day > 0 && this.month <= daysInMonth;
+			return !isNaN(day) && day > 0 && this.day <= daysInMonth;
 		},
 		dateTooSmall(){
 			return this.dayValid && this.monthValid && this.yearValid && this.min && this.cleanDate < this.min;
@@ -60,17 +60,25 @@ Vue.component('date-input', {
 			return this.dayValid && this.monthValid && this.yearValid && !this.dateTooSmall && !this.dateTooBig;
 		},
 	},
-	mounted() {
-		if(this.value && this.value.match(/\d\d\d\d-\d\d-\d\d/)){
-			[this.year, this.month, this.day] = this.value.split('-');
-		}
-	},
 	methods: {
-		onChange() {
+		onInput(e) {
+			const switchInput = (
+				// Input is full
+				e.target.value.length === e.target.maxLength
+				// Adding another digit would make the month invalid
+				|| (e.target === this.$refs.dayInput && (parseInt(e.target.value, 10) > 3))
+				|| (e.target === this.$refs.monthInput && (parseInt(e.target.value, 10) > 2))
+			);
+
+			if(switchInput){
+				this.focusNextInput(e.target);
+			}
+
 			this.$refs.fieldset.setCustomValidity(this.valid ? '' : 'Invalid date');
 			this.$refs.dayInput.setCustomValidity(this.dayValid ? '' : 'Invalid day');
 			this.$refs.monthInput.setCustomValidity(this.monthValid ? '' : 'Invalid month');
 			this.$refs.yearInput.setCustomValidity(this.yearValid ? '' : 'Invalid year');
+
 			if(this.dateTooSmall){
 				this.$refs.fieldset.setCustomValidity(`Date must be after ${this.min}`);
 				this.$refs.dayInput.setCustomValidity(`Date must be after ${this.min}`);
@@ -84,19 +92,6 @@ Vue.component('date-input', {
 				this.$refs.yearInput.setCustomValidity(`Date must be before ${this.max}`);
 			}
 			this.$emit('input', this.valid ? this.cleanDate : '');
-		},
-		onInput(e) {
-			const switchInput = (
-				// Input is full
-				e.target.value.length === e.target.maxLength
-				// Adding another digit would make the month invalid
-				|| (e.target === this.$refs.dayInput && (parseInt(e.target.value, 10) > 3))
-				|| (e.target === this.$refs.monthInput && (parseInt(e.target.value, 10) > 2))
-			);
-
-			if(switchInput){
-				this.focusNextInput(e.target);
-			}
 		},
 		onKeyup(e) {
 			if(e.key === "Backspace" && e.target.value.length === 0) {
@@ -118,6 +113,13 @@ Vue.component('date-input', {
 				this.year = this.cleanYear;
 			}
 		},
+		hasFocus(){
+			return [
+				this.$refs.dayInput,
+				this.$refs.monthInput,
+				this.$refs.yearInput
+			].includes(document.activeElement)
+		},
 		focusPreviousInput(el){
 			if(el === this.$refs.monthInput) {
 				this.$refs.dayInput.focus();
@@ -135,14 +137,22 @@ Vue.component('date-input', {
 				this.$refs.yearInput.focus();
 				this.$refs.yearInput.select();
 			}
-		}
+		},
 	},
 	watch: {
-		day() { this.onChange() },
-		month() { this.onChange() },
-		year() { this.onChange() },
 		min() { this.onChange() },
 		max() { this.onChange() },
+		value() {
+			// Update the field values, but not if the user is currently editing the date
+			if(!this.hasFocus()){
+				if(this.value && this.value.match(/\d\d\d\d-\d\d-\d\d/)){
+					[this.year, this.month, this.day] = this.value.split('-');
+				}
+				else{
+					this.year = this.month = this.day = '';
+				}
+			}
+		}
 	},
 	template: `
 		<fieldset class="date-input" :required="required" ref="fieldset">
@@ -185,6 +195,7 @@ Vue.component('date-input', {
 				:required="required"
 				@focus="$event.target.select()"
 				@blur="onYearBlur"
+				@input="onInput"
 				@keyup="onKeyup"
 				class="year-input"
 				inputmode="numeric"

@@ -1,0 +1,6 @@
+{% extends "tests/component/index.html.jinja" %}
+{% block component %}
+    {% with static=False %}
+        {% include '_blocks/leaseNoticePeriodCalculator.html' %}
+    {% endwith %}
+{% endblock %}

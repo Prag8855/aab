@@ -22,6 +22,8 @@ You must tell your landlord that you are moving out.
 
 ### Calculate your notice period
 
+{% include '_blocks/leaseNoticePeriodCalculator.html' %}
+
 You must end your lease **3 months in advance**. That's the default [notice period](/glossary/Kündigungsfrist). It can be shorter, but 3 months is the maximum.[^29]
 
 The notice period starts when your landlord receives your [cancellation letter](/glossary/Kündigungsschreiben). They must receive the [cancellation letter](/glossary/Kündigungsschreiben) before the 4th [work day](/glossary/Werktag) of the month (including Saturdays, excluding holidays).[^0]

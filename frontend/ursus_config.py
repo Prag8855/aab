@@ -14,9 +14,11 @@ from markupsafe import Markup
 from pathlib import Path
 from ursus.config import config
 from zoneinfo import ZoneInfo
+import holidays
 import logging
 import os
 import git
+import json
 
 
 ctx = {}
@@ -383,7 +385,6 @@ ctx["AUFENTHV_41_COUNTRIES"] = or_join(
     ]
 )
 
-
 # ==============================================================================
 # ADMINISTRATION
 # ==============================================================================
@@ -421,10 +422,34 @@ ctx["DRIVING_PRACTICAL_EXAM_FEE"] = fail_on("2026-12-31", Decimal("130"))  # Dek
 ctx["LEGAL_HOTLINE_COST_PER_MINUTE"] = fail_on("2026-03-01", 3)  # https://www.vonengelhardt.com/en/helpnowen
 
 # ==============================================================================
-# TECHNICAL
+# DATES
 # ==============================================================================
 
 ctx["now"] = datetime.now(ZoneInfo("Europe/Berlin"))
+ctx["PUBLIC_HOLIDAYS_BY_DATE"] = {
+    date.isoformat(): name
+    for date, name in holidays.country_holidays(
+        "DE",
+        subdiv="BE",
+        language="en_US",
+        years=range(ctx["now"].year, ctx["now"].year + 3),
+    ).items()
+}
+ctx["PUBLIC_HOLIDAYS_BY_DATE_JSON"] = json.dumps(ctx["PUBLIC_HOLIDAYS_BY_DATE"])
+ctx["PUBLIC_HOLIDAYS_BY_NAME"] = {
+    name: holidays.country_holidays(
+        "DE",
+        subdiv="BE",
+        language="en_US",
+        years=range(ctx["now"].year, ctx["now"].year + 3),
+    ).get_named(name)
+    for name in set(ctx["PUBLIC_HOLIDAYS_BY_DATE"].values())
+}
+
+# ==============================================================================
+# TECHNICAL
+# ==============================================================================
+
 ctx["site_url"] = os.environ.get("URSUS_SITE_URL", "")
 ctx["random_id"] = random_id
 ctx["fail_on"] = fail_on

@@ -1826,7 +1826,6 @@ input[type=range] {
         }
     }
 
-
     > :is(label, .label):first-child + .checkbox, .input-group .checkbox:first-child{
         padding-top: calc(var(--xs) + ((1.6 - 1.3) / 2 * var(--m))); // Align first checkbox with form fields
     }
@@ -2253,6 +2252,7 @@ collapsible, letter-generator, feedback-residence-permit, health-insurance-calcu
     grid-template-columns: 1fr 1fr;
     font-size: var(--f-s);
     gap: var(--l);
+    align-items: flex-start;
 
     ul{
         margin: 0;
@@ -2264,7 +2264,9 @@ collapsible, letter-generator, feedback-residence-permit, health-insurance-calcu
     }
 
     @include only-phone{
-        > *{
+        grid-template-columns: 1fr;
+
+        > :first-child{
             padding-bottom: var(--l);
             border-bottom: var(--b-box);
         }
@@ -2320,10 +2322,6 @@ collapsible, letter-generator, feedback-residence-permit, health-insurance-calcu
         color: #fff;
         background: var(--c-highlight-green);
         content: '✓';
-    }
-
-    @include only-phone{
-        grid-template-columns: 1fr;
     }
 }
 
