@@ -1459,6 +1459,10 @@ input[type=number] {
     }
 }
 
+input[type=date] {
+    width: fit-content;
+}
+
 textarea{
     transition: width 0.2s, height 0.2s;
 
