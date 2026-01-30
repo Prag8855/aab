@@ -15,6 +15,9 @@ Vue.component('date-input', {
 			year: '',
 		}
 	},
+	mounted(){
+		this.onOutsideValueChange();
+	},
 	computed: {
 		cleanDay() {
 			return this.day.padStart(2, '0');
@@ -61,6 +64,17 @@ Vue.component('date-input', {
 		},
 	},
 	methods: {
+		onOutsideValueChange(){
+			// Update the field values, but not if the user is currently editing the date
+			if(!this.hasFocus()){
+				if(this.value && this.value.match(/\d\d\d\d-\d\d-\d\d/)){
+					[this.year, this.month, this.day] = this.value.split('-');
+				}
+				else{
+					this.year = this.month = this.day = '';
+				}
+			}
+		},
 		onInput(e) {
 			const switchInput = (
 				// Input is full
@@ -143,15 +157,7 @@ Vue.component('date-input', {
 		min() { this.onChange() },
 		max() { this.onChange() },
 		value() {
-			// Update the field values, but not if the user is currently editing the date
-			if(!this.hasFocus()){
-				if(this.value && this.value.match(/\d\d\d\d-\d\d-\d\d/)){
-					[this.year, this.month, this.day] = this.value.split('-');
-				}
-				else{
-					this.year = this.month = this.day = '';
-				}
-			}
+			this.onOutsideValueChange();
 		}
 	},
 	template: `
