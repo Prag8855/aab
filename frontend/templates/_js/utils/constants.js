@@ -40,7 +40,7 @@ const healthInsurance = {
 		},
 	},
 	private: {
-		{{ fail_on('2026-01-31') }}
+		{{ fail_on('2026-02-15') }}
 		pflegeversicherung: [  // Ages 0-99
 			45.82,
 			45.82,

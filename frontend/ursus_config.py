@@ -176,7 +176,7 @@ ctx["GKV_ZUSATZBEITRAG_TK"] = fail_on("2026-12-31", Decimal("2.69"))
 
 ctx["TRAVEL_INSURANCE_COST"] = fail_on("2026-12-31", 40)  # Guesstimated
 ctx["EXPAT_INSURANCE_COST"] = fail_on(
-    "2026-01-31",
+    "2026-02-15",
     {
         "feather-basic": 72,  # /out/feather-expats
         "feather-premium": 134,  # /out/feather-expats
