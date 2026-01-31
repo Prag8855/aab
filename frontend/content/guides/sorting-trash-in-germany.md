@@ -24,7 +24,7 @@ You find these bins in your apartment building:
 - ⚫ **Grey bin** (*Restmüll*)  
     Things that you can't sell, donate or recycle.
 - ♻️ **[Glass recycling bins](/glossary/Altglascontainer)** (*Glasiglus*)  
-    For glass containers that don't have a deposit (*[[Pfand]]*). In Berlin, you don't need to clean glass containers.[^3] If your building has no glass recycling bins, [find them in your neighbourhood](https://www.berlin-recycling.de/service/standorte-glasiglus). There are 3 bin types:
+    For glass containers that don't have a deposit (*[[Pfand]]*). In Berlin, you don't need to clean glass containers.[^3] If your building has no glass recycling bins, [find them in your neighbourhood](https://entsorgungsmoeglichkeiten.de/map?search=Berlin&zm=11&f=container_glass). There are 3 bin types:
     - 🟤 The *Braunglas* bin for brown glass
     - 🟢 The *Grünglas* bin for green, red and blue glass[^4]
     - ⚪ The *Weißglas* bin for transparent glass
@@ -32,23 +32,23 @@ You find these bins in your apartment building:
 ### Other types of recycling bins
 
 - **Bottle return machines** (*[[Pfandautomat]]*)  
-    For [containers with a deposit](/guides/pfand-bottles) (*[[Pfand]]*). These machines are in most supermarkets, usually near the door.
+    For [containers with a deposit](/guides/pfand-bottles) (*[[Pfand]]*). These machines are in most supermarkets, usually near the entrance.
 - **Battery recycling bins**  
     For used batteries. These bins are in most [supermarkets](/guides/where-to-buy-what#groceries), [electronics stores](/guides/where-to-buy-what#electronics) and [hardware stores](/guides/where-to-buy-what#hardware-and-home-improvement), usually near the door. Rossmann and dm also recycle batteries.
-- **Electronics recycling bins**  
-    For used electronics and objects with the [[WEEE logo]]. These bins are in electronics stores, hardware stores, and some supermarkets. - [More information](#electronics)
+- **[Electronics recycling bins](#electronics)**  
+    For used electronics and objects with the [[WEEE logo]]. These bins are in electronics stores, hardware stores, and some supermarkets.
 
 ### Recycling centres
 
 Recycling centres accept almost everything. This is where you get rid of big items like construction materials, trees, furniture, appliances, carpets and mattresses.
 
-**[List of recycling centres in Berlin](https://www.bsr.de/recyclinghoefe-20503.php)** - [[Berliner Stadtreinigung]]
+**[List of recycling centres in Berlin ➞](https://www.bsr.de/recyclinghoefe-20503.php)**
 
 ### Bulk trash collection days
 
 On special days, you can bring furniture, mattresses and other big trash to special collection points in your neighbourhood. It's easier than going to the [recycling centre](https://www.bsr.de/recyclinghoefe-20503.php).
 
-**[Bulk trash collection days](https://www.bsr.de/mein-sperrmuell-kieztag-30414.php)** - BSR
+**[Bulk trash collection days ➞](https://www.bsr.de/mein-sperrmuell-kieztag-30414.php)**
 
 ## Containers and packaging
 

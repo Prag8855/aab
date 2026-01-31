@@ -17,4 +17,4 @@ There are usually 3 bins:
 
 ![Glass recycling bins](/images/altglascontainer.jpg)
 
-**[Map of Glasiglus in Berlin](https://www.berlin-recycling.de/service/standorte-glasiglus)** - berlin-recycling.de
+**[Map of glass recycling bins ➞](https://entsorgungsmoeglichkeiten.de/map?search=Berlin&zm=11&f=container_glass)**
