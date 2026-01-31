@@ -3,19 +3,19 @@
 {% set metadescription = "Berlin news in English, useful tips and website updates, delivered straight to your inbox." %}
 
 {% block postHead %}
-    {{ super() }}
-    <link rel="canonical" href="{{ site_url }}/">
+	{{ super() }}
+	<link rel="canonical" href="{{ site_url }}/">
 {% endblock %}
 {% block main %}
-    <main aria-label="Main page">
-        <header class="intro">
-            <h1>Newsletter</h1>
-            {% include "_blocks/newsletterForm.html" %}
-        </header>
-        <section class="section" aria-label="Previous emails">
-            {% with entries=get_entries('newsletter', sort_by='date_created', reverse=True), showDatePosted=true %}
-                {% include "_blocks/entryPreviews.html" %}
-            {% endwith %}
-        </section>
-    </main>
+	<main aria-label="Main page">
+		<header class="intro">
+			<h1>Newsletter</h1>
+			{% include "_blocks/newsletterForm.html" %}
+		</header>
+		<section class="section" aria-label="Previous emails">
+			{% with entries=get_entries('newsletter', sort_by='date_created', reverse=True), showDatePosted=true %}
+				{% include "_blocks/entryPreviews.html" %}
+			{% endwith %}
+		</section>
+	</main>
 {% endblock %}

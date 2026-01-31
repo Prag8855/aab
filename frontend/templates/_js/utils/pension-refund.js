@@ -72,7 +72,7 @@ function calculatePensionRefund(nationality, countryOfResidence, entryDate, exit
 		flags.add('balkanblock-national');
 		if (pensions.disqualifyingCountries.has(countryOfResidence)) {
 			flags.add('not-eligible');
-			flags.add('disqualifying-country-resident'); 
+			flags.add('disqualifying-country-resident');
 		}
 		if(monthsContributed >= 60) {
 			flags.add('not-eligible');
@@ -89,7 +89,7 @@ function calculatePensionRefund(nationality, countryOfResidence, entryDate, exit
 		flags.add('israel-national');
 		if (pensions.disqualifyingCountries.has(countryOfResidence)) {
 			flags.add('not-eligible');
-			flags.add('disqualifying-country-resident'); 
+			flags.add('disqualifying-country-resident');
 		}
 		else if (countryOfResidence === 'IL') {
 			flags.add('not-eligible');
@@ -105,7 +105,7 @@ function calculatePensionRefund(nationality, countryOfResidence, entryDate, exit
 		flags.add('japan-national');
 		if (pensions.disqualifyingCountries.has(countryOfResidence)) {
 			flags.add('not-eligible');
-			flags.add('disqualifying-country-resident'); 
+			flags.add('disqualifying-country-resident');
 		}
 		else if (countryOfResidence === 'JP') {
 			if(monthsContributed >= 60) {
@@ -133,7 +133,7 @@ function calculatePensionRefund(nationality, countryOfResidence, entryDate, exit
 		flags.add('contracting-national');
 		if (pensions.disqualifyingCountries.has(countryOfResidence)) {
 			flags.add('not-eligible');
-			flags.add('disqualifying-country-resident'); 
+			flags.add('disqualifying-country-resident');
 		}
 		else if(monthsContributed >= 60) {
 			flags.add('not-eligible');

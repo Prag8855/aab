@@ -37,7 +37,7 @@
 
 			pronounciationAudio = new Audio(data.audioUrl);
 			tooltip.querySelector('.pronounce-button').href = data.audioUrl;
-			
+
 			const footnotes = tooltipBody.querySelector('#footnotes');
 			if(footnotes){
 				footnotes.remove();
@@ -76,7 +76,7 @@
 
 	function pronounceTerm(event){
 		event.preventDefault();
-  		pronounciationAudio.play();
+		pronounciationAudio.play();
 	}
 
 	window.addEventListener("DOMContentLoaded", function() {

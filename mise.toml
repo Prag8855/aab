@@ -12,6 +12,7 @@ ruff = "latest"
 python = "3.13"
 shellcheck = "latest"
 pre-commit = "latest"
+editorconfig-checker = "latest"
 
 [tasks.setup]
 description = "Install local dependencies to run the project"
@@ -126,28 +127,23 @@ run = """
 for file in $(find . -type f -name "*.sh" -not -path '*/[@.]*'); do shellcheck $file; done;
 """
 
-[tasks.ruff]
-description = "Lint Python code with ruff"
-run = "ruff check"
-
-[tasks.pyright]
-description = "Lint Python code with pyright"
-run = "pyright ."
-
 [tasks.lint]
 description = "Run various linters for the project"
 alias = "l"
 run = """
 mise shellcheck
-# mise pyright
-mise ruff
+# pyright .
+ruff check
+ec
 ursus lint --level=ERROR -c frontend/ursus_config.py
 """
 
 [tasks.format]
 description = "Automatically format the code"
 alias = "f"
-run = "ruff format"
+run = """
+ruff format
+"""
 
 [tasks.pre-commit]
 description = "Run git pre-commit checks"

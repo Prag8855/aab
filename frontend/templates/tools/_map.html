@@ -2,113 +2,113 @@
 {% set attribution = "Map data from GeoBasis-DE, basemap.de / BKG." %}
 
 {% block postHead %}
-    {{ super()|safe }}
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link href="https://unpkg.com/maplibre-gl@5.14.0/dist/maplibre-gl.css" rel="stylesheet"/>
-    <script src="https://unpkg.com/maplibre-gl@5.14.0/dist/maplibre-gl.js"></script>
+	{{ super()|safe }}
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<link href="https://unpkg.com/maplibre-gl@5.14.0/dist/maplibre-gl.css" rel="stylesheet"/>
+	<script src="https://unpkg.com/maplibre-gl@5.14.0/dist/maplibre-gl.js"></script>
 {% endblock %}
 
 {% block extraScss %}
-    body, html{
-        height: 100%;
-    }
-    body{
-        grid-template-rows: var(--h-header) 1fr auto!important;
-    }
-    #map {
-        min-height: 75vh;
-        color: var(--c-text);
-        background: var(--c-bg-widget-opaque);
-        width:100%;
-        border-radius: var(--b-radius);
-        box-shadow: var(--shadow-l);
-        box-sizing: border-box;
-        @include full-width-site{
-            border-radius: 0;
-        }
-    }
-    @include not-desktop{
-        // The sidebar is moved below the map
-        body{
-            grid-template-areas: ". header ." ". main ." ". sidebar ." ". footer .";
-        }
-        .maplibregl-ctrl-bottom-right{
-            bottom: var(--b-radius);
-        }
-        .sidebar{
-            position: relative; // z-index
-            border-radius: var(--b-radius);
-            background: var(--c-bg-page);
-            box-shadow: var(--shadow-l);
+	body, html{
+		height: 100%;
+	}
+	body{
+		grid-template-rows: var(--h-header) 1fr auto!important;
+	}
+	#map {
+		min-height: 75vh;
+		color: var(--c-text);
+		background: var(--c-bg-widget-opaque);
+		width:100%;
+		border-radius: var(--b-radius);
+		box-shadow: var(--shadow-l);
+		box-sizing: border-box;
+		@include full-width-site{
+			border-radius: 0;
+		}
+	}
+	@include not-desktop{
+		// The sidebar is moved below the map
+		body{
+			grid-template-areas: ". header ." ". main ." ". sidebar ." ". footer .";
+		}
+		.maplibregl-ctrl-bottom-right{
+			bottom: var(--b-radius);
+		}
+		.sidebar{
+			position: relative; // z-index
+			border-radius: var(--b-radius);
+			background: var(--c-bg-page);
+			box-shadow: var(--shadow-l);
 
-            h2{
-                margin-top: 0;
-            }
-        }
-    }
-    @include full-width-site{
-        #map{
-            // Remove gap below header
-            margin-top: calc(var(--m)  * -1);
-        }
-        .sidebar{
-            // The sidebar floats a little above the map
-            border-top: var(--b-box);
-            margin-top: calc((var(--m) + var(--b-radius)) * -1);
-        }
-    }
+			h2{
+				margin-top: 0;
+			}
+		}
+	}
+	@include full-width-site{
+		#map{
+			// Remove gap below header
+			margin-top: calc(var(--m)  * -1);
+		}
+		.sidebar{
+			// The sidebar floats a little above the map
+			border-top: var(--b-box);
+			margin-top: calc((var(--m) + var(--b-radius)) * -1);
+		}
+	}
 {% endblock %}
 
 {% js %}
-    // Initialize MapLibre
-    const map = new maplibregl.Map({
-        container: 'map',
-        style: {% include "tools/rent-map/_mapStyle.json" %},
-        center: [13.405, 52.52],
-        bounds: [13.0884, 52.3383, 13.7611, 52.6755],
-        padding: {bottom: 25},
-        attributionControl: false
-    })
-    .addControl(new maplibregl.NavigationControl({
-        showZoom: true,
-        showCompass: false
-    }), 'bottom-right')
-    .addControl(new maplibregl.GeolocateControl({
-        positionOptions: {
-            enableHighAccuracy: true
-        },
-        trackUserLocation: true
-    }), 'bottom-right');
+	// Initialize MapLibre
+	const map = new maplibregl.Map({
+		container: 'map',
+		style: {% include "tools/rent-map/_mapStyle.json" %},
+		center: [13.405, 52.52],
+		bounds: [13.0884, 52.3383, 13.7611, 52.6755],
+		padding: {bottom: 25},
+		attributionControl: false
+	})
+	.addControl(new maplibregl.NavigationControl({
+		showZoom: true,
+		showCompass: false
+	}), 'bottom-right')
+	.addControl(new maplibregl.GeolocateControl({
+		positionOptions: {
+			enableHighAccuracy: true
+		},
+		trackUserLocation: true
+	}), 'bottom-right');
 
-    function getFeatureBounds(f){
-        return new maplibregl.LngLatBounds(getPolygonBounds(f.geometry.coordinates));
-    }
+	function getFeatureBounds(f){
+		return new maplibregl.LngLatBounds(getPolygonBounds(f.geometry.coordinates));
+	}
 
-    function getPolygonBounds(coords, bounds=[[], []]){
-        for (var i = 0; i < coords.length; i++) {
-            if (Array.isArray(coords[i][0][0])){
-                bounds = getPolygonBounds(coords[i], bounds);
-            } else {
-                polygon = coords[i];
-                for (var j = 0; j < polygon.length; j++) {
-                    longitude = polygon[j][0];
-                    latitude = polygon[j][1];
-                    bounds[0][0] = bounds[0][0] < longitude ? bounds[0][0] : longitude;
-                    bounds[1][0] = bounds[1][0] > longitude ? bounds[1][0] : longitude;
-                    bounds[0][1] = bounds[0][1] < latitude ? bounds[0][1] : latitude;
-                    bounds[1][1] = bounds[1][1] > latitude ? bounds[1][1] : latitude;
-                }
-            }
-        }
-        return bounds;
-    }
+	function getPolygonBounds(coords, bounds=[[], []]){
+		for (var i = 0; i < coords.length; i++) {
+			if (Array.isArray(coords[i][0][0])){
+				bounds = getPolygonBounds(coords[i], bounds);
+			} else {
+				polygon = coords[i];
+				for (var j = 0; j < polygon.length; j++) {
+					longitude = polygon[j][0];
+					latitude = polygon[j][1];
+					bounds[0][0] = bounds[0][0] < longitude ? bounds[0][0] : longitude;
+					bounds[1][0] = bounds[1][0] > longitude ? bounds[1][0] : longitude;
+					bounds[0][1] = bounds[0][1] < latitude ? bounds[0][1] : latitude;
+					bounds[1][1] = bounds[1][1] > latitude ? bounds[1][1] : latitude;
+				}
+			}
+		}
+		return bounds;
+	}
 {% endjs %}
 
 {% block main %}
-    <main aria-label="{{ mapName|default("Map") }}" id="map" {% if mapDescribedBy|default %}aria-describedby="{{ mapDescribedBy }}"{% endif %}></main>
-    </main>
-    <aside class="sidebar mobile">
-        {% block sidebar %}
-        {% endblock %}
-    </aside>
+	<main aria-label="{{ mapName|default("Map") }}" id="map" {% if mapDescribedBy|default %}aria-describedby="{{ mapDescribedBy }}"{% endif %}></main>
+	</main>
+	<aside class="sidebar mobile">
+		{% block sidebar %}
+		{% endblock %}
+	</aside>
 {% endblock %}

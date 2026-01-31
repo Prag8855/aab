@@ -31,7 +31,7 @@ window.addEventListener("DOMContentLoaded", function() {
 			toggleSidebar(false);
 		}
 	});
-	
+
 	// Hide mobile sidebar when a table of contents link is clicked
 	// Track sidebar section link clicks
 	sidebarSectionLinks.forEach((link, index) => {

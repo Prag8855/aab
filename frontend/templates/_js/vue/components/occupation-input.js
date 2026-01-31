@@ -8,7 +8,7 @@ Vue.component('occupation-input', {
 			default: 'Choose an occupation',
 		},
 	},
- 	template: `
+	template: `
 	<select :value="value" @input="$emit('input', $event.target.value)" :class="{placeholder: !value}">
 		<option disabled hidden default value="">{{ placeholder }}</option>
 		<optgroup label="Employee">

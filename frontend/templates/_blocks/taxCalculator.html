@@ -220,7 +220,7 @@
 						'totalDeductions', // This must stay at the end
 					].reduce((paths, key) => {
 						const percentage = this.result[key] / this.inputIncome;
-						if(key === 'totalDeductions'){ cumulativeRadians = 0 } // The pie slice for totalDeductions starts over at 0deg 
+						if(key === 'totalDeductions'){ cumulativeRadians = 0 } // The pie slice for totalDeductions starts over at 0deg
 						const circleStartCoordinates = [Math.cos(cumulativeRadians), Math.sin(cumulativeRadians)];
 						cumulativeRadians += 2 * Math.PI * percentage;
 						const circleEndCoordinates = [Math.cos(cumulativeRadians), Math.sin(cumulativeRadians)];

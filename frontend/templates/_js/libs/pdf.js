@@ -11,7 +11,7 @@ const pdf = {
 		const customFont = await pdfDoc.embedFont(await pdf.loadFont());
 		const rawUpdateFieldAppearances = pdfForm.updateFieldAppearances.bind(pdfForm);
 		pdfForm.updateFieldAppearances = function () {
-		   return rawUpdateFieldAppearances(customFont);
+			return rawUpdateFieldAppearances(customFont);
 		};
 
 		pdfDoc.getPage(0).drawText('Auf allaboutberlin.com ausgefüllt', { size: 9, x: 40, y: 5 });

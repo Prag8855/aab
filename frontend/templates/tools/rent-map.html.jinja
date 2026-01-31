@@ -7,14 +7,14 @@
 	{% include '_js/utils/currency.js' %}
 	{% js %}
 		function highlightPlz(map, feature){
-		    map.fitBounds(getFeatureBounds(feature), {
-		        padding: 20,
-		        maxZoom: 12,
-		    });
-		    map.setFilter('plz-highlight', ['==', ['get', 'id'], feature.properties.id]);
+			map.fitBounds(getFeatureBounds(feature), {
+				padding: 20,
+				maxZoom: 12,
+			});
+			map.setFilter('plz-highlight', ['==', ['get', 'id'], feature.properties.id]);
 		}
 		function clearHighlightedPlz(map){
-		    map.setFilter('plz-highlight', ['==', ['get', 'id'], '']);
+			map.setFilter('plz-highlight', ['==', ['get', 'id'], '']);
 		}
 
 		document.getElementById('warmmieteLink').addEventListener('click', (event) => {

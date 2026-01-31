@@ -45,7 +45,7 @@
 						// data[i+2] = 61;
 						data[i+3] = data[i+3] === 207 && data[i] !== 255 ? 255 : 0; // If the pixel is transparent in the original image, ignore it; there is no data.
 					}
-					
+
 					ctx.putImageData(imageData, 0, 0);
 					const newBlob = await new Promise(resolve => canvas.toBlob(resolve));
 					return {data: await newBlob.arrayBuffer()};

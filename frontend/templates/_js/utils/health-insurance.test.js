@@ -998,7 +998,7 @@ function hasEmployeeTarif(output){
 	it('pays the employee tarif', hasFlag(output, 'public-tariff-employee'));
 }
 function paysMaximumEmployeeAmount(output) {
- 	const o = output.public.options[0];
+	const o = output.public.options[0];
 
 	it('pays the maximum price for employees', () => {
 		hasFlag(output, 'public-max-contribution')();
@@ -1042,7 +1042,7 @@ function paysMaximumEmployeeAmount(output) {
 }
 
 function hasMinijobTariff(output, paysPflegeversicherungSurchargeRate){
- 	const o = output.public.options[0];
+	const o = output.public.options[0];
 
 	it('pays the minimum self-pay amount (minijob)', () => {
 		hasFlag(output, 'public-minijob')();
@@ -1079,7 +1079,7 @@ function hasSelfEmployedTariff(output){
 	});
 }
 function paysMinimumSelfEmployedAmount(output, paysPflegeversicherungSurchargeRate) {
- 	const o = output.public.options[0];
+	const o = output.public.options[0];
 
 	it('pays the minimum price for self-employed people', () => {
 		hasFlag(output, 'public-tariff-selfEmployed')();
@@ -1092,12 +1092,12 @@ function paysMinimumSelfEmployedAmount(output, paysPflegeversicherungSurchargeRa
 		}
 		else{
 			equal(o.pflegeversicherung.totalContribution, round(healthInsurance.minMonthlyIncome * pflegeversicherung.defaultRate));
-		}	
+		}
 		equal(o.total.employerContribution, 0);
 	});
 }
 function paysMaximumSelfEmployedAmount(output) {
- 	const o = output.public.options[0];
+	const o = output.public.options[0];
 
 	it('pays the maximum price for self-employed people', () => {
 		hasFlag(output, 'public-tariff-selfEmployed')();
@@ -1111,7 +1111,7 @@ function paysMaximumSelfEmployedAmount(output) {
 }
 
 function paysMinimumSelfPayAmount(output, paysPflegeversicherungSurchargeRate){
- 	const o = output.public.options[0];
+	const o = output.public.options[0];
 
 	it('pays the minimum self-pay price', () => {
 		hasFlag(output, 'public-tariff-selfPay')();
@@ -1134,7 +1134,7 @@ function paysMinimumSelfPayAmountWithSurcharge(output){
 }
 
 function hasStudentTariff(output) {
- 	const o = output.public.options[0];
+	const o = output.public.options[0];
 
 	it('pays the student tariff', () => {
 		hasFlag(output, 'public-tariff-student')();
@@ -1176,7 +1176,7 @@ function isTooOldForStudentTariff(output){
 	it('is too old to get the student tariff', hasFlag(output, 'public-student-over-30'));
 }
 function isNotWerkstudentDueToIncome(output, paysPflegeversicherungSurchargeRate) {
- 	const o = output.public.options[0];
+	const o = output.public.options[0];
 
 	it('is not a Werkstudent because their income is too high', () => {
 		hasFlag(output, 'public-not-werkstudent')();

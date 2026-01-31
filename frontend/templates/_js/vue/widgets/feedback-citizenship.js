@@ -156,7 +156,7 @@ Vue.component('feedback-citizenship', {
 				if(response.ok){
 					this.nextStage();
 					const responseJson = await response.json();
-					
+
 					// No need to modify complete feedback, so the key gets cleared
 					this.citizenshipModificationKey = this.feedbackComplete ? null : responseJson.modification_key;
 				}

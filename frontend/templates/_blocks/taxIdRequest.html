@@ -414,9 +414,9 @@
 						textFields.deliveryAddress = textFields.employerAddress = mergeFields([
 							this.employerAddress,
 							[this.employerPostCode, this.employerCity].join(' '),
-							this.employerState,	
+							this.employerState,
 						]);
-						
+
 					}
 					else if(this.country === 'DE'){
 						textFields.deliveryName = [person.firstName, person.lastName, beiAddress].join(' ');

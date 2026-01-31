@@ -107,7 +107,7 @@ function calculateTax(yearlyIncome, {
 	if(taxClass < 6) {
 		result.taxableIncome -= taxes.sonderausgabenPauschbetrag;
 	}
-	
+
 	if(occupations.isEmployed(occupation)) {
 		/* Flat rate Lohnsteuer deductions ******************************/
 		if(taxClass < 6) {

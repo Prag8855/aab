@@ -222,7 +222,7 @@ function kskOption(monthlyIncome, age, childrenCount){
 	const pflegeversicherung = gkvPflegeversicherung('ksk', monthlyIncome, age, childrenCount);
 	const zusatzbeitrag = gkvZusatzbeitrag(healthInsurance.averageZusatzbeitrag, 'ksk', monthlyIncome);
 	return {
-		id: 'ksk', 
+		id: 'ksk',
 		name: 'Künstlersozialkasse',
 		tariff: 'employee',
 		baseContribution,
@@ -259,7 +259,7 @@ function gkvOptions({occupation, monthlyIncome, hoursWorkedPerWeek, age, childre
 		const zusatzbeitrag = gkvZusatzbeitrag(krankenkasse.zusatzbeitrag, tariff, monthlyIncome);
 
 		return {
-			id: krankenkasseKey, 
+			id: krankenkasseKey,
 			name: krankenkasse.name,
 			tariff,
 			baseContribution,
@@ -471,7 +471,7 @@ function canHavePrivateHealthInsurance(occupation, monthlyIncome, hoursWorkedPer
 	return (
 		incomeIsEnoughForPrivate(occupation, monthlyIncome)
 		&& (
-		 	!isPflichtversichert(occupation, monthlyIncome, hoursWorkedPerWeek, age)
+			!isPflichtversichert(occupation, monthlyIncome, hoursWorkedPerWeek, age)
 			|| isWerkstudent(occupation, monthlyIncome, hoursWorkedPerWeek)
 			|| occupations.isSelfEmployed(occupation)
 			|| occupations.isUnemployed(occupation)
@@ -729,7 +729,7 @@ function getHealthInsuranceOptions({
 		}
 		else{
 			// Public is the best option for students under 30
-			output.asList = [output.public, output.expat, output.private];	
+			output.asList = [output.public, output.expat, output.private];
 		}
 	}
 	else if(occupations.isMinijob(occupation, monthlyIncome)){

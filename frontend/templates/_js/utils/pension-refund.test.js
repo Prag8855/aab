@@ -15,7 +15,7 @@ describe('calculatePensionRefund', () => {
 		it('should calculate the correct pension refund', () => {
 			assert.equal(output.refundAmount,
 				(30000 * 19.5/100 / 2 * 6/12)
-				 + (30000 * 19.9/100 / 2 * 6/12)
+				+ (30000 * 19.9/100 / 2 * 6/12)
 			);
 		});
 	});

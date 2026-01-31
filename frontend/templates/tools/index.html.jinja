@@ -38,7 +38,7 @@
 				<h2 id="calculators">Calculators</h2>
 				<ol class="previews">
 				{% for entry in get_entries(['docs', 'tools'], sort_by=('german_term', 'short_title', 'title')) %}
-					{% if 'calculator' in entry.categories %}		    
+					{% if 'calculator' in entry.categories %}
 						{{ preview(entry) }}
 					{% endif %}
 				{% endfor %}
@@ -47,7 +47,7 @@
 				<h2 id="maps">Maps</h2>
 				<ol class="previews">
 				{% for entry in get_entries(['docs', 'tools'], sort_by=('german_term', 'short_title', 'title')) %}
-					{% if 'maps' in entry.categories %}		    
+					{% if 'maps' in entry.categories %}
 						{{ preview(entry) }}
 					{% endif %}
 				{% endfor %}
@@ -65,7 +65,7 @@
 				<h2 id="auslanderbehorde">For the <a href="/glossary/Ausländerbehörde">Ausländerbehörde</a></h2>
 				<ol class="previews">
 				{% for entry in get_entries(['docs', 'tools'], sort_by=('german_term', 'short_title', 'title')) %}
-					{% if 'auslaenderbehoerde' in entry.categories %}		    
+					{% if 'auslaenderbehoerde' in entry.categories %}
 						{{ preview(entry) }}
 					{% endif %}
 				{% endfor %}
@@ -74,7 +74,7 @@
 				<h2 id="finanzamt">For the <a href="/glossary/Finanzamt">Finanzamt</a></h2>
 				<ol class="previews">
 				{% for entry in get_entries(['docs', 'tools'], sort_by=('german_term', 'short_title', 'title')) %}
-					{% if 'finanzamt' in entry.categories %}		    
+					{% if 'finanzamt' in entry.categories %}
 						{{ preview(entry) }}
 					{% endif %}
 				{% endfor %}
@@ -83,7 +83,7 @@
 				<h2 id="agentur-fur-arbeit">For the <a href="/glossary/Agentur für Arbeit">Agentur für Arbeit</a></h2>
 				<ol class="previews">
 				{% for entry in get_entries(['docs', 'tools'], sort_by=('german_term', 'short_title', 'title')) %}
-					{% if 'agentur_fuer_arbeit' in entry.categories %}		    
+					{% if 'agentur_fuer_arbeit' in entry.categories %}
 						{{ preview(entry) }}
 					{% endif %}
 				{% endfor %}
@@ -92,7 +92,7 @@
 				<h2 id="employer">For your employer</h2>
 				<ol class="previews">
 				{% for entry in get_entries(['docs', 'tools'], sort_by=('german_term', 'short_title', 'title')) %}
-					{% if 'employer' in entry.categories %}		    
+					{% if 'employer' in entry.categories %}
 						{{ preview(entry) }}
 					{% endif %}
 				{% endfor %}
@@ -101,7 +101,7 @@
 				<h2 id="landlord">For your landlord</h2>
 				<ol class="previews">
 				{% for entry in get_entries(['docs', 'tools'], sort_by=('german_term', 'short_title', 'title')) %}
-					{% if 'landlord' in entry.categories %}		    
+					{% if 'landlord' in entry.categories %}
 						{{ preview(entry) }}
 					{% endif %}
 				{% endfor %}

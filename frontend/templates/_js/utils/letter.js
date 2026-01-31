@@ -11,7 +11,7 @@ function formatName(gender, firstName, lastName, language='en', alwaysIncludeFir
 	}
 
 	if(displayGender && lastName && !alwaysIncludeFirstName){
-		return [displayGender, lastName].join(' '); 
+		return [displayGender, lastName].join(' ');
 	}
 
 	return [displayGender, firstName, lastName].filter(Boolean).join(' ');

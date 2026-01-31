@@ -221,7 +221,7 @@ Vue.component('health-insurance-calculator', {
 				join: true,
 				pretty: false,
 				container: 'none',
-			}); 
+			});
 			return qrcode.svg();
 		},
 

@@ -216,7 +216,7 @@ Vue.component('feedback-residence-permit', {
 				if(response.ok){
 					this.nextStage();
 					const responseJson = await response.json();
-					
+
 					// No need to modify complete feedback, so the key gets cleared
 					this.modificationKey = this.feedbackComplete ? null : `${responseJson.modification_key}~${this.residencePermitType}`;
 				}

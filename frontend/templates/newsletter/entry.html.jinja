@@ -7,133 +7,133 @@
 {% set nextEntry = None %}
 
 {% block postHead %}
-    {{ super() }}
-    <link rel="index" href="{{ site_url }}/newsletter">
-    {% for e in get_entries('newsletter', sort_by='date_created', reverse=True) %}
-        {% if e.entry_uri == entry.entry_uri %}
-            {% if not loop.first %}
-                <link rel="prev" href="{{ loop.previtem.url }}">
-            {% endif %}
-            {% if not loop.last %}
-                <link rel="next" href="{{ loop.nextitem.url }}">
-            {% endif %}
-        {% endif %}
-    {% endfor %}
+	{{ super() }}
+	<link rel="index" href="{{ site_url }}/newsletter">
+	{% for e in get_entries('newsletter', sort_by='date_created', reverse=True) %}
+		{% if e.entry_uri == entry.entry_uri %}
+			{% if not loop.first %}
+				<link rel="prev" href="{{ loop.previtem.url }}">
+			{% endif %}
+			{% if not loop.last %}
+				<link rel="next" href="{{ loop.nextitem.url }}">
+			{% endif %}
+		{% endif %}
+	{% endfor %}
 {% endblock %}
 
 {% block main %}
-    <main aria-label="Main page">
-        {% block precontent %}{% endblock %}
-        <article class="section">
-            <h1>{{ entry.title }}</h1>
-            {% with showPublicationDate=True %}
-                {% include "_blocks/postMeta.html" %}
-            {% endwith %}
-            {% with text="This is a post from my newsletter. Subscribe to get future updates." %}
-                {% include "_blocks/newsletterForm.html" %}
-            {% endwith %}
-            <hr>
-            {% with entry=entry %}
-                <div class="article-body">
-                    {{ entry.body|render|safe }}
-                </div>
-            {% endwith %}
-            <hr>
-            <nav class="previous-next">
-            {% for e in get_entries('newsletter', sort_by='date_created', reverse=True) %}
-                {% if e.entry_uri == entry.entry_uri %}
-                    {% if not loop.first %}
-                        <a rel="prev" href="{{ loop.previtem.url }}"><i class="icon left"></i> {{ loop.previtem.title }}</a>
-                    {% endif %}
-                    {% if not loop.last %}
-                        <a rel="next" href="{{ loop.nextitem.url }}">{{ loop.nextitem.title }} <i class="icon right"></i></a>
-                    {% endif %}
-                {% endif %}
-            {% endfor %}
-            </nav>
-        </article>
+	<main aria-label="Main page">
+		{% block precontent %}{% endblock %}
+		<article class="section">
+			<h1>{{ entry.title }}</h1>
+			{% with showPublicationDate=True %}
+				{% include "_blocks/postMeta.html" %}
+			{% endwith %}
+			{% with text="This is a post from my newsletter. Subscribe to get future updates." %}
+				{% include "_blocks/newsletterForm.html" %}
+			{% endwith %}
+			<hr>
+			{% with entry=entry %}
+				<div class="article-body">
+					{{ entry.body|render|safe }}
+				</div>
+			{% endwith %}
+			<hr>
+			<nav class="previous-next">
+			{% for e in get_entries('newsletter', sort_by='date_created', reverse=True) %}
+				{% if e.entry_uri == entry.entry_uri %}
+					{% if not loop.first %}
+						<a rel="prev" href="{{ loop.previtem.url }}"><i class="icon left"></i> {{ loop.previtem.title }}</a>
+					{% endif %}
+					{% if not loop.last %}
+						<a rel="next" href="{{ loop.nextitem.url }}">{{ loop.nextitem.title }} <i class="icon right"></i></a>
+					{% endif %}
+				{% endif %}
+			{% endfor %}
+			</nav>
+		</article>
 
-        {% with pageType='post' %}
-            {% include "_blocks/footerDonationPrompt.html" %}
-        {% endwith %}
+		{% with pageType='post' %}
+			{% include "_blocks/footerDonationPrompt.html" %}
+		{% endwith %}
 
-        {% include "_blocks/affiliateNotice.html" %}
-    </main>
+		{% include "_blocks/affiliateNotice.html" %}
+	</main>
 
-    {% with entry=entry %}
-        {% include "_blocks/sidebar.html" %}
-    {% endwith %}
+	{% with entry=entry %}
+		{% include "_blocks/sidebar.html" %}
+	{% endwith %}
 {% endblock %}
 
 {% block postFooter %}
-    {{ super() }}
-    <script type="application/ld+json">
-        [
-            {
-                "@context": "http://schema.org",
-                "@type": "WebPage",
-                "name": {{ entry.title|tojson }},
-                "description": {{ entry.description|tojson }},
-                {% if entry.image_url|default %}"image": "{{ entry.image_url }}",{% endif %}
-                "breadcrumb": {
-                    "@context": "https://schema.org",
-                    "@type": "BreadcrumbList",
-                    "itemListElement": [
-                        {
-                            "@type": "ListItem",
-                            "position": 1,
-                            "item": {
-                                "@id": "{{ site_url }}/",
-                                "name": "Home"
-                            }
-                        },
-                        {
-                            "@type": "ListItem",
-                            "position": 2,
-                            "item": {
-                                "@id": "{{ site_url }}/newsletter",
-                                "name": "Newsletter"
-                            }
-                        },
-                        {
-                            "@type": "ListItem",
-                            "position": 3,
-                            "item": {
-                                "@id": "{{ entry.url }}",
-                                "name": {{ entry.title|tojson }}
-                            }
-                        }
-                    ]
-                },
-                "author": {
-                    "@type": "Person",
-                    "@id": "https://nicolasbouliane.com"
-                },
-                "reviewedBy": [
-                    {% set reviews = entry.related_reviews|default([]) %}
-                    {% for review in reviews %}
-                        {% set reviewer = review.related_expert[0] %}
-                        {
-                            "@context": "https://schema.org/",
-                            "@type": "Person",
-                            "jobTitle": {{ reviewer.job_title|tojson }},
-                            "name": {{ reviewer.name|tojson }},
-                            "email": {{ reviewer.email|tojson }}
-                            {% if reviewer.picture|default %}, "image": "{{ site_url }}/{{ reviewer.picture }}"{% endif %}
-                            {% if reviewer.website|default %}
-                                , "sameAs": [
-                                    {{ reviewer.website|tojson }}
-                                ]
-                            {% endif %}
-                        }{% if not loop.last %},{% endif %}
-                    {% endfor %}
-                ],
-                "publisher": {
-                    "@type": "Organization",
-                    "@id": "{{ site_url }}/#organization"
-                }
-            },
-            {% include "_blocks/newsletterJsonld.json" %}
-        ]
-    </script>
+	{{ super() }}
+	<script type="application/ld+json">
+		[
+			{
+				"@context": "http://schema.org",
+				"@type": "WebPage",
+				"name": {{ entry.title|tojson }},
+				"description": {{ entry.description|tojson }},
+				{% if entry.image_url|default %}"image": "{{ entry.image_url }}",{% endif %}
+				"breadcrumb": {
+					"@context": "https://schema.org",
+					"@type": "BreadcrumbList",
+					"itemListElement": [
+						{
+							"@type": "ListItem",
+							"position": 1,
+							"item": {
+								"@id": "{{ site_url }}/",
+								"name": "Home"
+							}
+						},
+						{
+							"@type": "ListItem",
+							"position": 2,
+							"item": {
+								"@id": "{{ site_url }}/newsletter",
+								"name": "Newsletter"
+							}
+						},
+						{
+							"@type": "ListItem",
+							"position": 3,
+							"item": {
+								"@id": "{{ entry.url }}",
+								"name": {{ entry.title|tojson }}
+							}
+						}
+					]
+				},
+				"author": {
+					"@type": "Person",
+					"@id": "https://nicolasbouliane.com"
+				},
+				"reviewedBy": [
+					{% set reviews = entry.related_reviews|default([]) %}
+					{% for review in reviews %}
+						{% set reviewer = review.related_expert[0] %}
+						{
+							"@context": "https://schema.org/",
+							"@type": "Person",
+							"jobTitle": {{ reviewer.job_title|tojson }},
+							"name": {{ reviewer.name|tojson }},
+							"email": {{ reviewer.email|tojson }}
+							{% if reviewer.picture|default %}, "image": "{{ site_url }}/{{ reviewer.picture }}"{% endif %}
+							{% if reviewer.website|default %}
+								, "sameAs": [
+									{{ reviewer.website|tojson }}
+								]
+							{% endif %}
+						}{% if not loop.last %},{% endif %}
+					{% endfor %}
+				],
+				"publisher": {
+					"@type": "Organization",
+					"@id": "{{ site_url }}/#organization"
+				}
+			},
+			{% include "_blocks/newsletterJsonld.json" %}
+		]
+	</script>
 {% endblock %}
