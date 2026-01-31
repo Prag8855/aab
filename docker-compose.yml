@@ -30,6 +30,8 @@ services:
       - "./backend/src:/srv/app"
   proxy:
     build: ./proxy
+    environment:
+      - "OPENEXCHANGERATES_API_KEY"
     ports:
       - "80:80"
       - "443:443"

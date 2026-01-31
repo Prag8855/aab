@@ -87,14 +87,16 @@
             stream_close_delay 5m
         }
     }
-    # handle /api/exchangerates.json {
-    #     header * Cache-Control "public"
-    #     header * Cache-Control  "max-age=86400"
-    #     rewrite * /api/latest.json?app_id=3977a3aacfb346cea4e228b73dda8b69
-    #     reverse_proxy https://openexchangerates.org {
-    #         header_up Host openexchangerates.org
-    #     }
-    # }
+    handle /api/exchangerates.json {
+        cache {
+            ttl 24h
+            mode bypass_request
+        }
+        rewrite * /api/latest.json?app_id={$OPENEXCHANGERATES_API_KEY}
+        reverse_proxy https://openexchangerates.org {
+            header_up Host openexchangerates.org
+        }
+    }
 
     @plausible path /whoisthere.js /whoisthere/event
     handle @plausible {
