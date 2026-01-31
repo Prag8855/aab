@@ -1,54 +1,57 @@
 # All About Berlin
 
-This repo contains the templates and content used to render [allaboutberlin.com](https://allaboutberlin.com). All About Berlin is built on top of [Ursus](https://github.com/all-about-berlin/ursus/), a static site generator.
+This is the main repository for [All About Berlin](https://allaboutberlin.com). It contains the templates, content and backend to render the website.
 
-## How to build
+## Quick overview
 
-This project uses [mise](https://mise.jdx.dev/) to simplify dev tasks. It's optional.
+### Frontend
 
-Run `mise install` to install required tools.
+The frontend is a static website built with [ursus](https://github.com/all-about-berlin/ursus/), a purpose-built static site generator. This is the website you see when you visit [allaboutberlin.com](https://allaboutberlin.com). The ursus static site generator is [in a separate repository](https://github.com/all-about-berlin/ursus/).
 
-Then run `mise setup` to install local dependencies, set up commit hooks, etc.
+Directory structure:
 
-### Docker
+- `frontend` contains all files needed to render the website
+- `frontend/templates` contains the templates used to generate the website's pages. That's also where the frontend code for the calculators is stored.
+- `frontend/content` contains the website's content: guides, tools, glossary entries, images etc.
+- `frontend/extensions` contains ursus extensions and linters that are specific to All About Berlin.
+- `frontend/scripts` contains utility scripts
 
-Run `mise dev` to start docker, build the images, and start the project.
+### Backend
 
-This will build and start the project inside docker containers. The website is served at `https://localhost`. The frontend/backend are reloaded on changes.
+The backend a REST API built with Django and Django REST Framework. The API handles form submissions, email scheduling and other dynamic features. It also proxies APIs for newsletter subscriber management and currency conversions.
 
-In production, run `docker compose -f docker-compose.yml -f docker-compose.prod.yml up --build -d`. The production configuration is slightly stricter. It disables debugging and reloading on changes. `mise` is not used in production.
+Most tools on the website entirely run in the browser, so they don't call the API.
 
-### Standalone
+## Building
 
-Run `mise site` to only run the frontend. This is much faster than running docker, and it's enough for frontend development and content changes.
+This project uses [mise](https://mise.jdx.dev/) to simplify dev tasks. You must install it first.
 
-## How to test
+1. Run `mise install` to install required tools.
+2. Run `mise setup` to install local dependencies, set up commit hooks, etc.
+3. Run `mise dev` to start docker, build the website and start a local server. This will build and start the project inside docker containers. The website is served at `https://localhost`. The frontend/backend are reloaded on changes.
 
-Run `mise test`. It will run all available tests.
+You can also run `mise site` to only run a minimal frontend. It's much faster than running docker, and it's enough for frontend development and content changes.
 
-Run `mise test-ui` to only run the UI tests. Run `mise update-snapshots` to generate new visual testing snapshots if the UI has changed.
-
-Run `mise test-api` to only run the backend and API tests.
-
-There are frontend unit tests. You can see them at `https://localhost/tests/unit`. These are included in the UI tests.
-
-## How to lint
-
-Run `mise lint` to run the project's various linters.
-
-## How to deploy
+### Production
 
 See the [production README](.prod/README.md).
 
-## Notes for contributors
+## Testing
 
-Before you contribute to this website, please note that...
+`mise test` runs all available tests.
 
-- **This is a commercial website**  
-    All About Berlin is a business. Your unpaid work benefits Berliners, but it also benefits a business. You might prefer to work on non-profit community projects.
-- **This is a copyrighted project**  
-    I own the copyright to this repository, including your contributions to it. The open source parts of All About Berlin are in separate repositories. You might prefer to work on something that you keep.
-- **I am the [BDFL](https://www.urbandictionary.com/define.php?term=BDFL)**  
-    I might make decisions that you do not agree with, and not give you a chance to object. I might also reject your contributions or alter them beyond recognition. I aim to be as nice as possible about it. Let's talk about your ideas *before* you put a lot of work into them.
+`mise test-ui` only runs the UI tests. Run `mise update-snapshots` to generate new visual testing snapshots when the UI changes.
 
-If you are okay with this, then I would be honoured to receive your contributions.
+Run `mise test-api` to only run the backend and API tests.
+
+There are frontend unit tests. You can see them at `https://localhost/tests/unit`. These are run with the other tests.
+
+## Linting
+
+`mise lint` runs the project's various linters. It's run automatically before committing.
+
+`mise format` automatically applies certain linting rules.
+
+## Contributing
+
+See the [notes for contributors](CONTRIBUTORS.md).
