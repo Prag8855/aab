@@ -9,7 +9,7 @@ Hi, I'm [Nicolas](/about). You can contact me to…
 - **Ask a question**  
     Please [ask the right people](/guides/help) first. I get a lot of questions, but I can't answer everyone. I do not give legal or financial advice. I can't answer visa and residence permit questions.
 - **Give feedback**  
-    Send me your fixes and suggestions. It makes my job much easier.
+    Send me your fixes and suggestions. You can also [make a pull request](https://github.com/All-About-Berlin/aab).
 - **Say thanks**  
     I *love* to hear from happy readers! You can also [donate €10](/donate) to support my work.
 - **Advertise your business**  
