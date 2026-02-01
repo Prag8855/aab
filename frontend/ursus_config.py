@@ -453,7 +453,7 @@ ctx["PUBLIC_HOLIDAYS_BY_NAME"] = {
 ctx["site_url"] = os.environ.get("URSUS_SITE_URL", "")
 ctx["random_id"] = random_id
 ctx["fail_on"] = fail_on
-ctx["google_maps_api_key"] = "AIzaSyBtGlbcvFspb9habWlXiFcptF8wdFjCb-E"  # Frontend use
+ctx["GOOGLE_MAPS_JAVASCRIPT_API_KEY"] = os.environ.get("GOOGLE_MAPS_JAVASCRIPT_API_KEY")  # Frontend use, to show a map
 ctx["glossary_groups"] = glossary_groups
 
 ctx["commit_id"] = git.Repo(Path(__file__).parent / "content", search_parent_directories=True).head.commit.hexsha
@@ -474,8 +474,8 @@ config.output_path = (
     Path(env_output_dir) if (env_output_dir := os.environ.get("URSUS_OUTPUT_DIR")) else Path(__file__).parent / "output"
 )
 
-config.google_maps_api_key = "AIzaSyAhhCuZjNCFo2o84w27Xh0ravLwIiVProo"  # type: ignore  Backend use only
-config.google_tts_api_key = "AIzaSyAhhCuZjNCFo2o84w27Xh0ravLwIiVProo"  # type: ignore
+config.google_maps_places_api_key = os.environ.get("GOOGLE_MAPS_PLACES_API_KEY", "")  # Backend use, to lint places
+config.google_tts_api_key = os.environ.get("GOOGLE_TTS_API_KEY", "")  # Backend use, to generate pronunciation files
 
 config.html_url_extension = ""
 config.minify_js = True
