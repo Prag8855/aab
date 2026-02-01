@@ -12,18 +12,7 @@
         error 404
     }
 
-    # Push assets with static pages
-    # TODO: Test
-    @staticHtmlPage {
-        header Content-Type text/html*
-        not path /admin*
-    }
-    push @staticHtmlPage /fonts/librefranklin-variable.woff2
-    push @staticHtmlPage /fonts/librefranklin-variable-i.woff2
-    push @staticHtmlPage /api/exchangerates.json
-    push @staticHtmlPage /whoisthere.js
-
-    # Cache assets
+    # Cache assets in the browser
     @assets {
         path_regexp assets .*\.(css|js|jpg|jpeg|gif|png|ico|cur|gz|svg|svgz|mp3|mp4|ogg|ogv|webm|htc|webp)$
     }
@@ -32,7 +21,7 @@
     header @assets -ETag
     header @assets -Access-Control-Allow-Origin
 
-    # Cache fonts
+    # Cache fonts in the browser
     @fonts {
         path_regexp fonts .*\.(ttf|ttc|otf|eot|woff|woff2)$
     }
@@ -44,17 +33,14 @@
     # Various security headers
     header {
         -Server
-        Referrer-Policy no-referrer-when-downgrade
         Strict-Transport-Security "max-age=31536000; includeSubDomains; preload"
         X-Frame-Options SAMEORIGIN
         X-XSS-Protection "1; mode=block"
         X-Content-Type-Options nosniff
-        Referrer-Policy "no-referrer-when-downgrade"
         Permissions-Policy "interest-cohort=()"
     }
 
     # Custom 404 page
-    # TODO: Test (including status code)
     handle_errors 404 410 {
         file_server
         root * /var/www/html
@@ -62,31 +48,32 @@
     }
 
     # Favicon and apple-touch-icon handling
-    # TODO: Test
-    handle /favicon.ico {
-        redir /staticimages/favicon.png 301
-    }
+    redir /favicon.ico /staticimages/favicon.png 301
     handle_path /apple-touch-icon* {
         respond "" 204
     }
 
-    # TODO: Test everything here
+    # Pass /api requests to the backend
     handle /api/* {
         reverse_proxy backend:80
     }
     handle /admin/* {
         reverse_proxy backend:80
     }
-    handle /admin/static/* {
+    handle_path /admin/static/* {
         root * /var/www/api/staticfiles
         file_server
     }
+
+    # Appointments API proxy (websockets)
     handle /api/appointments* {
         reverse_proxy 128.140.76.17:80 {
             stream_timeout 12h
             stream_close_delay 5m
         }
     }
+
+    # OpenExchangeRates API proxy
     handle /api/exchangerates.json {
         cache {
             ttl 24h
@@ -98,17 +85,60 @@
         }
     }
 
-    @plausible path /whoisthere.js /whoisthere/event
+    # Plausible.io tracking passthrough
+    @plausible {
+        path /whoisthere.js /whoisthere/event
+    }
     handle @plausible {
-        # Use path from step 1
-        rewrite /whoisthere.js https://plausible.io/js/plausible.file-downloads.js
-        reverse_proxy https://plausible.io {
-            header_up Host {http.reverse_proxy.upstream.hostport}
+        rewrite /whoisthere.js /js/plausible.file-downloads.js
+        rewrite /whoisthere/event /api/event
+        reverse_proxy plausible.io:443 {
+            transport http {
+                tls
+            }
+            header_up Host plausible.io
         }
     }
 
-    # Static site. Default option.
+    # Permanent (301) redirects
+    map {path} {permanent_redirect_url} {
+        import redirects/permanent.map
+        default ""
+    }
+    @permanentRedirect expression {permanent_redirect_url} != ""
+    handle @permanentRedirect {
+        redir {permanent_redirect_url} 301
+    }
+
+    # Temporary (302) redirects
+    map {path} {temporary_redirect_url} {
+        import redirects/temporary.map
+        default ""
+    }
+    @temporaryRedirect expression {temporary_redirect_url} != ""
+    handle @temporaryRedirect {
+        # Do not pass the Referrer header to Berlin.de redirects, because their bot detection will block the user
+        @isBerlinDeRedirect expression {temporary_redirect_url}.contains('berlin.de')
+        header @isBerlinDeRedirect Referrer-Policy "no-referrer"
+
+        redir {temporary_redirect_url} 302
+    }
+
+    # Static site; default option
     handle {
+        # Remove trailing slashes
+        @hasTrailingSlash path_regexp dir (.+)/$
+        redir @hasTrailingSlash {re.dir.1} 301
+
+        # Serve static files correctly with or without trailing slash
+        uri strip_suffix /
+
+        # Send Link headers for Cloudflare Early Hints
+        header +Link "</fonts/librefranklin-variable.woff2>; rel=preload; as=font; crossorigin"
+        header +Link "</fonts/librefranklin-variable-i.woff2>; rel=preload; as=font; crossorigin"
+        header +Link "</api/exchangerates.json>; rel=preload; as=fetch; crossorigin"
+        header +Link "</whoisthere.js>; rel=preload; as=script"
+
         file_server
         root * /var/www/html
         try_files {path} {path}.html {path}/index.html

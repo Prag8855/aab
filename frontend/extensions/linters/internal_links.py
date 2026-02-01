@@ -18,7 +18,7 @@ class MarkdownInternalLinksLinter(OriginalInternalLinksLinter):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
         self.redirects = set()
-        with (config.content_path / "redirects/302.map").open() as file:
+        with (config.content_path / "redirects/temporary.map").open() as file:
             for line in file:
                 if line.strip() and not line.startswith("#"):
                     self.redirects.add(line.strip().split(" ")[0].strip('" '))

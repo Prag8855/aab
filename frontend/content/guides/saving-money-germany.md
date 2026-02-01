@@ -98,7 +98,7 @@ Use my [health insurance recommendation tool](/tools/health-insurance-calculator
 - **Pay yearly, not monthly**  
     [Car insurance](/guides/car-insurance-germany), [liability insurance](/guides/haftpflichtversicherung), health insurance, public transit and other subscriptions are cheaper if you pay yearly.[^4]
 - **Compare prices often**  
-    Every year, before your contracts renew, look for a cheaper option. You can get a better deal for electricity, gas, insurance, internet and mobile phone service. Use [Tarifcheck](/out/tarifcheck), [Check24](/out/check24) and [Verivox](/out/verivox-cellphone) to compare prices.
+    Every year, before your contracts renew, look for a cheaper option. You can get a better deal for electricity, gas, insurance, internet and mobile phone service. Use [Tarifcheck](/out/tarifcheck), [Check24](/out/check24-electricity) and [Verivox](/out/verivox-cellphone) to compare prices.
 - **Negotiate a better price**  
     If your internet contract expires soon, call the company and ask for a better price. They might give you a better or cheaper plan if you renew your contract. For example, Vodafone upgraded my internet from 100 Mbit/s to 300 Mbit/s for free.
 

@@ -42,7 +42,7 @@ services:
       - "caddy_config:/config"
       - "api_staticfiles:/var/www/api/staticfiles:ro"
       - "./frontend/output:/var/www/html"
-      - "./frontend/content/redirects:/etc/nginx/redirects"
+      - "./frontend/content/redirects:/etc/caddy/redirects"
 volumes:
   caddy_data:
   caddy_config:

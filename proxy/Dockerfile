@@ -5,4 +5,4 @@ RUN xcaddy build --with github.com/caddyserver/cache-handler
 # Stage 2: Create the final image
 FROM caddy:2.10.2
 COPY --from=builder /usr/bin/caddy /usr/bin/caddy
-COPY Caddyfile /etc/caddy/Caddyfile
+COPY . /etc/caddy/
