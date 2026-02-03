@@ -143,7 +143,7 @@ The cost of private health insurance is [tax-deductible](/glossary/steuerlich%20
 ### Benefits of private health insurance
 
 - **It's better and cheaper for high earners**[^19]  
-    If you are young, healthy and well-paid, private is usually better *and* cheaper than public. I save around €600 per month.{{fail_on('2026-02-01')}}
+    If you are young, healthy and well-paid, private is usually better *and* cheaper than public. I save around €600 per month.{{fail_on('2026-03-01')}}
 - **Easier doctor appointments**  
     You can see a doctor faster. You get an appointment with a specialist in days instead of weeks. Try it yourself! Go on [Doctolib](https://www.doctolib.de/), and try to find a doctor appointment with public and with private health insurance.
 - **Better treatments**  
