@@ -2,7 +2,7 @@
 Title: What is a Kündigungsschreiben
 German_term: Kündigungsschreiben
 English_term: Cancellation letter
-Description: A letter you send to end a contract or resign from a job.
+Description: A letter you send to end a contract, end a lease or resign from a job.
 Date_created: 2022-01-13
 Related_guides:
     docs/resignation-letter.md
