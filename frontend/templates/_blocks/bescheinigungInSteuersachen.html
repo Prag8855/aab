@@ -1,3 +1,4 @@
+{% include '_js/utils/letter.js' %}
 {% include '_js/vue.js' %}
 {% include '_js/vue/components/blank.js' %}
 {% include '_js/vue/components/checkbox.js' %}
@@ -21,6 +22,7 @@
 					finanzamt: '',
 					currentDate: new Date(),
 					hasPaidFee: false,
+					formatSalutations,
 				};
 			},
 		})
@@ -39,8 +41,7 @@
 			<strong>Antrag auf Erteilung einer Bescheinigung in Steuersachen</strong>
 		</p>
 
-		<p v-if="language === 'en'">Dear Sir or Madam,</p>
-		<p v-if="language === 'de'">Sehr geehrte Damen und Herren,</p>
+		<p v-text="formatSalutations(null, null, null, language)"></p>
 
 		<p v-if="language === 'en'">
 			I am applying for the issuance of a <em>Bescheinigung in Steursachen</em>. The application form is attached.

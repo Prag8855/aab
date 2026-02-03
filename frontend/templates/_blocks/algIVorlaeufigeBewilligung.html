@@ -1,6 +1,7 @@
 {% include '_js/utils/letter.js' %}
 {% include '_js/vue.js' %}
 {% include '_js/vue/components/letter-generator.js' %}
+{% include '_js/vue/components/gender-input.js' %}
 {% include '_js/vue/components/glossary.js' %}
 {% include '_js/vue/mixins/uniqueIdsMixin.js' %}
 {% include '_js/vue/mixins/userDefaultsMixin.js' %}
@@ -69,7 +70,7 @@
 			<strong>Betreff: Antrag auf vorläufige Entscheidung (ALG I)</strong>
 		</p>
 
-		<p>{{ formatSalutations(recipientGender, recipientFirstName, recipientLastName, language) }},</p>
+		<p v-text="formatSalutations(recipientGender, recipientFirstName, recipientLastName, language)"></p>
 
 		<p v-if="language === 'en'">
 			Since the processing of my application requires more time, I hereby submit an application for a provisional decision in accordance with § 328 paragraph 1 sentence 3 SGB III, i.e. a provisional grant of unemployment benefits. The requirements for my unemployment benefits claim are met with sufficient probability. I am not responsible for the circumstances that still stand in the way of an immediate final decision.
@@ -125,11 +126,7 @@
 		<div class="form-group">
 			<span class="label">Case worker</span>
 			<div class="input-group">
-				<select v-model="recipientGender" autocomplete="honorific-prefix">
-					<option value="man">Mister</option>
-					<option value="woman">Madam</option>
-					<option value="other">Other</option>
-				</select>
+				<gender-input v-model="recipientGender"></gender-input>
 				<first-name-input
 					v-model="recipientFirstName"
 					autocomplete="off"

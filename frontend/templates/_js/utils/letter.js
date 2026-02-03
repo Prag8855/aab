@@ -17,7 +17,7 @@ function formatName(gender, firstName, lastName, language='en', alwaysIncludeFir
 	return [displayGender, firstName, lastName].filter(Boolean).join(' ');
 }
 
-function formatSalutations(gender, firstName, lastName, language='en'){
+function formatSalutations(gender, firstName, lastName, language='en', comma=true){
 	if(!lastName || (gender === 'other' && !firstName)) {
 		return {
 			en: 'Dear Sir or Madam',
@@ -37,7 +37,7 @@ function formatSalutations(gender, firstName, lastName, language='en'){
 			en: `Dear ${firstName} ${lastName}`,
 			de: `Sehr geehrte*r ${firstName} ${lastName}`,
 		},
-	}[gender][language];
+	}[gender][language] + (comma ? ',' : '');
 }
 
 function mergeFields(fields){

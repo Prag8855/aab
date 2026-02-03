@@ -7,6 +7,7 @@
 {% include '_js/vue/components/eur.js' %}
 {% include '_js/vue/components/first-name-input.js' %}
 {% include '_js/vue/components/full-name-input.js' %}
+{% include '_js/vue/components/gender-input.js' %}
 {% include '_js/vue/components/glossary.js' %}
 {% include '_js/vue/components/income-input.js' %}
 {% include '_js/vue/components/last-name-input.js' %}
@@ -114,7 +115,7 @@
 			<strong>Betreff: Rückzahlung der Mietkaution</strong>
 		</p>
 
-		<p>{{ formatSalutations(recipientGender, recipientFirstName, recipientLastName, language) }},</p>
+		<p v-text="formatSalutations(recipientGender, recipientFirstName, recipientLastName, language)"></p>
 
 		<p v-if="language === 'en'">
 			Our tenancy for the apartment mentioned below has been terminated since <blank placeholder="Move-out date" key="moveOutDate">{{ formatDate(moveOutDate, 'en-US') }}</blank>. The apartment has been vacated and properly handed over to you<template v-if="hasReceivedNebenkostenabrechnung">, and there is no outstanding utility bill</template>.
@@ -280,11 +281,7 @@
 		<div class="form-group" v-if="recipientType == 'private'">
 			<span class="label">Landlord name</span>
 			<div class="input-group">
-				<select v-model="recipientGender" autocomplete="honorific-prefix">
-					<option value="man">Mister</option>
-					<option value="woman">Madam</option>
-					<option value="other">Other</option>
-				</select>
+				<gender-input v-model="recipientGender"></gender-input>
 				<first-name-input
 					v-model="recipientFirstName"
 					autocomplete="off"

@@ -6,6 +6,7 @@
 {% include '_js/vue/components/date-input.js' %}
 {% include '_js/vue/components/first-name-input.js' %}
 {% include '_js/vue/components/full-name-input.js' %}
+{% include '_js/vue/components/gender-input.js' %}
 {% include '_js/vue/components/glossary.js' %}
 {% include '_js/vue/components/last-name-input.js' %}
 {% include '_js/vue/components/letter-generator.js' %}
@@ -93,7 +94,7 @@
 			<template v-if="employeeNumber"><br>Personalnummer: {{ employeeNumber }}</template>
 		</p>
 
-		<p>{{ formatSalutations(recipientGender, recipientFirstName, recipientLastName, language) }},</p>
+		<p v-text="formatSalutations(recipientGender, recipientFirstName, recipientLastName, language)"></p>
 
 		<p v-if="language === 'en' && lastDayOfWork">
 			I hereby give notice of my resignation in accordance with the applicable notice period on {{ formatDate(lastDayOfWork, 'en-US') }}. Alternatively, I hereby resign at the earliest possible date.
@@ -195,11 +196,7 @@
 		<div class="form-group">
 			<span class="label">Letter recipient</span>
 			<div class="input-group">
-				<select v-model="recipientGender" autocomplete="honorific-prefix">
-					<option value="man">Mister</option>
-					<option value="woman">Madam</option>
-					<option value="other">Other</option>
-				</select>
+				<gender-input v-model="recipientGender"></gender-input>
 				<first-name-input
 					v-model="recipientFirstName"
 					autocomplete="off"
