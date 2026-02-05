@@ -1,13 +1,14 @@
 {% include '_js/utils/letter.js' %}
 {% include '_js/vue.js' %}
-{% include '_js/vue/components/letter-generator.js' %}
+{% include '_js/vue/components/address-input.js' %}
+{% include '_js/vue/components/first-name-input.js' %}
+{% include '_js/vue/components/full-name-input.js' %}
 {% include '_js/vue/components/gender-input.js' %}
 {% include '_js/vue/components/glossary.js' %}
+{% include '_js/vue/components/last-name-input.js' %}
+{% include '_js/vue/components/letter-generator.js' %}
 {% include '_js/vue/mixins/uniqueIdsMixin.js' %}
 {% include '_js/vue/mixins/userDefaultsMixin.js' %}
-{% include '_js/vue/components/first-name-input.js' %}
-{% include '_js/vue/components/last-name-input.js' %}
-{% include '_js/vue/components/full-name-input.js' %}
 {% js %}
 	document.querySelectorAll('.alg-i-vorlaeufige-bewilligung').forEach(
 		el => new Vue({
@@ -106,19 +107,11 @@
 		</div>
 		<div class="form-group">
 			<label :for="uid('address')">Your address</label>
-			<textarea
-				:id="uid('address')"
-				v-model="address"
-				class="address-input"
-				placeholder="Wohnungstraße 123&#10;12345 Berlin"></textarea>
+			<address-input :id="uid('address')" v-model="address" home></address-input>
 		</div>
 		<div class="form-group">
 			<label :for="uid('agenturFurArbeitAddress')">Agentur für Arbeit address</label>
-			<textarea
-				:id="uid('agenturFurArbeitAddress')"
-				v-model="agenturFurArbeitAddress"
-				class="address-input"
-				placeholder="Agentur für Arbeit Mitte&#10;Example Straße 123&#10;12345 Berlin"></textarea>
+			<address-input :id="uid('agenturFurArbeitAddress')" v-model="agenturFurArbeitAddress" placeholder="Agentur für Arbeit Mitte&#10;Example Straße 123&#10;12345 Berlin"></address-input>
 			<a class="input-instructions external-link" href="https://web.arbeitsagentur.de/portal/metasuche/suche/dienststellen" target="_blank">
 				Find your Agentur für Arbeit
 			</a>

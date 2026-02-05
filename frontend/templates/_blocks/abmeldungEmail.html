@@ -1,5 +1,6 @@
 {% include '_js/utils/letter.js' %}
 {% include '_js/vue.js' %}
+{% include '_js/vue/components/address-input.js' %}
 {% include '_js/vue/components/blank.js' %}
 {% include '_js/vue/components/checkbox.js' %}
 {% include '_js/vue/components/full-name-input.js' %}
@@ -16,7 +17,7 @@
 				return {
 					fullName: userDefaults.empty,
 					newAddress: '',
-					isNewAddressAbroad: false,
+					isNewAddressAbroad: true,
 					backupRecipient: '',
 					backupAddress: '',
 				};
@@ -29,7 +30,7 @@
 					return `${this.fullName}<br>${this.newAddress.replaceAll('\n', '<br>')}`;
 				},
 				fullBackupAddress() {
-					if(!this.isNewAddressAbroad){
+					if(!this.isNewAddressAbroad || !this.backupAddress){
 						return null;
 					}
 
@@ -83,7 +84,7 @@
 			<span v-else v-html="fullNewAddress"></span>
 		</p>
 
-		<p>
+		<p v-if="isNewAddressAbroad">
 			<strong v-if="language === 'en'">Alternative address in Germany:</strong>
 			<strong v-if="language === 'de'">Alternative Lieferadresse in Deutschland:</strong>
 			<br>
@@ -106,12 +107,7 @@
 		</div>
 		<div class="form-group">
 			<label :for="uid('newAddress')">Your new address</label>
-			<textarea
-				:id="uid('newAddress')"
-				v-model="newAddress"
-				class="address-input"
-				placeholder="123 Maple Street, Apt. 102&#10;Montreal, Quebec, H3E 1J4&#10;Canada"
-				required></textarea>
+			<address-input :id="uid('newAddress')" v-model="newAddress" :abroad="isNewAddressAbroad" :home="!isNewAddressAbroad" required></address-input>
 			<checkbox v-model="isNewAddressAbroad">This address is in another country</checkbox>
 		</div>
 		<template v-if="isNewAddressAbroad">
@@ -127,11 +123,7 @@
 			</div>
 			<div class="form-group">
 				<label :for="uid('backupAddress')">Backup address</label>
-				<textarea
-					:id="uid('backupAddress')"
-					v-model="backupAddress"
-					class="address-input"
-					placeholder="Wohnungstraße 123&#10;12345 Berlin"></textarea>
+				<address-input :id="uid('backupAddress')" v-model="backupAddress" home></address-input>
 				<span class="input-instructions">This must be an address in Germany.</span>
 				<a class="input-instructions internal-link" href="/guides/addressing-a-letter-in-germany#how-to-write-german-addresses" target="_blank">How to write your address</a>
 			</div>
