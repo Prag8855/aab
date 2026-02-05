@@ -143,7 +143,7 @@
 		</p>
 
 		<p v-if="language === 'en'">
-			I politely request that you transfer
+			I request that you transfer
 			<template v-if="hasReceivedPartOfKaution">
 				the remaining
 				<blank :key="uid('remainingDepositBlankEn')" placeholder="Remaining deposit" v-if="!remainingKautionAmount"></blank><eur cents :amount="remainingKautionAmount" v-if="remainingKautionAmount"></eur>
@@ -158,7 +158,7 @@
 			plus interest to my account by {{ deadline(language) }} at the latest.
 		</p>
 		<p v-if="language === 'de'">
-			Ich fordere Sie höflich auf,
+			Ich fordere Sie auf,
 			<template v-if="hasReceivedPartOfKaution">
 				die restlichen
 				<blank :key="uid('remainingDepositBlankDe')" placeholder="Remaining deposit" v-if="!remainingKautionAmount"></blank><eur cents :amount="remainingKautionAmount" locale="de-DE" v-if="remainingKautionAmount"></eur>
