@@ -158,9 +158,9 @@
 			</p>
 		</template>
 
-		<p class="signature" v-if="stage === 'printPreview'">
-			{{ language === 'en' ? 'Signature' : 'Unterschrift' }}
-		</p>
+		<p class="signature"
+			v-if="stage === 'printPreview'"
+			v-text="language === 'en' ? 'Signature' : 'Unterschrift'"></p>
 	</template>
 
 	<template v-slot:form>
