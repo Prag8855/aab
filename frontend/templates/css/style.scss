@@ -2042,9 +2042,6 @@ output.placeholder, .recommended:before{
 output.placeholder{
     background: var(--c-bg-error);
     color: var(--c-text-error)!important;
-    &:after{
-        content:'*';
-    }
 }
 
 .recommended{  // This can be a link label, or a big button
