@@ -314,16 +314,16 @@
 		<hr>
 		<p>Where should your landlord return your deposit? Deposits are usually paid by <glossary term="SEPA-Überweisung">bank transfer</glossary>.</p>
 		<div class="form-group">
-			<label :for="uid('bankAccountIBAN')">Your bank <glossary>IBAN</glossary></label>
+			<label :for="uid('bankAccountName')">Bank account holder</label>
+			<full-name-input :id="uid('bankAccountName')" v-model="bankAccountName" :placeholder="fullName"></full-name-input>
+		</div>
+		<div class="form-group">
+			<label :for="uid('bankAccountIBAN')"><glossary>IBAN</glossary></label>
 			<input type="text"
 				:id="uid('bankAccountIBAN')"
 				v-model="bankAccountIBAN"
 				placeholder="DE00 0000 0000 0000 0000 00"
 				required>
-		</div>
-		<div class="form-group">
-			<label :for="uid('bankAccountName')">Bank account holder</label>
-			<full-name-input :id="uid('bankAccountName')" v-model="bankAccountName" :placeholder="fullName"></full-name-input>
 		</div>
 	</template>
 {% endraw %}
