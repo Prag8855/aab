@@ -20,14 +20,14 @@ function formatDate(date, locale){
 	return '';
 }
 
-function formatLongDate(date, includeSameYear=false){
+function formatLongDate(date, locale="en-US", includeSameYear=false){
 	if(date) {
 		const dateObj = (date instanceof Date) ? date : dateFromString(date);
 		const yearParam = {};
 		if(includeSameYear || dateObj.getFullYear() !== new Date().getFullYear()){
 			yearParam.year = 'numeric';
 		}
-		return dateObj.toLocaleDateString("en-US", {
+		return dateObj.toLocaleDateString(locale, {
 			...yearParam,
 			month: 'long',
 			day: 'numeric',
