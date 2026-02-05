@@ -17,7 +17,10 @@ Vue.component('date-picker', {
 	},
 	methods: {
 		onInput(e) {
-			this.$emit('input', this.$el.checkValidity() ? this.$el.value : '');
+			// Only emit the value if it's a valid date
+			// Do not rely on $el.checkValidity() because the parent element can set it to false with setCustomValidity
+			const parsedDate = dateFromString(e.target.value);
+			this.$emit('input', parsedDate ? isoDay(parsedDate) : '');
 		},
 	},
 	template: `
