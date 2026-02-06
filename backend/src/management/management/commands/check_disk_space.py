@@ -15,6 +15,6 @@ class Command(BaseCommand):
         used_percent = round(used / total * 100)
         update_monitor(
             "disk-space",
-            logging.ERROR if used_percent > 95 else logging.INFO,
+            logging.ERROR if used_percent > 90 else logging.INFO,
             f"Using {filesizeformat(used)} of {filesizeformat(total)} ({used_percent}%)",
         )
