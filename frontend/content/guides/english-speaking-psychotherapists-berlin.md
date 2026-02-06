@@ -140,7 +140,7 @@ Alternative practitioners for psychotherapy (*Heilpraktiker für Psychotherapie*
 
 They can diagnose mental health problems, give therapy and coach people. They can't give you a [sick note](/glossary/Krankschreibung). They can't prescribe medication or call themselves psychotherapists. They are usually "therapists". Look for words like "Heilpraktikergesetz", "HeilprG" or "HPG" in their title.[^8]
 
-They are not covered by public health insurance.[^6]
+They are not covered by [public health insurance](/glossary/gesetzliche%20Krankenversicherung).[^6]
 
 ### Counsellors
 
@@ -148,7 +148,7 @@ Counsellors have **no specific qualifications**. It's not a protected title, so 
 
 They can only coach and advise people. They can't diagnose mental health problems, give therapy, prescribe medication or give [sick notes](/glossary/Krankschreibung).
 
-They are not covered by public health insurance.
+They are not covered by [public health insurance](/glossary/gesetzliche%20Krankenversicherung).
 
 ## How hard is it to find a psychotherapist?
 
