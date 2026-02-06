@@ -39,8 +39,8 @@ services:
     logging: *prod-logging
   proxy:
     environment:
-      - SSL_DOMAIN
-      - SSL_EMAIL
+      - "SSL_DOMAIN=allaboutberlin.com"
+      - "SSL_EMAIL=contact@allaboutberlin.com"
     volumes:
       - "static_site:/var/www/html"
     restart: unless-stopped
