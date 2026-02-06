@@ -4,6 +4,24 @@ Description:
 Date_created: 2026-03-01
 ---
 
+### Open source
+
+I have made all of All About Berlin's code and content public.
+
+The static site generator and my Anmeldung appointment finder have already been online for a few years. Now the entire website is.
+
+Open source is the default, but for many years, I was afraid that people would steal my code and content, and capture the value of my hard work.
+
+Now that Google, OpenAI and Anthropic are doing exactly that, I have nothing to lose.
+
+I hope that this will encourage other people to contribute to the website.
+
+### Public holidays
+
+I rewrote my guide on public holidays. I clarify who gets a paid day off.
+
+Now, I automatically calculate the public holidays for the next 3 years, and display them in a nice list. It even shows which days fall on a weekend.
+
 ### The weird thing with Apotheken
 
 In Germany, you can't buy ibuprofen or [hay fever](/guides/hay-fever) medicine from dm, Rossmann or budni, only from an *Apotheke*.

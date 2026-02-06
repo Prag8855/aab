@@ -1260,7 +1260,7 @@ sup:target a{
             margin:0 auto;
         }
     }
-    figcaption{
+    figcaption, caption{
         font-size: var(--f-s);
         text-align: center;
         margin-top:var(--xs);
@@ -1306,6 +1306,48 @@ sup:target a{
 
         @include only-phone{
             font-size:var(--f-s);
+        }
+
+        caption{
+            caption-side: bottom;
+        }
+    }
+
+    dl{
+        display: grid;
+        line-height: var(--line-height-label);
+
+        dt{
+            @include text-bold;
+            padding: var(--s) var(--m) 0 0;
+        }
+
+        dd:not(:last-child){
+            box-shadow: 0 1px 0 0 var(--c-border-box);
+            padding-bottom: var(--s);
+        }
+
+        @include not-phone{
+            gap: var(--s) 0;
+            grid-template-columns: auto 1fr;
+
+            dt{
+                box-shadow: 0 1px 0 0 var(--c-border-box);
+                padding-top: 0;
+                padding-bottom: var(--s);
+            }
+            *:nth-last-child(-n+2){
+                box-shadow: none;
+            }
+        }
+
+        time.weekend{
+            text-decoration: line-through;
+            color: var(--c-text-error);
+        }
+
+        small{
+            color: var(--c-text-light);
         }
     }
 

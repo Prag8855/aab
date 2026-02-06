@@ -1,0 +1,22 @@
+{% set holidays = get_public_holidays(years=[year]) %}
+{% set lostDays = holidays|length - count_weekdays(holidays) %}
+
+<p>
+	In {{ year }}, there are {{ holidays|length }} public holidays{% if lostDays > 0 %}, but {{ lostDays }} are on a weekend{% endif %}.
+</p>
+
+<dl>
+	{% for date, name in holidays.items() %}
+		{% if date.year == year %}
+			<tr>
+				<dt>
+					<time {% if date.weekday() > 4 %}class="weekend"{% endif %} datetime="{{ date.isoformat() }}">{{ date.strftime('%B %-d') }}</time>
+				</dt>
+				<dd>
+					{{ name.en }}
+					<br><small>{{ name.de }}</small>
+				</dd>
+			</tr>
+		{% endif %}
+	{% endfor %}
+</dl>

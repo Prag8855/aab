@@ -1,11 +1,14 @@
-from datetime import datetime
+from datetime import date, datetime
 from decimal import Decimal
 from extensions.functions import (
-    glossary_groups,
+    build_wikilinks_url,
+    count_weekdays,
     fail_on,
+    get_public_holiday_dates,
+    get_public_holidays,
+    glossary_groups,
     or_join,
     patched_slugify,
-    build_wikilinks_url,
     random_id,
     to_currency,
     to_percent,
@@ -14,7 +17,6 @@ from markupsafe import Markup
 from pathlib import Path
 from ursus.config import config
 from zoneinfo import ZoneInfo
-import holidays
 import logging
 import os
 import git
@@ -426,25 +428,12 @@ ctx["LEGAL_HOTLINE_COST_PER_MINUTE"] = fail_on("2026-03-01", 3)  # https://www.v
 # ==============================================================================
 
 ctx["now"] = datetime.now(ZoneInfo("Europe/Berlin"))
-ctx["PUBLIC_HOLIDAYS_BY_DATE"] = {
-    date.isoformat(): name
-    for date, name in holidays.country_holidays(
-        "DE",
-        subdiv="BE",
-        language="en_US",
-        years=range(ctx["now"].year, ctx["now"].year + 3),
-    ).items()
-}
-ctx["PUBLIC_HOLIDAYS_BY_DATE_JSON"] = json.dumps(list(ctx["PUBLIC_HOLIDAYS_BY_DATE"].keys()))
-ctx["PUBLIC_HOLIDAYS_BY_NAME"] = {
-    name: holidays.country_holidays(
-        "DE",
-        subdiv="BE",
-        language="en_US",
-        years=range(ctx["now"].year, ctx["now"].year + 3),
-    ).get_named(name)
-    for name in set(ctx["PUBLIC_HOLIDAYS_BY_DATE"].values())
-}
+ctx["count_weekdays"] = count_weekdays
+ctx["get_public_holidays"] = get_public_holidays
+ctx["get_public_holiday_dates"] = get_public_holiday_dates
+ctx["PUBLIC_HOLIDAYS_BY_DATE_JSON"] = json.dumps(
+    list(d.isoformat() for d in get_public_holidays(range(date.today().year, date.today().year + 3)).keys())
+)
 
 # ==============================================================================
 # TECHNICAL

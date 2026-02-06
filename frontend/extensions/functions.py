@@ -1,8 +1,9 @@
-from datetime import datetime
+from datetime import date, datetime
 from decimal import Decimal
 from markdown.extensions.toc import slugify
-from typing import Match, Any
+from typing import Iterable, List, Match, Any
 from ursus.context_processors import Entry
+import holidays
 import pyphen
 import re
 import secrets
@@ -84,3 +85,32 @@ def hyphenate(text: str, lang: str = "en_US", hyphen: str = soft_hyphen) -> str:
         return str(hyphenation_dict.inserted(match.group(), hyphen))
 
     return re.sub(long_word_pattern, hyphenate_word, text)
+
+
+def get_public_holidays(years: Iterable[int]):
+    in_german = holidays.country_holidays("DE", subdiv="BE", language="de", years=years)
+    in_english = holidays.country_holidays("DE", subdiv="BE", language="en_US", years=years)
+    return {
+        date: {
+            "en": in_english[date],
+            "de": in_german[date],
+        }
+        for date in in_english.keys()
+    }
+
+
+def get_public_holiday_dates(holiday_name: str, years=5) -> List[str]:
+    return [
+        # Pretty-print the dates
+        raw_date.strftime("%B %d, %Y (%A)")
+        for raw_date in holidays.country_holidays(
+            "DE",
+            subdiv="BE",
+            language="de",
+            years=range(date.today().year, date.today().year + years),
+        ).get_named(holiday_name)
+    ]
+
+
+def count_weekdays(dates: Iterable[date]) -> int:
+    return len([d for d in dates if d.weekday() < 5])

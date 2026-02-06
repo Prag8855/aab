@@ -59,7 +59,11 @@ German employees also get 10 to 13 paid public holidays every year. Each state h
 
 **[Public holidays in Berlin ➞](/guides/public-holidays)**
 
-On public holidays, you don't work, but you still get paid. You celebrate the holidays of the state where you work, even if you live in a different state.[^9]
+On public holidays, you don't work, but you still get paid. You celebrate the holidays of the state where you work, even if you live in another state.[^9]
+
+If you are on vacation during a public holiday, you don't have to use a vacation day. For example, if you are on vacation for 5 days, and 1 day is a public holiday, you only use 4 vacation days.
+
+**[How public holidays work ➞](/guides/public-holidays#how-public-holidays-work)**
 
 ## Sabbatical leave
 
