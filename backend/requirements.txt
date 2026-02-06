@@ -1,9 +1,9 @@
 django-ipware~=7.0.1
-django_countries~=7.6
+django_countries~=8.2
 djangorestframework~=3.16
-django~=5.2
+django~=6.0
 email-validator~=2.3
-gunicorn~=23.0
+gunicorn~=25.0
 python-dateutil~=2.9
 requests~=2.32
-websockets~=15.0
+websockets~=16.0
