@@ -19,5 +19,9 @@ git reset --hard && git pull origin master
 log "Rebuilding project"
 docker-compose up --build -d
 
+log "Pruning old docker images"
+docker image prune -a -f
+docker builder prune -f
+
 log "Reinstalling production deployment scripts"
 ${PROJECT_ROOT}/.prod/setup.sh
