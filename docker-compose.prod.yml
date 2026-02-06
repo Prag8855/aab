@@ -38,10 +38,9 @@ services:
     restart: unless-stopped
     logging: *prod-logging
   proxy:
-    build:
-      args:
-        - "SSL_DOMAIN=allaboutberlin.com"
-        - "SSL_EMAIL=contact@allaboutberlin.com"
+    environment:
+      - SSL_DOMAIN
+      - SSL_EMAIL
     volumes:
       - "static_site:/var/www/html"
     restart: unless-stopped

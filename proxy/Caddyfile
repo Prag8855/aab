@@ -1,5 +1,5 @@
-{$SSL_DOMAIN:allaboutberlin.com} {
-    tls {$SSL_EMAIL:contact@allaboutberlin.com}
+{$SSL_DOMAIN:localhost} {
+    tls {$SSL_EMAIL:internal}
     encode gzip
 
     # Block any request that ends with .html
