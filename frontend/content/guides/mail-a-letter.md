@@ -45,27 +45,26 @@ To mail a letter from a computer, use these services:
 
 ## By registered mail
 
-A registered letter (*Einschreibebrief*) comes with a tracking number and a proof of delivery. Use them when you want to be sure that your letter is delivered. It costs more than a normal letter.
+A registered letter (*[[Einschreibebrief]]*) comes with a tracking number and a proof of delivery. It's more expensive than normal mail.
 
-There are different kinds of registered letters:[^0]
+There are different kinds of registered mail:[^0]
 
-- **Einschreiben Einwurf**  
-    They just put the letter in the mailbox. No signature is needed. You can't tell exactly when they received your letter, because it could stay in the mailbox. Use it to cancel an insurance or a subscription or a membership. They can arrive faster than standard registered letters, because no one needs to open the door and accept the letter.
-- **Einschreiben Standard**  
-    They need someone's signature to deliver the letter. The recipient can refuse the letter. Anyone can sign, not just the recipient: a family member, a roommate, the office front desk - anyone who opens the door. Use it to end a contract, or an [apartment lease](/guides/moving-out#end-your-lease).[^1]  
+- **Mailbox delivery** (*Einschreiben Einwurf*)  
+    They put the letter in the mailbox. No signature is needed. It's the fastest kind of registered mail, because no one needs to accept the letter.
+- **With signature** (*Einschreiben Standard*)  
+    They need someone's signature to deliver the letter. The recipient can refuse the letter. Anyone who opens the door can receive the letter, not just the recipient: a family member, a roommate, the office front desk.  
     You can pay for extra options:
-    - **Eigenhändig**  
+    - **To addressee only** (*Eigenhändig*)  
         They need the signature *of the recipient* to deliver the letter. No one else can accept the letter. Use it to send [written warnings](/glossary/Abmahnung) and important legal documents.
-    - **mit Rückschein**  
+    - **With return receipt** (*mit Rückschein*)  
         They need someone's signature to deliver the letter. You get a copy of the signature. The recipient can refuse the letter.
 
-Registered letters are not faster than normal letters.[^2] The recipient can be on vacation, refuse to open the door, or pretend that you sent them an empty page.[^3] It's not a perfect solution. The safest way to send a letter is to hire a messenger (*Bote*), or to deliver the letter yourself with a witness.
+Registered mail is not faster than normal mail.[^2] The recipient can be on vacation, refuse to open the door, or pretend that you sent them an empty page.[^3] It's not a perfect solution. The safest way to send a letter is to hire a messenger (*Bote*), or to deliver the letter yourself with a witness.
 
 ### How to send a registered letter
 
 Go to the post office, or send it from your computer with [LetterXpress](https://www.letterxpress.de/briefe-uebertragen/brief-schreiben).
 
 [^0]: [deutschepost.de](https://www.deutschepost.de/de/e/einschreiben.html), [paketda.de](https://www.paketda.de/verschicken/einschreiben.html)
-[^1]: [deutschepost.de](https://www.deutschepost.de/de/e/einschreiben/kuendigung-abo-themen/wohnung-kuendigen.html)
 [^2]: [youtube.com](https://www.youtube.com/watch?v=eEuG1GNZGOw)
 [^3]: [juraforum.de](https://www.juraforum.de/lexikon/einschreiben-notwendig), [anwaltseiten24.de](http://www.anwaltseiten24.de/rechtsirrtuemer/einschreiben-mit-rueckschein.html), [kanzlei-hasselbach.de](https://www.kanzlei-hasselbach.de/blog/zugang-einer-kuendigung-arbeitsrecht/#2)

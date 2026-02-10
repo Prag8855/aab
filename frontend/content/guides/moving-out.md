@@ -312,7 +312,7 @@ If you are moving to another country, see the [checklist for leaving Germany](/g
 [^33]: [berliner-mieterverein.de](https://www.berliner-mieterverein.de/recht/infoblaetter/info-180-probleme-beim-auszug-aus-der-mietwohnung-kuendigung-rueckgabe-schoenheitsreparaturen-kaution-mieterinvestitionen.htm#5-Schoenheitsreparaturen)
 [^34]: [mieterengel.de](https://mieterengel.de/wohnungsuebergabeprotokoll/)
 [^35]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/99fbly/best_place_to_buy_cardboard_boxes/)
-[^36]: [wunderflats.de](https://hub.wunderflats.com/ending-a-rental-agreement-in-germany-legal-rules-for-tenants/#:~:text=always%20use%20a%20method%20that%20provides%20proof%20of%20mailbox%20delivery) (September 2025)
+[^36]: [wunderflats.de](https://hub.wunderflats.com/ending-a-rental-agreement-in-germany-legal-rules-for-tenants/#:~:text=always%20use%20a%20method%20that%20provides%20proof%20of%20mailbox%20delivery) (September 2025), [Finanztip](https://www.finanztip.de/kuendigung-mietvertrag/#:~:text=ein%20einschreiben%20mit%20ruckschein%20ist%20nicht%20erforderlich) (October 2025)
 [^37]: [§ 60 Abs. 1 TKG](https://www.buzer.de/60_TKG.htm)
 [^38]: [§ 60 Abs. 2 TKG](https://www.buzer.de/60_TKG.htm), [Telekom](https://www.telekom.de/hilfe/vertrag-rechnung/vertrag/kuendigen/umzug-ausland?samChecked=true) (January 2026), [deurag.de](https://www.deurag.de/blog/sonderkuendigungsrecht-beim-umzug/#:~:text=fur%20internet%2C%20telefon%20und%20handy%20betragt%20meist%20einen%20monat) (January 2026)
 [^39]: Jonathan Wooddin from [Smoovers](https://smoover-moving.de/) (January 2023)
