@@ -4,6 +4,7 @@ Short_title: How to find a Kita
 Description: This guide shows how to find a place for your child in a Kindergarten.
 Date_created: 2025-12-05
 Related_reviews:
+    reviews/kita/elodie-roux.md
     reviews/kita/lisa-hübner-moreno.md
     reviews/kita/amy-deverell.md
 ---
@@ -18,13 +19,13 @@ This guide explains how to send your child to *Kita*.
 
 In Germany, **daycare is free**. Sending your child to *Kita* is free.
 
-*Kitas* can charge extra for meals, special activities, and language lessons.[^1] Food usually costs €23 per month for food.
+*Kitas* can charge extra for meals, special activities, and language lessons.[^1] Food usually costs €23 per month.
 
 The *Kita* can charge up to €100 for optional services: sports, language lessons, activities or special food (like vegan or organic food). These services are always optional.[^0]
 
 ## Difficulty
 
-In Berlin, **it's easy** to find a *Kita* for your child. There are too many Kitas and not enough children.[^3]{{ fail_on('2026-12-31') }} It was *really* hard before, but things have changed.[^2]
+In Berlin, **it's now easy** to find a *Kita* for your child. There are too many Kitas and not enough children.[^3]{{ fail_on('2026-12-31') }} It was *really* hard before, but things have changed.[^2]
 
 It's harder to find a Kita that accepts children under 1 year old.[^4]
 
