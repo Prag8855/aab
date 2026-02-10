@@ -15,10 +15,9 @@ You must tell your landlord that you are moving out.
 
 1. **[Calculate your notice period](#calculate-your-notice-period)**  
     The [notice period](/glossary/Kündigungsfrist) is usually 3 months, but it can be shorter. Your landlord might let you [end your lease sooner](#end-your-lease-sooner) if you find a new tenant.
-2. **Write a [cancellation letter](/glossary/Kündigungsschreiben)**  
-    Use a [cancellation letter generator](https://www.immobilienscout24.de/umzugsexpose/musterbrief-kuendigung.html). Every tenant who signed the lease must sign the cancellation letter.
+2. **[Write a termination letter](#send-a-termination-letter)**
 3. **Mail it to your landlord**  
-    The [notice period](/glossary/Kündigungsfrist) starts when your landlord receives your [cancellation letter](/glossary/Kündigungsschreiben).[^30] You must [mail the letter](/guides/mail-a-letter). An email or instant message is not enough.[^3] Use [registered mail](/glossary/Einschreibebrief) to get a proof of delivery.[^36]
+    The [notice period](/glossary/Kündigungsfrist) starts when your landlord receives your [termination letter](/glossary/Kündigungsschreiben).[^30] An email, a text message or a fax is not enough.[^3] Use [registered mail](/glossary/Einschreibebrief) to get a proof of delivery.[^36]
 
 ### Calculate your notice period
 
@@ -26,9 +25,9 @@ You must tell your landlord that you are moving out.
 
 Usually, you must end your lease **3 months in advance**. Some leases have a shorter [notice period](/glossary/Kündigungsfrist), but 3 months is the maximum.[^29] You must pay rent until the end of your notice period.
 
-Your notice period starts when your landlord receives your [cancellation letter](/glossary/Kündigungsschreiben). If they receive it after the 3rd [working day](/glossary/Werktag) of the month (including Saturdays, excluding holidays), your notice period starts a month later.[^0]
+Your notice period starts when your landlord receives your [termination letter](/glossary/Kündigungsschreiben). If they receive it after the 3rd [working day](/glossary/Werktag) of the month (including Saturdays, excluding holidays), your notice period starts a month later.[^0]
 
-For example, if your landlord gets your cancellation letter on January 10, your notice period starts on February 1, and your lease ends 3 months later, on April 30.
+For example, if your landlord gets your termination letter on January 10, your notice period starts on February 1, and your lease ends 3 months later, on April 30.
 
 You can't end a fixed-term lease early. If you signed a 1-year lease, you must stay 1 year.[^45] [Many fixed-term leases are invalid](/guides/housing-scams#short-term-leases), so you can sometimes end them with a 3 month notice.
 
@@ -37,6 +36,30 @@ You can't end a fixed-term lease early. If you signed a 1-year lease, you must s
 You can negotiate a shorter [notice period](/glossary/Kündigungsfrist) with your landlord. They might let you move out sooner if you find another tenant, or if you pay an extra month of rent.[^31] You can sign a lease termination agreement (*Mietaufhebungsvertrag*) to confirm this.
 
 If your landlord refuses to end your lease sooner, you must pay rent until the end of your [notice period](/glossary/Kündigungsfrist).[^32]
+
+### Send a termination letter
+
+Your notice period starts when your landlord receives your [termination letter](/glossary/Kündigungsschreiben).[^30]
+
+{% include '_blocks/leaseTerminationLetter.html' %}
+
+Your termination letter must include...
+
+- A clear move-out date
+- The signatures of all tenants
+
+It can also include...
+
+- Your future address
+- Your bank details
+- Your contact information
+- A request for confirmation[^1]
+
+You must print, sign and mail the letter. An email, a text message or a fax is not enough.[^3]
+
+Send the letter by [registered mail](/glossary/Einschreibebrief) with inbox delivery (*Einwurf-Einschreiben*).[^36] It guarantees that your landlord received the letter.
+
+**[How to mail a letter ➞](/guides/mail-a-letter)**
 
 ## Let people visit your apartment
 
@@ -55,7 +78,7 @@ Rules for apartment visits:
 
 ## Cancel or move your contracts
 
-Your internet, telephone and insurance contracts don't end because you move. You must cancel them. There is usually a [notice period](/glossary/Kündigungsfrist) of 1 to 3 months. You can cancel contracts on the company's website, or in writing.[^10] Use [aboalarm](https://www.aboalarm.de/) to write the [cancellation letter](/glossary/Kündigungsschreiben).
+Your internet, telephone and insurance contracts don't end because you move. You must cancel them. There is usually a [notice period](/glossary/Kündigungsfrist) of 1 to 3 months. You can cancel contracts on the company's website, or in writing.[^10] Use [aboalarm](https://www.aboalarm.de/) to write the [termination letter](/glossary/Kündigungsschreiben).
 
 ### If you stay in Germany
 
@@ -74,7 +97,7 @@ Your **electricity and gas** contracts move with you. They must offer the same s
 
 ### If you leave Germany
 
-You can **cancel your phone, internet and electricity contracts** with a 1 month notice.[^18] You can do it on the company's website or in writing. Use [aboalarm](https://www.aboalarm.de/) to write the [cancellation letter](/glossary/Kündigungsschreiben).
+You can **cancel your phone, internet and electricity contracts** with a 1 month notice.[^18] You can do it on the company's website or in writing. Use [aboalarm](https://www.aboalarm.de/) to write the [termination letter](/glossary/Kündigungsschreiben).
 
 To **stop paying the [TV tax](/glossary/Rundfunkbeitrag)**, [deregister on the Rundfunkbeitrag website](/out/rundfunkbeitrag-deregister). You can also [pay someone to do it for you](/out/deregistrationde-gez).
 
@@ -255,6 +278,7 @@ If you are moving to another country, see the [checklist for leaving Germany](/g
 **[Where to ask apartment questions ➞](/guides/help#apartment-questions)**
 
 [^0]: [§ 573c Abs. 1 BGB](https://www.buzer.de/573c_BGB.htm), [mieterengel.de](https://mieterengel.de/kuendigungsfrist-wohnung/#Anchor1), [wunderflats.com](https://hub.wunderflats.com/ending-a-rental-agreement-in-germany-legal-rules-for-tenants/#:~:text=must%20reach%20your%20landlord%20by%20the%20third%20working%20day%20of%20that%20month) (September 2025)
+[^1]: [finanz.de](https://www.finanz.de/miete/mietvertrag-kuendigen/#:~:text=eine%20bestatigung%20des%20erhalts%20durch%20den%20vermieter%20sollte%20eingefordert%20werden.) (February 2026)
 [^2]: [berliner-mieterverein.de](https://www.berliner-mieterverein.de/magazin/online/mm0110/kein-anspruch-auf-mietschuldenfreiheitsbescheinigung-011013a.htm), [homeday.de](https://www.homeday.de/de/musterdokumente/mietschuldenfreiheitsbescheinigung/#kosten), [reddit.com](https://old.reddit.com/r/berlinsocialclub/comments/14rdwit/landlord_doesnt_provide/), [reddit.com](https://old.reddit.com/r/berlin/comments/nfjm73/landlord_doesnt_want_to_provide/)
 [^3]: [§ 568 BGB](https://www.buzer.de/568_BGB.htm), [§ 126 BGB](https://www.buzer.de/126_BGB.htm), [deurag.de](https://www.deurag.de/blog/mietvertrag-per-e-mail/), [promietrecht.de](https://www.promietrecht.de/Mieterkuendigung/Formelle-Regeln/schriftlich/Kuendigung-des-Mietvertrages-der-Wohnung-per-Mail-reicht-das-E1939.htm), [wunderflats.com](https://hub.wunderflats.com/ending-a-rental-agreement-in-germany-legal-rules-for-tenants/#:~:text=must%20be%20a%20signed%2C%20paper%20letter.) (September 2025), [mietrecht.org](https://www.mietrecht.org/kuendigung/kuendigung-eines-mietvertrages-per-e-mail-fax-oder-sms/) (2013)
 [^4]: [mietrecht.de](https://www.mietrecht.de/wohnungsbesichtigung-vermieter-recht/#1-annehmbare-gr%C3%BCnde-f%C3%BCr-eine-wohnungsbesichtigung)

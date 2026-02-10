@@ -18,7 +18,7 @@ All jobs have a notice period, both for the employee (when they quit) and the em
 
 **[How job notice periods work ➞](/guides/job-notice-period)**
 
-Apartment leases usually have a 3-month notice period. It starts when the landlord receives your cancellation letter. You must pay rent until the end of the notice period.
+Apartment leases usually have a 3-month notice period. It starts when the landlord receives your termination letter. You must pay rent until the end of the notice period.
 
 **[How apartment notice periods work ➞](/guides/moving-out#calculate-your-notice-period)**
 
