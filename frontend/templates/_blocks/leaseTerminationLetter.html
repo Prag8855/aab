@@ -231,7 +231,7 @@
 				Deliver this letter before {{ formatLongDate(maximumNoticeDate) }} to move out on {{ formatLongDate(moveOutDate) }}.
 			</span>
 			<span class="input-instructions error" v-if="moveOutDate && !isMoveOutDateValid">
-				The earliest move-out date is {{ formatLongDate(minimumMoveOutDate) }}.
+				The earliest move-out date is {{ formatLongDate(minimumMoveOutDate) }}. Try <a target="_blank" href="/guides/moving-out#end-your-lease-sooner">negotiating an earlier date</a>.
 			</span>
 			</span>
 			<span class="input-instructions" v-if="!moveOutDate">
