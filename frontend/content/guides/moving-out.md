@@ -15,9 +15,10 @@ You must tell your landlord that you are moving out.
 
 1. **[Calculate your notice period](#calculate-your-notice-period)**  
     The [notice period](/glossary/Kündigungsfrist) is usually 3 months, but it can be shorter. Your landlord might let you [end your lease sooner](#end-your-lease-sooner) if you find a new tenant.
-2. **[Write a termination letter](#send-a-termination-letter)**
+2. **[Write a termination letter](#send-a-termination-letter)**  
+    It must be printed, and signed by every tenant who is on the lease.
 3. **Mail it to your landlord**  
-    The [notice period](/glossary/Kündigungsfrist) starts when your landlord receives your [termination letter](/glossary/Kündigungsschreiben).[^30] An email, a text message or a fax is not enough.[^3] Use [registered mail](/glossary/Einschreibebrief) to get a proof of delivery.[^36]
+    The [notice period](/glossary/Kündigungsfrist) starts when your [termination letter](/glossary/Kündigungsschreiben) is delivered.[^30] Send it by [registered mail](/glossary/Einschreibebrief) to get a proof of delivery.[^36] You must mail your termination letter. An email, a text message or a fax is not enough.[^3]
 
 ### Calculate your notice period
 
@@ -39,27 +40,27 @@ If your landlord refuses to end your lease sooner, you must pay rent until the e
 
 ### Send a termination letter
 
-Your notice period starts when your landlord receives your [termination letter](/glossary/Kündigungsschreiben).[^30]
+Your [notice period](/glossary/Kündigungsfrist) starts when your landlord receives your [termination letter](/glossary/Kündigungsschreiben), not when you send it.[^30]
 
 {% include '_blocks/leaseTerminationLetter.html' %}
 
-Your termination letter must include...
+Your termination letter must have...
 
-- A clear move-out date
-- The signatures of all tenants
+- [ ] A clear move-out date
+- [ ] The signatures of every tenant on the lease
 
-It can also include...
+It can also have...
 
-- Your future address
-- Your bank details
-- Your contact information
-- A request for confirmation[^1]
+- [ ] Your contact information
+- [ ] Your bank details (to return your [deposit](/glossary/Kaution))
+- [ ] Your future address
+- [ ] A request for confirmation[^1]
 
-You must print, sign and mail the letter. An email, a text message or a fax is not enough.[^3]
-
-Send the letter by [registered mail](/glossary/Einschreibebrief) with inbox delivery (*Einwurf-Einschreiben*).[^36] It guarantees that your landlord received the letter.
+Sign the letter and mail it. An email, a text message or a fax is not enough.[^3] Use [registered mail](/glossary/Einschreibebrief). Mailbox delivery (*Einschreiben Einwurf*) is faster, but delivery with signature (*Einschreiben mit Rückschein*) is a stronger guarantee of delivery.[^36]
 
 **[How to mail a letter ➞](/guides/mail-a-letter)**
+
+You can also deliver the letter in person. It's the fastest option. If you put the letter in your landlord's mailbox, keep a proof of it. Take a photo or bring a witness.[^28]
 
 ## Let people visit your apartment
 
@@ -305,6 +306,7 @@ If you are moving to another country, see the [checklist for leaving Germany](/g
 [^25]: [zapf.de](https://www.zapf.de/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/8jc3ps/moving_companies_umzugsunternehmen_in_berlin/), [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/71i6sl/moving_company/)
 [^26]: [berliner-woche.de](https://www.berliner-woche.de/neukoelln/c-verkehr/parkverbot-berlin-einrichten_a187219), [bussgeldkatalog.org](https://www.bussgeldkatalog.org/halteverbot-umzug/#nicht_nur_fuer_einen_umzug_nuetzlich_das_halteverbot)
 [^27]: [berlin.de](https://service.berlin.de/dienstleistung/325649/), [berlin.de](https://www.berlin.de/special/neu-in-berlin/745345-744080-halteverbote-fuer-umzug-beantragen.html), [halteverbot-berlin24.de](https://www.halteverbot-berlin24.de/)
+[^28]: [iv-mieterschutz.de](https://www.iv-mieterschutz.de/mietrecht/kuendigung/ordentliche-kuendigung/#:~:text=mit%20einem%20zeugen%20oder%20durch%20einen%20boten) (February 2025)
 [^29]: [§ 573c Abs. 1 BGB](https://www.buzer.de/573c_BGB.htm), [§ 573c Abs. 4 BGB](https://www.buzer.de/573c_BGB.htm)
 [^30]: [promietrecht.de](https://www.promietrecht.de/Mieterkuendigung/Formelle-Regeln/schriftlich/Kuendigung-des-Mietvertrages-der-Wohnung-per-Mail-reicht-das-E1939.htm)
 [^31]: [mietrecht.org](https://www.mietrecht.org/kuendigung/mietvertrag-3-monate-kuendigungsfrist-umgehen/#:~:text=einen%20Mietaufhebungsvertrag%20herbeigef%C3%BChrt-,werden,-Wollen%20die%20Parteien) (2013), [mietrecht.org](https://www.mietrecht.org/kuendigung/mietvertrag-3-monate-kuendigungsfrist-umgehen/#:~:text=der%20mieter%20dem%20vermieter%20eine%20ausgleichszahlung) (2013), [homeday.de](https://www.homeday.de/de/musterdokumente/mietaufhebungsvertrag/)
@@ -312,7 +314,7 @@ If you are moving to another country, see the [checklist for leaving Germany](/g
 [^33]: [berliner-mieterverein.de](https://www.berliner-mieterverein.de/recht/infoblaetter/info-180-probleme-beim-auszug-aus-der-mietwohnung-kuendigung-rueckgabe-schoenheitsreparaturen-kaution-mieterinvestitionen.htm#5-Schoenheitsreparaturen)
 [^34]: [mieterengel.de](https://mieterengel.de/wohnungsuebergabeprotokoll/)
 [^35]: [reddit.com/r/berlin](https://old.reddit.com/r/berlin/comments/99fbly/best_place_to_buy_cardboard_boxes/)
-[^36]: [wunderflats.de](https://hub.wunderflats.com/ending-a-rental-agreement-in-germany-legal-rules-for-tenants/#:~:text=always%20use%20a%20method%20that%20provides%20proof%20of%20mailbox%20delivery) (September 2025), [Finanztip](https://www.finanztip.de/kuendigung-mietvertrag/#:~:text=ein%20einschreiben%20mit%20ruckschein%20ist%20nicht%20erforderlich) (October 2025)
+[^36]: [wunderflats.de](https://hub.wunderflats.com/ending-a-rental-agreement-in-germany-legal-rules-for-tenants/#:~:text=always%20use%20a%20method%20that%20provides%20proof%20of%20mailbox%20delivery) (September 2025), [Finanztip](https://www.finanztip.de/kuendigung-mietvertrag/#:~:text=ein%20einschreiben%20mit%20ruckschein%20ist%20nicht%20erforderlich) (October 2025), [iv-mieterschutz.de](https://www.iv-mieterschutz.de/mietrecht/kuendigung/ordentliche-kuendigung/#:~:text=sinnvoller%20ist%20daher%20eine%20versendung%20als%20einwurfeinschreiben) (February 2026), [mietrechtsiegen.de](https://www.mietrechtsiegen.de/richtig-kuendigen-wie-kuendige-ich-meinen-mietvertrag/) (February 2026)
 [^37]: [§ 60 Abs. 1 TKG](https://www.buzer.de/60_TKG.htm)
 [^38]: [§ 60 Abs. 2 TKG](https://www.buzer.de/60_TKG.htm), [Telekom](https://www.telekom.de/hilfe/vertrag-rechnung/vertrag/kuendigen/umzug-ausland?samChecked=true) (January 2026), [deurag.de](https://www.deurag.de/blog/sonderkuendigungsrecht-beim-umzug/#:~:text=fur%20internet%2C%20telefon%20und%20handy%20betragt%20meist%20einen%20monat) (January 2026)
 [^39]: Jonathan Wooddin from [Smoovers](https://smoover-moving.de/) (January 2023)
