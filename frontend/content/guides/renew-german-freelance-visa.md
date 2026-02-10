@@ -146,7 +146,7 @@ Use PDF files or photos. Don't use Word documents or other file formats. Put dat
 - [ ] **Appointment confirmation**  
     This document shows you where to go for your appointment. It also shows your waiting number (*Vorgangsnummer*). You must have this document to enter the *Ausländerbehörde*.
 - [ ] **Passport**  
-    The passport must still be valid. It must have two free pages for your new residence permit. If your residence permit is in an older passport, bring the old passport and the new one. You do not need to have empty pages in your passport. They do not put stickers in your passport anymore. Your new residence permit will be a [plastic card](https://www.berlin.de/einwanderung/aufenthalt/elektronischer-aufenthaltstitel/).
+    The passport must still be valid. The freelance visa is usually a  a [plastic card](https://www.berlin.de/einwanderung/aufenthalt/elektronischer-aufenthaltstitel/), but it's *sometimes* a sticker in your passport.[^19]
 - [ ] **Current [residence permit](/glossary/Aufenthaltstitel)**  
     If you have a plastic residence permit, bring it. If your residence permit is in an older passport, bring the old passport and the new one.
 - [ ] **[QR code for biometric pictures](/guides/biometric-pictures-in-berlin)** (35 × 45 mm)  
@@ -257,3 +257,4 @@ If you plan to become a permanent resident, you should make voluntary [public pe
 [^16]: [§ 21 AufenthG](https://www.buzer.de/21_AufenthG.htm), [§ 18 EStG](https://www.buzer.de/18_EStG.htm), [2 K 7356/18](https://www.landesrecht-bw.de/jportal/?quelle=jlink&docid=MWRE190002951&psml=bsbawueprod.psml&max=true&doc.part=L&doc.norm=all#:~:text=der%20begriff%20%E2%80%9Efreiberufliche%20tatigkeit%E2%80%9C%20bestimmt%20sich%20nach%20den%20katalogberufen%20des)
 [^17]: Health insurance broker Daniel Derosa
 [^18]: [§ 21 Abs. 4 and 5 AufenthG](https://www.buzer.de/21_AufenthG.htm), [Berlin.de](https://service.berlin.de/dienstleistung/326564/#:~:text=keine%20freiberufliche), [sachsen.de](https://www.zuwanderung.sachsen.de/SMI_Zuwanderung_Infoblatt_Selbststaendige.pdf) (page 9)
+[^19]: Relocation consultants (February 2026)
