@@ -30,6 +30,7 @@
 					recipientGender: 'man',
 					recipientFirstName: '',
 					recipientLastName: '',
+					askForDepositReturn: false,
 					bankAccountName: '',
 					bankAccountIBAN: '',
 					landlordAddress: '',
@@ -139,15 +140,17 @@
 	<template v-slot:letter-body="{ language, stage }">
 		<p v-if="language === 'en'">
 			<strong>Subject: Termination of {{ en.our }} lease agreement</strong>
+			<br><blank :key="uid('addressBlank')" placeholder="Apartment address">{{ address.replaceAll('\n', ', ') }}</blank>
 		</p>
 		<p v-if="language === 'de'">
 			<strong>Betreff: Kündigung {{ de.unser }}es Mietvertrags</strong>
+			<br><blank :key="uid('addressBlank')" placeholder="Apartment address">{{ address.replaceAll('\n', ', ') }}</blank>
 		</p>
 
 		<p v-text="formatSalutations(recipientGender, recipientFirstName, recipientLastName, language)"></p>
 
 		<p v-if="language === 'en'">
-			I hereby terminate the rental agreement for the apartment at <blank :key="uid('addressBlank')" placeholder="Apartment address">{{ address.replaceAll('\n', ', ') }}</blank>
+			I hereby terminate the rental agreement for above-mentioned apartment
 			<template v-if="customMoveOutDate">
 				effective <blank :key="uid('moveOutDateBlankEn')" placeholder="Move-out date">{{ formatLongDate(moveOutDate, "en-US", true) }}</blank>.
 			</template>
@@ -156,7 +159,7 @@
 			</template>
 		</p>
 		<p v-if="language === 'de'">
-			hiermit kündige ich den Mietvertrag für die Wohnung <blank :key="uid('addressBlank')" placeholder="Apartment address">{{ address.replaceAll('\n', ', ') }}</blank>
+			hiermit kündige ich den Mietvertrag für die oben genannte Wohnung
 			<template v-if="customMoveOutDate">
 				unter Einhaltung der gesetzlichen Kündigungsfrist zum <blank :key="uid('moveOutDateBlankDe')" placeholder="Move-out date">{{ formatLongDate(moveOutDate, "de-DE", true) }}</blank>.
 			</template>
@@ -276,18 +279,24 @@
 			</div>
 		</div>
 		<hr>
-		<p>Where should your landlord return your <glossary term="Kaution">deposit</glossary>? Deposits are usually paid by <glossary term="SEPA-Überweisung">bank transfer</glossary>.</p>
-		<div class="form-group">
-			<label :for="uid('bankAccountName')">Bank account holder</label>
-			<full-name-input :id="uid('bankAccountName')" v-model="bankAccountName" :placeholder="fullName"></full-name-input>
+		<div class="form-group no-label">
+			<checkbox v-model="askForDepositReturn"><span>Ask for your <glossary term="Kaution">deposit</glossary> back</span></checkbox>
 		</div>
-		<div class="form-group">
-			<label :for="uid('bankAccountIBAN')"><glossary>IBAN</glossary></label>
-			<input type="text"
-				:id="uid('bankAccountIBAN')"
-				v-model="bankAccountIBAN"
-				placeholder="DE00 0000 0000 0000 0000 00">
-		</div>
+		<template v-if="askForDepositReturn">
+			<hr>
+			<p>Where should your landlord refund your deposit? Deposits are usually paid by <glossary term="SEPA-Überweisung">bank transfer</glossary>.</p>
+			<div class="form-group">
+				<label :for="uid('bankAccountName')">Bank account holder</label>
+				<full-name-input :id="uid('bankAccountName')" v-model="bankAccountName" :placeholder="fullName"></full-name-input>
+			</div>
+			<div class="form-group">
+				<label :for="uid('bankAccountIBAN')"><glossary>IBAN</glossary></label>
+				<input type="text"
+					:id="uid('bankAccountIBAN')"
+					v-model="bankAccountIBAN"
+					placeholder="DE00 0000 0000 0000 0000 00">
+			</div>
+		</template>
 	</template>
 {% endraw %}
 </letter-generator>
