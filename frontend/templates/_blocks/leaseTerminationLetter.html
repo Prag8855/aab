@@ -64,7 +64,7 @@
 					return getMoveOutDate(new Date());
 				},
 				maximumNoticeDate(){
-					const noticeDate = getNoticeDate(dateFromString(this.moveOutDate) || this.minimumMoveOutDate);
+					const noticeDate = getLatestNoticeDate(dateFromString(this.moveOutDate) || this.minimumMoveOutDate);
 					// Add one day, because it must be delivered "before the 4th workday". February 4 -> "Before February 5"
 					noticeDate.setDate(noticeDate.getDate() + 1);
 

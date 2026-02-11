@@ -32,7 +32,7 @@ function getMoveOutDate(noticeDate) {
 	return moveOutDate;
 }
 
-function getNoticeDate(moveOutDate) {
+function getLatestNoticeDate(moveOutDate) {
 	noticeDate = new Date(moveOutDate);
 	noticeDate.setHours(0, 0, 0, 0);  // Start of the day
 	noticeDate.setDate(1); // First day of the month.

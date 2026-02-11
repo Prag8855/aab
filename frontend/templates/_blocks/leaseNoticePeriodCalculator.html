@@ -26,8 +26,22 @@
 					},
 					set(dateString){
 						const moveOutDate = dateFromString(dateString);
-						this.inputNoticeDate = moveOutDate ? isoDay(getNoticeDate(moveOutDate)) : '';
+						this.inputNoticeDate = moveOutDate ? isoDay(getLatestNoticeDate(moveOutDate)) : '';
 					}
+				},
+				isNoticePeriodDelayed(){
+					return getLatestNoticeDate(getMoveOutDate(dateFromString(this.inputNoticeDate))) > dateFromString(this.inputNoticeDate);
+				},
+				noticeDateMonth(){
+					return dateFromString(this.inputNoticeDate).toLocaleString('en-US', { month: 'long' });
+				},
+				noticePeriodStart(){
+					const latestNoticeDate = getLatestNoticeDate(dateFromString(this.inputMoveOutDate));
+					latestNoticeDate.setDate(1);
+					return latestNoticeDate.toLocaleString('en-US', { day: 'numeric', month: 'long' });
+				},
+				noticePeriodEnd(){
+					return formatLongDate(dateFromString(this.inputMoveOutDate));
 				},
 			},
 		})
@@ -40,10 +54,16 @@
 	<div class="form-group show-errors">
 		<label :for="uid('noticeDate')">Notice date</label>
 		<date-picker v-model="inputNoticeDate" :id="uid('noticeDate')"></date-picker>
+		<span class="input-instructions">When your landlord receives your <glossary term="Kündigungsschreiben">termination letter</glossary>.</span>
 	</div>
 	<div class="form-group show-errors">
 		<label :for="uid('moveOutDate')">Move-out date</label>
 		<date-picker v-model="inputMoveOutDate" :id="uid('moveOutDate')"></date-picker>
+		<span class="input-instructions">The last day of your <glossary term="Kündigungsfrist">notice period</glossary>.</span>
 	</div>
+	<template v-if="inputMoveOutDate && inputNoticeDate">
+		<hr>
+		Your notice date is {{ isNoticePeriodDelayed ? 'after' : 'before' }} the 3rd <glossary term="Werktag">working day</glossary> of {{ noticeDateMonth }}, so your <glossary term="Kündigungsfrist">notice period</glossary> starts on {{ noticePeriodStart }}. Your lease can end 3 months later, on {{ noticePeriodEnd }}.
+	</template>
 {% endraw %}
 </collapsible>
