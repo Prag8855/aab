@@ -108,7 +108,7 @@ Vue.component('public-health-insurance-options', {
 						{% endraw %}{% include "_css/icons/health-insurance/logo-barmer.svg" %}{% raw %}
 						<div>
 							<h3 v-text="option('barmer').name"></h3>
-							<p>The second biggest insurer. They also speak English. They speak English.</p>
+							<p>The second biggest insurer. They also speak English.</p>
 						</div>
 						<price :amount="option('barmer').total.personalContribution" per-month></price>
 					</a>
