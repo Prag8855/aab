@@ -11,71 +11,48 @@ This guide explains what to do before you move out of an apartment.
 
 ## End your lease
 
-You must tell your landlord that you are moving out.
+Most leases have a 3 month [notice period](/glossary/Kündigungsfrist). You must end your lease with a [termination letter](/glossary/Kündigungsschreiben). An email or a text message is not enough.[^3]
 
-1. **[Calculate your notice period](#calculate-your-notice-period)**  
-    The [notice period](/glossary/Kündigungsfrist) is usually 3 months, but it can be shorter. Your landlord might let you [end your lease sooner](#end-your-lease-sooner) if you find a new tenant.
-2. **[Write a termination letter](#send-a-termination-letter)**  
-    It must be printed, and signed by every tenant who is on the lease.
-3. **Mail it to your landlord**  
-    The [notice period](/glossary/Kündigungsfrist) starts when your [termination letter](/glossary/Kündigungsschreiben) is delivered.[^30] Send it by [registered mail](/glossary/Einschreibebrief) to get a proof of delivery.[^36] You must mail your termination letter. An email, a text message or a fax is not enough.[^3]
-
-### Calculate your notice period
+### 1. Calculate your notice period
 
 {% include '_blocks/leaseNoticePeriodCalculator.html' %}
 
-Usually, you must end your lease **3 months in advance**. Some leases have a shorter [notice period](/glossary/Kündigungsfrist), but 3 months is the maximum.[^29] You must pay rent until the end of your notice period.
+The standard [notice period](/glossary/Kündigungsfrist) is 3 months, but it can be shorter.[^29] You must pay rent until the end of your notice period.
 
-Your notice period starts when your landlord receives your [termination letter](/glossary/Kündigungsschreiben). If they receive it after the 3rd [working day](/glossary/Werktag) of the month (including Saturdays, excluding holidays), your notice period starts a month later.[^0]
+You can **negotiate a shorter notice period** with your landlord. They might let you move out sooner if you find another tenant, or if you pay a fee.[^31] If they refuse, you must pay rent until the end of your notice period.[^32]
 
-For example, if your landlord gets your termination letter on January 10, your notice period starts on February 1, and your lease ends 3 months later, on April 30.
+The notice period starts when your landlord receives your [termination letter](/glossary/Kündigungsschreiben). They must receive it before the 4th [working day](/glossary/Werktag) of the month. If your letter arrives too late, your notice period starts a month later.[^0]
 
-You can't end a fixed-term lease early. If you signed a 1-year lease, you must stay 1 year.[^45] [Many fixed-term leases are invalid](/guides/housing-scams#short-term-leases), so you can sometimes end them with a 3 month notice.
+**Fixed-term leases** can't end early. If you signed a 1-year lease, you must stay 1 year.[^45] [Many fixed-term leases are invalid](/guides/housing-scams#short-term-leases), so you can sometimes end them with a 3 month notice. [Ask an expert](/guides/help#apartment-questions) to check your lease.
 
-### End your lease sooner
+### 2. Send a termination letter
 
-You can negotiate a shorter [notice period](/glossary/Kündigungsfrist) with your landlord. They might let you move out sooner if you find another tenant, or if you pay an extra month of rent.[^31] You can sign a lease termination agreement (*Mietaufhebungsvertrag*) to confirm this.
-
-If your landlord refuses to end your lease sooner, you must pay rent until the end of your [notice period](/glossary/Kündigungsfrist).[^32]
-
-### Send a termination letter
-
-Your [notice period](/glossary/Kündigungsfrist) starts when your landlord receives your [termination letter](/glossary/Kündigungsschreiben), not when you send it.[^30]
+Your [notice period](/glossary/Kündigungsfrist) starts when your landlord *receives* your [termination letter](/glossary/Kündigungsschreiben), not when you send it.
 
 {% include '_blocks/leaseTerminationLetter.html' %}
 
-Your termination letter must have...
+You must **print, sign and mail** the letter. An email, a text message or a fax is not enough.[^3] Digital signatures are not valid.[^1]
 
-- [ ] A clear move-out date
-- [ ] The signatures of every tenant on the lease
+There are 2 ways to deliver your termination letter:
 
-It can also have...
-
-- [ ] Your contact information
-- [ ] Your bank details (to return your [deposit](/glossary/Kaution))
-- [ ] Your future address
-- [ ] A request for confirmation[^1]
-
-Sign the letter and mail it. An email, a text message or a fax is not enough.[^3] Use [registered mail](/glossary/Einschreibebrief). Mailbox delivery (*Einschreiben Einwurf*) is faster, but delivery with signature (*Einschreiben mit Rückschein*) is a stronger guarantee of delivery.[^36]
+- **[Registered mail](/glossary/Einschreibebrief) with proof of delivery** (*Einschreiben mit Rückschein*)  
+    You get a proof of delivery with the recipient's signature. It proves that your landlord received your termination letter on a specific date.[^36]
+- **In person**  
+    It's the fastest option. If you put the letter in your landlord's mailbox, keep a proof of delivery. Take a photo or bring a witness.[^28]
 
 **[How to mail a letter ➞](/guides/mail-a-letter)**
 
-You can also deliver the letter in person. It's the fastest option. If you put the letter in your landlord's mailbox, keep a proof of it. Take a photo or bring a witness.[^28]
-
 ## Let people visit your apartment
 
-After you give your notice, your landlord can show your apartment to other people.
+During the [notice period](/glossary/Kündigungsfrist), your landlord can show your apartment to other people.[^4] They must schedule visits least 2 days in advance, or 3 days if you have a job.[^7] You can refuse a scheduled visit, but you must suggest another date.[^8]
 
-Rules for apartment visits:
+You do not need to...
 
-- Apartment viewings can only start after you give your notice.[^4]
-- Your landlord can't show your apartment when you are not at home.[^5]
-- Your landlord must announce apartment viewings in writing.[^6]
-- Your landlord must announce apartment viewings at least 2 days in advance, or 3 days in advance if you have a job.[^7]
-- You can refuse a scheduled visit, but you must suggest another date.[^8]
-- You don't have to allow more than 2-3 viewings per week.
-- You don't have to clean the apartment for viewings.[^9]
-- You don't have to let visitors take photos.
+- Clean your apartment for viewings[^9]
+- Let visitors take photos[^6]
+- Allow more than 2 or 3 viewings per week[^30]
+- Allow visits when you are not at home[^5]
+- Allow unscheduled visits
 
 ## Cancel or move your contracts
 
@@ -279,14 +256,14 @@ If you are moving to another country, see the [checklist for leaving Germany](/g
 **[Where to ask apartment questions ➞](/guides/help#apartment-questions)**
 
 [^0]: [§ 573c Abs. 1 BGB](https://www.buzer.de/573c_BGB.htm), [mieterengel.de](https://mieterengel.de/kuendigungsfrist-wohnung/#Anchor1), [wunderflats.com](https://hub.wunderflats.com/ending-a-rental-agreement-in-germany-legal-rules-for-tenants/#:~:text=must%20reach%20your%20landlord%20by%20the%20third%20working%20day%20of%20that%20month) (September 2025)
-[^1]: [finanz.de](https://www.finanz.de/miete/mietvertrag-kuendigen/#:~:text=eine%20bestatigung%20des%20erhalts%20durch%20den%20vermieter%20sollte%20eingefordert%20werden.) (February 2026)
+[^1]: [erste-hausverwaltung.de](https://erste-hausverwaltung.de/mietvertrag-kuendigen-per-mail/#:~:text=das%20gesetz%20zur%20schriftform%20verlangt%20das%20handschriftliche%20unterzeichnen%20des%20kundigungsschreibens) (2023)
 [^2]: [berliner-mieterverein.de](https://www.berliner-mieterverein.de/magazin/online/mm0110/kein-anspruch-auf-mietschuldenfreiheitsbescheinigung-011013a.htm), [homeday.de](https://www.homeday.de/de/musterdokumente/mietschuldenfreiheitsbescheinigung/#kosten), [reddit.com](https://old.reddit.com/r/berlinsocialclub/comments/14rdwit/landlord_doesnt_provide/), [reddit.com](https://old.reddit.com/r/berlin/comments/nfjm73/landlord_doesnt_want_to_provide/)
 [^3]: [§ 568 BGB](https://www.buzer.de/568_BGB.htm), [§ 126 BGB](https://www.buzer.de/126_BGB.htm), [deurag.de](https://www.deurag.de/blog/mietvertrag-per-e-mail/), [promietrecht.de](https://www.promietrecht.de/Mieterkuendigung/Formelle-Regeln/schriftlich/Kuendigung-des-Mietvertrages-der-Wohnung-per-Mail-reicht-das-E1939.htm), [wunderflats.com](https://hub.wunderflats.com/ending-a-rental-agreement-in-germany-legal-rules-for-tenants/#:~:text=must%20be%20a%20signed%2C%20paper%20letter.) (September 2025), [mietrecht.org](https://www.mietrecht.org/kuendigung/kuendigung-eines-mietvertrages-per-e-mail-fax-oder-sms/) (2013)
 [^4]: [mietrecht.de](https://www.mietrecht.de/wohnungsbesichtigung-vermieter-recht/#1-annehmbare-gr%C3%BCnde-f%C3%BCr-eine-wohnungsbesichtigung)
 [^5]: [mietrecht.de](https://www.mietrecht.de/wohnungsbesichtigung-vermieter-recht/#21-darf-der-vermieter-sich-vertreten-lassen)
-[^6]: [mietrecht.de](https://www.mietrecht.de/wohnungsbesichtigung-vermieter-recht/#4-sind-spontane-besuche-des-vermieters-gerechtfertigt)
-[^7]: [mietrecht.de](https://www.mietrecht.de/wohnungsbesichtigung-vermieter-recht/#3-sind-spontane-besuche-des-vermieters-gerechtfertigt)
-[^8]: [mietrecht.de](https://www.mietrecht.de/wohnungsbesichtigung-vermieter-recht/#20-d%C3%BCrfen-mieter-einen-termin-zur-besichtigung-der-wohnung-absagen)
+[^6]: [kanzleimauss.de](https://www.kanzleimauss.de/wohnungsbesichtigung/#:~:text=sind%20fotos%20und%20videos%20bei%20der%20besichtigung%20erlaubt%3F) (2025), [mietrechtsiegen.de](https://www.mietrechtsiegen.de/besichtigungen-waehrend-der-mietzeit/#:~:text=Fotos%20oder%20Videoaufnahmen,mit%20Zustimmung%20erlaubt.) (February 2026)
+[^7]: [mietrecht.de](https://www.mietrecht.de/wohnungsbesichtigung-vermieter-recht/#3-sind-spontane-besuche-des-vermieters-gerechtfertigt), [berliner-mieterverein.de](https://www.berliner-mieterverein.de/recht/infoblaetter/info-164-das-besichtigungsrecht-des-vermieters.htm#:~:text=mindestens%20drei%20tage%20vorher%20) (2014)
+[^8]: [mietrecht.de](https://www.mietrecht.de/wohnungsbesichtigung-vermieter-recht/#20-d%C3%BCrfen-mieter-einen-termin-zur-besichtigung-der-wohnung-absagen), [kanzleimauss.de](https://www.kanzleimauss.de/wohnungsbesichtigung/#:~:text=allerdings%20nur%2C%20wenn%20direkt%20ein%20alternativtermin%20gesucht%20wird) (2025)
 [^9]: [mietrecht.de](https://www.mietrecht.de/wohnungsbesichtigung-vermieter-recht/#13-rechte-amp-pflichten-des-mieters-bei-der-wohnungsbesichtigung)
 [^10]: [verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/digitale-welt/mobilfunk-und-festnetz/umzug-die-rechte-der-telefon-und-internetkunden-11034#:~:text=senden%20sie%20ihre%20schriftliche%20kundigung%20am%20besten%20per%20einwurfeinschreiben)
 [^11]: [dslweb.de](https://www.dslweb.de/kosten-fuer-den-dsl-umzug.php)
@@ -308,7 +285,7 @@ If you are moving to another country, see the [checklist for leaving Germany](/g
 [^27]: [berlin.de](https://service.berlin.de/dienstleistung/325649/), [berlin.de](https://www.berlin.de/special/neu-in-berlin/745345-744080-halteverbote-fuer-umzug-beantragen.html), [halteverbot-berlin24.de](https://www.halteverbot-berlin24.de/)
 [^28]: [iv-mieterschutz.de](https://www.iv-mieterschutz.de/mietrecht/kuendigung/ordentliche-kuendigung/#:~:text=mit%20einem%20zeugen%20oder%20durch%20einen%20boten) (February 2025)
 [^29]: [§ 573c Abs. 1 BGB](https://www.buzer.de/573c_BGB.htm), [§ 573c Abs. 4 BGB](https://www.buzer.de/573c_BGB.htm)
-[^30]: [promietrecht.de](https://www.promietrecht.de/Mieterkuendigung/Formelle-Regeln/schriftlich/Kuendigung-des-Mietvertrages-der-Wohnung-per-Mail-reicht-das-E1939.htm)
+[^30]: [kanzleimauss.de](https://www.kanzleimauss.de/wohnungsbesichtigung/#:~:text=Als%20angemessen%20z%C3%A4hlen,Besichtigungstermine%20pro%20Woche.) (2025)
 [^31]: [mietrecht.org](https://www.mietrecht.org/kuendigung/mietvertrag-3-monate-kuendigungsfrist-umgehen/#:~:text=einen%20Mietaufhebungsvertrag%20herbeigef%C3%BChrt-,werden,-Wollen%20die%20Parteien) (2013), [mietrecht.org](https://www.mietrecht.org/kuendigung/mietvertrag-3-monate-kuendigungsfrist-umgehen/#:~:text=der%20mieter%20dem%20vermieter%20eine%20ausgleichszahlung) (2013), [homeday.de](https://www.homeday.de/de/musterdokumente/mietaufhebungsvertrag/)
 [^32]: [mietrecht.org](https://www.mietrecht.org/kuendigung/mietvertrag-vorzeitig-kuendigen/#:~:text=ohne%20eine%20entsprechende%20vereinbarung%20im%20mietvertrag) (2013), [berliner-mieterverein.de](https://www.berliner-mieterverein.de/recht/infoblaetter/info-22-kuendigung-des-mietverhaeltnisses-durch-den-mieter-was-ist-zu-beachten-mit-tipps-und-musterschreiben.htm#:~:text=besteht%20grundsatzlich%20keine%20verpflichtung%20fur%20den%20vermieter%2C%20den%20auszugswilligen%20mieter%20aus%20dem%20vertrag%20zu%20entlassen) (2014)
 [^33]: [berliner-mieterverein.de](https://www.berliner-mieterverein.de/recht/infoblaetter/info-180-probleme-beim-auszug-aus-der-mietwohnung-kuendigung-rueckgabe-schoenheitsreparaturen-kaution-mieterinvestitionen.htm#5-Schoenheitsreparaturen)
