@@ -63,7 +63,7 @@
 	</div>
 	<template v-if="inputMoveOutDate && inputNoticeDate">
 		<hr>
-		Your notice date is {{ isNoticePeriodDelayed ? 'after' : 'before' }} the 3rd <glossary term="Werktag">working day</glossary> of {{ noticeDateMonth }}, so your <glossary term="Kündigungsfrist">notice period</glossary> starts on {{ noticePeriodStart }}. Your lease can end 3 months later, on {{ noticePeriodEnd }}.
+		Your notice date is {{ isNoticePeriodDelayed ? 'after the 3rd' : 'before the 4th' }} <glossary term="Werktag">working day</glossary> of {{ noticeDateMonth }}, so your <glossary term="Kündigungsfrist">notice period</glossary> starts on {{ noticePeriodStart }}. Your lease can end 3 months later, on {{ noticePeriodEnd }}.
 	</template>
 {% endraw %}
 </collapsible>

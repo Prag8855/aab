@@ -42,7 +42,7 @@ There are 2 ways to deliver your termination letter:
 
 **[How to mail a letter ➞](/guides/mail-a-letter)**
 
-## Let people visit your apartment
+## Allow apartment visits
 
 During the [notice period](/glossary/Kündigungsfrist), your landlord can show your apartment to other people.[^4] They must schedule visits least 2 days in advance, or 3 days if you have a job.[^7] You can refuse a scheduled visit, but you must suggest another date.[^8]
 
