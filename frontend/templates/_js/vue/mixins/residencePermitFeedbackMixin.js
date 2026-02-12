@@ -96,6 +96,7 @@ const residencePermitFeedbackMixin = {
 				A1_A5: 'A1, A5 — Syria',
 				A2_A3_A4: 'A2, A3, A4 — Asylum seekers',
 				B1_B2_B3_B4: 'B1, B2, B3, B4 — Students, workers, researchers',
+				B6: 'B6 — Business Immigration Service',
 				F1_F2: 'F1, F2 — Privileged countries',
 				M1: 'M1 — Afghanistan, Iraq, Iran',
 				M2: 'M2 — Africa, Middle East',
