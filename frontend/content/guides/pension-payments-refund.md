@@ -285,7 +285,7 @@ These businesses can help you request a refund. They will fill the forms and req
 
 The *[[Deutsche Rentenversicherung]]* can also help you fill the forms. Their email is <meinefrage@drv-bund.de>. They only answer in German. You can also [book an appointment](https://www.deutsche-rentenversicherung.de/DRV/DE/Beratung-und-Kontakt/Beratung-suchen-und-buchen/beratung-suchen-und-buchen_node.html) and visit them in person.
 
-[Germany Mantra](/out/germany-mantra) and [Pension Redemption](https://www.pension-redemption.com/) also handle pension refunds. Their fee is higher, and it's not their speciality. There is no reason to choose them.
+[Germany Mantra](/out/germany-mantra) and [Pension Redemption](https://www.pension-redemption.com/) also handle pension refunds, but their fee is higher.
 
 ## How long it takes
 
