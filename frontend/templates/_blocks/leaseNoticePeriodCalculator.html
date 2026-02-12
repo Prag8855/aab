@@ -59,7 +59,7 @@
 	<div class="form-group show-errors">
 		<label :for="uid('moveOutDate')">Move-out date</label>
 		<date-picker v-model="inputMoveOutDate" :id="uid('moveOutDate')"></date-picker>
-		<span class="input-instructions">The last day of your <glossary term="Kündigungsfrist">notice period</glossary>.</span>
+		<span class="input-instructions">When your <glossary term="Kündigungsfrist">notice period</glossary> ends, on the last day of the month.</span>
 	</div>
 	<template v-if="inputMoveOutDate && inputNoticeDate">
 		<hr>

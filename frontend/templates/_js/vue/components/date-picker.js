@@ -19,6 +19,10 @@ Vue.component('date-picker', {
 			const parsedDate = dateFromString(this.$el.value);
 			this.$emit('input', parsedDate ? isoDay(parsedDate) : '');
 		},
+		onBlur(){
+			// In case the external value has changed while the input had focus
+			this.$el.value = this.value;
+		},
 		onOutsideValueChange(){
 			// Update the field value, but not if the user is currently editing the date
 			if(document.activeElement !== this.$el){
@@ -37,6 +41,7 @@ Vue.component('date-picker', {
 		<input
 			type="date"
 			:class="{required: required}"
+			@blur="onBlur"
 			@input="onInput">
 	`,
 });
