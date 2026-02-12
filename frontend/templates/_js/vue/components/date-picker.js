@@ -6,22 +6,32 @@ Vue.component('date-picker', {
 	props: {
 		value: String,
 		required: Boolean,
+		min: String, // "YYYY-MM-DD"
+		max: String, // "YYYY-MM-DD"
 	},
-	watch: {
-		value() {
-			// Update the field value, but not if the user is currently editing the date
-			if(document.activeElement !== this.$el){
-				this.$el.value = dateFromString(this.value) ? this.value : '';
-			}
-		},
+	mounted(){
+		this.onOutsideValueChange();
 	},
 	methods: {
 		onInput(e) {
 			// Only emit the value if it's a valid date
 			// Do not rely on $el.checkValidity() because the parent element can set it to false with setCustomValidity
-			const parsedDate = dateFromString(e.target.value);
+			const parsedDate = dateFromString(this.$el.value);
 			this.$emit('input', parsedDate ? isoDay(parsedDate) : '');
 		},
+		onOutsideValueChange(){
+			// Update the field value, but not if the user is currently editing the date
+			if(document.activeElement !== this.$el){
+				this.$el.value = dateFromString(this.value) ? this.value : '';
+			}
+		}
+	},
+	watch: {
+		min() { this.onChange() },
+		max() { this.onChange() },
+		value() {
+			this.onOutsideValueChange();
+		}
 	},
 	template: `
 		<input
