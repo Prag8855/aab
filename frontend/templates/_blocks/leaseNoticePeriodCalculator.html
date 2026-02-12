@@ -4,6 +4,7 @@
 {% include '_js/vue/components/glossary.js' %}
 {% include '_js/vue/mixins/uniqueIdsMixin.js' %}
 {% include '_js/utils/date.js' %}
+{% include '_js/utils/lease.js' %}
 {% js %}
 	document.querySelectorAll('collapsible.lease-notice-period-calculator').forEach(
 		el => new Vue({
@@ -21,52 +22,26 @@
 				inputMoveOutDate: {
 					get(){
 						const noticeDate = dateFromString(this.inputNoticeDate);
-						return noticeDate ? isoDay(this.getMoveOutDate(noticeDate)) : '';
+						return noticeDate ? isoDay(getMoveOutDate(noticeDate)) : '';
 					},
 					set(dateString){
 						const moveOutDate = dateFromString(dateString);
-						this.inputNoticeDate = moveOutDate ? isoDay(this.getNoticeDate(moveOutDate)) : '';
+						this.inputNoticeDate = moveOutDate ? isoDay(getLatestNoticeDate(moveOutDate)) : '';
 					}
 				},
-			},
-			methods: {
-				isPublicHoliday(date) {
-					return {{ PUBLIC_HOLIDAYS_BY_DATE_JSON|safe }}.map(dateFromString).some(holiday =>
-						holiday.getFullYear() === date.getFullYear() &&
-						holiday.getMonth() === date.getMonth() &&
-						holiday.getDate() === date.getDate()
-					);
+				isNoticePeriodDelayed(){
+					return getLatestNoticeDate(getMoveOutDate(dateFromString(this.inputNoticeDate))) > dateFromString(this.inputNoticeDate);
 				},
-				getNthWorkingDay(year, zeroBasedMonth, n){
-					const date = new Date(year, zeroBasedMonth, 1);
-					let workingDaysFound = 0;
-					while(workingDaysFound < n){
-						date.setDate(date.getDate() + 1);
-
-						// Working days (Werktage) include Saturdays in this context
-						if(date.getDay() !== 0 && !this.isPublicHoliday(date)){
-							workingDaysFound++;
-						}
-					}
-					return date;
+				noticeDateMonth(){
+					return dateFromString(this.inputNoticeDate).toLocaleString('en-US', { month: 'long' });
 				},
-				getMoveOutDate(noticeDate) {
-					const fourthWorkingDay = this.getNthWorkingDay(noticeDate.getFullYear(), noticeDate.getMonth(), 4);
-					const monthsToAdd = noticeDate < fourthWorkingDay ? 3 : 4;
-					const moveOutDate = new Date(noticeDate); // Leave original object untouched
-					moveOutDate.setHours(0, 0, 0, 0);  // Start of the day
-					moveOutDate.setMonth(moveOutDate.getMonth() + monthsToAdd);
-					moveOutDate.setDate(0); // Last day of previous month. Jan 0 -> Dec 31
-					return moveOutDate;
+				noticePeriodStart(){
+					const latestNoticeDate = getLatestNoticeDate(dateFromString(this.inputMoveOutDate));
+					latestNoticeDate.setDate(1);
+					return latestNoticeDate.toLocaleString('en-US', { day: 'numeric', month: 'long' });
 				},
-				getNoticeDate(moveOutDate) {
-					noticeDate = new Date(moveOutDate);
-					noticeDate.setHours(0, 0, 0, 0);  // Start of the day
-					noticeDate.setDate(1); // First day of the month.
-					noticeDate.setMonth(noticeDate.getMonth() - 3); // Go back 3 months
-
-					// Third working day of the next month
-					return this.getNthWorkingDay(noticeDate.getFullYear(), noticeDate.getMonth(), 3);
+				noticePeriodEnd(){
+					return formatLongDate(dateFromString(this.inputMoveOutDate));
 				},
 			},
 		})
@@ -79,10 +54,16 @@
 	<div class="form-group show-errors">
 		<label :for="uid('noticeDate')">Notice date</label>
 		<date-picker v-model="inputNoticeDate" :id="uid('noticeDate')"></date-picker>
+		<span class="input-instructions">When your landlord receives your <glossary term="Kündigungsschreiben">termination letter</glossary>.</span>
 	</div>
 	<div class="form-group show-errors">
 		<label :for="uid('moveOutDate')">Move-out date</label>
 		<date-picker v-model="inputMoveOutDate" :id="uid('moveOutDate')"></date-picker>
+		<span class="input-instructions">The last day of your <glossary term="Kündigungsfrist">notice period</glossary>.</span>
 	</div>
+	<template v-if="inputMoveOutDate && inputNoticeDate">
+		<hr>
+		Your notice date is {{ isNoticePeriodDelayed ? 'after the 3rd' : 'before the 4th' }} <glossary term="Werktag">working day</glossary> of {{ noticeDateMonth }}, so your <glossary term="Kündigungsfrist">notice period</glossary> starts on {{ noticePeriodStart }}. Your lease can end 3 months later, on {{ noticePeriodEnd }}.
+	</template>
 {% endraw %}
 </collapsible>

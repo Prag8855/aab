@@ -8,7 +8,7 @@ function dateFromString(str) {
 	return null;
 }
 
-function formatDate(date, locale){
+function formatDate(date, locale){  // "01/23/2025" or "23.01.2025"
 	if(date) {
 		const dateObj = (date instanceof Date) ? date : dateFromString(date);
 		return dateObj.toLocaleDateString(locale, {
@@ -20,14 +20,14 @@ function formatDate(date, locale){
 	return '';
 }
 
-function formatLongDate(date, includeSameYear=false){
+function formatLongDate(date, locale="en-US", includeSameYear=false){  // "January 23, 2025"
 	if(date) {
 		const dateObj = (date instanceof Date) ? date : dateFromString(date);
 		const yearParam = {};
 		if(includeSameYear || dateObj.getFullYear() !== new Date().getFullYear()){
 			yearParam.year = 'numeric';
 		}
-		return dateObj.toLocaleDateString("en-US", {
+		return dateObj.toLocaleDateString(locale, {
 			...yearParam,
 			month: 'long',
 			day: 'numeric',

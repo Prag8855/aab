@@ -195,7 +195,7 @@ $width-main-column: 860px;
 
     // Specific element sizes
     --b-radius: var(--s);
-    --f-footnote: 0.65rem;
+    --f-footnote: 0.55rem;
     --h-header: var(--xxxl);
     --h-icon-l: 3rem;
     --w-checkbox: var(--l);
@@ -1167,7 +1167,7 @@ sup, sub{
     font-size: var(--f-footnote);
     line-height: 0;
     position: relative;
-    top: -0.6em;
+    top: -0.75em;
     vertical-align: baseline;
     white-space: nowrap;
 }
