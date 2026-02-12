@@ -1,26 +1,38 @@
 ---
 Title: What's new in March 2026
-Description: 
+Description: Open source, new tools, Apotheke nonsense, and one step forward, two steps back at the immigration office.
 Date_created: 2026-03-01
 ---
 
+## What's new in Berlin
+
+### Digital freelance visa
+
+The Berlin immigration office has digitalized the freelance visa application process. Instead of dumping your documents into a general mailbox, your application now goes into a proper application tracking system.
+
+This should help reduce the wait times and prevent applications from falling in the cracks. It has worked well for the Blue Card and the work visa. These digital forms are not perfect, but they are a step forward.
+
+### Residence permit downgrade
+
+There have been a few reports of people getting a residence permit sticker in their passport, instead of a plastic card. The reason? Budget problems. Issuing residence permit stickers is [unlawful](https://de.wikipedia.org/wiki/Verordnung_(EG)_Nr._1030/2002_(Einheitlicher_Aufenthaltstitel)), and it creates serious problems for immigrants, as they often need a plastic residence card to open a bank account and access digital government services.
+
+## What's new on All About Berlin
+
 ### Open source
 
-I have made all of All About Berlin's code and content public.
+All About Berlin is now source-available. The content, templates and backend are [available on GitHub](https://github.com/All-About-Berlin/aab). I hope that this will encourage others to contribute to the website.
 
-The static site generator and my Anmeldung appointment finder have already been online for a few years. Now the entire website is.
+I had wanted to do this for a long time, but I did not want to compete with unauthorised copies of my own work. This has happened anyway with ChatGPT and Google AI Overviews, so I have decided to make the code public.
 
-Open source is the default, but for many years, I was afraid that people would steal my code and content, and capture the value of my hard work.
+### New tools
 
-Now that Google, OpenAI and Anthropic are doing exactly that, I have nothing to lose.
-
-I hope that this will encourage other people to contribute to the website.
+To make it easier to end your lease, I created a [lease notice period calculator](/guides/moving-out#calculate-your-notice-period) and a [termination letter generator](/guides/moving-out#send-a-termination-letter).
 
 ### Public holidays
 
-I rewrote my guide on public holidays. I clarify who gets a paid day off.
+I rewrote my [public holidays guide](/guides/public-holidays). It automatically calculates and shows public holidays for the next 3 years. It even shows which public holidays fall on a weekend.
 
-Now, I automatically calculate the public holidays for the next 3 years, and display them in a nice list. It even shows which days fall on a weekend.
+## What I learned this month
 
 ### The weird thing with Apotheken
 
