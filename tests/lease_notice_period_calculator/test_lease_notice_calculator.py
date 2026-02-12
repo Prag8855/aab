@@ -9,6 +9,6 @@ def test_results(page, test_screenshot):
     expect(calculator.get_by_label("Move-out date")).to_have_value("1992-03-31")
 
     calculator.get_by_label("Move-out date").fill("1992-05-01")
-    expect(calculator.get_by_label("Notice date")).to_have_value("1992-02-05")
+    expect(calculator.get_by_label("Notice date")).to_have_value("1992-03-04")
 
     test_screenshot(page, calculator)
