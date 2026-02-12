@@ -56,7 +56,7 @@ You do not need to...
 
 ## Cancel or move your contracts
 
-Your internet, telephone and insurance contracts don't end because you move. You must cancel them. There is usually a [notice period](/glossary/Kündigungsfrist) of 1 to 3 months. You can cancel contracts on the company's website, or in writing.[^10] Use [aboalarm](https://www.aboalarm.de/) to write the [termination letter](/glossary/Kündigungsschreiben).
+When you move, you can sometimes cancel your phone, internet, electricity and gas contracts. There is usually a [notice period](/glossary/Kündigungsfrist) of 1 to 3 months.
 
 ### If you stay in Germany
 
@@ -265,7 +265,6 @@ If you are moving to another country, see the [checklist for leaving Germany](/g
 [^7]: [mietrecht.de](https://www.mietrecht.de/wohnungsbesichtigung-vermieter-recht/#3-sind-spontane-besuche-des-vermieters-gerechtfertigt), [berliner-mieterverein.de](https://www.berliner-mieterverein.de/recht/infoblaetter/info-164-das-besichtigungsrecht-des-vermieters.htm#:~:text=mindestens%20drei%20tage%20vorher%20) (2014)
 [^8]: [mietrecht.de](https://www.mietrecht.de/wohnungsbesichtigung-vermieter-recht/#20-d%C3%BCrfen-mieter-einen-termin-zur-besichtigung-der-wohnung-absagen), [kanzleimauss.de](https://www.kanzleimauss.de/wohnungsbesichtigung/#:~:text=allerdings%20nur%2C%20wenn%20direkt%20ein%20alternativtermin%20gesucht%20wird) (2025)
 [^9]: [mietrecht.de](https://www.mietrecht.de/wohnungsbesichtigung-vermieter-recht/#13-rechte-amp-pflichten-des-mieters-bei-der-wohnungsbesichtigung)
-[^10]: [verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/digitale-welt/mobilfunk-und-festnetz/umzug-die-rechte-der-telefon-und-internetkunden-11034#:~:text=senden%20sie%20ihre%20schriftliche%20kundigung%20am%20besten%20per%20einwurfeinschreiben)
 [^11]: [dslweb.de](https://www.dslweb.de/kosten-fuer-den-dsl-umzug.php)
 [^12]: [verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/digitale-welt/mobilfunk-und-festnetz/umzug-die-rechte-der-telefon-und-internetkunden-11034#:~:text=auch%20wenn%20sie%20in%20eine%20wohnung%20ziehen%2C%20in%20der%20schon%20jemand%20wohnt)
 [^13]: [verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/digitale-welt/mobilfunk-und-festnetz/umzug-die-rechte-der-telefon-und-internetkunden-11034#:~:text=nur%20wenn%20sich%20die%20ortsvorwahl%20nicht%20andert%2C%20konnen%20sie%20die%20alte%20telefonnummer%20mitnehmen)
