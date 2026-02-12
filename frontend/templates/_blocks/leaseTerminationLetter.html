@@ -25,7 +25,6 @@
 				return {
 					people: [],
 					address: '',
-					futureAddress: '',
 					fullName: userDefaults.empty,  // Just used to load the name from userdefaults
 					recipientGender: 'man',
 					recipientFirstName: '',
@@ -37,7 +36,7 @@
 					landlordCompanyName: '',
 					currentDate: new Date(),
 					customMoveOutDate: false,
-					moveOutDate: '',
+					desiredMoveOutDate: '',  // YYYY-MM-DD string
 				};
 			},
 			mounted() {
@@ -64,16 +63,18 @@
 					return getMoveOutDate(new Date());
 				},
 				maximumNoticeDate(){
-					const noticeDate = getLatestNoticeDate(dateFromString(this.moveOutDate) || this.minimumMoveOutDate);
+					const noticeDate = getLatestNoticeDate(dateFromString(this.desiredMoveOutDate) || this.minimumMoveOutDate);
 					// Add one day, because it must be delivered "before the 4th workday". February 4 -> "Before February 5"
 					noticeDate.setDate(noticeDate.getDate() + 1);
-
-					console.log(dateFromString(this.moveOutDate) || this.minimumMoveOutDate, noticeDate)
 					return noticeDate;
 				},
-				isMoveOutDateValid(){
+				isDesiredMoveOutDateValid(){
 					return new Date() < this.maximumNoticeDate;
 				},
+				effectiveMoveOutDate(){
+					// Leases end on the last day of the month
+					return this.isDesiredMoveOutDateValid && getMoveOutDate(this.maximumNoticeDate);
+				}
 			},
 			methods: {
 				addPerson(){
@@ -85,19 +86,12 @@
 				formatName,
 				formatSalutations,
 				formatLongDate,
+				isoDay,
 			},
 			watch: {
-				isMoveOutDateValid(isValid) {
-					this.$refs.moveOutDateInput.$el.setCustomValidity(isValid ? '' : "This move-out date is too early.");
+				isDesiredMoveOutDateValid(isValid) {
+					this.$refs.desiredMoveOutDateInput.$el.setCustomValidity(isValid ? '' : "This move-out date is too early.");
 				},
-				moveOutDate(){
-					console.log(
-						`moveOutDate: ${this.moveOutDate}\n`
-						+ `maximumNoticeDate: ${this.maximumNoticeDate}\n`
-						+ `minimumMoveOutDate: ${this.minimumMoveOutDate}\n`
-						+ `isMoveOutDateValid: ${this.isMoveOutDateValid}\n`
-					)
-				}
 			}
 		})
 	);
@@ -150,9 +144,9 @@
 		<p v-text="formatSalutations(recipientGender, recipientFirstName, recipientLastName, language)"></p>
 
 		<p v-if="language === 'en'">
-			I hereby terminate the rental agreement for above-mentioned apartment
+			I hereby terminate the rental agreement for the above-mentioned apartment
 			<template v-if="customMoveOutDate">
-				effective <blank :key="uid('moveOutDateBlankEn')" placeholder="Move-out date">{{ formatLongDate(moveOutDate, "en-US", true) }}</blank>.
+				effective <blank :key="uid('desiredMoveOutDateBlankEn')" placeholder="Move-out date">{{ formatLongDate(desiredMoveOutDate, "en-US", true) }}</blank>.
 			</template>
 			<template v-else>
 				at the earliest possible date.
@@ -161,7 +155,7 @@
 		<p v-if="language === 'de'">
 			hiermit kündige ich den Mietvertrag für die oben genannte Wohnung
 			<template v-if="customMoveOutDate">
-				unter Einhaltung der gesetzlichen Kündigungsfrist zum <blank :key="uid('moveOutDateBlankDe')" placeholder="Move-out date">{{ formatLongDate(moveOutDate, "de-DE", true) }}</blank>.
+				unter Einhaltung der gesetzlichen Kündigungsfrist zum <blank :key="uid('desiredMoveOutDateBlankDe')" placeholder="Move-out date">{{ formatLongDate(desiredMoveOutDate, "de-DE", true) }}</blank>.
 			</template>
 			<template v-else>
 				zum nächstmöglichen Termin.
@@ -188,13 +182,6 @@
 			Bitte bestätigen Sie den Erhalt dieser Kündigung und das Datum des Inkrafttretens der Kündigung schriftlich.
 		</p>
 
-		<p v-if="futureAddress && language === 'en'">
-			In the future, you can reach {{ en.us }} at the following address: {{ futureAddress }}
-		</p>
-		<p v-if="futureAddress && language === 'de'">
-			In Zukunft erreichen Sie {{ de.uns }} unter folgender Adresse: {{ futureAddress }}
-		</p>
-
 		<p v-if="language === 'en'">
 			Best regards,<br>
 			<blank :key="uid('fullNameBlankEn')" placeholder="Your full name">{{ people[0]?.fullName }}</blank>
@@ -208,6 +195,8 @@
 			class="signature"
 			v-if="stage === 'printPreview'"
 			v-text="person.fullName"></p>
+
+		<p class="signature" v-if="stage === 'printPreview'">Vermieter</p>
 	</template>
 
 	<template v-slot:form="{ language }">
@@ -217,7 +206,7 @@
 			<span class="input-instructions">The address of the apartment you are leaving</span>
 		</div>
 		<div class="form-group show-errors">
-			<label :for="uid('moveOutDate') + '-day'">Move-out date</label>
+			<label :for="uid('desiredMoveOutDate') + '-day'">Move-out date</label>
 			<tabs
 				aria-label="Move-out date"
 				v-model="customMoveOutDate"
@@ -226,18 +215,23 @@
 				required>
 			</tabs>
 			<date-picker
-				ref="moveOutDateInput"
+				ref="desiredMoveOutDateInput"
+				:min="isoDay(currentDate)"
 				v-if="customMoveOutDate"
-				v-model="moveOutDate"
-				:id="uid('moveOutDate')"></date-picker>
-			<span class="input-instructions" v-if="moveOutDate && isMoveOutDateValid">
-				Deliver this letter before {{ formatLongDate(maximumNoticeDate) }} to move out on {{ formatLongDate(moveOutDate) }}.
+				v-model="desiredMoveOutDate"
+				:id="uid('desiredMoveOutDate')"></date-picker>
+
+			<span class="input-instructions" v-if="desiredMoveOutDate && isDesiredMoveOutDateValid">
+				<template v-if="effectiveMoveOutDate !== desiredMoveOutDate">
+					Leases usually end on the last day of the month.
+				</template>
+				Deliver this letter before {{ formatLongDate(maximumNoticeDate) }} to move out on {{ formatLongDate(effectiveMoveOutDate) }}.
 			</span>
-			<span class="input-instructions error" v-if="moveOutDate && !isMoveOutDateValid">
-				The earliest move-out date is {{ formatLongDate(minimumMoveOutDate) }}. Try <a target="_blank" href="/guides/moving-out#end-your-lease-sooner">negotiating an earlier date</a>.
+			<span class="input-instructions error" v-if="desiredMoveOutDate && !isDesiredMoveOutDateValid">
+				The earliest move-out date is {{ formatLongDate(minimumMoveOutDate) }}. Ask your landlord if you can end your lease sooner.
 			</span>
 			</span>
-			<span class="input-instructions" v-if="!moveOutDate">
+			<span class="input-instructions" v-if="!desiredMoveOutDate">
 				Deliver this letter before {{ formatLongDate(maximumNoticeDate) }} to move out on {{ formatLongDate(minimumMoveOutDate) }}.
 			</span>
 		</div>
