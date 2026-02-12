@@ -1,10 +1,12 @@
 {% extends "tests/component/index.html.jinja" %}
 {% include '_js/vue/components/age-input.js' %}
+{% include '_js/vue/components/address-input.js' %}
 {% include '_js/vue/components/checkbox.js' %}
 {% include '_js/vue/components/children-input.js' %}
 {% include '_js/vue/components/city-input.js' %}
 {% include '_js/vue/components/country-input.js' %}
 {% include '_js/vue/components/date-input.js' %}
+{% include '_js/vue/components/date-picker.js' %}
 {% include '_js/vue/components/email-input.js' %}
 {% include '_js/vue/components/first-name-input.js' %}
 {% include '_js/vue/components/full-name-input.js' %}
@@ -28,6 +30,14 @@
 {% endjs %}
 
 {% block component %}
+	<div class="form-group">
+		<label>Address</label>
+		<address-input></address-input>
+		<address-input value="Pasewalker Str. 65"></address-input>
+		<address-input required></address-input>
+		<address-input disabled value="Pasewalker Str. 65"></address-input>
+	</div>
+
 	<div class="form-group">
 		<label>Age</label>
 		<age-input></age-input>
@@ -89,11 +99,19 @@
 	</div>
 
 	<div class="form-group">
-		<label>Date</label>
+		<label>Date input</label>
 		<date-input></date-input>
 		<date-input value="2025-01-02"></date-input>
 		<date-input required></date-input>
 		<date-input disabled value="2025-01-02"></date-input>
+	</div>
+
+	<div class="form-group">
+		<label>Date picker</label>
+		<date-picker></date-picker>
+		<date-picker value="2025-01-02"></date-picker>
+		<date-picker required></date-picker>
+		<date-picker disabled value="2025-01-02"></date-picker>
 	</div>
 
 	<div class="form-group">
