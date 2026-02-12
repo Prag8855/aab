@@ -13,7 +13,7 @@
 {% include '_js/vue/components/income-input.js' %}
 {% include '_js/vue/components/last-name-input.js' %}
 {% include '_js/vue/components/letter-generator.js' %}
-{% include '_js/vue/components/radio.js' %}
+{% include '_js/vue/components/tabs.js' %}
 {% include '_js/vue/mixins/uniqueIdsMixin.js' %}
 {% include '_js/vue/mixins/userDefaultsMixin.js' %}
 {% js %}
@@ -79,18 +79,17 @@
 			<blank placeholder="your address">{{ newAddress.replaceAll('\n', ', ') }}</blank>
 		</span>
 
-		<template v-if="recipientCompanyName">
+		<blank placeholder="Housing company name" v-if="recipientType === 'company'" :key="uid('landlordCompanyNameBlank')">
 			{{ recipientCompanyName }}
-		</template>
-		<template v-else-if="formatName(recipientGender, recipientFirstName, recipientLastName, language)">
+		</blank>
+		<blank placeholder="Landlord's name" v-if="recipientType === 'private'" :key="uid('landlordNameBlank')">
 			{{ formatName(recipientGender, recipientFirstName, recipientLastName, language) }}
-		</template>
-		<blank v-else :key="uid('landlordNameBlank')" placeholder="Landlord's name"></blank>
+		</blank>
 
 		<br>
-
-		<span v-if="recipientAddress.trim()" v-html="recipientAddress.replaceAll('\n', '<br>')"></span>
-		<blank v-else :key="uid('landlordAddressBlank')" placeholder="Landlord's address"></blank>
+		<blank :placeholder="recipientType === 'company' ? 'Housing company address' : 'Landlord\'s address'" :key="uid('recipientAddressBlank')">
+			<span v-if="recipientAddress" v-html="recipientAddress.replaceAll('\n', '<br>')"></span>
+		</blank>
 	</template>
 
 	<template v-slot:letter-details="{ language, stage }">
@@ -258,12 +257,13 @@
 		<hr>
 		<div class="form-group">
 			<span class="label">Landlord type</span>
-			<radio v-model="recipientType" value="company">
-				Housing company
-			</radio>
-			<radio v-model="recipientType" value="private">
-				Private landlord
-			</radio>
+			<tabs
+				aria-label="Landlord type"
+				v-model="recipientType"
+				:id="uid('recipientType')"
+				:options="[{label: 'Housing company', value: 'company'}, {label: 'Private landlord', value: 'private'}]"
+				required>
+			</tabs>
 		</div>
 		<div class="form-group" v-if="recipientType == 'company'">
 			<label :for="uid('recipientCompanyName')">Company name</label>
@@ -290,13 +290,12 @@
 		</div>
 		<div class="form-group">
 			<label :for="uid('recipientAddress')">Address</label>
-			<textarea
+			<address-input
 				:id="uid('recipientAddress')"
 				v-model="recipientAddress"
-				class="address-input"
-				autocomplete="off"
 				placeholder="Vermieterstraße 123&#10;12345 Berlin"
-				required></textarea>
+				autocomplete="off"
+				required></address-input>
 		</div>
 		<div class="form-group">
 			<label>Time to respond</label>
