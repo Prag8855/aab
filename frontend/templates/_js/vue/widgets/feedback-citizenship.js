@@ -241,7 +241,7 @@ Vue.component('feedback-citizenship', {
 				<p>If this tool helped you, consider <a href="/donate" target="_blank" title="Donate to All About Berlin">donating €10</a> to support my work.</p>
 			</template>
 			<template v-if="stage === 'error'">
-				<p><strong>An error occured.</strong> If this keeps happening, <a target="_blank" href="/contact">contact me</a>.</p>
+				<p><strong>An error occurred.</strong> If this keeps happening, <a target="_blank" href="/contact">contact me</a>.</p>
 			</template>
 			<template v-if="showRestOfForm && stage !== 'finish'">
 				<hr>
